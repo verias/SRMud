@@ -235,6 +235,29 @@ typedef void ROOM_FUN	args( ( ROOM_INDEX_DATA *room, char *argument ) );
 #define NORMAL		0		/* Bright/Normal colours */
 #define BRIGHT		1
 
+/*Xterm  color codes */
+				/*greyscale*/
+#define GS_01    "\033[38;5;231m"
+#define GS_02    "\033[38;5;253m";
+#define GS_03    "\033[38;5;250m"
+#define GS_04    "\033[38;5;145m"
+#define GS_05    "\033[38;5;247m"
+#define GS_06    "\033[38;5;245m"
+#define GS_07    "\033[38;5;243m"
+#define GS_08    "\033[38;5;241m"
+#define GS_09    "\033[38;5;239m"
+
+#define XC_G1    "\033[38;5;47m"
+#define XC_G2    "\033[38;5;113m"
+#define XC_G3    "\033[38;5;119m"
+#define XC_G4    "\033[38;5;154m"
+#define XC_G5    "\033[38;5;112m"
+#define XC_G6    "\033[38;5;118m"
+#define XC_G7    "\033[38;5;46m"
+#define XC_G8    "\033[38;5;40m"
+#define XC_G9    "\033[38;5;22m"
+
+
 #define ALTER_COLOUR( type )	if( !str_prefix( argument, "red" ) )		\
 				{						\
 				    ch->pcdata->type[0] = NORMAL;		\
@@ -345,6 +368,7 @@ typedef void ROOM_FUN	args( ( ROOM_INDEX_DATA *room, char *argument ) );
 				}
 
 
+				
 /*
  * Site ban structure.
  */
