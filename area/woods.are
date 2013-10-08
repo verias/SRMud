@@ -1,0 +1,187 @@
+#AREADATA
+Name Woodlands~
+Builders Drahil Verias~
+VNUMs 751 899
+Credits Drahil~
+Security 9
+End
+
+
+
+#MOBILES
+#800
+soul newbie forgotten~
+{ws{mou{wl of a forgotten {CN{ce{Cw{cb{Ci{ce{x~
+{wthe s{mou{wl of a forgotten {CN{ce{Cw{cb{Ci{ce {wwanders aimlessly{c.{x
+~
+~
+school monster~
+ABU Z 0 0
+3 6 5d1+0 11d10+85 1d4+0 scratch
+10 10 10 10
+F AB 0 C
+stand stand male 125
+MV 0 medium unknown
+F for A
+F par ABCDEFHJKQU
+#801
+prowler dungeon newbie~
+{wa {RD{ru{Rn{rg{Re{ro{Rn {mpr{Mo{mwl{Me{mr{x~
+{wa {RD{ru{Rn{rg{Re{ro{Rn {mpr{Mo{mwl{Me{mr {whides in the sh{Wa{wd{Wo{wws{c.{x
+~
+~
+school monster~
+ABU I 0 0
+7 0 9d1+0 0d0+0 1d6+0 digestion
+10 10 10 10
+0 AB 0 C
+stand stand male 175
+AMV ABCDEFHJKQU medium unknown
+#802
+dungeon defender~
+{wa {RD{ru{Rn{rg{Re{ro{Rn {mD{Me{mf{Me{mnd{Me{mr{x~
+{wA {RD{ru{Rn{rg{Re{ro{Rn {mD{Me{mf{Me{mnd{Me{mr {wstands guard{c.{x
+~
+~
+human~
+ABF IZ 0 0
+7 0 10d1+1 0d0+0 1d5+1 pierce
+10 10 10 10
+0 AB 0 0
+stand stand male 200
+V ABCDEFGHIJK medium unknown
+F for AHM
+#803
+judge~
+{mD{Me{mc{Mi{md{Me{mr {wof {RJ{rudegemen{Rt{x~
+{wThe {mD{Me{mc{Mi{md{Me{mr {wof {RJ{rudegemen{Rt {wstands waiting to examine your progress{c.{x
+~
+~
+human~
+AB CDEFGHIJZc 0 0
+99 99 199d33+1999 99d10+85 33d3+54 none
+-57 -57 -57 -36
+0 AB 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#751
+{wEdge of the {gF{Go{gr{Ge{gs{Gt{x~
+At the edge of the forest, the trees cast a shade over the ground,
+foliage of various forms and sizes grow unimpeded all around.  Small animals
+and insects can be heard scurrying about the undergrowth and within the
+trees.  A gentle wind sweeps through bringing the scent of life and growth
+along.  A trail well worn by its use over the years cuts through the forest
+leading off towards the horizon.  
+~
+0 4 0
+D1
+~
+~
+~
+0 0 752
+S
+#752
+{gF{Go{gr{Ge{gs{Gt {wpath{s~
+A trail snakes through the woods towards the east.  The trees cast a
+shadow over the majority of the trail.  Rays of light can be seen ever so
+often peeking through the canopy.  Along the trail roots from some of the
+timber scretches out, weaving in and out through the ground.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 753
+D3
+~
+~
+~
+0 0 751
+S
+#753
+~
+A trail snakes through the woods towards the east.  The trees cast a
+shadow over the majority of the trail.  Rays of light can be seen ever so
+often peeking through the canopy.  Along the trail roots from some of the
+timber scretches out, weaving in and out through the ground.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 754
+D3
+~
+~
+~
+0 0 752
+S
+#754
+~
+345634634634{r232352343246
+~
+0 0 0
+D0
+~
+~
+~
+0 0 755
+D3
+~
+~
+~
+0 0 753
+S
+#755
+~
+~
+0 0 0
+D2
+~
+~
+~
+0 0 754
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,221 @@
+#PLAYER
+Name Amadizie~
+Id   1381176412
+Incr 1
+LogO 1381193327
+Vers 5
+ShD  A short, petite {Melf{x with green eyes and brown hair~
+Desc she is very diztzie.
+~
+Prom <{C%r {Y%e{x>%c<{R%h{x/{C%Hhp{x {R%m{x/{C%Mm {M%vmv{x>%c<{Y%Xexp %g{yg {W%s{ws{x>%c>> ~
+Race elf~
+Etrait 3
+Htrait 5
+Height 1
+Weight 2
+BirthD 3
+BirthM 11
+BirthY 373
+Sex  1
+Cla  1
+Levl 99
+Blood			0
+Disc			0
+Auspex		0
+Celerity		0
+Domination	0
+Fortitude 	0
+Obfuscate		0
+Potence		0
+Presence		0
+Protean		0
+Quietus		0
+Sec  9
+Known Verias
+Plyd 15414
+Not  0 0 0 0 0
+Scro 22
+Room 705
+HMV  1103 1103 312 312 688 688
+Quest_Curr    0
+Quest_Accum  0
+Gold 0
+Silv 0
+Bgold 0
+Bsilv 0
+Exp  99000
+Act  DEFGNQT
+AfBy J
+Comm NO
+Pos  8
+Prac 100
+Trai 84
+Alig  0
+ACs 100 100 100 100
+Attr 12 14 13 15 11
+AMod 0 0 0 0 0
+Pass malkavian~
+Titl  in spades.~
+Pretit ~
+Pnts 5
+TSex 1
+LLev 2
+HMVP 1103 312 688
+Cnd  0 36 42 42 0 36
+Sk 1 'blindness'
+Sk 1 'change sex'
+Sk 1 'cure critical'
+Sk 1 'cure light'
+Sk 1 'cure serious'
+Sk 1 'curse'
+Sk 1 'energy drain'
+Sk 1 'fly'
+Sk 1 'gate'
+Sk 75 'heal'
+Sk 1 'mass healing'
+Sk 1 'nexus'
+Sk 1 'pass door'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'portal'
+Sk 1 'refresh'
+Sk 100 'resurrect'
+Sk 1 'slow'
+Sk 1 'summon'
+Sk 1 'teleport'
+Sk 1 'weaken'
+Sk 1 'word of recall'
+Sk 1 'sword'
+Sk 1 'second attack'
+Sk 1 'hide'
+Sk 1 'meditation'
+Sk 1 'sneak'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'healing'
+Gr 'maladictions'
+Gr 'transportation'
+Chink 'token' -1
+Chink 'test' -1
+Chink 'pwipe' -1
+Chink 'revoke' -1
+Chink 'grant' -1
+Chink 'violate' -1
+Chink 'trust' -1
+Chink 'dump' -1
+Chink 'copyover' -1
+Chink 'advance' -1
+Chink 'rset' -1
+Chink 'oset' -1
+Chink 'mset' -1
+Chink 'sset' -1
+Chink 'gstat' -1
+Chink 'log' -1
+Chink 'shutdown' -1
+Chink 'shutdow' -1
+Chink 'reboot' -1
+Chink 'reboo' -1
+Chink 'protect' -1
+Chink 'permban' -1
+Chink 'deny' -1
+Chink 'wizlock' -1
+Chink 'set' -1
+Chink 'ban' -1
+Chink 'allow' -1
+Chink 'slay' -1
+Chink 'sla' -1
+Chink 'pardon' -1
+Chink 'disconnect' -1
+Chink 'zecho' -1
+Chink 'vnum' -1
+Chink 'gecho' -1
+Chink 'restore' -1
+Chink 'purge' -1
+Chink 'pecho' -1
+Chink 'newlock' -1
+Chink 'load' -1
+Chink 'freeze' -1
+Chink 'flag' -1
+Chink 'clanadd' -1
+Chink 'sockets' -1
+Chink 'clone' -1
+Chink 'string' -1
+Chink 'snoop' -1
+Chink 'peace' -1
+Chink 'teleport' -1
+Chink 'notell' -1
+Chink 'noshout' -1
+Chink 'noemote' -1
+Chink 'nochannels' -1
+Chink 'rpedit' -1
+Chink 'opedit' -1
+Chink 'switch' -1
+Chink 'return' -1
+Chink 'echo' -1
+Chink 'at' -1
+Chink 'penalty' -1
+Chink 'force' -1
+Chink 'cledit' -1
+Chink 'rpstat' -1
+Chink 'rpdump' -1
+Chink 'opstat' -1
+Chink 'opdump' -1
+Chink 'hedit' -1
+Chink 'mpedit' -1
+Chink 'oedit' -1
+Chink 'aedit' -1
+Chink 'medit' -1
+Chink 'redit' -1
+Chink 'resets' -1
+Chink 'alist' -1
+Chink 'asave' -1
+Chink 'edit' -1
+Chink 'mpstat' -1
+Chink 'mpdump' -1
+Chink 'prefix' -1
+Chink 'prefi' -1
+Chink 'smote' -1
+Chink 'imotd' -1
+Chink 'immtalk' -1
+Chink 'wiznet' -1
+Chink 'orgedit' -1
+Chink 'makegod' -1
+Chink 'stat' -1
+Chink 'owhere' -1
+Chink 'mwhere' -1
+Chink 'memory' -1
+Chink 'ifollow' -1
+Chink 'invis' -1
+Chink 'incognito' -1
+Chink 'holylight' -1
+Chink 'poofout' -1
+Chink 'poofin' -1
+Chink 'mload' -1
+Chink 'oload' -1
+Chink 'leader' -1
+Chink 'sedit' -1
+Chink 'spellstat' -1
+Chink 'skillstat' -1
+Chink 'fvlist' -1
+Chink 'avatar' -1
+Chink 'iclan' -1
+Chink 'allclan' -1
+Chink 'divorce' -1
+Chink 'marry' -1
+Chink 'save_clans' -1
+Chink 'wizhelp' -1
+Chink 'goto' -1
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+End
+
+#END

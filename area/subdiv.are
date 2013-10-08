@@ -1,0 +1,68 @@
+#AREADATA
+Name Subdivision~
+Builders None~
+VNUMs 11800 11899
+Credits Verias Subdivisions~
+Security 9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#11800
+aquarium turtle~
+an aquarium with a little turtle in it~
+A little aquarium with a small turtle in it sits here.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#11800
+Verias's Home~
+This is a beatu
+~
+0 2097164 0
+O Verias~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 11800 0 11800
+O 0 11800 0 11800
+O 0 11800 0 11800
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

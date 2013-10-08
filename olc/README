@@ -1,0 +1,86 @@
+
+	To make this thing work :
+
+	1) Get Rom24b6.tar.gz from Russ Taylor's homepage...this won't
+	   work on any other version. I REPEAT, THIS WON'T WORK
+	   WITH ANY OTHER VERSION.
+
+	2) Uncompress it, and copy patch.olc into Rom24/src .
+
+	3) cd to Rom24/src, and do a 'patch < patch.olc' .
+
+	4) Copy all the .c and .h files from this distribution to
+	   Rom24/src .
+
+	4) Now do a 'make', READ THE ROM FAQ and pray :)
+	   Ignore any warnings.
+
+	5) Copy olc.hlp to the Rom24/area directory and add the dummy
+	   object that's in the file limbo.are in this distribution
+	   to the limbo.are that comes with Rom24.
+	
+	6) Create two directories : Rom24/data and Rom24/data/progs.
+	   (mkdir Rom24/data && mkdir Rom24/data/progs)
+
+	7) Run the mud. It should NOT coredump.
+	   Edit the Makefile and remove -DFIRST_BOOT.
+
+	8) Delete your .o files (rm *.o) and recompile.
+
+	9) Load the mud, create a character and quit.
+
+	10) Find this line in your pfile : (Rom24/player/your-name)
+
+	   Sec 0
+
+	   And replace it with:
+
+	   Sec 9
+
+	   This will set your security to the highest possible.
+	   Set your level to 60 too.
+
+        10) Now, just get into the mud again and enjoy a not-so-buggy OLC :)
+
+	Try these commands:
+	olcx			// enable OLC Vt100 extensions (buggy)
+	redit			// edit rooms
+	medit 3011		// edit Hassan
+	oedit 3001		// Modify obj 3001
+	skedit armor		// edit armor spell
+	etc...
+
+	Check the command.h file.
+
+	If you use this you MUST send me a postcard. (well, you don't
+	have to, but it will make me happy :). I've put a lot of effort
+	on this, and I think I deserve a postcard at least :D
+
+	(16/3/2000) Well, noone sent me anything. Argh.
+
+	Most of the new editors are hacks of Erwin's excellent
+	social editor (I think the URL is http://www.andreasen.org)
+
+	This works almost perfectly in my linux box at home so you
+	should not have any problems compiling it. Sorry for the
+	(nonexistant) helpfiles but I hate writing in english.
+	If you have any problems, comments, or advise,
+	just mail me :)
+	Don't mail the ROM list with any problems related with
+	compiling this, mail me instead. I'll try to help.
+	Don't ask me for english translations of some of the messages
+	that you'll find in the code, ask anyone else (learn spanish!).
+
+	Check the NEW OLC-FAQ :D
+
+	And, of course, read the ROM FAQ!
+
+							Ivan
+
+	e-mail :  itoledo.geo@yahoo.com
+
+	My home address:	Alessandri 1075
+				Coquimbo
+				Chile
+
+RTFM, RTFM...and remember to send that postcard :D

@@ -1,0 +1,16 @@
+Name Dechaoton~
+File dechao.org~
+Patron Drahil~
+Gold 0
+City 0
+Clan 0
+Guild 1
+Ranks
+Initiate~
+Priest~
+Defender~
+Guardian~
+Protector~
+Champion~
+The Divine~
+$

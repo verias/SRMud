@@ -1,0 +1,87 @@
+Put in Religous Orders and finish up guild/city coding.
+Finish porting Sedit to OLC command interface.
+Fix Hedit as well.
+Put in bloodlining system.
+Port to Singular currency system.
+Fix xp_compute to cover more properly for difficult mobs
+Finish tracking system.
+Move vampires to an afflcition instead of race
+Player owned homes.
+combat spell review and revamp
+stat rolling system at creation
+finish class editor and class system
+finish race editor and system
+fishing code
+spell and skill limitations
+multiclassing
+skill group levels
+tattoos and tattooing
+finish ghost code, 3 types of resurrection, adding proper PLR_DEAd flags in code
+reproduction and NPC to PC babies
+lightining strike
+dream event system
+delays for mprogs
+city guards, order guards
+global war
+arena system
+language system
+scripted quests
+fix typos in messages
+Finish out the remort system
+add "short" command for players (RP related)
+RPXP timer system for using emote/pmote/smote
+Sayto command
+fix sneak and hide messages
+show "flying" and other effects in_room
+finish smithing and add other tradeskills (leatherworking, tailoring, fletching, mining)
+throw anything
+alchemy system
+echanting system
+item socketing/inlays
+decapitation
+head piking
+bounty system
+trophy system
+in and out system
+saymotes
+amotes
+Global announce
+Birthday notification
+Friend list with logon/logoff
+smite command
+add colour terminators to OLC show window
+sigils and runes
+player shops
+
+
+
+
+/////////////////////////////////////////////////////
+already done
+/////////////////////////////////////////////////////
+OLC 1.81
+Room, Mob, and Obj progs
+Configurable colour (still need to add in some areas, like exit colours
+class removed from hard code
+skeleton for Org system in place.
+Redit autodig
+bows and arrows
+circle
+whirlwind
+damaging spell shields
+dual wielding (plus fix for wear all)
+gambling/token code
+Autoquesting
+ALLCLAN
+Iclan
+iFollow
+Clan editing system in OLC
+Social editing in OLC
+Player traits, height, build, eye color, hair color
+introduction system for recognition
+Crushcaps speech for do_say
+New info prompt 'all' command
+Remort system
+Pwipe code
+added string_append system for personal descriptoin
+Player death

@@ -1,0 +1,412 @@
+#PLAYER
+Name Kain~
+Id   1352982298
+Incr 1
+LogO 1353016114
+Vers 5
+ShD  A tall, muscled {Gelf{x with purple eyes and silver hair~
+Prom <%hhp %mm %vmv> ~
+Race elf~
+Etrait 6
+Htrait 10
+Height 2
+Weight 3
+BirthD 16
+BirthM 7
+BirthY 373
+Sex  0
+Cla  0
+Levl 99
+Blood			0
+Disc			0
+Auspex		0
+Celerity		0
+Domination	0
+Fortitude 	0
+Obfuscate		0
+Potence		0
+Presence		0
+Protean		0
+Quietus		0
+Tru  100
+Sec  9
+Known Verias
+Known Drahil
+Plyd 6553
+Not  0 0 0 0 0
+Scro 22
+Room 706
+HMV  609 609 500 500 694 694
+Quest_Curr    0
+Quest_Accum  0
+Gold 1
+Silv 49
+Bgold 0
+Bsilv 0
+Exp  99000
+Act  DEFGNQRT
+AfBy J
+Comm NO
+Pos  8
+Prac 182
+Trai 195
+Alig  0
+ACs 93 93 93 93
+Attr 12 15 14 15 12
+AMod 0 0 0 0 0
+Pass todd7147~
+Titl  ~
+Pretit ~
+Pnts 5
+TSex 0
+LLev 1
+HMVP 609 500 694
+Cnd  0 38 43 43 0 48
+Sk 100 'reserved'
+Sk 100 'acid blast'
+Sk 100 'armor'
+Sk 100 'bless'
+Sk 100 'blindness'
+Sk 100 'burning hands'
+Sk 100 'call lightning'
+Sk 100 'calm'
+Sk 100 'cancellation'
+Sk 100 'cause critical'
+Sk 100 'cause light'
+Sk 100 'cause serious'
+Sk 100 'chain lightning'
+Sk 100 'change sex'
+Sk 100 'charm person'
+Sk 100 'chill touch'
+Sk 100 'colour spray'
+Sk 100 'continual light'
+Sk 100 'control weather'
+Sk 100 'create food'
+Sk 100 'create rose'
+Sk 100 'create spring'
+Sk 100 'create water'
+Sk 100 'cure blindness'
+Sk 100 'cure critical'
+Sk 100 'cure disease'
+Sk 100 'cure light'
+Sk 100 'cure poison'
+Sk 100 'cure serious'
+Sk 100 'curse'
+Sk 100 'demonfire'
+Sk 100 'detect evil'
+Sk 100 'detect good'
+Sk 100 'detect hidden'
+Sk 100 'detect invis'
+Sk 100 'detect magic'
+Sk 100 'detect poison'
+Sk 100 'dispel evil'
+Sk 100 'dispel good'
+Sk 100 'dispel magic'
+Sk 100 'earthquake'
+Sk 100 'enchant armor'
+Sk 100 'enchant weapon'
+Sk 100 'energy drain'
+Sk 100 'faerie fire'
+Sk 100 'faerie fog'
+Sk 100 'farsight'
+Sk 100 'find familiar'
+Sk 100 'fireball'
+Sk 100 'fireproof'
+Sk 100 'flamestrike'
+Sk 100 'flame shield'
+Sk 100 'force shield'
+Sk 100 'static shield'
+Sk 100 'fly'
+Sk 100 'floating disc'
+Sk 100 'frenzy'
+Sk 100 'gate'
+Sk 100 'giant strength'
+Sk 100 'harm'
+Sk 100 'haste'
+Sk 100 'heal'
+Sk 100 'heat metal'
+Sk 100 'holy word'
+Sk 100 'identify'
+Sk 100 'infravision'
+Sk 100 'invisibility'
+Sk 100 'know alignment'
+Sk 100 'lightning bolt'
+Sk 100 'locate object'
+Sk 100 'magic missile'
+Sk 100 'mass healing'
+Sk 100 'mass invis'
+Sk 100 'nexus'
+Sk 100 'pass door'
+Sk 100 'plague'
+Sk 100 'poison'
+Sk 100 'portal'
+Sk 100 'protection evil'
+Sk 100 'protection good'
+Sk 100 'ray of truth'
+Sk 100 'recharge'
+Sk 100 'refresh'
+Sk 100 'remove curse'
+Sk 100 'resurrect'
+Sk 100 'sanctuary'
+Sk 100 'shield'
+Sk 100 'shocking grasp'
+Sk 100 'sleep'
+Sk 100 'slow'
+Sk 100 'stone skin'
+Sk 100 'summon'
+Sk 100 'teleport'
+Sk 100 'ventriloquate'
+Sk 100 'weaken'
+Sk 100 'word of recall'
+Sk 100 'acid breath'
+Sk 100 'fire breath'
+Sk 100 'frost breath'
+Sk 100 'gas breath'
+Sk 100 'lightning breath'
+Sk 100 'general purpose'
+Sk 100 'high explosive'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 100 'bow'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 100 'phase'
+Sk 100 'polearm'
+Sk 100 'shield block'
+Sk 100 'spear'
+Sk 100 'stake'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'backstab'
+Sk 100 'circle'
+Sk 100 'bash'
+Sk 100 'berserk'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 100 'rescue'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'hide'
+Sk 100 'lore'
+Sk 100 'meditation'
+Sk 100 'peek'
+Sk 100 'pick lock'
+Sk 100 'sneak'
+Sk 100 'steal'
+Sk 100 'scrolls'
+Sk 100 'staves'
+Sk 100 'wands'
+Sk 100 'recall'
+Sk 100 'forging'
+Sk 100 'riding'
+Gr 'rom basics'
+Gr 'warrior basics'
+Chink 'goto' -1
+Chink 'wizhelp' -1
+Chink 'save_clans' -1
+Chink 'marry' -1
+Chink 'divorce' -1
+Chink 'allclan' -1
+Chink 'iclan' -1
+Chink 'avatar' -1
+Chink 'fvlist' -1
+Chink 'skillstat' -1
+Chink 'spellstat' -1
+Chink 'sedit' -1
+Chink 'leader' -1
+Chink 'oload' -1
+Chink 'mload' -1
+Chink 'poofin' -1
+Chink 'poofout' -1
+Chink 'holylight' -1
+Chink 'incognito' -1
+Chink 'invis' -1
+Chink 'ifollow' -1
+Chink 'memory' -1
+Chink 'mwhere' -1
+Chink 'owhere' -1
+Chink 'stat' -1
+Chink 'makegod' -1
+Chink 'orgedit' -1
+Chink 'wiznet' -1
+Chink 'immtalk' -1
+Chink 'imotd' -1
+Chink 'smote' -1
+Chink 'prefi' -1
+Chink 'prefix' -1
+Chink 'mpdump' -1
+Chink 'mpstat' -1
+Chink 'edit' -1
+Chink 'asave' -1
+Chink 'alist' -1
+Chink 'resets' -1
+Chink 'redit' -1
+Chink 'medit' -1
+Chink 'aedit' -1
+Chink 'oedit' -1
+Chink 'mpedit' -1
+Chink 'hedit' -1
+Chink 'opdump' -1
+Chink 'opstat' -1
+Chink 'rpdump' -1
+Chink 'rpstat' -1
+Chink 'cledit' -1
+Chink 'force' -1
+Chink 'penalty' -1
+Chink 'at' -1
+Chink 'echo' -1
+Chink 'return' -1
+Chink 'switch' -1
+Chink 'opedit' -1
+Chink 'rpedit' -1
+Chink 'nochannels' -1
+Chink 'noemote' -1
+Chink 'noshout' -1
+Chink 'notell' -1
+Chink 'teleport' -1
+Chink 'peace' -1
+Chink 'snoop' -1
+Chink 'string' -1
+Chink 'clone' -1
+Chink 'sockets' -1
+Chink 'clanadd' -1
+Chink 'flag' -1
+Chink 'freeze' -1
+Chink 'load' -1
+Chink 'newlock' -1
+Chink 'pecho' -1
+Chink 'purge' -1
+Chink 'restore' -1
+Chink 'gecho' -1
+Chink 'vnum' -1
+Chink 'zecho' -1
+Chink 'disconnect' -1
+Chink 'pardon' -1
+Chink 'sla' -1
+Chink 'slay' -1
+Chink 'allow' -1
+Chink 'ban' -1
+Chink 'set' -1
+Chink 'wizlock' -1
+Chink 'deny' -1
+Chink 'permban' -1
+Chink 'protect' -1
+Chink 'reboo' -1
+Chink 'reboot' -1
+Chink 'shutdow' -1
+Chink 'shutdown' -1
+Chink 'log' -1
+Chink 'gstat' -1
+Chink 'sset' -1
+Chink 'mset' -1
+Chink 'oset' -1
+Chink 'rset' -1
+Chink 'advance' -1
+Chink 'copyover' -1
+Chink 'dump' -1
+Chink 'trust' -1
+Chink 'violate' -1
+Chink 'grant' -1
+Chink 'revoke' -1
+Chink 'test' -1
+Chink 'token' -1
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 112 012
+Colourg     017 015 011 017 017
+End
+
+#O
+Vnum 701
+Nest 0
+Cond 0
+Wear -1
+Cost 1
+Val  10 1 0 300 0
+End
+
+#O
+Vnum 705
+Nest 0
+Cond 0
+Wear 0
+Cost 1
+End
+
+#O
+Vnum 703
+Nest 0
+Cond 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 702
+Nest 0
+Cond 0
+Wear 5
+Cost 5
+End
+
+#O
+Vnum 704
+Nest 0
+Cond 0
+Wear 6
+Cost 5
+End
+
+#O
+Vnum 706
+Nest 0
+Cond 0
+Wear 9
+Cost 5
+End
+
+#O
+Vnum 707
+Nest 0
+Cond 0
+Wear 8
+Cost 1
+End
+
+#O
+Vnum 708
+Nest 0
+Cond 0
+Wear 11
+Cost 5
+End
+
+#O
+Vnum 709
+Nest 0
+Cond 0
+Wear 18
+Cost 120
+End
+
+#O
+Vnum 709
+Nest 0
+Cond 0
+Wear 17
+Cost 120
+End
+
+#END

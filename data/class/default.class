@@ -1,0 +1,23 @@
+#CLASS
+Name default~
+WhoN Def
+Prime 0
+Weapon 709
+Guild1 1
+Guild2 1
+Skill 75
+Thac00 20
+Thac32 -10
+HPMin 11
+HPMax 15
+FMana 0
+Base warrior basics~
+Default warrior default~
+End
+#SKILLS
+dagger~
+1 2
+sword~
+1 2
+End~
+#END

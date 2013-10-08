@@ -1,0 +1,82 @@
+#PLAYER
+Name Badger~
+Id   1381178234
+Incr 1
+LogO 1381180751
+Vers 5
+ShD  A tiny, muscled {Ghuman{x with green eyes and orange hair~
+Prom <%hhp %mm %vmv> ~
+Race human~
+Etrait 3
+Htrait 9
+Height 0
+Weight 3
+BirthD 4
+BirthM 11
+BirthY 373
+Sex  0
+Cla  4
+Levl 1
+Blood			0
+Disc			0
+Auspex		0
+Celerity		0
+Domination	0
+Fortitude 	0
+Obfuscate		0
+Potence		0
+Presence		0
+Protean		0
+Quietus		0
+Sec  0
+Known Bobby
+Known Gwendolyn
+Known Wiloe
+Known Verias
+Plyd 2517
+Not  0 0 0 0 0
+Scro 22
+Room 2
+HMV  20 20 100 100 100 100
+Quest_Curr    0
+Quest_Accum  0
+Gold 0
+Silv 0
+Bgold 0
+Bsilv 0
+Exp  1150
+Act  DEFGQT
+Comm NO
+Pos  8
+Prac 5
+Trai 3
+Alig  0
+ACs 100 100 100 100
+Attr 13 13 13 13 13
+AMod 0 0 0 0 0
+Pass gearsnake11~
+Titl ~
+Pretit ~
+Pnts 0
+TSex 0
+LLev 0
+HMVP 20 100 100
+Cnd  0 30 39 39 0 30
+Sk 1 'sword'
+Sk 1 'second attack'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+End
+
+#END

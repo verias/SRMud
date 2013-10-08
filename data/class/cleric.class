@@ -1,0 +1,307 @@
+#CLASS
+Name cleric~
+WhoN Cle
+Prime 2
+Weapon 3700
+Guild1 3003
+Guild2 9619
+Skill 75
+Thac00 20
+Thac32 2
+HPMin 7
+HPMax 10
+FMana 1
+Base cleric basics~
+Default cleric default~
+End
+#SKILLS
+armor~
+2 1
+bless~
+7 1
+blindness~
+8 1
+burning hands~
+53 1
+call lightning~
+18 1
+calm~
+16 1
+cancellation~
+26 1
+cause critical~
+13 1
+cause light~
+1 1
+cause serious~
+7 1
+chain lightning~
+53 1
+change sex~
+53 1
+charm person~
+53 1
+chill touch~
+53 1
+colour spray~
+53 1
+continual light~
+4 1
+control weather~
+19 1
+create food~
+5 1
+create rose~
+11 1
+create spring~
+17 1
+create water~
+3 1
+cure blindness~
+6 1
+cure critical~
+13 1
+cure disease~
+13 1
+cure light~
+1 1
+cure poison~
+14 1
+cure serious~
+7 1
+curse~
+18 1
+demonfire~
+34 1
+detect evil~
+4 1
+detect good~
+4 1
+detect hidden~
+11 1
+detect invis~
+8 1
+detect magic~
+6 1
+detect poison~
+7 1
+dispel evil~
+15 1
+dispel good~
+15 1
+dispel magic~
+24 1
+earthquake~
+10 1
+enchant armor~
+53 2
+enchant weapon~
+53 2
+energy drain~
+22 1
+faerie fire~
+3 1
+faerie fog~
+21 1
+farsight~
+16 1
+find familiar~
+42 5
+fireball~
+53 1
+fireproof~
+12 1
+flamestrike~
+20 1
+flame shield~
+35 1
+force shield~
+15 1
+static shield~
+22 1
+fly~
+18 1
+floating disc~
+10 1
+frenzy~
+24 1
+gate~
+17 1
+giant strength~
+53 1
+harm~
+23 1
+haste~
+53 1
+heal~
+21 1
+heat metal~
+16 1
+holy word~
+36 2
+identify~
+16 1
+infravision~
+13 1
+invisibility~
+53 1
+know alignment~
+9 1
+lightning bolt~
+23 1
+locate object~
+15 1
+magic missile~
+53 1
+mass healing~
+38 2
+mass invis~
+25 1
+nexus~
+35 2
+pass door~
+32 1
+plague~
+17 1
+poison~
+12 1
+portal~
+30 2
+protection evil~
+9 1
+protection good~
+9 1
+ray of truth~
+35 1
+recharge~
+53 1
+refresh~
+5 1
+remove curse~
+18 1
+resurrect~
+20 10
+sanctuary~
+20 1
+shield~
+35 1
+shocking grasp~
+53 1
+sleep~
+53 1
+slow~
+30 1
+stone skin~
+40 1
+summon~
+12 1
+teleport~
+22 1
+ventriloquate~
+53 1
+weaken~
+14 1
+word of recall~
+28 1
+acid breath~
+32 1
+fire breath~
+45 1
+frost breath~
+36 1
+gas breath~
+43 1
+lightning breath~
+40 1
+general purpose~
+53 0
+high explosive~
+53 0
+axe~
+1 6
+dagger~
+1 3
+bow~
+1 0
+flail~
+1 3
+mace~
+1 2
+phase~
+15 3
+polearm~
+1 6
+shield block~
+1 4
+spear~
+1 4
+stake~
+1 28
+sword~
+1 6
+whip~
+1 5
+backstab~
+53 0
+circle~
+53 0
+bash~
+53 0
+berserk~
+53 0
+dirt kicking~
+53 0
+disarm~
+53 0
+dodge~
+22 8
+enhanced damage~
+30 9
+envenom~
+53 0
+hand to hand~
+10 5
+kick~
+12 4
+parry~
+20 8
+rescue~
+53 0
+trip~
+53 0
+second attack~
+24 8
+third attack~
+53 0
+fast healing~
+9 5
+haggle~
+18 8
+hide~
+53 0
+lore~
+10 6
+meditation~
+6 5
+peek~
+21 7
+pick lock~
+25 8
+sneak~
+53 0
+steal~
+53 0
+scrolls~
+1 3
+staves~
+1 3
+wands~
+1 3
+recall~
+1 2
+forging~
+1 1
+riding~
+1 2
+End~
+#END

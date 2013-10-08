@@ -1,0 +1,534 @@
+#PLAYER
+Name Someshit~
+Id   1352694180
+Incr 1
+LogO 1352697630
+Vers 5
+ShD  A giant, muscled {Wvampire{x with white eyes and blue hair~
+Prom <{C%r {Y%e{x>%c<{R%h{x/{C%Hhp{x {R%m{x/{C%Mm {M%vmv{x>%c<{Y%Xexp %g{yg {W%s{ws{x>%c>> ~
+Race vampire~
+Etrait 8
+Htrait 2
+Height 3
+Weight 3
+BirthD 18
+BirthM 4
+BirthY 373
+Sex  2
+Cla  2
+Levl 5
+Blood			0
+Disc			0
+Auspex		0
+Celerity		0
+Domination	0
+Fortitude 	0
+Obfuscate		0
+Potence		0
+Presence		0
+Protean		0
+Quietus		0
+Sec  0
+Known Verias
+Known Drahil
+Plyd 3450
+Not  0 0 0 0 0
+Scro 22
+Room 711
+HMV  61 61 109 109 124 124
+Quest_Curr    0
+Quest_Accum  0
+Gold 104
+Silv 1485
+Bgold 0
+Bsilv 0
+Exp  5043
+Act  DEFGQT
+AfBy TV
+Comm NO
+Pos  8
+Prac 23
+Trai 4
+Alig  0
+ACs 51 51 51 51
+Attr 16 16 16 17 16
+AMod 0 0 0 4 0
+Pass someothershit~
+Titl ~
+Pretit ~
+Pnts 8
+TSex 2
+LLev 0
+HMVP 61 109 124
+Cnd  0 46 39 48 0 26
+Sk 75 'dagger'
+Sk 75 'sword'
+Sk 1 'berserk'
+Sk 1 'second attack'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Affc 'stone skin'   0  94  55 -40  17          0
+Affc 'haste'   0  92   5   4   2    2097152
+End
+
+#O
+Vnum 701
+Nest 0
+Cond 0
+Wear -1
+Cost 1
+Val  10 1 0 300 0
+End
+
+#O
+Vnum 703
+Nest 1
+Cond 0
+Wear -1
+Cost 1
+Val  60 44 0 0 0
+End
+
+#O
+Vnum 706
+Nest 1
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 716
+Nest 1
+Cond 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 723
+Nest 1
+Cond 0
+Wear -1
+Cost 50
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 709
+Nest 1
+Cond 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 709
+Nest 1
+Cond 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 702
+Nest 0
+Cond 0
+Wear 5
+Cost 5
+End
+
+#O
+Vnum 704
+Nest 0
+Cond 0
+Wear 6
+Cost 5
+End
+
+#O
+Vnum 705
+Nest 0
+Cond 0
+Wear 0
+Cost 1
+End
+
+#O
+Vnum 707
+Nest 0
+Cond 0
+Wear 8
+Cost 1
+End
+
+#O
+Vnum 708
+Nest 0
+Cond 0
+Wear 11
+Cost 5
+End
+
+#O
+Vnum 726
+Nest 0
+Cond 0
+Wear 9
+Cost 500
+End
+
+#O
+Vnum 711
+Nest 0
+Cond 0
+Wear 17
+Cost 350
+End
+
+#O
+Vnum 711
+Nest 0
+Cond 0
+Wear 18
+Cost 350
+End
+
+#O
+Vnum 17
+Nest 0
+ShD  the brains of {ws{mou{wl of a forgotten {CN{ce{Cw{cb{Ci{ce{x~
+Desc The splattered brains of {ws{mou{wl of a forgotten {CN{ce{Cw{cb{Ci{ce{x are lying here.~
+Cond 0
+Wear -1
+Time 3
+Cost 0
+End
+
+#O
+Vnum 12
+Nest 0
+ShD  the head of {ws{mou{wl of a forgotten {CN{ce{Cw{cb{Ci{ce{x~
+Desc The severed head of {ws{mou{wl of a forgotten {CN{ce{Cw{cb{Ci{ce{x is lying here.~
+Cond 0
+Wear -1
+Time 2
+Cost 0
+End
+
+#END

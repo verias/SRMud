@@ -1,0 +1,16 @@
+Name Blue Phoenix~
+File bluephoe.org~
+Patron Verias~
+Gold 0
+City 0
+Clan 0
+Guild 1
+Ranks
+Initiate~
+Acolyte~
+Disciple~
+Bishop~
+Priest~
+Deity~
+God~
+$

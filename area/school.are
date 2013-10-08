@@ -1,0 +1,999 @@
+#AREADATA
+Name School of the New Blood~
+Builders Drahil~
+VNUMs 700 750
+Credits Drahil~
+Security 9
+End
+
+
+
+#MOBILES
+#700
+chaos voice~
+{wSwirling {RC{rh{Ra{ro{Rs{x~
+{wSwirling {RC{rh{Ra{ro{Rs {wengulfing everything within its presence{c.{x
+~
+~
+human~
+AB CEFGHIZc 0 0
+100 100 201d33+2021 100d10+85 33d3+55 divine
+-58 -58 -58 -37
+0 ABCDEFGHIJKLMNOPQRTXYZ 0 0
+stand stand male 0
+CGHX 0 giant unknown
+F for AMV
+F par ABCDEFGHIJK
+#701
+voice~
+chaos~
+Chaos
+~
+~
+dog~
+AR 0 0 0
+4 100 201d33+2021 100d10+85 33d3+55 none
+-58 -58 -58 -37
+H 0 0 0
+stand stand male 0
+AGHMVX ABCDEFGHIJKUV medium unknown
+#702
+wise old man~
+{wa {cwise {Wo{wl{Wd {wman {ch{Ca{cnds{Co{cm{Ce{cly {mdr{Me{mss{Me{md{x~
+{wA {cwise {Wo{wl{Wd {wman {ch{Ca{cnds{Co{cm{Ce{cly {mdr{Me{mss{Me{md {wis more than willing to help{c.{x
+~
+~
+human~
+AB CDEFGHIZc 0 0
+99 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABLQ 0 0
+stand stand male 0
+V 0 medium unknown
+F for AHM
+F par ABCDEFGHIJK
+#703
+lorena~
+{mL{Mo{mr{Me{mn{Ma {wthe {CM{ca{Cg{ci{Cc {Wand {yM{Yo{yr{Ye {wshopkeep{c.{x~
+{mL{Mo{mr{Me{mn{Ma {wthe {CM{ca{Cg{ci{Cc {Wand {yM{Yo{yr{Ye {wshopkeep sits in her chair reading quietly{c.{x
+~
+~
+human~
+AB CDEFGIJZc 0 0
+99 99 199d33+1999 99d10+85 33d3+54 none
+-57 -57 -57 -36
+0 ABCDEFGHIJKLMNOPQRTXYZ 0 0
+stand stand female 0
+V ABCDEFGHIJK medium unknown
+F for AHM
+#704
+carl smith~
+{rC{war{rl {wthe {wBl{wa{Wcksm{wi{Wth{x~
+{rC{war{rl {wthe {wBl{wa{Wcksm{wi{Wth {wstands at the {rf{Ror{rge {wworking on his next {Bc{wreatio{Bn{c.{x
+~
+~
+human~
+AB CDEFGIJZc 0 0
+99 99 199d33+1999 99d10+85 33d3+54 none
+-57 -57 -57 -36
+0 ABCDEFGHIJKLMNOPQRTXYZ 0 0
+stand stand male 0
+V ABCDEFGHIJK medium unknown
+F for AHM
+#705
+tyrial trainer~
+{rT{Ry{rr{Ri{ra{Rl {wthe {cTr{Ca{cin{Ce{cr{x~
+{rT{Ry{rr{Ri{ra{Rl {wthe {cTr{Ca{cin{Ce{cr {wstands ready to practice{c.{x
+~
+~
+human~
+ABJKQab CDEFGHIJZc 0 0
+99 99 199d33+1999 99d10+85 33d3+54 none
+-57 -57 -57 -36
+0 BCDEFGHIJKLMNOPQRTXYZ 0 0
+stand stand male 0
+V ABCDEFGHIJK medium unknown
+F for AHM
+#723
+bob baker~
+{yB{Yo{Yb {wthe {rB{ca{rk{ce{rr{x~
+{yB{Yo{Yb {wthe {rB{ca{rk{ce{rr {wneads some dough into a loaf of bread{c.{x
+~
+~
+human~
+AB CDEFGZ 0 0
+99 99 199d33+1999 99d10+85 33d3+54 none
+-57 -57 -57 -36
+0 AB 0 0
+stand stand male 0
+V 0 medium unknown
+F for AHM
+F par ABCDEFGHIJK
+#724
+barkeep bartender~
+{wa well dressed {cB{Ca{crk{Cee{cp{x~
+{wA well dressed {cB{Ca{crk{Cee{cp {wruns about tending to customers{c.{x
+~
+~
+human~
+AB CDEFGZ 0 0
+99 99 199d33+1999 99d10+85 33d3+54 none
+-57 -57 -57 -36
+0 AB 0 0
+stand stand male 0
+V 0 medium unknown
+F for AHM
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#700
+portal chaos~
+{rP{Ro{rr{Rt{ra{Rl {wof {CC{bh{Ya{Bo{Cs{x~
+{rP{Ro{rr{Rt{ra{Rl {wof {CC{bh{Ya{Bo{Cs {Wsw{wi{Wrl{wi{Wng {rviolently{x~
+chaos~
+portal ABOY 0
+0 0 A ACDEFHJ 0
+0 0 0 P
+#701
+bag pouch sack newbie~
+{wa {CN{ce{Cw{cb{Ci{ce {Wbag {yf{Yi{yl{Yl{ye{Yd {wwith items to start your adventures{x~
+{wA {CN{ce{Cw{cb{Ci{ce {Wbag {wlays upon the ground no longer needed{x~
+magic~
+container ABGY AP
+10 AC 0 300 0
+0 0 1 P
+#702
+vest newbie~
+{wa {CN{ce{Cw{cb{Ci{ce {Wv{wes{Wt {wendorsed by the gods to protect the young ones{x~
+{wa {CN{ce{Cw{cb{Ci{ce {Wv{wes{Wt {wendorsed by the gods to protect the young ones lies upon the ground{x~
+blessings from the gods~
+armor ABIY ADP
+A A A A 0
+1 2 5 P
+#703
+flask water crystal~
+{wa {CCr{cy{Cstal {Wfl{wa{Wsk{x~
+{wA {CCr{cy{Cstal {Wfl{wa{Wsk {wlays on the ground{x~
+crystal~
+drink ABGI AP
+60 60 'water' 0 0
+0 1 1 P
+#704
+helmet newbie~
+{wa {CN{ce{Cw{cb{Ci{ce {Wh{welme{Wt{x~
+{wA {CN{ce{Cw{cb{Ci{ce {Whelmet {wlies on the {Wg{wroun{Wd{x~
+protection of the gods~
+armor ABGIY AEP
+A A A A 0
+1 2 5 P
+#705
+burning light torch~
+{wa {Rb{ru{Rrn{ri{Rng {Yl{yi{Yght {wfor all to see{x~
+{wA {Rb{ru{Rrn{ri{Rng {Yl{yi{Yght {Rsears {wthe ground{x~
+light of the gods~
+light ABGY AP
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 1 1 P
+#706
+boots newbie~
+{wa pair of {CN{ce{Cw{cb{Ci{ce {Wb{woot{Ws{x~
+{wA pair of {CN{ce{Cw{cb{Ci{ce {Wb{woot{Ws {wrest on the ground{x~
+protection of the gods~
+armor ABGIY AGP
+A A A A 0
+1 2 5 P
+#707
+pants newbie~
+{wa pair of {CN{ce{Cw{cb{Ci{ce {Wp{want{Ws{x~
+{wA pair of {CN{ce{Cw{cb{Ci{ce {Wp{want{Ws {wlies on the ground{x~
+protection of the gods~
+armor ABIY AFP
+0 0 0 0 0
+1 1 1 P
+#708
+bracers newbie~
+{wa pair of {CN{ce{Cw{cb{Ci{ce {Wb{wracer{Ws{x~
+{wA pair of {CN{ce{Cw{cb{Ci{ce {Wb{wracer{Ws {wlies on the ground{x~
+protection of the gods~
+armor ABIY AIP
+A A A A 0
+1 2 5 P
+#709
+power newbies~
+{YP{yO{YW{yE{YR {BO{bF {WTHE {CN{cE{CW{cB{CI{cE{CS{c!{C!{c!{C!{c!{x  ~
+{wA {YP{yO{YW{yE{YR {BO{bF {WTHE {CN{cE{CW{cB{CI{cE{CS{c!{C!{c!{C!{c! {wstarter weapon lies upon the ground{x  ~
+power of the newbies~
+weapon ABGIY ANP
+dagger 1 4 pierce DEG
+1 2 120 P
+#710
+wand cure poison~
+{ba {Cw{ca{Cnd {wof {yC{Yu{yr{Ye {gP{Go{gi{Gs{go{Gn{x~
+{bA {Cw{ca{Cn{cd {wof {yC{Yu{yr{Ye {gP{Go{gi{Gs{go{Gn {wlies here{c.{x~
+wood~
+wand ABGY AO
+99 25 25 'cure poison' 0
+0 1 120 P
+#711
+dagger sturdy~
+{WS{wturd{Wy D{wagge{Wr{x~
+{wA {WS{wturd{Wy {WD{wagge{Wr {wlies waiting to spill blood{c.{x~
+solid steel~
+weapon BY AN
+dagger 1 8 pierce DE
+1 2 350 P
+#712
+baked bread~
+{wa loaf of freshly {YB{ya{Yk{ye{Yd {yBread{x~
+{wA loaf of freshly {YB{ya{Yk{ye{Yd {yBread {wlies here going to waste{c.{x~
+unknown~
+food 0 A
+DEFG BCDE 0 0 0
+0 1 10 P
+#713
+cream puff~
+{wa {Mdelicious {WCr{wea{Wm {wpuff{c.{x~
+{wA {Mdelicious {WCr{wea{Wm {wpuff is going to waste on the ground{c.{x~
+sugar n goodstuff~
+food 0 A
+ABDG BD 0 0 0
+0 1 10 P
+#714
+glazed donut~
+{wa {Wglazed {ydonut{x~
+{wA {Wglazed {ydonut {wall gooey n sticky is on the ground{c.{x~
+sugarsugarsugar~
+food 0 A
+BCDE BD 0 0 0
+0 1 15 P
+#715
+chocolate chip cookies~
+{wa {WD{wo{Wz{we{Wn {yCh{Wo{ycol{Wa{yt{We {wCh{Wi{wp {YCookies{x~
+(no description)~
+little bit of heaven~
+food 0 A
+ACDF AC 0 0 0
+0 1 20 P
+#716
+cheesecake~
+{wa {WC{Yh{We{Ye{Ws{Ye{Wc{Ya{Wk{Ye{x~
+{wA {WC{Yh{We{Ye{Ws{Ye{Wc{Ya{Wk{Ye {wlooking really yummy sits on its platter on the ground{c.{x~
+cheesecake~
+food 0 A
+DEFG BEF 0 0 0
+0 2 20 P
+#717
+shot whiskey~
+{wa shot of {YWh{yis{Yke{Yy{x~
+{wA shot of {YWh{yis{Yke{Yy {wis sitting here waiting to be had{c.{x~
+rotgut~
+drink 0 AO
+1 1 'whisky' 0 0
+0 1 5 P
+#718
+mug beer~
+{wa {Bfr{Co{Bsty {wmug of {yBeer{x~
+{wA {Bfr{Co{Bsty {wmug of {yBeer {wsit here for the taking{c.{x~
+beer~
+drink 0 AO
+1 1 'beer' 0 0
+0 1 5 P
+#719
+wine elvish~
+{wa tall flute of {cf{Ci{cne {gelvish {rw{Ri{rn{Re{x~
+{wA tall flute of {cf{Ci{cne {gelvish {rw{Ri{rn{Re {wis on the ground{c.{x~
+wine~
+drink 0 AO
+1 1 'elvish wine' 0 0
+0 1 10 P
+#720
+fish chips~
+{wa basket of {yF{Yi{ysh {gn {wCh{Wi{wps{x~
+{wA basket of {yF{Yi{ysh {gn {wCh{Wi{wps lies on the ground looking delicious{c.{x~
+fish n chips~
+food 0 A
+CDEF CDEF 0 0 0
+0 1 10 P
+#721
+rack ribs~
+{wa rack of {rR{Ra{rre {gjuicy {RRi{rb{Rs{x~
+{wA rack of {rR{Ra{rre {gjuicy {RRi{rb{Rs {wsets on a plate on the ground{c.{x~
+unknown~
+food 0 A
+DEFG DEFG 0 0 0
+0 2 25 P
+#722
+wand remove curse~
+{ba {Cw{ca{Cnd {wof {yRe{Ym{yov{Ye {wC{ru{wrs{re{x~
+{bA {Cw{ca{Cnd {wof {yRe{Ym{yov{Ye {wC{ru{wrs{re {wrests on the ground{c.{x~
+wood~
+wand ABGY AO
+99 25 25 'remove curse' 0
+0 1 120 P
+#723
+pill sanctuary~
+{wa {cp{Ci{cll {wof {wS{Wanctuar{wy{x~
+{wA {cp{Ci{cll {wof {wS{Wanctuar{wy rest on the ground{c.{x~
+capsule~
+pill 0 A
+80 'sanctuary' 'reserved' 'reserved' 'reserved'
+0 0 50 P
+#724
+pill cure all~
+{wa {cp{Ci{cll {wof {YCure {MAll{B!{x~
+{wA {cp{Ci{cll {wof {YCure {MAll{B! {wrests on the ground{c.{X~
+unknown~
+pill 0 0
+99 'cure poison' 'cure critical' 'cure disease' 'cure blindness'
+0 0 150 P
+#725
+potion protection~
+{wa {MP{mo{Mti{mo{Mn {wof {WProtection{x~
+{wA {MP{mo{Mti{mo{Mn {wof {WProtection {wbubbles on the ground{c.{x~
+unknown~
+potion 0 A
+99 'haste' 'frenzy' 'stone skin' 'shield'
+0 0 150 P
+#726
+flying boots~
+{BB{Coo{Bts {wof {YF{wlyin{Yg{x~
+{wA pair of {BB{Coo{Bts {wof {YF{wlyin{Yg {wlie on the ground preparing for takeoff{c.{x~
+magical steel~
+armor ABY AG
+AB AB AB AB 0
+1 1 500 P
+F
+A 0 0 T
+#727
+ring transparency~
+{wa {YR{yin{Yg {wof {CT{cr{Ca{cn{Cs{cp{Ca{cr{Ce{cn{Cc{cy{x~
+{wA {YR{yin{Yg {wof {CT{cr{Ca{cn{Cs{cp{Ca{cr{Ce{cn{Cc{cy {wcan barely be seen on the ground{c.{x~
+ethereal plane~
+armor ABY AB
+A A A A 0
+1 0 500 P
+F
+A 0 0 U
+#728
+enchanted breastplate~
+{ME{mn{Mc{mh{Ma{mn{Mt{me{Md {CB{creastplat{Ce{x~
+{wA {ME{mn{Mc{mh{Ma{mn{Mt{me{Md {CB{creastplat{Ce {wlies on the ground humming{c.{x~
+blessed steel~
+armor ABIY AD
+AC AC AC 0 0
+1 5 750 P
+F
+A 0 0 O
+F
+A 0 0 N
+#729
+machine~
+machine~
+Machine~
+unknown~
+token 0 0
+0 0 0 0 1
+0 0 0 P
+#750
+flickering torch~
+{yFl{Yi{yck{Yer{yi{Yng {RT{ror{Rc{rh{x~
+{wA {yFl{Yi{yck{Yer{yi{Yng {RT{ror{Rc{rh {wis set into the wall{c.{x~
+wood~
+light AY P
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#700
+{CC{bh{Ya{bo{Cs{x~
+Standing within an endless space, there is no form or shape to this
+expanse.  Swirling chaos stretches as far as the eye can behold.  
+~
+0 132108 0
+S
+#701
+{yGrand Hall{x~
+A Grand Hall is spread before you in all its majesty and might.  Marble
+pillars stretch towards the high ceilings that tower so far above, they are
+almost beyond sight.  Gold ornates the walls accented by hints of silver and
+platinum.  Your footsteps resound towards the heavens which each and every
+stride.  
+~
+0 140296 0
+D0
+~
+~
+~
+0 0 702
+R ERROR 700 100~
+S
+#702
+{yGrand Hall{x~
+Within the next expanse of the Grand Hall stands several well dressed
+individuals.  They seem like they may be able to provide any answers you may
+have during this time of self realization and understanding.  
+~
+0 140296 0
+D0
+~
+~
+~
+0 0 722
+D1
+~
+~
+~
+0 0 704
+D2
+~
+~
+~
+0 0 701
+D3
+~
+~
+~
+0 0 703
+D5
+~
+~
+~
+0 0 705
+S
+#703
+{CM{ca{Cg{ci{Cc {Wand {yM{Yo{yr{Ye{c.{x~
+Walking into the small shop tucked into the walls of the Grand Hall.  A
+variety of sights and smells beckon for your attention.  Knick knacks,
+trinkets, charms and crystals are perched upon shelves dotted about the
+room.  There is a section of books, old and tattered sitting upon shelves. 
+They seem to have had more then one new adventurer seek out wisdom amongst
+their texts.  Potions and salves are placed neatly upon a tiered shelf
+situated at the back of the shop.  A beautiful woman wearing robes of silk
+and satin sits quietly in a very comfortable looking chair in the corner,
+reading through a book of odd looking symbols and sketches.  
+~
+0 140296 0
+D1
+~
+~
+~
+0 0 702
+S
+#704
+{wSm{Wi{wth`s H{Wa{wmm{We{wr{c.{x~
+The smell of fire and metal pierces the air inside this place.  The
+rhythmic sound of a hammer meeting its mark on a blade being forged
+resonates throughout the room.  Various weapons of all types hang from the
+walls.  Shining armor mounted upon display stands in the center of the room
+exhibit the care and time placed into making each piece.  The source of the
+rhythmic beat is a blacksmith sweating profusely over a forge dug into the
+wall in the back.  
+~
+0 140296 0
+D3
+~
+~
+~
+0 0 702
+S
+#705
+{wEntr{Wa{wnce to the {CN{ce{Cw{cb{Ci{ce {RD{ru{Rn{rg{Re{ro{Rn{x~
+The room is dim, cloaked almost in a persistant twilight.  The only
+source of illumination is a lone torch clinging to the wall.  The walls and
+floors are made of large stones pieced together to form the dark and dreary
+space.  A sharp contrast from the elegance and splendor of the Grand Hall
+from which you just came.  A man leans against the wall, arms crossed with a
+near defiant gaze.  At his feet, a trap door made from worn steel set within
+the floor leads to parts unknown.  
+~
+0 140300 0
+D4
+~
+~
+~
+0 0 702
+D5
+~
+~
+~
+1 0 706
+S
+#706
+{CN{ce{Cw{cb{Ci{ce {RD{ru{Rn{rg{Re{ro{Rn{c.{x~
+Musk and blood, these smells permeate this place.  The walls around you
+are formed of large stones.  Their surface bear many scratches and gouges,
+worn down in places and stained by the blood of unknown victims.  The floor
+is made of dust and dirt, several tracks and marks litter the ground.  
+~
+0 8200 0
+D0
+~
+~
+~
+0 0 707
+D1
+~
+~
+~
+0 0 709
+D2
+~
+~
+~
+0 0 708
+D3
+~
+~
+~
+0 0 710
+D4
+~
+~
+~
+1 0 705
+S
+#707
+{CN{ce{Cw{cb{Ci{ce {RD{ru{Rn{rg{Re{ro{Rn{c.{x~
+{mM{Mu{msk {wand {rbl{Roo{rd{c, {wthese smells p{me{wrm{me{wate {wthis
+place{c.  {wThe walls around you are f{Wo{wrmed of large {Wst{wo{Wnes{c. 
+{wTheir surface bear many {yscr{Yatc{yhes {wand {Wg{wo{Wu{wg{We{ws{c,
+{ww{Wo{wrn down in places and {mst{Ma{min{Med {wby the {Rbl{roo{Rd {wof
+unknown v{mi{wct{mi{wms{c.  {wThe floor is made of dust and {ydirt{c,
+{wseveral tracks and marks litter the ground{c.  {x 
+~
+0 139272 0
+D2
+~
+~
+~
+0 0 706
+S
+#708
+{CN{ce{Cw{cb{Ci{ce {RD{ru{Rn{rg{Re{ro{Rn{c.{x~
+Musk and blood, these smells permeate this place.  The walls around you
+are formed of large stones.  Their surface bear many scratches and gouges,
+worn down in places and stained by the blood of unknown victims.  The floor
+is made of dust and dirt, several tracks and marks litter the ground.  
+~
+0 139272 0
+D0
+~
+~
+~
+0 0 706
+D5
+~
+~
+~
+1 0 711
+S
+#709
+{CN{ce{Cw{cb{Ci{ce {RD{ru{Rn{rg{Re{ro{Rn{c.{x~
+Musk and blood, these smells permeate this place.  The walls around you
+are formed of large stones.  Their surface bear many scratches and gouges,
+worn down in places and stained by the blood of unknown victims.  The floor
+is made of dust and dirt, several tracks and marks litter the ground.  
+~
+0 139272 0
+D3
+~
+~
+~
+0 0 706
+S
+#710
+{CN{ce{Cw{cb{Ci{ce {RD{ru{Rn{rg{Re{ro{Rn{c.{x~
+Musk and blood, these smells permeate this place.  The walls around you
+are formed of large stones.  Their surface bear many scratches and gouges,
+worn down in places and stained by the blood of unknown victims.  The floor
+is made of dust and dirt, several tracks and marks litter the ground.  
+~
+0 139272 0
+D1
+~
+~
+~
+0 0 706
+S
+#711
+{CN{ce{Cw{cb{Ci{ce {RD{ru{Rn{rg{Re{ro{Rn{c.{x~
+Musk and blood, these smells permeate this place.  The walls around you
+are formed of large stones.  Their surface bear many scratches and gouges,
+worn down in places and stained by the blood of unknown victims.  The floor
+is made of dust and dirt, several tracks and marks litter the ground.  
+~
+0 8200 0
+D0
+~
+~
+~
+0 0 712
+D1
+~
+~
+~
+0 0 713
+D2
+~
+~
+~
+0 0 714
+D3
+~
+~
+~
+0 0 715
+D4
+~
+~
+~
+1 0 708
+S
+#712
+{CN{ce{Cw{cb{Ci{ce {RD{ru{Rn{rg{Re{ro{Rn{c.{x~
+Musk and blood, these smells permeate this place.  The walls around you
+are formed of large stones.  Their surface bear many scratches and gouges,
+worn down in places and stained by the blood of unknown victims.  The floor
+is made of dust and dirt, several tracks and marks litter the ground.  
+~
+0 139272 0
+D2
+~
+~
+~
+0 0 711
+S
+#713
+{CN{ce{Cw{cb{Ci{ce {RD{ru{Rn{rg{Re{ro{Rn{c.{x~
+Musk and blood, these smells permeate this place.  The walls around you
+are formed of large stones.  Their surface bear many scratches and gouges,
+worn down in places and stained by the blood of unknown victims.  The floor
+is made of dust and dirt, several tracks and marks litter the ground.  
+~
+0 139272 0
+D3
+~
+~
+~
+0 0 711
+S
+#714
+{CN{ce{Cw{cb{Ci{ce {RD{ru{Rn{rg{Re{ro{Rn{c.{x~
+Musk and blood, these smells permeate this place.  The walls around you
+are formed of large stones.  Their surface bear many scratches and gouges,
+worn down in places and stained by the blood of unknown victims.  The floor
+is made of dust and dirt, several tracks and marks litter the ground.  
+~
+0 139272 0
+D0
+~
+~
+~
+0 0 711
+D5
+~
+~
+~
+1 0 716
+S
+#715
+{CN{ce{Cw{cb{Ci{ce {RD{ru{Rn{rg{Re{ro{Rn{c.{x~
+Musk and blood, these smells permeate this place.  The walls around you
+are formed of large stones.  Their surface bear many scratches and gouges,
+worn down in places and stained by the blood of unknown victims.  The floor
+is made of dust and dirt, several tracks and marks litter the ground.  
+~
+0 139272 0
+D1
+~
+~
+~
+0 0 711
+S
+#716
+{CN{ce{Cw{cb{Ci{ce {RD{ru{Rn{rg{Re{ro{Rn{c.{x~
+Musk and blood, these smells permeate this place.  The walls around you
+are formed of large stones.  Their surface bear many scratches and gouges,
+worn down in places and stained by the blood of unknown victims.  The floor
+is made of dust and dirt, several tracks and marks litter the ground.  
+~
+0 8200 0
+D0
+~
+~
+~
+0 0 717
+D1
+~
+~
+~
+0 0 718
+D2
+~
+~
+~
+0 0 719
+D3
+~
+~
+~
+0 0 720
+D4
+~
+~
+~
+1 0 714
+S
+#717
+{CN{ce{Cw{cb{Ci{ce {RD{ru{Rn{rg{Re{ro{Rn{c.{x~
+Musk and blood, these smells permeate this place.  The walls around you
+are formed of large stones.  Their surface bear many scratches and gouges,
+worn down in places and stained by the blood of unknown victims.  The floor
+is made of dust and dirt, several tracks and marks litter the ground.  
+~
+0 139272 0
+D2
+~
+~
+~
+0 0 716
+S
+#718
+{CN{ce{Cw{cb{Ci{ce {RD{ru{Rn{rg{Re{ro{Rn{c.{x~
+Musk and blood, these smells permeate this place.  The walls around you
+are formed of large stones.  Their surface bear many scratches and gouges,
+worn down in places and stained by the blood of unknown victims.  The floor
+is made of dust and dirt, several tracks and marks litter the ground.  
+~
+0 139272 0
+D3
+~
+~
+~
+0 0 716
+S
+#719
+{CN{ce{Cw{cb{Ci{ce {RD{ru{Rn{rg{Re{ro{Rn{c.{x~
+Musk and blood, these smells permeate this place.  The walls around you
+are formed of large stones.  Their surface bear many scratches and gouges,
+worn down in places and stained by the blood of unknown victims.  The floor
+is made of dust and dirt, several tracks and marks litter the ground.  
+~
+0 139272 0
+D0
+~
+~
+~
+0 0 716
+D5
+~
+~
+~
+1 0 721
+S
+#720
+{CN{ce{Cw{cb{Ci{ce {RD{ru{Rn{rg{Re{ro{Rn{c.{x~
+Musk and blood, these smells permeate this place.  The walls around you
+are formed of large stones.  Their surface bear many scratches and gouges,
+worn down in places and stained by the blood of unknown victims.  The floor
+is made of dust and dirt, several tracks and marks litter the ground.  
+~
+0 139272 0
+D1
+~
+~
+~
+0 0 716
+S
+#721
+{wAre you {mr{wead{my{c?{x~
+Now is the time for judgement.  Are you ready?
+~
+0 9228 0
+D4
+~
+~
+~
+1 0 719
+S
+#722
+{yGrand Hall{x~
+The end of the Grand Hall is before you.  Entrances to shops are located
+to the East and West.  
+~
+0 132104 0
+D1
+~
+~
+~
+0 0 723
+D2
+~
+~
+~
+0 0 702
+D3
+~
+~
+~
+0 0 724
+S
+#723
+{yB{Yo{yb`{Ys {MB{wa{Mk{we{Ms{c.{x~
+Delicious, the best word that can describe the smells that waft through
+the air of the bakery.  Bread, cookies, cakes, all being lovingly and finely
+made by the resident baker Bob.  He can be seen through a window that is cut
+into the wall to allow Bob to be able to see all that enter the shop while
+he is in the kitchen.  A clean stone slate floor leads to the counter, where
+this artisans exquiset goods are ready to be sold.  
+~
+0 140296 0
+D3
+~
+~
+~
+0 0 722
+S
+#724
+{cS{Ci{cp{MN{YC{yhu{Yg{c.{x~
+Upon entering the tavern a section of booths, tables and chairs takes up
+a good size portion of floorspace.  Along the opposing wall is a bar,
+stacked behind it a shelf of various wines and brews and spirits.  The place
+is quaint, but well kept and inviting.  The floors are composed of stained
+and polished wood.  A few bar patrons are scattered at various tables and
+chairs.  A well mannered barkeep in a clean well pressed suit tends to the
+customers.  
+~
+0 140296 0
+D1
+~
+~
+~
+0 0 722
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 705 5 1
+D 0 706 4 1
+D 0 708 5 1
+D 0 711 4 1
+D 0 714 5 1
+D 0 716 4 1
+D 0 719 5 1
+D 0 721 4 1
+M 0 700 1 700 1
+O 0 700 0 700
+M 0 702 1 702 1
+M 0 703 1 703 1
+G 0 710 0
+G 0 722 0
+G 0 723 0
+G 0 724 0
+G 0 725 0
+M 0 704 1 704 1
+G 0 711 0
+G 0 726 0
+G 0 727 0
+G 0 728 0
+M 0 705 1 705 1
+O 0 750 0 705
+M 0 800 30 706 30
+M 0 800 30 706 30
+M 0 800 30 706 30
+M 0 800 30 706 30
+M 0 800 30 707 30
+M 0 800 30 707 30
+M 0 800 30 707 30
+M 0 800 30 707 30
+M 0 800 30 708 30
+M 0 800 30 708 30
+M 0 800 30 708 30
+M 0 800 30 708 30
+M 0 800 30 709 30
+M 0 800 30 709 30
+M 0 800 30 709 30
+M 0 800 30 709 30
+M 0 800 30 710 30
+M 0 800 30 710 30
+M 0 800 30 710 30
+M 0 800 30 710 30
+M 0 801 30 711 30
+M 0 801 30 711 30
+M 0 801 30 711 30
+M 0 801 30 711 30
+M 0 801 30 712 30
+M 0 801 30 712 30
+M 0 801 30 712 30
+M 0 801 30 712 30
+M 0 801 30 713 30
+M 0 801 30 713 30
+M 0 801 30 713 30
+M 0 801 30 713 30
+M 0 801 30 714 30
+M 0 801 30 714 30
+M 0 801 30 714 30
+M 0 801 30 714 30
+M 0 801 30 715 30
+M 0 801 30 715 30
+M 0 801 30 715 30
+M 0 801 30 715 30
+M 0 802 30 716 30
+M 0 802 30 716 30
+M 0 802 30 717 30
+M 0 802 30 717 30
+M 0 802 30 718 30
+M 0 802 30 718 30
+M 0 802 30 719 30
+M 0 802 30 719 30
+M 0 802 30 720 30
+M 0 802 30 720 30
+M 0 803 1 721 1
+M 0 723 1 723 1
+G 0 713 0
+G 0 714 0
+G 0 712 0
+G 0 715 0
+G 0 716 0
+M 0 724 1 724 1
+G 0 717 0
+G 0 718 0
+G 0 719 0
+G 0 720 0
+G 0 721 0
+S
+
+
+
+#SHOPS
+703 0 0 0 0 0 100 65 0 23
+704 0 0 0 0 0 100 65 0 23
+723 0 0 0 0 0 100 65 0 23
+724 0 0 0 0 0 100 65 0 23
+0
+
+
+
+#MOBPROGS
+#700
+if level $n > 5
+say you are ready to enter the realm. Farewell.
+mob mdelay 5 mob transfer $n 701
+else
+mob echo Testing testing
+endif
+~
+#701
+say shut the fuck up.
+emote slaps $n in the face.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#700
+if level $n > 5
+room echo Why are you still around?
+room delay 5 room transfer $n 701
+else
+room echo Holy hell!
+endif
+~
+#0
+
+#$
