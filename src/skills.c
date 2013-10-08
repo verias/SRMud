@@ -113,6 +113,8 @@ void do_gain(CHAR_DATA *ch, char *argument)
 		ch->class = iClass;
 		sprintf(buf, "You gain class %s.\n\r", class_table[iClass].name);
 		send_to_char(buf,ch);
+		group_add(ch, class_table[ch->class].base_group, FALSE);
+		group_add(ch, class_table[ch->class].default_group, FALSE);
 		return;
 	}
 
