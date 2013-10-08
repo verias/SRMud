@@ -403,3 +403,4 @@ DECLARE_DO_FUN(	do_ifollow		);
 DECLARE_DO_FUN( save_clans		);
 DECLARE_DO_FUN( do_clanpmote		);
 DECLARE_DO_FUN( do_cledit		);
+DECLARE_DO_FUN( do_sayto	);
