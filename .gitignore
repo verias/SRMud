@@ -10,12 +10,13 @@ tmp/
 *.tmp
 *.bak
 *.swp
+*.exe
 *~.nib
 local.properties
 .classpath
 .settings/
 .loadpath
-
+*.o
 # External tool builders
 .externalToolBuilders/
 
