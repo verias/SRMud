@@ -878,6 +878,7 @@ bool load_char_obj( DESCRIPTOR_DATA *d, char *name )
     ch->pcdata->bamfin			= str_dup( "" );
     ch->pcdata->bamfout			= str_dup( "" );
     ch->pcdata->title			= str_dup( "" );
+	ch->pcdata->rpxpbonus		= 0;
     for (stat =0; stat < MAX_STATS; stat++)
 	ch->perm_stat[stat]		= 13;
     ch->pcdata->condition[COND_THIRST]	= 48; 

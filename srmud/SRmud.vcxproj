@@ -121,6 +121,7 @@
     <ClCompile Include="..\..\src\quest.c" />
     <ClCompile Include="..\..\src\recycle.c" />
     <ClCompile Include="..\..\src\remort.c" />
+    <ClCompile Include="..\..\src\rpxp.c" />
     <ClCompile Include="..\..\src\save.c" />
     <ClCompile Include="..\..\src\scan.c" />
     <ClCompile Include="..\..\src\send.c" />

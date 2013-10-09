@@ -53,7 +53,32 @@ void	obj_update	args( ( void ) );
 void	aggr_update	args( ( void ) );
 void	cond_update args( ( void ) );
 void prog_update        args ( ( void ) );
+void award_rpxp		args ( ( void ) );
 
+void award_rpxp (void)
+{
+	DESCRIPTOR_DATA *d, *d_next;
+	CHAR_DATA *ch;
+	
+	for(d = descriptor_list; d; d = d_next)
+	{
+	d_next = d->next;
+	if(d->connected == CON_PLAYING)
+	{
+
+	ch = d->character;
+	int amt = ch->pcdata->rpxpbonus;
+	if(amt != 0)
+	{
+	gain_exp(ch, amt);
+	send_to_one(ch, "You have been awarded %d experience for your roleplaying efforts!",amt);
+	ch->pcdata->rpxpbonus = 0;
+	}
+	}
+	}
+
+	return;
+}
 
 void save_time(void)
 {
@@ -1530,6 +1555,8 @@ void update_handler( void )
 	quest_update( );
 	save_org();
 	save_org_list();
+	award_rpxp();
+
 
     }
 
@@ -1537,6 +1564,7 @@ void update_handler( void )
     {
         pulse_event             = PULSE_EVENT;
         event_update();
+
 	
     }
 

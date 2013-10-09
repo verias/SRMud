@@ -851,6 +851,11 @@ void do_say( CHAR_DATA *ch, char *argument )
 	  crushcaps(argument);
 
 	send_to_one(ch, "{6You say '{7%s{6'{x",argument );
+	if(!IS_NPC(ch))
+	{
+		calc_rpxp(ch,argument);
+	}
+
 	for(to = ch->in_room->people; to; to = to_next)
 	{
 		to_next = to->next_in_room;
@@ -926,6 +931,10 @@ void do_sayto( CHAR_DATA *ch, char *argument )
 
 	send_to_one(ch, "{6You say to %s, '{7%s{6'{x",PERS(victim,ch),argument );
 	send_to_one(victim, "{6%s says to you, '{7%s{6'{x",PERS(ch,victim),argument);
+	if(!IS_NPC(ch))
+	{
+		calc_rpxp(ch,argument);
+	}
 
 	for(to = ch->in_room->people; to; to = to_next)
 	{
@@ -1243,6 +1252,10 @@ void do_emote( CHAR_DATA *ch, char *argument )
     act( "$n $T", ch, NULL, argument, TO_ROOM );
     act( "$n $T", ch, NULL, argument, TO_CHAR );
 	MOBtrigger = TRUE;
+	if(!IS_NPC(ch))
+	{
+		calc_rpxp(ch,argument);
+	}
     return;
 }
 

@@ -11,7 +11,7 @@ O_FILES = act_comm.o act_enter.o act_info.o act_move.o act_obj.o act_wiz.o \
           mob_prog.o olc.o olc_act.o olc_mpcode.o olc_save.o org.o mount.o \
           pwipe.o quest.o remort.o send.o smith.o token.o vamp.o weather.o \
 	  music.o recycle.o save.o scan.o skills.o string.o special.o tables.o \
-	  update.o test.o wizlist.o social_edit.o delay.o
+	  update.o test.o wizlist.o social_edit.o delay.o rpxp.o
 
 rom: $(O_FILES)
 	rm -f rom
