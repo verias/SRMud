@@ -1162,12 +1162,11 @@ void do_outfit ( CHAR_DATA *ch, char *argument )
     	equip_char(ch,obj,WEAR_WIELD);
     }
 
-<<<<<<< HEAD
-=======
+
 
 /*
 
->>>>>>> 3e485766558ef0d6fae87b74bd3589e7bfaf8a02
+
     if (((obj = get_eq_char(ch,WEAR_WIELD)) == NULL 
     ||   !IS_WEAPON_STAT(obj,WEAPON_TWO_HANDS)) 
     &&  (obj = get_eq_char( ch, WEAR_SHIELD ) ) == NULL )
@@ -1177,15 +1176,13 @@ void do_outfit ( CHAR_DATA *ch, char *argument )
         obj_to_char( obj, ch );
         equip_char( ch, obj, WEAR_SHIELD );
     }
-<<<<<<< HEAD
 
     send_to_char("You have been equipped by Mota.\n\r",ch);
-=======
-	*/
+
+*/
 
     send_to_char("You have been equipped by the gods.\n\r",ch);
 
->>>>>>> 3e485766558ef0d6fae87b74bd3589e7bfaf8a02
 }
 
      
