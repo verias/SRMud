@@ -2036,6 +2036,7 @@ struct	pc_data
     int            countdown;
     int            questobj;
     int            questmob;
+	int				rpxpbonus;
     time_t              last_note;
     time_t              last_idea;
     time_t              last_penalty;
@@ -3256,6 +3257,9 @@ int smith_item_lookup args( ( const char *name) );
 void    save_guilds     args( ( CHAR_DATA *ch, char *argument ) );
 char 	*fwrite_flag	args( ( long flags, char buf[] ) );
 
+/* rpxp.c */
+int countwords		args( ( char *str ) );
+int calc_rpxp		args( ( CHAR_DATA *ch, char *str ) );
 
 #undef	CD
 #undef	MID
