@@ -10,13 +10,20 @@ tmp/
 *.tmp
 *.bak
 *.swp
+<<<<<<< HEAD
 *.exe
+=======
+>>>>>>> 3e485766558ef0d6fae87b74bd3589e7bfaf8a02
 *~.nib
 local.properties
 .classpath
 .settings/
 .loadpath
+<<<<<<< HEAD
 *.o
+=======
+
+>>>>>>> 3e485766558ef0d6fae87b74bd3589e7bfaf8a02
 # External tool builders
 .externalToolBuilders/
 

@@ -1894,6 +1894,76 @@ void do_visible( CHAR_DATA *ch, char *argument )
     return;
 }
 
+<<<<<<< HEAD
+=======
+void do_recall( CHAR_DATA *ch, char *argument )
+{
+    char buf[MAX_STRING_LENGTH];
+    CHAR_DATA *victim;
+    ROOM_INDEX_DATA *location;
+
+    if (IS_NPC(ch) && !IS_SET(ch->act,ACT_PET))
+    {
+	send_to_char("Only players can recall.\n\r",ch);
+	return;
+    }
+  
+    act( "$n prays for transportation!", ch, 0, 0, TO_ROOM );
+
+    if ( ( location = get_room_index( ROOM_VNUM_TEMPLE ) ) == NULL )
+    {
+	send_to_char( "You are completely lost.\n\r", ch );
+	return;
+    }
+
+    if ( ch->in_room == location )
+	return;
+
+    if ( IS_SET(ch->in_room->room_flags, ROOM_NO_RECALL)
+    ||   IS_AFFECTED(ch, AFF_CURSE))
+    {
+	send_to_char( "Mota has forsaken you.\n\r", ch );
+	return;
+    }
+
+    if ( ( victim = ch->fighting ) != NULL )
+    {
+	int lose,skill;
+
+	skill = get_skill(ch,gsn_recall);
+
+	if ( number_percent() < 80 * skill / 100 )
+	{
+	    check_improve(ch,gsn_recall,FALSE,6);
+	    WAIT_STATE( ch, 4 );
+	    sprintf( buf, "You failed!.\n\r");
+	    send_to_char( buf, ch );
+	    return;
+	}
+
+	lose = (ch->desc != NULL) ? 25 : 50;
+	gain_exp( ch, 0 - lose );
+	check_improve(ch,gsn_recall,TRUE,4);
+	sprintf( buf, "You recall from combat!  You lose %d exps.\n\r", lose );
+	send_to_char( buf, ch );
+	stop_fighting( ch, TRUE );
+	
+    }
+
+    ch->move /= 2;
+    act( "$n disappears.", ch, NULL, NULL, TO_ROOM );
+    char_from_room( ch );
+    char_to_room( ch, location );
+    act( "$n appears in the room.", ch, NULL, NULL, TO_ROOM );
+    do_function(ch, &do_look, "auto" );
+    
+    if (ch->pet != NULL)
+	do_function(ch->pet, &do_recall, "");
+
+    return;
+}
+
+>>>>>>> 3e485766558ef0d6fae87b74bd3589e7bfaf8a02
 void do_train( CHAR_DATA *ch, char *argument )
 {
     char buf[MAX_STRING_LENGTH];

@@ -115,7 +115,11 @@ const	struct	cmd_type	cmd_table	[] =
     { "unlock",         do_unlock,      POS_RESTING,     0,  LOG_NORMAL, 1 },
     { "wield",		do_wear,	POS_RESTING,	 0,  LOG_NORMAL, 1 },
     { "wizhelp",	do_wizhelp,	POS_DEAD,	IM,  LOG_NORMAL, 1 },
+<<<<<<< HEAD
 	{ "save_clans",	save_clans,	POS_DEAD,	IM,	 LOG_NORMAL, 1	},
+=======
+	{ "svclans",	save_clans,	POS_DEAD,	IM,	 LOG_NORMAL, 1	},
+>>>>>>> 3e485766558ef0d6fae87b74bd3589e7bfaf8a02
 	{ "clpromote",	do_clanpmote,	POS_SLEEPING, 10, LOG_NORMAL, 1 },
 	{ "clanadd",		do_clanadd,	POS_DEAD,	L4,  LOG_ALWAYS, 1 },
 
@@ -315,6 +319,11 @@ const	struct	cmd_type	cmd_table	[] =
 /*  { "practice",	do_practice,	POS_SLEEPING,	 0,  LOG_NORMAL, 1 }, */
     { "qui",		do_qui,		POS_DEAD,	 0,  LOG_NORMAL, 0 },
     { "quit",		do_quit,	POS_DEAD,	 0,  LOG_NORMAL, 1 },
+<<<<<<< HEAD
+=======
+    { "recall",		do_recall,	POS_FIGHTING,	 0,  LOG_NORMAL, 1 },
+    { "/",		do_recall,	POS_FIGHTING,	 0,  LOG_NORMAL, 0 },
+>>>>>>> 3e485766558ef0d6fae87b74bd3589e7bfaf8a02
     { "rent",		do_rent,	POS_DEAD,	 0,  LOG_NORMAL, 0 },
     { "save",		do_save,	POS_DEAD,	 0,  LOG_NORMAL, 1 },
     { "sleep",		do_sleep,	POS_SLEEPING,	 0,  LOG_NORMAL, 1 },

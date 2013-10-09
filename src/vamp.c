@@ -360,12 +360,20 @@ void do_feed( CHAR_DATA *ch, char *argument )
 		return;
 	}
 
+<<<<<<< HEAD
     if ( ( victim = get_char_world( ch, buf ) ) == NULL 
 		&& victim->in_room != ch->in_room)
     {
 		send_to_char( "They aren't here.\n\r", ch );
 		return;
     }
+=======
+    if ( ( victim = get_char_room(ch, NULL, buf)) == NULL)
+    {
+		send_to_char( "They aren't here.\n\r", ch );
+		return;
+    } 
+>>>>>>> 3e485766558ef0d6fae87b74bd3589e7bfaf8a02
 	
 	if ( !IS_VAMPAFF( ch, VAMP_FANGS) )
 	{
@@ -373,6 +381,7 @@ void do_feed( CHAR_DATA *ch, char *argument )
 		return;
 	}
 
+<<<<<<< HEAD
     if ( ( victim = get_char_world( ch, buf ) ) == NULL 
 		&& victim->in_room != ch->in_room)
 	{
@@ -381,6 +390,10 @@ void do_feed( CHAR_DATA *ch, char *argument )
 	}
 
 	if ( ch == victim )
+=======
+
+ 	if ( ch == victim )
+>>>>>>> 3e485766558ef0d6fae87b74bd3589e7bfaf8a02
 	{
 		send_to_char( "That serves no purpose.\n\r", ch );
 		return;
