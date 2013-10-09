@@ -1309,11 +1309,7 @@ struct	kill_data
 
 #define OBJ_VNUM_SCHOOL_MACE	   3700
 #define OBJ_VNUM_SCHOOL_DAGGER	   3701
-<<<<<<< HEAD
-#define OBJ_VNUM_SCHOOL_SWORD	   3702
-=======
 #define OBJ_VNUM_SCHOOL_SWORD	   709
->>>>>>> 3e485766558ef0d6fae87b74bd3589e7bfaf8a02
 #define OBJ_VNUM_SCHOOL_SPEAR	   3717
 #define OBJ_VNUM_SCHOOL_STAFF	   3718
 #define OBJ_VNUM_SCHOOL_AXE	   3719
@@ -1321,15 +1317,9 @@ struct	kill_data
 #define OBJ_VNUM_SCHOOL_WHIP	   3721
 #define OBJ_VNUM_SCHOOL_POLEARM    3722
 
-<<<<<<< HEAD
-#define OBJ_VNUM_SCHOOL_VEST	   3703
-#define OBJ_VNUM_SCHOOL_SHIELD	   3704
-#define OBJ_VNUM_SCHOOL_BANNER     3716
-=======
 #define OBJ_VNUM_SCHOOL_VEST	   702
 #define OBJ_VNUM_SCHOOL_SHIELD	   3704
 #define OBJ_VNUM_SCHOOL_BANNER     705
->>>>>>> 3e485766558ef0d6fae87b74bd3589e7bfaf8a02
 #define OBJ_VNUM_MAP		   3162
 
 #define OBJ_VNUM_WHISTLE	   2116

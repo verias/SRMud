@@ -1894,8 +1894,6 @@ void do_visible( CHAR_DATA *ch, char *argument )
     return;
 }
 
-<<<<<<< HEAD
-=======
 void do_recall( CHAR_DATA *ch, char *argument )
 {
     char buf[MAX_STRING_LENGTH];
@@ -1963,7 +1961,6 @@ void do_recall( CHAR_DATA *ch, char *argument )
     return;
 }
 
->>>>>>> 3e485766558ef0d6fae87b74bd3589e7bfaf8a02
 void do_train( CHAR_DATA *ch, char *argument )
 {
     char buf[MAX_STRING_LENGTH];
