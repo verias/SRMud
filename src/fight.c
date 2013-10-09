@@ -1435,10 +1435,11 @@ bool damage(CHAR_DATA *ch,CHAR_DATA *victim,int dam,int dt,int dam_type,
 	     * Dying penalty:
 	     * 2/3 way back to previous level.
 	     */
-	    if ( victim->exp > exp_per_level(victim,victim->pcdata->points) 
+	   /* if ( victim->exp > exp_per_level(victim,victim->pcdata->points) 
 			       * victim->level )
 	gain_exp( victim, (2 * (exp_per_level(victim,victim->pcdata->points)
 			         * victim->level - victim->exp)/3) + 50 );
+	*/ 
 	}
 
         sprintf( log_buf, "%s got toasted by %s at %s [room %d]",

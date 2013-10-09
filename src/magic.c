@@ -819,6 +819,10 @@ void spell_resurrect( int sn, int level, CHAR_DATA *ch, void *vo, int target)
 		    do_function( victim, &do_wear, "all");
 		 }
 		REMOVE_BIT(victim->act,PLR_DEAD);
+		if ( victim->exp > exp_per_level(victim,victim->pcdata->points) 
+			       * victim->level )
+	              gain_exp( victim, ((exp_per_level(victim,victim->pcdata->points)
+			         * victim->level - victim->exp)/3) + 50 );
 	    extract_obj(corpse);
 		ch->hit		= ch->max_hit;
 		ch->mana	= ch->max_mana;

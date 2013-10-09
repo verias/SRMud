@@ -516,6 +516,10 @@ void do_pray( CHAR_DATA *ch, char *argument )
 		ch->hit		= ch->max_hit;
 		ch->mana	= ch->max_mana;
 		ch->move	= ch->max_move;
+		if ( ch->exp > exp_per_level(ch,ch->pcdata->points) 
+			       * ch->level )
+	                 gain_exp( ch, (2 * (exp_per_level(ch,ch->pcdata->points)
+			         * ch->level - ch->exp)/3) + 50 );
 	    extract_obj(corpse);
 		return;
 		}
