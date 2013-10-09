@@ -820,6 +820,9 @@ void spell_resurrect( int sn, int level, CHAR_DATA *ch, void *vo, int target)
 		 }
 		REMOVE_BIT(victim->act,PLR_DEAD);
 	    extract_obj(corpse);
+		ch->hit		= ch->max_hit;
+		ch->mana	= ch->max_mana;
+		ch->move	= ch->max_move;
 		return;
 		}
 	

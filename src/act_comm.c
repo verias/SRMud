@@ -513,6 +513,9 @@ void do_pray( CHAR_DATA *ch, char *argument )
 		    do_function( ch, &do_wear, "all");
 		 }
 		REMOVE_BIT(ch->act,PLR_DEAD);
+		ch->hit		= ch->max_hit;
+		ch->mana	= ch->max_mana;
+		ch->move	= ch->max_move;
 	    extract_obj(corpse);
 		return;
 		}
