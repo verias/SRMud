@@ -106,6 +106,7 @@ const	struct	cmd_type	cmd_table	[] =
 	{ "music",          do_music,   	POS_SLEEPING,    0,  LOG_NORMAL, 1 }, 
     { "order",		do_order,	POS_RESTING,	 0,  LOG_NORMAL, 1 },
     { "practice",       do_practice,	POS_SLEEPING,    0,  LOG_NORMAL, 1 },
+	{ "pray",		do_pray,		POS_DEAD, 0, LOG_NORMAL, 1 },
     { "rest",		do_rest,	POS_SLEEPING,	 0,  LOG_NORMAL, 1 },
     { "sit",		do_sit,		POS_SLEEPING,    0,  LOG_NORMAL, 1 },
     { "sockets",        do_sockets,	POS_DEAD,       L4,  LOG_NORMAL, 1 },

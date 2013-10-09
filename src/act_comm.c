@@ -462,6 +462,69 @@ void do_quit( CHAR_DATA *ch, char *argument )
 }
 
 
+void do_pray( CHAR_DATA *ch, char *argument )
+{
+	CHAR_DATA *to, *to_next;
+	OBJ_DATA *corpse;
+	bool found = FALSE; 
+
+	if (IS_NPC(ch))
+		return;
+	if (!IS_SET(ch->act, PLR_DEAD))
+	{
+		send_to_one(ch, "You aren't dead, and don't need saving.");
+		return;
+	}
+
+	for(corpse = ch->in_room->contents; corpse; corpse = corpse->next_content)
+	{
+		if(corpse->pIndexData == get_obj_index(OBJ_VNUM_CORPSE_PC) )
+		{
+			found = TRUE;
+			if(str_cmp(corpse->owner,ch->name))
+			{
+				send_to_one(ch,"You must be in the same room as your body.");
+				return;
+			}
+
+		
+		send_to_one(ch, "You pray to the gods to grant you life once more.");
+		for(to = ch->in_room->people; to; to = to_next)
+		{
+			to_next = to->next_in_room;
+			if((to->in_room == ch->in_room) && (to != ch))
+			{
+				send_to_one(to, "%s prays for divine intervention and is given life once more.", PERS(ch,to));
+			}
+		}
+		/*		for( obj = corpse->contains; obj != NULL; obj = obj_next)
+		{
+			obj_next = obj->next_content;
+			obj_from_obj(obj);
+			if (( money = get_obj_list(victim, "gcash", ->contains ) != NULL)
+			{
+						  do_function(ch, &do_get, "all.gcash corpse");
+	      	}
+	    	//get_obj_list(victim,obj->name,corpse->contains;
+			obj_to_char(obj,victim);*/
+		 if( corpse && corpse->contains) /* exists and not empty */
+         {
+			do_function(ch, &do_get, "all corpse");
+		    do_function( ch, &do_wear, "all");
+		 }
+		REMOVE_BIT(ch->act,PLR_DEAD);
+	    extract_obj(corpse);
+		return;
+		}
+	
+	}
+
+	if(!found)
+	{
+		send_to_one(ch,"You must be in the same room as your body.");
+		return;
+	}
+}
 
 void do_save( CHAR_DATA *ch, char *argument )
 {
