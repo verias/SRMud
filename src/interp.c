@@ -225,6 +225,7 @@ const	struct	cmd_type	cmd_table	[] =
     { "replay",		do_replay,	POS_SLEEPING,	 0,  LOG_NORMAL, 1 },
     { "say",		do_say,		POS_RESTING,	 0,  LOG_NORMAL, 1 },
     { "'",		do_say,		POS_RESTING,	 0,  LOG_NORMAL, 0 },
+	{ "sayto", do_sayto,	POS_RESTING,	0,	 LOG_NORMAL, 1 },
     { "shout",		do_shout,	POS_RESTING,	 3,  LOG_NORMAL, 1 },
     { "unread",		do_unread,	POS_SLEEPING,    0,  LOG_NORMAL, 1 },
     { "yell",		do_yell,	POS_RESTING,	 0,  LOG_NORMAL, 1 },

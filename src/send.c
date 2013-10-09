@@ -894,6 +894,81 @@ void do_say( CHAR_DATA *ch, char *argument )
 }
 
 
+void do_sayto( CHAR_DATA *ch, char *argument )
+{
+	char arg[MIL];
+//	char arg2[MIL];
+	CHAR_DATA *victim;
+	CHAR_DATA *to, *to_next;
+//	DESCRIPTOR_DATA *d, *d_next;
+//	int sn;
+
+	argument = one_argument(argument,arg);
+
+	if ( argument[0] == '\0' )
+    {
+	send_to_char( "Say what, to whom?\n\r", ch );
+	return;
+    }
+
+	if((victim = get_char_world(ch,arg)) == NULL ||
+		victim->in_room != ch->in_room )
+	{
+		send_to_one(ch, "They are not here.");
+		return;
+	}
+	else
+	{
+	  if(!IS_NPC(ch) && ch->pcdata->condition[COND_DRUNK] > 10)
+		  argument = makedrunk(argument,ch);
+
+	  crushcaps(argument);
+
+	send_to_one(ch, "{6You say to %s, '{7%s{6'{x",PERS(victim,ch),argument );
+	send_to_one(victim, "{6%s says to you, '{7%s{6'{x",PERS(ch,victim),argument);
+
+	for(to = ch->in_room->people; to; to = to_next)
+	{
+		to_next = to->next_in_room;
+			if((to->in_room == ch->in_room) && (to != ch) && (to != victim))
+			{
+				if(!IS_SET(ch->act,PLR_DEAD))
+				send_to_one(to, "{6%s says to %s, '{7%s{6'{x", PERS(ch,to),PERS(victim,to),argument );
+				else
+				send_to_one(to,"{6The spirit of %s says to %s, '{7%s{6'{x",PERS(ch,to),PERS(victim,to),argument);
+			}
+	}
+	}
+	if (!IS_NPC(ch) )
+	{
+		CHAR_DATA *mob, *mob_next;
+		OBJ_DATA *obj, *obj_next;
+	for(mob = ch->in_room->people; mob != NULL; mob = mob_next)
+	{
+		mob_next = mob->next_in_room;
+		if (IS_NPC(mob) && HAS_TRIGGER_MOB( mob, TRIG_SPEECH )
+			&&	mob->position == mob->pIndexData->default_pos)
+			p_act_trigger( argument, mob, NULL, NULL, ch, NULL, NULL, TRIG_SPEECH);
+	    for ( obj = mob->carrying; obj; obj = obj_next )
+	    {
+		obj_next = obj->next_content;
+		if ( HAS_TRIGGER_OBJ( obj, TRIG_SPEECH ) )
+		    p_act_trigger( argument, NULL, obj, NULL, ch, NULL, NULL, TRIG_SPEECH );
+	    }
+	}
+	for ( obj = ch->in_room->contents; obj; obj = obj_next )
+	{
+	    obj_next = obj->next_content;
+	    if ( HAS_TRIGGER_OBJ( obj, TRIG_SPEECH ) )
+		p_act_trigger( argument, NULL, obj, NULL, ch, NULL, NULL, TRIG_SPEECH );
+	}
+	
+	if ( HAS_TRIGGER_ROOM( ch->in_room, TRIG_SPEECH ) )
+	    p_act_trigger( argument, NULL, NULL, ch->in_room, ch, NULL, NULL, TRIG_SPEECH );
+	}
+    return;
+}
+
 
 void do_shout( CHAR_DATA *ch, char *argument )
 {
