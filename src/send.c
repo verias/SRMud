@@ -848,13 +848,11 @@ void do_say( CHAR_DATA *ch, char *argument )
 	  if(!IS_NPC(ch) && ch->pcdata->condition[COND_DRUNK] > 10)
 		  argument = makedrunk(argument,ch);
 
+
 	  crushcaps(argument);
 
 	send_to_one(ch, "{6You say '{7%s{6'{x",argument );
-	if(!IS_NPC(ch))
-	{
-		calc_rpxp(ch,argument);
-	}
+
 
 	for(to = ch->in_room->people; to; to = to_next)
 	{
@@ -872,8 +870,8 @@ void do_say( CHAR_DATA *ch, char *argument )
 	{
 		CHAR_DATA *mob, *mob_next;
 		OBJ_DATA *obj, *obj_next;
-	for(mob = ch->in_room->people; mob != NULL; mob = mob_next)
-	{
+		for(mob = ch->in_room->people; mob != NULL; mob = mob_next)
+		{
 		mob_next = mob->next_in_room;
 		if (IS_NPC(mob) && HAS_TRIGGER_MOB( mob, TRIG_SPEECH )
 			&&	mob->position == mob->pIndexData->default_pos)
@@ -884,16 +882,17 @@ void do_say( CHAR_DATA *ch, char *argument )
 		if ( HAS_TRIGGER_OBJ( obj, TRIG_SPEECH ) )
 		    p_act_trigger( argument, NULL, obj, NULL, ch, NULL, NULL, TRIG_SPEECH );
 	    }
-	}
-	for ( obj = ch->in_room->contents; obj; obj = obj_next )
-	{
+		}
+		for ( obj = ch->in_room->contents; obj; obj = obj_next )
+		{
 	    obj_next = obj->next_content;
 	    if ( HAS_TRIGGER_OBJ( obj, TRIG_SPEECH ) )
 		p_act_trigger( argument, NULL, obj, NULL, ch, NULL, NULL, TRIG_SPEECH );
-	}
+		}
 	
-	if ( HAS_TRIGGER_ROOM( ch->in_room, TRIG_SPEECH ) )
-	    p_act_trigger( argument, NULL, NULL, ch->in_room, ch, NULL, NULL, TRIG_SPEECH );
+		if ( HAS_TRIGGER_ROOM( ch->in_room, TRIG_SPEECH ) )
+		    p_act_trigger( argument, NULL, NULL, ch->in_room, ch, NULL, NULL, TRIG_SPEECH );
+		calc_rpxp(ch,argument);
 	}
     return;
 }
@@ -931,10 +930,9 @@ void do_sayto( CHAR_DATA *ch, char *argument )
 
 	send_to_one(ch, "{6You say to %s, '{7%s{6'{x",PERS(victim,ch),argument );
 	send_to_one(victim, "{6%s says to you, '{7%s{6'{x",PERS(ch,victim),argument);
-	if(!IS_NPC(ch))
-	{
-		calc_rpxp(ch,argument);
-	}
+
+
+
 
 	for(to = ch->in_room->people; to; to = to_next)
 	{
@@ -974,6 +972,7 @@ void do_sayto( CHAR_DATA *ch, char *argument )
 	
 	if ( HAS_TRIGGER_ROOM( ch->in_room, TRIG_SPEECH ) )
 	    p_act_trigger( argument, NULL, NULL, ch->in_room, ch, NULL, NULL, TRIG_SPEECH );
+			calc_rpxp(ch,argument);
 	}
     return;
 }
