@@ -1909,6 +1909,7 @@ struct	char_data
 	CHAR_DATA *		mprog_target;
     MEM_DATA *		memory;
 	KNOWN_DATA	 *		known;
+	bool			introing;
     SPEC_FUN *		spec_fun;
     MOB_INDEX_DATA *	pIndexData;
     DESCRIPTOR_DATA *	desc;

@@ -244,6 +244,7 @@ void fwrite_char( CHAR_DATA *ch, FILE *fp )
 	fprintf( fp, "Sec  %d\n",	ch->pcdata->security);
 	for (known=ch->known; known != NULL; known = known->next )
 		fprintf(fp,"Known %s\n",known->name);
+	fprintf( fp, "Intro %d\n", ch->introing);
     fprintf( fp, "Plyd %d\n",
 	ch->played + (int) (current_time - ch->logon)	);
     fprintf( fp, "Not  %ld %ld %ld %ld %ld\n",		
@@ -873,6 +874,7 @@ bool load_char_obj( DESCRIPTOR_DATA *d, char *name )
     ch->comm				= COMM_COMBINE 
 					| COMM_PROMPT;
     ch->prompt 				= str_dup("<%hhp %mm %vmv> ");
+	ch->introing			= TRUE;
     ch->pcdata->confirm_delete		= FALSE;
     ch->pcdata->pwd			= str_dup( "" );
     ch->pcdata->bamfin			= str_dup( "" );
@@ -1551,6 +1553,7 @@ void fread_char( CHAR_DATA *ch, FILE *fp )
 	    KEY( "InvisLevel",	ch->invis_level,	fread_number( fp ) );
 	    KEY( "Inco",	ch->incog_level,	fread_number( fp ) );
 		KEY( "Incr",	ch->pcdata->incarnations, fread_number(fp) );
+		KEY( "Intro",   ch->introing, fread_number( fp ) );
 		KEY( "Invi",	ch->invis_level,	fread_number( fp ) );
 	    break;
 

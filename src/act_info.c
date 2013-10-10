@@ -1064,8 +1064,8 @@ if (ch->desc->original != NULL) ch = ch->desc->original;
 
 for (known=ch->known; known != NULL; known=known->next)
 {
-  if (is_name(known->name,victim->name)
-	  || IS_IMMORTAL(ch))
+  if ((is_name(known->name,victim->name))
+	  || (IS_IMMORTAL(ch)) || (ch == victim) || (ch->introing == FALSE))
     return TRUE;
 }
 
@@ -1085,6 +1085,38 @@ known->next = ch->known;
 ch->known = known;
 
 return;
+}
+
+void do_introon(CHAR_DATA *ch, char *argument)
+{
+	if(IS_NPC(ch))
+		return;
+	if(ch->introing == FALSE)
+	{
+		send_to_one(ch, "You are now using the introduction system.");
+		ch->introing = TRUE;
+	}
+	else
+	{
+		send_to_one(ch, "You are already using the introduction system.");
+	}
+	return;
+}
+	
+void do_introoff(CHAR_DATA *ch, char *argument)
+{
+	if(IS_NPC(ch))
+		return;
+	if(ch->introing == TRUE)
+	{
+		send_to_one(ch, "You are no longer using the introduction system.");
+		ch->introing = FALSE;
+	}
+	else
+	{
+		send_to_one(ch, "You are already not using the introduction system.");
+	}
+	return;
 }
 
 void do_autoexit(CHAR_DATA *ch, char *argument)
@@ -2069,6 +2101,15 @@ void do_score( CHAR_DATA *ch, char *argument )
   else if ( ch->alignment > -700 ) send_to_char( "evil.\n\r",    ch );
   else if ( ch->alignment > -900 ) send_to_char( "demonic.\n\r", ch );
   else                             send_to_char( "satanic.\n\r", ch );
+
+  if(ch->introing == FALSE)
+  {
+	  send_to_one(ch, "You are not currently using the intro system.");
+  }
+  else
+  {
+	  send_to_one(ch, "You are currently using the intro system.");
+  }
   send_to_char("{Y------------------------------------------------------------------{x\n\r",ch);
 
   if (IS_SET(ch->comm,COMM_SHOW_AFFECTS)) {

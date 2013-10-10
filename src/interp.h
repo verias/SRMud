@@ -405,3 +405,5 @@ DECLARE_DO_FUN( do_clanpmote		);
 DECLARE_DO_FUN( do_cledit		);
 DECLARE_DO_FUN( do_sayto	);
 DECLARE_DO_FUN( do_pray		);
+DECLARE_DO_FUN( do_introon );
+DECLARE_DO_FUN( do_introoff);

@@ -192,6 +192,8 @@ const	struct	cmd_type	cmd_table	[] =
     { "unalias",	do_unalias,	POS_DEAD,	 0,  LOG_NORMAL, 1 },
     { "wimpy",		do_wimpy,	POS_DEAD,	 0,  LOG_NORMAL, 1 },
 	{ "introduce",	do_introduce, POS_RESTING, 0, LOG_NORMAL, 1 },
+	{ "introon",	do_introon, POS_RESTING,	0,	LOG_NORMAL, 1 },
+	{ "introoff",   do_introoff, POS_RESTING, 0, LOG_NORMAL, 1 },
 	{ "lore",		do_lore,		POS_RESTING, 0, LOG_NORMAL, 1 },
 
     /*
