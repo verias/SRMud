@@ -847,7 +847,7 @@ void cond_update( void )
 	    gain_condition( ch, COND_THIRST, -1 );
 	    gain_condition( ch, COND_HUNGER, ch->size > SIZE_MEDIUM ? -2 : -1);
 	
-        if ( !IS_NPC(ch) && !IS_IMMORTAL(ch) )
+        if ( !IS_NPC(ch) && !IS_IMMORTAL(ch) && (ch->race != race_lookup("vampire")) )
             {
                 if ( ch->position > POS_RESTING )
           
