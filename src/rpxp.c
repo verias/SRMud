@@ -33,6 +33,8 @@ int calc_rpxp(CHAR_DATA *ch, char *str)
 	int cap = 500;
 	
 	amt = countwords(str);
+	if(!IS_IMMORTAL(ch))
+	{
 	if (amt < 5 )
 	{
 		award = 1;
@@ -42,9 +44,9 @@ int calc_rpxp(CHAR_DATA *ch, char *str)
 		award = cap;
 	}
 	else
-		award = (30 + (amt));// + people in room, will math soon
+		award = (30 + (amt) * .75);// + people in room, will math soon
 
-
+	}
 	ch->pcdata->rpxpbonus += award;
 	return award;
 }

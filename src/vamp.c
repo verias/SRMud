@@ -372,6 +372,11 @@ void do_feed( CHAR_DATA *ch, char *argument )
 		return;
 	}
 
+	if(ch->pcdata->condition[COND_FULL] > 40)
+	{
+		send_to_one(ch, "You are too full to feed further.");
+		return;
+	}
 
  	if ( ch == victim )
 	{
@@ -385,6 +390,11 @@ void do_feed( CHAR_DATA *ch, char *argument )
 	act("Your jaw opens wide as you feed upon $N's lifeblood.", ch, NULL, victim, TO_CHAR);
 	act("$n's jaw opens wide as they feed upon $N's lifeblood.", ch, NULL, victim, TO_NOTVICT);
 	act("$n's jaw opens wide as they feed upon your lifeblood.", ch, NULL, victim, TO_VICT);
+
+	gain_condition(ch, COND_FULL, 10 );
+	gain_condition(ch, COND_HUNGER, 10);
+	gain_condition(ch, COND_THIRST, 10);
+	send_to_one(ch, "As you feed, your hunger and thirst are quelled.");
 	return;
 }
 

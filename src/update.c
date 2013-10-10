@@ -993,7 +993,7 @@ void char_update( void )
 		}
 	    }
 
-		   if ( !IS_NPC(ch) && !IS_IMMORTAL(ch) )
+		   if ( !IS_NPC(ch) && !IS_IMMORTAL(ch)  && (ch->race != race_lookup("vampire")))
             {
                 if ( ch->position == POS_RESTING )
                     gain_condition( ch, COND_TIRED, 0 );
@@ -1555,7 +1555,7 @@ void update_handler( void )
 	quest_update( );
 	save_org();
 	save_org_list();
-	award_rpxp();
+	
 
 
     }
@@ -1572,6 +1572,7 @@ void update_handler( void )
 	{
 		pulse_cond = (PULSE_TICK * 2);
 		cond_update();
+		award_rpxp();
 	}
 
 	if ( --pulse_char     <= 0)
