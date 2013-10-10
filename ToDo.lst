@@ -8,7 +8,7 @@ Finish tracking system.
 Move vampires to an afflcition instead of race
 Player owned homes.
 combat spell review and revamp
-stat rolling system at creation
+stat rolling system at creation (This could be a more variable thing later. More variety in races with fuzzy stats)
 finish class editor and class system
 finish race editor and system
 fishing code
@@ -17,10 +17,9 @@ multiclassing
 skill group levels
 tattoos and tattooing
 finish ghost code, 3 types of resurrection, adding proper PLR_DEAd flags in code
-reproduction and NPC to PC babies
+reproduction and NPC to PC babies (maybe,maybe not)
 lightining strike
 dream event system
-delays for mprogs
 city guards, order guards
 global war
 arena system
@@ -29,8 +28,6 @@ scripted quests
 fix typos in messages
 Finish out the remort system
 add "short" command for players (RP related)
-RPXP timer system for using emote/pmote/smote
-Sayto command
 fix sneak and hide messages
 show "flying" and other effects in_room
 finish smithing and add other tradeskills (leatherworking, tailoring, fletching, mining)
@@ -85,3 +82,6 @@ Remort system
 Pwipe code
 added string_append system for personal descriptoin
 Player death
+delays for mprogs
+RPXP timer system for using emote/pmote/smote
+Sayto command
