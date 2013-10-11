@@ -1527,7 +1527,7 @@ struct	kill_data
 #define ROOM_VNUM_LIMBO		      2
 #define ROOM_VNUM_CHAT		   1200
 #define ROOM_VNUM_TEMPLE	   3001
-#define ROOM_VNUM_ALTAR		   3054
+#define ROOM_VNUM_ALTAR		   3300
 #define ROOM_VNUM_SCHOOL	   3767
 #define ROOM_VNUM_BALANCE	   4500
 #define ROOM_VNUM_CIRCLE	   4400

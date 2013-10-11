@@ -1286,7 +1286,7 @@ void do_donate( CHAR_DATA *ch, char *argument)
      
          char_from_room(ch);
          char_to_room(ch,get_room_index(ROOM_VNUM_ALTAR));
-         pit = get_obj_list(ch, "pit", ch->in_room->contents);
+         pit = get_obj_list(ch, "locker", ch->in_room->contents);
          obj_from_char(obj);
          obj_to_obj(obj, pit);
          char_from_room(ch);
