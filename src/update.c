@@ -880,7 +880,7 @@ void cond_update( void )
             if ( ch->pcdata->condition[COND_BLEEDING] > 0 )
             {
             send_to_char("You are {rbleeding!{x\n\r",ch);
-            ch->hit = ch->hit - (ch->hit * 15/100);
+            ch->hit = ch->hit - (ch->max_hit * 5/100);
             }
             if (( ch->pcdata->condition[COND_BLEEDING] > 0 ) &&
                   number_range( 0, 10 ) > 5 )
@@ -939,6 +939,9 @@ void char_update( void )
 		ch->hit  += hit_gain(ch);
 	    else
 		ch->hit = ch->max_hit;
+
+		if(!IS_NPC(ch)  && ch->hit == ch->max_hit )
+			ch->pcdata->condition[COND_BLEEDING] = 0;
 
 	    if ( ch->mana < ch->max_mana )
 		ch->mana += mana_gain(ch);

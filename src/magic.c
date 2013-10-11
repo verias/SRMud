@@ -1857,6 +1857,8 @@ void spell_cure_critical( int sn, int level, CHAR_DATA *ch, void *vo,int target)
 
     heal = dice(3, 8) + level - 6;
     victim->hit = UMIN( victim->hit + heal, victim->max_hit );
+	if(victim->hit == victim->max_hit)
+	victim->pcdata->condition[COND_BLEEDING] = 0;
     update_pos( victim );
     send_to_char( "You feel better!\n\r", victim );
     if ( ch != victim )
@@ -1896,6 +1898,8 @@ void spell_cure_light( int sn, int level, CHAR_DATA *ch, void *vo,int target)
 
     heal = dice(1, 8) + level / 3;
     victim->hit = UMIN( victim->hit + heal, victim->max_hit );
+		if(victim->hit == victim->max_hit)
+	victim->pcdata->condition[COND_BLEEDING] = 0;
     update_pos( victim );
     send_to_char( "You feel better!\n\r", victim );
     if ( ch != victim )
@@ -1934,6 +1938,8 @@ void spell_cure_serious( int sn, int level, CHAR_DATA *ch, void *vo,int target )
 
     heal = dice(2, 8) + level /2 ;
     victim->hit = UMIN( victim->hit + heal, victim->max_hit );
+		if(victim->hit == victim->max_hit)
+	victim->pcdata->condition[COND_BLEEDING] = 0;
     update_pos( victim );
     send_to_char( "You feel better!\n\r", victim );
     if ( ch != victim )
@@ -3307,6 +3313,8 @@ void spell_heal( int sn, int level, CHAR_DATA *ch, void *vo,int target )
 {
     CHAR_DATA *victim = (CHAR_DATA *) vo;
     victim->hit = UMIN( victim->hit + 100, victim->max_hit );
+		if(victim->hit == victim->max_hit)
+	victim->pcdata->condition[COND_BLEEDING] = 0;
     update_pos( victim );
     send_to_char( "A warm feeling fills your body.\n\r", victim );
     if ( ch != victim )

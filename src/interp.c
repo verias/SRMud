@@ -591,14 +591,18 @@ void interpret( CHAR_DATA *ch, char *argument )
 	/*
 	 * Look for command in socials table.
 	 */
+
+	if ( !check_social( ch, command, argument ) )
+	{
 		if(( victim = get_char_world(ch,command)) != NULL)
 		{
 			sprintf(buf,"%s %s",command,argument);
 			do_function(ch,&do_tell,buf);
 		return;
 		}
-	if ( !check_social( ch, command, argument ) )
+		else
 	    send_to_char( "Huh?\n\r", ch );
+	}
 	return;
     }
 
