@@ -2,13 +2,26 @@
 Name Limbo~
 Builders All~
 VNUMs 1 30
-Credits {None } Diku    Limbo~
+Credits ( None ) Diku    Limbo~
 Security 9
 End
 
 
 
 #MOBILES
+#3
+tyrial trainer~
+{rT{Ry{rr{Ri{ra{Rl {wthe {cTr{Ca{cin{Ce{cr{x~
+{rT{Ry{rr{Ri{ra{Rl {wthe {cTr{Ca{cin{Ce{cr {wstands ready to practice{x.
+~
+~
+human~
+ABJKTYbd 0 0 0
+99 99 199d33+1999 0d0+0 99d10+85 crush
+-10 -10 -10 -10
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
 #4
 horse~
 a horse~
@@ -93,6 +106,22 @@ gold~
 money 0 A
 0 0 0 0 0
 0 10 0 P
+#6
+machine slot gambling~
+a gambling slot machine~
+A gamling machine is here, waiting to gobble up tokens.~
+grace and goodness~
+token O 0
+0 0 0 0 1
+0 0 0 P
+#7
+normal token~
+a normal token~
+A normal token lies here, collecting dust.~
+wood~
+token 0 A
+0 30 250 0 0
+0 1 1000 P
 #10
 corpse~
 the corpse of %s~
@@ -284,11 +313,15 @@ S
 
 
 #RESETS
+O 0 6 0 4
+M 0 3 1 4 1
+G 0 7 0
 S
 
 
 
 #SHOPS
+3 5 9 0 0 0 100 100 0 23
 5 0 0 0 0 0 100 100 0 23
 0
 

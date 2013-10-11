@@ -1,8 +1,8 @@
 #AREADATA
-Name { IMM } Eris    Guards area~
+Name Guards Area~
 Builders Auapia Ethran~
 VNUMs 11600 11650
-Credits (null)~
+Credits ( IMM ) Eris   Guards Area~
 Security 1
 End
 
@@ -136,11 +136,11 @@ protect IS AC
 0 0 0 0 0
 0 1 1200 P
 A
-19 5
+13 50
 A
 18 5
 A
-13 50
+19 5
 #11603
 silly magical beanie~
 a silly magical beanie~
@@ -176,11 +176,11 @@ weapon ABISb AN
 bow 12 17 crunch CD
 100 2 500 P
 A
-13 100
+18 10
 A
 19 10
 A
-18 10
+13 100
 #11610
 light~
 light~

@@ -1,8 +1,8 @@
 #AREADATA
-Name { ALL } RODCo   Upper Discordia~
+Name Upper Discordia~
 Builders Sighel Audrina Brysaar~
 VNUMs 3000 3399
-Credits (null)~
+Credits ( ALL ) RODCo   Upper Discordia~
 Security 9
 End
 
@@ -4468,6 +4468,11 @@ D2
 ~
 ~
 0 0 3008
+D3
+~
+~
+~
+0 0 4
 M 0 H 0
 S
 #3352

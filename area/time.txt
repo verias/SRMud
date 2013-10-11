@@ -1,7 +1,7 @@
 #TIME
-Hour 10
-Day Septarias~
-Date 20
+Hour 1
+Day Mendhar~
+Date 23
 Month 0
 Year 391
 End
