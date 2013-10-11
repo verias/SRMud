@@ -1730,7 +1730,7 @@ struct	kill_data
 #define COMM_NOHERO			(aa)
 #define COMM_ALLCLAN		(bb)
 #define COMM_NOCITY			(cc)
-
+#define COMM_FULLEXIT		(dd)
 
 /* display flags */
 #define COMM_COMPACT		(L)

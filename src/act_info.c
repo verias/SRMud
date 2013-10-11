@@ -1440,7 +1440,10 @@ void do_look( CHAR_DATA *ch, char *argument )
         if ( !IS_NPC(ch) && IS_SET(ch->act, PLR_AUTOEXIT) )
 	{
 	    send_to_char("\n\r",ch);
+		if(!IS_SET(ch->comm, COMM_FULLEXIT))
             do_function(ch, &do_exits, "auto" );
+		else
+			do_function(ch, &do_exits, "");
 	}
 
 		send_to_char("{O",ch);

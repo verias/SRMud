@@ -331,6 +331,12 @@ void do_quiet ( CHAR_DATA *ch, char * argument)
 	send_to_one(ch, "Quiet mode toggled.");
 }
 
+void do_fullexit( CHAR_DATA *ch, char *argument)
+{
+	TOGGLE_BIT(ch->comm, COMM_FULLEXIT);
+	send_to_one(ch, "Full exit display toggled.");
+}
+
 /* afk command */
 
 void do_afk ( CHAR_DATA *ch, char * argument)

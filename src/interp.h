@@ -408,3 +408,4 @@ DECLARE_DO_FUN( do_pray		);
 DECLARE_DO_FUN( do_introon );
 DECLARE_DO_FUN( do_introoff);
 DECLARE_DO_FUN( do_import);
+DECLARE_DO_FUN( do_fullexit);
