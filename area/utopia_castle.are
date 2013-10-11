@@ -1,0 +1,1379 @@
+#AREADATA
+Name { ALL } Zefron  *Royal Castle of Utopia~
+Builders Zefron Lisken~
+VNUMs 300 350
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#300
+utopian peasant female woman~
+a female peasant~
+A peasant woman is here haggling, dressed in some dirty and low quality cloth.
+~
+This peasant woman haggles profusely with the vendors, eager to get a good 
+deal it seems.  Her face is dirty and smudged, and underneath the dirt are 
+some wrinkles that place her age somewhere between middle-aged and older.  
+Small hands that look as though they would be better suited to some other 
+job are calloused and blistered from a hard life.  
+~
+human~
+A 0 300 0
+40 0 10d98+804 160d10+100 4d7+10 none
+-5 -5 -5 -3
+0 0 0 0
+(null) (null) either 180
+AHMV ABCDEFGHIJK medium unknown
+#301
+utopian peasant man male~
+a male peasant~
+A dirty and grungy man is shouting at the nearest vendors.
+~
+This man looks to be of the peasant class of Utopia.  His hands are smeared 
+with dirt, as is his face in a few spots.  As a human, he is not remarkable 
+in any particular fashion.  
+~
+human~
+A 0 300 0
+35 0 10d76+654 140d10+100 4d6+9 none
+-3 -3 -3 -1
+0 0 0 0
+(null) (null) female 157
+AHMV ABCDEFGHIJK medium unknown
+#302
+Before the Palace~
+an elvish lute player~
+An elvish lute player serenades the nearest haggling peasants with his attempt at song.
+~
+Nearly six and a half feet in height, this elf stands a good head and 
+shoulders over the surrounding crowds.  This illusion is probably enhanced 
+by the fact that he stands on a small box to be better seen.  Fair hair and 
+fair skin with pointed ears mark this lute player as something of elven 
+descent.  
+ 
+~
+elf~
+A J 300 0
+38 0 10d89+743 152d10+100 4d6+11 none
+-4 -4 -4 -2
+0 0 B Z
+(null) (null) female 171
+AHMV ABCDEFGHIJK medium unknown
+#303
+affluent commoner woman elven~
+an affluent commoner~
+A fairly well-dressed elven woman is here, browsing some merchant's wares.
+~
+Standing at nearly six feet tall, this woman of elven descent looks 
+disdainfully at some of the more shoddy commoners, confident in her better 
+dress and the appearance of gold in her purse, at least.  Her face is 
+smooth, and while not exactly striking, it is not dirty.  
+~
+elf~
+A J 0 0
+40 0 10d98+804 160d10+100 4d7+10 none
+-5 -5 -5 -3
+0 0 B Z
+(null) (null) either 180
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#300
+thief's lantern~
+a thief's lantern~
+A small lantern with a hood over it is here.~
+tin~
+light AT A
+0 0 ABCFGHIJ 0 0
+25 10 100 P
+#301
+dirt smudged dress~
+a dirt-smudged dress~
+A wrinkled and dirt smudged dress is here, the clothing quality is less than average.~
+cotton~
+clothing 0 AD
+0 0 0 0 0
+40 5 20 P
+#302
+dirty shirt~
+a dirty shirt~
+This dirty shirt is rough and unpleasant to the touch but probably can cover 
+the upper body from sight--if not anything else. ~
+cotton~
+clothing 0 AD
+0 0 0 0 0
+35 5 20 P
+#303
+dirty pants~
+a pair of dirty pants~
+Encrusted with dirt in more than a few places, these pants do a remarkable 
+job of appearing comfortable. ~
+cotton~
+clothing 0 AF
+0 0 0 0 0
+35 7 0 P
+#304
+a lute~
+a lute~
+The wood making up this lute seems to be of good quality.  It maintains the 
+shape and shapes the sound coming from this stringed instrument.  While the 
+music that comes from this instrument could be less than entertaining, no 
+one could blame it on the lute itself.  ~
+wood~
+gem 0 AO
+0 0 0 0 0
+38 5 0 P
+#305
+a nicely tailored dress~
+a nicely tailored dress~
+This dress has been tailored especially for a slim woman of some affluence.  
+The cloth is soft and very smooth to the touch.  ~
+cotton~
+clothing 0 AD
+0 0 0 0 0
+40 10 200 P
+#306
+Janku Road~
+a low table~
+This table is low and rather long.~
+wood~
+furniture Y 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#300
+Utopian Bazaar~
+The air here is filled with the buzzing sounds of life.  The well traversed 
+dirt is hard and compact causing there to be little dust in the air.  A 
+massive stone archway looms over from the north and the bazaar continues to 
+the west.  Many peasants stand about gossiping or buying goods from local 
+peddlers.  A man leans against the stone wall playing a lute to amuse the 
+shoppers.  
+~
+0 0 1
+E
+archway~
+The archway is artfully carved near the edges in parallel lines that curve 
+around the arch.  Similar to rays of the rising sun, the lines stretch out 
+only a few bare inches.  
+~
+D3
+~
+~
+~
+0 0 301
+M 0 H 0
+S
+#301
+Along the Wall~
+The bazaar continues here against the northern wall though it is 
+considerably less crowded.  The dirt here has started to turn to mud in 
+several places.  Some wooden posts have been grounded here near the wall to 
+the north to serve as a place to tie up horses.  A few utopian peasant women 
+stand off to the side gossiping loudly.  To the west a large oak door is set 
+in to the base of a large stone tower.  The bazaar continues to the south 
+and east.  
+~
+0 0 1
+E
+posts~
+These posts are circular and are fairly secure, standing about four feet in 
+height.  
+~
+E
+door~
+The oak door to the west is thick enough to be fairly secure, but it does 
+not appear to be locked.  
+~
+D1
+~
+~
+~
+0 0 300
+D2
+~
+~
+~
+0 0 303
+D3
+~
+~
+~
+1 0 302
+M 0 H 0
+S
+#302
+West Tower~
+Very little light penetrates into this cold dank room.  Stone walls curve 
+around only being broken up by a large oak door set into the east wall.  The 
+floor is composed of solid stone which supports the rest of the tower with a 
+firm foundation.  Curving along the wall is a narrow set of wooden steps 
+leading up into the tower.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 301
+D4
+~
+~
+~
+0 0 306
+M 0 H 0
+S
+#303
+Utopian Bazaar~
+Water gushes from the mouth of a stone bear, spilling out into an ornate 
+stone pool.  Peasants gather here to take time away from the hubbub of the 
+rest of the bazaar.  The bazaar continues to the east and south.  Sound 
+echoes off of the walls to the west and south, making the bazaar sound 
+louder than it actually is.  
+~
+0 0 1
+E
+bear~
+Well-crafted, artfully sculpted, and beautiful in every respect--this bear 
+is both magnificent and almost realistic.  It seems almost magical, the way 
+that it seems to draw people to it.  
+~
+D0
+~
+~
+~
+0 0 301
+D1
+~
+~
+~
+0 0 304
+M 0 H 0
+S
+#304
+Utopian Bazaar~
+The bazaar meets a stone entrance to the south here that leads into the area 
+of the Palace of Utopia.  There are gates here but they stand wide open 
+against the walls to either side of the entrance.  People walk about this 
+area aimlessly, browsing a few stands nearby.  To the east and west, the 
+bazaar continues.  Far above the palace, a high tower can be seen.  A dull 
+red glow emenates from the top of it.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 305
+D2
+~
+~
+~
+0 0 308
+D3
+~
+~
+~
+0 0 303
+M 0 H 0
+S
+#305
+Utopian Bazaar~
+Several benches sit in the southeast corner of the bazaar and serve as a 
+meeting place for the contemporary Utopian scholar.  Often times, this place 
+is occupied by at least a few people discussing something particularly 
+interesting in the realm.  A patch of moss grows upon the eastern wall in a 
+peculiar pattern.  The bazaar goes on to the west.  
+~
+0 0 1
+D3
+~
+~
+~
+0 0 304
+M 0 H 0
+S
+#306
+Within the Western Tower~
+Light is barely admitted into this room via some slits along the walls.  
+Wooden steps emerge from the room below along the southwestern portion of 
+the tower.  The flooring here is solid wood, dusty and dirty.  Scattered 
+around the room are some boxes constructed of wood, stacked on top of each 
+other nearly haphazardly.  The small amount of light in the room casts dark 
+shadows between the boxes.  The roof of the stone tower appears to be 
+thatched.  Sturdy wooden beams make up the rafters.  
+~
+0 8 0
+E
+south~
+Behind a stacked set of boxes is a small wooden door.
+~
+E
+boxes~
+The boxes litter the room in no particular order, but the southern portion 
+of the room near the steps is different.  The boxes there are stacked in a 
+peculiar fashion, in a straight line.  
+~
+E
+steps~
+The steps are fairly small for traveling on, but appear to be able to hold a 
+good amount of weight on each one.  
+~
+D2
+~
+~
+~
+0 0 307
+D5
+~
+~
+~
+0 0 302
+M 0 H 0
+S
+#307
+Thief's Chamber~
+Boxes are stacked strategically around this dark room in such a way that 
+provides many places to hide and sneak about undetected.  A bed built from 
+boxes and adorned by a few different pillows and sackcloth is in the 
+northeastern corner behind a wall of boxes.  The room has one small chink in 
+the wall to the south, exposing a little light to the darkness within the 
+chamber.  
+~
+0 8 0
+E
+bed~
+An unlit lantern and a small table bearing a few items rest by the bed.
+~
+D0
+~
+~
+~
+0 0 306
+M 0 H 0
+S
+#308
+A Large Hall~
+Large stone pillars form a path towards a platform that stretches fully 
+across the pathway.  Upon the platform is a well-crafted throne of polished 
+wood.  This room appears to reflect sound well because of the stone walls 
+and the vaulted ceiling.  There is a simple wooden door to the west and a 
+small archway that leads to the east.  A stained-glass door leads to the 
+south onto the palace lawn.  
+~
+0 8 0
+E
+pillars~
+The pillars are too large for a human to wrap his or her arms around.  They 
+reach to the high vaulted ceiling, either holding it up or used as some kind 
+of psychological advatange for whomever is sitting on that wooden throne.  
+~
+D0
+~
+~
+~
+0 0 304
+D1
+~
+~
+~
+0 0 309
+D2
+~
+~
+~
+1 0 315
+D3
+~
+~
+~
+1 0 312
+M 0 H 0
+S
+#309
+Dinning Hall~
+This room is quite longer than it is wide.  A wooden chandelier hangs from 
+both the northern and southern section of the room.  In the center of the 
+room is a long narrow dining table, set with silver dishes and matching 
+goblets and silverware.  A swinging door leads south and a stone archway 
+leads west to the Great Hall.  
+~
+0 8 0
+E
+chandelier~
+Circular, almost wheel-like, these chandeliers hang equidistant from the 
+east and west walls.  They are lit with small orbs of light, which may be 
+magical or just the way that candles look from below.  Spokes trail out from 
+the center of the chandeliers, wavy and intricate in design.  
+~
+D2
+~
+~
+~
+1 0 310
+D3
+~
+~
+~
+0 0 308
+M 0 H 0
+S
+#310
+The Kitchen~
+This room in the palace is warm to the point of being stuffy and bothersome, 
+probably due to the large fire burning in the fireplace and the one burning 
+in the wood stove.  A tall butcher's table is off to the side near the 
+western wall.  The smell of baked goods and various other foods just seems 
+to hang in the air, not really coming from a particular direction.  Copper 
+pots and pans hang from a rack along the eastern wall, and large box of an 
+almost metallic sheen stands against the southern wall near a small wooden 
+door.  A wooden swinging door leads to the north.  
+~
+0 8 0
+E
+rack~
+An assortment of cooking pans and pots lines this north and south rack.  
+Other instruments of cooking design also hang from the rack.  
+~
+D0
+~
+~
+~
+1 0 309
+D2
+~
+~
+~
+1 0 311
+M 0 H 0
+S
+#311
+Servants Quaters~
+The walls of this tiny room are dingy grey and barren.  The only furniture 
+in this room is two sets of bunk beds made up with simple linen sheets.  A 
+small washtub sits in the corner.  This seems to be the living quarters for 
+the servants of the Utopian Palace.  Cobwebs hang in a few of the room's 
+corners, as if this room does not get cleaned often.  A door is set into the 
+north wall.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 310
+M 0 H 0
+S
+#312
+The Sitting Room~
+This room seems warm and inviting.  A worn rug covers most of the floor 
+leaving only a bit of the stone to be seen.  Three couches are arranged 
+around a large fireplace.  A low wooden table is in the middle of the 
+couches.  There is a portrait on the northern wall, and some things on a 
+shelf above the fireplace.  
+~
+0 8 0
+E
+portrait~
+A young woman with blazing eyes, flame-tipped fingers, and dressed in scant 
+clothing is here.  She crouches on the edge of a rock, the hilt of a sword 
+visible within her hands.  No blade can be seen.  
+~
+E
+shelf~
+A small orb of crystal and a block of wood sit on the mantle.  Not very 
+interesting looking.  
+~
+D1
+~
+~
+~
+1 0 308
+D2
+~
+~
+~
+0 0 313
+M 0 H 0
+S
+#313
+A Cozy Library~
+The walls of this rather small room are lined with bookshelves
+overflowing with books.  A set of two tables and chairs stand in the middle
+of the room allowing several people to sit and read in the quiet.  A large
+tapestry hangs upon the south wall.  This room must contain hundreds of
+books on various topics.  
+~
+0 0 0
+E
+inscription~
+Here is the final battle of the great berserker Thengis.  His forces were 
+unsuccessful in defeating the Ancient lord, but severely depleted the armies 
+thereof.  
+~
+E
+tapestry~
+This tapestry depicts a bloody battle between an Ancient and a horde of 
+mortals.  Warriors lead the front line attack, bearing the brunt of the 
+physical force of the battle.  Some strange half-creatures battle against 
+the mortals, ripping into the warrior line.  A berserker (or, if not a 
+berserker, an incredibly senseless warrior) plows into the beasts.  Directly 
+behind the warriors are some war-mages, casting spells that appear to be 
+affecting the entire area of combat.  Healers are directly behind them, 
+attempting to heal the warriors.  
+There is an inscription below the tapestry.
+~
+D0
+~
+~
+~
+0 0 312
+D2
+~
+tapestry~
+~
+1 0 314
+M 0 H 0
+S
+#314
+A Private Study~
+This small chamber is warm and comfortable.  A warm fire glows in
+fireplace set into the western wall.  A small desk and chair sit in the
+middle of the room and is covered by pieces of parchment sorted into various
+stacks.  A large comfortable arm chair sits in the corner waiting for
+someone to curl up in it with a book from the shelf that sits against the
+east wall.  A large rug covers the floor and is soft and squishy underfoot. 
+The only exit is back through the tapestry.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 313
+M 0 H 0
+S
+#315
+Upon the Lawn~
+A small patio leads out to a sprawling expanse of green lawn.  Sitting on 
+the patio is a small table and a set of comfortable-looking chairs.  To the 
+west is a hedge wall, standing almost ten feet in height.  It blocks the 
+view to the west and south, and wraps around the lawn until it reaches a 
+stone wall to the east with a door set into it.  Far over the hedge walls 
+can be seen the walls of the nearest buildings that are a part of the palace 
+compound.  To the south, there is a small hole in the hedge wall.  A stained 
+glass door leads north.  
+~
+0 0 1
+E
+hedge~
+The hedges are exceptionally high, and unpenetrable.  Ivy grows over the 
+leafy barrier, only breaking for a small opening at the southern portion of 
+the hedge wall.  
+~
+D0
+~
+~
+~
+1 0 308
+D1
+~
+~
+~
+1 0 335
+D2
+~
+~
+~
+0 0 316
+M 0 H 0
+S
+#316
+Entrance to the Garden~
+The hedge rises high on both sides of the pathway, forming an impenetrable 
+wall.  The grass is soft and green and appears to be well-maintained.  The 
+sounds of different animals and various insects can be heard throughout the 
+garden.  The maze continues to the south and the lawn is visible through the 
+hole in the hedge to the north.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 315
+D2
+~
+~
+~
+0 0 317
+M 0 H 0
+S
+#317
+In The Garden Maze~
+Large well-kept hedges form walls that block the view of the rest of the 
+garden.  The ground below is grassy and soft beneath your feet.  The only 
+thing visible above the maze walls is a large statue which towers somewhere 
+in the center of the maze.  The only exits appear to be north and east.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 316
+D1
+~
+~
+~
+0 0 318
+M 0 H 0
+S
+#318
+In the Garden Maze~
+Large well-kept hedges form walls blocking the view of the rest of the 
+garden.  The ground below is grassy and soft and appears to be 
+well-maintained.  The only thing visible above the maze walls is a large 
+statue which towers somewhere in the center of the maze.  The maze continues 
+on to the east, west or south.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 319
+D2
+~
+~
+~
+0 0 320
+D3
+~
+~
+~
+0 0 317
+M 0 H 0
+S
+#319
+A Dead End~
+Large well-kept hedges form walls blocking the view of the rest of the 
+garden.  The ground below is grassy and soft and appears to be 
+well-maintained.  The only thing visible above the maze walls is a large 
+statue which towers somewhere in the center of the maze.  It seems there is 
+no way to go except back the way you came.  
+~
+0 0 3
+E
+ground~
+The turf here is soft and grassy, but there is some kind of strange wooden 
+handle that sticks out from the grassy turf.  It appears to be a hatch, well 
+hidden in the grass.  
+~
+D3
+~
+~
+~
+0 0 318
+D5
+~
+hatch~
+~
+1 0 334
+M 0 H 0
+S
+#320
+In The Garden Maze~
+Large well-kept hedges form walls blocking the view of the rest of the 
+garden.  The ground below is grassy and soft and appears to be well 
+maintained.  The only thing visible above the maze walls is a large statue 
+which towers somewhere in the center of the maze.  The maze continues on to 
+the north, south, and west from here.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 318
+D2
+~
+~
+~
+0 0 321
+D3
+~
+~
+~
+0 0 326
+M 0 H 0
+S
+#321
+In The Garden Maze~
+Large well-kept hedges form walls blocking the view of the rest of the 
+garden.  The ground below is grassy and soft and appears to be well 
+maintained.  The only thing visible above the maze walls is a large statue 
+which towers somewhere in the center of the maze.  The maze leads to the 
+north or to the east and west.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 320
+D1
+~
+~
+~
+0 0 322
+D3
+~
+~
+~
+0 0 323
+M 0 H 0
+S
+#322
+A Dead End~
+Large well-kept hedges form walls blocking the view of the rest of the 
+garden.  The ground below is grassy and soft and appears to be well 
+maintained.  The only thing visible above the maze walls is a large statue 
+which towers somewhere in the center of the maze.  It seems there is no way 
+to go except back the way you came.  
+~
+0 0 3
+D3
+~
+~
+~
+0 0 321
+M 0 H 0
+S
+#323
+In The Garden Maze~
+Large well-kept hedges form walls blocking the view of the rest of the 
+garden.  The ground below is grassy and soft and appears to be well 
+maintained.  The only thing visible above the maze walls is a large statue 
+which towers somewhere in the center of the maze.  The maze continues to the 
+east and west.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 321
+D3
+~
+~
+~
+0 0 324
+M 0 H 0
+S
+#324
+In The Garden Maze~
+Large well-kept hedges form walls blocking the view of the rest of the 
+garden.  The ground below is grassy and soft and appears to be well 
+maintained.  The only thing visible above the maze walls is a large statue 
+which towers somewhere in the center of the maze.  The maze continues north, 
+east, and west.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 325
+D1
+~
+~
+~
+0 0 323
+D3
+~
+~
+~
+0 0 328
+M 0 H 0
+S
+#325
+Before A Large Statue~
+This part of the maze is large and the hedge walls are set farther back, 
+making it a sort of clearing.  Here, a large statue is present in the center 
+of the clearing.  A plaue adorns the bottom of the statue.  Placed around 
+the statue are several stone benches flanked with flower pots filled with 
+daisies.  The maze continues on in all directions.  
+~
+0 0 3
+E
+statue~
+The statue is one of a mage standing proudly.  Water pours from his 
+outstretched hand.  A small plaque adorns the bottom of it.  
+~
+E
+plaque~
+The writing on the plaque cannot be read, as it has been scratched off.  
+~
+E
+statue~
+The statue portrays an older gentleman cloaked in robes and standing with
+a air of great authority.  Magical symbols adorn his robes and body.  He was
+obviously someone of great power and strength.  
+~
+D0
+~
+~
+~
+0 0 327
+D1
+~
+~
+~
+0 0 326
+D2
+~
+~
+~
+0 0 324
+D3
+~
+~
+~
+0 0 330
+M 0 H 0
+S
+#326
+In The Garden Maze~
+Large well-kept hedges form walls blocking the view of the rest of the 
+garden.  The ground below is grassy and soft and appears to be well 
+maintained.  The only thing visible above the maze walls is a large statue 
+which towers somewhere in the center of the maze.  The maze continues to the 
+east and west.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 320
+D3
+~
+~
+~
+0 0 325
+M 0 H 0
+S
+#327
+A Dead End~
+Large well-kept hedges form walls blocking the view of the rest of the 
+garden.  The ground below is grassy and soft and appears to be well 
+maintained.  The only thing visible above the maze walls is a large statue 
+which towers somewhere in the center of the maze.  It seems there is no way 
+to go except back the way you came.  
+~
+0 0 3
+D2
+~
+~
+~
+0 0 325
+M 0 H 0
+S
+#328
+In The Garden Maze~
+Large well-kept hedges form walls blocking the view of the rest of the 
+garden.  The ground below is grassy and soft and appears to be well 
+maintained.  The only thing visible above the maze walls is a large statue 
+which towers somewhere in the center of the maze.  The maze leads north, 
+east, and west.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 330
+D1
+~
+~
+~
+0 0 324
+D3
+~
+~
+~
+0 0 329
+M 0 H 0
+S
+#329
+A Dead End~
+Large well-kept hedges form walls blocking the view of the rest of the 
+garden.  The ground below is grassy and soft and appears to be well 
+maintained.  The only thing visible above the maze walls is a large statue 
+which towers somewhere in the center of the maze.  It seems there is no way 
+to go except back the way you came.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 328
+M 0 H 0
+S
+#330
+In The Garden Maze~
+Large well-kept hedges form walls blocking the view of the rest of the 
+garden.  The ground below is grassy and soft and appears to be well 
+maintained.  The only thing visible above the maze walls is a large statue 
+which towers somewhere in the center of the maze.  The maze continues to the 
+east, north and south.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 331
+D1
+~
+~
+~
+0 0 325
+D2
+~
+~
+~
+0 0 328
+M 0 H 0
+S
+#331
+In The Garden Maze~
+Large well-kept hedges form walls blocking the view of the rest of the 
+garden.  The ground below is grassy and soft and appears to be well 
+maintained.  Thing visible above the maze walls is a large statue which 
+towers somewhere in the center of the maze.  The maze leads off to the south 
+and west.  
+~
+0 0 3
+D2
+~
+~
+~
+0 0 330
+D3
+~
+~
+~
+0 0 332
+M 0 H 0
+S
+#332
+In The Garden Maze~
+Large well-kept hedges form walls blocking the view of the rest of the 
+garden.  The ground below is grassy and soft and appears to be well 
+maintained.  The only thing visible above the maze walls is a large statue 
+which towers somewhere in the center of the maze.  The maze continues to the 
+north and east.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 333
+D1
+~
+~
+~
+0 0 331
+M 0 H 0
+S
+#333
+In the garden maze~
+Large well-kept hedges form walls blocking the view of the rest of the 
+garden.  The ground below is grassy and soft and appears to be well 
+maintained.  The only thing visible above the maze walls is a large statue 
+which towers somewhere in the center of the maze.  It seems there is no way 
+to go except back the way you came.  
+~
+0 0 3
+D2
+~
+~
+~
+0 0 332
+M 0 H 0
+S
+#334
+A weapons cache~
+This large underground area appears to be a storage area of sorts.  It is 
+nearly a hundred feet square, shored up by sturdy wooden timbers.  Tables 
+and racks fill the room, almost making it crowded within the confines of the 
+chamber.  The hatch above is the only exit from this chamber.  
+~
+0 8 0
+E
+tables~
+Each table contains unassembled armor, glowing with a blue aura.  It appears 
+to all be fixed to the tables.  
+~
+E
+racks~
+Each rack is full of well-crafted weapons--swords, axes, spears, and 
+daggers.  It must have cost a great deal of gold to stock such an area.  The 
+racks are sealed by both a locked bar across each rack and some sort of 
+magical aura.  
+~
+D4
+~
+~
+~
+1 0 319
+M 0 H 0
+S
+#335
+Within the Royal Palace~
+This is a hall that has rooms leading off to the north and south.  Each room 
+must be quite large to accomodate the distance between the doors.  The walls 
+here are constructed of stone blocks, curving upwards to make the hallway 
+curved all the way to its end, far to the east.  The stone has a reddish 
+tint to it, and a matching red (though darker) is present in a long carpet 
+stretching down the hallway.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 338
+D1
+~
+~
+~
+0 0 336
+D2
+~
+~
+~
+0 0 339
+D3
+~
+~
+~
+1 0 315
+M 0 H 0
+S
+#336
+Within the Royal Palace~
+This is a hall that has rooms leading off to the north and south.  Each room 
+must be quite large to accomodate the distance between the doors.  The walls 
+here are constructed of stone blocks, curving upwards to make the hallway 
+curved all the way to its end, far to the east.  The stone has a reddish 
+tint to it, and a match red (though darker) is present in a long carpet 
+stretching down the hallway.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 340
+D1
+~
+~
+~
+0 0 337
+D2
+~
+~
+~
+0 0 341
+D3
+~
+~
+~
+0 0 335
+M 0 H 0
+S
+#337
+Within the Royal Palace~
+This is a hall that has rooms leading off to the north and south.  Each room 
+must be quite large to accomodate the distance between the doors.  The walls 
+here are constructed of stone blocks, curving upwards to make the hallway 
+curved all the way to its end.  The stone has a reddish tint to it, and a 
+matching red (though darker) is present in a long carpet stretching down the 
+hallway.  There is a staircase here leading to the upper levels.  
+~
+0 8 0
+D0
+~
+~
+~
+4 0 342
+D2
+~
+~
+~
+0 0 343
+D3
+~
+~
+~
+0 0 336
+D4
+~
+~
+~
+0 0 344
+M 0 H 0
+S
+#338
+Guest Room~
+~
+0 8 0
+D2
+~
+~
+~
+0 0 335
+M 0 H 0
+S
+#339
+Guest room~
+~
+0 8 0
+D0
+~
+~
+~
+0 0 335
+M 0 H 0
+S
+#340
+Guest room~
+~
+0 8 0
+D2
+~
+~
+~
+0 0 336
+M 0 H 0
+S
+#341
+Guest room~
+~
+0 8 0
+D0
+~
+~
+~
+0 0 336
+M 0 H 0
+S
+#342
+High Lord's Room~
+This room is massive, easily over one hundred feet square.  A desk against 
+the northern wall sits under a painting, a comfortable chair nearby.  An 
+extremely large fireplace occupies the space of the eastern wall across from 
+an ornate bed.  There is a large carpet on the floor, covering the stone 
+nearly entirely except for the edges nearest the walls.  Light is provided 
+by lanterns placed strategically at the center of each wall.  
+~
+0 1048584 0
+D2
+~
+~
+~
+4 0 337
+M 0 H 0
+S
+#343
+Guest room~
+~
+0 8 0
+D0
+~
+~
+~
+0 0 337
+M 0 H 0
+S
+#344
+The Upper Level~
+~
+0 8 0
+D0
+~
+~
+~
+0 0 347
+D1
+~
+~
+~
+0 0 350
+D2
+~
+~
+~
+0 0 348
+D3
+~
+~
+~
+0 0 349
+D4
+~
+~
+~
+0 0 345
+D5
+~
+~
+~
+0 0 337
+M 0 H 0
+S
+#345
+Within the Tower~
+~
+0 8 0
+D4
+~
+~
+~
+0 0 346
+D5
+~
+~
+~
+0 0 344
+M 0 H 0
+S
+#346
+At the Orb~
+~
+0 1048576 0
+D5
+~
+~
+~
+0 0 345
+M 0 H 0
+S
+#347
+The Armory~
+~
+0 8 0
+D2
+~
+~
+~
+0 0 344
+M 0 H 0
+S
+#348
+Proconsul Office~
+~
+0 8 0
+D0
+~
+~
+~
+0 0 344
+M 0 H 0
+S
+#349
+Meeting Chamber~
+~
+0 8 0
+D1
+~
+~
+~
+0 0 344
+M 0 H 0
+S
+#350
+Magistrate Office~
+~
+0 8 0
+D3
+~
+~
+~
+0 0 344
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 301 3 1
+D 0 302 1 1
+D 0 308 2 1
+D 0 308 3 1
+D 0 309 2 1
+D 0 310 0 1
+D 0 310 2 1
+D 0 311 0 1
+D 0 312 1 1
+D 0 313 2 1
+D 0 314 0 1
+D 0 315 0 1
+D 0 315 1 1
+D 0 319 5 1
+D 0 334 4 1
+D 0 335 3 1
+D 0 337 0 2
+D 0 342 2 2
+M 0 300 1 300 10
+E 0 301 0 5
+M 0 301 2 300 10
+E 0 302 0 5
+E 0 303 0 7
+M 0 302 1 300 10
+E 0 304 0 17
+M 0 300 2 301 10
+E 0 301 0 5
+M 0 303 1 301 10
+E 0 305 0 5
+O 0 300 0 307
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

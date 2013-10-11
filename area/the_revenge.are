@@ -1,0 +1,811 @@
+#AREADATA
+Name {20 40} Estyn   *TBA~
+Builders Estyn~
+VNUMs 18600 18699
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#18600
+Barnacle key~
+a key covered in barnacles~
+A barnacle covered key lies here.~
+unknown~
+18 0 AO 0
+0 0 0 0 0
+1 2 0 P
+0
+#0
+
+
+
+#ROOMS
+#18600
+Under The Surf~
+As you dive underneath the waves into the current, you start to feel the
+pressure of the water on your chest.  All around you the water gets darker
+as you swim deeper.  The pull of the current feels stronger now.  Perhaps
+you should turn around for air while you still have a chance.  
+~
+0 8192 7
+D5
+~
+~
+0 0 18602
+S
+#18601
+~
+~
+0 0 0
+D2
+~
+~
+0 0 18638
+S
+#18602
+Darkening Depths~
+It is almost completely dark now and only the faintest traces of light
+still penetrate this deep.  Your lungs start to ache, but the pull of the
+current is too strong now.  Your only hope lies in following the current and
+hoping it takes you back to the surface.  
+~
+0 8192 13
+D4
+~
+~
+0 0 18600
+D5
+~
+~
+0 0 18603
+S
+#18603
+Fading To Black~
+You are now consumed in the darkness of the waters and the pressure on
+your body is becoming unbearable.  Still traveling downwards, you see a
+glimmer of hope.  A few more meters down you see a aura of light coming from
+behind a large rock and the current is pulling you towards it.  
+~
+0 8192 13
+D4
+~
+~
+0 0 18602
+D5
+~
+~
+0 0 18604
+S
+#18604
+A Giant Bubble.~
+As you stand on the floor of the sea, you realize that the ground is dry
+and you can breathe.  The aura of light allows a glimpse of the wonderous
+floor of the Sea of Discord.  The ground is covered in coral and vegatation
+of the most unique hues of{G green{x and{C blue{x.  Creatures large and
+small, swim by in all directions outside of the bubble as you decide which
+way to go.  To the south some sort of sunken vessel can be seen.  
+~
+0 0 2
+D0
+~
+~
+0 0 18638
+D1
+~
+~
+0 0 18618
+D2
+~
+~
+0 0 18625
+D3
+~
+~
+0 0 18605
+D4
+~
+~
+0 0 18603
+S
+#18605
+Under The Sea~
+~
+0 0 0
+D1
+~
+~
+0 0 18604
+D3
+~
+~
+0 0 18606
+S
+#18606
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18609
+D1
+~
+~
+0 0 18605
+D2
+~
+~
+0 0 18612
+D3
+~
+~
+0 0 18607
+S
+#18607
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18610
+D1
+~
+~
+0 0 18606
+D2
+~
+~
+0 0 18613
+D3
+~
+~
+0 0 18608
+S
+#18608
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18611
+D1
+~
+~
+0 0 18607
+S
+#18609
+~
+~
+0 0 0
+D2
+~
+~
+0 0 18606
+D3
+~
+~
+0 0 18610
+S
+#18610
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18609
+D2
+~
+~
+0 0 18607
+D3
+~
+~
+0 0 18611
+S
+#18611
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18610
+D2
+~
+~
+0 0 18608
+S
+#18612
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18606
+D3
+~
+~
+0 0 18613
+S
+#18613
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18607
+D1
+~
+~
+0 0 18612
+D2
+~
+~
+0 0 18614
+S
+#18614
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18613
+S
+#18615
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18616
+D2
+~
+~
+0 0 18619
+S
+#18616
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18617
+D2
+~
+~
+0 0 18620
+D3
+~
+~
+0 0 18615
+S
+#18617
+A Bed Of Coral~
+~
+0 0 0
+D2
+~
+~
+0 0 18621
+D3
+~
+~
+0 0 18616
+S
+#18618
+Under The Sea~
+~
+0 0 0
+D1
+~
+~
+0 0 18619
+D3
+~
+~
+0 0 18604
+S
+#18619
+Under The Sea~
+~
+0 0 0
+D0
+~
+~
+0 0 18615
+D1
+~
+~
+0 0 18620
+D2
+~
+~
+0 0 18622
+D3
+~
+~
+0 0 18618
+S
+#18620
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18616
+D1
+~
+~
+0 0 18621
+D2
+~
+~
+0 0 18623
+D3
+~
+~
+0 0 18619
+S
+#18621
+A Bed Of Coral~
+~
+0 0 0
+D0
+~
+~
+0 0 18617
+D3
+~
+~
+0 0 18620
+S
+#18622
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18619
+D1
+~
+~
+0 0 18623
+S
+#18623
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18620
+D2
+~
+~
+0 0 18624
+D3
+~
+~
+0 0 18622
+S
+#18624
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18623
+S
+#18625
+The Mystery~
+A large ship sits frighteningly close to the edge of a steep underwater
+cliff.  The markings on the side in large black letters suggest the name of
+this ship is "The Mystery".  The side of the ship is riddled with holes and
+decay, but there is no obvious way in from here.  Large masses of{m coral{x
+and other sea vegetation share the outside of the hull with the barnacles. 
+Hanging over the side is some old rigging and sails that have seen better
+days.  
+~
+0 0 13
+D0
+~
+~
+0 0 18604
+D4
+~
+~
+0 0 18627
+S
+#18626
+Port Side~
+Here on the port side of the ship you can see over the side and into the
+darkness that spreads over the cliff.  The deck on this side of the ship is
+also cleaner than it should be.  Through the holes in the floors, a lower
+deck can be made out below.  There should be a staircase around here
+somewhere. The deck continues to the east and the south.  
+~
+0 0 0
+D1
+~
+~
+0 0 18627
+D2
+~
+~
+0 0 18630
+S
+#18627
+On The Deck~
+The top deck of The Mystery spans before you.  The floor is full of the
+same type of holes that plague the rest of the ship.  All of the masts are
+broken and collapsed but the main one, and only feeble attempts seem to have
+been made to mend them.  Most suprisingly though is the fact that the deck
+you stand on is much cleaner than it should be.  There is a rotting door to
+the east while the rest of the deck continues to the west and south.  
+~
+0 0 0
+D1
+~
+~
+1 18600 18628
+D2
+~
+~
+0 0 18631
+D3
+~
+~
+0 0 18626
+D5
+~
+~
+0 0 18625
+S
+#18628
+War Room~
+~
+0 0 0
+D3
+~
+~
+1 0 18627
+S
+#18629
+Ammo Storage~
+This must have been where all of the ships ammo was stored.  Cannon balls
+and other projectiles litter the whole area.  Off in the corner lies a few
+barrels of black powder, most of which seems to have spilled when the ship
+was sunk.  The only exit is back up to the main deck.  
+~
+0 0 0
+D4
+~
+~
+0 0 18630
+S
+#18630
+Port Side~
+It is a marvel how the only thing that seems to be holdong this ship
+together is the coral that has grown around it.  Though the deck is clean, a
+few bits of coral have managed to creep over the side.  Through the holes in
+the floor, a lower deck can be made out below.  Off to the side, a hatch in
+the floor can be seen.  The top deck continues to the north and the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 18626
+D2
+~
+~
+0 0 18634
+D5
+~
+~
+0 0 18629
+S
+#18631
+Main Mast~
+The main mast looms before you.  Particular care seems to seems to have
+been taken to this area of the ship.  Its as if special attention has been
+made to keep this mast in tact and free from growth.  Perhaps as a reminder
+of the Mystery's former glory.  The deck continues to the south towards the
+stern of the ship.  There is also some rigging leading up the mast.  
+~
+0 0 0
+D0
+~
+~
+0 0 18627
+D1
+~
+~
+0 0 18632
+D2
+~
+~
+0 0 18635
+D4
+~
+~
+0 0 18639
+S
+#18632
+Captain's Quarters~
+This must be where the Captain made his time when not bellowing out
+orders to his crew.  Though the room is in disarray and most of the
+furniture destroyed, you can imagine the decadence that was contained here
+when the ship was in its prime.  A large desk, inlaid with silver and gold,
+spans nearly the entire length of the far wall complete with a matching
+leather smoking chair.  In the middle of the room a harpsichord covered in
+elaborate engravings seems to have been tossed on its side in the wreck.  A
+large mahogany wardrobe leans precariously up against the wall to the right.
+There are doors to the east, south and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 18633
+D2
+~
+~
+0 0 18636
+D3
+~
+~
+0 0 18631
+S
+#18633
+Elaborate Bedroom~
+A gigantic four poster bed dominates most of this room.  Though the wood
+on the bed is decayed, the intricate carvings up and down the posts are
+still clear.  This room is in a state of disarry just like the others.  A
+medium sized footlocker sits no the eastern wall.  If it were not for the
+precious metal inlays that adorn its lid, and much of everything else, it
+would be mistaken for one of the crew member's.  Various other fine pieces
+of furniture are strewn about the room.  The only exit appears to be back to
+the west.  
+~
+0 0 0
+D3
+~
+~
+0 0 18632
+S
+#18634
+Approaching The Stern~
+The feeling that you are not alone on this ship seems to get stronger as
+you work your way towards the stern.  This area, just like most of the top
+deck has been slightly kept up as well.  Off to the side you can see as far
+into the depths as your light will allow and wonder how deep it really goes.
+The decay is apparent all around for there is only so much one can do to
+maintain a vessel on the floor of the see.  To the east you can make out the
+large wheel that was used to guide this ship, while the deck continues to
+the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 18630
+D1
+~
+~
+0 0 18635
+S
+#18635
+Ship's Stern~
+Here at the back of the ship sits the large wheel which guided this large
+craft.  It no longer moves freely, most likely the coral that threatens to
+overun the rest of the ship has frozen the rudder below.  There is a
+haunting feeling of power and control as you survey the rest of the ship
+from this vantage point.  A staircase to the back of the stern appears to
+lead below.  The rest of the deck spans out before you to the north and the
+west.  
+~
+0 0 0
+D0
+~
+~
+0 0 18631
+D3
+~
+~
+0 0 18634
+D5
+~
+~
+0 0 18637
+S
+#18636
+Captain's Washroom~
+~
+0 0 0
+D0
+~
+~
+0 0 18632
+S
+#18637
+Bottom Deck~
+The lower deck of the ship does not seem to kept as well as the top side.
+Matching holes can be made out on both sides of the ship.  With a little
+imagination one could follow the paths of the cannon balls from one side to
+the other.  Several different forms of sea life have made this ship their
+permenant residence.  As they weave in and out of the many holes in the ship
+they stir up little silt tornados to cloud your vision.  The lower deck
+continues to the north while the steps lead up to the top deck.  
+~
+0 0 0
+D0
+~
+~
+0 0 18640
+D4
+~
+~
+0 0 18635
+S
+#18638
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18601
+D2
+~
+~
+0 0 18604
+S
+#18639
+Crows Nest~
+As you stand atop of the main mast, you can take in the total destruction
+of The Mystery.  Along with the cannon holes, the years of sitting on the
+bottom of the sea have taken a toll as well.  Some distance to the north you
+can make out a large city made of hollowed out coral.  
+~
+0 0 0
+D5
+~
+~
+0 0 18631
+S
+#18640
+In The Galley~
+Pots, pans, and various other cooking utensils are either scattered or
+hanging from rusted hooks.  Who knows how many meals were cooked in this
+galley for the crew before the ship met its end.  Most of the equipment is
+rusted from years underwater, but some of it looks as if it could be
+salvaged.  To the west there is a large room full of tables and benches. 
+There is also a door barely still attached to its hinges to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 18643
+D1
+~
+~
+0 0 18641
+D2
+~
+~
+0 0 18637
+D3
+~
+~
+0 0 18642
+S
+#18641
+Sleeping Quarters~
+This room is filled with old hammocks hanging from every possible angle. 
+This must have been where the crew retired to after a hard days work or a
+particulary good meal.  Besides the hammocks, various footlockers and
+personal effects float by in an eerie dance.  The door to the west leads
+back out to the galley.  
+~
+0 0 0
+D3
+~
+~
+0 0 18640
+S
+#18642
+Dinning Area~
+This room is filled with long tables and benches to match.  Most of the
+tables are overturned or destroyed, but some seem to have been set upright
+and used recently.  It is a good assumption that many a good time was had
+here judging by the number of mead barrels and and mugs floating by.  The
+only exit is east, which leads to the galley.  
+~
+0 0 0
+D1
+~
+~
+0 0 18640
+S
+#18643
+Storage Room~
+Here towards the back of the galley is a small storage room.  Extra
+utensils and food stuffs float haphazardly about this room.  Broken shelves
+line all the barnacle covered walls bit one in this room.  A large hole has
+been blasted through the back wall, taking anything that was attached to it.
+The only apparent exit is south, back towards the galley.  
+~
+0 0 0
+D0
+~
+~
+0 0 18644
+D2
+~
+~
+0 0 18640
+S
+#18644
+Underwater Nest~
+You have managed to squeeze through the hole out the bottom front of the
+ship.  You appear to be in something's underwater home.  The ship seems to
+have landed up against a large boulder.  That combined with the surrounding
+coral, has created this perfect cubby.  Whatever lives here seems to be a
+collector of sorts.  One of the oddest collections of mismatched items lies
+in a neat pile towards the rear of the nest.  From various man made items
+such as weapons and armor, to brightly colored rocks and plants.  This nest
+is pretty well hidden and you probably shouldn't be here when the owner
+returns.  The only exit is back into the ship to the south.  
+~
+0 0 0
+D2
+~
+~
+0 0 18643
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 18627 1 1
+D 0 18628 3 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

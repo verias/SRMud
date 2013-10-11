@@ -1,0 +1,1228 @@
+#AREADATA
+Name { 5 15} Shadman Shady Acres~
+Builders None~
+VNUMs 3600 3649
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#3600
+Supervisor~
+A supervisor~
+A supervisor looks for some field-hands to yell at.
+~
+This is one of the slave master's supervisors.  He is hired help for the
+supervisor so he can just sit around and not have to watch the field-hands. 
+This dwarf is a mean and nasty one, and he has a bad attitude 
+~
+unique~
+A J -300 0
+13 5 4d28+168 13d10+100 2d4+0 bite
+5 5 5 7
+J 0 CLQ HR
+(null) (null) female 58
+AHMV ABCDEFGHIJK medium unknown
+#3601
+black crow~
+a black crow~
+A large black crow searches for tasty things to eat.
+~
+This black crow, though larger than other crows, is no less prone to a good
+frightening from a straw dummy.  It scours these fields, keeping well away from
+the posted scarecrows.
+~
+song bird~
+A T -100 0
+7 0 2d17+79 7d10+100 1d3+2 divine
+7 7 7 7
+FH 0 0 J
+(null) (null) male 31
+AGHMVW ABCDEFGHIJKOP medium unknown
+#3607
+Field-hand~
+A field-hand~
+A field-hand is here managing the crops
+~
+This is a field-hand that works on the crops.  He is a very old and beat
+up serf.  He looks like he is about to pass out from the sun.  He is using a
+rusty scythe to do his work 
+~
+human~
+A 0 0 0
+12 6 4d26+151 12d10+100 2d4+0 slice
+5 5 5 7
+J 0 0 0
+(null) (null) female 54
+AHMV ABCDEFGHIJK small unknown
+#3612
+Sergei~
+Sergei~
+Sergei, the slave master, is sitting here on a chair.
+~
+This is {RSergei{x, the slave master.  He is a large orc that hates
+everyone.  On him is his whip that he likes to use to order people around. 
+He looks like he is making off pretty well for himself compared to everyone
+else on the farm.  
+~
+orc~
+AB J -700 0
+15 6 5d31+200 15d10+100 2d4+2 jab
+4 4 4 6
+0 0 Q LS
+rest rest female 67
+ACGHMV ABCDEFGHIJKMQUVWY large unknown
+#3620
+A giant gopher~
+A giant gopher~
+A giant gopher growls at you.
+~
+A furry looking gopher is here looking to steal some of the crops.  The
+gopher is a dirty, disgusting little menace.  It is also very annoying to
+the field-hands trying to capture them.  
+~
+dog~
+A 0 -100 0
+7 4 2d17+79 7d10+100 1d3+2 crush
+7 7 7 7
+HJ 0 0 I
+(null) (null) male 31
+AGV ACDEFHJKPUV tiny unknown
+#3627
+Faith~
+Faith the shopkeeper~
+Faith the shopkeeper is here waiting to sell you vegetables.
+~
+This is Faith, the owner of the veggie stand.  Faith is a beautiful young
+elf.  She has crystal blue eyes, and long dark brown hair.  She deals in all
+of the vegetables that are in the fields.  
+~
+unique~
+ABRW J 0 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+0 ABQ BQ 0
+(null) (null) either 112
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#3600
+Chain Mail~
+a suit of chain mail~
+A heavy suit of chain mail is here.~
+unknown~
+armor 0 AD
+A A A 0 0
+8 20 40 P
+#3601
+garden hoe~
+a garden hoe~
+A garden hoe lies in the dirt here.~
+unknown~
+weapon R AN
+whip 4 4 sunder 0
+8 5 40 P
+#3602
+An ear of corn~
+an ear of corn~
+This scrumptious ear of corn tantalizes your tastebuds.~
+unknown~
+food R A
+ADE 0 0 0 0
+0 2 1 P
+#3603
+basket read hand woven~
+a small basket~
+A cute basket hand woven out of reeds.~
+unknown~
+container R A
+20 0 0 0 0
+5 15 0 P
+#3604
+carrot~
+a carrot~
+A bright orange carrot is on the ground here.~
+unknown~
+food R A
+ADE 0 0 0 0
+1 2 2 P
+#3605
+cucumber~
+a cucumber~
+A cucumber lies here on the ground.~
+unknown~
+food R A
+ADE 0 0 0 0
+0 2 1 P
+#3606
+pea pod~
+a pea pod~
+A green pea pod has been discarded here.~
+unknown~
+food R A
+ADE 0 0 0 0
+0 2 1 P
+#3607
+Rusty scythe~
+a rusty scythe~
+This scythe is rusted in age and is nearly useless.~
+unknown~
+weapon 0 AN
+whip 4 4 slice 0
+8 10 40 P
+#3608
+scarecrow dummy~
+a scarecrow~
+A large straw dummy hangs limp, arms outstretched.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 100 1 P
+#3609
+Cucumber~
+a cucumber~
+A big cucumber is here acting as bait~
+unknown~
+warp_stone 0 A
+I H AC C 0
+0 2 20 P
+#3610
+a tomato~
+a tomato~
+A juicy red tomato is here.~
+unknown~
+food 0 A
+BCDE 0 0 0 0
+1 1 2 P
+#3611
+A cucumber~
+a cucumber~
+A large green cucumber is here.~
+unknown~
+food 0 A
+BCDE 0 0 0 0
+1 1 2 P
+#3612
+a comfortable chair~
+a comfortable chair~
+A comfortable looking chair is here.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 10 0 P
+#3613
+A Slaver's Whip~
+a slave master's whip~
+A slave master's whip is here.~
+unknown~
+weapon 0 AN
+flail 4 5 scratch 0
+10 3 50 P
+#3614
+a carrot~
+a carrot~
+A bright orange carrot can be seen here.~
+unknown~
+food 0 A
+BCDE 0 0 0 0
+1 1 2 P
+#3615
+Corn~
+a stalk of corn~
+A stalk of corn is acting as bait~
+unknown~
+warp_stone 0 0
+I H AC C 0
+0 2 25 P
+#3616
+a pea pod~
+a pea pod~
+A pea pod has been dropped here. Looks pretty yummy.~
+unknown~
+food 0 A
+BCDE 0 0 0 0
+1 1 2 P
+#3617
+Carrot~
+a carrot~
+A huge carrot is here acting as bait.~
+unknown~
+warp_stone 0 0
+I H AC C 0
+0 2 25 P
+#3618
+corn~
+an ear of corn~
+An ear of corn is here.~
+unknown~
+food 0 A
+BCDE 0 0 0 0
+1 1 2 P
+#3619
+A tomato~
+a small tomato~
+This tomato is unusually small in size, but makes up in taste.~
+unknown~
+food R A
+BCDE 0 0 0 0
+1 1 2 P
+#3620
+Tomato~
+a plump red tomato~
+A plump red tomato is acting as bait.~
+unknown~
+warp_stone 0 0
+I H AC C 0
+0 2 20 P
+#3627
+An oak counter~
+an oak counter~
+An oak counter is here, bolted to the floor.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 20 0 P
+#0
+
+
+
+#ROOMS
+#3600
+The North-Eastern Corner of The Vegetable Garden~
+The dirt here is smooth and easy to walk on because the field-hands have
+nothing to plant here.  It is also smooth because the gophers are not really
+here.  The workers left some of their equipment here that they might need
+for later use.  A dirty garden hoe, a dusty old plow, and a pile of smelly
+fertilizer have all been left here.  To the south is the entrance of the
+garden, and to the west, there is a path along the northern wall.  
+~
+0 0 2
+E
+equipment~
+Some of the field-hands equipment has been left here.  There are many
+things like garden hoes, plows, and shovels.  There is also some fertilizer
+here so the plants can grow better.  
+~
+D2
+To the south is the entrance to Shady Acres
+~
+~
+~
+0 0 3601
+D3
+To the west, is the road along the northern wall.  
+~
+~
+~
+0 0 3606
+M 0 H 0
+S
+#3601
+The Entrance to Shady Acres~
+This is where the entrance of the vegetable garden is.  It is where the
+field-hands are being forced to do labor in the field to grow produce. 
+There are an assortment of crops.  There are some vegetables like juicy
+carrots, plump red tomatoes, big cucumbers, luscious peas, and there are
+some immense corn stalks There are wagon loads of the different varieties
+heading across fields to a building.  
+~
+0 0 2
+D0
+To the north, is the north-eastern corner of the vegetable garden 
+~
+~
+~
+0 0 3600
+D2
+To the south, is the road along the east wall.  
+~
+~
+~
+0 0 3602
+D3
+To the west is a trail between the tomato and pea crops.  
+~
+~
+~
+0 0 3607
+M 0 H 0
+S
+#3602
+Farther Along The Eastern Wall~
+This is a road along the eastern wall of the vegetable garden.  There
+isn't anything but gopher holes here.  Because of the busy little rodents,
+there is a gritty texture in the soil.  To the north is the entrance of the
+fields, and to the south is more road along the wall.  To the west is a
+trail between the pea and corn crops.  
+~
+0 0 2
+E
+hole~
+This is one of the many holes that the gophers of the garden have dug 
+~
+D0
+To the north is the entrance to the fields, where you came in.  
+~
+~
+~
+0 0 3601
+D2
+To the south, you would be going along the eastern road.  
+~
+~
+~
+0 0 3603
+D3
+To the west is a path between the peas and the corn.  
+~
+~
+~
+0 0 3608
+M 0 H 0
+S
+#3603
+Along The Eastern Wall~
+This is the road along the eastern wall.  You notice a couple of wagons
+rolling slowly by.  In the wagons, are an assortment of various vegetables
+that are heading across the fields to some sort of building.  To the west is
+the trail that is between the corn and the cucumber crops.  To the north and
+the south, is the road heading along the eastern wall.  
+~
+0 0 2
+E
+wagon~
+This wagons seems to be transporting the various vegetables in the garden
+acroos the field.  
+~
+D0
+To the north is more road along the eastern road.  
+~
+~
+~
+0 0 3602
+D2
+To the south is more road along the eastern wall.  
+~
+~
+~
+0 0 3604
+D3
+To the west is a path between the corn and the cucumber crops.  
+~
+~
+~
+0 0 3609
+M 0 H 0
+S
+#3604
+Along The Eastern Wall~
+Nearby, the startling sound of some wagon wheels grabs your attention. 
+You practically have to jump out of the way before the wagons run into you. 
+The wagons enter from the north and exit to the west.  To the north the road
+extends along the eastern wall of the garden, and to the south is a corner
+of the garden.  To the west is the trail between the cucumber and the carrot
+fields.  
+~
+0 0 2
+E
+wagon~
+There is barely enough time to get a glimpse of this wagon since it is
+going so fast.  It seems to be dropping some of it's cargo every time it
+hits a bump.  
+~
+D0
+To the north is more road along the eastern wall.  
+~
+~
+~
+0 0 3603
+D2
+To the south is the south-eastern corner of the garden.  
+~
+~
+~
+0 0 3605
+D3
+To the west is a path in between the cucumber and carrot crops.  
+~
+~
+~
+0 0 3610
+M 0 H 0
+S
+#3605
+The South-Eastern Corner of The Vegetable Garden~
+This is the South-Eastern corner of the vegetable garden.  This is a
+place where the wagons carry the vegetables across the field.  They usually
+turn here going in the western direction.  To the north is the road along
+the eastern wall.  To the west, is the road along the southern wall.  In the
+distance is the sound and the sight of a wagon fading away.  The crop that
+is seen if you go west is carrots.  
+~
+0 0 2
+D0
+To the north, is a road along the eastern wall.  
+~
+~
+~
+0 0 3604
+D3
+To the west, is a road along the southern wall.  
+~
+~
+~
+0 0 3611
+M 0 H 0
+S
+#3606
+Along The Northern Wall of The Vegetable Garden~
+There is nothing really special here.  The only things in sight are the
+tomato vines, and the northern wall.  On the ground, are some wagon tracks
+going in the western direction.  To the south are some tomato vines.  To the
+east is the northeastern corner of the garden.  In the western direction is
+the entrance to some sort of cabin.  
+~
+0 0 2
+E
+tomato~
+These vines are seen hanging over the border of the vegetable garden.  
+~
+D1
+To the east is the north-east corner of the vegetable garden.  
+~
+~
+~
+0 0 3600
+D3
+To the west is the entrance to the cruel slave master's cabin.  
+~
+~
+~
+0 0 3613
+M 0 H 0
+S
+#3607
+The Vegetable Garden~
+This is a place where some vegetables are grown.  The vegetables grown
+here are tomatoes and peas.  The tomatoes to the north and peas to the
+south.  There is an irregularity with the produce here though, tomatoes are
+rotten and the peas are half eaten.  The field-hands better do something
+before all of their crops are destroyed.  
+~
+0 0 2
+D1
+To the east is the place where you first came in the fields.  
+~
+~
+~
+0 0 3601
+D3
+To the west is more trail between the tomatoes and peas.  
+~
+~
+~
+0 0 3614
+M 0 H 0
+S
+#3608
+The Vegetable Garden~
+This is a trail between the pea and the corn gardens.  To the north are
+peas and to the south are the corn stalks.  There are some scattered gopher
+holes here.  The vegetables are a little bruised from what looks like
+gophers.  To the west is the continuing trail between the pea and vegetable
+garden.  To the east is a part of the eastern wall.  
+~
+0 0 2
+E
+hole~
+This is one of the holes that the gophers have dug.  
+~
+D1
+If you go to the east, you would be going along the eastern wall.  
+~
+~
+~
+0 0 3602
+D3
+To the west, is more trail between the corn and pea crops.  
+~
+~
+~
+0 0 3615
+M 0 H 0
+S
+#3609
+The Vegetable Garden~
+This is part of the trail between the corn and the cucumber gardens.  The
+vegetables here are damaged beyond recognition and should be replaced
+immediately.  There is what looks like a trap here that is trying to catch
+the menaces, but it is having no luck at all.  To the west is the continuing
+trail between the gardens.  To the east is a part of the eastern wall of the
+garden.  
+~
+0 0 2
+E
+trap~
+This trap is a very big one.  It looks like it is set to catch a human,
+but it is meant for gophers.  This trap is one to be catious around, or it
+will get sett off, and could hurt.  
+~
+D1
+To the east is more road along the eastern wall.  
+~
+~
+~
+0 0 3603
+D3
+To the west is more trail between the corn and the cucumbers.  
+~
+~
+~
+0 0 3616
+M 0 H 0
+S
+#3610
+The Vegetable Garden~
+On this part of the trail, there are two types of crops.  The two are
+cucumbers and carrots.  The carrots are in the south, and the cucumbers are
+in the north.  As you look around, you notice wagons heading in all
+directions.  There is one leaving west and one on the eastern wall road
+heading south.  To the west is more of the trail between these two crops. 
+The east is a part of the eastern wall.  
+~
+0 0 2
+D1
+To the east is more road along the eastern wall.  
+~
+~
+~
+0 0 3604
+D3
+To the west is more trail between the cucumber and carrot crops.  
+~
+~
+~
+0 0 3617
+M 0 H 0
+S
+#3611
+Along The Southern Wall~
+As you travel along the southern road, you notice something.  That
+something is that there isn't much action going along here.  The only things
+in sight are the carrots to the north and wagons heading west.  To the west
+is more road along the southern wall.  To the east is the south-eastern
+corner of the garden.  
+~
+0 0 2
+D1
+To the east is the south-eastern corner of the garden.  
+~
+~
+~
+0 0 3605
+D3
+To the west is more path along the southern wall.  
+~
+~
+~
+0 0 3618
+M 0 H 0
+S
+#3612
+{RSergei's {xCabin~
+This is the home of the slave master.  His name is Sergei.  There is a
+chair which seems to be his here and it is right next to the desk.  On the
+desk are a lot of papers that probably were supposed to be sent out, but
+since Sergei is so lazy, they weren't.  In the western wall, there is a
+fireplace.  It is built into the wall and it gives off a {Wbright{x red
+glow.  Next to the fireplace is a fire poker.  
+~
+0 0 0
+E
+fireplace~
+The fireplace gives off a bright red warming glow.  There are also embers
+flying out of it, if the Slavemaster is not careful, these could start a
+fire.  
+~
+D2
+To the south, is the entrance to the cabin 
+~
+doorway~
+~
+1 0 3613
+M 0 H 0
+S
+#3613
+Before the Slave Master's Cabin~
+Standing before you is a door to the slave master's cabin.  His name is
+{RSergei{x, and through the window of the cabin, you see his chair.  Some
+stories from the field-hands are that he abuses his power and does not care
+about anything but himself.  If a field-hand gets out of line, he is either
+tortured, or killed.  To the south are tomatoes that are on their vines.  To
+the east and west is the road along the northern wall 
+~
+0 8 2
+D0
+To the north, is the cabin of Sergei, the slave master.  
+~
+doorway~
+~
+1 0 3612
+D1
+To the east is a road along the northern wall.  
+~
+~
+~
+0 0 3606
+D3
+To the west is a road along the northern wall.  
+~
+~
+~
+0 0 3619
+M 0 H 0
+S
+#3614
+The Vegetable Garden~
+This is another place where the field-hands have planted both tomatoes
+and peas.  These plants look scrumptious because they have not had a lot of
+contact from the gophers in the garden.  They are also good looking because
+certain chemicals on human's hands have not reached them as much as others. 
+In the distance, you hear the sound of wagon wheels, must be a vegetable
+transport heading towards something.  
+~
+0 0 2
+D1
+To the east, is more tomatoes and peas.  
+~
+~
+~
+0 0 3607
+D3
+To the west, is more tomatoes and peas.  
+~
+~
+~
+0 0 3620
+M 0 H 0
+S
+#3615
+The Vegetable Garden~
+This is more trail between the pea and the corn crops.  A lot of the
+vegetables are damaged and half eaten.  It must be those darn gophers. 
+There is also a trap here that was set by the field-hands to try and catch
+the furry menaces.  To the west, in the distance, is the building that the
+wagons were heading before.  To the east, is more of the trail between the
+corn and the peas.  To the south and north, the crops.  
+~
+0 0 2
+E
+trap~
+This trap is baited with a stalk of corn in an attempt to catch a gopher.
+Near the trap is a gopher peeking it's little head out of it's hole.  This
+trap is very sharp and very dangerous, to anyone.  
+~
+D1
+To the east is more trail between the corn and the pea crops.  
+~
+~
+~
+0 0 3608
+D3
+To the west is the entrance to Faith, the vegetable lady's veggie stand.  
+~
+~
+~
+0 0 3621
+M 0 H 0
+S
+#3616
+The Vegetable Garden~
+In this part of the garden, cucumbers and corns are growing.  They look
+like they are very healthy and at their best condition.  They haven't been
+chewed up and there isn't really anything here to disturb them.  The corn
+stalks are very high and have big ears of corn and the cucumbers are huge. 
+To each direction is a trail between the cucumbers and the corn.  
+~
+0 0 2
+D1
+To the east is the trail between the corn and the cucumbers.  
+~
+~
+~
+0 0 3609
+D3
+To the west is the trail in between the corn and the cucumbers.  
+~
+~
+~
+0 0 3622
+M 0 H 0
+S
+#3617
+The Vegetable Garden~
+This is the trail between the cucumbers and the carrots.  The thing about
+the produce here is that they are totally screwed up.  Just about all of
+them have been either damaged, or eaten.  The gophers really did number on
+the vegetables here.  There are a few traps here trying to catch them.  They
+are baited with carrots and do not seem to be having much luck catching the
+gophers.  To the east and west is more road along the trail.  
+~
+0 0 2
+D1
+To the east, the path between the two gardens come to an end.  
+~
+~
+~
+0 0 3610
+D3
+To the west, the path between the two gardens comes to an end.  
+~
+~
+~
+0 0 3623
+M 0 H 0
+S
+#3618
+Farther Along The Southern Wall~
+Going along the southern wall road, you see the juiciest carrots that you
+have ever seen.  They are {Wbright{x orange and are extremely plump.  Along
+the southern road, there are wagons tracks heading in both directions.  In
+the west, you can see a wagon turning to the east.  To the west and the
+east, is more along the southern wall.  
+~
+0 0 2
+D1
+To the east is more road along the southern wall.  
+~
+~
+~
+0 0 3611
+D3
+To the west is more road along the southern wall.  
+~
+~
+~
+0 0 3624
+M 0 H 0
+S
+#3619
+Along The Northern Wall of The Vegetable garden~
+There isn't anything special happening here.  The only sign of movement
+is from the wagons that carry the vegetables.  They are coming from the east
+and leaving west.  To the east, is the cruel slave master's cabin.  To the
+west, is the North-Western corner of the garden.  To the south of you are
+some more tomato vines.  Down on the ground below you, are some gopher
+holes.  
+~
+0 0 2
+E
+gopher~
+Here is one of the holes that the gophers have dug.  
+~
+D1
+To the east is the entrance to the slave master's cabin.  
+~
+~
+~
+0 0 3613
+D3
+To the west is the north-west corner of the vegetable garden.  
+~
+~
+~
+0 0 3625
+M 0 H 0
+S
+#3620
+The Vegetable Garden~
+This is a part of the path where there are vegetables being planted and
+harvested.  To the north, are the juicy red tomatoes.  To the south are the
+peas.  On the ground in front of you, there is a tomato.  It is here as if
+it were bait for something.  To the east is more trail in between the
+tomatoes and the peas.  To the west is the western wall road.  
+~
+0 0 2
+E
+trap~
+In front of you lies a trap that is set for a certain animal.  The trap
+is very sharp and can be very dangerous if it is set off.  
+~
+D1
+To the east is more trail between the tomatoes and peas.  
+~
+~
+~
+0 0 3614
+D3
+To the west, is the road along the western wall.  
+~
+~
+~
+0 0 3626
+M 0 H 0
+S
+#3621
+Before Faith's veggie stand~
+This is the entrance to Faith's veggie stand.  This is where all of the
+vegetables go after they are harvested and unloaded from the wagons.  You
+see some of the wagons exiting the building, and some entering it.  To the
+north and the south is more road along the western wall road.  To the east
+is the trail between the pea and the corn crops.  
+~
+0 0 2
+E
+tracks~
+There are some heavily imbedded tracks here.  They are from the wagon
+loads of vegetables that are headed towards the shop to the west 
+~
+D0
+To the north, is a path along the western wall.  
+~
+~
+~
+0 0 3626
+D1
+To the east is the trail between the peas and the corn.  
+~
+~
+~
+0 0 3615
+D2
+To the south, is a path along the western wall.  
+~
+~
+~
+0 0 3628
+D3
+To the west is Faith's veggie stand.  
+~
+~
+~
+0 0 3627
+M 0 H 0
+S
+#3622
+The Vegetable Garden~
+Some of the vegetables here are not that damaged.  You can't say that for
+all of them though.  Some of the corn stalks are down and some of the
+cucumbers are either half eaten, or severely bruised.  On the ground in
+front of you are two things.  One of which being gopher holes, and the other
+being wagon tracks.  To the east, is more of the trail between these two
+crops.  To the west is the western wall road.  
+~
+0 0 2
+D1
+To the east is more trail between the corn and the cucumbers.  
+~
+~
+~
+0 0 3616
+D3
+To the west is the road along the west wall.  
+~
+~
+~
+0 0 3628
+M 0 H 0
+S
+#3623
+The Vegetable Garden~
+On this part of the trail, the two crops growing are cucumbers and
+carrots.  These vegetables look like they aren't too damaged and are ready
+to eat.  To the east is the road between the two crops, and to the west is
+the western wall of the garden.  You hear the sound of wagon wheels clanking
+in the distance.  Once you look in that direction, you can see the wagons
+heading north.  
+~
+0 0 2
+D1
+To the east, is more path in between the cucumber and carrot crops.  
+~
+~
+~
+0 0 3617
+D3
+To the west is more road along the western wall.  
+~
+~
+~
+0 0 3629
+M 0 H 0
+S
+#3624
+Along The Southern Wall~
+There isn't anything special happening here.  However, there are a few
+things that catch your attention.  One of which being that there are
+multiple wagon wheel tracks and other assorted tracks on the ground.  There
+is also a wagon that is heading west, and then to the north.  To the west is
+the south-western corner of the garden.  To the east is more road along the
+southern wall road.  
+~
+0 0 2
+E
+tracks~
+In the ground here are some wagons wheel tracks.  The weight of the
+wagons must have imbedded them here.  
+~
+D1
+To the east is more road along the southern wall.  
+~
+~
+~
+0 0 3618
+D3
+To the west is the south-west corner of the garden.  
+~
+~
+~
+0 0 3630
+M 0 H 0
+S
+#3625
+The North-Western Corner of The Vegetable Garden~
+This is the north-western corner of the vegetable garden.  There isn't
+really that much action here.  The only visible things are wagons heading
+south, and a few gopher holes.  To the east, there is entrance to a
+building, but that is pretty far in the distance.  To the south, you see
+wagon loads of vegetables heading to the south.  
+~
+0 0 2
+D1
+To the east, is the road along the northern wall.  
+~
+~
+~
+0 0 3619
+D2
+To the south, is the road along the western wall.  
+~
+~
+~
+0 0 3626
+M 0 H 0
+S
+#3626
+Along The Western Wall~
+You are traveling along the western wall road of the vegetable garden. 
+Here next to you are some wagons that are headed south and turning into some
+building.  There are some empty wagons heading towards the south, and to the
+north.  To the east is the path between the tomato and pea garden.  To the
+north is the north-western corner of the garden.  To the south is the
+building that the wagons are heading towards.  
+~
+0 0 2
+E
+wagons~
+There is a wagon here that is carrying vegetables somewhere.  
+~
+D0
+To the north is the north-western corner of the vegetable garden.  
+~
+~
+~
+0 0 3625
+D1
+To the east is a trail between the tomato and pea garden.  
+~
+~
+~
+0 0 3620
+D2
+To the south, is the entrance to Faith's veggie stand.  
+~
+~
+~
+0 0 3621
+M 0 H 0
+S
+#3627
+Faith's Veggie Stand~
+This is Faith's Veggie Stand.  Through the back of the shop, you see
+bushels and bundles of vegetables being carried in by the wagon drivers and
+some field-hands.  She deals in tomatoes peas, cucumbers, corn, and carrots.
+All around you are basket loads of produce.  The sweet smell of vegetables
+is in the air all around the store.  
+~
+0 0 0
+D1
+To the east is the entrance to this veggie stand.  
+~
+~
+~
+0 0 3621
+M 0 H 0
+S
+#3628
+Farther Along The Western Wall~
+You are traveling along the western wall of the garden.  You see wagons
+heading to the north towards a building.  There are also wagons coming from
+the east and far in the distance from the north going to the same building. 
+To the east is the trail between the cucumber and the corn crops.  To the
+south, is the western wall.  Below you are some gopher holes and wagon wheel
+tracks.  
+~
+0 0 2
+D0
+To the north is the entrance to Faith's veggie stand.  
+~
+~
+~
+0 0 3621
+D1
+To the east is a path between the corn and cucumber crops.  
+~
+~
+~
+0 0 3622
+D2
+To the south is a path along the western wall.  
+~
+~
+~
+0 0 3629
+M 0 H 0
+S
+#3629
+Along The Western Wall~
+This is the road along the western wall.  There are wagons heading
+towards the north.  There are plenty of wheel tracks and gopher tracks on
+the ground.  To the south is the corner of the vegetable garden.  To the
+north, in the distance, you see wagons heading towards a building.  To the
+east, is the road between the cucumber and carrot garden.  
+~
+0 0 2
+D0
+To the north is more road along the western wall.  
+~
+~
+~
+0 0 3628
+D1
+To the east is a path between the cucumber and carrot gardens.  
+~
+~
+~
+0 0 3623
+D2
+To the south, is the south-western corner of the garden.  
+~
+~
+~
+0 0 3630
+M 0 H 0
+S
+#3630
+The South-Western Corner of The Vegetable Garden~
+This is the south-western corner of the garden.  To the north, you see
+wagons bringing loads of vegetables into a building.  To the east, is the
+southern wall where the crop is carrots, and to the north is the west wall. 
+In the distance, you see a building.  On the ground, there are wagon wheel
+tracks leading north and east.  
+~
+0 0 2
+E
+tracks~
+There are wagon tracks that are headed towards the east and the north.  
+~
+D0
+To the north, is a road along the western wall.  
+~
+~
+~
+0 0 3629
+D1
+To the east is road along the southern wall.  
+~
+~
+~
+0 0 3624
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 3612 2 1
+D 0 3613 0 1
+M 0 3600 4 3600 10
+E 0 3600 0 5
+O 0 3601 0 3600
+O 0 3604 0 3604
+P 0 3608 0 1 10
+M 0 3600 4 3605 10
+E 0 3600 0 5
+M 0 3607 6 3607 10
+E 0 3607 0 9
+M 0 3601 4 3608 10
+M 0 3607 6 3608 10
+E 0 3607 0 9
+O 0 3602 0 3608
+O 0 3609 0 3609
+M 0 3620 4 3609 10
+M 0 3607 6 3610 10
+E 0 3607 0 9
+M 0 3612 1 3612 10
+E 0 3613 0 17
+O 0 3612 0 3612
+M 0 3601 4 3613 10
+M 0 3601 4 3614 10
+O 0 3615 0 3615
+M 0 3620 4 3615 10
+M 0 3607 6 3616 10
+E 0 3607 0 9
+O 0 3617 0 3617
+M 0 3620 4 3617 10
+O 0 3604 0 3618
+O 0 3619 0 3619
+M 0 3607 6 3620 10
+E 0 3607 0 9
+O 0 3620 0 3620
+M 0 3620 4 3620 10
+O 0 3605 0 3622
+M 0 3607 6 3623 10
+E 0 3607 0 9
+O 0 3606 0 3623
+P 0 3608 0 1 10
+M 0 3600 4 3625 10
+E 0 3600 0 5
+M 0 3627 1 3627 10
+G 0 3610 0
+G 0 3611 0
+G 0 3614 0
+G 0 3616 0
+G 0 3618 0
+O 0 3603 0 3627
+P 0 3608 0 1 10
+M 0 3601 4 3628 10
+S
+
+
+
+#SHOPS
+3627 19 0 0 0 0 130 70 3 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,4215 @@
+#AREADATA
+Name {15 35} RODCo   Xian~
+Builders Blyte Asamoth Xeryna~
+VNUMs 600 699
+Security 9
+End
+
+
+
+#MOBILES
+#600
+city guard xian~
+a Xian city guard~
+A Xian city guard is standing here, making sure there is no trouble.
+~
+This guard is surely a trained and skilled fighter.  He is fully armed
+and armored, and he uses his equipment with a practiced precision.  Luckily
+for you, this guard will only use his deadly skills for the good of the
+citizens of {CXian{x.  
+~
+Human~
+Ab N 1000 S
+19 0 6d37+274 19d10+100 2d5+6 3
+2 2 2 4
+0 0 0 0
+9 9 1 85
+AHMV ABCDEFGHIJK M unknown
+#601
+Caro Xian~
+Caro of Xian~
+Caro, guardian of the citadel, stands here proudly.
+~
+Caro is a powerfully built woman of tremendous prowess and presence.  She
+towers above most of the men of her town, and serves as head guardian of the
+citadel, a post she bears proudly.  Caro's armor gleams brightly, her sword
+flashes across your vision as she waves it nonchalantly in the air.  
+~
+Human~
+ABQb DHN 1000 S
+33 1 10d69+599 33d10+100 4d5+9 7
+-2 -2 -2 0
+0 0 0 0
+9 9 2 148
+AHMV ABCDEFGHIJK M unknown
+#602
+captain bontor city guard xian~
+Captain Bontor~
+Bontor, Captain of the Guard, is here disciplining his guards.
+~
+Bontor is a very big man.  He has acquired this station, not by brains or
+charm, but by brute strength.  He had fought in three race wars and is a
+descendent of a surviving hero of the War of the Ancients.  He believes that
+everything has to be hard won to be kept, and that laxity is for the weak.  
+~
+Human~
+ABb DHN 1000 S
+27 1 9d52+446 27d10+100 3d5+8 3
+0 0 0 1
+0 0 0 0
+9 9 1 121
+AHMV ABCDEFGHIJK M unknown
+#603
+captain denorah city guard xian~
+Captain Denorah~
+Denorah, Captain of the Citadel Guard, brings her soldiers' morale up.
+~
+Denorah is pale and wiry, but then, so are most other witches.  The fact
+that Denorah is a mage and a warrior makes her the perfect captain of the
+citadel guards.  Denorah is very beautiful, but whether it is due to her
+pale softness or her magic, no one has ever found out.  She isn't very
+strong physically, but she need not be.  
+~
+Human~
+ABb DN 1000 S
+28 4 9d55+470 28d10+100 3d5+9 11
+0 0 0 1
+0 0 0 0
+9 9 2 126
+AHMV ABCDEFGHIJK M unknown
+#604
+Maresh~
+Maresh the Blacksmith~
+Maresh the Blacksmith is here, ready to serve you.
+~
+Maresh is big and brawny, just like what you'd expect of a blacksmith.  He
+is smiling a very big smile, as he looks at your coins.  You wonder if he
+likes the metals or the value of the coins.  
+~
+Human~
+ABRW N 1000 S
+30 0 10d60+520 30d10+100 3d6+8 7
+-1 -1 -1 0
+0 ABQ 0 0
+9 9 1 135
+AHMV ABCDEFGHIJK M unknown
+#605
+Talesh~
+Talesh~
+Talesh is here, selling his fine leather goods.
+~
+Talesh is a middle-aged workman.  He looks tired, but never too tired to get
+that last sale from you.  His hands are calloused from years of working the
+leather.  He smells faintly of tanning chemicals even after a shower.  He
+grins at you slightly.  
+~
+Human~
+ABRW N 1000 S
+31 0 10d63+545 31d10+100 4d5+8 7
+-2 -2 -2 0
+0 ABQ 0 0
+9 9 1 139
+AHMV ABCDEFGHIJK M unknown
+#606
+Madam Wing~
+Madam Wing~
+Madam Wing is here, selling and buying little treasures.
+~
+Madam Wing is a bit old, but not to the point of senility.  Besides,
+she knows the hard ways of this world and is ready for it.  She spends her
+time at the shop, trading little things (for a wee bit of profit).  She
+likes to think that she has an eye for a great deal.  
+~
+Human~
+ABRW N 1000 S
+19 0 6d37+274 19d10+100 2d5+6 11
+2 2 2 4
+0 ABQ 0 0
+9 9 2 85
+AHMV ABCDEFGHIJK M unknown
+#607
+Ishmar~
+Ishmar~
+Ishmar, the meat store owner is here, selling you his choice meats.
+~
+Ishmar is a big man.  He used to hunt the animals he sells, but now he
+lets his son, Daresh, raise and slaughter the animals for him.  Ishmar still
+knows how to kill, though any anyone who thinks of cheating him had better
+think carefully.  
+~
+Human~
+ABRW N 1000 S
+31 0 10d63+545 31d10+100 4d5+8 11
+-2 -2 -2 0
+0 ABQ 0 0
+9 9 1 139
+AHMV ABCDEFGHIJK M unknown
+#608
+Tsuela~
+Tsuela the Farmer's wife~
+Tsuela, the farmer's wife, is selling the latest crop.
+~
+Tsuela is a very happy woman.  She can't believe the nice weather here
+in {CXian{x, and the great vegetables this land produces greatly pleases
+her.  Tsuela smiles at you nicely, but you can bet that she is doing
+that just to get a good price from of you!  
+~
+Human~
+ABRW N 1000 S
+20 0 6d39+294 20d10+100 3d5+4 7
+2 2 2 4
+0 ABQ 0 0
+9 9 2 90
+AHMV ABCDEFGHIJK M unknown
+#609
+Grandmother Theyla~
+Grandmother Theyla~
+Grandmother Theyla is here, running her still.
+~
+Grandmother Theyla is a feeble woman, but she knows her brew.  She might be
+very old, but she is still in charge of the still.  She cackles lightly at
+herself every time she tastes her whiskey, which is quite often!  Grandmother
+Theyla cackles again.  
+~
+Human~
+AB N 500 S
+15 0 5d31+200 15d10+100 2d4+2 11
+4 4 4 6
+I 0 0 0
+9 9 2 67
+AHMV ABCDEFGHIJK M unknown
+#610
+Daresh~
+Daresh~
+Daresh is here, slaughtering animals.
+~
+Daresh is the son of Ishmar, and you can see the family resemblance
+(especially in their shared affinity for slaughtering animals).  Daresh is
+strangely preoccupied with the sounds made by his victims as they draw their
+last breaths.  He is often heard to mimic those sounds.  
+~
+Human~
+AB 0 200 S
+15 0 5d31+200 15d10+100 2d4+2 3
+4 4 4 6
+0 0 0 0
+9 9 1 67
+AHMV ABCDEFGHIJK M unknown
+#611
+Shala farmer~
+Farmer Shala~
+Farmer Shala is here, milking the cows.
+~
+Farmer Shala is all covered with bits of straw and grime, but underneath
+all that, she has a pretty face and a bright smile.  She smiles at you
+demurely, and goes back to her work.  
+~
+Human~
+AB 0 800 S
+6 0 1d15+65 6d10+100 1d3+2 3
+7 7 7 8
+0 0 0 0
+9 9 2 27
+AHMV ABCDEFGHIJK M unknown
+#612
+chicken hen~
+a hen~
+A hen is here, squawking at your intrusion.
+~
+The hen has yellow feathers and small wings.  She moves in a stuttered
+motion.  
+~
+Human~
+AB 0 0 S
+2 0 1d5+19 2d10+100 1d1+0 11
+9 9 9 9
+0 0 0 0
+9 9 2 9
+AHMV ABCDEFGHIJK M unknown
+#613
+cow~
+the cow~
+A cow is here, munching on grass.
+~
+The cow is here happily grazing.  It moos at you and goes back to grazing.
+~
+Human~
+AB 0 0 S
+5 0 1d12+53 5d10+100 1d2+1 7
+8 8 8 8
+0 0 0 0
+9 9 0 22
+AHMV ABCDEFGHIJK M unknown
+#614
+cow~
+the cow~
+A cow is here, waiting to be milked.
+~
+The cow is just standing here.  She moos at you and otherwise ignores you.
+~
+Human~
+AB 0 0 S
+6 0 1d15+65 6d10+100 1d3+2 3
+7 7 7 8
+0 0 0 0
+9 9 2 27
+AHMV ABCDEFGHIJK M unknown
+#615
+horse young~
+a young horse~
+A young horse is resting here.
+~
+This is a young gelding.  His coat is still sweating from some type of 
+exertion.  He is laying on a pile of straw, slowly eating some oats which 
+hang in a bag from the stall wall.  
+~
+Human~
+AB 0 0 S
+5 0 1d12+53 5d10+100 1d2+1 7
+8 8 8 8
+0 0 0 0
+5 5 1 22
+AHMV ABCDEFGHIJK M unknown
+#616
+pig~
+the pig~
+A pig is playing here, getting itself and you dirty.
+~
+The pig looks dirty.  It snorts and sniffs at you, then goes back to its slop.
+~
+Pig~
+AB 0 0 S
+4 0 1d10+41 4d10+100 1d2+0 11
+8 8 8 8
+0 0 0 0
+9 9 0 18
+AGV ACDEFHJKP M unknown
+#617
+Xian citizen~
+a citizen~
+A Xian citizen looks at you with curiosity.
+~
+The citizen smiles at you and raises his eyebrows questioningly.  He is
+having a great day, and he wishes the same for you.  He looks at you
+strangely, though, wondering why you are so armed.  
+~
+Human~
+A 0 500 S
+18 0 6d36+255 18d10+100 2d5+6 7
+3 3 3 5
+NQ 0 0 0
+9 9 1 81
+AHMV ABCDEFGHIJK M unknown
+#618
+xian citizeness~
+a citizeness~
+A Xian citizeness is here, glancing at you inquiringly.
+~
+The Xian citizeness eyes you inquiringly.  Her aspect is prosperous, and
+she has a self-satisfied air about her.  Although curious about what brings
+you to her town, she politely tries not to stare.  
+~
+Human~
+A 0 500 S
+17 0 5d34+236 17d10+100 2d5+5 7
+3 3 3 5
+I 0 0 0
+9 9 2 76
+AHMV ABCDEFGHIJK M unknown
+#619
+child boy xian~
+the boy~
+A boy is here, playing tag and other kids' games.
+~
+The little boy comes to a stop near you and looking up at you says, 'Hi. 
+Can I have a piece of candy?  ' He suddenly smiles and runs away,
+remembering his game.  
+~
+Human~
+A 0 500 S
+3 0 1d7+30 3d10+100 1d2+0 11
+9 9 9 9
+0 0 0 0
+9 9 1 13
+AHMV ABCDEFGHIJK M unknown
+#620
+child girl xian~
+the girl~
+A girl is here, playing jump rope and other kids' games.
+~
+The pretty little girl with huge round eyes looks up at you and says,
+'Hi.  Can I have a pretty little coin?  ' She then smiles and runs away,
+remembering her game.  
+~
+Human~
+A 0 500 S
+3 0 1d7+30 3d10+100 1d2+0 3
+9 9 9 9
+0 0 0 0
+9 9 2 13
+AHMV ABCDEFGHIJK M unknown
+#621
+maid woman xian~
+the maid~
+A maid is here, cleaning the house and preparing the next meal.
+~
+The maid startles at your presence.  'You are ruining my floors!  Wait
+till Master and Mistress come back.  You will get me in trouble!  Shoo!  ',
+she says nervously.  
+~
+Human~
+A 0 500 S
+15 0 5d31+200 15d10+100 2d4+2 11
+4 4 4 6
+0 0 0 0
+9 9 2 67
+AHMV ABCDEFGHIJK M unknown
+#622
+Valentin xian~
+Valentin the Bartender~
+Valentin the Bartender is here, ready to serve you up a good brew.
+~
+Valentin is a hefty guy, who looks like he's waiting for the next bar
+fight to join in.  He has several scars to suggest that he doesn't mind
+getting into a scrap now and then.  He keeps an eye on you and his glasses,
+making sure you don't steal any.  
+~
+Human~
+ABRW 0 1000 S
+29 0 9d57+495 29d10+100 3d6+8 11
+-1 -1 -1 0
+0 ABQ 0 0
+9 9 1 130
+AHMV ABCDEFGHIJK M unknown
+#623
+city guard xian~
+a Xian city guard~
+A Xian city guard is posted here to guard the gate.
+~
+This guard is surely a trained and skilled fighter.  He is fully armed
+and armored, and he uses his equipment with a practiced precision.  Luckily
+for you, this guard will only use his deadly skills for the good of the
+citizens of {CXian{x.  
+~
+Human~
+ABb N 1000 S
+19 0 6d37+274 19d10+100 2d5+6 7
+2 2 2 4
+0 0 0 0
+9 9 1 85
+AHMV ABCDEFGHIJK M unknown
+#624
+bard xian~
+a bard~
+A bard is here, singing of the glories of {CXian{x.
+~
+After years of traveling around the world, this bard has decided to stay
+in the peaceful city of {{CXian{x, and to sing of its unmatched glories.  He
+travels to Treble once a year to continue his studies.  He smiles at you,
+hinting toward a tip in an ever a subtle way.  
+~
+Human~
+AB N 800 S
+18 0 6d36+255 18d10+100 2d5+6 7
+3 3 3 5
+CJ 0 0 0
+9 9 1 81
+AHMV ABCDEFGHIJK M unknown
+#625
+servant xian citadel~
+a servant~
+A servant is here, carrying the duties of the Keeper of the {yGolden{x Citadel.
+~
+The servant is a young man who seems to be at peace.  He walks with his
+head slightly bowed as in quiet contemplation.  He smiles good-naturedly at
+you, then goes about his duties.  
+~
+Human~
+A N 1000 S
+16 0 5d33+218 16d10+100 2d4+2 3
+3 3 3 6
+E 0 0 0
+9 9 1 72
+AHMV ABCDEFGHIJK M unknown
+#626
+knight squire xian~
+a squire~
+A knight's squire scurries from duty to duty.
+~
+This young man is tall and gaunt.  He is always rushing to finish one
+duty or the next.  Although he looks a bit harried he has a smile on his
+face and a peaceful look in his eyes.  
+~
+Human~
+A N 1000 S
+20 0 6d39+294 20d10+100 3d5+4 17
+2 2 2 4
+0 0 0 0
+9 9 1 90
+AHMV ABCDEFGHIJK M unknown
+#627
+page xian~
+a page~
+A page is here, sending a message to his knight.
+~
+The page smiles for you, asking if he can do you a favor too.  He has
+gotten used to serving the inhabitants of the Citadel and rarely thinks of
+himself anymore.  
+~
+Human~
+A N 1000 S
+15 0 5d31+200 15d10+100 2d4+2 11
+4 4 4 6
+0 0 0 0
+9 9 1 67
+AHMV ABCDEFGHIJK M unknown
+#628
+priestess xian~
+the Priestess of {CXian{x~
+The Priestess of {CXian{x is here, blessing you 
+~
+The Priestess of {CXian{x is an old woman, perfectly at peace with
+herself and with the world.  She devotes all her time to help teach the ways
+of her god, Dohara.  The dragon symbol around her neck looks almost alive.  
+~
+Human~
+AN BHN 1000 S
+30 0 10d60+520 30d10+100 3d6+8 7
+-1 -1 -1 0
+0 0 0 0
+9 9 2 135
+AHMV ABCDEFGHIJK M unknown
+#629
+chaplain oragold xian~
+Chaplain Oragold~
+Oragold, the chaplain of this Citadel, is here directing the activities of the people around here.
+~
+A small man who has seen his better years is in charge of religious
+education here in the Citadel.  He spends much time prodding the squires to
+concentrate on their duties.  He smiles at you, with the enthusiasm of a
+little kid.  What're you doing just STANDING here, young man?  Go help that
+other squire there!  , he yells.  He turns to you and with a conspiratorial
+tone, whispers, Kids!  
+~
+Human~
+Ab BHN 1000 S
+20 0 6d39+294 20d10+100 3d5+4 3
+2 2 2 4
+0 0 0 0
+9 9 1 90
+AHMV ABCDEFGHIJK M unknown
+#630
+dragonlord lord knight xian~
+a Dragonlord~
+A knight wearing armor made from the scales of a dragon stands here.
+~
+This person looks almost like a dragon itself.  His {yGolden{x scales
+gleam with power.  He smiles at you with a vicious grin and a forked tongue
+snakes from his mouth.  Luckily, he doesn't look upset at your presence.  
+~
+Human~
+A BHN 1000 S
+30 0 10d60+520 30d10+100 3d6+8 3
+-1 -1 -1 0
+0 0 0 0
+9 9 1 135
+AHMV ABCDEFGHIJK M unknown
+#631
+dragon gold~
+The Ancient {yGold{x Dragon~
+An old dragon shimmers with the colors of this cavern and peers at you sleepily.
+~
+This is a huge creature.  Just his head is taller than you.  He is
+annoyed at your disturbance, but he dismisses you as no danger to him.  He
+completely ignores you and waves to one of his attendants to escort you
+away.  
+~
+Dragon~
+AB BDFHJNOTVc 1000 S
+38 0 10d89+743 38d10+100 4d6+11 3
+-4 -4 -4 -2
+0 L 0 0
+9 9 1 171
+ACGHMVZc ABCDEFGHIJKLOPUVX M unknown
+#632
+attendant person~
+an attendant of the dragon~
+A person robed in {yGold{x is attending to the Keeper of the Citadel.
+~
+This elder servant to the {yGolden{x Dragon is very loyal to him, willing
+to risk his life for his liege.  He has spent much of his adult life in his
+service, first as one of the elite Dragonknights and finally as the personal
+attendant of his master.  He grew up in {CXian{x although he never ventures
+out of the Citadel now.  
+~
+Human~
+AO BN 1000 S
+22 0 7d42+334 22d10+100 3d5+5 11
+1 1 1 3
+0 0 0 0
+9 9 1 99
+AHMV ABCDEFGHIJK M unknown
+#633
+dragonknight knight dragon person~
+a Dragonknight~
+A person dressed in the scales of a dragon stands here, guarding the {yGolden{x Citadel.
+~
+This person looks almost like a dragon itself.  His {yGolden{x scales
+gleam with power.  He smiles at you with a vicious grin and a forked tongue
+snakes from his mouth.  Luckily, he doesn't look upset at your presence.  
+~
+Human~
+A BN 1000 S
+21 0 7d41+314 21d10+100 3d5+4 7
+1 1 1 4
+0 0 0 0
+9 9 1 94
+AHMV ABCDEFGHIJK M unknown
+#634
+city guard xian~
+a Xian city guard~
+A Xian city guard is posted here to guard the gate.
+~
+This guard is surely a trained and skilled fighter.  He is fully armed
+and armored, and he uses his equipment with a practiced precision.  Luckily
+for you, this guard will only use his deadly skills for the good of the
+citizens of {CXian{x.  
+~
+Human~
+ABb N 1000 S
+18 0 6d36+255 18d10+100 2d5+6 7
+3 3 3 5
+0 0 0 0
+9 9 1 81
+AHMV ABCDEFGHIJK M unknown
+#635
+Xian commoner~
+the commoner~
+A Xian commoner flashes you a friendly smile.
+~
+The Xian commoner has dark, suntanned skin and white teeth.  He works
+hard to provide for his family but is generally a happy man.  He looks at
+you strangely, though, wondering who you are and why you are here and
+what you want.  
+~
+Human~
+A 0 500 S
+15 0 5d31+200 15d10+100 2d4+2 0
+4 4 4 6
+FQ 0 0 0
+9 9 1 67
+AHMV ABCDEFGHIJK M unknown
+#636
+xian woman~
+a Xian woman~
+A Xian woman looks at you inquisitively.
+~
+The woman looks with curiosity at you.  She is of an unsuspecting nature,
+and kind in her manner.  She has an air of contentment, and clearly takes
+pride in her role as matriarch of her family.  
+~
+Human~
+A 0 0 S
+15 0 5d31+200 15d10+100 2d4+2 16
+4 4 4 6
+0 0 0 0
+9 9 2 67
+AHMV ABCDEFGHIJK M unknown
+#637
+Tervadi alchemist apprentice~
+a Tervadi apprentice~
+This Tervadi works as the alchemist's apprentice, he waits ready to serve you.
+~
+This young Tervadi works for the alchemist as his apprentice and has been
+left here to mind the shop and serve any costumers that should happen by. 
+His brown plumage has been freshly cleaned and his talons polished.  He
+looks at you with an astute eye as he politely enquires if he may be of
+assistance to you.  
+~
+Tervadi~
+ABRW T 0 S
+100 0 12d1397+3920 100d10+100 6d11+29 23
+-35 -35 -35 -27
+0 ABQ 0 L
+9 9 1 450
+ACGHMV ABCDEFGHIJKOU M unknown
+#638
+black tervadi~
+a black tervadi~
+A black tervadi is here, muttering about taking over the world.
+~
+This tervadi is covered in sleek black feathers and has a look of 
+intelligence about him.  He is poring over documents and maps, muttering as 
+he writes in a journal.  
+~
+Aeril~
+AP 0 0 S
+24 0 8d46+378 96d10+100 3d5+5 0
+0 0 0 2
+0 0 0 0
+9 9 1 108
+AGHNV ABCDEFGHIJKLQ M unknown
+#639
+tiger stripe haitorin~
+a tiger-striped haitorin~
+This haitorin has tiger stripes and looks like she's ready to pop.
+~
+This haitorin woman has dark blue hair and a tiger-striped body.  She 
+appears to be in her third tri-mester of being with child, as her belly is 
+swollen and does not fit with her frame.  She is obviously the fairest in 
+the land, once one takes in the comeliness of her face and her milk-heavy 
+breasts.  
+~
+Haitorin~
+AB VZ 0 S
+20 0 6d39+294 80d10+100 3d5+4 0
+2 2 2 4
+H 0 P H
+9 9 2 90
+ACGHMV ABCDEFGHIJKUV M unknown
+#640
+farm hand~
+a farm hand~
+This farm hand is helping the house wife break her marital vows.
+~
+This young farm hand has bucked teeth and smells funny, but the woman he has 
+in the throes of passion (or is she faking it?)  Must believe differently.  
+He has the woman disheveled and bent over a table to take her in a lustful 
+manner and effectively break her marital promise of loyalty.  
+~
+Human~
+AB 0 0 S
+27 0 9d52+446 108d10+100 3d5+8 0
+0 0 0 1
+0 0 0 0
+9 9 1 121
+AHMV ABCDEFGHIJK M unknown
+#641
+house wife~
+a house wife~
+This house wife is busy breaking her marriage vows.
+~
+Apparently loyalty is the thing furthest from this house wife's mind, as 
+she's here bent over a table.  Her hair is dyed red but the dye didn't take 
+well and looks awful in its currect state of disarray.  She's not a 
+particularly pretty woman, or at all attractive once it's thought about 
+thoroughly.  Her engagement in this type of carnal knowledge is fairly 
+sickening.  
+~
+Human~
+AB 0 0 S
+23 0 7d44+355 92d10+100 3d5+5 0
+1 1 1 3
+0 0 0 0
+7 7 2 103
+AHMV ABCDEFGHIJK M unknown
+#642
+xian citizen~
+a Xian citizen~
+A citizen of the fair city of Xian is here.
+~
+This citizen is clothed modestly in plain linens and cottons that are either 
+white or brown.  There is nothing particularly extraordinary about this 
+person at all, they have an average hair and eye color--even an average 
+height.
+~
+Human~
+A 0 0 S
+16 0 5d33+218 64d10+100 2d4+2 0
+3 3 3 6
+0 0 0 0
+9 9 3 72
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#600
+axe hand~
+a hand axe~
+A hand axe is on the floor here.~
+steel~
+5 0 AN 0
+AC C AC AB 0
+10 10 50 P
+E
+handaxe hand axe~
+You see a finely made axe.  Iron, with a nice wooden shaft, this axe can
+withstand years of use.
+~
+0 0
+#601
+meat cleaver~
+a meat cleaver~
+A sharp meat cleaver is just lying on the floor here!~
+iron~
+5 0 AN 0
+B AC BC AB 0
+15 5 75 P
+A
+18 1
+E
+meat cleaver~
+This meat cleaver is made of good steel.
+~
+0 BC
+#602
+side meat beef~
+a side of beef~
+A side of beef is here on the floor.~
+meat~
+19 0 A 0
+DF 0 0 0 0
+0 3 1 P
+0 0
+#603
+side meat pork~
+a side of pork~
+A side of pork is here on the floor.~
+meat~
+19 0 A 0
+ABF 0 0 0 0
+0 3 1 P
+0 0
+#604
+side meat horse~
+a side of horse~
+A side of horse is here on the floor.~
+meat~
+19 0 A 0
+BEF 0 0 0 0
+0 4 1 P
+0 0
+#605
+meat chicken~
+a featherless chicken~
+A featherless chick is here on the floor.~
+meat~
+19 0 A 0
+ABCD 0 0 0 0
+0 5 1 P
+0 0
+#606
+emerald ring~
+an emerald ring~
+An emerald ring is on the floor, gathering dust.~
+emerald~
+8 G AB 0
+0 0 0 0 0
+15 1 150 P
+A
+12 10
+0 0
+#607
+glass trinket~
+a glass trinket~
+A glass trinket is on the floor, gathering dust.~
+glass~
+8 0 AO 0
+0 0 0 0 0
+15 1 150 P
+A
+24 -1
+0 0
+#608
+golden necklace~
+a golden necklace~
+A golden necklace is on the floor, gathering dust.~
+gold~
+8 0 AC 0
+0 0 0 0 0
+15 2 200 P
+A
+4 -1
+0 0
+#609
+cabbage~
+a head of cabbage~
+Some fresh cabbage is here, get it while it lasts!~
+greens~
+19 0 A 0
+E 0 0 0 0
+0 2 1 P
+0 0
+#610
+lettuce~
+a head of lettuce~
+Some fresh lettuce is here, get it while it lasts!~
+unknown~
+19 0 A 0
+ABCD 0 0 0 0
+0 2 1 P
+0 0
+#611
+milk bottle~
+a bottle of milk~
+A glass bottle of milk is on a shelf here, fresh from the cow.~
+glass~
+17 0 A 0
+CE CE BD 0 0
+4 2 12 P
+0 0
+#612
+apple~
+an apple~
+An apple is on the ground.~
+unknown~
+19 0 A 0
+BD 0 0 0 0
+0 1 1 P
+0 0
+#613
+corn~
+an ear of corn~
+An ear of corn is on the ground.~
+corn~
+19 0 A 0
+BD 0 0 0 0
+0 1 1 P
+0 0
+#614
+hay pile~
+a pile of hay~
+There is a big pile of hay here.~
+greens~
+12 0 A EJ
+0 0 0 0 0
+4 20 4 P
+0 0
+#615
+pitchfork fork~
+a pitchfork~
+A pitchfork is on the floor.~
+iron~
+5 0 AN 0
+AB C AC ABD 0
+10 10 50 P
+0 0
+#616
+leather vest~
+a leather vest~
+A leather vest is on the floor.~
+leather~
+9 0 AD 0
+B B B 0 0
+15 7 75 P
+0 0
+#617
+leather sleeves~
+some leather sleeves~
+Some leather sleeves are on the floor.~
+leather~
+9 0 AI 0
+B B B 0 0
+15 1 75 P
+0 0
+#618
+leather leggings~
+some leather leggings~
+Some leather leggings are on the floor.~
+leather~
+9 0 AF 0
+B B B 0 0
+15 2 75 P
+0 0
+#619
+leather boots~
+some leather boots~
+Some leather boots are on the floor.~
+leather~
+9 0 AG 0
+B B B 0 0
+15 1 75 P
+0 0
+#620
+xian signet ring~
+an Xian signet ring~
+A shiny ring of gold is in the dirt.~
+gold~
+27 G AB 0
+AB AB AB 0 0
+18 1 240 P
+A
+13 5
+A
+24 -1
+0 0
+#621
+citadel plate~
+citadel plate~
+Plate emblazoned with the {yGolden{x citadel lies here.~
+steel~
+9 G AD 0
+B B B 0 0
+17 10 85 P
+A
+13 10
+0 0
+#622
+citadel helm~
+a citadel helm~
+A citadel helm has fallen to the floor.~
+steel~
+9 G AE 0
+B B B 0 0
+17 10 85 P
+A
+24 -1
+0 0
+#623
+citadel leggings~
+citadel leggings~
+A pair of citadel leggings are here.~
+steel~
+9 G AF 0
+AB AB AB 0 0
+19 5 95 P
+A
+24 -1
+0 0
+#624
+citadel boots~
+citadel boots~
+Some boots of the citadel guards lie here.~
+steel~
+9 G AG 0
+AB AB AB 0 0
+19 5 95 P
+A
+24 -1
+0 0
+#625
+citadel gauntlets~
+citadel gauntlets~
+Gauntlets emblazoned with the Golden Citadel are here.~
+Steel~
+9 G AH 0
+AB AB AB 0 0
+19 3 95 P
+A
+24 -1
+0 0
+#626
+citadel sleeves armored~
+citadel sleeves~
+A pair of armored sleeves can be seen here.~
+steel~
+9 G AI 0
+AB AB AB 0 0
+19 10 95 P
+A
+24 -1
+0 0
+#627
+shield citadel~
+a citadel shield~
+A shield emblazoned with the Golden Citadel lies here.~
+steel~
+9 G AJ 0
+AB AB AB 0 0
+18 5 90 P
+A
+24 -1
+0 0
+#628
+citadel girth~
+a citadel girth~
+A girth of strange design is here. It is emblazoned with the Golden Citadel's mark.~
+steel~
+9 G AL 0
+AB AB AB 0 0
+19 10 95 P
+A
+24 -1
+0 0
+#629
+citadel bracer~
+a citadel bracer~
+A bracer with the mark of the citadel is here.~
+steel~
+9 G AM 0
+AB AB AB 0 0
+19 10 95 P
+A
+24 -1
+0 0
+#630
+xian scimitar~
+a Xian scimitar~
+A huge scimitar is lying against the wall.~
+steel~
+5 G AN 0
+A AC ABC A F
+18 16 90 P
+A
+19 1
+0 0
+#631
+golden plate~
+golden plate~
+A pile of golden platemail lies here.~
+steel~
+9 G AD 0
+C C C A 0
+27 10 135 P
+A
+1 1
+A
+12 10
+0 0
+#632
+a golden helm~
+a golden helm~
+A gold plated helm is on the floor~
+steel~
+9 G AE 0
+C C C A 0
+27 8 135 P
+A
+2 1
+A
+12 5
+0 0
+#633
+golden leggings~
+golden leggings~
+Some shiny golden leggings are on the floor.~
+steel~
+9 G AF 0
+C C C A 0
+27 20 135 P
+A
+3 1
+A
+12 5
+0 0
+#634
+golden boots~
+golden boots~
+Some shiny golden boots are on the floor.~
+steel~
+9 G AG 0
+C C C A 0
+27 20 135 P
+A
+4 1
+A
+12 5
+0 0
+#635
+golden gauntlets~
+golden gauntlets~
+Some shiny golden gauntlets are on the floor.~
+steel~
+9 G AH 0
+C C C A 0
+27 20 135 P
+A
+5 1
+A
+12 5
+0 0
+#636
+golden sleeves~
+golden sleeves~
+Glittering gold plated sleeves are on the floor.~
+steel~
+9 G AI 0
+C C C A 0
+28 3 140 P
+A
+18 1
+A
+12 5
+0 0
+#637
+golden shield~
+a golden shield~
+A gold plated shield is here.~
+steel~
+9 G AJ 0
+C C C A 0
+28 5 140 P
+A
+12 5
+A
+17 -2
+0 0
+#638
+golden girth~
+a golden girth~
+A golden girth can be seen discarded here.~
+steel~
+9 G AL 0
+C C C A 0
+28 20 140 P
+A
+19 1
+A
+12 5
+0 0
+#639
+gleaming silvery metal plate~
+gleaming plate~
+A pile of silvery metal is on the floor.~
+steel~
+9 G AD 0
+AC AC AC A 0
+33 15 165 P
+A
+5 1
+A
+13 15
+0 0
+#640
+gleaming helm~
+the gleaming helm~
+A gleaming helm is on the floor, casting reflections of light.~
+steel~
+9 G AE 0
+AC AC AC A 0
+33 8 165 P
+A
+4 1
+A
+12 10
+0 0
+#641
+gleaming leggings platinum~
+gleaming leggings~
+Some gleaming leggings are on the floor.~
+steel~
+9 G AF 0
+AC AC AC A 0
+33 8 165 P
+A
+2 1
+A
+13 10
+0 0
+#642
+boots gleaming~
+gleaming boots~
+Some gleaming boots lie discarded here.~
+steel~
+9 G AG 0
+AC AC AC A 0
+33 5 165 P
+A
+13 10
+A
+14 40
+0 0
+#643
+gleaming gauntlets~
+gleaming gauntlets~
+A pair of gleaming gauntlets lie here.~
+steel~
+9 G AH 0
+AC AC AC A 0
+33 2 165 P
+A
+18 2
+A
+13 10
+0 0
+#644
+gleaming sleeves~
+gleaming sleeves~
+A pair of sleeves, made of gleaming metal lie here.~
+steel~
+9 G AI 0
+AC AC AC A 0
+33 3 165 P
+A
+1 1
+A
+13 10
+0 0
+#645
+shield spiked gleaming~
+the gleaming spiked shield~
+A spiked gleaming shield lies here.~
+steel~
+9 G AJ 0
+AC AC AC A 0
+33 5 165 P
+A
+19 3
+0 0
+#646
+silvery girth gleaming~
+the gleaming girth~
+A silvery girth is on the floor.~
+steel~
+9 G AL 0
+AC AC AC A 0
+33 3 165 P
+A
+13 10
+0 0
+#647
+defiant sword silvery~
+the Defiant~
+A glowing silvery sword is hovering here, ready to possess an owner.~
+steel~
+5 GK AN 0
+A ABC AD A 0
+33 10 165 P
+A
+19 2
+A
+18 1
+0 0
+#648
+whiskey shot~
+a shot of whiskey~
+A shot of whiskey is on the table.~
+glass~
+17 0 A 0
+A A AC 0 0
+0 1 1 P
+0 0
+#649
+ale quart~
+a quart of ale~
+A quart of ale is on the table.~
+glass~
+17 0 A 0
+AC AC AB 0 0
+3 8 9 P
+0 0
+#650
+port brew quart~
+a quart of port brew~
+A quart of port brew is on the table.~
+glass~
+17 0 A 0
+AC AC C 0 0
+0 8 1 P
+0 0
+#651
+key citadel~
+the citadel key~
+A key is on the floor.~
+steel~
+18 0 A 0
+0 0 0 0 0
+18 1 0 P
+0 0
+#652
+symbol holy shiny~
+the Holy Symbol of Dohara~
+A very shiny symbol is on the floor.~
+steel~
+27 GIKL AC 0
+AC AC AC A 0
+30 5 450 P
+A
+12 15
+A
+4 1
+0 0
+#653
+polearm arm avenger~
+the Arm of the Avenger~
+A heavy polearm is against the wall here, ready to inflict damage.~
+steel~
+5 GK AN 0
+D ABC ABC B F
+27 10 135 P
+A
+19 -1
+A
+18 2
+0 CD
+#654
+torso golden dragon scale~
+a {ydragon scale{x torso~
+A golden dragon scale torso is on the floor.~
+steel~
+9 G AD 0
+AB AB AB A 0
+21 25 105 P
+0 0
+#655
+dragon helm golden~
+a {ydragon{x helm~
+A {ggolden dragon{x helm is on the floor.~
+steel~
+9 G AE 0
+AB AB AB A 0
+20 10 100 P
+0 0
+#656
+leggings golden dragon scale~
+{ydragon scale{x leggings~
+Some {ygolden dragon scale{x leggings are on the floor.~
+steel~
+9 G AF 0
+AC AC AC A 0
+30 10 150 P
+A
+13 15
+A
+18 1
+0 0
+#657
+boots golden dragon scale~
+{ydragon scale{x boots~
+Some {ygolden dragon scale{x boots are on the floor.~
+steel~
+9 G AG 0
+AC AC AC A 0
+30 10 150 P
+A
+18 1
+0 0
+#658
+gauntlets dragon scale golden~
+{ydragon scale{x gauntlets~
+Some {ygolden dragon scale{x gauntlets are on the floor.~
+steel~
+9 G AH 0
+AC AC AC A 0
+30 10 150 P
+A
+19 1
+A
+18 1
+0 0
+#659
+golden dragon scale sleeves~
+{ygolden dragon scale{x sleeves~
+Some {ygolden dragon scale{x sleeves are on the floor.~
+steel~
+9 G AI 0
+AC AC AC A 0
+30 10 150 P
+A
+1 1
+0 0
+#660
+shield golden dragon scale~
+a {ydragon scale{x shield~
+A {ygolden dragon scale{x shield is on the floor.~
+steel~
+9 G AJ 0
+AB AB AB A 0
+21 10 105 P
+0 0
+#661
+girth golden dragon scale~
+a {ydragon scale{x girth~
+A {ygolden dragon scale{x girth is on the floor.~
+steel~
+9 G AL 0
+AC AC AC A 0
+30 10 150 P
+A
+5 1
+A
+18 1
+0 0
+#662
+claw golden~
+the {ygolden claw{x~
+A huge {ygolden{x claw is here, abandoned.~
+steel~
+5 G AN 0
+0 AC D AC 0
+21 15 105 P
+A
+19 1
+0 CD
+#663
+orb dragon sphere pearl~
+the {yGold Dragon{x Orb~
+A very large pearl-like {ysphere{x is in the center of the room.~
+pearl~
+4 GKL AO 0
+BCF C C 208 0
+38 20 190 P
+A
+3 1
+0 CD
+#664
+robe golden~
+a golden robe~
+A golden robe is on the floor.~
+cloth~
+9 G AK 0
+AB AB AB A 0
+20 10 100 P
+A
+3 1
+0 BCD
+#665
+house key~
+a house key~
+A house key is on the floor.~
+steel~
+18 0 A 0
+0 0 0 0 0
+5 1 50 P
+0 ABCDE
+#666
+broom~
+a broom~
+A broom is against the wall here.~
+wood~
+5 0 AN 0
+D AC BC ABDE 0
+15 8 40 P
+0 BCD
+#667
+chest~
+a chest~
+A chest is on the floor here.~
+wood~
+15 0 A 0
+CFG 0 0 0 0
+0 10 0 P
+0 0
+#668
+pocket change~
+some pocket change~
+This is little more than pocket change.~
+gold~
+20 0 A 0
+CFG 0 0 0 0
+0 0 25 P
+0 0
+#669
+pipe corn cob~
+a corn cob pipe~
+A corn cob pipe with a well chewed stem is here.~
+wood~
+9 G AT 0
+B B B 0 0
+15 0 75 P
+A
+13 5
+0 BCD
+#670
+egg brown fresh~
+a fresh brown egg~
+A fresh brown egg lies delicately here.~
+eggs~
+26 BG A 0
+20 501 0 0 0
+2 0 60 P
+0 0
+#671
+egg large fresh~
+a large fresh egg~
+A large egg has been recently laid here.~
+eggs~
+26 A A 0
+20 43 0 0 0
+2 0 60 P
+0 0
+#672
+egg cracked~
+a cracked egg~
+An egg with a hair-line crack in it lies here~
+eggs~
+19 0 A 0
+BCDE 0 0 A 0
+2 0 4 P
+0 0
+#673
+juicy ham~
+a juicy ham~
+A large juicy ham is here.~
+meat~
+19 0 A 0
+BDE 0 0 0 0
+0 2 1 P
+0 0
+#674
+fly horse~
+a horse fly~
+A large ugly fly buzzes near your ears.~
+meat~
+13 BM AR 0
+0 0 0 0 0
+5 0 5 P
+A
+13 -5
+A
+3 -1
+A
+2 -1
+A
+17 4
+0 ABCDE
+#675
+walking stick ornate~
+an ornate walking stick~
+A long walking stick with an ornate silver head lays here.~
+wood~
+5 0 AN 0
+D B BC ABDE 0
+5 5 60 P
+0 BCD
+#676
+skirt simple brown~
+a simple brown skirt~
+A simple brown skirt is lying here in a heap.~
+cloth~
+11 0 AL 0
+0 0 0 0 0
+4 4 60 P
+0 BCD
+#677
+plain walking stick~
+a plain walking stick~
+A plain crooked walking stick has been carelessly tossed here.~
+unknown~
+5 0 AN 0
+C AC BC ABDE 0
+15 2 75 P
+0 BCD
+#678
+rope jump~
+a jump rope~
+A jump rope with wooden handles lies in a tangle.~
+cloth~
+5 0 AN 0
+ABC B C E 0
+3 1 15 P
+0 BC
+#679
+wooden kris~
+a wooden kris~
+A wooden kris looks more like a child's toy than a weapon.~
+wood~
+5 0 AN 0
+B B C ABD 0
+3 1 15 P
+A
+13 5
+0 BC
+#680
+earring gold~
+a small golden earring~
+A small, slightly misshapen golden earring lies here.~
+gold~
+27 0 AQ 0
+0 0 0 0 0
+17 0 100 P
+A
+17 -1
+0 BCD
+#690
+white house key~
+a white house key~
+A white house key lies on the ground.~
+steel~
+18 W A 0
+0 0 0 0 0
+1 1 0 P
+0 0
+#691
+crib~
+a wooden crib~
+A well made wooden crib sits here.~
+wood~
+12 0 AO BFJ
+0 0 0 0 0
+1 30 200 P
+0 0
+#692
+bed~
+a comfortable bed~
+A large comfortable looking bed stands here.~
+wood~
+12 0 0 AEJ
+0 0 0 0 0
+0 0 400 P
+0 0
+#693
+rocking chair~
+a rocking chair~
+A rocking chair with a padded seat sits here.~
+wood~
+12 0 O BFJ
+0 0 0 0 0
+0 20 50 P
+0 0
+#694
+table~
+a hard wood table~
+A hard wood table stands here for use, with two chairs.~
+wood~
+12 0 0 CGQ
+0 0 0 0 0
+0 50 100 P
+0 0
+#695
+bronze house key~
+a bronze house key~
+A well crafted bronze house key lays here.~
+bronze~
+18 W AO 0
+0 0 0 0 0
+0 0 12 P
+0 0
+#696
+queen bed~
+a queen bed~
+An antique queen bed stands covered in {bblue{x sheet.~
+wood~
+12 0 A AEJQ
+0 0 0 0 0
+0 255 1675 P
+0 0
+#697
+fourposter bed~
+a fourposter bed~
+An expensive and masterly crafted fourposter bed stands here.~
+wood~
+12 0 0 AEJQ
+0 0 0 0 0
+1 0 1000 P
+0 0
+#698
+flask moonshine alcohol~
+a flask of moonshine~
+This flask has the distinct smell of alcohol emanating from it.~
+steel~
+17 R AO 0
+AC AC AC 0 0
+1 1 800 P
+0 ABCDE
+#699
+silver key~
+a silver key~
+A master crafted silver key lays here discarded.~
+silver~
+18 W AO 0
+0 0 0 0 0
+1 1 40 P
+0 0
+#0
+
+
+
+#ROOMS
+#600
+Theyla's Still Room~
+You are in Grandmother Theyla's still room.  The smell of whiskey is heady. 
+Clear bottles of it are lined up on the floor and it looks as if almost as
+much has been spilled onto the bare dirt floor as made it into those
+bottles.  A rather large copper still takes up most of the room.  The exit
+to {GFarmer's{x Way is to the south.  
+~
+0 8 0
+D2
+~
+~
+0 0 613
+S
+#601
+Janku Road At Farmer's Way~
+Farmer's Way starts at this precise point of Janku and works its way to the 
+west while over a mass of flower beds set upon the wall to the east a 
+gigantic structure that has many statues and carvings of dragons decorating 
+its outside is noticeable.  The cobbles intermingle cleanly, even if they 
+are worn well from the passage of the natives and foreigners alike, leaving 
+Janku to continue north and south from here.  Some of the buildings along 
+Janku to the south seem to be shops, if the signs hanging over their doors 
+are any indication.  
+~
+0 0 1
+D0
+Impy Way continues north.
+~
+~
+0 0 625
+D2
+Impy Way continues south.
+~
+~
+0 0 602
+D3
+~
+~
+0 0 612
+S
+#602
+Janku Road~
+Strings of buildings line the east and west sides of this wide thoroughfare, 
+some of which bear signs to mark them as shops.  On the western side of the 
+street is a building marked to be a smithy, its window displaying forged 
+goods of sturdy design.  On the eastern side of the street is the Leather 
+Shop, over which a large golden temple can be seen.  The outside of that 
+temple is riddled with statues of dragons, which seem to be watching over 
+the city as silent sentinels.  The cobbled path known as Janku continues 
+both north and south from here.  
+~
+0 0 1
+D0
+You see the big intersection.
+~
+~
+0 0 601
+D1
+You see the leather shop.
+~
+~
+0 0 604
+D2
+Impy Way continues south.
+~
+~
+0 0 605
+D3
+You see the blacksmith.
+~
+~
+0 0 603
+S
+#603
+The Blacksmith~
+You are in a black and smelly room.  Pieces of metal are strewn all over
+the floor, and a wave of heat from a large red-hot furnace hits you.  An
+anvil sits on one side of the room with a large piece of metal that is
+beginning to take on the shape of a shield.  On the other side is a
+workbench with various tools neatly arranged for easy retrieval.  The exit
+is east out to {BJanku{x Road.  
+~
+0 8 0
+D1
+You see Impy Way.
+~
+~
+0 0 602
+S
+#604
+The Leather Shop~
+You are in a brown and smelly room.  Pieces of leather are strewn all
+over the floor.  A large basin containing a solution with a strong acrid
+odor sits in one corner.  Pieces of rawhide are soaking in the solution. 
+Out the window there are racks, which hold leather in several stages of
+development drying in the sun.  A table is near the entrance with large,
+sharp instruments used to cut the leather into usable pieces.  The exit is
+west out to {BJanku{x Road.  
+~
+0 8 0
+D3
+You see Impy Way.
+~
+~
+0 0 602
+S
+#605
+Janku Road~
+Signs hung over the shops to the east and west declare them as a butcher and 
+a pawn shop, respectively.  Over The Pawn Shop, a towering structure known 
+as the Golden Citadel can be seen, teeming with sculptures of dragons all 
+about its outside.  Janku runs north and south through this area, stretching 
+away in a mesh of blue and grey cobblestones.  
+~
+0 0 1
+D0
+Impy Way continues North.
+~
+~
+0 0 602
+D1
+You see the Meat Store.
+~
+~
+0 0 607
+D2
+Impy Way continues south.
+~
+~
+0 0 608
+D3
+You see the Pawn Shop.
+~
+~
+0 0 606
+S
+#606
+The Pawn Shop~
+You are in a little shop filled with a lot of knick-knacks and semi-
+valuable goods.  Stacks of trinkets are in the windowsill and boxes
+containing many odds and ends are lined against the north and south walls. 
+There is a display case full of the best treasures which Madam Wing
+watches over with great attention.  The exit is east out to {BJanku{x Road. 
+~
+0 8 0
+D1
+You see Impy Way.
+~
+~
+0 0 605
+S
+#607
+The Meat Store~
+You are in a meat store.  Hanging on hooks behind the counter are meats
+of many kinds of animals.  Plucked chicken are stored on ice in large
+barrels.  On the floor are puddles of a thick red substance.  In the
+background, you can hear the sound of a saw cutting through bone.  It smells
+like raw meat here.  The exit is west out to {BJanku{x Road.  
+~
+0 8 0
+D3
+You see Impy Way.
+~
+~
+0 0 605
+S
+#608
+Janku Road~
+You are on Janku Road which continues to the north through a small 
+marketplace.  To the east is a Farmer's Market with luscious fruits of the 
+land for sale or barter, over the roof of which you can see a giant building 
+decorated with gold and dragons.  To the west is Valentin's House of Ale.  
+Janku Road runs out of town to the south.  You can hear the sound of revelry 
+coming from the ale house.  
+~
+0 0 1
+D0
+Impy Way continues north.
+~
+~
+0 0 605
+D1
+You see the Farmer's Market.
+~
+~
+0 0 610
+D2
+You see the end of Impy Way.
+~
+~
+0 0 611
+D3
+You see Nyles' House of Ale.
+~
+~
+0 0 609
+S
+#609
+Valentin's House of Ale~
+This is a very busy bar, with everyone holding large wooden mugs of a
+thick brown ale.  People of all social levels gather here to drink and share
+in a song or two.  Even the most gentile of persons are here, laughing along
+with the barkeep, Valentin, who offers you a quart of ale with a slap on the
+back and a grin.  
+~
+0 8 0
+D1
+You see Impy Way.
+~
+~
+0 0 608
+S
+#610
+Farmer's Market~
+You see carts of various sizes and in various states of repair loaded
+with fresh fruits and vegetables.  Farmers are competing with each other in
+a congenial manner trying to sell you their produce, each secretly confiding
+that theirs is the best.  The market is full of the good citizens of
+{CXian{x, here to do their shopping.  The exit is west out to {BJanku{x
+Road.  
+~
+0 8 0
+D3
+You see Impy Way.
+~
+~
+0 0 608
+S
+#611
+The End of Janku Road~
+The cobbled path called Janku is wide here and travels both north and to the 
+south it terminates.  Stone structures stand at either side of the road to 
+the north, carefully constructed in a mostly uniform manner.  Over the 
+rooftops to the northeast, a large domed citadel can be seen, covered in 
+effigees of dragons.  The citadel is comprised of a shimmering golden 
+material that glints in any light that may land on its surface.  On second 
+glance, some of the buildings on this street have signs hanging over their 
+doors to show that they are businesses.  To the immediate east, there is a 
+double gateway that leads to an attractive park.  
+~
+0 0 1
+E
+sign~
+The sign bears a stylized image of a potion flask under which the single
+word "Alchemist's" has been scribed.  
+~
+D0
+Impy Way continues north.
+~
+~
+0 0 608
+D1
+~
+double-gates~
+1 0 1578
+D2
+~
+~
+0 0 16059
+D3
+~
+~
+1 0 668
+S
+#612
+Farmer's Way~
+The thoroughfare gets steadily cleaner towards the east where an 
+intersection is visible the road terminates at that point in a large bed of 
+flowers cunningly affixed to a wall.  Over the eastern wall a large domed 
+building is noticeable as it pretty much dominates the skyline from this 
+vantage point, the surface of which has been decorated with innumerable 
+carvings and statues of dragons.  Westwards the road works its way towards 
+several barns and fields, the traffic from which could well be the course of 
+the dirt here.  
+~
+0 0 1
+D1
+~
+~
+0 0 601
+D3
+~
+~
+0 0 613
+S
+#613
+Farmer's Way~
+{GFarmer's{x Way ends at a large farm area.  Livestock can be heard and
+smelled from all directions.  From the north the smell of ethanol filters
+through the smell of animals.  You hear the cackle of an old voice seemingly
+having a good time.  To the east the road enters the busy town of {CXian{x. 
+To the west there is a barn and animal pens.  Past the pens are what appear
+to be endless fields of grain.  
+~
+0 0 2
+D0
+~
+~
+0 0 600
+D1
+~
+~
+0 0 612
+D3
+~
+~
+0 0 614
+S
+#614
+Farmer's Way~
+The large road to the east dwindles down to a small farm trail which is
+cut through the fields just wide enough to drive the livestock to market. 
+The sound of snorting from the north, lowing and neighing from the west, and
+clucking from the south creates a resounding cacophony.  Odors mingle from
+every direction, making this a rather unpleasant spot.  
+~
+0 4 2
+D0
+~
+~
+0 0 615
+D1
+~
+~
+0 0 613
+D2
+~
+~
+0 0 617
+D3
+~
+~
+0 0 616
+S
+#615
+Pig Sty~
+This is a large fenced pen filled with thick mud.  A long wooden trough
+runs the length of one side.  A pile of straw has been placed in another
+corner, presumably to provide a dry place for the swine, who otherwise sink
+to their haunches in the thick goo.  The smell of manure and rotting food is
+very strong here.  The pigs don't look that happy to see you anyway.  
+~
+0 0 2
+D2
+~
+~
+0 0 614
+S
+#616
+Barn~
+This is the inside of a huge vaulted barn.  Horse stalls line the north
+wall.  Only one of these is occupied.  The other stalls appear to have been
+used recently.  Along the south wall are large iron rings.  To these rings
+are tied guernsey cows with engorged teats.  A small three-legged stool is
+near one of the cows and a large metal pale rests next to it.  No one seems
+to be around to milk them and release them from their misery.  The smell of
+barnyard animals is strong here.  A wide {Wdoor{x is in the western wall.  
+~
+0 12 0
+D1
+~
+~
+0 0 614
+D3
+~
+~
+1 0 3601
+S
+#617
+Chicken Coop~
+This is a long, low-ceiling building with straw covering the floor a few
+inches deep.  Two rows of shelves line each wall.  The shelves are also
+covered with thick straw.  Columns of fat hens seem to gossip as they nest
+on the shelves.  Near the door is a large basket with a fraying handle.  The
+chickens jealously guard their eggs and eye you with suspicion.  The only
+exit is to the north.  
+~
+0 9 0
+D0
+~
+~
+0 0 614
+S
+#618
+A Cozy Abode~
+A comfortable looking single room home has been fashioned here.  Though not 
+the most spacious of places to live, there are much worse.  The floor has 
+been tiled with clay bricks that have become red with the firing process.  
+These have been polished by the owner to a glossy shine.  The east most wall 
+is dominated by a pair of large beds, each of which are piled high with 
+blankets and sheets so that even on the coldest of winters the residents can 
+have a warm night's sleep.  Against the northern wall is a small cooker, 
+facing which, on the south wall, is a table with stools for six people set 
+beneath it.  The west wall has a pair of windows over which are dark blue 
+curtains and a single door placed in it, next to the door is a mat and a hat 
+stand with hooks for clothing.  
+~
+0 8 0
+D3
+~
+~
+0 0 1608
+S
+#619
+Chicken Coop~
+You are in the chicken coop.  The smell of chickens and chicken droppings
+makes you gasp.  The exit is north.
+~
+0 8 0
+D0
+You can sense the fresh air.
+~
+~
+1 -1 618
+S
+#620
+A Plain Home~
+Curtains and drapes have been arranged over the windows set into the western 
+wall here, one on either side of the plain wooden portal that exits to 
+Dressler.  Another window is set over the fireplace in the eastern wall, 
+affording a view of untamed woodland when the window coverings are left 
+open.  A thick pallet is in the corner that suffers the least from drafts, 
+serving as a modest bed to the owner of this abode.  A short round table is 
+located at the center of the room, surrounded by cushions filled with beans. 
+~
+0 12 0
+D3
+~
+~
+0 0 658
+S
+#621
+A House~
+A feather-stuffed mattress covered in thick pelts has been arranged on some 
+unfinished wooden blocks in the center of this room.  The bed is large and 
+looks like it could easily fit three or four people upon it.  A pair of 
+shackles on the floor seems oddly out of place amidst the simple luxuries 
+this home provides, and they are half hidden beneath the bed.  A table 
+littered with both new and partially used candles in different colors is 
+arranged at the bedside.  Since the home is one room, everything is very 
+close together, and there are only a few paces between the bed and the door. 
+The same goes for the fire place, it is within spitting distance, but on 
+the other side of the bed.  
+~
+0 8 0
+D1
+~
+~
+0 0 1608
+S
+#622
+Small House~
+Hooks have been set into this small home, from which hand picked herbs and 
+flowers are waiting to dry, from these plants a pleasant enough aroma fills 
+the air.  The floor is composed of simple baked clay tiles which have been 
+swept clean by the owner.  To the east is a small bed which appears only 
+just large enough for two people, facing the bed on the other side of the 
+chamber is a door and a single curtained window.  A combination fireplace 
+and stove stands against the north most wall around which are the utensils 
+used for making meals and a candle decorated with a bottle and colored wax 
+sits against the southern wall.  
+~
+0 8 0
+D3
+~
+~
+0 0 1606
+S
+#623
+A Small Home~
+This single room dwelling has a tiled floor, indicating that whoever owns it 
+must have some money even if not too much.  A simple bed stands against the 
+west most wall, with a feather mattress and thick woolen blankets to give a 
+cozy feel.  Against the southern wall is a small wood fueled stove with pans 
+and bowls placed on shelves over it.  A small table and chairs have been 
+left against the northern wall the surface of the wooden table has been 
+decorated with a simple tablecloth which bears a checkered red and white 
+pattern.  In the eastward wall are a pair of windows with thick curtains 
+over them and a door, most likely the exit from these premises.  
+~
+0 8 0
+D1
+~
+~
+0 0 658
+S
+#624
+unused~
+~
+0 32772 2
+S
+#625
+Janku Road~
+Small gardens flower to the east and west in front of the residencies built 
+there, well manicured and a show of luxury on the owner's part.  Sweet peas 
+and roses can be seen within the meticulously kept flower beds, lending 
+their scent to the air.  Janku's cobbled surface continues to the north and 
+south here, leading to a junction of streets to the immediate south.  Over 
+the rooftop of the eastern building, one can see the tall building called 
+the Golden Citaden, which is the heart of Xian.  Dragon statues and carvings 
+can be seen upon its golden surface, watching over the city like golden 
+guardians.  
+~
+0 0 1
+D0
+Impy Way continues north.
+~
+~
+0 0 632
+D1
+You see a big house.
+~
+door~
+1 665 626
+D2
+You see a big intersection.
+~
+~
+0 0 601
+D3
+You see a big house.
+~
+door~
+1 665 629
+S
+#626
+Big House~
+You are in one of the larger houses in town.  Evidently, the owners of
+this house are richer than the average citizen, since there is more than one
+room to this house.  A pale wooden door leads to the kitchen east.  A set of
+stairs leads up.  A basket in one corner contains child's things including a
+worn brown teddy bear.  The exit is to the west back to Janku Road.  
+~
+0 8 0
+D1
+You see the kitchen.
+~
+~
+0 0 628
+D3
+You see Impy Way.
+~
+door~
+1 665 625
+D4
+You see the bedroom.
+~
+~
+0 0 627
+S
+#627
+Bedroom~
+This is a large bedroom, which takes up most of the upstairs of the
+house.  It is rather plain, containing little more than a bed and a closet. 
+A large window looks out over {BJanku{x Road.  Tiny pots containing
+flowering plants are lined up along the windowsill.  The walls are freshly
+painted with a boarder of ivy painted just below the ceiling.  The stairs
+lead back down.  
+~
+0 8 0
+D5
+You see the main room of the house.
+~
+~
+0 0 626
+S
+#628
+Kitchen~
+This is a rather simple kitchen containing a smallish stove and a butcher
+block.  A leg of lamb has been placed in a large pan and is being prepared
+for the oven.  Sprigs of fresh {Gherbs{x have been placed around the meat
+and large cloves of garlic have been stuffed into slits cut into it.  A
+basket in the corner holds a litter of week old puppies.  
+~
+0 8 0
+D3
+You see the main room of the house.
+~
+~
+0 0 626
+S
+#629
+A Big House~
+You are in one of the larger houses in town.  Evidently, the owners of
+this house are richer than the average citizen, since there is more than one
+room to this house.  A pale wooden door leads to the kitchen west.  A set of
+stairs leads up.  A basket in one corner contains child's things including a
+broken wooden boat.  The exit is to the west back to Janku Road.  
+~
+0 8 0
+D1
+You see Impy Way.
+~
+door~
+1 665 625
+D3
+You see the kitchen.
+~
+~
+0 0 631
+D4
+You see the bedroom.
+~
+~
+0 0 630
+S
+#630
+A Bedroom~
+This is a large bedroom, which takes up most of the upstairs of the
+house.  It is rather plain, containing little more than a bed and a closet. 
+A large window looks out over Janku Road.  Tiny pots containing
+flowering plants are lined up along the windowsill.  The walls are freshly
+painted with a boarder of ivy painted just below the ceiling.  The stairs
+lead back down.  
+~
+0 8 0
+D5
+You see the main room of the house.
+~
+~
+0 0 629
+S
+#631
+Kitchen~
+This is a rather simple kitchen containing a smallish stove and a butcher
+block.  A large beef roast has been placed in a large pan and is being
+prepared for the oven.  Sprigs of fresh {Gherbs{x have been placed around
+the meat and large cloves of garlic have been stuffed into slits cut into
+it.  A basket in the corner holds a litter of week old puppies.  
+~
+0 8 0
+D1
+You see the main room of the house.
+~
+~
+0 0 629
+S
+#632
+Janku Road~
+A north-south concourse works its way straight between a pair of elegant 
+homes, both of which appear to be of a style coveted by the middle classes.  
+Small gardens stand before each of the houses, though the one to the west 
+looks like it could do with some more care judging by the state of it.  Over 
+the roof of the eastern home, a truly massive building is visible, its domed 
+zenith being decorated with effigies of mighty dragons.  
+~
+0 0 1
+D0
+Impy Way continues north.
+~
+~
+0 0 637
+D1
+You see a house.
+~
+door~
+1 690 633
+D2
+Impy Way continues south.
+~
+~
+0 0 625
+D3
+You see a house.
+~
+door~
+1 -1 635
+S
+#633
+A Blue Sitting Room~
+The walls of this cozy room have been painted a light blue, similar to
+the calm summer sky.  A white door with an impressive looking lock occupies
+the west wall.  Cool blue curtains have been placed over the windows, so
+that the room can be private from the road outside.  A wood burning stove
+stands against the eastern wall, and a table and two chairs occupy the
+middle of the room.  Close to the windows are a high seated chair, and a
+rocking chair.  Another blue curtain cloaks the doorway between the southern
+room and this one.  
+~
+0 8 0
+D2
+You see the bedroom.
+~
+~
+0 0 634
+D3
+You see Impy Way.
+~
+door~
+1 690 632
+S
+#634
+A Cozy Sleeping Room~
+This sky blue painted room must be the sleeping area for this home.  A
+large bed fills most of it with cupboards around the walls for storage.  In
+one corner a well made wooden crib stands safe but close at hand.  Thick
+wooden lined curtains mean this room can be in almost blackness when they
+are closed.  Next to the bed a night stand has been placed.  
+~
+0 33554440 0
+D0
+You see the main room of the house.
+~
+~
+0 0 633
+S
+#635
+House~
+You are in a simple house.  The living room and kitchen are all bundled
+into this room.  A small stove in the corner acts as both the place of
+cooking and the heat source for this small, yet comfortable home.  A small
+table has been placed near it.  That and the wooden chairs that go with the
+table are the only pieces of furniture in this room.  There is a bedroom
+south of here.  The exit is west out to {BJanku{x Road.  
+~
+0 8 0
+D1
+You see Impy Way.
+~
+door~
+1 -1 632
+D2
+You see the bedroom.
+~
+~
+0 0 636
+S
+#636
+Bedroom~
+This is a small and simple bedroom.  It is rather plain, containing
+little more than a bed and a closet.  A large window looks out over
+{BJanku{x Road.  Tiny pots containing flowering plants are lined up along
+the windowsill.  The have been painted a pale {cblue{x.  A door leads back
+into the main part of the house.  
+~
+0 8 0
+D0
+You see the main room of the house.
+~
+~
+0 0 635
+S
+#637
+Janku Road~
+The cobble stone surface of Janku Road runs from the north to the south 
+here.  Two houses stand either side of thoroughfare, both looking to be in 
+excellent repair and of good quality, possessing modest gardens to their 
+fronts.  Over the top of the eastern domicile, a large temple-like structure 
+can be seen, its domed roof and pillars bedecked with images of dragons and 
+the whole thing fashioned of some golden substance.  
+~
+0 0 1
+D0
+~
+~
+0 0 651
+D1
+You see a house.
+~
+door~
+1 695 638
+D2
+Impy Way continues south.
+~
+~
+0 0 632
+D3
+You see a house.
+~
+door~
+1 699 640
+S
+#638
+House~
+Here is a simple but cosy home, a door set into the west wall leads out
+on to {BJanku{x road.  To the south closed off by a heavy drape is what must
+be the bedroom.  Standing in the north eastern corner is a small wood
+burning stove, large enough to warm the room in winter.  A large china
+cabinet stands on the southern wall while a chair and desk stands under a
+window set close to the door of the western wall.  A dining table and chairs
+stand in the center of the room.  
+~
+0 8 0
+E
+cabinet~
+This cabinet is filled with fine china, it must have taken an age to
+gather it all together.  There are peices that must have come from all over
+the realm here.  
+~
+E
+china~
+This cabinet is filled with fine china, it must have taken an age to
+gather it all together.  There are peices that must have come from all over
+the realm here.  
+~
+D2
+You see the bedroom.
+~
+~
+0 0 639
+D3
+You see Impy Way.
+~
+door~
+1 695 637
+S
+#639
+Bedroom~
+This must be the bed room as it is dominated by an antique queen bed
+covered in {bblue{x stain sheets and a thick slightly darker {bblue{x woolen
+cover.  The floor is covered in a thick dark {bblue{x carpet.  Mahogany
+panels cover the walls making this room seem warm and comfortable even in
+the worse winters.  A blue lined curtain to the north allows entrance to the
+living room.  A window covered by some attractive sky {bblue{x curtains is
+set into the western wall.  
+~
+0 8 0
+D0
+You see the main room of the house.
+~
+~
+0 0 638
+S
+#640
+A Black Living Room~
+This is a simple but comfortable home.  The the living room and kitchen
+are all bundled into this one room, so that heat from the wood burning stove
+could keep the resident warm in winter.  The wall have been painted black
+and candles of that color have been placed around to give lighting at night
+or when the thick black velvet drapes are closed.  A table and four chairs
+sit in the center of the room.  South of here is the bedroom closed off by
+another black velvet curtain.  The door is set into the east wall leading to
+{BJanku{x road.  
+~
+0 8 0
+D1
+You see Impy Way.
+~
+door~
+1 699 637
+D2
+You see the bedroom.
+~
+~
+0 0 641
+S
+#641
+A Black Bedroom~
+This is a small but comfortable bed room.  The walls have been painted
+pitch black.  On the eastern wall a large window looks out over {BJanku{x
+Road, thick lined black velvet curtains have been placed at either side of
+it.  Candles as thick as a grown mans arm are placed in sconces around the
+room.  Over a fourposter bed, that dominates this room, a large mural has
+skillfully been crafted add a bright slash of color to this room.  Sat in
+the south western corner a iron bound chest stands.  
+~
+0 8 0
+E
+mural~
+This painting depicteds a black tervadi standing regaly over the fallen
+bodies of humans, dwarves and haitorin.  Blood and golden orbs of light add
+refreshing brightness to this picture.  In the center being examind with
+much amusement by the tervadi is an impaled dwarf.  The dwarves eye have
+been sown closed and a scar upon his face seems to be glowing as he screams
+out his final breath in pain.  
+~
+D0
+You see the main room of the house.
+~
+~
+0 0 640
+S
+#642
+Pinker Boulevard~
+Grey and blue cobbles comprise this roadway, their surfaces worn smooth in 
+places by the countless feet, wheels, and hooves that must have traveled 
+upon them.  Standing to the immediate north and south are what appear to be 
+homes, this impression is supported by the fact curtains have been placed at 
+the windows.  Over the tops of the southern dwellings a giant structure 
+looms towards the sky, adorned with sculptures of dragons and fashioned so 
+as to appear golden, at least from this distance.  
+~
+0 0 1
+D0
+You see the big house.
+~
+door~
+2 665 643
+D1
+Swiftest Way continues east.
+~
+~
+0 0 646
+D2
+~
+~
+1 0 664
+D3
+Swiftest Way continues west.
+~
+~
+0 0 649
+S
+#643
+Big House~
+You are in one of the larger houses in town.  Evidently, the owners of this 
+house are richer than the average citizen, since there is more than one room 
+to this house.  A pale wooden door leads to the kitchen north.  A set of 
+stairs leads up.  A basket in one corner contains child's things including a 
+rag doll.  The exit is to the south back to Janku Road.  
+~
+0 8 0
+D0
+You see the kitchen.
+~
+~
+0 0 645
+D2
+You see Impy Way.
+~
+door~
+2 665 642
+D4
+You see the bedroom.
+~
+~
+0 0 644
+S
+#644
+Bedroom~
+This is a large bedroom, which takes up most of the upstairs of the
+house.  It is rather plain, containing little more than a bed and a closet. 
+A large window looks out over {BJanku{x Road.  Tiny pots containing
+flowering plants are lined up along the windowsill.  The walls are freshly
+painted with a boarder of ivy painted just below the ceiling.  The stairs
+lead back down.  
+~
+0 8 0
+D5
+You see the main room of the house.
+~
+~
+0 0 643
+S
+#645
+Kitchen~
+This is a rather simple kitchen containing a smallish stove and a butcher
+block.  A pork tenderloin has been placed in a large pan and is being
+prepared for the oven.  Sprigs of fresh {Gherbs{x have been placed around
+the meat and large cloves of garlic have been stuffed into slits cut into
+it.  A basket in the corner holds a litter of week old puppies.  
+~
+0 8 0
+D2
+You see the main room of the house.
+~
+~
+0 0 643
+S
+#646
+Pinker Boulevard~
+Pinker Boulevard continues its uninspired course from east-west here, 
+flanked to the north and south by what look to be housing for the commoners 
+of this city.  Over the rooftops of the southern buildings a large 
+temple-like structure is visible, the surface of which has been made 
+decorated with images of dragons and the whole thing made, or painted so 
+that it appears to been from gold.  Over the northmost buildings, an untamed 
+forest stretches off towards the distant horizon.  
+~
+0 0 1
+D0
+You see a small house.
+~
+~
+1 0 652
+D1
+Swiftest Way continues east.
+~
+~
+0 0 647
+D2
+You see a small house.
+~
+~
+1 0 653
+D3
+You see a big intersection.
+~
+~
+0 0 642
+S
+#647
+Pinker Boulevard~
+Pinker Boulevard is flanked by nondescript buildings as it stretches away to 
+the east and west, presumably residences of the citizens of Xian.  To the 
+east, Pinker Boulevard terminates and marks the start of Dressler, each of 
+which have cobblestones that are laid carefully in odd patterns of greys and 
+blues.  Over the buildings to the south, a structure rises high into the 
+air, its surface littered with statues of dragons in different poses.  
+~
+0 0 1
+D0
+You see a small house.
+~
+~
+1 0 654
+D1
+You see the end of Swiftest Way.
+~
+~
+0 0 648
+D2
+You see a small house.
+~
+~
+1 0 655
+D3
+Swiftest Way continues west.
+~
+~
+0 0 646
+S
+#648
+Pinker Boulevard at Dressler Road~
+Pinker Boulevard stretches away to the west in neat cobbles while Dressler 
+starts to the south.  The forest is thick behind the houses that line the 
+north of Pinker as well as the ones seen to the east on Dressler.  The road 
+is fairly wide and the cobbles are somewhat like a checkerboard with their 
+varying greys and blues.  To the southwest, a large building towers high 
+into the air, its sides covered in statues and carvings of dragons.  
+Directly north of here, a dirt road cleaves the forest and provides easy 
+passage.  
+~
+0 0 1
+D0
+You see a small house.
+~
+~
+0 0 656
+D1
+You see a small house.
+~
+~
+1 0 657
+D2
+You see a small house.
+~
+~
+0 0 658
+D3
+Swiftest Way continues west.
+~
+~
+0 0 647
+S
+#649
+Pinker Boulevard~
+A great golden structure dominates the southern skyline, its surface 
+decorated with countless masterly crafted images of drakes and dragons in 
+that color.  Standing close to this road are a pair of domiciles, neither of 
+which distract from the citadel due to their bland appearance.  Pinker 
+Boulevard continues to the east and west, looking unremarkable in both of 
+those directions while to the north, over the rooftops a large forest can be 
+perceived.  The grey and blue cobble stones of this concourse have been worn 
+due to traffic but still remain in good repair.  
+~
+0 0 1
+D0
+You see a small house.
+~
+~
+1 0 659
+D1
+You see the big intersection.
+~
+~
+0 0 642
+D2
+You see a small house.
+~
+~
+1 0 660
+D3
+Swiftest Way continues west.
+~
+~
+0 0 650
+S
+#650
+Pinker Boulevard~
+Simple buildings stand to both the north and south of this blue and grey 
+cobble stone road, plain curtains at their windows hinting that they might 
+be homes to the common folk of this city.  Over the slate roofs to the 
+south, a large golden structure that looks somewhat like a temple can be 
+seen, its vaulted roof bedecked with draconic creatures fashioned by a 
+skillful hand and an artful eye.  Northwards, over the houses a forest which 
+looks both ancient and untamed can be percieved.  
+~
+0 0 1
+D0
+You see a small house.
+~
+~
+1 0 661
+D1
+Swiftest Way continues east.
+~
+~
+0 0 649
+D2
+You see a small house.
+~
+~
+1 0 662
+D3
+You see the end of Swiftest Way.
+~
+~
+0 0 651
+S
+#651
+Pinker Boulevard at Janku Road~
+An intersection with Janku road leads off from this highway to the south 
+while to the south-east a mighty looking building fashioned from what, at 
+this distance, appears to be gold, is visible.  Northwards and westwards 
+simple single-story dwellings are evident, the activities going on inside 
+screened by simple curtains.  Northwards an ancient forest, which must have 
+been old when this city was young, still stands, the eternal darkness under 
+its boughs seeming to glare down with contempt at the workings of man here.  
+
+~
+0 0 1
+D0
+You see a small house.
+~
+~
+1 0 663
+D1
+Swiftest Way continues east.
+~
+~
+0 0 650
+D2
+~
+~
+0 0 637
+D3
+You see a small house.
+~
+~
+1 0 665
+S
+#652
+Small House~
+This is a small house, owned by a commoner of Xian.  It is sparsely 
+furnished and there isn't much of value here to an outsider.  The owner 
+however, really cherishes the pile of treasures collected here.  Everything 
+is kept cleaned and in good repair.  The exit is to the south to Pinker 
+Boulevard.  
+~
+0 8 0
+D2
+You see Swiftest Way.
+~
+~
+1 0 646
+S
+#653
+Small House~
+This is a small house, owned by a commoner of Xian.  It is sparsely
+furnished and there isn't much of value here to an outsider.  The owner
+however, really cherishes the pile of treasures collected here.  Everything
+is kept cleaned and in good repair.  The exit is to the north to Pinker
+Boulevard.  
+~
+0 8 0
+D0
+You see Swiftest Way.
+~
+~
+1 0 646
+S
+#654
+Small House~
+This is a small house, owned by a commoner of Xian.  It is sparsely
+furnished and there isn't much of value here to an outsider.  The owner
+however, really cherishes the pile of treasures collected here.  Everything
+is kept cleaned and in good repair.  The exit is to the south to Pinker
+Boulevard.  
+~
+0 8 0
+D2
+You see Swiftest Way.
+~
+~
+1 0 647
+S
+#655
+Small House~
+This is a small house, owned by a commoner of Xian.  It is sparsely
+furnished and there isn't much of value here to an outsider.  The owner
+however, really cherishes the pile of treasures collected here.  Everything
+is kept cleaned and in good repair.  The exit is to the north to Pinker
+Boulevard.  
+~
+0 8 0
+D0
+You see Swiftest Way.
+~
+~
+1 0 647
+S
+#656
+At the Entrance of Xian~
+A sign post is driven into the dirt here, with a arrow-shaped piece of wood 
+on it that has the word Xian burnt into it pointing to the south of here.  
+The city in question is teeming with life, despite the thick forest 
+surrounding it completely.  The dome of a golden citadel is visible at the 
+city centre, its surface littered with recumbant dragons of the same color.  
+Directly south, the junction of Dressler and Pinker can be seen.  
+~
+0 0 2
+D0
+~
+~
+0 0 4314
+D2
+You see the end of Swiftest Way.
+~
+~
+0 0 648
+S
+#657
+Small House~
+This is a small house, owned by a commoner of Xian.  It is sparsely
+furnished and there isn't much of value here to an outsider.  The owner
+however, really cherishes the pile of treasures collected here.  Everything
+is kept cleaned and in good repair.  The exit is to the west to Pinker
+Boulevard.  
+~
+0 8 0
+D3
+You see the end of Swiftest Way.
+~
+~
+1 0 648
+S
+#658
+Dressler Road~
+Clean cobbles form a roadway here, its surface well maintained either by the 
+occupants or the houses that stand either side or by the city.  To the 
+south-west a giant structure is plainly visible, adorned with depictions of 
+dragons and fashioned from what would appear to be gold.  Off to the south, 
+signs can be seen swinging from some of the buildings, a clear indication 
+that those must be places of business.  Dressler terminates directly to the 
+north at Pinker Boulevard.  
+~
+0 0 0
+D0
+You see the end of Swiftest Way.
+~
+~
+0 0 648
+D1
+~
+~
+0 0 620
+D2
+~
+~
+0 0 1608
+D3
+~
+~
+0 0 623
+S
+#659
+Small House~
+This is a small house, owned by a commoner of Xian.  It is sparsely 
+furnished and there isn't much of value here to an outsider.  The owner 
+however, really cherishes the pile of treasures collected here.  Everything 
+is kept cleaned and in good repair.  The exit is to the south to Pinker 
+Boulevard.  
+~
+0 8 0
+D2
+You see Swiftest Way.
+~
+~
+1 0 649
+S
+#660
+Small House~
+This is a small house, owned by a commoner of Xian.  It is sparsely 
+furnished and there isn't much of value here to an outsider.  The owner 
+however, really cherishes the pile of treasures collected here.  Everything 
+is kept cleaned and in good repair.  The exit is to the north to Pinker 
+Boulevard.  
+~
+0 8 0
+D0
+You see Swiftest Way.
+~
+~
+1 0 649
+S
+#661
+Small House~
+This is a small house, owned by a commoner of Xian.  It is sparsely 
+furnished and there isn't much of value here to an outsider.  The owner 
+however, really cherishes the pile of treasures collected here.  Everything 
+is kept cleaned and in good repair.  The exit is to the south to Pinker 
+Boulevard.  
+~
+0 8 0
+D2
+You see Swiftest Way.
+~
+~
+1 0 650
+S
+#662
+Small House~
+This is a small house, owned by a commoner of Xian.  It is sparsely 
+furnished and there isn't much of value here to an outsider.  The owner 
+however, really cherishes the pile of treasures collected here.  Everything 
+is kept cleaned and in good repair.  The exit is to the north to Pinker 
+Boulevard.
+~
+0 8 0
+D0
+You see Swiftest Way.
+~
+~
+1 0 650
+S
+#663
+Small House~
+This is a small house, owned by a commoner of Xian.  It is sparsely 
+furnished and there isn't much of value here to an outsider.  The owner 
+however, really cherishes the pile of treasures collected here.  Everything 
+is kept cleaned and in good repair.  The exit is to the south to Pinker 
+Boulevard.  
+~
+0 8 0
+D2
+You see the end of Swiftest Way.
+~
+~
+1 0 651
+S
+#664
+Small House~
+This is a small house, owned by a commoner of Xian.  It is sparsely 
+furnished and there isn't much of value here to an outsider.  The owner 
+however, really cherishes the pile of treasures collected here.  Everything 
+is kept cleaned and in good repair.  The exit is to the north to Pinker 
+Boulevard.  
+~
+0 8 0
+D0
+~
+~
+1 0 642
+S
+#665
+Small House~
+This is a small house, owned by a commoner of Xian.  It is sparsely
+furnished and there isn't much of value here to an outsider.  The owner
+however, really cherishes the pile of treasures collected here.  Everything
+is kept cleaned and in good repair.  The exit is to the east to Pinker
+Boulevard.  
+~
+0 8 0
+D1
+You see the end of Swiftest Way.
+~
+~
+1 0 651
+S
+#666
+Citadel Way~
+You are on {GCitadel{x Way which runs north-south through town.  This is a
+narrow road ending at the {yGolden{x Citadel to the north.  Only foot traffic
+is permitted here.  To the south, the road is slightly wider, allowing for
+the passage of wagons.  There are beautiful flowers growing along the
+roadside, making this more of a garden than a road.  To the south, these
+flowers are interrupted by the entrance to the Baron of Xian's mansion.  
+~
+0 0 1
+D0
+~
+~
+0 0 667
+D2
+~
+~
+0 0 1601
+S
+#667
+Citadel Way~
+Citadel Way takes an north-south route through town.  It is a narrow road
+ending at the {yGolden{x Citadel to the north.  Only foot traffic is allowed
+here.  To the south, past the intersection, the road is slightly wider,
+allowing for the passage of wagons.  There are beautiful flowers growing
+along the roadside, making this more of a garden than a road.  
+~
+0 0 1
+D0
+~
+~
+0 0 699
+D1
+~
+~
+0 0 14179
+D2
+~
+~
+0 0 666
+S
+#668
+An Alchemists Shop~
+This chamber is illuminated by faintly glowing flasks of strange bubbling
+liquids and the occasional glowing orb of magical fire set upon several
+small tables.  A long counter stands against the northern wall littered with
+chemical distillation apparatus and the equipment needed for other
+refinements along with what can only be a human skull.  Over the counter
+sits what must be a stuffed alligator resplendent with a thin layer of dust.
+Shelving filled with numerous small jars and vials cover all four walls
+packed almost to over flowing except for the narrow doorway to the west. 
+The air hangs heavy with the chemicals pungent taint.  
+~
+0 8 0
+E
+skull~
+Locked eternally in a grinning mask this human skull sits here, testimony
+to this being an alchemist's lair.  
+~
+E
+counter apparatus equipment~
+Crafted skillfully and set about this shop are devices both arcane and
+mundane for the refinement and purification of chemical components.  Various
+bubbles and pops rises from these items as they endeavor to accomplish there
+purpose as well as some very odd odors.  
+~
+E
+alligator~
+This stuffed reptile is either and alligator or a crocodile.  Whoever
+stuffed the unfortunate creature had much greater enthusiasm than talent
+going by its somewhat misshapen appearance.  
+~
+D1
+~
+~
+1 0 611
+S
+#669
+The Temple of Xian~
+You are in the Temple of {CXian{x.  {yGolden{x tiles cover the floor, and
+solid {yGold{x columns reach the twelve foot ceiling of this vast chamber. 
+Vines of rich {Givy{x grow clinging to the columns.  Servants in {ygolden{x
+livery wander this place, making even the poorest messenger boy look richer
+than the nobles in town.  
+~
+0 8 0
+D0
+~
+~
+0 0 670
+D1
+~
+~
+0 0 672
+D2
+~
+~
+0 0 673
+D3
+~
+~
+0 0 671
+S
+#670
+The Anteroom to the Temple of Xian~
+You are in an anteroom to the Temple of {CXian{w.  {yGold{x tiles are
+inlaid in the floor.  The ceiling is high and domed with an elegant
+chandelier hanging from the apex.  Large golden bowls, the size of a dwarven
+bathtub, hold luscious {Ggreen{x plants with delicate {Wwhite{x flowers. 
+Servants in {ygolden{x livery pass you by peaceably with heads bowed.  The
+temple is to the south, and to the north is a hallway.  A stairway leads up.
+~
+0 8 0
+D0
+~
+~
+0 0 675
+D2
+~
+~
+0 0 669
+D4
+~
+~
+0 0 686
+S
+#671
+The Anteroom to the Temple of Xian~
+You are in an anteroom to the Temple of {CXian{x.  {yGold{x tiles are
+inlaid in the floor.  The ceiling is high and domed with an elegant
+chandelier hanging from the apex.  Large golden bowls, the size of a dwarven
+bathtub, hold luscious {Ggreen{x plants with delicate {Wwhite{x flowers. 
+Servants in {ygolden{x livery pass you by peaceably with heads bowed.  The
+temple is to the east, and to the west is a hallway.  A stairway leads up.  
+~
+0 8 0
+D1
+~
+~
+0 0 669
+D3
+~
+~
+0 0 679
+D4
+~
+~
+0 0 687
+S
+#672
+The Anteroom to the Temple of Xian~
+You are in an anteroom to the Temple of {CXian{x.  {yGold{x tiles are
+inlaid in the floor.  The ceiling is high and domed with an elegant
+chandelier hanging from the apex.  Large golden bowls, the size of a dwarven
+bathtub, hold luscious {Ggreen{x plants with delicate {Wwhite{x flowers. 
+Servants in {ygolden{x livery pass you by peaceably with heads bowed.  The
+temple is to the west, and to the east is a hallway.  A stairway leads up.  
+~
+0 8 0
+D1
+~
+~
+0 0 680
+D3
+~
+~
+0 0 669
+D4
+~
+~
+0 0 689
+S
+#673
+The Anteroom to the Temple of Xian~
+You are in an anteroom to the Temple of {CXian{x.  {yGold{x tiles are
+inlaid in the floor.  The ceiling is high and domed with an elegant
+chandelier hanging from the apex.  Large golden bowls, the size of a dwarven
+bathtub, hold luscious {Ggreen{x plants with delicate {Wwhite{x flowers. 
+Servants in {ygolden{x livery pass you by peaceably with heads bowed.  The
+temple is to the north, and to the south is a hallway.  A stairway leads up.
+~
+0 8 0
+D0
+~
+~
+0 0 669
+D2
+~
+~
+0 0 684
+D4
+~
+~
+0 0 690
+S
+#674
+A Hallway in the Golden Citadel~
+You are in a hallway of the {yGolden{x Citadel.  {yGold{x tiles are
+inlaid into the floor in an intricate pattern that looks vaguely like
+lightning bolts.  Rich {yGolden{x tapestries drape the walls.  Servants in
+{ygolden{x livery pass you by peaceably.  Exits lead east and south.  
+~
+0 8 0
+D1
+~
+~
+0 0 675
+D2
+~
+~
+0 0 677
+S
+#675
+A Hallway in the Golden Citadel~
+You are in a hallway of the {yGolden{x Citadel with a curved roof. 
+Everything here is rounded and smooth.  {yGolden{x tiles cover the floors,
+and rich {yGolden{x tapestries drape the walls.  Servants in {ygolden{x
+livery pass you by peaceably with heads bowed.  Footsteps echo off the
+shining walls.  Exits lead east, west, and south through high curved arches.
+~
+0 8 0
+D1
+~
+~
+0 0 676
+D2
+~
+~
+0 0 670
+D3
+~
+~
+0 0 674
+S
+#676
+A Hallway in the Golden Citadel~
+You are in a hallway of the {yGolden{x Citadel with a curved roof. 
+Everything here is rounded and smooth.  {yGolden{x tiles cover the floors,
+and rich {yGolden{x tapestries drape the walls.  Servants in {ygolden{x
+livery pass you by peaceably with heads bowed.  Footsteps echo off the
+shining walls.  Exits lead west and south through high curved arches.  
+~
+0 8 0
+D2
+~
+~
+0 0 678
+D3
+~
+~
+0 0 675
+S
+#677
+A Hallway in the Golden Citadel~
+You are in a hallway of the {yGolden{x Citadel with a curved roof. 
+Everything here is rounded and smooth.  {yGolden{x tiles cover the floors,
+and rich {yGolden{x tapestries drape the walls.  Servants in {ygolden{x
+livery pass you by peaceably with heads bowed.  Footsteps echo off the
+shining walls.  Exits lead north and south through high curved arches.  
+~
+0 8 0
+D0
+~
+~
+0 0 674
+D2
+~
+~
+0 0 679
+S
+#678
+A Hallway in the Golden Citadel~
+You are in a hallway of the {yGolden{x Citadel with a curved roof. 
+Everything here is rounded and smooth.  {yGolden{x tiles cover the floors,
+and rich {yGolden{x tapestries drape the walls.  Servants in {ygolden{x
+livery pass you by peaceably with heads bowed.  Footsteps echo off the
+shining walls.  Exits lead north and south through high curved arches.  
+~
+0 8 0
+D0
+~
+~
+0 0 676
+D2
+~
+~
+0 0 680
+S
+#679
+A Hallway in the Golden Citadel~
+You are in a hallway of the {yGolden{x Citadel with a curved roof. 
+Everything here is rounded and smooth.  {yGolden{x tiles cover the floors,
+and rich {yGolden{x tapestries drape the walls.  Servants in {ygolden{x
+livery pass you by peaceably with heads bowed.  Footsteps echo off the
+shining walls.  Exits lead to the cardinal directions through high curved
+arches, with the east leading toward the Temple of {CXian{x, and west
+leading toward the City of {CXian{x.  
+~
+0 8 0
+D0
+~
+~
+0 0 677
+D1
+~
+~
+0 0 671
+D2
+~
+~
+0 0 681
+S
+#680
+A Hallway in the Golden Citadel~
+You are in a hallway of the {yGolden{x Citadel with a curved roof. 
+Everything here is rounded and smooth.  {yGolden{x tiles cover the floors,
+and rich {yGolden{x tapestries drape the walls.  Servants in {ygolden{x
+livery pass you by peaceably with heads bowed.  Footsteps echo off the
+shining walls.  Exits lead north, west and south through high curved arches.
+~
+0 8 0
+D0
+~
+~
+0 0 678
+D2
+~
+~
+0 0 682
+D3
+~
+~
+0 0 672
+S
+#681
+A Hallway in the Golden Citadel~
+You are in a hallway of the {yGolden{x Citadel with a curved roof. 
+Everything here is rounded and smooth.  {yGolden{x tiles cover the floors,
+and rich {yGolden{x tapestries drape the walls.  Servants in {ygolden{x
+livery pass you by peaceably with heads bowed.  Footsteps echo off the
+shining walls.  Exits lead north and south through high curved arches.  
+~
+0 8 0
+D0
+~
+~
+0 0 679
+D2
+~
+~
+0 0 683
+S
+#682
+A Hallway of the Golden Citadel~
+You are in a hallway of the {yGolden{x Citadel with a curved roof. 
+Everything here is rounded and smooth.  {yGolden{x tiles cover the floors,
+and rich {yGolden{x tapestries drape the walls.  Servants in {ygolden{x
+livery pass you by peaceably with heads bowed.  Footsteps echo off the
+shining walls.  Exits lead north and south through high curved arches.  
+~
+0 8 0
+D0
+~
+~
+0 0 680
+D2
+~
+~
+0 0 685
+S
+#683
+A Hallway in the Golden Citadel~
+You are in a hallway of the {yGolden{x Citadel with a curved roof. 
+Everything here is rounded and smooth.  {yGolden{x tiles cover the floors,
+and rich {yGolden{x tapestries drape the walls.  Servants in {ygolden{x
+livery pass you by peaceably with heads bowed.  Footsteps echo off the
+shining walls.  Exits lead north and east through high curved arches.  
+~
+0 8 0
+D0
+~
+~
+0 0 681
+D1
+~
+~
+0 0 684
+S
+#684
+A Hallway in the Golden Citadel~
+You are in a hallway of the {yGolden{x Citadel with a curved roof. 
+Everything here is rounded and smooth.  {yGolden{x tiles cover the floors,
+and rich {yGolden{x tapestries drape the walls.  Servants in {ygolden{x
+livery pass you by peaceably with heads bowed.  Footsteps echo off the
+shining walls.  Exits lead north east and west through high curved arches.  
+~
+0 8 0
+D0
+~
+~
+0 0 673
+D1
+~
+~
+0 0 685
+D2
+~
+~
+0 0 698
+D3
+~
+~
+0 0 683
+S
+#685
+A Hallway in the Golden Citadel~
+You are in a hallway of the {yGolden{x Citadel with a curved roof. 
+Everything here is rounded and smooth.  {yGolden{x tiles cover the floors,
+and rich {yGolden{x tapestries drape the walls.  Servants in {ygolden{x
+livery pass you by peaceably with heads bowed.  Footsteps echo off the
+shining walls.  Exits lead north and west through high curved arches.  
+~
+0 8 0
+D0
+~
+~
+0 0 682
+D3
+~
+~
+0 0 684
+S
+#686
+An Upper Chamber of the Golden Citadel~
+You are in one of the upper chambers of the {yGolden{x Citadel.  The
+decorations of this place surpass even those of the first floor.  {yGold{x
+tiles etched with platinum are inlaid richly in the floor, walls and the
+ceiling.  The lights from numerous torches reflect from these shimmering
+planes, giving the illusion that you are standing in a gem.  A stairway
+leads up and down, and the hall leads south.  
+~
+0 8 0
+D2
+~
+~
+0 0 688
+D4
+~
+~
+0 0 691
+D5
+~
+~
+0 0 670
+S
+#687
+An Upper Chamber of the Golden Citadel~
+You are in one of the upper chambers of the {yGolden{x Citadel.  The
+decorations of this place surpass even those of the first floor.  {yGold{x
+tiles etched with platinum are inlaid richly in the floor, walls and the
+ceiling.  The lights from numerous torches reflect from these shimmering
+planes, giving the illusion that you are standing in a gem.  A stairway
+leads up and down, and the hall leads east.  
+~
+0 8 0
+D1
+~
+~
+0 0 688
+D4
+~
+~
+0 0 692
+D5
+~
+~
+0 0 671
+S
+#688
+The Hall of the DragonLords~
+You are in a vast hall, filled with the commanders of the {yGolden{x
+Citadel.  {yGolden{x tiles etched with platinum cover the floors, and
+weapons of all types are mounted on the walls of this meeting hall. 
+Brilliant {Wwhite{x globes float just above head-level, seemingly of their
+own accord.  The light from these globes provides more than adequate light
+for the room.  Surrounding a solid {ygolden{x table are four sons of the
+Keeper of the {yGolden{x Citadel.  Exits lead to the cardinal directions.  
+~
+0 8 0
+D0
+~
+~
+0 0 686
+D1
+~
+~
+0 0 689
+D2
+~
+~
+0 0 690
+D3
+~
+~
+0 0 687
+S
+#689
+An Upper Chamber of the Golden Citadel~
+You are in one of the upper chambers of the {yGolden{x Citadel.  The
+decorations of this place surpass even those of the first floor. 
+{yGold{xtiles etched with platinum cover the floor, walls and the ceiling. 
+The lights from numerous torches reflect from these shimmering planes,
+giving the illusion that you are standing in a gem.  A stairway leads up and
+down, and the hall leads west.  
+~
+0 8 0
+D3
+~
+~
+0 0 688
+D4
+~
+~
+0 0 694
+D5
+~
+~
+0 0 672
+S
+#690
+An Upper Chamber of the Golden Citadel~
+You are in one of the upper chambers of the {yGolden{x Citadel.  The
+decorations of this place surpass even those of the first floor. 
+{yGold{xtiles etched with platinum cover the floor, walls and the ceiling. 
+The lights from numerous torches reflect from these shimmering planes,
+giving the illusion that you are standing in a gem.  A stairway leads up and
+down, and the hall leads north.  
+~
+0 8 0
+D0
+~
+~
+0 0 688
+D4
+~
+~
+0 0 695
+D5
+~
+~
+0 0 673
+S
+#691
+A Top Chamber of the Golden Citadel~
+You are in one of the top chambers of the {yGolden{x Citadel.  The
+decorations of this room looks like a dragon's hoard.  The whole room is
+carved out of pure gold, and gems of all types glitter from the walls,
+ceiling, even the floor.  It is obvious that this room was not meant for
+intruders.  A window framed in {Wdiamonds{x looks out into a deep forest.  A
+staircase leads back down, and a doorway leads south.  
+~
+0 8 0
+D2
+~
+~
+0 0 693
+D5
+~
+~
+0 0 686
+S
+#692
+A Top Chamber of the Golden Citadel~
+You are in one of the top chambers of the {yGolden{x Citadel.  The
+decorations of this room looks like a dragon's hoard.  The whole room is
+carved out of pure gold, and gems of all types glitter from the walls,
+ceiling, even the floor.  It is obvious that this room was not meant for you
+to intrude upon.  A window framed in {Rrubies{x looks out into a deep
+forest.  A staircase leads back down, and a doorway leads east.  
+~
+0 8 0
+D1
+~
+~
+0 0 693
+D5
+~
+~
+0 0 687
+S
+#693
+The Dragon Chamber~
+You are in a vast chamber carved from {ygold{x and platinum.  Gems the
+size of a man's fist protrude from the walls, ceiling, and the floor, making
+your step painful.  A vast open skylight lets fresh air in from above.  A
+single perfect {Wdiamond{x hangs from a {ygold{x chain.  A rainbow of color
+dances off the walls from the light that is caught in the prism.  In the
+center of this chamber, you see a great wealth of coins.  Exits lead to the
+cardinal directions through high curved arches to the anterooms.  
+~
+0 8 0
+D0
+~
+~
+0 0 691
+D1
+~
+~
+0 0 694
+D2
+~
+~
+0 0 695
+D3
+~
+~
+0 0 692
+D4
+~
+~
+0 0 696
+S
+#694
+A Top Chamber of the Golden Citadel~
+You are in one of the top chambers of the {yGolden{x Citadel.  The
+decorations of this room looks like a dragon's hoard.  The whole room is
+carved out of pure gold, and gems of all types glitter from the walls,
+ceiling, even the floor.  It is obvious that this room was not meant for you
+to intrude upon.  A window framed in {Bsapphires{x looks out over the city. 
+A staircase leads back down, and a doorway leads west.  
+~
+0 8 0
+D3
+~
+~
+0 0 693
+D5
+~
+~
+0 0 689
+S
+#695
+A Top Chamber of the Golden Citadel~
+You are in one of the top chambers of the {yGolden{x Citadel.  The
+decorations of this room looks like a dragon's hoard.  The whole room is
+carved out of pure gold, and gems of all types glitter from the walls,
+ceiling, even the floor.  A window framed in {Gemeralds{x looks out over the
+city.  It is obvious that this room was not meant for you to intrude upon. 
+A staircase leads back down, and a doorway leads north.  
+~
+0 8 0
+D0
+~
+~
+0 0 693
+D5
+~
+~
+0 0 690
+S
+#696
+Above the Dragon Chamber~
+This is a wide circular chamber above the Dragon Chamber.  It connects an
+opening in the roof to the Dragon Chamber below.  The walls of this chamber
+have gems imbedded in them.  Pieces of what look like shed reptile skin
+cling to some of them, as if something large and scaly has bumped up against
+them.  Down from here is an incredibly large pile of gold and gems.  
+~
+0 8 0
+D4
+~
+~
+0 0 697
+D5
+~
+~
+0 0 693
+S
+#697
+In the Shaft from the Dragon Chamber~
+This is a wide circular chamber above the Dragon Chamber.  It connects an
+opening in the roof to the Dragon Chamber below.  The walls of this chamber
+have gems imbedded in them.  Pieces of what look like shed reptile skin
+cling to some of them, as if something large and scaly has bumped up against
+them.  Down from here is an incredibly large pile of gold and gems.  Above
+you, the sky can be seen, but currently, the way out appears to be sealed by
+a layer of diamond that looks impenetrable.  
+~
+0 8 0
+D5
+~
+~
+0 0 696
+S
+#698
+In the Golden Citadel~
+This is just inside the entrance to the Golden Citadel.  The ceiling is high 
+and domed giving the room an aura of vastness.  Rich Golden tapestries line 
+the walls, and Golden tiles are imbedded in the floors.  Everything is 
+polished to a rich shine.  The exit to this citadel is to the south through 
+a great gate, while the citadel itself lies to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 684
+D2
+~
+~
+0 0 699
+S
+#699
+Near the Golden Citadel~
+You are outside the entrance to the {y{xGolden{x {xCitadel.  The citadel is a
+strikingly beautiful structure, seemingly out of place in this otherwise
+simple town.  Devotees of the faith come from far and wide to worship and
+seek redemption from within.  A great gate is to to the north, marking the
+entranceway into the citadel.  The road also leads back south to {xCitadel{x
+Way through rows of beautiful flowers.  
+~
+0 0 2
+D0
+~
+~
+0 0 698
+D2
+~
+~
+0 0 667
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 600 spec_guard Load to: a Xian city guard
+M 601 spec_guard Load to: Caro of Xian
+M 602 spec_guard Load to: Captain Bontor
+M 603 spec_guard Load to: Captain Denorah
+M 621 spec_janitor Load to: the maid
+M 623 spec_guard Load to: a Xian city guard
+M 628 spec_cast_cleric Load to: the Priestess of {CXian{x
+M 629 spec_guard Load to: Chaplain Oragold
+M 630 spec_breath_any Load to: a Dragonlord
+M 631 spec_breath_any Load to: The Ancient {yGold{x Dragon
+M 632 spec_cast_mage Load to: an attendant of the dragon
+M 633 spec_breath_any Load to: a Dragonknight
+M 634 spec_guard Load to: a Xian city guard
+S
+
+
+
+#RESETS
+D 0 611 1 0
+D 0 611 3 0
+D 0 619 0 1
+D 0 625 1 1
+D 0 625 3 1
+D 0 626 3 1
+D 0 629 1 1
+D 0 632 1 1
+D 0 632 3 1
+D 0 633 3 1
+D 0 635 1 1
+D 0 637 1 1
+D 0 637 3 1
+D 0 638 3 1
+D 0 640 1 1
+D 0 642 0 2
+D 0 642 2 0
+D 0 643 2 2
+D 0 646 0 0
+D 0 646 2 0
+D 0 647 0 0
+D 0 647 2 0
+D 0 648 1 0
+D 0 649 0 0
+D 0 649 2 0
+D 0 650 0 0
+D 0 650 2 0
+D 0 651 0 0
+D 0 651 3 0
+D 0 652 2 0
+D 0 653 0 0
+D 0 654 2 0
+D 0 655 0 0
+D 0 657 3 0
+D 0 659 2 0
+D 0 660 0 0
+D 0 661 2 0
+D 0 662 0 0
+D 0 663 2 0
+D 0 664 0 0
+D 0 665 1 0
+D 0 668 1 0
+M 0 609 1 600
+G 0 698 0
+E 0 669 0 24
+M 0 600 8 601
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 624 0 8
+M 0 601 1 601
+E 0 620 0 1
+E 0 639 0 5
+E 0 640 0 6
+E 0 641 0 7
+E 0 642 0 8
+E 0 643 0 9
+E 0 644 0 10
+E 0 645 0 11
+E 0 646 0 13
+E 0 647 0 16
+M 0 617 3 601
+G 0 668 0
+E 0 675 0 16
+M 0 604 1 603
+G 0 600 0
+G 0 615 0
+G 0 667 0
+M 0 600 8 604
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 623 0 7
+M 0 605 1 604
+G 0 616 0
+G 0 617 0
+G 0 618 0
+G 0 619 0
+M 0 606 1 606
+G 0 606 0
+G 0 607 0
+G 0 608 0
+M 0 607 1 607
+G 0 602 0
+G 0 603 0
+G 0 604 0
+G 0 605 0
+M 0 600 8 608
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 622 0 6
+M 0 622 1 609
+G 0 648 0
+G 0 649 0
+G 0 650 0
+M 0 624 1 609
+M 0 608 1 610
+G 0 609 0
+G 0 610 0
+G 0 611 0
+G 0 612 0
+G 0 613 0
+M 0 618 3 611
+G 0 668 0
+M 0 11601 1 612
+E 0 11601 0 16
+M 0 610 1 615
+E 0 619 0 8
+E 0 616 0 5
+E 0 601 0 16
+M 0 616 3 615
+G 0 673 0
+M 0 616 3 615
+M 0 616 3 615
+O 0 614 0 616
+O 0 615 0 616
+M 0 615 1 616
+E 0 674 0 21
+M 0 614 3 616
+M 0 614 3 616
+M 0 614 3 616
+M 0 612 4 617
+G 0 670 0
+M 0 612 4 617
+G 0 672 0
+M 0 612 4 617
+G 0 671 0
+M 0 612 4 617
+M 0 642 16 618
+M 0 642 16 620
+M 0 642 16 621
+M 0 642 16 623
+M 0 636 4 625
+E 0 676 0 13
+M 0 621 3 627
+G 0 665 0
+E 0 666 0 16
+M 0 621 3 629
+G 0 665 0
+E 0 666 0 16
+M 0 636 4 632
+E 0 676 0 13
+O 0 693 0 633
+O 0 694 0 633
+M 0 639 1 634
+O 0 691 0 634
+O 0 692 0 634
+M 0 620 2 635
+M 0 600 8 637
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 629 0 14
+M 0 618 3 637
+G 0 668 0
+E 0 675 0 16
+M 0 641 1 638
+M 0 640 1 638
+O 0 696 0 639
+M 0 638 1 641
+G 0 698 0
+O 0 697 0 641
+M 0 635 4 642
+E 0 677 0 16
+M 0 600 8 642
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 626 0 10
+M 0 621 3 643
+G 0 665 0
+E 0 666 0 16
+M 0 642 16 646
+M 0 636 4 646
+E 0 680 0 19
+E 0 676 0 13
+M 0 11600 3 646
+E 0 11600 0 16
+M 0 600 8 647
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 627 0 11
+M 0 642 16 648
+M 0 617 3 648
+G 0 668 0
+M 0 642 16 649
+M 0 11600 3 649
+E 0 11600 0 16
+M 0 635 4 650
+E 0 677 0 16
+M 0 600 8 650
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 625 0 9
+M 0 617 3 650
+G 0 668 0
+E 0 675 0 16
+M 0 642 16 652
+M 0 620 2 652
+E 0 678 0 16
+M 0 642 16 653
+M 0 642 16 654
+M 0 619 2 655
+E 0 679 0 16
+M 0 642 16 656
+M 0 635 4 657
+E 0 677 0 16
+M 0 636 4 658
+M 0 642 16 659
+M 0 642 16 660
+M 0 642 16 661
+M 0 619 2 661
+E 0 679 0 16
+M 0 642 16 662
+M 0 642 16 663
+M 0 642 16 665
+M 0 635 4 665
+E 0 677 0 16
+M 0 618 3 666
+E 0 680 0 19
+M 0 11600 3 666
+E 0 11600 0 16
+M 0 600 8 667
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 628 0 13
+M 0 637 1 668
+G 0 20372 0
+G 0 8111 0
+G 0 8110 0
+G 0 8050 0
+G 0 8051 0
+G 0 8052 0
+G 0 8053 0
+G 0 8054 0
+G 0 8055 0
+G 0 8056 0
+G 0 8057 0
+G 0 8058 0
+G 0 8059 0
+M 0 602 1 669
+E 0 620 0 1
+E 0 631 0 5
+E 0 653 0 16
+E 0 632 0 6
+E 0 633 0 7
+E 0 634 0 8
+E 0 635 0 9
+E 0 626 0 10
+E 0 627 0 11
+E 0 628 0 13
+M 0 628 1 669
+E 0 620 0 1
+E 0 664 0 12
+E 0 652 0 3
+M 0 625 2 673
+M 0 625 2 674
+M 0 633 3 676
+E 0 620 0 1
+E 0 654 0 5
+E 0 660 0 11
+E 0 662 0 16
+M 0 627 1 678
+M 0 633 3 681
+E 0 620 0 1
+E 0 654 0 5
+E 0 660 0 11
+E 0 662 0 16
+M 0 626 2 682
+M 0 626 2 683
+M 0 629 1 688
+E 0 664 0 12
+M 0 630 3 688
+E 0 620 0 1
+E 0 654 0 5
+E 0 660 0 11
+E 0 662 0 16
+E 0 656 0 6
+E 0 657 0 7
+M 0 630 3 688
+E 0 620 0 1
+E 0 654 0 5
+E 0 660 0 11
+E 0 662 0 16
+E 0 657 0 8
+E 0 658 0 9
+M 0 630 3 688
+E 0 620 0 1
+E 0 654 0 5
+E 0 660 0 11
+E 0 662 0 16
+E 0 659 0 10
+E 0 661 0 13
+M 0 633 3 690
+E 0 620 0 1
+E 0 654 0 5
+E 0 660 0 11
+E 0 662 0 16
+M 0 631 1 693
+E 0 620 0 1
+E 0 662 0 16
+E 0 663 0 17
+M 0 632 2 693
+E 0 620 0 1
+E 0 664 0 12
+M 0 632 2 693
+E 0 620 0 1
+E 0 664 0 12
+M 0 634 3 698
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 627 0 11
+G 0 651 0
+M 0 634 3 698
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 627 0 11
+G 0 651 0
+M 0 634 3 698
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 627 0 11
+G 0 651 0
+M 0 603 1 699
+E 0 620 0 1
+E 0 631 0 5
+E 0 653 0 16
+E 0 632 0 6
+E 0 623 0 7
+E 0 624 0 8
+E 0 625 0 9
+E 0 636 0 10
+E 0 637 0 11
+E 0 638 0 13
+M 0 623 3 699
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 627 0 11
+G 0 651 0
+M 0 623 3 699
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 627 0 11
+G 0 651 0
+M 0 623 3 699
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 627 0 11
+G 0 651 0
+S
+
+
+
+#SHOPS
+604 5 9 15 0 0 120 70 0 23
+605 9 27 0 0 0 100 30 0 23
+606 8 12 13 0 0 120 65 0 23
+607 0 19 0 0 0 120 10 0 23
+608 0 17 19 0 0 120 10 0 23
+622 0 17 0 0 0 120 10 0 23
+637 0 0 0 0 0 100 0 2 23
+0
+
+
+
+#$

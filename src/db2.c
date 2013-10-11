@@ -45,6 +45,161 @@
 extern int flag_lookup args((const char *name, const struct flag_type *flag_table));
 
 /* values for db2.c */
+void import_mobiles( FILE *fp )
+{
+    MOB_INDEX_DATA *pMobIndex;
+ 
+    if ( !area_last )   /* OLC */
+    {
+        bug( "Load_mobiles: no #AREA seen yet.", 0 );
+		log_string( "db2 - load mobiles: no area seen yet" );
+//        exit( 1 );
+		return;
+    }
+	log_string("Loading mobs.");
+    for ( ; ; )
+    {
+        sh_int vnum;
+        char letter,temp;
+        int iHash;
+ 
+        letter                          = fread_letter( fp );
+        if ( letter != '#' )
+        {
+            bug( "Load_mobiles: # not found.", 0 );
+			log_string( "db2 - load mobiles: # not found" );
+        //    exit( 1 );
+			return;
+        }
+ 
+        vnum                            = fread_number( fp );
+        if ( vnum == 0 )
+            break;
+ 
+        fBootDb = FALSE;
+        if ( get_mob_index( vnum ) != NULL )
+        {
+			log_string( "db2 - load mobiles: vnum duplicated" );
+            bug( "Load_mobiles: vnum %d duplicated.", vnum );
+         //   exit( 1 );
+			return;
+        }
+        fBootDb = TRUE;
+ 
+        pMobIndex                       = alloc_perm( sizeof(*pMobIndex) );
+        pMobIndex->vnum                 = vnum;
+        pMobIndex->area                 = area_last;               /* OLC */
+	pMobIndex->new_format		= TRUE;
+	newmobs++;
+        pMobIndex->player_name          = fread_string( fp );
+        pMobIndex->short_descr          = fread_string( fp );
+        pMobIndex->long_descr           = fread_string( fp );
+        pMobIndex->description          = fread_string( fp );
+	pMobIndex->race		 	= race_lookup(fread_string( fp ));
+ 
+        pMobIndex->long_descr[0]        = UPPER(pMobIndex->long_descr[0]);
+        pMobIndex->description[0]       = UPPER(pMobIndex->description[0]);
+ 
+        pMobIndex->act                  = fread_flag( fp ) | ACT_IS_NPC
+					| race_table[pMobIndex->race].act;
+        pMobIndex->affected_by          = fread_flag( fp )
+					| race_table[pMobIndex->race].aff;
+        pMobIndex->pShop                = NULL;
+        pMobIndex->alignment            = fread_number( fp );
+        letter                          = fread_letter( fp );
+
+        pMobIndex->level                = fread_number( fp );
+        pMobIndex->hitroll              = fread_number( fp );  
+
+	/* read hit dice */
+        pMobIndex->hit[DICE_NUMBER]     = fread_number( fp );  
+        /* 'd'          */                fread_letter( fp ); 
+        pMobIndex->hit[DICE_TYPE]   	= fread_number( fp );
+        /* '+'          */                fread_letter( fp );   
+        pMobIndex->hit[DICE_BONUS]      = fread_number( fp ); 
+
+ 	/* read mana dice */
+	pMobIndex->mana[DICE_NUMBER]	= fread_number( fp );
+					  fread_letter( fp );
+	pMobIndex->mana[DICE_TYPE]	= fread_number( fp );
+					  fread_letter( fp );
+	pMobIndex->mana[DICE_BONUS]	= fread_number( fp );
+
+	/* read damage dice */
+	pMobIndex->damage[DICE_NUMBER]	= fread_number( fp );
+					  fread_letter( fp );
+	pMobIndex->damage[DICE_TYPE]	= fread_number( fp );
+					  fread_letter( fp );
+	pMobIndex->damage[DICE_BONUS]	= fread_number( fp );
+	pMobIndex->dam_type		= fread_number( fp );
+
+	/* read armor class */
+	pMobIndex->ac[AC_PIERCE]	= fread_number( fp ) * 10;
+	pMobIndex->ac[AC_BASH]		= fread_number( fp ) * 10;
+	pMobIndex->ac[AC_SLASH]		= fread_number( fp ) * 10;
+	pMobIndex->ac[AC_EXOTIC]	= fread_number( fp ) * 10;
+
+	/* read flags and add in data from the race table */
+	pMobIndex->off_flags		= fread_flag( fp ) 
+					| race_table[pMobIndex->race].off;
+	pMobIndex->imm_flags		= fread_flag( fp )
+					| race_table[pMobIndex->race].imm;
+	pMobIndex->res_flags		= fread_flag( fp )
+					| race_table[pMobIndex->race].res;
+	pMobIndex->vuln_flags		= fread_flag( fp )
+					| race_table[pMobIndex->race].vuln;
+	/* vital statistics */
+	pMobIndex->start_pos		= fread_number( fp );
+	pMobIndex->default_pos		= fread_number( fp );
+
+	/* Akira's fix-o-matic */
+	if(pMobIndex->start_pos == POS_FIGHTING)
+		pMobIndex->start_pos = POS_STANDING;
+	if(pMobIndex->default_pos == POS_FIGHTING)
+		pMobIndex->default_pos = POS_STANDING;
+
+	pMobIndex->sex			= fread_number( fp );
+	pMobIndex->wealth			= fread_number( fp );
+	
+	pMobIndex->form			= fread_flag( fp )
+					| race_table[pMobIndex->race].form;
+	pMobIndex->parts		= fread_flag( fp )
+					| race_table[pMobIndex->race].parts;
+	/* size */
+	temp				= fread_letter( fp );
+	switch (temp)
+	{
+	    case ('T') :		pMobIndex->size = SIZE_TINY;	break;
+	    case ('S') :		pMobIndex->size = SIZE_SMALL;	break;
+	    case ('M') :		pMobIndex->size = SIZE_MEDIUM;	break;
+	    case ('L') :		pMobIndex->size = SIZE_LARGE; 	break;
+	    case ('H') :		pMobIndex->size = SIZE_HUGE;	break;
+	    case ('G') :		pMobIndex->size = SIZE_GIANT;	break;
+	    default:			pMobIndex->size = SIZE_MEDIUM; break;
+	}
+	pMobIndex->material		= str_dup(fread_word( fp ));
+ /*
+ 	pMobIndex->clan=letter-64;
+ 	if (letter == 'S') pMobIndex->clan=0;
+	        letter = fread_letter( fp );*/
+	/*                if ( letter == '>' )
+	                        {
+	                         ungetc( letter, fp );
+	                         mprog_read_programs( fp, pMobIndex );
+	                         }
+	                else ungetc( letter,fp );
+	                                                             */
+        iHash                   = vnum % MAX_KEY_HASH;
+        pMobIndex->next         = mob_index_hash[iHash];
+        mob_index_hash[iHash]   = pMobIndex;
+        top_mob_index++;
+        top_vnum_mob = top_vnum_mob < vnum ? vnum : top_vnum_mob;  /* OLC */
+        assign_area_vnum( vnum );                                  /* OLC */
+        kill_table[URANGE(0, pMobIndex->level, MAX_LEVEL-1)].number++;
+    }
+ 
+    return;
+}
 
 /*
  * Snarf a mob section.  new style
@@ -248,6 +403,241 @@ void load_mobiles( FILE *fp )
     return;
 }
 
+void import_objects( FILE *fp )
+{
+    OBJ_INDEX_DATA *pObjIndex;
+	char *buf;
+	int buf2;
+	int buf3;
+ 
+	if ( !area_last )   /* OLC */
+    {
+        bug( "Load_objects: no #AREA seen yet.", 0 );
+		log_string( "db2 - load objects: no area seen yet" );
+        //exit( 1 );
+		return;
+    }
+	log_string("Loading objects.");
+    for ( ; ; )
+    {
+        sh_int vnum;
+        char letter;
+        int iHash;
+ 
+        letter                          = fread_letter( fp );
+        if ( letter != '#' )
+        {
+            bug( "Load_objects: # not found.", 0 );
+            log_string( "db2 - load objects: #not found" );
+			//exit( 1 );
+			return;
+        }
+ 
+        vnum                            = fread_number( fp );
+        if ( vnum == 0 )
+            break;
+ 
+        fBootDb = FALSE;
+        if ( get_obj_index( vnum ) != NULL )
+        {
+            bug( "Load_objects: vnum %d duplicated.", vnum );
+            log_string( "db2 - load object: vnum duplicated" );
+			//exit( 1 );
+			return;
+        }
+        fBootDb = TRUE;
+ 
+        pObjIndex                       = alloc_perm( sizeof(*pObjIndex) );
+
+	/* For those location strings */
+//	pObjIndex->location_string=NULL;
+
+        pObjIndex->vnum                 = vnum;
+        pObjIndex->area                 = area_last;            /* OLC */
+        pObjIndex->new_format           = TRUE;
+	pObjIndex->reset_num		= 0;
+	newobjs++;
+        pObjIndex->name                 = fread_string( fp );
+        pObjIndex->short_descr          = fread_string( fp );
+        pObjIndex->description          = fread_string( fp );
+        pObjIndex->material		=		fread_string( fp );
+ 
+        pObjIndex->item_type            = fread_number( fp );
+        pObjIndex->extra_flags          = fread_flag( fp );
+        pObjIndex->wear_flags           = fread_flag( fp );
+	pObjIndex->furn_flags		= fread_flag( fp );
+	pObjIndex->value[0]             = fread_flag( fp );
+	pObjIndex->value[1]             = fread_flag( fp );
+        pObjIndex->value[2]             = fread_flag( fp );
+        pObjIndex->value[3]             = fread_flag( fp );
+	pObjIndex->value[4]		= fread_flag( fp );
+/*	switch(pObjIndex->item_type)
+	{
+	case ITEM_WEAPON:
+	    pObjIndex->value[0]		= weapon_type(fread_word(fp));
+	    pObjIndex->value[1]		= fread_number(fp);
+	    pObjIndex->value[2]		= fread_number(fp);
+	    pObjIndex->value[3]		= attack_lookup(fread_word(fp));
+	    pObjIndex->value[4]		= fread_flag(fp);
+	    break;
+
+	case ITEM_ORE:
+		pObjIndex->value[0]			= ore_lookup(fread_word(fp));
+		pObjIndex->value[1]			= fread_number(fp);
+		pObjIndex->value[2]			= fread_number(fp);
+		pObjIndex->value[3]			= fread_number(fp);
+		pObjIndex->value[4]			= ore_color_lookup(fread_word(fp));
+		break;
+		
+	case ITEM_TOKEN:
+		pObjIndex->value[0]			= fread_number(fp);
+		pObjIndex->value[1]			= fread_number(fp);
+		pObjIndex->value[2]			= fread_number(fp);
+		pObjIndex->value[3]			= fread_number(fp);
+		pObjIndex->value[4]			= fread_number(fp);
+		break;
+	case ITEM_QUIVER:
+	case ITEM_ARROW:
+			pObjIndex->value[0]		= fread_number(fp);
+		    pObjIndex->value[1]		= fread_number(fp);
+		    pObjIndex->value[2]		= fread_number(fp);
+		    pObjIndex->value[3]		= fread_number(fp);
+		    pObjIndex->value[4]		= fread_number(fp);
+		    break;
+
+	case ITEM_CONTAINER:
+	    pObjIndex->value[0]		= fread_number(fp);
+	    pObjIndex->value[1]		= fread_flag(fp);
+	    pObjIndex->value[2]		= fread_number(fp);
+	    pObjIndex->value[3]		= fread_number(fp);
+	    pObjIndex->value[4]		= fread_number(fp);
+	    break;
+        case ITEM_DRINK_CON:
+	case ITEM_FOUNTAIN:
+            pObjIndex->value[0]         = fread_number(fp);
+            pObjIndex->value[1]         = fread_number(fp);
+           // pObjIndex->value[2]         = liq_lookup(fread_word(fp));
+			CHECK_POS(pObjIndex->value[2], liq_lookup(fread_word(fp)), "liq_lookup");
+            pObjIndex->value[3]         = fread_number(fp);
+            pObjIndex->value[4]         = fread_number(fp);
+            break;
+	case ITEM_WAND:
+	case ITEM_STAFF:
+	    pObjIndex->value[0]		= fread_number(fp);
+	    pObjIndex->value[1]		= fread_number(fp);
+	    pObjIndex->value[2]		= fread_number(fp);
+	    pObjIndex->value[3]		= skill_lookup(fread_word(fp));
+	    pObjIndex->value[4]		= fread_number(fp);
+	    break;
+	case ITEM_POTION:
+	case ITEM_PILL:
+	case ITEM_SCROLL:
+ 	    pObjIndex->value[0]		= fread_number(fp);
+	    pObjIndex->value[1]		= skill_lookup(fread_word(fp));
+	    pObjIndex->value[2]		= skill_lookup(fread_word(fp));
+	    pObjIndex->value[3]		= skill_lookup(fread_word(fp));
+	    pObjIndex->value[4]		= skill_lookup(fread_word(fp));
+	    break;
+	default:
+            pObjIndex->value[0]             = fread_flag( fp );
+            pObjIndex->value[1]             = fread_flag( fp );
+            pObjIndex->value[2]             = fread_flag( fp );
+            pObjIndex->value[3]             = fread_flag( fp );
+	    pObjIndex->value[4]		    = fread_flag( fp );
+	    break;
+	}*/
+	pObjIndex->level		= fread_number( fp );
+        pObjIndex->weight               = fread_number( fp );
+        pObjIndex->cost                 = fread_number( fp ); 
+		
+        /* condition */
+        letter 				= fread_letter( fp );
+	switch (letter)
+ 	{
+	    case ('P') :		pObjIndex->condition = 100; break;
+	    case ('G') :		pObjIndex->condition =  90; break;
+	    case ('A') :		pObjIndex->condition =  75; break;
+	    case ('W') :		pObjIndex->condition =  50; break;
+	    case ('D') :		pObjIndex->condition =  25; break;
+	    case ('B') :		pObjIndex->condition =  10; break;
+	    case ('R') :		pObjIndex->condition =   0; break;
+	    default:			pObjIndex->condition = 100; break;
+	}
+ 
+        for ( ; ; )
+        {
+            char letter;
+ 
+            letter = fread_letter( fp );
+ 
+            if ( letter == 'A' )
+            {
+                AFFECT_DATA *paf;
+ 
+                paf                     = alloc_perm( sizeof(*paf) );
+                paf->type               = -1;
+                paf->level              = pObjIndex->level;
+                paf->duration           = -1;
+                paf->location           = fread_number( fp );
+                paf->modifier           = fread_number( fp );
+                paf->bitvector          = 0;
+                paf->next               = pObjIndex->affected;
+                pObjIndex->affected     = paf;
+                top_affect++;
+            }
+ 
+            else if ( letter == 'E' )
+            {
+                EXTRA_DESCR_DATA *ed;
+ 
+                ed                      = alloc_perm( sizeof(*ed) );
+                ed->keyword             = fread_string( fp );
+                ed->description         = fread_string( fp );
+                ed->next                = pObjIndex->extra_descr;
+                pObjIndex->extra_descr  = ed;
+                top_ed++;
+            }
+
+	    else if( letter == 'L')
+		buf = fread_string( fp );
+ 
+            else
+            {
+                ungetc( letter, fp );
+                break;
+            }
+        }
+		buf2 = fread_flag(fp);
+		buf3 = fread_flag(fp);
+        /*
+         * Translate spell "slot numbers" to internal "skill numbers."
+         */
+/*        switch ( pObjIndex->item_type )
+        {
+        case ITEM_PILL:
+        case ITEM_POTION:
+        case ITEM_SCROLL:
+            pObjIndex->value[1] = slot_lookup( pObjIndex->value[1] );
+            pObjIndex->value[2] = slot_lookup( pObjIndex->value[2] );
+            pObjIndex->value[3] = slot_lookup( pObjIndex->value[3] );
+            break;
+ 
+        case ITEM_STAFF:
+        case ITEM_WAND:
+            pObjIndex->value[3] = slot_lookup( pObjIndex->value[3] );
+            break;
+        }*/
+ 
+        iHash                   = vnum % MAX_KEY_HASH;
+        pObjIndex->next         = obj_index_hash[iHash];
+        obj_index_hash[iHash]   = pObjIndex;
+        top_obj_index++;
+        top_vnum_obj = top_vnum_obj < vnum ? vnum : top_vnum_obj;   /* OLC */
+        assign_area_vnum( vnum );                                   /* OLC */
+    }
+ 
+    return;
+}
 
 /*
  * Snarf an obj section. new style

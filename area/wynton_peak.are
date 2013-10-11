@@ -1,0 +1,2299 @@
+#AREADATA
+Name {40 60} Brysaar Wynton Peak~
+Builders Brysaar~
+VNUMs 18800 18850
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#18800
+farmer blood bear~
+a Blood Farmer~
+One of the largest bears you've ever seen is standing here, glaring at you with hatred in his eyes.
+~
+This enormous bear is huge.  It is by far one of the largest bears you
+have ever seen.  The bear is 15 feet high on all fours, but when he stands
+he appears much larger.  Though large, the bear is slow and that offsets his
+shear power a bit.  
+~
+bear~
+AV 0 0 0
+40 0 10d98+804 40d10+100 4d7+10 crush
+-5 -5 -5 -3
+DEHO I EI 0
+(null) (null) female 180
+AGV ABCDEFHJKPUV huge unknown
+#18801
+shape dark death hawk~
+a Death Hawk~
+A dark shape hovers over the land.
+~
+Before you flies an enormous bird.  This enormous falcon is so black that
+it's almost spectral.  It flies with powerful strokes of its wings, scooping
+up any small animals it can find.  Consequently, the land around it is
+barren.  
+~
+unique~
+A T -1000 0
+40 0 10d98+804 40d10+100 4d7+10 divine
+-5 -5 -5 -3
+0 I 0 L
+(null) (null) either 180
+ACGHMV ABCDEFGHIJKMOQUV large unknown
+#18802
+golem basalt~
+a Basalt Golem~
+A golem made completely of basalt stands here, completely still.
+~
+Before you stands a man sized golem made completely out of hard basalt. 
+Though he is completely motionless, you can sense the heat that is rising
+out of his body.  He is completely black, and his eyes are barely visible. 
+You can tell that he is quite adequate at his job of as guard.  
+~
+human~
+AB 0 0 0
+45 0 10d128+969 45d10+100 5d5+14 slash
+-7 -7 -7 -5
+0 HI 0 0
+(null) (null) male 202
+AHMV ABCDEFGHIJK medium unknown
+#18803
+drake blade~
+a Blade Drake~
+A drake stands here, breathing fire in all directions.
+~
+Before you is a large drake.  As is common in drakes, this being looks
+like a dragon, save much smaller and more slim.  It has fire breath
+capability and gleaming blue eyes that tell you it fears almost nothing.  As
+you watch this creature, its tail twitches and you notice a long scythe
+that depicts the specific type of this creature as a blade drake.  
+~
+dragon~
+AB DFJOTVc 0 0
+55 0 11d216+1345 55d10+100 5d7+16 wrath
+-11 -11 -11 -9
+CFHM HL BEH FIRS
+(null) (null) either 247
+ABCGHMVZc ABCDEFGHIJKLOPQUVX large unknown
+#18804
+patch shade wraith~
+a shade wraith~
+A patch of shade hovers quietly in the corner.
+~
+This thing has no physical embodiment, but you know that it is there.  A
+simple dark spot on the floor or wall is the only thing which betrays its
+existence at all.  
+~
+unique~
+AF BJOPQTU -100 0
+40 0 10d98+804 40d10+100 4d7+10 slap
+-5 -5 -5 -3
+FGH ABDR ALQ CS
+(null) (null) male 180
+ACHIKLMV ABCDEFGHIJK tiny unknown
+#18805
+bearer key dwarf~
+the Bearer of the Key~
+The bearer of the Great Key of the Dwarves stands here ready to unlock the gate.
+~
+Here stands a guardian of the gate, the holder of the Great Key of the
+Dwarves that unlocks the Wynton Peak Dwarven Forge Stronghold.  This
+particular dwarf stands about four feet tall and looks to be a fine warrior.
+His gaze sweeps the land like one of wisdom, for he has certainly seen some
+of the greatest sights this land has to offer.  His duty now is to simply
+stand guard and allow dwarven students and graduates of this place to enter
+and leave.  
+~
+dwarf~
+ABQ J 0 0
+43 0 10d115+900 43d10+100 4d7+12 none
+-6 -6 -6 -4
+0 0 CLQ R
+(null) (null) female 193
+AHMV ABCDEFGHIJK medium unknown
+#18806
+dwarf dwarven lord rakbhar~
+Rakbhar the Dwarven Lord~
+Rakbhar, lord of the stronghold, sits here upon his throne.
+~
+You have heard rumors about Rakbhar before.  In most cases his strength
+and ferocity are highlighted, but seeing him now puts your childhood ideas
+down.  Rakbhar is the largest dwarf that you've ever seen, and indeed, he
+stands tall at five feet eight inches high.  His arms are huge and his legs
+look to be the size of trees.  His eyes are a very deep red, almost black,
+but as you watch him their shades changes significantly.  He doesn't seem to
+like you being here very much at all.  
+~
+dwarf~
+AQ J -10 0
+60 0 11d277+1559 60d10+100 5d7+19 charge
+-13 -13 -13 -11
+0 0 CLQ R
+sit (null) male 270
+AHMV ABCDEFGHIJK medium unknown
+#18807
+guard dwarf dwarven elite~
+a dwarven guard~
+A member of the elite dwarven guard stands here at attention.
+~
+Before you stands one of the multiple elite dwarven guard.  Like other
+dwarven guard, they are always at attention and carry axes, but these are
+more powerful than normal dwarves.  He is dressed all in silver and wears no
+expression on his face.  
+~
+dwarf~
+AQ J 0 0
+45 0 10d128+969 45d10+100 5d5+14 wrath
+-7 -7 -7 -5
+0 0 CLQ R
+(null) (null) male 202
+AHMV ABCDEFGHIJK medium unknown
+#18808
+gnasher dwarf~
+Gnasher~
+A large dwarf with metal teeth stands before you, glaring.
+~
+As seems to be the pattern in this place, this dwarf, Gnasher, is very
+powerful for a dwarf.  Unfortunately, though, traditional fighting is not
+his style.  Indeed, he much prefers to fight with his teeth.  And so he
+should, seeing is that they are close to one and a half inches in length and
+razor sharp.  As you watch him, saliva drips off of one of his steel
+incisors and burns a small hole in the ground.  
+~
+dwarf~
+AQ DFJ -10 0
+50 0 10d167+1149 50d10+100 5d6+13 smash
+-9 -9 -9 -7
+0 0 CLQ R
+(null) (null) male 225
+AHMV ABCDEFGHIJK medium unknown
+#18809
+worker forge dwarf~
+a forge worker~
+A dwarven forge worker pours metal here.
+~
+This particular individual was strengthened considerably by life in the
+forge.  Unfortunately for himself, not only muscles came with the job and
+there are burn scars on various parts of his body.  His garments aren't
+pretty either, for that matter, he wears only shorts and a shirt, which are
+filthy and worthless to you.  
+~
+dwarf~
+AB J 0 0
+40 0 10d98+804 40d10+100 4d7+10 none
+-5 -5 -5 -3
+0 0 CLQ R
+(null) (null) female 180
+AHMV ABCDEFGHIJK medium unknown
+#18810
+fire elemental~
+a fire elemental~
+A fire elemental stands here, not looking at all happy to see you.
+~
+There are long legends about fire elementals.  These entail mostly men
+made out of fire as hot as the sun.  This particular being is no exception. 
+It looks as if his body is flaming blue and white, and by getting near him
+you can feel some of his extreme heat.  He moves silently and smoothly due
+to the fact that there is no friction under his feat, and while he could
+glide, he chooses to walk.  
+~
+dragon~
+AB DFJOTc 0 0
+55 0 11d216+1345 55d10+100 5d7+16 chop
+-11 -11 -11 -9
+0 HL BEH FIR
+(null) (null) male 247
+ACGHMVZc ABCDEFGHIJKLOPQUVX medium unknown
+#18811
+paladin dwarven dwarf~
+a dwarven paladin~
+A dwarven paladin stands here.  He smiles as he sees you enter.
+~
+Paladins, or religious warriors, have always been some of the best
+tempered individuals in history.  This fine dwarf is no exception.  In many
+a legend, paladins wield swords with holy flames, but this dwarf seems to
+prefer the axe.  He seems good tempered toward life, though he has seen
+hardships, and smiles at you as you enter.  Don't be fooled, though, these
+noble warriors are not weaklings of the race.  
+~
+dwarf~
+ABQ J 1000 0
+53 0 11d195+1265 53d10+100 5d6+16 sunder
+-10 -10 -10 -8
+0 H CLQ R
+(null) (null) male 238
+AHMV ABCDEFGHIJK medium unknown
+#18812
+giantslayer slayer dwarven dwarf~
+a dwarven giantslayer~
+A dwarven giantslayer stands here with a legacy to his name.
+~
+Giantslayers are some of the finest warriors the dwarves have to offer. 
+As their names suggest, they often hunt the large prey of giants.  They
+carry large axes, but are dressed as normal for this stronghold: all in
+silver.  Scars cover their bodies, and they willingly show them off as
+prizes.  
+~
+dwarf~
+ABQ J 0 0
+55 0 11d216+1345 55d10+100 5d7+16 sunder
+-11 -11 -11 -9
+0 0 CLQ R
+(null) (null) male 247
+AHMV ABCDEFGHIJK medium unknown
+#18813
+longbeard dwarf~
+a dwarven longbeard~
+A dwarven longbeard is here, relaxing on a wooden chair.
+~
+Dwarven Longbeards are some of the wisest dwarven warriors in existence. 
+They keep their beards growing until they are defeated, at which point they
+trim them down to almost nothing, and this dwarf's beard is down to his
+knees.  The dwarf before you wears normal clothes and wields just a battle
+axe.  As is the custom, they use no magic, and fight with their wits.  
+~
+dwarf~
+ABQ J 0 0
+48 0 10d150+1075 48d10+100 5d6+13 sunder
+-8 -8 -8 -6
+0 0 CLQ R
+(null) (null) female 216
+AHMV ABCDEFGHIJK medium unknown
+#18814
+berserker dwarven dwarf~
+a dwarven berserker~
+A dwarven berserker stands here with fire in his eyes.
+~
+Berserkers are probably some of the most dishonorable, and some of the
+most affective, warriors that the dwarves have come up with.  They drink all
+the night before the battle and get into such a frenzy that they can't think
+straight, and by the time they get to the enemy ranks, it's not very pretty.
+Fortunately for you, these berserkers are not as frenzied as they would be
+before a battle, but they are still quite powerful for dwarves.  
+~
+dwarf~
+ABQ JVa -250 0
+42 0 10d109+868 42d10+100 4d7+11 none
+-6 -6 -6 -4
+0 0 CLQ R
+(null) (null) female 189
+AHMV ABCDEFGHIJK medium unknown
+#18815
+dwarven aircraft dwarf~
+a dwarven aircraft~
+A dwarven aircraft prepares to lift off into the sky.
+~
+Before you is one of the few aircraft that the dwarves have managed to
+create.  Dwarven alchemists and inventors have labored long over the
+problem of flying, and this is their result.  The machine works by
+collecting electric power from the clouds and converting the energy to
+inflate the balloon on the top of the craft.  A single gun is mounted on the
+bottom of this contraption as well, for defense purposes, but it doesn't
+look very accurate.  Every now and then a blast of leftover lightning will
+fire out of the tail of the craft.  
+~
+human~
+AB T 0 0
+62 0 11d306+1649 62d10+100 5d7+20 whip
+-14 -14 -14 -12
+0 JLMNPQ R H
+(null) (null) male 279
+AHMV ABCDEFGHIJK huge unknown
+#18816
+shadow reaver~
+a shadow reaver~
+An odd shadow seems to actually be studying you here.
+~
+Out of the shadows emerges this creature.  The shadow reaver appears to
+have a lithe body covered by shadowy plates of some sort.  Upon the ends of
+its wrists extend long blades which would get in the way if used for
+anything but combat.  As the dark figure examines you, you can feel its eyes
+peering deep into your very soul.  
+~
+human~
+A BDEFPQUVZc -900 0
+60 0 11d277+1559 60d10+100 5d7+19 lunge
+-13 -13 -13 -11
+DFGHIKN M 0 N
+(null) (null) male 270
+AHMV ABCDEFGHIJK medium unknown
+#18817
+shadow reaver~
+a shadow reaver~
+An odd shadow seems to actually be studying you here.
+~
+Out of the shadows emerges this creature.  The shadow reaver appears to
+have a lithe body covered by shadowy plates of some sort.  Upon the ends of
+its wrists extend long blades which would get in the way if used for
+anything but combat.  As the dark figure examines you, you can feel its eyes
+peering deep into your very soul.  
+~
+human~
+A BDEFPQUVZc -900 0
+60 0 11d277+1559 60d10+100 5d7+19 lunge
+-13 -13 -13 -11
+DFGHIKN M 0 N
+(null) (null) male 270
+AHMV ABCDEFGHIJK medium unknown
+#18818
+shadow slayer~
+A Shadow Slayer~
+A particularly black shadow glowers at you from a corner here.
+~
+Two tiny red slits make up the eyes on this particularly black shadow. 
+The shadow slayer is bigger than its smaller counterpart, the reaver, but
+their appearance is generally very much the same.  On its forearms are
+mounted two impressively long blades, which stretch out before the creature
+and give enough of a blade behind to make an elbow attack hurt considerably
+more than it normally would.  
+~
+human~
+AQ BDEFPQVZac -1000 0
+65 0 11d352+1789 65d10+100 5d8+19 lunge
+-15 -15 -15 -13
+CDFGHIK M 0 N
+(null) (null) male 292
+AHMV ABCDEFGHIJK medium unknown
+#18819
+shadow tyrant~
+a shadow tyrant~
+The darkest shadow you've yet seen glares at you in a cold fury.
+~
+Black as night and berserk with fury, the shadow tyrant is quite a bit
+less than happy to see you.  One of the minds behind the evil which is
+brewing hereabouts, he knows very well that you even being in the area is a
+threat to the secrecy of his operation.  Blades cover his body in every
+place other than those where it would hurt his movement.  His body itself is
+the greatest weapon one could ask for.  
+~
+human~
+ABQ BDEFOPQVZac -1000 0
+70 0 11d443+2036 70d10+100 5d8+22 lunge
+-17 -17 -17 -15
+CDEFGHIKN M S N
+(null) (null) male 315
+AHMV ABCDEFGHIJK medium unknown
+#18820
+shadow giant~
+a shadow giant~
+An enormous shadow apparently guards the western chamber.
+~
+The shadowy figure before you is enormous.  It fills the entire cavern,
+stretching from ceiling to floor and wall to wall.  For something so
+immense, however, it moves at a remarkably fast rate.  It seems angered by
+your presence, but an especially large amount of tension builds as you
+attempt to make your way into the western cavern.  
+~
+human~
+A BDEFOPQVZac -1000 0
+75 0 11d551+2303 75d10+100 5d9+24 blast
+-19 -19 -19 -17
+CDFGHKMO MS 0 0
+(null) (null) male 337
+AHMV ABCDEFGHIJK giant unknown
+#18821
+blood mage~
+The Blood Mage~
+The infamous blood mage stands here, summoning another one of his grizzly creations.
+~
+Before you stands a mage clothed entirely in red robes.  He seems crowned
+in a crimson aura.  His clothing, hair and eyes all carry the strong color,
+and even his skin seems tainted with a bloody hue.  He looks at you with an
+unholy wrath as you enter his domain.  His fury can be felt within the very
+air around you.  
+~
+human~
+ABO BDEFHOTVZc -1000 0
+80 0 11d677+2588 80d10+100 5d10+24 charge
+-21 -21 -21 -19
+0 A M 0
+(null) (null) female 360
+AHMV ABCDEFGHIJK medium unknown
+#18822
+scarlet mist~
+some scarlet mist~
+A patch of deep red mist floats toward you.
+~
+As the mist floats toward you it forms into the shape of a huge, long
+legged creature.  This behemoth seems an unnatural resident for such a
+place.  He is mindless, but strong, and feeds off of pain.  
+~
+human~
+ABQ FOQ -900 0
+65 0 11d352+1789 65d10+100 5d8+19 shbite
+-15 -15 -15 -13
+ACDGIKO 0 D 0
+(null) (null) female 292
+AHKMV ABCDEFGHIJK huge unknown
+#0
+
+
+
+#OBJECTS
+#18800
+marble~
+a wonderful marble~
+The most wonderfully glorious looking marble that you have ever seen is here, glimmering and shining in the sun as rays of divine light bounce off of it.  You feel as though you never want to put it down.~
+marble~
+light AGHMR AO
+0 0 ABCFGHIJ 0 0
+1 0 0 P
+A
+18 2
+#18801
+bone~
+a Bone~
+A large bone sits here.  It has no apparent value.~
+bone~
+trash R A
+0 0 0 0 0
+1 0 1 P
+#18802
+key great dwarves~
+the Great Key of the Dwarves~
+The Great Key of the Dwarves rests here.~
+gold~
+key G AO
+0 0 0 0 0
+35 3 1000 P
+#18803
+axe dwarven~
+a dwarven battle axe~
+A dwarven battle axe lies here.~
+steel~
+weapon 0 AN
+mace 8 10 wrath F
+42 30 210 P
+#18804
+silver plate breastplate~
+a silver dwarven breastplate~
+A silver dwarven breastplate lies here.~
+silver~
+armor 0 AD
+ABC ABC ABC B 0
+42 35 210 P
+#18805
+helmet silver~
+a silver dwarven helmet~
+A silver dwarven helmet sits here.~
+silver~
+armor 0 AE
+ABC ABC ABC B 0
+42 10 210 P
+#18806
+silver leggings~
+a pair of silver leggings~
+A pair of silver leggings lie here.~
+silver~
+armor 0 AF
+ABC ABC ABC B 0
+42 15 210 P
+#18807
+blade tail~
+the tail of a blade drake~
+The tail of a blade drake rests here, twitching slightly now and then.~
+steel~
+weapon 0 AN
+flail 7 20 jab J
+55 10 275 P
+#18808
+portal~
+a portal in the form of a painting~
+A portal in the form of a painting hangs on the wall.~
+nothing~
+portal R 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 BCDHILO 0
+0 0 0 P
+#18809
+portal~
+a portal in the form of a painting~
+A portal in the form of a painting hangs on the wall here.~
+nothing~
+portal 0 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 BCHILO 0
+0 0 0 P
+#18810
+vorplex~
+the Vorplex~
+A shimmering whip with a sapphire scythe blade hangs over a hook on the wall.~
+sapphire~
+weapon 0 AN
+flail 31 3 lunge D
+60 20 300 P
+#18811
+throne~
+a throne~
+This throne is very large and elegant.  It's silver and black mixes of
+color remind you of the sunset on the southern sea.  You examine it
+thoroughly, but when you get to the bottom you notice that there is a crawl
+space under the throne.  Checking it closely, you determine that there is
+room enough for you to fit. ~
+mithril~
+portal R 0
+0 0 0 AHILO 0
+0 0 0 P
+#18812
+remains corpse body traveller~
+a corpse~
+The twisted remains of an unfortunate traveller lie here in a heap.~
+nothing~
+container B 0
+0 0 0 0 0
+0 0 0 P
+#18813
+buzzworm worm~
+a buzzworm~
+A buzzworm is here, grateful to be out of his imprisonment.~
+nothing~
+protect BS AR
+ABCD ABCD ABCD ABCD 0
+55 1 0 P
+A
+17 -6
+#18814
+teeth~
+gnasher's teeth~
+A pair of Gnasher's teeth lie here.~
+bone~
+weapon 0 AN
+exotic 8 12 smash I
+50 5 250 P
+E
+window~
+There is no handle or way of opening this window.  It is really very
+thin, but were you to break through it you would tumble down half the
+mountainside to your death, so we'd better not try that.  
+~
+#18815
+axe paladin dwarven~
+a dwarven paladin's axe~
+The flaming axe of a dwarven paladin lies here.~
+steel~
+weapon AG AN
+mace 8 13 sunder A
+50 15 250 P
+#18816
+giantslayer axe~
+a giantslayer's axe~
+The axe of a giantslayer lies here.~
+steel~
+weapon 0 ANP
+mace 8 18 sunder DF
+55 20 275 P
+#18817
+beer keg~
+a beer keg~
+An enormous beer keg rests here.~
+wood~
+fountain 0 A
+20 10 'dark ale' 0 0
+20 250 20 P
+#18818
+table~
+a table~
+A table rests in the middle of the room.~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+E
+pallet~
+These two pallets are made completely of hay.  While the dwarves seem to
+sleep in them, they don't look very comfortable to you, and you feel that
+you'd rather sleep on the table.  
+~
+#18819
+door~
+a large door~
+A large door is set into the north wall.~
+wood~
+portal R 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef AB 0 DGHJMN 0
+0 0 0 P
+#18820
+crimson robe~
+a crimson robe~
+A crimson robe appears to be almost wet with blood.~
+cotton~
+armor EG AK
+ACD ACD ACD C 0
+80 3 400 P
+A
+17 -2
+A
+3 2
+A
+12 40
+#18821
+crown gold ruby rubies~
+a crown of gold and rubies~
+A thin crown made of gold with encrusted rubies sits here.~
+gold~
+armor GT AE
+ACD ACD ACD C 0
+80 2 400 P
+A
+13 40
+A
+5 1
+#18822
+blood rock~
+a blood rock~
+A deep red rock bleeds as it sits still.~
+stone~
+fountain EG AR
+-1 -1 'blood' 0 0
+80 5 0 P
+A
+13 60
+#18823
+bloody dagger~
+a bloody dagger~
+A bloody dagger lies in a puddle here.~
+steel~
+weapon 0 AN
+bow 11 14 crunch G
+80 2 400 P
+#18824
+blood drop tattoo~
+a blood drop tattoo~
+A tattoo of a drop of blood lies here.~
+nothing~
+trash MQ AS
+0 0 0 0 0
+80 0 80 P
+A
+13 10
+A
+18 2
+#18825
+dragon scale shirt~
+a dragon scale shirt~
+A dragon scale shirt is here, shining in the light.~
+scales~
+armor R AD
+BC BC BC B 0
+40 5 200 P
+#18826
+boots dragon skin~
+a pair of dragon skin boots~
+A pair of black dragon skin boots are here, they look as if they would fit you comfortably.~
+hide~
+armor 0 AG
+D D D B 0
+50 0 250 P
+#18827
+rod sven~
+the Rod of Sven~
+The Rod of Sven lies here, a relic from an ancient time.
+Crafted long ago this rod was carried by Sven to this mountain before the 
+mines where started.  Now it is considered all but sacred by the dwarves of 
+Wynton Peak. ~
+steel~
+treasure 0 AO
+0 0 0 0 0
+100 10 1000 P
+#18828
+garnet bracelet~
+a garnet bracelet~
+A bracelet made out of deep red garnets lies here.~
+garnet~
+armor 0 AM
+ACD ACD ACD C 0
+80 2 400 P
+#18829
+shadow blade~
+a blade of the shadows~
+A long black blade with an uneven hilt lies here.~
+spidersteel~
+weapon T AN
+sword 11 13 lunge C
+75 2 375 P
+A
+2 1
+A
+19 5
+#18830
+veil~
+the Veil of the Firmament~
+A thin sheet of nothingness floats in the air here.~
+nothing~
+armor FGRT AT
+BC BC BC BC 0
+40 1 200 P
+A
+12 40
+#18831
+red haze~
+a red haze~
+A red haze hovers here.~
+nothing~
+armor CEG AK
+BD BD BD AB 0
+65 0 325 P
+A
+19 2
+#0
+
+
+
+#ROOMS
+#18800
+Trail to the Mountain~
+The trail on which you are now traversing is narrow and well worn.  You
+can tell that it is frequently used by both the footprints of animals and the
+deep wagon ruts that lead in both directions.  To the east you see a tall
+mountain, and set into its face is a large building.  
+~
+0 5 4
+E
+west~
+To the west of here is a foothill trail.
+~
+E
+rut~
+The deep wagon ruts that run along the road travels east and west along
+the trails.  There is only 1 set, and it looks as if it was only used once
+or twice before getting cut off.  
+~
+E
+mountain~
+From here, the mountain looks tall and lonely.  Though part of the range,
+this mountain in particular kind of sticks out because of its unusual
+height.  The stronghold is about 3 quarters of the way up, and set into the
+side of the mountain rather snugly.  
+~
+E
+east~
+To the east of here is the trail to the mountain.  
+~
+E
+footprints~
+These footprints run east and west along the path.  Some are small, and
+some are big...  But they generally stay on the road.  From cats to elves,
+it seems that a little bit of everything has traveled through here.  
+~
+D1
+~
+~
+~
+0 0 18801
+D3
+~
+~
+~
+0 0 16092
+M 0 H 0
+S
+#18801
+Trail to the Mountain~
+You are currently traveling along a long trail to and from Dwarven Forge
+Stronghold.  Looking to the mountain, you can make out the stronghold fairly
+well, its dark features set into the mountainside occasionally illuminated
+by a jet of flame or an explosion of fire.  The mountain itself is very
+close now, and as you travel east the trail begins to get steeper.  
+~
+0 0 2
+E
+west~
+To the west of here is the trail to the mountain.
+~
+E
+east~
+To the east of here is the mountain.
+~
+E
+stronghold~
+The Stronghold from here is still small and dark.  Set into the
+mountainside like a pearl in an oyster, it is hard to make any major
+details.  
+~
+E
+trail~
+As you walk east, the trail gets constantly steeper.  It goes almost
+directly east, and as you go that way the trail gets less steep.  
+~
+D1
+~
+~
+~
+0 0 18803
+D3
+~
+~
+~
+0 0 18800
+M 0 H 0
+S
+#18802
+The Mountain end.~
+~
+0 4 0
+M 0 H 0
+S
+#18803
+At the Mountain~
+You have come to the end of the trail.  Before you is Wynton Peak, a
+large mountain known for its Dwarven Forge Stronghold and one of the
+toughest climbs around.  The mountain itself has a dark color to it, and you
+see that it is indeed very tall.  The slope before you is nearly impossible
+to climb, being almost completely vertical, but you can see that further up
+the mountain it gets easier.  Right in front of you is the source of the
+wagon ruts and footprints.  On the side of the road sits an old broken wagon
+train, and some of the bodies of victims remain intact.  Everything of value
+has been taken, however, and now the only purpose they serve is a warning.  
+~
+0 0 5
+E
+west~
+To the west is the trail to the mountain.
+~
+E
+up~
+Above here is a Steep Mountain Trail.
+upp
+~
+E
+peak~
+Wynton Peak goes nearly straight up, and though its near the rest of the
+mountains in the mountain chain, it seems to stand alone due to its unusual
+shape.  
+~
+E
+slope~
+Steep.  Very Steep.
+~
+E
+wagons~
+The wagons are all arranged in a circle and look a bit like something
+from a horror novel.  The wagons that are not splintered are soaked on the
+bottom with blood.  The only thing that you see that could help you on your
+quest would be a large splintered bone.  
+~
+D3
+~
+~
+~
+0 0 18801
+D4
+~
+~
+~
+0 0 18804
+M 0 H 0
+S
+#18804
+a Steep Mountain Trail~
+The trail that you are now on is exceptionally steep and difficult to
+climb.  The going is slick, for the trail is covered in moss, and there are
+little hand holds to be seen.  As you approach the Dwarven Forge Stronghold
+the trail gets easier, for the slope lessens.  
+~
+0 0 0
+E
+down~
+Below here is the base of the mountain.
+~
+E
+up~
+Above here, the mountain gets more level.
+~
+E
+moss~
+This patch of dark green moss is extremely slippery.  It covers a large
+portion of the trail here.  Embedded deep within one patch of moss you see a
+purple glow.  Looking closer you discover the source of the light is a
+glowing purple marble.  
+~
+D4
+~
+~
+~
+0 0 18805
+D5
+~
+~
+~
+0 0 18803
+M 0 H 0
+S
+#18805
+On the Mountain~
+Your footing is now firm and there is little chance of falling off the
+mountain unintentionally.  Looking down, you have a good view of the trail
+to the mountain and the deserted wagon train.  Dwarven Forge Stronghold is
+close enough now for you to get an idea of its general size.  To the east is
+a curve in the path.  
+~
+0 0 0
+E
+down~
+Below here is a Steep Mountain Trail.
+~
+E
+east~
+To the east the mountain gets less steep.
+~
+D1
+~
+~
+~
+0 0 18806
+D5
+~
+~
+~
+0 0 18804
+M 0 H 0
+S
+#18806
+On the Mountain~
+You've come to a sort of crossroads on Wynton Peak.  The mountain here is
+not very steep, but it gets even more level to the east.  To the north of
+here is a scenic overlook, a large drop off into nothingness.  West of here,
+the trail slants downward dramatically, before becoming almost straight
+down.  
+~
+0 0 0
+E
+north~
+North of here is a mountain lookout .  
+~
+E
+west~
+To the west of here is the mountain gets steeper.
+~
+E
+west~
+To the west of here is a bend in the trail.
+~
+D0
+~
+~
+~
+0 0 18807
+D1
+~
+~
+~
+0 0 18808
+D3
+~
+~
+~
+0 0 18805
+M 0 H 0
+S
+#18807
+The Lookout~
+From this lookout on the mountain, you can see for miles around.  On the
+horizon is the town of Discordia, but you can also see the vast mountain
+ranges to the east and west.  It surprises you just how much world there is
+in this realm.  From one of the tallest mountains you may be able to see it
+all, but on the ground it looks tiny.  You can spy the Garden lake, the
+Forest of the mists, Xian, and much more.  To the south of here is the
+trail.  In the center of this room is a statue shaped like the head of a
+huge dragon.  Looking closer at the figure, you realize that the statue is
+actually a shrine to the Dragons.  You have stumbled across the Drivite
+Shrine, a place where the deity can hear anyone's prayers.  A large rock at
+the base of the shrine seems loose, so much so that you think you could move
+it if you tried.  
+~
+0 4 0
+E
+rock~
+Examining this rock reveals that underneath it lies a tunnel which
+extends into a path that leads on the exterior of the mountain.  The going
+looks tough, but you think you can manage it.  
+~
+E
+south~
+To the south is the mountain.
+~
+D2
+~
+~
+~
+0 0 18806
+D5
+~
+rock~
+~
+1 0 13100
+M 0 H 0
+S
+#18808
+Bend in the Trail~
+You've finally gotten to the level section of Wynton Peak.  The trail
+turns sharply into a small tunnel here, but it is illuminated by periodic
+blasts of fire emerging from Dwarven Forge Stronghold.  The tunnel to the
+forge leads south, while to the west there is more of the steeper mountain. 
+~
+0 1 0
+E
+west~
+To the west of here the mountain gets steeper.
+~
+E
+south~
+To the south of here is the tunnel to Dwarven Forge Stronghold.
+~
+D2
+~
+~
+~
+0 0 18809
+D3
+~
+~
+~
+0 0 18806
+M 0 H 0
+S
+#18809
+Near the Dwarven Stronghold~
+You are now so close to the stronghold that you can see clearly its
+strong steel gates.  As you get nearer to the stronghold, the air gets
+warmer and you can see better the fine details that make this stronghold
+famous.  Obsidian glass, mythril knockers, and platinum frames cover the
+stronghold, signifying plentiful power and wealth.  
+~
+0 0 0
+E
+frames~
+They're too far away to see right now.
+~
+E
+knockers~
+They're too far away to see right now.
+~
+E
+glass~
+It's to far away to see right now.
+~
+E
+north~
+To the north is a bend in the trail and an end of the tunnel.
+~
+E
+south~
+To the south of here is the stronghold.
+~
+D0
+~
+~
+~
+0 0 18808
+D2
+~
+~
+~
+0 0 18810
+M 0 H 0
+S
+#18810
+In Front of the Stronghold~
+The Fortress that is before you is spectacular.  From a distance you
+could only barely see the intricate details and multiple materials, but now
+up close you can detect even greater craftsmanship.  The work that must have
+gone into this stronghold is almost extreme.  Strong metal gates are to the
+south, but you have the feeling that you won't be able to enter without a
+fight or an invitation.  To the north lies the tunnel exiting the mountain,
+and the road beyond.  
+~
+0 0 0
+E
+inscription~
+The inscription reads: "In this stronghold there are many hidden keys. 
+Unfortunately, just typing get key isn't enough.  You'll have to find the
+hidden keys in the extra descriptions, and then get the color of the key. 
+Just as an example, if you were trying to look at this key that I had made
+like the others, you would have had to look red."  
+~
+E
+key~
+As you look at the small key, you find that there is an extremely small
+inscription on it.  It's so tiny that its almost to the point of being
+unreadable, but you can justs barely make it out.  
+~
+E
+red~
+As you look at the small key, you find that there is an extremely small inscription on it.
+~
+E
+north~
+To the north is the tunnel to the stronghold.
+~
+E
+south~
+The door is thick and made of metal.  It has been enchanted with a
+powerful protection spell.  
+~
+E
+gates~
+The large metal gates before you are unique to anything you've seen in
+the realm.  It's surface looks almost like a puzzle: for there are so many
+little keys inscribed on it that it almost makes you dizzy.  They are all a
+dark greyish color, with only a bright variation, except for the small red
+key that is directly next to the keyhole.  
+~
+D0
+~
+~
+~
+0 0 18809
+D2
+~
+~
+~
+3 18802 18811
+M 0 H 0
+S
+#18811
+The Dwarven Stronghold~
+As you have already seen, these dwarves are elite.  The inside of the
+hall is as spectacular as the outside is, with wonderful looking chandeliers
+and tables.  The intricate designs still manage to amaze you, centuries of
+effort were put into this single project.  To the east you feel warmth,
+while a long hallway leads south.  West of here a hallway extends too, but
+it is not as long.  On the wall by the north gates there is a small
+inscription.  
+~
+0 8 0
+E
+chandeliers~
+Hanging from the ceiling are two large glass chandeliers.  The first and
+larger one you notice is normal, but the next one chimes as little trinkets
+hanging from the bulk of the object clatter around.  
+~
+E
+north~
+The door is thick and made of wood.
+It is to large for you to break or pass through.
+~
+E
+south~
+To the south of here is the hall of lords.
+~
+E
+to~
+To the east of here is a hallway that's on fire.  
+~
+E
+east~
+to the east of here is a flaming door.
+~
+E
+west~
+West of this room is a dwarven corridor.  
+~
+E
+tables~
+In this room there are two large tables set parallel against the walls. 
+They are made of a mix of fine mahagony and dark ebony.  Although you search
+them well, you aren't able to find anything that could be of value to you on
+either one.  
+~
+E
+inscription~
+Welcome to the stronghold
+~
+D0
+~
+~
+~
+3 18802 18810
+D1
+~
+~
+~
+1 0 18812
+D2
+~
+~
+~
+0 0 18814
+D3
+~
+~
+~
+0 0 18818
+M 0 H 0
+S
+#18812
+A Fiery Hallway~
+The room around you is engulfed in flames.  All around you is fire, and
+there is only one narrow path through the inferno.  Fire crawls up the walls
+and burns the ceiling.  To the west the fire dissipates and dies, but to the
+south the inferno increases.  
+~
+0 8 0
+E
+west~
+to the west of here is a door that's on fire.
+~
+E
+south~
+To the south is a strange metal room.  
+~
+E
+fire~
+It is extremely hot flame, it's temperature higher than many fire spells
+that you've been barraged by in your life.  The fire is all around you, save
+a slim metal walkway that gives refuge to the flame.  
+~
+E
+path~
+This slim metal path keeps the fire off of a very small portion of this
+burning room.  The path itself is very hot, but not warm enough to do any
+damage to you.  
+~
+D2
+~
+~
+~
+0 0 18813
+D3
+~
+~
+~
+1 0 18811
+M 0 H 0
+S
+#18813
+The Drake Room~
+It seems that you have found the source of all the fire in the hall. 
+This particular room is fireproof, but it seems that its reptilian
+inhabitant was throwing a temper tantrum.  It's very hot in this room
+because of the superheated metal, and you have to hop around in order to
+avoid burning your feet.  
+~
+0 8 0
+E
+north~
+To the north of here the corridor is engulfed in flames.  
+~
+D0
+~
+~
+~
+0 0 18812
+M 0 H 0
+S
+#18814
+The Hall of Lords~
+You are now in a long corridor leading to a set of double doors to the
+south.  The high ceiling and tall walls are all decorated with golden and
+platinum equipment anchored onto the wall.  Hanging from the ceiling are three
+large chandeliers, made of crystal and silver.  The candle light is half way
+reflected and casts rainbows all about the walls.  
+~
+0 8 0
+E
+north~
+To the north of here is the entrance of the Dwarven Forge Stronghold.
+~
+E
+south~
+South of here is the Great Hall of the stronghold.  
+~
+D0
+~
+~
+~
+0 0 18811
+D2
+~
+~
+~
+0 0 18815
+M 0 H 0
+S
+#18815
+The Great Hall~
+The room that you are now is directly adjacent to the large double doors
+to the south.  The doors themselves are huge, large enough to fit dragons. 
+In the center of the room is a long dining table.  It has chairs set up for
+about 30 dwarves, and there are large kegs of some strange dwarven brew
+resting on the table.  Back to the north is the hall of lords and eventually
+the entrance.  
+~
+0 8 0
+E
+north~
+To the north is the Hall of Lords.  
+~
+E
+south~
+There is a set of humungous doors to the south of here.  
+~
+D0
+~
+~
+~
+0 0 18814
+D2
+~
+~
+~
+1 0 18816
+M 0 H 0
+S
+#18816
+The Dwarven Throne Room~
+You have come beyond the double doors and into the Dwarven King's
+throne room.  The riches here are great.  Gold and rubies are all around the
+room.  Set right on the center south wall is a large throne made of platinum
+and black volcanic rock.  The rugs are made of scarlet silk, and the tall
+domed ceiling is made of glass and crystal.
+~
+0 8 0
+E
+north~
+There is a set of humungous double doors to the north.  
+~
+D0
+~
+~
+~
+1 0 18815
+M 0 H 0
+S
+#18817
+The King's Stash~
+It seems that the Dwarven Forge Stronghold lord has been collecting
+trinkets and charms.  All around the room are gems and coins literally built
+into the walls, almost all of them unmovable in the wall.  Also, though,
+are the remains of various travelers, struck down by forces set to guard this
+chamber.  Directly in the middle of the room, though, is an enormous gem. 
+It's worth would be enormous, if it could be moved.  To your great
+displeasure, you notice that you cannot get back to the throne room. 
+Something has moved in the way and blocked your exit.  
+~
+0 12 0
+M 0 H 0
+S
+#18818
+The Dwarven Corridor~
+You are traveling on a dwarven corridor.  At the moment, there are exits
+all around you: north south east and west.  This corridor itself is rather
+drab compared to the rest of the stronghold, but it leads in all different
+directions.  To the north of here is a door that reads Gnasher's.  It is
+made of Steel, but there are no key-holes.  To the south is the forge, and
+laying east and west is the dwarven corridor.  
+~
+0 8 0
+E
+east~
+To the east is the entrance of the Dwarven Forge Stronghold.  
+~
+E
+west~
+To the West of here is the Dwarven Corridor.
+~
+E
+north~
+The door here is one of the few in the stronghold that isn't locked.
+~
+E
+south~
+You see to the south the great forge.
+~
+D0
+~
+~
+~
+1 0 18819
+D1
+~
+~
+~
+0 0 18811
+D2
+~
+~
+~
+0 0 18820
+D3
+~
+~
+~
+0 0 18822
+M 0 H 0
+S
+#18819
+Gnasher's Quarters~
+This room is Abrund Headgnasher's quarters, but among the dwarves he is
+just called Gnasher.  The room is basically simple, for Gnasher spends most
+of his time about in the forge and stronghold, with only an elegant bed and
+fancy table being among its greater features.  Like the door, the majority
+of this room is made of steel.  The walls, ceiling and floor are all of the
+stuff, the only exception is the window, which is made of thin transparent
+obsidian.  
+~
+0 8 0
+E
+south~
+To the south of here is a steel door leading to the Dwarven Corridor
+~
+D2
+~
+~
+~
+1 0 18818
+M 0 H 0
+S
+#18820
+The Forge~
+It was no mistake naming the Dwarven Forge Stronghold as it was named,
+and now you see the reason why.  The enormous forge before you could likely
+be one of the wonders of the world.  All around you, there are fires and
+tubes running down from the roof and into the ground, transporting molten
+metals like gold, platinum, and silver.  The floors are made of a hard
+metal, to avoid having them worn down to nothing through frequent use by
+dwarves running frantically about the room, though you have no idea why.  To
+the south is a very hot room, while to the north is the corridor.  
+~
+0 8 0
+E
+south~
+To the south is an elemental's den.
+~
+E
+north~
+To the north of here is the dwarven corridor.
+~
+D0
+~
+~
+~
+0 0 18818
+D2
+~
+~
+~
+0 0 18821
+M 0 H 0
+S
+#18821
+Fire Elemental Den~
+This room of the forge is where all of the fire and heat comes from for
+the forge.  That the forge is run by a fire elemental is something that not
+many know, but elemental flame is much hotter than anything normal mortals
+can make on their own.  This room is extremely hot.  On the wall is a port
+of a very nearly unmeltable metal, Ailumina.  This is where the fire is
+fed into the forge, and is the only thing of interest in the room.  
+~
+0 8 0
+E
+north~
+To the north of here is the great dwarven forge.
+~
+E
+port~
+To operate this device, the fire elemental simply stands here with his
+hands on the end of the pipe and lets his spicy hot juice run into the rest
+of the forge and stoke te fires.  It's quie a nifty device to have around
+the stronghold, as it almost doubles production time.  
+~
+D0
+~
+~
+~
+0 0 18820
+M 0 H 0
+S
+#18822
+The Dwarven Corridor~
+Again, this corridor is rather drab.  It runs east and west, with no
+outlets or forks.  The only thing of interest is a painting on the wall. 
+Everything else is normal to the area.  To the west lies a door.  
+~
+0 8 0
+E
+west~
+To the west of here is a door.
+~
+E
+east~
+To the east of here is more of the Dwarvin Corridor.
+~
+E
+painting~
+At first glance the painting doesn't look like much, a drab room with a
+door in it, but as you look closer you realize that it is not paint that you
+are staring into, but a misty portal to another place.  It has been
+cleverly hidden, but you have managed to find it.  Under the painting is a
+small inscription.  
+~
+E
+inscription~
+The inscription reads:
+Beware the land beyond the door, as its danger is far higher than this place.
+~
+D1
+~
+~
+~
+0 0 18818
+D3
+~
+~
+~
+1 0 18823
+M 0 H 0
+S
+#18823
+Hallway of Greats~
+You have come into another strange and unique hallway in this area.  This
+hallway is carved with symbols of war: the sword, the axe, the cannon.  All
+around you the floor is flat, to indicate frequent use.  To the north,
+through a small hallway, is the Paladin Room, while to the south is the
+GiantSlayer Barracks.  Lying west is more hallway.  
+~
+0 8 0
+E
+west~
+To the west of here is the Hallway of the Greats.
+~
+E
+south~
+South of here are the GiantSlayer Chambers.
+~
+E
+north~
+North of here is the Paladin Room.
+~
+E
+east~
+To the east of here there is a door.
+~
+D0
+~
+~
+~
+0 0 18824
+D1
+~
+~
+~
+1 0 18822
+D2
+~
+~
+~
+0 0 18825
+D3
+~
+~
+~
+0 0 18826
+M 0 H 0
+S
+#18824
+The Paladin Room~
+This small quarters is dedicated to the dwarven paladins.  Around you are
+several charms and elixir's that the paladins use in prayer and to cast out
+spirits and demons.  The room is decorated in whites and golds, with a dab
+of silver now and then, but there are no reds or blacks anywhere.  Under
+normal conditions paladins are peaceful and friendly, but it is a well know
+fact that they don't enjoy having their private areas and places of worship
+invaded, and this is just one of those times.  
+~
+0 8 0
+E
+south~
+To the south of here is the Hallway of the greats.
+~
+E
+charms~
+Several holy and magical charms lay about the room, but you dare not
+touch them for fear of the wrath of the gods.  
+~
+E
+elixirs~
+Looking closer at the elixirs, you realize they are all empty.  They were
+undoubtedly used by the paladins earlier.  
+~
+D2
+~
+~
+~
+0 0 18823
+M 0 H 0
+S
+#18825
+The GiantSlayer Barracks~
+GiantSlayers are a motley crew of Burly dwarves that will berserk almost
+anything.  This particular chamber is proof of that.  All around, the walls
+are draped with animal skins, some rather ragged and cut up, and on the
+floor is a large dragon hide rug.  In the center of the room is a round
+table with four kegs of beer setting atop of it, and three glasses sit by
+the chairs.  The room smells foul, a mix of bad body odor and dried vomit. 
+Due to this fact, you find yourself anxious to leave.  
+~
+0 8 0
+E
+keg~
+Before you are four large kegs of ale.  They sit in the form of a four
+sided figure, and each one touches two others.  They are large and smell of
+a strong alchoholic content, lethaly intoxicating to those other than these
+strong dwarves.  You feel the strong urge to leave these kegs be.  
+~
+E
+north~
+To the north of here is the hallway of the greats.
+~
+E
+skins~
+There are various skins on the wall, blood farmer furs, wolverine coats,
+and even what looks like the skin of a haitorin.  Unfortunately, all the
+skins on the walls and the rug on the floor are are securly bolted down and
+sealed with magical enchantments.  
+~
+E
+rug~
+This dragon hide looks as if it once belonged to a fearsome beast.  Now,
+though, it is very tame.  The skin is securely enchanted to the floor.  
+~
+D0
+~
+~
+~
+0 0 18823
+M 0 H 0
+S
+#18826
+Hallway of Greats~
+This segment of the hallway of the greats looks almost nothing like the
+last.  As you walked, the halls have changed color and have now morphed into
+a completely different color then they were before.  To the north and south
+of this hallway lie another two sets of barracks, while on the west side of
+this room is a staircase leading upwards.  
+~
+0 8 0
+E
+up~
+Above here is a landing platform.
+~
+E
+south~
+To the South of here is the Longbeard room.
+~
+E
+north~
+To the north of here are the Berserker Quarters.
+~
+E
+east~
+To the east of here is the Hallway of the Greats.
+~
+D0
+~
+~
+~
+0 0 18828
+D1
+~
+~
+~
+0 0 18823
+D2
+~
+~
+~
+0 0 18829
+D4
+~
+~
+~
+0 0 18827
+M 0 H 0
+S
+#18827
+The Flight Platform~
+The flight platform before you is home to the famous dwarven flying
+machines.  It is the very top of the forge, a small tower that is invisible
+from the bottom of the mountain because it is over the cloud level.  Looking
+down you see that all the clouds are grey, and bolts of electricity that
+feed the machines dart around in the mass of clouds.  Several birds land on
+the battlements around the edge of the tower, but they fly away as you get
+close to them.  The mountain top is east of here, but the tower is isolated
+so you can't get to it.  
+~
+0 8 0
+E
+down~
+Below here is the Hallway of Greats.
+~
+E
+birds~
+Several small birds fly around the tower, landing to rest their wings
+every now and then.  Over all they look like sparrows, but some birds of
+prey fly around as well.  Every now and then one of the smaller birds falls
+victim to one of these raptors.  
+~
+D4
+~
+~
+~
+0 0 18831
+D5
+~
+~
+~
+0 0 18826
+M 0 H 0
+S
+#18828
+Berserker Quarters~
+This room is a complete mess.  Everything is out of order, the table is
+on its side, the pallets are spread about the room, and half of the chairs
+are broken.  The only thing that looks like it hasn't been a victim to the
+disorganization is the hashart brew left on the table.  South leads back
+into the corridor.  
+~
+0 8 0
+E
+south~
+South of here is the Hallway of Greats.
+~
+E
+hashart~
+This little drink smells so bad you can't get near it.  Try as you might,
+the closer you get, the less you find yourself breathing.  
+~
+D2
+~
+~
+~
+0 0 18826
+M 0 H 0
+S
+#18829
+Longbeard Quarters~
+Unlike the GiantSlayers and berserkers, who win battles with
+fearlessness, and paladins, who have their powers heightened by the gods,
+Longbeards win with pure experience.  These hardy few have fought a great
+deal of battles, which is visibly apparent by the tally marks up and down
+their bodies.  The room itself looks like a normal dwarven room, pallets in
+the corners, table in the center, and chairs by the table.  
+~
+0 8 0
+E
+north~
+North of here is the Hallway of Greats.  
+~
+D0
+~
+~
+~
+0 0 18826
+M 0 H 0
+S
+#18830
+a Grand Gate~
+The room you have come upon is rather large, and upon seeing it you
+wonder how the dwarves have made it look so much like a painting.  There is
+one large door in the center of the room, completely silver save for the
+black symbol on its face that resembles the wheel of a wagon.  The floor and
+ceiling are quite unattractive, a dull gray that reminds you of rain clouds.
+That faithful painting now hangs on the wall behind you with a different
+scene.  
+~
+0 12 0
+E
+painting~
+The painting has changed scenes from the room you are currently in to the
+corridor, but it still hangs on the wall.  From this side of the wall the
+portal looks scorched on the insides from some sort of flame, though you are
+unable to determine what type of flame did the deed.  
+~
+M 0 H 0
+S
+#18831
+Above the Forge~
+You are now flying high above the Dwarven Forge Stronghold.  Though you
+may try, you find you cannot rise higher then the cloud cover due to a
+cushion of wind which presses down upon everything which climbs higher than
+a certain point.  These winds, apart from making an unbreachable barrier,
+also cause a ring of clouds at a lower than usual level on the mountain. 
+These thick clouds can be seen to the east.  
+~
+0 0 9
+D1
+~
+~
+~
+0 0 18832
+D5
+~
+~
+~
+0 0 18827
+M 0 H 0
+S
+#18832
+The Dense Cloud~
+You have come to a dense cloud on the side of the mountain.  The constant
+moisture on the mountain keeps standing water on the smooth rock face and
+makes it extremely slippery.  Through the cloud you cannot make out much,
+and the only feature on the rock face is a large rock which jets out of the
+mountain's surface.  
+~
+0 4 5
+D1
+~
+rock~
+~
+1 0 18833
+D3
+~
+~
+~
+0 0 18831
+M 0 H 0
+S
+#18833
+The {BDark Cave~
+You have stumbled across a tunnel in the side of the mountain Wynton
+Peak.  The tunnel is long and dark, and surprisingly round and smooth, and
+stretches off to the east into blackness.  
+~
+0 9 5
+D1
+~
+~
+~
+0 0 18834
+D3
+~
+~
+~
+1 0 18832
+M 0 H 0
+S
+#18834
+The {BDark Cave~
+You have come to a junction in the long dark tunnels.  The cave splits
+off to the north and south from its eastward course.  Back to the west is
+the entrance to this abnormal cavern.  
+~
+0 9 5
+D0
+~
+~
+~
+0 0 18835
+D2
+~
+~
+~
+0 0 18845
+D3
+~
+~
+~
+0 0 18833
+M 0 H 0
+S
+#18835
+The {BDark Cave~
+You have come to another junction in the dark cave.  This junction
+branches off from its northward course to the east and west.  Moving south
+would take you towards the entrance of the cave.  
+~
+0 9 5
+D1
+~
+~
+~
+0 0 18837
+D2
+~
+~
+~
+0 0 18834
+D3
+~
+~
+~
+0 0 18836
+M 0 H 0
+S
+#18836
+The {BDark Cave~
+You have come to a cul-de-sac in the dark cave.  The cave comes to a
+point to the west and ends abruptly in an inverse cone.  Your only choice of
+directions lies to the east.  
+~
+0 9 5
+D1
+~
+~
+~
+0 0 18835
+M 0 H 0
+S
+#18837
+The {BDark Cave~
+This tunnel travels in a strait line from east and west.  It is extremely
+dark in this room, and though you can see, your visibility is extremely
+low, as the darkness seems almost to cling to the walls.  
+~
+0 9 5
+D1
+~
+~
+~
+0 0 18838
+D3
+~
+~
+~
+0 0 18835
+M 0 H 0
+S
+#18838
+The {BDark Cave~
+This junction ties a long north to south running tunnel to this east to
+west running tunnel.  The first tunnel is still perfectly open, and you are
+free to travel upon it.  The second ends abruptly and you find westward
+travel your only option.  
+~
+0 9 5
+D0
+~
+~
+~
+0 0 18839
+D2
+~
+~
+~
+0 0 18840
+D3
+~
+~
+~
+0 0 18837
+M 0 H 0
+S
+#18839
+The {BDark Cave~
+You have come to a dead end in the tunnel.  The cave ceiling here slowly
+descends until it meets the floor in a corner far from your reach.  The only
+exit lies back to the south.  
+~
+0 9 5
+D2
+~
+~
+~
+0 0 18838
+M 0 H 0
+S
+#18840
+The {BDark Cave~
+You travel now on a tunnel which extends north and south from this point.
+The round smooth walls are only interrupted in one point, where a small side
+chamber branches off into the darkness.  You may move any direction but east
+from here.  
+~
+0 13 5
+D0
+~
+~
+~
+0 0 18838
+D2
+~
+~
+~
+0 0 18842
+D3
+~
+~
+~
+0 0 18841
+M 0 H 0
+S
+#18841
+The {BDark Cave~
+This room opens up.  Unlike the rest of the cave, this chamber is not a
+tunnel, but a large circular room.  The round smooth walls form into the
+shape of a dome, giving the cavern quite a lot of space.  
+~
+0 9 5
+D1
+~
+~
+~
+0 0 18840
+M 0 H 0
+S
+#18842
+The {BDark Cave~
+You have come to an abrupt branch of the tunnel you were travelling on,
+and another tunnel running perpendicular to it.  You may travel on the north
+to south moving tunnel in both directions, while a tunnel moves off to the
+west as well.  
+~
+0 9 5
+D0
+~
+~
+~
+0 0 18840
+D2
+~
+~
+~
+0 0 18843
+D3
+~
+~
+~
+0 0 18844
+M 0 H 0
+S
+#18843
+The {BDark Cave~
+You have come to an abrupt ending of the tunnel you were travelling
+within.  The walls here slowly come together before meeting in a corner on
+the south end of the room.  Your only exit lies to the north.  
+~
+0 9 5
+D0
+~
+~
+~
+0 0 18842
+M 0 H 0
+S
+#18844
+The {BDark Cave~
+You travel now in a tunnel in this cavern running east and west.  The
+darkness is almost overwhelming.  Though you carry a light, the shadows seem
+to drink up anything brighter then they are.  
+~
+0 9 5
+D1
+~
+~
+~
+0 0 18842
+D3
+~
+~
+~
+0 0 18845
+M 0 H 0
+S
+#18845
+The {BDark Cave~
+You have come to a junction between tunnels.  The split branches east and
+west, while another shorter tunnel leads off to the north towards the cavern
+entrance.  
+~
+0 9 5
+D0
+~
+~
+~
+0 0 18834
+D1
+~
+~
+~
+0 0 18844
+D3
+~
+~
+~
+0 0 18846
+M 0 H 0
+S
+#18846
+The {BDark Cave~
+A dead end in the tunnels confronts you now.  The tunnel does not slope
+or narrow in any way.  It simply rounds itself off abruptly, leaving you
+with nowhere left to walk.  You may still travel east from this point.  
+~
+0 9 5
+D1
+~
+~
+~
+0 0 18845
+M 0 H 0
+S
+#18847
+~
+~
+0 4 0
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 18803 spec_breath_fire
+M 18806 spec_fido
+M 18810 spec_breath_fire
+M 18815 spec_breath_lightning
+M 18821 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 18807 5 1
+D 0 18810 2 2
+D 0 18811 0 2
+D 0 18811 1 1
+D 0 18812 3 1
+D 0 18815 2 1
+D 0 18816 0 1
+D 0 18818 0 1
+D 0 18819 2 1
+D 0 18822 3 1
+D 0 18823 1 1
+D 0 18832 1 1
+D 0 18833 3 1
+M 0 18800 4 18800 10
+O 0 18801 0 18803
+M 0 18800 4 18803 10
+M 0 18801 3 18804 10
+O 0 18800 0 18804
+O 0 8020 0 18805
+M 0 18801 3 18806 10
+M 0 18801 3 18808 10
+M 0 18800 4 18809 10
+M 0 18805 1 18810 10
+E 0 18803 0 16
+E 0 18802 0 17
+E 0 18804 0 5
+E 0 18805 0 6
+E 0 18806 0 7
+M 0 18802 2 18810 10
+M 0 18803 1 18813 10
+E 0 18807 0 5
+M 0 18816 3 18814 10
+M 0 18804 1 18815 10
+E 0 18830 0 24
+M 0 18802 4 18815 10
+O 0 18811 0 18816
+M 0 18806 1 18816 10
+E 0 18810 0 17
+E 0 18806 0 7
+E 0 18805 0 6
+E 0 18804 0 5
+G 0 18827 0
+O 0 18800 0 18817
+P 0 18813 0 18812 10
+O 0 18812 0 18817
+M 0 18807 4 18818 10
+E 0 18803 0 17
+E 0 18804 0 5
+E 0 18805 0 6
+E 0 18806 0 7
+M 0 18807 4 18818 10
+E 0 18804 0 5
+E 0 18805 0 6
+E 0 18806 0 7
+E 0 18803 0 17
+M 0 18816 3 18819 10
+M 0 18808 1 18819 10
+E 0 18814 0 24
+M 0 18809 2 18820 10
+M 0 18809 2 18820 10
+M 0 18810 1 18821 10
+O 0 18808 0 18822
+M 0 18807 4 18823 10
+E 0 18803 0 17
+E 0 18804 0 5
+E 0 18805 0 6
+E 0 18806 0 7
+M 0 18811 2 18824 10
+E 0 18804 0 5
+E 0 18805 0 6
+E 0 18806 0 7
+E 0 18815 0 17
+M 0 18811 2 18824 10
+E 0 18804 0 5
+E 0 18805 0 6
+E 0 18806 0 7
+E 0 18815 0 17
+O 0 18817 0 18825
+M 0 18812 2 18825 10
+E 0 18804 0 5
+E 0 18805 0 6
+E 0 18806 0 7
+E 0 18816 0 17
+M 0 18812 2 18825 10
+E 0 18804 0 5
+E 0 18805 0 6
+E 0 18806 0 7
+E 0 18816 0 17
+M 0 18816 3 18826 10
+M 0 18807 4 18826 10
+E 0 18803 0 17
+E 0 18804 0 5
+E 0 18805 0 6
+E 0 18806 0 7
+M 0 18815 1 18827 10
+M 0 18814 1 18828 10
+M 0 18814 1 18828 10
+O 0 18818 0 18829
+M 0 18813 2 18829 10
+E 0 18803 0 17
+M 0 18813 2 18829 10
+E 0 18803 0 17
+O 0 18819 0 18830
+O 0 18809 0 18830
+O 0 18808 0 18830
+M 0 18822 1 18832 10
+E 0 18831 0 12
+M 0 18817 6 18833 10
+M 0 18817 6 18835 10
+M 0 18818 2 18836 10
+M 0 18817 6 18838 10
+M 0 18819 2 18839 10
+E 0 18829 0 16
+M 0 18820 1 18840 10
+M 0 18821 1 18841 10
+E 0 18828 0 14
+G 0 18824 0
+E 0 18823 0 16
+E 0 18822 0 21
+E 0 18821 0 6
+E 0 18820 0 12
+M 0 18817 6 18842 10
+M 0 18819 2 18843 10
+E 0 18829 0 16
+M 0 18817 6 18845 10
+M 0 18818 2 18846 10
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,776 @@
+#AREADATA
+Name {xx xx} Despoth *Tomb of the Ancients~
+Builders Despoth~
+VNUMs 30200 30299
+Security 1
+End
+
+
+
+#MOBILES
+#30200
+stalker visage~
+a stalker~
+{bA ghostly visage stands before you.
+~
+~
+Ghost~
+AFGU BDFPQTU 0 S
+70 0 11d443+2036 70d10+100 5d8+22 0
+-34 -34 -34 -12
+BGHIJN 0 ABDF C
+9 9 0 0
+IKL ABCDEFGHIJKLM M unknown
+#30201
+ghoul~
+a ghoul~
+A ghoul is crouched here, gnawing at a rotten corpse.
+~
+~
+Human~
+AFGHOT 0 12 S
+30 0 10d60+520 30d10+100 3d6+8 0
+-9 -9 -9 0
+0 0 BL 0
+9 9 0 0
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#30200
+key enterance~
+a very old stone key~
+(no description)~
+unknown~
+18 R A 0
+0 0 0 0 0
+1 1 0 P
+#30202
+key dusty~
+an old dusty key~
+(no description)~
+unknown~
+18 R A 0
+0 0 0 0 0
+1 1 0 P
+#30299
+book red tome~
+a red leather tome~
+{rA tome bound in red leather lies on a pedestal here.~
+unknown~
+28 0 A 0
+0 0 0 0 0
+1 500 0 P
+E
+tome~
+~
+#0
+
+
+
+#ROOMS
+#30200
+Entrance to the Tomb of the Ancients~
+The walls around you are carved out of some sort of yellowish stone,
+almost like sandstone.  The floor is also caked in dust, but looks a bit
+disturbed, as if someone had just recently passed through here.  Large
+string of cobwebs hang from the air.  The air is cool here, and a small
+breeze blows in from some unknown place.  
+{rSmall droplets of blood have been splattered here, and lead south.
+~
+0 1048581 0
+D1
+~
+~
+6 0 30040
+D2
+~
+~
+7 30200 30201
+S
+#30201
+A Large Tunnel~
+The ground below you has been disturbed by countless feet.  It seems that
+whoever passed through here, only went one way.  The footsteps lead into the
+darkness ahead of you.  Sounds of small amounts of water can be heard
+trickling into something from the west.  
+{rSmall droplets of blood have been splattered here, and lead west.
+~
+0 1048576 0
+D0
+~
+~
+7 0 30200
+D3
+~
+~
+0 0 30202
+S
+#30202
+The Fountain Room~
+You enter a large, circular room with a domed room.  The floor below you
+is made of some type of yellow stone.  A large fountain has been erected in
+the middle of the room, but no liquid runs from it.  The walls around it are
+cracked and dry, and the fountain head has been broken, and it now lies
+inside what was once the pool.  Two large statues stand next to the
+enterance to the tunnel to the east.  
+{r Small droplets of blood have formed around the fountain.
+~
+0 1048576 0
+E
+fountain~
+The fountain is actually very beautiful, even in its current shape.  You
+cant hardly imagine how beautiful it must have been before the elements took
+its toll on it.  Inside the fountain is a large grate, with a trail of blood
+leading to it.  The blood looks like something was dragged through it, or
+the thing that left the blood there had been dragged.  There is a strong
+smell coming from below the fountain, and the grate looks loose.  You could
+probably get down there.  
+~
+D1
+~
+~
+0 0 30201
+D2
+~
+~
+7 30202 30204
+D3
+~
+~
+0 0 30203
+D5
+~
+~
+7 0 30226
+S
+#30203
+A Dead End~
+You find yourself facing a featurless stone wall.  A few puddles of water
+have formed on the ground, from an unknown source, and small bits of bone
+have been carelessly scattered about the floor.  The ceiling has been
+overgrown with vines, and a few of them dangle helplessly in front of your
+face.  
+~
+0 1048576 0
+D1
+~
+~
+0 0 30202
+S
+#30204
+A Hallway~
+The walls around you are smooth to the touch and are constructed from a
+dull gray stone.  The floor below you is made of the same material, but is
+caked in dust.  It looks undisturbed save for your own markings.  
+~
+0 1048576 0
+D0
+~
+~
+7 0 30202
+D1
+~
+~
+0 0 30205
+S
+#30205
+A Hallway~
+The walls around you are smooth to the touch and are constructed from a
+dull gray stone.  The floor below you is made of the same material, but is
+caked in dust.  It looks undisturbed save for your own markings.  
+~
+0 1048576 0
+D1
+~
+~
+0 0 30206
+D3
+~
+~
+0 0 30204
+S
+#30206
+A Hallway~
+The walls around you are smooth to the touch and are constructed from a
+dull gray stone.  The floor below you is made of the same material, but is
+caked in dust.  It looks undisturbed save for your own markings.  
+~
+0 1048576 0
+D1
+~
+~
+0 0 30207
+D3
+~
+~
+0 0 30205
+S
+#30207
+A Junction~
+The walls around you are smooth to the touch and are constructed from a
+dull gray stone.  The floor below you is made of the same material, but is
+caked in dust.  It looks undisturbed save for your own markings.  
+{KThe sound of chains rattling can be heard to the northwest.
+~
+0 1048576 0
+D0
+~
+~
+0 0 30208
+D2
+~
+~
+0 0 30210
+D3
+~
+~
+0 0 30206
+S
+#30208
+A Hallway~
+The walls around you are smooth to the touch and are constructed from a dull gray stone. The floor below you is made of the same material, but is caked in dust. It looks undisturbed save for your own markings.
+{KThe sound of chains rattling can be heard to the west.
+~
+0 1048576 0
+D2
+~
+~
+0 0 30207
+D3
+~
+~
+0 0 30209
+S
+#30209
+A Dead End~
+You find yourself facing a featurless stone wall.  A few puddles of water
+have formed on the ground, from an unknown source, and small bits of bone
+have been carelessly scattered about the floor.  The ceiling has been
+overgrown with vines, and a few of them dangle helplessly in front of your
+face.  
+{gThe carcass of a large creauture lies here.
+ 
+{rBlood is smeared all over the ground.
+~
+0 1048576 0
+E
+carcass~
+The carcass looks as if it was recently killed, and steam rises from the
+wounds.  It's stomach has been slashed open, and its entrails have spilled
+out onto the floor.  The smell is overwhelming.  Inside the stomach lie a
+series of bloody chains.  The creature is still twitching, casuong the
+chains to rattle.  You cannot distinguish what kind of creature this was,
+for it is too maimed.  However, it was sentient, for on the floor it
+scribbled a message in its own blood.  
+It reads:
+{rBeware...stalkers. The...key...three...sword...
+~
+D1
+~
+~
+0 0 30208
+S
+#30210
+A Hallway~
+The walls around you are smooth to the touch and are constructed from a
+dull gray stone.  The floor below you is made of the same material, but is
+caked in dust.  It looks undisturbed save for your own markings.  
+~
+0 1048576 0
+D0
+~
+~
+0 0 30207
+D3
+~
+~
+0 0 30211
+S
+#30211
+A Hallway~
+The walls around you are smooth to the touch and are constructed from a
+dull gray stone.  The floor below you is made of the same material, but is
+caked in dust.  It looks undisturbed save for your own markings.  
+~
+0 0 0
+D1
+~
+~
+0 0 30210
+D3
+~
+~
+0 0 30212
+S
+#30212
+A Hallway~
+The walls around you are smooth to the touch and are constructed from a
+dull gray stone.  The floor below you is made of the same material, but is
+caked in dust.  It looks undisturbed save for your own markings.  
+~
+0 0 0
+D1
+~
+~
+0 0 30211
+D3
+~
+~
+0 0 30213
+S
+#30213
+A Hallway~
+The walls around you are smooth to the touch and are constructed from a
+dull gray stone.  The floor below you is made of the same material, but is
+caked in dust.  It looks undisturbed save for your own markings.  
+~
+0 0 0
+D1
+~
+~
+0 0 30212
+D2
+~
+~
+7 0 30214
+S
+#30214
+A Long Corridor~
+The roof here is very, very tall.  Twenty, maybe thrity feet, and domed. 
+The hall is about forty feet wide, but pillars line the center aisle.  The
+pillars have been decorated with bones and barbaric drawings, most depciting
+either battle of obscene acts of murder.  There is a red carpet below you,
+caked in dust.  
+~
+0 1048576 0
+D0
+~
+~
+7 0 30213
+D2
+~
+~
+0 0 30215
+S
+#30215
+A Long Corridor~
+The roof here is very, very tall.  Twenty, maybe thrity feet, and domed. 
+The hall is about forty feet wide, but pillars line the center aisle.  The
+pillars have been decorated with bones and barbaric drawings, most depciting
+either battle of obscene acts of murder.  There is a red carpet below you,
+caked in dust.  
+~
+0 0 0
+D0
+~
+~
+0 0 30214
+D2
+~
+~
+0 0 30217
+D3
+~
+~
+0 0 30216
+S
+#30216
+A Dead End~
+You find yourself facing a featurless stone wall.  A few puddles of water
+have formed on the ground, from an unknown source, and small bits of bone
+have been carelessly scattered about the floor.  The ceiling has been
+overgrown with vines, and a few of them dangle helplessly in front of your
+face.  
+~
+0 0 0
+D1
+~
+~
+0 0 30215
+S
+#30217
+A Long Corridor~
+The roof here is very, very tall.  Twenty, maybe thrity feet, and domed. 
+The hall is about forty feet wide, but pillars line the center aisle.  The
+pillars have been decorated with bones and barbaric drawings, most depciting
+either battle of obscene acts of murder.  There is a red carpet below you,
+caked in dust.  
+~
+0 0 0
+D0
+~
+~
+0 0 30215
+D1
+~
+~
+0 0 30218
+S
+#30218
+A Long Corridor~
+The roof here is very, very tall.  Twenty, maybe thrity feet, and domed. 
+The hall is about forty feet wide, but pillars line the center aisle.  The
+pillars have been decorated with bones and barbaric drawings, most depciting
+either battle of obscene acts of murder.  There is a red carpet below you,
+caked in dust.  
+~
+0 0 0
+D2
+~
+~
+0 0 30219
+D3
+~
+~
+0 0 30217
+S
+#30219
+A Long Corridor~
+The roof here is very, very tall.  Twenty, maybe thrity feet, and domed. 
+The hall is about forty feet wide, but pillars line the center aisle.  The
+pillars have been decorated with bones and barbaric drawings, most depciting
+either battle of obscene acts of murder.  There is a red carpet below you,
+caked in dust.  
+~
+0 0 0
+D0
+~
+~
+0 0 30218
+D2
+~
+~
+0 0 30220
+S
+#30220
+A Long Corridor~
+The roof here is very, very tall.  Twenty, maybe thrity feet, and domed. 
+The hall is about forty feet wide, but pillars line the center aisle.  The
+pillars have been decorated with bones and barbaric drawings, most depciting
+either battle of obscene acts of murder.  There is a red carpet below you,
+caked in dust.  
+~
+0 0 0
+D0
+~
+~
+0 0 30219
+D2
+~
+~
+0 0 30221
+S
+#30221
+A Long Corridor~
+The roof here is very, very tall.  Twenty, maybe thrity feet, and domed. 
+The hall is about forty feet wide, but pillars line the center aisle.  The
+pillars have been decorated with bones and barbaric drawings, most depciting
+either battle of obscene acts of murder.  There is a red carpet below you,
+caked in dust.  
+~
+0 0 0
+D0
+~
+~
+0 0 30220
+D2
+~
+~
+0 0 30222
+S
+#30222
+The Three Doors~
+Before you stand three great doors, all made of jet-black stone.  A heavy
+layer of dust lie on the door, and they seem to have been undisturbed for
+centuries, if not longer.  The floor below you has been carved out of the
+same jet-black stone as the doors.  A small hole with a tiny stone wall
+around it lies in the center of the floor, and inside it burns a small
+flame.  The flame is just big enough to dimly light the room.  Shadows dance
+and play about you.  The ceiling is domed and made out of heavy granite. 
+Small vines creep through the cracks, hanging down around you.  
+{g"Choose your door, mortal."
+~
+0 0 0
+D0
+~
+~
+0 0 30221
+D1
+~
+~
+0 0 30224
+D2
+~
+~
+0 0 30223
+D3
+~
+~
+0 0 30225
+S
+#30223
+~
+~
+0 0 0
+D0
+~
+~
+0 0 30222
+S
+#30224
+~
+~
+0 0 0
+D3
+~
+~
+0 0 30222
+S
+#30225
+~
+~
+0 0 0
+D1
+~
+~
+0 0 30222
+S
+#30226
+Below the Fountain~
+As you enter this dark hole, s strong whiff of decay and mildew attacks
+your senses.  The walls and floor around you are rock, and look as if they
+were dug in a hurry.  Patches of mold grow around small puddles of dark
+water.  There is a dripping sound coming from deeper into the tunnel.  
+~
+0 0 0
+D3
+~
+~
+0 0 30227
+D4
+~
+~
+7 0 30202
+S
+#30227
+A Carved Tunnel~
+This room looks like it was hastily chiseled from the earth, and only
+rotting wooden supports braces the roof above you.  The floor is damp, and
+the walls covered in mildew, which fills the air with a rancid smell.  
+~
+0 0 0
+D1
+~
+~
+0 0 30226
+D2
+~
+~
+0 0 30228
+S
+#30228
+~
+~
+0 0 0
+D0
+~
+~
+0 0 30227
+D5
+~
+~
+0 0 30229
+S
+#30229
+~
+~
+0 0 0
+D4
+~
+~
+0 0 30228
+D5
+~
+~
+0 0 30230
+S
+#30230
+~
+~
+0 0 0
+D4
+~
+~
+0 0 30229
+D5
+~
+~
+0 0 30231
+S
+#30231
+~
+~
+0 0 0
+D4
+~
+~
+0 0 30230
+D5
+~
+~
+0 0 30232
+S
+#30232
+~
+~
+0 0 0
+D4
+~
+~
+0 0 30231
+D5
+~
+~
+0 0 30233
+S
+#30233
+~
+~
+0 0 0
+D4
+~
+~
+0 0 30232
+D5
+~
+~
+0 0 30234
+S
+#30234
+~
+~
+0 0 0
+D4
+~
+~
+0 0 30233
+D5
+~
+~
+0 0 30235
+S
+#30235
+~
+~
+0 0 0
+D4
+~
+~
+0 0 30234
+D5
+~
+~
+0 0 30236
+S
+#30236
+~
+~
+0 0 0
+D4
+~
+~
+0 0 30235
+D5
+~
+~
+0 0 30237
+S
+#30237
+~
+~
+0 0 0
+D4
+~
+~
+0 0 30236
+D5
+~
+~
+0 0 30238
+S
+#30238
+~
+~
+0 0 0
+D4
+~
+~
+0 0 30237
+D5
+~
+~
+0 0 30239
+S
+#30239
+~
+~
+0 0 0
+D1
+~
+~
+0 0 30240
+D4
+~
+~
+0 0 30238
+S
+#30240
+A Deep Cell~
+~
+0 1 0
+D3
+~
+~
+0 0 30239
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 30200 1 2
+D 0 30200 2 1
+D 0 30201 0 1
+D 0 30202 2 1
+D 0 30202 5 0
+D 0 30204 0 1
+D 0 30213 2 1
+D 0 30214 0 1
+D 0 30226 4 0
+M 0 30201 2 30205
+M 0 30201 5 30209
+M 0 30201 1 30214
+M 0 30201 2 30216
+M 0 30201 1 30219
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -652,6 +652,44 @@ void do_ifollow( CHAR_DATA *ch, char *argument )
     return;
 }
 
+// Area import and convert function
+void do_import( CHAR_DATA *ch, char *argument)
+{
+	char strsave[MSL];
+	char buf[MIL];
+//	FILE *fp;
+	char buf2[MIL];
+
+	if (IS_NPC(ch))
+	{
+		send_to_one(ch,"Try as you may, no importing.");
+		return;
+	}
+
+/*	if( argument[0] == '\0')
+	{
+		send_to_one(ch,"Syntax: import <areaname>");
+		return;
+	}
+	sprintf(buf, "../rod/");
+	sprintf(strsave, "%s%s", buf,argument);
+
+	fp = fopen(strsave, "r");
+	if( !fp )
+	{
+		send_to_one(ch, "No such area.");
+		return;
+	}*/
+	{
+	send_to_one(ch, "Importing.");
+	import();
+//	fclose(fp);
+//	send_to_one(ch,"Closing file.");
+	return;
+}
+
+}
+
 void do_wiznet( CHAR_DATA *ch, char *argument )
 {
     int flag;
@@ -1163,7 +1201,7 @@ void do_outfit ( CHAR_DATA *ch, char *argument )
     }
 
 
-/*
+
 
     if (((obj = get_eq_char(ch,WEAR_WIELD)) == NULL 
     ||   !IS_WEAPON_STAT(obj,WEAPON_TWO_HANDS)) 
@@ -1174,7 +1212,7 @@ void do_outfit ( CHAR_DATA *ch, char *argument )
         obj_to_char( obj, ch );
         equip_char( ch, obj, WEAR_SHIELD );
     }
-	*/
+	
 
     send_to_char("You have been equipped by the gods.\n\r",ch);
 

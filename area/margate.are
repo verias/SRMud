@@ -1,0 +1,5597 @@
+#AREADATA
+Name {60 80} SanBlyt Margate~
+Builders Sansara~
+VNUMs 11651 11811
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#11651
+drunken moose~
+a drunken moose~
+A moose drunk from rotting fruit staggers through here.
+~
+This large four-legged animal can only be a moose, judging by its
+slightly equestrian appearance and large hand-like antlers.  It slowly looks
+around, standing still as if in a stupor.  When it does move, it lurches a
+little, almost as if it has lost its sense of balance and direction.  Its
+muzzle is stained purple from plum juice.  
+~
+bear~
+AF 0 0 0
+80 0 11d677+2588 80d10+100 5d10+24 none
+-21 -21 -21 -19
+DEO 0 EI 0
+(null) (null) male 360
+AGHMV ABCDEFGHIJKPUV large unknown
+#11652
+grey squirrel~
+a grey squirrel~
+A grey squirrel with a bushy tail darts up a tree.
+~
+This small creature is covered in short grey fur.  Its hands, feet, and
+small rounded ears are marked by black fur and it has a bushy tail that
+thrusts itself into the air, the very end curled slightly.  It forages
+through the fruit and berries on the ground, picking each up in turn to
+study it.  
+~
+cat~
+A Z 0 0
+10 0 3d23+120 10d10+100 2d3+2 none
+6 6 6 6
+FH 0 0 0
+(null) (null) male 45
+AGHMV ABCDEFGHIJKQUV small unknown
+#11653
+flower maiden Ophelia~
+a flower maiden~
+Ophelia, the flower maiden, stands here.
+~
+A woman with straight dark hair and deep green eyes stands behind the
+counter.  Her ears seem a little too pointy to be human, but her features
+are too bland to mark her as an elf.  She takes care of the plants in the
+cabinets whenever she is not tending on customers.  Her clothes are plain
+cut and a dark blue but seem to compliment her figure well.  She wears an
+apron over her dress, occasionally wiping her hands on it.  Every so often,
+her form turns translucent and you can see right through her.  
+~
+unique~
+ABRW TU 1000 0
+1 0 1d2+8 1d10+100 1d1+0 none
+9 9 9 10
+0 ABQ A C
+(null) (null) either 4
+CIKLM ABCDEFGHIJK medium unknown
+#11654
+dominique cruel woman~
+Dominique~
+A cruel-looking woman stands here, fingering a wicked whip.
+~
+Fiery red hair curls wildly about this woman's form, reaching to well
+below her waist.  Her clear blue eyes coupled with a broad smile make her
+demeanor pleasant.  She is dressed in a revealing black leather shirt and an
+extremely short black leather skirt.  Tied to her belt is a very
+mean-looking whip.  
+~
+unique~
+ABF BDFTU -900 0
+75 0 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+0 0 D CN
+(null) (null) either 337
+AHMV ABCDEFGHIJK medium unknown
+#11655
+ghostly maid~
+a ghostly maid~
+An apparition of a maid is here, still attempting to clean her surroundings.
+~
+The woman that is here, attempting to clean, is translucent.  Her apron
+and dress are a muted white and hair is tucked neatly into a cap.  She
+doesn't acknowledge your existence and carries on with her duties almost
+automatically, energetically straightening and dusting off her surroundings.
+~
+unique~
+A TU 450 0
+62 0 11d306+1649 62d10+100 5d7+20 none
+-14 -14 -14 -12
+0 LQ A C
+(null) (null) either 279
+CIKLM ABCDEFGHIJK medium unknown
+#11656
+ghostly butler~
+a ghostly butler~
+The translucent form of a butler can be seen here, standing to attention.
+~
+Though he is smartly dressed for his duties, you can see right through
+this translucent man.  The features of his face are slightly blurred but his
+dark brown eyes still stand out easily.  His lips are pursed, as if he is
+deep in thought.  He doesn't seem to notice your presence at all as he
+stands to the side of the room, looking as if he is awaiting orders.  
+~
+unique~
+AB TU 200 0
+78 0 11d624+2471 78d10+100 5d10+23 none
+-21 -21 -21 -18
+0 LQ A C
+(null) (null) female 351
+CIKLM ABCDEFGHIJK medium unknown
+#11657
+ghostly nanny~
+a ghostly nanny~
+A nanny, translucent in appearance, floats slightly above the floor.
+~
+This woman has her hair coiled neatly about her frame beneath her
+pristine white hat.  Her face is stern and thin and she wears a perplexed
+look.  She paces endlessly to and fro, though her feet barely touch the
+floor.  An apron is tied tightly to her plump figure, making her black dress
+lay neatly.  
+~
+unique~
+A TU 600 0
+60 0 11d277+1559 60d10+100 5d7+19 none
+-13 -13 -13 -11
+0 LQ A C
+(null) (null) either 270
+CIKLM ABCDEFGHIJK medium unknown
+#11658
+Master Margate~
+master Margate~
+The master of the house is here, his form ghostly.
+~
+A rakishly handsome figure is here.  His faded blue eyes still twinkle
+and his hair is in disarray, though it is not unpleasant looking.  He stands
+tall and proud, easily cresting six feet in height and possibly taller.  He
+is dressed in dark, neat clothing that appears to be tailored to be
+form-fitting.  He is rather young-looking for a master of such a large
+estate and every now and then, his form becomes nearly transparent before
+returning to its translucent state.  
+~
+unique~
+A TU 500 0
+70 0 11d443+2036 70d10+100 5d8+22 none
+-17 -17 -17 -15
+R ALQ D CN
+(null) (null) female 315
+AHMV ABCDEFGHIJK medium unknown
+#11659
+Mistress Margate~
+Mistress Margate~
+The mistress of the house can be seen here, resting regally.
+~
+Raven hair has been piled artfully at the top of this woman's head,
+tucked neatly in a style of the distant past.  She wears a long-sleeved
+dress made of fine green silk with full skirts that enhance her already
+attractive figure.  Her feet are not visible at all, despite the fact that
+she floats inches above the floor.  The features of her face blur when she
+moves her head to look at something, only to redefine and display sparkling
+green eyes that match her dress and a slightly impish look.  
+~
+unique~
+A TU 700 0
+69 0 11d424+1985 69d10+100 5d8+22 none
+-17 -17 -17 -15
+0 0 A C
+(null) (null) either 310
+CIKLM ABCDEFGHIJK medium unknown
+#11660
+Grandfather Margate~
+grandfather Margate~
+The ghost of grandfather Margate drifts here, his features noble yet ancient.
+~
+The figure of an elderly man drifts here.  His countenance is noble, yet
+wrinkled by time, and his face is framed with a shock of white hair.  His
+features are difficult to distinguish from his blurring form, his
+translucent state making it that much more difficult.  
+~
+unique~
+A TU 700 0
+70 0 11d443+2036 70d10+100 5d8+22 none
+-17 -17 -17 -15
+0 0 D CN
+(null) (null) female 315
+AHMV ABCDEFGHIJK medium unknown
+#11661
+ghostly stable boy hand~
+a ghostly stable hand~
+A ghostly stable boy is here, working in an attempt to still earn his pay.
+~
+This small boy scurries about, trying to finish his chores quickly.  He's
+covered in a substantial amount of filth that is only a few shades lighter
+than his dirty blonde hair.  Large, brown eyes make him look more innocent
+than he is.  Oddly, he seems to be completely translucent.  
+~
+unique~
+A TU 700 0
+60 0 11d277+1559 60d10+100 5d7+19 none
+-13 -13 -13 -11
+0 0 A C
+(null) (null) male 270
+ACHIKLMV ABCDEFGHIJK medium unknown
+#11662
+ghostly stable master~
+a ghostly stable master~
+A ghostly stable master is sitting here on a stool.
+~
+The stablemaster quickly pushes a strand of long, greasy brown hair out
+of his dark brown eyes.  He's approximately six feet in height, possibly
+more.  His shirt is a dingy brown and looks like it might have originally
+been white.  Damen wears a black suede hat and when he grins at you, you
+notice that he is missing a few teeth.  His chapps are old and faded and his
+boots are scuffed considerably.  Though his form is definitive, his body
+shifts between a translucent and solid state.  
+~
+unique~
+A DGOTU 1000 0
+75 0 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+0 ABQ D CN
+(null) (null) male 337
+AHMV ABCDEFGHIJK medium unknown
+#11663
+ghostly seamstress~
+a ghostly seamstress~
+The translucent form of a seamstress is standing here.
+~
+Though elderly, this woman's fingers still seem quite agile as she
+randomly measures objects in her surroundings, ranging from bolts of cloth
+to your in-seam.  Her posture is far from perfect and her hair is brown
+except for a flash of grey running from her brow into the tight bun at the
+nape of her neck.  Complimentary but plain clothes grace her bent figure,
+unstained and wrinkle-free.  An apron is arranged over her clothing, holding
+her scissors and other sewing supplies at the ready.  
+~
+unique~
+A TU 600 0
+65 0 11d352+1789 65d10+100 5d8+19 beating
+-15 -15 -15 -13
+0 LQ A C
+(null) (null) either 292
+CIKLM ABCDEFGHIJK medium unknown
+#11664
+ghostly valet~
+a ghostly valet~
+A ghostly valet stands at strict attention here, awaiting further orders.
+~
+Standing tall and proud with a look of disdain for all but those higher
+up in the household than himself is a valet.  His uniform can only be
+described as immaculate, buttons shinning and boots gleaming with polish. 
+His image slowly fades only to reappear once more as if nothing had
+happened.  
+~
+unique~
+A TU 600 0
+62 0 11d306+1649 62d10+100 5d7+20 digestion
+-14 -14 -14 -12
+0 0 A C
+(null) (null) female 279
+CIKLM ABCDEFGHIJK medium unknown
+#11665
+ghostly footman~
+a ghostly footman~
+This ghostly footman stands tall and looks straight ahead.
+~
+Standing tall and upright is the image of a footman.  His face lacks any
+expression as he awaits his orders from those higher ranking within this
+household.  His uniform has been pressed and polished, so as to look smart
+and neat at all times.  Every now and then, the footman disappears from
+view.  
+~
+unique~
+A TU 300 0
+74 0 11d528+2248 74d10+100 5d9+23 digestion
+-19 -19 -19 -17
+I 0 A C
+(null) (null) female 333
+CIKLM ABCDEFGHIJK medium unknown
+#11666
+ghostly gardener~
+a ghostly gardener~
+A ghostly gardener is here, trying in vain to pull weeds and tame growth.
+~
+Crouching over to yank vainly at a weed is what once was a gardener.  He
+continues his labors in death as he did in life, for love of his work.  Grey
+hair tops his craggy featured head as he mutters unheard at his work.  Every
+so often he fades from view only to return once more moments later.  
+~
+unique~
+A TU 800 0
+74 0 11d528+2248 74d10+100 5d9+23 digestion
+-19 -19 -19 -17
+CI 0 A C
+(null) (null) female 333
+CIKLM ABCDEFGHIJK medium unknown
+#11667
+Cookie ghostly cook~
+Cookie~
+This ghostly cook is shouting orders at thin air.
+~
+Dressed is an apron and cap, this figure struts about as if king of all he
+surveys.  Brawny shoulders and powerful arms toned from hours of work swing
+like pendulums as he marches about.  A slightly widened girth gives the
+impression that he enjoyed his work while he lived.  Now and then the cook
+disappears only to return seconds later.  
+~
+unique~
+AB TUa 400 0
+65 0 11d352+1789 65d10+100 5d8+19 beating
+-15 -15 -15 -13
+0 LQ D CN
+(null) (null) female 292
+AHMV ABCDEFGHIJK medium unknown
+#11668
+ghostly hound~
+a ghostly hound~
+The translucent image of a once-mighty hunting hound paces here.
+~
+The image of what once must have been a fearsome hound drifts here.  Its
+massive feet padding noisily as it sniffs about.  Looking to be mostly
+mastiff or something distantly related to such this hunting hound must have
+been quite a sight in lift as even in un-life it is still impressive.  As it
+slights you a low, rumbling growl escapes its throat and it flashes its
+fangs.  
+~
+unique~
+A TUV 0 0
+76 0 11d574+2358 76d10+100 5d9+24 sting
+-20 -20 -20 -18
+CDEFGH LQ A C
+(null) (null) male 342
+CIKLM ABCDEFGHIJK medium unknown
+#11669
+ghostly coachman~
+a ghostly coachman~
+An apparition in the likeness of a coachman is here, floating aimlessly.
+~
+The silent figure of a coachman drifts here, his black cape and hood
+drawn about himself so only his flashing grey eyes and hooked nose are
+visible.  He drifts about as in a daze, lacking both purpose and will. 
+Every so often, the apparition disappears briefly only to return as if
+nothing had altered to him.  
+~
+unique~
+A TU 300 0
+68 0 11d405+1935 68d10+100 5d8+21 digestion
+-17 -17 -17 -14
+0 0 A C
+(null) (null) female 306
+CIKLM ABCDEFGHIJK medium unknown
+#11670
+ghostly musician~
+a ghostly musician~
+This ghostly musician tunes his instrument, readying to play.
+~
+Waising as quietly as possible it the figure of what once must have been
+a musician, judging by his attire and the skill with which he holds his
+instrument.  His dress is of well-cut black cloth for both pants and
+waistcoat, adding to the professional air about him.  Every so often, the
+figure blinks from view only to reappear moments later.  
+~
+unique~
+A TU 300 0
+63 0 11d321+1694 63d10+100 5d8+18 beating
+-15 -15 -15 -12
+0 L D CN
+(null) (null) female 283
+AHMV ABCDEFGHIJK medium unknown
+#11671
+ghostly guest~
+a ghostly guest~
+A ghostly guest drifts through this area, oblivious.
+~
+Deep blue eyes are set into the chiseled face of this gentleman.  Over
+his expressive mouth is a small oiled mustache, which compliments his
+features well.  Manicured finger nails and soft looking skin hint strongly
+that he has never had to do manual work in his life.  Every now and then the
+form vanishes from view only to return moments later as if nothing has
+happened.  
+~
+unique~
+A TU 400 0
+70 0 11d443+2036 70d10+100 5d8+22 digestion
+-17 -17 -17 -15
+0 0 A C
+(null) (null) female 315
+ACHIKLMV ABCDEFGHIJK medium unknown
+#11672
+foal horse~
+a small brown foal~
+A small brown foal stands here, gazing about with large, dark eyes.
+~
+A small brown foal stands here, gazing about with large, dark eyes. 
+Marks its forehead, giving an even more soulful and innocent look to it. 
+The foal fades nearly entirely from existence from time to time.  
+~
+unique~
+A TU 0 0
+60 0 11d277+1559 60d10+100 5d7+19 none
+-13 -13 -13 -11
+FH L A C
+(null) (null) male 270
+ACGIKLMV ABCDEFGHIJKPUV medium unknown
+#11673
+wevaric horse~
+a Wevaric horse~
+A horse with a shining white coat and noble bearing stands here.
+~
+A horse with a shining white coat and noble bearing stands here. 
+The shining white coat coupled with a noble look to its stance and light
+build mark this pony-come-horse as of the Wevaric breed.  Following suit is
+its rather small, tapering head and muzzle.  The horse seems to flicker and
+fade from existence from time to time.  This horses flickers and fades from
+existence from time to time.  
+~
+unique~
+AEI TU 0 0
+70 0 11d443+2036 70d10+100 5d8+22 suction
+-17 -17 -17 -15
+0 0 A C
+(null) (null) male 315
+CIKLM ABCDEFGHIJK medium unknown
+#11674
+riding horse~
+a riding horse~
+A bay horse stands here, its black mane braided neatly.
+~
+A ghostly horse of solid build stands here.  Its black mane has been
+braided into large, neat plaits and its hooves shod for travel.  Though not
+overly large, it looks like it could easily hold a fair load.  
+~
+unique~
+AEI TU 0 0
+65 0 11d352+1789 65d10+100 5d8+19 suction
+-15 -15 -15 -13
+0 L A C
+(null) (null) male 292
+CIKLM ABCDEFGHIJK medium unknown
+#11675
+miniature pony~
+a small blue pony~
+A small blue-coloured pony prances here, its long mane almost touching the ground.
+~
+Tiny when compared to a real horse, this friendly apparition of a pony
+looks game in its own way.  With a long white mane and tail, when mixed with
+its blue shiny coat, make it look almost like a child's toy.  It neighs
+softly in your direction, its large brown eyes fixed on you.  
+~
+unique~
+AEI TU 0 0
+60 0 11d277+1559 60d10+100 5d7+19 suction
+-13 -13 -13 -11
+0 L A C
+(null) (null) male 270
+CIKLM ABCDEFGHIJK medium unknown
+#11676
+war horse steed~
+a black war horse~
+A mighty black steed stands here, tossing its head and pawing the ground.
+~
+A mighty black steed stands here, tossing its head and pawing the air
+above the ground impatiently.  Its feet do not touch the ground, making it
+that much more eerie to gaze at.  Powerfully built and possessing an evil
+temper, this beast could only be a trained warhorse.  Its eyes seem to glint
+with an intelligence that does not seem normal in a mere animal as it eyes
+you warily.  
+~
+unique~
+AEI TU 0 0
+75 0 11d551+2303 75d10+100 5d9+24 suction
+-19 -19 -19 -17
+0 L A C
+(null) (null) male 337
+CIKLM ABCDEFGHIJK medium unknown
+#11677
+blue dread spider~
+a blue dread spider~
+A blue dread spider scurries over the wall.
+~
+This spider is gigantic.  Each leg is long, easily four feet in length. 
+Wiry blue hair emerges from its limbs to provide this creature a way to
+scurry over just about anything.  Its mandibles drip with a dark blue-purple
+substance that gives off a rather foul odor.  Eight red eyes train on you
+right before it lunges.  
+~
+centipede~
+A DFJPQZ 0 0
+70 0 11d443+2036 70d10+100 5d8+22 crush
+-17 -17 -17 -15
+CFHR L CFI E
+(null) (null) male 315
+ABGO ACFKX medium unknown
+#11678
+black dread spider~
+a black dread spider~
+A black dread spider drops suddenly from above.
+~
+This black spider has eight hair-speckled legs that are easily five feet
+in length to help it scurry over whatever it chooses to.  A dark blue-purple
+substance drips from the mandibles of this creature, giving off a foul odor.
+It trains all eight of its red eyes on you right before it lunges.  
+~
+centipede~
+A DFJPQZ 0 0
+75 0 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+CFHR L FI E
+(null) (null) male 337
+ABGO ACFKX large unknown
+#11679
+purple dread spider~
+a purple dread spider~
+This purple dread spider moves quickly, obscuring all detail.
+~
+You can barely make out the form of this spider, its features blurring as
+it lunges at you in attack.  It's a giant mass of dark purple hair and skin.
+Its legs are covered in especially sharp and tough hair that allows it to
+climb most surfaces with the utmost of ease.  Its mandibles click together
+softly, working a dark bluish-purple liquid from them.  The smell of death
+surrounds this beast with an oppressive stench.  
+~
+centipede~
+A DFJPQZ 0 0
+77 0 11d599+2414 77d10+100 5d9+25 none
+-20 -20 -20 -18
+CFHR LQ FI E
+(null) (null) male 346
+ABGO ACFKX large unknown
+#11680
+dread spider~
+the dread spider~
+This mammoth dread spider stares at you hungrily.
+~
+This spider easily overshadows all the other dread spiders.  Though
+large, it still proves itself fast as it moves in a blur to lunge at you. 
+Its pincers click together over its mouth, emitting a foul-smelling
+substance that seems to be a cross between dark purple and blue.  Its black
+eyes stare blankly, even in the heat of battle.  
+~
+centipede~
+A DFJPQXZ 0 0
+80 0 11d677+2588 80d10+100 5d10+24 none
+-21 -21 -21 -19
+BCDFHR LQ FI E
+(null) (null) male 360
+ABGO ACFKX giant unknown
+#11681
+Scorpion~
+Scorpio~
+This large red scorpion lurches menacingly as it tries to move around.
+~
+This scorpion is grossly disproportionate, being thousands of times
+larger than a normal beast of any similarity.  Its exoskeleton is a blazing
+red which makes it blend rather well with the canyon walls.  Two large claws
+snap viciously as it turns to face you, and its tail is tipped by a dripping
+stinger.  
+~
+centipede~
+ABF Z 0 0
+78 0 11d624+2471 78d10+100 5d10+23 none
+-21 -21 -21 -18
+BEHKMR 0 FI E
+(null) (null) male 351
+ABGO ACFKX large unknown
+#11682
+cyclops wyllyam~
+Wyllyam~
+A cyclops eyes you momentarily before trying to stomp on you.
+~
+The burly, giant figure of a cyclops looms here, gazing about with his
+single eye for something to eat.  Hands with blunt, stubby fingers grip a
+large chunk of bridge to form a simple club.  His hairy body has run too fat
+around the girth and the drool that creeps from his mouth as he bellows upon
+seeing you does nothing to help indicate a great wit.  
+~
+unique~
+A a 0 0
+80 0 11d677+2588 80d10+100 5d10+24 digestion
+-21 -21 -21 -19
+CO 0 C 0
+(null) (null) female 360
+AGHMV ACDEFGHJKWY large unknown
+#11683
+tervadi explorer~
+a struggling tervadi~
+An unfortunate tervadi explorer writhes here.
+~
+This frail figure thrashes about, attempting to escape the stick fate it
+has met.  The more he or she struggles, the tighter the web winds itself,
+until, finally, the white mass stops moving entirely.  The only thing
+peeking out from the cocoon is a dark grey beak, marking this unfortunate
+soul as a tervadi.  
+~
+unique~
+A TX 400 0
+60 0 11d277+1559 60d10+100 5d7+19 none
+-13 -13 -13 -11
+0 0 0 L
+(null) (null) male 270
+ACGHMV ABCDEFGHIJKOU medium unknown
+#11684
+haitorin trapped ensnared~
+an ensnared haitorin~
+Trapped in sticky webbing, this haitorin awaits his fate with fear.
+~
+The yellow eyes and ears of a haitorin are visible at one end of this
+cocooned body.  He sways slowly through the air, his eyes wide with fear as
+he peers around himself in the darkness.  His black ears swivel, trying to
+detect the sounds of his predators.  
+~
+unique~
+A VXZ 600 0
+65 0 11d352+1789 65d10+100 5d8+19 none
+-15 -15 -15 -13
+H 0 P H
+(null) (null) female 292
+ACGHMV ABCDEFGHIJKUV medium unknown
+#11685
+faerie maiden~
+a squealing faerie maiden~
+A trapped faerie maiden squeals for rescue.
+~
+Trapped only by one of her butterfly wings, this faerie maiden looks at
+you pleadingly.  Her other wing flutters weakly so she does not become more
+entangled in the webbing that surrounds her.  Her features are pointed and
+elfin and her form girl-like in its curves, though her hair has become wild
+in panic and her face tear stained from her distress.  Over and over, she
+squeals out pleadingly for aid.  
+~
+unique~
+ABL FTV 300 0
+63 0 11d321+1694 63d10+100 5d8+18 none
+-15 -15 -15 -12
+0 B 0 M
+(null) (null) either 283
+ACGHMV ABCDEFGHIJKO medium unknown
+#11686
+trapped monarchy guard deserter~
+an ensnared guard~
+Now clothed in webbing, this deserter from the Royal Guard, has come to a sticky end.
+~
+Once one of the Royal Guards of Discordia, this poor unfortunate soul is
+now little more than a shadow of his former self, half starved and cocooned
+in spider silk.  He wriggles hopelessly in hope of escape, making his
+bindings grow tighter and his breathing more laborious.  His eyes look at
+you pleadingly as he attempts to call for help, his blonde hair wild where
+it is not stuck to his head with spiders silk.  
+~
+human~
+A 0 200 0
+67 0 11d387+1885 67d10+100 5d8+20 none
+-16 -16 -16 -14
+0 0 0 0
+(null) (null) female 301
+AHMV ABCDEFGHIJK medium unknown
+#11687
+phantom heads~
+a host of phantom heads~
+A host of phantom animal heads swarm here floating about.
+~
+This swarm consists of the spirit heads of countless dead animals each
+wishing its vengeance upon the living for their fates.  Bound to the
+physical remains of themselves, they can not stray far to seek there
+revenge.  Numerous different animals can be seen within the host but, they
+act as one single entity.  
+~
+unique~
+A OTUc 0 0
+65 0 11d352+1789 65d10+100 5d8+19 crush
+-15 -15 -15 -13
+C 0 D CN
+(null) (null) male 292
+AHMV ABCDEFGHIJK giant unknown
+#11688
+ghostly ballroom dancer~
+a ballroom dancer~
+A ballroom dancer twirls majestically here, flouncing her skirts.
+~
+This ghostly woman is shrouded in mystery, wearing an elegant ballroom
+mask and dress.  Her gloves reach past her elbows, elegant and beautiful in
+nature.  Her hair is coiled neatly and her appearance is, in general,
+impeccable--though you can see right through her.  
+~
+unique~
+A TU 300 0
+70 0 11d443+2036 70d10+100 5d8+22 none
+-17 -17 -17 -15
+0 LQ A C
+(null) (null) either 315
+CIKLM ABCDEFGHIJK medium unknown
+#11689
+ghostly ballroom suitor~
+a ghostly suitor~
+This ghostly ballroom suitor carries on dancing as if he were still alive.
+~
+This ghostly man is dressed in fine silks that have been pressed and look
+very smart.  His hair is tied at the nape of his neck, curling gently as it
+spills down the middle of his back.  He stands tall and straight, moving
+elegantly and fluidly through the room with his partner.  
+~
+unique~
+A TU 300 0
+75 0 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+0 0 A C
+(null) (null) female 337
+CIKLM ABCDEFGHIJK medium unknown
+#11690
+ghostly girl~
+a ghostly little girl~
+A ghostly little girl is here, humming to herself.
+~
+This pre-adolescent child has her auburn hair swept up in twin pig tails
+that are held by white ribbons.  Her dress is frilly, lined with laces and
+bows for decoration.  Her eyes are large and grey, giving her a soulful look
+that has nothing to do with her translucence.  
+~
+unique~
+A TU 300 0
+61 0 11d291+1603 61d10+100 5d7+19 none
+-14 -14 -14 -12
+0 LQ A C
+(null) (null) either 274
+CIKLM ABCDEFGHIJK medium unknown
+#11691
+ghostly siren~
+a ghostly siren~
+A mist-like siren floats here, singing a haunting melody.
+~
+What once was flaming red hair can be seen around the siren's face,
+fashioned to be cloud-like and ethereal.  Her large blue eyes meet yours as
+she sings her mournful song, full of deep sorrow and longing.  She floats
+above the floor and appears to be too listless to move.  
+~
+unique~
+A TU 0 0
+79 0 11d650+2529 79d10+100 5d10+23 none
+-21 -21 -21 -19
+G LQ D CN
+(null) (null) either 355
+AHMV ABCDEFGHIJK medium unknown
+#11692
+ghostly boy~
+a ghostly boy~
+A ghostly boy is here, studying a book.
+~
+This ghostly young man seems enthralled with the book in his hands, his
+grey eyes scanning the pages.  His hair is raven colored, making his
+appearance more attractive to some.  His body is lean, though there is no
+hint of frailty to his translucent form.  
+~
+unique~
+A TU 300 0
+61 0 11d291+1603 61d10+100 5d7+19 none
+-14 -14 -14 -12
+0 0 A C
+(null) (null) female 274
+CIKLM ABCDEFGHIJK medium unknown
+#11693
+ghostly guest~
+a ghostly guest~
+A ghostly guest is here, smoothing her clothes obsessively.
+~
+This woman's hair is neatly tucked away and her clothes are immaculate
+from her constant primping.  Her eyes are dark and she doesn't seem to
+realize you're there as she looks around.  She occasionally calls to for a
+maid, her voice ringing out clear and true from her flickering form.  
+~
+unique~
+A TU 400 0
+65 0 11d352+1789 65d10+100 5d8+19 none
+-15 -15 -15 -13
+0 LQ D CN
+(null) (null) either 292
+AHMV ABCDEFGHIJK medium unknown
+#11694
+ghostly horse~
+a ghostly horse~
+A horse with an ethereal appearance floats above the ground.
+~
+This ghost seems to have been a horse in its former life, its coat sleak
+and black even in its faded state.  The white star of fur on its forehead is
+evenly balanced in the space between its dark eyes, though it's partially
+covered by its dark mane.  The horse flickers and phases out of being
+occasionally as you gaze at it.  
+~
+unique~
+A TU 0 0
+70 0 11d443+2036 70d10+100 5d8+22 none
+-17 -17 -17 -15
+0 0 A C
+(null) (null) male 315
+ACGIKLMV ABCDEFGHIJKP medium unknown
+#0
+
+
+
+#OBJECTS
+#11651
+blueberries blueberry~
+a few blueberries~
+A few blueberries lay here, freshly fallen from the bush.~
+unknown~
+pill R AO
+40 'reserved' 'reserved' 'reserved' 'reserved'
+1 1 30 P
+#11652
+swing~
+a child's swing~
+A swing fashioned for a child sways gently from a tree branch.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 10000 0 P
+#11653
+pink carnation flower~
+a pink carnation~
+A beautiful pink carnation is here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+10 0 2000 P
+#11654
+lily flower~
+a {Wwhite{x lily~
+A {Wwhite{x star lily with silver speckles is here.~
+unknown~
+treasure 0 AQ
+0 0 0 0 0
+20 0 4000 P
+A
+13 20
+#11655
+black rose flower~
+a {Kblack{x rose~
+An elegant {Kblack{x rose is here.~
+unknown~
+treasure 0 AQ
+0 0 0 0 0
+90 0 10000 P
+A
+12 90
+#11656
+purple orchid flower~
+a purple orchid~
+A lovely purple orchid is here.~
+unknown~
+treasure 0 AR
+0 0 0 0 0
+70 0 9000 P
+A
+19 3
+A
+18 4
+#11657
+sun flower sunflower~
+a radiant {Ysunflower{x~
+A {Ysunflower{x that glows with its own inner light has been left here~
+unknown~
+light 0 A
+0 0 ABCFGHIJ 0 0
+65 0 8000 P
+A
+18 2
+A
+19 2
+A
+3 2
+#11658
+blue rose flower~
+a blue rose~
+A perfect blue rose is here.~
+unknown~
+treasure 0 AQ
+0 0 0 0 0
+80 0 9500 P
+A
+17 30
+A
+4 -2
+#11659
+red carnation flower~
+a {rred{x carnation~
+A red carnation is here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+15 0 3000 P
+#11660
+white carnation flower~
+a white carnation~
+A white carnation has been abandoned here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+1 0 1000 P
+#11661
+tiger lily flower~
+a large tiger lily~
+A large tiger lily is here.~
+unknown~
+pill b AQ
+55 'reserved' 'reserved' 'reserved' 'reserved'
+55 0 6000 P
+#11662
+purple iris flower~
+a purple iris~
+A purple veined iris with a golden center is laying here.~
+unknown~
+pill 0 AQ
+50 'reserved' 'reserved' 'reserved' 'reserved'
+40 0 5000 P
+#11663
+wicked whip~
+a wicked whip~
+This long whip that tapers to three small blades forms a wicked-looking whip.~
+unknown~
+weapon HJT AN
+flail 11 13 jab C
+75 2 375 P
+#11664
+iron horseshoe~
+an iron horseshoe~
+An small iron horse shoe lies here, abandoned.~
+unknown~
+staff ARS AO
+60 5 5 'reserved' 0
+55 3 300 P
+#11665
+large bed~
+the large bed~
+A large bed is here, draped in fineries that shimmer.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 10000 0 P
+#11666
+crib~
+a crib~
+A large crib has been placed in the center of this room.~
+unknown~
+container R 0
+0 0 0 0 0
+0 10000 0 P
+#11667
+round bed~
+a circular bed~
+A circular bed has been placed here, the dark satin cushions inviting.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 10000 0 P
+#11668
+ceramic oval bath~
+an oval bath~
+A massive oval bath made of white ceramic is here.~
+unknown~
+container R 0
+50 0 0 0 0
+0 10000 0 P
+#11669
+garlic clove~
+a clove of garlic~
+A dusty clove of garlic lays on its side here.~
+unknown~
+pill R AO
+60 'reserved' 'reserved' 'reserved' 'reserved'
+1 0 30 P
+#11670
+couch sofa~
+a plush sofa~
+A long, velvet couch has been proudly placed near the window.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 10000 0 P
+#11671
+porch swing~
+the porch swing~
+A porch swing is here, held in place with sturdy iron chains.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 10000 0 P
+#11672
+silver ballroom dress~
+a silver ballroom dress~
+An ornate silver dress made for ballroom dancing lies here.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+75 9 300 P
+A
+12 150
+A
+2 -2
+#11673
+elbow length gloves~
+white elbow-length gloves~
+These elbow-length gloves are made of white satin.~
+unknown~
+armor R AH
+CD CD CD AB 0
+75 1 375 P
+#11674
+feathered ballroom mask~
+a black feather ballroom mask~
+This elegant ballroom mask is constructed of fine black feathers.~
+unknown~
+armor 0 AT
+CD CD CD AB 0
+75 0 375 P
+A
+14 300
+#11675
+glittering ballroom mask~
+a glittering white ballroom mask~
+This white ballroom mask sparkles like snow in the shifting light.~
+unknown~
+armor R AT
+CD CD CD AB 0
+75 0 375 P
+A
+24 30
+#11676
+violet ballroom gown~
+a violet ballroom gown~
+A ballroom gown dyed an exotic violet color has been left in a pile here.~
+unknown~
+armor 0 AD
+CD CD CD AB 0
+75 9 375 P
+A
+13 70
+#11677
+black satin gloves~
+a pair of black satin gloves~
+An elbow-length pair of black satin gloves have been left here.~
+unknown~
+armor 0 AH
+CD CD CD AB 0
+75 0 375 P
+#11678
+choke chain collar~
+a choke chain and collar~
+This choke chain and collar combination looks painful for the wearer.~
+unknown~
+protect R AC
+AE AE AE C 0
+60 1 0 P
+A
+5 -2
+A
+1 -2
+A
+13 60
+A
+2 -3
+#11679
+thimble~
+a thimble~
+A thimble made of rusting metal has been dropped here.~
+unknown~
+container G AO
+10 0 0 0 0
+60 1 0 P
+#11680
+tome~
+a tome of irregular size~
+An irregularly sized tome sits here, opened to the middle.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+1 3 10 P
+E
+page5~
+Juilith has died no art possessed here was able to aid her.  The spiders
+have not come into the grounds since we constructed a ward.  Yet, still we
+can not get out.  I fear for my love, what will become of us?  
+~
+E
+page4~
+A storm has risen, the entrance has become impassibly with the coach,
+jonson has not returned.  I can only pray that he will return soon with aid.
+The spiders become more bold with each passing day.  Juilith has been
+bitten.  
+~
+E
+page3~
+Jonson waits at the shrine of Audrina aid will surely come to us soon, we
+have always been good people here and only done those wrongs that are needed
+for the greater good.  
+~
+E
+page2~
+Movement through the woodland has proven to be impossible, even walking
+the road is not without great risk.  Fortunately the coach moves unhindered
+from this menace.  Why have spiders taken it upon themselves to nest here?  
+~
+E
+page1~
+Something dark has entered the forests close to Margate.  We know not
+what it is but it has claimed the life of three workers, may Audrina bless
+there passing.  So far nothing has been seen by day so we believe it to be
+some un-natural creature of darkness.  If this is the case Audrina's
+Templars will lay it to rest.  
+~
+E
+tome page~
+This is a tome containing the last days of Margate.
+316 years since the end of the War of the Ancients
+OOC: To look at each page examine page1-page5
+~
+#11681
+ceramic rattle~
+a small ceramic rattle~
+A small rattle made of ceramic is here, covered in dust.~
+unknown~
+wand 0 AO
+60 5 1 'reserved' 0
+50 0 250 P
+#11682
+margate key~
+a dirt-encrusted key~
+This dirty key is shaped like a lion's head.~
+unknown~
+key 0 AO
+0 0 0 0 0
+1 1 0 P
+#11683
+white rose~
+a large white rose~
+Here lies a single white rose with perfect petals.~
+unknown~
+treasure R AO
+0 0 0 0 0
+1 0 10 P
+#11684
+holly berries~
+some holly berries~
+A small bunch of holly berries lay on the ground here.~
+unknown~
+pill R AO
+25 'reserved' 'reserved' 'reserved' 'reserved'
+1 1 30 P
+#11685
+black feather~
+a black feather~
+A large black feather has fallen here.~
+unknown~
+wand 0 AO
+60 5 3 'reserved' 0
+60 0 300 P
+#11686
+pink rose flower~
+a dusky pink rose~
+A dusky pink rose is here, shining with dew.~
+unknown~
+wand 0 AO
+60 3 1 'reserved' 0
+60 0 300 P
+#11687
+water pump~
+a water pump~
+A pump for drawing water from a well somewhere has been constructed here.~
+unknown~
+fountain 0 0
+0 0 'water' 0 0
+0 10000 0 P
+#11688
+dandelion~
+a bright dandelion~
+A bright yellow dandelion is here, its petals splayed to expose its pistils.~
+unknown~
+armor R AE
+BD BD BD AB 0
+65 0 325 P
+#11689
+riding crop~
+a riding crop~
+A black-handled riding crop has been left here.~
+unknown~
+weapon ER AN
+flail 9 14 bite 0
+65 2 325 P
+#11690
+bit bridle~
+a bit and bridle~
+A cruel-looking bit and bridle are here, waiting to be used.~
+unknown~
+armor MRSU AT
+ABD ABD ABD AB 0
+70 1 350 P
+#11691
+saddle~
+a studded black leather saddle~
+This saddle is made of black leather and has studs placed over it for show.~
+unknown~
+armor MRSU AL
+BD BD BD AB 0
+65 1 325 P
+A
+13 20
+#11692
+ripe peach~
+a ripe peach~
+A peach, ripe and juicy, has fallen from a tree.~
+unknown~
+food R AO
+DF 0 0 0 0
+1 1 2 P
+#11693
+rack~
+a rack~
+This rack has been kept in great condition and still works like it should.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 10000 0 P
+#11694
+statue~
+an eroded statue~
+This statue has long since left its prime.~
+unknown~
+container R 0
+50 0 0 0 0
+0 10000 0 P
+#11695
+table~
+a large wooden table~
+A wooden table with glass panels has been situated here, flanked by matching chairs.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 10000 0 P
+#11696
+scorpion stinger exotic~
+a scorpion tail~
+Here lies a tail that must have been lopped off a giant scorpion, bright red in color.~
+unknown~
+weapon S AN
+exotic 12 12 none G
+76 2 380 P
+#11697
+bridge club mace~
+a piece of bridge~
+A club fashioned out of part of a broken bridge is here.~
+unknown~
+weapon 0 AN
+staff 11 14 none 0
+80 40 400 P
+#11698
+moonstone ring~
+a silver ring set with a moonstone~
+A silver ring set with a single moonstone twinkles here.~
+unknown~
+protect GRT AB
+CE CE CE C 0
+70 1 4000 P
+A
+18 3
+A
+19 3
+E
+ring~
+Inscribed upon the inside of this silver band is the word "Hope" looking
+closely the ring seems to glimmer with a slight white aura.  
+~
+E
+!history!~
+This ring was forged long ago, rumored to be how Sir Joshua Margate
+managed to defeat the Worm of Shadow Caves thanks to the mighty magic placed
+upon it by the high priestess of Aristea at the time for that purpose, now
+it has been considered lost to time.  
+~
+#11699
+box hope~
+a box called hope~
+A box with the word: hope. Inscribed upon its surface sits under the foot of the statue.~
+unknown~
+container R 0
+10 AC 0 0 0
+0 0 0 P
+#11700
+margate spear~
+the Margate spear~
+A spear with a coat of arms emblazoned on its head lies here, glinting.~
+unknown~
+weapon 0 AN
+dagger 9 15 crunch J
+70 0 350 P
+#11701
+cupboard~
+a wooden cupboard~
+This wooden cupboard proudly displays a bow and arrow.~
+unknown~
+container R 0
+30 AC 0 0 0
+0 10000 0 P
+#11702
+silver arrow~
+a silver arrow~
+A shining silver arrow lies here, glinting in the light.~
+unknown~
+wand 0 AO
+60 5 3 'reserved' 0
+60 1 300 P
+#11703
+display case~
+a display case~
+A glass display case is here with exotic trophies arranged neatly inside.~
+unknown~
+container R 0
+50 AC 0 0 0
+0 10000 0 P
+#11704
+silver hoof~
+a silver cloven hoof~
+A carefully cleaned and polished hoof made of silver is here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+1 5 10 P
+#11705
+carpet magic black~
+a black carpet~
+This roll of black carpet seems to shimmer slightly.~
+unknown~
+boat R AG
+0 0 0 0 0
+0 0 0 P
+#11706
+silk suit~
+a smart silk suit~
+This suit is made of the finest black silk.~
+unknown~
+armor C AD
+CD CD CD AB 0
+75 1 375 P
+#11707
+violin~
+a rosewood violin~
+A violin perfectly shaped and made of the finest rosewood is here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+30 3 300 P
+#11708
+flute~
+a wooden flute~
+This flute is made from iron oak, sanded and finished to show off the wood.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+50 1 500 P
+#11709
+cello~
+a rosewood cello~
+This large cello is polished to a shine and has been carefully taken care of.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+50 5 500 P
+#11710
+alto clarinet~
+an alto clarinet~
+This alto clarinet has been crafted of rosewood and silver.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+50 3 500 P
+#11711
+bow~
+a bow made of horse hair~
+This bow has been carefully constructed of wood and horse hair.~
+unknown~
+weapon 0 AN
+exotic 31 3 none 0
+60 1 300 P
+#11712
+frilly dress~
+a dress with bows and frills~
+A dress with bows and frills is here, piled carelessly on the floor.~
+unknown~
+treasure 0 AD
+0 0 0 0 0
+1 0 10 P
+#11713
+black cord~
+a black cord with silver stars~
+A black cord with silver crescent moons and stars can be seen here.~
+unknown~
+armor R AL
+ACD ACD ACD C 0
+80 0 400 P
+A
+3 1
+A
+4 1
+A
+12 50
+#11714
+glass ornament~
+an ornate glass ornament~
+A glass ornament is here, delicately wrought and shaped into a beautiful design.~
+unknown~
+treasure R AO
+0 0 0 0 0
+20 0 200 P
+#11715
+fly trap plant~
+a fly trap plant~
+This small plant is here solely for the purpose of eating flies.~
+unknown~
+pill 0 AO
+20 'reserved' 'reserved' 'reserved' 'reserved'
+1 1 30 P
+#11716
+magical globe light~
+a magical globe of light~
+A globe of magic is here, glowing mysteriously.~
+unknown~
+light R AO
+0 0 ABCFGHIJ 0 0
+1 1 0 P
+#11717
+dark suit taylored~
+a dark suit~
+A suit taylored from a dark material is here, wrinkle free.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+1 1 400 P
+#11718
+pipe mahogany~
+a mahogany pipe~
+A pipe crafted of polished mahogany has been dropped here.~
+unknown~
+wand 0 AO
+70 5 2 'reserved' 0
+70 1 350 P
+#11719
+translucent dress~
+a translucent dress~
+A translucent dress made of an unknown substance has been left here.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+1 1 0 P
+#11720
+web trap~
+a sticky web~
+A spider's web, glistening faintly in the light, can be seen here.~
+unknown~
+warp_stone R 0
+A F 0 0 0
+70 10000 0 P
+#0
+
+
+
+#ROOMS
+#11651
+A Strange Road~
+The road that cuts through the tall trees turns from dirt to the north
+into cobblestones leading further south.  The vegetation leaves this pathway
+in shade from the best of natural light.  Several colorful leaves have
+fallen, dried and cracked.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11780
+D2
+~
+~
+~
+0 0 11652
+M 0 H 0
+S
+#11652
+A Carefully Paved Pathway~
+Large maples, accompanied by an occasional spruce or fir tree, line the
+sides of the road, separated by a drainage ditch and a small strip of wild
+flowers and grass.  The road, paved with cobblestones to prevent it being
+overgrown, stretches away to the north and south.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11651
+D2
+~
+~
+~
+0 0 11653
+M 0 H 0
+S
+#11653
+A Fork in the Road~
+A small trail works its way westward into the wilderness while the
+cobbled pathway runs from north to south.  Ditches hug each side of the
+road, partially filled with rain water.  Wild flowers and tall grass grow in
+a mix between the road and thick growth of ancient and young trees.  Bushes
+full of dark blackberries make venturing into the wood all but impossible.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11652
+D2
+~
+~
+~
+0 0 11654
+D3
+~
+~
+~
+0 0 11659
+M 0 H 0
+S
+#11654
+The Cobbled Way~
+Deep ditches for drainage flank the sides of this road, which continues
+both northward and southward, where a gigantic tree that has rotted through
+has fallen across the cobbled way.  Wild growth spreads from the ditches
+into the tall trees that tower above, making movement to the east or west
+unthinkable.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11653
+D2
+~
+~
+~
+0 0 11655
+M 0 H 0
+S
+#11655
+A Blocked Roadway~
+A large tree with the diameter of at least ten feet has tipped over,
+laying across the cobbled road and exposing its roots to the air.  Its bark,
+or what is left of it, is rough and cracked, and long since a food source
+for various mosses and fungi.  Despite the tree's impressive size, the
+middle has rotted away and provides passage to the south.  The surrounding
+vegetation seems to be entirely untouched and thriving, despite the
+disruption its original fall must have caused.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11654
+D2
+~
+~
+~
+0 0 11656
+M 0 H 0
+S
+#11656
+A Fallen Tree~
+A tree of mammoth proportions has fallen across the cobbled road, once
+blocked further travel northward.  A gaping hole in the side of the log now
+allows those that can fit through to continue in that direction.  Cobbled
+stone stretches away to the south, with large and stately trees growing
+abundantly to the east and west.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11655
+D2
+~
+~
+~
+0 0 11657
+M 0 H 0
+S
+#11657
+Before Wrought-Iron Gates~
+Wrought-iron gates that have been overcome with ivy can be found to the
+south.  A garden and a mansion of considerable size can be seen beyond the
+iron bars.  Uncompromising wilderness comprised of large hardwood trees and
+brambles block the east and west.  A cobbled road made of dark grey stones
+stretches away to the north.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11656
+D2
+~
+gate~
+~
+1 0 11658
+M 0 H 0
+S
+#11658
+The Front Garden~
+A large statue that has long since been overgrown and eroded stands in
+the middle of the garden, its arms outstretched toward the gates as if in
+welcome.  A small pond has formed beneath the alabaster figure, either
+constructed purposefully or placed there by nature, with leaves that have
+fallen from the courtyard trees drifting across the surface.  A flagstone
+path wide enough for carriages to pass over with ease runs to the east and
+west, around the garden.  
+~
+0 0 0
+D0
+~
+gate~
+~
+1 0 11657
+D1
+~
+~
+~
+0 0 11662
+D3
+~
+~
+~
+0 0 11663
+M 0 H 0
+S
+#11659
+A Natural Thoroughfare~
+Rough brown bark covers the trees that prevent movement to the north and
+south from this dirt trail that has been created by the passage of many
+animals, some of them hoofed.  Leaves lay in rotting masses, making the
+ground slippery in places as they decompose in a thin film of water.  The
+dirt path continues to the west while to the east there is a width of
+cobblestone stretching north and south.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 11653
+D3
+~
+~
+~
+0 0 11660
+M 0 H 0
+S
+#11660
+A Twisted Deer Trail~
+The trail of hoof prints and other visible animal passings twists and
+curves here.  At certain points, the black soil of the path is lost under
+the rotting foliage and the trail becomes difficult to follow.  Yellow and
+white wildflowers struggle with grass to grow in the patches of forest floor
+that are fortunate enough to see the light of the sun, their scent drifting
+on the slightest breeze.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 12749
+D1
+~
+~
+~
+0 0 11659
+D2
+~
+~
+~
+0 0 11661
+M 0 H 0
+S
+#11661
+A Forest Clearing~
+Tall grass grows in this small meadow with no discernible path to guide
+travellers.  Golden rod mingles with the grass to add bursts of color to the
+sea of greenery.  Large trees with colorful blossoms surround the edges of
+the small field but do not obstruct natural light from illuminating it.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11660
+M 0 H 0
+S
+#11662
+The Eastern Courtyard~
+The flagstones are fit together snugly, the path winding around a large
+willow tree that bows gracefully here.  The grass grows high and is choked
+in places by weeds, left without care for some time.  To the west, a statue
+overlooking a pond can be seen clearly, though the figure has suffered
+damage.  Eastward, a carriage house and stables can be seen.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 11664
+D2
+~
+~
+~
+0 0 11688
+D3
+~
+~
+~
+0 0 11658
+M 0 H 0
+S
+#11663
+The Western Courtyard~
+The grey flagstones are fit together snugly, the path winding around a
+large willow tree that bows gracefully here.  The grass grows high and is
+choked in places by weeds, left without care for some time.  To the east, an
+eroded statue overlooking a pond can be seen clearly, though the figure has
+suffered damage.  To the west, the flagstone pathway continues to what
+appears to be a greenhouse.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 11658
+D2
+~
+~
+~
+0 0 11687
+D3
+~
+~
+~
+1 0 11685
+M 0 H 0
+S
+#11664
+Outside the Carriage House~
+A red painted wooden building stands to the east.  Over its large double
+doors sits a small pigeon coop, the multiple openings gazing like eyes to
+the west.  A path of broken cobbles divides to the south, to what looks
+to be a large brown barn and to the west a single willow tree growing in a
+courtyard.  A smattering of pigeon mess sits slick and white before the
+double doors.  
+~
+0 0 0
+D1
+~
+~
+~
+1 0 11742
+D2
+~
+~
+~
+0 0 11665
+D3
+~
+~
+~
+0 0 11662
+M 0 H 0
+S
+#11665
+Margate Stables~
+Large peach trees spread their branches far into the air and wide, their
+ripe fruit littering the unkempt grounds.  A large barn that houses the
+stables is to the east, a pasture clearly visible through the open doors of
+the barn.  Grey flagstones, worn from use, lead northward to what seems to
+be a carriage house.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11664
+D1
+~
+~
+~
+0 0 11666
+M 0 H 0
+S
+#11666
+In Margate Stables~
+To both the north and south are stalls where the horses of Margate
+stables are kept.  Looking over the door gives you a glimpse of the feeding
+and water troughs that line the back wall.  The stalls seem large enough for
+a horse to turn around, or at the least large enough for someone to fit in
+the stall with the horse.  To the west is the way to a flagstone pathway and
+to the east leads further into the stable.  
+~
+0 12 0
+D0
+~
+stall~
+~
+1 0 11673
+D1
+~
+~
+~
+0 0 11667
+D2
+~
+stall~
+~
+1 0 11674
+D3
+~
+~
+~
+0 0 11665
+M 0 H 0
+S
+#11667
+Margate Stables~
+Stalls line either side of the stables to house several different breeds
+of equestrian.  Stray pieces of hay are scattered across the dark, earthen
+floor.  Natural light filters into this building via several windows,
+illuminating the stables.  Toward the east end of the building is a large
+door and the tack room to the north.  Nailed above the door leading west
+onto a flagstone walkway is a large silver horseshoe.  
+~
+0 8 0
+D0
+~
+stall~
+~
+1 0 11671
+D1
+~
+~
+~
+0 0 11668
+D2
+~
+stall~
+~
+1 0 11672
+D3
+~
+~
+~
+0 0 11666
+M 0 H 0
+S
+#11668
+Outside the Tack Room~
+A large window is located above the door to the east, allowing natural
+light to lend itself to the room.  There is a bucket left here in the middle
+of the floor that looks and smells as if it is used to gather horse manure. 
+A straw broom has been left leaning against the woodwork between stalls. 
+There is a stall to the south and the tack room is to the north.  Westward
+leads you toward a door with a horseshoe nailed above it.  
+~
+0 12 0
+D0
+~
+~
+~
+0 0 11669
+D1
+~
+~
+~
+0 0 11676
+D3
+~
+~
+~
+0 0 11667
+M 0 H 0
+S
+#11669
+The Tack Room~
+This room is kept on the clean side: the floor is swept and the tack has
+been oiled and polished to shine.  A saw horse carries the weight of
+multiple saddles on the eastern side.  Bits, bridles, and blankets are piled
+or stacked neatly in rows on tables and shelves.  In the back there is a
+ladder leading to the hay loft and to the south is the main hall of the
+stables.  
+~
+0 2097160 0
+D2
+~
+~
+~
+0 0 11668
+D4
+~
+~
+~
+0 0 11675
+M 0 H 0
+S
+#11670
+Petshop Place~
+~
+0 32772 0
+M 0 H 0
+S
+#11671
+A Stall~
+The stall has fresh hay laid down over the dark earth.  A feeding trough
+in the north wall is full of oats and grains while a second trough, situated
+just below, is full of water.  A small tin bucket with sudsy water and a
+scrub brush is in the corner near the stall door to the south, under a small
+stool.  
+~
+0 520 0
+D2
+~
+~
+~
+1 0 11667
+M 0 H 0
+S
+#11672
+A Stall~
+The stall has fresh hay laid down over the dark earth.  A feeding trough
+in the south wall is full of oats and grains while a second trough, situated
+just below, is full of water.  A small tin bucket with sudsy water and a
+scrub brush is in the corner near the stall door to the north, under a small
+stool.  
+~
+0 520 0
+D0
+~
+~
+~
+1 0 11667
+M 0 H 0
+S
+#11673
+A Stall~
+The stall has fresh hay laid down over the dark earth.  A feeding trough
+in the north wall is full of oats and grains while a second trough, situated
+just below, is full of water.  A small tin bucket with sudsy water and a
+scrub brush is in the corner near the stall door to the south, under a small
+stool.  
+~
+0 520 0
+D2
+~
+~
+~
+1 0 11666
+M 0 H 0
+S
+#11674
+A Stall~
+The stall has fresh hay laid down over the dark earth.  A feeding trough
+in the south wall is full of oats and grains while a second trough, situated
+just below, is full of water.  A small tin bucket with sudsy water and a
+scrub brush is in the corner near the stall door to the north, under a small
+stool.  
+~
+0 520 0
+D0
+~
+~
+~
+1 0 11666
+M 0 H 0
+S
+#11675
+The Hay Loft~
+Bales of hay are stacked along the walls, tied up in neat bundles.  A few
+straws escaped here and there and lay over the wooden floor.  A circular
+window located at each end of the loft allows sunlight in during the day for
+the stable hands to work by.  A ladder leads down to the stable's stalls and
+tack room.  
+~
+0 8 0
+D5
+~
+~
+~
+0 0 11669
+M 0 H 0
+S
+#11676
+In the Pasture~
+A small dirt trail leads into a barn to the west.  To the east, the trail
+widens into a bald patch of earth that is surrounded by horse pastures.  A
+wooden fence can be seen, marking the edges of the field and serving as a
+deterrence to the horses.  Hoof prints can be seen in the grass and dirt of
+the floor, leading off in all directions.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11678
+D1
+~
+~
+~
+0 0 11677
+D2
+~
+~
+~
+0 0 11679
+D3
+~
+~
+~
+0 0 11668
+M 0 H 0
+S
+#11677
+The Middle of the Pasture~
+The earth here has been beaten and pounded by the passage of innumerous
+hoofed feet.  Here and there some grass still grows, but it has become
+stunted.  Off in all directions, lush-looking grass can be seem, dotted
+occasionally by the odd bright blossom of some wildflower.  A wooden fence
+constructed out of solid-looking bars surrounds the field.  To the west, a
+large wooden building stands, this structure looks very much like a barn.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11680
+D1
+~
+~
+~
+0 0 11682
+D2
+~
+~
+~
+0 0 11681
+D3
+~
+~
+~
+0 0 11676
+M 0 H 0
+S
+#11678
+By the Barn~
+Grass grows beside the fencing to the north with a smattering of bright
+colored wildflowers clearly visible.  To the south a large barn-like
+building has been constructed.  A window set close to its roof is visible
+from this distance.  To both the south and east more pasture can be seen,
+stretching away.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 11680
+D2
+~
+~
+~
+0 0 11676
+M 0 H 0
+S
+#11679
+By the Barn~
+A large trough is beside of the barn to the west, filled with somewhat
+dirty-looking water.  An empty bucket is situated next to a water pump that
+is nearby.  Grass grows wildly beside the corral's fence to the south with a
+smattering of bright wildflowers.  Toward the middle of the field, the grass
+grows thinner and thinner until it becomes a hoof-scarred mass of dirt.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11676
+D1
+~
+~
+~
+0 0 11681
+M 0 H 0
+S
+#11680
+In the Field~
+Flowers dot this meadow, their bright cheery colors and soft scents being
+pleasant enough.  The occasional sound of some unseen insect drifts up from
+the grass.  Off to the west, a large wooden structure stands, while all
+around the field a four-bar wooden fence has been set.  Here and there the
+earth is scored by hoof prints, the damage to the earth becoming more
+extreme closer to the middle of the field.  Movement further to the north is
+blocked by the fence.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 11683
+D2
+~
+~
+~
+0 0 11677
+D3
+~
+~
+~
+0 0 11678
+M 0 H 0
+S
+#11681
+The Pasture~
+A carpet of cropped green grass stretches from the corral fence at the
+south to the trampled soil at the middle of the field.  Many different kinds
+of flowers are mixed in with the grass, breaking the greenery with bursts of
+bright colors.  Off to the west is a large building that looks very much
+like a barn.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11677
+D1
+~
+~
+~
+0 0 11684
+D3
+~
+~
+~
+0 0 11679
+M 0 H 0
+S
+#11682
+A Rise in the Meadow~
+A slight rise in this mostly flat pasture gives a slightly better vantage
+point from of the field.  Allowing a clear view of the barn-like building to
+the west.  The center of this field has been worn down to bare earth by the
+passage of numerous hoofed feet.  Enclosing this area is a four-barred
+wooden fence which the grass grows in long blades beside.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11683
+D2
+~
+~
+~
+0 0 11684
+D3
+~
+~
+~
+0 0 11677
+M 0 H 0
+S
+#11683
+Within the Field~
+The grass of this meadow has been kept short except for close to the
+surrounding four-barred wooden fence.  Small flowers bloom within the field,
+there colors ranging dramatically from white to a deep purple.  A barn-like
+structure can be seen off to the west looking large and imposing from this
+distance.  The center of the meadow has become rutted and worn, being little
+more than packed earth now.  The fence is fairly close to the east and
+north.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 11682
+D3
+~
+~
+~
+0 0 11680
+M 0 H 0
+S
+#11684
+In the Field~
+Flowers dot this meadow, their bright cheery colors and soft scents being
+pleasant enough.  The occasional sound of some unseen insect drifts up from
+the grass.  Off to the west, a large wooden structure stands, while all
+around the field a four-bar wooden fence has been set.  Here and there the
+earth is scored by hoof prints, the damage to the earth becoming more
+extreme closer to the middle of the field.  The fence forms its barrier not
+far off to the east and south.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11682
+D3
+~
+~
+~
+0 0 11681
+M 0 H 0
+S
+#11685
+Ophelia's Flowers~
+Large cases with racks full of fresh flowers are constructed along the
+walls behind the counter.  The bottoms of the cases are lined with trays of
+ice, causing condensation to gather over the glass panels and on the plant
+cuttings kept inside.  A counter spans the width of the room, leaving a
+small waiting space for customers.  To the west, there is a tapestry
+depicting lilies and other flowers on a rich green background.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 11663
+D3
+~
+tapestry~
+~
+1 0 11686
+M 0 H 0
+S
+#11686
+The Greenhouse~
+Crates holding flower pots hang from the ceiling, some of them
+overflowing with ivy.  Walkways wind around the trees that have been planted
+along the walls and in the center of the greenhouse, flowers growing up to
+their roots in a display of vivid color.  A glance to the east provides a
+view of a wall painted with murals of birds and a tapestry.  
+~
+0 8 0
+D1
+~
+tapestry~
+~
+1 0 11685
+M 0 H 0
+S
+#11687
+A Flagstone Walk~
+Grey flagstones fit together to create this walkway that curves around
+the front garden.  Long grass grows between the stones, a poignant reminder
+that the grounds are unkempt.  Dried leaves are scattered over the walkway,
+their brittle existence crushed at the slightest passage.  A mansion can be
+seen to the south, rising to a height of three stories.  Steps leading up to
+the mansion can be found to the east.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11663
+D1
+~
+~
+~
+0 0 11689
+M 0 H 0
+S
+#11688
+A Flagstone Walk~
+Grey flagstones fit together to create this walkway that curves around
+the front garden to the west, where there are steps leading up to an
+impressive mansion that is well over three stories in height.  Emerald green
+grass grows between the stones, a harsh reminder that the grounds are
+untended in addition to the dried leaves are scattered over the walkway,
+their brittle existence crushed at the slightest passage.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11662
+D3
+~
+~
+~
+0 0 11689
+M 0 H 0
+S
+#11689
+Before Margate Mansion~
+The circular path of grey flagstone widens here, stretching southward to
+the steps of a large mansion.  Stone steps lead up to a wide veranda,
+serving as a prelude to the mansion proper, complete with iron scrollwork
+and a swing for any who would care to lounge.  Emblazoned on the weathered
+wooden door is the Margate coat of arms, still proudly displayed and somehow
+in tact.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 11688
+D2
+~
+~
+~
+0 0 11690
+D3
+~
+~
+~
+0 0 11687
+M 0 H 0
+S
+#11690
+The Veranda~
+Hanging from heavy iron chains is a wooden swing, painted pearly white
+and waiting to be used.  Black iron has been fashioned into elegant
+scrollwork, surrounding the planks of this porch, which have been stained a
+dark color.  A flagstone path can be plainly seen to the south, the stones
+fitted together with care.  Several potted plants hang from hooks set into
+the ceiling, adding a burst of color to the white and wooden decor.  The
+entrance of this building is to the south, the wooden door emblazoned with
+the Margate coat of arms.  
+~
+0 0 0
+E
+coat of arms~
+The coat of arms of Margate consists of a recumbant ores lion on an azure
+field.  In the lion's mouth is a black rose.  
+~
+D0
+~
+~
+~
+0 0 11689
+D2
+~
+~
+~
+4 11682 11691
+M 0 H 0
+S
+#11691
+The Foyer~
+A strip of dark blue carpet covers the floor space from the mansion door
+at the north to the steps to the south.  Globes of magic float in the eaves
+of a balcony that spans the entire second floor and allows a view of the
+foyer.  There are two doors made from dark oaken panels, one located
+eastward and the other to the west.  
+~
+0 8200 0
+D0
+~
+~
+~
+4 11682 11690
+D1
+~
+~
+~
+1 0 11694
+D2
+~
+~
+~
+0 0 11692
+D3
+~
+~
+~
+1 0 11695
+M 0 H 0
+S
+#11692
+Margate's Foyer~
+A dark blue carpet runs in a strip from the entrance of the mansion at
+the north to the grand staircase to the south, continuing up the curving
+stair.  A dark oak door is set into the eastern wall of the foyer, accented
+with a brass handle that glints.  Magical globes of light are attached to
+the eaves of a balcony that seems to stretch around the entire second floor,
+affording a view of the entrance hall from above.  
+~
+0 8200 0
+D0
+~
+~
+~
+0 0 11691
+D1
+~
+~
+~
+1 0 11696
+D2
+~
+~
+~
+0 0 11693
+M 0 H 0
+S
+#11693
+A Grand Staircase~
+A sweeping staircase tapers upwards here, each side lined with polished
+banisters of the finest mahogany ending with newels carved into giant
+acorns.  At the landing of these stairs, a statue flanked by twin glinting
+suits of armor can be seen.  Doors crafted and paneled from dark oak have
+been set into the east and west walls, their handles glinting dully.  To the
+north, what would appear to be the foyer can be seen, while overhead, the
+staircase divides into two and can be seen leading to a balcony that
+stretches around the second floor.  
+~
+0 8200 0
+D0
+~
+~
+~
+0 0 11692
+D1
+~
+~
+~
+1 0 11698
+D3
+~
+~
+~
+1 0 11697
+D4
+~
+~
+~
+0 0 11701
+M 0 H 0
+S
+#11694
+The Game Room~
+Heads of various exotic animals line the walls of this chamber, mounted
+to wooden plaques stained in a deep red-brown color.  Display cases with
+glass tops are near the middle of the room, arranged around each other,
+revealing hunting knives, animal teeth, pelts, hides, and similar objects of
+note.  One wall has a cupboard holding a well-crafted bow and a shining
+silver arrow.  There is a wooden door leading to the west.  
+~
+0 8200 0
+D0
+~
+~
+~
+1 0 11696
+D3
+~
+~
+~
+1 0 11691
+M 0 H 0
+S
+#11695
+The Dining Hall~
+Several large wooden tables with glass panels set into its surface have
+been arranged around the room, surrounded by high-backed chairs, all made of
+a dark stained wood.  This room could seat a great number of people with
+ease.  Centerpieces made of arrangements of flowers and wooden carvings have
+been tastefully placed at regular intervals across the long table tops.  A
+set of swinging doors leads southward to the kitchens and a wooden door to
+the east leads to the hallway.  Twin artful glass doors stand to the west,
+permitting movement into the gardens.  
+~
+0 8200 0
+D1
+~
+~
+~
+1 0 11691
+D2
+~
+~
+~
+1 0 11697
+D3
+~
+~
+~
+1 0 11758
+M 0 H 0
+S
+#11696
+The Parlor~
+Lush velvet chairs and couches are placed strategically around the
+parlor, leaving the seating so that all those present may sit and speak
+face-to-face.  Small, low tables are arranged in front of the couches while
+the chairs are interspersed with squares of counter space between them.  The
+rug has a knot-work pattern, silver weaving through the black, with borders
+in a matching color.  Several lamps hang from the ceiling, ready to shed
+light in the event of there being a lack of it.  Black velvet drapes are
+drawn over the windows, the silver sashes that hold them untied.  
+~
+0 8200 0
+D2
+~
+~
+~
+1 0 11694
+D3
+~
+~
+~
+1 0 11692
+M 0 H 0
+S
+#11697
+The Kitchen~
+Cabinets line the upper half of the walls, painted in a pearlescent white
+and trimmed in black.  Several counters run along the walls, parallel to the
+cabinets.  Clay ovens are situated in the western wall while the empty space
+on either side have racks for cooling food stuffs.  A fire pit takes up the
+rest of the western wall, the ashes that line the basin long since dead and
+cold.  An open doorway leads to a pantry to the south while a set of
+swinging doors leads to the dining hall to the north.  A plain, narrow
+staircase leads upwards, the steps small and steep.  
+~
+0 8200 0
+D0
+~
+~
+~
+1 0 11695
+D1
+~
+~
+~
+1 0 11693
+D2
+~
+~
+~
+0 0 11700
+D4
+~
+~
+~
+0 0 11724
+M 0 H 0
+S
+#11698
+The Ballroom~
+The solid wooden floors have been polished to a shine, reflecting your
+image with little distortion.  Chairs line the walls and a long table that
+must have been used to dispense refreshments has been situated near the
+door.  A platform that once held an orchestra is along the southern side of
+the room, a fine film of dust covering its surface.  A large crystal
+chandelier hangs from the ceiling, fragmenting all the light that shines
+through it.  
+~
+0 8200 0
+D2
+~
+~
+~
+1 0 11699
+D3
+~
+~
+~
+1 0 11693
+M 0 H 0
+S
+#11699
+A Store Room~
+Instruments covered in a film of dust have been hung off wooden pegs or
+rest upon intricate shelving designed to keep them safe.  Chairs have been
+stacked neatly and music stands are crowded in the rear of the room.  A
+small cabinet without doors is located near the southern wall, sheets of
+what seem to be music on the shelves.  
+~
+0 8200 0
+D0
+~
+~
+~
+1 0 11698
+M 0 H 0
+S
+#11700
+A Pantry~
+Wooden shelves line each wall, holding boxes full that have long since
+been emptied.  Spider webs stretch between several of the shelves, old and
+dusty.  A ladder has been set against the eastern set of shelves so that one
+may reach the top shelf, and the racks for drying herbs, with ease.  Old
+wooden crates and bins have been arranged around the floor of the pantry to
+make use of all the available space, excluding a trap door that has been set
+into the floor.  
+~
+0 8200 0
+D0
+~
+~
+~
+0 0 11697
+D5
+~
+~
+~
+1 0 11736
+M 0 H 0
+S
+#11701
+The Landing~
+Dark blue carpet runs from the foyer's entrance from the north and
+continues up each staircase that leads to the second floor.  A large marble
+statue is positioned in the center, against the wall, dwarfing the two
+antiquated suits of armor that flank it.  Several doors can be seen leading
+away from the foyer to the north while the stair case itself curves to wind
+upwards to the east and west, heading toward a balcony that overlooks the
+foyer.  
+~
+0 8200 0
+E
+antiquated suit of armor~
+Even through the layer of dust, one can see elegant etchings in the
+surface of this outdated armor.  The armor is about five feet in height and
+stands stiffly in place.  
+~
+E
+marble statue~
+Ringlets of hair cascade down the naked back of this statue of a woman. 
+Amongst the folds of the shift that the marble idol clutches tightly, a rose
+in full bloom can be seen.  Her visible foot is resting upon a box inscribed
+with the word: Hope.  
+~
+D1
+~
+~
+~
+0 0 11702
+D3
+~
+~
+~
+0 0 11703
+D5
+~
+~
+~
+0 0 11693
+M 0 H 0
+S
+#11702
+The Eastern Stairs~
+Steps carpeted in dark blue curve elegantly from the expansive landing to
+the west up to the second floor's balcony.  A banister crafted from mahogany
+curves with the stair along the edge, providing a sturdy support.  Carved
+into the face of the wood is a swirling design of leaves that must have once
+been polished, though it is now covered with dust.  
+~
+0 8200 0
+D3
+~
+~
+~
+0 0 11701
+D4
+~
+~
+~
+0 0 11704
+M 0 H 0
+S
+#11703
+The Western Stairs~
+Steps carpeted in dark blue curve majestically from the immense landing
+to the east up to a balcony on the second floor.  A banister crafted from
+mahogany curves with the stair along its edge, providing a sturdy support. 
+Carved into the face of the wood is a delicate swirling design of leaves
+that must have once been polished, though it is now covered with dust.  
+~
+0 8200 0
+D1
+~
+~
+~
+0 0 11701
+D4
+~
+~
+~
+0 0 11705
+M 0 H 0
+S
+#11704
+The Eastern Stair~
+A strip of deep blue carpet can be seen in the middle of the hallway,
+stretching northward and down the elegant staircase.  A sturdy banister made
+of mahogany provides a protective barrier on the western side of the balcony
+that overlooks the foyer, the dark wood that was once polished to a shine
+sporting a fine film of dust.  The wall of the hallway has been painted to
+look like a forest, covering the doors so that you can only discern the
+paneled wood that is to the east.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 11706
+D1
+~
+~
+~
+1 0 11720
+D2
+~
+~
+~
+1 0 11721
+D5
+~
+~
+~
+0 0 11702
+M 0 H 0
+S
+#11705
+The Western Stair~
+The wall of the hallway has been painted to look like a forest, covering
+the doors so that you can only discern the paneled wood that is to the west.
+A strip of deep blue carpet can be seen in the middle of the hallway,
+stretching northward and down the elegant staircase.  The sturdy banister
+made of mahogany provides a protective barrier on the western side of the
+balcony that overlooks the foyer, the dark wood that was once polished to a
+shine showing a coating of dust and grime.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 11710
+D2
+~
+~
+~
+1 0 11723
+D3
+~
+~
+~
+1 0 11722
+D5
+~
+~
+~
+0 0 11703
+M 0 H 0
+S
+#11706
+The Eastern Balcony~
+A large banister crafted of oak, stained with dirt and dust from time,
+creates a barrier between the balcony and the foyer below.  The eastern wall
+has been painted to resemble woodland growth with various trees of different
+colors.  The doors are also painted over and only a hint of the paneling
+reveals that there is a door eastward.  A narrow carpet of deep blue
+stretches along the hall.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 11707
+D1
+~
+~
+~
+1 0 11719
+D2
+~
+~
+~
+0 0 11704
+M 0 H 0
+S
+#11707
+The Eastern Balcony~
+The balcony covers the entire second floor, curving around the northern
+side of the mansion and offering a view of the other side of the balcony in
+addition to the entrance hall.  A thick mahogany banister that was once
+polished provides an obstruction between the balcony and the foyer and is
+darkened by time and grime.  The walls are painted to resemble a woodland
+area, the door to the east nearly masked entirely.  From this vantage point,
+the grand staircase and its statue, situated at the south end of the
+building, can be clearly seen.  It's covered in carpet identical to that of
+this balcony.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 11708
+D1
+~
+~
+~
+1 0 11718
+D2
+~
+~
+~
+0 0 11706
+M 0 H 0
+S
+#11708
+The Eastern Balcony~
+A sturdy-looking mahogany banister curves to the west, following the
+shape of this balcony that overlooks the foyer and a grand staircase to the
+south.  To the west, a wooden bench can be found in front of doors made of
+wood and glass that lead northward.  The wall has been painted to depict
+wooded land, the art covering the door so that you can only faintly see its
+outline to the east.  A blue carpet runs through the middle of the floor,
+appearing to be the same as that in the foyer and on the stairs.  
+~
+0 0 0
+D1
+~
+~
+~
+1 0 11717
+D2
+~
+~
+~
+0 0 11707
+D3
+~
+~
+~
+0 0 11709
+M 0 H 0
+S
+#11709
+Overlooking the Foyer~
+A bench made of cherry wood and large enough to seat five persons rests
+with its back against the balcony's railing.  Directly south is the grand
+stair leading up to the second floor, covered in the same deep blue
+carpeting as the balcony.  The walls of the second floor have been painted
+to seem like the wild woods, only to be broken by doors of wood and glass to
+the north.  Lacy curtains cover the doors, muting the natural light that
+enters.  The doors seem to lead to an outdoor balcony.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 11716
+D1
+~
+~
+~
+0 0 11708
+D3
+~
+~
+~
+0 0 11712
+M 0 H 0
+S
+#11710
+The Western Balcony~
+A large banister crafted of oak, stained with dirt and dust from time,
+creates a barrier between the balcony and the foyer below.  The western wall
+has been painted to resemble woodland growth with various trees of different
+colors.  The doors are also painted over and only a hint of the paneling
+reveals that there is a door westward.  A narrow carpet of deep blue
+stretches along the hall.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 11711
+D2
+~
+~
+~
+0 0 11705
+D3
+~
+~
+~
+1 0 11713
+M 0 H 0
+S
+#11711
+The Western Balcony~
+The balcony covers the entire second floor, curving around the northern
+side of the mansion and offering a view of the other side of the balcony in
+addition to the entrance hall.  A thick mahogany banister that was once
+polished provides an obstruction between the balcony and the foyer and is
+darkened by time and grime.  The walls are painted to resemble a woodland
+area, the door to the west nearly masked entirely.  From this vantage point,
+the grand staircase and its statue, situated at the south end of the
+building, can be clearly seen.  It's covered in carpet identical to that of
+this balcony.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 11712
+D2
+~
+~
+~
+0 0 11710
+D3
+~
+~
+~
+1 0 11714
+M 0 H 0
+S
+#11712
+The Western Balcony~
+A sturdy-looking mahogany banister curves to the east, following the
+shape of this balcony that overlooks the foyer and a grand staircase to the
+south.  To the east, a wooden bench can be found in front of doors made of
+wood and glass that lead northward.  The wall has been painted to show a
+section of wooded land, the art covering the door so that you can only
+faintly see its outline to the west.  A blue carpet runs through the middle
+of the floor, appearing to be the same as that in the foyer and on the
+stairs.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 11709
+D2
+~
+~
+~
+0 0 11711
+D3
+~
+~
+~
+0 0 11715
+M 0 H 0
+S
+#11713
+A Guest Bedroom~
+A modest-sized bed covered in green and white silks dominates the
+northern side of this room.  Curtains that match the bed clothes have been
+drawn shut over the windows.  The wardrobe set into the eastern wall is
+painted a pearlescent white paint to match the walls.  Candelabras are fixed
+into the wall, shedding light into the chamber whenever needed.  A door
+leads to the east.  
+~
+0 8200 0
+D1
+~
+~
+~
+1 0 11710
+M 0 H 0
+S
+#11714
+The Powder Room~
+Marble tiles of white and rose interlock to form the floor of this
+chamber.  A large, white ceramic bath of an oval shape is set into the
+floor, the bottom gently sloping to a drain.  A ledge for sitting has been
+constructed halfway between the top of the bath and the bottom, offering a
+resting place for any lounging bather.  The northern wall is covered
+completely by a mirror, reflecting candle light into the rest of the room. 
+A long rack graces the southern wall, bearing several soft-looking rose
+towels, beside which a white ceramic toilet has been placed, alongside a
+generously sized sink.  
+~
+0 8200 0
+D1
+~
+~
+~
+1 0 11711
+M 0 H 0
+S
+#11715
+A Bedroom~
+A rather large four-poster bed is positioned in the middle of the
+carpeted floor, draped in fine silks and satins of the color of obsidian and
+pearly white.  Velvet curtains of a fine black grace the windows, drawn to
+keep light from the outside world from reaching the depths of this chamber. 
+Instead, candelabras on stands of a silver color are placed in strategic
+spots in the room, casting a soft glow over its contents.  A large wardrobe,
+painted to match the white walls of the chamber, is set into the western
+wall.  There is a door to the east.  
+~
+0 8200 0
+D1
+~
+~
+~
+1 0 11712
+M 0 H 0
+S
+#11716
+The Balcony over the Courtyard~
+Elegant, scrolling black ironwork creates a sturdy railing around the
+perimeter of this rectangular balcony.  A small garden can be clearly seen
+below, the contents growing wildly around a pond and a weathered statue. 
+Several willow trees grow in the courtyard below and a greenhouse is visible
+from here.  The gates to the premises can be seen, drawn shut and overgrown
+with ivy.  Beyond the gate is a cobbled road that leads northward.  The
+double doors to the house are set into the southern wall, made of dark wood
+with rectangular glass panels that span nearly the entire length of the
+door.  Lacy curtains can be seen on the other side of the doorway, obscuring
+your view of what lies inside.  A roof has been constructed overhead and is
+supported by pillars at the corners of the balcony.  Wind chimes dangle from
+one of the cross-beams, twinkling pleasantly in even the gentlest breeze.  
+~
+0 0 0
+D2
+~
+~
+~
+1 0 11709
+M 0 H 0
+S
+#11717
+A Bedroom~
+A rather large four-poster bed is positioned in the middle of the
+carpeted floor, draped in fine silks and satins of the color of pink and
+pearly white.  Velvet curtains of a fine, deep pink grace the windows, drawn
+to keep light from the outside world from reaching the depths of this
+chamber.  Instead, candelabras on stands of a silver color are placed in
+strategic spots in the room, casting a soft glow over its contents.  A large
+wardrobe, painted to match the white walls of the chamber, is set into the
+eastern wall.  There is a door to the west.  
+~
+0 8200 0
+D3
+~
+~
+~
+1 0 11708
+M 0 H 0
+S
+#11718
+A Spacious Bath~
+Marble tiles of white and black interlock to form the floor of this
+bathroom.  A large, white ceramic bath of an oval shape is set into the
+floor, the bottom gently sloping to a drain.  A ledge for sitting has been
+constructed halfway between the top of the bath and the bottom, offering a
+resting place for any lounging bather.  The northern wall is covered
+completely by a mirror, reflecting candle light into the rest of the room. 
+A long rack graces the southern wall, bearing several soft-looking white
+towels, beside which a white ceramic toilet has been placed, alongside a
+generously sized sink.  
+~
+0 8200 0
+D3
+~
+~
+~
+1 0 11707
+M 0 H 0
+S
+#11719
+A Guest Bedroom~
+A modest-sized bed covered in green and white silks dominates the
+northern side of this room.  Curtains that match the finery of the beds have
+been drawn shut over the windows.  The wardrobe set into the western wall is
+painted a pearlescent white paint to match the walls.  Candelabras are fixed
+into the wall, shedding light into the chamber whenever needed.  A door
+leads to the west.  
+~
+0 8200 0
+D3
+~
+~
+~
+1 0 11706
+M 0 H 0
+S
+#11720
+The Nursery~
+A small cabinet and changing table stands against the western-most wall,
+within easy reach of the large pink velvet-lined crib situated in the center
+of the chamber.  Over this crib, there is a mobile attached, spinning
+smiling suns and moons constantly about.  Located in the north-eastern
+corner of the room is a small neat looking bed, covered in bleached cotton
+sheets.  The air holds a hint of perfumed talc.  
+~
+0 8200 0
+D3
+~
+~
+~
+1 0 11704
+M 0 H 0
+S
+#11721
+A Spiralling Stair~
+Wooden steps made of thick wooden planks have been embedded into the
+walls in a spiral, curving around the circular chamber to lead upward. 
+Small rectangular windows have been set into the wall, all of which are the
+same size and spaced an even foot from the corresponding stair.  The glass
+in the windows has been beveled so that when sunlight filters through, it
+breaks into a prismatic array and bathes the stairwell in rainbow hues.  
+~
+0 8200 0
+D0
+~
+~
+~
+1 0 11704
+D4
+~
+~
+~
+0 0 11725
+M 0 H 0
+S
+#11722
+The Study~
+All four walls of this room are lined with books and tomes, their
+varied-colored covers forming a bizarre tapestry of sorts.  Against the
+northwestern shelving, a set of steps have been set with wheels attached to
+the bottom to make their movement easier around this chamber.  Thick, dark
+red carpet covers the floor running flush to the book cases.  Intricately
+woven rugs lay in front of several of the overstuffed red leather arm chairs
+that have been placed around this area.  Next to each, a small table is set
+for leaving texts on.  Upon these side tables, paraffin lamps that are
+topped with ornate glass shades, have been placed.  
+~
+0 8200 0
+D1
+~
+~
+~
+1 0 11705
+M 0 H 0
+S
+#11723
+A Spiralling Stair~
+Wooden steps made of thick wooden planks have been embedded into the
+walls in a spiral, curving around the circular chamber to lead upward. 
+Small rectangular windows have been set into the wall, all of which are the
+same size and spaced an even foot from the corresponding stair.  The glass
+in the windows has been beveled so that when sunlight filters through, it
+breaks into a prismatic array and bathes the stairwell in rainbow hues.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 11705
+D4
+~
+~
+~
+1 0 11726
+M 0 H 0
+S
+#11724
+The Servants' Stair~
+A short grey hall runs north from here, broken only by plain cream
+painted wooden doors set into the eastern and western walls.  Bare wooden
+boards line the floor, showing faint signs of wear from the passage of
+countless feet.  A set of stairs can be seen leading down from here to what
+appears to be the kitchen.  
+~
+0 8200 0
+D0
+~
+~
+~
+0 0 11730
+D1
+~
+~
+~
+1 0 11728
+D3
+~
+~
+~
+1 0 11729
+D5
+~
+~
+~
+0 0 11697
+M 0 H 0
+S
+#11725
+The Studio~
+An easel set with a canvas stands toward the center of the room.  A small
+table, holding cups of water and other art utensils, has been placed
+directly beside the easel.  Within easy viewing distance, there are a few
+pieces of plush dark velvet furniture arranged neatly.  The walls and
+ceiling have been designed of glass, permitting a fine view of the natural
+landscape, the gardens below, and the admittance of natural light.  
+~
+0 8204 0
+D5
+~
+~
+~
+0 0 11721
+M 0 H 0
+S
+#11726
+The Master Bedroom~
+A large bed has been placed in the middle of a soft carpet that looks
+much like sea water when illuminated.  The bed is round and approximately
+eight feet in diameter, draped in velvets and other fine cloth.  Black
+velvet curtains have been drawn over the southern curve of the wall,
+preventing light from the outside world entering.  A wardrobe is embedded
+into the northern curved wall of the chamber.  Hanging from the ceiling is a
+black cord decorated with silver crescent moons and stars.  At the end of
+the cord is a large silver and amethyst charm.  There are steps that lead
+down through a trap door.  
+~
+0 8204 0
+D4
+~
+~
+~
+1 0 11727
+D5
+~
+~
+~
+1 0 11723
+M 0 H 0
+S
+#11727
+The Top of a Tower~
+Windows stretch from the ceiling to the floor along the walls of this
+round room, the glass beveled to create a pleasing design.  By means unseen,
+various glass knickknacks hang from the ceiling, complimenting the shelves
+and tables filled with more glass ornaments.  Each piece is unique, whether
+it be by color or design.  They are spaced evenly and their appearance
+changes as the windows break the natural light into prisms of color.  The
+outline of a square panel is visible in the dark wooden of the floor, a trap
+door which you can leave by.  
+~
+0 8200 0
+D5
+~
+~
+~
+1 0 11726
+M 0 H 0
+S
+#11728
+The Servants' Chamber~
+A thin coating of dust hugs the contents of this room, swirling and
+eddying in the air to the least movement.  Twelve beds have been placed
+here, six against each the north and south walls, their covers left in some
+disorder and pillows squashed under the dust.  A small window is set into
+the eastern wall, also covered in grime, mostly from the outside by the
+looks of it.  A set of men's boots can just be seen poking out form under
+the closest bed.  A cream painted door stands to the west.  
+~
+0 8200 0
+D3
+~
+~
+~
+1 0 11724
+M 0 H 0
+S
+#11729
+The Servants' Chamber~
+A thin coating of dust covers the contents of this room, disturbed so
+that it floats in the air to the smallest of movements.  Twelve beds have
+been placed here, six against each the northern and southern walls, there
+covers turned back neatly and the pillows plumped, despite their rich
+coating of dust.  A small window is set into the west wall, covered in
+grime, mostly from the outside by the looks of it.  Over the cream painted
+door to the east there is a small painting of some flowers in a vase that
+still hangs, the picture just visible under its coating.  
+~
+0 8200 0
+D1
+~
+~
+~
+1 0 11724
+M 0 H 0
+S
+#11730
+The Servants' Hall~
+Two doors stand facing each other here, the one of the west wall standing
+has a picture of a jug on it while the one placed in the east wall bears a
+small plaque upon it in brass.  The doors are of a wood that was long ago
+polished to a fine shine, though this has been darkened and lost somewhat by
+time.  To the east a cream painted wooden door is has been placed.  Other
+than the doors and wear to the floor, this hallway is empty.  
+~
+0 8200 0
+E
+plaque~
+The words "Knock and wait."  Have been inscribed upon the tarnished metal.  
+~
+D0
+~
+~
+~
+0 0 11733
+D1
+~
+~
+~
+1 0 11731
+D2
+~
+~
+~
+0 0 11724
+D3
+~
+~
+~
+0 0 11732
+M 0 H 0
+S
+#11731
+The Butler's Chamber~
+A single well stuffed bed sits against the eastern wall of this chamber,
+upon which a thick set of covers can be found, coated with dust.  Next to
+the bed, a small night stand has been placed that also bears a thick coating
+of dust that covers everything on the table, including a book that was left
+open upon it.  Set against the north wall and facing the bed is a wardrobe. 
+Its double doors have been left open, showing its empty interior.  A
+standing lamp cloaked with dust is located next to the door to the west, its
+blue shade faded by time to near white in places.  
+~
+0 8200 0
+D3
+~
+~
+~
+1 0 11730
+M 0 H 0
+S
+#11732
+The Servants' Bath~
+White tiles cover the floor of this room, several of which are chipped
+and cracked.  Against the northern wall two large copper bathtubs stand,
+their outsides tarnished green and the enamel on the inner side flaking in
+places.  Over by the south-most wall stands two wash basins made from white
+porcelain.  Above these are two mirrors, the one on the western side cracked
+and reflecting back a crazed image of this room.  To the east, a door stands
+jammed open.  
+~
+0 8200 0
+D1
+~
+~
+~
+0 0 11730
+M 0 H 0
+S
+#11733
+The Servants' Hall~
+The northern wall of this grey hallway ends in a very sound-looking wall,
+devoid of any form of ornamentation.  To the east and west, two cream
+painted doors stand facing each other over the bare and worn floorboards of
+this hall.  Upon the western door a small plaque bearing the image of a pair
+of scissors can be seen, while the eastern door has been left painted cream
+without any device.  The hallway stretches away to the south.  
+~
+0 8200 0
+D1
+~
+~
+~
+1 0 11734
+D2
+~
+~
+~
+0 0 11730
+D3
+~
+~
+~
+1 0 11735
+M 0 H 0
+S
+#11734
+The Servants' Quarters~
+Ten simple wooden framed cots take up most of the floor space of this
+chamber.  Five lining the north and south walls, the plain headboards set
+neatly against the walls.  At the foot of each bed sits a simple wooden
+chest, most of which are open and empty.  A thin layer of dust covers
+everything, rising up in gentle clouds to the slightest movement.  High in
+the eastern wall is a single window, covered in grime and dust.  
+~
+0 8200 0
+D3
+~
+~
+~
+1 0 11733
+M 0 H 0
+S
+#11735
+The Sewing Room~
+A large wooden loom dominates the floor of this room, flanked by several
+wooden spinning wheels.  Baskets of unspun cotton sit beside the spinning
+wheels, layered in dust.  Several balls of thread with varying thicknesses
+have been separated by color near the loom.  Windows have been set into the
+northern wall and a skylight in the ceiling to allow plenty of natural light
+into the room.  One of the windows opens to a large outcropping that serves
+as a roof to the balcony below.  A wooden door has been set into the eastern
+wall, providing a means of exit.  
+~
+0 8200 0
+D1
+~
+~
+~
+1 0 11733
+M 0 H 0
+S
+#11736
+A Storage Cellar~
+Cobweb-clothed crates and rotting sacks litter this dust-filled chamber.
+Apples laid down for winter usage have turned to nothing but mush in their
+wooden racks.  The smell of decay taints the air, pungent and strong from
+wasted food stuffs.  An iron ladder leads upwards, the rungs rusted in
+places, while along side this a pulley hangs down, the rope long since gone.
+To the north, another area of cellar can be reached by weaving through the
+long unused cases and bags.  There is also an open doorway leading westward.
+~
+0 8200 0
+D0
+~
+~
+~
+0 0 11737
+D3
+~
+~
+~
+0 0 11740
+D4
+~
+~
+~
+1 0 11700
+M 0 H 0
+S
+#11737
+The Wine Cellar~
+The north, west and east walls of this cool chamber are all lined with
+racks.  Placed carefully into the racks are numerous bottles, each dust
+cloaked and cobweb covered.  The pungent odor of vinegar rises from the
+cobbled floor, a clear sign one of more bottles has blown its cork, further
+evidenced by a small pool of this substance that can easily be seen.  To the
+south, the main cellar stretches away.  
+~
+0 8200 0
+E
+racks wine~
+Each of the three massive racks has been filled with bottles of wine long
+ago.  The contents have long since turned to vinegar, in some cases.  Each
+of the three racks is covered in dust and cobwebs, making examination of the
+bottles difficult.  Added to this, the eastern rack seems unstable.  
+~
+E
+racks~
+~
+E
+racks~
+~
+D1
+~
+rack~
+~
+1 0 11738
+D2
+~
+~
+~
+0 0 11736
+M 0 H 0
+S
+#11738
+A Torture Chamber~
+A large wooden rack dominates the decor of this room.  A glance around
+reveals an array of hooks emerging from the ceiling and walls in an orderly
+fashion with thongs of leather looped through some.  Whips and chains are
+draped from several other hooks, while others are bare and awaiting a use. 
+Several pairs of shackles line the southern wall, polished to a shine and
+nestled amongst the jagged edges of the rock.  
+~
+0 8200 0
+D0
+~
+~
+~
+0 0 11739
+D3
+~
+~
+~
+1 0 11737
+M 0 H 0
+S
+#11739
+The Domme's Room~
+The walls are made of jagged, black rock and are barely visible in the
+dim light.  An exotic throw-rug graces the floor, stretching out in front of
+the four-poster that dominates the north-eastern corner of the room.  To the
+side of the bed is a mannequin, draped in clothing and utensils of pain.  A
+fireplace has been crafted from the eastern wall.  A large oval mirror is
+set into the western wall, reflecting what little light there is available. 
+~
+0 8200 0
+E
+fireplace~
+A grand fireplace has been crafted here, large enough to hold a round of
+even the largest tree.  Over the top of this fireplace, a mantle of dark
+stained timber rests, upon which a twin set of three branched candlesticks
+have been placed.  
+~
+E
+mirror~
+The flat surface of the mirror shimmers faintly, reflecting more light
+into the dimly lit room.  The mirror itself is embedded into the chamber,
+taking up the entire vertical length of the wall and spanning well over four
+feet at the middle.  
+~
+E
+mannequin~
+The mannequin is a headless and armless torso positioned on an iron rod
+with hooks and knobs.  Draped over the various hooks and knobs are different
+items of clothing, a wicked whip, and other instruments that you can't even
+begin to guess the uses for.  
+~
+E
+throw rug~
+A large red fur rug stretches across the floor in front of the large bed.
+Black stripes reach across the length of the rug, the long fur of it warm
+and inviting.  
+~
+D2
+~
+~
+~
+0 0 11738
+M 0 H 0
+S
+#11740
+The Laundry Room~
+This room is filled with massive copper pots, turned green with time and
+moisture.  Next to the coppers are large wooden dolly tubs with the punches
+sitting in them.  Wicker baskets sit next to mangles, the wringers stained
+and long disused.  Close horses lay against the southern wall, also showing
+signs of age.  What once must have been a mighty shove for heating water is
+now little more than a corroded lump.  Over next the north wall are ironing
+boards, bowed and bend under their weight, and heavy, rusted irons. 
+Eastward, a cluttered chamber can be seen.  
+~
+0 8200 0
+D1
+~
+~
+~
+0 0 11736
+D4
+~
+cellar door~
+~
+1 0 11741
+M 0 H 0
+S
+#11741
+The Cellar Entrance~
+A mansion looms high into the air, being three stories in height, to the
+east.  Wooden double doors built on a slant of approximately forty-five
+degrees lead downward, into what must be a cellar or underground construct
+of some sort.  A somewhat worn grey flagstone path leads to the north,
+south, and east, long blades of grass poking out from between the path.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 11743
+D1
+~
+~
+~
+0 0 11745
+D2
+~
+~
+~
+0 0 11756
+D5
+~
+~
+~
+1 0 11740
+M 0 H 0
+S
+#11742
+The Carriage House~
+A large black coach sits here, the paint flaking from it sides and around
+the wooden wheels.  What looks to be a mouse nest can be seen poking out
+from under the drives seat of this contraption, made of hay and feathers
+that are matted into a ball.  The rest of the room is mostly empty, except
+for spare wheels and the trappings to fasten the steeds to the carriage.  A
+large set of double doors stand to the west.  
+~
+0 8 0
+D3
+~
+~
+~
+1 0 11664
+M 0 H 0
+S
+#11743
+A Mighty Cherry Tree~
+A large tree with dark bark and bright blossoms grows here, the trunk
+straight and wide.  The blossoms, both those that fell to the ground and
+those that are still on the tree, fill the still air with their fragrant
+aroma.  A few slats of wood have been nailed together to provide a sturdy
+frame from a child's swing that hangs from the lowest branch.  Green blades
+of grass poke out from between the flagstone path that veers from south to
+east at this point.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 11744
+D2
+~
+~
+~
+0 0 11741
+M 0 H 0
+S
+#11744
+The Dog House~
+This wooden structure is approximately four feet in height and is
+L-shaped, covering a large area.  A trough full of filthy water can be found
+along one wall of the dog house while a second trough that has been covered
+and dust and spider web lines the other.  A few balls made of animal hide
+and covered in grime lay on the floor, abandoned.  The entrance to this
+structure is to the west.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 11743
+M 0 H 0
+S
+#11745
+Along a Flagstone Path~
+A thick grove of hardwood trees growing to the north meets with the
+eastern wall, creating an L-shaped path leading west and south.  A three
+story mansion can be seen to the west with two towers rising from the south
+of it and reaching into the air.  Large fruit trees grow in rows to the
+south, planted in rows to create an orchard.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 11746
+D3
+~
+~
+~
+0 0 11741
+M 0 H 0
+S
+#11746
+On the Way to the Orchard~
+A large hedge to the west and a towering wall to the east limit this
+pathway to a strict north-south direction.  Small dusky pink roses can be
+seen within the hedge, though they are barely visible.  Lush green grass
+grows between the flagstones, adding color to the otherwise desolate ground.
+Fruit trees that have once been grown in neat rows can be seen to the south.
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11745
+D2
+~
+~
+~
+0 0 11747
+M 0 H 0
+S
+#11747
+Margate Orchard~
+Twin lines of cherry trees in full bloom run from the north to the south
+forming a corridor over what once must have been a simple track.  Long
+grasses flow like water, rippling to the slightest breeze, ready to cast
+forth there seeds to the slightest provocation.  Two other paths clearly
+lead to the east and the other to the west, heading into what looks very
+much like more orchards.  Fragrant blossom drifts down from these trees
+fluttering to the grass swathed earth, their scent heavy in the air.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 11746
+D1
+~
+~
+~
+0 0 11748
+D2
+~
+~
+~
+0 0 11750
+D3
+~
+~
+~
+0 0 11749
+M 0 H 0
+S
+#11748
+In the Orchard~
+New growth of elder trees spring up between what must have been planned
+plantings of orange trees, both blossoms mixing upon the floor and in the
+air, whenever the wind rises sufficiently to cause them to stir and fall. 
+The call of a dove reaches down from one of the trees standing to the
+easternmost side of the path, indicating that one must have nested there. 
+Nettle and fern grow in competition with the much larger plants, though all
+flourish.  A path curves its way from the west to the south here leading
+into more, once trained, woodland.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 11751
+D3
+~
+~
+~
+0 0 11747
+M 0 H 0
+S
+#11749
+In the Orchard~
+Following the east-south curve of the overgrown path are a multitude of
+apple trees, all blossoming.  The petals of these blooms tumble to the
+earth, their soft scents filling the air as they drift downwards.  To both
+the south and east more kept woodland can be found, now run wild, can be
+seen cloaked in long grasses and littered with rotten fruit.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 11747
+D2
+~
+~
+~
+0 0 11752
+M 0 H 0
+S
+#11750
+The Middle of an Orchard~
+What once may have been an enthralling center to this orchard is now in
+ruins.  Brambles and briar have sprung up, their sharp thorns like tiny
+daggers ready to stab and cut.  Ivy has clawed its way from the earth now
+clogging and smothering the very plants that try so hard to support them,
+selfishly killing their only chance at life.  Though the trees still stand,
+no longer is any resemblance of life evident, as it has been killed totally
+by the clinging of the ivy.  Faint paths can still be seen stretching off to
+each of the four compass points, littered with weeds and nettles, no longer
+easily traversed.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11747
+D1
+~
+~
+~
+0 0 11751
+D2
+~
+~
+~
+0 0 11753
+D3
+~
+~
+~
+0 0 11752
+M 0 H 0
+S
+#11751
+An Unkempt Orchard~
+Vines and creepers crawl up the trunks of these once majestic hazel nut
+trees.  These parasitic plants slowly kill all life with their roots and
+weight, clinging and hugging too tightly to the noble tree.  Yet life is
+still evident within the mighty plants as new shoots and growth show
+through.  Three tracks lead off to the north, south and west, each appearing
+to head into more of the orchard.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11748
+D2
+~
+~
+~
+0 0 11754
+D3
+~
+~
+~
+0 0 11750
+M 0 H 0
+S
+#11752
+An Orchard~
+Gnarled branches intermix within the canopy of the orchard here, the
+trees once having been fine plum now look wild beyond belief.  Ivy vines
+have spread over the fruit-littered floor, forming a natural carpet of
+sorts.  What once must have been the path through the orchard splits north,
+south and east here, each leading to other sections of the grounds.  The
+sweet odor of rotting fruit rises up onto the air, cloying to the senses.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11749
+D1
+~
+~
+~
+0 0 11750
+D2
+~
+~
+~
+0 0 11755
+M 0 H 0
+S
+#11753
+In Margate's Orchard~
+A path from the north meets an overgrown east-western track at about the
+middle, all of which are surrounded by dense ferns and massive trees.  The
+trees all seem to be plum and once must have formed orderly lines though now
+this has been some what lost with their wild, uncontrolled growth.  From
+within the fern bed the sounds of small animals moving can be heard, it is
+likely that these creatures are feasting contentedly upon the fallen fruit. 
+Small plants bearing blueberries can be seen growing close to the ground.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11750
+D1
+~
+~
+~
+0 0 11754
+D3
+~
+~
+~
+0 0 11755
+M 0 H 0
+S
+#11754
+The Orchard~
+What once must have been a well kept segment of orchard is now little
+more than a wild copse of trees.  Where once delicious fruit grew, now feral
+vines choke; where once delicate blossoms flourished, vicious thorns run
+rampant.  What may have been pleasant and pleasing to the owners now seems
+to be in the grip of nature's hand.  Nettle and hogweed grow to shocking
+proportions here, their poisoned spines waiting to catch the unwary.  What
+remains of the trail leads both north and west.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11751
+D3
+~
+~
+~
+0 0 11753
+M 0 H 0
+S
+#11755
+In the Orchard~
+Mighty apple trees grow all around the north-east path that curves its
+way here.  The apple blossoms flutter down in the slightest draft or
+swirling madly like confetti at some rowdy wedding.  The scents from these
+blooms rise from the trees and the floor, where they lay scattered, to
+mingle with the scent of old fruit left to rot upon the ground.  Wild
+blackberry bushes grown thickly between these monolithic trees, their
+creepers reaching skywards in an attempt to gain access to more light while
+spreading towards the path.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11752
+D1
+~
+~
+~
+0 0 11753
+M 0 H 0
+S
+#11756
+Near the Garden~
+Lilac bushes rise to the east, the scent of the flowers drifting in the
+event of a breeze.  The path turns to white marble, veined with black,
+leading south into the garden.  White blooms line both sides of the marble
+path as it stretches away, making the dark veins stand out further. 
+Flagstones that have bright green grass growing between them lead off to the
+west and north.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11741
+D2
+~
+~
+~
+0 0 11760
+D3
+~
+~
+~
+0 0 11757
+M 0 H 0
+S
+#11757
+A Small Foot Path~
+The walkway turns northward to a glass conservatory and the western wall
+of the mansion.  A lilac bush runs parallel to the path, starting from the
+wall to the west, which rises to a considerable height, and continuing to
+the east.  Bright green grass grows between the stones fitted together to
+make this narrow trail.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11758
+D1
+~
+~
+~
+0 0 11756
+M 0 H 0
+S
+#11758
+A Foot Path~
+The stone path leads both north and south here, the grey stones
+interspersed with the bright green of new grass.  To the north, a glass
+conservatory can be seen, covered in grime and leaves.  Southward, a large
+kempt lilac bush meets the towering wall that makes up the western perimeter
+of Margate's grounds.  Twin doors made of glass lead eastward into the
+mansion, to what seems to be the dining room.  
+~
+0 0 0
+D0
+~
+~
+~
+1 0 11759
+D1
+~
+~
+~
+1 0 11695
+D2
+~
+~
+~
+0 0 11757
+M 0 H 0
+S
+#11759
+The Conservatory~
+This large building is composed completely of glass: the walls are
+constructed from leaded pieces, now coated in grime, looking out over the
+garden and house.  The roof is smoked glass, darkened further by a build up
+of leaves and other matter.  Four long wicker seats have been placed in
+here, not appearing to be too weak from age to hold a person's weight. 
+Terracotta pots stand about this room, now filled with dead plants, the
+steams and dehydrated leaves littering the red stone tiled floor.  A single
+glass door is set into the southern wall, leading to a garden path.  
+~
+0 8 0
+D2
+~
+~
+~
+1 0 11758
+M 0 H 0
+S
+#11760
+In the Gardens~
+Berries of a bright red color grow amongst the shrubbery's leaves, found
+on either side of the pale path of marble that stretches away to the south
+and east.  White roses intertwine with the bushes, their fragrance lingering
+headily in the still air.  Now and then, the sound of some unseen creature
+can be heard coming from the dense foliage of the hedge.  An iron post
+supports a magical globe of light overhead, providing illumination as
+needed.  A flagstone path can be seen to the north.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11756
+D1
+~
+~
+~
+0 0 11761
+D2
+~
+~
+~
+0 0 11762
+M 0 H 0
+S
+#11761
+A Garden Path~
+Tall, orderly hedges of holly flank the white marble pathways, creating a
+maze of a garden.  Birds sing happily from within the depths of the bushes. 
+Flowers adorn the branches occasionally, adding bursts of yellow, red, and
+blue to the otherwise plain walkway, with their scents wafting through the
+air without the slightest provocation.  A globe of magical light hangs from
+a stout iron rod, presumably to provide light when darkness falls.  The path
+continues both east and west.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 11763
+D3
+~
+~
+~
+0 0 11760
+M 0 H 0
+S
+#11762
+The Hedge Garden~
+Spaced at equal intervals are iron posts topped with glowing spheres of
+magical light.  Twin rows of brilliant white flowers line either side of the
+dark green hedging here, their lack of colour complimenting the marble of
+the path and making the grey-black veins within the stone more prominent. 
+The heady scents of these plants float in the still air, adding something
+akin to a dream-like quality to the path.  Everything appears almost
+unnaturally perfect as the surroundings are surveyed, as if some force was
+keeping the plant life orderly.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11760
+D1
+~
+~
+~
+0 0 11769
+D3
+~
+~
+~
+0 0 11771
+M 0 H 0
+S
+#11763
+The Hedge Garden~
+Stretching far above your head to either side of you are neatly kept
+hedges.  Pink roses peek out from between the branches in several spots,
+their perfect petals covered in beads of water.  Dotted about, gossamer
+spider webs twinkle with the dew upon them, like mystical creations of the
+fearie.  Every now and then, a slight tap can be heard coming from within
+the dense green of the hedge row.  The white marble path continues to the
+south and to the west.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 11764
+D3
+~
+~
+~
+0 0 11761
+M 0 H 0
+S
+#11764
+Among Orderly Hedges~
+Spaced at equal intervals are iron posts topped with glowing spheres of
+magical light.  Twin rows of brilliant white flowers line either side of the
+dark green hedging here, their lack of colour complimenting the marble of
+the path and making the grey-black veins within the stone more prominent. 
+The heady scents of these plants float in the still air, adding something
+akin to a dream-like quality to the path.  Everything appears almost
+unnaturally perfect as the surroundings are surveyed, as if some force was
+keeping the plant life orderly.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11763
+D3
+~
+~
+~
+0 0 11765
+M 0 H 0
+S
+#11765
+A Small Courtyard~
+A fountain bubbles endlessly in this small clearing.  The water pouring
+fourth from the statuette is of white marble into a generous basin below
+provides the ideal bird bath, as one can guess from the birds fluttering
+around it.  Easily discernible in the water are several feathers and leaves,
+but otherwise the liquid looks perfectly clear.  Gently-curving
+semi-circular wooden benches are situated around the fountain, providing a
+spot for comfortable rest.  There is an exit in each cardinal direction into
+the hedge work, one identical to the next.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11766
+D1
+~
+~
+~
+0 0 11764
+D2
+~
+~
+~
+0 0 11768
+D3
+~
+~
+~
+0 0 11767
+M 0 H 0
+S
+#11766
+A Dead End~
+The hedges enclose this area on three sides, making a dead end.  Lilac
+flowers peek out from the thick hedge, breaking the wall of green into a
+pattern all of its own.  A black iron post with a curving top has been
+spiked into the ground.  From the crook, it bears a globe of magical
+luminescence that ensures that there is light here at all times.  White
+marble, veined delicately with black, leads off to the south.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 11765
+M 0 H 0
+S
+#11767
+A Garden Path~
+Tall, orderly hedges of holly flank the white marble pathways, creating a
+maze of a garden.  Birds sing happily from within the depths of the bushes. 
+Flowers adorn the branches occasionally, adding bursts of yellow, red, and
+blue to the otherwise plain walkway, with their scents wafting through the
+air without the slightest provocation.  A globe of magical light hangs from
+a stout iron rod, presumably to provide light when darkness falls.  The path
+continues both east and west.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 11765
+D3
+~
+~
+~
+0 0 11772
+M 0 H 0
+S
+#11768
+A Hedge Garden~
+Stretching far above your head to either side of you are neatly kept
+hedges.  Pink roses peek out from between the branches in several spots,
+their perfect petals covered in beads of water.  Dotted about, gossamer
+spider webs twinkle with the dew upon them, like mystical creations of the
+fearie.  Every now and then, a slight tap can be heard coming from within
+the dense green of the hedge row.  The white marble path continues to the
+north, east and west.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11765
+D1
+~
+~
+~
+0 0 11775
+D3
+~
+~
+~
+0 0 11776
+M 0 H 0
+S
+#11769
+A Corner of Hedge~
+Dark evergreen plants form the walls of this hedge maze flanking the
+black-veined white marble path.  An iron post has been expertly driven into
+the ground here and topped with a sphere of magical light to provide
+illumination as and when required.  Small white blooms have been placed
+either side of the path, there scents rising upon the air with no
+provocation needed.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 11770
+D3
+~
+~
+~
+0 0 11762
+M 0 H 0
+S
+#11770
+A Shallow Pond~
+A shallow pool filled with innumerable yellow lily flowers seem to be all
+but choked with their pads stretched out here.  Standing in the center is a
+statue constructed of alabaster.  This figure depicts a nymph rising from
+the waters upon the back of a clam's shell.  Sadly, time and nature have
+left their marks upon it, where the left arm should have been now there is
+only a smooth stump; dead leaves and creepers strive to over run the shapely
+legs of the figure, giving more an impression now that it is being consumed
+by nature than rising from the waters.  Rounded stones set into the ground
+lead northward to a hedge maze.  
+~
+0 1 0
+D0
+~
+~
+~
+0 0 11769
+M 0 H 0
+S
+#11771
+A Dead End~
+The hedges enclose this area on three sides, making a dead end.  Lilac
+flowers peek out from the thick hedge, breaking the wall of green into a
+pattern all of its own.  A black iron post with a curving top has been
+spiked into the ground.  From the crook, it bears a globe of magical
+luminescence that ensures that there is light here at all times.  White
+marble, veined delicately with black, leads off to the east.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 11762
+M 0 H 0
+S
+#11772
+In the Garden~
+Magical illumination is provided be means of spheres affixed to the top
+of sturdy tall iron posts that have been driven into the earth here.  These
+posts are placed at regular distances along the lush green hedges that line
+either side of the white marble path.  Mixed in with the hedge are small
+pale blooming roses, the scents of which float upon the air, these blooms
+compliment the whiteness of the marble that stretches off to the north,
+south, and east.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11773
+D1
+~
+~
+~
+0 0 11767
+D2
+~
+~
+~
+0 0 11774
+M 0 H 0
+S
+#11773
+A Dead End~
+The hedges enclose this area on three sides, making a dead end.  Lilac
+flowers peek out from the thick hedge, breaking the wall of green into a
+pattern all of its own.  A black iron post with a curving top has been
+spiked into the ground.  From the crook, it bears a globe of magical
+luminescence that ensures that there is light here at all times.  White
+marble, veined delicately with black, leads off to the south.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 11772
+M 0 H 0
+S
+#11774
+A Bench in the Garden~
+The green hedges provide an outlet that is hidden from easy view due to
+their height.  In the outlet, a wooden bench has been placed, surrounded by
+tiger lilies mixed in with a rose bush.  A purple rose has fallen on the
+bench, apparently withering on the wooden slats.  The white marble path
+leads northward, flanked by small flowers that make the dark veins in the
+marble stand out further.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11772
+M 0 H 0
+S
+#11775
+A Turn in the Path~
+The white marble path rises slightly in its center here following the
+natural contorts of the land, equally the thick green foliage that flanks
+either side of this rises too.  Stout iron poles have been placed here, each
+topped with a single ball of magical light so that even in the dead of night
+the path could be seen.  Delicate flowers of the softest yellow line either
+side of the path, through there size is tiny they emit a powerful and heady
+aroma into the air.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11779
+D3
+~
+~
+~
+0 0 11768
+M 0 H 0
+S
+#11776
+An Intersection~
+A crook of iron is set into the soil upon which hangs an orb of enchanted
+light, the radiance from it able to brighten the walkway even the darkest
+nights.  Twin dense green hedges stand either side of a black veined marble
+path from in which small blooms the color of sunshine yellow poke out.  The
+scent from these posies drifts upon the air.  Due to the considerable height
+of the hedges only the path's route may be discerned.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 11768
+D2
+~
+~
+~
+0 0 11778
+D3
+~
+~
+~
+0 0 11777
+M 0 H 0
+S
+#11777
+A Dead End~
+The hedges enclose this area on three sides, making a dead end.  Lilac
+flowers peek out from the thick hedge, breaking the wall of green into a
+pattern all of its own.  A black iron post with a curving top has been
+spiked into the ground.  From the crook, it bears a globe of magical
+luminescence that ensures that there is light here at all times.  White
+marble, veined delicately with black, leads off to the east.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 11776
+M 0 H 0
+S
+#11778
+A Dead End~
+What once must have been a carefully cultivated rosebush now sprawls
+here, its flowers shrunken and its thorns like tiny blades.  The scent of
+this massive bush's numerous flowers fill the air, a painful lure to anyone
+not paying attention to the spiked limbs.  Peeking out from under the
+multitude of runners is what once must have been a bench, now inaccessible
+except for the smallest of creatures.  To the north a white marble path
+works its way between high green hedges.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11776
+M 0 H 0
+S
+#11779
+A Dead End~
+A fountain bubbles endlessly in this small clearing.  The water pouring
+fourth from the statuette is of white marble into a generous basin below
+provides the ideal bird bath, as one can guess from the birds fluttering
+around it.  Easily discernible in the water are several feathers and leaves,
+but otherwise the liquid looks perfectly clear.  Gently-curving
+semi-circular wooden benches are situated around the fountain, providing a
+spot for comfortable rest.  There is an exit to the south.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 11775
+M 0 H 0
+S
+#11780
+A Dirt Path~
+This stretch of dirt road curves west to south through the forest,
+leaving a clear path that is wide enough for wagons traveling through. 
+Holly and iron oaks touch branches overhead, leaving the road in a pleasant
+shade during day and overshadowed at night.  Orchids wind their way through
+the branches, adding a splash of color to the brown and green surroundings. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 1799
+D2
+~
+~
+~
+0 0 11651
+D3
+~
+~
+~
+0 0 11781
+M 0 H 0
+S
+#11781
+A Broken Bridge~
+Orange-pink walls bedecked in numerous small, stunted plants cling to the
+rock face, attempting to survive in this harsh environment.  Sun-bleached
+chunks of wood and metal have become embedded behind some of these plants
+and within the craggy face of the canyons walls.  What once must have been a
+bridge is now little more than a skeleton of what it once was, useless for
+foot travel.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 11780
+D3
+~
+~
+~
+0 0 11782
+D5
+~
+~
+~
+0 0 11786
+M 0 H 0
+S
+#11782
+A Dirt Pathway~
+A wide cave opening can be seen to the south, leading straight into the
+mountain to a mica-flecked tunnel.  A dirt road stretches from the tunnel's
+mouth and curves to the east.  Ivy climbs the mountain walls, displaying its
+green and white leaves proudly.  Water trickles down aside these vibrant
+plants, making the mica in the rock shine even more brilliantly against the
+near-blackness of the wet rock.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 11781
+D2
+~
+~
+~
+0 0 11783
+M 0 H 0
+S
+#11783
+A Cavernous Pathway~
+This cavern ends abruptly here, with a large cave mouth allowing in the
+natural light of the sun, moon, and stars.  When the outside light filters
+in alone, the mica in the walls is barely visible, but with the addition of
+any other light, they sparkle and glisten in the dark rock.  The cavern
+continues to the south for an undefinable length.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11782
+D2
+~
+~
+~
+0 0 11784
+M 0 H 0
+S
+#11784
+A Tunnel~
+Dark grey stone makes up this looming tunnel, broken only by small pieces
+of mica embedded into the walls that glint in the presence of the faintest
+light that should happen across it, akin like some forgotten treasure.  The
+air feels cool opposed to truly cold, most likely an effect of the earth and
+rock all around.  Something in the still air seems to echo of a tomb, maybe
+the silence--or possibly the dry dust.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 11783
+D2
+~
+~
+~
+0 0 11785
+M 0 H 0
+S
+#11785
+Mica-flecked Tunnel~
+Mica-flecked grey rock walls surround this tunnel, the speckled rock
+glinting in any light like gems from a king's vault.  This path must have
+been crafted long ago with great skill, as little, if any, wear is now
+visible upon it.  A coldness radiates from the rock walls, a product of the
+weight of the mountain above this corridor that blocks any hope of day
+light's touch here.  Faintly the distant howl of the wind can just be heard.
+~
+0 8 0
+D0
+~
+~
+~
+0 0 11784
+D2
+~
+~
+~
+0 0 4310
+M 0 H 0
+S
+#11786
+A Deep Pit~
+The bright orange-pink walls are devoid of much to grab hold of, though
+they have small ledges filled with plant life lining them in a pleasing
+disarray.  Above, a bridge that has been torn apart has been built, now
+useless to any travelers on foot.  Below, a deep canyon can be seen plainly,
+leading in an east-west direction.  
+~
+0 4 9
+D4
+~
+~
+~
+0 0 11781
+D5
+~
+~
+~
+0 0 11787
+M 0 H 0
+S
+#11787
+A Deep Canyon~
+The canyon walls are steep and craggy, a bright orange-red.  Plant life
+struggles to grow in the crevices where soil has collected, some of which
+look to be near death due to lack of water and an abundance of sun.  The
+trench continues east and west.  Far above, a bridge can be seen, broken in
+the middle and useless.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 11788
+D3
+~
+~
+~
+0 0 11789
+D4
+~
+~
+~
+0 0 11786
+M 0 H 0
+S
+#11788
+At the Bottom of a Precipice~
+A boulder surrounded by several stones have been clustered together
+toward the center of this small opening, though the visible trail to the
+west is narrower still.  The sheer coral colored rock destroys all hopes of
+further passage in all other directions above ground, though the cracks and
+ledges of the wall provide homes to several thriving plants.  
+~
+0 0 0
+D3
+~
+~
+~
+0 0 11787
+M 0 H 0
+S
+#11789
+A Fork~
+Dead wood and boulders have fallen to the rock floor of this pit,
+littering the canyon and making the path more difficult to travel.  High
+coral walls stretch up to the distant sky, craggy and broken in places so
+that small, stunted scrubs and bracken have attempted to make their homes
+there.  A winding path leads off to the north and east arching its way
+between this rock faces.  The lack of moisture and wind gives the air the
+same quality as that from an oven.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11790
+D1
+~
+~
+~
+0 0 11787
+D2
+~
+~
+~
+0 0 11791
+M 0 H 0
+S
+#11790
+A Dead End~
+This path ends with a sheer cliff face, coral in color.  Uneven spots in
+the wall harbor plants struggling for life and a bird, if the tweeting
+echoing off the walls is any indicator.  There is what appears to be a hole
+or small alcove at the base of the rock formation, barely visible due to an
+overhang that blends in with the rest of the rock surroundings.  The canyon
+opens up to the south at a fork.  
+~
+0 4 0
+D2
+~
+~
+~
+0 0 11789
+D5
+~
+formation~
+~
+0 0 11792
+M 0 H 0
+S
+#11791
+A Dead End~
+This path between the coral canyon ends in an uncompromising wall that is
+devoid of all plant life.  There is a loose layer of arid soil covering the
+stone floor, littered by fallen rocks and desiccated wood that has been
+greatly disturbed by the passage of some creature.  The air is still here
+and carries the taint of something unfamiliar.  There is a pathway that
+leads to a fork at the north.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 11789
+M 0 H 0
+S
+#11792
+A Cavernous Pit~
+A small hole can be seen in the wall, more noticeable when there is
+daylight striking the ground beyond the small overhang.  The coral rock of
+the wall stretches overhead and forms barriers to the south and west,
+leaving a yawning blackness in the other directions, though the darkness is
+not oppressive.  The air is chilled but still and filled with an odd but
+faint scent.  
+~
+0 8200 0
+D0
+~
+~
+~
+0 0 11793
+D1
+~
+~
+~
+0 0 11801
+D4
+~
+formation~
+~
+0 0 11790
+M 0 H 0
+S
+#11793
+In the Darkness~
+Walls of jagged rock can be seen to the east and west while darkness
+stretches away northward and southward.  All sense of time could easily be
+lost in this static atmosphere, the darkness neither threatening or
+oppressive.  Silver threads can be seen covering spots of the wall, glinting
+faintly in any available light.  
+~
+0 8200 0
+D0
+~
+~
+~
+0 0 11794
+D1
+~
+~
+~
+0 0 11800
+D2
+~
+~
+~
+0 0 11792
+M 0 H 0
+S
+#11794
+A Dismal Cave~
+Stygian darkness flows all around, somewhat like a river within the
+earth's depths; no feeling of time or space can truly be grasped for long. 
+Moments down here might be ages above without the sun and moon's aid for it
+is all but impossible to tell while submerged within this blackness.  The
+occasional silvery thread of some silk-like substance can be seen, glinting
+faintly in any present light.  
+~
+0 8200 0
+D0
+~
+~
+~
+0 0 11795
+D1
+~
+~
+~
+0 0 11799
+D2
+~
+~
+~
+0 0 11793
+M 0 H 0
+S
+#11795
+A Web-littered Tunnel~
+Silvery webbing glistens moistly in this dry-aired chamber, each strand
+stretching from its anchor point up to the jagged rock face so as to best
+entrap the careless.  Here and there the cocoon of of a creature that has
+become ensnared can be seen, neatly hanging or resting about the chamber.  A
+strange stillness fills the air, allowing the spider webs to sit resplendent
+in their places.  
+~
+0 8200 0
+D0
+~
+~
+~
+0 0 11796
+D1
+~
+~
+~
+0 0 11798
+D2
+~
+~
+~
+0 0 11794
+M 0 H 0
+S
+#11796
+A Craggy Hollow~
+The rock walls seem to be crumbling here, spilling over the ground
+haphazardly.  Thick strands of some wet thread-like substance stretch from
+their craggy surfaces to the uneven jags all around, making it difficult to
+move without touching the webbing.  The darkness stretches away to the east
+and south, though it is impossible to determine how far.  All sense of time
+is elusive in the darkness that enshrouds this place, making it difficult to
+judge any distances traveled within.  
+~
+0 8200 0
+D1
+~
+~
+~
+0 0 11797
+D2
+~
+~
+~
+0 0 11795
+M 0 H 0
+S
+#11797
+A Darkened Tunnel~
+The cave turns from craggy coral rock into a smooth tunnel leading
+downward, deeper into the ground.  Strands of silky substance that once
+stretched across this hole hang tattered and broken, wavering gently in the
+presence of a draft.  The cavern stretches on indefinitely to the south and
+west, shrouded in darkness that obstructs all concept of time and space.  
+~
+0 8200 0
+D2
+~
+~
+~
+0 0 11798
+D3
+~
+~
+~
+0 0 11796
+D5
+~
+~
+~
+0 0 11802
+M 0 H 0
+S
+#11798
+Shrouded in Darkness~
+Darkness fills this chamber, broken only by innumerable spider webs--each
+perfect in its own right and lethal, going by the bodies hanging lifeless
+from them.  The rock walls can just be made out through this webbing, sharp
+and broken to become another hazard to any that wish to move through this
+space.  A strange odor fills the air, mixed with that of death, something
+akin to what you would expect in a bee's hive only somehow different and
+more sinister.  
+~
+0 8200 0
+D0
+~
+~
+~
+0 0 11797
+D2
+~
+~
+~
+0 0 11799
+D3
+~
+~
+~
+0 0 11795
+M 0 H 0
+S
+#11799
+A Webbed Pit~
+Spider silk has been woven expertly into a grand web here, clinging to
+the rock walls in an intriguing pattern.  The strands glisten faintly when
+the light catches them, making them nearly sparkle, in all their deadliness.
+A coral barrier blocks passage to the east, while darkness stretches away in
+the other directions.  
+~
+0 8200 0
+D0
+~
+~
+~
+0 0 11798
+D2
+~
+~
+~
+0 0 11800
+D3
+~
+~
+~
+0 0 11794
+M 0 H 0
+S
+#11800
+An Eerie Hole~
+Craggy rock, coral in color, stretches away at the east and west, leaving
+the other two directions shrouded in mystery and shadow as far as you can
+see.  Far above, the silvery weavings of what appears to be a spider's web
+can be seen, clinging to the stone walls of the cavern.  The darkness could
+easily destroy all sense of time and direction, though it does not give off
+a threatening feeling.  
+~
+0 8200 0
+D0
+~
+~
+~
+0 0 11799
+D2
+~
+~
+~
+0 0 11801
+D3
+~
+~
+~
+0 0 11793
+M 0 H 0
+S
+#11801
+In the Weave~
+Rough strands of silver have been hooked along the uneven surfaces of the
+wall, woven expertly into a web of massive proportions.  The cavern
+stretches far above and into the yawning darkness that claims vision to the
+north and west, steady and ever-present, which makes telling time within it
+more difficult.  
+~
+0 8200 0
+D0
+~
+~
+~
+0 0 11800
+D3
+~
+~
+~
+0 0 11792
+M 0 H 0
+S
+#11802
+Shrouded in Webs~
+Cocoons containing unfortunate souls litter this area, each wrapped
+within their own burial shrouds of silk and encased within the dehydrating
+still moistureless air.  A few tree branches have, at some point, been
+brought to this area, each of which are also covered in shimmering spider's
+silk.  The stillness to this chamber is only broken by a faint scraping
+sound, though no source to this noise can as yet be easily determined. 
+Upward, the faint hole of a tunnel can be seen, shrouded almost entirely in
+spiderweb.  
+~
+0 8200 12
+D0
+~
+~
+~
+0 0 11807
+D1
+~
+~
+~
+0 0 11805
+D2
+~
+~
+~
+0 0 11803
+D3
+~
+~
+~
+0 0 11809
+D4
+~
+~
+~
+0 0 11797
+M 0 H 0
+S
+#11803
+Wrapped in Silk~
+Silk strands drift and waft here, lacking any form of moisture and only
+moving to the drafts created by the movements of a person or creature within
+this chamber.  Mounds of webbing indicate that something or someone has
+become entombed within the delicate-looking thread.  The occasional branch
+has been brought into this chamber, apparently for the purpose of being
+covered with yet more webbing, which can be seen stretching up to the
+surrounding walls.  
+~
+0 8200 12
+D0
+~
+~
+~
+0 0 11802
+D1
+~
+~
+~
+0 0 11810
+D3
+~
+~
+~
+0 0 11804
+M 0 H 0
+S
+#11804
+A Dread Spider's Web~
+Rictus masked bodies festoon the web-shrouded earth of this area,
+grinning eternally in death now that their moans and screams for help have
+long since died with them.  Dehydrated beyond life, or any close
+approximation thereof, bushes and trees have been dragged here so more of
+the ever-present webbing can be spun effectively for a larger death trap. 
+The air sits still and heavy with the decay from the demise of the doomed
+denizens of this web-encrusted area.  
+~
+0 8200 12
+D0
+~
+~
+~
+0 0 11805
+D1
+~
+~
+~
+0 0 11803
+M 0 H 0
+S
+#11805
+A Mound of Corpses~
+Piled mounds of cocooned corpses dot the web-covered ground here, each
+dehydrated and lifeless.  Long threads of the webbing stretch up from the
+occasional dead tree or bush to the walls high above.  The smell of death
+hangs heavily upon the still air, invading the senses of any creature that
+passes this way.  Every so often, the faint sound of movement can be heard,
+though the source remains unseen.  
+~
+0 8200 12
+D0
+~
+~
+~
+0 0 11806
+D2
+~
+~
+~
+0 0 11804
+D3
+~
+~
+~
+0 0 11802
+M 0 H 0
+S
+#11806
+A Maze of Spiderweb~
+Shimmering spider silk coats the walls of this chamber embedded into
+which are the moistureless corpses of countless beings, each sucked dry of
+all fluid and cocooned in a burial shroud of webbing.  Strands of the sticky
+substance stretch up and over pieces of dried tree and other fallen wood
+adding a crazy labyrinth effect.  Death's foul odor fills the still air,
+cloying the senses.  
+~
+0 8200 12
+D2
+~
+~
+~
+0 0 11805
+D3
+~
+~
+~
+0 0 11807
+M 0 H 0
+S
+#11807
+A Gauzy Tomb~
+What once must have been a large tree is now nothing but a desiccated
+husk here, shrouded in spider silk.  Hanging from the highest branch and
+dangling down is the lifeless body of a lamb, its head pointing to the floor
+as it rocks ever so slightly.  Mounded around this visage of death is a
+delicate weave of webbing, each of which seems to contain its own burden of
+death.  An odd odor fills the air, musty and dry--much like one might expect
+if you cracked an ants nest open, only far stronger.  
+~
+0 8200 12
+D1
+~
+~
+~
+0 0 11806
+D2
+~
+~
+~
+0 0 11802
+D3
+~
+~
+~
+0 0 11808
+M 0 H 0
+S
+#11808
+Amongst the Cobwebs~
+Dried out bodies lay or stand entombed in glimmering spiders silk,
+imprisoned in this pit forever more by some deadly beast.  The bodies of
+goats have been wrapped helpless next to human, haitorin and tervadi; all
+have met the same doom within this cavern.  Fallen wood and trees have been
+dragged here to help with the weaving of these gigantic webs, each coated in
+its own covering of sticky fibers, all woven with the greatest care.  The
+air here smells oddly dry lacking any real hint of moisture.  
+~
+0 8200 12
+D1
+~
+~
+~
+0 0 11807
+D2
+~
+~
+~
+0 0 11809
+M 0 H 0
+S
+#11809
+Matted Webbing~
+Glimmering strands of webbing stretch randomly about this chamber,
+reaching up to walls and ceiling in what can, to a normal mind, only be a
+haphazard manner.  Lumps litter the floor and hang helplessly suspend from
+the ceiling, wavering gently as something unseen touches them, such as a
+draft.  Looking more closely, the desiccated corpses of creatures may be
+seen within these cocoons.  No movement or moisture can be detected within
+the air of this chamber, giving it an unhealthy feel.  
+~
+0 8200 12
+D0
+~
+~
+~
+0 0 11808
+D1
+~
+~
+~
+0 0 11802
+D2
+~
+~
+~
+0 0 11810
+M 0 H 0
+S
+#11810
+Tangled Webs~
+What appears to be most of a coach or wagon has somehow come to its final
+rest within this area, now bedecked in shimmering webbing and unable to be
+moved without a great deal of effort.  Hanging in bundles from the roof
+close to it are what once appeared to have been its horses and teamsters,
+now nothing more than mummies cocooned.  Spider's silk covers the wall and
+ground and is woven through the air, crossing over each other in thick
+bolts.  Barely visible in the far corner is a hole leading downward.  
+~
+0 8200 12
+D0
+~
+~
+~
+0 0 11809
+D3
+~
+~
+~
+0 0 11803
+D5
+~
+~
+~
+0 0 11811
+M 0 H 0
+S
+#11811
+The Dread Spider's Lair~
+Sticking up like bones are the limbs of dehydrated plants, dried long ago
+and dragged here by some unseen hand.  Encrusting these plants are
+innumerable spider silk webs, each shimmering in any light that glances over
+them.  Cocooned in these webs are masked forms that look humanoid in shape,
+the lack of movement hints that these might be the fallen victims of this
+lair.  A stillness hangs in the dry air, undisturbed by the slightest
+breeze.  
+~
+0 8204 12
+D4
+~
+~
+~
+0 0 11810
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 11682 spec_nasty
+S
+
+
+
+#RESETS
+D 0 11657 2 1
+D 0 11658 0 1
+D 0 11663 3 1
+D 0 11664 1 1
+D 0 11666 0 1
+D 0 11666 2 1
+D 0 11667 0 1
+D 0 11667 2 1
+D 0 11671 2 1
+D 0 11672 0 1
+D 0 11673 2 1
+D 0 11674 0 1
+D 0 11685 1 1
+D 0 11685 3 1
+D 0 11686 1 1
+D 0 11690 2 2
+D 0 11691 0 2
+D 0 11691 1 1
+D 0 11691 3 1
+D 0 11692 1 1
+D 0 11693 1 1
+D 0 11693 3 1
+D 0 11694 0 1
+D 0 11694 3 1
+D 0 11695 1 1
+D 0 11695 2 1
+D 0 11695 3 1
+D 0 11696 2 1
+D 0 11696 3 1
+D 0 11697 0 1
+D 0 11697 1 1
+D 0 11698 2 1
+D 0 11698 3 1
+D 0 11699 0 1
+D 0 11700 5 1
+D 0 11704 1 1
+D 0 11704 2 1
+D 0 11705 2 1
+D 0 11705 3 1
+D 0 11706 1 1
+D 0 11707 1 1
+D 0 11708 1 1
+D 0 11709 0 1
+D 0 11710 3 1
+D 0 11711 3 1
+D 0 11713 1 1
+D 0 11714 1 1
+D 0 11715 1 1
+D 0 11716 2 1
+D 0 11717 3 1
+D 0 11718 3 1
+D 0 11719 3 1
+D 0 11720 3 1
+D 0 11721 0 1
+D 0 11722 1 1
+D 0 11723 0 1
+D 0 11723 4 1
+D 0 11724 1 1
+D 0 11724 3 1
+D 0 11726 4 1
+D 0 11726 5 1
+D 0 11727 5 1
+D 0 11728 3 1
+D 0 11729 1 1
+D 0 11730 1 1
+D 0 11731 3 1
+D 0 11733 1 1
+D 0 11733 3 1
+D 0 11734 3 1
+D 0 11735 1 1
+D 0 11736 4 1
+D 0 11737 1 1
+D 0 11738 3 1
+D 0 11740 4 1
+D 0 11741 5 1
+D 0 11742 3 1
+D 0 11758 0 1
+D 0 11758 1 1
+D 0 11759 2 1
+O 0 11694 0 11658
+P 0 11682 0 11694 10
+O 0 11692 0 11665
+O 0 11664 0 11666
+M 0 11661 1 11667 10
+M 0 11661 3 11668 10
+O 0 11691 0 11669
+O 0 11690 0 11669
+M 0 11662 1 11669 10
+M 0 11676 1 11670 10
+M 0 11673 1 11670 10
+M 0 11674 1 11670 10
+M 0 11675 1 11670 10
+M 0 11694 2 11671 10
+M 0 11694 1 11672 10
+M 0 11694 3 11674 10
+M 0 11661 5 11675 10
+O 0 11689 0 11675
+M 0 11672 1 11676 10
+M 0 11661 7 11677 10
+O 0 11687 0 11679
+M 0 11672 3 11680 10
+O 0 11688 0 11683
+M 0 11672 4 11684 10
+M 0 11653 1 11685 10
+G 0 11655 0
+G 0 11658 0
+G 0 11654 0
+G 0 11656 0
+G 0 11657 0
+G 0 11661 0
+G 0 11662 0
+G 0 11659 0
+G 0 11653 0
+G 0 11660 0
+O 0 11715 0 11686
+O 0 11671 0 11690
+P 0 11695 0 1 10
+M 0 11656 1 11691 10
+M 0 11687 1 11694 10
+O 0 11701 0 11694
+P 0 11702 0 11701 10
+O 0 11703 0 11694
+P 0 11704 0 11703 10
+M 0 11658 1 11695 10
+E 0 11718 0 17
+E 0 11717 0 5
+M 0 11659 1 11695 10
+E 0 11719 0 5
+M 0 11655 1 11695 10
+M 0 11660 1 11696 10
+O 0 11705 0 11696
+O 0 11670 0 11696
+M 0 11667 1 11697 10
+M 0 11655 3 11697 10
+M 0 11688 2 11698 10
+E 0 11673 0 9
+E 0 11672 0 5
+E 0 11675 0 24
+M 0 11688 2 11698 10
+E 0 11677 0 9
+E 0 11676 0 5
+E 0 11674 0 24
+M 0 11689 2 11698 10
+E 0 11706 0 5
+M 0 11670 4 11699 10
+E 0 11711 0 16
+E 0 11707 0 17
+M 0 11670 4 11699 10
+E 0 11708 0 17
+M 0 11670 4 11699 10
+E 0 11709 0 17
+E 0 11711 0 16
+M 0 11670 4 11699 10
+E 0 11710 0 17
+O 0 11669 0 11700
+O 0 11699 0 11701
+P 0 11698 0 11699 10
+O 0 11665 0 11713
+M 0 11693 8 11713 10
+O 0 11668 0 11714
+M 0 11693 4 11714 10
+O 0 11665 0 11715
+M 0 11692 1 11715 10
+M 0 11691 1 11716 10
+M 0 11690 1 11717 10
+E 0 11712 0 5
+O 0 11665 0 11717
+M 0 11671 5 11718 10
+O 0 11668 0 11718
+M 0 11671 2 11719 10
+O 0 11665 0 11719
+O 0 11666 0 11720
+M 0 11657 1 11720 10
+O 0 11680 0 11722
+O 0 11713 0 11726
+O 0 11667 0 11726
+P 0 11714 0 1 10
+O 0 11714 0 11727
+M 0 11665 3 11728 10
+M 0 11664 3 11728 10
+M 0 11655 3 11729 10
+M 0 11655 7 11734 10
+M 0 11663 2 11735 10
+G 0 11679 0
+O 0 11693 0 11738
+M 0 11654 1 11738 10
+E 0 11663 0 16
+M 0 11669 2 11742 10
+O 0 11652 0 11743
+M 0 11668 3 11744 10
+E 0 11678 0 3
+M 0 11668 3 11744 10
+M 0 11651 1 11746 10
+O 0 11651 0 11753
+M 0 11652 1 11754 10
+O 0 11683 0 11760
+O 0 11684 0 11761
+M 0 11666 1 11765 10
+O 0 11685 0 11765
+O 0 11716 0 11769
+O 0 11716 0 11771
+M 0 11682 1 11788 10
+E 0 11697 0 16
+M 0 11681 1 11791 10
+E 0 11696 0 16
+M 0 11677 5 11794 10
+M 0 11685 1 11796 10
+M 0 11677 4 11796 10
+M 0 11678 1 11797 10
+M 0 11677 7 11798 10
+M 0 11677 10 11800 10
+M 0 11686 1 11801 10
+M 0 11677 10 11801 10
+M 0 11678 9 11803 10
+M 0 11683 1 11804 10
+M 0 11679 5 11804 10
+M 0 11678 5 11806 10
+O 0 11720 0 11807
+O 0 11700 0 11807
+M 0 11679 7 11808 10
+M 0 11679 3 11809 10
+M 0 11678 3 11809 10
+M 0 11684 1 11811 10
+M 0 11680 1 11811 10
+S
+
+
+
+#SHOPS
+11653 8 26 1 0 0 140 60 0 23
+11662 0 0 0 0 0 120 90 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

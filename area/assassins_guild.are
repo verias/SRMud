@@ -1,0 +1,1183 @@
+#AREADATA
+Name {15 99} Kijan   Assassin's Guild~
+Builders Kijan~
+VNUMs 12875 12925
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#12875
+drow assassin~
+The Drow assassin~
+This large drow is barely visible from the shadows.
+~
+A large drow stands solemnly here barely visible from the shadows.  From
+what you can make out, he appears to have jet black hair that falls to his
+shoulders.  His piercing green eyes seem to peer into your soul as if to
+judge your worth.  His skin is as black as night, making it very hard to see
+him against the black stone.  He appears to be very tall for a drow,
+standing at least six feet.  His eyes seem to follow your every movement.  
+~
+human~
+A DFHOPQVZc -750 0
+101 50 13d1446+3994 101d10+100 6d11+30 crunch
+-45 -45 -45 -40
+BCEFJK 0 CDHJM N
+(null) (null) female 454
+AHMV ABCDEFGHIJK medium unknown
+#12876
+thalen~
+Thalen~
+Thalen stands here ready to train you.
+~
+You see a short thin drow figure before you.  His spiked black hair
+stands straight up in the air.  He is dressed in black clothing from head to
+toe, making him blend in very well in the dark room.  He looks over at you
+inquisitively, pondering if you need help training.  
+~
+human~
+ABJ FHO 0 0
+101 0 13d1446+3994 101d10+100 6d11+30 none
+-45 -45 -45 -40
+0 0 0 0
+(null) (null) male 454
+AHMV ABCDEFGHIJK medium unknown
+#12877
+tara drow assassin~
+Tara~
+Tara stands here twirling her dagger.
+~
+Tara is a medium height drow female.  She is wearing a black bodice and
+holding a very sharp dagger.  She looks over at you with a smile as she
+twirls her dagger in her hand.  Her long white hair flows down to just above
+her buttocks.  She is a stunningly beautiful woman, and appears to be very
+handy with a dagger.  
+~
+human~
+A HOV 0 0
+101 0 13d1446+3994 101d10+100 6d11+30 none
+-45 -45 -45 -40
+0 0 0 0
+(null) (null) male 454
+AHMV ABCDEFGHIJK medium unknown
+#12878
+gerchai drow smith~
+Gerchai~
+Gerchai, the guild smith, stands here working on a piece of armor.
+~
+You see a short stock drow male pounding out a piece of armor on an anvil.
+He is very muscular and appears to be very skilled at making armor.  His
+short black hair comes down just below his ears.  He is wearing a black
+apron tied carefully around his waist.  He is so busy, that he does not even
+acknowledge your presence.  
+~
+human~
+ABRW DFH 0 0
+101 0 13d1446+3994 101d10+100 6d11+30 none
+-45 -45 -45 -40
+0 ABLQ 0 0
+(null) (null) male 454
+AHMV ABCDEFGHIJK medium unknown
+#12879
+drow female analia~
+Analia~
+Analia stands here waiting to serve you a drink.
+~
+A beautiful drow female stands before you with long black hair. She is standing
+behind the bar making drinks of various kinds. She looks at you with a friendly
+smile as you glance at her.
+~
+human~
+ABRW HO 0 0
+101 0 13d1446+3994 101d10+100 6d11+30 none
+-45 -45 -45 -40
+0 0 0 0
+(null) (null) either 454
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#12875
+dagger black~
+a sharp black dagger~
+A sharp black dagger with a dark aura surrounding it.~
+obsidian~
+weapon ACJLT AN
+bow 12 16 crunch C
+100 3 500 P
+#12876
+key strange~
+an obsidian key~
+This obsidian key is attached to a small black string.~
+obsidian~
+key HSW AC
+0 0 0 0 0
+1 1 0 P
+#12877
+table~
+an obsidian table~
+A large obsidian meeting table is here.~
+obsidian~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+E
+table~
+A large obsidian table sits centered in the room.  There are several
+chairs around it as well as a large throne at its head.  Before every seat
+there is a symbol of a dagger engraved on the table.
+~
+#12878
+throne~
+a throne~
+A large and elaborate throne made of obsidian can be seen here.~
+obsidian~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+E
+throne~
+A large, elaborate throne sits at the head of the meeting table.  It
+appears to be carved out of a solid rock of obsidian.  The detailed
+engraving appears to be a large dragon coiled around the chair.  At the top
+of the chair is a large dragon head carved out of the stone.  
+~
+#12879
+obsidian fountain~
+an obsidian fountain~
+A large fountain made of obsidian sits in the center of the room.~
+obsidian~
+fountain 0 0
+5 500 'water' 0 0
+0 0 0 P
+E
+fountain~
+A large fountain sits in the center of the room carved from pure
+obsidian.  The water appears to be crystal clear as it falls from the
+ceiling into the pool in the floor.  
+~
+#12890
+arm band lotus~
+a lotus-adorned black arm band~
+A black leather armband with a lotus flower on it lies here~
+cotton~
+armor S AS
+BC BC BC B 0
+40 2 200 P
+A
+19 4
+#12891
+bracer lotus~
+a lotus-adorned black bracer~
+A black leather bracer adorned with a lotus symbol lies here.~
+leather~
+armor 0 AM
+BC BC BC B 0
+40 1 200 P
+A
+19 4
+#12892
+leggings lotus~
+lotus-adorned black leggings~
+Some leather leggings lie here adorned with a lotus symbol~
+leather~
+armor 0 AF
+BC BC BC B 0
+40 2 200 P
+A
+2 1
+A
+18 2
+#12893
+gloves lotus~
+black leather gloves~
+A pair of black leather gloves lie here.~
+leather~
+armor 0 AH
+BC BC BC B 0
+40 1 200 P
+A
+18 2
+A
+13 20
+#12894
+boots lotus~
+black leather boots~
+A pair of black leather boots lie here.~
+leather~
+armor 0 AG
+BC BC BC B 0
+40 0 200 P
+A
+13 20
+A
+19 2
+#12895
+sleeves lotus~
+black leather sleeves~
+A pair of black leather sleeves lie here.~
+leather~
+armor 0 AI
+BC BC BC B 0
+40 2 200 P
+A
+19 3
+A
+18 1
+#12896
+cloak lotus~
+a lotus-adorned black cloak~
+A black hooded cloak lies here~
+leather~
+armor 0 AZ
+BC BC BC B 0
+40 2 200 P
+A
+13 40
+#12897
+plate lotus chest~
+a lotus-adorned chestplate~
+A black leather chestplate lies here.~
+steel~
+armor 0 AD
+BC BC BC B 0
+40 4 200 P
+A
+5 1
+A
+19 1
+A
+18 1
+#12898
+ring signet lotus~
+an obsidian signet ring adorning a lotus symbol~
+A lotus-adorned signet ring~
+steel~
+protect AS AB
+A A A B 0
+80 0 100 P
+A
+19 4
+A
+18 4
+#12901
+dagger adamantium~
+a black adamantium dagger~
+A black adamantium dagger lies here.~
+adamantium~
+weapon 0 AN
+bow 31 3 crunch D
+60 1 200 P
+A
+18 2
+A
+19 2
+#12902
+dagger mithril~
+an extremely sharp {Wmithril{x dagger~
+A sharp mithril dagger lies here~
+mithril~
+weapon 0 AN
+bow 9 15 crunch D
+70 1 250 P
+A
+18 3
+A
+19 2
+#12903
+wicked serrated dagger~
+a wicked looking serrated dagger~
+A wicked looking serrated dagger lies here.~
+steel~
+weapon 0 AN
+bow 11 14 crunch D
+80 2 300 P
+A
+19 3
+A
+18 3
+#12910
+chalice ale~
+a chalice of drow ale~
+A large chalice of drow ale lies here.~
+mithril~
+drink 0 A
+4 4 'dark ale' 0 0
+1 0 3 P
+#12911
+stick grilled meat~
+a long stick with grilled meat on it~
+A long stick with some grilled meat on it lies here.~
+meat~
+food 0 A
+AC 0 0 0 0
+1 0 2 P
+#12912
+table~
+a large table~
+A large table with some chairs around it can be seen here.~
+wood~
+furniture R 0
+0 0 0 0 0
+1 0 0 P
+#12915
+key masters~
+a small obsidian key~
+A small obsidian key lies here.~
+obsidian~
+key HSW A
+0 0 0 0 0
+1 0 0 P
+#12916
+box~
+a small obsidian box~
+A small obsidian box can be seen here.~
+obsidian~
+container R 0
+100 ACD 12915 0 0
+0 0 0 P
+#12917
+flower lotus~
+a beautiful black lotus flower~
+This lotus flower is as beautiful as it is exotic.~
+flowers~
+treasure CE A
+0 0 0 0 0
+1 0 10 P
+#0
+
+
+
+#ROOMS
+#12875
+A Narrow Hallway~
+Smooth stone walls line this damp hallway.  Water seems to flow ever so
+slightly down their surface and disappear in small cracks on the floor.  A
+dank odor fills your nasal passages in this cramped space.  The humidity
+seems to be higher than usual.  The floor is as smooth as the surface of the
+walls, with small puddles of water gathering on it.  
+~
+0 8200 0
+E
+puddles~
+The small puddles are collecting water that is running off of the walls.  
+~
+E
+water~
+Water gently rolls down the walls to the floor where it seems to disappear into small cracks in the stone.
+~
+D0
+The hallway, and the stream continue to the north.
+~
+~
+~
+0 0 12876
+M 0 H 0
+S
+#12876
+A Narrow Hallway~
+The hallway is very narrow here.  Barely allowing you to pass through the
+smooth stone walls.  You can see a small stream of water running down the
+center of the hallway to the north.  Water drips from the ceiling and runs
+down the walls, collecting on the floor.  
+~
+0 8200 0
+D0
+The hallway, and the stream continue to the north.  The hallway appears
+to get smaller in that direction.  
+~
+~
+~
+0 0 12877
+D2
+The hallway, and the stream continue to the south.  The hallway appears
+to get wider in that direction.  
+~
+~
+~
+0 0 12875
+M 0 H 0
+S
+#12877
+A Turn In The Hallway~
+The small stream of water runs straight into the north wall where it
+begins to collect and run east.  The walls here are very smooth and narrow. 
+The absence of light combined with the sound of the running water gives this
+hallway an uneasy feel.  The ceiling is dry and slated towards the east.
+~
+0 8200 0
+D1
+The hallway, and the stream continue to the east. The hallway appears to get smaller in that direction.
+~
+~
+~
+0 0 12878
+D2
+The hallway, and the stream continue to the south.  The hallway appears
+to get wider in that direction.  
+~
+~
+~
+0 0 12876
+M 0 H 0
+S
+#12878
+A Narrow Hallway~
+The smooth tunnel walls are very narrow here, and the ceiling is only
+about five feet tall.  The stream of water is running through the hallway to
+the east.  The ceiling gets lower the further east you go, and the walls
+seem to close in as well. The stream of water continues to flow to the east.
+~
+0 8200 0
+D1
+The hallway becomes very narrow to the east.  You can tell from looking
+at it that no more than one person can fit into the opening there.  
+~
+~
+~
+0 0 12879
+D3
+The hallway, and the stream continue to the west. The hallway appears to get larger in that direction.
+~
+~
+~
+0 0 12877
+M 0 H 0
+S
+#12879
+A Turn In The Hallway~
+This room is so cramped that you have trouble moving around at all.  The
+hallway seems to open up to the north, and west.  You are forced almost to
+your knees by the low ceiling.  The smooth walls easily allow your body to
+slide against them to squeeze through the hall.  
+~
+0 8712 0
+D0
+A small opening to the north leads to what looks like a much larger room.
+~
+~
+~
+0 0 12880
+D3
+The hallway appears to become much wider to the west.
+~
+~
+~
+0 0 12878
+M 0 H 0
+S
+#12880
+A Dead End~
+This section of the hallway is very open allowing for plenty of room. 
+The opening to the south appears to be very small and cramped. 
+Unfortunately, that is the only obvious way out of this dead end.  The
+stream of water on the floor seems to disappear under the wall to the north.
+Along the bottom of the northern wall, you can make out tiny rocks of
+obsidian and some black dust.  
+~
+0 8200 0
+E
+water~
+The water runs down the walls and collects on the floor.  It appears to
+be flowing under the north wall somehow.  
+~
+E
+wall~
+The north wall appears solid and smooth, just like the other walls.  Upon
+further inspection, you notice small stones and dust at the bottom edge of
+the wall.  There also appears to be a small gap there, where the water is
+running under it.  
+~
+D0
+~
+wall~
+~
+4 12876 12885
+D2
+The small opening to the south looks very cramped.  You can tell from
+your view that only one person could fit into the hallway south.  
+~
+~
+~
+0 0 12879
+M 0 H 0
+S
+#12881
+Outside The Lotus Forge~
+Waves of head radiate from the west.  The room here is left baron except
+for a few torches hung on the wall to light your way.  The floor here is
+covered in soot and stained with smoke.  You can hear sounds of burning coal
+to the west, as well as the sound of metal banging against metal.  
+~
+0 1048584 0
+D2
+There is a large hallway to the south.
+~
+~
+~
+0 0 12882
+D3
+The radiating heat from the west can be felt against your face as you
+look that direction.  You can barely make out what appears to be a large
+forge from here.  
+~
+~
+~
+0 0 12899
+M 0 H 0
+S
+#12882
+An Obsidian Hallway~
+You stand in a very short hallway.  Two torches hung on the wall with
+mithril holders light the passage.  The light from the torches flickers off
+the shiny obsidian stone encasing the hallway.  The floor looks very
+elegant, carved with several drow symbols along the walls.  
+~
+0 1048584 0
+D0
+A barren room can be seen to the north.
+~
+~
+~
+0 0 12881
+D1
+The east opens up into a great hall.
+~
+~
+~
+0 0 12884
+M 0 H 0
+S
+#12883
+~
+~
+0 4 0
+M 0 H 0
+S
+#12884
+A Large Obsidian Chamber~
+You stand in the southwest corner of the great hall.  The flame to the
+northeast flickers off the obsidian walls.  There is a small hallway leading
+off to the west.  There is a glass case on the south wall that holds the
+most beautiful dagger you have ever seen.  The glass case is lined with
+obsidian which is carved with drow runes.  
+~
+0 1048584 0
+E
+case~
+A large obsidian case with a glass front is mounted on the south wall. 
+Along the obsidian edges are carved intricate runes that appear to be from a
+drow origin.  Inside the case is a magenta backing with two mithril hooks. 
+The mithril hooks are holding an absolutly beautiful dagger.  
+ 
+A beautiful dagger made from pure mithril is hanging in the case.  Down
+the blade of the dagger are similar runes to those on the case.  The dagger
+glows with a dark aura against the magenta backing.  The hilt of the dagger
+appears to be made from mithril imbued into obsidian carvings.
+~
+D0
+The great hall continues to the north.
+~
+~
+~
+0 0 12894
+D1
+The great hall continues to the east.
+~
+~
+~
+0 0 12885
+D3
+To the west, you can see a large hallway.
+~
+~
+~
+0 0 12882
+M 0 H 0
+S
+#12885
+A Large Obsidian Chamber~
+You stand in a large hall carved completely from obsidian.  The ceilings
+are at least twenty five feet tall.  The top of this hall is shaped like
+dome.  At the center of the ceiling, there is a large carving of a black
+lotus flower hanging down.  It appears to be directly positioned over the
+flame to the north.  
+~
+0 1048584 0
+D0
+You can feel the warmth on your face from the giant flame to the north.
+~
+~
+~
+0 0 12893
+D1
+The great hall continues to the east.
+~
+~
+~
+0 0 12886
+D2
+~
+wall~
+~
+4 12876 12880
+D3
+The great hall continues to the west.
+~
+~
+~
+0 0 12884
+M 0 H 0
+S
+#12886
+A Large Obsidian Chamber~
+In this corner of the great hall you can see elaborate tapestries hanging
+on the wall.  They show pictures of various things, all related to death in
+some fashion. You can see a large flame to the northwest.  Its warmth can
+be felt on your face as you stand here.  
+~
+0 1048584 0
+E
+flame~
+You can see a giant flame dancing atop a large statue of a black lotus to
+the northwest.  
+~
+E
+tapestries~
+Through deep symbolism, each tapestry depicts a form of death.  They
+appear to be very old, yet in reasonably good condition.  
+~
+D0
+The great hall continues to the north.
+~
+~
+~
+0 0 12887
+D3
+The great hall continues to the west.
+~
+~
+~
+0 0 12885
+M 0 H 0
+S
+#12887
+A Large Obsidian Chamber~
+In this section of the great hall you can still feel the warmth from the
+flame to the west.  The light dances off the obsidian ceiling, making the
+shadows flicker throughout the room.  There is a large painting on the north
+wall of a drow man.  
+~
+0 1048584 0
+E
+painting~
+An elegant painting hangs on the north wall displaying a drow male.  The
+male in the picture looks to be very regal.  His straight black hair
+cascades down his back.  The eyes of this man seem to peer out of the
+painting back at you.  He is dressed in all back, and holding a
+mithril dagger inscribed with drow runes.  The dagger is shown in such a way
+that depicts it having an evil glow about it.  
+~
+D1
+A large hallway leads off the great hall to the east.
+~
+~
+~
+0 0 12888
+D2
+You can see some tapestries on the wall to the south.
+~
+~
+~
+0 0 12886
+D3
+The warmth of the giant flame can be felt upon your face as you gaze to
+the west.  You can clearly see a large statue of a black lotus.  
+~
+~
+~
+0 0 12893
+M 0 H 0
+S
+#12888
+An Obsidian Hallway~
+You stand in a very short hallway.  Two torches hung on the wall with
+mithril holders light the passage.  The light from the torches flickers off
+the shiny obsidian stone encasing the hallway.  The floor looks very
+elegant, carved with several drow symbols along the walls.  
+~
+0 1048584 0
+E
+symbols~
+Several drow runes are carved into the floor, lining the walls.
+~
+D1
+The hallway opens up into a circular chamber to the east.
+~
+~
+~
+0 0 12889
+D3
+To the west you can see the room open up into the great hall.
+~
+~
+~
+0 0 12887
+M 0 H 0
+S
+#12889
+A Circular Chamber~
+The obsidian rock in this room appears very smooth as it curves around to
+form a circular chamber.  A large hole in the ceiling is allowing a steady
+stream of water to fall in the form of a funnel down to the fountain on the
+floor.  Between each of the four exits from this room, hang elaborate
+tapestries on the walls all possessing the same symbol, the black lotus.  
+~
+0 1048584 0
+E
+water~
+A large hole in the ceiling allows a stream of water to pour down into the pool of the fountain below.
+~
+E
+hole~
+A large hole in the ceiling allows a stream of water to pour down into the pool of the fountain below.
+~
+D0
+The north passage opens up into a large room.
+~
+~
+~
+0 0 12890
+D1
+The eastern passage has a sign above it that reads, 'Bar of the Black
+Lotus'.  
+~
+~
+~
+0 0 12891
+D2
+The south passage opens up into a large room with a padded floor.
+~
+~
+~
+0 0 12892
+D3
+A large hallway leads off to the west.
+~
+~
+~
+0 0 12888
+M 0 H 0
+S
+#12890
+The Training Hall~
+This large hall is setup to serve many different purposes.  Along the
+north wall you can see a very long obstacle course that seems like it would
+take a lot of agility to complete.  Along the east wall there are
+bookshelves full of manuals and books on the art of fighting, as well as
+several other subjects.  Across from the bookshelves are a series of large
+stones with handles of steel connected to them.  On the wall above the
+series of stones are several tools that look as if they only serve purpose
+to inflict pain on another.  
+~
+0 1048584 0
+E
+stones~
+Many sets of two large stones, connected by a steel bar.  It appears as
+if these would be used for lifting.  
+~
+E
+bookshelves~
+The bookshelves are filled with books on all sorts of subjects ranging
+from the history of Discordia, to modern fighting techniques.  
+~
+E
+course~
+A large obsticle course is aginst the south wall.  You can see several
+barriers made from stone.  There is also some contraption that has sharp
+objects sticking out of it that appears to be spinning.  
+~
+D2
+You can see a circular chamber to the south.
+~
+~
+~
+0 0 12889
+M 0 H 0
+S
+#12891
+The Bar Of The Black Lotus~
+Large barrels of ale line the back wall of this dirty bar.  A small
+counter sits in front of the barrels that appears to be carved out of
+obsidian.  The walls here are bare stone with the exception of a few torches
+lighting the establishment.  The smell of spilt ale fills the room from
+small puddles of it all over the floor.  
+~
+0 1048584 0
+E
+barrels~
+Large oak barrels that appear unweathered sit aginst the back wall.
+~
+D3
+The exit to the west opens up into a large circular chamber.
+~
+~
+~
+0 0 12889
+M 0 H 0
+S
+#12892
+The Practice Hall~
+Practice dummies sit in rows in this room.  Against the walls are racks
+of swords and daggers that appear to be dull.  The floor is covered with a
+matting that makes it softer than the stone outside.  There are ceremonial
+banners hung on the walls all showing the symbol of the black lotus.  
+~
+0 1048584 0
+E
+racks~
+The racks hold wooden weapons that are blunted.  They appear to be
+training weapons.  
+~
+E
+dummies~
+The dummies seem to be made of stretched cloth over some sort of
+stuffing.  Each has the shape of a different type creature.  You can see
+cirtian points marked on each dummy indicating the places to mortally wound
+that creature.  
+~
+D0
+The north exit opens into a large circular chamber.
+~
+~
+~
+0 0 12889
+M 0 H 0
+S
+#12893
+A Large Obsidian Chamber~
+You stand at the northern section of the large obsidian hall.  In the
+center of this section there is a huge carving of a black lotus made from
+solid obsidian.  The gigantic flower stands roughly ten feet tall and is
+carved with the greatest detail.  There appears to be some words inscribed
+at the bottom of the statue.  In the center of the flower is a large flame
+lighting the entire hall.  
+~
+0 1048584 0
+E
+words~
+The words at the bottom of the statue read, 'The Black Lotus Society'.
+~
+E
+lotus~
+A 10 foot tall statue of a black lotus sits here.  It is carved in the
+greatest detail from solid obsidian.  A large flame is dancing out of the
+center of the statue, lighting the entire hall.  You can feel the warmth of
+the flame aginst your skin as you look upon it.  
+~
+D0
+A large hallway leads off to the north.
+~
+~
+~
+0 0 12895
+D1
+The great hall continues to the east.
+~
+~
+~
+0 0 12887
+D2
+The great hall continues to the south.
+~
+~
+~
+0 0 12885
+D3
+The great hall continues to the west.  The flame atop the lotus flower
+flickers off some drow script in that direction.  
+~
+~
+~
+0 0 12894
+M 0 H 0
+S
+#12894
+A Large Obsidian Chamber~
+The warmth from the great flame can be felt from the east.  Its glow
+radiates through this section of the great hall illuminating the wall to the
+west.  On the wall, you see a long script that appears to be written in
+elven.  There is a small plaque under the script.  
+~
+0 1048584 0
+E
+plaque~
+Wrapped in the shadows
+We find peace within the darkness
+May our percision deliver the same peace to others
+ 
+It must be a translation of the drow script above.
+~
+E
+script~
+A beautiful length of drow script is carved into the wall with beautiful
+percision.  There is a small plaque of mithril under the script with some
+writing on it.  
+~
+D1
+To the east you can see a huge statue of a black lotus.  From the center
+of the flower protrudes a giant flame.
+~
+~
+~
+0 0 12893
+D2
+The great hall continues to the south.  You can barely make out what
+looks like an obsidian case holding a metal object.  
+~
+~
+~
+0 0 12884
+M 0 H 0
+S
+#12895
+An Obsidian Hallway~
+You stand in a very short hallway.  Two torches hung on the wall with
+mithril holders light the passage.  The light from the torches flickers off
+the shiny obsidian stone encasing the hallway.  The floor looks very
+elegant, carved with several drow symbols along the walls.  
+~
+0 1048584 0
+D0
+The hallway leads north into a large hall.
+~
+~
+~
+0 0 12897
+D2
+The south opens up into the Great Hall.
+~
+~
+~
+0 0 12893
+M 0 H 0
+S
+#12896
+The Masters Chambers~
+A large obsidian chamber lighted by two large torches on opposite walls. 
+In the center of this room is a large bed carved from obsidian.  It is
+covered with black fur pelts layered to make it very soft.  Across from the
+bed is a large stand that appears to be designed to hold a suit of armor.  A
+set of cabinets sits next to the stand with a small obsidian box on top of
+it.  
+~
+0 1048584 0
+E
+cabinets~
+A large set of cabinest is here made from solid obsidian.  Sitting on top
+of it is a small, obsidian box.  
+~
+E
+bed~
+A large bed carved from solid obsidian sits in the center of the south
+wall.  It is covered with black fur and appears to be very soft.  
+~
+D1
+~
+~
+~
+4 12915 12897
+M 0 H 0
+S
+#12897
+The Initiation Hall~
+This long hall has a beautiful engraved floor.  Intricate carvings in the
+obsidian take the shape of a sort of drow tribal art.  In the center of the
+floor is a huge engraving of a black lotus flower.  Against the walls are
+ceremonial tapestries adorning the lotus symbol.  In between each tapestry is
+a standing suit of armor pressed with the same symbol as the tapestries. 
+The whole room has a very ceremonial feel to it.  To the south are four
+steps carved from obsidian with a yellow carpet leading up the center of
+them.  At the top of the steps is a sort of altar carved from obsidian.  
+~
+0 1048584 0
+E
+altar~
+A small altar carved from pure obsidian sits atop the stairs.  On the top
+of the alter there is a black dagger sticking straight out.  The dagger is
+engraved with strange runes.  The hilt of the dagger appears to be made from
+gold wire intertwined around an obsidian shaft.  
+~
+E
+suits~
+The suits of armor are standing between the tapestries.  Each suit of
+armor has the same symbol that adorns the tapestries upon the chest.  
+~
+E
+tapestries~
+Long tapestries hang from the ceiling inbetween the suits of armor.  They
+each have the symbol of the Black Lotus on them.  
+~
+E
+engraving~
+A large engraving of a lotus flower is in the center of the floor.
+~
+E
+carvings~
+Tribal drow symbols are carved in the floor leading up to the stairs.
+~
+E
+tapestries~
+Long tapestries hang from the walls showing the symbol of the black lotus.
+~
+D1
+There is a large room off to the east. You can make out what appears to be an obsidian table in the center of it.
+~
+~
+~
+0 0 12898
+D2
+A large hallway leads off to the south.
+~
+~
+~
+0 0 12895
+D3
+~
+~
+~
+4 12915 12896
+M 0 H 0
+S
+#12898
+A Large Meeting Room~
+A large table sits in the center of this circular shaped room.  The walls
+appear to be carved out of solid obsidian.  There are several chairs around
+the table, and a large throne at the head of it.  Elaborate tapestries hang
+on the walls.  Torches hang on the walls in between the tapestries lighting
+the room.  
+~
+0 1048584 0
+E
+tapestries~
+Several tapestries hang in this circular room.  They depict many things
+but a few of them stand out.  One tapestry depicts different battles of the
+ancient war in great detail.  
+~
+E
+chairs~
+Several chairs sit around the large table in the center of the room. 
+Before each chair is an engraving of a dagger cut into the stone.  
+~
+E
+table~
+A large obsidian table sits centered in the room.  There are several
+chairs around it as well as a large throne at its head.  Before every seat
+there is a symbol of a dagger engraved on the table.  
+~
+D3
+~
+~
+~
+0 0 12897
+M 0 H 0
+S
+#12899
+A Large Obsidian Armory~
+You stand within the Black Lotus Armory.  The walls are lined with suits
+of armor and adorned with the symbol of the black lotus.  There is a large
+forge against the western wall.  Next to the forge sits an adamantium anvil.
+There are vents in the ceiling leading upward, yet no daylight shows through
+them.  A small weapons cabinet sits here full of various types of daggers. 
+They all appear to be locked within the case.  
+~
+0 1048584 0
+E
+anvil~
+A HUGE anvil made of pure adamantium sits next to the forge.  It is used
+to craft the finest drow daggers that Gerchai can make.  
+~
+E
+forge~
+A large steel forge has waves of heat rising off it into the vents in the ceiling.
+~
+E
+case~
+Many daggers sit inside this obsidian display case.  They all appear to
+be very sharp, and very well made.  
+~
+D1
+A barren room can be seen to the east.
+~
+~
+~
+0 0 12881
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 12880 0 2
+D 0 12885 2 2
+D 0 12896 1 2
+D 0 12897 3 2
+M 0 12875 1 12880 10
+E 0 12875 0 16
+O 0 12879 0 12889
+M 0 12876 1 12890 10
+M 0 12879 1 12891 10
+G 0 12910 0
+G 0 12911 0
+G 0 12917 0
+O 0 12912 0 12891
+M 0 12877 1 12892 10
+O 0 12916 0 12896
+P 0 12876 0 12916 10
+O 0 12877 0 12898
+O 0 12878 0 12898
+M 0 12878 1 12899 10
+G 0 12890 0
+G 0 12891 0
+G 0 12892 0
+G 0 12893 0
+G 0 12894 0
+G 0 12895 0
+G 0 12896 0
+G 0 12897 0
+G 0 12901 0
+G 0 12902 0
+G 0 12903 0
+G 0 12898 0
+S
+
+
+
+#SHOPS
+12878 5 9 11 0 0 120 50 0 23
+12879 0 17 19 0 0 120 80 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,4074 @@
+#AREADATA
+Name { 1  5} RODCo   Oba's Training Mansion~
+Builders Sighel~
+VNUMs 3650 3799
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#3650
+mock guard golem~
+a guard~
+A golem guard stands here ready to detect would be thieves.
+~
+The guard is little more than a simple golem.  It stands about five feet
+tall and is clad in simple breeches and a tunic.  The guard's skin is pure
+white and it's face has no eyes.  It is probably blind.  You can detect a
+shallow breathing coming from the guard: it may be a thing of magic but it
+is obviously at least slightly alive.  
+~
+human~
+A A 0 0
+1 0 1d2+8 1d10+100 1d1+0 none
+9 9 9 10
+0 0 0 0
+(null) (null) male 4
+AHMV ABCDEFGHIJK medium unknown
+#3651
+large venomous butterfly~
+a large venomous butterfly~
+A large venomous butterfly flutters in the air.
+~
+The large wings on the butterfly look so delicate as the bright colours
+do nothing to hide the transparency of the wings themselves.  The black body
+of this beauty has to be the largest you've ever seen for a butterfly, and
+you can make out the small hairs covering it.  The antenna twitch slightly
+upon your approach.  
+~
+song bird~
+A T 0 0
+1 0 1d2+8 1d10+100 1d1+0 crush
+9 9 9 10
+FH 0 0 I
+(null) (null) male 4
+AGW ACDEFHKOP large unknown
+#3652
+small white wildcat kitten~
+a small wildcat kitten~
+A small white wildcat kitten plays in the grass, oblivious to its surroundings.
+~
+A small kitten romps and attacks blades of grass as it practices its
+hunting techniques.  The solid white of its fluffy fur make its bright blue
+eyes seem to glow.  
+~
+cat~
+A Z 0 0
+2 0 1d5+19 2d10+100 1d1+0 magic
+9 9 9 9
+FH 0 0 0
+(null) (null) none 9
+AGV ACDEFHJKQUV medium unknown
+#3653
+snail~
+a huge snail~
+A huge snail leaves a large slime trail as it moves.
+~
+The largest snail you've ever seen cranes its eye stalks around to see
+you approach.  The shell on this creature could act as a bench for you.  
+~
+centipede~
+A Z 0 0
+1 0 1d2+8 1d10+100 1d1+0 grep
+9 9 9 10
+0 0 FI E
+(null) (null) male 4
+ABGOQ ACDFKMPX medium unknown
+#3654
+giant rabbit~
+an oddly large white rabbit~
+An oddly large white rabbit hops along, sniffing the air.
+~
+The size of the rabbit is rather overwhelming, as it is much larger than
+any normal rabbit.  Large shining white teeth look a little threatening as
+the rabbit looks to you, pink nose twitching madly.  
+~
+rabbit~
+A 0 0 0
+2 0 1d5+19 2d10+100 1d1+0 crush
+9 9 9 9
+FH 0 0 0
+(null) (null) male 9
+AGV ACDEFHJKP medium unknown
+#3655
+red fox~
+a wiley red fox~
+A large red fox snaps its teeth at you.
+~
+The fur on the back of the fox stands on edge and quivers slightly as its
+nose is raised in the air, smelling your approach.  It watches you warily,
+moving into a pounce and attack position as you draw closer, snapping its
+jaws, giving you warning.  
+~
+fox~
+A Z 0 0
+3 0 1d7+30 3d10+100 1d2+0 shbite
+9 9 9 9
+FH 0 0 0
+(null) (null) male 13
+AGV ACDEFHJKPQUV medium unknown
+#3656
+sparrow~
+a singing sparrow~
+A singing sparrow swoops through the air near your head.
+~
+This small sparrow doesn't look so innocent and cute as it swoops by your
+head, protecting its territory.  
+~
+song bird~
+A T 0 0
+1 0 1d2+8 1d10+100 1d1+0 divine
+9 9 9 10
+FHR 0 0 0
+(null) (null) male 4
+AGW ACDEFHKOPU medium unknown
+#3657
+porcupine~
+a spiky porcupine~
+A large porcupine bristles its spikes up at you.
+~
+This extremely large porcupine stumbles out of the bushes with leaves
+caught on some of its spikes.  Its nose twitches wildly at your approach.  
+~
+lizard~
+A 0 0 0
+4 0 1d10+41 4d10+100 1d2+0 magic
+8 8 8 8
+0 0 L I
+(null) (null) none 18
+AGVXc ACDEFHKLPQUVX medium unknown
+#3658
+raccoon~
+a mischievous raccoon~
+A large mischievous raccoon cleans its paws eyeing you carefully.
+~
+Though rather large for its race, this raccoon looks at you timidly,
+deciding whether to run away or not.  
+~
+rabbit~
+A 0 0 0
+3 0 1d7+30 3d10+100 1d2+0 slash
+9 9 9 9
+FH 0 0 0
+(null) (null) none 13
+AGV ACDEFHJKPU medium unknown
+#3659
+crow~
+a large black crow~
+A large black crow cocks its head at you, eyeing you.
+~
+The blackness of this crow makes it hard to see amongst the shadows as it
+eyes you and plans its attack on you.  
+~
+unique~
+A CDEFGTVZc 0 0
+3 0 1d7+30 3d10+100 1d2+0 divine
+9 9 9 9
+FH 0 0 S
+(null) (null) male 13
+ACGHMVW ABCDEFGHIJKOPUV medium unknown
+#3660
+large black bear~
+a large black bear~
+A large black bear doesn't like you being in his home.
+~
+A large black bear stares at you with bloodshot eyes.  He looks vicious
+as he bares his teeth to scare you off.  
+~
+bear~
+A 0 0 0
+5 0 1d12+53 5d10+100 1d2+1 claw
+8 8 8 8
+DEO 0 EI 0
+(null) (null) male 22
+AGV ABCDEFHJKPUV huge unknown
+#3661
+wild boar~
+a wild boar~
+A wild boar grunts madly at you.
+~
+The hair on the boar bristles on its neck at your approach and it shakes
+its head grunting at you.  It scuffs a hoof into the dirt, stomping it,
+trying to scare you away.  
+~
+pig~
+A 0 0 0
+4 0 1d10+41 4d10+100 1d2+0 none
+8 8 8 8
+0 0 0 0
+(null) (null) male 18
+AGV ACDEFHJKP medium unknown
+#3662
+horned owl~
+a horned owl~
+A horned owl stares unblinkingly at you from a branch.
+~
+The owl ruffles his feathers upon your entrance into his little world. 
+He side-steps along the branch, agitated and uncertain.  
+~
+song bird~
+A T 0 0
+4 0 1d10+41 4d10+100 1d2+0 divine
+8 8 8 8
+FH 0 0 0
+(null) (null) male 18
+AGW ACDEFHKOP medium unknown
+#3700
+acolyte cleric~
+the acolyte of Eris~
+An acolyte of Eris welcomes you to mud school.
+~
+Like the god he worships, the acolyte is huge and dangerous looking. His
+face seems troubled and filled with discord.
+~
+human~
+A CH 1000 0
+30 10 10d60+520 30d10+100 3d6+8 bite
+-1 -1 -1 0
+ACEFHIKN ABCD 0 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#3701
+Noserab~
+Noserab~
+{WA giant with a mischievous look in his eye winks at Tizi and says "Sure!".{x
+~
+{xNoserab is a giant among giants.  He says 'Sometimes in this realm combat is
+required of adventurers such as yourself.
+ 
+The first lesson is knowing whom to fight.  Use the command '{YCONSIDER{x' to
+consider killing a monster.  Consider me now ({CCONSIDER NOSERAB{x).  Avoid 
+fighting monsters that will kill you easily.
+
+The second lesson is running away.  You and I will spar but you'll not be able 
+to best me.  I am too strong for you to kill, but I won't kill you.  When you 
+feel ready type '{CKILL NOSERAB{x'.  After a while, type '{RFLEE{x' to
+escape.  You will be in an adjoining room after you flee.  Find your way back 
+here.
+
+You can also set your character to flee automatically with the '{YWIMPY{x' 
+command. Type '{CHELP WIMPY{x' to find out more about '{RWIMPY{x'.
+
+When you are ready to try your hand at real combat in which someone is going
+to die, go north.
+~
+human~
+A C 0 0
+5 -5 1d12+53 5d10+100 1d2+1 pierce
+8 8 8 8
+AN AB CD I
+(null) (null) female 22
+ABHMSVc ABCDEFGHIJK large unknown
+#3702
+kobold houseguest~
+a kobold houseguest~
+A kobold houseguest looks at you with challenge in his eyes.
+~
+He looks mean and out of place as a houseguest.  You should definitely be
+able to kill him since he appears undernourished and weak.  
+~
+school monster~
+ABRU 0 0 0
+1 0 1d2+8 1d10+100 1d1+0 slash
+9 9 9 10
+0 AB 0 C
+(null) (null) male 4
+AMV ABCDEFHJKPQUWY medium unknown
+#3703
+snivelling houseguest~
+a snivelling houseguest~
+A snivelling houseguest is mumbling about the state of his accommodations.
+~
+He looks wimpy.  You can most likely kill him, if he doesn't run away
+from you first.  
+~
+school monster~
+ABRU 0 0 0
+1 0 1d2+8 1d10+100 1d1+0 slash
+9 9 9 10
+O AB 0 C
+(null) (null) male 4
+AMV ABCDEFHJKPQUWY medium unknown
+#3704
+fat houseguest grumpy~
+a fat and grumpy houseguest~
+A fat and grumpy houseguest is angered by your intrusion.
+~
+He doesn't look very pleasant to be around.  In fact, he's down right
+rude and he attacks you as soon as you enter the room.  It is likely though,
+that you will be able to teach him a lesson.  
+~
+school monster~
+ABRU 0 0 0
+1 0 1d2+8 1d10+100 1d1+0 slash
+9 9 9 10
+EK AB 0 C
+(null) (null) male 4
+AMV ABCDEFHJKPQUWY medium unknown
+#3705
+lazy houseguest~
+a lazy houseguest~
+A lazy houseguest throws his clothing in a pile at the end of the bed.
+~
+He's a normal enough looking guy, here on holiday.  He enjoys the
+pampered life style of a guest of Oba's.  He'll probably assume that you are
+here to make him leave and attack but will run away as soon as he realizes
+that he's in combat.  
+~
+school monster~
+ABRU 0 0 0
+1 0 1d2+8 1d10+100 1d1+0 slash
+9 9 9 10
+J AB 0 C
+(null) (null) male 4
+AMV ABCDEFHJKPQUWY medium unknown
+#3706
+priest dwarven Ul'Nuggan~
+Ul'Nuggan~
+A dwarven priest chants prayers to his god in a darkened room.
+~
+Ul'Nuggan is a dark priest who chants in an unfamiliar tongue.  He nods
+at Tizi as she tells you that you must best him in order to obtain the key
+to continue your training.  He knows that he will be more challenging than
+anything you have encountered so far.  
+~
+school monster~
+ABRU JZ 0 0
+2 1 1d5+19 2d10+100 1d1+0 slash
+9 9 9 9
+FN AB 0 C
+(null) (null) male 9
+AMV ABCDEFHJKPQUWY medium unknown
+#3707
+Jade healer adept~
+Jade~
+{WA slight figure stands near the center of the room, humming. ({CLOOK JADE{W).{x
+~
+{xA slight figure kneels serenely on a thick woven rug near the center of the 
+hallway.  She smiles warmly at you and invites you to rest on her rug with
+her.
+ 
+"At times, adventurer, you will have need of rest, to recover from the wounds
+that you acquire and to regain your stamina.  At times like this it is best to
+{CSLEEP{x.  When you have sufficiently recovered, you can {CWAKE{x and continue
+on your journey.
+ 
+If you wish to sleep here, I will assist you in healing and bestow blessings
+on you for free as long as you are level 10 or less.
+~
+human~
+ABTW CH 1000 0
+30 10 10d60+520 30d10+100 3d6+8 bite
+-1 -1 -1 0
+ACEFHIKN ABCD 0 0
+(null) (null) either 135
+AHMV ABCDEFGHIJK medium unknown
+#3708
+Justice kindly adept~
+Justice~
+A kindly tervadi woman encourages you in your final test ({CLOOK JUSTICE{x)
+~
+An elderly tervadi woman with pale green eyes speaks some kind words of
+encouragement.  She will help you as much as she is allowed in your final
+test.  
+ 
+{GShe says{x, 'When you are finished here, go north.
+~
+human~
+AB CH 1000 0
+30 10 10d60+520 30d10+100 3d6+8 bite
+-1 -1 -1 0
+ACEFHIKN ABCD 0 0
+(null) (null) either 135
+AHMV ABCDEFGHIJK medium unknown
+#3709
+baby rust monster~
+a baby rust monster~
+A baby rust monster is busy devouring some scrap metal.
+~
+This small odd looking creature is completely hairless. Although quite
+harmless looking, its short stumpy legs end with sharp, pointy claws.
+It looks up at you from its meal and sniffs the air. 
+~
+rabbit~
+A 0 100 0
+1 0 1d2+8 1d10+100 1d1+0 slash
+9 9 9 10
+FH 0 0 0
+(null) (null) none 4
+AGV ACDEFHJKP tiny unknown
+#3710
+spotted gecko~
+a spotted gecko~
+A spotted gecko scurries across the floor after some insects.
+~
+This medium sized lizard is about 3 feet in length and is adorned with
+numerous, leopard like spots. It feeds on the many large insects infesting
+this place.
+~
+unique~
+A 0 -100 0
+2 0 1d5+19 2d10+100 1d1+0 crush
+9 9 9 9
+R L L I
+(null) (null) none 9
+ACGHMVXc ABCDEFGHIJKMQUV small unknown
+#3711
+boar~
+the boar~
+A rabid boar grunts and snorts at you.
+~
+This boar looks quite rabid and dangerous, perhaps now would be a good time
+for you to make your exit. It squeals and grunt at you and looks as if it
+may charge.
+~
+pig~
+A 0 0 0
+3 1 1d7+30 3d10+100 1d2+0 suction
+9 9 9 9
+CDFR 0 0 0
+(null) (null) none 13
+AGV ACDEFHJKP medium unknown
+#3712
+cooshe pup~
+a cooshe pup~
+A cooshe pup piddles on the floor.
+~
+Young and annoyingly cute and furry, this cooshe pup piddles on the floor
+in fear as it sees you. It quickly recovers however and begins to chase its
+tail.
+~
+fox~
+A Z 100 0
+1 1 1d2+8 1d10+100 1d1+0 crush
+9 9 9 10
+FHNR 0 0 0
+(null) (null) none 4
+AGV ACDEFHJKPQUV small unknown
+#3713
+rock slug~
+a rock slug~
+A rock slug leaves a trail of ooze on the floor.
+~
+Small and grey in color, this rubbery rock slug could easily be crushed
+underneath the weight of your foot. minding its own business, it quietly
+oozes across the floor.
+~
+unique~
+A 0 0 0
+1 0 1d2+8 1d10+100 1d1+0 pierce
+9 9 9 10
+0 0 0 0
+(null) (null) male 4
+AGQc AFHM tiny unknown
+#3714
+young gibbering mouther~
+a young gibbering mouther~
+A young gibbering mouther shrieks from a thousand mouths.
+~
+This ooze like creature had a thousand mouths and eyes protruding from its
+ooze like form. It shrieks as it sees you and moves towards you with
+hunger in its many eyes.
+~
+school monster~
+ARU Z 0 0
+5 1 1d12+53 5d10+100 1d2+1 crush
+8 8 8 8
+CEK AB HI C
+(null) (null) male 22
+AMV ABCDEFHJKPQUWY large unknown
+#3715
+bugbear~
+a bugbear~
+A horrendous bugbear lumbers towards you.
+~
+The result of some magical experiment gone wrong, the bugbear looks like
+a deadly opponent. It growls at you and you can see the faint moisture
+of drool forming on its maw as it prepares to make a meal of you.
+~
+bear~
+A 0 0 0
+4 1 1d10+41 4d10+100 1d2+0 slash
+8 8 8 8
+CDEOR 0 EI 0
+(null) (null) none 18
+AGV ABCDEFHJKPUV large unknown
+#3716
+warg~
+a fearsome warg~
+A fearsome warg howls as it attacks.
+~
+This creature is much like a wolf, however it is much larger and is twisted.
+It is almost as if at some time an evil mage took a wolf and warped and
+changed it though some fearsome magical spell. It looks quite hungry and
+dangerous.
+~
+unique~
+A FJZ 0 0
+4 0 1d10+41 4d10+100 1d2+0 crush
+8 8 8 8
+FHNR 0 I H
+(null) (null) none 18
+AGHMV ABCDEFGHIJKLPQUV medium unknown
+#3717
+Mercand fence lacerti~
+Mercand, the fence~
+{xA disgusting lacerti fence doesn't look you in the eye ({CLOOK LACERTI{x).
+~
+{xMercand has a constant tick in his left eye.  He is a lacerti, also
+known as a lizardman.  He wears a long cape which he keeps close around
+him.  There are bulges in it, as if on the inside there are pockets full
+of items.
+
+You will probably find it necessary to buy things from time to time 
+as you don't look like you'll become as an accomplished thief as I for 
+quite some time, if ever. 
+
+You will find shopkeepers throughout the realm.  In the presence of a
+shopkeeper, you can use these commands:
+
+    {GBUY{x    Buy an item
+    {CLIST{x   List what is for sale
+
+After buying some food and drink, you can '{REAT{x' and '{MDRINK{x' it.
+Keep in mind that some shops also purchase items. You will want to
+'{YVALUE{x' an item before you '{GSELL{x' it.
+~
+human~
+ABRW CH 1000 0
+30 10 10d60+520 30d10+100 3d6+8 bite
+-1 -1 -1 0
+ACEFHIKN ABCD 0 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#3718
+Oba mystic~
+an old mystic~
+{WOba looks at you with a discerning eye. ({CLOOK OBA){x
+~
+{xOba{x is very old, and her wrinkle-framed eyes suggest that she has had
+many experiences from which you could benefit.  She donated her families
+mansion for the training of new adventurers such as yourself.  She doesn't
+smile but says,
+
+'I will help you train your attributes when you have achieved sufficient
+prowess to merit my attention.  To train an attribute, you need enough
+trains accumulated.  To find out how many training sessions you have, type
+'{Ytrain{x' while you are in this room.  To train for a specific attribute,
+type '{Ctrain{x {M<attr>{x' where attr is the first 3 letters of the
+attribute you want increased.  Type {RHELP TRAIN{x for more information.'
+ 
+Some of the realm's trainers also allow you to learn new skills. This is done
+by converting your trains into new skills. Type '{Bhelp gain{x' for further
+information.
+~
+human~
+ABJU CH 1000 0
+30 10 10d60+520 30d10+100 3d6+8 bite
+-1 -1 -1 0
+ACEFHIKN ABCD 0 0
+(null) (null) either 135
+AHMV ABCDEFGHIJK medium unknown
+#3719
+Kinori~
+Kinori~
+{WA tall man in long grey robes nods at Tizi and assesses you ({CLOOK KINORI{x).
+~
+{xAn impressively built man looks at you with cold grey eyes.  He bows slightly
+at the waist and begins to speak:
+ 
+"Welcome to the realm, young adventurer.  
+
+Here you will learn your skills and spells. To find out what skills and 
+spells you can practice and how many practice  sessions you have, type 
+'{Ypractice{x'.  To practice the specific skill, type '{Cpractice{x 
+{B<skill>{x', where '{Cskill{x' is the skill or spell you wish to 
+practice.  Practicing increases the amount you know of that skill or 
+spell, up to a certain maximum."
+~
+unique~
+ABK CHJ 1000 0
+30 10 10d60+520 30d10+100 3d6+8 bite
+-1 -1 -1 0
+ACEFHIKN ABCD B Z
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#3720
+lanky elven warrior~
+a lanky elven warrior~
+A lanky elven warrior circles you.  You must defeat him to prove that you've learned your way.
+~
+A lanky elven warrior sneers at you.  It is obvious that he doesn't
+believe that you are ready to enter the realm.  You will have to teach him a
+lesson!  
+~
+school monster~
+ABRU J 0 0
+3 1 1d7+30 3d10+100 1d2+0 bite
+9 9 9 9
+EFN AB 0 C
+(null) (null) male 13
+AMV ABCDEFHJKPQUWY medium unknown
+#0
+
+
+
+#OBJECTS
+#3650
+mahogany table~
+a table~
+A beautiful mahogany table stands here.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+E
+table~
+The table is well polished a beautiful to look at.  The entire table has
+been made from high quality wood and appears to have been made by one who
+was skilled at their work.  The surface of the table has been marred by ugly
+scratches that make up the phrase "Alasdair was here".  
+~
+#3651
+chair chairs~
+a chair~
+A chair is here.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+E
+chair~
+The chairs are straight backed and made of mahogany.  They look fairly
+expensive but far too bulky to move around much.  
+~
+E
+chairs~
+The chairs are straight backed and made of mahogany.  They look fairly
+expensive but far too bulky to move around much.  
+~
+#3652
+brass lantern lanterns~
+a brass lantern~
+A brass lantern casts out a bright light.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 5000 0 P
+E
+lantern~
+The lanterns are made of coloured glass and brass and contain a wick in a
+pool of oil.  The lantern is burning brightly.  
+~
+E
+brass~
+The lanterns are made of coloured glass and brass and contain a wick in a
+pool of oil.  The lantern is burning brightly.  
+~
+E
+lanterns~
+The lanterns are made of coloured glass and brass and contain a wick in a
+pool of oil.  The lantern is burning brightly.  
+~
+#3653
+desk desks~
+a desk~
+You can see a desk here.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 5000 0 P
+E
+desk~
+The desk is made of a single wooden board and four wooden legs.  It seems
+to have been built to be used frequently rather than to look pretty.  
+~
+E
+deasks~
+~
+E
+desks~
+The desk is made of a single wooden board and four wooden legs.  It seems
+to have been built to be used frequently rather than to look pretty.  
+~
+#3654
+piano instrument~
+piano~
+A piano sits here.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+E
+piano~
+The piano is very large - too large to have fit through the current
+doorway.  It stands about four feet in height and is beautiful to look at.  
+~
+E
+instrument~
+The piano is very large - too large to have fit through the current
+doorway.  It stands about four feet in height and is beautiful to look at.  
+~
+#3655
+obsidian altar~
+an altar~
+An altar is here.~
+unknown~
+container R 0
+5000 B 0 0 0
+0 0 0 P
+E
+altar~
+The altar is made from a large slab of obsidian on top of another block
+of the same black stone.  The altar has been carved with semi-mystical and
+vaguely religious runes and other etchings.  
+~
+E
+obsidian~
+The altar is made from a large slab of obsidian on top of another block
+of the same black stone.  The altar has been carved with semi-mystical and
+vaguely religious runes and other etchings.
+~
+#3656
+steel knife~
+a steel knife~
+A steel knife, suitable for cutting or stabbing, lies here.~
+unknown~
+weapon 0 AN
+bow 1 5 stab 0
+1 4 5 P
+#3657
+prayer mat~
+prayer mat~
+A prayer mat lies here~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 5000 0 P
+E
+prayer~
+The prayer mat has been finely woven from thick wool and then dyed dark
+red in colour.  It's purpose is to allow the devout to kneel in comfort
+while communicating with the gods.  
+~
+E
+mat~
+The prayer mat has been finely woven from thick wool and then dyed dark
+red in colour.  It's purpose is to allow the devout to kneel in comfort
+while communicating with the gods.  
+~
+#3658
+marble pedestal~
+a pedestal~
+A marble pedestal stands here.~
+unknown~
+container R 0
+500 0 0 0 0
+0 5000 0 P
+E
+pedastal~
+The pedestal is a squat pillar of marble about a meter high.  It gives
+off a very faint white glow.  
+~
+E
+marble~
+The pedestal is a squat pillar of marble about a meter high.  It gives
+off a very faint white glow.  
+~
+E
+pedestal~
+The pedestal is a squat pillar of marble about a meter high.  It gives
+off a very faint, white glow.  
+~
+#3659
+sheet music~
+a sheet of music~
+A sheet of music sits on the top of the piano ({CGET SHEET{x and then {CLOOK SHEET{x).~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 1 P
+E
+sheet music~
+It looks to be a complicated piece, with lots of sixteenth notes.  At the
+top is some small writing.
+
+The writing says, 'Training Mansion based on Mud School created by Hatchet.
+Copyright 1992, 1993.  Designed by Fury, Eris and Spellsong.  Park area by
+Sighel.  Copyright 2000.'
+~
+#3660
+silver key~
+a silver key~
+A silver key hangs on a thin silver chain.~
+unknown~
+key A A
+0 0 0 0 0
+0 3 100 P
+#3661
+foobartrap~
+a trap~
+A trap.~
+unknown~
+warp_stone R 0
+I 0 0 0 0
+110 0 0 P
+#3662
+sparkling cat collar~
+a sparkling cat collar~
+A sparkling cat collar is covered with rhinestones.~
+unknown~
+armor R AM
+A A A 0 0
+2 2 10 P
+#3663
+paper scroll~
+a red birds scroll~
+A red birds scroll is here.~
+unknown~
+scroll R AO
+2 'reserved' 'reserved' 'reserved' 'reserved'
+2 1 6 P
+#3664
+Green Man fountain~
+the Green Man fountain~
+Water sparkles from the mouth of the Green Man set in the side of the mansion.~
+unknown~
+fountain 0 0
+0 0 'water' 0 0
+0 1000 0 P
+#3665
+mushrooms~
+a group of white mushrooms~
+A group of perfect white mushrooms grow together here.~
+unknown~
+pill R AO
+2 'reserved' 'reserved' 'reserved' 'reserved'
+2 2 60 P
+E
+mushroom~
+This group of mushrooms looks absolutely perfect and white.  There are no
+bruises or rips or spots on each mushroom, giving the feel that these
+mushrooms have a magical quality to be so perfect.  
+~
+#3666
+stone necklace~
+a smooth stone necklace~
+A round smooth stone with a leather strap makes the perfect necklace.~
+unknown~
+protect GHRU AC
+A A A 0 0
+3 5 65 P
+A
+12 5
+#3667
+rabbits foot~
+a small white rabbits foot~
+A small white rabbits foot is supposed to bring you luck.~
+unknown~
+treasure IK AO
+0 0 0 0 0
+2 2 20 P
+#3668
+pale purple flowers~
+a group of pale purple flowers~
+A group of pale purple flowers look good enough to eat.~
+unknown~
+pill R AO
+4 'reserved' 'reserved' 'reserved' 'reserved'
+4 1 120 P
+#3669
+brown mushroom~
+a large brown mushroom~
+The large brown mushroom is in perfect condition, and looks almost like a complete meal for you.~
+unknown~
+food R AO
+ABCD 0 0 0 0
+3 1 6 P
+#3700
+mace wooden~
+a small wooden mace~
+You see a small wooden mace.~
+unknown~
+weapon 0 AN
+staff 1 6 claw 0
+0 0 1 P
+A
+18 2
+E
+mace~
+You see a small wooden mace.  Although well crafted it look like it could
+do little actual damage.  The seal of the Training Academy is burnt into the
+shaft.  
+~
+#3701
+small dagger~
+a small wooden dagger~
+You see a small wooden dagger here.~
+unknown~
+weapon 0 AN
+bow 1 5 crunch 0
+0 3 1 P
+A
+18 2
+E
+dagger~
+You see a small wooden dagger of great but cheap craftsmanship. Imprinted on
+the side is the insignia of the Training Academy.
+~
+#3702
+wooden sword~
+a wooden sword~
+You see a wooden sword here.~
+unknown~
+weapon 0 AN
+sword 1 5 lunge 0
+0 0 1 P
+A
+18 2
+E
+sword~
+You see a wooden sword of exquisite craftsmanship.  Engraved on its hilt
+is the emblem of the Training Academy.  
+~
+#3703
+wooden armor~
+a suit of wooden armor~
+You see a suit of wooden armor here.~
+unknown~
+protect 0 AD
+0 0 0 0 0
+0 5 1 P
+A
+17 -2
+E
+armor~
+~
+#3704
+wooden shield~
+a wooden shield~
+You see a wooden shield here.~
+unknown~
+armor 0 AJ
+0 0 0 0 0
+0 3 1 P
+E
+shield~
+You see a finely carved wooden shield.  It bears the crest of the Training
+Academy.
+~
+#3705
+thin cloak~
+a thin cloak~
+You see a thin cloak here.~
+unknown~
+protect 0 AZ
+0 0 0 0 A
+0 4 0 P
+E
+cloak~
+You see a cloak of then fabric.  Stenciled on its back in large yellow
+lettering is reads: '{YProperty Of The Training Guild{x'.
+~
+#3706
+wooden helmet~
+a wooden helmet~
+You see a wooden helmet here.~
+unknown~
+protect 0 AE
+0 0 0 0 0
+0 3 1 P
+A
+17 -1
+E
+helmet~
+You see a helmet of thin wood.  Seared on the side is the insignia of
+the Training Academy.
+~
+#3707
+cheap leggings~
+a cheap leggings~
+You see a pair of cheap leggings here.~
+unknown~
+armor 0 AF
+0 0 0 0 0
+0 3 1 P
+E
+leggings~
+You see leggings of extremely cheap quality.  Printed on the front is:
+'{YProperty Of The Training Academy{x'.
+~
+#3708
+rusted boots~
+a pair of slightly rusted boots~
+You see a pair of slightly rusted boots here.~
+unknown~
+armor 0 AG
+0 0 0 0 0
+0 3 1 P
+E
+boots~
+You see slightly rusted boots of very cheap craftsmanship.  Imprinted on
+the side is the emblem of the Training Academy.
+~
+#3709
+cheap gloves~
+a pair of cheap gloves~
+You see a pair of cheap gloves here.~
+unknown~
+armor 0 AH
+0 0 0 0 0
+0 1 1 P
+E
+gloves~
+You see gloves of very cheap craftsmanship.  Imprinted on the top is the
+insignia of the Training Academy.
+~
+#3710
+thin sleeves~
+a pair of very thin sleeves~
+You see a pair of very thin sleeves here.~
+unknown~
+armor 0 AI
+0 0 0 0 0
+0 2 1 P
+E
+sleeves~
+You see sleeves of great but cheap craftsmanship as they are made from
+very thin material. The Training Academy's logo is stenciled upon its
+surface.
+~
+#3711
+cheap cape~
+a cheap cape~
+You see a cheap cape here.~
+unknown~
+armor 0 Aa
+0 0 0 0 0
+0 2 1 P
+E
+cape~
+You see a cape of great but cheap craftsmanship.  Stenciled upon the back
+is: '{RTraining Academy{x'.
+~
+#3712
+thin belt~
+a thin belt~
+You see a thin belt here.~
+unknown~
+armor 0 AL
+0 0 0 0 0
+0 1 1 P
+E
+belt~
+You see a thin belt severely lacking in quality.  Across its surface is the
+emblem of the Training Academy.
+~
+#3713
+wooden bracer~
+a wooden bracer~
+A wooden bracer is here.~
+unknown~
+armor 0 AM
+0 0 0 0 0
+0 0 1 P
+E
+bracer~
+This small wooden bracer is expertly crafted but does little in the way
+of providing actual protection.  Neatly engraved into the surface is the
+insignia of the Training Academy.  
+~
+#3714
+key~
+a key~
+You see a very important key here!~
+unknown~
+key P A
+0 0 0 0 0
+0 1 0 P
+#3715
+graduation stone~
+a graduation stone~
+A graduation stone from Discordia's Training Academy is here.~
+unknown~
+treasure G AR
+0 0 0 0 0
+0 1 1 P
+A
+4 1
+A
+5 1
+E
+stone~
+This stone shows that you have graduated from Discordia's Training
+Academy. It proves that you are a certified and licensed adventurer. This
+of course does subject you to Discordia's Adventurer Tax.
+ 
+DTA Inc. - Discordia Training Academy Incorporated
+~
+#3716
+flaming torch~
+a {Rflaming {xtorch~
+A {Rflaming{x torch is here.~
+unknown~
+light AG A
+0 0 CEFGHI 0 0
+0 2 0 P
+E
+banner~
+This is the official Merc war banner to see you through the darkest realm!
+~
+#3717
+standard ration~
+a standard ration~
+This unappealing meal is often used by adventurers in their travels.~
+unknown~
+food 0 AO
+CD 0 0 0 0
+0 1 1 P
+#3718
+clay jug~
+a {rred{x clay jug~
+{xA {Rred{x clay jug with a leather thong tied to it forming a handle is here.~
+unknown~
+drink 0 A
+50 50 'water' 0 0
+1 0 3 P
+#3719
+wooden bracelet~
+a small wooden bracelet~
+A small wooden bracelet is here.~
+unknown~
+armor 0 AM
+0 0 0 0 0
+0 1 1 P
+E
+bracelet~
+This small wooden bracelet is expertly made, too bad it provides little
+in the way of actual protection.  Engrave on the inside is the seal of the
+Training Academy.  
+~
+#3720
+wooden vambraces~
+a set of wooden vambraces~
+A set of wooden vambraces is here.~
+unknown~
+protect 0 AV
+0 0 0 0 0
+0 5 1 P
+A
+17 -1
+E
+vambraces~
+These wooden vambraces are of excellent quality, however, they do not
+provide much in the way of actual protection.  Branded onto the smooth
+wooden surface is the insignia of the Training Academy.  
+~
+#3721
+wooden visor~
+a wooden visor~
+A wooden visor is here.~
+unknown~
+protect 0 AT
+0 0 0 0 0
+0 1 1 P
+A
+17 -1
+E
+visor~
+This wooden visor appears to be cheaply made and most likely will not
+offer much protection.  Seared onto its face is the emblem of the Training
+Academy.  
+~
+#3722
+bear skin~
+a matted bear skin~
+A matted bear skin covers the ground.~
+unknown~
+armor 0 ADK
+0 0 0 0 0
+5 50 25 P
+#3723
+bear claw~
+a sharp bear claw~
+A sharp bear claw could seriously hurt someone.~
+unknown~
+weapon 0 AN
+bow 2 6 magic 0
+5 2 25 P
+#3760
+shimmering portal~
+a shimmering portal~
+A shimmering portal is set against the northern wall.~
+unknown~
+portal A 0
+0 0 0 BGJKL 0
+0 0 0 P
+#3761
+golden shield~
+a golden shield~
+A priceless golden shield lies on the floor, glowing with a holy light.~
+unknown~
+warp_stone AG 0
+I I A C 0
+10 0 500 P
+E
+!trap!~
+A loud audible click comes from the shield.
+Loose rocks cleverly concealed in the ceiling rain down!
+ 
+Not everything is as it seems in the Realm Of Discordia. You will find
+numerous creatures both fair and foul that fill the land. Those who wish
+to survive to see the many wonders the realm provides, will be wary of
+many things. Some within the realm are very protective or insidious and
+set traps to protect their belongings or just to harm people in general.
+ 
+Certain classes have the ability to detect and disarm such traps through the
+use of learned skill or magical prowess. Beware of such things in the realm.
+ 
+(The shield shimmers and then vanishes!)
+~
+#3762
+portal~
+a portal~
+{WWhen you feel ready to venture into the realm {CENTER PORTAL{W.{x~
+unknown~
+portal 0 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 BCEFHJKL 0
+0 0 0 P
+E
+crack~
+The smooth concave walls of the egg have a large fissure in them just
+wide enough to step through.  It appears to be a portal to the outside
+world.  
+~
+#3763
+trapportal~
+trapportal~
+{ktrapportal{x~
+unknown~
+warp_stone R 0
+A 0 0 0 0
+0 0 0 P
+E
+!trap!~
+{GTizi says{x 'Remember that portals will not always be named {CPORTAL{x.  Sometimes
+you need to look for clues to the names in room descriptions.
+~
+#3764
+traptotrainer~
+traptotrainer~
+(no description)~
+unknown~
+warp_stone R 0
+A 0 A A 0
+1 0 0 P
+E
+!trap!~
+{GTizi says{x 'Greetings Oba, meet our newest adventurer.'  Turning to you, Tizi
+tells you that Oba will help you with your training, if you are respectful.
+~
+#3765
+traptopractice~
+traptopractice~
+(no description)~
+unknown~
+warp_stone R 0
+A 0 0 0 0
+0 0 0 P
+E
+!trap!~
+{GTizi{x bows slightly and says 'Greetings Kinori, I have a new
+adventurer who requires your services.  She shoves you slightly so that you
+are standing directly in front of the impressively built man.  
+~
+#3766
+trapadept~
+trapadept~
+(no description)~
+unknown~
+warp_stone R 0
+A 0 A A 0
+0 0 0 P
+E
+!trap!~
+{GTizi says{x, During your adventuring there will be times when you will
+benefit from the services of a {mhealer{x.  There are many around the realm
+who will offer their services, mainly for a fee.  
+ 
+Tizi smiles at a slight figure standing near the center of the hallway.
+ 
+Meet Jade, she is a healer of great accomplishment.  She will heal you for
+free and may also cast beneficial spells upon you.
+~
+#3767
+trapnolongdesc~
+trapnolongdesc~
+(no description)~
+unknown~
+warp_stone R 0
+A 0 0 0 0
+0 0 0 P
+E
+!trap!~
+{GTizi says{x, 'Sometimes objects in a room are obvious, like the item
+lying on the top of the piano.  Other things are hidden.  Try to sit on the
+furniture in this room.  ({CSIT CHAIR{x).  
+~
+#3768
+trapstore~
+trapstore~
+(no description)~
+unknown~
+warp_stone R 0
+A 0 A A 0
+0 0 0 P
+E
+!trap!~
+{GTizi says{x 'Well hello Mercand!  You know that Oba will run you out
+again if she catches you here.  ' 
+ 
+Turning to you {GTizi says{x, 'Mercand is a fence who sometimes sneaks 
+into the training mansion.  Oba doesn't approve and has him thrown out
+whenever she discovers him.  We might find him useful however, as he
+has an important lesson to teach you.'
+ 
+To Mercand, {GTizi says{x, 'Please teach our young friend here how to 
+look at and buy your "wares"'.
+~
+#3769
+trapcombat~
+trapcombat~
+(no description)~
+unknown~
+warp_stone R 0
+A 0 0 0 0
+0 0 0 P
+E
+!trap!~
+{GTiza tells you{x, 'We have now come to the part in your training where
+you will learn about combat.  Along this hallway are four rooms.  In each
+room is a mob.  You should kill each and gather it's equipment.  
+~
+#3780
+trapdarkkey~
+trapdarkkey~
+(no description)~
+unknown~
+warp_stone R 0
+A 0 A A 0
+0 0 0 P
+E
+!trap!~
+{GTizi says{x, 'North of you is a dark room.  When you feel comfortable that
+you have gained all that you can from these four rooms then you should go 
+north.  I hope you still have a light source!  If not, you better type
+'{COUTFIT{x to get another one.
+
+Of course, you'll have to {COPEN NORTH{x first.
+
+In the room is a monster with a key that you need.  After killing the
+mob and getting the key, {CUNLOCK NORTH{x, {COPEN NORTH{x and continue north.
+~
+#3781
+trapcontainer~
+trapcontainer~
+(no description)~
+unknown~
+warp_stone R 0
+A 0 A A 0
+0 0 0 P
+E
+!trap!~
+{GTizi beams with pride{x at your accomplishment.  'Congratulations, you
+have completed your training.  ' In this room is your proof that you have
+succeeded.  
+ 
+Sometimes, things are hidden in containers, such as the pedestal here.  To
+see what is inside, type {CEXAMINE PEDESTAL{x.  To retrieve the item inside
+type {CGET item PEDESTAL{x.
+ 
+Be careful in your adventures young friend.'
+~
+#3782
+spacer~
+a spacer~
+{kThis is just to add a space.{x~
+unknown~
+trash R 0
+0 0 0 0 0
+0 0 1 P
+#3783
+sofa crushed velvet~
+a {Rred{x crushed-velvet sofa~
+A {Rred{x crushed-velvet sofa takes up most of the middle of the room.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+E
+crushed velvet sofa~
+This heavy sofa is quite luxurious.  It is upholstered with thick,
+crushed velvet which looks to be rather new.  The ornate feet are carved of
+some dark, rich wood to look like nosegays of roses.  
+~
+#3784
+chair mahogany~
+a simple mahogany chair~
+A simple mahogany chair has a high, straight back.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+E
+chair~
+A simple mahogany chair has a high, straight back.  The color of the wood
+has been carefully chosen to match exactly that of the table.  
+~
+#3785
+chest drawers~
+a chest of drawers~
+A chest of drawers rest in a corner.~
+unknown~
+container R 0
+50 AC 0 0 0
+0 0 0 P
+E
+chest drawers~
+A chest of drawers is made out of heavy, fine mahogany.  A pale green
+doily is spread neatly over the top.  There are three drawers, each has a
+handle carved of wood into different flowers.  
+~
+#3786
+buffet mahogany fancy~
+a fancy mahogany buffet~
+The rim around the top of the fancy mahogany buffet is carved into a string of roses.~
+unknown~
+container R 0
+100 0 0 0 0
+0 0 0 P
+#3789
+crystal glass heavy~
+a heavy crystal glass~
+A heavy crystal glass is highly cut and catches the light prettily.~
+unknown~
+drink 0 A
+8 8 'whisky' 0 0
+0 0 1 P
+#3790
+wooden staff~
+a wooden staff~
+This wooden staff is used to train with.~
+unknown~
+weapon 0 AN
+polearm 1 5 claw 0
+0 0 1 P
+A
+19 1
+#0
+
+
+
+#ROOMS
+#3650
+Gardens Along the Mansion~
+Standing outside the double glass doors that lead into the mansion, you
+can take a good look around at the magnificent grounds.  Along the outside
+of the mansion are beautifully kept gardens, but stepping away from the
+walls takes one into neatly kept woods.  Beyond these kept woods, the
+shadows creep in deeper, as it turns into unkept and wild forest.  Brightly
+coloured flowers are at all stages of blossom, and the air here is
+fragranced delicately.  Large, slow moving butterflies dip and glide
+gracefully from flower to flower as birds chirp merrily from the trees.  A
+small cedar chip path leads into the kept woods to the east from here.  
+~
+0 131072 2
+D0
+~
+~
+~
+0 0 3651
+D1
+~
+~
+~
+0 0 3714
+D3
+~
+~
+~
+1 0 3767
+M 0 H 0
+S
+#3651
+Gardens Along the Mansion~
+Wonderfully coloured flowers bob and sway as you pass by on the clipped
+grass lawn path that is spread before you between the massive amounts of
+flowers and the neatly trimmed trees.  Large fuzzy bumble bees buzz sleepily
+by, fighting with the butterflies for the precious nectar the blossoms
+offer.  The air here is calming and relaxing, giving 'a stroll through the
+park' a new meaning with serenity.  
+~
+0 131072 2
+D0
+~
+~
+~
+0 0 3667
+D2
+~
+~
+~
+0 0 3650
+M 0 H 0
+S
+#3653
+Hallway~
+You enter a hallway-like chamber with rooms lying to the east and west. 
+The hallway continues on north, through a room full of books.  The exit to
+the south leads back into the vast practice chamber.  The hallway runs about
+fifteen meters east-west and about five meters north-south.  The carpet is a
+single shade of blue and the walls are a very pale shade of the same colour.
+On the walls, you notice several portraits in ornate gold frames.
+
+{GTizi says{x, 'Go east or west for more lessons.  To the north, you will learn
+the brutal nature of the realm.  
+~
+0 131080 0
+E
+portrait~
+The portraits are of various well known thieves, scouts and assasins of
+the ages.  The portraits themselves vary widely in quality from exquisite
+oils through to rough charcoal sketches.  
+~
+E
+carpet~
+The carpet is neither expensive nor cheap looking and is dark blue in
+colour.  
+~
+D0
+You see a room full of an impressive collection of books.  
+~
+~
+~
+0 0 3657
+D1
+You see a spacious room with a grand piano as its centerpiece.  
+~
+~
+~
+0 0 3655
+D2
+You see a vast, nearly empty room with scuffed wooden floors.  
+~
+~
+~
+0 0 3768
+D3
+You see a small dining room with a rectangular mahogany table.  
+~
+~
+~
+0 0 3654
+M 0 H 0
+S
+#3654
+A Small Dining Room~
+In the centre of this room is a large rectangular mahogany table.  Six
+tall, straight-backed, chairs have been pushed in around it.  The carpet and
+walls are shades of blue and a massive portrait of a powerful-looking female
+adorns the north wall.  Hard up against the east wall you can see a large
+cabinet made of the same wood as the table.  There are doors to the east and
+north.  
+~
+0 131080 0
+E
+mahogany table~
+Simple yet elegant a heavy mahogany table is shined to a high luster. 
+The four legs are simple squares, tapering slightly from the tops to the
+bottoms.  
+~
+E
+table~
+The table is well polished a beautiful to look at.  The entire table has
+been made from high quality wood and appears to have been made by one who
+was skilled at their work.  The surface of the table has been marred by ugly
+scratches that make up the phrase "Alasdair was here".  
+~
+E
+portrait~
+The portrait has been painted in oil in an unusual style that was popular
+over a hundered years ago.  It shows one of the greatest thieves of all
+time: A Miss Annie Belrath.  
+~
+E
+cabinet~
+On closer examination, you can see that the cabinet is false: the doors
+are glued onto a peice of wood and cannot open at all.  
+~
+D0
+You see a simple chamber connecting rooms.  
+~
+~
+~
+0 0 3656
+D1
+You see a hallway connecting several rooms.  
+~
+~
+~
+0 0 3653
+M 0 H 0
+S
+#3655
+The Music Room~
+You enter a spacious room dedicated to the massive piano in one corner. 
+The carpet and walls are shades of blue.  Well made, straight-backed, chairs
+form a rough semicircle around the piano.  The instrument itself is a
+monster of a thing; solid mahogany with large ivory keys and brass fittings.
+
+A few paintings in cheap frames adorn the walls and you can see doors to the
+south and west.  
+ 
+You see what looks like a trap door in the floor ({COPEN DOWN{x).
+~
+0 131080 0
+E
+painting~
+The paintings are simple oils and watercolours, all portraits.  Glancing
+at the names below the paintings you can see that all of the portraits are
+of famous thieves from various past years.  The only non portrait is an old
+watercolor of the area a little north of town known as Trysten Veldt.  The
+artist seems to have a taste for the fanciful as she has painted ghostly
+figures in amongst the more solid townsfolk.  The real people don't even
+seem to notice anything is amiss.  
+~
+E
+paintings~
+The paintings are simple oils and watercolours, most fairly old. 
+Glancing at the names below the paintings you can see that all of the
+portraits are of famous thieves from various past years.  The only non
+portrait is an old watercolor of the area a little north of town known as
+Trysten Veldt.  The artist seems to have a taste for the fanciful as she has
+painted ghostly figures in amongst the more solid townsfolk.  The real
+people don't even seem to notice anything is amiss.  
+~
+D0
+~
+~
+~
+0 0 3658
+D3
+~
+~
+~
+0 0 3653
+D5
+~
+~
+~
+1 0 3762
+M 0 H 0
+S
+#3656
+Hallway~
+This hallway is simply a chamber connecting rooms.  Its walls are bare
+save for a pair of brass lanterns fixed in the south west corner of the
+room.  The room itself is fairly small - perhaps eight meters square.  You
+can see doors to the south and east.  
+~
+0 131080 0
+E
+lantern~
+The lanterns are made of coloured glass and brass and contain a wick in a
+pool of oil.  The lantern is burning brightly.  
+~
+D1
+You see a room full of books.  
+~
+~
+~
+0 0 3657
+D2
+You see a small dining room with a large table in the center of it.  
+~
+~
+~
+0 0 3654
+M 0 H 0
+S
+#3657
+A room filled with books~
+{xRows of red books line all four walls of this room, with just enough
+space in each for a doorway.  In the centre of the room are a pair of simple
+desks and a set of four matching chairs.  The floor is a rich wood with
+several scuff marks.  
+~
+0 4587528 0
+E
+books~
+The books are obviously false.  They are simple book-sized blocks of wood
+that have been glued together and painted red to give the viewer the rough
+impression of being in a library.  
+~
+E
+red~
+The books are obviously false.  They are simple book-sized blocks of wood
+that have been glued together and painted red to give the viewer the rough
+impression of being in a library.  
+~
+E
+books~
+The books are obviously false.  They are simple book-sized blocks of wood
+that have been glued together and painted red to give the viewer the rough
+impression of being in a library.  
+~
+D0
+You see a long hallways, with doorways leading off to the east and west.  
+~
+~
+~
+0 0 3659
+D1
+You see a hallway with a door leading south.  
+~
+~
+~
+0 0 3658
+D2
+You see a hallway with doors going in each direction.  
+~
+~
+~
+0 0 3653
+D3
+You see a hallway with a door leading south.  
+~
+~
+~
+0 0 3656
+M 0 H 0
+S
+#3658
+Hallway~
+This room is little more than a simple hallway connecting two rooms. 
+There are doors to the south and west.  The carpets and walls are simple
+shades of blue and illumination is provided by a pair of brass lanterns
+affixed to the corner of the north and east walls.  
+~
+0 131080 0
+D2
+You see a spacious room with a shining black piano in one corner.  
+~
+~
+~
+0 0 3655
+D3
+You see a room with lots of books on shelves which align the walls.  
+~
+~
+~
+0 0 3657
+M 0 H 0
+S
+#3659
+Hallway~
+You are inside of a simple room, designed to connect rooms of greater
+importance.  A worn narrow rug runs north and south through the the hallway.
+The room is well lit, with illumination provided by simple brass lanterns
+mounted on the walls.  The hallway continues to the north and south.  
+~
+0 131080 0
+E
+rug~
+Woven of thick woolen yarn which has long ago begun to fray it appears to
+have once been an elegant rug.  It covers about three-quarters of the width
+of the hallway, leaving a strip of dark wooden flooring on either side.  
+~
+E
+archway~
+The archway is about seven feet high and wide enough to let a big man
+through without touching him.  
+~
+E
+lantern brass~
+The lanterns are made of coloured glass and brass and contain a wick in a
+pool of oil.  The lantern is burning brightly.  
+~
+D0
+The hallway continues to the north.  
+~
+~
+~
+0 0 3663
+D2
+You see a room filled with books on shelves affixed to each visible wall.  
+~
+~
+~
+0 0 3657
+M 0 H 0
+S
+#3660
+Altar~
+This room is rather dim, lit only by rows of black candles along the
+south wall.  The entire room has been made up as some kind of shrine
+dedicated to the various gods of the realm.  A large obsidian altar,
+religious symbols etched into its night-black surface, takes up most of the
+space.  A simple prayer mat, dark red in colour, sits before the altar.  A
+large arched doorway leads to the north.  A simple wooden door leads south. 
+~
+0 131081 0
+E
+candle~
+The candles are simple long, fat black votives.  The south wall has many
+small thin shelves and it is upon these that the candles are placed.  
+~
+E
+candles~
+The candles are simple long, fat black votives.  The south wall has many
+small thin shelves and it is upon these that the candles are placed.  
+~
+D0
+You see a large arched doorway with a heavy wooden door.  
+~
+~
+~
+1 3714 3664
+D2
+You see a simple wooden door.  
+~
+~
+~
+1 0 3665
+M 0 H 0
+S
+#3661
+A Green Bedroom~
+The entire room is shrouded in darkness.  From what you can make out this
+is a fair-sized bedroom decorated almost entirely in shades of green. 
+Through the gloom you can make out a large double bed near the centre and a
+chest of drawers in a corner.  The ceiling is about ten meters from the
+floor and you can vaguely make out a small chandelier attached in the middle
+of the roof.  An archway leads to the west.  
+~
+0 131080 0
+E
+chandelier~
+It is rather small but looks to be made of quality crystal.  It affords
+only a small amount of light.  
+~
+E
+double bed~
+It stands fairly high off the ground with four plain square posts.  The
+two posts at the foot of the bed are about three quarters the height of the
+two at the head of the bed.  A crisp green coverlet is unwrinkled and
+perfectly adjusted.  
+~
+D3
+You see a simple hallway, connecting several rooms.  
+~
+~
+~
+0 0 3663
+M 0 H 0
+S
+#3662
+A Yellow Bedroom~
+This room is dimly lit with small orbs which hang high, near the ceiling.
+It appears to be a reasonable sized bedroom with a single bed and a dresser
+as the main features.  The entire room has been decorated in shades of
+yellow and gold and appears to have been recently cleaned.  
+~
+0 131080 0
+E
+pitcher basin~
+A simple pitcher and matching basin sit on top of the long dresser.  Both
+are a pale yellow color with bright daisies painted around the rims.  
+~
+E
+dresser~
+It is made of pale wood, possibly ash.  There are three long drawers
+underneath a single row of three narrower ones.  On top sits a water pitcher
+and basin.  
+~
+E
+single bed~
+It looks just wide enough for a reasonably stout dwarf to sleep
+comfortably.  The matress is low to the ground, there is barely enough room
+to slip a pair of slippers underneath.  A pale yellow quilt lays over the
+top with only a few wrinkles in it.  
+~
+E
+orbs~
+Each is the size of an elven fist and glows with a warm light, almost
+like tiny suns.  They hover, as if magically, near the ceiling.  No physical
+connection appears to hold them there.  
+~
+D1
+You see a simple hallway, connecting several rooms.  
+~
+~
+~
+0 0 3663
+M 0 H 0
+S
+#3663
+Hallway~
+{xYou are inside of a simple room, designed to connect rooms of greater
+importance.  A worn narrow rug runs north and south through the the hallway.
+The room is well lit, with illumination provided by simple brass lanterns
+mounted on the walls.  The hallways continues to the north and south.  There
+are rooms to the east and west with open doorways leading into them.  The
+room to the west is fairly dark.  
+ 
+{WOn a narrow table is an open book ({CLOOK BOOK{W).
+~
+0 131080 0
+E
+rug~
+Woven of thick woolen yarn which has long ago begun to fray it appears to
+have once been an elegant rug.  It covers about three-quarters of the width
+of the hallway, leaving a strip of dark wooden flooring on either side.  
+~
+E
+book~
+{xIn the four rooms are four mobs of various levels of attitude.  Kill them 
+all!
+
+After you kill each monster, get all of the equipment from their corpses
+with the command '{CGET ALL CORPSE{x'.  You can then use the command '{CWEAR 
+ALL{x' to wear your newly won equipment.
+
+When you are done with the corpse, '{CSACRIFICE CORPSE{x' to give it to your God.
+Your God will reward you for this.
+
+Between combat, you may need to rest or sleep to regenerate hit points.
+You can '{CREST{x' to regenerate hit points, or you can '{CSLEEP{x'.
+'SLEEP' will refresh you faster than 'REST', but you will be less
+aware of your surroundings.
+
+Keep in mind it is not often wise to rest in unfamiliar places or in rooms
+where you have recently seen a monster.  You might want to visit {MJade{x.
+often.
+~
+D0
+The narrow rug runs north through the hallway.  Doorways lead to the east
+and west from the northern end of the hallway.  
+~
+~
+~
+0 0 3665
+D1
+You see a bedroom decorated in green.  
+~
+~
+~
+0 0 3661
+D2
+The narrow rug runs south through the hallway.  
+~
+~
+~
+0 0 3659
+D3
+You see a rather plain bedroom, decorated in yellow.  
+~
+~
+~
+0 0 3662
+M 0 H 0
+S
+#3664
+Pillar Room~
+This room is large, and full of echoes.  Tall granite pillars, so thick a
+large man couldn't embrace them fully, stand to each side of a large arched
+doorway to the south.  The door is made from heavy oak and has a solid
+looking lock in the centre.  Running down the middle of the room is a dark
+green carpet that starts from the large door and ends in the middle of the
+room.  The rest of the floor is simply stone.
+~
+0 131080 0
+D0
+You see a pedestal in the center of a room.  
+~
+~
+~
+1 3660 3666
+D2
+You see an arched doorway.  
+~
+~
+~
+1 0 3660
+M 0 H 0
+S
+#3665
+Hallway~
+A long hallway runs to the south and terminates here, to the north is a
+simple wooden door.  The walls are made of rough stone blocks and the arched
+ceiling is very high.  This end of the hall is lit by several torches
+attached to brackets.  A narrow rug runs to the south, through the rest of
+the hall.  Open doorways lead to the east and west.  
+~
+0 131080 0
+E
+rug~
+Woven of thick woolen yarn which has long ago begun to fray it appears to
+have once been an elegant rug.  It covers about three-quarters of the width
+of the hallway, leaving a strip of dark wooden flooring on either side.  
+~
+D0
+You see a door to the north.  
+~
+~
+~
+1 0 3660
+D1
+You see a comfortable looking sitting room.  
+~
+~
+~
+0 0 3668
+D2
+The hallway continues to the south, where doorways lead off to the east
+and west.  
+~
+~
+~
+0 0 3663
+D3
+You see what appears to be a comfortable bedroom, decorated in shades of
+blue.  
+~
+~
+~
+0 0 3669
+M 0 H 0
+S
+#3666
+Room of the Stone~
+This is a simple square room about ten meters to a side.  The walls are
+made of roughly cut oak panels.  In the centre of the room is a raised
+pedestal made of marble.  The floor is carpeted in dark red and contrasts
+sharply with the cool white of the pedestal.
+
+To the east is a wide door which leads out into the {MRealms of Discordia{x.
+~
+0 131084 0
+D1
+You see a wide door framed by two narrow windows which look out onto a
+park-like setting.  
+~
+~
+~
+1 0 3701
+D2
+~
+~
+~
+1 0 3664
+M 0 H 0
+S
+#3667
+Gardens Along the Mansion~
+Pretty wild flowers mingle with large blossomed roses here, all in bright
+shades of pink and yellow and dark red.  One of the red rose bushes has been
+pruned slightly at the bottom, creating a small cave of thorns that shelters
+a snowy white cat.  The mother cat blinks her bright green eyes, as she
+watches the garden lazily, trying to keep track of her mischievous kittens. 
+The neatly cut grass path continues along the outer wall of the mansion. 
+The need to LOOK CAT invades your thoughts, as she stares unblinkingly at
+you.  
+~
+0 131072 2
+E
+cat~
+The large white cat lays with her head on her paws, her kittens keeping
+her tired out.  Around her neck is a sparkling collar, that looks like it
+will slip right over her head, and looks to be the perfect size for a
+bracelet for you.  Her bright green eyes stare deeply into yours, as a
+thought invades your mind: "It is very important to LOOK at many objects in
+a room, as they may hold secret treasures for you to take".  
+~
+D0
+~
+~
+~
+0 0 3672
+D2
+~
+~
+~
+0 0 3651
+M 0 H 0
+S
+#3668
+A Warm Sitting Room~
+This is a room which appears to be set up for the mansion guests to
+gather and visit.  Several chairs of quality craftsmanship are arranged in a
+semi-circle facing a warm hearth.  Along the north wall is a fancy buffet,
+on which are several decanters and heavy crystal glasses.  A window in the
+eastern wall looks out over a green park-like area where one can watch
+wildlife in a natural setting.  
+~
+0 131080 0
+D3
+You see a simple hallway, connecting several rooms.  
+~
+~
+~
+0 0 3665
+M 0 H 0
+S
+#3669
+A Blue Bedroom~
+Shades of light blue decorate a comfortable looking bedroom.  An
+oversized bed is draped in a heavy, powder blue quilt with intricate
+stitching.  On the floor is a large rug woven of coarse blue material and
+fringed with dark blue yarn.  A high window allows adequate light in from
+the outside.  
+~
+0 131080 0
+D1
+You see a simple hallway, connecting several rooms.  
+~
+~
+~
+0 0 3665
+M 0 H 0
+S
+#3672
+Gardens Along the Mansion~
+The flowers bob and dance along the outer wall of the training mansion,
+parting slightly below a window.  Looking through the glass, one can barely
+make out an almost empty room, where other adventurers are trying out
+various weapons.  A large fly is bumping into the glass from the inside in
+its endeavors to get outside.  Two butterflies dance in the air, circling
+and spiraling in the dappled shade of a large willow tree at the edge of the
+tree line.  A small cedar chip path leads into the kept woods to the east
+from here.  
+~
+0 131072 2
+D0
+~
+~
+~
+0 0 3701
+D1
+~
+~
+~
+0 0 3710
+D2
+~
+~
+~
+0 0 3667
+M 0 H 0
+S
+#3700
+Your Debut~
+{xHaving completed your early training to your master's satisfaction, you 
+have been sent here to a seemingly unremarkable room.  On the walls are 
+large portraits of imposing figures.  Beneath each is a plaque with names,
+which you recognize as the heroes of Discordia.
+
+Perhaps one day, a portrait of yourself will adorn these walls.  There are 
+many lessons that you have yet to learn before your adventure begins.  
+This would be a good time to assess your status.  {CLOOK{x at yourself to see
+what you are wearing.
+ 
+Near the center of the room is a small, white table, which holds a tattered 
+tablet.  Maybe you should {CLOOK TABLET{x.
+ 
+A large rectangular portal shimmers near the north side of the room.  On 
+the ground, next to the portal a small figure sits cross-legged.  She is your 
+teacher for the rest of your training and will show you much to help you 
+become a successful adventurer ({CLOOK FIGURE{x).
+ 
+~
+0 131086 0
+E
+plaque~
+Brass plaques engraved with flowery black writing have the names of many
+of the heroes of Discordia.  
+~
+E
+portrait~
+Detailed portraits of fighters in full battle armor and proud
+spellcasters in flowing cloaks adorn the walls.  Each is quite large and
+painted in vibrant oils.  The frames are rather plain wood, not drawing
+attention from the imposing figures portrayed within.  
+~
+E
+tablet~
+{WWelcome newborn.{x
+
+You will need a few things to help you along your path.  Luckily, on the 
+ground at your feet are a few items that you might need. {CLOOK{x,  to see 
+what is there.  To pick up items on the ground as you see them, type '{CGET 
+item{x'.  To wear a piece of armor, type '{CWEAR item{x'.  To hold a light 
+source,  type '{CHOLD item{x'.  To wield a weapon, type '{CWIELD weapon{x'.  
+To wear, hold, and wield everything you have, type '{CWEAR ALL{x'. To stop 
+using a piece of equipment,  type '{CREMOVE item{x'.
+~
+E
+figure~
+{xA small sprite has a commanding presence.  Her iridescent wings flutter
+slightly as she assesses your readiness.  Finally, she gives you a 'let's
+get to work' kind of smile and introduces herself as {GTizi{x, your teacher.
+
+{GShe says{x 'You can see the statistics on yourself by typing '{CSCORE{x'.  Do
+that right now.  At higher levels, 'SCORE' gives you more information.'
+ 
+There are various ways to interact with your fellow adventurers across the 
+realm.  Type {CChannels{x to see the various forms of communication.
+ 
+One of the most important ways of communicating is the specil ability
+known as the Voice. Type HELP VOICE to see how this works.
+~
+M 0 H 0
+S
+#3701
+Gardens Along the Mansion~
+The amount of flowers along the outer wall of the mansion dwindle a bit
+in the shade of a large tree.  A few thick branches of a large tree pass
+high above your head here, and birds can be seen sitting and flying from
+branch to branch.  The cut lawn pathway widens greatly here, and a small
+wooden bench is placed next to a simple door leading into the mansion.  
+~
+0 131072 2
+D0
+~
+~
+~
+0 0 3702
+D2
+~
+~
+~
+0 0 3672
+D3
+~
+~
+~
+1 0 3666
+M 0 H 0
+S
+#3702
+Gardens Along the Mansion~
+The gardens take a sharp bend here, and in the deepest part of the bend
+is a huge tree reaching skyward.  It looks as though you can climb this tree
+as a way to escape the animals below.  Around the wide base of the tree are
+neatly planted marigolds and tulips.  Large fuzzy bumble bees buzz from
+blossom to blossom and birds swoop in and out of the safe branches of the
+tree.  
+~
+0 131072 2
+D1
+~
+~
+~
+0 0 3703
+D2
+~
+~
+~
+0 0 3701
+D4
+~
+~
+~
+0 0 3760
+M 0 H 0
+S
+#3703
+Gardens Along the Mansion~
+The branches of the tall tree to the west cast shadows on the ground
+here.  Butterflies dance below the leafy branches, looking like a wind
+mobile to amuse the young.  A wooden bench is placed between flower beds
+against the outer wall of the mansion and faces south, looking into a corner
+of the kept woods.  A bright red bird is perched on the seat back of the
+bench and cocks its head at you inquisitively.  
+~
+0 131072 2
+E
+bird~
+This bird is such a bright red, it looks almost unreal.  Its bright black
+eyes shine at you and make it look as though inside it is laughing at you
+quite hardily.  You notice though, around one of its legs is tied a small
+piece of paper.  The bird looks friendly enough that it won't fly away if
+you approach it.  
+~
+D1
+~
+~
+~
+0 0 3704
+D3
+~
+~
+~
+0 0 3702
+M 0 H 0
+S
+#3704
+Gardens Along the Mansion~
+Delicate pale rose bushes line the wall of the mansion and surround a
+fountain built against the wood siding of the house.  A spout of fresh water
+spurts from the mouth of the Green Man and sparkles as it falls into a basin
+in the shape of a sea shell.  The shell has flashes of bright orange moving
+about in it, and as one looks into the pool of water, the koi look back. 
+Directly south of the small fountain is a well kept cedar chip path that
+leads into the groomed woods.  
+~
+0 131072 2
+D1
+~
+~
+~
+0 0 3705
+D2
+~
+~
+~
+0 0 3707
+D3
+~
+~
+~
+0 0 3703
+M 0 H 0
+S
+#3705
+Gardens Along the Mansion~
+The flowers dwindle off and disappear as the edge of the beautiful
+gardens ends at a large iron grate fence.  The cast iron is a dull black and
+shaped in intricate designs, ending with sharp points on the tops of the
+tall pickets.  Beyond this fence lays wild thick grown woods, and birds can
+be seen flying from tree to tree, chasing after squirrels that natter
+loudly.  A small red fox sees you and its nose twitches wildly with your
+sent as it bares its fangs at you menacingly.  To the south is the neatly
+kept woods, and you can see the fence end drastically not too far into them.
+Unfortunately, there are large raspberry bushes with sharp thorns blocking
+any way of entering the woods here.  
+~
+0 131072 2
+D3
+~
+~
+~
+0 0 3704
+M 0 H 0
+S
+#3706
+The Kept Woods~
+The corner of the kept woods looks out to the garden along the outside of
+the mansion to the north and to the west.  Unfortunately, there are many
+raspberry and rose bushes with sharp thorns that prevent movement to the
+beautiful flowers and the mansion.  The woods continue to the south and
+east, as the cedar chip path shows care taken in this area.  Tall trees that
+are neatly groomed cast continual shade on the ground, and leave this area
+much cooler than out in the gardens.  
+~
+0 131072 3
+D1
+~
+~
+~
+0 0 3707
+D2
+~
+~
+~
+0 0 3710
+M 0 H 0
+S
+#3707
+The Kept Woods~
+The cedar chip path leads in all directions from here, though all but to
+the north lead into the woods more.  To the north, the path opens up to the
+beautiful gardens surrounding the mansion.  Edging the path are small blue
+flowers which stay low to the ground.  Beyond these flowers are tall trees
+which keep the area much cooler than in the gardens and ferns which show no
+dead leaves.  The ground between the trees and ferns looks smooth and
+unmarred, except for small animal prints that show in the soft dirt.  
+~
+0 131076 3
+D0
+~
+~
+~
+0 0 3704
+D1
+~
+~
+~
+0 0 3708
+D2
+~
+~
+~
+0 0 3711
+D3
+~
+~
+~
+0 0 3706
+M 0 H 0
+S
+#3708
+The Kept Woods~
+The cedar path only runs east-west here.  To the north you can see the
+edge of the mansion through thick raspberry bushes, which prevents your
+movement in that direction.  To the south, the woods aren't so neatly kept,
+and the bushes and ferns cover a slightly wet spot in the ground, which bars
+your moving that way.  Small birds fly quickly over head, chirping and
+singing to each other as they go.  Off in the distance what sounds like
+twigs breaking can be heard, as small animals move through the brush.  
+~
+0 131072 3
+D1
+~
+~
+~
+0 0 3709
+D3
+~
+~
+~
+0 0 3707
+M 0 H 0
+S
+#3709
+The Kept Woods~
+The cedar path stops suddenly here, turning into a very faint footpath to
+the east which leads into darker, wilder woods.  The chips of cedar do
+continue westwards through the well kept woods with its groomed trees and
+neat ground.  Sounds of rustling brush come from all directions but the
+west, and you can see small eyes peering out at you from under heavy leaves.
+There is a drastic difference in the trees here to the trees to the east, as
+here the bark looks new and healthy, whereas to the east the bark looks
+older and gray and has large mushrooms growing on the trunks of the trees.  
+~
+0 131072 3
+D1
+~
+~
+~
+0 0 3726
+D3
+~
+~
+~
+0 0 3708
+M 0 H 0
+S
+#3710
+The Kept Woods~
+The cedar path leads in all directions here, leaving a wide open spot
+where they all join.  The path leading to the west leads out of the kept
+woods to the training mansion and the gardens.  The woods surrounding you to
+the north, east and south are all well maintained, looking very planned and
+manicured.  Above you are thick large branches that spread out from a tree
+to the east.  In the branches you can see a nest with three baby birds
+straining their heads out in search of food.  
+~
+0 131076 3
+D0
+~
+~
+~
+0 0 3706
+D1
+~
+~
+~
+0 0 3711
+D2
+~
+~
+~
+0 0 3712
+D3
+~
+~
+~
+0 0 3672
+M 0 H 0
+S
+#3711
+The Kept Woods~
+Being a few paces deeper into the kept woods, you can no longer make out
+the training mansion which lies to the north and west.  Looking east and
+south, the forest thickens and no cedar paths can be made out through the
+brush.  To the east the cedar path stops suddenly and turns into a very
+faint foot path through ferns and bushes into the deeper parts of the
+forest.  Blocking any way south is a massive tree that has small pieces of
+wood nailed to the trunk to form a ladder up into the safety of the
+branches.  
+~
+0 131072 3
+D0
+~
+~
+~
+0 0 3707
+D1
+~
+~
+~
+0 0 3727
+D3
+~
+~
+~
+0 0 3710
+D4
+~
+~
+~
+0 0 3760
+M 0 H 0
+S
+#3712
+The Kept Woods~
+The cedar path looks freshly raked here, as it forks off to the north,
+south and east.  Through the trees and ferns you can make out the bright
+flowers of the garden surrounding the mansion to the west.  Unfortunately
+you can't trudge through the slight marshland that forms a ditch running
+north-south between this path and the gardens.  A small little green tree
+frog hops from branch to branch heading south, croaking you along.  
+~
+0 131072 3
+D0
+~
+~
+~
+0 0 3710
+D1
+~
+~
+~
+0 0 3729
+D2
+~
+~
+~
+0 0 3713
+M 0 H 0
+S
+#3713
+The Kept Woods~
+The cedar path is edged neatly with small pieces of stones along the west
+side, as this protects the path from the sharp drop into a narrow band of
+marshland running north-south.  Through the reeds in the marsh, you can pick
+out small green frogs and ducks wading in the murk, and in the distance you
+can make out the training mansion.  To the east, the forest becomes much
+denser, and your movement in that direction is prohibited by the thorns and
+brambles growing thickly around the trees.  The cleanly raked path moves
+directly north-south, following its route through the kept woods.  
+~
+0 131072 3
+D0
+~
+~
+~
+0 0 3712
+D2
+~
+~
+~
+0 0 3714
+M 0 H 0
+S
+#3714
+The Kept Woods~
+The path bends sharply here, continuing to the north and to the east. 
+Marshland continues to run north-south to the west of you, though it spreads
+slightly into a pond more to the south.  Directly south is a large wrought
+iron fence which surrounds the training mansions grounds, to keep unwanted
+creatures out, and trainers in.  Looking east, you can see the path continue
+extremely straight in that direction until it appears it ends in dark, thick
+forest.  The smell of damp earth is overwhelming here as the path is
+slightly soggy from the waters of the pond and marsh.  
+~
+0 131076 3
+D0
+~
+~
+~
+0 0 3713
+D1
+~
+~
+~
+0 0 3715
+D3
+~
+~
+~
+0 0 3650
+M 0 H 0
+S
+#3715
+The Kept Woods~
+The cedar chip path runs perfectly east-west here, taking you along a
+nice walk through these beautifully kept woods.  Parallel to the path is a
+large wrought iron fence with flowers and curls molded in for a more rich
+look.  Looking south beyond the fence, the town of Discordia can be seen,
+though the hedges between you and the town filter out any sounds that might
+reach you here.  North is full of raspberry bushes and thistles a little
+further back, as the kept woods becomes more unkempt and wild.  There are a
+few bright red squished berries on the path below your feet as you notice a
+squirrel with its mouth full dashing off through the thorns into the woods
+to the north.  
+~
+0 131072 3
+D1
+~
+~
+~
+0 0 3716
+D3
+~
+~
+~
+0 0 3714
+M 0 H 0
+S
+#3716
+The Kept Woods~
+Standing tall and majestic where the path forks to the north and to the
+east is a large oak tree.  Nailed into the trunk are a few boards to help a
+person climb to some of the lower branches, away from the hazards of the
+woods.  The wonderful smelling cedar chip path stops drastically to the
+north, and only a faint footpath can be seen leading in that direction
+deeper into the woods.  The path however, does continue to the east,
+paralleling the wrought iron fence that continues to block access to
+Discordia to the south.  
+~
+0 131072 3
+D0
+~
+~
+~
+0 0 3731
+D1
+~
+~
+~
+0 0 3717
+D3
+~
+~
+~
+0 0 3715
+D4
+~
+~
+~
+0 0 3760
+M 0 H 0
+S
+#3717
+The Kept Woods~
+Discordia can barely be made out to the south through the thickening
+cedar hedges which grow intertwined with the black iron fence.  Edging the
+path here are patches of delicate little mushrooms, growing pure white,
+which make them appear to almost glow against the brown cedar chips and the
+dark green grass.  North of you the forest grows in thickly, with many low
+tree branches growing entangled in each other, preventing any movement in
+this direction.  The path continues east-west, perfectly straight.  
+~
+0 131072 3
+E
+mushrooms~
+This patch of mushrooms look absolutely perfect in their shape and
+colouring.  There are no spots on them, no rips or damage of any kind.  It
+almost seems as though these mushrooms have a magical quality about them to
+grow in such a manner.  
+~
+D1
+~
+~
+~
+0 0 3718
+D3
+~
+~
+~
+0 0 3716
+M 0 H 0
+S
+#3718
+The Kept Woods~
+No variation in the path can be seen here as it runs perfectly east-west.
+The chips of wood are perfectly level and give a nice woody smell to the
+area.  Birds can be heard chirping amongst the thick brush and trees to the
+north, where the sounds of twigs snapping from squirrels moving about can
+also be heard.  The cedar hedges to the south thin here, making parts of the
+black iron fence plainly visible with Discordia as the backdrop.  
+~
+0 131072 3
+D1
+~
+~
+~
+0 0 3719
+D3
+~
+~
+~
+0 0 3717
+M 0 H 0
+S
+#3719
+The Kept Woods~
+The cedar path bends sharply here, continuing to the north and to the
+west.  Hedges grow thickly to the south, making the wrought iron fence
+barely visible, let alone any view of the town of Discordia possible.  A
+faint foot path comes off the main wood chip path to the east here, leading
+into wilder and darker forests.  Placed in the sharp part of the bend, but
+not on the path, is a strange little pile of rocks.  
+~
+0 131072 3
+E
+pile~
+This strange pile of rocks doesn't look to be anything an animal could
+set up, so therefore it must be human in nature....  Or inhuman and
+unearthly.  Smooth rocks from a stream are piled in the shape of a pyramid,
+with the top stone being the smoothest and perfectly round.  There is a
+leather tie coming from a small hole in this top rock, giving it the perfect
+use of a necklace.  
+~
+E
+rocks~
+This strange pile of rocks doesn't look to be anything an animal could
+set up, so therefore it must be human in nature....  Or inhuman and
+unearthly.  Smooth rocks from a stream are piled in the shape of a pyramid,
+with the top stone being the smoothest and perfectly round.  There is a
+leather tie coming from a small hole in this top rock, giving it the perfect
+use of a necklace.  
+~
+D0
+~
+~
+~
+0 0 3720
+D1
+~
+~
+~
+0 0 3738
+D3
+~
+~
+~
+0 0 3718
+M 0 H 0
+S
+#3720
+The Kept Woods~
+The neatly kept cedar chip path stops drastically to the north here.  It
+looks as though it was going to continue on in this direction, since the
+north edge is left unfinished, whereas the sides are all kept in track with
+simple edging techniques.  A small path created by many people's feet goes
+off to the south here, as this is the only manageable spot to do so.  
+~
+0 131072 3
+D0
+~
+~
+~
+0 0 3734
+D2
+~
+~
+~
+0 0 3719
+M 0 H 0
+S
+#3721
+The Wild Woods~
+The faint path through the ferns and brush of the forest bends here,
+running east and south.  Large mushrooms grow around a rotting stump of a
+tree, and a long centipede can be seen running for cover in the soft wood as
+you approach.  Scratching and twigs breaking can be heard from all around
+you, echoing back and forth off trees, giving you no indication of which
+direction it really is coming from The brush and trees get extremely thick
+and heavy to the north and west, while the path continues in the other
+directions.  
+~
+0 131072 3
+D1
+~
+~
+~
+0 0 3722
+D2
+~
+~
+~
+0 0 3723
+M 0 H 0
+S
+#3722
+The Wild Woods~
+A slight breeze ruffles the leaves on the trees, sending a small mist of
+moisture down onto your head.  The ground here is soft and damp, and a
+deeply earthy smell rises up to meet your nostrils.  Looking north and east,
+the forest becomes thicker in vegetation, with many thistles growing amongst
+the trees and ferns.  The faint foot path you are following leads to the
+south and to the west.  
+~
+0 131072 3
+D2
+~
+~
+~
+0 0 3724
+D3
+~
+~
+~
+0 0 3721
+M 0 H 0
+S
+#3723
+The Wild Woods~
+The air here is much cooler and damper as the forest closes in slightly
+on you.  Feathery ferns brush gently on your legs as you pass down the small
+footpath that winds its way through the trees.  The ground visible through
+the greenery is a dark brown, almost black and gives off a musty smell.  The
+bark on the trees are all covered with lichen, only on the north side
+though, aiding you in finding you way in case you lose the path.  The faint
+path continues to the north and east while the trees seem to open up more
+and with the brightness to the west you can see the cedar path through the
+bushes.  The south is blocked by a thick patch of burrs and thistles.  
+~
+0 131076 3
+D0
+~
+~
+~
+0 0 3721
+D1
+~
+~
+~
+0 0 3724
+M 0 H 0
+S
+#3724
+The Wild Woods~
+The forest seems to surround and marvel at a massive tree that stands
+slightly to the north-east of the crossroads the faint path meeting has
+created.  Worn flat wooden boards are nailed to the thick bark.  The boards
+look like at one time they had something written on them, and this was used
+as a marker to tell you what lies in what direction.  Now, these can be used
+to help climb the tree to run away from any wild beast on the ground.  The
+faint paths lead off in all directions here, closed in by the cool shadows
+from the trees.  
+~
+0 131072 3
+D0
+~
+~
+~
+0 0 3722
+D1
+~
+~
+~
+0 0 3725
+D2
+~
+~
+~
+0 0 3726
+D3
+~
+~
+~
+0 0 3723
+D4
+~
+~
+~
+0 0 3760
+M 0 H 0
+S
+#3725
+The Wild Woods~
+It almost appears that you have come into a dead end.  To the north and
+east, a large rocky cliff meets you.  The trees grow close to these rocks,
+and a few small trees are trying to grow in the rock up the side of the
+cliff.  The forest gets extremely dark and closed in to the south, though
+there is a faint path leading off in that direction.  The faint path also
+leads out to the west, away from the cliff.  
+~
+0 131072 3
+D2
+~
+~
+~
+0 0 3740
+D3
+~
+~
+~
+0 0 3724
+M 0 H 0
+S
+#3726
+The Wild Woods~
+The smell of damp earth invades your nose as the trees close in around
+you.  Large mushrooms clump together beneath the shade of ferns scattered
+around the base of trees.  Branches and fallen trees lean everywhere,
+littering the area, giving it a wild look.  Surrounding you to the east and
+south are closely placed pine trees with large webs of vines entangled among
+the branches, baring any movement in those directions.  A faint path leads
+to the north further into the woods, and to the west, the faint path leads
+to a nicely kept cedar chip path.  
+~
+0 131076 3
+D0
+~
+~
+~
+0 0 3724
+D3
+~
+~
+~
+0 0 3709
+M 0 H 0
+S
+#3727
+The Wild Woods~
+The leaves of ferns reach out to brush your legs as the path dwindles
+into nothing except the faintest of trails.  The east shows the trees
+parting and opening up to a neatly kept cedar chip path.  The faint path
+forming around your feet continues to the east.  Looking to the north, you
+can make out the neatly kept trees and grass of the kept woods, though you
+are barred from moving there by thickets of raspberry bushes and thistles. 
+The south is blocked by a thick mass of pine trees and vines and fallen
+debris.  
+~
+0 131076 3
+D1
+~
+~
+~
+0 0 3728
+D3
+~
+~
+~
+0 0 3711
+M 0 H 0
+S
+#3728
+The Wild Woods~
+The faint path you are following through these unkept woods leads
+west-west in a straight line.  To the east, the woods don't seem to change
+much, but to the east, they are much darker and unfriendly looking. 
+Raspberries and thistles continue to block your passage to the north, as
+does the pines and fallen trees to the south.  Over head, the leaves on the
+trees rustle, and the sounds of claws scraping up bark can be heard from the
+squirrels climbing up to nuts hanging from branches.  Two small songbirds
+fly and play over your head as they dive into the kept woods to the north.  
+~
+0 131072 3
+D1
+~
+~
+~
+0 0 3742
+D3
+~
+~
+~
+0 0 3727
+M 0 H 0
+S
+#3729
+The Wild Woods~
+The forest seems to close in around you slightly as burrs reach out to
+grab at your legs.  The canopy above your head creates shadows with dapples
+of light coming down between the leaves, the shade making these wild woods
+cool.  The faint path you follow to navigate easily through these trees and
+bushes continues to the south and to the west, where it joins up with a
+cedar chip path.  Your movement to the east has been blocked by a fallen
+tree leaning carefully against an extremely large tree.  To the north, you
+can see the neatly kept woods, but the thicket of burrs and thistles deters
+your movement that way.  
+~
+0 131076 3
+D2
+~
+~
+~
+0 0 3730
+D3
+~
+~
+~
+0 0 3712
+M 0 H 0
+S
+#3730
+The Wild Woods~
+The faint trail through the woods bends here, leading to the east and to
+the north.  A squirrel peeks out through the leaves of a tree, watching you
+in your travels through the forest.  Directly to the southwest is a slight
+depression in the ground, which has a shallow marsh in it.  In the reeds, a
+frog croaks loudly, trying to attract a mate.  This marsh prevents you from
+travelling to the west or to the south.  
+~
+0 131072 3
+D0
+~
+~
+~
+0 0 3729
+D1
+~
+~
+~
+0 0 3731
+M 0 H 0
+S
+#3731
+The Wild Woods~
+The cool ferns brush softly against your legs here as you travel by. 
+You've reach an intersection in the cool woods, giving you the choice of
+continuing through these wilder woods, or heading south to the neat cedar
+chip path.  East and west the faint pathway continues, and to the north,
+many fallen branches and thick growing vines block your view and ability to
+travel in that direction.  Hidden by some heavy leaves, you can make out
+some pale purple flowers that look very pretty.  
+~
+0 131076 3
+D1
+~
+~
+~
+0 0 3732
+D2
+~
+~
+~
+0 0 3716
+D3
+~
+~
+~
+0 0 3730
+M 0 H 0
+S
+#3732
+The Wild Woods~
+The almost not-there path you are following winds its way past fallen
+trees and rotting stumps in an east-west direction.  The damp rotting wood
+smell in the air makes the atmosphere in the area like you are hundreds of
+miles away from anything.  A fallen tree to the north gives a person enough
+clearance beneath it to follow the faint path branching off to the north. 
+Looking south, the land is slightly depressed and filled with wet ground and
+many thorny plants.  This takes away any chance of moving that way.  
+~
+0 131072 3
+D0
+~
+~
+~
+0 0 3747
+D1
+~
+~
+~
+0 0 3733
+D3
+~
+~
+~
+0 0 3731
+M 0 H 0
+S
+#3733
+The Wild Woods~
+The tiny path you have been following through these overgrown woods stops
+abruptly at the base of an extremely large tree.  Thick branches protrude in
+all directions from the trunk, making it look for an easy climb up into the
+safety of the tree.  Surrounding the massive base of this tree are many
+stumps and fallen logs, created as this tree grew to the extent it has.  The
+branches and debris surround you in all directions, giving you the only
+option of going back the way you came.  
+~
+0 131072 3
+D3
+~
+~
+~
+0 0 3732
+D4
+~
+~
+~
+0 0 3760
+M 0 H 0
+S
+#3734
+The Wild Woods~
+A constant cool breeze rustles the leaves in the trees around you.  Large
+ferns tickle your legs as you move along the faint pathway that has been
+trodden down.  A group of big white mushrooms grow from a tree stump that
+you can see peeking out of the bushes and greenery.  The path turns here,
+leading you south and east.  To the east, this small pathway continues to
+wind its way through these overgrown and wild woods.  To the south, you can
+make out the neat cedar chip path that will lead to civilization.  
+~
+0 131076 3
+D1
+~
+~
+~
+0 0 3735
+D2
+~
+~
+~
+0 0 3720
+M 0 H 0
+S
+#3735
+The Wild Woods~
+You've come across an intersection in a small clearing.  The faint path
+you've been following through the forest leads to the north, south and west
+from here.  Looking east, you can see why the path doesn't continue that
+way, as a slope of almost bare rock reaches skyward.  A few straggly bushes
+cling desperately to the rock, trying to get a foothold to be able to grow
+larger.  One large tree grows right before the rock juts out of the ground. 
+Its branches reach out to you, giving the sense that it will protect you
+from any harm below in its safe canopy.  
+~
+0 131072 3
+D0
+~
+~
+~
+0 0 3744
+D2
+~
+~
+~
+0 0 3736
+D3
+~
+~
+~
+0 0 3734
+D4
+~
+~
+~
+0 0 3760
+M 0 H 0
+S
+#3736
+The Wild Woods~
+You can just make out the wide cedar chip path to the west through the
+brush and fallen trees and branches.  The mess between you and the path is
+too great, and no feasible route can be made to directly reach the other
+side.  You can move in any other direction however, as the faint path leads
+north, south and east from here.  Slightly to the northeast, there is a
+skinny, perfectly straight tree that has a massive brownish mushroom growing
+on its bark.  The mushroom looks like it would easily just pop off the tree
+whole.  
+~
+0 131072 3
+D0
+~
+~
+~
+0 0 3735
+D1
+~
+~
+~
+0 0 3737
+D2
+~
+~
+~
+0 0 3738
+M 0 H 0
+S
+#3737
+The Wild Woods~
+A wall of rock greets you here, as you enter a small enclave and are
+surrounded by rock to the north and east.  There are no footholds in the
+cliff face, as the sedimentary layers crumble with any pressure placed on
+them from extreme amounts of weathering wearing the rock down over the
+years.  A small trickle of water seeps from the rock to the north, giving
+the possibility of caves in the direction.  The path has become dirt here,
+as you have escaped the trap of the trees for a brief moment.  The only
+openings back into the forest are two small paths leading south and west.  
+~
+0 131072 3
+D2
+~
+~
+~
+0 0 3739
+D3
+~
+~
+~
+0 0 3736
+M 0 H 0
+S
+#3738
+The Wild Woods~
+You've stumbled upon an intersection in these woods.  The path you've
+been following leads to the north, west and east from here.  Looking west,
+this small path opens up in a wide, cedar chip walkway that leads to
+friendlier territory and civilization.  The same faint path you're currently
+on leads off to the north and to the east, where everything looks the same,
+not giving any indication which would be the better way to travel.  The only
+choice not available to you is moving to the south, as the way is blocked by
+a large wrought iron fence that runs perfectly east-west, enclosing this
+forest from the rest of Discordia.  
+~
+0 131076 3
+D0
+~
+~
+~
+0 0 3736
+D1
+~
+~
+~
+0 0 3739
+D3
+~
+~
+~
+0 0 3719
+M 0 H 0
+S
+#3739
+The Wild Woods~
+The overgrown path bends around a large tree here, heading to the north
+and to the west.  Looking up in the branches of this massive tree, you can
+see the safety it offers you from any dangers below.  Two little songbirds
+sing merrily amidst the leaves, barely in view from the ground.  A large
+wrought iron gate is heavily covered with ivy vines to the south, but in the
+few open spaces, you can see the town of Discordia.  Large jagged boulders
+have tumbled to the ground to the east of here from the cliffs that are to
+the northeast that you can see through the forest.  
+~
+0 131072 3
+D0
+~
+~
+~
+0 0 3737
+D3
+~
+~
+~
+0 0 3738
+D4
+~
+~
+~
+0 0 3760
+M 0 H 0
+S
+#3740
+The Deep Wild Woods~
+The forest seems to close in around you, dead branches reaching out like
+claws to grab you from the small path that is the only safety.  Tall
+evergreen trees surround you, making the rocky ground softer with a thick
+cover of needles.  Around the bases of a few trees are some tiny mushrooms
+intermingled with burrs.  The path continues to the north where things seem
+greener and more friendly, as well as to the south where more of the dark
+wild woods continue.  Looking east, a black gaping hole of a cave breaks the
+grayness of the rock wall that prevents passage.  
+~
+0 131076 11
+D0
+~
+~
+~
+0 0 3725
+D1
+~
+~
+~
+0 0 3741
+D2
+~
+~
+~
+0 0 3743
+M 0 H 0
+S
+#3741
+A Cave in the Deep Wild Woods~
+The coolness of the cave sends shivers over your skin.  The darkness
+makes it hard to see far into the cavern, though there are only two exits. 
+These exists are plainly visible as they lead in and out of the cave you've
+entered because of the lightness coming through the openings.  In the
+furthest depths of the cave to the northeast a grumbling can be heard along
+with movement from some creature.  
+~
+0 131081 5
+D2
+~
+~
+~
+0 0 3744
+D3
+~
+~
+~
+0 0 3740
+M 0 H 0
+S
+#3742
+The Deep Wild Woods~
+The damp earth smell wafts up from the ground to your nose.  Looking
+down, you see the dark, rich soil being wasted by only growing weeds that
+snag at your clothing.  Smooth rocks raise up from the earth, giving a firm
+place to rest.  You can notice an incline down to the north, where the solid
+rock base puddles up water.  Looking in the water, you can see some tadpoles
+swimming around and mosquito larva wiggling along the surface.  This water
+to the north bars any passage in the direction, though you can follow the
+faint path to the west, east and south.  
+~
+0 131076 11
+D1
+~
+~
+~
+0 0 3743
+D2
+~
+~
+~
+0 0 3748
+D3
+~
+~
+~
+0 0 3728
+M 0 H 0
+S
+#3743
+The Deep Wild Woods~
+The forest closes in around you, pressing in, almost in a suffocating
+manner.  The sharp twigs from dead trees scratch at your face while burrs
+snag and pull at your clothing.  Beaten dirt forms a path for you to follow
+through the safest routes here, and lead to the north, east and west.  The
+darkness closes in more deeply over the paths, giving you no help in seeing
+what each path takes you to.  
+~
+0 131072 11
+D0
+~
+~
+~
+0 0 3740
+D1
+~
+~
+~
+0 0 3744
+D3
+~
+~
+~
+0 0 3742
+M 0 H 0
+S
+#3744
+The Deep Wild Woods~
+The ground below you is just bare rock with lichen patches trying to grow
+here and there.  A large tree is the only thing that grows here, and around
+its base, the rocks are uprooted and shattered as the roots for the tree
+grow and push the rock out of their way.  A few branches are low enough to
+the ground to make getting up into the safety of the branches easy.  To the
+north and east of you, you see large black gaping holes leading into dark
+caves.  Looking south, the forest seems much greener and more friendly while
+to the west more dark and pressing forest awaits for you.  
+~
+0 131076 11
+D0
+~
+~
+~
+0 0 3741
+D1
+~
+~
+~
+0 0 3745
+D2
+~
+~
+~
+0 0 3735
+D3
+~
+~
+~
+0 0 3743
+D4
+~
+~
+~
+0 0 3760
+M 0 H 0
+S
+#3745
+A Cave in the Deep Wild Woods~
+You've come into a dark, cold cave, with many stalactites and stalagmites
+dotting the room, giving you a winding path to follow deeper in.  To the
+west, the lightness of the outdoors streams through the wide opening of the
+cave entrance.  Looking deeper into the cave, the light you carry barely
+makes the tunnels leading off to the north, south and east barely
+discernable.  Moving into the cavern further lets you see that the tunnels
+leading to the north and east have become caved in, and therefore useless to
+travel in those directions.  The tunnel leading to the south still gapes
+open for you to travel through.  A dark corner in the northeast corner has a
+some life in it that doesn't like your presence.  
+~
+0 131081 5
+D2
+~
+~
+~
+0 0 3749
+D3
+~
+~
+~
+0 0 3744
+M 0 H 0
+S
+#3746
+The Deep Wild Woods~
+Darkness surrounds you, giving you no view into the forest surrounding
+you.  The trees here close in more, and bare branches reach out to scratch
+at your face and pull at your clothing.  No soft ferns brush and tickle your
+legs and feet here, and only burrs and thistles poke through the clothing
+you have on, irritating your skin.  The path you have been following stops
+suddenly here, as people before you must have realized how unpassable the
+forest surrounding you is.  The only way out is the way you came in to the
+east.  
+~
+0 131072 11
+D1
+~
+~
+~
+0 0 3747
+M 0 H 0
+S
+#3747
+The Deep Wild Woods~
+The forest here is very dark and closed in.  Tall evergreens reach for
+the sky, blocking out light for anything else to live.  All around you are
+bare and dead trees, and it seems the only thing that can survive in this
+darkness are the thorny bushes and thistles that fill the ground.  A pathway
+has been trodden through this area, keeping the ground too hard for any of
+these prickly plants to take route to close, giving a semi-safe walkway. 
+This path leads off to the west and east, as well as to the south where you
+can see much greener and friendlier forests.  
+~
+0 131076 11
+D1
+~
+~
+~
+0 0 3748
+D2
+~
+~
+~
+0 0 3732
+D3
+~
+~
+~
+0 0 3746
+M 0 H 0
+S
+#3748
+The Deep Wild Woods~
+A mighty spruce tree grows here, its lower branches bare and thick,
+giving you a make-shift ladder up into the safety of the tree.  The ground
+is covered with needles, and is soft and buoyant.  The shade from this great
+tree makes it impossible for anything to grow here other than mushrooms,
+which you can see spreading out everywhere, poking up through the mat of
+needles.  Where the canopy of the spruce ends, large thistles and thorn
+bushes grow thickly to the south and east, giving you the options of heading
+north or west.  
+~
+0 131072 11
+D0
+~
+~
+~
+0 0 3742
+D3
+~
+~
+~
+0 0 3747
+M 0 H 0
+S
+#3749
+A Cave in the Deep Wild Woods~
+The sound of trickling water echoes in this large cavern you have
+entered.  Water travelling along the smooth rock walls glistens in the light
+you've brought into the room.  Looking around, you notice that you've come
+to a dead end, and the only way out is the way you took in.  The furthest
+corners of the room are pitch black, and impenetrable by your light.  From
+one corner, something seems to be alive and moving.  
+~
+0 131081 5
+D0
+~
+~
+~
+0 0 3745
+M 0 H 0
+S
+#3750
+unused~
+~
+0 131087 0
+M 0 H 0
+S
+#3751
+unused~
+~
+0 131087 0
+M 0 H 0
+S
+#3752
+unused~
+~
+0 131087 0
+M 0 H 0
+S
+#3753
+unused~
+~
+0 131087 0
+M 0 H 0
+S
+#3754
+unused~
+~
+0 131087 0
+M 0 H 0
+S
+#3755
+unused~
+~
+0 131087 0
+M 0 H 0
+S
+#3756
+unused~
+~
+0 131087 0
+M 0 H 0
+S
+#3757
+unused~
+~
+0 131086 1
+E
+paintings~
+The paintings are varied but all show smiling young men and women of
+various races in shining armour.  The warriors all have their shields
+strapped firmly on their arms and swords out and the sorcerers have all gone
+for the "thoughtful" pose.  It all seems strangely silly.  
+~
+E
+sign~
+To find out your attributes, type '{Yscore{x'.  You can improve your attributes
+in Fury's Training Room to the west.  You can practice your skills and spells
+in Lutessa's Guild Room to the east.  You can continue through mud school by
+going north.
+
+If you are a new character, you should go '{GWEST{x' from here, train your
+abilities, and then come back here and go '{CNORTH{x'.
+ 
+Also, if you are new to Discordia, make sure you {MREAD EVERY SIGN IN EVERY
+ROOM!!!{x Failure to do so will result in possible rudeness and ridicule
+by both the gods and inhabitants of Discordia.
+~
+M 0 H 0
+S
+#3758
+unused~
+~
+0 131086 1
+E
+sign~
+Welcome to Fury's Training Room.  Here you can train your attributes.  To 
+train an attribute, you need enough practices.  To find out how many practice
+sessions you have, type '{Ytrain{x' while you are in this room.  To train for a 
+specific attribute, type '{Ctrain{x {M<attr>{x' where attr is the first 3 letters of
+the attribute you want increased.  Type '{Rhelp train{x' for more information.
+ 
+Some of the realm's trainers also allow you to learn new skills. This is done
+by converting your trains into new skills. Type '{Bhelp gain{x' for further
+information.
+~
+M 0 H 0
+S
+#3759
+unused~
+~
+0 131086 1
+E
+sign~
+Welcome to Lutessa's Guild Room.  Here you will learn your skills and spells.
+To find out what skills and spells you can practice and how many practice
+sessions you have, type '{Ypractice{x'.  To practice the specific skill, type
+'{Cpractice{x {B<skill>{x', where '{Cskill{x' is the skill or spell you wish to practice.
+Practicing increases the amount you know of that skill or spell, up to a
+certain maximum.  When you have practiced all you wish to practice, go west.
+~
+M 0 H 0
+S
+#3760
+A Safe Room~
+You feel the presence of the Gods of Discordia shining down upon you from
+within this small, barren room. Obviously blessed by the powers that be, you
+feel that this would be a safe place to take a break from your training.
+When you are finished licking your wounds, you can return to the entrance
+through a shimmering portal mounted against the northern wall. A large
+{RSIGN{x hangs above it, almost leaping out to grab your attention.
+~
+0 132110 0
+E
+sign~
+This large, brightly colored sign reads:
+ 
+"Numerous portals can be found throughout the harsh realm of Discordia.
+To activate these portals you simply have to "{MEnter Portal{x". Keep in
+mind that not all portals are as obvious as this one. Some may
+be disguised as a wide range of things. Also tread lightly, for some
+may lead to places unknown and of great danger."
+~
+M 0 H 0
+S
+#3761
+unused~
+~
+0 131086 0
+M 0 H 0
+S
+#3762
+The cellar~
+{xFaint light trickles down from above, casting it's faint illumination
+across the small, damp room.  The faint smell of mold and rot permeates the
+air, and you can see several dark mold stains along the tiled baseboards
+along the walls.  
+ 
+{GTizi says{x, 'It looks as if you may have found a great {Ytreasure{x here.
+Go ahead and pick it up.
+~
+0 131080 0
+E
+sign~
+Not everything is as it seems in the Realm Of Discordia. You will find
+numerous creatures both fair and foul that fill the land. Those who wish
+to survive to see the many wonders the realm provides, will be wary of
+many things. Some within the realm are very protective or insidious and
+set traps to protect their belongings or just to harm people in general.
+ 
+Certain classes have the ability to detect and disarm such traps through the
+use of learned skill or magical prowess. Beware of such things in the realm.
+~
+D4
+~
+~
+~
+1 0 3655
+M 0 H 0
+S
+#3765
+Your Debut~
+{xHaving completed your early training to your master's satisfaction, you 
+have been sent here to a seemingly unremarkable room.  On the walls are 
+large portraits of imposing figures.  Beneath each is a plaque with names,
+which you recognize as the heroes of Discordia.
+
+Perhaps one day, a portrait of yourself will adorn these walls.  There are 
+many lessons that you have yet to learn before your adventure begins.  
+This would be a good time to assess your status.  {CLOOK{x at yourself to see 
+what you are wearing.
+ 
+Near the center of the room is a small, white table, which holds a tattered 
+tablet.  Maybe you should {CLOOK TABLET{x.
+ 
+A large rectangular portal shimmers near the north side of the room.  On 
+the ground, next to the portal a small figure sits cross-legged.  She is your 
+teacher for the rest of your training and will show you much to help you 
+become a successful adventurer ({CLOOK FIGURE{x).
+~
+0 131078 0
+E
+tablet~
+{WWelcome newborn{x.  
+
+You will need a few things to help you along your path.  Luckily, on the 
+ground at your feet are a few items that you might need. {CLOOK{x,  to see 
+what is there.  To pick up items on the ground as you see them, type '{CGET 
+item{x'.  To wear a piece of armor, type '{CWEAR item{x'.  To hold a light 
+source,  type '{CHOLD item{x'.  To wield a weapon, type '{CWIELD weapon{x'.  
+To wear, hold, and wield everything you have, type '{CWEAR ALL{x'. To stop 
+using a piece of equipment,  type '{CREMOVE item{x'.
+~
+E
+figure~
+{xA small sprite has a commanding presence.  Her iridescent wings flutter
+slightly as she assesses your readiness.  Finally, she gives you a 'let's
+get to work' kind of smile and introduces herself as {GTizi{x, your teacher.
+She says 'You can see the statistics on yourself by typing '{CSCORE{x'.  Do
+that right now.  At higher levels, '{CSCORE{x' gives you more information. 
+' 
+ 
+There are various ways to interact with your fellow aventurers across the 
+realm.  Type {GChannels{x to see the various forms of communication.
+~
+M 0 H 0
+S
+#3766
+A Cluttered Parlor~
+{xTizi follows you through the portal as you enter a cluttered parlor.  A
+long red, crushed-velvet sofa stands in the center of the room.  Soft
+lights, covered with paper globes, give just enough warm light for you
+to see the details of the impressive collection of items in the room.
+
+An exit leads to the east, and you can hear mumbling coming from that
+direction.  A young girl sits here, playing with a doll with a broken
+arm.  She seems to be more than happy to help young adventurers such
+as yourself to find their way into the realm ({CLOOK GIRL{x).
+~
+0 131080 0
+E
+clutter~
+Small statuettes and various sizes of snow-globes take up every bit of
+space on the tables and shelves which have been carefully placed in this
+room for maximum shelf space.  The predominate color in the room is red,
+long pieces of red velvet cover the table surfaces.  
+~
+E
+girl~
+{xShe smiles sweetly and says:
+
+The directions you can go in any room are: {Ynorth{x, {Rsouth{x, {Ceast{x, 
+{Gwest{x, {Mup{x, or {Wdown{x. Of course, not all rooms have all exits 
+available. Keep in mind that you really should read all room descriptions 
+carefully or you may find yourself walking off a cliff and falling to your 
+death.
+
+To see the obvious exits in a room, type '{REXITS{x'.
+Sometimes doors are closed, or locked, or secret.  Then you have to notice
+clues in the room description, or try going in that direction and seeing
+if you bump into a door.
+
+Another excellent feature we have installed for your adventuring needs is
+the {YAUTO{y {xcommand. To see a list of our auto features simply type:
+'{CHELP AUTO{x'.
+~
+E
+globes~
+Paper spheres fit easily over the glowing orbs which hang around the
+room.  The paper is old and yellowed.  It appears as if it would be brittle
+and crumble should you touch it.  
+~
+D1
+You see a low door-way which seems to lead to a more spacious parlor.  
+~
+~
+~
+0 0 3767
+M 0 H 0
+S
+#3767
+Mystic's Parlor~
+{xThe lighting in this room is very dim causing you to have to squint to
+see the figure sitting at the head of large table, which constitutes the only
+furnishing in the room.  A set of ajar wooden doors leads to the south and
+double windowed doors lead east into what appears to be a garden or park of
+some kind.  There is an exit to the north.  
+ 
+In front of the wizened old mystic is a set of octagonal cards, each with a 
+different, sometimes disturbing picture on it.  She looks up and looks you over
+from head to toe.
+ 
+{GTizi tells you{x 'When you are done here, go north if you are less than level
+five or the east to gain further experience.
+ 
+A large sign has been placed near the doorway. ({CLook Sign{x)
+~
+0 33554444 0
+E
+sign~
+This is an Official Notice from the Discordian Monarchy:
+ 
+Use of any magic in the City of Discordia will result in
+you being marked WANTED. The Guards will do what is necessary
+to bring you to justice.
+ 
+The only exceptions to this law is the use of healing and
+protective magic.
+ 
+This is the only warning you will receive from this Monarchy.
+ 
+**This notice has been sealed with the crest of the Monarchy
+of Discordia.**
+~
+E
+wooden doors~
+They are heavy wooden doors made of a dark wood, which has turned nearly
+black with time and lots of polish.  The handles are large brass bars with
+wooden frogs affixed to them.  
+~
+E
+table~
+It is long enough to sit at least a dozen allowing for plenty of elbow
+room.  The top is a dark polished wood with a few scratch marks along the
+length.  It appears to be fairly old.  The table top rests upon three
+pillar-type structures, each carved to look like a bouquet of lilies.  
+~
+E
+octagonal cards card~
+Each card is the size of Oba's hand, fully extended.  They are octagon
+shaped and boardered in gold.  They are layed out in a deliberate pattern,
+some touching others.  The picture on the faces of each card is fairly
+detailed.  Some show humanoids, many have pictures of various weapons.  In
+the center is one which depicts a corpse, with blood which oozed from many
+wounds.  
+~
+D0
+~
+~
+~
+0 0 3768
+D1
+A serene garden is visible through the windowed doors.  
+~
+~
+~
+1 0 3650
+D2
+The entrance to the mansion is here, leading out to Adventurer's Lane.  
+~
+~
+~
+0 0 3005
+M 0 H 0
+S
+#3768
+Ballroom~
+{xThis room was once a grand ballroom.  Scuffed wooden floors only hint of the 
+memory of couples gliding over them in delicate embraces.  Dust-covered 
+chandeliers hang from above.  For now, the room affords lots of room for the 
+practicing of skills and spells.  Exits lead north and south.  Along the
+eastern wall, windows look out over a park-like setting.
+ 
+{GTizi says{x 'When you are finished learning from Kinori go north.'
+~
+0 12 0
+E
+chandeliers~
+Heavy, multi-faceted crystal rods hang from a concentric rings of
+polished steel.  Several partially used candles are attached to small
+holders on the rings but it appears as if no one has lit them for quite some
+time.  A thick layer of dust has settled over the entire chandelier.  
+~
+D0
+A narrow doorway is set into the northern wall of the ballroom.  It
+appears to lead to a hallway of some sort.  
+~
+~
+~
+0 0 3653
+D2
+You see a spacious parlor with a heavy wooden table.  
+~
+~
+~
+0 0 3767
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 3707 spec_cast_adept
+M 3708 spec_cast_adept
+M 3714 spec_fido
+S
+
+
+
+#RESETS
+D 0 3650 3 1
+D 0 3655 5 1
+D 0 3660 0 2
+D 0 3660 2 1
+D 0 3664 0 2
+D 0 3664 2 2
+D 0 3665 0 1
+D 0 3666 1 1
+D 0 3666 2 2
+D 0 3701 3 1
+D 0 3762 4 1
+D 0 3767 1 1
+M 0 3651 3 3650 10
+M 0 3653 3 3651 10
+M 0 3717 1 3654 10
+G 0 3717 0
+G 0 3716 0
+G 0 3718 0
+O 0 3768 0 3654
+O 0 3650 0 3654
+O 0 3651 0 3654
+O 0 3659 0 3655
+O 0 3767 0 3655
+O 0 3651 0 3655
+O 0 3654 0 3655
+O 0 3652 0 3656
+O 0 3651 0 3657
+O 0 3653 0 3657
+O 0 3652 0 3658
+M 0 3707 1 3659 10
+M 0 3706 1 3660 10
+E 0 3709 0 9
+E 0 3710 0 10
+G 0 3714 0
+O 0 3657 0 3660
+O 0 3655 0 3660
+P 0 3656 0 3655 10
+O 0 3785 0 3661
+M 0 3702 1 3661 10
+E 0 3705 0 3
+G 0 3720 0
+M 0 3703 1 3662 10
+G 0 3719 0
+E 0 3711 0 12
+E 0 3706 0 6
+O 0 3769 0 3663
+M 0 3708 1 3664 10
+M 0 3720 1 3664 10
+G 0 3660 0
+O 0 3780 0 3665
+O 0 3781 0 3666
+O 0 3658 0 3666
+P 0 3715 0 3658 10
+O 0 3662 0 3667
+M 0 3652 3 3667 10
+O 0 3651 0 3668
+M 0 3704 1 3668 10
+E 0 3707 0 7
+E 0 3712 0 13
+O 0 3786 0 3668
+P 0 3789 0 3786 10
+M 0 3705 1 3669 10
+E 0 3708 0 8
+G 0 3721 0
+E 0 3713 0 14
+M 0 3651 3 3672 10
+O 0 3782 0 3700
+O 0 3718 0 3700
+O 0 3782 0 3700
+O 0 3762 0 3700
+O 0 3782 0 3700
+M 0 3652 3 3701 10
+M 0 3653 3 3702 10
+M 0 3651 3 3703 10
+O 0 3663 0 3703
+M 0 3652 3 3704 10
+O 0 3664 0 3704
+M 0 3653 3 3705 10
+M 0 3654 3 3706 10
+M 0 3655 3 3709 10
+M 0 3656 3 3711 10
+M 0 3655 3 3712 10
+M 0 3656 3 3713 10
+M 0 3656 3 3716 10
+O 0 3665 0 3717
+P 0 3666 0 1 10
+M 0 3654 3 3718 10
+M 0 3654 3 3719 10
+G 0 3667 0
+O 0 3666 0 3719
+M 0 3655 3 3720 10
+M 0 3657 3 3721 10
+M 0 3658 3 3722 10
+M 0 3659 3 3724 10
+M 0 3657 3 3725 10
+M 0 3658 3 3728 10
+M 0 3659 3 3730 10
+O 0 3668 0 3731
+M 0 3658 3 3732 10
+M 0 3659 3 3736 10
+O 0 3669 0 3736
+M 0 3657 3 3737 10
+M 0 3660 3 3741 10
+E 0 3722 0 12
+M 0 3662 2 3743 10
+M 0 3660 3 3745 10
+M 0 3661 2 3745 10
+M 0 3661 2 3746 10
+M 0 3662 2 3748 10
+M 0 3660 3 3749 10
+G 0 3723 0
+O 0 3760 0 3760
+O 0 3761 0 3762
+O 0 3718 0 3765
+O 0 3762 0 3765
+O 0 3783 0 3766
+O 0 3763 0 3766
+M 0 3718 1 3767 10
+M 0 3719 1 3768 10
+O 0 3765 0 3768
+S
+
+
+
+#SHOPS
+3717 1 15 17 19 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

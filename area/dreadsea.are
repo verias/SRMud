@@ -1,0 +1,6042 @@
+#AREADATA
+Name {35 50} Kijan   The Dread Sea~
+Builders Kijan~
+VNUMs 20900 21099
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#20900
+jellyfish~
+A translucent jellyfish~
+A translucent jellyfish is floating here.
+~
+Small tentacles hang from the large translucent globe composing the body
+of this jellyfish.  It gently floats here near the top of the water
+gracefully.  
+~
+human~
+A b 0 0
+35 0 10d76+654 35d10+100 4d6+9 scratch
+-3 -3 -3 -1
+0 0 0 0
+(null) (null) male 157
+AHMVb ABCDEFGHIJK medium unknown
+#20901
+tiger shark~
+A large tiger shark~
+A large tiger shark glides through the water.
+~
+A large tiger shark roughly eight feet long glides through the water here
+looking for prey.  His grey skin appears very smooth.  He has large teeth
+visible when his mouth opens that appear razor sharp.  
+~
+human~
+AF V 0 0
+48 0 10d150+1075 48d10+100 5d6+13 crush
+-8 -8 -8 -6
+0 0 0 0
+(null) (null) female 216
+AHMVb ABCDEFGHIJKNP medium unknown
+#20902
+sea turtle~
+A large sea turtle~
+A large sea turtle swims by you.
+~
+A large sea turtle swims by you here.  Its moss covered shell appears to
+be very thick.  It is using its two fins to glide up and down in the water
+around you.  
+~
+human~
+A b 0 0
+40 0 10d98+804 40d10+100 4d7+10 crush
+-5 -5 -5 -3
+0 0 0 0
+(null) (null) male 180
+AHMV ABCDEFGHIJKNPX medium unknown
+#20903
+seagull gull bird~
+A small seagull~
+A small seagull flies over the water looking for food.
+~
+The small white seagull appears to be swooping over the water looking for
+some type of food.  Its long wings out stretched as it glides through the
+air gracefully.  Its feet are tipped with small claws ready to grab a fish
+for a meal.  
+~
+human~
+A T 0 0
+35 0 10d76+654 35d10+100 4d6+9 divine
+-3 -3 -3 -1
+0 0 0 0
+(null) (null) male 157
+AHMVW ABCDEFGHIJKOP medium unknown
+#20904
+great white shark~
+A vicious great white shark~
+A vicious great white shark prowling for food.
+~
+The long, grey body of this massive beast must be at least twenty-five
+feet long.  Its razor sharp teeth are prominent when you notice the beasts
+mouth open.  Its large fins are allowing it to glide through the water very
+gracefully.  
+~
+human~
+AF Vb 0 0
+50 0 10d167+1149 200d10+100 5d6+13 crush
+-9 -9 -9 -7
+0 0 0 0
+(null) (null) male 225
+AHMVb ABCDEFGHIJKNP medium unknown
+#20905
+giant squid~
+The dread squid~
+A gigantic squid rears up from the water, ready to attack.
+~
+Two eyes stare back at you as the beast raises up from the water.  Its
+long tentacles covered with small circular discs, appear ready to kill
+anything it comes across.  A dark cloud of ink surrounds the water below the
+beast, making the water very cloudy.  Its dark eyes appear fixed on you, as
+if you are to become its next meal.  
+~
+human~
+AB 0 0 0
+95 0 12d1182+3558 95d10+100 6d10+29 grep
+-30 -30 -30 -25
+0 R 0 0
+(null) (null) male 427
+AEHMV ABCDEFGHIJK giant unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#20900
+The Dread Sea~
+Calm waves gently break into the cliffs to the west.  The water here is
+only ten feet deep at its deepest point.  The salt from the churning water
+fills the air with a musty aroma.  Gazing out to the east, the water
+continues all the way to the horizon.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 20900
+D1
+~
+~
+~
+0 0 20929
+D2
+~
+~
+~
+0 0 20901
+M 0 H 0
+S
+#20901
+The Dread Sea~
+Calm waves gently break into the cliffs to the west.  The water here is
+only ten feet deep at its deepest point.  The salt from the churning water
+fills the air with a musty aroma.  Gazing out to the east, the water
+continues all the way to the horizon.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 20900
+D1
+~
+~
+~
+0 0 20928
+D2
+~
+~
+~
+0 0 20902
+M 0 H 0
+S
+#20902
+The Dread Sea~
+Calm waves gently break into the cliffs to the west.  The water here is
+only ten feet deep at its deepest point.  The salt from the churning water
+fills the air with a musty aroma.  Gazing out to the east, the water
+continues all the way to the horizon.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 20901
+D1
+~
+~
+~
+0 0 20927
+D2
+~
+~
+~
+0 0 20903
+M 0 H 0
+S
+#20903
+The Dread Sea~
+Calm waves gently break into the cliffs to the west.  The water here is
+only ten feet deep at its deepest point.  The salt from the churning water
+fills the air with a musty aroma.  Gazing out to the east, the water
+continues all the way to the horizon.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 20902
+D1
+~
+~
+~
+0 0 20926
+D2
+~
+~
+~
+0 0 20904
+M 0 H 0
+S
+#20904
+The Dread Sea~
+Calm waves gently break into the cliffs to the west.  The water here is
+only ten feet deep at its deepest point.  The salt from the churning water
+fills the air with a musty aroma.  Gazing out to the east, the water
+continues all the way to the horizon.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 20903
+D1
+~
+~
+~
+0 0 20925
+D2
+~
+~
+~
+0 0 20905
+M 0 H 0
+S
+#20905
+The Dread Sea~
+Calm waves lap against a misty bog to the west.  The water here is only
+ten feet deep at its deepest point.  The salt from the churning water fills
+the air with a musty aroma.  Gazing out to the east, the water continues all
+the way to the horizon.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 20904
+D1
+~
+~
+~
+0 0 20924
+D2
+~
+~
+~
+0 0 20906
+D3
+~
+~
+~
+0 0 16067
+M 0 H 0
+S
+#20906
+The Dread Sea~
+Calm waves gently break into the cliffs to the west.  The water here is
+only ten feet deep at its deepest point.  The salt from the churning water
+fills the air with a musty aroma.  Gazing out to the east, the water
+continues all the way to the horizon.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 20905
+D1
+~
+~
+~
+0 0 20923
+D2
+~
+~
+~
+0 0 20907
+M 0 H 0
+S
+#20907
+The Dread Sea~
+Calm waves gently break into the cliffs to the west.  The water here is
+only ten feet deep at its deepest point.  The salt from the churning water
+fills the air with a musty aroma.  Gazing out to the east, the water
+continues all the way to the horizon.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 20906
+D1
+~
+~
+~
+0 0 20922
+D2
+~
+~
+~
+0 0 20908
+M 0 H 0
+S
+#20908
+The Dread Sea~
+Calm waves gently break into the cliffs to the west.  The water here is
+only ten feet deep at its deepest point.  The salt from the churning water
+fills the air with a musty aroma.  Gazing out to the east, the water
+continues all the way to the horizon.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 20907
+D1
+~
+~
+~
+0 0 20921
+D2
+~
+~
+~
+0 0 20909
+M 0 H 0
+S
+#20909
+The Dread Sea~
+Calm waves gently break into the cliffs to the west.  The water here is
+only ten feet deep at its deepest point.  The salt from the churning water
+fills the air with a musty aroma.  Gazing out to the east, the water
+continues all the way to the horizon.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 20908
+D1
+~
+~
+~
+0 0 20920
+D2
+~
+~
+~
+0 0 20910
+M 0 H 0
+S
+#20910
+The Dread Sea~
+Calm waves gently break into the cliffs to the west.  The water here is
+only ten feet deep at its deepest point.  The salt from the churning water
+fills the air with a musty aroma.  Gazing out to the east, the water
+continues all the way to the horizon.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 20909
+D1
+~
+~
+~
+0 0 20919
+D2
+~
+~
+~
+0 0 20911
+M 0 H 0
+S
+#20911
+The Dread Sea~
+Calm waves gently break into the cliffs to the west.  The water here is
+only ten feet deep at its deepest point.  The salt from the churning water
+fills the air with a musty aroma.  Gazing out to the east, the water
+continues all the way to the horizon.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 20910
+D1
+~
+~
+~
+0 0 20918
+D2
+~
+~
+~
+0 0 20912
+M 0 H 0
+S
+#20912
+The Dread Sea~
+Calm waves gently break into the cliffs to the west.  The water here is
+only ten feet deep at its deepest point.  The salt from the churning water
+fills the air with a musty aroma.  Gazing out to the east, the water
+continues all the way to the horizon.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 20911
+D1
+~
+~
+~
+0 0 20917
+D2
+~
+~
+~
+0 0 20913
+M 0 H 0
+S
+#20913
+The Dread Sea~
+Calm waves gently break into the cliffs to the west.  The water here is
+only ten feet deep at its deepest point.  The salt from the churning water
+fills the air with a musty aroma.  Gazing out to the east, the water
+continues all the way to the horizon.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 20912
+D1
+~
+~
+~
+0 0 20916
+D2
+~
+~
+~
+0 0 20914
+M 0 H 0
+S
+#20914
+The Dread Sea~
+Calm waves gently break into the cliffs to the west.  The water here is
+only ten feet deep at its deepest point.  The salt from the churning water
+fills the air with a musty aroma.  Gazing out to the east, the water
+continues all the way to the horizon.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 20913
+D1
+~
+~
+~
+0 0 20915
+D2
+~
+~
+~
+0 0 20914
+M 0 H 0
+S
+#20915
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20916
+D1
+~
+~
+~
+0 0 20944
+D2
+~
+~
+~
+0 0 20915
+D3
+~
+~
+~
+0 0 20914
+M 0 H 0
+S
+#20916
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20917
+D1
+~
+~
+~
+0 0 20943
+D2
+~
+~
+~
+0 0 20915
+D3
+~
+~
+~
+0 0 20913
+M 0 H 0
+S
+#20917
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20918
+D1
+~
+~
+~
+0 0 20942
+D2
+~
+~
+~
+0 0 20916
+D3
+~
+~
+~
+0 0 20912
+M 0 H 0
+S
+#20918
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20919
+D1
+~
+~
+~
+0 0 20941
+D2
+~
+~
+~
+0 0 20917
+D3
+~
+~
+~
+0 0 20911
+M 0 H 0
+S
+#20919
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20920
+D1
+~
+~
+~
+0 0 20940
+D2
+~
+~
+~
+0 0 20918
+D3
+~
+~
+~
+0 0 20910
+M 0 H 0
+S
+#20920
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20921
+D1
+~
+~
+~
+0 0 20939
+D2
+~
+~
+~
+0 0 20919
+D3
+~
+~
+~
+0 0 20909
+M 0 H 0
+S
+#20921
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20922
+D1
+~
+~
+~
+0 0 20938
+D2
+~
+~
+~
+0 0 20920
+D3
+~
+~
+~
+0 0 20908
+M 0 H 0
+S
+#20922
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20923
+D1
+~
+~
+~
+0 0 20937
+D2
+~
+~
+~
+0 0 20921
+D3
+~
+~
+~
+0 0 20907
+M 0 H 0
+S
+#20923
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20924
+D1
+~
+~
+~
+0 0 20936
+D2
+~
+~
+~
+0 0 20922
+D3
+~
+~
+~
+0 0 20906
+M 0 H 0
+S
+#20924
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20925
+D1
+~
+~
+~
+0 0 20935
+D2
+~
+~
+~
+0 0 20923
+D3
+~
+~
+~
+0 0 20905
+M 0 H 0
+S
+#20925
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20926
+D1
+~
+~
+~
+0 0 20934
+D2
+~
+~
+~
+0 0 20924
+D3
+~
+~
+~
+0 0 20904
+M 0 H 0
+S
+#20926
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20927
+D1
+~
+~
+~
+0 0 20933
+D2
+~
+~
+~
+0 0 20925
+D3
+~
+~
+~
+0 0 20903
+M 0 H 0
+S
+#20927
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20928
+D1
+~
+~
+~
+0 0 20932
+D2
+~
+~
+~
+0 0 20926
+D3
+~
+~
+~
+0 0 20902
+M 0 H 0
+S
+#20928
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20929
+D1
+~
+~
+~
+0 0 20931
+D2
+~
+~
+~
+0 0 20927
+D3
+~
+~
+~
+0 0 20901
+M 0 H 0
+S
+#20929
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20929
+D1
+~
+~
+~
+0 0 20930
+D2
+~
+~
+~
+0 0 20928
+D3
+~
+~
+~
+0 0 20900
+M 0 H 0
+S
+#20930
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20930
+D1
+~
+~
+~
+0 0 20959
+D2
+~
+~
+~
+0 0 20931
+D3
+~
+~
+~
+0 0 20929
+M 0 H 0
+S
+#20931
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20930
+D1
+~
+~
+~
+0 0 20958
+D2
+~
+~
+~
+0 0 20932
+D3
+~
+~
+~
+0 0 20928
+M 0 H 0
+S
+#20932
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20931
+D1
+~
+~
+~
+0 0 20957
+D2
+~
+~
+~
+0 0 20933
+D3
+~
+~
+~
+0 0 20927
+M 0 H 0
+S
+#20933
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20932
+D1
+~
+~
+~
+0 0 20956
+D2
+~
+~
+~
+0 0 20934
+D3
+~
+~
+~
+0 0 20926
+M 0 H 0
+S
+#20934
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20933
+D1
+~
+~
+~
+0 0 20955
+D2
+~
+~
+~
+0 0 20935
+D3
+~
+~
+~
+0 0 20925
+M 0 H 0
+S
+#20935
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20934
+D1
+~
+~
+~
+0 0 20954
+D2
+~
+~
+~
+0 0 20936
+D3
+~
+~
+~
+0 0 20924
+M 0 H 0
+S
+#20936
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20935
+D1
+~
+~
+~
+0 0 20953
+D2
+~
+~
+~
+0 0 20937
+D3
+~
+~
+~
+0 0 20923
+M 0 H 0
+S
+#20937
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20936
+D1
+~
+~
+~
+0 0 20952
+D2
+~
+~
+~
+0 0 20938
+D3
+~
+~
+~
+0 0 20922
+M 0 H 0
+S
+#20938
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20937
+D1
+~
+~
+~
+0 0 20951
+D2
+~
+~
+~
+0 0 20939
+D3
+~
+~
+~
+0 0 20921
+M 0 H 0
+S
+#20939
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20938
+D1
+~
+~
+~
+0 0 20950
+D2
+~
+~
+~
+0 0 20940
+D3
+~
+~
+~
+0 0 20920
+M 0 H 0
+S
+#20940
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20939
+D1
+~
+~
+~
+0 0 20949
+D2
+~
+~
+~
+0 0 20941
+D3
+~
+~
+~
+0 0 20919
+M 0 H 0
+S
+#20941
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20940
+D1
+~
+~
+~
+0 0 20948
+D2
+~
+~
+~
+0 0 20942
+D3
+~
+~
+~
+0 0 20918
+M 0 H 0
+S
+#20942
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20941
+D1
+~
+~
+~
+0 0 20947
+D2
+~
+~
+~
+0 0 20943
+D3
+~
+~
+~
+0 0 20917
+M 0 H 0
+S
+#20943
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20942
+D1
+~
+~
+~
+0 0 20946
+D2
+~
+~
+~
+0 0 20944
+D3
+~
+~
+~
+0 0 20916
+M 0 H 0
+S
+#20944
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20943
+D1
+~
+~
+~
+0 0 20945
+D2
+~
+~
+~
+0 0 20944
+D3
+~
+~
+~
+0 0 20915
+M 0 H 0
+S
+#20945
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20946
+D1
+~
+~
+~
+0 0 20974
+D2
+~
+~
+~
+0 0 20945
+D3
+~
+~
+~
+0 0 20944
+M 0 H 0
+S
+#20946
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20947
+D1
+~
+~
+~
+0 0 20973
+D2
+~
+~
+~
+0 0 20945
+D3
+~
+~
+~
+0 0 20943
+M 0 H 0
+S
+#20947
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20948
+D1
+~
+~
+~
+0 0 20972
+D2
+~
+~
+~
+0 0 20946
+D3
+~
+~
+~
+0 0 20942
+M 0 H 0
+S
+#20948
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20949
+D1
+~
+~
+~
+0 0 20971
+D2
+~
+~
+~
+0 0 20947
+D3
+~
+~
+~
+0 0 20941
+M 0 H 0
+S
+#20949
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20950
+D1
+~
+~
+~
+0 0 20970
+D2
+~
+~
+~
+0 0 20948
+D3
+~
+~
+~
+0 0 20940
+M 0 H 0
+S
+#20950
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20951
+D1
+~
+~
+~
+0 0 20969
+D2
+~
+~
+~
+0 0 20949
+D3
+~
+~
+~
+0 0 20939
+M 0 H 0
+S
+#20951
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20952
+D1
+~
+~
+~
+0 0 20968
+D2
+~
+~
+~
+0 0 20950
+D3
+~
+~
+~
+0 0 20938
+M 0 H 0
+S
+#20952
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20953
+D1
+~
+~
+~
+0 0 20967
+D2
+~
+~
+~
+0 0 20951
+D3
+~
+~
+~
+0 0 20937
+M 0 H 0
+S
+#20953
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20954
+D1
+~
+~
+~
+0 0 20966
+D2
+~
+~
+~
+0 0 20952
+D3
+~
+~
+~
+0 0 20936
+M 0 H 0
+S
+#20954
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20955
+D1
+~
+~
+~
+0 0 20965
+D2
+~
+~
+~
+0 0 20953
+D3
+~
+~
+~
+0 0 20935
+M 0 H 0
+S
+#20955
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20956
+D1
+~
+~
+~
+0 0 20964
+D2
+~
+~
+~
+0 0 20954
+D3
+~
+~
+~
+0 0 20934
+M 0 H 0
+S
+#20956
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20957
+D1
+~
+~
+~
+0 0 20963
+D2
+~
+~
+~
+0 0 20955
+D3
+~
+~
+~
+0 0 20933
+M 0 H 0
+S
+#20957
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20958
+D1
+~
+~
+~
+0 0 20962
+D2
+~
+~
+~
+0 0 20956
+D3
+~
+~
+~
+0 0 20932
+M 0 H 0
+S
+#20958
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20959
+D1
+~
+~
+~
+0 0 20961
+D2
+~
+~
+~
+0 0 20957
+D3
+~
+~
+~
+0 0 20931
+M 0 H 0
+S
+#20959
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20959
+D1
+~
+~
+~
+0 0 20960
+D2
+~
+~
+~
+0 0 20958
+D3
+~
+~
+~
+0 0 20930
+M 0 H 0
+S
+#20960
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20960
+D1
+~
+~
+~
+0 0 20989
+D2
+~
+~
+~
+0 0 20961
+D3
+~
+~
+~
+0 0 20959
+M 0 H 0
+S
+#20961
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20960
+D1
+~
+~
+~
+0 0 20988
+D2
+~
+~
+~
+0 0 20962
+D3
+~
+~
+~
+0 0 20958
+M 0 H 0
+S
+#20962
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20961
+D1
+~
+~
+~
+0 0 20987
+D2
+~
+~
+~
+0 0 20963
+D3
+~
+~
+~
+0 0 20957
+M 0 H 0
+S
+#20963
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20962
+D1
+~
+~
+~
+0 0 20986
+D2
+~
+~
+~
+0 0 20964
+D3
+~
+~
+~
+0 0 20956
+M 0 H 0
+S
+#20964
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20963
+D1
+~
+~
+~
+0 0 20985
+D2
+~
+~
+~
+0 0 20965
+D3
+~
+~
+~
+0 0 20955
+M 0 H 0
+S
+#20965
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20964
+D1
+~
+~
+~
+0 0 20984
+D2
+~
+~
+~
+0 0 20966
+D3
+~
+~
+~
+0 0 20954
+M 0 H 0
+S
+#20966
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20965
+D1
+~
+~
+~
+0 0 20983
+D2
+~
+~
+~
+0 0 20967
+D3
+~
+~
+~
+0 0 20953
+M 0 H 0
+S
+#20967
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20966
+D1
+~
+~
+~
+0 0 20982
+D2
+~
+~
+~
+0 0 20968
+D3
+~
+~
+~
+0 0 20952
+M 0 H 0
+S
+#20968
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20967
+D1
+~
+~
+~
+0 0 20981
+D2
+~
+~
+~
+0 0 20969
+D3
+~
+~
+~
+0 0 20951
+M 0 H 0
+S
+#20969
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20968
+D1
+~
+~
+~
+0 0 20980
+D2
+~
+~
+~
+0 0 20970
+D3
+~
+~
+~
+0 0 20950
+M 0 H 0
+S
+#20970
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20969
+D1
+~
+~
+~
+0 0 20979
+D2
+~
+~
+~
+0 0 20971
+D3
+~
+~
+~
+0 0 20949
+M 0 H 0
+S
+#20971
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20970
+D1
+~
+~
+~
+0 0 20978
+D2
+~
+~
+~
+0 0 20972
+D3
+~
+~
+~
+0 0 20948
+M 0 H 0
+S
+#20972
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20971
+D1
+~
+~
+~
+0 0 20977
+D2
+~
+~
+~
+0 0 20973
+D3
+~
+~
+~
+0 0 20947
+M 0 H 0
+S
+#20973
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20972
+D1
+~
+~
+~
+0 0 20976
+D2
+~
+~
+~
+0 0 20974
+D3
+~
+~
+~
+0 0 20946
+M 0 H 0
+S
+#20974
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20973
+D1
+~
+~
+~
+0 0 20975
+D2
+~
+~
+~
+0 0 20974
+D3
+~
+~
+~
+0 0 20945
+M 0 H 0
+S
+#20975
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 20976
+D1
+~
+~
+~
+0 0 21004
+D2
+~
+~
+~
+0 0 20975
+D3
+~
+~
+~
+0 0 20974
+M 0 H 0
+S
+#20976
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 20977
+D1
+~
+~
+~
+0 0 21003
+D2
+~
+~
+~
+0 0 20975
+D3
+~
+~
+~
+0 0 20973
+M 0 H 0
+S
+#20977
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 20978
+D1
+~
+~
+~
+0 0 21002
+D2
+~
+~
+~
+0 0 20976
+D3
+~
+~
+~
+0 0 20972
+M 0 H 0
+S
+#20978
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 20979
+D1
+~
+~
+~
+0 0 21001
+D2
+~
+~
+~
+0 0 20977
+D3
+~
+~
+~
+0 0 20971
+M 0 H 0
+S
+#20979
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 20980
+D1
+~
+~
+~
+0 0 21000
+D2
+~
+~
+~
+0 0 20978
+D3
+~
+~
+~
+0 0 20970
+M 0 H 0
+S
+#20980
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 20981
+D1
+~
+~
+~
+0 0 20999
+D2
+~
+~
+~
+0 0 20979
+D3
+~
+~
+~
+0 0 20969
+M 0 H 0
+S
+#20981
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 20982
+D1
+~
+~
+~
+0 0 20998
+D2
+~
+~
+~
+0 0 20980
+D3
+~
+~
+~
+0 0 20968
+M 0 H 0
+S
+#20982
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 20983
+D1
+~
+~
+~
+0 0 20997
+D2
+~
+~
+~
+0 0 20981
+D3
+~
+~
+~
+0 0 20967
+M 0 H 0
+S
+#20983
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 20984
+D1
+~
+~
+~
+0 0 20996
+D2
+~
+~
+~
+0 0 20982
+D3
+~
+~
+~
+0 0 20966
+M 0 H 0
+S
+#20984
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 20985
+D1
+~
+~
+~
+0 0 20995
+D2
+~
+~
+~
+0 0 20983
+D3
+~
+~
+~
+0 0 20965
+M 0 H 0
+S
+#20985
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 20986
+D1
+~
+~
+~
+0 0 20994
+D2
+~
+~
+~
+0 0 20984
+D3
+~
+~
+~
+0 0 20964
+M 0 H 0
+S
+#20986
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 20987
+D1
+~
+~
+~
+0 0 20993
+D2
+~
+~
+~
+0 0 20985
+D3
+~
+~
+~
+0 0 20963
+M 0 H 0
+S
+#20987
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 20988
+D1
+~
+~
+~
+0 0 20992
+D2
+~
+~
+~
+0 0 20986
+D3
+~
+~
+~
+0 0 20962
+M 0 H 0
+S
+#20988
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 20989
+D1
+~
+~
+~
+0 0 20991
+D2
+~
+~
+~
+0 0 20987
+D3
+~
+~
+~
+0 0 20961
+M 0 H 0
+S
+#20989
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 20989
+D1
+~
+~
+~
+0 0 20990
+D2
+~
+~
+~
+0 0 20988
+D3
+~
+~
+~
+0 0 20960
+M 0 H 0
+S
+#20990
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20990
+D1
+~
+~
+~
+0 0 21019
+D2
+~
+~
+~
+0 0 20991
+D3
+~
+~
+~
+0 0 20989
+M 0 H 0
+S
+#20991
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20990
+D1
+~
+~
+~
+0 0 21018
+D2
+~
+~
+~
+0 0 20992
+D3
+~
+~
+~
+0 0 20988
+M 0 H 0
+S
+#20992
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20991
+D1
+~
+~
+~
+0 0 21017
+D2
+~
+~
+~
+0 0 20993
+D3
+~
+~
+~
+0 0 20987
+M 0 H 0
+S
+#20993
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20992
+D1
+~
+~
+~
+0 0 21016
+D2
+~
+~
+~
+0 0 20994
+D3
+~
+~
+~
+0 0 20986
+M 0 H 0
+S
+#20994
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20993
+D1
+~
+~
+~
+0 0 21015
+D2
+~
+~
+~
+0 0 20995
+D3
+~
+~
+~
+0 0 20985
+M 0 H 0
+S
+#20995
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20994
+D1
+~
+~
+~
+0 0 21014
+D2
+~
+~
+~
+0 0 20996
+D3
+~
+~
+~
+0 0 20984
+M 0 H 0
+S
+#20996
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20995
+D1
+~
+~
+~
+0 0 21013
+D2
+~
+~
+~
+0 0 20997
+D3
+~
+~
+~
+0 0 20983
+M 0 H 0
+S
+#20997
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20996
+D1
+~
+~
+~
+0 0 21012
+D2
+~
+~
+~
+0 0 20998
+D3
+~
+~
+~
+0 0 20982
+M 0 H 0
+S
+#20998
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20997
+D1
+~
+~
+~
+0 0 21011
+D2
+~
+~
+~
+0 0 20999
+D3
+~
+~
+~
+0 0 20981
+M 0 H 0
+S
+#20999
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20998
+D1
+~
+~
+~
+0 0 21010
+D2
+~
+~
+~
+0 0 21000
+D3
+~
+~
+~
+0 0 20980
+M 0 H 0
+S
+#21000
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20999
+D1
+~
+~
+~
+0 0 21009
+D2
+~
+~
+~
+0 0 21001
+D3
+~
+~
+~
+0 0 20979
+M 0 H 0
+S
+#21001
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21000
+D1
+~
+~
+~
+0 0 21008
+D2
+~
+~
+~
+0 0 21002
+D3
+~
+~
+~
+0 0 20978
+M 0 H 0
+S
+#21002
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21001
+D1
+~
+~
+~
+0 0 21007
+D2
+~
+~
+~
+0 0 21003
+D3
+~
+~
+~
+0 0 20977
+M 0 H 0
+S
+#21003
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21002
+D1
+~
+~
+~
+0 0 21006
+D2
+~
+~
+~
+0 0 21004
+D3
+~
+~
+~
+0 0 20976
+M 0 H 0
+S
+#21004
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21003
+D1
+~
+~
+~
+0 0 21005
+D2
+~
+~
+~
+0 0 21004
+D3
+~
+~
+~
+0 0 20975
+M 0 H 0
+S
+#21005
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21006
+D1
+~
+~
+~
+0 0 21034
+D2
+~
+~
+~
+0 0 21005
+D3
+~
+~
+~
+0 0 21004
+M 0 H 0
+S
+#21006
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21007
+D1
+~
+~
+~
+0 0 21033
+D2
+~
+~
+~
+0 0 21005
+D3
+~
+~
+~
+0 0 21003
+M 0 H 0
+S
+#21007
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21008
+D1
+~
+~
+~
+0 0 21032
+D2
+~
+~
+~
+0 0 21006
+D3
+~
+~
+~
+0 0 21002
+M 0 H 0
+S
+#21008
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21009
+D1
+~
+~
+~
+0 0 21031
+D2
+~
+~
+~
+0 0 21007
+D3
+~
+~
+~
+0 0 21001
+M 0 H 0
+S
+#21009
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21010
+D1
+~
+~
+~
+0 0 21030
+D2
+~
+~
+~
+0 0 21008
+D3
+~
+~
+~
+0 0 21000
+M 0 H 0
+S
+#21010
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21011
+D1
+~
+~
+~
+0 0 21029
+D2
+~
+~
+~
+0 0 21009
+D3
+~
+~
+~
+0 0 20999
+M 0 H 0
+S
+#21011
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21012
+D1
+~
+~
+~
+0 0 21028
+D2
+~
+~
+~
+0 0 21010
+D3
+~
+~
+~
+0 0 20998
+M 0 H 0
+S
+#21012
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21013
+D1
+~
+~
+~
+0 0 21027
+D2
+~
+~
+~
+0 0 21011
+D3
+~
+~
+~
+0 0 20997
+M 0 H 0
+S
+#21013
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21014
+D1
+~
+~
+~
+0 0 21026
+D2
+~
+~
+~
+0 0 21012
+D3
+~
+~
+~
+0 0 20996
+M 0 H 0
+S
+#21014
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21015
+D1
+~
+~
+~
+0 0 21025
+D2
+~
+~
+~
+0 0 21013
+D3
+~
+~
+~
+0 0 20995
+M 0 H 0
+S
+#21015
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21016
+D1
+~
+~
+~
+0 0 21024
+D2
+~
+~
+~
+0 0 21014
+D3
+~
+~
+~
+0 0 20994
+M 0 H 0
+S
+#21016
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21017
+D1
+~
+~
+~
+0 0 21023
+D2
+~
+~
+~
+0 0 21015
+D3
+~
+~
+~
+0 0 20993
+M 0 H 0
+S
+#21017
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21018
+D1
+~
+~
+~
+0 0 21022
+D2
+~
+~
+~
+0 0 21016
+D3
+~
+~
+~
+0 0 20992
+M 0 H 0
+S
+#21018
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21019
+D1
+~
+~
+~
+0 0 21021
+D2
+~
+~
+~
+0 0 21017
+D3
+~
+~
+~
+0 0 20991
+M 0 H 0
+S
+#21019
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21019
+D1
+~
+~
+~
+0 0 21020
+D2
+~
+~
+~
+0 0 21018
+D3
+~
+~
+~
+0 0 20990
+M 0 H 0
+S
+#21020
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21020
+D1
+~
+~
+~
+0 0 21049
+D2
+~
+~
+~
+0 0 21021
+D3
+~
+~
+~
+0 0 21019
+M 0 H 0
+S
+#21021
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21020
+D1
+~
+~
+~
+0 0 21048
+D2
+~
+~
+~
+0 0 21022
+D3
+~
+~
+~
+0 0 21018
+M 0 H 0
+S
+#21022
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21021
+D1
+~
+~
+~
+0 0 21047
+D2
+~
+~
+~
+0 0 21023
+D3
+~
+~
+~
+0 0 21017
+M 0 H 0
+S
+#21023
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21022
+D1
+~
+~
+~
+0 0 21046
+D2
+~
+~
+~
+0 0 21024
+D3
+~
+~
+~
+0 0 21016
+M 0 H 0
+S
+#21024
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21023
+D1
+~
+~
+~
+0 0 21045
+D2
+~
+~
+~
+0 0 21025
+D3
+~
+~
+~
+0 0 21015
+M 0 H 0
+S
+#21025
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21024
+D1
+~
+~
+~
+0 0 21044
+D2
+~
+~
+~
+0 0 21026
+D3
+~
+~
+~
+0 0 21014
+M 0 H 0
+S
+#21026
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21025
+D1
+~
+~
+~
+0 0 21043
+D2
+~
+~
+~
+0 0 21027
+D3
+~
+~
+~
+0 0 21013
+M 0 H 0
+S
+#21027
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21026
+D1
+~
+~
+~
+0 0 21042
+D2
+~
+~
+~
+0 0 21028
+D3
+~
+~
+~
+0 0 21012
+M 0 H 0
+S
+#21028
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21027
+D1
+~
+~
+~
+0 0 21041
+D2
+~
+~
+~
+0 0 21029
+D3
+~
+~
+~
+0 0 21011
+M 0 H 0
+S
+#21029
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21028
+D1
+~
+~
+~
+0 0 21040
+D2
+~
+~
+~
+0 0 21030
+D3
+~
+~
+~
+0 0 21010
+M 0 H 0
+S
+#21030
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21029
+D1
+~
+~
+~
+0 0 21039
+D2
+~
+~
+~
+0 0 21031
+D3
+~
+~
+~
+0 0 21009
+M 0 H 0
+S
+#21031
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21030
+D1
+~
+~
+~
+0 0 21038
+D2
+~
+~
+~
+0 0 21032
+D3
+~
+~
+~
+0 0 21008
+M 0 H 0
+S
+#21032
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21031
+D1
+~
+~
+~
+0 0 21037
+D2
+~
+~
+~
+0 0 21033
+D3
+~
+~
+~
+0 0 21007
+M 0 H 0
+S
+#21033
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21032
+D1
+~
+~
+~
+0 0 21036
+D2
+~
+~
+~
+0 0 21034
+D3
+~
+~
+~
+0 0 21006
+M 0 H 0
+S
+#21034
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21033
+D1
+~
+~
+~
+0 0 21035
+D2
+~
+~
+~
+0 0 21034
+D3
+~
+~
+~
+0 0 21005
+M 0 H 0
+S
+#21035
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21036
+D1
+~
+~
+~
+0 0 21064
+D2
+~
+~
+~
+0 0 21035
+D3
+~
+~
+~
+0 0 21034
+M 0 H 0
+S
+#21036
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21037
+D1
+~
+~
+~
+0 0 21063
+D2
+~
+~
+~
+0 0 21035
+D3
+~
+~
+~
+0 0 21033
+M 0 H 0
+S
+#21037
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21038
+D2
+~
+~
+~
+0 0 21036
+D3
+~
+~
+~
+0 0 21032
+M 0 H 0
+S
+#21038
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21039
+D1
+~
+~
+~
+0 0 21061
+D2
+~
+~
+~
+0 0 21037
+D3
+~
+~
+~
+0 0 21031
+M 0 H 0
+S
+#21039
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21040
+D1
+~
+~
+~
+0 0 21060
+D2
+~
+~
+~
+0 0 21038
+D3
+~
+~
+~
+0 0 21030
+M 0 H 0
+S
+#21040
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21041
+D1
+~
+~
+~
+0 0 21059
+D2
+~
+~
+~
+0 0 21039
+D3
+~
+~
+~
+0 0 21029
+M 0 H 0
+S
+#21041
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21042
+D1
+~
+~
+~
+0 0 21058
+D2
+~
+~
+~
+0 0 21040
+D3
+~
+~
+~
+0 0 21028
+M 0 H 0
+S
+#21042
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21043
+D1
+~
+~
+~
+0 0 21057
+D2
+~
+~
+~
+0 0 21041
+D3
+~
+~
+~
+0 0 21027
+M 0 H 0
+S
+#21043
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21044
+D1
+~
+~
+~
+0 0 21056
+D2
+~
+~
+~
+0 0 21042
+D3
+~
+~
+~
+0 0 21026
+M 0 H 0
+S
+#21044
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21045
+D1
+~
+~
+~
+0 0 21055
+D2
+~
+~
+~
+0 0 21043
+D3
+~
+~
+~
+0 0 21025
+M 0 H 0
+S
+#21045
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21046
+D1
+~
+~
+~
+0 0 21054
+D2
+~
+~
+~
+0 0 21044
+D3
+~
+~
+~
+0 0 21024
+M 0 H 0
+S
+#21046
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21047
+D1
+~
+~
+~
+0 0 21053
+D2
+~
+~
+~
+0 0 21045
+D3
+~
+~
+~
+0 0 21023
+M 0 H 0
+S
+#21047
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21048
+D1
+~
+~
+~
+0 0 21052
+D2
+~
+~
+~
+0 0 21046
+D3
+~
+~
+~
+0 0 21022
+M 0 H 0
+S
+#21048
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21049
+D1
+~
+~
+~
+0 0 21051
+D2
+~
+~
+~
+0 0 21047
+D3
+~
+~
+~
+0 0 21021
+M 0 H 0
+S
+#21049
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21049
+D1
+~
+~
+~
+0 0 21050
+D2
+~
+~
+~
+0 0 21048
+D3
+~
+~
+~
+0 0 21020
+M 0 H 0
+S
+#21050
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21050
+D1
+~
+~
+~
+0 0 21079
+D2
+~
+~
+~
+0 0 21051
+D3
+~
+~
+~
+0 0 21049
+M 0 H 0
+S
+#21051
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21050
+D1
+~
+~
+~
+0 0 21078
+D2
+~
+~
+~
+0 0 21052
+D3
+~
+~
+~
+0 0 21048
+M 0 H 0
+S
+#21052
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21051
+D1
+~
+~
+~
+0 0 21077
+D2
+~
+~
+~
+0 0 21053
+D3
+~
+~
+~
+0 0 21047
+M 0 H 0
+S
+#21053
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21052
+D1
+~
+~
+~
+0 0 21076
+D2
+~
+~
+~
+0 0 21054
+D3
+~
+~
+~
+0 0 21046
+M 0 H 0
+S
+#21054
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21053
+D1
+~
+~
+~
+0 0 21075
+D2
+~
+~
+~
+0 0 21055
+D3
+~
+~
+~
+0 0 21045
+M 0 H 0
+S
+#21055
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21054
+D1
+~
+~
+~
+0 0 21074
+D2
+~
+~
+~
+0 0 21056
+D3
+~
+~
+~
+0 0 21044
+M 0 H 0
+S
+#21056
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21055
+D1
+~
+~
+~
+0 0 21073
+D2
+~
+~
+~
+0 0 21057
+D3
+~
+~
+~
+0 0 21043
+M 0 H 0
+S
+#21057
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21056
+D1
+~
+~
+~
+0 0 21072
+D2
+~
+~
+~
+0 0 21058
+D3
+~
+~
+~
+0 0 21042
+M 0 H 0
+S
+#21058
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21057
+D1
+~
+~
+~
+0 0 21071
+D2
+~
+~
+~
+0 0 21059
+D3
+~
+~
+~
+0 0 21041
+M 0 H 0
+S
+#21059
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21058
+D1
+~
+~
+~
+0 0 21070
+D2
+~
+~
+~
+0 0 21060
+D3
+~
+~
+~
+0 0 21040
+M 0 H 0
+S
+#21060
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21059
+D1
+~
+~
+~
+0 0 21069
+D2
+~
+~
+~
+0 0 21061
+D3
+~
+~
+~
+0 0 21039
+M 0 H 0
+S
+#21061
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21060
+D1
+~
+~
+~
+0 0 21068
+D2
+~
+~
+~
+0 0 21062
+D3
+~
+~
+~
+0 0 21038
+M 0 H 0
+S
+#21062
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21061
+D1
+~
+~
+~
+0 0 21067
+D2
+~
+~
+~
+0 0 21063
+M 0 H 0
+S
+#21063
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21062
+D1
+~
+~
+~
+0 0 21066
+D2
+~
+~
+~
+0 0 21064
+D3
+~
+~
+~
+0 0 21036
+M 0 H 0
+S
+#21064
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21063
+D1
+~
+~
+~
+0 0 21065
+D2
+~
+~
+~
+0 0 21064
+D3
+~
+~
+~
+0 0 21035
+M 0 H 0
+S
+#21065
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21066
+D1
+~
+~
+~
+0 0 21094
+D2
+~
+~
+~
+0 0 21065
+D3
+~
+~
+~
+0 0 21064
+M 0 H 0
+S
+#21066
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21067
+D1
+~
+~
+~
+0 0 21093
+D2
+~
+~
+~
+0 0 21065
+D3
+~
+~
+~
+0 0 21063
+M 0 H 0
+S
+#21067
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21068
+D1
+~
+~
+~
+0 0 21092
+D2
+~
+~
+~
+0 0 21066
+D3
+~
+~
+~
+0 0 21062
+M 0 H 0
+S
+#21068
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21069
+D1
+~
+~
+~
+0 0 21091
+D2
+~
+~
+~
+0 0 21067
+D3
+~
+~
+~
+0 0 21061
+M 0 H 0
+S
+#21069
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21070
+D1
+~
+~
+~
+0 0 21090
+D2
+~
+~
+~
+0 0 21068
+D3
+~
+~
+~
+0 0 21060
+M 0 H 0
+S
+#21070
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21071
+D1
+~
+~
+~
+0 0 21089
+D2
+~
+~
+~
+0 0 21069
+D3
+~
+~
+~
+0 0 21059
+M 0 H 0
+S
+#21071
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21072
+D1
+~
+~
+~
+0 0 21088
+D2
+~
+~
+~
+0 0 21070
+D3
+~
+~
+~
+0 0 21058
+M 0 H 0
+S
+#21072
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21073
+D1
+~
+~
+~
+0 0 21087
+D2
+~
+~
+~
+0 0 21071
+D3
+~
+~
+~
+0 0 21057
+M 0 H 0
+S
+#21073
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21074
+D1
+~
+~
+~
+0 0 21086
+D2
+~
+~
+~
+0 0 21072
+D3
+~
+~
+~
+0 0 21056
+M 0 H 0
+S
+#21074
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21075
+D1
+~
+~
+~
+0 0 21085
+D2
+~
+~
+~
+0 0 21073
+D3
+~
+~
+~
+0 0 21055
+M 0 H 0
+S
+#21075
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21076
+D1
+~
+~
+~
+0 0 21084
+D2
+~
+~
+~
+0 0 21074
+D3
+~
+~
+~
+0 0 21054
+M 0 H 0
+S
+#21076
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21077
+D1
+~
+~
+~
+0 0 21083
+D2
+~
+~
+~
+0 0 21075
+D3
+~
+~
+~
+0 0 21053
+M 0 H 0
+S
+#21077
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21078
+D1
+~
+~
+~
+0 0 21082
+D2
+~
+~
+~
+0 0 21076
+D3
+~
+~
+~
+0 0 21052
+M 0 H 0
+S
+#21078
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21079
+D1
+~
+~
+~
+0 0 21081
+D2
+~
+~
+~
+0 0 21077
+D3
+~
+~
+~
+0 0 21051
+M 0 H 0
+S
+#21079
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21079
+D1
+~
+~
+~
+0 0 21080
+D2
+~
+~
+~
+0 0 21078
+D3
+~
+~
+~
+0 0 21050
+M 0 H 0
+S
+#21080
+The Dread Sea~
+Calm waves gently break into the cliffs to the west.  The water here is
+only ten feet deep at its deepest point.  The salt from the churning water
+fills the air with a musty aroma.  Gazing out to the east, the water
+continues all the way to the horizon.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 21080
+D1
+~
+~
+~
+0 0 21095
+D2
+~
+~
+~
+0 0 21081
+D3
+~
+~
+~
+0 0 21079
+M 0 H 0
+S
+#21081
+The Dread Sea~
+The dark waters slam against the cliffs to the east.  The rough, murky
+waters churn violently here under the dark sky above.  Jagged rocks are
+protruding from the surface of the water along the cliffs, making it very
+hazardous.  The cliffs appear to be at least fifty feet tall, jetting
+straight up out of the water.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21080
+D2
+~
+~
+~
+0 0 21082
+D3
+~
+~
+~
+0 0 21078
+M 0 H 0
+S
+#21082
+The Dread Sea~
+The dark waters slam against the cliffs to the east.  The rough, murky
+waters churn violently here under the dark sky above.  Jagged rocks are
+protruding from the surface of the water along the cliffs, making it very
+hazardous.  The cliffs appear to be at least fifty feet tall, jetting
+straight up out of the water.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21081
+D2
+~
+~
+~
+0 0 21083
+D3
+~
+~
+~
+0 0 21077
+M 0 H 0
+S
+#21083
+The Dread Sea~
+The dark waters slam against the cliffs to the east.  The rough, murky
+waters churn violently here under the dark sky above.  Jagged rocks are
+protruding from the surface of the water along the cliffs, making it very
+hazardous.  The cliffs appear to be at least fifty feet tall, jetting
+straight up out of the water.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21082
+D2
+~
+~
+~
+0 0 21084
+D3
+~
+~
+~
+0 0 21076
+M 0 H 0
+S
+#21084
+The Dread Sea~
+The dark waters slam against the cliffs to the east.  The rough, murky
+waters churn violently here under the dark sky above.  Jagged rocks are
+protruding from the surface of the water along the cliffs, making it very
+hazardous.  The cliffs appear to be at least fifty feet tall, jetting
+straight up out of the water.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21083
+D2
+~
+~
+~
+0 0 21085
+D3
+~
+~
+~
+0 0 21075
+M 0 H 0
+S
+#21085
+The Dread Sea~
+The dark waters slam against the cliffs to the east.  The rough, murky
+waters churn violently here under the dark sky above.  Jagged rocks are
+protruding from the surface of the water along the cliffs, making it very
+hazardous.  The cliffs appear to be at least fifty feet tall, jetting
+straight up out of the water.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21084
+D2
+~
+~
+~
+0 0 21086
+D3
+~
+~
+~
+0 0 21074
+M 0 H 0
+S
+#21086
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21085
+D1
+~
+~
+~
+0 0 21096
+D2
+~
+~
+~
+0 0 21087
+D3
+~
+~
+~
+0 0 21073
+M 0 H 0
+S
+#21087
+The Dread Sea~
+The dark waters slam against the cliffs to the east.  The rough, murky
+waters churn violently here under the dark sky above.  Jagged rocks are
+protruding from the surface of the water along the cliffs, making it very
+hazardous.  The cliffs appear to be at least fifty feet tall, jetting
+straight up out of the water.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21086
+D2
+~
+~
+~
+0 0 21088
+D3
+~
+~
+~
+0 0 21072
+M 0 H 0
+S
+#21088
+The Dread Sea~
+The dark waters slam against the cliffs to the east.  The rough, murky
+waters churn violently here under the dark sky above.  Jagged rocks are
+protruding from the surface of the water along the cliffs, making it very
+hazardous.  The cliffs appear to be at least fifty feet tall, jetting
+straight up out of the water.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21087
+D2
+~
+~
+~
+0 0 21089
+D3
+~
+~
+~
+0 0 21071
+M 0 H 0
+S
+#21089
+The Dread Sea~
+The dark waters slam against the cliffs to the east.  The rough, murky
+waters churn violently here under the dark sky above.  Jagged rocks are
+protruding from the surface of the water along the cliffs, making it very
+hazardous.  The cliffs appear to be at least fifty feet tall, jetting
+straight up out of the water.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21088
+D2
+~
+~
+~
+0 0 21090
+D3
+~
+~
+~
+0 0 21070
+M 0 H 0
+S
+#21090
+The Dread Sea~
+The dark waters slam against the cliffs to the east.  The rough, murky
+waters churn violently here under the dark sky above.  Jagged rocks are
+protruding from the surface of the water along the cliffs, making it very
+hazardous.  The cliffs appear to be at least fifty feet tall, jetting
+straight up out of the water.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21089
+D2
+~
+~
+~
+0 0 21091
+D3
+~
+~
+~
+0 0 21069
+M 0 H 0
+S
+#21091
+The Dread Sea~
+The dark waters slam against the cliffs to the east.  The rough, murky
+waters churn violently here under the dark sky above.  Jagged rocks are
+protruding from the surface of the water along the cliffs, making it very
+hazardous.  The cliffs appear to be at least fifty feet tall, jetting
+straight up out of the water.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21090
+D2
+~
+~
+~
+0 0 21092
+D3
+~
+~
+~
+0 0 21068
+M 0 H 0
+S
+#21092
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21091
+D1
+~
+~
+~
+0 0 21097
+D2
+~
+~
+~
+0 0 21093
+D3
+~
+~
+~
+0 0 21067
+M 0 H 0
+S
+#21093
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21092
+D1
+~
+~
+~
+0 0 21098
+D2
+~
+~
+~
+0 0 21094
+D3
+~
+~
+~
+0 0 21066
+M 0 H 0
+S
+#21094
+The Dread Sea~
+The choppy water of the ocean here is creating white caps on the breaks
+of waves.  The water appears somewhat murky and you can not see the bottom. 
+The air is filled with an eerie wind that is disturbing the water below it. 
+The salt from the water fills the air with a musty aroma.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21093
+D1
+~
+~
+~
+0 0 21099
+D2
+~
+~
+~
+0 0 21094
+D3
+~
+~
+~
+0 0 21065
+M 0 H 0
+S
+#21095
+The Dread Sea~
+The dark waters slam against the cliffs to the east.  The rough, murky
+waters churn violently here under the dark sky above.  Jagged rocks are
+protruding from the surface of the water along the cliffs, making it very
+hazardous.  The cliffs appear to be at least fifty feet tall, jetting
+straight up out of the water.  
+~
+0 0 0
+D3
+~
+~
+~
+0 0 21080
+M 0 H 0
+S
+#21096
+The Dread Sea~
+The dark waters slam against the cliffs to the east.  The rough, murky
+waters churn violently here under the dark sky above.  Jagged rocks are
+protruding from the surface of the water along the cliffs, making it very
+hazardous.  The cliffs appear to be at least fifty feet tall, jetting
+straight up out of the water.  
+~
+0 0 0
+D3
+~
+~
+~
+0 0 21086
+M 0 H 0
+S
+#21097
+The Dread Sea~
+The dark waters slam against the cliffs to the east.  The rough, murky
+waters churn violently here under the dark sky above.  Jagged rocks are
+protruding from the surface of the water along the cliffs, making it very
+hazardous.  The cliffs appear to be at least fifty feet tall, jetting
+straight up out of the water.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 21098
+D3
+~
+~
+~
+0 0 21092
+M 0 H 0
+S
+#21098
+The Dread Sea~
+The dark waters slam against the cliffs to the east.  The rough, murky
+waters churn violently here under the dark sky above.  Jagged rocks are
+protruding from the surface of the water along the cliffs, making it very
+hazardous.  The cliffs appear to be at least fifty feet tall, jetting
+straight up out of the water.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21097
+D2
+~
+~
+~
+0 0 21099
+D3
+~
+~
+~
+0 0 21093
+M 0 H 0
+S
+#21099
+The Dread Sea~
+The dark waters slam against the cliffs to the east.  The rough, murky
+waters churn violently here under the dark sky above.  Jagged rocks are
+protruding from the surface of the water along the cliffs, making it very
+hazardous.  The cliffs appear to be at least fifty feet tall, jetting
+straight up out of the water.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 21098
+D3
+~
+~
+~
+0 0 21094
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 20903 25 20900 10
+M 0 20902 25 20902 10
+M 0 20901 25 20904 10
+M 0 20900 25 20906 10
+M 0 20903 25 20908 10
+M 0 20901 25 20910 10
+M 0 20900 25 20912 10
+M 0 20902 25 20914 10
+M 0 20900 25 20916 10
+M 0 20901 25 20918 10
+M 0 20902 25 20920 10
+M 0 20902 25 20921 10
+M 0 20903 25 20923 10
+M 0 20902 25 20925 10
+M 0 20901 25 20927 10
+M 0 20900 25 20929 10
+M 0 20900 25 20932 10
+M 0 20901 25 20934 10
+M 0 20903 25 20936 10
+M 0 20902 25 20938 10
+M 0 20903 25 20940 10
+M 0 20901 25 20942 10
+M 0 20900 25 20944 10
+M 0 20902 25 20946 10
+M 0 20901 25 20948 10
+M 0 20900 25 20950 10
+M 0 20903 25 20952 10
+M 0 20902 25 20954 10
+M 0 20901 25 20956 10
+M 0 20900 25 20958 10
+M 0 20903 25 20962 10
+M 0 20902 25 20967 10
+M 0 20901 25 20971 10
+M 0 20900 25 20974 10
+M 0 20901 25 20990 10
+M 0 20901 25 20994 10
+M 0 20901 25 20998 10
+M 0 20901 25 21002 10
+M 0 20904 30 21005 10
+M 0 20904 30 21007 10
+M 0 20904 30 21009 10
+M 0 20904 30 21011 10
+M 0 20904 30 21013 10
+M 0 20904 30 21017 10
+M 0 20904 30 21020 10
+M 0 20904 30 21023 10
+M 0 20904 30 21026 10
+M 0 20904 30 21029 10
+M 0 20904 30 21033 10
+M 0 20904 30 21036 10
+M 0 20904 30 21038 10
+M 0 20904 30 21040 10
+M 0 20904 30 21042 10
+M 0 20904 30 21044 10
+M 0 20904 30 21046 10
+M 0 20904 30 21048 10
+M 0 20904 30 21052 10
+M 0 20904 30 21054 10
+M 0 20904 30 21056 10
+M 0 20904 30 21058 10
+M 0 20904 30 21060 10
+M 0 20905 1 21072 10
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

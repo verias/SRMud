@@ -1,0 +1,940 @@
+#AREADATA
+Name { ALL } RODCo   Greater Utopia~
+Builders Brysaar~
+VNUMs 18001 18399
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#18001
+Arlen~
+Arlen the smith~
+Arlen the smith stands here, trying to sell his goods.
+~
+A tall and skinny human stands before you, his entire demeanor slightly
+seedy and shady.  He has brown hair and green eyes, and is dressed in a
+white shirt and brown pants.  He smiles at you upon your arrival and
+immediatly approaches you to offer assistance.  
+~
+human~
+ABRW 0 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 ABCDP 0 0
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#18002
+Arena Cook~
+an arena cook~
+This cook works quickly over his stove, preparing orders as they come in.
+~
+Long black hair has been pulled behind the head of this cook freeing his
+slate gray eyes to roam the pathway looking for prospective customers.  He
+works consistently over the small portable oven and stove he has setup here,
+cooking fresh food as it is needed, and keeping it all hot.  
+~
+human~
+ABRW 0 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 ABCDP 0 0
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#18003
+Barkeep~
+a barkeep~
+This barkeep works quickly to keep up with the orders for drinks.
+~
+Garbed in light green clothing, the potbellied man standing before you
+has graying hair speckled with white.  His blue eyes roam over the interior
+of his small domain, taking note of everything and everyone.  He nods at you
+as you enter, moving to take your order.  
+~
+human~
+ABRW 0 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 0 0 0
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#18004
+Portly Large Woman~
+a large and portly woman~
+This large and portly woman watches carefully over the store.
+~
+This tall and portly lady is dressed in a brightly colored t-shirt that
+advertises the Utopian Arena.  Short black hair has been styled into curls
+atop her head, framing her face and eyes.  She moves constantly around the
+store, straightening and restocking the shelves, while managing to keep an
+eye on everyone to prevent theft.  
+~
+human~
+ABRW 0 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 ABCP 0 0
+(null) (null) male 450
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#18001
+key copper large Lorain~
+a large copper key~
+This copper key is fairly hefty, both in weight and in design.  The
+teething of the key look highly complex, but the thing that draws more
+attention is the head of the key, a tangle of golden and silver cords set
+inside a thick copper ring.  There is a small tag attached to one of the
+cords. The thin strip of parchment attached to the key has the name
+'Lorain' visible in a purple ink.~
+copper~
+key W AO
+0 0 0 0 0
+1 0 0 P
+#18002
+couch large leather white~
+a white leather couch~
+A large couch has been set in the middle of the room.~
+leather~
+furniture R 0
+0 0 0 0 0
+0 45 0 P
+#18003
+bathtub tub ivory~
+an ivory bathtub~
+This tub is quite simply massive, its square shape dominating most of the
+room, allowing only several feet of space before the walls.  The ivory of
+the tub shines with a pale glimmer, looking quite inviting.  A set of carved
+steps lead into the tub.~
+ivory~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#18004
+bed fourposter poster~
+a four poster bed~
+An immense four poster bed is lying here.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 2500 0 P
+#18005
+beds bunker~
+a bunker bed~
+Two bunker beds have been placed here.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 1400 0 P
+#18006
+table small wooden mahogany~
+a small mahogany table~
+A small table of varnished mahogany rests here.~
+wood~
+trash R 0
+0 0 0 0 0
+0 700 1 P
+#18007
+armchair comfortable ultramarine blue~
+an ultramarine armchair~
+A comfortable looking armchair has been placed here.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 1100 0 P
+#18008
+bench small~
+a small bench~
+A small bench rests against the northern wall.~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 1200 0 P
+#18009
+Arena Gate Key~
+the arena gate key~
+This large key fits the gate to the Utopian Arena.~
+gold~
+key SW A
+0 0 0 0 0
+0 1 0 P
+#18010
+Amber Glowing Orb~
+a glowing orb of {yamber{x~
+This glowing orb is a dark {yamber{x color and hums with a strange energy.~
+amber~
+weapon 0 AN
+exotic 9 10 charge 0
+47 0 235 P
+A
+19 1
+A
+18 1
+#18011
+Amber Spear~
+an {yamber{x spear~
+This {yamber{x spear seems to hum with a strange energy.~
+amber~
+weapon 0 AN
+dagger 10 10 punch F
+53 0 265 P
+#18012
+Amber Armor~
+some {yamber{x armor~
+This {yamber{x armor hums with a strange energy and appears to be good protection for your upper body.~
+amber~
+armor B AD
+D D D B 0
+50 20 250 P
+A
+19 1
+A
+18 1
+A
+24 -1
+#18013
+Bread Baps Meat~
+bread baps with "Meat"~
+A bread bap full of "Meat" looks invitingly delicious.~
+meat~
+food 0 AO
+CE 0 0 0 0
+1 0 2 P
+#18014
+hotdog~
+a large hotdog~
+A large and delicious looking hotdog has been left here.~
+meat~
+food 0 AO
+BD 0 0 0 0
+1 0 2 P
+#18015
+Dark Ale~
+a mug of dark ale~
+This mug is full of dark ale.~
+leather~
+drink 0 AO
+2 2 'ale' 0 0
+1 0 3 P
+#18016
+water mug~
+a cold mug of water~
+This mug was kept chilled and then filled with cool water.~
+stone~
+drink 0 AO
+10 10 'water' 0 0
+1 0 3 P
+#18017
+Utopian Mug~
+a Utopian Arena mug~
+This mug has the picture of the Utopian Arena painted on it.~
+stone~
+drink 0 AO
+100 0 'water' 0 0
+1 1 3 P
+#18018
+Arena Model~
+a model of the Utopian Arena~
+This model of the Utopian Arena is built with precise detail.~
+stone~
+treasure 0 AR
+0 0 0 0 0
+25 0 600 P
+A
+13 15
+A
+12 40
+#18019
+Sandy Floor Arena~
+the floor of the arena~
+The floor of the arena is covered in thick sandy loam.~
+sand~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#18020
+Seating Section Seat Bleacher~
+the arena bleachers~
+The arena bleachers are built to provide a view of the floor.~
+stone~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#18021
+frothing utopian beer~
+a frothing glass of Utopian beer~
+A simple glass full of the very best from the Utopian breweries.~
+glass~
+drink 0 AO
+3 3 'beer' 0 0
+15 0 45 P
+#0
+
+
+
+#ROOMS
+#18001
+The Reception~
+This small room is little more than a wooden gatehouse.  Perhaps eight
+feet tall and twice as much to either side, this place offers shelter from
+the harsh winds and rain.  Besides that, however, it is featureless.  The
+place is unfurnished and decorated only by the large set of double doors
+that stand to the west.  The exit from the gatehouse leads eastwards, to
+Utopia Circle.  
+~
+0 1048616 0
+D1
+~
+~
+~
+1 0 19343
+D3
+The large doors do not allow you to see into the house, but judging by
+their decorated surface, it is possible to say that the house they guard was
+probably expensive.  
+~
+doors~
+~
+4 18001 18002
+M 0 H 0
+S
+#18002
+Living Room~
+Blemished boards of brightly colored wood form the walls of this truly
+large room, their surface covered by nearly reflective varnish.  The floor
+is of the same material of the walls, and is interrupted only by a large
+couch, armchair, and mahogany table.  The couch and chair are placed so that
+they face out the window, the varnished table placed in front of them. 
+Towards the western end of the room is a large staircase that spirals up
+through the tall ceiling.  A sturdy pair of double doors stands to the east,
+while smaller doors lead north and south.  There is a large picture window
+set in the western wall.  
+~
+0 40 0
+E
+window picture glass~
+The western wall is mostly bare, with no furniture attached to it.  The
+bareness, however, is only to further bring out the large picture window
+inside the wall.  Reinforced by horizontal and vertical rods of black metal,
+the picture window offers a pleasant view to a small garden.  A small glass
+door blends softly into the window, and would have been nearly impossible to
+notice if not for its large knob.  
+~
+D0
+The doorframe to the north is decorated by carvings of various fruits. 
+Grapes, pineapples, bananas, mangos and pears, almost nothing is left out.  
+The kitchen is probably to the north.
+~
+kitchen door~
+~
+0 0 18003
+D1
+Looking eastwards through the sturdy double doors, you see the reception
+to the house.  
+~
+sturdy wooden doors~
+~
+4 18001 18001
+D2
+A simple wooden door leads to the south.  Through it, you can spy a
+purple carpet and nothing more.  
+~
+simple door~
+~
+0 0 18004
+D3
+The western wall is mostly bare, with no furniture attached to it.  The
+bareness, however, is only to further bring out the large picture window 
+inside the wall.  Reinforced by horizontal and vertical rods of black metal,
+the picture window offers a pleasant view to a small garden.  A small glass
+door blends softly into the window, and would have been nearly impossible to
+notice if not for its large knob.  
+~
+glass door~
+~
+0 0 18005
+D4
+The staircase spirals narrowly towards the second floor of this house. 
+Around it is a thin brass railing.  
+~
+~
+~
+0 0 18006
+M 0 H 0
+S
+#18003
+The Kitchen~
+Tan colored wood makes up the floor of this large kitchen, its varnished
+surface projecting a luxurious feel to the room.  Large pine wood cabinets
+line the entire western wall, providing storage space.  Oak counters line
+the wall opposite of the cabinets, their brown marble tops polished to a
+reflective shine.  There are two large, cubical depressions on the top of
+the counters.  The first rests in front of a window with an odd pipe, and
+the second sits in a seemingly random part of the counter.  Several
+paintings cover the north and southern walls.  Other than the paintings and
+a small table in the center of the room, a wooden door to the south is the
+only other thing of interest.  
+~
+0 40 0
+E
+depressions sink cubical~
+The large depression in the couter by the window is, quite obviously, the
+sink.  Meanwhile, the second depression seems to serve another purpose.  The
+surface of the second depression appears to be coated by ceramics of sort.  
+A place for a fire, perhaps?
+~
+E
+odd pipe~
+This pipe appears to function as both a tube and a lever, pouring down
+water whenever it is tilted downwards.  The source of the water is plainly
+visible - a large bucket is hung outside the window.  
+~
+E
+paintings~
+Six paintings rest on the walls, two to the south and four to the north. 
+The pictures of a four layered cake and a steaming loaf of knot bread rest
+on the southern wall, while more humble pictures of black grapes, a bowl of
+pears, a roasted pig and a bowl of soup fill the northern wall.  By the
+looks of it, these pictures were placed in order to help inspire whoever is
+cooking.  
+~
+E
+cabinets~
+There are over eight different cabinets lined against the wall, each one
+of them containing different kinds of foods.  Labelled by their intended
+contents, there are cabinets for cheeses, fruits, meats, fishes, vegetables,
+grains, breads and all sorts of drinks and wines.  
+~
+D2
+The living room can be seen clearly through the door.  
+~
+~
+~
+0 0 18002
+M 0 H 0
+S
+#18004
+A Large Bath~
+Aged marble forms the floor to this extravagant bathroom.  It is perhaps
+thirty feet to and from east to west and north to south, with most of the
+space used to house a large, ivory tub.  Set against the southern wall are
+large wooden barrels, and all around the room are candleholders.  Dangling
+above the tub is a large chandelier, and a towel rack protrudes from the
+western wall.  A simple wooden door leads to the north.  
+~
+0 1048616 0
+E
+barrels~
+Ten barrels are lined against the southern wall, and on each of them is a
+label.  Apparently, five of the barrels contain water and another five
+contain milk.  
+~
+E
+candleholders holders~
+These candleholders are made of blackened iron.  Each holder houses a
+single candle colored pastel.  
+~
+E
+rack towels~
+A wooden rack for towels has been built into the western wall.  Seven
+towels rest on the rack.  Four towels are colored a simple white, two others
+are sky blue and the final towel is ruby red.  The name 'Aurora' has been
+monogrammed on one of the blue towels, and on the red - 'Lorain'.  
+~
+E
+chandelier~
+This chandelier has a yellowish tinge to it and looks like either gold or
+lexium.  It is shaped like a plain circle and houses six white candles.  
+~
+D0
+The richly furnished living room lies past the door and to the north.  
+~
+simple door~
+~
+0 0 18002
+M 0 H 0
+S
+#18005
+A Quiet Garden~
+This good sized garden is surrounded by a thick and tall living fence
+that blocks out the external world quite nicely.  Around the living fence
+are all sorts of flowery bushes, and spread before them are flowerbeds that
+reach towards the center of the circular garden.  In the middle of the
+garden stands a small almond tree, offering plenty of shade to whoever would
+choose to sit under it.  The ground is almost completely filled with
+flowers, though a few stones set in the earth form a walkway towards a glass
+door set in a picture window to the east.  
+~
+0 32 0
+E
+living fence~
+The garden is fenced by a tall and dense bush of red honeysuckle.  
+~
+E
+bushes~
+Small bushes ring the garden, displaying their white and red roses
+proudly.  
+~
+E
+flowerbeds flowers~
+Dotted poppies emerge seemingly at random from the blanket of colorful
+tulips.  Occasionally, a forget-me-not or even a violent can be seen, though
+the dominant color is most definitely the intense yellow.  
+~
+E
+almond tree~
+The almond tree is nine feet tall and quite serene.  When in bloom, the
+tree's pale pink flowers give the entire garden a beauty almost surreal.  
+~
+D1
+Looking to the east, you can plainly see a large living room.  In the
+center of the window, you can make out the outlines of a door.  
+~
+~
+~
+0 0 18002
+M 0 H 0
+S
+#18006
+The Rounded Hallway~
+This room is mostly nondescript, containing little more than a carpet and
+some artwork.  Lit by scone-like candleholders that protrude from the
+walls, the room is lit quite nicely.  Three simple doors lead to the north,
+west and south, and a curtain of purple silk leads to the east.  Also, a
+spiralling stairway leads down to the first floor of this house.  
+~
+0 40 0
+E
+carpet~
+This carpet is colored bright tan, and contrasts with the wooden walls
+and floor.  
+~
+E
+artwork~
+More gaudy than stylish, the artwork in this room; essentially five
+paintings hung on the walls, all depict the same place - Woodmonte Village. 
+The paintings are all alike, another angle to the same story: a snowy winter
+morning and some burly mend and children walking around in simple shirts,
+hoisting axes over their shoulders.  
+~
+D0
+The master bedroom is to the north.
+~
+~
+~
+0 0 18007
+D1
+A simple curtain screen leads to what must be a prayer room.  
+~
+curtain~
+~
+1 0 18010
+D2
+The room to the south is so dimly lit that it is impossible to determine
+what its function is.  
+~
+~
+~
+0 0 18009
+D3
+Looking to the west, you see a small bedroom.
+~
+~
+~
+0 0 18008
+D5
+The stairway spirals down to the living room.
+~
+~
+~
+0 0 18002
+M 0 H 0
+S
+#18007
+The Bedroom~
+The boarded wooden floor of this fancy bedroom shines softly from
+varnish, reflecting the light from the iron contraption that dangles from
+the ceiling.  The northern end of the room is dominated by an enormous
+four-poster bed with a draping canopy of light green silk.  Flanking the bed
+on east and west are two small, square cabinets, a candelebra set on each. 
+A plush, rounded carpet, dyed to depict a large oak tree, rests at the
+center of the room, right beneath the odd contraption.  There is a window to
+the west and a large door to the south.  
+~
+0 40 0
+E
+cabinets~
+These plain cabinets are only large enough to house some robes and
+slippers.  And that's exactly what they do.  
+~
+E
+window~
+The window overlooks a tiny grove of trees to the west.
+~
+E
+contraption incense burner odd iron~
+Dangling from the ceiling is an iron incense burner.  Shaped like a
+sphere with a crown around its girth, the incense burner spreads the sweet
+scent of roses into the air.  For some odd reason, the iron glows somewhat,
+showering the room with ghostly white light.  
+~
+D2
+The second floor hallway can be seen to the south.
+~
+~
+~
+0 0 18006
+M 0 H 0
+S
+#18008
+A Small Bedroom~
+Thick wood of a dark brown coloration forms this room, making it appear
+much smaller, and darker, than it truly is.  As smaller as the room may
+appear, however, it is still quite obviously large, easily twenty steps to
+either direction.  The setup of this room is very simple; a simple cot of
+wood and linen rests at each corner of the room, and two bunker beds rest
+along the western wall, straddling the window.  With the exception of the
+large window to the west, there is not a single form of lighting in this
+room.  There is a small wooden door that leads to the east.  
+~
+0 40 0
+E
+window~
+The window to the west overlooks a small garden, giving a very serene
+view.  
+~
+E
+cots~
+These cots are plain and mostly featureless.  Each cot is large enough to
+hold a single person, and on it rest thin blankets and a pillow.  
+~
+D1
+~
+~
+~
+0 0 18006
+M 0 H 0
+S
+#18009
+The Library~
+Bookcases completely hide the walls of this room, leaving place for not
+even a window.  A bright brown carpet covers the floor, fixed into place
+somehow.  There is a lavish desk placed in the middle of the room, and in
+front of it are two small chairs.  Leading to the north is a simple door of
+carved wood.  
+~
+0 4194344 0
+E
+chairs~
+Small wooden chairs.  Two of them.
+~
+E
+desk lavish~
+Six feet wide and five feet tall, this desk holds neat stacks of papers,
+It holds four drawers complete with sturdy locks.  
+~
+E
+carpet~
+The carpet is bright brown and apparently comfortable to walk on. 
+Looking at its edges, multitudes of black nails can be seen holding the
+carpet to the floor.  
+~
+D0
+There is a large hallway to be seen northwards.
+~
+~
+~
+0 0 18006
+M 0 H 0
+S
+#18010
+Prayer Room~
+This chamber is formed completely of smooth, white pinewood, and it
+sports a large window that overlooks the crowded Utopian streets.  The
+furnishing of this room is quite bizarre - it apparently has been separated
+into a few sections.  The first section is essentially the outer ring of the
+room, where many small shrines can be seen.  Before the window rests another
+section; simply a wicker prayer mat.  Finally, the ground at the center of
+the room is graced by a painted black hexagram which holds a small sheet at
+its center.  Draping over the exit to the west is a purple silk curtain.  
+~
+0 40 0
+E
+sheet~
+The sheet is made of plain cloth and has been nailed into the floor at
+the corners.  
+~
+E
+shrines~
+Tiny shrines for every religion, from Udram to Aristean to Ubel, can be
+seen around the room.  The shrines are actually set into depressions inside
+the wall, and under the cubical depressions rest figurines.  
+~
+E
+candles~
+These large candles release the scent of honeysuckle into the air.
+~
+E
+hexagram painted black~
+The hexagram was apparently formed by scorching the floor.  At each
+corner of the six foot wide hexagram lies a burning, tan-pink candle.  
+~
+E
+window large~
+The window offers view to the streets of Utopia, as well as the side of
+the royal palace.  
+~
+E
+wicker prayer mat~
+The mat is small and featureless, its size sufficient only to support a
+single resident.  Apparently, this mat is used for prayers and meditation.  
+~
+D3
+A large hallway can be seen through the fluttering of the silk curtain.
+~
+curtain~
+~
+1 0 18006
+M 0 H 0
+S
+#18011
+Entrance to the Utopian Arena~
+Imposing your view to the north is a large and magnificent structure of
+massive proportions.  A wide path of smooth stone has been made leading from
+the gates to the south all the way to the stadium itself, disappearing
+within it.  The smell of various foods and ales waft along the breeze,
+coming from the structure to the north.  The stadium appears to be well
+constructed out of heavy stone, and looks to be able to easily seat several
+thousand people.  
+~
+0 1048608 1
+D0
+~
+~
+~
+0 0 18012
+D2
+~
+gate~
+~
+4 18009 19400
+M 0 H 0
+S
+#18012
+The Arena Tunnel~
+Cool and pleasent shade is offered within this tunnel beneath the
+stadium.  The wide cobbled pathway you are travelling leads to the north and
+south, giving access to the stadium seating northward, while allowing exit
+to the south.  Small shops have been setup to the east and west, various
+goods and items available for purchase.  
+~
+0 1048616 0
+D0
+~
+~
+~
+0 0 18013
+D1
+~
+~
+~
+0 0 18015
+D2
+~
+~
+~
+0 0 18011
+D3
+~
+~
+~
+0 0 18016
+M 0 H 0
+S
+#18013
+The Arena Tunnel~
+Cool and pleasent shade is offered within this tunnel beneath the
+stadium.  The wide cobbled pathway you are travelling leads to the north and
+south, giving access to the stadium seating northward, while allowing exit
+to the south.  Small shops have been setup to the east and west, various
+goods and items available for purchase.  
+~
+0 1048616 0
+D0
+~
+~
+~
+0 0 18014
+D1
+~
+~
+~
+0 0 18017
+D2
+~
+~
+~
+0 0 18012
+D3
+~
+~
+~
+0 0 18018
+M 0 H 0
+S
+#18014
+The Utopian Arena~
+Thick sandy loam covers the floor in the center of this massive arena. 
+The floor is surrounded on each side by the walls that make up the seating
+sections, save for the entrance way to the south.  The ceiling is open at
+the top, allowing a view of the sky.  Visible through the exit south is a
+dark looking tunnel, and it appears to be the only way out.  
+~
+0 1049640 0
+D2
+~
+~
+~
+0 0 18013
+M 0 H 0
+S
+#18015
+Weapons of the Arena~
+Greeting your eyes as you enter this small square chamber is the bare
+gray stone floor and walls.  This room is totally barren of any furniture,
+except a stack of crates placed against the far east wall.  Different
+weapons and armor are stacked around in various places, each available for
+sale.  The only decoration visible is a large sign visible on the south
+wall.  A single doorway to the west is the only exit available.  
+~
+0 1048616 0
+E
+large sign~
+All of the weapons here have been crafted in Utopia by the weaponmaker
+Endio.  Please use them well and pay your respects to him for such high
+quality work.  Custom work is available for a price, should you have any
+questions, please seek him out.  
+~
+D3
+~
+~
+~
+0 0 18012
+M 0 H 0
+S
+#18016
+Arena Snacks~
+A long counter spans the width of this room, blocking you from going any
+further than a few feet in.  The smell of cooking food wafts heavily in the
+air here, overwhelming your senses.  The floor and walls are made of bare
+gray stone, and totally bare of any decoration.  A single doorway to the
+east leads out to the main corridor.  
+~
+0 1048616 0
+D1
+~
+~
+~
+0 0 18012
+M 0 H 0
+S
+#18017
+Arena Souvenier Shop~
+Several different colored orbs of glowing light have been strung across
+the ceiling of this unique shop.  Everywhere you look there are items of
+different colors and types, each a souvenier to bring from the arena.  A
+large and portly woman watches over the store, keeping track of who enters
+and leaves to prevent theft.  A single door to the west provides access to
+the corridor.  
+~
+0 1048616 0
+D3
+~
+~
+~
+0 0 18013
+M 0 H 0
+S
+#18018
+Arena Drinks~
+A long counter spans the width of this room, blocking you from going any
+further than a few feet in.  The smell of alcoholic drinks waft heavily in
+the air here, overwhelming your senses.  The floor and walls are made of
+bare gray stone, and barren of any decoration.  A single doorway to the east
+leads out to the main corridor.  
+~
+0 1048616 0
+D1
+~
+~
+~
+0 0 18013
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 18001 1 1
+D 0 18001 3 2
+D 0 18002 1 2
+D 0 18006 1 1
+D 0 18010 3 1
+D 0 18011 2 2
+O 0 18008 0 18001
+O 0 18002 0 18002
+O 0 18006 0 18002
+O 0 18007 0 18002
+O 0 18003 0 18004
+O 0 18004 0 18007
+O 0 18005 0 18008
+O 0 18019 0 18014
+O 0 18020 0 18014
+M 0 18001 1 18015 10
+G 0 18011 0
+G 0 18012 0
+G 0 18010 0
+M 0 18002 1 18016 10
+G 0 18013 0
+G 0 18014 0
+M 0 18004 1 18017 10
+G 0 18017 0
+G 0 18018 0
+M 0 18003 1 18018 10
+G 0 18015 0
+G 0 18016 0
+G 0 18021 0
+S
+
+
+
+#SHOPS
+18001 5 9 0 0 0 200 30 0 23
+18002 19 0 0 0 0 250 10 0 23
+18003 17 0 0 0 0 200 30 0 23
+18004 8 0 0 0 0 300 5 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

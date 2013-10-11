@@ -1,0 +1,6222 @@
+#AREADATA
+Name { ALL } XeryAsa The Enchanted Forest~
+Builders Xeryna~
+VNUMs 8550 8899
+Security 1
+End
+
+
+
+#MOBILES
+#8550
+faerie~
+a faerie flutters in the air~
+A small faerie flutters here, its white wings shimmering.
+~
+Deep green robes drape over the small frame of this faerie.  Her eyes are a 
+deep blue, like the skies at midnight, and sparkle even in the dimmest of 
+lights.  The only thing keeping the golden curls that spill in a cloud 
+around her shoulders out of her face is an ornate clip decorated with a 
+lily.  Her lips and skin themselves seem to sparkle and shine with a light 
+of their own.  White wings reminiscent of a butterfly's sprout from this 
+faerie's back.  Each wing is adorned with powder-blue markings, and shimmers 
+in a similar manner to her skin.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP M unknown
+#8551
+faerie black purple winged~
+a black and purple winged faerie~
+A faerie with black and purple wings flutters in the air, darting back and forth.
+~
+Fluttering black and purple wings carry this faerie through the air.  Deep 
+purple hair shines like an amethyst in sunlight as it spills over this naked 
+faerie's form, almost completely covering her torso.  The rest of her lithe 
+body seems to shimmer, as pale as the moon.  Glittering green eyes look you 
+over haughtily as she flits beyond your reach.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 0 0
+ACHMV ABCDEFGHIJKP M unknown
+#8552
+faerie blue white fluttering~
+a fluttering male faerie~
+This male faerie is dressed in blue and white.
+~
+A tailored blue tunic coupled with immaculately white trousers cover this 
+young faerie's frame.  His features are sharp, with high cheek bones and 
+pointed ears poking through his shock of orange hair.  Stately black wings 
+with dark orange spots carry him through the air.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 1 0
+ACHMV ABCDEFGHIJKP M unknown
+#8553
+faerie buttery yellow winged~
+a yellow winged faerie~
+This female faerie has buttery yellow wings.
+~
+Tiny flowers are braided into the long, bright blonde hair that crowns this 
+elegant faerie frame.  A long white robe covers most of her body, leaving 
+her hands and face to be seen.  Her eyes are large and hazel, actively 
+looking around the room and over your form.  Her wings are a soft yellow 
+hue, fluttering silently as she moves.  
+~
+Human~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 0 0
+AHMV ABCDEFGHIJK M unknown
+#8554
+faerie dragonfly wings~
+a male faerie~
+This male faerie has dragonfly-like wings.
+~
+Glowing with an internal radiance, the tiny figure of a faerie male flutters 
+here on irredescent dragonfly wings.  His sharp features seem both noble and 
+playful at the same time as he glances at you with soulless eyes.  Black, 
+wild hair makes his gaze even darker.  
+~
+Human~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 1 0
+AHMV ABCDEFGHIJK M unknown
+#8555
+faerie androgynous~
+an androgynous faerie~
+This faerie is too bright to make out whether it is male or female.
+~
+An androgynous figure flutters before you, its lithe body shimmering as if 
+coated in silver dust.  Long hair the colour of ancient oak is buffeted by 
+the large silvery butterfly wings, masking and revealing its naked form as 
+it skims through the air.  Eyes like twin portals of midnight blink at you 
+as a smile graces its face.  
+~
+Human~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 0 0
+AHMV ABCDEFGHIJK M unknown
+#8556
+faerie blue winged~
+a blue-winged faerie~
+A faerie with pastel blue wings flutters here.
+~
+Short cropped red-brown hair almost masks the pointed ears of the tiny 
+individual before you.  Her womanly form is covered by a dress of glittering 
+blue that has been cut away at the front to reveal long shapely legs.  
+Ornate butterfly wings of a pastel blue grace her back.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP M unknown
+#8557
+fae juggling light~
+a fae juggling balls of light~
+This fae seems to be entertaining itself via juggling.
+~
+Ivy leaves interlaced and held by some form of magic clothe the diminutive 
+person that stands before you.  Eyes like wells of darkness gaze pleasantly 
+from a face covered in skin the colour of willow bark.  Small balls of light 
+are juggled from hand to hand idly with a grace few could possess.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 0 0
+ACHMV ABCDEFGHIJKP M unknown
+#8558
+fae dancing wingless~
+a dancing fae~
+This small wingless fae dances about gracefully to amuse itself.
+~
+Gossamer robes mask the pert figure that dances before you, humming an 
+ancient melody to itself.  Silver tinted skin almost shines with an inner 
+radiance on the exposed flesh of hands, feet and face.  As it glances up you 
+cannot help but notice a light smattering of freckles upon its finely 
+chiseled features, complimented by bright blue eyes that look at you with 
+amused interest.  Crowning its brow is hair the colour of sun-ripened corn.  
+
+~
+Human~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 0 0
+AHMV ABCDEFGHIJK M unknown
+#8559
+nymph plaited~
+a nymph with plaited hair~
+This nymph's hair has been plaited neatly to fall over her shoulders.
+~
+Twin braids of mahogany lay over each shoulder of this nymph, the edges 
+brushing against her breasts.  Pale eyes, the same color as the sky on a 
+cloudless day, grace her face, contrasting sharply with the pale tan color 
+of her skin.  She is approximately four and a half feet in height, her 
+posture is erect and proper.  
+~
+Nymph~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACGHMV ABCDEFGHIJK M unknown
+#8560
+nymph green variegating~
+a green nymph~
+A nymph of variegating green is here.
+~
+Bright leaf-green eyes peer at you from this heart-shaped face.  Straight, 
+darker green hair barely falls past this nymph's ears.  As you look her 
+over, you notice her naked form is covered in skin that is faintly tinted 
+green.  She studies you curiously.  
+~
+Nymph~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 0 0
+ACGHMV ABCDEFGHIJK M unknown
+#8561
+ash nymph succulent~
+Ash the nymph~
+A succulent nymph with ash-colored hair is here.
+~
+Ringlets the color of ash cascade down this woman's back, well past her 
+hips.  Black eyes peer out of the fine-featured face of this female, 
+creating a startling contrast between her pale complexion and hair.  Her 
+spritely figure is a little over average height.  
+~
+Nymph~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACGHMV ABCDEFGHIJK M unknown
+#8562
+unicorn blue equestrian horn~
+a blue unicorn~
+A silver horn spirals from this equestrian's forehead.
+~
+A silver horn spirals majestically into the air from this equestrian's 
+forehead, contrasting vividly with its deep blue coat.  Long hairs at the 
+base of the legs covering the top of each silver, cloven hoof.  The mane, 
+tail, and beard spill in silver splashes around the dark beast.  The eyes of 
+the unicorn glimmer like stars in the night sky, drinking in all its 
+surroundings readily.  Easily standing twenty five hands in height, he seems 
+to be at ease in any setting.  
+~
+Human~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 1 0
+AHMV ABCDEFGHIJK M unknown
+#8563
+unicorn mare equestrian horn~
+a unicorn mare~
+This unicorn mare's coat is mottled pink and purple.
+~
+Twenty hands in height at the shoulder, this equestrian being stands out 
+from the land easily.  A silver horn spirals from its forehead elegantly, 
+complimenting its silver hooves, mane and tail.  The coat of this unicorn is 
+a rich purple color, mottled with deep pink.  Like stars in the night sky, 
+her eyes shimmer a silver color as they dart around nervously.  
+~
+Human~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+AHMV ABCDEFGHIJK M unknown
+#8564
+satyr~
+a satyr~
+This satyr frolicks about here fancifully.
+~
+Well-muscled and trim looking is the uppermost half of the young man 
+standing before you, but his legs are those of a brown furred goat.  Clear 
+deep brown eyes dart about, seeming to be in search of something.  Cloven 
+hooves as black as coal support his form as he leaps and frolics around in 
+whatever quest has taken his fancy.  
+~
+Human~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 1 0
+AHMV ABCDEFGHIJK M unknown
+#8565
+satyr drunken~
+a drunken satyr~
+This satyr appears to have been celebrating a little too long.
+~
+A mass of jet black curls tumble down the back of the rotund figure before 
+you.  Bleary blue eyes stare out of his bearded face as he sways around 
+drunkenly.  Legs of a goat seem only just able to support his girth as he 
+stumbles forward on his dark cloven hooves.  
+~
+Human~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 1 0
+AHMV ABCDEFGHIJK M unknown
+#8566
+harpy shrieking~
+a shrieking harpy~
+This harpy shrieks at you on sight.
+~
+The torso of a shapely woman before you melds into muscular feathered legs.  
+Claws replace hands and feet of this creature, complimented with a large 
+wing span of long, brown feathers.  Greasy locks of hair drape over her 
+shoulders as her black, unnerving eyes focus on you.  Sharp teeth are 
+exposed by a malicious grin as the harpy screeches loudly.  
+~
+Human~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+AHMV ABCDEFGHIJK M unknown
+#8567
+Phira~
+Phira~
+The mischievous fae animal handler, Phira, is here.
+~
+This faery has a smattering of freckles over her sharp features.  Her eyes 
+are quick and bright, a shining blue that seems to take everything in within 
+a glance.  Two sharp ears protrude from her mass of curling orange hair, 
+half of which is pulled into a pony tail high at the back of her head.  Her 
+wings shimmer a translucent blue as they flap in a flurry behind her, 
+keeping her in the air at all times.  She is dressed in a bright green frock 
+and grins impishly at you when you enter.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 ABQ 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP S unknown
+#8568
+pilameano~
+a pilameano~
+This steed appears to be a miniature horse.
+~
+This creature looks delicate due to its small size.  It looks exactly like a 
+miniature horse with a snowy white mane, tail, and a blue-white coating of 
+fur over its hide.  Its eyes shine like tiny sapphires as it paws the floor 
+with its tiny hoof, looking somewhat impatient as it stands still.  
+~
+Dog~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+H 0 0 0
+9 9 0 0
+AGV ACDEFHJKPUV S unknown
+#8569
+faery dragon~
+a faery dragon~
+A small dragon with iridescent scales and wings rests here, looking around curiously.
+~
+This four foot long dragon is covered in bright iridescent scales that 
+change from molten spring green to a dappled magenta.  Its snout tapers to a 
+fanged maw, but these threatening features don't quite make it look 
+dangerous.  Four great wings that are tattered at the ends sprout from its 
+back, made of a translucent iridescence that has cooler tones than the 
+scales, flashing blue and green as they flutter.  
+~
+Wyvern~
+A DFT 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+CFH L 0 S
+9 9 0 0
+ABGZc ACDEFHJKOPUVX S unknown
+#8570
+tiny red fire drake~
+a tiny red drake~
+A tiny red drake sits here with its tail curled around its paws and its wings folded.
+~
+A tiny red fire drake sits here, gazing about with shimmering eyes akin to 
+crystal prisms.  Thin, spiralled horns sweep back from the to of its 
+fine-featured head, giving it a bit of an inquisitive cast when considered 
+with its long tapered muzzle and sharp looking teeth.  Its form cannot be 
+over eighteen inches in total length and is covered in glinting scales that 
+look like rubies in any light.  Two thirds of the creatures length is 
+composed of slender neck and delicate tail while the remainder is a 
+slim-looking body.  Three-toed paws that have opposable thumbs permit it to 
+grasp most surfaces that it comes across.  A pair of red bat-like wings 
+grows from just behind its shoulders, possessing a similar colour to 
+the;scales and are topped with small talons upon the leading knuckle.  
+~
+Wyvern~
+A DFT 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+CFH L 0 S
+9 9 0 0
+ABGZc ACDEFHJKOPUVX T unknown
+#8571
+golden drake~
+a weenie golden drake~
+A weenie golden drake coils here, gazing about with shimmering eyes.
+~
+Shimmering eyes of a gentle orange shade gaze about from a slender tapering 
+head that terminates in a narrow snout.  Tiny fangs can be seen within its 
+mouth, which might appear far more fearsome if the creature was more than 
+eighteen inches long.  Golden scales cover its whole body, only being absent 
+from its orange bat-like wings, their hue becoming lighter over its stomach 
+and darker along its spine.  Three-toed clawed paws with opposable thumbs 
+grace the tiny feet of the slightly built, slim, draconic form that coils 
+here.  
+~
+Wyvern~
+A DFT 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+CFH L 0 S
+9 9 0 0
+ABGZc ACDEFHJKOPUVX T unknown
+#8572
+gommork~
+a gommork~
+The millipede-like beast seen here is known as a gommork.
+~
+The insect-like animal before you is a considerable length and tends to wrap 
+itself around its owner.  It's covered in rows of small shiny black scales 
+to protect it, while its underside has innumerable grasping legs.  It has no 
+visible eyes or mouth and often stays still.  
+~
+Centipede~
+A Z 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 FI E
+9 9 0 0
+AGO ACFKX M unknown
+#8573
+giant black bat~
+a giant black bat~
+A large black bat waits here with a harness about its body.
+~
+Looking very much like its smaller brethren ,this giant bat waits in a 
+docile manner.  Soft looking black fur covers its plumb body while its large 
+wings have a velvety texture to them.  Large ears stand up from its head, 
+twitching to any sounds as its dark eyes glint in the available light.  
+Slowly it opens its mouth, revealing a fairly impressive set of sharp fangs, 
+before shutting it once again.  One thing that seems unusual about this 
+beast is that its body is crisscrossed with a leather harness that 
+appears to have hoops and even a small saddle attached to it.  
+~
+Batling~
+A CDEFGTVZc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+FH 0 0 S
+9 9 0 0
+ACGHMVW ABCDEFGHIJKOPUV M unknown
+#8574
+blossom woman winged faerie~
+Blossom~
+A winged woman who calls herself Blossom sits here.
+~
+A slight figure approximately a foot in height rests here on one of the lily 
+pad-shaped cushions.  An air of serenity surrounds her, reinforced with the 
+friendly smile that is always playing over her lips, an expression that 
+makes her cornflower blue eyes sparkle.  She is dressed in clothes that are 
+either fashioned from plants or created to look as if they were.  A cap that 
+looks like an upside-down flower rests on her head, partially covering the 
+golden blonde hair that spills to her back.  Leaves and other flower petals 
+fashion the dress she wears, ornately gathered together by invisible means.  
+Her wings look soft and fragile with delicate spots of color over their 
+gossamer white, sprouting from her back.  The faint aroma of apple blossoms 
+surrounds her.  
+~
+Faerie~
+A CDEFGOTc 0 S
+100 0 12d1397+3920 400d10+100 6d11+29 0
+-35 -35 -35 -27
+0 0 0 0
+9 9 2 450
+ACHMV ABCDEFGHIJKP M unknown
+#8575
+thistle tailor faerie~
+Thistle~
+Thistle the tailor stands here, looking you over.
+~
+The man before you is approximately a foot and a half tall in height.   His 
+hair sticks up in wayward brown spikes, looking like a rather lethal hair 
+style.  His clothing is very strange--the edges have been hemmed in a ragged 
+pattern that produces an asymmetry and appears to be made of plants of some 
+sort.  He wears an apron about his waste, from which a tape measure and a 
+few scraps of material hang out of.  He watches you intently as if 
+to appraise you with his hazel colored eyes as he flutters here, waiting 
+for the next order.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 1 0
+ACHMV ABCDEFGHIJKP M unknown
+#8576
+nightshade hermit faerie~
+Nightshade~
+The hermit called Nightshade is here, polishing a rock.
+~
+This raven-haired creature has finely chiseled and pointed features, set 
+with dark purple eyes to give it a most foreboding appearance.  It is 
+difficult to tell whether this person is male or female because their body 
+is shrouded in thick red robes, though one thing is certain: they have a 
+very unusual pair of wings.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 0 0
+ACHMV ABCDEFGHIJKP M unknown
+#8577
+bluebell faerie scantily clad~
+Bluebell~
+A scantily-clad faerie rests here, looking at you with curious intent.
+~
+Clothes like holly leaves barely covers the tiny form of this faerie girl 
+before you.  Spikes around ankles and wrists along with the mantel that 
+covers her upper torso and shoulders give something of an aggressive air, 
+though that is dispelled somewhat when she glances at you with deep purple 
+eyes and flashes a welcoming smile.  Twin pairs of purple wings of a pale 
+translucence are at rest, flowing from her back with a strange grace.  Long 
+blue hair frames her face and tumbles between her wings, which does nothing 
+to hide the pair of long tapering ears that grace her head.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP M unknown
+#8578
+faerie woman~
+a faerie woman~
+A faerie woman flutters in the air here, completely nude.
+~
+Wings of a glowing rainbow hue grace the back of the foot tall woman before 
+you.  Her gender can be in no doubt due to the complete lack of clothing 
+which reveals a finely toned body with small feminine curves.  Long grass 
+green hair forms a wild mass of spikes that sweep up form her head and seem 
+to almost wave, following the hair are a pair of faintly glowing antenna and 
+long gently tapering ears.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP M unknown
+#8579
+faerie man~
+a faerie man~
+A faerie man flitters through the air here, surveying his surroundings.
+~
+A man no larger than a foot and a half tall flitters through the air here, 
+constantly surveying everything around him.  His hair is vibrant red and 
+reaches his shoulders, kept out of his face only by a circlet over his brow. 
+Short antennae jut from his brow, black and fuzzy, while his back sports a 
+large pair of translucent wings.  He seems to only be wearing a pair of 
+leafy briefs.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 1 0
+ACHMV ABCDEFGHIJKP M unknown
+#8580
+faerie child~
+a faerie child~
+The small figure of a faerie child crouches here.
+~
+Two bright blue eyes peer through a wild mop of blonde-brown hair that 
+partly conceals the features of this foot tall person crouching before you.  
+Translucent spotted yellow wings grow from its shoulders and open ready for 
+flight, should he need to make a move.  Something in the eyes gives an 
+impression of both inquisitiveness and fear at the same time as it gazes 
+back at you.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 0 0
+ACHMV ABCDEFGHIJKP M unknown
+#8581
+faerie girl~
+a faerie girl~
+A young faerie girl flies through the air here.
+~
+Flittering about on the wings of a butterfly is a tiny faerie girl, not yet 
+into adulthood judging by her figure.  Auburn hair trails down her back in 
+wild wisps as her wings propel her through the air at speed.  Round features 
+grace her face, not yet hardened by years and experience, a pair of doe-like 
+large brown eyes glance at you as a large smile appears upon her face.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP M unknown
+#8582
+foxglove faerie~
+Foxglove~
+A faerie that looks sad and battered glides through the air here.
+~
+Pink-purple skin covers the slight and tiny form of the figure before you.  
+She glances up through her unmanageable shoulder length blue-purple hair 
+from her sitting position at your appearance.  Two ears poke out of the said 
+mass, long and tapering to a point as they poke out of her hair.  Her slight 
+body is wrapped in a diaphanous purple fabric that barely conceals her body 
+and appears torn due to its disorderly design.  Long boots formed of a 
+similar material reach up to mid-thigh, ending there in a trimming of spine 
+like filaments.  Her small, delicate hands are covered with fine gloves of 
+the same design as the rest of her clothing, ending in spikes and tatters.  
+Spines sweep backward from her lithe form, originating around her shoulder 
+blades, and the wings stretching between them terminate in a fashion that 
+matches her clothing; ragged and uneven.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP M unknown
+#8583
+harlequin faerie~
+Harlequin~
+An elegantly dressed faerie is here, prancing around energetically.
+~
+Clad in a costume of black and white alternating diamonds, this figure flies 
+about on cream and black butterfly wings that compliment her mode of dress 
+well.  Form fitting stockings show off her long, shapely legs while a 
+checkered Basque that shows off her generous chest and clinches her already 
+admirably small waist.  From the base of the corset, a short cream skirt 
+flairs out, trimmed in black.  Raven dark hair tumbles from her head, 
+reaching past her breasts as it waves to her movements.  A half-mask partly 
+conceals her features fashioned from a shell that has been painted in the 
+same white and black pattern and is hooked behind her slim, pointed ears.  
+Bell sleeves starting just below the shoulders and flaring out at the 
+wrists, bearing the same pattern as her stockings to cover her arms.  Fixed 
+to the back of her basque are trailing streamers of a light fabric that 
+holds the same pattern as the rest of her clothing.  
+~
+Faerie~
+A CDEFGOTc 0 S
+99 0 12d1352+3846 396d10+100 6d11+28 0
+-34 -34 -34 -27
+0 0 0 0
+9 9 2 445
+ACHMV ABCDEFGHIJKP M unknown
+#8584
+Fern faerie green~
+Fern~
+A green faerie is here, playing a soulful tune on her panpipes.
+~
+The figure sitting before you cannot be feasibly more than a foot and a half 
+in height when standing.  Her sharp features look innocent and child-like as 
+she plays an artful tune upon a set of panpipes.  She has green skin that 
+matches the grass that covers her form, making her appear naked, or nearly 
+so.  Forest green hair that is cropped short covers her head, matched by 
+short furry black antenna.  The length of her hair does nothing to cover the 
+long ears jutting from her hair, clearly tapering to points.  Delicate wings 
+of a translucent white color emerge from her back, fluttering slowly while 
+she is at rest.  As she plays, she turns her vivid green eyes on you, 
+seeming to look into your very soul.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP M unknown
+#8585
+acorn faerie~
+Acorn~
+A faerie flits through the air here, darting about freely.
+~
+Short, spiky black-red hair crowns the diminutive figure of this faerie 
+before you.  His height is approximately two feet or so in total, though the 
+flittering movement and the spiked hair might lead to this estimation being 
+in accurate.  Nut-brown skin covers the muscled and toned form, contrasting 
+sharply with his scarlet eyes.  Dragonfly like irradiant wings in two pairs 
+sprout from his shoulders, moving with glimmering speed to propel the figure 
+through the air.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 1 0
+ACHMV ABCDEFGHIJKP M unknown
+#8586
+drummond faerie~
+Drummond~
+A faerie with red and black wings reorganizes the lights here.
+~
+Conscientiously working with barely a mutter of indignation at the task he 
+has to accomplish, this faerie flutters about checking that the silver 
+lights are in order.  His long brown-blonde hair has been loosely fashioned 
+into a ponytail so as not to get in the way of his blue eyes while working.  
+A pair of red and black patterned butterfly wings keeps him aloft as he 
+labours, flittering constantly in a flurry of motion.  What can be seen of 
+his body appears to be trim and well muscled, clearly used to an outdoor 
+life.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 1 0
+ACHMV ABCDEFGHIJKP S unknown
+#8587
+orchid faerie stunning melody~
+Orchid~
+A stunning faerie is here, playing a long-forgotten melody on her harp.
+~
+A faerie with a soft peaches-and-cream complexion rests here, her face an 
+expression of deep thought as her pale blue eyes stare at the far wall.  
+Hair darker than the night radiates from her head in a wild mass, thought 
+its appearance is in no way uncomplimentary.  She seems like a fully grown 
+woman due to her full figure that is covered only by a revealing dress.  The 
+dress seems to be made of petals two of which are long and cross over her 
+breasts to tie behind her neck.  The far from modest skirt she wears seems 
+to be layers upon layers of the same white petals.  Fragile-looking wings 
+lay at rest over her back, two pairs of translucent dragonfly wings.  Her 
+hands pluck over the strings of the harp in front of her, producing 
+delicate sounds in a strange melody.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP S unknown
+#8588
+aspen faerie muscled~
+Aspen~
+A heavily muscled faerie is here, caring for the shop.
+~
+A heavily muscled man of approximately two feet is here.  His auburn hair 
+falls just past his shoulders and brushes the tops of his sturdy wings.  A 
+translucent membrane stretches between a heavier substance that makes up a 
+frame for the wing, making each flap powerful.  Tattoos of knot work circle 
+his biceps, making them stand out further, while over his brow another 
+intricate tattoo can just be seen under his wisps of hair.  His hands are 
+rough from constant work, with scars working their way from there to his 
+elbow.  His chest is left bare to expose more muscle he has gained through 
+work, while he wears thick trousers on his legs.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 1 0
+ACHMV ABCDEFGHIJKP M unknown
+#8589
+Almond faerie~
+Almond~
+A faerie that seems devoted to working on the weaponry sits here.
+~
+Chestnut brown hair with streaks of blonde brush over the neck of this 
+faerie, looking almost as if sun-kissed.  His skin is reminiscent of the 
+color of almonds, looking soft despite the heavy muscling of his arms and 
+chest.  Circling his upper arms and his forehead, bands of an unknown 
+material can be found, crested with strange runes.  He works constantly upon 
+one of the weapons found within his domain, his diligence shining through in 
+their quality.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 1 0
+ACHMV ABCDEFGHIJKP M unknown
+#8590
+Iris faerie elegant~
+Iris~
+An elegant-looking faerie sits here, studying you quietly.
+~
+The spritely figure before you is covered in cascading white and violet 
+silks that fall around her flatteringly.  Her violet hair is bound 
+intricately and is dotted with what appears to be dew and tiny irridescent 
+beads, leaving her tapering ears clearly exposed to any observer.  Her face 
+is smooth but angular, giving her a mischievous look whenever she smiles.  
+High, thin eyebrows add to her sense of frailty and give her a somewhat 
+noble look as her green eyes travel over your form.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP M unknown
+#8591
+tulip faerie bored~
+Tulip~
+A faerie dressed completely in tulip petals is here, looking bored.
+~
+This dainty figure is approximately a foot tall.  She has smooth, full, 
+pouty lips that are a soft shade of red-pink.  Her skin is a delicate 
+white-pink, somewhat like white flower petals with visible veins.  A cap 
+made entirely of tulip petals covers her forehead and cascades down her 
+back, all of them a bright red that never fades, as if they had life even in 
+their present state.  Her dress is made of pink petals of the same type 
+gracing her head, the design of which leaves much of her bosom exposed.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP S unknown
+#8592
+Marigold librarian faerie woman~
+Marigold~
+A woman sits here, reading a book whenever she has a chance.
+~
+The woman sitting here has a dress of autumn leaves on that covers the vital 
+parts for modesty, but that is all.  This leaves the curling tendrils of 
+dark green covering her body exposed.  The marks seem to be part of her 
+skin, like a tattoo, and create intricate patterns with a chaotic twist of 
+small tendrils coming off the larger ones.  When she looks up from her book 
+and at you, you can see that her eyes are an amber-gold color that offset 
+her red hair attractively.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP M unknown
+#8593
+faerie tale~
+a shimmering faerie tale~
+The shimmering face of this faerie tale shows images of might, magic, and bravery.
+~
+Silent stories of extremity play over the shimmering surface of this 
+mirror-like faerie tale.  Roses, beautiful women, knights in armor 
+(sometimes black, sometimes shining) riding noble steeds, hags, fae of all 
+types, forests, and enchanted lakes can all be seen if you gaze into the 
+glimmering surface long enough.  Even through the lack of sound, the 
+profundity of the actions displayed are clear through the reactions; smiling 
+and laughter, great anger, bitterness, envy, and much more can be seen in 
+the characters while the stories play out.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 0 0
+ACHMV ABCDEFGHIJKP M unknown
+#8594
+Periwinkle faerie instructor~
+Periwinkle~
+A wise-looking faerie stands here, lecturing the students present.
+~
+This fae wears a blue felt hat that has a triangular shape, the edges of 
+which are curled.  This hat fails to conceal his pointed ears and a long 
+pony tail of chestnut colored hair emerges from beneath the trendy cloth to 
+rest at an end between his shoulder blades.  He has bright blue-violet eyes 
+that shine when he smiles, making his angular features seem that much more 
+receptive and friendly.  Clear membrane stretches between bone-like 
+protrusions from his back to form his wings, which nearly touch the floor 
+when at rest.  He is dressed entirely in blue and white and looks very 
+official, for a faerie.  He points to a drawing board beside him, which 
+seems to hold a complex formula for the trajectory of cherry stones.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 1 0
+ACHMV ABCDEFGHIJKP S unknown
+#8595
+faerie girl student~
+a faerie girl~
+A faerie girl sits here, clearly a student in Periwinkle's class.
+~
+This young girl has been dressed in ruffles and lace, both of which are a 
+gentle mint green color.  Soft golden curls are partially held back by by a 
+hair piece fashioned from flowering mint.  Her eyes are like the setting 
+sun, shining radiantly from her delicate and angular face.  Small wings that 
+look somewhat weak flitter from time to time from her back, their soft blue 
+color the same as the flowers in her hair.  She looks around avidly before 
+returning her gaze to the instructor and his drawing board.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP S unknown
+#8596
+faerie boy student~
+a faerie boy~
+A young boy from Periwinkle's class sits here, looking at the ceiling.
+~
+This young faerie boy wears a simple pair of trousers made from an unknown 
+material.  The rest of his body is bare but looks to be clean.  A pair of 
+pointy ears emerge from the shock of hay colored hair covering his head, the 
+tangle appearing to be unmanageable.  He is a slight figure, denoting his 
+youth, and his wings seem somewhat small and feeble for his size.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 1 0
+ACHMV ABCDEFGHIJKP S unknown
+#8597
+ageless sprite~
+an ageless sprite~
+An ageless sprite pores over a tome here.
+~
+A sprite with no real determinable age is sprawled out over the pillow here, 
+studying an illustrated book with strange beasts in it.  Her hair is a soft 
+shimmering white that is left free to fall over her shoulders and back.  She 
+is covered in a simple twining of ivy, leaving little to the imagination of 
+what might lie beneath.  Her orange and black wings flutter slowly as looks 
+at her book, seeming entirely engrossed.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP M unknown
+#8598
+bramble faerie collector figure wild~
+Bramble~
+A wild-looking figure with fast fluttering wings is here, appearing deep in thought.
+~
+Leaves and twigs have been tangled within the green and blonde locks of hair 
+that this faerie possesses, giving him, ultimately, a wild look.  His skin 
+is golden brown, attesting the fact that he spends as much time outdoors as 
+possible.  He has a book full of butterflies, their names, and very detailed 
+depictions, which he seems to have made himself.  His wings are more 
+dragonfly-like, the thin green membrane stretched taut between the sturdier 
+frame protruding from his back.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 1 0
+ACHMV ABCDEFGHIJKP M unknown
+#8599
+pink butterfly~
+a pink butterfly~
+A butterfly with pink and white marking flutters in the air here.
+~
+This butterfly has a fascinating pattern of tiny white spots over its pale 
+pink wings that blur when the creature is in flight.  Its body is black in 
+color and it has two delicate antennae sprouting from its head, which move 
+over whatever it chooses to land upon.  
+~
+Song Bird~
+A T 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+FH 0 0 0
+9 9 0 0
+AGW ACDEFHKOP M unknown
+#8600
+foxy pooka faerie~
+Foxy~
+A creature that looks to be half nymph and half fox frolics here.
+~
+A waif like figure stands here looking about with shining brown eyes.  Her 
+crimson hair has been trimmed neatly around her neck, through which a pair 
+of red-brown fox like ears poke upwards.  Her features also bear animalistic 
+markings such as whiskers and pointed teeth.  From both elbows and knees, a 
+soft looking red-brown fur that matches her ears can be seen terminating at 
+her paw like hands and feet, but the rest of her body is covered in 
+supple-looking skin.  A pair of red-brown fox tails grow from the base of 
+her spine, each tipped in snowy white fur.  Other than the fur, this figure 
+is naked and displays her small charms without shame.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP M unknown
+#8601
+bunny pooka fae barmaid~
+Bunny~
+A barmaid that looks like a cross between a bunny and a faerie is here, serving drinks.
+~
+A wild mane of pure white hair tumbles about the face of the feminine figure 
+before you.  A triangular pink nose wiggles on a small animal like muzzle 
+and whiskers protrude from each side.  An expressive mouth with slightly 
+bucked front teeth and a harelip sits under a pair of large clear blue eyes, 
+giving the face an innocent cast.  Long rabbit ears with pink insides and 
+white fur on the outside crown her head.  Down like white fur grows down 
+from her elbows and knees ending at her hands and large feet, the pristine 
+color contrasting with her delicate-looking pastel pink skin.  An overly 
+large chest bounces about as she moves with a wiggle that also causes the 
+brilliant white fluffy ball of a tail on her bottom to sway almost 
+hypnotically below her slender waist.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP S unknown
+#8602
+chip faerie animal pooka~
+Chip~
+A crossbreed between some animal and a faerie zips around energetically here.
+~
+A brown-haired male figure moves about at an alarming speed in front of you. 
+ Two small, rounded animal ears peak out of his wayward mass, reinforcing 
+his animalistic ties.  His almost-black eyes seem to shine and his nose and 
+whiskers wiggle from side to side as he pauses to look at you.  Hair of a 
+darker brown, almost black, shade runs in twin stripes over his back and to 
+his long, thin tail.  The tail is approximately the same length of his body 
+and stretches out behind him, bearing a single stripe.  Short brown fur 
+grows from his elbows and knees down to the end of each limb.  As he opens 
+his mouth, you can see that his front teeth are sharp and slightly bucked.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 1 0
+ACHMV ABCDEFGHIJKP M unknown
+#8603
+mickey mouse faerie pooka~
+Mickey~
+What appears to be half mouse and half faerie is here, stark naked
+~
+A wild mop of brown-black hair threatens to fall into the dark inquisitive 
+eyes of the young male before you.  Poking from the hair are a pair of 
+rounded ears covered in a rich brown fur.  Tanned skin covers his toned 
+body, causing his pink mouse-like tail to be all the more apparent.  His 
+whiskers quiver in time with his nose's wiggling movements while his dark 
+eyes scan the area, looking constantly for danger.  From just below his 
+elbows, short brown fur grows to his wrists and the same occurs between his 
+knees and feet.  Both his hands and feet are tipped with tiny claws, opposed 
+to the nails of most other humanoids.  He moves about nimbly, appearing 
+unconscious of his own nudity or its implications.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 1 0
+ACHMV ABCDEFGHIJKP M unknown
+#8604
+woman table faerie~
+a woman serving as a table~
+This woman is on her hands in knees with unspeakable things shoved in all her holes.
+~
+This woman looks like she was once a faerie but her wings have been ripped 
+off and are now tiny stumps protruding from her back.  Welts cover her back 
+and all the other flesh of hers that is visible to the casual glance, which 
+is all of it.  She has a dildo and butt plug chained to her, and a gag 
+strapped over her mouth.  
+~
+Faerie~
+AB CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+7 9 2 0
+ACHMV ABCDEFGHIJKP M unknown
+#8605
+crouching faerie~
+a crouching faerie~
+A pale skinned faerie crouches on her hands and knees here.
+~
+This pale skinned faerie girl has had her wings stripped from her back and 
+is tied to the floor by her wrists and ankles.  Her mouth is forced open by 
+a large red ball gag around which she drools helplessly.  Jutting from her 
+other orifices are fiendish objects each held in place by thin thongs or 
+wires.  
+~
+Faerie~
+AB CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP M unknown
+#8606
+suspended fae girl~
+a suspended fae~
+Hung by her ankles and pulled back by her wrists, this faerie girl hangs here helplessly.
+~
+Suspended upside down and gagged brutally this faerie awaits her fate.  The 
+wings have been ripped from her back leaving only small buds that twitch 
+helplessly in the air.  Her wrists are tied behind her and stretched by 
+means of a cord so that her body is forced to arch, which in turn causes her 
+tiny breasts to thrust into the air.  Placed into her nether regions are a 
+pair of candles, each waiting to be lit.  
+~
+Faerie~
+AB CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP M unknown
+#8607
+wingless faerie male man boy~
+a wingless faerie~
+A wingless faerie waits here, fastened in place.
+~
+This fae is naked except for a wide collar that forces his chin up and a 
+series of torturously tight leather thongs.  A thin chain has been looped 
+about his gentials and seems to be the means he is tethered.  His arms are 
+fastened in a single sleeve down his back and what looks very much like a 
+ponnies tail juts behind.  A pair of small rings pierce each nipple, thongs 
+leading from those up through the eyelets of a bit gag which is strapped 
+into his mouth and then hang down over his shredded wing like a horses 
+reins.  
+~
+Faerie~
+AB CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 1 0
+ACHMV ABCDEFGHIJKP M unknown
+#8608
+pixie domme~
+a domme pixie~
+This pixie is adorned with metal rings and tight leather.
+~
+This pixie looks dangerous indeed.  Her slanted eyes are further accented by 
+heavy kohl designed to make them look like slits that are the home of 
+glowing red.  Her hair is tied back in a severely tight knot, not a wisp 
+visible in the shining ebony mass.  The very middle of her lower lip is 
+pierced with a ring that has a tiny jewel captured within its closure.  Her 
+nipples bear rings of a similar design and coloring.  A leather girdle 
+constricts her waist, making her already dainty rib cage seem much smaller.  
+She is also wearing a matching pair of hot pants and thigh-high boots in the 
+same glossy black material.  
+~
+Faerie~
+A CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP M unknown
+#8609
+faerie ballerina mock girl woman female~
+a mock ballerina~
+This faerie has been tied up and dressed to resemble a ballerina.
+~
+This mock ballerina has been chained to one of the bars commonly seen in the 
+schools of dance.  She is wear shoes that look much like ballerina slippers, 
+except they have been turned into boots that are thigh high and given eight 
+or nine inch heels.  One of her legs is chained to the bar and the other to 
+the floor to force her most tender spots on display.  Her wrists are chained 
+to each other and ceiling, her raised arms making her chest that much more 
+prominent.  Welts cover the breasts that peek out of her black leather teddy 
+that lacks coverings at the points of modesty.  Her wings are tattered from 
+abuse but still somewhat in tact, though it makes her look rather pitiful.  
+Her tutu is made of black tull that is quite stiff and stands to attention 
+of its own accord, matching a collar that is made of the same material.  
+~
+Faerie~
+AB CDEFGOTc 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 2 0
+ACHMV ABCDEFGHIJKP M unknown
+#8610
+body sculptor fae~
+the body sculptor~
+This provocatively dressed fae is known as the body sculptor.
+~
+This fae is wearing a white leather hide that has a red cross over the
+bosom.  It is open-backed to allow her white and black wings to move freely
+as she wills it.  Her sharp featured face is more poignant due to some
+carefully tamed spikes that are shaped to look like a lick of flame.  Small
+black antennae that have slightly bulbous ends grow from her forehead, not
+at all hidden by her bright red hair.  She has eyes that are pure blue,
+lacking notable signs of both pupils and irises, so it is difficult to tell
+if she is looking at you, or through you.  She introduces herself as the
+body sculptor and beckons for you to see her designs, so that she might
+modify you. 
+~
+Faerie~
+ABRW CDEFGOTc 0 S
+100 0 12d1397+3920 400d10+100 6d11+29 0
+-35 -35 -35 -27
+0 ABQ 0 0
+9 9 2 450
+ACHMV ABCDEFGHIJKP S unknown
+#8611
+painted faerie~
+a painted faerie~
+This faerie is painted in war runes, though he grins broadly.
+~
+Blue swirls and symbols cover all the bare flesh that can be afforded on
+this fae, which is quite a bit since he wears an open vest and trousers.
+Dark blue wings sprout from his back, reminiscent of a swallowtail
+butterfly's. His grin has an air of mischief to it as his eyes dart over
+you. 
+~
+Faerie~
+ABRW CDEFGOTc 0 S
+100 0 12d1397+3920 400d10+100 6d11+29 0
+-35 -35 -35 -27
+0 ABQ 0 0
+9 9 1 450
+ACHMV ABCDEFGHIJKP M unknown
+#8612
+sleek faerie woman~
+a sleek faerie woman~
+This sleek faerie woman awaits for you to select goods to try on or buy.
+~
+This faerie's hair is drawn up into a bun at the crown of her head and
+not a single hair seems out of place.  Her tapered ears and angular features
+combine in a somewhat attractive way, with her looks accented with emerald
+green eyes.  Her wings are a combination of black and green and flutter
+noiselessly to keep her airbound. 
+~
+Faerie~
+ABRW CDEFGOTc 0 S
+100 0 12d1397+3920 400d10+100 6d11+29 0
+-35 -35 -35 -27
+0 ABQ 0 0
+9 9 2 450
+ACHMV ABCDEFGHIJKP M unknown
+#8613
+butterfly collector faerie~
+the butterfly collector~
+The faerie called the Butterfly Collector is here, awaiting your purchase.
+~
+Very large piercing green eyes dominate the face of this fae, having an
+almost comic effect.  Her nose is sharp and straight and is centered over
+lips that look chiselled.  Her ears are longer than many of the other fae,
+and poke out of a wild curling mass of black hair.  Her slim form is covered
+in a smock that makes her look as if she is in the nude and a butterfly
+design on it hides her most private of parts from the casual onlooker.  
+~
+Faerie~
+ABRW CDEFGOTc 0 S
+100 0 12d1397+3920 400d10+100 6d11+29 0
+-35 -35 -35 -27
+0 ABQ 0 0
+9 9 2 450
+ACHMV ABCDEFGHIJKP M unknown
+#8614
+fae muscled~
+a muscled fae~
+This fae seems to have a sounder musculature than his brethren.
+~
+This winged person cannot be any taller than two feet in height.  Ears
+that taper to fine points jut from underneath a mop of unruly red hair, that
+is, presumably, stirred by the beating of his butterfly-like wings.  His
+eyes are a deep green that looks like one of the depths of nature itself; he
+seems very astute and watches you with keen interest while you are in his
+shop. 
+~
+Faerie~
+ABRW CDEFGOTc 0 S
+100 0 12d1397+3920 400d10+100 6d11+29 0
+-35 -35 -35 -27
+0 ABQ 0 0
+9 9 1 450
+ACHMV ABCDEFGHIJKP M unknown
+#8615
+dazzle faerie girl glowing~
+Dazzle~
+A glowing faerie girl flitters about here, labeling the jars.
+~
+Looking at the faerie before you is almost painful to start with due to
+the illumination coming from her body which she slowly tones down upon
+noticing your entrance.  This reveals that she is nude except for layer upon
+layer of glamour and shimmering dust that coats her nubile form. 
+~
+Faerie~
+ABRW CDEFGOTc 0 S
+70 0 11d443+2036 280d10+100 5d8+22 19
+-17 -17 -17 -15
+0 ABQ 0 0
+9 9 2 315
+ACHMV ABCDEFGHIJKP S unknown
+#8616
+candi faerie woman white~
+Candi~
+A white winged faerie woman is here, selling foods and drinks.
+~
+Surprisingly svelte for someone that deals all day with sweet foods and
+drinks.  Candi has completely white hair and wings, her eyes are a pale
+green and her features very sharp.  If it wasn't for the welcoming smile on
+her lips, she would look hard, almost like a marble statue.  
+~
+Faerie~
+ABRW CDEFGOTc 0 S
+70 0 11d443+2036 280d10+100 5d8+22 0
+-17 -17 -17 -15
+0 ABQ 0 0
+9 9 2 315
+ACHMV ABCDEFGHIJKP S unknown
+#8617
+Sorsha one winged faerie~
+Sorsha~
+A one winged faerie works quietly in the corner here.
+~
+Midnight blue hair which has been cropped short then spiked crowns the
+head of this white skinned faerie girl.  She only wears black thigh boots
+and a pair of shiny black briefs.  Her bare breasts show small bars through
+her nipples and her belly button has also been adorned, this time with a
+wing.  Pure red eyes lacking irises and whites regard you briefly before she
+resumes making a new whip with utmost care.  A single red and black
+butterfly wing can be seen on her back, as you look more closely you notice
+that where the other wing should be there is only the bud and a few tattered
+strands.  
+~
+Faerie~
+ABRW CDEFGOTc 0 S
+100 0 12d1397+3920 400d10+100 6d11+29 0
+-35 -35 -35 -27
+0 ABQ 0 0
+9 9 2 450
+ACHMV ABCDEFGHIJKP S unknown
+#8618
+darting faerie male~
+a darting faerie~
+A male faerie darts about here, chasing after a female.
+~
+Muscles ripple over this tanned skinned faerie's body as he flutters
+about, searching for his female friend at speed.  His long {Bblue{x hair streams
+behind him as he hunts and his dragonfly wings a blur of movement. 
+~
+Faerie~
+A CDEFGOTc 0 S
+12 0 4d26+151 48d10+100 2d4+0 17
+5 5 5 7
+0 0 0 0
+9 9 1 54
+ACHMV ABCDEFGHIJKP S unknown
+#8619
+purple haired faerie~
+a purple faerie~
+Soft purple hair partly conceals this faerie as she tries to hide here.
+~
+Delicate purple hair hangs about this nubile young faerie girl as she
+half-heartedly attempts to hide.  Her dragonfly-like wings also hold a a
+slight of this color, which seems to give her skin a blushing look.  
+~
+Faerie~
+A CDEFGOTc 0 S
+14 0 5d30+184 56d10+100 2d4+1 10
+4 4 4 6
+H 0 0 0
+9 9 2 63
+ACHMV ABCDEFGHIJKP S unknown
+#8620
+daffodil~
+a {Ydaffodil{x~
+A {Ydaffodil{x sways gently here.
+~
+This daffodil has bright {Yyellow{x petals that appear to be without mar;
+there is no indication of damage from the sun or from passing creatures. On
+second glance, one can barely make out two eye-like stalks at the center of
+its pollen bed. 
+~
+Shapeshifter~
+AB 0 0 S
+16 0 5d33+218 64d10+100 2d4+2 10
+3 3 3 6
+0 B 0 0
+9 9 0 72
+ACGHMV ABCDEFGHIJKMQUV M unknown
+#0
+
+
+
+#OBJECTS
+#8550
+pair antennae~
+a pair of antennae~
+A pair of antennae are here, looking like they were ripped off a bumble bee.~
+unknown~
+9 0 AE 0
+0 0 0 0 0
+0 0 1 P
+E
+antennae~
+This pair of antennae are black and fuzzy.  They are surprisingly strong and 
+large, seeming to have come from an overgrown bug.  
+~
+L
+hidden in hair~
+0 0
+#8551
+colorful faerie wings~
+{cc{go{ml{yo{xr{bf{ru{cl{x faerie wings~
+A pair of wings with designs in bright colors have been torn off and left here.~
+unknown~
+9 MU AZ 0
+AC AC AC A 0
+30 0 420 P
+L
+growing from back~
+0 0
+#8552
+shimmering glitter mist dazzling~
+a mist of dazzling glitter~
+A pile of fine glittering dust has been left behind here.~
+unknown~
+13 0 AR 0
+0 0 0 0 0
+0 0 1 P
+L
+shimmering around~
+0 0
+#8553
+twinkling glamour dust~
+a twinkling glamour~
+A mess of twinkling dust is here, apparently forgotten.~
+unknown~
+13 0 AR 0
+0 0 0 0 0
+0 0 1 P
+L
+masking view~
+0 0
+#8554
+thorn anklet thistle~
+an anklet made of thorns and thistle~
+Thorns and thistle have been locked together soundly to form this anklet.~
+unknown~
+13 0 AU 0
+0 0 0 0 0
+0 0 1 P
+L
+pricking skin~
+0 0
+#8555
+tiny green shoes~
+tiny green shoes~
+Tiny shoes fashioned of a material that is not familiar to you have been left here.~
+unknown~
+9 0 AG 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#8556
+sheer leggings~
+sheer green leggings~
+A pair of stretchy green leggings have been left here.~
+unknown~
+13 0 AF 0
+0 0 0 0 0
+0 0 1 P
+L
+clinging tightly~
+0 0
+#8557
+petal skirt~
+a skirt of flower petals~
+The flower petals piled here have been sewn together to form a skirt.~
+unknown~
+13 0 AL 0
+0 0 0 0 0
+0 0 1 P
+L
+barely there~
+0 0
+#8558
+spider silk corset~
+a spider silk corset~
+A corset of odd proportions is here, extremely small and seemingly made of spider's silk.~
+unknown~
+13 0 AD 0
+0 0 0 0 0
+0 0 1 P
+L
+cinching waist~
+0 0
+#8559
+reed corset~
+a corset of reed and leather~
+A corset fashioned of reed and small thongs of leather has been discarded here.~
+unknown~
+13 0 AD 0
+0 0 0 0 0
+0 0 1 P
+L
+cinching waist~
+0 0
+#8560
+leaf tunic~
+a leaf tunic~
+A tunic fashioned out of leaves is here, held together by an unknown source.~
+unknown~
+13 0 AD 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#8561
+bunny pelt vest~
+a white bunny fur vest~
+A vest carefully constructed of white bunny pelts can be seen here.~
+unknown~
+13 0 AD 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#8562
+flower petals~
+some flower petals~
+Some flower petals have been left here, abandoned by their owner.~
+unknown~
+13 0 AD 0
+0 0 0 0 0
+0 0 1 P
+L
+artfully arranged~
+0 0
+#8563
+bat wings~
+lightly {Wfurred{x bat wings~
+This pair of wings are lightly furred and have been cut cleanly from their owner.~
+unknown~
+9 MUX AZ 0
+D D D B 0
+50 0 1 P
+L
+growing from back~
+0 BC
+#8564
+spider silk leggings~
+spider silk leggings~
+A pair of leggings made of spider silk can be seen here.~
+unknown~
+13 0 AF 0
+0 0 0 0 0
+0 0 1 P
+L
+skin tight~
+0 0
+#8565
+web body stocking spider~
+a spider web body stocking~
+A body stocking fashioned from spider web lays in a heap on the ground.~
+unknown~
+13 0 AD 0
+0 0 0 0 0
+0 0 1 P
+L
+clinging tightly~
+0 0
+#8566
+reed bracer~
+a reed bracer~
+A bracer fashioned of reed and leather has been dropped here.~
+unknown~
+13 0 AM 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#8567
+lady bug bird~
+a lady bird~
+A tiny lady bird flits through the air here, numerous black spots covering its red wings.~
+unknown~
+13 0 AR 0
+0 0 0 0 0
+0 0 1 P
+L
+flitting around~
+0 0
+#8568
+thorn reed bracer~
+a reed bracer with thorns~
+This reed bracers has thorns embedded into it like spikes.~
+unknown~
+13 0 AM 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#8569
+bark breast plate~
+a bark breast plate~
+A breast plate made through magic and the bark of a tree can be seen here.~
+unknown~
+13 0 AD 0
+0 0 0 0 0
+0 0 1 P
+L
+strapped tightly~
+0 0
+#8570
+rabbit skin cloak~
+a cloak of fine rabbit skin~
+A tiny cloak made of fine rabbit skin can be seen here, folded neatly.~
+unknown~
+13 0 AZ 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#8571
+squirrel skin poncho~
+a poncho made from squirrel fur~
+A poncho fashioned of squirrel fur has been dropped here.~
+unknown~
+13 0 AK 0
+0 0 0 0 0
+0 0 1 P
+L
+flowing to knees~
+0 0
+#8572
+mischievous look~
+a mischievous look~
+The mischievous look that only a faery can possess has been dropped here.~
+unknown~
+13 0 AT 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#8573
+honeysuckle tea~
+a honeysuckle~
+This honeysuckle has been recycled to serve as a dainty cup.~
+unknown~
+13 0 AO 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#8574
+spray flowers~
+a spray of tiny flowers~
+This spray of tiny flowers has been prepared to adorn someone's hair.~
+unknown~
+13 0 AE 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#8575
+bluebell earrings~
+a small bluebell~
+A small bloom known as a bluebell is here, a hook pushed through its stem.~
+unknown~
+8 0 AQ 0
+0 0 0 0 0
+40 0 400 P
+A
+18 4
+0 BC
+#8576
+vine belt~
+a vine belt~
+A small belt that seems to be fashioned of vine has been left here.~
+unknown~
+13 0 AL 0
+0 0 0 0 0
+0 0 1 P
+0 B
+#8577
+sea shell mask~
+a sea shell mask~
+A mask made of a sea shell is here, with holes bored into it for eyes and mouth.~
+unknown~
+13 0 AT 0
+0 0 0 0 0
+0 0 1 P
+0 B
+#8578
+fish bone harp~
+a fish bone harp~
+A harp pieced together of fish bone and string is here.~
+unknown~
+13 0 AO 0
+0 0 0 0 0
+0 0 1 P
+0 B
+#8579
+shimmering wand mace~
+a shimmering wand~
+A solid-looking wand is here, shimmering of its own accord.~
+unknown~
+5 0 AN 0
+C 0 0 D 0
+0 0 1 P
+0 B
+#8580
+fish bone sleeves~
+a pair of fish bone sleeves~
+This pair of sleeves has been fashioned of fish bone.~
+unknown~
+9 0 AI 0
+0 0 0 0 0
+0 0 1 P
+0 B
+#8581
+thorn dagger~
+a long, sharp thorn~
+A long sharp thorn has been abandoned here.~
+unknown~
+13 0 AN 0
+0 0 0 0 0
+0 0 1 P
+0 B
+#8582
+reed sword~
+a reed sword~
+A small sword made of reed has been dropped here.~
+unknown~
+5 0 AN 0
+A 0 0 AB 0
+0 0 1 P
+0 B
+#8583
+spaulders thorn spiked~
+thorn spiked spaulders~
+Long, sharp thorns have been mounted on back and padded with moss to form this formidable armor. ~
+unknown~
+9 0 AV 0
+0 0 0 0 0
+0 0 1 P
+0 B
+#8584
+red petal robes~
+a robe of petals~
+A robe made of red flower petals can be seen here.~
+unknown~
+9 0 AK 0
+0 0 0 0 0
+0 0 1 P
+0 B
+#8585
+petal dress~
+a revealing dress of flower petals~
+A dress made of flower petals has been discarded here.~
+unknown~
+9 0 AD 0
+0 0 0 0 0
+0 0 1 P
+0 B
+#8586
+knee high boots~
+leather knee high boots~
+A pair of boots made from unknown animal hide has been left here.~
+unknown~
+13 0 AG 0
+0 0 0 0 0
+0 0 1 P
+0 B
+#8587
+bark chausses~
+bark chausses~
+A pair of chausses fashioned of bark and hardened magically can be seen here.~
+unknown~
+13 0 AF 0
+0 0 0 0 0
+0 0 1 P
+0 B
+#8588
+dew giants~
+the dew of giants~
+This capsule is said to preserve the dew of giants.~
+unknown~
+26 0 AO 0
+0 0 0 0 0
+1 0 0 P
+E
+dew~
+This is the dew of giants, fabled to make creatures triple their size for
+a time.  It has been coated protectively to preserve its power in this pill
+and awaits anyone adventurous to try it.
+~
+0 0
+#8589
+mint sprig~
+a sprig of mint~
+A small sprig of mint, with blue flowers still in tact, has been left here.~
+unknown~
+19 0 A 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#8590
+sweet cake~
+a sweet cake~
+This cake has been topped with icing and cinnamon.~
+unknown~
+19 0 A 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#8591
+cookie~
+a large chocolate chip cookie~
+This cookie is approximately four inches in diameter and riddled with chocolate chips.~
+unknown~
+19 0 A 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#8592
+fudge~
+some fudge~
+This fudge seems to have been formed to be the image of perfection.~
+unknown~
+19 0 A 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#8593
+truffle~
+a scrumptious truffle~
+A truffle made of the finest chocolate and cream is here.~
+unknown~
+19 0 A 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#8594
+chocolate strawberry~
+a chocolate covered strawberry~
+A strawberry dipped into fine, melted chocolate has been left here.~
+unknown~
+19 0 A 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#8595
+frozen frosty cream~
+some frosty cream~
+This solidified cream has frozen, looking very delicious from the bowl it's in.~
+unknown~
+19 0 A 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#8596
+honeysuckle tea~
+an enchanted honeysuckle~
+This honeysuckle has been enchanted to hold honey and early morning dew.~
+unknown~
+17 0 A 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#8597
+lily flower petal pillow~
+a lily pillow~
+A pillow fashioned to resemble a large lily pad has been tossed on the floor here.~
+unknown~
+12 0 A 0
+0 0 0 0 0
+0 0 0 P
+0 B
+#8598
+black white swallowtail wings~
+{Kswa{Wllowt{Kail{x wings~
+These wings must have belonged to a gigantic butterfly, judging by their size.~
+unknown~
+9 MUX AZ 0
+D D D B 0
+50 0 1 P
+L
+sprouting from back~
+0 B
+#8599
+black ribbon wand whip~
+a wand with a long black ribbon~
+This wooden stick has a considerable amount of black ribbon attached.~
+unknown~
+5 0 AN 0
+ABC 0 0 E D
+0 0 1 P
+0 B
+#8600
+white ribbon wand whip~
+a wand with a long white ribbon~
+This wooden stick has a considerable amount of white ribbon attached.~
+unknown~
+5 0 AN 0
+ABC 0 0 E D
+0 0 1 P
+0 B
+#8601
+checker corset~
+a white and black checkered corset~
+A checkered corset made of alternating white and black diamonds has been dropped here.~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 B
+#8602
+thigh high checkered boots~
+thigh high black and white checked boots~
+Extremely tall and soft boots with a black and white diamond pattern are here.~
+unknown~
+9 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 B
+#8603
+tattered purple wings~
+some {mtattered wings{x~
+These giant wings end in tatters and seem to be held together by strong, bony spines.~
+unknown~
+9 MUX AZ 0
+D D D B 0
+50 0 1 P
+L
+sprouting from back~
+0 B
+#8604
+black orange monarch butterfly wings~
+wings of a monarch butterfly~
+These wings hold an intricate pattern of black and orange.~
+unknown~
+9 MU AZ 0
+A A A 0 0
+10 0 100 P
+L
+fluttering slowly~
+0 B
+#8605
+autumn leaves dress~
+a dress of autumn leaves~
+This dress has been fashioned purely of autumn leaves at a provocative length.~
+unknown~
+9 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#8606
+moth wings~
+a pair of moth wings~
+These distinct shimmery wings seemed to have been pulled off a moth.~
+unknown~
+9 MU AZ 0
+B B B 0 0
+15 0 170 P
+0 B
+#8607
+butterfly net~
+a butterfly net~
+A net attached to a long pole has been dropped here.~
+unknown~
+5 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 B
+#8608
+delicate cage~
+a delicate cage~
+This delicate cage has been made for keeping butterflies and moths in.~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#8609
+carcass tree portal~
+the carcass of a tree~
+A tree that has fallen long ago is nestled in the grass here.~
+unknown~
+29 RX 0 0
+0 0 0 8605 0
+0 0 0 P
+E
+tree~
+This once mighty tree has been uprooted and toppled into the grass here
+by nature's whim.  Bright mushrooms grow over it in bursts of color,
+contrasting starkly with the dark rotting wood.  The faint sound of music
+fills the air around this broken plant, making it seem livelier than it
+really is. 
+~
+0 0
+#8610
+shelf~
+a shelf~
+A shelf built into the northern wall can be seen, holding various objects.~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#8611
+key earring~
+a hoop earring with a key~
+This key seems to have been fashioned into an earring and is otherwise useless due to corrosion.~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 B
+#8612
+window~
+a window~
+This window allows you to see the grape vines growing outside of it, and the garden beyond.~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 1 P
+E
+window~
+A grape vine grows right outside the window, yielding bunches of wild grapes 
+that look rather tasty.  Beyond the wild vine, a garden of tamed bushes and 
+flowers grow in profusion, their orderly display more than appealing.  A 
+chair sits in the courtyard, providing a place for rest.  
+~
+0 0
+#8613
+grape bunch~
+a bunch of wild grapes~
+A dark colored bunch of wild grapes have been placed here.~
+unknown~
+19 0 0 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#8614
+emerald star key~
+a star-shaped emerald~
+An emerald cut to look like a star in the heavens can be seen here.~
+unknown~
+18 0 0 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#8615
+stone bird bath~
+a stone bird bath~
+A bird bath created of stone is here with a nightangale fixture providing fresh water.~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#8616
+chair~
+a large wooden chair~
+This chair is large and the wood it is made of has been decorated with carvings.~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#8617
+four poster bed portal~
+a four-poster bed~
+A four-poster bed is in the middle of the room.~
+unknown~
+29 0 0 AEI
+0 0 0 8623 0
+0 0 0 P
+0 0
+#8618
+spring~
+a spring~
+A spring pours forth its never-ending water here.~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#8619
+pizza slice~
+a slice of pizza~
+This slice of bread has hot tomato sauce, melted cheese, and slices of pepperoni on it.~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#8620
+mushroom key~
+a key shaped like a mushroom~
+This key is small and shaped like a mushroom, only it's purple.~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#8621
+butterfly key~
+a butterfly-shaped key~
+This key has been shaped like a butterfly. Small purple mushroom shapes are all over its wings.~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#8622
+fishing line bra~
+a bra of fishing line~
+This tangle of fishing line is very strange.~
+unknown~
+13 EHMUb AV 0
+0 0 0 0 0
+0 0 0 P
+L
+painfully tight~
+0 B
+#8623
+leather chain belt~
+a leather and chain belt~
+This belt has a few leather thongs and a chain attached through the middle.~
+unknown~
+13 EHMUXb AL 0
+0 0 0 0 0
+0 0 0 P
+0 C
+#8624
+red ball gag~
+a red ball gag~
+This strap of leather is attached to a soft red ball of sorts.~
+unknown~
+13 EHMUb AT 0
+0 0 0 0 0
+0 0 0 P
+L
+muffling speech~
+0 B
+#8625
+cooled wax~
+cooled wax~
+This wax has long since hardened since it was dripped from the candle.~
+unknown~
+13 EHMU AD 0
+0 0 0 0 0
+0 0 0 P
+L
+streaked on skin~
+0 0
+#8626
+black tutu tulle~
+a spikey black tutu~
+This black tutu is fashioned of spikes and tulle.~
+unknown~
+13 EHMUXb AL 0
+0 0 0 0 0
+0 0 0 P
+0 B
+#8627
+ripped leotard~
+a ripped leotard~
+This leotard looks to have been slashed with razors.~
+unknown~
+13 EHMUXb AD 0
+0 0 0 0 0
+0 0 0 P
+L
+clinging to body~
+0 0
+#8628
+leather girdle black~
+a black leather girdle~
+This small girdle is made of well-oiled black leather.~
+unknown~
+13 0 AL 0
+0 0 0 0 0
+0 0 0 P
+0 B
+#8629
+bejewelled metal ring~
+a pair of bejewelled rings~
+These two metal rings clasp tightly to a well-cut jewel.~
+unknown~
+13 EHMUXb AD 0
+0 0 0 0 0
+0 0 0 P
+L
+piercing nipples~
+0 BC
+#8630
+single sleeve~
+a single sleeve~
+This single sleeve has a zipper and some buckles along its length.~
+unknown~
+13 HMUXb AI 0
+0 0 0 0 0
+0 0 0 P
+L
+binding arms~
+0 B
+#8631
+stiff d-ring collar~
+a stiff collar full of D-rings~
+This collar is designed to restrict all movement and is adorned with D-rings.~
+unknown~
+13 EHMX AC 0
+0 0 0 0 0
+0 0 0 P
+L
+biting flesh~
+0 0
+#8632
+black leather hood~
+a black leather hood~
+This hood is made of deep black leather that has a soft lustre.~
+unknown~
+13 EHMUXb AE 0
+0 0 0 0 0
+0 0 0 P
+L
+covering face~
+0 0
+#8633
+whip pain~
+a whip called Pain~
+This whip has a phallic-shaped handle that has the word Pain inscribed on it.~
+unknown~
+5 0 AN 0
+ABC D ABC 0 C
+30 0 0 P
+L
+wielded cockily~
+0 0
+#8634
+ballerina boots~
+thigh high ballerina boots~
+These leather boots are thigh highs that have impossibly high heels.~
+unknown~
+9 EHMUXb AG 0
+AC AC AC A 0
+30 0 0 P
+L
+skin tight~
+0 0
+#8635
+pony tail~
+a long pony tail~
+A length of pony hair has been attached to an odd-shaped stone.~
+unknown~
+13 HMUXb AL 0
+0 0 0 0 0
+30 0 0 P
+L
+swaying about~
+0 B
+#8636
+shreds rag tattered~
+stylishly tattered rags~
+Some shreds of rag lay on the ground here.~
+unknown~
+13 0 AD 0
+0 0 0 0 0
+0 0 0 P
+L
+revealing body~
+0 B
+#8649
+pool shimmering water~
+a shimmering pool of water~
+This shimmering pool of water when looked more closely at seems to have a shrine at the bottom.~
+unknown~
+29 R 0 BHLO
+0 0 0 3001 0
+0 10000 0 P
+0 0
+#8650
+leaf scale mail leaves~
+leaf scale mail~
+These leaves have been fashioned into scale mail for a faerie.~
+unknown~
+9 0 AD 0
+AC AC AC A 0
+30 4 500 P
+A
+18 2
+0 B
+#8651
+oblong shells chitin chausses~
+chitin chausses~
+A few oblong shells lay scattered on the ground.~
+unknown~
+9 0 AF 0
+AB AB AB A 0
+20 0 150 P
+0 B
+#8652
+bark plate breast~
+a bark breastplate~
+A tiny bark breastplate sits here, lined with moss.~
+unknown~
+9 G AD 0
+AB AB AB A 0
+20 5 200 P
+0 B
+#8653
+shell objects sleeves chitin~
+sleeves of chitin~
+Two shell-like objects lay upon the floor.~
+unknown~
+9 0 AI 0
+AB AB AB A 0
+20 0 150 P
+0 B
+#8654
+acorn shoulder pads~
+acorn shoulder pads~
+A pair of magically enlarged acorn husks sit here, fashioned into shoulder pads.~
+unknown~
+9 G AV 0
+B B B 0 0
+15 2 100 P
+A
+18 1
+0 B
+#8655
+black miniature boots chunky~
+chunky boots~
+These black miniature boots look rather chunky for what they are.~
+unknown~
+9 0 AG 0
+B B B 0 0
+15 0 100 P
+L
+oversized on feet~
+0 B
+#8656
+twinkling red dust~
+red dust~
+A small pouch of twinkling red dust can be seen here.~
+unknown~
+13 0 AK 0
+0 0 0 0 0
+1 0 200 P
+L
+twinkling about~
+0 B
+#8657
+purple sparkling dust~
+purple dust~
+A small pouch of purple sparkling dust lays here.~
+unknown~
+13 Xb AK 0
+0 0 0 0 0
+1 0 200 P
+L
+sparkling on skin~
+0 B
+#8658
+comeliness glamour aura~
+an aura of comeliness~
+A glamour of comeliness sits here waiting for an owner.~
+unknown~
+9 Gb AK 0
+AB AB AB A 0
+20 0 150 P
+L
+alluringly~
+0 B
+#8659
+darkness glamour aura~
+a dark glamour~
+An aura of darkness seems to flitter about here as if it has a mind of its own.~
+unknown~
+9 Gb AK 0
+AC AC AC A 0
+30 0 200 P
+A
+18 2
+L
+masking form~
+0 B
+#8660
+striped wand~
+a {Cst{Bri{Cpe{Bd{x wand~
+This {Cst{Bri{Cpe{Bd{x wand seems to beckon for you to pick it up.~
+unknown~
+3 0 AO 0
+ACDE A A 0 0
+26 0 2000 P
+0 B
+#8661
+bright white silver birch wand~
+a bright {Wwhite{x wand~
+A bright {Wwhite{x wand made of silver birch is here.~
+unknown~
+3 0 AO 0
+BCDE AB AB 256 0
+20 0 1500 P
+0 B
+#8662
+small butterfly~
+a {msmall butterfly{x~
+This {msmall butterfly{x looks like it might be difficult to catch without a net.~
+unknown~
+27 0 AR 0
+0 0 0 0 0
+5 0 200 P
+0 AB
+#8663
+fell moth~
+a fell moth~
+A fell moth rests nearby, its markings a warning.~
+unknown~
+5 Xb AN 0
+0 AC BCD CDE C
+35 0 2000 P
+L
+grasped gently~
+0 AB
+#8664
+zooming butterfly~
+a {czo{Com{cin{Cg{x butterfly~
+A {czo{Com{cin{Cg{x butterfly careens about in the air here.~
+unknown~
+13 0 AR 0
+0 0 0 0 0
+23 0 500 P
+A
+18 2
+0 AB
+#8665
+spotted butterfly~
+{xa {Rsp{Wo{Rtt{We{Rd{x butterfly~
+A {Rsp{Wo{Rtt{We{Rd{x butterfly flutters through the air here.~
+unknown~
+15 Xb AR 0
+DF 0 0 0 0
+20 0 300 P
+A
+19 2
+0 AB
+#8666
+streaked butterfly~
+a {Cst{Wre{Cak{Wed {Cbu{Wtt{Cer{Wfl{Cy{x~
+{xA {Cst{Wre{Cak{Wed {Cbu{Wtt{Cer{Wfl{Cy{x flitters in the air here.~
+unknown~
+27 0 AR 0
+AC AC AC A 0
+30 0 400 P
+0 AB
+#8667
+firefly~
+a firefly~
+A firefly floats through the air here, moving lazily about.~
+unknown~
+1 0 AO 0
+0 0 999 0 0
+25 0 500 P
+A
+18 1
+L
+flying about~
+0 AB
+#8668
+ivy bikini bottom bits couple~
+an {Givy{x bikini bottom~
+A couple of bits of ivy lay abandoned on the floor.~
+unknown~
+11 0 AL 0
+0 0 0 0 0
+1 0 350 P
+L
+slung low~
+0 B
+#8669
+pieces ivy tangle bikini~
+an {Givy{x bikini top~
+A few chopped up pieces of ivy form a tangle here.~
+unknown~
+11 0 AD 0
+0 0 0 0 0
+1 0 360 P
+L
+supporting nicely~
+0 B
+#8670
+ivy halt creeper~
+an {Givy{x halter~
+A creeper of ivy lays on the ground.~
+unknown~
+11 0 AD 0
+0 0 0 0 0
+1 0 400 P
+0 B
+#8671
+tattered vest heap~
+a tattered vest~
+These tattered rags lie in a careless heap on the floor.~
+unknown~
+13 0 AD 0
+0 0 0 0 0
+1 0 200 P
+0 B
+#8672
+tattered shorts rag~
+tattered shorts~
+A tattered rag has been dropped and left on the floor.~
+unknown~
+11 0 AF 0
+0 0 0 0 0
+1 0 200 P
+0 B
+#8673
+small shoes bells~
+shoes with bells~
+A pair of small shoes adorned with bells can be seen here.~
+unknown~
+11 0 AG 0
+0 0 0 0 0
+1 0 200 P
+L
+curling over toe~
+0 B
+#8674
+ballgown petals heap~
+a ballgown of {mpetals{x~
+The heap of petals here almost look like a dress.~
+unknown~
+11 0 AD 0
+0 0 0 0 0
+1 0 1200 P
+L
+cascading form~
+0 B
+#8675
+fig leaves~
+minimal fig leaves~
+Some fig leaves have been dropped on the ground here.~
+unknown~
+11 0 AD 0
+0 0 0 0 0
+1 0 400 P
+L
+aiding modesty~
+0 B
+#8676
+reed bit blade sliver~
+a reed blade~
+A bit of reed has been left on the floor, a mere sliver of the original plant.~
+unknown~
+5 0 AN 0
+A D ABC AB 0
+30 0 700 P
+0 B
+#8677
+lymegrass sword~
+a lymegrass sword~
+A bit of lymegrass is on the ground, looking conspicuously out of place.~
+unknown~
+5 0 AN 0
+A BC D A 0
+25 0 560 P
+0 B
+#8678
+rye grass sword~
+a rye grass sword~
+This piece of rye grass is actually quite stiff.~
+unknown~
+5 0 AO 0
+A AC D AB 0
+20 0 390 P
+0 B
+#8679
+purple molinia blade grass~
+a purple molinia blade~
+A purple blade of grass is on the ground.~
+unknown~
+5 0 AN 0
+A AC BC A 0
+15 0 210 P
+0 B
+#8680
+blue moor grass blade~
+a blue moor grass blade~
+This blue blade of grass looks like something to be found in a moor.~
+unknown~
+5 0 AN 0
+A C AC AB 0
+10 0 130 P
+0 B
+#8681
+rose thorn spear~
+a rose thorn spear~
+One of the hardest thorns of a rose has been tied to this pole to make a spear.~
+unknown~
+5 0 AN 0
+AB AC BCD ABD 0
+35 0 700 P
+0 B
+#8682
+gorse thorn spear pole~
+a gorse spear~
+A gorse thorn is situated at the end of this sturdy pole to form a spear.~
+unknown~
+5 0 AN 0
+AB BC D ABD 0
+25 0 470 P
+0 B
+#8683
+pole buck thorn spear~
+a buck thorn spear~
+This slim pole has a sharp looking buck thorn at its end, forming a spear point.~
+unknown~
+5 0 AN 0
+AB BC BC ABD 0
+19 0 310 P
+0 B
+#8684
+black thorn spear pole~
+a black thorn spear~
+This slim pole has a sharp black thorn attached to the end.~
+unknown~
+5 0 AN 0
+AB C BC ABD 0
+12 0 160 P
+0 B
+#8685
+white thorn spear pole~
+white thorn spear~
+This slim pole has a sharp white thorn attached to the end.~
+unknown~
+5 0 AN 0
+AB B BC ABD 0
+5 0 50 P
+0 B
+#8686
+multifaceted eyes~
+multi-faceted eyes~
+A very gross-looking pair of multi-faceted eyes are here.~
+unknown~
+9 0 AT 0
+AC AC AC A 0
+30 0 500 P
+A
+19 1
+A
+18 2
+0 B
+#8687
+long sweeping antennae greep~
+long {gsweeping{x antennae~
+These antennae are quite long and are of a green color.~
+unknown~
+9 MU AE 0
+B B B 0 0
+15 0 100 P
+L
+flowing majestically~
+0 B
+#8688
+fuzzy black antennae~
+black antennae~
+Some fuzzy black antennae are here, probably ripped off some bug.~
+unknown~
+9 MU AE 0
+A A A 0 0
+1 0 50 P
+L
+from brow~
+0 B
+#8689
+pale white wings~
+pale white wings~
+These pale white wings look as if they were recently ripped off a butterfly.~
+unknown~
+9 MU AZ 0
+AC AC AC A 0
+35 0 550 P
+L
+fluttering behind~
+0 B
+#8690
+spotted white green wings~
+{Gsp{Wo{Gtt{We{Gd{x wings~
+A pair of white and green spotted wings can be seen here.~
+unknown~
+9 MU AZ 0
+C C C A 0
+25 0 330 P
+L
+fluttering behind~
+0 B
+#8691
+fragile blue wings~
+fragile {cb{bl{cu{be{x wings~
+These blue butterfly wings look to be somewhat fragile.~
+unknown~
+9 MU AZ 0
+0 0 0 0 0
+20 0 250 P
+L
+delicately worn~
+0 B
+#8692
+yellow soft butterfly wings~
+{yyellow{x butterfly wings~
+These soft yellow wings seem to have come from a butterfly.~
+unknown~
+9 MU AZ 0
+A A A 0 0
+5 0 50 P
+L
+fluttering~
+0 B
+#8693
+black garter belt~
+a black lace garter belt~
+These two garter belts are made of exquisite black lace.~
+unknown~
+11 0 0 0
+0 0 0 0 0
+0 0 0 P
+L
+on mid-thigh~
+0 B
+#8694
+checkered bell sleeves~
+bell sleeves in black and white~
+A pair of sleeves that end in black lacy bells is here, covered in a checkered pattern.~
+unknown~
+9 0 0 0
+0 0 0 0 0
+0 0 100 P
+0 B
+#8695
+solid white black ruffled skirt~
+a ruffled two layer skirt in black and white~
+A skirt made of two layers is here, showing white in the front and black in the back.~
+unknown~
+9 0 0 0
+0 0 0 0 0
+0 0 1 P
+E
+ruffled skirt~
+This skirt has been designed from two layers of cloth.  The bottom-most
+layer is a pristine white that has a gentle ruffle accented in black.  The
+top layer is longer in the back than front and has a ruffle of the same sort
+as the bottom layer, only with white for the trim. 
+~
+0 B
+#8696
+cloud butterflies~
+a cloud of rainbow butterflies~
+A cloud of butterflies in all the colors of the rainbow flutters through the air.~
+unknown~
+8 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 B
+#8697
+half mask~
+a white face mask edged in black~
+This half mask is mostly white and has markings to make it look like butterfly wings.~
+unknown~
+9 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 B
+#8698
+monarch butterfly barrette~
+a monarch butterfly~
+This barrette resembles a monarch butterfly so closely it could take flight at any moment.~
+unknown~
+8 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 B
+#8699
+purple leotard~
+a diaphanous purple leotard~
+Purple fabric of a diaphanous nature looks like it will cover very little.~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 1 P
+E
+leotard~
+This purple fabric is tattered at the edges, giving it a frail and
+asymmetrical look.  It is sheer and looks as if it was made for a very short
+person. 
+~
+0 B
+#8700
+thigh high purple boots~
+thigh high sheer purple boots~
+These thigh high boots are made of a sheer purple material.~
+unknown~
+9 0 0 0
+0 0 0 0 0
+0 0 1 P
+E
+boots~
+These boots reach mid-thigh before a trimming of spine-like filaments fan
+out from them.  The gauzy material is stretched tightly between the
+filaments, like webbing on a frog's hand.  
+~
+0 B
+#8701
+purple elbow gloves~
+purple elbow length gloves~
+These elbow length gloves end in an artful array of purple spikes and tatters.~
+unknown~
+9 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 B
+#8702
+mushroom archway rune~
+a runic archway~
+A runic archway leading inside of the mushroom.~
+unknown~
+29 R 0 0
+0 0 0 8875 0
+0 10000 0 P
+0 0
+#8703
+mushroom archway rune~
+a runic archway~
+A runic archway leading inside of the mushroom.~
+unknown~
+29 R 0 0
+0 0 0 8876 0
+0 0 0 P
+0 0
+#8704
+rune mushroom archway inside~
+a mushroom archway~
+An archway leading inside of the mushroom.~
+unknown~
+29 R 0 0
+0 0 0 8882 0
+0 10000 0 P
+0 0
+#8705
+archway mushroom rune inside~
+a runic archway~
+An archway leading inside the mushroom.~
+unknown~
+29 R 0 0
+0 0 0 8889 0
+0 10000 0 P
+0 0
+#8706
+archway mushroom rune inside~
+a runic archway~
+An archway leading inside the mushroom.~
+unknown~
+29 R 0 0
+0 0 0 8887 0
+0 10000 0 P
+0 0
+#8707
+archway mushroom rune inside~
+a runic archway~
+An archway leading inside the mushroom.~
+unknown~
+29 R 0 0
+0 0 0 8888 0
+0 10000 0 P
+0 0
+#8708
+archway mushroom rune inside~
+a runic archway~
+An archway leading inside the mushroom.~
+unknown~
+29 R 0 0
+0 0 0 8890 0
+0 0 0 P
+0 0
+#8709
+nectar golden flute~
+a nectar flute~
+A golden flute of nectar sits here, smelling sweet.~
+unknown~
+17 0 AO 0
+B B BE 0 0
+0 0 10 P
+0 0
+#8710
+ambrosia fluffy white cloud~
+some ambrosia~
+A fluffy white cloud-like food called ambrosia is here.~
+unknown~
+19 0 AO 0
+EF 0 0 0 0
+0 0 10 P
+0 B
+#8711
+petal cup fruit juice~
+a petal cup~
+A petal cup of fruit juice has been left here.~
+unknown~
+17 0 AO 0
+B B CE 0 0
+0 0 5 P
+0 B
+#8712
+forest mix bag fruit berries~
+a bag of forest mix~
+All sorts of fruit and berries are covered in sugar making a bag of forest mix.~
+unknown~
+19 0 AO 0
+ABCD 0 0 0 0
+0 0 5 P
+0 B
+#8713
+horse tail flogger small~
+a small flogger~
+A small flogger fashioned from part of a horses tail rests here, it looks like it could sting.~
+unknown~
+5 G AN 0
+ABC AC BC BDE 0
+15 0 50 P
+A
+18 1
+E
+horse tail small flogger~
+The strands of this flogger seem to be made from horse hair which has
+been formed into countless tiny braids each of which end in a small, tight
+knot.  The handle is fashioned from a dark wood which has been carefully
+shaped and smoothed so that the handle is ridged with small bumps and the
+butt end is somewhat bulbous.  
+~
+0 B
+#8714
+wicked woven scourge~
+a wicked scourge~
+A woven scourge lays here, with thorns worked into the woven tails.~
+unknown~
+5 G AN 0
+ABC AC AD C J
+23 2 200 P
+E
+wicked woven scourge thorn tails~
+Fashioned from grasses and enhanced with magic this scourge looks to be
+fiendish.  Sharp thorns have been worked into the woven tails of the whip so
+that whoever is struck by it will be cut by these small but sharp spikes. 
+The handle is made from a wood and stained red, leather thongs have been
+worked around it so that the wielder can have a better grip. 
+~
+0 B
+#8715
+rune covered crop~
+a rune covered crop~
+This long flexible crop is covered in intricate runes which glow softly as it lays here.~
+unknown~
+5 BG AN 0
+ABC ABC AD CDE H
+33 2 400 P
+A
+17 -3
+E
+!history!~
+This type of whip is said to only be made from reeds that grow on
+lightning blasted earth and that the runes are those of pain and torment,
+which may only be fashioned by a mage who is in agony and should ideally be
+scribed in that magic user's blood.  Not too surprisingly that these objects
+fetch a high price.  Normally pixies will go to great lengths of obtain one
+of these implements of torture. 
+~
+E
+rune covered crop~
+This long, flexible crop has been made from tightly woven reeds and then
+stained red.  Upon its surface are tiny runes that seem to shimmer with a
+blue light from which builds towards the tip occasionally a tiny lightning
+bolt will arc from the end.  The handle of the crop is smooth possessing a
+small bump on the end then tapering steadily downwards towards the striking
+point. 
+~
+L
+held painfully~
+0 B
+#8716
+thistle headed flail~
+a thistle headed flail~
+Three large thistles have been enchanted and fixed to a haft then discarded here.~
+unknown~
+5 AG AN 0
+BC C AC D 0
+10 1 60 P
+A
+13 5
+0 B
+#8717
+rose thorn flail~
+a thorny flail~
+Rose thorns of unusual size and viciousness make the heads of this flail.~
+unknown~
+5 BG AN 0
+BC AC ABC AB J
+18 4 120 P
+A
+18 1
+A
+19 1
+0 B
+#8718
+reed flail~
+a reed flail~
+A flail fashioned from reeds lays here.~
+unknown~
+5 G AN 0
+BC 0 0 ABDE 0
+27 4 220 P
+A
+17 -3
+E
+reed flail~
+Two thick and heavily banded reeds linked together by a thinner more
+flexible reed.  More reeds have been bound about the rounded handles making
+them better striking points if need should arise. 
+~
+0 B
+#8719
+plantain green stick knob~
+a plantain mace~
+A ribbed green haft with a knob upon the end sits here, it looks like it could make a good mace.~
+unknown~
+5 G AN 0
+C 0 0 ABDE 0
+20 2 200 P
+0 B
+#8720
+runic archway mushroom inside~
+a runic archway~
+This runic archway seems to lead inside the mushroom.~
+unknown~
+29 R 0 0
+0 0 0 8884 0
+0 10000 0 P
+0 0
+#0
+
+
+
+#ROOMS
+#8550
+Within the Forest~
+Plants struggle to thrive in the evershade created by the thick canopy
+above.  The nearest tree is a stately oak, its age indeterminable but
+appearing ancient all the same with moss covering its bark like fur covers
+an animal.  Tiny lights have been strung between its branches, shaped like
+miniature lilies and providing a soft illumination at best.  Condensation or
+droplets left over from the last rainstorm drip all around, occasionally
+striking any passerby. 
+~
+0 1056780 0
+D0
+~
+~
+0 0 8551
+D1
+~
+~
+0 0 8555
+D4
+~
+~
+0 0 8594
+S
+#8551
+Ancient Woods~
+A sapling struggles to grow within this forest, doing its best to thrive
+in the sunlight that reaches this area during the day.  Grasses and other
+wild growths amalgamate here, making it difficult to pass without destroying
+their inherent beauty.  The bright blooms that range through the colors of
+the rainbow release a delicate scent that hovers in the air whenever it is
+still, though it's blown away by the slightest breezes.  Great trees can be
+seen all around, their leaves and bark seeming to possess an inner glow from
+the bright hues.
+~
+0 1056768 0
+D0
+~
+~
+0 0 8552
+D1
+~
+~
+0 0 8556
+D2
+~
+~
+0 0 8550
+D3
+~
+~
+0 0 8565
+S
+#8552
+Among Bright Flowers~
+Sweeping stems of emerald green grasses grow with gay abandon here, 
+stretching their leafy bodies towards the sky.  Interspersed with the grass 
+are countless wildflowers in a rainbows profusion of colours sending forth 
+there aromas as a heady perfume for any to sample upon the air.  Ancient 
+gnarled trees of monolithic sizes surround the clearing, the leafy boughs of 
+these stretching up and towards each other like dancers in a king's court.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8553
+D1
+~
+~
+0 0 8557
+D2
+~
+~
+0 0 8551
+S
+#8553
+Walking Through Strange Growth~
+A tree with soft, jagged leaves grows here.  The trunk is crooked and
+splits low to the ground, indicating that it received large amounts of water
+in its early years.  Some of its branches are low to the ground, nearly
+touching the flowers and grasses growing in thickets there.  A faint scent
+permeates the air, presumably wafting from the plentiful blooms that have
+opened to the sun's coaxing.  More trees of varying types grow all around. 
+Everything in this area looks brighter than life.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8554
+D1
+~
+~
+0 0 8558
+D2
+~
+~
+0 0 8552
+D4
+~
+~
+0 0 8598
+S
+#8554
+In a Field of Rainbow Blooms~
+Long grass covers the ground all about, stiff blades of vegetation that
+point proudly skyward.  Prospering blooms intermix with the bright green
+ferns and grass, their colors something a rainbow could be jealous of.  Deep
+within the thickets, the sounds of small animals and insects can be heard
+from time to time.  Different types of deciduous trees grow all around this
+cleared spot, their leaves never fading or falling from their branches.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8583
+D1
+~
+~
+0 0 8559
+D2
+~
+~
+0 0 8553
+S
+#8555
+A Rainbow Glade~
+Blades of emerald green grass grow with abandon here, with large flowers
+poking high above their mass, their petals bright and all the colors of the
+rainbow.  Trees covered with moss and creeping vines surround this small
+clearing, their mighty branches entangling at the ends.  Their leaves are of
+a multitude of shapes, some of them jagged and soft, the others stiff and
+spear-like with a waxy surface.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8556
+D1
+~
+~
+0 0 8564
+D3
+~
+~
+0 0 8550
+S
+#8556
+A Gigantic Tree~
+Orchids wind around the limbs of the tree that grows here, hanging
+loosely between them like tiny flowering bridges.  Bright green leaves, like
+those freshly unfurling in spring time, grow densely above, forming a thick
+canopy.  Droplets of water fall gently from the tree as the wind rustles its
+leaves, whether they are from the last rain storm or some sort of
+condensation, it is hard to determine.  Small lights that look like flowers
+of a vastly diminuitive size have been strung around the tree trunk and a
+few of its limbs, providing light in its evershade.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8557
+D1
+~
+~
+0 0 8563
+D2
+~
+~
+0 0 8555
+D3
+~
+~
+0 0 8551
+D4
+~
+~
+0 0 8590
+S
+#8557
+A Magnificent Glade~
+Long, leafy grasses grow here, bowing to the earth because they are
+unable to support their own weight.  Betwixt the blue-green vegetation,
+numerous flowers grow.  Their petals have opened to the sun's passing,
+exposing the pistil and stamen to the air, and, consequently, the bees that
+are drifting by.  Some daisies mix in with the daffodils and lilies,
+creating a pleasing disarray.  The trees surrounding the edges of this glade
+appear to be ancient, their gnarled and twisted souls reaching for the sun. 
+~
+0 1056768 0
+D0
+~
+~
+0 0 8558
+D1
+~
+~
+0 0 8562
+D2
+~
+~
+0 0 8556
+D3
+~
+~
+0 0 8552
+S
+#8558
+A Pond~
+Reeds and cattails grow at the edges of this pond, protecting it from the 
+elements with their heighth.  Some leaves that have floated down from the 
+aged trees overhead drift along the water's surface, moving lazily through 
+the water.  Lily pads can be spotted throughout the pool, intertwined with 
+algae.  Further away from the water's edge, blossoms flourish alongside 
+grass, located beneath the large trees that make up the forest beyond.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8559
+D1
+~
+~
+0 0 8561
+D2
+~
+~
+0 0 8557
+D3
+~
+~
+0 0 8553
+S
+#8559
+Near a Willow Tree~
+Gently lapping waters slosh against the dense reed beds of this pool, 
+lapping a soft tune as the wash strikes.  Bulrushes thicker than a grown 
+man's thumb tops some of the reeds, appearing like torches ready to be lit 
+for a parade.  The occasional bloom-blessed lily pad drifts upon the waters 
+of the pond, slave to the wind's will.  From deep within the hidden depths 
+of the reeds, a croaking from the throat of a frog echoes out over the pool. 
+Small bright blossoms grow upon the bank leading like a carpet to the base 
+of a giant weeping willow, the boughs of this plant bowed down towards the 
+water as if in mourning.  
+~
+0 1056768 0
+E
+weeping willow~
+Blade-like leaves dangle from each of this plants whip-like limbs, each 
+possessing a darker top to the underside.  The masked trunk of his ancient 
+tree has become gnarled and twisted with age, knots forming as limbs have 
+become broken over the years, so that protrusions reminiscent of the face of 
+a creature can now be seen.  
+~
+D0
+~
+~
+0 0 8582
+D1
+~
+~
+0 0 8560
+D2
+~
+~
+0 0 8558
+D3
+~
+~
+0 0 8554
+D4
+~
+~
+0 0 8589
+S
+#8560
+A Singing Glen~
+A musical sound cascades around the clearing, tinkling from numerous bells, 
+crystals and reed tubes as they move upon the wind's whims.  These small 
+items have been strung high in the boughs of surrounding trees along with 
+tiny lights no larger than a firefly's tail.  The floor of the glade is 
+covered with emerald green grass and a multitude of wildflowers that possess 
+colours ranging through the spectrum.  The scents of life and growth seem to 
+come from all around and drift up to one's nose here.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8581
+D1
+~
+~
+0 0 8573
+D2
+~
+~
+0 0 8561
+D3
+~
+~
+0 0 8559
+S
+#8561
+A Pool of Water~
+Two trees reach over a misty pool, their great boughs like lover's 
+arms;stretching towards each other for an embrace but never meeting.  The 
+mist;wafts gently from the pool's waters, spiralling its way upwards for a 
+few feet before dissipating into the air above its origin.  Emerald green 
+moss grows upon the shaded floor, looking soft and furry to the touch.  From 
+within this moss, tiny white flowers grow, their bright faces turned 
+skyward.  A soft odour of flourishing plant life and delicately scented 
+flowers can be detected about the area, coming from all around.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8560
+D1
+~
+~
+0 0 8572
+D2
+~
+~
+0 0 8562
+D3
+~
+~
+0 0 8558
+S
+#8562
+A Flower-choked Vale~
+Nightshade sneaks its way through the thriving grass here, producing
+elegant flowers with purple leaves and yellow corrolla along its fronds. 
+Violet lupine and off-white catnip poke through the carpet of grass and
+nightshade, their tall plant structures allowing them to grow in abandon. 
+Morning glories creep along the bark of the trees that surround this small
+vale, their scent combining with that of the others rather pleasantly in
+the air.
+~
+0 1056768 0
+D0
+~
+~
+0 0 8561
+D1
+~
+~
+0 0 8571
+D2
+~
+~
+0 0 8563
+D3
+~
+~
+0 0 8557
+S
+#8563
+An Ivy-Laden Tree~
+An ivy-shrouded tree grows gracefully from this lush green glade.  The 
+mighty limbs of this tree reach skywards for the sun's radiance as the ivy 
+climbs over its boughs with its insidious attempt to best its giant host.  
+Spear like blades of grass carpet this area, radiating outwards like 
+soldiers upon a drill field.  Bright cornflowers peek their faces through 
+the grasses, adding a vivid splash of colour to this area.  From the 
+flower's blossoms, presumably, the scents drift over the dell and into the 
+air.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8562
+D1
+~
+~
+0 0 8570
+D2
+~
+~
+0 0 8564
+D3
+~
+~
+0 0 8556
+D4
+~
+~
+0 0 8595
+S
+#8564
+A Mighty Oak~
+An oak of mighty proportions stands here, its great trunk and formidable
+limbs entwined with a dense growth of ivy that stretches over the floor link
+a shimmering sea of leaves, the colours vivid in any light.  Scampering
+about through the ivy can be seen the occasional fleeting form of some small
+creature, the speed of its progress making it hard to discern what type of
+animal it could be.  Flourishing at a distance from the ancient tree's shade
+are patched of bright wildflowers in a multitude of colours, the scents from
+which float freely upon the air.
+~
+0 1056768 0
+D0
+~
+~
+0 0 8563
+D1
+~
+~
+0 0 8569
+D3
+~
+~
+0 0 8555
+D4
+~
+~
+0 0 8593
+S
+#8565
+Within a Forest~
+Lush grass carpets the earth here, seeming almost too bright to be real. 
+Flanking the winding path of wildflower-speckled grass stand ancient,
+gnarled trees.  Their limbs seem convoluted, weaving and winding between
+each other, as they stretch skywards, covered in places by a emerald green
+lichen.  Some of these massive sentinels' roots are exposed from the rich
+earth, though the trees clearly seem none the worse for it.  Within these
+root formations, caves from the movements of small animals can be seen.  The
+air is fresh here, filled with the scents of flowers and plants without any
+hint of corruption. 
+~
+0 1056768 0
+D1
+~
+~
+0 0 8551
+D3
+~
+~
+0 0 8566
+S
+#8566
+A Small Clearing~
+Wild flowers with blooms of a considerable size grow in thickets here,
+looking very much like a bouquet that might be found at a florist's where
+they grow.  Ferns can be spotted at random intervals amongst the thick
+growth of wild grass and blossoms, their fronds varying from a silvery-blue
+to green.  Trees can be seen in the distance, twisted and gnarled growths
+that have patches of luminescence on them.
+~
+0 1056768 0
+D0
+~
+~
+0 0 8567
+D1
+~
+~
+0 0 8565
+S
+#8567
+A Ring of Mushrooms~
+Untouched blades of grass jut proudly from the rich earth, their blades
+blue-green and matching the flowers all around in vivid hues.  The flowers
+are mixed together, their orange, red, purple, and yellow blossoms growing
+in wild patterns.  When the air is still, the scents of these flowers hangs
+over the small glen, strong but not altogether unpleasant.  Some mushrooms
+grow here in a ring, their white-spotted red caps standing out amongst the
+grasses.
+~
+0 1056768 0
+D2
+~
+~
+0 0 8566
+D3
+~
+~
+0 0 8568
+S
+#8568
+Phira's~
+This chamber seems to be produced by combination of magical alteration
+and masterful carving: a bench is carved into the wall to the left of the
+skillfully made door that serves as the exit eastward, the walls are worn
+smooth by an unknown source and the chamber is exquisite in that it has no
+flaws whatsoever.  Small flowering plants hang from hooks in the ceiling,
+lending the room some brightness and a soft scent that's hard to place. 
+Carvings of horses chasing each other over the walls can be seen, seeming to
+be nearly animate in the light cast by the tiny lanterns that are hanging
+from knobs built into the curving walls.
+~
+0 1056768 0
+D1
+~
+~
+0 0 8567
+S
+#8569
+A Seldom-Used Path~
+Nettles and bushes crowd the open ground here, prospering in the sun when
+it's available.  The green plants have been infiltrated by flowering vines
+and stubborn blooms, nightshade and morning glory amongst them.  Trees rise
+up around this clearing, their branches meeting at the edges of their
+domain, grasping at each other and hooking together to form a continuous
+canopy over the dark soil. 
+~
+0 1056768 0
+D0
+~
+~
+0 0 8570
+D1
+~
+~
+0 0 8578
+D3
+~
+~
+0 0 8564
+S
+#8570
+Dense Wildgrowth~
+Flowering clover mixes with the lush grass here, providing a soft
+carpeting over the rich earth.  Some larger, bush-like plants, can be seen
+here, holding their bright yellow and white blooms proudly.  Plants with
+velvety leaves at least a foot in length tangle with the bushes, making the
+wild groth difficult to navigate.  Trees rise up on all sides of this glade,
+their leaves casting shade during the daytime at the edges. 
+~
+0 1056768 0
+D0
+~
+~
+0 0 8571
+D1
+~
+~
+0 0 8577
+D2
+~
+~
+0 0 8569
+D3
+~
+~
+0 0 8563
+S
+#8571
+A Grove of Ancient Trees~
+Rugged bark covers the exterior of the strange tree that grows here.  The
+tree splits into two about eight feet from the floor, each half growing
+almost like a separate entity from this point upwards.  Leaves with five
+points, like a human's hand, dangle from the boughs and wave down towards
+the earth from their perch.  From the ground, wildflowers grow, uncountable
+in their numbers and grassy beds from which they send forth their gentle
+aromas upon the air.
+~
+0 1056768 0
+D0
+~
+~
+0 0 8572
+D1
+~
+~
+0 0 8576
+D2
+~
+~
+0 0 8570
+D3
+~
+~
+0 0 8562
+S
+#8572
+Twinkling Trees~
+Tinkling to the wind's tune are delicate chains that drape down from the
+branches of the great elder that grows here.  Its mottled yellow-brown bark
+upon the older growth contrast with the vivid green of the younger shoots
+and twigs, all of which thrust their leaves skywards.  Long and lush emerald
+green grass carpets the floor to a depth of about two feet, from which
+bright blue forget-me-nots spring up from within the thick grass to add
+there colours to this area. 
+~
+0 1056768 0
+D0
+~
+~
+0 0 8573
+D1
+~
+~
+0 0 8575
+D2
+~
+~
+0 0 8571
+D3
+~
+~
+0 0 8561
+D4
+~
+~
+0 0 8602
+S
+#8573
+A Fallen Tree~
+Long grass of a striking emerald colour grows about this area, glinting
+softly with drops of clean moisture.  Laying half buried within these
+grasses is what once must have been a majestic tree akin to those still
+standing around this area.  This fallen giant of a tree now bears signs of
+decay bright red-capped mushrooms with small white spots grow over its
+remains.  From one of its few protruding limbs, an industrious spider has
+fashioned a large web, each strand shimmering with dew in any available
+light like diamonds around a noble woman's throat. 
+~
+0 1056768 0
+D0
+~
+~
+0 0 8580
+D1
+~
+~
+0 0 8574
+D2
+~
+~
+0 0 8572
+D3
+~
+~
+0 0 8560
+S
+#8574
+A Willow Tree~
+The irregular trunk of this tree is covered in smooth light-colored bark.
+The branches bow from it, touching the earth with its yellow-green leaves,
+looking very much like a defeated soul.  Grass grows in abundance here, the
+short blades a lively green.  Outside of the tree's domain, ferns of a snowy
+white color can be found, some of them larger than others but all of them
+bearing majestic fronds.  Tiny lights that turn shades at a slow rate have
+been strung around the branches to provide a soft and colorful illumination.
+~
+0 1056768 0
+D0
+~
+~
+0 0 8579
+D2
+~
+~
+0 0 8575
+D3
+~
+~
+0 0 8573
+D4
+~
+~
+0 0 8604
+S
+#8575
+Amongst Some Wild Flowers~
+Blue and green grasses of bright hues intermingle here, creating a carpet
+of plant life over the soil, small drops of dew beading over the blades. 
+Daffodils, tulips, and tiger lilies grow all around, opened proudly to
+display their bright colors in this small glade.  Some silvery white ferns
+grow between the scattering of blooms, almost as if they were rivals for the
+space in this sun-bathed meadow.  Beyond the clearing, trees of an ancient
+nature grow, bearing leaves of a color that seems unreal in its intensity.
+~
+0 1056768 0
+D0
+~
+~
+0 0 8574
+D1
+~
+~
+0 0 8584
+D2
+~
+~
+0 0 8576
+D3
+~
+~
+0 0 8572
+S
+#8576
+A Cherry Tree~
+Small lights and chimes have been strung around the cherry tree here,
+nestled against the smooth bark.  Any breezes that chance through this area
+carry the aroma of flowers and stir the chimes into a symphonic sound.  Some
+cherries have dropped from the branches and rest within the grass, not yet
+claimed by the residents of this forest.  Morning glory creeps along the
+bark of this tree, the flowers curved delicately in their open state.  Long
+green grasses grow from the earth, controlled by the air movements in a
+similar manner to the decorations of the tree--only there tune is that like
+a gentle sigh.
+~
+0 1056768 0
+D0
+~
+~
+0 0 8575
+D2
+~
+~
+0 0 8577
+D3
+~
+~
+0 0 8571
+D4
+~
+~
+0 0 8596
+S
+#8577
+A Sea of Greenery~
+Rippling like waves and twinkling with beads of dew, what at first glance 
+would pass as some unearthly pools reveals its self to one's eye to be a 
+mass of lush grass.  Shimmering softly when illuminated, like some forgotten 
+treasure from a bygone age, the earth's grassy covering has some surreal 
+quality to it, almost like it is all too real with its vivid intensity.  No 
+flowers or other plants blemish the lustrous emerald green for some 
+distance, adding to strangeness of this area.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8576
+D2
+~
+~
+0 0 8578
+D3
+~
+~
+0 0 8570
+S
+#8578
+A Pine Tree~
+A pine tree is here, its presence seeming to be an anomoly within all the
+deciduous growth.  Needles grow from the branches, thin and straight, to
+serve as the leaves of this plant.  Within the needles, some brown cones can
+be seen, closed to protect them from the outside world.  There is a
+scattering of cones beneath the tree from seasons passed, opened and left
+among brown, dead needles that have been shedded.  The tree looks like a
+formidable fortress from any aspect, its branches starting not more than
+four feet off the ground. 
+~
+0 1056768 0
+D0
+~
+~
+0 0 8577
+D3
+~
+~
+0 0 8569
+D4
+~
+~
+0 0 8588
+S
+#8579
+A Small Glade~
+Brilliant green grass grows with untamed relish here, the stems bowed
+slightly with their seedpod burdens.  Small drops of dew bead over the
+blades and shimmer like jewels in any light.  Daffodils, tulips, and tiger
+lilies grow all around, opened proudly to display their bright colors in
+this small glade.  Delicate aromas waft and drift from the green carpet,
+working their way up to the skys canopy high overhead, seemingly like
+visible dancers.  Ancient time-gnarled trees surround this clearing, the
+mighty limbs of which stretch there twig like fingers skywards in an age old
+salute to the sun. 
+~
+0 1056768 0
+D2
+~
+~
+0 0 8574
+D3
+~
+~
+0 0 8580
+S
+#8580
+An Apple Tree~
+A mighty apple tree grows here, its branches radiating from the trunk
+like spires of some mystical castle.  The girth of this tree must easily be
+over six feet, coated in a rough bark that looks much like sun-baked earth
+with its rugged complexion.  Rosy red-green fruit hangs from the branches,
+shining with goodness as they wait to fall earthwards.  Crafted upon the
+tree's bark by some unknown hand and art is a shimmering silver pentacle,
+the points surrounded by a circle of the same color, looking somewhat like a
+figure stood with arms stretched out and head cast upwards.
+~
+0 1056768 0
+D0
+~
+~
+0 0 8609
+D1
+~
+~
+0 0 8579
+D2
+~
+~
+0 0 8573
+D3
+~
+~
+0 0 8581
+D4
+~
+~
+0 0 8585
+S
+#8581
+Deep Within a Forest~
+The tree that stands out in this patch of forest has limbs laden with
+bright orange-red seeds that grow in bunches.  The leaves are on the small
+side and are a dusty green, their small spear-shaped growths turning
+themselves to the sun to the best of their ability.  A few birds call to one
+another amidst its branches, their song a pleasant addition to the sounds of
+other wild animals that filter through the forest.  The grasses growing
+around the trees are riddled with large flowers in incandescent colors,
+ranging from daffodils and daisies to tulips and tiger lilies.
+~
+0 1056768 0
+D1
+~
+~
+0 0 8580
+D2
+~
+~
+0 0 8560
+D3
+~
+~
+0 0 8582
+S
+#8582
+Wide Open Space~
+Dense forests grow all around this open space, hemming it in and
+preventing all but the most determined from entering under its briar-filled
+arches.  Long wild grasses carpet the floor, waving within the slightest
+breeze or laying flat in a powerful gale.  Growing at random within the lush
+grass are numerous specimens of wild flower, each adding its own aroma to
+the air.
+~
+0 1056768 0
+D1
+~
+~
+0 0 8581
+D2
+~
+~
+0 0 8559
+D3
+~
+~
+0 0 8583
+D4
+~
+~
+0 0 8586
+S
+#8583
+Under a Cherry Tree~
+A giant cherry tree, the sheer size of which speaks of an impressive age
+if the gnarled branches did not, stands within a small clearing here.  Thick
+grasses growing up to the monolithic tress base as the boughs reach their
+way skyward, laden with bright colored fruit.  Some distance from this tree,
+a stump stands, lightning scarred from some long-distant storm, upon which
+can be seen a scattering of small items.  The cherry tree its self has a
+number of tiny lights in the shape and colour of bluebells decorating it,
+these pool a soft radiance towards the trunk of their owner. 
+~
+0 1056768 0
+E
+stump items~
+Cherry stones lay scattered over this stump, along with some open
+pinecones.  Embedded between the seeds of the cones, oddly, are a few cherry
+stones, their placement not seeming to have reason or rhyme.  Around the
+foot of the stump are more cherry stones and a thin willow twig of about
+four feet in length.  This twig is notched at regular intervals, as if used
+for measuring. 
+~
+D1
+~
+~
+0 0 8582
+D2
+~
+~
+0 0 8554
+D4
+~
+~
+0 0 8587
+S
+#8584
+A Monolith~
+Rising skywards from the earth stands a monolith, about seven feet in
+height, which is covered in tiny intricate carvings.  Seven separate rings
+of red mushrooms with white spots radiate out form the standing stone. 
+Further out from the standing stones the grass grows taller and denser,
+becoming bowed with seeds.  At greater distance still, trees ring the
+clearing like sentinels upon their guard over some mystical treasure.  A
+scent of growth and new life fills the area, drifting and wafting upon any
+breeze.
+~
+0 1056768 0
+E
+stone~
+The carvings upon this stone show dancing figures with wings, frolicking
+about a fire while others raise horns to their mouths.  Still others can be
+seen brandishing spears as they leap and cavort.  Not one of the carvings is
+more than three or four inches in height but are made with amazing
+complexity.  Here and there larger characters in some runic script have been
+fashioned, some of which are more than twice the size of the winged figures.
+~
+D3
+~
+~
+0 0 8575
+S
+#8585
+Blossom's Retreat~
+This chamber is nearly completely comprised of wood the furnture has been 
+carved directly from the walls, creating a few couches, chairs, and a bed 
+for the sick.  These have been covered in thick mosses to make them more 
+comfortable for those who choose to linger in Blossom's Retreat.  A few 
+pillows shaped like flowers have been scattered over the remaining floor 
+space, providing additional seating.  Four small fountains have been carved 
+into the wall, one in each of the cardinal directions.  
+~
+0 34611208 0
+E
+fountain~
+These fountains are simple, being composed of a small basin that catches
+the water from holes in the walls, the bubbling sound creating a soothing
+atmosphere.  The water is clear and refreshingly cool, and, surprisingly,
+never spills over the sides of the wooden basins.
+~
+D5
+~
+~
+0 0 8580
+S
+#8586
+An Exquisite Tailor~
+This chamber is vast, holding a great variety of things.  A rod set into
+the ceiling allows for completed goods to be displayed proudly, laden with
+dresses, suits, and more mundane clothing.  A three-panel mirror has been
+set up, running the length between the ceiling and floor on the eastern side
+of the room.  A stool has been placed in the center of the angled panels to
+allow patrons to see what the services they have paid for wrought.  A
+counter is set up near the middle of the room, the space holding several
+bolts of cloth and accessories in addition to the little cushions stuffed
+full of pine needles and thorns.
+~
+0 1056776 0
+D5
+~
+~
+0 0 8582
+S
+#8587
+A Tree House~
+This chamber has either been wrought by magic of diligence from the
+living wood of this tree.  An area has been cleared large enough to
+accommodate a table, chairs, couches and even what would appear to be a
+bathtub set behind a gauzy curtain of shimmering fabric in one corner. 
+Multiple strings of silver lights have been looped from the ceiling and hang
+down to give a gentle illumination to the area, soft and unobtrusive to ones
+eyes.  Set safely upon one moss topped couch is a couple of sharpened pieces
+of bone and a length of wood, partly carved with ornate swirls.
+~
+0 1056776 0
+D5
+~
+~
+0 0 8583
+S
+#8588
+A Hermit's Sanctuary~
+This chamber is constructed through dilligence the bed and chair are
+both carved directly from the walls and covered in moss for comfort, while a
+small table emerges from the middle of the floor, bearing wooden dinnerware.
+A stump has been fashioned next to the table to provide a seat whenever
+necessary.  Strings of tiny lights have been hung between the hooks in the
+wall that are near the ceiling, shedding gentle illumination within this
+room.  Some feathers, stones, and other keepsakes from the forest all around
+have been lain on shelving in a decorative manner.
+~
+0 1056776 0
+D5
+~
+~
+0 0 8578
+S
+#8589
+A Solitary Home~
+Spiralling around the inside of this living tree is a smooth white
+chamber, fashioned form the tree its self.  A sloping walkway heads up
+towards the distant roof, left open in the centre.  Small alcoves have been
+crafted within the wood of the tree, surrounded by delicate carvings. 
+Strung along the edge of the platform are shimmering silver lights that
+provide illumination of the chamber, making it easy to see the moss padded
+chairs and couches that have been placed, mostly facing one alcove or
+another about the area.  Set at the zenith of this home is a set of wind
+chimes fashioned from quartz and threads of gold within, which glimmers in
+any light.
+~
+0 1056768 0
+E
+alcove~
+Each of the numerous alcoves bears a different treasure of this
+homeowner's liking.  In one might be a water polished stone, shiny and
+interesting to the eye but otherwise worthless, in another the back has been
+skillfully painted to depict flames or an ice coated tree.  Carvings of
+different types are also dotted about along with sea and snail shells, each
+polished so that they shine in the silvery light.  Around the outside of
+these alcoves are knot work, ivy and oak carvings each seemingly done by the
+same skilled hand and each with great care.
+~
+E
+quartz~
+arefully fashioned from gold thread bearing quartz, these chimes strike
+a soft tinkling melody that is for from intrusive to anyone who happens to
+be within this chamber.  The crystals dangle delicately upon hangers of
+spiders silk and refract any light that falls upon them into a shimmering
+rainbow over the walls of this chamber.
+~
+D5
+~
+~
+0 0 8559
+S
+#8590
+A Wooden Chamber~
+Three strings of silvery lights have been bound together and slipped
+through the hooks on the ceiling in a design that resembles a flower.  Some
+ledges carved from the wood serve as furniture in their moss-covered state,
+formed carefully from the walls themselves.  A table has been fashioned from
+the wood of the floor in the center of the room, bearing several flowers
+that form drinking vessels.  Next to these flowers, a snail's shell that has
+been cleaned now clearly functions as a pitcher.
+~
+0 1056776 0
+D0
+~
+~
+0 0 8591
+D5
+~
+~
+0 0 8556
+S
+#8591
+Within the Great Tree~
+A knot in the tree here has been fashioned into a window seat, carved and
+smoothed with time and magic.  When the knot is open, it is easy to see the
+branches of the tree and parts of the forest.  Strings of silvery lights
+have been loops through hooks in the ceiling and provide a gently
+illumination.  In the center of the room, there is a strange structure that
+appears to be a pedestal with a bowl crafted at its top.  Small tables have
+been arranged around the room, holding small bowls of water and rose petals
+that produce a gentle perfume.
+~
+0 1056776 0
+E
+fountain pedestal~
+This strange structure has been filled with liquid that looks like melted
+quicksilver, never seem to stir or be disturbed, even when touched directly.
+Though it appears like molten metal, there is no reflection off its surface
+in fact, it seems to glow with a light of its own.
+~
+D1
+~
+~
+0 0 8592
+D2
+~
+~
+0 0 8590
+S
+#8592
+The Dance Studio~
+The living-wood walls of this chamber have literally been polished to a
+mirror finish, reflecting everything that is within the chamber with little
+distortion.  Around the circumference, placed against the mirror-walls, are
+large and low soft pillows such as might be useful to rest upon.  Strung
+from the roof are numerous loops of silver lights, their gently radiance
+shining down upon this chamber just to be reflected and sent back from the
+walls.  Both the smooth floor and the ceiling are stained in a checkerboard
+pattern of alternating light and dark browns.
+~
+0 1056776 0
+D3
+~
+~
+0 0 8591
+S
+#8593
+In an Oak Tree~
+Several wooden hooks protrude from the ceiling and the topmost parts of
+the walls, holding strings of silvery light.  Some of the hooks have been
+decorated with tattered silks in all the colors of the rainbow, their ragged
+edges gently dancing on the slightest of drafts.  A small hole in the
+western side of the room provides light during the day and a view of the
+outside forest at all times.  Some moss-covered alcoves in the wall serve as
+furniture for any who care to rest here.
+~
+0 1056776 0
+D5
+~
+~
+0 0 8564
+S
+#8594
+The Work Shop~
+The living walls of this tree are festooned with countless thin wooden
+staves, thorns, and pieces of bone, along with the occasional animal tooth. 
+Vines and leather thongs have been wound around slender wooden rods to form
+reels ready for usage.  A strange contraption of wood, vine and stone stands
+in the middle of the room with a tiny moss padded stool in front of it. 
+Bark and shells lay in neat piles against one wall ready to be turned into
+armour, along with the moss to be used for padding.
+~
+0 1056776 0
+E
+contraption~
+This device looks something like a spinning wheel, only in the place of
+the spindle is a rough stone, clearly used for grinding.  A foot pedal is
+used to turn the grinding wheel, which if worked long enough would produce
+significant speed and prove to be an effective tool. 
+~
+D5
+~
+~
+0 0 8550
+S
+#8595
+Inside a Work Shop~
+Split staves waiting to be turned into spears and smoothed wooden handles
+alongside some already-prepared blades sit about the walls of this wooden
+chamber.  Long, sharp and potentially deadly-looking thorns wait in neat
+piles for mounting, while reeds and grasses have been stretched out for
+drying and enchanting.  Various files and grinding stones have been placed
+upon the long, low bench, ready for use.  Silvery lights are strung about
+this chamber, illuminating the wares and work place excellently.  The walls,
+floors and roof all seem to be crafted from the living wood of this tree.
+~
+0 1056768 0
+D5
+~
+~
+0 0 8563
+S
+#8596
+The Rainbow Room~
+The branches of this tree have been altered to twine together to form a
+great round chamber within.  Tiny beads, even for a faerie, have been
+threaded and left to dangle alongside the silvery lights over the northern
+half of the walls, their irridescence creating a rainbow of sorts that hangs
+in the air.  Several stumps of various sizes have been left or created from
+the wood of the living tree, some of which are padded in blue moss to make a
+comfortable seat.  Shelving built into the rest of the walls hold delights
+of all sorts, their delicate shimmer beneath the rainbow holding an
+enchanting quality.
+~
+0 1056776 0
+D5
+~
+~
+0 0 8576
+S
+#8597
+Tulip's~
+Feathers, beads, and silvery lights have been woven together into a mat
+that covers the walls.  Some urns carved out of the tree form around the
+edges of the chamber, overflowing with various plants, some of which are
+blooming in full color.  A stepped half-circle of wood acts as a display
+case, holding cards with pictures of food.  Though there is no food in
+sight, the air is filled with the scents of freshly baked sweet cakes and
+other mouth-watering smells.  A faerie sits on a stool next to the display
+case, awaiting for your order.
+~
+0 1056772 0
+S
+#8598
+A Library~
+Clusters of silvery lights have been hung off hooks carved from the wood
+itself.  Their soft light permits the ceiling to floor shelving to be seen,
+each of which are crammed full of miniature-sized books.  Their spines are
+of different sizes and colors, making it appear more like a bizarre rainbow
+on a shelf than anything else.  Some cushions fashioned to appear like the
+lily pads found in frog ponds are scattered around, providing seating for
+those that wish to stay and read.  A small desk has been fashioned from the
+tree next to the door for the librarian to sit.  Some steps have been
+created within the woodwork, leading upwards from this vast chamber.
+~
+0 1056776 0
+D4
+~
+~
+0 0 8599
+D5
+~
+~
+0 0 8553
+S
+#8599
+A Strange Chamber~
+High above the main area of this chamber, the walls have rectangular
+slits set at an angle, their presence allowing all who venture here to see
+the outside world.  Strings of silvery lights have been arranged between the
+strange windows to provide gentle illumination whenever the sun is not
+present.  Hanging from the ceiling at the center of the room, thousands of
+crystalline shapes hang from threads, twinkling at the slightest breeze from
+the outside world.  The lower half of this room has shelving built into the
+walls, each of which are covered in a multitude of books with covers in
+every color imaginable.  Some cushions made from lily pads or designed to
+appear as if they were that plant have been scattered around the floor,
+providing a comfortable reading spot.
+~
+0 1056776 0
+D2
+~
+~
+0 0 8600
+D5
+~
+~
+0 0 8598
+S
+#8600
+In the Library~
+This chamber is lined with books of all sizes and colors, their colors
+bright like rainbows.  The shelving holding these tomes has been built to
+fit the entirety of the wall between the ceiling and floor.  Short tables
+with lily pad pillows scattered around them take up the space in the middle
+of the room, providing a comfortable resting spot for the visitors of this
+library.  A staircase winds through a hallway that leads downward from here,
+curving so it is impossible to see what lies on the other side.
+~
+0 1056776 0
+D0
+~
+~
+0 0 8599
+D2
+~
+~
+0 0 8601
+S
+#8601
+The Study~
+Rows of long wooden tables that emerge from the living tree itself have
+been carved to be of equal length and width, each being approximately three
+or four feet apart from each other to provide sitting room.  Some of the
+tables have books left open to a specific page, while others have stacks of
+books resting upon them.  The wooden chairs around the tables are
+free-standing to allow more comfortable usage.  Paintings of faeries and
+mystical creatures cover the walls, their shimmering shades bringing a
+lightness to their surroundings.  Dangling from the ceiling, innumerous
+models and objects hang from hooks and clink together occasionally when
+there is a draft.
+~
+0 1056776 0
+D0
+~
+~
+0 0 8600
+S
+#8602
+The Butterfly Catcher~
+Delicate-looking cages hang from the ceiling and line the walls, each of
+them holding butterflies of different types.  A few cages to the north, away
+from the entrance, have moths with shimmering brown wings within them.  A
+stool and counter crafted from the tree housing this chamber can be located
+near the moth prisons with a few butterfly nets hooked to the wall behind
+it.  A sweet smell drifts through the room, very much like the perfume of
+roses and lilies in full bloom.
+~
+0 1056776 0
+D5
+~
+~
+0 0 8572
+S
+#8603
+Butterflies R Us~
+~
+0 1089540 0
+S
+#8604
+A Chamber of Wonders~
+The size of this chamber dwarfs the occupant, whether they are faerie or
+not.  The entrance is approximately halfway between the ceiling or floor--at
+least it {Wlooks{x like it.  Shelves have been built into the walls, each of
+them holding glass baubles or trinkets and the occasional light.  Despite
+the crowding of these objects over the walls, this room looks and feels
+empty.  At the center of the platform below, there is a carving in the floor
+of a circle and some runes have been scribed about its circumference.
+~
+0 1056776 0
+D5
+~
+~
+0 0 8574
+S
+#8605
+The Purple Mushroom~
+Purple mushrooms have been scattered about this chamber to serve as
+tables to the patrons.  Toad stools surround each of these tables in lots of
+six or seven, giving plenty of space for all who wish to visit this tavern. 
+A strange white mushroom that grows at the center of the southern wall has
+been modified into the bar, complete with shelves to hold all the liquors
+and beer available.
+~
+0 1056768 0
+D0
+~
+~
+0 0 8573
+D1
+~
+~
+0 0 8606
+S
+#8606
+The Purple Mushroom~
+Mushrooms of different sizes have been placed at regular intervals within
+this spacious chamber and surrounded with toad stools to provide plentiful
+seating for all that come to elitist bar, The Purple Mushroom.  A waitress
+that appears to be half bunny and half faerie weaves through the crowd and
+serves drinks and sultry glances.  There are doors to the north and south
+here, each of which have a painting on them.  The bar expands to the west.
+~
+0 1056768 0
+D0
+~
+~
+0 0 8607
+D2
+~
+~
+0 0 8608
+D3
+~
+~
+0 0 8605
+S
+#8607
+The Purple Mushroom~
+~
+0 1056768 0
+D2
+~
+~
+0 0 8606
+S
+#8608
+The Purple Mushroom~
+~
+0 1056768 0
+D0
+~
+~
+0 0 8606
+S
+#8609
+A Crooked Road~
+Wildflowers dot the grasses that grow tall at the sides of this veering
+pathway, providing a plethora of colors and scents.  Some deciduous and
+coniferous trees mingle with thorn bushes and other brush beyond the path,
+making it impossible to strike it on one's own off the traveled way.  A less
+dense spot of forest can be seen to the south, while the dirt path leads
+somewhere to the east.
+~
+0 1056768 0
+D1
+~
+~
+0 0 8610
+D2
+~
+~
+0 0 8580
+S
+#8610
+A Crooked Road~
+Through trees and flowers of all colors, a pathway snakes from the west
+and north to meet here.  A square stone peeks out from the wild growth of
+grass, weeds, and flowers at the point where the road turns.  The soft sound
+of chimes and bird song fills the air, working with the soft scent of the
+wild roses and other plants to make this place seem soothing and peaceful.
+~
+0 1056768 0
+E
+stone~
+Runes that glow and shift as if dancing are embedded in the face of this
+square rock, written in a language that is unknown to most.
+~
+D0
+~
+~
+0 0 8611
+D1
+~
+~
+0 0 8626
+D3
+~
+~
+0 0 8609
+S
+#8611
+At the Base of a Hill~
+A steep hill makes the trail rather rough here, and abruptly so it is,
+however, covered in roots and stout weeds that are easy to grasp and they
+make climbing the side of it considerably easier.  Beyond this pathway of
+sorts, trees grow densely over curvy land and prevent more fruitful
+exploration at this time.  A dirt and cedar pathway leads away to the south.
+~
+0 1056768 0
+D2
+~
+~
+0 0 8610
+D4
+~
+~
+0 0 8612
+S
+#8612
+A Steep Hill~
+The steep hill here is riddled with roots and weeds of all sorts over its
+side.  It eventually levels off and two pathways have been struck out of the
+dense forest to the east and west, one of them leading off to a massive
+sycamore, while the other leads into darkness.  Each of these dirt roads are
+surrounded by beautiful wildflowers of all the colors possible, and then
+some more.  A path can also be seen at the bottom of the hill.
+~
+0 1056768 0
+D1
+~
+~
+0 0 8613
+D3
+~
+~
+0 0 8625
+D5
+~
+~
+0 0 8611
+S
+#8613
+An Extensive Garden~
+The orderliness of the plants here suggest that the wild forest has been 
+turned into a garden in this particular spot.  A pathway of dirt and cedar 
+chips winds through the brilliant blooms and trees here, allowing one to 
+traverse the garden without crushing the beauty of it.  A stone bench can be 
+seen under an extremely large and ancient-looking sycamore that grows at the 
+edge of this garden, roughly hewn from a grey stone.  
+~
+0 1056768 0
+D3
+~
+~
+0 0 8612
+D4
+~
+~
+0 0 8614
+S
+#8614
+A Living Room~
+This chamber is cylindrical in shape, approximately twelve feet in
+diameter.  Couches have been carved into half of the wall and covered in
+plenty of soft moss for cushioning.  A table shaped in a crescent is in
+front of the couch, holding all manner of knick knacks and a bowl of candy. 
+Shelves have been cut into the walls to hold even more baubles and
+keepsakes, each of which are arranged in their own sense of order.  Vines
+creep along the walls and fall in curtains all around, nearly concealing the
+exit to the east.  There is a rather clear walkway between the door to the
+outside world and that to the east, the space lined with potted plants.
+~
+0 135274504 0
+D1
+~
+~
+0 0 8615
+D5
+~
+~
+0 0 8613
+S
+#8615
+A Kitchen~
+Counters that would be waist-high for one of the faerie kin line the
+eastern wall, beneath a large window and cabinets.  A basin has been fitted
+into part of the preparation area's structure with a small spring over it,
+the water running constantly with a soothing sound to join with the pool
+therein.  An stump carved with detailed depictions of wild growth and tiny
+creatures hiding within supports the round tabletop found at the middle of
+the room, around which are four chairs.  A curtain of ivy hangs over the
+western exit, around which are more carvings of flowers and wild growth,
+painted into a likeness of the outside world.  At the corners of this vast
+room to the north and south, airy stairs lead either up or down to more of
+the tree home.
+~
+0 135274504 0
+D3
+~
+~
+0 0 8614
+D4
+~
+~
+0 0 8616
+D5
+~
+~
+0 0 8618
+S
+#8616
+A Bedroom~
+A four poster is set in the center of the room with curtains of
+blue-green ivy growing from the wooden rails that connect each of the posts
+to each other.  Ferns grow over the rest of the floor and have begun to
+creep their way up the walls, their soft fronds blue-white in color.  More
+ivy spills out of the planters and over the walls, making this entire
+chamber appear to be alive.  Alcoves narrowly missed by the tumbling masses
+of leaves hold spheres and ornaments.  Several hooks have been set into the
+ceiling and the pair over the bed holds a chandelier that looks more like
+several will-o'-the-wisps circling in the air.  Stairs carved into the tree
+itself lead downward from this room and a window can be barely made out to
+the east under the curtain of ivy.
+~
+0 135274504 0
+D1
+~
+~
+0 0 8617
+D5
+~
+~
+0 0 8615
+S
+#8617
+Overlooking a Garden~
+This balcony has been fitted over the knoll of a tree, giving it an
+irregular shape determined by nature's whim.  The overlook has a railing of
+sorts around it for the protection of those who linger here, matching the
+contour of the tree perfectly.  A branch grows directly overhead, giving the
+alcove a considerable amount of protection from the elements and harsh
+sunlight.  Two chairs have been placed in the corner of evershade with only
+a small wooden table between them.  This choice vantage point allows a view
+of the courtyard below of tamed flowers and a delicate bird bath as well as
+the pavillion that is to the north of it.  The forest stretches for as far
+as the eye can see, a canopy of a rich green that ripples like the sea.
+~
+0 135274504 0
+D3
+~
+~
+0 0 8616
+S
+#8618
+A Hot Spring~
+This airy chamber has a vaulted ceiling far above, where swirls of colors
+glow softly in the dim light.  A pool of rocks has been fashioned under a
+spring here, collecting the steaming water into a pool that ranges from
+shallow to deep.  Ivy grows over the rocks and provides a more gentle
+surface for those who choose to loiter upon the ledge.  The paper lanterns
+strung about the chamber at approximately five feet in height resemble
+fireflies when lit, each of them throwing a gentle luminescence.  Along the
+walls, several racks have been carved from the living wood, some of which
+hold fluffy blue and green towels.  The large arched gape in the eastern
+wall has two wood and glass doors set into it.  The panes of glass have had
+decorative patterns etched into them that cause any rays of light that pass
+through them to fragment into rainbows.  A narrow stone stairwell leads
+downward to a moss-covered rock, while a second staircase that is much more
+open leads upward.
+~
+0 135274504 0
+E
+moss-covered rock~
+This rock has a star-shaped hole in it and is tall enough to be a portal
+of its own, though the means of unlocking it seem to have been lost in time.
+Moss has partially grown within the hole, attesting its age and infrequent
+usage to any astute observer.
+~
+D1
+~
+~
+0 0 8619
+D4
+~
+~
+0 0 8615
+D5
+~
+~
+0 0 8620
+S
+#8619
+A Winding Trail~
+A large chair made of wood and decorated with fine carvings of flowers
+and vines sits close to the doors leading into the tree home to the west.  A
+bird bath shaped from stone has a nightengale of the same rock perched upon
+it, a stream of water flowing from its mouth into the basin.  Some flowers
+and bushes have been tamed into a beautiful and orderly array all around
+this courtyard, making it a place of rest and relaxation.  A pathway leads
+northward from this garden and the only other mode of exit would be the
+double doors to the west.
+~
+0 1056776 0
+E
+bird bath~
+The carving of the bird makes it look so real, as if it were about to
+take flight.  The stream of water pouring from its mouth never dwindles or
+stops and makes a soft sound when it strikes the pool inside the basin. 
+Lining the basin's bottom, stones that sparkle and shine can be seen, their
+colors more brilliant than a rainbow itself.
+~
+D0
+~
+~
+0 0 8621
+D3
+~
+~
+0 0 8618
+S
+#8620
+A Chamber Within Roots~
+A small bowl on a pedestal has been placed next to the stone door,
+bearing some stones of varying colors.  A pricker bush flourishes around the
+pedestal, making it difficult to get to its contents without some measure of
+discomfort.  All around the edges of the ceiling, lights of varying shades
+have been set to give very dim illumination, which seems to make it slightly
+more ominous when a table with dark vines over it comes into view.  Next to
+this strange combination of vine and wood is a bowl on a pedestal, holding
+strange contraptions of its own that look somewhat dangerous in their own
+right.  More of the same vines have emerged from the walls at varying spots,
+seemingly planned to be ankle, wrist, and waist heighths.  Roots from the
+tree growing overhead jut out from the walls like grasping fingers, curled
+and hook-like where they emerge.  A fire burns in a hole surrounded in stone
+to the south, providing warmth throughout the chamber.
+~
+0 135274504 0
+E
+bowl~
+An assortment of torture devices have been dropped into this bowl.  Small
+clamps of what appears to be a magical nature can be seen inside, along with
+some hooks, paint, paintbrushes, a small bag of salt, and a knife.  At
+least, that is what can be seen at the top of the great bowl.
+~
+E
+table~
+The edge of this table is swathed in a wild growth of strong vines.  The
+middle of the table is barren and body-sized, suggesting that this is to be
+a type of restraint.  When one of the vines is touched, it writhes and tries
+to grip the irritant, as well as the tendrils surrounding it.
+~
+D4
+~
+~
+0 0 8618
+S
+#8621
+In a Garden~
+A pavillion made of sturdy wood is here, with a picnic bench beneath it. 
+Ivy of a blue-green has been left to grow with abandon over the framework of
+the free-standing roof, leaving it to look more like a wild temple.  All
+around this tamed space are wildflowers, brush, and trees growing close and
+thick, their presence making this area seem secluded and private.  Roses can
+be seen peeking out of the bush to the north, and the gentle scent coming
+from their pink-red blossoms fills the air.  A pathway of cedar chips and
+moss leads away to a garden to the south, and deeper into the forest
+eastward.
+~
+0 135274504 0
+D1
+~
+~
+0 0 8622
+D2
+~
+~
+0 0 8619
+S
+#8622
+Near a Stream~
+A gentle stream passed through a shallow bed, surrounding by rocks on
+both sides.  Fallen leaves from the trees all around float along its clear
+surface, moving slowly downstream.  Flashes from the occasional animal
+jumping through the trees and the song of wild birds are an assurance that
+this is an untamed piece of land, despite the rock and tree growing in the
+middle of the small clearing, looking very much like an intentional resting
+place due to their shape and placing.  A pathway of cedar chips and moss
+leads to the west, with wild flowers, grass, and brush growing at its edges.
+~
+0 135274504 0
+D2
+~
+~
+0 0 8624
+D3
+~
+~
+0 0 8621
+S
+#8623
+Surrounded By Ivy~
+The wooden frame of this bed has been covered in a very thick and soft
+blue-green moss that serves as excellent cushioning for its occupants.  Lush
+ivy with speckled periwinkle and hunter colored leaves tumble from the rods
+that pass between the bed posts, creating a thick curtain that divides this
+space from the rest of the world.  Small fire-fly like lights have nestled
+against the leaves to provide very dim lighting, casting off just enough
+illumination to make out shapes and colors, but nothing invading or harsh. 
+The silence is easy and helps reinforce the feeling that this is a sanctuary
+in which one can escape the outside world.
+~
+0 1056768 0
+D2
+~
+~
+0 0 8616
+S
+#8624
+The Twilight Grove~
+The forest turns from its ordinary coloring to misty shadows here.  The
+trees are grey-black and grow without hardship, their leafy fronds covered
+in slightly luminescent leaves of a star shape.  The flowers seem to be made
+of the same darkness, surreal and ethereal in its nature, where the stems
+are the color of the tree trunks and their flowers like the leaves in all
+aspects, save for the shapes.  A plant that grows close to the ground with a
+thick stem for its base stands out from the rest, being a lighter shade of
+grey and having literally thousands of pinpricks of light covering its
+spindly branches.  This strange growth is surrounded by small stones that
+seem composed of light, arranged in a perfection, almost as if containing
+the plant within its circumference.  Specks of golden light float through
+the air, appearing at first to be at the wind's whim until they shiver and
+swirl around without provocation.
+~
+0 135274504 0
+D0
+~
+~
+0 0 8622
+S
+#8625
+A Visible Change~
+The forest turns from vivid greens and browns to shadowy black and white
+here.  It fades gradually from brilliance as the path continues westward,
+becoming darker and quieter.  Thick brush surrounds the ivy-strewn path,
+making it all but impossible to stray from the trail.  A few blooms stand
+out from the rest, a brilliant purple or white amidst the shadow plants and,
+in return, a few shade flowers have mixed with the bright flowers on the
+easter side of this pathway.
+~
+0 1056768 0
+D1
+~
+~
+0 0 8612
+D3
+~
+~
+0 0 8649
+S
+#8626
+A Path in the Woods~
+Many types of trees mix and mingle at the edges of this path, leading both 
+east and west.  Leaves from seasons past litter the ground, some of them 
+piling up in small pools of water to rot away into nothingness.  A few trees 
+are toppled, probably ripped from the soft marshy ground by gales of wind 
+just to be deposited on their sides to become hosts for all manners of 
+slimey creatures and fungal growths.  Most of the trees, however, are still 
+upright and growing strongly in competition of each other for the sun's 
+life-giving rays.  
+~
+0 1056768 0
+D1
+~
+~
+0 0 8627
+D3
+~
+~
+0 0 8610
+S
+#8627
+A Vine Littered Clearing~
+Long flowering vines dangle down from the surrounding trees, one end leading 
+up into the canopy above while the other brushes the floor.  Tiny bells 
+decorating these vines tinkle musically to each command of the wind or 
+simply sparkle like fallen stars if light should happen to strike them.  
+Lush grass grows in abundance under the gnarled limbs of the trees, speckled 
+in places with wildflowers that readily lend their fragrances to the air 
+here as well as the occasional wind blown leaf.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8628
+D1
+~
+~
+0 0 8631
+D2
+~
+~
+0 0 8633
+D3
+~
+~
+0 0 8626
+D4
+~
+~
+7 0 8629
+S
+#8628
+A Grassy Clearing~
+Long grasses sway softly to the winds command here, their heads heavy with 
+seeds waiting to spill so that new life can once more spring forth.  Around 
+the outer edge of this clearing tall trees stand, their convoluted branches 
+reaching towards the heavens like supplicants to the sun.  Sprinkled within 
+the grasses are numerous wild flowers, the bright colors and gentle scents 
+making what could otherwise be a boring and drab place much more pleasant to 
+one's eye.  A soft, almost musical tinkling sound resonates throughout this 
+clearing, the source unclear from this location.  
+~
+0 1056768 0
+D1
+~
+~
+0 0 8630
+D2
+~
+~
+0 0 8627
+S
+#8629
+In the Canopy~
+Small branches and twigs have been cleared from the limbs of these trees, 
+allowing for easier movement along the flowering vines that form a primitive 
+net.  A delicate aroma comes from these plants, soft and unsullied by any 
+hint of corruption or decay.  Some of the vines have clearly been looped so 
+as to give swings within the tree's branches, while others lead down to the 
+floor below.  Small bells have been carefully placed within the flowers of 
+the vines that send forth a harmonious tune, should they sound.  One oddity 
+here is that some of the bark seems to have been stripped from the trees, 
+not enough to do the plant harm but akin to the after effects of claws or 
+teeth.  
+~
+0 1056768 0
+D5
+~
+~
+7 0 8627
+S
+#8630
+A Lonesome Pine~
+A single pine tree, large even in comparison to the other trees ringing this 
+clearing, stands here.  Its massive branches almost touch the floor while 
+its tip points straight upwards, each limb covered in sharp needles.  Around 
+the clearing, numerous pine cones are scattered that at first appear to be 
+at random, as if fallen from the tree, but with closer inspection seem to be 
+markers of some sort.  From within the flourishing grasses a plentitude of 
+flowers grow the bright reds, blues and yellows seeming to follow a design 
+analogous to the pine cones.  Upon the air, a sound similar to what one would 
+expect to come from tiny bells can be heard, unobtrusive and possessing 
+something of a musical quality.  
+~
+0 1056768 0
+D2
+~
+~
+0 0 8631
+D3
+~
+~
+0 0 8628
+S
+#8631
+A Singing Path~
+The air here is filled with music somehow in harmony with its self.  These 
+sounds come from various wind chimes and bells attached cunningly to the 
+ancient trees that surround the area.  Swaying grasses carpet the floor, the 
+vibrant greens contrasting with the blues of the flowers that grow in the 
+shelter of the trees safe from both the elements and clumsy feet.  The 
+scents of the forest are strong here, mingling with the frangrance of the 
+blue flowers to produce something boarding on the spectacular when the music 
+is also considered.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8630
+D1
+~
+~
+0 0 8632
+D2
+~
+~
+0 0 8634
+D3
+~
+~
+0 0 8627
+S
+#8632
+A Decorated Boulder~
+A tall stone stands alone within this forest glade, its surface artfully 
+carved to depict a spiral in green and grey, the green coloration coming 
+from a moss that must have been planted by some forgotten hand in the 
+pattern while the grey comes from the stone's own surface.  Grasses heavy 
+with seeds sway to the wind's command, bowing before the stone then rising 
+once more as the air passes.  Intermixed with the grasses are bunches of 
+wildflowers, the delicate colors and fragrances from these mixing with the 
+scent of the earth to produce a pleasing aroma.  
+~
+0 1056768 0
+D2
+~
+~
+0 0 8635
+D3
+~
+~
+0 0 8631
+S
+#8633
+A Natural Garden~
+Multicolored patches of moss cover the trees that line this flower-filled 
+copse, almost as if by design.  The dense greenery above belonging to these 
+ancient denizens of the forest does not succeed in totally blocking out 
+natural light and instead causes it to dapple as it filters to the forest 
+floor.  Brilliant flowers in yellows, blues, and reds grow intermittenly 
+amongst the soft green clover that carpets the forest ground, their 
+arrangement more orderly than the normal chaos of nature.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8627
+D1
+~
+~
+0 0 8634
+D2
+~
+~
+0 0 8638
+S
+#8634
+An Odd Cage~
+A large cage-like structure fashioned from living willow saplings stands in 
+the middle of what is otherwise a clearing.  The bars of the cage are spaced 
+easily two feet apart with the limbs of the willows forming simple cross 
+bracers to help keep the shape and lend the design strength.  No doorway 
+seems to lead into the curious structure, through the earth inside bears the 
+marks of animal and faerie feet.  Tall trees, mostly of willow, surround the 
+clearing.  From some of the branches of these willows, hang the occasional 
+tiny bell that climes to the wind's desires.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8631
+D1
+~
+~
+0 0 8635
+D2
+~
+~
+0 0 8637
+D3
+~
+~
+0 0 8633
+S
+#8635
+A Willow Walk~
+Graceful willow trees lines a wiggling path that works its way through the 
+forest.  From within the delicate, bowed branches of these plants a few tiny 
+bells can be heard more than seen, though the occasional metallic glint does 
+appear.  Long grasses with the tips weighed down by seeds cover the ground, 
+swaying if the wind should happen across their stems.  A soft tinkling tune 
+comes from the bells, drifting about the pathway as the boughs sway softly.  
+The odor of wildflowers and the earth fills the air, easily masked by any 
+stronger scent that should happen to be present.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8632
+D1
+~
+~
+0 0 8642
+D2
+~
+~
+0 0 8636
+D3
+~
+~
+0 0 8634
+S
+#8636
+A Tinkling Path~
+A gentle chiming sound resonates throughout this area produced by tiny 
+little bells hung discreetly within the gnarled limbs of the trees that 
+surround the area.  Poppies carpet the floor their bright red blossoms 
+having all but over taken the grass here, from these plants a heady scent 
+drifts forth somewhat powerful in its intensity.  The interlaced branches 
+overhead prevent the full effects of the sun reaching the ground here, 
+allowing the delicate blooms that litter the earth to flourish.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8635
+D1
+~
+~
+0 0 8641
+D2
+~
+~
+0 0 8639
+D3
+~
+~
+0 0 8637
+S
+#8637
+Across a Deer Path~
+The caked mud of this trail is scarred by the passage of deer hooves and 
+other heavy animals that have passed through since the last good rain.  
+Blades of grass struggle here and there within the well-traversed ground, 
+trying to overcome the adversity presented to them.  A few large trees arch 
+over the pathway, their branches laden with strange fruits in addition to 
+their deep green leaves.  Whenever the foliage rustles with the wind, a soft 
+tinkling of bells fills the air, their chimes pleasant and complimentary of 
+each other.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8634
+D1
+~
+~
+0 0 8636
+D2
+~
+~
+0 0 8640
+D3
+~
+~
+0 0 8638
+S
+#8638
+An Odd Tree~
+A huge oak tree is here, stretching away to the heavens with its great 
+branches.  Among the grooves of the bark, mosses have taken seed and 
+flourished, looking incredibly like it is smiling at you due to the design 
+being two small round patches and a semi-circle beneath them.  The tinkling 
+of bells with complimentary pitches fills the air, their origin seeming to 
+be somewhere within the foliage of this monstrosity called a tree.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8633
+D1
+~
+~
+0 0 8637
+S
+#8639
+Crossing Rocky Ground~
+Rough rocks jut out from the dark earth in various places, making it 
+considerably more uneven than the random fallen tree seems to in the other 
+parts of the woods.  Bright mushrooms climb the trunks of most of the trees 
+in this particular spot, whether they are thriving alive or already starting 
+to rot.  Delicate flowers and tiny bells decorate the vines that snake 
+between the tree branches above, their length draping so their loops are 
+rather close to the forest floor.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8636
+D3
+~
+~
+0 0 8640
+S
+#8640
+An Aromatic Clearing~
+Whenever the wind stirs, the mingling scents of rotting foliage and fragrant 
+wildflowers reaches all who tarry here.  Drifting along with this 
+not-so-unpleasant smell is the chime of bells that are hidden somewhere in 
+the trees that still stand.  The ground is a myriad of colors due to the 
+animals that roam through here, leaving behind seed deposits in various 
+ways.  Poppies, bluebells, daisies, and paintbrushes mix altogether in a 
+pleasing array that only nature could be responsible for.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8637
+D1
+~
+~
+0 0 8639
+S
+#8641
+A Strange Grove~
+The trees here are strange indeed!  They appear to be willows, but instead 
+of yellow-green bark their skins are deep purple in color.  The leaves are a 
+bright {mpurple{x color that shine with an irridescence under natural light, 
+shimmering blues and greens and pinks in addition to their normal hue.  
+Silver bells have been strung and twined over the branches, producing a 
+melodic ringing whenever the wind stirs them or a passerby bumps into the 
+them.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8642
+D3
+~
+~
+0 0 8636
+S
+#8642
+The Painting Tree~
+A large tree stands here, the trunk stripped totally of bark while the top 
+still seems to thrive; upon the cleared surface of the tree innumerable tiny 
+pictures have been painted to create a mural of sorts upon the still living 
+wood.  From within the branches of this tree and those surrounding the 
+clearing, miniature bells can just be made out, from which a delicate melody 
+is created.  Small flowers dot the floor, the bright colors of which seem to 
+almost shine as if illuminated from within, whether this is some magical 
+effect or a trick of the light it is uncertain.  A strange formation of 
+trees can be seen to the south.  
+~
+0 1056768 0
+E
+painting tree mural~
+~
+D1
+~
+~
+0 0 8643
+D2
+~
+~
+0 0 8641
+D3
+~
+~
+0 0 8635
+S
+#8643
+The Star Grove~
+Grand trees that are covered in smooth bark as dark as night grow here, 
+glistening a silver color under light.  The leaves are translucent and 
+shaped like stars, seeming to hold an inner light of their own that varies 
+in color with the temperature.  Flowers with green petals are here, their 
+stems vividly colored in the inverse of what a normal plant looks like, 
+their skins varying like a rainbow does.  The sounds of bells chiming in 
+chorus reach this spot, their song pleasant though their source is not 
+apparent.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8644
+D3
+~
+~
+0 0 8642
+S
+#8644
+The Star Grove~
+The star-shaped leaves on the trees here are translucent and grow with a 
+soft luminescence of their own, their color varying and changing 
+periodically.  The skin of the trees is glossy and smooth, and should any 
+light strike the deep black, it reflects in a silver tone.  Strings of bells 
+can be seen wound tightly through the limbs of these otherworldly trees, 
+ringing each time they sway under the wind's power.  The flowers seem to be 
+confused, their stems are vivid gem-like colors that do not match the 
+emerald green of normal plants, while their petals seem to have a green 
+tint.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8645
+D1
+~
+~
+0 0 8646
+D2
+~
+~
+0 0 8643
+S
+#8645
+The Star Grove~
+{mMagenta{x blooms creep up the midnight colored tree trunks, their bright 
+coloring contrasting sharply with the glossy skin.  Whenever light strikes 
+the depths of its darkness, it reflects with a soft silver shine.  
+Translucent leaves with a soft pastel glow from the branches of these odd 
+plants, their colors shifting and changing slowly from time to time.  The 
+ground is covered with a carpet of deep blue clover, though it takes time to 
+recognize the plant with the coloring it shows in this grove.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8648
+D1
+~
+~
+0 0 8647
+D2
+~
+~
+0 0 8644
+S
+#8646
+Sacred Ground~
+A still pool sits in the centre of this clearing,, its surface like a mirror 
+for the distant sky above.  Around the water, unnaturally large toadstools 
+grow, their red caps speckled with large white spots, and the earth under 
+these fungi barren.  Around the circumference of the clearing mighty trees 
+stand silent watch, their gnarled limbs intertwined with each other's or 
+reaching towards the heavens above.  Within the confines of the ancient 
+trees branches minuscule bells can be seen a delicate melody being produced 
+by these as the wind filters past them.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8647
+D3
+~
+~
+0 0 8644
+S
+#8647
+The Star Grove~
+Dew covers the clover field here, though the plants do not make their type 
+apparent until a close inspection due to their deep blue shade.  The plants 
+sparkle light stars in the night sky due to the water droplets covering 
+them.  The air is still and holds a pleasant scent, in fact it is too still, 
+almost as if all the animals that should be in a forest were holding their 
+breath and waiting for something.  Large trees with bark as black as coal 
+grace the edges of this field of clover, their leaves star shaped and 
+translucent.  
+~
+0 1056768 0
+D2
+~
+~
+0 0 8646
+D3
+~
+~
+0 0 8645
+S
+#8648
+An Enchanted Grove~
+Monolithic trees flank this grove, their mighty limbs bedecked with tinkling 
+bells artfully arranged within their gnarled branches.  In the centre of 
+this clearing, a faintly glowing sigil has been crafted over which petite 
+spheres of multicolored light dance through the air like ghosts, flittering 
+about one another silently.  Small clumps of dainty wildflowers send forth 
+their sweet fragrances to the air unbidden, while a lawn of short grass 
+grows to the surrounding woodland.  
+~
+0 1056768 0
+D2
+~
+~
+0 0 8645
+S
+#8649
+An Eerie Path~
+Gnarled trees of an eerie white wood line the weaving path here, their 
+branches reaching out like skeletal hands awaiting the unwary to entrap.  
+Strange black barked bramble and briar grow under these white trees, the 
+contrast causing the smaller plants to seem even more menacing.  From within 
+the underbrush skittering and scampering sounds can be heard, though the 
+sources are hidden by the dense plant growth.  The path way makes its 
+irregular route from the east to the west.  
+~
+0 1056768 0
+D1
+~
+~
+0 0 8625
+D3
+~
+~
+0 0 8650
+S
+#8650
+A Howling Path~
+A strange soft howling sound reverberates along this path, seeming at once 
+to come from all around and yet oddly from behind you as well.  Ghostly pale 
+trees line the track, their white limbs seeming to reach out as if to 
+ensnare anyone who should happen along it.  Glancing closer at these eerie 
+plants it becomes apparent that most have had small holes bored into their 
+surfaces, possibly a source of the strange keening.  Located under the 
+trees, almost as if they are attempting to hide, are small bunches of purple 
+flowers that send forth a delicate, if somewhat otherworldly aroma.  An 
+erratic path winds between the trees here, working its way from the west to 
+the north like some serpent moving between the trees.  
+~
+0 1056768 3
+D0
+~
+~
+0 0 8651
+D1
+~
+~
+0 0 8649
+S
+#8651
+A Dire Grove~
+The earth is black in this clearing, the perimeter of which is outlined with 
+thick black bramble that looks more dead than alive.  Spots of purple show 
+up within the brush, proving to be small violet flowers as opposed to 
+contagion when more closely inspected.  The trees beyond the brush are 
+grey-white in color, raising like skeletal hands from the black swamp muck 
+surrounding their trunks.  The easiest paths away from this spot seem to be 
+to the north and the south.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8652
+D2
+~
+~
+0 0 8650
+S
+#8652
+A Graveyard of Trees~
+Skeletal trees pierce the stagnant water, raising their crooked fingers to 
+the sky as if in a cry for help, or possibly salvation.  Leaves float calmly 
+over the surface of the muck, stirred by the wind.  The air is unnaturally 
+still, lacking all the telltale signs of life that usually disquiet 
+forestland.  White mushrooms grow in patches around the soft, muddy path, 
+adding tidbits of color to the monotony of the blackness.  The sweet smell 
+of decay fills the air, tainted by another fragrance that is subtle and 
+rather pleasant.  
+~
+0 1056768 0
+D0
+~
+~
+0 0 8653
+D2
+~
+~
+0 0 8651
+S
+#8653
+A Stagnant Path~
+The trees have a ghostly grey bark that contrasts starkly with the black 
+thorny brush that is apparent nearly everywhere around this slight path, the 
+effect of their colors and bleakness combining to make this strange wood 
+seem dead.  The occasional howling sound reaches this desolate path through 
+a dense fog that keeps everything else, including the sun, at bay.  Leaves 
+move serenely over the surface of the stagnant pools found at the base of 
+the trees, rotting even as they drift.  The path becomes muddier as it heads 
+to the west, and steadily more stable to the south.  
+~
+0 1056768 0
+D2
+~
+~
+0 0 8652
+D3
+~
+~
+0 0 8654
+S
+#8654
+A Convoluted Path~
+The path veers abruptly to almost double on itself here, managing to hide a 
+monolithic black tree at the center of this grove until the last moment.  
+The carcass of wood is at the dead center of the grove, surrounded by dark 
+violet flowers that grow in abundance over the otherwise barren soil.  Black 
+thorny brambles intertwine with the trees at the edges of this open space, 
+their thickness looking rather unnegotiable.  The water that flows between 
+the roots of the ghostly white trees decreases whatever desire is left to 
+travel in those directions rather effectively.  
+~
+0 1056768 0
+E
+runes~
+Upon closer inspection, these aren't runes at all!  It seems to be a string 
+of pixies ringing the entire trunk, each of them engaging in sexual acts 
+with the pixie on either side of them.  
+~
+E
+tree monolithic~
+Dark purple runes glow faintly in the hide of this great tree, too dark to 
+be seen from any significant distance by the casual observer.  Its branches 
+are devoid of decoration and foliage, resembling a great hand clawing at the 
+air in an attempt to escape this mist-shroudeed grove.  
+~
+D1
+~
+~
+0 0 8653
+S
+#8655
+~
+~
+0 1056772 0
+S
+#8875
+Whopping Shopping~
+This chamber is strangely illuminated with floating orbs of red magical
+fire, the light seems to have been intentionally muted.  Coiled whips which
+seem to have been fashioned for both pain and war hang next to sadistic
+looking flails and the occasional mace.  Supple vines, spiky plants and
+flexible reeds rest in bundles close to the counter, which has been grown
+from the floor near to the southern wall the surface.  This counter holds
+many different tools, some of which even appear to be fashioned from metal
+and is clearly used to manufacture the stock.  A gentle aroma fills the air,
+somewhat at odds with the weaponry here and slightly musky though not
+unpleasant to one's senses.  
+~
+0 1056776 0
+E
+whips flails maces~
+The range of whips within this store is impressive, not just due to
+workmanship but also due to the different range of styles, floggers,
+cat-o'-nine-tails, single tail's of different lengths all are in evidence
+along with other types.  Flails fashioned from woven reeds and thistles,
+rose thorns and other spiked plants are all in evidence as well as a few
+maces which are mostly made from rushes and the like. 
+~
+E
+floating orb fire~
+These small red orbs of magical light drift about the chamber on a
+prearranged pattern that is designed to display the stock of this store to
+its best.  
+~
+E
+vines spiky plants reeds~
+These all seem to play some part in the making of the flails, whips and
+maces.  Examining these objects closely you can see cruelly spiked thistles
+which appear to have been enchanted to possess a weight and strength similar
+to metal.  The vines have been treated so that they would put most leathers
+to shame while the reeds look like they could be split and woven into whips
+of good effect.  A small tray rests behind the bundles containing some of
+the smaller thistles, which have eye loops for attaching onto cords.  
+~
+E
+counter tools~
+Clamps have been fastened around the edge of this mostly soft counter
+these small vices seem to be easily adjustable and can be moved into a
+variety of different positions, a couple of smaller clamps are also evident.
+A few hardwood plates have been set into the mushrooms surface close to
+which tiny sharp looking instruments rest waiting for use.  Some pieces of
+different types of wood that has been smoothed, about the thickness of two
+or three faerie fingers, also wait to be formed into whip or flail handles
+here as well as coils of twine, thong and wire.  
+~
+D0
+~
+~
+0 0 8880
+S
+#8876
+Dazzel's~
+The pale cream walls of this chamber have been crafted into shelves that
+have small containers of different colored glittering dust.  Tiered desks
+have been grown from the floor of this chamber upon which sticks and roots
+are placed some of which seem quite intricately decorated.  An archway to
+the south has been surrounded with glowing symbols that look magical in
+nature.  A gentle melody fills the air of this room along with a pleasant
+fragrance akin to summer flowers. 
+~
+0 1056776 0
+D2
+~
+~
+0 0 8877
+S
+#8877
+An Enchanted Mushroom~
+A mushroom of a size comparable to a domestic home grows here, upon its
+stem are runic symbols worked in a design identical to an arched doorway. 
+To the south and southeast this dell stretches away, decorated with
+radiating spars of {Rred{x and{c blue{x flowers of an alien type.  To the north and
+west are massive trees which look ancient while all around a gentle, serene
+melody plays and a refreshing odor wafts about reminiscent of summer
+flowers.  
+~
+0 1056768 3
+D2
+~
+~
+0 0 8878
+S
+#8878
+The Enchanted Forest~
+An idyllic grove stretches off in all directions but the west where an
+ancient forest with massive trees stands, this same forest stretches around
+the rest of the clearing at some distance.  Radiating rows of {Rred{x and {cblue{x
+blooms have been places so as to create an eye pleasing design, this is
+supported by a delicate aroma to the air and a constant soft music both of
+which seem to come from all around.  To the south a clear pool, its surface
+glinting softly as light strikes it can be seen while to the east this dell
+narrows somewhat. 
+~
+0 1056768 3
+D0
+~
+~
+0 0 8877
+D1
+~
+~
+0 0 8885
+D2
+~
+~
+0 0 8879
+S
+#8879
+An Enchanting Pool~
+The {bazure{x waters of a large pool glint softly in any light here,
+reflecting it back and skywards almost like a mirror placed by some goddess
+within this glade.  To the west a venerable forest stands the tall trees
+gnarled with age but otherwise looking very healthy.  To the north and south
+at some distance massive mushrooms grow, upon the stems of each a faint
+glowing can be perceived even at this distance while to the east the
+clearing continues onwards with the same woodland surrounding it.  A
+delicate tune fills the air, unobtrusive and calming in nature. 
+~
+0 1056768 3
+D0
+~
+~
+0 0 8878
+D1
+~
+~
+0 0 8886
+D2
+~
+~
+0 0 8881
+S
+#8880
+An Enchanted Mushroom~
+A mushroom of phenomenal proportions nestles in the arms of the forest
+here, its {rred{x and {Wwhite{x cap complimenting the rows of {Rred{x and {cblue{x that have
+been planted in radiating spars, from the narrowest point to this the
+western edge of the grove.  Upon the fungus stem runes can be seen, forming
+an archway upon the smooth white surface.  Northwards a gleaming pool can be
+perceived and to the northeast the grove continues onwards, hemmed in by the
+ancient trees that stand as guardians of its perimeter. 
+~
+0 1056768 3
+D0
+~
+~
+0 0 8881
+S
+#8881
+The Enchanted Forest~
+Freshness seems to permeate this clearing, almost as if everything here
+is brand new, only this illusion is dispelled by the presence of the ancient
+forest that surrounds this glade.  To the north an {bazure{x pool can be seen
+its waters possessing a strange reflective ness that acts almost like a
+mirror, pass this pool a mushroom of unusual size is visible while closer to
+the south a similar fungus can be perceived.  Eastwards the dell stretches
+away looking as serene and peaceful as it is here, a decoration of {Rred{x and
+{cblue{x flowers spanning from the narrowest point towards the western edge. 
+~
+0 1056768 3
+D0
+~
+~
+0 0 8879
+D1
+~
+~
+0 0 8883
+D2
+~
+~
+0 0 8880
+S
+#8882
+Sweetest Things~
+A soft off white substance forms the walls of this chamber which is of
+considerable size.  From the floor, stools and tables seem to have been
+grown from toadstools and mushrooms.  Spheres of magical light float about
+providing good illumination over each of the tables and also for a small
+raised stage that has been grown from the eastern wall.  A sweet fragrance
+shifts through the air of this chamber, seeming to come from the very walls,
+floor and ceiling, strong but not over powering or offensive to one's
+senses. 
+~
+0 1056776 0
+D0
+~
+~
+0 0 8883
+S
+#8883
+An Enchanted Mushroom~
+The entirety of this glade seems to be new and fresh, almost as if it was
+made this very morning, the colors are intense.  The air holds a pleasing
+fragrance as well as a melody that seems to come from everywhere at once
+without apparent sauce.  {RRed{x and {cblue{x blossoms grow in rows from the
+narrowest point at northeast of this clearing towards the western end and
+the surrounding forest.  A colossal mushroom grows here, its trunk decorated
+with an archway pattern of runic symbols.  To the south and east movement is
+prevented by the ancient forest while the clearing stretches away to the
+north and west. 
+~
+0 1056768 3
+D0
+~
+~
+0 0 8886
+D3
+~
+~
+0 0 8881
+S
+#8884
+An Enchanted Mushroom~
+From the inside, this structure bears little resemblence to a mushroom at
+all.  The only thing faintly reminiscent of the fact that it is a fungi is
+the smooth white walls in this oval chamber.  Toadstools that are just the
+right size for seating a fae grow from the floor of the room, their white
+spotted caps looking soft and inviting.  Some strange leafy plants have been
+shaped to appear sylvan, to which some armor has been strapped for display. 
+Tamed growths of orange mushrooms can be seen on the walls, their surfaces
+used for shelving to display boots and smaller pieces of armor. 
+~
+0 1056776 0
+D2
+~
+~
+0 0 8885
+S
+#8885
+An Enchanted Mushroom~
+A song and gentle tune fills the air of this area seemingly coming from
+all around opposed to any single source or sources, accompanying this melody
+are fragrances much akin to a carefully selected perfume.  Rising from the
+earth here, is a gigantic mushroom its white stem bearing markings that look
+like magical runes these form an archway that leads inside.  To the north
+and east venerable trees stand tall contradicting the impression that this
+clearing is fresh and some how new with their great ages.  To the south and
+west this grove stretches away, decorated with {Rred{x and {cblue{x flowers of some
+unknown type. 
+~
+0 1056768 3
+D2
+~
+~
+0 0 8886
+D3
+~
+~
+0 0 8878
+S
+#8886
+The Enchanted Forest~
+The trail widens out here forming into an idyllic glade which is
+encompassed by ancient looking trees of great size.  {cBlue{x and {Rred{x flowers of
+an unheard of type have been vigilantly planted in lines that stretch off
+towards the western edge of this dell, radiating from this point.  The air
+is filled with agreeable music and the insubstantial bouquets of the flowers
+producing an over all soothing effect, which is heightened by the strange
+freshness of everything around you.  North and southwards giant mushrooms
+can be seen while to the eastwards a trail stretches off and to the west a
+mirror like lake is visible. 
+~
+0 1056768 3
+D0
+~
+~
+0 0 8885
+D1
+~
+~
+0 0 8899
+D2
+~
+~
+0 0 8883
+D3
+~
+~
+0 0 8879
+S
+#8887
+Butterflies~
+All the colors of the {rr{ya{Yi{gn{bB{Mo{mw{x briefly swarms before you, then once more
+settling about this off white chamber.  As the air stills you notices that
+the color came from a profusion of butterflies that within this area, each
+of them seemingly content to feast upon the nectar produced by the plants
+lining this room.  A archway surrounded by runes is set into the northwards
+wall, though which an idyllic dell can be seen and calming music heard. 
+~
+0 1056776 0
+D0
+~
+~
+0 0 8896
+S
+#8888
+Point And Hack~
+The walls of this room form innumerable hooks upon which weapons have
+been placed so as to best make use of the magical orbs of light that
+illuminate them.  Spears and swords seem the most common of the weapons
+though a couple of long knifes are in evidence.  A smell much akin to
+lacquer fills the chambers air most likely coming from the glinting weaponry
+that adorns this chamber.  An archway which has runes surrounding it stands
+in the northern wall through which a serene looking clearing is visible. 
+~
+0 1056776 0
+D0
+~
+~
+0 0 8894
+S
+#8889
+Enchante'~
+A soft, malleable substances makes the walls of this place of business
+which displays its wears of artfully grown bushes that support garments,
+upon closer inspection it would appear that in some cases these shrubs are
+in fact growing the clothing.  Various garments for both a male or female
+faerie seem to be on sale here, each with its own unique touches to make the
+item personal.  To the south a runic archway can be seen leading out into
+the glade. 
+~
+0 1056776 0
+D2
+~
+~
+0 0 8897
+S
+#8890
+~
+Just off white forms the circumference of this chamber which has glowing
+runes carved into its surface.  An archway set into the southern wall seems
+to lead outside to what could be best described as a faerie dell.  This
+chamber holds several glass cases each of which hold parts of an insect, the
+most common being butterfly wings though other items can be seen such as
+antenna and what appear to be eyes.  A clean smell fills this chamber, both
+fresh and refreshing though it lacks any natural odors. 
+~
+0 1056776 0
+D2
+~
+~
+0 0 8891
+S
+#8891
+An Enchanted Mushroom~
+Ancient trees stand to the north, east and west looking almost too alive
+to be real as does almost everything else within this clearing.  An enormous
+mushroom grows in this area with runic symbols crafted into the living flesh
+of its stem in an archway pattern that seems to lead inside.  The air of
+this grove is filled with a sense of peace which is supported by a gentle
+melody that plays throughout the air as well as a pleasant odor of some kind
+of blossom, over all this places seems strangely magical and otherworldly.  
+~
+0 1056768 3
+D2
+~
+~
+0 0 8892
+S
+#8892
+The Enchanted Forest~
+Rows of {cblue{x and {Rred{x flowers run from the forest to the east in a
+southwesterly direction ending at the narrowest point of this dell in that
+direction.  Everything in this glen seems to possess a tranquil quality
+which is supported by a gentle tune that drifts upon the air along with a
+sweet aroma.  To the south a gleaming pool can be seen while to the north a
+giant mushroom is visible surrounding the entire area are venerable looking
+trees with massive gnarled boughs.  
+~
+0 1056768 3
+D0
+~
+~
+0 0 8891
+D2
+~
+~
+0 0 8893
+D3
+~
+~
+0 0 8897
+S
+#8893
+An Enchanted Pool~
+The very air of this forest clearing seems to be full of life, everything
+seems some how cleaner and more real than what is considered normal.  A {Bpool{x
+of shimmering water sits here surrounded by a soft, springy bed of moss.  To
+the east ancient trees stand tall and proud their gnarled branches
+stretching over this pool through not a single leaf seems to have disturbed
+its surface.  To the west the dell stretches away decorated with {Rred{x and
+{cblue {xblossoms that stretch from the narrowest point out towards the widest
+point this eastern edge. 
+~
+0 1056768 3
+D0
+~
+~
+0 0 8892
+D2
+~
+~
+0 0 8895
+D3
+~
+~
+0 0 8898
+S
+#8894
+An Enchanted Mushroom~
+A mushroom of unparalleled proportions grows here on its stem are some
+intricate runes which seem to form an archway leading inside the fungus. 
+The air possesses an unusual quality as well as pleasant flowery scents and
+sweet music.  Old looking trees grow to the south, west and east their
+gnarled branches lifted high as if praising the far distance sky while the
+lustrous flowers and grass carpet the earth with their own vibrant colors. 
+Off to the north, at some distance, a iridescent pool can just be made out
+through the grasses and flowers. 
+~
+0 1056768 3
+D0
+~
+~
+0 0 8895
+S
+#8895
+The Enchanted Forest~
+This idyllic clearing stretches away in all directions, everywhere ones
+eye trails seems vibrant, the grass all but glows with life while the {cblue{x
+and {Rred{x blossoms seem to shimmer.  To the north a serene pool can be
+perceived through the lush grasses its surface possessing a mirror like
+quality from this perspective.  To the west and south mushrooms of truly
+gigantic proportions are visible while all around ancient trees flourish
+seeming to thrive within this usual environment.  The air is filled with
+both mellow music and insubstantial scents which seem to be all around
+opposed to coming from any clear source. 
+~
+0 1056768 3
+D0
+~
+~
+0 0 8893
+D2
+~
+~
+0 0 8894
+D3
+~
+~
+0 0 8896
+S
+#8896
+An Enchanted Mushroom~
+Engaging music and aromas fill the air here seemingly coming from all
+around at once.  Everything possesses a freshness, almost as if this place
+was only created this morning purely for you, though this impression is
+dispelled somewhat by the obvious age of the gigantic trees that stand to
+the south and west.  A mushroom that seems as big as a house grows before
+you with an odd looking rune surrounded archway upon its stem.  To the north
+and east this section of the glade stretches away with alien looking flowers
+of {cblue{x and {Rred{x laying in lines towards the southeast. 
+~
+0 1056768 3
+D0
+~
+~
+0 0 8898
+D1
+~
+~
+0 0 8895
+S
+#8897
+An Enchanted Mushroom~
+The brilliance of this area is surprising it is almost as if everything
+is new, this illusion is contradicted by the obvious age of the mighty trees
+that stand all around this clearing, close by to both the north and west.  A
+giant mushroom stands here the stem of which bears what seems to be a rune
+surrounded archway which leads inside.  {RRed{x and {cblue{x flowers radiate
+outwards towards the northeast from here having been carefully planted so as
+to produce a pleasing pattern.  The dell extends to the east and south from
+here looking idyllic with pleasant fragrances and soft music filling the
+air. 
+~
+0 1056768 3
+D1
+~
+~
+0 0 8892
+D2
+~
+~
+0 0 8898
+S
+#8898
+An Enchanted Glade~
+The pathway widens out here forming into a serene glade which is
+surrounded by primal looking trees of great size.  {RRed{x and {cblue{x flowers of
+an unknown type have been carefully planted in lines that stretch off
+towards the eastern edge of this clearing, radiating from this point at a
+northeastern direction.  The air is filled with pleasant music and the
+delicate aromas of the flowers producing an over all relaxing effect, which
+is heightened by the strange freshness of everything around you.  North and
+southwards giant mushrooms can be seen while to the west a trail stretches
+off and to the east a pool is close by. 
+~
+0 1056768 3
+D0
+~
+~
+0 0 8897
+D1
+~
+~
+0 0 8893
+D2
+~
+~
+0 0 8896
+D3
+~
+~
+0 0 8899
+S
+#8899
+The Enchanted Forest~
+Everything seems clean and fresh here, the long green grass seems more
+vibrant, and the sky more blue the very air seems like no one has ever
+breathed it before.  All around stand trees that must be hundreds of years
+old judging by their size though each looks very much alive.  Two paths
+stretch away from this clearing one to the east and one to the west though
+they appear to be mirror images of each other.  The air is filled with both
+the scents of blossoms and music both possessing indescribable beauty. 
+~
+0 1056768 3
+D1
+~
+~
+0 0 8898
+D3
+~
+~
+0 0 8886
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 8609 0 8573
+M 0 8574 1 8585
+M 0 8601 1 8606
+O 0 8617 0 8616
+M 0 8617 1 8875
+G 0 8713 0
+G 0 8714 0
+G 0 8715 0
+G 0 8716 0
+G 0 8717 0
+G 0 8718 0
+G 0 8719 0
+M 0 8615 1 8876
+G 0 8661 0
+G 0 8660 0
+G 0 8656 0
+G 0 8657 0
+G 0 8661 0
+G 0 8659 0
+G 0 8658 0
+M 0 8618 6 8877
+O 0 8703 0 8877
+M 0 8620 3 8879
+M 0 8618 6 8880
+O 0 8702 0 8880
+M 0 8616 1 8882
+G 0 8709 0
+G 0 8712 0
+G 0 8711 0
+G 0 8710 0
+M 0 8619 5 8883
+O 0 8704 0 8883
+M 0 8614 1 8884
+G 0 8651 0
+G 0 8653 0
+G 0 8655 0
+G 0 8652 0
+G 0 8654 0
+G 0 8650 0
+M 0 8619 5 8885
+O 0 8720 0 8885
+M 0 8618 6 8886
+M 0 8613 1 8887
+G 0 8662 0
+G 0 8663 0
+G 0 8664 0
+G 0 8665 0
+G 0 8666 0
+G 0 8667 0
+M 0 8611 1 8888
+G 0 8676 0
+G 0 8677 0
+G 0 8678 0
+G 0 8679 0
+G 0 8680 0
+G 0 8681 0
+G 0 8682 0
+G 0 8683 0
+G 0 8684 0
+G 0 8685 0
+M 0 8612 1 8889
+G 0 8668 0
+G 0 8669 0
+G 0 8670 0
+G 0 8671 0
+G 0 8672 0
+G 0 8673 0
+G 0 8674 0
+G 0 8675 0
+M 0 8610 1 8890
+G 0 8686 0
+G 0 8687 0
+G 0 8688 0
+G 0 8689 0
+G 0 8551 0
+G 0 8690 0
+G 0 8691 0
+G 0 8606 0
+G 0 8604 0
+G 0 8692 0
+M 0 8618 6 8891
+O 0 8708 0 8891
+M 0 8620 3 8892
+M 0 8620 3 8893
+M 0 8619 5 8893
+O 0 8649 0 8893
+M 0 8618 6 8894
+O 0 8707 0 8894
+M 0 8619 5 8896
+O 0 8706 0 8896
+M 0 8619 5 8897
+O 0 8705 0 8897
+M 0 8618 6 8898
+S
+
+
+
+#SHOPS
+8610 0 0 0 0 0 130 50 0 23
+8611 0 0 0 0 0 130 50 0 23
+8612 0 0 0 0 0 130 50 0 23
+8613 0 0 0 0 0 130 50 0 23
+8614 9 0 0 0 0 130 50 0 23
+8615 9 3 0 0 0 150 60 0 23
+8616 19 17 0 0 0 150 50 0 23
+8617 5 0 0 0 0 150 50 0 23
+0
+
+
+
+#$

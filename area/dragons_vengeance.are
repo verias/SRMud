@@ -1,0 +1,651 @@
+#AREADATA
+Name {20 25} Brysaar Dragon's Vengeance~
+Builders Brysaar~
+VNUMs 176 199
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#176
+unused~
+unused~
+Unused
+~
+~
+human~
+A 0 0 0
+1 0 1d2+8 1d10+100 1d1+0 none
+9 9 9 10
+0 0 0 0
+(null) (null) male 4
+AHMV ABCDEFGHIJK medium unknown
+#177
+carrion bird~
+a carrion~
+A carrion circles overhead, swooping down upon you now and then.
+~
+This is a carrion, a horrid ghost of a bird that has become what it once
+fed off of.  What is left of the bird is held together with dead flesh, what
+remains of its feathers, and of course the bones which are exposed in
+several places.  
+~
+unique~
+A CDEFGTVZc -500 0
+25 0 8d48+400 25d10+100 3d5+7 divine
+0 0 0 2
+FH 0 IM NS
+(null) (null) male 112
+ACGHMVW ABCDEFGHIJKOPUV medium unknown
+#178
+vulture~
+a vulture~
+A vulture circles overhead, keeping well clear of you.
+~
+The large ugly vulture typically spends his time aloft well away from
+you, but occasionally it comes in close.  It has a wide wingspan and long
+dark feathers which make it appear to be somewhat of a phantom as it flies
+by.  
+~
+human~
+A T 0 0
+20 0 6d39+294 20d10+100 3d5+4 divine
+2 2 2 4
+0 0 I HJR
+(null) (null) male 90
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#176
+unused~
+unused~
+Unused~
+unknown~
+trash 0 AN
+0 0 0 0 0
+0 0 1 P
+#177
+unused~
+unused~
+Unused~
+unknown~
+trash 0 AN
+0 0 0 0 0
+90 0 90 P
+#178
+unused~
+unused~
+Unused~
+unknown~
+trash 0 AN
+0 0 0 0 0
+90 0 90 P
+#179
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 1 P
+#0
+
+
+
+#ROOMS
+#176
+A Side Road~
+You have come upon a side road which branches off of the main road west
+of the city of Discordia.  This road leads off peacefully to the north. 
+Looking up the road you see an area where it was somehow partially defaced. 
+The scarred road lies north, while to the south is the road leading west
+from the city.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 177
+D2
+~
+~
+~
+0 0 16051
+M 0 H 0
+S
+#177
+The Scarred Road~
+The very rocks of the road here have been charred and blackened by some
+sort of force.  You see several places where there are no rocks at all due
+to this type of abuse.  To the north can bee seen a small township, its dark
+buildings sitting still and quiet.  South of here is the Discordia Road.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 178
+D2
+~
+~
+~
+0 0 176
+M 0 H 0
+S
+#178
+The Scarred Road~
+The road here is even more twisted and defiled to the point where the
+only thing making it recognizable as a road is the fact that it was
+targeted for destruction.  At this distance from the small town to the
+north, you can see to your great displeasure that the entire town has been
+either levelled or burnt to a crisp.  The road continues to the north and
+south of here, while a small side trail leads off to eastern fields.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 179
+D1
+~
+~
+~
+0 0 192
+D2
+~
+~
+~
+0 0 177
+M 0 H 0
+S
+#179
+The Scarred Road~
+The scarred road here takes you closer to the main section of the
+demolished town.  From this distance, you can see that the little village
+used to be considerably larger than it is now, and that many of the houses
+have just been destroyed beyond recognition.  The road here turns to the
+left as it travels through the ruins.  If you take the road far enough to
+the south, you'll reach the main road.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 178
+D3
+~
+~
+~
+0 0 180
+M 0 H 0
+S
+#180
+The Scarred Road~
+You have come across a turn in the scarred road.  The road moves east and
+north here through the remains of this little village.  To the south is
+what's left of a barn, destroyed as the rest of this town by the savage
+elements.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 181
+D1
+~
+~
+~
+0 0 179
+D2
+~
+~
+~
+0 0 188
+M 0 H 0
+S
+#181
+The Scarred Road~
+Travelling along the road, you have had a decent view of the destruction
+done to the area, but travelling up this segment of the road gives you a
+startling surprise.  Every house has been effectively destroyed, all of them
+burnt to the ground or eaten away by some sort of acid, or somehow
+splintered into oblivion, except a single home on the west side of the road
+here.  This one house has, for some reason, been spared.  To the east of
+here is an unusual ruin, destroyed in two different ways, while to the north
+and south is the small road.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 186
+D2
+~
+~
+~
+0 0 180
+D3
+~
+~
+~
+1 0 182
+M 0 H 0
+S
+#182
+An Unscathed Dwelling~
+Whatever demolished the rest of this small town avoided completely this
+home.  The door is on the east wall, while the dwelling leads back west to
+two cots, one small and the other significantly larger.  There is a small
+desk on the north wall with some sort of book lying upon it.  The road lies
+back east.  
+~
+0 0 0
+E
+book~
+The small book turns out to be a diary, which reads as follows.  "We
+found a dragon in the fields today.  It had broken many of its limbs in a
+battle with some sort of beast, which we found dead beside it.  Brandson
+gave the order to kill the thing, and though I pleaded with him, it was to
+no avail.  They slaughtered it where it lay, too crippled to defend itself. 
+I have decided to tomorrow go to Wynton Peak and beg for forgiveness."  
+~
+D1
+~
+~
+~
+1 0 181
+D3
+~
+~
+~
+0 0 183
+M 0 H 0
+S
+#183
+The Back of a Preserved Home~
+This part of the house appears to be the bedroom.  The single room
+contains two cots that have been long in disuse, as is evident by the thick
+coat of dust upon each.  There is a small door to the south, a back exit
+that leads to a small fenced in yard, completely preserved as the house. 
+The rest of the house lies back to the east.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 182
+D2
+~
+~
+~
+1 0 184
+M 0 H 0
+S
+#184
+A Patch of Bare Earth~
+In the center of the yard here is a single patch of bare earth, where no
+vegetation has yet grown.  It looks like a haphazard grave, and your
+suspicions are proven by a rock with the word "mom" etched upon it by a
+childish hand.  The small grave gives off a feeling of serenity.  To the
+north is the dwelling which you have just emerged from.  
+~
+0 0 0
+D0
+~
+~
+~
+1 0 183
+D2
+~
+~
+~
+0 0 185
+M 0 H 0
+S
+#185
+A Charred Stump~
+The ground here is blackened and charred with the hottest of fire.  All
+save the center of this place is scorched earth, though in the middle lies a
+large burnt stump.  It appears that the object was burnt to the ground, as
+opposed to chopped.  At the base of the stump is carved a strange symbol. 
+You get a feeling that this is a place of relative reverence.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 184
+M 0 H 0
+S
+#186
+Charred Ruins~
+Again the ruins here are charred and scorched by intense heat.  The walls
+are blackened and have been severely burnt by fire.  It seems a popular way
+of destruction in this town.  The north wall is missing completely, no trace
+of it remains.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 187
+D3
+~
+~
+~
+0 0 181
+M 0 H 0
+S
+#187
+Splintered Debris~
+Entering this part of what is left of the structure, you find that there
+is actually thousands of tiny remnants of what once was the north wall.  The
+tiny shards of wood lie everywhere, fragments of what once was and sharp as
+spear points.  It would have taken an enormous energy surge to do this much
+damage to a structure.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 186
+M 0 H 0
+S
+#188
+The Crippled Barn~
+This side of the barn has been effectively demolished without the use of
+fire.  It appears as if something with a very large mass slammed into the
+side of the barn with a very great velocity.  The north and east walls have
+been crushed and completely demolished, caving in just south of here and
+penning off a quarter of the barn.  North of here is the scarred road, while
+to the east lies the rest of the barn.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 180
+D3
+~
+~
+~
+0 0 189
+M 0 H 0
+S
+#189
+The Crippled Barn~
+This corner of the barn is missing completely.  It has been eaten away by
+some sort of potent acid that has done its job to perfection.  A pool of the
+stuff lies at your feet, still bubbling, though very old.  To the east of
+here lies a place where the walls have been splintered by a great weight,
+while south of here is another corner of the barn.
+~
+0 0 0
+D1
+~
+~
+~
+0 0 188
+D2
+~
+~
+~
+0 0 190
+M 0 H 0
+S
+#190
+An Unintentional Exit~
+There is a very large hole in the south wall of the barn here.  It
+appears as if some large object was forcibly flung through the wall.  You
+can see animal pens through the large hole to the south, while to the north
+is another segment of the large barn.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 189
+D2
+~
+~
+~
+0 0 191
+M 0 H 0
+S
+#191
+The Remains of the Animal Pens~
+You have come to the section of the landscape where the animals would
+have been kept a year or so back, but now there lies only the remain of what
+once was.  The pig pen is the only structure that remains standing.  It is
+littered with the long dead and decayed remains of the pigs and those of an
+unfortunate farmer tending to them at the time.  The barn to the north of
+here boasts a large hole, probably from where the chicken coop collided with
+it as it was somehow flung through the wall.  You can just barely see its
+remains.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 190
+M 0 H 0
+S
+#192
+A Small Trail~
+You find yourself now upon a small side trail leading east off of what
+remains of a small road through the ruins of a peaceful village.  You can
+see the road to the west of here, while a set of ruins lies to the northeast
+and some blackened crop fields are directly east.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 193
+D3
+~
+~
+~
+0 0 178
+M 0 H 0
+S
+#193
+A Small Trail~
+The trail here forks off to become a small path leading north to a set of
+ruins and another leading east to what remains of a set of crop fields.  The
+grass here has begun to grow back from the charred ashes of whatever
+greenery once was.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 194
+D1
+~
+~
+~
+0 0 199
+D3
+~
+~
+~
+0 0 192
+M 0 H 0
+S
+#194
+A Small Trail~
+You suspect that before this city was destroyed, you would be on a small
+walkway between houses now.  A little porch would border the west side of
+this trail, leading up to a small house.  Now all that remains is a hulk of
+debris to the west, and another further down the road to the east.  South is
+the fork in the trail.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 197
+D2
+~
+~
+~
+0 0 193
+D3
+~
+~
+~
+0 0 195
+M 0 H 0
+S
+#195
+A Demolished Home~
+This home has been scorched by fire and then knocked down by some great
+force.  The north and west walls lie on the ground, while the south and east
+remain barely intact.  What is left of the dwelling continues to the north 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 196
+D1
+~
+~
+~
+0 0 194
+M 0 H 0
+S
+#196
+A Demolished Home~
+You are in the corner of a ruined building.  All about you debris is
+strewn from whatever the catastrophe was that happened here.  Several small
+birds fly over head, still examining the rubble and looking for remains. 
+The building continues to the south of here.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 195
+M 0 H 0
+S
+#197
+A Collapsed Home~
+This dwelling begins here and stretches off to the east.  It is plain to
+see that this dwelling was destroyed by something other than fire.  While
+the wood is thin and brittle, it is not charred, and so suggests that
+something else burnt it away.  The furniture has been eaten away by whatever
+caused the disaster as well.  What's left of the house continues to the
+east.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 198
+D2
+~
+~
+~
+0 0 194
+M 0 H 0
+S
+#198
+A Collapsed Home~
+There is very little remaining of this dwelling.  Everything that has not
+been dissolved has been weathered beyond repair by the elements.  What you
+stand in now is only a pile of debris.  Several strange birds soar high
+above you.  
+~
+0 0 0
+D3
+~
+~
+~
+0 0 197
+M 0 H 0
+S
+#199
+A Burnt Field of Crops~
+All around you lie the remains of what once was a plentiful field full of
+vibrant, healthy crops.  The dust in the air is still mixed with the ash
+that once made up corn, wheat, and other important plants.  Further out in
+the field you can see great areas where the ash is much less dense, and one
+or two areas have no sign of life at all.  There is a trail to the west of
+here leading to the blackened village.  
+~
+0 0 0
+D3
+~
+~
+~
+0 0 193
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 181 3 1
+D 0 182 1 1
+D 0 183 2 1
+D 0 184 0 1
+M 0 178 4 178 10
+M 0 178 4 181 10
+M 0 178 4 185 10
+M 0 177 5 187 10
+M 0 177 5 191 10
+M 0 177 5 196 10
+M 0 177 1 196 10
+M 0 177 5 198 10
+M 0 178 4 199 10
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

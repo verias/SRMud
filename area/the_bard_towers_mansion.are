@@ -1,0 +1,884 @@
+#AREADATA
+Name { ALL } Brysaar Bard Towers Mansion~
+Builders Brysaar~
+VNUMs 11400 11450
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#11400
+guard treble man~
+a Treble guard~
+A guard stands here, tall and still, willing to die for his city.
+~
+Before you stands one of Treble's finest guards, trained from youth to
+guard the mansion and the baron within.  This man is tall and well built,
+and stands like a monolith, perfect for his guarding job.  The look on his
+face is stern and demanding, as one who knows the rules, and knows when you
+are breaking them.  
+~
+human~
+ABa 0 400 0
+50 0 10d167+1149 50d10+100 5d6+13 crunch
+-9 -9 -9 -7
+CI 0 0 0
+(null) (null) female 225
+AHMV ABCDEFGHIJK medium unknown
+#11401
+butler servant~
+The Mansion Butler~
+A servant walks around tidying up.
+~
+The butler is very content to serve the Discordia Monarchy.  He moves
+around, polishing and tidying the area about him, a never ending job of
+cleaning up the dust that floats about in the area.  He is paid to his
+heart's content, more than enough to get by.  
+~
+human~
+Aa 0 1000 0
+30 0 10d60+520 30d10+100 3d6+8 digestion
+-1 -1 -1 0
+0 0 0 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#11402
+gardener~
+the barony of Treble's gardener~
+A gardener works here with his vegetables.
+~
+This barony gardener looks to have worked his fill with plants and
+vegetables.  He is a small man, not taller than five feet, but has the
+temper of a herd of wild pigs.  He scowls as he sees you, but goes back to
+his work.  
+~
+human~
+ABa 0 -300 0
+40 0 10d98+804 40d10+100 4d7+10 none
+-5 -5 -5 -3
+0 0 0 0
+(null) (null) female 180
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#11400
+gap~
+a small gap~
+There is a gap in the ground, leading downwards.~
+nothing~
+portal R 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 ACEHKLN 0
+0 0 0 P
+#11401
+gap~
+a tiny gap~
+There is a gap in the roof here that leads to the outside world~
+nothing~
+portal 0 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 CDHKLN 0
+0 0 0 P
+#11402
+key keys treble~
+the Keys to the Treble Mansion~
+The Keys to the Treble City Mansion are here.~
+steel~
+key W AC
+0 0 0 0 0
+0 0 0 P
+#11403
+key tiny grate~
+a tiny grate key~
+A tiny grate key is here, covered in mud~
+steel~
+key RW A
+0 0 0 0 0
+0 0 0 P
+#11404
+knife dagger~
+a Barony table knife~
+You see the Barony of Treble's table knife here.  It makes a potent weapon.~
+silver~
+weapon RT AN
+bow 11 17 crunch DJ
+97 1 485 P
+#11405
+chair~
+a large chair~
+A large chair rests here, facing the window.~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#11406
+books potion~
+a tiny potion~
+A tiny rose colored potion lies here.~
+glass~
+potion AGRT A
+90 'reserved' 'reserved' 'reserved' 'reserved'
+90 0 2700 P
+#11407
+portal pool~
+a portal~
+A shimmering portal lies in the middle of the room.~
+nothing~
+portal 0 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 ADEFHIJL 0
+0 0 0 P
+#11408
+hole~
+a hole in the rug~
+There is a hole in the rug that leads down to a secret room below.~
+nothing~
+portal R 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 FHKLN 0
+0 0 0 P
+#11409
+hole~
+a hole in the ceiling~
+There is a hole in the ceiling here.  It appears to lead up under a bed.~
+nothing~
+portal 0 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 ABEHKLN 0
+0 0 0 P
+#11410
+hole~
+a hole in the ceiling~
+There is a hole in the ceiling here.  It is just large enough for a person to fit through.~
+nothing~
+portal 0 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 CEHKLN 0
+0 0 0 P
+#11411
+hole~
+a hole~
+There is a hole in the ground here leading to a tunnel below.~
+nothing~
+portal R 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 BFHKLN 0
+0 0 0 P
+#11412
+engagement ring~
+a silver engagement ring~
+A silver engagement ring radiates love and sparkles in the light.~
+silver~
+treasure 0 AB
+0 0 0 0 0
+24 1 240 P
+E
+engraving~
+This ring catches the light from any nearby source, and glows with a
+luminescent white gem set in it.  Inscribed within it is the name "Sajia".  
+~
+#11413
+glowing wedding ring~
+a glowing wedding ring~
+A beautiful wedding rings glows from the binding of strong love.~
+gold~
+treasure AHMU AB
+0 0 0 0 0
+25 1 250 P
+A
+5 1
+E
+wedding ring~
+Made from a strange magical energy, this ring holds the strength of the
+tightest bonds, yet which is light and dazzling in its beauty.  A warm glow
+radiates out from within the ring itself, and as though it were made of
+glass, you can see an inscription burning of its own power inside the ring. 
+The inscription reads: 
+ 
+"Bound forever, may love never die - Maglos & Sajia"
+~
+#11414
+four-poster bed~
+a grand bed~
+This cherry wood four-poster is bedecked in all the fineries of silk.~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#11400
+The Entrance to the Tower~
+The entrance to this tower does a grand job of introducing the rest of
+the mansion.  The colors of the mansion appear to be red and gold, as they
+are draped all over the interior of the building.  As you peer above you you
+see that the tower goes up for several floors.  North of here is a
+staircase.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 11401
+D1
+~
+~
+~
+4 11402 5308
+M 0 H 0
+S
+#11401
+Before the Spiral Staircase~
+This staircase is one of the biggest you've ever seen.  Unlike other
+towers, who have different staircases placed in segments, this long breadth
+of steps towers the full height of the tower.  The steps themselves are red,
+and the handrails are even made of a fine polished mahogany.  South of you
+is the tower entrance, while to the north leads a small back exit.  
+~
+0 8 0
+E
+depression~
+Looking closer at the space behind the stairs, you see that it is
+actually a hidden slide that goes deep into the ground.  
+~
+E
+staircase~
+The staircase is huge!  It towers the entire height of the tower.  There
+is even a small depression behind the steps making it look even bigger than
+it actually is.  
+~
+D0
+~
+~
+~
+0 0 11403
+D2
+~
+~
+~
+0 0 11400
+D4
+~
+~
+~
+0 0 11402
+D5
+~
+~
+~
+0 0 11415
+M 0 H 0
+S
+#11402
+On the Spiral Staircase~
+You are currently on an enormous spiral staircase that stretches both up
+and down.  The steps are covered in a blanket of red carpet, and the railing
+is made of mahogany.  West is a large door, north is the tower lookout, and
+east of here is the dining room.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 11405
+D1
+~
+~
+~
+0 0 11407
+D3
+~
+~
+~
+1 11402 11406
+D4
+~
+~
+~
+0 0 11408
+D5
+~
+~
+~
+0 0 11401
+M 0 H 0
+S
+#11403
+The Northern Exit~
+North of the Staircase, this room is used only to get back and forth to
+and from the garden.  On the north wall is a large door leading out, while
+south of here is a large staircase that leads further up the tower.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 11404
+D2
+~
+~
+~
+0 0 11401
+M 0 H 0
+S
+#11404
+The Garden~
+You have entered the garden of the tower.  The garden is filled with nice
+things to eat, such as cucumbers, carrots, and large stalks of celery.  The
+soil is soft and well managed, it has the look of being tended to with
+constant care.  On the north side of the garden is a large tree, south is
+the tower entrance.  
+~
+0 8 0
+E
+tree~
+The tree itself is quite large, though its not as big as some of those in
+the grove north of here.  It has a wide trunk with many branches, and a hole
+in between two of the larger roots.  
+~
+E
+cucumbers~
+Looking closer at these vegetables, you discover that they are quite far from ripe.
+They would be much too hard to eat at their current state.
+~
+E
+hole~
+As you look closer into the hole in the tree, you see a small lever
+hidden deep within it.  After pulling the lever, a gap opens up between two
+tree roots.  It is leading downward.  
+~
+D2
+~
+~
+~
+1 0 11403
+M 0 H 0
+S
+#11405
+The Tower Lookout~
+Before you is the largest window in the tower.  Though it is not commonly
+used, this particular window is made from a thin type of glass.  Before the
+window sit two large and comfortable looking chairs.  The floors and walls
+have the usual red and gold color scheme.  South of here is the staircase.  
+~
+0 8 0
+E
+window~
+The window is large and probably very valuable.  The wood is a deep red. 
+Looking closer at the framework, you see a hidden cache which enables the
+window to open and swing out to the north.  
+~
+E
+windo~
+~
+D0
+~
+window~
+~
+3 0 11418
+D2
+~
+~
+~
+0 0 11402
+M 0 H 0
+S
+#11406
+The Vault~
+You stand in a beautiful vault.  All around you are red drapes, and the
+floor appears to be made of pure gold.  It appears that the Baron's
+treasures can be stored here if they choose not to hold them.  East is the
+staircase.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 11402
+M 0 H 0
+S
+#11407
+The Dining Room~
+This room is the tower dining room, where many receptions have taken
+place in the past.  There are many tables here, all made of a deep red wood
+and covered with golden tablecloths.  The tables are barren, except for the
+Baron's place, which always remains set.  Its silverware is of a truly
+bizarre design.  West leads directly to the staircase.  
+~
+0 8 0
+E
+silverware~
+The Baroness silverware consists of a five-pronged fork, a curved spoon,
+and an unusually large knife.  Looking closer at the knife, you discover
+that it is extremely sharp and double bladed.  It looks like it would make a
+lethal weapon.  
+~
+D3
+~
+~
+~
+0 0 11402
+M 0 H 0
+S
+#11408
+On the Spiral Staircase~
+You find yourself on a gigantic spiral staircase that reaches up the
+entire tower.  The steps are carpeted in red, and the rails are made from
+mahogany.  South of here is the pantry.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 11409
+D4
+~
+~
+~
+0 0 11410
+D5
+~
+~
+~
+0 0 11402
+M 0 H 0
+S
+#11409
+The Pantry~
+You find yourself in the tower pantry.  All around you are shelves, but
+they are all currently empty.  The floor is covered with a deep red carpet. 
+North of here is the staircase.  
+~
+0 8 0
+E
+corner~
+Looking closer at the corner, you find that it appears to have been
+lifted several times.  Peeling back the carpet, you find a hidden trapdoor
+leading downwards.  
+~
+E
+carpet~
+The carpet is large and thick.  It's red color matches the stairs and the
+drapery around the tower.  It peels a bit in the corner, but other than that
+it looks like a good fit for the room.  
+~
+D0
+~
+~
+~
+0 0 11408
+D5
+~
+~
+~
+1 0 11422
+M 0 H 0
+S
+#11410
+Top of the Staircase~
+You have come to the top of the large spiral staircase.  The staircase
+ends on a small landing, where to the north is the Baron's bedroom, and west
+is the guestroom.  The ceiling of the tower is engraved with miniscule
+decorations.  The staircase extends downwards.  
+~
+0 8 0
+D0
+~
+~
+~
+4 0 11411
+D3
+~
+~
+~
+0 0 11412
+D5
+~
+~
+~
+0 0 11408
+M 0 H 0
+S
+#11411
+The Master Bedroom~
+The master bedroom of the tower is not as fancy as one might expect. 
+There is a red and gold rug in the center of the room, no windows, and very
+little wall decoration.  There is a canopy bed on the center of the rug,
+the posts are plated with gold and the sheets are red silk.  
+The staircase is back south.
+~
+0 8 0
+E
+rug~
+The rug is large and extends under the canopy bed in the center of the
+room here.  Looking closer at the rug, you find that there's a hole cut out
+of a portion that is hidden by the bed.  It leads down into a passageway
+below.  
+~
+E
+bed~
+The bed is rather large and comfortable looking.  There appears to be a
+storage space underneath, and it reaches up to the ceiling.  
+~
+D2
+~
+~
+~
+4 0 11410
+D4
+~
+~
+~
+1 0 11423
+M 0 H 0
+S
+#11412
+The Guest Room~
+This room is the Treble City Tower guest room.  It is a modest reprieve
+from the reds and golds in the rest of the tower, but it is still a nice
+room.  The bed is made of some type of pine, and there are fine white sheets
+adorning the mattress.  East of here is the staircase.  There appears to be
+a small hole in a corner of the room.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 11410
+M 0 H 0
+S
+#11413
+An Underground Passageway~
+This passageway has been hidden to disguise the location of the actual
+Treble City Vault.  It is a precaution taken by many who do not want their
+treasures to be found.  The tunnel itself is small and made of earth
+supported by wooden beams.  You see the door to the Treble City Vault just
+south of here.  
+~
+0 8 0
+D2
+~
+~
+~
+4 11402 11414
+M 0 H 0
+S
+#11414
+The Treble City Vault~
+This is the Treble City Vault, where the Baron of the city keeps all
+of the treasures they do not wish to carry around with themself.  The room
+itself is rather drab, being made of white walls with a black floor. 
+Anything can be stored here.  To the north is the underground passageway.  
+~
+0 8 0
+D0
+~
+~
+~
+4 11402 11413
+M 0 H 0
+S
+#11415
+The Hidden Basement~
+This basement has been well concealed by the small staircase hidden
+behind the grand stairwell in the room above you.  The basement seems to
+have been carved out of the building foundation.  The room has hard rounded
+granite walls.  South of here is a large metal door, while north is the rest
+of the tower.  
+~
+0 8 0
+D2
+~
+~
+~
+4 11402 11416
+D4
+~
+~
+~
+0 0 11401
+M 0 H 0
+S
+#11416
+The Dungeon Cell~
+You have come upon a little cell hidden beneath the Treble Tower.  It is
+a typical dungeon cell, with very little light, a large metal door, and a
+pit covered by a grate providing the only lavatory.
+~
+0 8200 0
+E
+pit~
+Looking down through the grate at the pit you see that is is deeper than
+you first thought.  The bottom is covered with goo, and the walls are slimy
+except for a small ledge close to the top.  It looks rather disgusting.  
+~
+E
+ledge~
+The ledge looks just large enough to conceal something.  Feeling
+underneath of it you find a tiny key.  
+~
+E
+grate~
+The grate is large and circular.  The holes in the grate are just small
+enough to stop your foot from falling through without you wanting it to.  In
+the center of the grate is a tiny keyhole.  
+~
+D0
+North of here is a large metal door.
+~
+~
+~
+4 11402 11415
+D5
+~
+grate~
+~
+3 11402 11417
+M 0 H 0
+S
+#11417
+Floating in the Ooze~
+This place is even worse than the dungeon cell above.  The muck smells
+horrible, and you are stuck up to your waist in the gunk.  Fortunately,
+while you are filthy, you do not have the feeling of being forsaken as you
+once did.  
+~
+0 8 0
+D4
+~
+~
+~
+3 11402 11416
+M 0 H 0
+S
+#11418
+Upon the Tower Wall~
+You are currently on a ladder far above the ground attached to the side
+of the Treble City Tower.  The ladder is relatively small, leading only up
+to a window directly above that belonging to the lookout.  South of here is
+the safety of the indoors.  
+~
+0 8 0
+D2
+~
+~
+~
+3 0 11405
+D4
+~
+~
+~
+0 0 11419
+M 0 H 0
+S
+#11419
+Upon the Tower Wall~
+The top of this outdoor ladder is only slightly higher than the bottom in
+comparison with the rest of the tower.  Next to you at present is another
+window.  Below you is the rest of the ladder.  
+~
+0 8 0
+D2
+~
+window~
+~
+1 0 11420
+D5
+~
+~
+~
+0 0 11418
+M 0 H 0
+S
+#11420
+The Forgotten Study~
+This is a place where dust reins.  It looks as if no one has cleaned in
+here for ages.  There are old books and scrolls all over the place, strewn
+about left and right, with no visible organizational pattern.  In the middle
+of the room sit a desk and chair.  On the southern wall is a closet door.  
+~
+0 8 0
+D0
+~
+window~
+~
+1 0 11419
+D2
+~
+~
+~
+4 11402 11421
+M 0 H 0
+S
+#11421
+The Study Closet~
+You have entered a small and almost empty closet.  There is nothing here
+save a pile of books in one corner.  North of here is the study.  
+~
+0 8 0
+D0
+~
+~
+~
+4 11402 11420
+M 0 H 0
+S
+#11422
+The Torture Rack~
+Entering this room reveals a gruesome scene.  In front of you is a wooden
+torture rack.  It has a dull bloodstained color and partially golden
+shackles.  Lying just out of arm's reach in a slim case are all the tools of
+the trade: A razor sharp set of knives, an iron poker, and a short metal
+rod.  Back above you is the pantry.  
+~
+0 8 0
+E
+knives~
+These knives, though sharp, are too thin to be used for combat.
+~
+E
+rod~
+~
+D4
+~
+~
+~
+1 0 11409
+M 0 H 0
+S
+#11423
+The Attic~
+The tower attic is a large room, but it is mostly empty.  The only object
+of interest is a pool of shimmering liquid in the center of the floor.  The
+air smells of mold and wood.  Below you is the master bedroom.  
+~
+0 8 0
+D5
+~
+~
+~
+1 0 11411
+M 0 H 0
+S
+#11424
+The Secret Passageway~
+This little tunnel allows one to travel between the master bedroom and
+the guest room.  The transit is short and well hidden.  The hole in the
+ceiling leads to the master bedroom while west is a bend in the tunnel.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 11425
+M 0 H 0
+S
+#11425
+A Curve in the Tunnel~
+This is a simple bend in the secret passageway between the two rooms on
+the top floor of the tower.  South leads to the guest room while east is the
+master bedroom.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 11424
+D2
+~
+~
+~
+0 0 11426
+M 0 H 0
+S
+#11426
+The Secret Passageway~
+You are currently directly under the Treble City Mansion guest room. 
+Above you is a small hole that leads to the area beneath the guest bed.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 11425
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 11400 1 2
+D 0 11402 3 2
+D 0 11403 0 1
+D 0 11404 2 1
+D 0 11405 0 1
+D 0 11406 1 2
+D 0 11409 5 1
+D 0 11410 0 2
+D 0 11411 2 2
+D 0 11411 4 1
+D 0 11413 2 2
+D 0 11414 0 2
+D 0 11415 2 2
+D 0 11416 0 2
+D 0 11416 5 2
+D 0 11417 4 2
+D 0 11418 2 1
+D 0 11419 2 1
+D 0 11420 0 1
+D 0 11420 2 2
+D 0 11421 0 2
+D 0 11422 4 1
+D 0 11423 5 1
+M 0 11400 2 11400 10
+M 0 11402 1 11404 10
+O 0 11400 0 11404
+O 0 11405 0 11405
+O 0 11405 0 11405
+M 0 11401 1 11407 10
+O 0 11404 0 11407
+O 0 11414 0 11411
+O 0 11408 0 11411
+O 0 11411 0 11412
+O 0 11401 0 11413
+O 0 11403 0 11416
+O 0 11405 0 11420
+O 0 11406 0 11421
+O 0 11407 0 11423
+O 0 11409 0 11424
+O 0 11410 0 11426
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

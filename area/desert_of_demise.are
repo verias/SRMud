@@ -1,0 +1,1362 @@
+#AREADATA
+Name {95 99} Kardign Desert of Demise~
+Builders Kardigan~
+VNUMs 2851 2899
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#2851
+Cactus Guardian~
+a large cactus~
+A large cactus seems to turn, following your movements with scrutiny.
+~
+Large and green, this cactus is covered in a multitude of sharp quills. 
+It stands nearly eight feet high, and seems to thrive without difficulty in
+this arid region.  The only strange thing noticeable about it, is that no
+matter where you stand, it always seems to be facing you with the same side.
+~
+human~
+A OVc 0 0
+95 0 12d1182+3558 95d10+100 6d10+29 crunch
+-30 -30 -30 -25
+CF ABLPQ 0 0
+(null) (null) male 427
+ABCGHMVc ABCDEFGHIJKM medium unknown
+#2852
+Angry Cactus~
+an angry cactus~
+An angry cactus seems to wade through the sand towards you.
+~
+Large and angry looking, this large green cactus positively bristles with
+rage.  Its round exterior is covered in a dense variety of needle sharp
+thorns.  It seems to sense you approaching and moves quickly towards you, a
+low rumble sounding like a growl coming from it.  
+~
+human~
+AF DFOVc 200 0
+97 0 12d1265+3700 97d10+100 6d11+27 crunch
+-32 -32 -32 -26
+CDEU ABLPQ 0 0
+(null) (null) male 436
+AHMV ABCDEFGHIJK medium unknown
+#2853
+Desert Scorpion~
+a desert scorpion~
+Crawling up over the edge of the sand dune, this desert scorpion moves towards you with astonishing speed.
+~
+This dark brown scorpion watches it's surroundings with several pairs of
+black eyes.  'Its size suggests that it has been around for quite a while as
+it is nearly five feet long.  Wielding a pair of pincers that look to be
+razor sharp, it also sports a long tail, tipped with a wicked barb.  
+~
+centipede~
+AF HVZc -50 0
+97 0 12d1265+3700 97d10+100 6d11+27 scratch
+-32 -32 -32 -26
+AHMU ABP FI E
+(null) (null) male 436
+ABGO ACFKX medium unknown
+#2854
+nymph healer oasys~
+Oasys~
+Oasys sits in the grass, mixing assorted herbs.
+~
+Sitting in the grass is a small nymph.  Her long black hair is pulled
+over her shoulders and tied with a blade of grass.  As she notices your
+arrival she stands to greet you, and you see that she is totally nude. 
+Arranged neatly around where she sits, several varieties of herbs have been
+gathered and stacked.  
+~
+unique~
+ABRTW DF 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 ABCDMQ 0 M
+(null) (null) either 450
+ACGHMV ABCDEFGHIJKO tiny unknown
+#2855
+Desert Wolf~
+a large gray desert wolf~
+A large gray wolf scrambles up on top of the rocks, snarling angrily at you.
+~
+Covered in thick black fur that is matted together, this wolf stands
+tall.  His parted jaws allow the sight of an extremely sharp set of teeth. 
+As he leaps up onto the rocks, lots of sand can be seen falling from his
+coat.  A deep and threatening growl comes from him as he leaps at you.  
+~
+unique~
+AF DFJOVZc 0 0
+98 0 12d1308+3773 98d10+100 6d11+28 crush
+-33 -33 -33 -26
+CFHR ABP I H
+(null) (null) female 441
+AGHMV ABCDEFGHIJKLPQUV medium unknown
+#2856
+Desert Tarantula Spider~
+a large tarantula~
+This large hairy spider lunges out of it's hole towards you.
+~
+Large, brown, and hairy.  This spider is anything but elegance.  It's
+eight long legs are covered in a plethora of short brown hairs.  It's many
+black eyes glare at you with an unhidden fury.  From it's fangs, poison can
+be seen dripping down to the ground.  
+~
+centipede~
+ABF OVZ 0 0
+97 0 12d1265+3700 97d10+100 6d11+27 crush
+-32 -32 -32 -26
+R ABP FI E
+(null) (null) male 436
+ABGO ACFKX medium unknown
+#2857
+Rock Statue Guard~
+a rock statue~
+This large rock statue has been placed at the entrance of the doorway.
+~
+This large piece of rock has been carved into the shape of a minotaur. 
+The curved horns on top of his bull shaped head, appear to be sharp and
+wicked looking.  The body is covered in rippling muscles, the chest thick
+and strong.  A pair of hooved feet rest upon the ground, the stance wide as
+though he is ready for anything.  He holds a large two-headed axe in his
+hands, the angle of it causing it to cross over his chest.  You could swear
+the eyes in his head stare straight at you if they were not made of stone.  
+~
+unique~
+AB HVc 0 0
+99 0 12d1352+3846 99d10+100 6d11+28 none
+-34 -34 -34 -27
+CDEFRU ABP E N
+(null) (null) male 445
+AGHMV ACDEFGHJKW medium unknown
+#2858
+Dark Lord~
+the Dark Lord~
+The dark lord rests upon his throne, scowling down at you.
+~
+Large and sinister in appearance, this shrouded creature seated before
+you strikes an imposing figure.  Blood-red skin stretched tautly over
+rippling muscles covers what little of him you can see, the rest is covered
+in a heavy looking cloak.  Looking into his hood, all that can be seen in
+the darkness is a single pair of yellow eyes, staring back at you with a
+magical energy.  Clenched tightly in his clawed hand, a coiled whip of fire
+can be seen.  
+~
+unique~
+ABFO CHJOTVZac -1000 0
+102 25 20d2000+6000 408d10+100 20d20+50 chop
+-75 -75 -75 -70
+ACDEFIK ABLPQ CEM N
+(null) (null) female 459
+ACGHIMVZc ACDEFHJKLOPUVW large unknown
+#2859
+Sinister Statue~
+a sinister statue~
+This small statue stares at you, a sinister grin on his face.
+~
+Seeming to be carved from the same blue sapphire as the pathway, this
+small statue is nothing if not perfection.  Each small detail has been done
+with care and craft, from the perked up ears, slightly open mouth showing
+rows of canine teeth, to the wings protruding from its back.  The only
+strange thing about this statue would be the eyes, they seem to stay
+transfixed on you, a visage of cold malice showing in them.  
+~
+dragon~
+ABF DFJOTVc 0 0
+101 20 13d1446+3994 404d10+100 6d11+30 chop
+-45 -45 -45 -40
+ACEHRU ABJLP BEHL FIKS
+(null) (null) male 454
+ACGHMVZc ACDEFGHIJKLOPQUVX small unknown
+#2860
+Sinister Statue~
+a sinister statue~
+This sinister looking statue moves immediately to block your progress.
+~
+Seeming to be carved from the same blue sapphire as the pathway, this
+small statue is nothing if not perfection.  Each small detail has been done
+with care and craft, from the perked up ears, slightly open mouth showing
+rows of canine teeth, to the wings protruding from its back.  The only
+strange thing about this statue would be the eyes, they seem to stare
+straight back at you, as though daring you to pass.
+~
+dragon~
+ABF DFJOTVc 0 0
+101 0 13d1446+3994 404d10+100 6d11+30 peckb
+-45 -45 -45 -40
+ABCGHR ABLP BEH FI
+(null) (null) male 454
+ACGHMVZc ACDEFGHIJKLOPQUVX small unknown
+#2861
+Desert Wolf~
+a large gray wolf~
+This large gray wolf slinks towards you.
+~
+Covered in thick black fur that is matted together, this wolf stands
+tall.  His parted jaws allow the sight of an extremely sharp set of teeth. 
+As he leaps up onto the rocks, lots of sand can be seen falling from his
+coat.  A deep and threatening growl comes from him as he leaps at you.  
+~
+unique~
+AF DFJOVZc 0 0
+98 0 12d1308+3773 98d10+100 6d11+28 crush
+-33 -33 -33 -26
+CFHR ABP I H
+(null) (null) none 441
+AGHMV ABCDEFGHIJKLPQUV medium unknown
+#2862
+Desert Ghoul~
+a desert ghoul~
+Ripping hunks of flesh from the mound of corpses to eat, this ghoul snarls at your intrusion.
+~
+Standing before you utterly naked, the form of the creature suggests it
+used to be human.  Its skin is turning black and rotting away in many
+places.  In other places over its body, cracks have appeared in the dried
+skin, allowing vile smelling fluid to pass through and run down its body,
+causing still more sand to stick to it.  Its eyeless sockets turn your way
+as it senses you approach, a snarl escapes its mouth which is full of
+rotting and broken teeth.  
+~
+human~
+AFV DFOVc -400 0
+99 0 12d1352+3846 99d10+100 6d11+28 shbite
+-34 -34 -34 -27
+ACDEFGU ABP 0 N
+(null) (null) male 445
+AHMV ABCDEFGHIJK medium unknown
+#2863
+Zurr~
+Zurr~
+The figure standing before you turns to face you, a scowl on his face.
+~
+The tall creature standing before you is one of total horror.  His body
+is covered with red skin that seems to be rotting in several places, he is
+missing one eye, a ragged looking hole all that remains.  The other eye is
+blood red, and seems to pierce into your very soul.  His hands end in wicked
+looking claws that seem more than capable of ripping the flesh from your
+bones with ease.  As he notices you and turns, you can see him muttering
+arcane words with which to bring more of the foul ghouls to life with.  
+~
+unique~
+AFNV CEFHJOVZc -900 0
+102 0 20d2000+6000 408d10+100 20d20+50 slash
+-75 -75 -75 -70
+ACF ABLP M N
+(null) (null) male 459
+ACGHMVc ACDEFHJKLUV medium unknown
+#2864
+Desert Ghoul~
+a desert ghoul~
+Ripping hunks of flesh from the mound of corpses to eat, this ghoul snarls at your intrusion.
+~
+Standing before you utterly naked, the form of the creature suggests it
+used to be human.  Its skin is turning black and rotting away in many
+places.  In other places over its body, cracks have appeared in the dried
+skin, allowing vile smelling fluid to pass through and run down its body,
+causing still more sand to stick to it.  Its eyeless sockets turn your way
+as it senses you approach, a snarl escapes its mouth which is full of
+rotting and broken teeth.  
+~
+human~
+AFV DFOVc -400 0
+99 0 12d1352+3846 99d10+100 6d11+28 shbite
+-34 -34 -34 -27
+ACDEFGU ABP 0 0
+(null) (null) male 445
+AHMV ABCDEFGHIJK medium unknown
+#2865
+Sinister Statue~
+a sinister statue~
+This small statue stares at you, a sinister grin on his face as he guards the hallway.
+~
+Seeming to be carved from the same blue sapphire as the pathway, this
+small statue is nothing if not perfection.  Each small detail has been done
+with care and craft, from the perked up ears, slightly open mouth showing
+rows of canine teeth, to the wings protruding from its back.  The only
+strange thing about this statue would be the eyes, they seem to stay
+transfixed on you, a visage of cold malice showing in them.  
+~
+dragon~
+ABF DFHJOTVc 0 0
+99 0 12d1352+3846 99d10+100 6d11+28 chop
+-34 -34 -34 -27
+ACEHRU L BEH FI
+(null) (null) male 445
+ACGHMVZc ACDEFGHIJKLOPQUVX medium unknown
+#0
+
+
+
+#OBJECTS
+#2851
+Canteen Metallic Object~
+a large canteen~
+A metal canteen has been left here.~
+unknown~
+drink R AO
+30 20 'water' 0 0
+1 0 3 P
+#2852
+Sharp Quill~
+a sharp quill~
+This sharp quill seems to have broken off from a large cactus.~
+unknown~
+weapon Q AN
+bow 13 14 crunch G
+95 1 475 P
+#2853
+Quicksand~
+a pool of quicksand~
+A deep pool of quicksand looks very dangerous.~
+unknown~
+warp_stone RX 0
+D I DF CDEF 0
+0 0 0 P
+E
+!trap!~
+You feel yourself sinking deeply into the quicksand.
+You are overtaken by the weight of the sand and crushed.
+~
+#2854
+Scorpion Claws~
+brown scorpion claws~
+A pair of brown scorpion claws are here.~
+unknown~
+armor QT AH
+E E E C 0
+97 4 485 P
+A
+19 4
+A
+18 4
+A
+1 1
+#2855
+Wolf Hair~
+some wolf hair~
+Some long strands of wolf hair is here.~
+unknown~
+protect QT AM
+0 0 0 0 0
+97 1 500 P
+A
+13 10
+A
+19 2
+A
+18 2
+A
+17 -5
+#2856
+Spidersilk Belt~
+a spidersilk belt~
+Many strands of spidersilk have been woven together into a strong looking belt.~
+unknown~
+armor QT AL
+E E E C 0
+97 1 485 P
+A
+2 2
+A
+1 2
+A
+4 -1
+A
+3 -1
+#2857
+Shimmering Rocks~
+some shimmering rocks~
+This pile of shimmering rocks hums with a strange energy.~
+unknown~
+portal R 0
+0 ABCDE A ABEFIJL ABDFIJL
+0 0 0 P
+#2858
+Cleavurite Axe~
+a cleavurite~
+This sinister looking double-headed axe is known as the cleavurite.~
+unknown~
+weapon 0 AN
+mace 29 6 wrath D
+99 0 495 P
+A
+18 2
+A
+19 2
+#2859
+Shimmering Key~
+a shimmering key~
+A shimmering key made from rock is here.~
+unknown~
+key 0 AO
+0 0 0 0 0
+1 0 0 P
+#2860
+Icy Spring~
+an icy spring~
+This clear spring gushes forth from the ground, spewing water up into the air and over the rocks, forming a small but vibrant pool at the base.~
+unknown~
+fountain R 0
+0 0 'water' 0 0
+0 0 0 P
+#2861
+Sinister Whip Magic~
+a sinister whip~
+This long and sinister whip has been forged of pure magic.~
+unknown~
+weapon EGHMT AN
+flail 12 16 slap 0
+100 0 500 P
+E
+fire whip~
+This long and sinister has been forged of pure magic.  The end has been
+split into eleven different tendrils, each of which are tipped and lined
+with sharp barbs with which to easier rip the flesh.  
+~
+E
+!history!~
+Comprised completely of magic, this sinister whip is feared nearly as
+much as its creator.  The dark lord of the desert wields this weapon with
+which he will oppose any who stand in his way.  Those who have tried in the
+past, failed, the remnants of their form still evident within his sanctum. 
+Legends say he who defeats the dark lord, will have the power to take his
+weapon and wield it for their own, but to do so is to welcome his evil into
+your life, for the weapon not only destroys those it comes in contact with,
+but it corrupts those who wield it.  
+~
+#2862
+Shadow Mask~
+a mask of shadow~
+This mask seems to be made entirely of shadow.~
+unknown~
+protect CEGT AT
+0 0 0 0 0
+100 0 500 P
+A
+12 30
+A
+13 40
+#2863
+Heavy Cloak~
+a heavy cloak~
+This heavy cloak has been fashioned from magical materials.~
+unknown~
+clothing EGT AZ
+0 0 0 0 0
+100 10 10000 P
+A
+12 25
+A
+13 30
+#2864
+Blue Dagger~
+a blue dagger~
+A blue dagger that seems to have been cut from sapphire stones glints in the light.~
+unknown~
+weapon 0 AN
+bow 29 6 crunch J
+99 0 495 P
+A
+12 100
+A
+17 7
+#2865
+Obsidian Throne~
+an obsidian throne~
+This large throne has been cut from deep black obsidian.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#2866
+Swirling Vortex~
+a swirling vortex~
+This swirling vortex is protected by a locked gate.~
+unknown~
+portal R 0
+B ABCDE D ABFIJL ABEFIJL
+0 0 0 P
+#2867
+Vortex Key~
+a swirling key~
+A swirling key lies here.~
+unknown~
+key 0 AO
+0 0 0 0 0
+1 0 0 P
+#2869
+desert lily~
+a desert lily~
+This beautiful desert lily is perfect in every aspect.~
+unknown~
+protect RST AQ
+0 0 0 0 0
+99 0 100 P
+A
+19 3
+A
+18 3
+E
+lily~
+This lily has snowy white petals that have no hint of damage from the sun.  
+Its green leaves are very similar and seem to grow to absolute perfection.  
+~
+#2870
+Femur Leg~
+a femur covered in rotting flesh~
+Ripped from some poor soul, this femur bone still has bits of flesh attached to it.~
+unknown~
+weapon 0 AN
+staff 10 19 claw G
+98 2 490 P
+#2871
+Dark Armor~
+{Kdark{x armor~
+A set of armor as {Kdark{x as night rests upon the ground, seeming to suck in all available light.~
+unknown~
+armor GT AD
+E E E AC 0
+100 0 500 P
+A
+18 2
+A
+19 2
+A
+17 -5
+#0
+
+
+
+#ROOMS
+#2851
+Desert Beginning~
+Spread out in every direction but north, an arid desert stretches as far
+as the eye can see.  Struggling to survive in the sandy loam, a few sparse
+bits of grass poke up pitifully, looking brown and dry.  Right at the edge
+of where the ground turns to sand, a wooden post has been pounded into the
+ground, an old weathered sign affixed to its top.  The trail leads back to
+the north, or south through the desert.  
+~
+0 4 10
+E
+sign~
+Printed in fading black letters, this weathered sign reads: 
+ 
+"The desert leads to certain demise. Do not follow this path
+if you are alone. To do so will be your death."
+ 
+A metallic object can be seen hidden near the base of the post.
+~
+D0
+~
+~
+~
+0 0 5625
+D2
+~
+~
+~
+0 0 2852
+M 0 H 0
+S
+#2852
+A Desert Crossing~
+You have happened upon a cross roads in the sand, a well travelled path
+runs to south, while a smaller trail leads to the east.  The path you
+arrived on, seems to have been swallowed up by the desert, leaving you only
+the two choices remaining.  Growing in the very center of where the paths
+come together, is a large green cactus.  Shimmering on the horizon in the
+distance, the heat seems to have a body of it's own.  To the north, the path
+you arrived on seems to have been swallowed up by the constantly moving
+sands, while south of here continues towards some strange looking objects. 
+The eastern trail seems to lead off into the sands of the desert.  
+~
+0 1056768 10
+D1
+~
+~
+~
+0 0 2853
+D2
+~
+~
+~
+0 0 2863
+M 0 H 0
+S
+#2853
+Eastern Desert Path~
+Running from east to west, this thin looking trail has been nearly wiped
+from view by the winds.  Only a few footprints remain to be seen in the
+brown sand.  To the west, a large cactus can be seen growing from the arid
+desert, while to the east, a large sand dune looms in the distance.  
+~
+0 1056768 10
+D1
+~
+~
+~
+0 0 2854
+D3
+~
+~
+~
+0 0 2852
+M 0 H 0
+S
+#2854
+Climbing the Sand Dune~
+Struggling in the nearly knee deep sand, you seem to loose more ground
+than you gain with each step.  A slightly darker spot of sand looms in the
+center of the path, directly to your east.  Just ahead, you can see the top
+of the sand dune.  The path to the west leads down the sand dune.  
+~
+0 1056768 10
+D1
+~
+~
+~
+0 0 2855
+D3
+~
+~
+~
+0 0 2853
+M 0 H 0
+S
+#2855
+Top of the Sand Dune~
+The view from the top of the sand dune is magnificent.  It allows you to
+see far off into the distance, showing, more sand.  Strangely noticeable,
+the desert life around you seems to be circling towards you.  The path
+curves to the south along the top of the dune, or you may go west, down the
+side.  
+~
+0 1056768 10
+D2
+~
+~
+~
+0 0 2856
+D3
+~
+~
+~
+0 0 2854
+M 0 H 0
+S
+#2856
+Top of the Sand Dune~
+Working it's way from north to south, the trail along this sand dune
+seems easy enough.  The hot desert air beats down upon you, ferocious and
+unforgiving in its heat.  Over the edges of the dune, you can see what looks
+to be several creatures climbing up towards you.  
+~
+0 1056768 10
+D0
+~
+~
+~
+0 0 2855
+D2
+~
+~
+~
+0 0 2857
+M 0 H 0
+S
+#2857
+Top of the Sand Dune~
+The trail here makes a turn from the top of the dune, cutting it's way
+down the western side.  At the bottom, a small oasis of trees can be seen. 
+Parching your skin from above, the sun is relentless and hot as it shines
+down.  
+~
+0 1056768 10
+D0
+~
+~
+~
+0 0 2856
+D3
+~
+~
+~
+0 0 2858
+M 0 H 0
+S
+#2858
+Western Sand Dune~
+Dropping steeply downwards, the sandy wall of this dune is treacherous. 
+Whomever blazed the trail down it's side, surely was secure with it's
+footing.  Growing at the bottom of the dune, a lush green oasis can be seen.
+The path back up the dune looks to steep to transverse.  
+~
+0 1056768 10
+D1
+~
+~
+~
+0 0 2857
+D3
+~
+~
+~
+0 0 2859
+M 0 H 0
+S
+#2859
+Desert Oasis~
+Looking as though it was transported directly from a lush rainforest, the
+trees here are tall and green.  Thick green grass grows with a wild abandon
+along the ground, all seeming to create a circle around an icy looking
+crystal clear spring.  Dotting the grasses in a multitude of colors in the
+small clearing, many different types of flowers can be seen growing.  A
+small pathway runs from the east to west.  Winding through the trees to the
+south, a narrow footpath can be seen, the beginning nearly covered in
+growing flowers and grass.  
+~
+0 34611204 3
+D1
+~
+~
+~
+0 0 2858
+D2
+~
+~
+~
+0 0 2875
+D3
+~
+~
+~
+0 0 2860
+M 0 H 0
+S
+#2860
+Desert Plains~
+Stretching westwards, a dry plain of sand can be seen.  Off in the
+distance, several small specks are visible on the sand.  Looking more
+closely, the spots you noticed seem to have moved, heading towards you.  A
+faint path is visible in the sand, running west out onto the desert plains,
+and eastwards towards a lush oasis.  
+~
+0 1056768 10
+D1
+~
+~
+~
+0 0 2859
+D3
+~
+~
+~
+0 0 2861
+M 0 H 0
+S
+#2861
+Pile of Rocks~
+Blocking the path to the west is a large pile of rocks.  Both giant and
+tiny, they are all black, rough, and extremely warm.  The haphazard pile has
+many small holes visible in it, areas formed as the rocks were strewn here. 
+The path continues around the stone and heads northward, and eastward
+towards a large oasis.  
+~
+0 1056768 10
+D0
+~
+~
+~
+0 0 2862
+D1
+~
+~
+~
+0 0 2860
+M 0 H 0
+S
+#2862
+Desert Plains~
+This heavily travelled path runs from the north to south.  Far to the
+south, a large pile of rocks is visible, while to the north, a large plant
+of some type is visible in the bright sunlight.  The footprints in the dirt
+seem to have been made by many creatures, and some seem to break off from
+the rest towards the east.  A large hole just off the side of the path has
+some white animal bones around it.  
+~
+0 1056768 10
+D0
+~
+~
+~
+0 0 2863
+D1
+~
+~
+~
+0 0 2864
+D2
+~
+~
+~
+0 0 2861
+M 0 H 0
+S
+#2863
+Desert Plains~
+A heavily travelled path leads from the north to south here.  Circling in
+the air overhead, two or three scavengers wait patiently for their next
+meal.  Several large skeletons that lie here are testimony to the perils of
+the desert.  To the south, the trail travels on, and to the north, a large
+plant of some type can be seen.  
+~
+0 1056768 10
+D0
+~
+~
+~
+0 0 2852
+D2
+~
+~
+~
+0 0 2862
+M 0 H 0
+S
+#2864
+Eastern Desert Trail~
+Running from east to west, this trail has been well hidden for a purpose.
+To the west, the path ends, hidden in the brush with care, while to the
+east, something can be seen shimmering in the sands.  
+~
+0 1056772 10
+D1
+~
+~
+~
+0 0 2865
+D3
+~
+~
+~
+0 0 2862
+M 0 H 0
+S
+#2865
+Eastern Desert Trail~
+Working its way from east to west, this heavily travelled path is used by
+all sorts of creatures.  Ankle deep sand covers the landscape as far as you
+can see in every direction.  To the east, a shimmering object of some type
+can be seen, while to the west, the path continues into oblivion.  
+~
+0 1056768 10
+D1
+~
+~
+~
+0 0 2866
+D3
+~
+~
+~
+0 0 2864
+M 0 H 0
+S
+#2866
+Outside A Hidden Structure~
+Standing high in the sands, a tall shimmering wall rises from the ground.
+The golden brown sands of the desert run right up to the base of the wall,
+and it is difficult to tell where the wall ends, and the desert begins.  The
+wall stretches off to the north and south, creating a large square type
+structure.  A heavy looking stone door is set into the wall, glowing with
+energy.  The path from the west runs right into the door.  
+~
+0 1056768 10
+D1
+~
+~
+~
+4 2859 2867
+D3
+~
+~
+~
+0 0 2865
+M 0 H 0
+S
+#2867
+Inside A Glowing Door~
+Stepping from the hot desert into this structure, the differences are
+like night and day.  Their is absolutely no sand visible on the floors or
+walls anywhere, and everything is immaculately neat.  The glowing walls that
+make up this place, is actually sand, held together with a magical energy. 
+A single narrow corridor leads off to the north, while to the east, a
+glowing door can be seen.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2868
+D3
+~
+~
+~
+4 2859 2866
+M 0 H 0
+S
+#2868
+A Narrow Corridor~
+The glowing walls made of sand that form this corridor seem to press
+closer in the further north you proceed.  A sharp turn to the west can be
+seen in the northern corridor, while to the south, it seems to deadend
+against a wall.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2869
+D2
+~
+~
+~
+0 0 2867
+M 0 H 0
+S
+#2869
+A Glowing Corridor~
+The glowing walls of this corridor are squeezed so tightly together, it
+nearly crushes the air from your lungs.  Making an immediate and sharp turn
+to the west, it seems impossible to follow the corridor south.  Visible
+around the bend, a large open room can be seen, multiple shadows play across
+the floor, while in the center, a tall figure shrouded in darkness stands.  
+~
+0 12 0
+D3
+~
+~
+~
+0 0 2870
+M 0 H 0
+S
+#2870
+A Cavernous Room~
+Spread out before you is a large cavernous room.  The ceiling, walls, and
+floor are all made of faintly glowing stone, and nothing impedes your view
+of the raised platform in the center of the room.  Leading to the west is a
+walkway made of sapphire blue stone.  To the east, a small archway can be
+seen.  
+~
+0 1056776 0
+D1
+~
+~
+~
+0 0 2869
+D3
+~
+~
+~
+0 0 2871
+M 0 H 0
+S
+#2871
+A Cavernous Room~
+Snaking its way across the floor, a narrow path made of sapphire blue
+stones paves the way.  Open north either side of the path, the skeletons of
+many different creatures lay, all of them dressed in some fashion of armor
+or other.  Southwards of you, several shadowy figures seem to be moving
+about along the path, while east of here is clear of obstacle.  Visible to
+the west, a raised platform can be seen.  
+~
+0 1056780 0
+D1
+~
+~
+~
+0 0 2870
+D2
+~
+~
+~
+0 0 2872
+M 0 H 0
+S
+#2872
+A Cavernous Room~
+Twisting back to the west, the path leads ever closer to the center of
+this magnificent chamber.  Small statues have been placed at the turn in the
+sapphire blue stones, the grin on their face sinister.  Piled around their
+base, and even partly into the path, a large pile of assorted bones, armor,
+and weapons can be seen.  Faintly noticeable, the tingling sensation of
+great power can be felt, coming from the west.  
+~
+0 1056776 0
+D0
+~
+~
+~
+0 0 2871
+D3
+~
+~
+~
+0 0 2873
+M 0 H 0
+S
+#2873
+Before the Platform~
+Arching upwards to the west, a large raised platform is clearly visible. 
+A wide flight of steps guide the way upwards, coming to a stop in front of
+an obsidian black throne.  Running to the east, a sapphire blue pathway
+winds its way across the room.  
+~
+0 1056776 0
+D1
+~
+~
+~
+0 0 2872
+D4
+~
+~
+~
+0 0 2874
+M 0 H 0
+S
+#2874
+A Raised Platform~
+Totally flat across the surface, this raised platform rises high across
+the floor.  Its smoothness only interrupted by a large obsidian black throne
+placed in the center.  A single break in the pinnacle of the ceiling, placed
+directly over the throne allows light to filter in, though a magical aura
+emanating from the figure seated upon the surface seems to filter up more
+than the light down.  Floating behind the throne, a swirling vortex is
+visible.  
+~
+0 1056776 0
+D5
+~
+~
+~
+0 0 2873
+M 0 H 0
+S
+#2875
+A Narrow Footpath~
+This narrow footpath winds its way through the towering tress, running
+from the north to south.  Break in the trees to the south shows the desert
+stretching onwards again, seemingly neverending in its oppressing amounts of
+sand and heat.  The sound of flowing water can be heard from the north, and
+a small figure can be seen sitting among some multi-colored flowers.  
+~
+0 1056772 3
+D0
+~
+~
+~
+0 0 2859
+D2
+~
+~
+~
+0 0 2876
+M 0 H 0
+S
+#2876
+A Desert Plain~
+Stretching as far as you can see in every direction but north, the land
+is covered in golden brown grains of sand.  The narrow footpath you arrived
+on from the north seems to continue south heading out into the plains that
+are spread before you.  Visible to the north, a small oasis of trees forms a
+type of oasis, offering protection from the overwhelming and suppressive
+heat, several different varieties of lillies can be seen growing along its
+edge.  
+~
+0 1056768 10
+D0
+~
+~
+~
+0 0 2875
+D2
+~
+~
+~
+0 0 2877
+M 0 H 0
+S
+#2877
+A Desert Plain~
+Twisting to the west, the path seems to be heading towards what appears
+to be strange looking sticks stuck into and scattered in the sands of the
+desert plain.  North of here, a lush oasis can be seen, offering protection
+from the oppressive heat.  
+~
+0 1056768 10
+D0
+~
+~
+~
+0 0 2876
+D3
+~
+~
+~
+0 0 2878
+M 0 H 0
+S
+#2878
+Entrance to a Desert Graveyard~
+Rising from the sands to the south, the strange looking sticks that you
+saw from a distance are actually the bones of different creatures stuck to
+form a type of fence.  An archway made of skulls has been built over the
+center of the fence, allowing passage into the protected area.  To the east,
+a narrow footpath can be seen leading through the golden-brown sands, taking
+you away from this place.  
+~
+0 1056768 10
+D1
+~
+~
+~
+0 0 2877
+D2
+~
+~
+~
+0 0 2879
+M 0 H 0
+S
+#2879
+A Desert Graveyard~
+Wafting along the still air, the nearly overwhelming stench of decaying
+flesh assaults your senses mercilessly.  The golden-brown sands of the
+desert have been discolored here and seem nearly red.  Scattered around in
+several in different places, large piles of corpses have been left to rot
+under the unforgiving sun.  Paths lead to the east and west around the
+rotting piles of carcasses.  
+~
+0 1056772 10
+D0
+~
+~
+~
+0 0 2878
+D1
+~
+~
+~
+0 0 2880
+D3
+~
+~
+~
+0 0 2882
+M 0 H 0
+S
+#2880
+A Desert Graveyard~
+The stench of rotting flesh and something else is nearly overpowering
+here, the source of it evident from the large pile of corpses stacked to the
+side of the path.  Different limbs of the assorted creatures appear to have
+had chunks ripped from them, as though they are being eaten by something. 
+The path leads south towards the back of the bone fence, or west towards the
+center of the area.  
+~
+0 1056768 10
+D2
+~
+~
+~
+0 0 2881
+D3
+~
+~
+~
+0 0 2879
+M 0 H 0
+S
+#2881
+A Desert Graveyard~
+Situated to the side of the path, a large pile of corpses has been
+stacked.  The strong odor of rotting flesh wafts along the still air of this
+desert, nearly overpowering your senses.  Different limbs of the assorted
+creatures appear to have had chunks ripped from them, as though they are
+being eaten by something.  The path leads west towards the center of the
+area, or north towards another mound.  
+~
+0 1056768 10
+D0
+~
+~
+~
+0 0 2880
+D3
+~
+~
+~
+0 0 2883
+M 0 H 0
+S
+#2882
+A Desert Graveyard~
+The strong odor of decayed flesh hangs heavily in the air here, the
+source of which is plain from the large pile of corpses stacked to the side
+of the path.  Different limbs of the assorted creatures appear to have had
+chunks ripped from them, as though they are being eaten by something.  The
+path leads south towards the back of the bone fence, or east towards the
+center of the area.  
+~
+0 1048576 10
+D1
+~
+~
+~
+0 0 2879
+D2
+~
+~
+~
+0 0 2884
+M 0 H 0
+S
+#2883
+A Desert Graveyard~
+The smell of decaying flesh is nearly enough to make you pass out here,
+and seems to cling to every fiber of your being.  Directly to the north, a
+rather large pile of corpses blocks your view of the entrance to this
+graveyard.  A slightly large area has been rounded out behind the pile of
+corpses, the narrow footpath branching off to the east and west, leading
+towards the corners of the grisly piles.  South of you, the bone fence is
+clearly in evidence, blocking any further progress in that direction.  
+~
+0 1056768 10
+D1
+~
+~
+~
+0 0 2881
+D3
+~
+~
+~
+0 0 2884
+M 0 H 0
+S
+#2884
+A Desert Graveyard~
+A horrid and powerful stench of rotting decay eminates from the large
+pile of corpses that is stacked on the side of the path.  Different limbs of
+the assorted creatures appear to have had chunks ripped from them, as though
+they are being eaten by something.  The path leads west towards the center
+of the area, or north towards another mound.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 2882
+D1
+~
+~
+~
+0 0 2883
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 2853 spec_nasty
+M 2856 spec_poison
+M 2858 spec_cast_mage
+M 2859 spec_breath_any
+M 2860 spec_breath_any
+M 2862 spec_poison
+M 2863 spec_cast_cleric
+M 2864 spec_poison
+M 2865 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 2866 1 2
+D 0 2867 3 2
+M 0 2851 1 2851 10
+O 0 2851 0 2851
+O 0 2853 0 2854
+M 0 2852 2 2854 10
+E 0 2852 0 16
+M 0 2852 4 2856 10
+E 0 2852 0 16
+M 0 2853 2 2857 10
+E 0 2854 0 9
+M 0 2853 4 2858 10
+M 0 2854 1 2859 10
+O 0 2860 0 2859
+M 0 2855 3 2861 10
+E 0 2855 0 15
+M 0 2856 3 2862 10
+E 0 2856 0 13
+M 0 2861 2 2863 10
+M 0 2857 2 2866 10
+E 0 2858 0 16
+E 0 2859 0 17
+M 0 2857 2 2866 10
+E 0 2858 0 16
+M 0 2865 1 2867 10
+E 0 2864 0 16
+M 0 2865 2 2867 10
+M 0 2859 2 2872 10
+M 0 2860 2 2873 10
+E 0 2864 0 16
+O 0 2865 0 2874
+M 0 2858 1 2874 10
+E 0 2862 0 24
+E 0 2861 0 16
+E 0 2863 0 27
+O 0 2866 0 2874
+E 0 2867 0 17
+O 0 2869 0 2876
+M 0 2852 7 2877 10
+E 0 2852 0 16
+M 0 2862 4 2880 10
+E 0 2870 0 16
+M 0 2862 4 2881 10
+E 0 2870 0 16
+M 0 2864 4 2882 10
+E 0 2870 0 16
+M 0 2863 1 2883 10
+E 0 2871 0 5
+M 0 2864 4 2884 10
+E 0 2870 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

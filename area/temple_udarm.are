@@ -1,0 +1,518 @@
+#AREADATA
+Name {15 99} Shadman *Temple of Udarm~
+Builders Shadowman~
+VNUMs 18650 18699
+Security 1
+End
+
+
+
+#MOBILES
+#18699
+priest~
+The Priest of Udarm~
+The priest of Udarm stands here
+~
+This priest has almost as much power as Shadowman.  He holds all of the
+religious powers as well as Shadowman or Krass.  If you try and desecrate
+this shrine, he will surely have your head.  
+~
+Spiritfolk~
+ABad DEFHTUV 0 S
+100 25 12d1397+3920 100d10+100 6d11+29 18
+-52 -52 -52 -21
+0 0 0 CN
+9 9 1 0
+AHMV ABCDEFGHIJK G unknown
+#0
+
+
+
+#OBJECTS
+#18652
+A~
+a sign~
+A sign is here, bolted into the ground~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 0 P
+#18658
+a~
+a sign is here in the ground~
+A sign is here in the ground~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 0 P
+#18659
+A Portal~
+a portal~
+A portal to the unknown is here~
+unknown~
+29 A 0 0
+0 0 0 18660 0
+0 0 0 P
+#18662
+a~
+(no short description)~
+A sign is here in the ground~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 0 P
+#18666
+a~
+(no short description)~
+A sign is here in the ground~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 0 P
+#18669
+Shadowman's Throne~
+shadowman's Throne~
+The Throne of the Great Shadowman~
+unknown~
+12 R 0 AE
+0 0 0 0 0
+0 0 0 P
+#18670
+relic~
+shadowman's Sacred Relic~
+Shadowman's Sacred Relic~
+unknown~
+1 ABOS A 0
+0 0 999 0 0
+0 1 0 P
+#18674
+skull portal~
+a portal consisting of 5 skulls~
+A portal of 5 skulls is here.  All of the skulls seem to peer at you as you are walking by.  In the middle, it looks like there is something that you can get through~
+unknown~
+29 R 0 0
+0 0 0 18673 0
+0 0 0 P
+#18675
+portal~
+a portal to the temple of Udarm~
+A portal leading to the temple of Udarm~
+unknown~
+29 0 0 0
+0 0 0 18650 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#18650
+Beginning of the Temple of Udarm~
+This is the beginning of the temple of Udarm.  The room is dark and hard
+to see through.  There is definitely a damp stagnant smell in the air
+because it almost makes you choke and gag.  The ground underneath of you is
+hard and is easy to walk on without tripping on anything.  As you take a
+step forward, you hear your footsteps echo throughout the temple.  
+~
+0 1056777 0
+D0
+~
+~
+0 0 18652
+S
+#18651
+the West Wing~
+This is the choice to the west.  This room is also dark and hard to see
+through.  Like them all, there are torches lighting the room.  It is still
+hard to see though.  There is still a chance to turn back, but if you are
+brave you will hope that you have chosen right.  
+~
+0 1056777 0
+D0
+~
+~
+0 0 18654
+D1
+~
+~
+0 0 18652
+S
+#18652
+An Intersection~
+This is the first intersection where you have to make a choice of where
+to go.  To get more information, read the sign that is here.  This room is
+also dark and gloomy.  Just like every room in the temple probably.  There
+are two ways to go, west, or east, choose carefully 
+~
+0 1056777 0
+E
+sign~
+The first question to get through this temple is this
+Who is the Demi-God of Udarm?
+If you choose Tul, go east
+If you choose Krass, go west
+~
+D1
+~
+~
+0 0 18653
+D2
+~
+~
+0 0 18650
+D3
+~
+~
+0 0 18651
+S
+#18653
+The East Wing~
+So you have chosen the east path, I hope that you have chose carefully. 
+This room is lighted by lanterns, but it is still not enough to see very
+well.  To the north is one of the doors that you have chosen.  To the west,
+you will be able to check again.  
+~
+0 1056777 0
+D0
+~
+~
+0 0 18656
+D3
+~
+~
+0 0 18652
+S
+#18654
+Before a Door~
+This is a dark room that is hard to see through.  The ground here is more
+gritty than the other parts of the temple.  Looking north you see a door
+that is one of the choices to see if you have chosen the right path The door
+to the north has a strange symbol on it, it is a star.  The edges on the
+star though are different than most stars, they are made from skulls.  
+~
+0 1056777 0
+D0
+~
+doorway~
+1 0 18658
+D2
+~
+~
+0 0 18651
+S
+#18656
+Before a Door~
+This room is like the other, barely lighted and hard to see through.  The
+ground here is also different from the other floor, it is more gritty.  The
+door in front of you has a symbol that is a star, and the edges of the star
+are made from skulls.  
+~
+0 1056777 0
+D0
+~
+doorway~
+1 0 18659
+D2
+~
+~
+0 0 18653
+S
+#18657
+Before the West Door~
+This is the west door for the question.  This room is also very dark and
+hard to see through.  Hopefully you wont take a wrong turn, but you never
+know until you take the chance.  
+~
+0 1056777 0
+D1
+~
+~
+0 0 18658
+S
+#18658
+Before the East Door~
+This was the right way to go as you may have expected.  This room has no
+light in it and you will have to fend for yourself for the light.  The only
+way to go here is west, and that is to the other door that could be the
+right one.  There is a sign here, you should probably read it.  
+~
+0 1056777 0
+E
+sign~
+The second question is as follows
+Who are those that speak directly to me, and when one dies, a Master Cleric will replace?
+Go to the left if you choose Cleric
+Go north through the door if you choose Chosen
+~
+D0
+~
+doorway~
+1 0 18660
+D3
+~
+~
+0 0 18657
+S
+#18659
+A Portal~
+This is obviously the wrong way.  It is a room of nothingness, the only
+thing that is here is a portal leading to the unknown.  The only way to
+figure out where it goes, is to enter it, hopefully you don't die.  
+~
+0 1056780 0
+S
+#18660
+After The Correct Door~
+You have chosen the right path to go.  There can't be that much more to
+go through to get through this temple.  This room is like all of the others,
+dark and damp.  The only way to go now is north 
+~
+0 1056777 0
+D0
+~
+~
+0 0 18662
+S
+#18661
+Before a Door~
+This is one of the options that you have been given.  There is only one
+chance to turn back now if you don't think that you have chosen correctly. 
+The room here is dark and has the smell of corpses in the air.  There is a
+door to the north.  
+~
+0 1056777 0
+D1
+~
+~
+0 0 18662
+S
+#18662
+An Intersection~
+This is yet another intersection in the temple Like all of the other
+intersections, there are two ways to go and there is a sign with your next
+question.  The room is pretty well lighted here though, unlike all of the
+other rooms.  
+~
+0 1056777 0
+E
+sign~
+The Next Question is this
+What is Shadowman
+If you go west, it is the God of Fate
+If you go east, it is The God of Death
+~
+D1
+~
+~
+0 0 18663
+D2
+~
+~
+0 0 18660
+D3
+~
+~
+0 0 18661
+S
+#18663
+Before a Door~
+This is one option that you have to go to.  If you did not like your
+answer, you can go back to the west, it is your last chance.  The room here
+is dark and has the stench of blood and corpses.  There is a door to the
+north.  
+~
+0 1056777 0
+D0
+~
+doorway~
+1 0 18664
+D3
+~
+~
+0 0 18662
+S
+#18664
+After the Correct Door~
+You have chosen well, and I see that cause you haven't died yet.  The
+only way to go from here is north.  You hear noises to the north as if you
+are close to someone, or something.  Just hope that it is good.  
+~
+0 1056777 0
+D0
+~
+~
+0 0 18666
+S
+#18665
+Before a Door~
+This is to the west of the sign, and this is your last chance to turn
+back.  This room is dark like every other one.  You hear the sounds of
+something coming to the north, but you do not know if it is human or not. 
+It sounds like a banshee's shriek.  
+~
+0 1056777 0
+D0
+~
+doorway~
+1 0 18668
+D1
+~
+~
+0 0 18666
+S
+#18666
+An Intersection~
+This is yet another intersection in the temple.  There must not be that
+much left in it, because you can hear sounds coming from the north, but you
+can't tell which direction that they are coming from, east or west.  This
+room, like all, is dark.  
+~
+0 1056777 0
+E
+sign~
+Here is the last question
+What is Shadowman's job as the God of Death?
+If you chose to channel the souls of the misguided, go west
+If you chose to kill as many people as possible, go east
+~
+D1
+~
+~
+0 0 18667
+D2
+~
+~
+0 0 18664
+D3
+~
+~
+0 0 18665
+S
+#18667
+Before a Door~
+This is to the east of the sign, and it is the last chance that you have
+to turn back.  If you choose wrong, you will have to go to the unknown, but
+if you are right, the mighty Shadowman awaits you.  You can hear voices
+coming from the north, but they don't sound human, they sound like pathetic
+and restless souls.  Just hope that you don't become one of them.  
+~
+0 1056777 0
+D3
+~
+~
+0 0 18666
+S
+#18668
+Before the Throne Room of the Great Shadowman~
+So, you have made it through the temple.  You also chose all of the
+correct paths, good job.  This is the first sign of light that you have seen
+since you entered the temple.  It is also refreshing here, there is a cool
+breeze that seems to calm your nerves.  The only way to go is north.  
+~
+0 1056776 0
+D0
+~
+~
+0 0 18669
+S
+#18669
+Shadowman's Throne Room~
+This is the throne room of the mighty Shadowman.  Before you stands a
+large throne that is made from some strange black metal.  The glimmer off of
+it makes the room darker for some reason.  Well, be proud that you made it
+to here.  
+~
+0 34603016 0
+D2
+~
+~
+0 0 18668
+S
+#18670
+A Portal~
+This is obviously the wrong way.  It is a room of nothingness, the only
+thing that is here is a portal leading to the unknown.  The only way to
+figure out where it goes, is to enter it, and hopefully you don't die.  
+~
+0 1089548 0
+S
+#18671
+A Portal~
+This is obviously the wrong way.  It is a room of nothingness, the only
+thing that is here is a portal leading to the unknown.  The only way to
+figure out where it goes, is to enter it, and hopefully you don't die.  
+~
+0 1056780 0
+S
+#18672
+A Portal~
+This is obviously the wrong way.  It is a room of nothingness, the only
+thing that is here is a portal leading to the unknown.  The only way to
+figure out where it goes, is to enter it, and hopefully you don't die.  
+~
+0 1056780 0
+S
+#18673
+The Shrine of Shadowman~
+This is where the brave get a spot in the religion of Udarm.  The room is
+dark and it is hard to see anything without a light source.  The smell of
+rotting flesh is in the air from the corpses that have been sacrificed to
+Shadowman.  
+~
+0 13 0
+S
+#18674
+A dead end~
+This part of the caverns comes to a sudden stop.  It is a cold and narrow
+passageway that is hard to see in and get through.  There is something on
+the wall that grabs your attention.  There are five skulls that are in the
+shape of a star and the middle of the skulls looks slightly different from
+the other part of the wall, a different color and a different texture.  
+~
+0 1 0
+D1
+~
+~
+0 0 15093
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 18654 0 0
+D 0 18656 0 0
+D 0 18658 0 0
+D 0 18663 0 0
+D 0 18665 0 0
+O 0 18652 0 18652
+O 0 18658 0 18658
+O 0 18659 0 18659
+O 0 18662 0 18662
+O 0 18666 0 18666
+O 0 18669 0 18669
+M 0 18699 1 18669
+O 0 18659 0 18670
+O 0 18659 0 18671
+O 0 18659 0 18672
+O 0 18675 0 18673
+O 0 18674 0 18674
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

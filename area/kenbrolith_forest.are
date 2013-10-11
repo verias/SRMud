@@ -1,0 +1,1268 @@
+#AREADATA
+Name {25 30} Despoth Kenbrolith Forest~
+Builders None~
+VNUMs 19000 19049
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#19000
+maiden forest~
+a forest maiden~
+A forest maiden is here, smiling at you.
+~
+The forest maiden is very beautiful.  As you look at her, you notice that
+she is faintly glowing.  Her gown is made of a grey fabric, which, for some
+odd reason, is blending in with the ferns behind her.  In her hand is an
+Ivory staff, engraved with elvish runes.  On the top of the staff is a great
+green orb, which seems to be faintly glowing too.  
+~
+unique~
+ABRTW J 650 0
+10 0 3d23+120 10d10+100 2d3+2 none
+6 6 6 6
+0 ABQ B Z
+(null) (null) either 45
+AHMV ABCDEFGHIJK medium unknown
+#19001
+dryad lesser~
+a lesser dryad~
+A Lesser Dryad is here, surveying the trees.
+~
+The Lesser Dryad is made of many layers of wood, which looks quite new
+and fresh.  He has long arms, that go down to about mid-shin.  He has a wide
+head, and deep, hazy black eyes.  On his shoulders are a few spots of moss,
+about the size of quarters.  
+~
+unique~
+A ITXYZ 550 0
+25 5 8d48+400 25d10+100 3d5+7 blast
+0 0 0 2
+KOR BJ L KS
+(null) (null) female 112
+ACDGHMNVXc ABCDEFGHIJKLOPQUVW large unknown
+#19002
+dryad greater~
+a greater dryad~
+A Greater Dryad stands here, looking old and wise.
+~
+The Greater Dryad is made entirely of wood, and is quite tall.  He has a
+wide head, and long, thick arms.  He has short legs, and is hunched over. 
+On his back is a blanket of moss and ferns.  He is almost covered in moss,
+which is used to blend in with his background.  His eyes faintly glow red,
+which seem to stare down into your soul...  
+~
+unique~
+A BJNPQ 650 0
+28 70 9d55+470 28d10+100 3d5+9 blast
+0 0 0 1
+CKOR Q BQS DHZ
+(null) (null) female 126
+ACGHMNV ABCDEFGHIJKLQ large unknown
+#19003
+veklith dryad king~
+veklith the dryad king~
+Veklith, the Dryad King is standing here.
+~
+~
+unique~
+ABO BJNVW 800 0
+30 5 10d60+520 30d10+100 3d6+8 wrath
+-1 -1 -1 0
+CEIJK Q BIQS DHZ
+(null) (null) female 135
+AGHMNV ABCDEFGHIJKLQ huge unknown
+#19004
+ranger kjord~
+kjord the ranger~
+An Elven Ranger of Kjord is here, silently watching you.
+~
+Kjord is a mighty warrior, skilled in the arts of combat along with the
+art of magic.  He has silver hair that flows to his shoulders, and is
+wrapped in a cloak of grey.  He amazingly blends in with his background, and
+is very hard to see.  
+~
+unique~
+AO BJPQ 500 0
+31 7 10d63+545 31d10+100 4d5+8 slap
+-2 -2 -2 0
+EIJR B BCD Q
+(null) (null) female 139
+AHMV ABCDEFGHIJK medium unknown
+#19005
+guard dryad elite~
+an elite dryad guard~
+An Elite Dryad Guard is here, staring intently at you.
+~
+The Elite Dryad Guard looks amazingly strong, and is armed with a long
+spaded spear.  Over his body is a woven robe of leaves, his head is
+decorated with a ceremonial helmet.  His eyes glow with a faint blue, and he
+has a small curved scimitar dangling at his side.  He looks very tough and
+could probably snap a tree in half in one blow.  
+~
+unique~
+AB JNVc 750 0
+29 8 9d57+495 29d10+100 3d6+8 slap
+-1 -1 -1 0
+CEIJNR 0 BI H
+(null) (null) female 130
+AGHMNV ABCDEFGHIJKLQ large unknown
+#19006
+wyrm swamp ~
+a swamp wyrm~
+A Swamp Wyrm lunges at you!
+~
+~
+snake~
+A VXa -900 0
+30 60 10d60+520 30d10+100 3d6+8 smash
+-1 -1 -1 0
+EHMN K IL HIN
+(null) (null) male 135
+AGRXYc ADEFKLPQVX medium unknown
+#19007
+superbeast~
+the superbeast~
+The Superbeast stands here, radiating divine power.
+~
+~
+wyvern~
+A DFT 0 0
+35 0 10d76+654 35d10+100 4d6+9 shbite
+-3 -3 -3 -1
+ABCDEFGHJKMNO JL L KS
+(null) (null) male 157
+ABCGZc ABCDEFGHIJKOPQUVWX giant unknown
+#0
+
+
+
+#OBJECTS
+#19000
+sign wood~
+a damp wooden sign~
+A wet, half buried sign is here.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+1 15 0 P
+#19001
+pond small~
+a small pond~
+A crystal clear pond with a small waterfall is here.~
+unknown~
+fountain R 0
+30 30 'water' 0 0
+0 0 0 P
+#19002
+grass puffy tuft~
+a small tuft of puffy grass~
+A tuft of puffy grass looks quite comfortable.~
+unknown~
+furniture IR 0
+0 0 0 0 0
+0 0 0 P
+#19003
+staff ivory~
+an ivory staff~
+An ivory staff is lying on the ground.~
+unknown~
+treasure AI AO
+0 0 0 0 0
+20 20 200 P
+A
+12 15
+A
+3 1
+#19004
+leaves cape~
+a cape made of leaves~
+A cape made of leaves is here, blending in with the ground.~
+unknown~
+protect A Aa
+ABC ABC ABC A 0
+25 5 6000 P
+A
+12 20
+#19005
+staff wooden huge~
+a huge wooden staff~
+A huge wooden staff has been hastily dropped here.~
+unknown~
+staff A AN
+28 5 5 'mass invis' 0
+25 20 125 P
+#19006
+leaf~
+a leaf~
+A leaf is fluttering in the wind.~
+unknown~
+food 0 A
+BD 0 0 A 0
+1 1 2 P
+#19007
+grey cloak elven lothlorien~
+a grey elven cloak~
+A grey Elven Cloak is here, blending in with the ground.~
+unknown~
+protect G AZ
+ABC ABC ABC A 0
+27 5 500 P
+A
+14 10
+A
+13 10
+#19008
+lothlorien bow ~
+a bow of elven style~
+A bow from the elven city of Lothlorien is here.~
+unknown~
+weapon G AN
+exotic 7 7 slap D
+27 3 135 P
+A
+19 1
+#19009
+spear ~
+an elite dryad guard's spear~
+An Elite Dryad Guard's Spear rests on the ground here.~
+unknown~
+weapon AG AN
+whip 7 8 none D
+29 15 145 P
+#19010
+leaf robe leaves ~
+a robe woven of leaves~
+You "think" you see a robe woven of leaves on the ground, but your not sure...~
+unknown~
+clothing A AD
+0 0 0 0 0
+29 5 300 P
+A
+13 10
+A
+1 1
+#19011
+helmet ceremonial~
+a ceremonial helmet~
+A Dryad Ceremonial Helmet has been dropped here.~
+unknown~
+armor T AE
+C C C A 0
+25 10 145 P
+A
+12 10
+A
+4 1
+#19012
+fruit pink~
+a small pink fruit~
+A tasty-looking pink fruit has been left here.~
+unknown~
+pill A A
+10 'mass invis' 'detect hidden' 'reserved' 'reserved'
+1 1 30 P
+#19013
+sword elven~
+a sword of elven style~
+A Sword of Elven make is here.~
+unknown~
+weapon 0 AN
+sword 5 8 lunge 0
+20 5 100 P
+#19014
+mace kaena~
+a mace called Kaena~
+The mace known as Kaena is here.~
+unknown~
+weapon AKS AN
+staff 29 6 punch A
+99 15 495 P
+#19015
+vial pink small~
+a small vial full of a pink liquid~
+A small glass vial containing a pink liquid rests on the ground.~
+unknown~
+potion 0 A
+1 'dispel magic' 'detect poison' 'reserved' 'reserved'
+0 1 1 P
+#19016
+duster black long~
+a long black duster~
+A long, black duster rests in a heap on the ground.~
+unknown~
+armor CG AV
+E E E C 0
+99 15 495 P
+#19017
+blade death ~
+the blade of death~
+A long, black blade rests on the ground.~
+unknown~
+weapon 0 AN
+sword 11 13 slice 0
+75 25 375 P
+A
+1 2
+#19018
+vortex red swishing~
+(no short description)~
+(no description)~
+unknown~
+portal R 0
+A 0 0 CEGHMN 0
+0 0 0 P
+#19019
+nut small~
+a small nut~
+A small nut sits here, looking.......nutty.~
+unknown~
+pill 0 A
+10 'faerie fire' 'create food' 'reserved' 'reserved'
+3 0 90 P
+#19020
+altar merkavan black~
+a black merkavan altar~
+A black, evil-looking altar stands here.~
+unknown~
+furniture AEGJ 0
+0 0 0 0 0
+15 0 0 P
+#19027
+orange~
+a juicy orange~
+A large bright orange feels to be perfectly ripe.~
+unknown~
+food 0 AO
+C 0 0 0 0
+0 1 1 P
+#19028
+orange tree~
+an orange tree~
+Though this tree is short, its trunk is quite wide and so is very established.  It's covered with bright orange fruit.~
+unknown~
+container R 0
+400 0 0 0 0
+0 0 0 P
+#19029
+small bench~
+a small bench~
+A small wooden bench looks worn by the weather and plain nestled amongst the roses.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#19030
+key to the garden~
+a key to the garden~
+A simple iron key is shaped in an elegant pattern.~
+unknown~
+key W A
+0 0 0 0 0
+0 1 2 P
+#19031
+Small Mithril Key~
+a small mithril key~
+A small mirthril key glitters in the light.~
+unknown~
+key SW AO
+0 0 0 0 0
+0 0 0 P
+#19032
+Large Bed~
+a large and comfortable bed~
+This large and comfortable bed is covered in satiny sheets and thick warm blankets. The thick pillows at the head of the bed make it look extremely inviting.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#19033
+Closet~
+a small closet~
+A small closet has been built into the northern wall.~
+unknown~
+container R 0
+1000 AC 0 0 0
+0 0 0 P
+#19034
+Sheer Nightie~
+a sheer nightie~
+A sheer nightie made of a silken material looks like it will be very comfortable to sleep in.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+1 0 0 P
+#19035
+Tree Hole~
+a small hole~
+This small hole seems to lead down into some kind of den.~
+unknown~
+portal R 0
+0 0 0 ABDEGJLO 0
+0 0 0 P
+#19036
+Assorted Furs Bed~
+a pile of assorted furs~
+An inviting pile of furs has been spread upon the floor of this den.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#19037
+Wooden Table~
+a large wooden table~
+This round table has been crafted from beautifully cut wood. Six comfortable looking chairs have been placed around it.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#19038
+Small Couch~
+a small leather couch~
+This small couch is barely large enough to fit two people comfortably. It is covered in soft suede leather, and the two cushions on it are plush and comfortable.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#19039
+Leather Chair~
+a large and comfortable leather chair~
+This large chair has leather backing and seating inside of its frame. It looks to be extremely comfortable and inviting.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#19000
+Swampy Entrance to Kenbrolith Forest~
+As you step under the natural archway, you feel a strange sensation that
+you are being watched.  A thick mist is hanging around you, shrouding bushes
+and shrubs.  It is, oddly, quite cold.  There is some strange magical force
+at work here.  A small wooden sign lies to your right, half buried in thick,
+gooey mud.  
+~
+0 5 3
+E
+sign~
+The writing on the sign has been scratched in some unknown language.  The
+letters are very elegant, and very graceful.  Like they were one with the
+wood.  Around the writing is a carved border of Ivy and Flowers.  
+~
+D2
+You see a swampy bend in the forest, entangled with mist.
+~
+~
+~
+0 0 19001
+M 0 H 0
+S
+#19001
+Ankle Deep Mud~
+The forest around you has thinned out to a few trees here and there. 
+Mist hangs low to the ground, and many fallen trees stick up like backs of
+giant beasts.  Odd and eerie sounds come from all around you, and the mud
+below bubbles and gurgles.  Shadows seem to move in the distance, encircling
+you.  
+~
+0 1 3
+D0
+You see the one of the entrances to Kenbrolith Forest.  
+~
+~
+~
+0 0 19000
+D1
+You see a damp and dark intersection in the marsh.  
+~
+~
+~
+0 0 19003
+M 0 H 0
+S
+#19003
+An Intersection in the Marsh~
+The air here is colder then before, and the dripping is louder, almost a
+gushing noise.  The mist is heavier too, like a blanket covering the ground.
+The trees around you are greener than usual, and the bushes are dripping
+with moisture.  The sound of water is coming from the south.  
+~
+0 1 3
+D1
+~
+~
+~
+0 0 19005
+D2
+You see a peaceful clearing, with a small pond in the middle.  
+~
+~
+~
+0 0 19004
+D3
+~
+~
+~
+0 0 19001
+M 0 H 0
+S
+#19004
+A Peaceful Waterfall~
+You come to a small pond, with a small waterfall pouring over the rocks
+into it.  There is no mud here, instead there is soft, short grass.  This
+looks like a peaceful spot.  The grass is not trampled upon, so you can tell
+that no one has been here in a long, long time.  You feel strangely
+protected here.  
+~
+0 33555457 3
+D0
+~
+~
+~
+0 0 19003
+M 0 H 0
+S
+#19005
+Knee-High Mud~
+The mud here is deep and thick.  An odd smell comes over you, and you
+feel a strange sensation.  There is heavy mist all around you, and it feels
+like the trees are reaching in to grab you.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 19006
+D1
+~
+~
+~
+0 0 19007
+D2
+~
+~
+~
+0 0 19008
+D3
+~
+~
+~
+0 0 19003
+M 0 H 0
+S
+#19006
+A Beautiful Clearing~
+You are standing under a canopy of trees.  All around you, the chirping
+of birds can be heard.  The leaves above you are a rusty gold color, and the
+trees are a rich brown.  Little stones litter the ground, and the leaves are
+trampled down, as if some heavy creature has trod upon them.  Visible
+through the trees to the west, a small cottage is visible.  
+~
+0 5 3
+D1
+~
+~
+~
+0 0 19026
+D2
+~
+~
+~
+0 0 19005
+D3
+~
+~
+~
+4 19031 19031
+M 0 H 0
+S
+#19007
+A Path in the Woods~
+To the grass right and left of you are big, tall trees.  The chirping and
+singing of birds is so loud, that all other sounds are drowned out.  The
+path below you has been trod on many times, by big feet.  It wore down the
+now it is just hard dirt.  
+~
+0 1 3
+D1
+~
+~
+~
+0 0 19010
+D2
+~
+~
+~
+0 0 19009
+D3
+~
+~
+~
+0 0 19005
+M 0 H 0
+S
+#19008
+Yet Another Dead End~
+There is little mud on the ground, mostly thin patches of grass.  It is
+quite dark and quiet here, no birds can be heard.  A sense of peace and
+tranquility come over you as you stand here.  In the ground below you, you
+see the footprints of a great being, made long ago.  
+~
+0 1 3
+D0
+~
+~
+~
+0 0 19005
+M 0 H 0
+S
+#19009
+The Boulder~
+Here you see a huge boulder, covered in vines and weeds.  It has been
+engraved with pictures of tree-people defending a tree from...  What looks
+like goblins.  The drawings are very crude, using simple lines and curves,
+but it is easy to decipher.  Suddenly, all is silent.  No birds, no rustling
+leaves, just silence.  There is some magical, supernatural force at work. 
+What it is, you cannot tell...  
+~
+0 0 3
+E
+boulder~
+Upon further examination, you see the following words:
+Two roads diverged in a wood,
+And sorry I could not travel both
+And be one traveller, long I stood,
+And looked down one as far as I could, To where it bent in the undergrowth
+Then took the other, just as fair,
+And having perhaps better claim,
+Because it was grassy and wanted wear
+Though as for that passing there,
+Had worn them really about the same.
+And both equally lay, In leaves no step had trodden black.
+Oh, I kept the first for another day!
+Yet knowing how way leads onto way,
+I doubted if I should ever come back.
+I shall be telling this with a sigh,
+Somewhere ages and ages hence
+Two raods diverged in a wood, and I-
+I took the one less traveled by,
+And that has made all the difference.
+-Robert Frost
+~
+E
+sign~
+BEWARE!  You are about to enter Marghor, the land of Merkava.  Enter at
+your own risk!  
+~
+D0
+~
+~
+~
+0 0 19007
+D2
+~
+~
+~
+0 0 16262
+M 0 H 0
+S
+#19010
+Another Intersection in the Marsh~
+You can hear the gurgling of water and the croaking of frogs.  All The
+water here is up o your knees, and water lilies bob up and down in the
+water.  You can hear the gurgling and croaking of frogs as you wade through.
+All around you, trees stick out of the water like natural pillars, wrapped
+in mist.  The roof above you is completely made of branches of trees,
+interwoven so barely any rain can come through.  
+~
+0 1 3
+D0
+~
+~
+~
+0 0 19011
+D2
+~
+~
+~
+0 0 19012
+D3
+~
+~
+~
+0 0 19007
+M 0 H 0
+S
+#19011
+Inside a large Tree~
+You are inside a huge, hollow tree, at least one hundred feet tall.  It
+is illuminated with torches, and by their light, carvings glow and flicker
+about you.  They show tree-men emerging from the ground, planting gardens,
+and raising kin.  
+~
+0 1 3
+D2
+~
+~
+~
+0 0 19010
+M 0 H 0
+S
+#19012
+A patch of Trees~
+You are standing in a sort of gloomy patch of trees.  The mist around you
+is thicker, but lower to the ground.  It is unusually damp here, and eerie
+sounds echo around you.  Above you, the trees hang over like a natural roof.
+A few droplets of water drip through, making a steady splashing in the mud. 
+A small hut is barely visible in the mist to the east.  
+~
+0 1 3
+D0
+~
+~
+~
+0 0 19010
+D1
+~
+~
+~
+1 0 19014
+D2
+~
+~
+~
+0 0 19013
+M 0 H 0
+S
+#19013
+Inside the Patch of Trees~
+You are standing in a small patch of trees.  It is extremely dark in
+here, save the faint glowing of eyes around you.  The croaking of frogs and
+the humming of insects seem to engulf you, echoing off the trees and stones.
+Leaves around you.  All around you it seems that the trees are towering over
+you, trying to grab you.  
+~
+0 1 3
+D0
+~
+~
+~
+0 0 19012
+D1
+~
+~
+~
+0 0 19015
+M 0 H 0
+S
+#19014
+A small Hut~
+This is a small, but cozy hut.  The walls around you are built out of
+wood, which has a dark, smoky color.  A makeshift bed has been set up in the
+corner, covered in scrolls and documents.  A table sits in the middle of the
+room, also covered in scrolls and documents.  The floor is of crudely-cut
+stone tiles.  
+~
+0 8 0
+E
+table~
+The table looks normal, but is covered with scrolls and documents.  As
+you shuffle through the papers, you notice elven runes and writing.  They
+look like recipies and spells, but they have been written quickly, and are
+hardly legible.  
+~
+D3
+~
+~
+~
+1 0 19012
+M 0 H 0
+S
+#19015
+Farther Into the Trees~
+It is incredibly dark in here churns but the croaking of frogs and
+humming of insects have died away to a faint buzz in the distance.  A
+splashing noise can be heard ahead.  Below you you see what looks like a
+long twisty track in the ground.  It looks very fresh, and very moist.  Your
+nose suddenly catches an awful smell, like that of rotting leaves.  Your
+stomach churns at the scent.  
+~
+0 1 3
+D1
+~
+~
+~
+0 0 19016
+D3
+~
+~
+~
+0 0 19013
+M 0 H 0
+S
+#19016
+Deep Swamp~
+The smell here is incredibly bad.  Dead trees and bushes stick out of the
+mud around you.  You notice that some of the trees look a little more like
+dryads then the rest.  Mist encircles everything here, and visibility is
+extremely limited.  Big lumps of grassy water-plants stick up out of the
+mud, like backs of giant creatures.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 19018
+D1
+~
+~
+~
+0 0 19017
+D3
+~
+~
+~
+0 0 19015
+M 0 H 0
+S
+#19017
+The Garden~
+As you step onto dry land, you come across a garden.  In it grows many
+fruits and vegetables, some of which you have never seen before.  For some
+strange reason, it is not dark here.  Like the darkness was suddenly lifted
+away.  At the far end of the garden, you see a large tree, glowing faintly
+blue.  On it's branches hangs small but plump fruits.  Just the sight makes
+your mouth water.  
+~
+0 1028 0
+D1
+~
+~
+~
+0 0 11500
+D3
+~
+~
+~
+0 0 19016
+M 0 H 0
+S
+#19018
+Waist High Swamp~
+The water here is waist high, and very dark.  You cannot see anything
+below you.  The ground beneath the water is all sticky mud.  You can hear
+the croaking of frogs about you, and several unidentifiable noises.  Along
+the shore you see a well worn patch of mud, that looks like a slide caved
+into the ground.  Up, past the top of the slide, you see a small mound of
+dirt with a hole in the front.  
+~
+0 1 3
+E
+mound~
+You glance at the small mound.  It looks like it was put together by some
+creature to serve as a shelter.  It isn't very tall, but very wide and thick
+ly made.  
+~
+D0
+~
+~
+~
+0 0 19019
+D2
+~
+~
+~
+0 0 19016
+M 0 H 0
+S
+#19019
+Shoulder Deep Swamp~
+The mist now encircles you head, and you can barely see your hand in
+front of your face.  The water below you is a murky green, almost black. 
+The water bubbles here and there, suggesting that there is a natural gas
+pocket below the swamp.  That explains the smell.  A loud bellow from the
+north sends chills down your spine.  
+~
+0 1 3
+D0
+~
+~
+~
+0 0 19020
+D2
+~
+~
+~
+0 0 19018
+M 0 H 0
+S
+#19020
+Under the Muck~
+Your eyes sting as you try to look around.  All about you, little bits of
+grass and wood float aimlessly.  The water is very murky, and visibility is
+low You can see a hole in the ground below you.  Bubbles are rising out of
+it, and it looks like a large bubble is covering the entrance.  
+~
+0 1 7
+D2
+~
+~
+~
+0 0 19019
+D5
+~
+~
+~
+0 0 19021
+M 0 H 0
+S
+#19021
+A Smelly Hole~
+This room is amazingly dry, except for the middle of the floor.  Oddly,
+you can breathe in here...  A putrid stench comes from a small hole in the
+wall The edges of the hole are green, and a fungus grows around it.  The
+carcass of some small animal has been pushed into the corner.  Something is
+living down here.  
+~
+0 0 0
+D4
+~
+~
+~
+0 0 19020
+M 0 H 0
+S
+#19026
+A Faint Footpath~
+A quiet coolness surrounds you as you move along this faint footpath. 
+Ancient trees dwarf you as they soar up into the sky above you, blocking out
+any view of it.  The sounds of animals and birds in the forest are muted and
+softened by the trees and cushiony ground.  This area seems to uplift your
+spirits magically.  An elegant tall iron gate to the north lets you get a
+glimpse of beautiful gardens inside them.  
+~
+0 1048576 3
+D0
+~
+gates~
+~
+1 19030 19028
+D3
+~
+~
+~
+0 0 19006
+M 0 H 0
+S
+#19027
+The Gardens~
+The cheerful sound of water bubbling down a creek is matched with a
+beautiful little pond that has a small waterfall feeding it.  Directly to
+the west is a stone and wood gazebo that is surrounded by large blossoms of
+white and peach roses.  A little bench is nestled amongst the roses, looking
+over the pond.  Small colourful flowers fill the green grass with bright
+dots of colour which frame a little footpath that leads to the south.  A
+large tree casts spots of shade on the ground, cooling the area.  A tall
+iron fence has been built around the waterfall and pond to the north and
+east here.  
+~
+0 1048576 2
+E
+pond~
+The pond fills most of this corner of the garden, which should give
+enough room for a few people to swim in.  Looking into the deep waters you
+can see brightly coloured fish swimming about peacefully.  The water is cool
+to the touch, and the surface is perfectly still except where the waterfall
+feeds it.  
+~
+D2
+~
+~
+~
+0 0 19028
+M 0 H 0
+S
+#19028
+The Gardens~
+You stand at the entrance of some beautiful gardens.  Directly to your
+south a large elegant iron gate leads back out into the forest while a small
+footpath leads you north and west into the gardens.  Standing tall in what
+looks like the middle of the grounds is a small tree with bright orange
+fruit all over it.  Growing up the trunk of this tree is a dark green vine
+of ivy.  Brightly coloured flowers of all sorts fill the patches of bright
+green grass around the footpath.  A large iron fence encloses the garden to
+the east here.  
+~
+0 1048576 2
+D0
+~
+~
+~
+0 0 19027
+D2
+~
+gates~
+~
+1 19030 19026
+D3
+~
+~
+~
+0 0 19029
+M 0 H 0
+S
+#19029
+The Gardens~
+Beautiful gardens surround you and are enclosed in a tall iron fence that
+frames this clearing in the forest to the west and south.  Immediately to
+the north is a large stone and wood gazebo that you can see through to the
+forest on the other side.  Surrounding its base are large beautiful roses in
+white and a peach colour, blossoms in various stages of bloom.  You can hear
+a small bubbling sound coming from the northeast, and you can see that the
+small footpath you are on to the east branches to the north as well. 
+Dotting the gardens are ancient tall trees, left to cast a cooling shade. 
+You notice some beautiful crystals that seem to be growing from the ground
+in the southwestern corner of the fence here.  A beautiful, relaxing chiming
+sound can be heard in the air.  
+~
+0 1048576 2
+E
+crystals~
+These amazing crystals seem to be growing up from the ground, as though
+they were plants.  They slowly change colours before your eyes, and you
+determine that the beautiful chiming music in the air is coming from them.  
+~
+D1
+~
+~
+~
+0 0 19028
+D4
+~
+~
+~
+0 0 19030
+M 0 H 0
+S
+#19030
+The Gazebo~
+A large airy room opens around you, built of stone columns and a wood
+roof and floor.  Running around the west and north just outside of the
+gazebo is a tall iron fence, enclosing the beautiful gardens that open to
+the east and south from here.  Filling almost all of the western section of
+the gazebo is a large stone fireplace, that always seems to have a cheerful
+fire crackling in its depths.  Most of the floor, except nearest the
+fireplace and steps, is covered with a thick plush rug, that looks extremely
+soft and comfortable.  
+~
+0 1048584 0
+D5
+~
+~
+~
+0 0 19029
+M 0 H 0
+S
+#19031
+A Cozy Living Room~
+Small yet cozy, this rooms design speaks of nothing but comfort.  The
+glossy hardwood floors are covered in thick skins from various animals,
+though skillfully arranged around the little furniture that resides here.  A
+large picture window has been built into the eastern wall, allowing a view
+out into the meadow beyond.  A sturdy looking door adorns the same wall as
+the window, allowing access out of the cottage.  A small fireplace has been
+built into the northern wall out of dark red and brown bricks, the heat from
+the hearth warm and soothing.  Just in front of the fireplace, a small couch
+has been placed, just large enough to hold two people.  A single chair has
+been placed on either end of the couch, forming a semi-circle that is
+centered around the fireplace.  Visible through the doorway to the west is a
+small kitchen and dining room.  A small wooden staircase has been placed in
+the north-east corner, spiraling upwards to the second floor.  
+~
+0 1048584 0
+D1
+~
+~
+~
+4 19031 19006
+D3
+~
+~
+~
+0 0 19032
+D4
+~
+~
+~
+0 0 19033
+M 0 H 0
+S
+#19032
+A Small Dining Area~
+Small and neat, this room has been designed and built for ease and
+comfort.  The glossy hardwood floors shine in the light that spills in from
+the glass double doors to the south.  A single counter runs from the western
+wall, halfway across the floor, splitting the room neatly in half.  On the
+northern side of the counter, a small kitchen has been setup.  Complete with
+a stove, sink, and small pantry, everything that is needed to prepare a hot
+meal is available.  The southern half of the room has been setup as a dining
+room.  A wooden table has been placed in the center of the room, with six
+padded chairs around it, while a small counter runs along the south wall,
+for placing the serving dishes.  Hanging over the table, a small chandelier
+is visible, providing illumination at night.  Visible to the east, a cozy
+looking room can be seen through the open doorway.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 19031
+D3
+~
+~
+~
+3 0 19034
+M 0 H 0
+S
+#19033
+A Cozy Bedroom~
+Warm and cozy, this room is decorated in shades of dark red and brown
+colors.  The plush carpeting that covers the floor is of the type to simply
+swallow your feet when you walk across it.  A large window has been placed
+in the western wall, providing a view of the garden behind the cottage. 
+Dominating the majority of the room, a large bed has been placed against the
+center of the southern wall.  Its satiny sheets and thick blankets seem to
+invite you to crawl in between them and rest.  Thick pillows have been
+placed at the head of the bed, the cases matching the sheets of the bed.  A
+small closet is visible on the northern wall.  Visible in the north-west
+corner, a wooden staircase spirals downwards in lazy circles.  
+~
+0 34603016 0
+D5
+~
+~
+~
+0 0 19031
+M 0 H 0
+S
+#19034
+A Small Garden~
+Neatly trimmed, this garden is brimming with assorted colors.  The many
+different flowers and plants grow here, have all been planted for the
+pleasure of the owner.  A large oak tree grows in the center of the garden,
+providing a comforting shade from the overhead sun.  Noticible among the
+base of the tree, a small hole can be seen.  Enclosing the garden, a wooden
+fence has been erected, green ivy twines its way along the top, causing it
+to blend in nearly perfectly with the lush green bushes.  A single rose bush
+has been planted against the western fence, though it is unlike any ever
+seen.  The only visible way out is through the glass double doors to the
+east, leading back into the cottage.  
+~
+0 34603008 2
+D1
+~
+~
+~
+3 0 19032
+M 0 H 0
+S
+#19035
+A Cozy Den~
+This hollowed out chamber looks to have been purposely dug into the earth
+as a den of sorts.  Many different types of furs have been piled across the
+floor, creating a warm and inviting bed to snuggle in.  The only way out is
+to climb back out of the hole near the ceiling.  
+~
+0 34603016 0
+D4
+~
+~
+~
+0 0 19034
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 19003 spec_cast_mage
+M 19004 spec_cast_mage
+M 19006 spec_breath_acid
+S
+
+
+
+#RESETS
+D 0 19006 3 2
+D 0 19012 1 1
+D 0 19014 3 1
+D 0 19026 0 2
+D 0 19028 2 2
+D 0 19031 1 2
+D 0 19032 3 1
+D 0 19034 1 1
+M 0 19001 6 19001 10
+E 0 19011 0 0
+M 0 19001 6 19003 10
+M 0 19000 1 19004 10
+O 0 19002 0 19004
+O 0 19001 0 19004
+M 0 19002 3 19005 10
+E 0 19008 0 16
+M 0 19001 1 19010 10
+E 0 19011 0 6
+M 0 19005 1 19011 10
+E 0 19010 0 5
+E 0 19009 0 16
+M 0 19003 1 19011 10
+E 0 19005 0 16
+E 0 19004 0 3
+M 0 19001 1 19013 10
+M 0 19002 1 19013 10
+M 0 19002 2 19015 10
+M 0 19001 4 19015 10
+O 0 19012 0 19017
+O 0 19018 0 19021
+O 0 19029 0 19027
+O 0 19028 0 19028
+P 0 19027 0 19028 10
+P 0 19027 0 19028 10
+P 0 19027 0 19028 10
+P 0 19027 0 19028 10
+O 0 19038 0 19031
+O 0 19039 0 19031
+O 0 19037 0 19032
+O 0 19032 0 19033
+O 0 19033 0 19033
+P 0 19034 0 19033 10
+O 0 19035 0 19034
+O 0 19036 0 19035
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

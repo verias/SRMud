@@ -1,0 +1,1568 @@
+#AREADATA
+Name { ALL } Illyian Shadow Grove~
+Builders Davryn Kardigan Remy~
+VNUMs 5700 5849
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#5700
+scout orc creature~
+an orc scout~
+A green-skinned creature stalks around here quietly, searching for something.
+~
+This creature has long black hair that is tied into a ponytail that
+stands up on its own above his head.  His dull copper eyes gleam out as his
+surroundings, taking every detail in as he scouts for problems around his
+camp.  He wears very little armor, and rags for pants, which allows him to
+move his small, muscular body around with ease.  His skin is a deep green,
+and he makes grunting noises every so often quietly.  
+~
+orc~
+AP DFJPV 0 0
+70 0 11d443+2036 70d10+100 5d8+22 digestion
+-17 -17 -17 -15
+0 0 Q S
+(null) (null) female 315
+AHMV ABCDEFGHIJKWY medium unknown
+#5701
+orcish warrior~
+orcish warrior~
+An Orcish warrior dances here to the beat of the drums.
+~
+Fiery reddish golden eyes shine out from the dull, blotched green skin of
+this creature.  Steam blows out of his nostrils with each strong breath as
+he watches his surroundings.  He is dressed in a little chestplate, which
+straps across one half of his chest only.  He wears a spiked helmet on his
+head, which is loose and moves around when his head does.  His legs are clad
+in pants, which don't look to provide any cover at all.  He carries a large
+halberd made of powerful steel, ready to cleave through anything.  
+~
+orc~
+AQ J 0 0
+73 0 11d505+2194 73d10+100 5d9+22 digestion
+-19 -19 -19 -16
+CDE 0 Q S
+(null) (null) female 328
+AHMV ABCDEFGHIJKWY medium unknown
+#5702
+orcish green butcher~
+orcish butcher~
+A green skinned creature stands here, cleaving flesh from a corpse.
+~
+This orc gleefully wields a giant cleaver to slice the limbs from bodies of 
+his victims.  He takes what he needs and puts it on the large stone table, 
+to save for later.  He is half-wittedly trying to collect all the body parts 
+he can, to create a monster to help them fight off their enemies, and gain 
+access to the tower.  
+~
+orc~
+AQ J 0 0
+74 0 11d528+2248 74d10+100 5d9+23 digestion
+-19 -19 -19 -17
+0 0 Q S
+(null) (null) female 333
+AHMV ABCDEFGHIJKWY medium unknown
+#5703
+dismembered orc green~
+a dismembered orc~
+A green creature lies with no limbs, squirming around in the corner.
+~
+This orc was beaten and thrown in a corner after all four of his limbs
+were removed.  He lays in the corner, unmoving, muttering about a huge
+shadow guarding the tower.  There is a large burn mark on his chest, and he
+seems to not have even noticed his limbs were removed, from the pain of the
+burn.  There are weak black flames still trickling out of his chest, the
+fires having hit deep in him, somehow sustaining his life to make him feel
+endless torment.  
+~
+orc~
+AB J 0 0
+70 0 11d443+2036 70d10+100 5d8+22 crush
+-17 -17 -17 -15
+0 0 Q S
+rest rest female 315
+AHMV ABCDEFGHIJKWY medium unknown
+#5704
+skiess lizard tunneler~
+a skiess tunneler~
+This large lizard wanders the cave, waiting for orders to create a new tunnel to expand the hive.
+~
+While rather small for his race, the size of a lion, this skiess can hold
+his own in a fight against the more basic of their types.  It has a very
+long, barbed tail that whips about angrily.  The scales covering this lizard
+are small and fit together perfectly like a puzzle.  The scales reflect
+every image, and in the desert, make this creature very hard to spot.  There
+is a large spike on its head, which allows it to tunnel into the ground
+easily.  
+~
+dragon~
+AQ DFJOTVc 0 0
+76 0 11d574+2358 76d10+100 5d9+24 none
+-20 -20 -20 -18
+C L BEH FI
+(null) (null) male 342
+ACGHMVZc ACDEFGHIJKLOPQUVX medium unknown
+#5705
+lizard guardian skiess~
+a skiess guardian~
+A large lizard crawls about on the ceiling, guarding the cave.
+~
+This creature emits a high pitched hiss that can be heard from hundreds
+of yards away.  There are three heads that glare out one has piercing blue
+eyes, one with fiery red eyes, and one with dull green eyes.  The green-eyed
+head is in the middle, and is the largest, looking to control the other two.
+The large body of the creature stays crouched low to the ground, not willing
+to move from its spot in front of the cave.  Each of the six feet are
+adorned with perfect razor claws, ready to strike if it is needed.  
+~
+dragon~
+AQ DFHJOTVc -1000 0
+80 0 11d677+2588 80d10+100 5d10+24 none
+-21 -21 -21 -19
+CDEFM L BEH FIS
+(null) (null) male 360
+ACGHMVZc ACDEFGHIJKLOPQUVX large unknown
+#5706
+orcish chieftain~
+an orcish chieftain~
+The chief of the tribe rests here in his throne.
+~
+Clad in very fine, jeweled armor, this orc seems to be a noble, or a
+leader, from first glance.  He wears a helmet on his head, which is adorned
+with a dark gem in the center, and the top has been cut off, to make it look
+as though it was a crown.  His armor, unlike the rest of the orcs, is full
+body plate, and actually looks menacing enough to block any attack against
+him.  He has a barbed whip on his hips, coiled up, but the handle is right
+next to his hand, for quick use.  
+~
+orc~
+ABQ HJV 0 0
+75 0 11d551+2303 75d10+100 5d9+24 digestion
+-19 -19 -19 -17
+C 0 Q S
+(null) (null) female 337
+AHMV ABCDEFGHIJKWY medium unknown
+#5800
+shadow skeletal mass~
+a shadow~
+The skeletal version of yourself gazes towards you quietly, the body flickering in existence.
+~
+Solid, yet not solid this mass of shadow moves gracefully in the form of
+a human skeleton, masked in armor.  The skull is the most defined in detail
+and moves in and out from the shape of every creature in the room, trying to
+copy the exact look.  It seems to lack the ability to form eyeballs but it
+still continues on, not needing the sight.  The shadow is covered in a basic
+plate armor that looks like its body, probably to make it more intimidating.
+It holds a real weapon though a long halberd seems to be the only real thing
+on it.  
+~
+unique~
+AB DFHV 0 0
+95 0 12d1182+3558 95d10+100 6d10+29 none
+-30 -30 -30 -25
+CEFK BILQ EFG NS
+(null) (null) male 427
+ACGHMV ABCDEFGHIJKMQUV medium unknown
+#5801
+shadow dark sha'ldor~
+Sha'ldor~
+A dark form stands before you, no features on it's body able to be seen other than the shape.
+~
+Nearly featureless and just a moving silhouette against any light, this
+shadow moves with perfect fluidity and grace, unmatched by even the slickest
+of thieves.  The creature hums with a magical energy that seems to keep it
+together.  When he speaks, the voice echoes about the room from all the
+shadows and does not come from the body itself.  
+~
+unique~
+A CDFHJOTVZc 0 0
+100 25 12d1397+3920 100d10+100 6d11+29 charge
+-35 -35 -35 -27
+CEFGK BLQ CMP NS
+(null) (null) male 450
+ACGHIMVZc ABCDEFGHIJKLOPUVW medium unknown
+#5802
+swirls shadows darkness~
+swirls of shadows~
+A large swirl of darkness looms here menacingly like its own little storm.
+~
+A huge mass of darkness floats here silently.  The shadows instinctively 
+drawing to it and joining its collection as it builds and grows itself into 
+a small storm of black.  There is nothing to distinguish it from the shadow 
+of a huge building other than the fact that it is tangible, the shadows are 
+now something of reality.  
+~
+human~
+AB HO 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+CEFGIK BQ CDEFGHIJKLMQ NS
+(null) (null) male 450
+AHMV ABCDEFGHIJK large unknown
+#5803
+Rayne blue fairy~
+Rayne~
+A blue fairy flitters around here, her deep blue leather wings flapping calmly.
+~
+A little tiny fairy darts around.  She is only a foot tall at best but there 
+are some disturbing things about her.  Unlike most fairies, she has black 
+leather wings that beat noisily in the air like bat wings, or even dragon 
+wings.  Tiny wisps of water float around her body, sheathing her chest and 
+hips in blue.  Solid blue eyes gleam out from her pale face, gazing around 
+and considering everything.  Hair the color of the bright daylight sky falls 
+down to her waist and flows around her like there is always a gust around 
+this little fae.  Little cackles of energy can be heard and the aura of 
+magic emanates heavily from her.  
+~
+unique~
+A CDEFGOTVZc -1000 0
+100 20 12d1397+3920 100d10+100 6d11+29 slap
+-35 -35 -35 -27
+F ABCI OP HMN
+(null) (null) either 450
+ACGHMV ABCDEFGHIJKOP small unknown
+#5804
+Fyre ember fairy~
+Fyre~
+An ember fairy flitters around here, her bright red wings flapping calmly.
+~
+A little tiny fairy darts around.  She is only a foot tall at best but there 
+are some disturbing things about her.  Unlike most fairies, she has red, 
+fiery wings that beat noisily in the air.  Tiny flames encircle her body, 
+sheathing her chest and hips in red.  Solid red eyes gleam out from her pale 
+face, gazing around and considering everything.  Hair the color of the 
+bright fires of her wings falls to her shoulders, cut short and very 
+straight.  Little cackles of energy can be heard and the aura of magic 
+emanates heavily from her.  
+~
+unique~
+A CDEFGOTVZc -1000 0
+100 20 12d1397+3920 100d10+100 6d11+29 slap
+-35 -35 -35 -27
+F ABCH OP IMN
+(null) (null) either 450
+ACGHMV ABCDEFGHIJKOP small unknown
+#5805
+Terra mocha fairy~
+Terra~
+A light mocha-colored fairy floats here quietly.
+~
+A little tiny fairy darts around.  She is only a foot tall at best but there 
+are some disturbing things about her.  She has brown, leather wings that 
+beat noisily in the air like bat wings, or even dragon wings.  Carefully 
+placed, curved rocks cover her body over her chest and hips.  Solid brown 
+eyes gleam out from her pale face, gazing around and considering everything. 
+ She has very long, natural brown hair that flows in curls around her waist. 
+ Little cackles of energy can be heard and the aura of magic emanates 
+heavily from her.  
+~
+unique~
+A CDEFGOTVZc -1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 slap
+-35 -35 -35 -27
+F ABCEKQ OP MN
+(null) (null) either 450
+ACGHMV ABCDEFGHIJKOP small unknown
+#5806
+Wynd pale fairy~
+Wynd~
+A tiny pale fairy darts around here, almost moving quicker than the eye can follow.
+~
+A little tiny fairy darts around.  She is only a foot tall at best but
+there are some disturbing things about her.  Unlike most fairies, there are
+no signs of her wings anywhere, she is just floating magically.  Air is
+swirling around her hips and chest in such a manner that it distorts
+everyone's vision of her.  Solid white eyes gleam out from her pale face,
+gazing around and considering everything.  Bright blonde hair gleams out
+with the rest of this girl's almost angelic form, cascading down to her
+mid-back.  Little cackles of energy can be heard and the aura of magic
+emanates heavily from her.  
+~
+unique~
+A CDEFGOTVZc -1000 0
+100 20 12d1397+3920 100d10+100 6d11+29 slap
+-35 -35 -35 -27
+F ABCJ OP IM
+(null) (null) either 450
+ACGHMV ABCDEFGHIJKOP small unknown
+#5807
+shade dark fairy~
+Shade~
+A dark fairy floats before you, blending in the dark well.
+~
+A little tiny fairy darts around.  She is only a foot tall at best but
+there are some disturbing things about her.  Unlike most fairies, she has
+black leather wings that beat noisily in the air like bat wings, or even
+dragon wings.  Swirls of shadows cover her hips and chest, covering the pale
+skin in black.  Solid black eyes gleam out from her pale face, gazing around
+and considering everything.  Her very short, black hair is perfectly spiked
+up around her head, looking very sharp.  Little cackles of energy can be
+heard and the aura of magic emanates heavily from her.  
+~
+unique~
+A CDEFGOTVZc -1000 0
+100 20 12d1397+3920 100d10+100 6d11+29 slap
+-35 -35 -35 -27
+0 ABC OP MN
+(null) (null) either 450
+ACGHMV ABCDEFGHIJKOP small unknown
+#0
+
+
+
+#OBJECTS
+#5700
+hole tree~
+a small hole~
+This small hole seems to have something inside of it.~
+unknown~
+container R 0
+5 0 0 0 0
+1 1000 0 P
+#5701
+note letter paper~
+a tree's note~
+A piece of elegant parchment lies here with writing in large, dark letters.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+1 1 10 P
+E
+note letter paper~
+Beware to all who read this.  This tree is the guardian of the secret to
+the Shadow Realm, a world much different from this one.  Tread lightly, for
+your gods cannot hear you in this place, there is no return once you are
+inside.  
+~
+#5702
+pool water darkness~
+a dark pool~
+This dark pool is motionless, beckoning the weary towards its seemingly endless depths.~
+unknown~
+portal R 0
+0 0 A DFHJKM 0
+1 1 0 P
+#5703
+Teepee~
+a teepee~
+A hide stretches over a few poles creates a teepee here.~
+unknown~
+portal R 0
+0 0 0 ACDGJKM 0
+1 0 0 P
+#5704
+cleaver da chopper~
+"Da'Chopper"~
+A huge bloodstained meat cleaver rests here, waiting for a hand to use it on unsuspecting flesh.~
+unknown~
+weapon 0 AN
+mace 9 16 wrath D
+74 5 370 P
+#5705
+armor jeweled plate~
+jeweled armor~
+This full plate rests here silently, glimmering with different colors and shapes of exotic gems.~
+unknown~
+armor ABS AD
+CD CD CD AB 0
+75 5 375 P
+A
+17 -5
+#5706
+whip barbed~
+long barbed whip~
+This whip is long and full of sharp barbs.~
+unknown~
+weapon M AN
+flail 11 13 lunge D
+75 3 375 P
+A
+19 4
+#5707
+large spear~
+a large spear~
+This spear looks very sharp and deadly, long enough to impale half a dozen men in one jab.~
+unknown~
+weapon 0 AN
+dagger 37 3 stab D
+72 12 360 P
+#5708
+halberd~
+a halberd~
+This halberd looks strong, durable, and able to cleave through armor and flesh in one swipe.~
+unknown~
+weapon A AN
+whip 10 14 lunge DF
+73 5 365 P
+A
+19 2
+A
+18 2
+#5800
+obsidian shard shadows~
+an obsidian shard~
+A perfectly cut obsidian shard hangs from a chain made completely of shadows.~
+unknown~
+key ABWb AC
+0 0 0 0 0
+100 1 0 P
+#5801
+gatekeeper orb darkness~
+a gatekeeper orb~
+A dark orb floats silently over the pedestal in this room, mists of darkness swirling inside the globe.~
+unknown~
+treasure ABCJKLX 0
+0 0 0 0 0
+110 10000 1100 P
+#5802
+opal shard chain~
+a opal shard~
+A perfectly cut opal shard hangs here from a chain made completely of shadows.~
+unknown~
+key ABWb AC
+0 0 0 0 0
+100 1 0 P
+#5803
+shadow halberd dark~
+a shadow halberd~
+A rather large halberd lies along the ground, the dark blade absorbing the light that hits it.~
+unknown~
+weapon AB AN
+whip 13 14 lunge DF
+95 5 475 P
+#5804
+magic metallic key~
+a magic key~
+A large metallic key lays here, humming with energy.~
+unknown~
+key BW AO
+0 0 0 0 0
+1 1 1 P
+#5805
+Orb of Shadows Sphere~
+an Orb of Shadows~
+An Orb of Shadows floats here, appearing very ominous.~
+unknown~
+container RST AR
+150 0 0 0 0
+100 0 0 P
+A
+13 40
+A
+18 2
+A
+19 2
+#5806
+clawed gauntlets~
+some clawed gauntlets~
+This gauntlet has been crafted to fit over your glove, making it a potent weapon.~
+unknown~
+weapon R AN
+exotic 12 16 charge 0
+100 5 500 P
+A
+13 30
+A
+18 3
+A
+19 3
+#5807
+dagger shimmering~
+a shimmering dagger~
+This dagger shimmers translucently on the ground, fading in and out of view.~
+unknown~
+weapon R AN
+bow 12 16 crunch C
+100 5 500 P
+A
+18 1
+A
+19 3
+#5808
+dark claws~
+dark claws~
+Dark claws hang from Sha'ldor's fingertips, ready to strike.~
+unknown~
+weapon P AN
+exotic 14 14 charge 0
+100 1 500 P
+#5809
+black book magic~
+a {Kblack{x book~
+A book lies here silently, the black bindings humming with unforseen magic.~
+unknown~
+weapon ABEGJLMb AN
+exotic 12 16 slap 0
+100 1 500 P
+A
+12 50
+A
+1 -2
+#5810
+wisps darkness shadow~
+wisps of {Kdarkness{x~
+Long strands of shadow encircle whatever they can get around, spinning endlessly.~
+unknown~
+armor C AD
+E E E AC 0
+100 0 500 P
+#5811
+wisps water~
+wisps of water~
+Water lays in a small puddle here, swirling in a circle endlessly.~
+unknown~
+armor 0 AD
+E E E AC 0
+100 1 500 P
+#5812
+gusts air~
+gusts of {Wair{x~
+Wind swirls madly around here, staying in a small little sphere.~
+unknown~
+armor 0 AD
+E E E AC 0
+100 1 500 P
+#5813
+perfectly pebbles~
+perfectly cut {ypebbles{x~
+Three small pebbles lie here, curved to fit a small female body.~
+unknown~
+armor 0 AD
+E E E AC 0
+100 1 500 P
+#5814
+strands fire~
+strands of {rfire{x~
+Fire runs around in a small little circle here, burning brightly but cool to touch.~
+unknown~
+armor 0 AD
+E E E AC 0
+100 1 500 P
+#5815
+no name~
+(no short description)~
+(no description)~
+unknown~
+weapon 0 0
+exotic 0 0 none 0
+0 0 1 P
+#5816
+shadow robe darkness~
+a {Kshadow{x robe~
+A robe of pure {Kdarkness{x lies here, the shadows shifting back and forth on each other.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+1 1 1 P
+#0
+
+
+
+#ROOMS
+#5700
+A Foggy Pool~
+The path soon fades away into a small, open field of short, dark green
+grass.  The area is a perfect circle, only a few dozen yards in diameter.  A
+small stream trickles from the north into a pond, which sits in the dead
+center of the grove.  When the water reaches the lake, it stops moving, for
+there are no ripples on the lake, it is left, eerily quite and unspoiled. 
+Shadows rise from different points in the grass, like small black flames,
+and fade away into a mist a couple inches above the cold grass.  The fog
+covers the ground lightly, spreading only to the wall of trees, hiding what
+might be hidden on the grass.  
+~
+0 4 3
+D0
+~
+~
+~
+0 0 5701
+D3
+~
+~
+~
+0 0 5702
+M 0 H 0
+S
+#5701
+The Tree of Darkness~
+Another little extension of the wide grove, but something is unusual
+here.  There is a large tree here, looking strong and unscathed by the times
+as the rest of the trees here have been.  The leaves are a deep green, and
+make a cover for everyone from the weather inside here, like a massive tent.
+The shadows crawl upon the ground towards the tree, covering its bark and
+leaves, making the entire thing almost a silhouette of a tree against the
+sky.  One branch reaches forward, looking like an arm, with one finger
+extended, pointing to the south endlessly.  There is a small hole beside the
+arm, looking big enough for someone to reach in.  
+~
+0 0 3
+D2
+~
+~
+~
+0 0 5700
+M 0 H 0
+S
+#5702
+Deep in the Shadow Grove~
+As the path grows faint, and the forest grows more dense, there is a
+sudden feeling of entrapment.  Trees branch out over the path, endlessly
+grabbing for each other, and creatures which pass them.  The sounds of
+animals have softened or disappeared completely, yet the cry of a bird
+breaks the eerie silence every few moments.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 5700
+D3
+~
+~
+~
+0 0 16069
+M 0 H 0
+S
+#5703
+Within Shadow~
+The portal opening is in the center of a runic circle, etched in a dark
+fire on the ground.  There is a mountain range running to the west of the
+tower, which lies directly south from here.  The ground here is pure black,
+and is solid completely under a couple inches of what seems to be black
+sand.  The horizon can be seen for miles in each direction, and a huge tower
+can be seen faintly, in the center of the huge desert.  
+~
+0 1056769 10
+D0
+~
+~
+~
+0 0 5704
+D2
+~
+~
+~
+0 0 5705
+M 0 H 0
+S
+#5704
+The Desert~
+As far as the eye can see, there are dark sands, that only seem to cover
+a few inches above a solid ground that cannot be seen.  There are hills of
+sand, and nothing else.  The mountains seem distant, and the tower is barely
+able to be seen across the black mists.  
+~
+0 1056769 0
+D0
+~
+~
+~
+0 0 5707
+D2
+~
+~
+~
+0 0 5703
+M 0 H 0
+S
+#5705
+Over a large hill~
+There is a large hill that protrudes here from the endless flatlands.  It
+overlooks a small village to the south.  There are a few moving creatures in
+the village, but none can be made out from here.  This hill provides a
+greater sight all around the desert, than anywhere else.  There are many
+small camps with small burning fires in the center dotting the landscapes.  
+~
+0 1056769 0
+D0
+~
+~
+~
+0 0 5703
+D2
+~
+~
+~
+0 0 5706
+M 0 H 0
+S
+#5706
+Nearing a small village~
+Nestled at the bottom of a hill, this is probably the easiest place to be
+seen by the creatures from the camp, since the landscape does not offer
+trees, or rocks, or even grass to hide under.  A roaring bonfire sits in the
+center of a few teepees, which are smeared with blood to create a crude
+writing.  There are a few heads of various creatures on spears sitting
+outside of the camp, a fair warning to those that near.  Several large orcs
+stand guard around the camp, watching with glowing eyes.  
+~
+0 1056769 0
+D0
+~
+~
+~
+0 0 5705
+D2
+~
+~
+~
+0 0 5708
+M 0 H 0
+S
+#5707
+Lost in the Desert~
+The sense that this desert is not natural is apparant all around. 
+Everything looks exactly the same, and no matter where someone walks to the
+east or west, nothing gets closer.  The desert to the north looks
+unpassable, it goes on as far as the eye can see against the layer of dark
+fog, and is perfectly flat.  
+~
+0 1056769 10
+D1
+~
+~
+~
+0 0 5707
+D2
+~
+~
+~
+0 0 5704
+D3
+~
+~
+~
+0 0 5707
+M 0 H 0
+S
+#5708
+Outside a teepee~
+Settled here in the sand is a very crude teepee.  The teepee itself is
+made out of a scaled hide of some creature, and the sticks are made of
+blood-stained bones, to hold it all up.  The sands seem to have almost
+gained a blood stain to them, near the entrance of the teepee, from the
+bodies of living or dead creatures being dragged inside.  There are
+rudimentary war paintings depicting the orcs' engagements about the realm,
+their victories against creatures of all shapes and sizes.  
+~
+0 1056777 0
+D0
+~
+~
+~
+0 0 5706
+D2
+~
+~
+~
+0 0 5710
+M 0 H 0
+S
+#5709
+Inside a teepee~
+Once you step inside the tent, you are overwhelmed with the stench of
+death.  There are bodies lying around, orcs and other creatures alike.  Most
+are being carved up by a butcher who seems to be taking what he will need
+for his unforeseen ends.  The room is covered in blankets to soak up the
+puddle of blood, which stain the sand as well.  Limbs and body parts are all
+strewn across a massive stone table, which serves as a holding place for
+everything he removes.  There is a limbless orc huddled in the corner,
+muttering under his breath.  
+~
+0 1056777 0
+D3
+~
+~
+~
+0 0 5708
+M 0 H 0
+S
+#5710
+A roaring bonfire~
+Stacks upon stacks of wood burns brightly in the darkness, making a
+beacon of light for all the nocturnal creatures, threatening them to stay
+away from the encampment.  The orcs dance around this fire ceremoniously,
+beating on the hide drums with bones of creatures.  All the warriors are
+gathered here, waiting for the signal for something to do.  
+~
+0 1056769 0
+D0
+~
+~
+~
+0 0 5708
+D1
+~
+~
+~
+0 0 5712
+D2
+~
+~
+~
+0 0 5713
+D3
+~
+~
+~
+0 0 5711
+M 0 H 0
+S
+#5711
+The remains of a teepee~
+The fire seems to have caught the wind in the realm, and a spark was
+tossed over to this tent.  The hide is still perfectly good, and rests here,
+covering the ashes and bodies that were in when the alcohol inside erupted
+into flames.  It has been some time since the accident occurred, and the orc
+tribe has not acquired any alcohol since then, from fear of repetition.  
+~
+0 1056769 0
+D1
+~
+~
+~
+0 0 5710
+M 0 H 0
+S
+#5712
+A large hole~
+Whatever used to be here, a dozen yards out from the huge bonfire, is now
+gone.  There is a gaping hole that leads into the earth, tunneled out by
+very skilled creature.  The hole is dozens of yards long, and is a perfect
+circle.  The sides are smooth, and the very top bursts outward, like
+something had erupted out before the tunnel had finished.  The tunnel
+continues into the darkness below the ground.  
+~
+0 1056769 0
+D3
+~
+~
+~
+0 0 5710
+D5
+~
+~
+~
+0 0 5714
+M 0 H 0
+S
+#5713
+A large teepee~
+A large leather hide has been stretched across four stakes in the ground
+and is held up by something inside, making a large tent in this tiny
+encampment.  The blackened ground seems somewhat lighter as it nears the
+tent.  The torches that once burned brightly on the edge of this prized room
+are faded and spent.  This camp must be older than it seemed.  
+~
+0 1056769 0
+D0
+~
+~
+~
+0 0 5710
+D3
+~
+flap~
+~
+1 0 5718
+M 0 H 0
+S
+#5714
+Under the camp~
+Under the earth seems even darker than above the earth, even in this
+place.  The ground is made of dirt, and the mist and shadows are gone.  All
+that is left in the darkness is the eerie quiet, and the stale air.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 5715
+D4
+~
+~
+~
+0 0 5712
+M 0 H 0
+S
+#5715
+A tunnel split~
+The tunnel splits into two separate directions, making a T under the
+ground.  It continues south, towards a faint glimmer of light.  To the north
+the darkness continues, as the slope of the tunnel actually seems to go
+downwards ever so gently.  To the west you can see light, coming through a
+hole that leads up to the surface.  
+~
+0 1056777 0
+D0
+~
+~
+~
+0 0 5717
+D2
+~
+~
+~
+0 0 5716
+D3
+~
+~
+~
+0 0 5714
+M 0 H 0
+S
+#5716
+A dead end~
+The tunnel ends here abruptly, whatever was tunneling realized it had made a 
+wrong move, and had to turn back.  The care at the end of the tunnel, that 
+is put into the rest is remarkable, the tunnel ends in a perfect box.  The 
+sides are completely smooth, and in the wall lies a marking, it looks like a 
+scale, something left behind.  
+~
+0 1056777 0
+E
+scale~
+A scale lies here, in the walls, glowing slightly in the darkness.
+~
+D0
+~
+~
+~
+0 0 5715
+M 0 H 0
+S
+#5717
+The continuing darkness~
+The tunnel winds its way deeper into the earth, the slope getting more
+and more gradual.  Eerie darkness and quiet fills the air here, instilling a
+sense of dread among the ones who dwell too long in this place.  The smooth
+ground feels a little slippery, the slope causing the creatures inside to
+lose their footing.  The path breaks off to the east and west as well here,
+moving upwards.  
+~
+0 1056777 0
+D0
+~
+~
+~
+0 0 5721
+D2
+~
+~
+~
+0 0 5715
+M 0 H 0
+S
+#5718
+Chieftain's Tent~
+Inside this large tent there is an even greater sign that the camp has
+been alive for quite some time.  There is a large, crude throne made for the
+chief to sit on when he is addressing the tribe.  The tent is adorned with
+objects that have been plundered, strewn about this whole room in some sort
+of muddled organization.  Pillows are set across the back and tied together
+to make a rather large bed for the chief and his company to sleep on. 
+Candles drip wax slowly to the ground as they burn with all their might to
+fight the darkness that consumes this room.  
+~
+0 1056769 0
+E
+head~
+A dismembered head lies stabbed onto a spear, which rests on the ground, blood dripping down the wood.
+~
+D1
+~
+~
+~
+1 0 5713
+M 0 H 0
+S
+#5719
+~
+~
+0 4 0
+M 0 H 0
+S
+#5720
+~
+~
+0 4 0
+M 0 H 0
+S
+#5721
+The fall~
+The slope finally becomes too drastic, and those creatures which walked
+this path, are unable to stop the inevitable pull of gravity.  In the
+darkness, a faint growl can be heard, warning those which have come this far
+already.  
+~
+0 1056777 9
+D2
+~
+~
+~
+0 0 5717
+D5
+~
+~
+~
+0 0 5722
+M 0 H 0
+S
+#5722
+A nest entrance~
+The slope of the ground finally stops, leaving you in a large underground
+cave.  The walls here are perfectly smoothed out, like the rest of the
+tunnel, although stalactites hang down from the high ceiling.  There are
+things moving on the ground with a snake-like fluidity, crawling around
+carrying pieces of creatures that have been here before.  
+~
+0 1056777 0
+D0
+~
+~
+~
+0 0 5723
+D1
+~
+~
+~
+0 0 5725
+D4
+~
+~
+~
+0 0 5721
+M 0 H 0
+S
+#5723
+A red pool~
+The edge of the ground disappears into a pool that expands over the next
+part of the cave.  There are small stepping stones leading along the water,
+beckoning towards the other side of the lake, where a large tunnel starts
+again, and leading back into the darkness.  
+~
+0 1056777 0
+D0
+~
+~
+~
+0 0 5724
+D2
+~
+~
+~
+0 0 5722
+M 0 H 0
+S
+#5724
+An entrance to a cave~
+The pool ends, and the slick ground starts again, leading to a large cave
+hole.  The hole is covered with a mucus-like web, dripping down but
+maintaining its shape somehow.  There is a large shadow moving above the
+web.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 5723
+M 0 H 0
+S
+#5725
+The Labyrinth~
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 5726
+D3
+~
+~
+~
+0 0 5722
+M 0 H 0
+S
+#5726
+The Labyrinth~
+~
+0 0 0
+D0
+~
+~
+~
+0 0 5728
+D1
+~
+~
+~
+0 0 5729
+D2
+~
+~
+~
+0 0 5727
+D3
+~
+~
+~
+0 0 5725
+M 0 H 0
+S
+#5727
+The Labyrinth~
+~
+0 0 0
+D0
+~
+~
+~
+0 0 5726
+M 0 H 0
+S
+#5728
+The Labyrinth~
+~
+0 0 0
+D2
+~
+~
+~
+0 0 5726
+M 0 H 0
+S
+#5729
+~
+~
+0 0 0
+D3
+~
+~
+~
+0 0 5726
+M 0 H 0
+S
+#5800
+Gates of Shadow~
+Even the darkness cannot penetrate the unholy walls of this citadel as it
+looms over the land like a tyrant.  The walls stretch high into the air,
+seemingly endless.  The entire fortress seems to be made out of a smooth,
+perfect black metal.  Atop the battlements there are huge, intimidating
+spikes that rise up in front of the shadows that dart along the wall.  This
+fortress seemingly was made for war.  There are {Wbright{x patterns running
+along the walls to form almost an arch shape, with several glowing holes
+inside the arch.  
+~
+0 1 10
+E
+arch bright holes patterns~
+The glowing arch that covers the walls doesn't stretch too high at all. 
+It is shaped like a doorway but there is no handles or ways to pry the heavy
+metal apart.  There are six glowing lights inside the arch that are placed
+in a circle the seventh dot is not glowing but there is a small hole where
+it would be placed.  
+~
+D0
+~
+~
+~
+4 5800 5801
+M 0 H 0
+S
+#5801
+Outer Sanctum~
+Right inside the first doorway is a large, open space of ground between
+this wall and the next wall inside.  There are two small alcoves to the east
+and west from here that lead into the wall to the south.  To the north there
+is a long trail that leads through the open area and connects to another
+wall.  The tower itself is still hundreds of yards away, there might be more
+rings of metal around it after this one.  
+~
+0 1056768 0
+D0
+~
+~
+~
+0 0 5802
+D1
+~
+~
+~
+0 0 5803
+D2
+~
+~
+~
+4 5800 5800
+D3
+~
+~
+~
+0 0 5804
+M 0 H 0
+S
+#5802
+Outer Atrium~
+Solid black doors loom in front of you, leading into the second area of
+the fortress' rings.  There are words scribed in a deep red running along
+the rims of the black gates, written in some ancient language.  Spikes peer
+out from the doors to keep living things from nearing the handles which hold
+in place on each door.  
+~
+0 1056768 0
+D0
+~
+~
+~
+4 5802 5805
+D2
+~
+~
+~
+0 0 5801
+M 0 H 0
+S
+#5803
+Eastern Gatekeeper~
+This little nook in the side of the wall is just enough to help keep the
+stability of the fortress in place.  There is a large obsidian pedestal in
+the center of the room, humming with an intense aura of magic.  A dark orb
+sits a few inches above the pedestal, clouds of energy swirling around
+inside the glass covering.  Shadows rise and fall around the walls in almost
+a patrolling sense as they follow guided paths.  
+~
+0 1056768 0
+D3
+~
+~
+~
+0 0 5801
+M 0 H 0
+S
+#5804
+Western Gatekeeper~
+This little nook in the side of the wall is just enough to help keep the
+stability of the fortress in place.  There is a large obsidian pedestal in
+the center of the room, humming with an intense aura of magic.  A dark orb
+sits a few inches above the pedestal, clouds of energy swirling around
+inside the glass covering.  Shadows rise and fall around the walls in almost
+a patrolling sense as they follow guided paths.  
+~
+0 1056768 0
+D1
+~
+~
+~
+0 0 5801
+M 0 H 0
+S
+#5805
+Inner Sanctum~
+Deeper into the fortress is the second open ring of pebbles and ground. 
+The pebbles layering the ground here are clean and perfect as if almost
+nothing has ever treaded across them.  There is one set of faint footprints
+that lead slowly towards the next inner wall of the citadel and no marks of
+anything stopping them.  There is a glint of light coming from a footprint
+near the middle of the expanse.  Before the eyes of anyone inside this wall
+is the citadel itself, stretching up as high as the eye can see.  
+~
+0 1056768 0
+D0
+~
+~
+~
+0 0 5806
+D2
+~
+~
+~
+4 5802 5802
+M 0 H 0
+S
+#5806
+Solace of the Citadel~
+You stand on the footsteps of a huge citadel.  The black walls almost
+pulse with an unforseen energy as it stretches to the sky.  There are five
+huge orbs, the size of small houses floating around the middle of the tower.
+Dark bolts of magic fire from the orbs to the tower and return as they
+circle it, seeming to feed the energy that the tower already stores.  Huge
+spikes drive out from the body of the tower, seemingly to make the tower
+look more threatening for the enemies of it.  A long walkway at the peak of
+the stairs leads to two huge black doors.  
+~
+0 1056769 0
+D0
+~
+~
+~
+4 5804 5807
+D2
+~
+~
+~
+0 0 5805
+M 0 H 0
+S
+#5807
+Elaborate Foyer~
+Just inside the citadel is a hallway adorned with a fine, blood red
+carpet that runs to the end of the corridor.  Along the walls are paintings
+of battles that have been imagined or fought and they all seem to be in
+front of this fortress.  There are two vases that sit on top of a table on
+the right side of the hallway, both depicting battles that take place
+between two huge walls.  The vases hum with magic and one of them looks
+almost translucent, glowing faintly.  The hallways continues north where two
+stairways lead up onto a balcony that makes up the next level.  
+~
+0 1056777 0
+D0
+~
+~
+~
+0 0 5808
+D2
+~
+~
+~
+4 5804 5806
+M 0 H 0
+S
+#5808
+A dark altar~
+Rows upon rows of pews line this room, facing a huge altar in the front. 
+Along the backs of the pews, so the person sitting behind it can see, are
+scriptures burned into the wood in ancient, arcane symbols.  It looks to be
+a very, very old form of elvish but it is completely magical in nature.  The
+altar itself hums with the same energy that many things around this place
+seem to, as they have kept their magic for as long as this place has been
+deserted.  Two huge staircases are placed on either side of the middle of
+the room, heading upwards and bending inwards to the balcony above.  There
+There is a small curtain behind the altar, leading into another chamber.  
+~
+0 0 0
+D0
+~
+curtain~
+~
+1 0 5813
+D2
+~
+~
+~
+0 0 5807
+D4
+~
+~
+~
+0 0 5809
+M 0 H 0
+S
+#5809
+The Platform~
+Both stairways meet on opposite ends of this small little platform above
+the pews.  It is only about a dozen feet wide and long and it looks to only
+be held by the two stairways from below and the two that also lead up to the
+next level.  The two stairways leading up do the same thing inversed from
+the first ones, leading upwards and bending out to the walls of this
+citadel.  
+~
+0 0 0
+D4
+~
+~
+~
+0 0 5810
+D5
+~
+~
+~
+0 0 5808
+M 0 H 0
+S
+#5810
+At the top~
+This is a short little corridor that starts where the stairways meet and
+leads a little to the west.  Two small tables sit against the right and left
+side of this hallway, each with an item on its surface.  The items all hum
+with magic and stand like trophies for the sovereign here.  There is a black
+mithril blade sitting on the first table passing by and opposite it on the
+other side of the room is another table with a pair of gauntlets made of the
+same material.  
+~
+0 0 0
+D3
+~
+~
+~
+0 0 5811
+D5
+~
+~
+~
+0 0 5809
+M 0 H 0
+S
+#5811
+Statue~
+There are shadows dancing up and down the walls across this whole room,
+patrolling wordlessly.  There is a ladder which leads up to a trapdoor that
+looks slightly open.  There is a large statue in the room, made of deep
+black stone.  The form is not shown on the robe but there are two bright,
+fiery opals in place of the eyes.  
+There is a dark orb floating between the raised, clawed palms of the statue.
+~
+0 0 0
+D1
+~
+~
+~
+0 0 5810
+D4
+~
+~
+~
+0 0 5812
+M 0 H 0
+S
+#5812
+The rooftop~
+A trapdoor leads to the very center of the rooftop here where a series of
+eight spikes drive up from around the flat top of the spire in an octagon. 
+There are heavy winds up here, rustling everything from hair to swords in
+hilts alike.  Towards the northern side of the tower is a black mass,
+cackling with energy and emitting almost an aura of power beyond most
+things.  The shadows here are completely still and seem to be almost waiting
+for a chance to strike.  
+~
+0 0 0
+D5
+~
+~
+~
+0 0 5811
+M 0 H 0
+S
+#5813
+Ancient Archive~
+North of the altar lies an ancient library.  Massive rows upon rows of
+texts are placed here, lining the walls and reaching the ceiling of this
+room.  The ground is laced in a very fine carpeting that has not been
+touched in years.  The furniture and couches in the room, as well as the
+carpet and bookshelves, are all covered in a fine layer of dust which has
+note been disturbed in some time.  There are tomes placed on pedestals
+around the room, books of the most importance to the last ruler of this
+citadel.  This room seems to be ages old, some of the texts are written near
+the age of the Great Sacrifice that affected all the realms.  
+~
+0 1056776 0
+D2
+~
+~
+~
+1 0 5808
+M 0 H 0
+S
+#5814
+A Small Ring of Dark Lilies~
+Among the grass and foliage lies a small little clearing.  There is a
+perfect circle cut here in the grass by black lilies that stand perfect
+against the misted air.  The lilies all collect dew on their petals and look
+to be freshly grown.  None wilt or are discolored, they are all solid black.
+Inside the ring is a darker shade of grass which remains short, thought it
+never seems to have been cut.  The circle is about three feet wide.  
+~
+0 1056769 3
+D5
+~
+~
+~
+0 0 5815
+M 0 H 0
+S
+#5815
+Under the ring~
+Underneath the ring and inside the earth lies a small cavern.  The walls
+of the room curve upwards and close around a small, almost indistinguishable
+hole in the ceiling.  There are six perfectly hemispherical pockets in the
+ground along the wall, placed perfectly around the likewise spherical room. 
+Two pedestals which look to be made to hold books sit side by side in the
+middle of the room.  
+~
+0 1056777 0
+D4
+~
+~
+~
+0 0 5814
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 5700 spec_thief
+M 5705 spec_breath_fire
+M 5801 spec_cast_mage
+M 5802 spec_cast_mage
+M 5803 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 5713 3 1
+D 0 5718 1 1
+D 0 5800 0 2
+D 0 5801 2 2
+D 0 5802 0 2
+D 0 5805 2 2
+D 0 5806 0 2
+D 0 5807 2 2
+D 0 5808 0 1
+D 0 5813 2 1
+O 0 5702 0 5700
+O 0 5700 0 5701
+P 0 5701 0 5700 10
+M 0 5700 1 5706 10
+O 0 5703 0 5708
+M 0 5702 1 5709 10
+E 0 5704 0 16
+M 0 5703 1 5709 10
+M 0 5701 3 5710 10
+E 0 5708 0 16
+M 0 5706 1 5718 10
+E 0 5705 0 5
+E 0 5706 0 16
+M 0 5704 1 5722 10
+M 0 5705 1 5724 10
+O 0 5801 0 5803
+O 0 5801 0 5804
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

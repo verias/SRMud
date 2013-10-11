@@ -1,0 +1,3728 @@
+#AREADATA
+Name {60 75} ZoiBly  Shadow Caves~
+Builders Blyte~
+VNUMs 18400 18599
+Security 1
+End
+
+
+
+#MOBILES
+#18485
+behir snake reptile monster~
+a shadow behir~
+A snake-like reptilian monster is coiled in the shadows.
+~
+A shadow behir is coiled here.  It is a snake-like reptilian monster with
+a dozen legs which can be folded close to it's long narrow body to allow for
+slithering.  Very hard, band-like scales which are nearly black and cover
+the beast from its thick neck to the tip of it's slimy tail.  A soft silvery
+underbelly appears to be unprotected and would be a possible weak point
+should this creature engage in battle.  The two large horns curving back
+over the head look dangerous enough but are probably of more use for
+preening the creature's scales.  The head looks more crocodilian than
+snake-like but it has no difficulty in opening its mouth wide enough to
+swallow prey whole.  
+~
+Snake~
+ABQ DFJQ -200 S
+60 0 11d277+1559 60d10+100 5d7+19 32
+-13 -13 -13 -11
+0 0 HIJLP IJP
+9 9 1 270
+AGHMRVXYc ABCDEFGHIJKLPQVX M unknown
+#18486
+troglodyte chieftain Ghaghkan~
+Ghaghkan~
+The troglodyte chieftan scratches a scaly patch under his chin.
+~
+He stands well over six feet tall.  Spittle drips from his toothy
+lizard-like head and his forked tongue snakes in and out, increasing in
+speed depending on his agitation level.  A huge fin-like crest runs across
+his head and down his long neck.  His scaly skin is a drab greyish-brown.  
+~
+unique~
+ABQ Za -600 S
+70 0 11d443+2036 70d10+100 5d8+22 0
+-17 -17 -17 -15
+0 GL 0 I
+9 9 1 315
+ACGHMVXc ABCDEFGHIJKLMPQUVX M unknown
+#18487
+Mhughwua troglodyte subchieftain~
+Mhughwua~
+A powerful looking troglodyte paces angrily in his cave.
+~
+The crest on this very large troglodyte stands stiffly like a crown
+around his lizard-like head.  His scaly skin has a reddish hue which matches
+the color of the clay in this cave.  Beady eyes flit quickly from place to
+place, as if always on surveying the scene for danger or opportunity.  
+~
+unique~
+AQ Z -500 S
+68 10 11d405+1935 68d10+100 5d8+21 8
+-17 -17 -17 -14
+EHM L R 0
+9 9 1 306
+ACGHMVWXc ABCDEFGHIJKLMPQUVX M unknown
+#18488
+troglodyte messenger~
+a troglodyte messenger~
+A troglodyte messenger holds a sheet of slate with scratch markings on it.
+~
+A young troglodyte watches the shadows suspiciously on his way to deliver
+a message from the chief to the council.  His grey scaly skin reeks of some
+reptilian excretion.  
+~
+unique~
+A 0 -250 S
+60 0 11d277+1559 60d10+100 5d7+19 0
+-13 -13 -13 -11
+D L 0 0
+9 9 1 270
+ACGHMVXc ABCDEFGHIJKLMPQUVX M unknown
+#18489
+troglodyte female young~
+a young female troglodyte~
+A young female troglodyte holds her snout high in the presence of the young males.
+~
+Large dark spots speckle the dark grey scaly skin of this smallish female
+troglodyte.  She stands about four and a half feet tall and her long slender
+tail quivers when she gets nervous, or when she is trying to catch the
+attention of the young male troglodytes.  
+~
+unique~
+AH T -300 S
+62 0 11d306+1649 62d10+100 5d7+20 1
+-14 -14 -14 -12
+BJ L 0 L
+9 9 2 279
+ACGHMVXc ABCDEFGHIJKLMPQUVX M unknown
+#18490
+adolescent male troglodyte~
+an adolescent male troglodyte~
+A young troglodyte holds the end of his tail up as he walks.
+~
+His long snake-like tongue slithers in and out of his toothy lizard-like
+head.  His fin-like crest is little more than a ridge which he constantly
+compares to the ridges of the other adolescents.  His scaly skin has oily
+patches which give off a foul odor.  
+~
+unique~
+AH 0 -400 S
+64 0 11d336+1741 64d10+100 5d8+18 0
+-15 -15 -15 -13
+IM L 0 0
+9 9 0 288
+ACGHMVXc ABCDEFGHIJKLMPQUVX M unknown
+#18491
+female troglodyte~
+a female troglodyte~
+A haggard female troglodyte snarls at the younger ones.
+~
+Black, beady eyes look out at you over a long, reptilian snout.  Sharp
+teeth are visible, even when she keeps her wide mouth closed.  Spittle drips
+from the sides of her mouth.  Her clawed fingers constantly scratch at a dry
+patch under her scaly arm.  She looks to have a nasty disposition.  
+~
+unique~
+AH 0 -400 S
+65 0 11d352+1789 65d10+100 5d8+19 10
+-15 -15 -15 -13
+0 L 0 0
+9 9 2 292
+ACGHMVXc ABCDEFGHIJKLMPQUVX M unknown
+#18492
+male troglodyte~
+a male troglodyte~
+A male troglodyte ruffles his crest and blinks his beady eyes at you.
+~
+A large lizard-like humanoid is fresh from a raid on the human settlers
+in the valley below the caves.  He struts as he boasts of his exploits and
+shows off the steel implements that he managed to gather.  The excitement
+seems to have increased his secretion development and his smell is
+overwhelming.  
+~
+unique~
+A 0 -400 S
+66 0 11d369+1836 66d10+100 5d8+20 10
+-16 -16 -16 -14
+EHJ L 0 0
+9 9 1 297
+ACGHMVXc ABCDEFGHIJKLMPQUVX M unknown
+#18493
+elder troglodyte~
+a troglodyte elder~
+A troglodyte elder moves slowly through the shadows.
+~
+A tribal elder drags his thick tail behind him like a chain, barely able
+to lift it.  Although not as strong as he once was his mind is sharp and he
+enjoys helping to plan the raids on the human settlements.  His once
+majestic crest has taken on a deep reddish color and sags just a bit.  
+~
+unique~
+A 0 -500 S
+67 0 11d387+1885 67d10+100 5d8+20 0
+-16 -16 -16 -14
+EKM L 0 0
+9 9 1 301
+ACGHMVXc ABCDEFGHIJKLMPQUVX M unknown
+#18494
+troglodyte ambassador Gnungor~
+Gnungor~
+Spittle drips from his mouth as the troglodyte ambassador gives a heated speech.
+~
+Gnungor is an elderly troglodyte with slightly rounded shoulders and a
+large scar across his reptilian face.  Several teeth are missing and the
+rest are stained dark yellow.  He has a slight tremor in his left hand which
+is most noticeable when he is excited.  He is in the middle of a long speech
+about the need of his clan for more space in the Shadow Caves.  He secretly
+wishes to secure the entire caves for his people but knows that the gith are
+too strong for the troglodytes to defeat at this time.  
+~
+unique~
+ABQ a -500 S
+74 0 11d528+2248 74d10+100 5d9+23 0
+-19 -19 -19 -17
+BIM L 0 0
+9 9 1 333
+ACGHMVXc ABCDEFGHIJKLMPQUVX M unknown
+#18495
+troglodyte senator~
+a troglodyte senator~
+A troglodyte senator grumbles and fidgets.
+~
+A proud troglodyte grumbles and snaps his long reptilian snout.  A long
+ridge runs from the middle of his forehead to the base of his long,
+snake-like tail.  Beady red eyes bulge from his ugly face.  
+~
+unique~
+ABQ N -600 S
+71 0 11d463+2089 71d10+100 5d9+21 0
+-18 -18 -18 -16
+BKMU L 0 0
+9 9 1 319
+ACGHMVXc ABCDEFGHIJKLMPQUVX M unknown
+#18496
+gith ambassador Gunt~
+Gunt~
+The gith ambassador scratches his ear and looks bored.
+~
+Gunt is one of the gith elders.  He wears one long curl of grey, stringy
+hair on each side of his head.  Most of his teeth are gone and he gnaws
+endlessly on a piece of meat.  His hands have three fingers which end in
+sharp claws and no opposable thumbs.  He sneers and most of the troglodyte
+ambassador's speech.  
+~
+unique~
+ABN HJ -600 S
+74 0 11d528+2248 74d10+100 5d9+23 0
+-19 -19 -19 -17
+FIR 0 B 0
+9 9 0 333
+AHMV ABCDEFGHIJK M unknown
+#18497
+gith senator~
+a gith senator~
+A gith senator stands, hunched over at the shoulders in a permanent slouch.
+~
+An extremely gaunt and lanky humanoid has long gangling arms and spindly
+legs.  He looks to be a peculiar mixture of elf and reptile with leathery
+skin and clawed hands and feet.  He snarls nastily at his companions and
+glares in the general direction of the troglodytes.  
+~
+unique~
+ABQ J -700 S
+72 0 11d484+2141 72d10+100 5d9+22 9
+-18 -18 -18 -16
+CENR 0 BQ L
+9 9 1 324
+AHMV ABCDEFGHIJK M unknown
+#18498
+gith prime minister elder~
+the Prime Minister~
+The Prime Minister fiddles with his gavel and occasionally snarls at the troglodyte delegation.
+~
+A particularly lanky gith moves slowly and deliberately as he paces,
+while listening to endless drivel of the troglodyte ambassador.  He has not
+held this position long and his life expectancy is fairly limited.  The
+Prime Minister is at constant risk of assassination, usually by the race
+that is not in power.  His main role is as protector of the tervadi
+priestess who mesmerizes the shadow behir who guards the Shadow Caves so
+that the gith and troglodytes who live there can move past him.  
+~
+unique~
+ABN J -750 S
+76 0 11d574+2358 76d10+100 5d9+24 9
+-20 -20 -20 -18
+FH 0 B FG
+9 9 1 342
+AHMV ABCDEFGHIJK M unknown
+#18499
+Caranth bird maiden charmer dancer~
+Caranth the charmer~
+The enslaved bird maiden prepares herself for her charm dance.
+~
+An exotic maiden looks up at you with sad eyes.  She is tall and lithe,
+moving with effortless grace.  Her skin is porcelain white, contrasting her
+intense green eyes.  She has carefully painted her face with pale blue, pink
+and yellow powders.  From her waist hang long feathers, similar in color to
+those of the most brilliant peacock.  When she is not doing her charm dance
+the feathers hang about her waist and legs like a skirt.  She is a captive
+of the gith and troglodyte who inhabit these caves.  It is her function to
+lull the behir with her exotic dance so that they can sneak past it on their
+way to raid the surrounding communities.  
+~
+unique~
+AHQ TZ 500 S
+90 4 12d991+3214 90d10+100 5d11+28 16
+-25 -25 -25 -23
+FHKN AB GH L
+9 9 2 405
+ACGHMV ABCDEFGHIJKMOQUV M unknown
+#18500
+Jeruslia dragon~
+Jeruslia~
+Movement within the shadows betrays the presence of the Shadow Dragon.
+~
+An immense and stately dragon with a translucent body and scales blends
+cunningly into the shadows.  From tongue tip to the end of the tail is at
+least the length of fifteen dwarves.  Its intense eyes seem to be great
+chasms into which the light falls and does not return.  Razor sharp talons
+slash through the shadows to tear at your flesh.  
+~
+Dragon~
+ABQ DFOQTc -1000 S
+102 10 20d2000+6000 408d10+100 20d20+50 3
+-75 -75 -75 -70
+ACFKMNO ABL LMO I
+9 9 2 459
+ACGHMVXZc ACDEFHJKLOPQUVX G unknown
+#18501
+small gith~
+a gith sentinel~
+A small hunched figure of a gith working as a sentinel wanders here.
+~
+Looking like the unholy cross of an elf and a lizard this small gith
+wanders the tunnels keeping an eye open for trouble.  Lank, dirty long hair
+hangs down from his head partly blocking his vision.  
+~
+unique~
+A J -500 S
+61 0 11d291+1603 61d10+100 5d7+19 17
+-14 -14 -14 -12
+I 0 B 0
+9 9 3 274
+AHMV ABCDEFGHIJK M unknown
+#18502
+gith hunter~
+a gith snake hunter~
+A gaunt figure of a gith lurks here hunting snakes.
+~
+This figure is one of the gith trained to hunt cave snakes, the markings
+painted on his hide are said to ward off there venom.  Long thin arms
+stretch out moving with surprising skill as he lurks here for a serpent to
+pass.  His features appear to be an odd mix of elf and reptile.  
+~
+unique~
+A J -400 S
+63 0 11d321+1694 63d10+100 5d8+18 17
+-15 -15 -15 -12
+CI L B 0
+9 9 3 283
+AHMV ABCDEFGHIJK M unknown
+#18503
+cave serpent~
+a cave serpent~
+Winding is way though the cavern is a large dull brown cave serpent.
+~
+This is one of the cave snakes, feared not only for its size but its
+deadly venom.  The dull brown color helps it blend in with the dark caves of
+its home and its silent approach as been the down fall of many.  
+~
+Snake~
+A 0 0 S
+60 0 11d277+1559 60d10+100 5d7+19 10
+-13 -13 -13 -11
+0 0 L I
+9 9 0 270
+AGXYc ADEFKLPVX M unknown
+#18504
+gith scavenger~
+a gith scavenger~
+Sulking in the shadows a gith bring back his ill gotten and gains for his kin.
+~
+With blazing eyes this gith brings back what ever he can find for his
+kin.  A large sack hangs from his belt loaded with what ever wonders he has
+managed to gather, discarded from around the realm.  Lank, grey hair dangles
+from his scalp and he mutters to himself evilly about none gith.  
+~
+unique~
+AF JQ -750 S
+65 0 11d352+1789 65d10+100 5d8+19 9
+-15 -15 -15 -13
+E 0 B 0
+9 9 3 292
+AHMV ABCDEFGHIJK M unknown
+#18505
+young gith~
+a young gith~
+This young gith attempts to scamper out of the way of its elders.
+~
+Small and weaker looking then the elders this young gith attempts not to
+get in the way of the busy elders, while not getting to bored.  Looking like
+an unholy offspring between the mating of a lizard and an elf, its long
+armed body seems to hold some power.  
+~
+unique~
+AH J 0 S
+60 0 11d277+1559 60d10+100 5d7+19 22
+-13 -13 -13 -11
+0 0 B 0
+9 9 3 270
+AHMV ABCDEFGHIJK S unknown
+#18506
+gith adult~
+a gith adult~
+The stooped figure of a gith adult wanders here, going about its own business.
+~
+Stooped and cloaked the gith adult moves about with little passion. 
+Features masked by lank hair can just be seen though hood, these look half
+reptile and half elven.  Little emotion can be seen from its deep set eye as
+it gazes back at you.  
+~
+unique~
+A J -600 S
+65 0 11d352+1789 65d10+100 5d8+19 17
+-15 -15 -15 -13
+CR 0 B 0
+9 9 3 292
+AHMV ABCDEFGHIJK M unknown
+#18507
+gith elder~
+a gith elder~
+A gith elder over sees the day to day lives of the younger gith as he wanders here.
+~
+Lank hair and a slouched figure show little difference to the younger
+gith it is only when you notice the face marking that you think this could
+be one of the elders.  A slight aura of magic seems to flicker about his
+figure as he looks around, making sure the younger gith are hard at work.  
+~
+unique~
+AO J -800 S
+70 0 11d443+2036 70d10+100 5d8+22 9
+-17 -17 -17 -15
+CR 0 B 0
+9 9 1 315
+AHMV ABCDEFGHIJK M unknown
+#18508
+gith keli artist~
+the artist Keli~
+The figure of the gith artist Keli, stands here deep in thought.
+~
+Keli was once a mighty gith warrior until he started seeing visions and
+painting them, much of his skill seems to remain judging by the way he
+moves.  Grown thin now due to the time he spends working, his lank haired
+head nods to its self as he considers what next to craft upon the walls of
+this cave.  
+~
+unique~
+AH HJ -333 S
+72 0 11d484+2141 72d10+100 5d9+22 17
+-18 -18 -18 -16
+CE 0 B 0
+9 9 1 324
+AHMV ABCDEFGHIJK M unknown
+#18509
+sylph female~
+a sylph~
+A female figure floats here, her diaphanous robes and unearthly beauty mark her as a sylph.
+~
+The sylph floats here her dragonfly like wings torn to ribbons in the
+winds that whip about, yet her eyes glow with a rage that seems to speak
+more of imprisonment than pain.  Her beautiful humanoid form glows with the
+power of the elemental plane of air as she does everything that she is able
+to break free form the circle that holds her here.  
+~
+Spiritfolk~
+AHO HTU 100 S
+73 0 11d505+2194 73d10+100 5d9+22 30
+-19 -19 -19 -16
+CE 0 D CN
+9 9 2 328
+AHMV ABCDEFGHIJK M unknown
+#18510
+air kin~
+an air kin~
+Formed purely from the winds this air kin rages here, attempting to escape.
+~
+An amorphous, shifting cloud of air that changes into the image of a
+humanoid then back again rages here, summoned by the sylph to help it
+escape, both now are imprisoned in this cave.  In this creatures wrath is
+has called upon the great winds that fill these caves and torn the sylph's
+wings to shreds.  
+~
+Spiritfolk~
+AHP TU -100 S
+75 0 11d551+2303 75d10+100 5d9+24 30
+-19 -19 -19 -17
+CDEI F D CN
+9 9 0 337
+AHMV ABCDEFGHIJK L unknown
+#18511
+gith chieftain~
+the gith chieftain~
+Waiting almost regally is the gith chieftain, his deep set eyes glaring about.
+~
+Taller and better fed than most of the other gith, this must be there
+chieftain.  Long arms and lank hair mask a cross between reptile and elven
+features as he waits here wondering on the out come from the council
+chamber.  
+~
+unique~
+ABQ HJV -1000 S
+75 0 11d551+2303 75d10+100 5d9+24 17
+-19 -19 -19 -17
+CER 0 B 0
+9 9 1 337
+AHMV ABCDEFGHIJK M unknown
+#18512
+gith consort~
+the gith consort~
+Looking at the chieftain with adoration in her eyes the gith consort waits here happily.
+~
+Though hard to tell with all the hair you would guess that this female
+gith must be attractive to the chieftain, either that or her magical powers
+are what he desires.  She seems to be totally enthralled with the chieftain,
+waiting on his every word and whim.  
+~
+unique~
+ABN HJ -800 S
+74 0 11d528+2248 74d10+100 5d9+23 16
+-19 -19 -19 -17
+CR 0 B 0
+9 9 2 333
+AHMV ABCDEFGHIJK M unknown
+#18513
+gith guard~
+a gith guard~
+A tough looking gith warrior wanders here on guard duty.
+~
+The long arms of this gith have muscles that stand out like ropes, its
+lank hair hides much of its face as it walks these caves making sure there's
+little trouble between its people.  Its features look like some form of
+cross between an elf's and a lizard's.  
+~
+unique~
+AQ JV -600 S
+68 0 11d405+1935 68d10+100 5d8+21 17
+-17 -17 -17 -14
+CER 0 B 0
+9 9 3 306
+AHMV ABCDEFGHIJK M unknown
+#18514
+gith acolyte~
+a gith acolyte~
+Chanting for all his worth a gith acolyte worships his dark lord here.
+~
+Looking very much like a walking robe, the cowled and robed figure of a
+gith acolyte called out to his dark master in some unknown tongue, only the
+lank hair and foul smell give this away as a gith.  
+~
+unique~
+AO J -1000 S
+67 0 11d387+1885 67d10+100 5d8+20 9
+-16 -16 -16 -14
+EIR 0 B 0
+9 9 3 301
+AHMV ABCDEFGHIJK M unknown
+#18515
+gith priest~
+a gith priest~
+Arms raised and chanting loudly a gith priest stands here calling upon his dark master.
+~
+With his cowl thrown back the gith priest exposes his painted face to the
+caverns roof as he calls out in magical chants to his dark master.  Fingers
+tipped with steel hand blades glint nastily in the light, his face locked in
+a mask of determination.  
+~
+unique~
+ABO JO -1000 S
+71 0 11d463+2089 71d10+100 5d9+21 5
+-18 -18 -18 -16
+EF 0 B 0
+9 9 1 319
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#18485
+shadow~
+a shadow~
+A shadow plays tag with any available light.~
+unknown~
+29 R 0 0
+-1 0 0 18492 0
+0 59 0 P
+0 0
+#18486
+shadow ominous~
+an ominous shadow~
+An ominous shadow fills the eastern part of the chamber.~
+unknown~
+29 R 0 0
+-1 0 0 18489 0
+0 10 0 P
+0 0
+#18488
+shadow~
+a shadow~
+A shadow dances with any available light.~
+unknown~
+29 R 0 0
+-1 0 0 18489 0
+0 70 0 P
+0 0
+#18489
+shadow~
+a shadow~
+A shadow plays tag with any available light.~
+unknown~
+29 R 0 0
+-1 0 0 18496 0
+14 100 45 P
+0 0
+#18490
+shadow~
+a shadow~
+A shadow dances with any available light.~
+unknown~
+29 R 0 0
+-1 0 0 18497 0
+0 60 0 P
+0 0
+#18491
+shadow~
+a shadow~
+A shadow threatens to swallow everything.~
+unknown~
+29 R 0 0
+-1 0 0 18493 0
+0 0 0 P
+0 0
+#18492
+shadow~
+a shadow~
+A bitter stench rises from a shadow.~
+unknown~
+29 R 0 0
+-1 0 0 18404 0
+0 0 0 P
+0 0
+#18493
+shadow~
+a shadow~
+There are slight movements in the shadows.~
+unknown~
+29 R 0 0
+-1 0 0 18403 0
+0 0 0 P
+0 0
+#18494
+shadow~
+a shadow~
+A lurking shadow beckons you.~
+unknown~
+29 R 0 0
+-1 0 0 18410 0
+0 0 0 P
+0 0
+#18495
+shadow~
+a shadow~
+A tall shadow stretches across the cavern walls.~
+unknown~
+29 R 0 0
+-1 0 0 18406 0
+0 0 0 P
+0 0
+#18496
+shard black crystal~
+a black crystal shard~
+An elongated black crystal has a very sharp edge.~
+unknown~
+5 ART AN 0
+B AD BCD A 0
+65 4 325 P
+A
+19 1
+A
+18 1
+0 BC
+#18497
+dark pool~
+a dark pool~
+A dark pool in the center of the grotto has crystals growing all around it.~
+unknown~
+29 R 0 0
+-1 0 0 18411 0
+0 0 0 P
+0 0
+#18498
+shadow~
+a shadow~
+An oppressive shadow cloaks the back of the den.~
+unknown~
+29 R 0 0
+-1 0 0 18412 0
+0 0 0 P
+0 0
+#18499
+shadow~
+a shadow~
+A deep shadow beckons.~
+unknown~
+29 R 0 0
+-1 0 0 18407 0
+0 0 0 P
+0 0
+#18500
+chieftain belt steel jingle~
+a chieftain's belt~
+A smelly leather weapon belt is adorned with many pieces of steel that it jingles.~
+unknown~
+9 GJ AL 0
+ABD ABD ABD AB 0
+70 7 350 P
+A
+13 40
+A
+19 2
+0 0
+#18501
+troglodyte spear~
+a crude spear~
+A troglodyte spear is coated with sticky, smelly troglodyte secretions.~
+unknown~
+5 EM AN 0
+AB AD ABCD ABD G
+70 9 350 P
+0 0
+#18502
+bag meat~
+a bag of meat~
+A leather bag drips blood from the meat inside.~
+unknown~
+19 0 AO 0
+ADE 0 0 0 0
+0 2 1 P
+0 0
+#18503
+trident troglodyte~
+a troglodyte trident~
+A long wooden pole is capped with three steel prongs.~
+unknown~
+5 G AN 0
+D BF AB 0 F
+66 10 330 P
+A
+19 5
+0 CD
+#18504
+troglodyte dagger~
+a troglodyte dagger~
+A short but lethal steel blade is covered with a dull, sticky substance.~
+unknown~
+5 BGJQ AN 0
+B ABCE AC ABD G
+67 3 335 P
+A
+19 3
+0 BC
+#18505
+claw troglodyte~
+a troglodyte claw~
+A long dark claw has been torn from its socket.~
+unknown~
+5 G AN 0
+B AD BCD A 0
+65 2 325 P
+A
+24 -2
+A
+5 2
+0 BC
+#18506
+behir horns~
+behir horns~
+A pair of horns, curled back from the front have sharp tips.~
+unknown~
+9 G AE 0
+BD BD BD AB 0
+60 7 300 P
+A
+19 2
+A
+2 2
+A
+17 -2
+0 0
+#18507
+slate heavy~
+a heavy slate~
+A heavy slate has some sort of ordered markings on it, perhaps a written language.~
+unknown~
+2 BG A 0
+65 66 0 0 0
+50 8 750 P
+0 0
+#18508
+mace dark~
+a dark mace~
+A mace made of some dark material has a rough head.~
+unknown~
+5 EGHIJ AN 0
+C ABCDE AB 0 0
+60 9 300 P
+A
+19 4
+0 0
+#18509
+steel awl~
+a steel awl~
+A steel awl with a wooden handle has a pointed tip that is perfect for poking holes in leather.~
+unknown~
+5 GI AN 0
+B AD BCD B 0
+65 2 325 P
+A
+12 40
+0 BC
+#18510
+whip leather woven~
+a woven leather whip~
+A long whip, woven of narrow strips of leather is covered with a foul smelling oil.~
+unknown~
+5 G AN 0
+ABC D ABCD C G
+62 5 310 P
+A
+2 1
+A
+18 -2
+0 0
+#18511
+troglodyte sword~
+a troglodyte sword~
+A heavy sword of standard construction lies here.~
+unknown~
+5 0 AN 0
+A ABD ABD A 0
+64 8 320 P
+0 0
+#18512
+troglodyte sword elder~
+a troglodyte sword~
+A heavy sword of standard construction lies here.~
+unknown~
+5 BGI AN 0
+A ABCE AC 0 G
+67 0 335 P
+A
+19 2
+0 0
+#18513
+fork necklace pendant~
+a necklace with a fork pendant~
+A bent steel fork hangs on a heavy chain.~
+unknown~
+27 0 AC 0
+AE AE AE C 0
+62 2 100 P
+A
+13 40
+0 0
+#18514
+great steel axe~
+a great steel axe~
+A huge axe with a shining steel head has score marks along the length of the handle.~
+unknown~
+5 GIJ AN 0
+AC BD ACD ACE F
+68 10 340 P
+A
+13 50
+A
+18 1
+0 CD
+#18515
+leather belt hooked~
+a hooked leather belt~
+A leather belt has a series of hooks fixed into it, on each hangs a small steel trinket.~
+unknown~
+9 G AL 0
+ABD ABD ABD AB 0
+68 6 340 P
+A
+24 -3
+0 0
+#18516
+stream~
+a stream~
+A small stream snakes through the shadow caves.~
+unknown~
+25 R 0 0
+FHJKPQ FHJKPQ 0 0 0
+0 0 0 P
+0 0
+#18517
+shadow blood liquid~
+some shadow blood~
+Thick red liquid dries to a dark red powder over time.~
+unknown~
+10 R A 0
+65 74 243 0 0
+60 0 1800 P
+0 0
+#18518
+skin reptile~
+a piece of reptile skin~
+A piece of reptile skin is flaky and covered with a thick gooey substance.~
+unknown~
+30 B 0 0
+I C AC ABE 0
+80 0 0 P
+E
+!trap!~
+Thick gooey troglodyte secretions burn your skin!
+The poison courses through your veins.
+~
+0 0
+#18519
+copper pot dented~
+a dented copper pot~
+A dented copper pot is coated with a foul smelling oil.~
+unknown~
+15 R A 0
+ABDG 0 0 0 0
+0 10 0 P
+0 0
+#18520
+tattered doll~
+a tattered child's doll~
+A tattered doll has a smattering of blood on the fraying dress.~
+unknown~
+27 G AO 0
+0 0 0 0 0
+30 1 0 P
+A
+3 2
+E
+tattered doll~
+A tattered doll appears to have been well loved at one time but has a
+smattering of blood on the fraying dress.  It was probably taken from a
+human settlement during one of the many raids.  
+~
+0 0
+#18521
+rod steel~
+a steel rod~
+A steel rod, about a meter in length lies on the ground.~
+unknown~
+3 R AO 0
+AG AC AC 253 0
+60 4 300 P
+0 ABCDE
+#18522
+shadow~
+a shadowy opening~
+A shadow seems to obscure an opening here.~
+unknown~
+29 R 0 0
+-1 0 0 18426 0
+0 0 0 P
+0 0
+#18523
+a shadow~
+a shadowy opening~
+A shadow obscures an opening here.~
+unknown~
+29 R 0 0
+-1 0 0 18421 0
+0 0 0 P
+0 0
+#18524
+shadow opening~
+a shadowy opening~
+A shadow obscures an opening here.~
+unknown~
+29 R 0 0
+-1 0 0 18425 0
+0 0 0 P
+0 0
+#18525
+shadow opening~
+a shadowing opening~
+An opening is obscured by shadows.~
+unknown~
+29 R 0 0
+-1 0 0 18423 0
+0 0 0 P
+0 0
+#18536
+wicked spear~
+a wicked looking spear~
+A large, wicked-looking spear has a razor-sharp head of obsidian.~
+unknown~
+5 BG AN 0
+AB AD E ABD D
+74 10 370 P
+A
+19 2
+A
+13 30
+0 0
+#18537
+gith ambassador robe~
+a gith ambassador robe~
+{xA long robe with frayed edges is made from heavy {Bblue{x satin.~
+unknown~
+9 EGIJ AV 0
+CD CD CD AB 0
+74 7 370 P
+A
+17 -8
+A
+17 -3
+0 0
+#18538
+leather helm~
+a leather helm~
+A leather helm is adorned with dirty red feathers.~
+unknown~
+27 G AE 0
+0 0 0 0 0
+72 2 1080 P
+A
+3 2
+A
+13 25
+0 0
+#18539
+obsidian headed polearm~
+an obsidian-headed polearm~
+A long pole has a sharp obsidian head on the end.~
+unknown~
+5 G AN 0
+D ACF AB ABC F
+72 12 360 P
+A
+2 1
+A
+19 2
+A
+1 1
+0 CD
+#18540
+sword obsidian~
+an obsidian sword~
+A heavy sword with an uneven obsidian blade looks more ornamental than functional.~
+unknown~
+5 0 AN 0
+A ACF AB AB 0
+72 12 360 P
+0 0
+#18541
+bone leggings~
+bone leggings~
+A pair of leggings are made from a series of small bones strung together.~
+unknown~
+9 BEGI AF 0
+CD CD CD AB 0
+74 8 370 P
+A
+13 40
+0 0
+#18542
+steel morning star~
+a steel morning star~
+A steel morning star is coated with a thick amber liquid.~
+unknown~
+5 CEG AN 0
+BC AD E ABC G
+74 5 370 P
+A
+18 -1
+A
+19 2
+0 0
+#18543
+ring troglodyte ambassador~
+a troglodyte ambassador's ring~
+A dented steel ring has a metal claw affixed to the top.~
+unknown~
+27 AGST AB 0
+0 0 0 0 0
+74 0 2000 P
+A
+19 3
+A
+13 15
+0 0
+#18544
+cowl gith~
+a gith cowl~
+{xA thick collar of pale {ggreen{x material lies in a heap here.~
+unknown~
+27 CGIQT AC 0
+ACE ACE ACE AC 0
+76 4 2500 P
+A
+24 -5
+0 0
+#18545
+gavel shadow prime minister~
+the Prime Minister's gavel~
+A gavel with one worn end has been gnawed on by many teeth~
+unknown~
+5 ACEG AN 0
+C CD CD ABC G
+76 5 380 P
+0 0
+#18546
+hard leather bracer~
+a hard leather bracer~
+A hard leather bracer is stained dark with some foul smelling oil.~
+unknown~
+9 JM AM 0
+ABD ABD ABD AB 0
+71 4 355 P
+A
+17 10
+A
+19 3
+0 0
+#18547
+steel box~
+a dented steel box~
+A dented steel box has a broken hinge.~
+unknown~
+15 NS A 0
+DGH 0 0 0 0
+70 15 1000 P
+0 0
+#18548
+awl steel~
+a steel awl~
+A compact steel awl has been sharpened to a fine point.~
+unknown~
+5 G AN 0
+B ACE BC AE D
+71 2 355 P
+0 BC
+#18549
+black crystal dagger~
+a black crystalline dagger~
+A highly faceted black blade has several sharp edges.~
+unknown~
+5 AI AN 0
+B ACE BC ABD 0
+71 4 355 P
+A
+2 2
+0 BC
+#18550
+shadow~
+a shadow~
+The wind whistles through a deep shadow.~
+unknown~
+29 R 0 0
+-1 0 0 18431 0
+0 0 0 P
+0 0
+#18551
+inky shadow~
+an inky shadow~
+An inky shadow wavers in the variegated light.~
+unknown~
+29 R 0 0
+-1 0 0 18488 0
+0 0 0 P
+0 0
+#18552
+shadow gem~
+a shadow gem~
+A dark black gem drinks in all available light, giving back none.~
+unknown~
+8 AGJMS AR 0
+0 0 0 0 0
+90 1 900 P
+A
+2 2
+A
+12 70
+0 ABCDE
+#18553
+ballet slippers point shoe~
+pale pink ballet slippers~
+A pair of pale pink ballet slippers have padded toes and long silk ribbons.~
+unknown~
+9 GIM AG 0
+ABCD ABCD ABCD C 0
+90 0 450 P
+A
+12 90
+E
+ballet slippers~
+A pair of pale pink silk slippers are coated with a fine layer of red
+dust.  The toes are padded to make it easier for the dancer to go up on
+points.  
+~
+0 0
+#18554
+shadow~
+a shadowy alcove~
+Scratching and hissing comes from deep within the shadowy alcove.~
+unknown~
+29 R 0 0
+-1 0 0 18488 0
+0 0 0 P
+0 0
+#18555
+shadow~
+a shadow~
+The eastern end of the tunnel is obscured in shadow.~
+unknown~
+29 R 0 0
+-1 0 0 18507 0
+0 0 0 P
+0 0
+#18556
+shadow~
+a shadow~
+A dark shadow stands, as if guarding secrets.~
+unknown~
+29 R 0 0
+-1 0 0 18506 0
+0 0 0 P
+0 0
+#18557
+shadow~
+a long shadow~
+Long shadows stretch across what looks like an opening in the circular wall.~
+unknown~
+29 R 0 0
+-1 0 1 18511 0
+0 0 0 P
+0 0
+#18558
+shadow~
+a shadow~
+A shadow obscures an opening in the granite.~
+unknown~
+29 R 0 0
+-1 0 0 18512 0
+0 0 0 P
+0 0
+#18559
+shadow~
+a shadowy opening~
+A slight breeze comes from an opening hidden within these shadows.~
+unknown~
+29 R 0 0
+-1 0 0 18519 0
+0 0 0 P
+0 0
+#18560
+rusty spetum~
+a rusty spetum~
+The blade of this spetum is rusty and caked in muck, it still glints wickedly in any light.~
+unknown~
+5 0 AN 0
+D AD ACD AB J
+61 25 305 P
+0 CD
+#18561
+snake-catcher~
+a snake-catcher~
+Similar to a man-catcher, this device has been altered to pin some kind of large snake.  It's spiked mouth looks nasty to be in.~
+unknown~
+5 0 AN 0
+D BD CD BD J
+63 20 315 P
+A
+19 2
+0 CD
+#18562
+battered pieced armor~
+battered pieced armor~
+Made from a missed matched collection of battered armors, this suit of pieced parts offers some protection.~
+unknown~
+9 0 AD 0
+BD BD BD AB 0
+61 20 305 P
+A
+13 40
+0 0
+#18563
+spiked boots~
+spiked boots~
+Steel plates to which sharpe spikes have been mounted grace these leather boots.~
+unknown~
+9 0 AG 0
+BD BD BD AB 0
+61 10 305 P
+0 0
+#18564
+battered bag~
+a battered bag~
+Torn stitched and ripped again this bag is battered in the extreme, maybe its been thrown away.~
+unknown~
+15 0 AO 0
+BEF 0 0 0 0
+1 2 5 P
+0 0
+#18565
+snake meat~
+some snake meat~
+Looking fresh, some meat most likely from a snake by the look of it drips here.~
+unknown~
+19 0 AO 0
+CE 0 0 A 0
+1 2 2 P
+0 0
+#18566
+stone club~
+a stone club~
+A grey stone club rests here, a few dark stains upon it seem to show use.~
+unknown~
+5 E AN 0
+C AD BCD ABDE 0
+65 25 325 P
+A
+18 2
+A
+19 2
+0 0
+#18567
+blackened leather sleeves~
+blackened leather sleeves~
+Blackened by blood these leather sleeves rest here.~
+unknown~
+9 GJ AI 0
+BD BD BD AB 0
+65 5 325 P
+A
+13 60
+0 0
+#18568
+flint knife~
+a small flint knife~
+Carefully knapped this flint knife looks like it could do some harm.~
+unknown~
+5 0 AN 0
+B ABCDE AB ABD D
+60 5 300 P
+0 BC
+#18569
+grey tabard~
+a grey tabard~
+A hooded grey tabard lays in a pile here.~
+unknown~
+11 B AK 0
+0 0 0 0 0
+60 3 240 P
+A
+13 40
+0 ABCDE
+#18570
+bone anklet~
+a bleached bone anklet~
+A circlet of bleached bone lays here, it would make an interesting anklet.~
+unknown~
+27 GT AU 0
+BE BE BE C 0
+65 1 500 P
+A
+12 20
+A
+19 2
+A
+2 1
+E
+!history!~
+Crafted by the Gith, this anklet is prized due to the magics placed
+within it.  
+~
+0 BC
+#18571
+clawed flail~
+a flail tipped with claws~
+Two lengths of wood form a clawed flail, the claws seem sharp.~
+unknown~
+5 0 AN 0
+BC AD BCD AC J
+65 6 325 P
+A
+18 2
+0 BCD
+#18572
+gnarled staff~
+a gnarled staff~
+A twisted and gnarled staff, the wood covered in grime has been left here.~
+unknown~
+5 BG AN 0
+D AD ABCD ABC 0
+70 15 350 P
+A
+1 2
+0 CD
+#18573
+tattered cloak~
+a tattered and faded cloak~
+Greatly worn and faded this cloak has become tattered due to use.~
+unknown~
+11 G AZ 0
+0 0 0 0 0
+70 4 450 P
+A
+2 1
+A
+12 50
+0 BC
+#18574
+paint brush~
+a much used paint brush~
+A thin wooden handle leads to fine hair bristles on this much used paint brush.~
+unknown~
+3 G AO 0
+DG AB AB 208 0
+72 1 360 P
+0 BCD
+#18575
+markings~
+markings of midnight~
+Glowing slightly a set of strange markings float here.~
+unknown~
+9 EJ AS 0
+CD CD CD AB 0
+72 0 360 P
+A
+12 50
+0 0
+#18576
+sylph wings~
+torn sylph wings~
+Looking somewhat like the wings of a huge dragonfly these are the torn wings of a sylph, laying here.~
+unknown~
+9 0 AZ 0
+CD CD CD AB 0
+73 0 365 P
+A
+13 40
+0 ABCDE
+#18577
+wrathful winds~
+wrathful winds~
+Whipped into a frenzy the winds seem full of wrath here.~
+unknown~
+11 G AK 0
+0 0 0 0 0
+75 0 1500 P
+A
+19 2
+A
+13 20
+0 ABCDE
+#18578
+skull~
+the skull of a dragon~
+A massive dragons skull lays here, worn by the whipping winds so that it is all but unrecognizable, one of the teeth glints evilly in the light.~
+unknown~
+15 R 0 0
+B 0 0 0 0
+0 0 0 P
+0 0
+#18579
+dragon tooth~
+a rotten dragons tooth~
+Decayed slightly but still keeping a good edge a dragons tooth rests here.~
+unknown~
+5 0 AN 0
+B ABD ACD ABD D
+75 2 375 P
+0 BC
+#18580
+stone flail~
+a bladed stone flail~
+A large flail, crafted with sharp stone heads lays here.~
+unknown~
+5 G ANP 0
+BC ABD ACD AB D
+75 20 375 P
+A
+4 -2
+0 CD
+#18581
+gith brown gown~
+a brown gith gown~
+A grown crafted from some type of brown fabric lays crumpled here.~
+unknown~
+9 G AD 0
+CD CD CD AB 0
+74 2 370 P
+A
+12 50
+0 BCD
+#18582
+gold gith pendant~
+a large heavy golden gith pendant~
+Laying here is a large and heavy pendant made of gold, the work seems to be gith.~
+unknown~
+8 0 AC 0
+0 0 0 0 0
+75 3 2500 P
+A
+13 50
+0 BCD
+#18583
+hooded robe~
+a hooded robe inscribed with sigil's~
+Magical sigil glow faintly upon this hooded robe that has been left here.~
+unknown~
+9 GJ AK 0
+ABD ABD ABD AB 0
+70 5 350 P
+A
+19 2
+0 BCD
+#18584
+chain whip~
+a chain whip~
+A cruel looking whip fashioned from a chain lays here.~
+unknown~
+5 0 AN 0
+ABC ABCE AC AB 0
+67 5 335 P
+A
+18 3
+0 BCD
+#18585
+vile potion~
+a vile smelling potion~
+A bubbling clear potion that smells vile sits here.~
+unknown~
+10 B AO 0
+60 221 900 0 0
+60 1 1800 P
+0 0
+#18586
+hooked war axe~
+a large hooked war axe~
+A large hooked axe fashioned for battle has been left here, to rust.~
+unknown~
+5 0 ANP 0
+AC BD ACD ACE 0
+68 20 340 P
+A
+19 2
+A
+18 2
+0 CD
+#18587
+bound bracer~
+an iron bound leather bracer~
+Bound with rusted iron, a hard leather bracer has been left here.~
+unknown~
+9 0 AM 0
+ABD ABD ABD AB 0
+67 2 335 P
+A
+1 2
+0 0
+#18588
+steel hand razors~
+steel hand razors~
+Sharp blades designed to fix to ones fingers have been left here.~
+unknown~
+5 0 AN 0
+0 ACE BC AC J
+71 1 355 P
+A
+18 2
+0 BC
+#18589
+wand imp~
+wand of the imp~
+Blessed in blood with plain wooden wand sits here.~
+unknown~
+3 AG AO 0
+ABCG B B 250 0
+71 1 355 P
+0 BCD
+#18590
+long robe~
+a long hooded robe~
+This robe seems long enough to hide who is inside of it.~
+unknown~
+11 G AD 0
+0 0 0 0 0
+65 4 600 P
+A
+13 60
+0 BCD
+#18591
+shadow opening~
+a shadow covered opening~
+An opening cloaked in shadows stands here.~
+unknown~
+29 R 0 0
+0 0 0 18510 0
+0 0 0 P
+0 0
+#18592
+shadow arch~
+a shadow arch~
+An arch covered by shadows stands here.~
+unknown~
+29 R 0 0
+0 0 0 18532 0
+0 0 0 P
+0 0
+#18593
+shadow arch~
+an arch covered by shadows~
+A arch masked in shadows stands here.~
+unknown~
+29 R 0 0
+0 0 0 18516 0
+0 0 0 P
+0 0
+#18594
+shadowy opening~
+a shadowy opening~
+An opening masked in shadows is here.~
+unknown~
+29 R 0 0
+0 0 0 18529 0
+0 0 0 P
+0 0
+#18595
+shadowy opening~
+a shadowy opening~
+An opening masked by shadows stands here.~
+unknown~
+29 R 0 0
+0 0 0 18517 0
+0 0 0 P
+0 0
+#18596
+shifting shadows~
+shifting shadows~
+Shifting shadows cover an opening here.~
+unknown~
+29 R 0 0
+0 0 0 18526 0
+0 0 0 P
+0 0
+#18597
+shifting shadows~
+shifting shadows~
+These shifting shadows seem to lead somewhere.~
+unknown~
+29 R 0 0
+0 0 0 18518 0
+0 0 0 P
+0 0
+#18598
+still water~
+still waters~
+A pool of still water, it looks fresh and pure.~
+unknown~
+25 R 0 0
+CE CE 0 0 0
+0 0 0 P
+0 0
+#0
+
+
+
+#ROOMS
+#18432
+Shadow Shaft~
+Shadows rush to obscure your senses in this roughly shaped shaft.  High
+above, a shaft of light ricochets from the walls as it tries in vain to
+reveal the cavern's secrets.  The ground is somewhere below, it too is lost
+in shadow.  
+~
+0 9 9
+D4
+~
+~
+0 0 18431
+D5
+~
+~
+0 0 18433
+S
+#18433
+Shadow Shaft~
+Shadows dance and lick the uneven walls of a rough shaft which seems to
+go upwards an infinite distance.  A stiff wind howls from the east, rushing
+to find some exit from this dark imprisonment.  The sound of scraping and
+snorting suggests that something large lies in wait to the east.  
+~
+0 9 0
+D1
+~
+~
+0 0 18434
+D4
+~
+~
+0 0 18432
+S
+#18434
+Shadow Cloaked Antechamber~
+A large boulder takes up much of this large chamber.  Diffuse light leaks
+in from some unidentified source, casting long shadows across the surfaces
+of the walls, ceiling and floor.  A chilly wind howls from deeper within the
+bowels of the earth, rushing to the west.  Loud rustling sounds and heavy
+breathing comes from a chamber behind the boulder to the east.  
+~
+0 9 0
+D1
+~
+~
+0 0 18435
+D3
+~
+~
+0 0 18433
+S
+#18435
+Lair of the Shadow Dragon~
+A cold, damp den is bathed in variegated light.  Patches of diffuse light
+and deep, inky shadows mingle on the smooth, deep red walls.  Hundreds of
+pin-sized holes in the ceiling provide the light needed to create the
+shadows.  Looking up, the ceiling appears almost like the night sky.  The
+smooth ground is littered with bone fragments and torn adventurer's
+equipment.  The shadows themselves seem to rustle with life.  
+~
+0 9 0
+D3
+~
+~
+0 0 18434
+S
+#18485
+The Cliff~
+You are perched precariously on the face of a steep cliff.  The walls of
+which are composed of rock and a dark red clay.  To the east, is what
+appears to be the entrance of a small cave.  You can hear scratching noises
+emanating from within these dark breeches, the source of which you cannot
+view beyond the veil of darkness.  A quiet stream flows from within the damp
+cave, occasional bursts of flow make your perch precarious.  You can see the
+rope bridge to your west, the shadows extend to your east.  
+~
+0 0 5
+E
+rock~
+It is mostly dull grey and fairly smooth.  Occasional veins of darker
+grey material and red clay run through it.  
+~
+E
+stream~
+It is usually little more than a trickle, however, occasionally the flow
+increases sporadically.  
+~
+D1
+You see a shadowy opening.  
+~
+~
+0 0 18486
+D3
+A rickety rope bridge spans a rocky crevasse.  
+~
+~
+0 0 404
+S
+#18486
+The Shadows~
+The only source of light in this room is that which leaks is very
+diffusely from the west.  A small shallow stream trickles from the east,
+keeping the air cool and damp.  The red clay walls are damp and occasionally
+the sound of a drop of moisture falling from the ceiling echoes.  The far
+walls are shrouded in shadows which incredibly, seem to beckon and forbid at
+the same time.  
+~
+0 8 0
+D2
+You see a shadow enshrouded cavern.  
+~
+~
+0 0 18487
+D3
+You see the entrance to the shadow caves.  
+~
+~
+0 0 18485
+S
+#18487
+Pathway of Shadows~
+The shadows threaten to swallow any particle of light which tries to
+invade this area.  The walls of what feels like a cave are completely
+camouflaged in darkness.  The air is damp and chilly, perhaps moistened by
+the stream that trickles from a sinkhole of some sort.  Seemingly carved
+into the wall to the east, is a large hole stained with a reddish film of
+some substance, a substance which could very possibly be blood.  The sound
+of hissing and scratching comes from that direction.  
+~
+0 8 0
+E
+wall~
+You attempt to see to the other side of this feature, but sadly fail.
+~
+D0
+A shadow enshrouded cavern continues to the north.  
+~
+~
+0 0 18486
+D1
+A large hole stained with a thick red material leads further into shadows.  
+~
+~
+0 0 18488
+S
+#18488
+Greater Shadow~
+{xThe smooth cave walls open to a good-sized chamber, and are covered
+with what appear to be haphazard etchings.  Upon closer inspection it is
+apparent that these etchings are not in fact haphazard, but resemble some
+ordered pattern of markings, perhaps a language of some sort.  An opening
+leads back to the west but to the east an ominous {Wshadow{x looms.  Oddly,
+it seems to beckon you.  
+~
+0 8 0
+E
+etchings~
+You attempt to read them out loud...
+     'Shmskw fi dan +'
+~
+E
+markings~
+You attempt to read them out loud...
+     'Shmskw fi dan +' 
+~
+D3
+~
+~
+0 0 18487
+S
+#18489
+Large Chamber~
+An exceedingly large chamber is cloaked in shadows.  The cold ground
+surface is composed of a type of deep rich red clay, in some places it
+appears as if the surface is bleeding.  The roof is undulating, and rugged,
+composed of the same dark rich clay, for a moment it appears to be closing
+in on you.  The sound of hissing sliced by what appear to be whispers echoes
+off the damp clay walls.  Carved into the clay on the ground is a series of
+strange runes.  Four arrows point away from the runes in each of the
+cardinal directions.  
+~
+0 8 0
+E
+rune runes~
+A series of perpendicular, oblique and some curved lines make a regular
+pattern in the clay.  
+~
+E
+arrows~
+They are perfectly perpendicular, making right angles and pointing due
+north, south, east and west.  
+~
+D0
+You see a shadowy cavern.  
+~
+~
+0 0 18494
+D1
+You see a shadowy cavern.  
+~
+~
+0 0 18490
+D2
+You see a shadowy cavern.  
+~
+~
+0 0 18495
+D3
+You see a shadowy cavern.  
+~
+~
+0 0 18491
+S
+#18490
+Large Chamber~
+{xShadows play tag across the red clay walls of this huge chamber. 
+Dancing with any invading light.  The walls ooze a thick red liquid which
+has the same consistency as blood, yet is nearly completely odorless.  The
+true size of the room is impossible to surmise given that it is completely
+cloaked in {Wshadows{x.  The sound of whispers and hissing appears to be
+coming from somewhere deep.  
+~
+0 8 0
+E
+thick red liquid~
+A thick, dark red liquid, the consistency of coagulated blood seems to
+seep from the clay itself.  Puddles of the substance spread on the ground,
+in various stages of drying.  Some leave patches of a dark red powder.  
+~
+D3
+You see the middle of a large cavern.  On the ground you can see a bunch
+of figures carved into the clay.  
+~
+~
+0 0 18489
+S
+#18491
+Large Chamber~
+{xShadows play tag across the red clay walls of this huge chamber. 
+Dancing with any invading light.  The walls ooze a thick red liquid which
+has the same consistency as blood, yet is nearly completely odorless.  The
+true size of the room is impossible to surmise given that it is completely
+cloaked in {Wshadows{x.  The sound of whispers and hissing appears to be
+coming from somewhere deep.  
+~
+0 8 0
+E
+thick red liquid~
+A thick, dark red liquid, the consistency of coagulated blood seems to
+seep from the clay itself.  Puddles of the substance spread on the ground,
+in various stages of drying.  Some leave patches of a dark red powder.  
+~
+D1
+You see the middle of a large cavern.  On the ground you can see a bunch
+of figures carved into the clay.  
+~
+~
+0 0 18489
+S
+#18492
+Entrance to the Gith Lair~
+Marking the boundary of heavily sought, passionately debated cave
+territory, the strong and peculiar scent of reptilian bodies serves to repel
+all but the stooping Gith.  The chamber, on touch, is not objectively
+claustrophobic, yet an oppressive humidity hints at an intimacy between the
+inhabitants and closed spaces.  Smooth, clean surfaces feel cold and hard
+like marble in its natural environment underfoot, decorated in places with a
+gruff elegance that seems hopeful of evoking something deeper, yet lacking
+the craft. {WShadows{x lick the walls like insistent flames of darkness, and
+give the room a sense of infinite space.  
+~
+0 12 0
+D1
+~
+~
+0 0 18498
+D3
+~
+~
+0 0 18499
+S
+#18493
+Entrance to the Troglodyte Lair~
+{xThe smell of damp earth laced with the smell of some bitter, fermented
+liquid fills this chamber of undetectable size.  {WShadows{x seem to breath
+and swoon as your eyes try to penetrate them.  It is impossible to see what
+lies in any direction, even with the strongest light source.  On the ground,
+near your feet, is a piece of reptile skin shed long ago and left to
+disintegrate over time.  From all around the sound of low, hissing voices
+betrays that these caverns are inhabited.  
+~
+0 9 0
+D1
+The shadows cloud your view in that direction.  
+~
+~
+0 0 18400
+D2
+The shadows cloud your view in that direction.  
+~
+~
+0 0 18401
+D3
+The shadows cloud your view in that direction.  
+~
+~
+0 0 18400
+S
+#18494
+Large Chamber~
+{xShadows play tag across the red clay walls of this huge chamber. 
+Dancing with any invading light.  The walls ooze a thick red liquid which
+has the same consistency as blood, yet is nearly completely odorless.  The
+true size of the room is impossible to surmise given that it is completely
+cloaked in {Wshadows{x.  The sound of whispers and hissing appears to be
+coming from somewhere deep.  
+~
+0 8 0
+E
+thick red liquid~
+A thick, dark red liquid, the consistency of coagulated blood seems to
+seep from the clay itself.  Puddles of the substance spread on the ground,
+in various stages of drying.  Some leave patches of a dark red powder.  
+~
+D2
+You see the middle of a large cavern.  On the ground you can see a bunch
+of figures carved into the clay.  
+~
+~
+0 0 18489
+S
+#18495
+Large Chamber~
+{xShadows play tag across the red clay walls of this huge chamber. 
+Dancing with any invading light.  The walls ooze a thick red liquid which
+has the same consistency as blood, yet is nearly completely odorless.  The
+true size of the room is impossible to surmise given that it is completely
+cloaked in {Wshadows{x.  The sound of whispers and hissing appears to be
+coming from somewhere deep.  
+~
+0 8 0
+E
+thick red liquid~
+A thick, dark red liquid, the consistency of coagulated blood seems to
+seep from the clay itself.  Puddles of the substance spread on the ground,
+in various stages of drying.  Some leave patches of a dark red powder.  
+~
+D0
+You see the middle of a large cavern.  On the ground you can see a bunch
+of figures carved into the clay.  
+~
+~
+0 0 18489
+S
+#18496
+Shadow Corridor~
+A corridor through the shadows leads east and west into a large chamber. 
+The physical barriers of the chamber are not visible through the dense
+shadows that are cast on the walls.  Elongated humanoid profiles slant from
+the west where a large chamber is filled with several troglodyte and gith in
+heated discussion.  A thin pillar of light casts a dim ambiance on the
+chamber to the west and projects the elongated likenesses of the inhabitants
+along the walls.  
+~
+0 8 0
+D3
+You hear the sound of loud discussion and see several figures in a dimly
+lit chamber.  
+~
+~
+0 0 18420
+S
+#18497
+Darker Shadow Room~
+The shadows fade to nearly total darkness, making it difficult to keep
+your bearings.  Your light source appears to be devoured before slicing too
+far in any direction.  Sounds echo throughout the darkness from several
+different directions.  The loudest is a woeful howling of the wind tearing
+through the caverns and shafts.  A particularly dark shadow looks like a
+hand, pointing to the north.  
+~
+0 8 0
+D2
+~
+~
+0 0 18427
+S
+#18498
+Eastern Gith Snake-Tunnel~
+A perfectly cylindrical tunnel, often winding smoothly, almost
+imperceptibly around unknown obstacles, thought-provoking in their mystery,
+curving like the relentless path of a serpent.  The walls themselves are
+scaly to touch, and when exposed to bright light reveal drawings of ancient
+historical acts of the unseen yet bustling past of the caves.  Shivers of
+sibilant, serpentine voices echo eerily throughout the length of the tunnel,
+and the crunch of dry snakeskin rustles under foot, disturbing the silence
+in anxious bursts.  The tunnel continues east and opens into a larger
+chamber to the west.  
+~
+0 8 0
+D1
+~
+~
+0 0 18506
+D3
+~
+~
+0 0 18492
+S
+#18499
+Western Gith Snake-Tunnel~
+Mottled granite forms a smooth east west tunnel.  Traces of light snake
+in through long cracks in the ceiling, each no wider than the thinnest hair.
+Strange and ominous shadows are cast from these sheets of light.  Sounds
+echo throughout these caves, never betraying the location of their sources
+as they bounce from surface to surface.  The tunnel continues to the east
+and west, disappearing into the darkness.  
+~
+0 8201 0
+D1
+~
+~
+0 0 18492
+D3
+~
+~
+0 0 18500
+S
+#18500
+Stalagmite Forest~
+A large chamber is a veritable forest of stalagmites, standing like trees
+to be navigated in the near darkness.  Each pillar, and its corresponding
+stalactite cast long shadows across the neighboring pairs and onto the
+cavern wall.  Some of the mineral deposits luminesce, giving the entire
+region an eerie feel.  Gaunt figures move around the natural obstacles
+within the cavern.  
+~
+0 8201 0
+D1
+~
+~
+0 0 18499
+D3
+~
+~
+0 0 18501
+S
+#18501
+Stalagmite Forest~
+A large chamber is a veritable forest of stalagmites, standing like trees
+to be navigated in the near darkness.  Each pillar, and its corresponding
+stalactite cast long shadows across the neighboring pairs and onto the
+cavern wall.  Some of the mineral deposits luminesce, giving the entire
+region an eerie feel.  Gaunt figures move around the natural obstacles
+within the cavern.  
+~
+0 8201 0
+D1
+~
+~
+0 0 18500
+D3
+~
+~
+0 0 18502
+S
+#18502
+Stalagmite Forest~
+A large chamber is a veritable forest of stalagmites, standing like trees
+to be navigated in the near darkness.  Each pillar, and its corresponding
+stalactite cast long shadows across the neighboring pairs and onto the
+cavern wall.  Some of the mineral deposits luminesce, giving the entire
+region an eerie feel.  Gaunt figures move around the natural obstacles
+within the cavern.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18504
+D1
+~
+~
+0 0 18501
+D2
+~
+~
+0 0 18505
+D3
+~
+~
+0 0 18503
+S
+#18503
+Stalagmite Forest~
+A large chamber is a veritable forest of stalagmites, standing like trees
+to be navigated in the near darkness.  Each pillar, and its corresponding
+stalactite cast long shadows across the neighboring pairs and onto the
+cavern wall.  Some of the mineral deposits luminesce, giving the entire
+region an eerie feel.  Gaunt figures move around the natural obstacles
+within the cavern.  
+~
+0 8201 0
+D1
+~
+~
+0 0 18502
+S
+#18504
+Stalagmite Forest~
+A large chamber is a veritable forest of stalagmites, standing like trees
+to be navigated in the near darkness.  Each pillar, and its corresponding
+stalactite cast long shadows across the neighboring pairs and onto the
+cavern wall.  Some of the mineral deposits luminesce, giving the entire
+region an eerie feel.  Gaunt figures move around the natural obstacles
+within the cavern.  
+~
+0 8201 0
+D2
+~
+~
+0 0 18502
+S
+#18505
+Stalagmite Forest~
+A large chamber is a veritable forest of stalagmites, standing like trees
+to be navigated in the near darkness.  Each pillar, and its corresponding
+stalactite cast long shadows across the neighboring pairs and onto the
+cavern wall.  Some of the mineral deposits luminesce, giving the entire
+region an eerie feel.  Gaunt figures move around the natural obstacles
+within the cavern.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18502
+S
+#18506
+A Cold Tunnel~
+{xA cold tunnel slopes gently downward to the east, diffuse light bounces
+from smooth granite surfaces.  The air is damp and there is a moldy smell
+wafting from somewhere.  Sounds echo from all directions, it is obvious that
+there are many creatures within these caverns.  The end of the tunnel
+disappears into {Wshadow{xs to the east.  
+~
+0 8201 0
+D3
+~
+~
+0 0 18498
+S
+#18507
+Narrow Tunnel~
+{xThe {Wshadows{x threaten to completely clog this narrow passage through
+tons of granite.  A cool wind howls down from somewhere above, whistling as
+it passes through the narrowest openings.  To the west the passageway is
+completely darkened by shadows.  A crack leads to the north, sharp edges of
+cracked granite look poised to dig into pieces of flesh or armor.  
+~
+0 9 0
+D0
+~
+~
+0 0 18508
+S
+#18508
+A Crack in the Granite~
+Two gigantic boulders are separated just enough to create a thin pathway
+in the darkness.  The surfaces are rough with jagged edges suggesting that
+this was once a single, large rock that was torn apart by some geological or
+magical force.  The crack seems to be complete, looking up you can see
+patches of sky.  To the south the shadows dance across the opening of the
+crack which seems to open into some larger chamber to the north.  
+~
+0 9 0
+D0
+~
+~
+0 0 18509
+D2
+~
+~
+0 0 18507
+S
+#18509
+Shadowed Chamber~
+A large opening with a sloping floor is barely lighted by some diffuse
+source which filters from above.  Fresh air blows down from an opening
+somewhere near.  The sounds of several beings, shuffling about within the
+dark caverns come from several directions.  A dark alcove near the northern
+wall contains stacks of apparently unrelated items, which seem out of place
+in the natural caverns.  A torn feather pillow lies on top of a cracked
+crystalline vase.  A wide opening leads to another chamber to the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 18510
+D2
+~
+~
+0 0 18508
+S
+#18510
+A Gith Lair~
+{xThis chamber is nearly perfectly circular with large, flat stones
+scattered randomly around.  It is not immediately apparent if that is by
+design or by chance.  It appears to be a living quarters for some type of
+creature, which seem to use the stones for beds.  Piles of items taken in
+raids on surrounding communities are scattered throughout the area.  The air
+smells of some type of stale body odor.  The large stones cast long
+{Wshadows{x along the circular walls.  
+~
+0 9 0
+D3
+~
+~
+0 0 18509
+S
+#18511
+Inhabited Cavern~
+The size of this cavern is overwhelming, dwarfing even the largest giant.
+Streaks of luminescent material run through the uneven ceiling.  Eons of
+water, leeched through mineral rich solids have deposited their heavy burden
+at the point of drip, creating icicle like stalactites and pillar
+stalagmites.  Large, flat rocks are scattered throughout the cavern, some
+hidden within shadows cast by the luminescent light on the rocks,
+stalactites and stalagmites.  The cavern continues to the east and north. 
+What appears like a cave opening lies to the west, covered in shadow.  
+~
+0 8 0
+D0
+~
+~
+0 0 18512
+D1
+~
+~
+0 0 18514
+S
+#18512
+Under Ore Lighting~
+{x Streaks of luminescent ores radiate out from a large deposit on the
+ceiling, creating a relatively brightly lit spot in a very large underground
+cavern.  Flat slats of granite contain piles of items, probably spoils of
+violent invasions on neighboring human and humanoid populations.  The air in
+the cavern is humid and cool.  A slight breeze wafts from somewhere within
+the {Wshadows{x to the north.  
+~
+0 8 0
+D1
+~
+~
+0 0 18513
+D2
+~
+~
+0 0 18511
+S
+#18513
+Large Cavern~
+Natural archways of granite break the monotony of this wide cavern which
+stretches into the shadows to the east.  The sounds of life come from
+throughout the open space.  Faint lighting is provided by luminescent ores
+in the granite.  Shadows obscure the view through various archways, vague
+figures move in and out of the light.  
+~
+0 8 0
+D0
+~
+~
+0 0 18516
+D1
+~
+~
+0 0 18518
+D2
+~
+~
+0 0 18514
+D3
+~
+~
+0 0 18512
+S
+#18514
+Large Cavern~
+{xThe uneven floor slopes gently downward to the southeast to a dark
+area.  A wide cavern opens to the north and west, faintly lit by luminescent
+ores.  Fingers of granite reach down from the ceiling creating shadowed
+arches throughout the space.  Several hunched and lanky figures move about
+the area, some purposefully and some lazily.  The air smells of body odor
+and pine.  A slight breeze swirls from the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 18513
+D2
+~
+~
+0 0 18515
+D3
+~
+~
+0 0 18511
+S
+#18515
+A Windy Shaft~
+A terrible darkness above and below you is disorienting at best.  Your
+light source illuminates only the rough granite walls of this long shaft
+that are closest to you.  The darkness beyond that is absolute.  The air is
+damp and cold, a biting wind rushes from below, stinging your exposed skin. 
+~
+0 8 0
+D0
+~
+~
+0 0 18514
+D5
+~
+~
+0 0 18521
+S
+#18516
+Large Cavern~
+{xNatural archways of granite break the monotony of this wide cavern
+which stretches into the shadows to the east.  The sounds of life come from
+throughout the open space.  Faint lighting is provided by luminescent ores
+in the granite.  {WShadows{x obscure the view through various archways,
+vague figures move in and out of the light.  
+~
+0 8 0
+D1
+~
+~
+0 0 18517
+D2
+~
+~
+0 0 18513
+S
+#18517
+Edge of an Extensive Cavern~
+{xAn uneven granite wall marks the eastern edge of this extensive cavern
+which seems to serve as the living quarters of the Gith.  The air smells of
+body odor and a myriad of other smells, probably carried in on the winds
+which find their way into and from the darkest reaches of the Shadow Caves. 
+A low, {Wshadowy{x opening leads off to the north.  Unintelligible chanting
+comes from that direction.  
+~
+0 8 0
+D2
+~
+~
+0 0 18518
+D3
+~
+~
+0 0 18516
+S
+#18518
+Edge of an Extensive Cavern~
+{xAn uneven granite wall marks the eastern edge of this extensive cavern
+which seems to serve as the living quarters of the Gith.  The air smells of
+body odor and a myriad of other smells, probably carried in on the winds
+which find their way into and from the darkest reaches of the Shadow Caves. 
+A low, {Wshadowy opening{x leads off to the southeast.  
+~
+0 8 0
+D0
+~
+~
+0 0 18517
+D3
+~
+~
+0 0 18513
+S
+#18519
+A Long Cave~
+{xA soft breeze whispers in from a small opening in a high, uneven
+ceiling.  The incoming air is fresh and smells of grasses and pine.  The
+smooth granite walls of this long, narrow cave are covered with crude
+drawings of various animals and humanoids.  A light at the northern end of
+the cave casts {Wshadows{x over the entrance at the southern end.  
+~
+0 8 0
+D0
+~
+~
+0 0 18520
+S
+#18520
+A Long Cave~
+{xShallow bowls containing a brightly luminescent material have been
+placed in a careful circle at one end of a long cave.  On the smooth granite
+walls are various drawings, which at first appear random but, after careful
+study are fairly ordered.  The mural appears to tell a story in which two
+races share a space.  In some parts of the mural they seem to be
+cooperating, in others they seem to be at odds.  
+~
+0 8 0
+D2
+~
+~
+0 0 18519
+S
+#18521
+Inside A Shaft~
+A howling wind blows up from some unseen source below, hindering your
+ability to hear all but the loudest of sounds.  Darkness closes in from all
+sides surrounding and enfolding your movements inside this rough granite
+shaft.  The force of the wind slices into you, unrelenting, from beneath.  
+~
+0 8 9
+D4
+~
+~
+0 0 18515
+D5
+~
+~
+0 0 18522
+S
+#18522
+A Vile Mound~
+Waste, filth and garbage lay upon the hard granite floor here, being
+whipped by the blasting winds.  To the north and east the grey of the
+granite walls can be made out standing covered by the garbage tossed down
+from the shaft above.  Darkness stretches away form the mound, seeming to be
+filled only with the blasting wind.  
+~
+0 8 0
+D2
+~
+~
+0 0 18523
+D3
+~
+~
+0 0 18524
+D4
+~
+~
+0 0 18521
+S
+#18523
+A Windy Cave~
+A gail blows from the west ripping at you.  A single smooth pillar of
+stone stands here having formed over the ages by a stead flow from the roof.
+It seems almost as if the wind has blasted into the western face making it
+frail to what you imagine it should have been like if left unmolested by the
+howling wind.  
+~
+0 8 0
+D0
+~
+~
+0 0 18522
+D3
+~
+~
+0 0 18525
+S
+#18524
+A Windy Cave~
+From the south a blasting gail howls towards you, cutting into your body
+almost like a knife.  To the east a mound of something can barely be made
+out though the darkness.  Forced hard into the north western corner of the
+cave walls is what looks to be the skull of some great beast, long since
+dead.  
+~
+0 8 0
+D1
+~
+~
+0 0 18522
+D2
+~
+~
+0 0 18525
+S
+#18525
+A Circle Of Power~
+Almost to the level of a tempest winds whip in all directions from a
+glowing circle curved into the smoothed stone floor.  It almost sounds as if
+the wind is calling out a single word over and over again yet the language
+is unknown to you, or maybe the sadness and rage you feel on the wind is
+just in your mind.  To the east and north the cave stretches away while to
+the south and west granite walls block any chance at movement.  
+~
+0 12 0
+D0
+~
+~
+0 0 18524
+D1
+~
+~
+0 0 18523
+S
+#18526
+A Shadowy Crawl Space~
+Rough and uneven the granite of this tunnel only just parts far enough
+for you to force your self though.  Shadows dance ahead and behind you as
+you move though this space.  The air is tainted with the scent of something
+reptilian and very warm.  Some small way off to the south the tunnel seems
+to widen, a {Wshadowy opening{x leads off to the north west.  
+~
+0 12 0
+D2
+~
+~
+0 0 18527
+S
+#18527
+A Widening Cave~
+To the north a small crevice leads off while to the south the cave
+expands becoming much larger.  The cave floor here has been smoothed as if
+by the passage of many feet and some work.  Off to the south a glow from
+some form off light can be made out, flickering and making the shadows dance
+here.  
+~
+0 8 0
+D0
+~
+~
+0 0 18526
+D2
+~
+~
+0 0 18528
+S
+#18528
+Chieftains Chamber~
+In the center of this room a stone bowl has been crafted, from this a
+dancing light comes from a small fire.  Carved with little skill but much
+effort into the southern most wall stand two seats, between these a plinth is
+set.  Painted on the walls of the cave are a history of the gith moving into
+the cave or what could very well be this history.  The camber leads off to
+the north.  Shadows dance all around this chamber, due mostly to the fire.  
+~
+0 8 0
+D0
+~
+~
+0 0 18527
+S
+#18529
+A Narrow Cavern~
+Upon the air a strange chant can be heard, resounding from the walls of
+the cavern.  Hanging from rusted iron spikes driven into cracks in the rock
+walls, are all manner of brightly painted bones and the odd rare feather. 
+Skulls of humanoids and animals leer down from the shadow covered roof,
+giving an impression of some grisly mortuary.  The cavern stretches away to
+the north, while to the south a {Wshadowy{x opening leads off.  
+~
+0 8 0
+D0
+~
+~
+0 0 18530
+S
+#18530
+A Twist in a Narrow Cavern~
+From the west, sounding loudly here, a strange chant in some unknown
+tongue can be heard.  Two large wooden stakes have been placed into the
+floor here, each topped with what looks like the skulls of either great
+lizards or horses.  The sightless sockets of these skulls gaze down upon
+you, almost as if there judging you.  The walls seem to shift and waver with
+the dancing of shadows.  
+~
+0 8 0
+D2
+~
+~
+0 0 18529
+D3
+~
+~
+0 0 18531
+S
+#18531
+An Obsidian Altar~
+This cavern has been shaped so that now it is circular, in the center of
+which a slab of obsidian rests upon two blocks of granite.  The edges of the
+obsidian altar glint evilly like razors, while its black surface seems to
+absorb light sending it back somehow tainted.  The very air seems to hum
+with magic as the chanting resounds from the walls here.  To the east the
+cavern heads away, other than that no exist can be seen within the dancing
+shadows of this chamber.  
+~
+0 8 0
+D1
+~
+~
+0 0 18530
+S
+#18532
+Hall of Arches~
+A faint luminescence illuminates the cavern here, shining from ore
+contained in the granite walls.  To the east and west natural arches lead
+into what might well be living spaces, skins and cloths vainly attempt to
+obscure the view inside.  North wards the natural arches lead onwards. 
+{WShadows{x to the south mask a view of a large cavern, dimly figures can be
+seen moving about.  
+~
+0 8 0
+D0
+~
+~
+0 0 18539
+D1
+~
+~
+0 0 18534
+D3
+~
+~
+0 0 18533
+S
+#18533
+A Living Cave~
+A rank stench rises from the heap of furs and skins used as a communal
+bed by the gith.  Battered pans and pots sit close to a small fire pit, over
+the top of which a small hole has been bored to allow the smoke to leave. 
+Little of value or true interest seems to be here.  A natural arch to the
+east, partly covered by skins and cloths leads out.  
+~
+0 8 0
+D1
+~
+~
+0 0 18532
+S
+#18534
+A Gith Den~
+A rank stench rises from the heap of furs and skins used as a communal
+bed by the gith.  Battered pans and pots sit close to a small fire pit, over
+the top of which a small hole has been bored to allow the smoke to leave. 
+Little of value or true interest seems to be here.  A natural arch to the
+west, leads into the hall way, this has been partly covered by skins to try
+and stop others looking in.  
+~
+0 8 0
+D3
+~
+~
+0 0 18532
+S
+#18535
+A Living Chamber~
+A rank stench rises from the heap of furs and skins used as a communal
+bed by the gith.  Battered pans and pots sit close to a small fire pit, over
+the top of which a small hole has been bored to allow the smoke to leave. 
+Little of value or true interest seems to be here.  A natural arch to the
+west, leads into the hall way, this has been partly covered by skins to try
+and stop others looking in.  
+~
+0 12 0
+D3
+~
+~
+0 0 18542
+S
+#18536
+A Gith Den~
+A rank stench rises from the heap of furs and skins used as a communal
+bed by the gith.  Battered pans and pots sit close to a small fire pit, over
+the top of which a small hole has been bored to allow the smoke to leave. 
+Little of value or true interest seems to be here.  A natural arch to the
+east, partly covered by skins and cloths leads out.  
+~
+0 12 0
+D1
+~
+~
+0 0 18542
+S
+#18537
+A Cave Home~
+The air is heavy with the foul small of so many gith living in such a
+small area.  A large pile of hay sits in one corner, fouled by use as a bed.
+Nothing of true worth seems to be here.  Upon the stone walls stick like
+figures have been painted in the aspect of hunting, or so it seems.  A
+natural arch to the east leads into a hall of other arches.  
+~
+0 12 0
+D1
+~
+~
+0 0 18540
+S
+#18538
+A Rank Living Area~
+Masking the smell even of so many gith, the pile of un-cured sheep skins
+that lays here as a bed is vile to your senses.  Small items lacking true
+value lay piled in one corner, most likely the treasured pretty things of
+the caves owner.  To the west, though an arch a hall way can just be made
+out obscured by rags and animal skins.  
+~
+0 12 0
+D3
+~
+~
+0 0 18540
+S
+#18539
+An Arched Hallway~
+A faint glow come from some kinds of ore embedded in the granite walls,
+casting dancing shadows though out the passage way.  The smell of numerous
+bodies living in such a small area, fills the area with a pungent tang.  The
+natural stone arches stretch away to the north and south, seeming dotted
+with caves.  
+~
+0 8 0
+D0
+~
+~
+0 0 18540
+D2
+~
+~
+0 0 18532
+S
+#18540
+A Nexus of Arches~
+Arches illuminated by a faintly glowing ore lead off in all the cardinal
+directions.  Skins and stripes of cloth hand down from the granite arches to
+the west and east, partly blocking the view of inside.  North and south the
+hallway stretches away.  The air is scented with the smell of countless gith
+bodies.  
+~
+0 8 0
+D0
+~
+~
+0 0 18541
+D1
+~
+~
+0 0 18538
+D2
+~
+~
+0 0 18539
+D3
+~
+~
+0 0 18537
+S
+#18541
+An Arched Hallway~
+Natural stone arches line the hallway here leading off to the north and
+south.  The air is warmed and tainted with the number of hunched figures
+that more around this hallway.  Some distance to the south and north caves
+can be seen leading off to the west and east.  
+~
+0 8 0
+D0
+~
+~
+0 0 18542
+D2
+~
+~
+0 0 18540
+S
+#18542
+The End of a Hall~
+A rough granite wall stands as a solid end to the natural arched hallway
+that leads away to the south.  East and west arched entrances to caves stand
+partly covered by pelts and cloths.  The pungent tang of countless bodies
+fills the air, adding both warmth and scent.  Shadows fill the cave here as
+they seem to though out these caves.  
+~
+0 8 0
+D1
+~
+~
+0 0 18535
+D2
+~
+~
+0 0 18541
+D3
+~
+~
+0 0 18536
+S
+#18400
+In the shadows~
+Moving in any direction in the shadows only reveals more shadows.  They
+reside in a circle around you, seemingly ready to pounce should you let down
+your guard.  The air is damp and there is a heavy odor of some bitter
+reptilian secretion.  
+~
+0 9 0
+D0
+The shadows block your view in that direction.  
+~
+~
+0 0 18403
+D1
+The shadows block your view in that direction.  
+~
+~
+0 0 18493
+D2
+The shadows block your view in that direction.  
+~
+~
+0 0 18403
+D3
+The shadows block your view in that direction.  
+~
+~
+0 0 18493
+S
+#18401
+A circle of stones~
+On the dark red clay of the ground a circle of stones, each no bigger
+than your fist, has been carefully laid out.  The diameter of the circle is
+approximately the height of an adult troglodyte.  Directly over the center
+of the circle, in the ceiling above a wisp of light makes it's way through a
+pin-hole sized fissure.  The air in this particular spot, while still heavy
+with the bitter odor of troglodytes, is slightly fresher than the rest of
+the cavern.  In all directions the shadows seem to whisper to you.  
+~
+0 9 0
+E
+stones~
+Each is disc shaped and nearly circular.  Apparently someone or something
+spent alot of time choosing stones of the correct shape.  The colors range
+from dusty grey to deep rose.  
+~
+E
+fissure~
+A small crack in the ceiling allows a minuscle amount of light to enter
+the cave.  
+~
+D0
+The shadows block your view in that direction.  
+~
+~
+0 0 18493
+D1
+The shadows block your view in that direction.  
+~
+~
+0 0 18403
+D2
+You see a small alcove in which signs of habitation can be seen.  
+~
+~
+0 0 18402
+D3
+The shadows block your view in that direction.  
+~
+~
+0 0 18403
+S
+#18402
+A smelly hovel~
+Hidden in the shadows is a small alcove carved into the red clay walls. 
+The bitter stench of troglodyte secretions is nearly crushing.  Filthy
+bedding is strewn along the southern wall, much of it looks to have been of
+human origin.  A pile of bones, some still with stringy chunks of meat
+clinging to them lies in a heap near the alcove opening.  On the wall,
+someone has scratched some odd looking characters, possibly a written
+language.  
+~
+0 9 0
+E
+pile bones~
+Many appear to be of human or elven origin.  A few are broken with jagged
+ends showing where the marrow was sucked out.  
+~
+E
+characters~
+A series of regular figures, in vertical lines and often repeating have
+been carved into the wall.  
+~
+D0
+The shadows block your view in that direction.  
+~
+~
+0 0 18401
+S
+#18403
+In the shadows~
+{xThe troglodyte stench is bitter and strong.  It seems to have a life of
+it's own, hiding in the {Wshadows{x which fade into each other.  Just enough
+light finds its way into these depths through pinhole-sized fissures in the
+ceiling to keep the shadows defined as shadows rather than darkness.  
+~
+0 8 0
+D0
+The shadows block your view in that direction.  
+~
+~
+0 0 18400
+D1
+The shadows block your view in that direction.  
+~
+~
+0 0 18401
+D2
+The shadows block your view in that direction.  
+~
+~
+0 0 18400
+D3
+The shadows block your view in that direction.  
+~
+~
+0 0 18401
+S
+#18404
+More Shadow~
+{xThe sound of droplets hitting a pool of liquid echo off the shadows
+themselves.  Faint light filters from the south where you can see the signs
+of some sort of civilization.  Reptilian humanoids move in and out of
+shadows through a shaft of light.  A bitter smell is so strong that it seems
+to shimmer through the air, almost as if you could touch it.  {WShadows{x
+loom, as if waiting to pounce to the east and south.  A dark red wall weeps
+a thick red liquid to the west.  
+~
+0 8 0
+E
+thick red liquid~
+A thick, dark red liquid, the consistency of coagulated blood seems to
+seep from the clay itself.  Puddles of the substance spread on the ground,
+in various stages of drying.  Some leave patches of a dark red powder.  
+~
+D2
+You see a hint of light coming from that direction, casting shadows
+beyond its source.  
+~
+~
+0 0 18405
+S
+#18405
+In a lighted chamber~
+Directly overhead a fissure allows a column of illumination into the
+otherwise dark caverns, pushing back slightly the shadows that inhabit here.
+A hint of freshness in the air is welcome relief to the damp stench in the
+rest of the caves.  In the darker reaches of the chamber are gatherings of
+objects that obviously were put there by some sentient group of beings.  To
+the east, the darkness seems to extend into a cave in the cavern wall.  
+~
+0 8 0
+E
+fissure~
+A crack in the ceiling of the cave appears to extend to the outside
+somewhere above ground.  It is about a giant's finger width wide and as long
+as an elf's ear.  
+~
+D0
+Dark shadows all but mask the signs of habitation at the caverns edge.  
+~
+~
+0 0 18404
+D1
+Dark shadows all but mask the signs of habitation at the caverns edge.  
+~
+~
+0 0 18408
+D2
+Dark shadows all but mask the signs of habitation at the caverns edge.  
+~
+~
+0 0 18407
+D3
+Dark shadows all but mask the signs of habitation at the caverns edge.  
+~
+~
+0 0 18406
+S
+#18406
+A damp shadow~
+{xThe {Wshadows{x barely yield as you approach, seeming only to shift
+slightly to envelop other features of the damp cavern.  The sound of beings
+of some sort, whispering and scratching, indicates a presence within the
+shadows.  To the east, a fissure provides a modicum of light which only
+seems to tease the shadows.  The sound of water dripping is coming from
+somewhere near.  
+~
+0 9 0
+D1
+You see a hint of light coming from that direction, casting shadows
+beyond its source.  
+~
+~
+0 0 18405
+S
+#18407
+Troglodyte den~
+A wide space in the cavern appears to serve as home for perhaps twenty
+foul-smelling troglodytes.  Filthy bedding and gnawed bones are strewn
+seemingly haphazardly throughout the area.  From the north a small amount of
+light creeps in, casting shadows on the walls.  Individual belongings are
+hoarded in wide, dented copper pots although given that they aren't guarded
+very well 'individual' appears to be a loose term.  Near the back of the den
+is an extraordinarily oppressive {Wshadow{x.  
+~
+0 9 0
+E
+bedding~
+Torn mattresses appear to have been dragged over muddy ground.  Several
+tears in the fabric are worn and faded.  A dark oily substance stains the
+covering where smelly troglodytes have lain.  
+~
+E
+bones~
+Many appear to be of human or elven origin.  A few are broken with jagged
+ends showing where the marrow was sucked out.  
+~
+D0
+You see a hint of light coming from that direction, casting shadows
+beyond its source.  
+~
+~
+0 0 18405
+S
+#18408
+Near a Shadowed Cave~
+The smooth yet uneven cavern walls are damp from condensation.  There
+must be a water source down here somewhere, probably cloaked in shadows.  To
+the west a pillar of light strikes from a fissure in the ceiling.  A low,
+curved opening in the wall to the east leads to some sort of alternate
+chamber, the contents of which are obscured in shadows.  The sound of
+scratching and hissing comes from the hole.  A strong, bitter smell is
+overpowering.  
+~
+0 9 0
+D1
+A darker cave opening can be just made out in the shadows.  
+~
+~
+0 0 18409
+D3
+A fissure allows a column of light to invade the shadows.  
+~
+~
+0 0 18405
+S
+#18409
+Subchieftain's Den~
+This den appears to house a single troglodyte, perhaps two.  A tattered
+mattress, probably a prize from some raid on a human settlement has been
+pushed up against a smooth wall.  A pile of items, all of them of steel,
+lies at the foot of the mattress.  The air in the cave is only slightly
+damp, significantly drier than the rest of the cave.  That doesn't help
+reduce the stench though, a bitter fermented smell permeates everything.  
+~
+0 9 0
+E
+mattress~
+It was once a plush sleeping place but has been dragged through the mud
+and stained with troglodyte sweat.  The fabric has several large tears in
+it.  
+~
+D3
+The caves opens into a larger, shadow filled cavern.  
+~
+~
+0 0 18408
+S
+#18410
+Crystal Grotto~
+{x{xYou step through the {Wshadows{x into a small, yet magnificent,
+grotto.  In the center is a pool, the depth of which you can't discern
+without venturing into it.  The air is damp and drops of what appears to be
+water fall into the pool from their places of condensation.  The entire
+surface of the cavern wall, ceiling and floor is covered with large black
+crystals.  The crystals grow like those of amethyst, irregular and elongated
+pillars with sharp edges.  Each luminescence slightly making the grotto glow
+with an eerie light.  The largest gems cling to the ceiling, it appears that
+the ones on the ground have been occasionally broken by some sort of being
+on their way to the water's edge.  
+~
+0 12 0
+S
+#18411
+In a darkened pool~
+The waist-high water is cold and dark.  Its touch is strangely
+invigorating.  Droplets fall randomly from the crystalline surfaces on the
+ceiling, pattering as it hits the pool surface.  Rings radiate out from the
+point of contact, illuminated by the luminescent black crystals of the
+grotto.  
+~
+0 8 0
+D0
+~
+~
+0 0 18410
+D1
+~
+~
+0 0 18410
+D2
+~
+~
+0 0 18410
+D3
+~
+~
+0 0 18410
+S
+#18412
+Troglodyte Lair~
+A vast cavern is lit by faintly glowing pillars of black crystal which
+cast long shadows and are arranged in a double circle.  The pillars range in
+height from knee-high to shoulder-high and are held in wooden holders.  The
+irregular, yet perfect shape of each crystal indicates that they were not
+fashioned by some sentient beings, rather they probably grew naturally,
+somewhere other than here.  The cavern floor is made of a dark red clay
+streaked with pale grey stone.  In the reaches of the caverns are several
+dens full of reptilian humanoids.  
+~
+0 8 0
+E
+wooden holders~
+Simple wooden blocks have a hole drilled in them into which each crystal
+shard fits snuggly and stands upright.  
+~
+D0
+Through the shadows you can see the signs of some sort of living space.  
+~
+~
+0 0 18414
+D1
+Filthy bedding and gnawed bones are strewn near the edge of the cavern.  
+~
+~
+0 0 18413
+D2
+You see a smallish cave opening.  
+~
+~
+0 0 18416
+D3
+Through the shadows you can see the signs of some sort of living space.  
+~
+~
+0 0 18415
+S
+#18413
+Troglodyte den~
+{xA wide space in the cavern appears to serve as home for perhaps twenty
+foul-smelling troglodytes.  Filthy bedding and gnawed bones are strewn
+seemingly haphazardly throughout the area.  From the north a small amount of
+light creeps in casting shadows on the walls.  Individual belongings are
+hoarded in wide, dented copper pots although given that they aren't guarded
+very well 'individual' appears to be a loose term.  Near the back of the den
+is an extraordinarily oppressive {Wshadow{x.  
+~
+0 8 0
+D3
+You see a strange circle of black crystals nearly masked in shadows.  
+~
+~
+0 0 18412
+S
+#18414
+A smelly hovel~
+Hidden in the shadows is a small alcove carved into the red clay walls. 
+The bitter stench of troglodyte secretions is nearly crushing.  Filthy
+bedding is strewn along the southern wall, much of it looks to have been of
+human origin.  A pile of bones, some still with stringy chunks of meat
+clinging to them lies in a heap near the alcove opening.  On the wall,
+someone has scratched some odd looking characters, possibly a written
+language.  
+~
+0 8 0
+D2
+You see a strange circle of black crystals nearly masked in shadows.  
+~
+~
+0 0 18412
+S
+#18415
+A smelly hovel~
+Hidden in the shadows is a small alcove carved into the red clay walls. 
+The bitter stench of troglodyte secretions is nearly crushing.  Filthy
+bedding is strewn along the southern wall, much of it looks to have been of
+human origin.  A pile of bones, some still with stringy chunks of meat
+clinging to them lies in a heap near the alcove opening.  On the wall,
+someone has scratched some odd looking characters, possibly a written
+language.  
+~
+0 9 0
+E
+pile bones~
+Many appear to be of human or elven origin.  A few are broken with jagged
+ends showing where the marrow was sucked out.  
+~
+E
+characters~
+A series of regular figures, in vertical lines and often repeating have
+been carved into the wall.  
+~
+D1
+You see a strange circle of black crystals nearly masked in shadows.  
+~
+~
+0 0 18412
+S
+#18416
+Chieftains chamber~
+The stench in this cave is horrid, much stronger here than in other parts
+of the lair.  A small opening leads back into a larger chamber to the north.
+Troglodytes of various sizes and social station wander in and out, often
+hissing and scratching as they go about their business.  The red walls of
+the cave are smooth to the touch but with large irregular bumps.  A small
+fissure in the near center of the ceiling allows filtered light to fall on
+the chieftain's belongings which are mostly random pieces of steel.  
+~
+0 8 0
+E
+fissure~
+A small crack in the cave ceiling allows light to filter from above
+ground.  
+~
+D0
+You see a strange circle of black crystals.  
+~
+~
+0 0 18412
+S
+#18420
+Shadow Council Debate Chamber~
+Recesses in the high, smooth yet uneven ceilings are bathed in shadows
+cast from a pillar of light, which has found its way in through a fissure in
+the ceiling of the damp caves.  The ground is formed of a hard red clay,
+nearly polished from the pacing of debaters over the many years in which
+this place has been inhabited.  To the east a wide corridor is eventually
+swallowed by looming shadows which seem dark enough to be tangible.  A wide
+table, which seems to serve as a podium for the current speaker faces to the
+west.  To the north, the delegation of gith whisper amongst themselves while
+to the south, the troglodyte delegation strategize.  
+~
+0 8 0
+D0
+You see rows of chairs, some filled with lanky gith.  
+~
+~
+0 0 18423
+D1
+The shadows form an eerie corridor.  
+~
+~
+0 0 18496
+D2
+You see several chairs in no particular order which contain the
+troglodyte delegations.  
+~
+~
+0 0 18421
+D3
+You see the Prime Minister's podium.  
+~
+~
+0 0 18422
+S
+#18421
+Troglodyte Delegation~
+The smooth walls of the dank cavern seep a thick red liquid which dries
+to a powder on the ground.  Several chairs, arranged in no particular order
+face generally northward towards the main debate floor.  Troglodytes, mostly
+aged and all malodorous, form the delegation to the Shadow Council.  Several
+occupy the chairs and a few pace fitfully, waiting their turn to argue for
+more space in the caves.  A dark {Wshadow{x on the cavern wall seems to
+camouflage an exit from the greater chamber.  
+~
+0 8 0
+D0
+~
+~
+0 0 18420
+S
+#18422
+Prime Minister's Podium~
+{xOn a large flat rock is what passes for reptilian grandeur.  Most items
+here look to have been of human origin, probably spoils of the many raids on
+unprotected communities near these caves.  A lecturn, made of an oak keg
+standing on one end is the centerpiece of this place of honor.  On the top
+of the keg is a wooden mallet with one worn end.  Placed behind the keg is a
+large wooden chair over which is draped a pale {ggreen{x afghan, signifying
+that the current prime minister is an elder of the Gith.  Directly to the
+south of the podium, is the debate floor where gith and troglodyte argue and
+make policy for their shared space in the Shadow Caves.  
+~
+0 8 0
+D1
+~
+~
+0 0 18420
+S
+#18423
+Gith Delegation~
+{xSeveral rows of benches face southward, towards the debate floor and
+hold the sizable delegation from the gith.  Some whisper amongst themselves
+while others sit with disgusted looks upon their faces.  Near the center of
+the front row are three chairs which look to be much more comfortable than
+the other seats.  The wall behind the back row of benches oozes a dark red
+liquid.  A dark {Wshadow{x obscures an opening in the wall.  
+~
+0 8 0
+D2
+~
+~
+0 0 18420
+S
+#18424
+~
+~
+0 1048580 0
+S
+#18425
+Gith Planning Chamber~
+A small opening in the dark red clay is nearly hidden in the deep shadows
+which lick the walls.  Somewhere to the south, the sound of loud and
+sometimes angry voices nearly echoes off these walls.  A large, dimly
+{Wglowing{x orb rests on a scratched table.  Gith are gathered around the
+table, planning and grumbling about the troglodytes.  A {Wshadowy opening{x
+leads back to the main council chamber.  
+~
+0 12 0
+S
+#18426
+Troglodyte Planning Chamber~
+The sound of droplets hitting a body of water echo off of the smooth yet
+undulating clay walls.  Somewhere in the shadows you can hear voices in loud
+discussion.  A long table holds a dimly {Wglowing{x orb.  Next to the orb
+are slates with strange markings on them.  The air smells stale and is laced
+with a fetid reptilian odor.  A shadowy opening leads to the north.  
+~
+0 12 0
+S
+#18427
+Near a Lighted Opening Room~
+A lighted opening to the east casts long shadows on a rough wall to the
+west.  The sound of rustling comes from within the chamber.  To the north
+and south, nothing can be seen save shadows of various shades.  The air is
+chilly and slightly damp.  A cold breeze flows northward.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18497
+D2
+~
+~
+0 0 18429
+D3
+~
+~
+0 0 18428
+S
+#18428
+Charmer's Chamber~
+A dim globe softly lights a small chamber.  The inhabitant of this room
+is obviously pampered by the troglodyte and gith who enslave her.  The
+furnishings are comfortable and obviously the best of the items gathered
+from the many raids on surrounding communities.  A large mirror, while
+cracked near the bottom, has a beautiful hardwood frame.  On a small table
+with ornately sculpted sides are several tins containing various colored
+powders and decanters of fragrant oils.  A dark alcove on the northern side
+of the chamber is out of reach of the dim globe.  Scratching and hissing can
+be heard through the shadows in that direction.  
+~
+0 1056776 0
+D1
+~
+~
+0 0 18427
+S
+#18429
+Granite Corridor~
+The shadows give way to rough, dark walls made of granite.  A narrow
+corridor runs north and east.  Long stalactites grow out of the shadow
+enshrouded ceiling, reaching towards their stalagmite mates which create an
+obstacle course along the corridor.  Dark shadows cast their secrecy
+blankets over whatever lies to the north and east.  A cold wind blows from
+the east.  
+~
+0 1056777 0
+D0
+~
+~
+0 0 18427
+D1
+~
+~
+0 0 18430
+S
+#18430
+Near a Glowing Stalactite~
+A thick stalactite ends in a dull point at about shoulder height to a
+giant.  It glows with a faint light, streaks of some luminescent material
+run through it.  The diffuse light casts long shadows along the eastern end
+of the narrow corridor.  A squat stalagmite sits directly underneath the
+glowing stalactite, its point has been knocked off creating a wet bench.  
+~
+0 1056777 0
+D3
+~
+~
+0 0 18429
+S
+#18431
+Shadow Shaft~
+Shadows rush to obscure your senses in this roughly shaped shaft.  High
+above, a shaft of light ricochets from the walls as it tries in vain to
+reveal the cavern's secrets.  The ground is somewhere below, it too is lost
+in shadow.  
+~
+0 8201 9
+D5
+~
+~
+0 0 18432
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 18496 spec_cast_cleric Load to: Gunt
+M 18498 spec_cast_cleric Load to: the Prime Minister
+M 18500 spec_breath_any Load to: Jeruslia
+M 18503 spec_poison Load to: a cave serpent
+M 18507 spec_cast_mage Load to: a gith elder
+M 18509 spec_cast_mage Load to: a sylph
+M 18510 spec_nasty Load to: an air kin
+M 18512 spec_cast_cleric Load to: the gith consort
+M 18514 spec_cast_mage Load to: a gith acolyte
+M 18515 spec_cast_mage Load to: a gith priest
+S
+
+
+
+#RESETS
+M 0 18500 1 18435
+E 0 18552 0 21
+O 0 18551 0 18435
+O 0 18516 0 18485
+O 0 18516 0 18486
+O 0 18516 0 18487
+O 0 18486 0 18488
+M 0 18485 1 18488
+E 0 18506 0 6
+M 0 18488 1 18489
+G 0 18507 0
+E 0 18508 0 16
+O 0 18517 0 18490
+O 0 18491 0 18490
+O 0 18517 0 18491
+O 0 18489 0 18491
+O 0 18488 0 18492
+M 0 18501 2 18492
+E 0 18560 0 16
+E 0 18562 0 5
+O 0 18518 0 18493
+O 0 18488 0 18493
+O 0 18517 0 18494
+O 0 18485 0 18494
+O 0 18517 0 18495
+O 0 18490 0 18495
+O 0 18488 0 18496
+O 0 18488 0 18497
+M 0 18502 1 18501
+E 0 18561 0 16
+E 0 18563 0 8
+G 0 18565 0
+M 0 18503 3 18503
+G 0 18565 0
+M 0 18503 3 18504
+G 0 18565 0
+M 0 18503 3 18505
+G 0 18565 0
+O 0 18555 0 18506
+M 0 18501 2 18506
+E 0 18560 0 16
+E 0 18563 0 8
+E 0 18562 0 5
+O 0 18556 0 18507
+M 0 18504 1 18509
+E 0 18566 0 16
+G 0 18564 0
+E 0 18567 0 10
+O 0 18557 0 18510
+O 0 18591 0 18511
+M 0 18505 5 18512
+O 0 18559 0 18512
+M 0 18507 1 18513
+E 0 18573 0 12
+E 0 18572 0 16
+G 0 18585 0
+M 0 18505 5 18513
+M 0 18506 4 18514
+E 0 18569 0 12
+E 0 18563 0 8
+M 0 18513 3 18516
+E 0 18586 0 16
+E 0 18562 0 5
+O 0 18592 0 18516
+M 0 18506 4 18517
+E 0 18569 0 12
+E 0 18563 0 8
+E 0 18571 0 16
+O 0 18594 0 18517
+O 0 18596 0 18518
+O 0 18558 0 18519
+M 0 18508 1 18520
+E 0 18573 0 12
+E 0 18574 0 17
+E 0 18575 0 23
+O 0 18578 0 18524
+P 0 18579 0 18578
+M 0 18509 1 18525
+E 0 18576 0 27
+M 0 18510 1 18525
+E 0 18577 0 12
+M 0 18513 3 18526
+E 0 18586 0 16
+E 0 18587 0 14
+E 0 18562 0 5
+O 0 18597 0 18526
+M 0 18511 1 18528
+E 0 18580 0 16
+E 0 18582 0 3
+E 0 18583 0 12
+M 0 18512 1 18528
+E 0 18581 0 5
+O 0 18595 0 18529
+M 0 18514 3 18530
+E 0 18590 0 5
+E 0 18584 0 16
+M 0 18514 3 18530
+E 0 18590 0 5
+E 0 18584 0 16
+G 0 18585 0
+M 0 18515 1 18531
+E 0 18583 0 12
+E 0 18570 0 23
+E 0 18588 0 16
+G 0 18589 0
+M 0 18514 3 18531
+E 0 18590 0 5
+E 0 18584 0 16
+M 0 18505 5 18532
+E 0 18568 0 16
+O 0 18593 0 18532
+M 0 18506 4 18535
+E 0 18567 0 10
+E 0 18569 0 12
+E 0 18566 0 16
+M 0 18505 5 18536
+M 0 18506 4 18537
+E 0 18571 0 16
+E 0 18569 0 12
+M 0 18513 3 18538
+E 0 18586 0 16
+E 0 18562 0 5
+E 0 18587 0 15
+M 0 18505 5 18540
+E 0 18568 0 16
+M 0 18489 3 18400
+E 0 18510 0 16
+M 0 18491 3 18402
+E 0 18509 0 16
+G 0 18502 0
+M 0 18490 3 18403
+E 0 18511 0 16
+O 0 18492 0 18403
+O 0 18517 0 18404
+M 0 18489 3 18404
+E 0 18510 0 16
+O 0 18493 0 18404
+M 0 18493 2 18405
+E 0 18512 0 16
+M 0 18492 3 18406
+E 0 18503 0 16
+O 0 18494 0 18406
+O 0 18519 0 18407
+P 0 18520 0 18519
+M 0 18491 3 18407
+E 0 18505 0 16
+M 0 18490 3 18407
+E 0 18511 0 16
+M 0 18489 3 18407
+E 0 18510 0 16
+E 0 18513 0 3
+O 0 18498 0 18407
+O 0 18521 0 18409
+M 0 18487 1 18409
+E 0 18515 0 13
+E 0 18514 0 16
+O 0 18497 0 18410
+O 0 18496 0 18410
+O 0 18495 0 18410
+O 0 18598 0 18410
+M 0 18493 2 18412
+E 0 18504 0 16
+M 0 18492 3 18413
+E 0 18503 0 16
+O 0 18499 0 18413
+M 0 18492 3 18414
+E 0 18503 0 16
+M 0 18491 3 18415
+E 0 18505 0 16
+M 0 18490 3 18415
+E 0 18511 0 16
+M 0 18486 1 18416
+E 0 18500 0 13
+E 0 18501 0 16
+G 0 18502 0
+M 0 18494 1 18420
+E 0 18543 0 1
+E 0 18542 0 16
+E 0 18541 0 7
+M 0 18495 4 18421
+E 0 18549 0 16
+E 0 18546 0 14
+M 0 18495 4 18421
+E 0 18548 0 16
+M 0 18495 4 18421
+E 0 18549 0 16
+G 0 18547 0
+O 0 18522 0 18421
+M 0 18498 1 18422
+E 0 18545 0 16
+E 0 18544 0 4
+M 0 18497 4 18423
+E 0 18540 0 16
+E 0 18538 0 6
+M 0 18497 4 18423
+E 0 18539 0 16
+M 0 18496 1 18423
+E 0 18537 0 27
+E 0 18536 0 16
+O 0 18524 0 18423
+M 0 18497 4 18425
+E 0 18540 0 16
+M 0 18497 4 18425
+E 0 18540 0 16
+O 0 18525 0 18425
+M 0 18495 4 18426
+O 0 18523 0 18426
+O 0 18554 0 18428
+M 0 18499 1 18428
+E 0 18553 0 8
+O 0 18550 0 18430
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

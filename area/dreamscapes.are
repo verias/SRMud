@@ -1,0 +1,4664 @@
+#AREADATA
+Name [30 60] SplSong DreamScapes~
+Builders Spellsong~
+VNUMs 26400 26599
+Security 9
+End
+
+
+
+#MOBILES
+#26400
+snoozing dwarf~
+a snoozing dwarf~
+An old dwarf leans against a majestic oak, snoozing away happily.
+~
+This old, battle hardened dwarf appears to be quite comfortable leaning
+against the trunk of the majestic oak. In fact, he is in such a deep
+sleep that the only way it is apparent that he is alive, is by the
+loud rumble of his snoring.
+~
+Dwarf~
+AT J 0 S
+30 5 10d10+900 0d0+0 5d6+20 0
+-9 -9 -9 -3
+CDEIN 0 CLQ R
+5 4 1 20
+AHMV ABCDEFGHIJK M unknown
+#26401
+sandman~
+the sandman~
+Fits of yawning assault you as the sandman attacks!
+~
+A misty figure floats before you. Although you can barely make out its
+features, you do notice a small pouch in one of its clenched hands. It
+reaches into the small pouch and tosses a strangly glowing powder over you.
+You yawn and begin to feel very tired. Oblivion slowly claims you....
+~
+Ghost~
+ACFGRT BDFTUZ 0 S
+30 3 10d60+416 10d60+420 5d4+10 5
+-5 -5 -5 -3
+FHP ABEI A C
+8 8 0 12
+HIKL ABCDEFGHIJKLM M unknown
+#26402
+bad dream~
+a bad dream~
+A bad dream lurks in the shadows.
+~
+You vaguely remember having this dream not to long ago. A small shiver runs
+up your spine.
+~
+Ghost~
+AGRT TUZ -500 S
+35 5 76d10+523 20d20+500 5d7+18 5
+-12 -12 -12 -1
+FHQ 0 AE C
+8 8 0 0
+IKL ABCDEFGHIJKLM M unknown
+#26403
+good dream~
+a good dream~
+A good dream flits around happily.
+~
+You remember how refreshed you felt the day after having this good dream.
+~
+Ghost~
+AGQT TUZ 500 S
+35 5 76d10+523 20d20+500 5d7+18 5
+-12 -12 -12 -1
+FHQ 0 AE C
+8 8 0 0
+IKL ABCDEFGHIJKLM M unknown
+#26404
+nightmare~
+a nightmare~
+A horrendous nightmare is here, stalking dreams.
+~
+From the very depths of your worst imagination, a nightmare forms before you.
+~
+Ghost~
+ART HNTUVZ -1000 S
+45 7 128d10+775 10d100+800 6d9+18 5
+-18 -18 -18 -4
+EFHK A AEP C
+8 8 0 0
+IKL ABCDEFGHIJKLM L unknown
+#26405
+sweet dream~
+a sweet dream~
+A sweet dream is here, giving a good nights sleep.
+~
+Serenity claims you as your head is filled with pleasent thoughts as a 
+sweet dream overtakes you.
+~
+Ghost~
+ART HNTUVZ 45 S
+45 7 128d10+775 10d100+800 0d0+0 5
+-18 -18 -18 -4
+EFHK A AEP C
+8 8 0 0
+IKL ABCDEFGHIJKLM L unknown
+#26406
+polished soldier~
+a well polished soldier~
+A well polished soldier snaps to attention.
+~
+~
+Human~
+ABGT 0 0 S
+40 7 98d10+643 10d40+100 10d5+2 17
+0 0 0 0
+EHIKP 0 0 0
+8 8 1 5
+AHMV ABCDEFGHIJK M unknown
+#26407
+shining sentry~
+a shining sentry~
+A shining sentry bars the way.
+~
+~
+Human~
+ABCGT 0 0 S
+40 7 98d10+643 10d40+100 10d5+2 17
+0 0 0 0
+EFHLP 0 0 0
+8 8 1 10
+AHMV ABCDEFGHIJK M unknown
+#26408
+off duty guard~
+an off duty guard~
+A guard is engrossed in a card game.
+~
+This guard seems slightly intoxicated and very involved in a card game. You
+here an occasional gasp of surprise or curse of despair as you watch him
+play his game.
+~
+Human~
+ABCGT 0 0 S
+40 7 98d10+643 10d40+100 10d5+2 17
+0 0 0 0
+EFHLP 0 0 0
+8 6 1 15
+AHMV ABCDEFGHIJK M unknown
+#26409
+sleeping guard~
+a sleeping guard~
+A guard sleeps in his bunk.
+~
+This young man sleeps loudly in his bunk. Loud snores can be heard escaping
+his flaring nostrils as he exhales and a loud whistling can be heard on his
+enhale. He licks his lips and rolls over.
+~
+Human~
+ABCGT 0 0 S
+40 7 98d10+800 10d40+100 10d7+3 17
+0 0 0 0
+EFHKLP 0 0 0
+8 4 1 0
+AHMV ABCDEFGHIJK M unknown
+#26410
+slumber lord~
+the slumber lord~
+The slumber lord guestures grandly.
+~
+A large vaguely familiar form floats before you. Intangible, yet tangible
+this hazy form leads those deep sleepers into the dreamscape.
+~
+Ghost~
+ACGRT BDFHTUZ 0 S
+45 20 40d30+700 20d20+600 5d7+18 5
+-18 -18 -18 -4
+CFHK ABEI A C
+8 8 0 100
+HIKL ABCDEFGHIJKLM L unknown
+#26411
+young girl~
+a young girl~
+A young girl laughs as she skips around the fountain.
+~
+This young girl would be considered quite pretty by human standards, and will
+probably grow up to be quite attractive. She laughs merrily as she skips
+around the fountain.
+~
+Human~
+ABH 0 0 S
+1 -1 10d10+10 10d10+10 1d2+2 22
+10 10 10 10
+F 0 0 0
+8 8 2 0
+AHMV ABCDEFGHIJK M unknown
+#26412
+old sage~
+an old sage~
+An old sage reclines on a bench, consulting a scroll.
+~
+Long flowing robes surround this old sage. He looks up at you and returns
+your gaze. The light can be seen glinting from his eyes in an almost
+hypnotic fashion. Although feeble in appearance, something about him makes
+you think that he would be quite a formidable foe.
+~
+Human~
+ABGR HNVc 1000 S
+47 7 10d142+835 10d100+600 10d5+0 17
+-3 -3 -3 -1
+FHK 0 0 0
+6 6 1 130
+AHMV ABCDEFGHIJK M unknown
+#26413
+young scribe~
+a young scribe~
+A young scribe sits at the desk and takes names.
+~
+Although young in appearance, this fiery haired woman seems wize beyond her
+age. This fact can be accounted for by the small wrinkles around her eyes
+and the frown lines on her forehead. Impatiently she says, "State your name
+and business with the court."
+~
+Human~
+ABHR HN 0 S
+30 5 10d60+440 4d100+400 5d5+5 13
+0 0 0 0
+FK 0 0 0
+8 6 2 60
+AHMV ABCDEFGHIJK M unknown
+#26414
+shining sentry~
+a shining sentry~
+A shining sentry guards the double doors.
+~
+These towering guards are equipped with shining armor. From appearance alone,
+they seem to know their way around a combat situation. One of them scowls
+at you as he notices you looking.
+~
+Human~
+ABCGT 0 0 S
+45 10 128d10+775 10d40+100 12d5+4 17
+0 0 0 0
+EFHILP 0 0 0
+8 8 1 40
+AHMV ABCDEFGHIJK M unknown
+#26415
+dream guardian~
+a dream guardian~
+A dream guardian rises to attack.
+~
+This horrid creature literally appears to be a flying mass of teeth and
+claws. No discernable form can be seen in its ever-altering body.
+~
+Ghost~
+ABFG BQTU 0 S
+50 14 167d10+919 10d100+1000 10d9+2 18
+-21 -21 -21 -5
+ABFHI 0 A C
+8 8 0 0
+IKL ABCDEFGHIJKLM L unknown
+#26416
+ghostly druid~
+a ghostly druid~
+A ghostly druid stands here in deep meditation.
+~
+A young woman stands here naked. Her fiery red hair flows naturally behind
+her. Although she is rather unkempt and dirty, it is apparent that she is a
+natural beauty. As you approach she makes no movement, it is as if she
+is totally oblivious to you. On closer examination of her rather fine
+form, you notice that you can almost see through her, as if she is not
+really here, just an apparition. A smile crosses her face as she looks
+towards you.
+ 
+~
+Elf~
+ABQT HJN 0 S
+43 7 20d50+720 20d10+1200 5d9+21 17
+-16 -16 -16 -3
+FI 0 B Z
+8 8 2 0
+AHMV ABCDEFGHIJK M unknown
+#26417
+harem girl~
+a harem girl~
+A seductive harem girl is here, swaying her hips.
+~
+You see before you a beautiful woman. She is scantily clad, baring all
+from the waist up. She winks at you in a seductive manner, then moves
+foward as if to embrace you.
+~
+Human~
+ABH N 500 S
+30 2 10d60+416 10d40+100 6d9+0 13
+-8 -8 -8 0
+FHU 0 0 0
+6 8 2 0
+AHMV ABCDEFGHIJK M unknown
+#26418
+naked man~
+a naked man~
+A naked man is here, basking in all his glory.
+~
+You peer at the naked man, averting your eyesight from his most exposed areas.
+Although he is completely naked, he is well muscled and has the look of
+a formidable foe. He gently pulls a harem girl towards him and begins to
+< CENSORED >.
+~
+Human~
+ABT HNVa -500 S
+43 4 10d155+720 3d100+100 8d9+5 17
+-12 -12 -12 -6
+CFHIKOU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJK M unknown
+#26419
+pure darkness~
+pure darkness~
+Globs of pure darkness flit around silently.
+~
+Nothing much can be said about this glob of pure darkness. It is just that,
+a glob of darkness with big, point fangs and long, sharp claws.
+~
+Ghost~
+ABGT BQTU 0 S
+48 11 150d10+860 10d100+100 10d9+0 5
+-19 -19 -19 -4
+FHN 0 A C
+8 8 0 0
+IKL ABCDEFGHIJKLM M unknown
+#26420
+half-formed nightmare~
+a half-formed nightmare~
+A half-formed nightmare swirls about the room.
+~
+This ghastly form slowly begin to twist and grow, changing into a nightmare.
+It screams in triumph as it swirls about the room.
+~
+Ghost~
+ABGR NTUV -1000 S
+48 11 150d10+860 10d100+100 10d9+0 5
+-19 -19 -19 -4
+FO 0 A C
+8 8 0 0
+IKL ABCDEFGHIJKLM M unknown
+#26421
+pleasant dream~
+a pleasant dream~
+A pleasant dream flits about the room.
+~
+This shimmering form radiates serenity and well-being. It is impossible to
+get an acurate description of its constant shifting and morphing mass.
+~
+Ghost~
+ABGQ NTUV 1000 S
+48 11 150d10+860 10d100+100 10d9+0 18
+-19 -19 -19 -5
+FH 0 A C
+8 8 0 0
+IKL ABCDEFGHIJKLM M unknown
+#26426
+falling woman~
+a falling woman~
+A young woman falls past you.
+~
+She appears to be in her mid twenties. Her comely looks and slightly unkempt
+appearance would not make her stand out in any crowd, rather, she would
+probably just be another face. Her expression seems to be fear stricken.
+~
+Human~
+AB V 600 S
+30 3 60d10+400 0d0+0 5d6+15 13
+-9 -9 -9 0
+H E 0 0
+8 8 2 0
+AHMV ABCDEFGHIJK M unknown
+#26428
+drowning woman~
+a drowning woman~
+A struggling woman is drowning.
+~
+Other than tangled hair and vaguely female features, not much can be made
+out about this struggling woman. It is even hard to tell the color of her
+hair although you get a hint of red in it.
+
+~
+Human~
+ABCT Nab 300 S
+42 3 20d50+700 30d30+200 2d11+30 13
+-16 -16 -16 3
+FH AIR 0 H
+8 8 2 0
+AHMV ABCDEFGHIJK M unknown
+#26431
+ice flow~
+an ice flow~
+An ice flow threatens to crush you.
+~
+A huge mass made up of snow and ice, rumbles down the mountain towards you.
+Try as you might, you cannot escape its path. It is almost as if it is
+TRYING to crush you.
+~
+Human~
+ABFGT DFZ 0 S
+48 9 150d10+860 6d100+600 1d21+39 8
+-20 -21 -20 -4
+AHO I ELQ H
+8 8 0 0
+ACEHMV ABCDEFGHIJK G unknown
+#26432
+halfling glutton~
+a gluttonous halfling~
+A halfling glutton sits here, shoveling food into his mouth.
+~
+A small halfling sits here with a chicken leg in one hand and a steak knife
+in the other. He looks at you, then burps rather loudly and returns to
+eating.
+~
+Hobbit~
+ABCGH HJNV 300 S
+41 5 10d104+668 6d100+500 3d11+10 13
+-15 -15 -15 -3
+BFHJN 0 CLQ R
+6 8 1 0
+AHMV ABCDEFGHIJK S unknown
+#26433
+greedy dwarf~
+a greedy dwarf~
+A greedy dwarf swims through a sea of treasure.
+~
+A middle-aged dwarf swims greedily here, in a sea of treasure. As is typical
+of his race, he glares at you when he sees you, as if to say, "Get away
+from my treasure, its all mine!"
+~
+Dwarf~
+ABCG J -300 S
+42 6 115d10+720 2d100+100 2d11+18 17
+-16 -16 -16 -3
+CDEHI 0 CLQ R
+8 8 1 200
+AHMV ABCDEFGHIJK M unknown
+#26434
+dreamstalker~
+a dreamstalker~
+The dreamstalker appears behind you.
+~
+This horrific creature has made its presence know in many a person's dreams.
+Vaguely familiar, yet completely alien, you some how feel that you have
+seen it before.
+~
+Ghost~
+ABGOT TU -1000 S
+45 8 10d128+775 10d50+500 10d5+17 5
+-18 -18 -18 -4
+ABEFGHI LPQ A CN
+8 8 0 0
+IKL ABCDEFGHIJKLM H unknown
+#26435
+raging inferno~
+a raging inferno~
+A raging inferno threatens to consume everything.
+~
+This wall of fire and smoke greedily consumes everything in its vicinity with
+its long flaming tongues. It spreads around you, cutting off all exits, 
+almost as if it were doing this in a purposeful manner.
+~
+Ghost~
+ABFGT DFTUZ 0 S
+45 10 128d10+850 10d100+500 10d7+7 29
+-18 -18 -18 -4
+AFHO HLQ A CIMR
+8 8 0 0
+IKL ABCDEFGHIJKLM G unknown
+#26436
+wizened explorer~
+a wizened explorer~
+A wizened explorer examines the local fauna.
+~
+This elderly man is dressed in long, flowing blue robes. Streaks of gray
+can be seen lining his long, unkempt brown hair and beard. He is bent over
+and closely examining the local fauna.
+~
+Human~
+ABR HNTV 500 S
+40 4 98d10+643 10d100+1000 4d7+4 0
+-15 -15 -15 -2
+FKU 0 0 0
+8 8 0 120
+AHMV ABCDEFGHIJK M unknown
+#26437
+hired bodyguard~
+a hired bodyguard~
+A bodyguard scans the surroundings for danger.
+~
+Huge, rippling muscles explode from this giant. He scowls as he sees your
+approach and quickly places his hand on his sword.
+~
+Giant~
+ABGT HNV 250 S
+35 10 76d10+700 20d20+20 8d5+1 17
+-12 -12 -12 -1
+CDEHKLU 0 HI JP
+8 8 0 30
+AHMV ABCDEFGHIJK L unknown
+#26439
+invisible stalker~
+an invisible stalker~
+A formless shape fades into existence.
+~
+This formless, shapeless mass seems to be a sentient creature of some sort.
+~
+Ghost~
+ABFGT BDFNQTUVc 0 S
+45 7 128d10+775 10d100+400 15d5+2 5
+-18 -18 -18 -4
+AFGH ALQ ABIJP CMOS
+8 8 0 0
+IKL ABCDEFGHIJKLM L unknown
+#26460
+lord nightmares~
+the Lord of Nightmares~
+The Lord of Nightmares sits proudly on his throne.
+~
+This horrid figure is the combination of all your worse nightmares. He raises
+his head and stares at you with his visage of horror. You feel all heat
+leave your body and you fight the urge to run.
+~
+Human~
+ABGRT HNT -1000 S
+60 18 277d11+1247 10d100+2000 10d9+5 20
+-27 -27 -27 -9
+ACFHK BLQ 0 NP
+8 8 0 180
+AHMV ABCDEFGHIJK G unknown
+#26463
+lord benevolence~
+the Lord of Benevolence~
+The Lord of Benevolence sits on his throne.
+~
+This large humanoid figure radiates such a bright light, that it is almost
+painful to look at. Because of this, none of his features can be seen in
+detail.
+~
+Human~
+ABGQT HNTV 1000 S
+60 18 277d11+1247 10d100+2000 10d9+5 20
+-27 -27 -27 -9
+0 AOPS 0 IMQ
+8 8 0 180
+AHMV ABCDEFGHIJK G unknown
+#26466
+lord oblivion~
+the lord of oblivion~
+The Lord of Oblivion is wrapped in entropy.
+~
+This giant figure is a constantly shifting mass. As soon as one detail can
+be made out, it changes into something new. It seems to draw you in as you
+examine it, making you quickly avert your eyes.
+~
+Human~
+ABGRT HNTV 0 S
+60 18 277d11+1247 10d100+2000 10d9+5 20
+-27 -27 -27 -9
+AEFHK ABMP 0 O
+8 8 0 180
+AHMV ABCDEFGHIJK G unknown
+#26467
+azahael~
+Azahael~
+The archmage Azahael is in deep conversation.
+~
+Wizened feature can plainly be seen underneath the shawl of this old mage.
+His deep blue eyes and wrinkled appearance, along with his greying beard
+and mustache, give him the appearance of a man in his late 40's.
+~
+Human~
+ABGR HNTVZc 1000 S
+60 14 277d11+1247 100d10+2000 10d5+10 17
+0 0 0 0
+FHKP 0 0 0
+8 8 1 450
+AHMV ABCDEFGHIJK M unknown
+#26468
+dream lord~
+the Lord of Dreams~
+Resting on his throne, the Lord of Dreams listens intently.
+~
+Although shaped much like an enormous human or giant, this dazzling figure
+is completely devoid and barren of distinguishing features. It is apparent
+however that this being is quite powerful and not one to be lightly trifled
+with, even by the most powerful of creatures.
+~
+Human~
+ABCRT HNTV 0 S
+90 25 991d12+2571 100d10+5000 20d7+12 20
+-44 -44 -40 -17
+ACEFHK ABP LQ CY
+8 6 0 270
+AHMV ABCDEFGHIJK G unknown
+#26475
+patrol guard~
+a patroling guard~
+A guard is watching for any signs of trouble.
+~
+This huge guard is one of the many of his type who patrol dream keep. They
+are part of the cause of Dream Keep's repuatation for being a safe haven.
+By his appearance, you can hardly doubt it.
+~
+Human~
+ACGT NV 0 S
+48 13 150d10+860 20d20+200 10d7+0 17
+0 0 0 0
+CEFHP 0 0 0
+8 8 1 48
+AHMV ABCDEFGHIJK M unknown
+#26476
+busy shopper~
+a busy shopper~
+A busy shopper bustles from shop to shop.
+~
+The shopper is carrying quite a few packages and bustles from store to store.
+A large pouch full of clinking coins is hanging off the shoppers belt.
+~
+Human~
+AGHT 0 0 S
+33 9 69d10+479 20d20+200 11d5+2 13
+-8 -8 -8 0
+CFJ 0 0 0
+8 8 1 100
+AHMV ABCDEFGHIJK M unknown
+#26477
+Jebadiah~
+Jebadiah~
+Jebadiah is here, hawking his wares.
+~
+Jebidiah is young in appearance. However the hard lines across his face
+and the wizened look in his eyes, speaks of much experience.
+~
+Human~
+ABGVd 0 0 S
+90 0 50d100+3000 0d0+0 100d4+50 0
+0 0 0 0
+0 ABCDP 0 0
+8 8 1 0
+AHMV ABCDEFGHIJK M unknown
+#26478
+Armando~
+Armando~
+Armando peers at you intently, as if expecting a purchase to be made.
+~
+Armando is the dandy of dandies. His foppish dress and face caked full of
+makeup, almost makes you think he is a gender bender.
+~
+Human~
+ABGVd 0 0 S
+90 0 50d50+5000 0d0+0 50d50+50 0
+0 0 0 0
+0 ABCDP 0 0
+8 8 1 0
+AHMV ABCDEFGHIJK M unknown
+#26479
+jerome~
+Jerome~
+Jerome is busy forging a raw piece of material.
+~
+Jerome is a stocky dwarf. His mammoth arms tell of many hard days as the forge.
+Numerous burn scars cover his body, a hazard of his trade. He gives you a big
+toothy grin as he notices you, then returns to his work.
+~
+Dwarf~
+ABGT 0 300 S
+46 15 135d10+802 10d20+200 10d7+8 8
+-16 -16 -16 0
+DFHIO 0 CLQ R
+8 8 1 0
+AHMV ABCDEFGHIJK M unknown
+#26480
+jaque~
+Jaque~
+Jaque proudly displays his wares.
+~
+This well muscled man is finely clad in a multicultural outfit. He begins
+to show you his wares.
+~
+Human~
+ABGVd 0 0 S
+90 0 10d1000+5000 0d0+0 50d50+50 0
+0 0 0 0
+0 ABCDP 0 0
+8 8 1 0
+AHMV ABCDEFGHIJK M unknown
+#26482
+twilight~
+twilight~
+Twilight merrily serves some patrons.
+~
+A strikingly beautiful female elf, Twilight is well reknown for her fine
+establishment, and for her looks. Her hair is tied back in a long ponytail
+that gracefully falls down to the base of her finely shaped bottom. Toned
+and well tanned legs can be seen seductively beneath her tight skirt. The
+tight white linen top she is wearing portrays some of her othe fine points
+as well.
+~
+Elf~
+ABGVd 0 500 S
+90 20 10d50+5000 50d50+50 50d50+50 0
+0 0 0 0
+0 ABCDP B Z
+8 8 2 0
+AHMV ABCDEFGHIJK M unknown
+#26483
+minstrel~
+a minstrel~
+A minstrel plays a soft tune.
+~
+This foppish minstrel is all but ignored by his audience. His music is soft
+and slow, which is probably why nobody in the inn is paying attention to it.
+~
+Human~
+ABGRS NV 0 S
+51 11 11d175+949 20d50+1000 10d9+3 7
+-20 -20 -20 -10
+FIJN 0 0 0
+8 8 0 270
+AHMV ABCDEFGHIJK M unknown
+#26488
+maid~
+a maid~
+An elderly maid is cleaning the room.
+~
+This frizzled old woman looks as though she is quite adept at her work. She
+looks up at you and smiles, then returns to her her cleaning.
+~
+Human~
+ABCGH 0 750 S
+5 6 9d9+20 0d0+0 2d3+3 0
+7 7 7 8
+F 0 0 0
+8 8 2 7
+AHMV ABCDEFGHIJK M unknown
+#26489
+Tsung Lao~
+Tsung Lao~
+Tsung Lao jumps out of his bed at your arrival, barely clad.
+~
+This middle-aged man has a clear and wrinkle free complexion. His fluid
+movements suggest that he is a wizened and skilled warrior. Obviously a light
+sleeper, He is wide awake and prepared for you. He calmly looks at you through
+his slanted eyes, then, like lightning, he attacks.
+~
+Human~
+ABCFGT 0 0 S
+53 18 195d11+1012 20d20+400 25d3+5 13
+-22 -22 -22 -5
+EFHIKN AB P 0
+8 8 0 130
+AHMV ABCDEFGHIJK M unknown
+#26491
+market guard~
+a market guard~
+A guard intently surveys the market, watching for thieves.
+~
+This gruff looking man peers intently out over the bustling market, looking
+for thieves and signs of trouble. By the way he handles himself, it is quite
+evident that he is a well trained soldier.
+~
+Human~
+ABCGT HN 0 S
+50 13 167d10+919 10d50+300 10d7+0 17
+0 0 0 0
+CEFHIP 0 0 0
+8 8 1 50
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#26400
+ivory carving~
+a small ivory carving~
+A small ivory carving shines here.~
+unknown~
+8 0 AO 0
+0 0 0 0 0
+30 2 100 P
+#26401
+sand bag~
+a faintly glowing bag~
+A small velvet bag, faintly glowing from within.~
+unknown~
+15 AGQ AHO 0
+CE AC 0 0 0
+30 1 100 P
+#26402
+magic sand~
+faintly glowing sand~
+Faintly glowing, white sand is here. It looks quite edible.~
+unknown~
+26 AG AO 0
+60 81 38 0 0
+30 1 50 P
+#26403
+small emerald~
+a small emerald~
+A small emerald sparkles here.~
+unknown~
+8 0 AO 0
+0 0 0 0 0
+30 2 50 P
+#26404
+large agate~
+a large agate~
+A large sparkling agate is here.~
+unknown~
+8 0 AO 0
+0 0 0 0 0
+30 20 200 P
+#26405
+opal pendant~
+an opal pendant~
+An expensive opal pendant is here.~
+unknown~
+8 0 AC 0
+0 0 0 0 0
+30 5 250 P
+#26406
+jewelled scarab~
+a jewelled scarab~
+A jewell encrusted scarab sparkles here.~
+unknown~
+8 0 AO 0
+0 0 0 0 0
+30 5 65 P
+#26407
+small key~
+a small key~
+A small non-descript key rests here.~
+unknown~
+18 0 AO 0
+0 0 0 0 0
+30 1 1 P
+#26408
+oak chest~
+an old oak chest~
+This chest looks quite ancient, however it is quite sturdy.~
+unknown~
+15 R 0 0
+CDFI ABCD ABCILM 0 0
+30 200 200 P
+#26409
+large pile coins~
+a large pile of coins~
+A large pile of coins.~
+unknown~
+20 0 A 0
+ABCDEFGI 0 0 0 0
+1 1 1 P
+#26410
+dream cloak~
+a dream cloak~
+A shimmering cloak woven with the fibers of dreams is here.~
+unknown~
+11 AG AK 0
+0 0 0 0 0
+45 1 1000 P
+A
+19 1
+A
+18 2
+A
+2 2
+#26411
+glowing portal~
+a glowing portal~
+A faintly glowing portal stand before you, pulsating in an even rhythm.~
+unknown~
+29 R 0 0
+0 0 0 26400 0
+30 1 0 P
+#26412
+fissure~
+a small fissure~
+A small fissure runs up the base of the tree.~
+unknown~
+29 R 0 0
+0 0 0 26439 0
+30 1 0 P
+#26413
+drawer~
+a desk drawer~
+You see a faintly glowing light emanating from a small keyhole in the drawer.~
+unknown~
+15 R 0 0
+BEF ABCD ABCDILM 0 0
+30 10 5 P
+#26414
+scroll~
+a scroll~
+One scroll of note grabs your attention. A small label is attached to it.~
+unknown~
+15 R 0 0
+0 AC 0 0 0
+30 5 1 P
+#26415
+drawer key~
+a tiny key~
+A small key is here.~
+unknown~
+18 0 AO 0
+0 0 0 0 0
+30 1 5 P
+#26416
+mage's note~
+the mage's note~
+A neatly written note.~
+unknown~
+13 0 AO 0
+0 0 0 0 0
+30 1 300 P
+E
+note~
+I Azahael the great archmage have taken up residence just outside the
+entrance to the dream realm. I have created this humble abode in the astral
+plane and then linked it to the dreamscape. It has proven to be a safe
+haven from both the dangers and wonders within. I humbly apologize for
+the rudeness of my invisible stalker. He is here to prevent those lacking
+in might from entering the keep of dreams.
+   I began searching for the plane of dreams long ago. It has been my
+life's study as both an archmage and sage, to uncover and write about its
+secrets. I beseech you to not tread from the main path on the way to the
+keep. Many horrible dangerous abound! Use the key contained within this
+drawer to gain entrance to the keep. For without it, you may not join me
+within.
+   I realize you are wondering how you came to arrive to this plane. Let me
+explain. I recently made a pact with the mighty Dream Lord in return for
+my services. He agreed to randomly pull adventurers who are strong enough
+to survive into this realm, so that they may explore and report on its
+wonders. He has even extended his invitation to those of exceptional might.
+Those that can best my mighty guardian are allowed to tour Dream Keep.
+Since you are currently reading this:  This means you!!!
+   I again give my sincerest apology for any trouble that this may have
+caused you. I look foward to seeing you in the keep!
+ 
+your friend,
+ 
+Azahael
+~
+#26417
+go all-night pill~
+a go all-night pill~
+A small pill is here.~
+unknown~
+26 I AO 0
+50 81 501 39 0
+30 1 200 P
+#26418
+pewter ring~
+a pewter ring~
+A small ring made of pewter lies here.~
+unknown~
+8 GJ AB 0
+0 0 0 0 0
+43 5 500 P
+A
+5 1
+A
+1 1
+#26419
+keep key~
+the keep key~
+A faintly glowing key.~
+unknown~
+18 AG AO 0
+0 0 0 0 0
+45 1 100 P
+#26420
+shimmering archway~
+a shimmering archway~
+{r~
+unknown~
+29 0 0 0
+0 0 0 26401 0
+30 500 0 P
+#26421
+swirling vortex~
+a swirling vortex~
+A swirling vortex shimmers in the air.~
+unknown~
+29 R 0 0
+0 0 0 26411 0
+30 1 0 P
+#26422
+teal potion~
+a teal potion~
+A small bottle filled with a teal colored liquid is here.~
+unknown~
+10 G AO 0
+40 28 81 1 0
+40 1 200 P
+#26423
+iron flask~
+an iron flask~
+A small iron flask sits here.~
+unknown~
+10 0 AO 0
+50 36 34 39 0
+40 5 400 P
+#26424
+dream pendant~
+the dream pendant~
+This pendant has been forged from dreams.~
+unknown~
+9 GIP AC 0
+BC BC BC 0 0
+40 1 400 P
+A
+13 15
+A
+12 15
+A
+19 2
+#26425
+large drumstick~
+a large drumstick~
+A large golden-brown drumstick, possibly from a turkey, is here.~
+unknown~
+19 0 AO 0
+C 0 0 0 0
+1 5 5 P
+#26426
+oaken table~
+an oaken table~
+A large oaken table covered with food is here.~
+unknown~
+15 R 0 AMQR
+0 0 0 0 0
+1 300 0 P
+#26427
+azure dress~
+a tight azure dress~
+The dress seems tailored to fit quite snuggly.~
+unknown~
+11 G ADFL 0
+0 0 0 0 0
+30 1 200 P
+A
+17 -8
+A
+12 20
+#26428
+silver anklet~
+a silver anklet~
+A silver anklet sparkles here.~
+unknown~
+9 FG AG 0
+ACD ACD ACD AC 0
+42 1 350 P
+A
+14 50
+A
+17 -3
+#26429
+cheese chunk~
+a chunk of cheese~
+A delicious chunk of cheese.~
+unknown~
+19 0 AO 0
+0 0 0 0 0
+1 3 10 P
+#26430
+wicker basket~
+a wicker basket~
+A wicker basket is bolted to the tree.~
+unknown~
+15 0 0 0
+ABCD 0 0 0 0
+1 20 0 P
+#26431
+ice crystal~
+an ice crystal~
+An ice cold crystal sparkles in the light.~
+unknown~
+8 AGI AO 0
+0 0 0 0 0
+45 20 500 P
+A
+12 50
+#26432
+worn battle axe~
+a worn battle axe~
+A worn battle axe is here, knotched from many battles.~
+unknown~
+5 ABG AN 0
+AC D BD A 0
+42 15 300 P
+A
+17 -6
+#26433
+steak knife~
+a steak knife~
+A steak knife is here, hungry for meat.~
+unknown~
+5 BG NO 0
+B BD ABC A D
+42 1 50 P
+A
+5 1
+#26434
+honey ham~
+a large honey-glazed ham~
+A large ham glistens with honey.~
+unknown~
+19 0 AO 0
+0 0 0 0 0
+1 15 15 P
+#26435
+runic wand~
+a runic wand~
+A faintly glowing, rune covered wand is here.~
+unknown~
+3 AG AO 0
+DF D D 53 0
+40 3 300 P
+#26436
+rune blade~
+a rune blade~
+A small knife, covered in faintly glowing runes is here.~
+unknown~
+5 ABGI AN 0
+B BCD AC B 0
+40 3 500 P
+A
+2 3
+A
+18 4
+#26437
+giant sword~
+a giant sword~
+A giant-sized sword is here.~
+unknown~
+5 0 AN 0
+A D ABC ACE 0
+35 15 280 P
+A
+19 5
+#26438
+portal home~
+a portal home~
+A shining portal hangs suspended here. A vaguely familiar place can be seen     on the other side. Faintly glowing inscriptions can be seen at its base.~
+unknown~
+29 R 0 0
+0 0 0 3001 0
+1 300 0 P
+E
+inscriptions~
+These inscriptions are in an unknown archaic language.
+~
+#26439
+bran muffin~
+a bran muffin~
+A bran muffin.~
+unknown~
+19 G AO 0
+D 0 0 0 0
+1 2 10 P
+#26440
+scribbled message~
+a hastily scribbled message~
+A note flutters here, it has some scribbled writing on it.~
+unknown~
+13 0 AO 0
+0 0 0 0 0
+1 1 1 P
+E
+note~
+I left you some magical muffins to sustain you until you arrive. Do not
+rely on the food found in the dreamscape, although seemingly quite
+filling, it is not "real", it is instead the stuff of dreams. There are
+several places to acquire more tangible meals within the keep, so please
+make do with these muffins until then. I look foward to your arrival.
+ 
+A.
+~
+#26441
+dream plate~
+dream plate~
+This platemail is woven with the fabric of dreams.~
+unknown~
+9 0 AD 0
+ABD ABD ABD BC 0
+40 5 260 P
+#26442
+dream shield~
+a dream shield~
+This large shield is the stuff of dreams.~
+unknown~
+9 AG AJ 0
+ABD ABD ABD A 0
+40 3 400 P
+A
+2 3
+#26443
+dream blade~
+a dream blade~
+This deadly blade is forged with the magic of dreams.~
+unknown~
+5 GI AN 0
+A BD ABC AB 0
+40 1 800 P
+A
+13 10
+A
+18 3
+A
+19 3
+#26444
+dream pike~
+a dream pike~
+A deadly pike is here, forged with the power of dreams.~
+unknown~
+5 AI ANPQRSTUVWXYZabcdef 0
+D BD AD ABD 0
+40 8 500 P
+A
+18 2
+A
+1 1
+#26445
+small table~
+a small table~
+This small table is made of cherry wood and seems quite sturdy.~
+unknown~
+15 R 0 ACDMOQR
+CDFI 0 0 0 0
+1 200 0 P
+#26446
+wooden discs~
+a few multicolored wooden discs~
+These discs are of the type used to often keep score in a variety of games.~
+unknown~
+13 0 AO 0
+0 0 0 0 0
+1 1 1 P
+#26447
+playng cards~
+a pile of playing cards~
+Almost a complete deck can be made from this pile of playing cards.~
+unknown~
+13 0 AO 0
+0 0 0 0 0
+1 1 1 P
+#26448
+half-eaten sandwich~
+a half-eaten sandwich~
+A half-eaten sandwich swarms with small insects.~
+unknown~
+19 0 AO 0
+B 0 0 0 0
+1 1 1 P
+#26449
+hanging rack~
+a hanging rack~
+Various weapons and armor pieces hang from this rack.~
+unknown~
+15 R 0 0
+0 0 0 0 0
+1 100 0 P
+#26450
+stone fountain~
+a stone fountain~
+This large stone fountain splashes with crystal clear water.~
+unknown~
+25 OR 0 CD
+0 0 0 0 0
+1 500 0 P
+#26451
+plush chair~
+a plush chair~
+This plush chair, like so many others in the keep, look quite comfortable.~
+unknown~
+12 OR 0 AM
+0 0 0 0 0
+1 25 0 P
+#26452
+plush bench~
+a plush bench~
+This plush bench seems very comfortable and large enough to sleep on.~
+unknown~
+12 OR 0 AEIMR
+0 0 0 0 0
+1 85 0 P
+#26453
+rich tapestry~
+a richly made tapestry~
+This richly made tapestry is woven of the finest threads.~
+unknown~
+8 R A 0
+0 0 0 0 0
+30 10 250 P
+#26454
+long flowing robes~
+a long flowing robe~
+These long flowing robes glow with a magical light.~
+unknown~
+9 AGKL AK 0
+CD BCD CD C 0
+47 5 500 P
+A
+18 2
+A
+3 1
+#26455
+polished staff~
+a polished staff~
+This polished staff hums with power.~
+unknown~
+5 BGIK AN 0
+0 CD ABC BC 0
+47 4 480 P
+A
+19 2
+#26456
+small scroll~
+a small scroll~
+This small scroll is inscribed with ruins of power.~
+unknown~
+2 0 AO 0
+40 26 502 70 0
+40 0 150 P
+#26457
+fine artwork~
+a fine piece of artwork~
+This gorgeous painting appears to have been made by a very skilled painter.~
+unknown~
+8 R AO 0
+0 0 0 0 0
+30 20 250 P
+#26458
+large desk~
+a large desk~
+A large drawer can be seen in this expensive desk.~
+unknown~
+12 R 0 ACMQR
+0 0 0 0 0
+30 100 600 P
+#26459
+silver key~
+a silver key~
+A silver key sparkles as it catches the light.~
+unknown~
+18 0 AO 0
+0 0 0 0 0
+30 1 4 P
+#26460
+drawer~
+a desk drawer~
+A silver keyhole can be seen imbedded in the drawer.~
+unknown~
+15 R 0 0
+CE ACD ABDEFILM 0 0
+30 20 5 P
+#26461
+feather pen~
+a feather pen~
+The end of the feather pen is stained with ink.~
+unknown~
+5 BG AN 0
+B BD AC B 0
+30 1 300 P
+A
+19 2
+#26462
+dream seal~
+a dream seal~
+This elaborate seal bears the emblem of dreamkeep and is made of dreams.~
+unknown~
+8 0 AO 0
+0 0 0 0 0
+30 1 600 P
+#26463
+wax bottle~
+a bottle of hot wax~
+This bottle is warm to the touch and full of wax.~
+unknown~
+10 0 AO 0
+45 33 26 0 0
+30 4 300 P
+#26464
+stone table~
+a large stone table~
+This ancient stone table is covered with brightly glowing runes.~
+unknown~
+12 R 0 ACMOQR
+0 0 0 0 0
+1 1000 10000 P
+#26465
+large chairs~
+four large chairs~
+These large chairs are much to large for a normal human.~
+unknown~
+12 R 0 AMR
+0 0 0 0 0
+1 200 1000 P
+#26466
+darkness~
+darkness~
+The darkness seems to draw you in.~
+unknown~
+29 OR 0 0
+0 0 0 26465 0
+1 0 0 P
+#26467
+entropy flail~
+the Entropy Flail~
+This flail absorbs all light from around it.~
+unknown~
+5 BCHJK AO 0
+BC BD AD ABDE 0
+60 10 1200 P
+A
+19 12
+A
+18 6
+A
+13 35
+#26468
+mouth madness~
+the mouth of madness~
+This mouth is frozen in a silent scream. It seems to draw you in.~
+unknown~
+29 R 0 0
+0 0 0 26460 0
+0 0 0 P
+#26469
+screaming nightmare~
+a screaming nightmare~
+A screaming nightmare whips about, filling the air with dread.~
+unknown~
+5 BCEGJL AN 0
+ABC CE AC BCDE B
+60 8 1200 P
+#26470
+twisted throne~
+a twisted throne~
+This twisted throne is made of dark dreams, and glows with a malignant light.~
+unknown~
+12 R 0 AEM
+0 0 0 0 0
+60 150 0 P
+#26471
+malignant crystal~
+a malignant crystal~
+Swirling lights pulsate within this dark crystal. It almost seems to draw you   in.~
+unknown~
+29 R 0 AEM
+0 0 0 26435 0
+30 500 0 P
+#26472
+ocean water~
+an azure ocean~
+The waters of this azure ocean sparkle with a life of its own.~
+unknown~
+29 R 0 0
+0 0 0 26463 0
+1 0 0 P
+#26473
+ivory throne~
+an ivory throne~
+This ivory throne emanates benevolance and calmness.~
+unknown~
+12 R 0 AEM
+0 0 0 0 0
+1 0 0 P
+#26474
+Peacebringer~
+"Peacebringer"~
+This large rod emanates peace and well being.~
+unknown~
+5 ABGIKL APQRSTUVWXYZabcdef 0
+D CE AC BC F
+60 10 1400 P
+A
+19 6
+A
+17 -6
+#26475
+quartz crystal~
+a quartz crystal~
+This large quartz crystal glows with a calming light and is warm to the touch.~
+unknown~
+29 R 0 AEMQR
+0 0 0 26416 0
+1 0 0 P
+#26476
+elaborate bed~
+an elaborate bed~
+This bed is trimmed in gold and seems quite comfortable.~
+unknown~
+12 R 0 AEIQR
+0 0 0 0 0
+1 0 0 P
+#26477
+plush couch~
+a plush couch~
+This plush couch is quite elaborate, despite many small, crusty stains.~
+unknown~
+12 R 0 AEIQR
+0 0 0 0 0
+1 0 0 P
+#26478
+dream vortex~
+a dream vortex~
+This swirling vortex of dreams is pulling at you with ever increasing force.~
+unknown~
+29 R 0 0
+0 0 0 26468 0
+30 0 0 P
+#26479
+dream crystal throne~
+a dream crystal throne~
+This large throne is made from rare and valuable dream crystal.~
+unknown~
+12 R 0 AEMQR
+0 0 0 0 0
+90 1500 0 P
+#26480
+dream reaver~
+"Dream Reaver"~
+The Dream Reaver faintly glows with untold magic. Runes are etched in its haft.~
+unknown~
+5 ABGI AO M
+A BE AD A D
+90 3 15000 P
+A
+19 2
+A
+13 50
+A
+12 50
+#26481
+sash dreaming~
+a sash of dreaming~
+This sash hums with the power of dreams.~
+unknown~
+11 AB AL 0
+0 0 0 0 0
+90 2 3500 P
+A
+17 -12
+A
+12 50
+A
+1 1
+#26482
+lord signet ring~
+the Lord's signet ring~
+This large signet ring is engraved with the symbol of Dream Keep and its lord.~
+unknown~
+8 GM AB 0
+0 0 0 0 0
+90 1 1800 P
+A
+2 2
+A
+17 -10
+A
+12 30
+#26483
+azahael shawl~
+azahael's shawl~
+Azahael's shawl shimmers with pure power and magical energy.~
+unknown~
+9 ABGP ACDE 0
+DF DF DF CE 0
+0 1 9000 P
+A
+17 -20
+A
+2 5
+#26484
+magi staff~
+a staff of the magi~
+This rune covered staff hums with power.~
+unknown~
+5 ABGK AN 0
+0 CE AC BC 0
+60 8 3000 P
+A
+19 2
+A
+17 -6
+A
+12 60
+A
+18 2
+#26485
+wicker sandals~
+wicker sandals~
+These dusty old wicker sandals seem to faintly vibrate.~
+unknown~
+11 FGQ 0 0
+0 0 0 0 0
+60 2 6000 P
+A
+14 50
+A
+2 2
+A
+17 -5
+#26486
+dream crystal~
+the dream crystal~
+The images splay across the surface of the crystal seem to draw you in.~
+unknown~
+29 R 0 AEMQR
+0 0 0 3001 0
+1 0 0 P
+#26487
+history book~
+"The History of Dream Keep"~
+This thick, leather bound book is covered in dust. You can see the table of     contents on the first page as you gently open the book.~
+unknown~
+8 A AO 0
+0 0 0 0 0
+30 8 1200 P
+E
+read3~
+CHAPTER 3 - The Great Conflict
+
+Shortly after forming the new entities and lords in the Dreamscape, the
+Lord of Dreams received a vision. This vision foretold of an upcoming war
+that would ravage everything and sunder worlds. The vision was so shaking
+and realistic that he began the construction of what today is known as the
+keep of dreams, or Dream Keep more commonly. This great fortress was built
+to withstand tremendous forces and to be a bastion of hope against the
+tidings of war.
+   As the completion of the keep drew near, the Lord was yet again overcome
+by a startling vision. It fortold again of impending doom, but this time,
+in the near future. Two weeks later, the battle with the Ancient Ones began.
+All the races along with their Gods revolted against the tyranny and slavery
+of the Ancients.
+   It is hard to imagine, in today's reality, the sure power and strength of
+number the Ancient Ones posessed. Most of them were greater in magical powers
+than all the races, and some were even more powerful than the gods. War raged
+across the earth and the heavens, shattering the ground and the sky. Many
+refugees fled the fighting, holding up in various safe havens around the
+realm. Many heroes died and armies were crushed under the onslaught of the
+Ancient Ones, even Gods were destroyed. Things were looking very grim for
+the enemies of the Ancients and their gods.
+   Fearing total destruction of mankind and the other races, the Lord of
+Dreams opened his plane to the flood of refugees and to the tattered remains
+of the human armies and their gods. After locating and taking in all the
+remanents of the resitance, the Lord closed the gates to his realm, buying
+some time from the Ancients' onslaught.
+   The combined efforts of the Lord and the gods to build up the defenses
+of Dream Keep were worthwhile. When the Ancients burst open the gates and
+flooded the Dreamscape, they were met with stiff resistance. Many human
+generations were born and later died as the battle raged on for an eternity.
+Not once was the keep proper breached by the forces of the Ancients. They
+could not break the strength of the keep nor the spirits of it's defenders,
+nor could the defenders gain any ground towards defeating them.
+   During one particularly fearsome battle, the Lord of Dreams called a
+council of his rulers. He beseeched upon the Lord of Nightmares to use
+his powers to divine the fears of the ancients. He then ordered the Lord
+of good dreams to use his powers to give the Ancients their most craved
+desire, that of the destruction of all mankind. The whispered the last portion
+of his brilliant plan to the last of his lords.
+   Outside, on the plains of dreaming, the Ancients saw the keep's defenses
+begin to fail. Smelling victory, they massed their forces for a final assault
+to end the resistance once and for all. They charged the Keep, smashing
+through defenses and defenders alike, destroying all in their path. Then
+the trap was sprung, horrible images assaulted the Ancients relentlessly.
+They were being attacked by nightmares in the form of their most terrifying
+fears. One by one, the ancients were driven mad and began to beg and plead
+for release from their torment. The Lord of Oblivion was happy to deliver
+their request. As the Ancients began to drop on the field of battle into
+oblivion, the defenders rushed from the keep and began their slaughter. Thus
+ended the reign of the Ancients.
+~
+E
+read2~
+CHAPTER 2 - The Creation
+ 
+   When man and the other races were created, a strange occurance was noted
+by the Great Creator. These races were weaker in both physical and mental
+strength in comparison to the Ancient Ones. To alleviate this weakness and
+to allow them to rejuvenate, the Creator established a state of being known
+as sleep. This restful state would immensly help its creations, and an
+immediate increase in cognitive and physical strength was noted. To
+accomodate this state, the quasi plane of sleep was created inorder to hold
+their minds. This would prevent their minds from becoming lost in the void
+while in this state.
+   While in the plane of sleep, it was found that their minds were restless.
+Some of them would become so restless that their mind would turn in on
+themselves and escape prematurely from the realm of sleep. To keep the
+minds pacified, the Great Creator established the Dreamscape to catch 
+restless minds and keep them entertained until they left the realm of sleep.
+The Lord of Dreams was then created to keep a watchful eye over the
+Dreamscape.
+   The Ancient Ones, not needing to sleep themselves, were jealous of this
+wonderous creation. In the dark, out of the view of the Great Creator, they
+plotted against the Dream Lord. When the Creator slipped into its eternal
+sleep, they began to bring their plots into fruition.
+   One of the most powerful Ancient Ones, who's name I dare not repeat, 
+arranged a meeting with the Lord of Dreams. During this meeting, the Lord
+was tricked into creating the nightmares to haunt the dreams of the wicked.
+Later, the Lord realized his mistake, for not only did the nightmares stalk
+the dreams of the wicked, they stalked the dreams of the benign. Agahst, the
+Lord of Dreams quickly attempted to remedy the situation, creating both the
+sweet dreams and their lord to counteract the nightmares. Wanting to avoid
+conflict within his realm, the Lord created and regulated the dreams'
+activites. Thus, what is now know as the dream cycle was created. In this
+process he created a third entity to control the minds' activites between
+various dream states, thus the Lord of Oblivion came into existence.
+~
+E
+read1~
+CHAPTER 1 - The Early History
+ 
+   At the beginning of time, existence was a vast, empty void. Out of the 
+darkness, a vastly powerful being emerged. This being quickly grew bored
+with the emptiness surrounding it and begin to forge the stars and the sky
+out of the nothing. The Creator was amused by the twinkling lights and the
+complexities of its creation for only a short time, however. To relieve its
+ever growing boredom, the Creator decided to forge the worlds, instilling
+them with skies, land, and oceans. To further increase its chances of
+amusement, the Creator then decided to make life. Beasts, both large and
+small soon began to team within its creation. Thus was the beginning of
+life.
+   Eons passed while the Creator watched and examined its wonderous creation.
+New creatures were made as other died out, an eternal cycle of life and death.
+One day in the passing eon a small life form captured the Creators attention.
+This life form, although average size and very ungainly in appearance seemed
+to possess intellegence. It moved with the careful precision of thought and
+was even able to use its environment to hunt and protect itself. Over time,
+great cities were formed by the creatures and many wars were fought. These
+creatures, the Ancient Ones as we now call them, began to flourish in the
+Creators realm. 
+   Man and the other intelligent races were soon to follow. Seeing this
+wonderous creation spring up on its own, the Creator decided to mimic it with
+similiar creations of its own. Thus humans, elves, dwarves and the other
+sentient races were created. To guide and rule these creatures, the gods
+were created and cast out into the heavens to watch over the world. Seeing
+that its creations were well cared for, the Great Creator left the realm
+and slipped into an eternal sleep, leaving its creations to themselves.
+~
+E
+table~
+The History Of Dream Keep
+----------------------------------------------------------
+
+read1 ------>  Ch1. Early History
+ 
+read2 ------>  Ch2. The Creation
+ 
+read3 ------>  Ch3. The Great Conflict
+ 
+read4 ------>  Ch4. New Beginnings
+ 
+Author: Discordia's first magician - Spellsong the Great
+~
+E
+read4~
+CHAPTER 4 - New Beginnings
+ 
+   The races and their Gods emerged from the Dreamscape to find their home
+in utter chaos and discord. The old geography had completely changed. New
+oceans and mountain ranges sprung up from areas that used to be desert and
+plains and the reverse was true as well. Wary, the races forged treaties with
+one another to work in unison to rebuild their homes and to explore their
+land. This period lasted for a hundred years and was know as the Age of Light.
+   Eventually, the races that were natural born enemies, began to fall into
+their normal habits of hatred and bloodshed. Dwarves began fighting giants,
+while the elves began to battle the orcs. These acts of violence eventually
+involved all the races, once again throwing the realm into chaos. Eventually
+the fighting did stop and the races moved on to their own things, each living
+as was intended. Over the eons battles were won and lost, but never again
+was the realm shattered by major calamity. This hard and dangerous land
+came to be known as the Realm of Discordia.
+~
+#26488
+ancient painting~
+an ancient painting~
+An ancient painting hangs here.~
+unknown~
+8 0 AOPQRSTUVWXYZabcdef 0
+0 0 0 0 0
+60 12 1000 P
+E
+painting~
+This ancient painting seems quite valuable. It portrays Dream Keep in its
+construction phase from a vantage high above. Small writing is on its bottom
+right corner.
+~
+E
+writing~
+Spellsong the Great - "The Construction"
+~
+#26489
+bookshelves~
+the ancient bookshelves~
+Books and scrolls line these ancient bookshelves.~
+unknown~
+15 R 0 QR
+0 0 0 0 0
+1 200 0 P
+#26490
+woman falling cliff death~
+a viewing device~
+The faint screaming of the falling woman can barely be made out.~
+unknown~
+29 R 0 0
+0 0 0 26426 0
+1 0 0 P
+#26491
+horrible creature stalking~
+horrible creature stalking~
+Fear emanates from this device, causing shivers to run up your spine.~
+unknown~
+29 R 0 0
+0 0 0 26434 0
+1 0 0 P
+#26492
+man harem girls~
+man harem girls~
+This man really seems to be enjoying himself, perhaps you should join him.~
+unknown~
+29 R 0 0
+0 0 0 26417 0
+0 0 0 P
+#26493
+drawer~
+a desk drawer~
+This large desk drawer doesn't appear to have a keyhole.~
+unknown~
+15 R 0 0
+0 AC 0 0 0
+1 60 0 P
+#26494
+ancient scroll~
+an ancient scroll~
+A well preserved, ancient scroll.~
+unknown~
+2 G AO 0
+70 3 36 39 0
+60 1 1200 P
+#26495
+crystal wand~
+a crystal wand~
+(no description)~
+unknown~
+3 0 AO 0
+EG BD BD 507 0
+70 3 800 P
+#26496
+nightmare dirk~
+a nightmare dirk~
+This horrid weapon is swathed in terrifying images.~
+unknown~
+5 0 AN 0
+B CD AC ABD 0
+35 2 300 P
+#26497
+sleep bringer~
+a sleep bringer~
+This large mace will surely bring sleep, if not death, to its targets.~
+unknown~
+5 0 AN 0
+C BD AD D 0
+50 12 750 P
+A
+19 2
+#26498
+shimmering mail shirt~
+a shimmering mail shirt~
+This shimmering mail shirt is wrought with magical energies.~
+unknown~
+9 GI AD 0
+ABCD AD AE C 0
+60 12 1200 P
+A
+17 -3
+A
+2 1
+#26499
+crystal helm~
+a crystal helm~
+This crystal helm has been cut from a single piece of dream crystal.~
+unknown~
+9 AB AE 0
+BCD BCD BCD C 0
+50 9 1050 P
+A
+12 10
+#0
+
+
+
+#ROOMS
+#26400
+A touch of home~
+Various shades of green and a myriad of other colors fill this small
+glen.  Many different species of birds can be heard fluttering around the
+branches of a majestic oak tree, singing their sweet songs.  A large, rather
+out of place fissure can be seen running throught the trunk of the tree.  As
+you view the area, a light breeze begins to blow, gently rustling through
+the branches.  Caught up in the gentle breeze, small, white dandelion
+flowers break from their stems and float gently into the fresh, crisp air. 
+A small wooden sign is nailed to the tree. It is completely free of wear and
+its paint looks freshly done. A strange, swirling vortex appears in the air.
+~
+0 8204 3
+E
+fissure~
+A small fissure can be seen in the trunk of the tree. Upon closer
+examination, you can see a faint light coming from within the tree. For
+some reason, you get the impression that somehow you can enter this
+small feature.
+~
+E
+sign~
+The sign reads: "Welcome brave explorers. I hope you find your stay
+                 In the dreamscape enjoyable. Feel free to rest here
+                 for as long as you like.
+ 
+                 Thanks,
+ 
+                 Azahael
+ 
+                 P.S.... Sorry about the sandmen."
+~
+E
+dandelion~
+It seems as though thousands of these little white flowers cover the glen.
+~
+E
+tree~
+This old oak tree is a giant amongst its kind. On closer examination, a
+small fissure can be seen in the trunk of the tree. It almost seems as
+if it can be entered.
+~
+E
+oak~
+This old oak tree is a giant amongst its kind. On closer examination, a
+a small fissure can be seen in the trunk of the tree. It almost seems as
+if it can be entered.
+~
+E
+birds~
+Many different species of birds can be seen hopping from branch to
+branch in this majestic oak tree.
+~
+S
+#26401
+The haze of sleep.~
+The haze of sleep begins to settle over you in a very profound fashion.
+You feel your eyes beginning to crust over and your eyelids feel as if they
+are being pulled shut with the force of fifty draft horses. Without any
+warning, a loud yawn escapes your mouth. The sweet oblivion of slumber
+begins to take you.
+ 
+~
+0 1056777 0
+D1
+~
+~
+0 0 26404
+D2
+~
+~
+0 0 26403
+D3
+~
+~
+0 0 26402
+S
+#26402
+The haze of sleep.~
+The haze of sleep begins to settle over you in a very profound fashion.
+You feel your eyes beginning to crust over and your eyelids feel as if they
+are being pulled shut with the force of fifty draft horses. Without any
+warning, a loud yawn escapes your mouth. The sweet oblivion of slumber
+begins to take you.
+ 
+~
+0 1056777 0
+D0
+~
+~
+0 0 26405
+D1
+~
+~
+0 0 26401
+D2
+~
+~
+0 0 26406
+D3
+~
+~
+0 0 26403
+S
+#26403
+The haze of sleep.~
+The haze of sleep begins to settle over you in a very profound fashion.
+You feel your eyes beginning to crust over and your eyelids feel as if they
+are being pulled shut with the force of fifty draft horses. Without any
+warning, a loud yawn escapes your mouth. The sweet oblivion of slumber
+begins to take you.
+ 
+~
+0 1056777 0
+D0
+~
+~
+0 0 26401
+D1
+~
+~
+0 0 26402
+D2
+~
+~
+0 0 26407
+D3
+~
+~
+0 0 26407
+S
+#26404
+The haze of sleep.~
+The haze of sleep begins to settle over you in a very profound fashion.
+You feel your eyes beginning to crust over and your eyelids feel as if they
+are being pulled shut with the force of fifty draft horses. Without any
+warning, a loud yawn escapes your mouth. The sweet oblivion of slumber
+begins to take you.
+ 
+~
+0 1056777 0
+D0
+~
+~
+0 0 26408
+D1
+~
+~
+0 0 26406
+D2
+~
+~
+0 0 26405
+D3
+~
+~
+0 0 26401
+S
+#26405
+The haze of sleep.~
+The haze of sleep begins to settle over you in a very profound fashion.
+You feel your eyes beginning to crust over and your eyelids feel as if they
+are being pulled shut with the force of fifty draft horses. Without any
+warning, a loud yawn escapes your mouth. The sweet oblivion of slumber
+begins to take you.
+ 
+~
+0 1056777 0
+D0
+~
+~
+0 0 26404
+D1
+~
+~
+0 0 26407
+D2
+~
+~
+0 0 26402
+D3
+~
+~
+0 0 26406
+S
+#26406
+The haze of sleep.~
+The haze of sleep begins to settle over you in a very profound fashion.
+You fell your eyes beginning to crust over and your eyelids feel as if they
+are being pulled shut with the force of fifty draft horses. Without any
+warning, a loud yawn escapes your mouth. The sweet oblivion of slumber
+begins to take you.
+ 
+~
+0 1056777 0
+D0
+~
+~
+0 0 26402
+D1
+~
+~
+0 0 26405
+D2
+~
+~
+0 0 26409
+D3
+~
+~
+0 0 26404
+S
+#26407
+The haze of sleep.~
+The haze of sleep begins to settle over you in a very profound fashion.
+You feel your eyes beginning to crust over and your eyelids feel as if they
+are being pulled shut with the force of fifty draft horses. Without any
+warning, a loud yawn escapes your mouth. The sweet oblivion of slumber
+begins to take you.
+ 
+~
+0 1056777 0
+D0
+~
+~
+0 0 26403
+D1
+~
+~
+0 0 26403
+D2
+~
+~
+0 0 26408
+D3
+~
+~
+0 0 26405
+S
+#26408
+The haze of sleep.~
+The haze of sleep begins to settle over you in a very profound fashion.
+You feel your eyes beginning to crust over and your eyelids feel as if they
+are being pulled shut with the force of fifty draft horses. Without any
+warning, a loud yawn escapes your mouth. The sweet oblivion of slumber
+begins to take you.
+ 
+~
+0 1056777 0
+D0
+~
+~
+0 0 26407
+D1
+~
+~
+0 0 26409
+D2
+~
+~
+0 0 26404
+D3
+~
+~
+0 0 26409
+S
+#26409
+The haze of sleep.~
+The haze of sleep begins to settle over you in a very profound fashion.
+You feel your eyes beginning to crust over and your eyelids feel as if they
+are being pulled shut with the force of fifty draft horses. Without any
+warning, a loud yawn escapes your mouth. The sweet oblivion of slumber
+begins to take you.
+ 
+~
+0 1056777 0
+D0
+~
+~
+0 0 26406
+D1
+~
+~
+0 0 26408
+D2
+~
+~
+0 0 26410
+D3
+~
+~
+0 0 26408
+S
+#26410
+Deep sleep.~
+Dreary eyed, you fight the encroaching slumber. It seems as if the
+sandmen have finally gotten to you. Each step is a struggle, it feels
+as if your legs are lead weights, barely responding to your commands.
+Your labored breathing begins to calm, quickly transforming into a
+slow, smooth rhythm. The hazy features of your surroundings begin to
+dim, and then fade away all together. The ground seems to move towards
+you, then all is black. When you "awaken", you see a faintly glowing
+portal before you. It appears to hum with an inward energy and 
+pulsate in a smooth rhythm. You stare in wonder at the portal when
+a realization hits you with astounding force, it seems as though the
+portal is pulsating in tune with your heart!
+~
+0 1056781 0
+S
+#26411
+Dreamscape~
+A seemingly endless plain stretches out beyond the horizon, its features
+a chaotic mix of both wonders and horrors. Various scrub brushes and
+beautiful flowers intermixed with twisted forms of vegetation litter
+the landscape for as far as the eye can see. Off in the distance, twisted
+forms can be seen moving across the plain in various directions. Far off,
+a shimmering structure can be seen. From appearance it seems to be some
+sort of a castle or keep with a very surreal quality. Small shapes can
+be seen moving across the battlements on the outer curtain wall, and from
+this vantage point, what seems to be large seige engines, rest atop the
+various towers and bastions.
+~
+0 1056776 2
+E
+twisted~
+It is even more apparent now that these forms are moving in a chaotic fashion.
+~
+E
+forms~
+Under closer scrutiny, it appears as if not all of the forms in the
+distance are the same. They are all different shapes and sizes.
+~
+E
+shapes~
+Upon close examination of the shapes, occasional glints of metal can
+be seen.
+~
+E
+battlements~
+Atop the battlements, various humanoid forms wander about. You notice the 
+occasional metallic glint as they move about.
+~
+E
+castle~
+This structure looks vaguely familiar in a deja vu senseODODO, almost "deja vu" in recollection.
+~
+E
+keep~
+This structure look vaguely familiar, almost "deja vu" in recollection.
+~
+E
+towers~
+Seige engines rest atop the towers and bastions.
+~
+E
+bastions~
+Seige engines rest atop the towers and bastions.
+~
+E
+seige~
+You can vaguely make out what appear to be catapults and ballistae.
+~
+E
+engines~
+You can vaguely make out what appear to be catapults and ballistae.
+~
+D0
+~
+~
+0 0 26411
+D1
+~
+~
+0 0 26413
+D2
+~
+~
+0 0 26412
+D3
+~
+~
+0 0 26414
+S
+#26412
+The changing path~
+The huge structure looms on the horizon. It is much easier now, to make
+out the figures on the battlements. Although their exact race cannot be
+seen, they seem vaguely humanoid in shape and size. The outer curtain
+wall seems to stretch to the north and south for as far as the eye can see.
+Every hundered meters or so, a tower or bastion juts from the wall. Armored
+forms can be seen manning the various catapults and ballistae. Although
+there is a look of readiness about the entire structure, it does not seem
+menacing in any way. A smooth cobblestone path begins here and runs to
+the center of the shimmering structure. Cobblestone? On closer examination
+it appears as if the path is made brick, you could have sworn it was
+cobblestone. Then, right before your very eyes, the path becomes hazy and
+seems to fade away, then disappear all together. It has been replaced by
+a narrow winding path, paved in gold.
+~
+0 1056776 2
+E
+wall~
+The outer curtain wall seems to stretch out to the north and south for an
+eternity. Every so often, a bastion or tower can be seen jutting out.
+~
+E
+structure~
+This structure seems to be shimmering with a power of its own. Even from
+this distance, the sheer size of it is overwhelming.
+~
+E
+path~
+A constantly shifting path to the structure is here, changing in size,
+shape, and material on a chaotic interval.
+~
+E
+figures~
+The figures on the battlements are still to far to make out. They seem
+to be humanoid in size and shape and the glint of armor and weapons can
+be seen.
+~
+D0
+~
+~
+0 0 26411
+D1
+~
+~
+0 0 26416
+D2
+~
+~
+0 0 26418
+D3
+~
+~
+0 0 26417
+S
+#26413
+Wandering the dreamscape~
+An open plain stretches out to the horizon. Far off to the south, a gigantic
+structure can be seen, its outer wall extending out seemingly forever.
+Many forms of plant and animal life inhabit this twisted plain, the stuff
+of both dreams and nightmares. The sky is both cloudless and bland, creating
+a very surreal picture. No breeze can be felt, yet the twisted plant life
+seems to sway to and fro as if a gentle breeze were blowing.
+ 
+~
+0 1056776 2
+D0
+~
+~
+0 0 26413
+D1
+~
+~
+0 0 26415
+D2
+~
+~
+0 0 26416
+D3
+~
+~
+0 0 26411
+S
+#26414
+Into the dreamscape~
+The dreamscape stretches out before you. Way off, in the distant south,
+a gigantic structure can be seen, its outer wall extending out beyond
+your view to both the east and west. Many twisted forms of plant and
+animal life inhabit this endless plane. Creatures of vast beauty and weal
+can be seen interacting with creature both foul and horrendous. Although
+everything is tangible and seemingly "real", the visions before you, at
+times, almost seem like apparitions. It is almost as if they fade in and out
+of existence. No breeze can be felt, yet strangely, the plant life seems
+to sway in tune with a ghostly breeze.
+~
+0 1056776 2
+D0
+~
+~
+0 0 26414
+D1
+~
+~
+0 0 26411
+D2
+~
+~
+0 0 26417
+D3
+~
+~
+0 0 26436
+S
+#26415
+Nearing a mountain~
+The seemingly endless plain is broken by a large feature to the northeast.
+A large mountain has appeared on the horizon, seemingly out of thin air.
+It is still quite a distance away, however, light can be seen reflecting
+off its snow covered peaks. This looming giant grows nearer on the horizon
+at such a rapid pace, it seems as if it will over take and crush this
+exact spot. After a few short seconds, the approaching mountain slows its
+approach before coming to a final stop. It cannot be determined if this
+
+mountain is a sentient creature or just another oddity of this twisted
+land.
+ 
+~
+0 1056776 4
+D0
+~
+~
+0 0 26424
+D1
+~
+~
+0 0 26436
+D2
+~
+~
+0 0 26435
+D3
+~
+~
+0 0 26413
+S
+#26416
+Natural dreams~
+Beautiful, soft music is flowing from nearby, filling the air with its
+sweet harmony. Although the exact source of it is undetermined, it is
+obvious that the musician is one of rare talent. A cool breeze can be felt,
+gently blowing in from the north, and for the first time since being on
+the dreamscape, the features of the sky can be seen. The chaotic
+landscape has transformed itself here into a small clearing within a
+beautiful copse of majestic oaks. The sweet sounds of song birds can be heard
+coming from the branches above. That along with the abundance of other
+forest life, gives this area a very abundant sense of serenity. It appears
+as if all in nature is in perfect harmony.
+~
+0 1056776 2
+E
+music~
+A soft tune gently floats in on the breeze. Its exact origin is unknown,
+however it must be the work of a master musician.
+~
+D0
+~
+~
+0 0 26413
+D1
+~
+~
+0 0 26435
+D2
+~
+~
+0 0 26432
+D3
+~
+~
+0 0 26412
+S
+#26417
+The harem~
+The features of the dreamscape slowly fade away and are replaced with a
+large room. Plushly cushioned couches and elaborate beds are scattered about.
+Several voluptuous woman wander around, naked from the waist up. Others
+are relaxing on the beds or lounging on the couches. From all appearances,
+this seems to be some sort of play room for a large harem.
+~
+0 1056780 2
+D0
+~
+~
+0 0 26414
+D1
+~
+~
+0 0 26412
+D2
+~
+~
+0 0 26433
+D3
+~
+~
+0 0 26437
+S
+#26418
+Approaching Dream Keep~
+The changing path continues to shift in size, shape and texture as it
+winds towards Dream Keep. From this vantage point, there is a clear view
+of the massive structure. A gigantic gate, dwarfed by two even larger
+towers, can be seen at the end of the path. Humanoid forms in shining
+armor can be seen milling about on the battlements of both the curtain
+wall and the massive towers. Numerous seige engines such as catapults
+and ballistae are neatly tucked away in strategic positions, all sites
+aimed out over the dreamscape. Although there is no perceived sense of
+urgency, the ever vigilant guards maintain a watchful eye over the
+surroundings.
+~
+0 1056776 0
+E
+gate~
+A huge gate, dwarfed by two even larger towers is at the end of the path.
+~
+E
+towers~
+Soldiers can be seen manning the battlements of these huge towers. Upon
+closer inspection, numerous arrow slits can be seen on the towers' faces.
+~
+E
+guards~
+Soldiers can be seen milling about on the various battlements, they maintain
+a watchful eye on the dreamscape.
+~
+D0
+~
+~
+0 0 26412
+D1
+~
+~
+0 0 26432
+D2
+~
+~
+0 0 26419
+D3
+~
+~
+0 0 26433
+S
+#26419
+Before the front gate~
+The gates of Dream Keep stand menacingly here, menacing only in regards
+to sheer size and appearance of strength. Two towers, lined with arrow
+slits, stand vigilant watch over the gates. On occasion, a flash of
+movement can be seen through the narrow slits. High above the ground,
+though the parapets on the tower tops, soldiers can be seen milling
+about. To the north and south, the outer curtain wall extends out to
+the horizon.
+~
+0 1056776 0
+E
+gates~
+Massive twin gates are nestled between to large towers. Judging by the
+sheer size and apparent strength of these structures, it is evident
+that this is most likely the main entrance to Dream Keep.
+~
+E
+soldiers~
+Although their exact features cannot be made out, it is obvious that they
+are well armed and armored.
+~
+E
+towers~
+These gigantic towers stand in defense of the main gates to Dream Keep.
+High above, on the tower tops, soldiers can be seen milling about.
+~
+E
+arrow~
+Upon closer examination, archers, aiming their deadly bows, can be seen
+through the narrow slits.
+~
+D0
+~
+~
+0 0 26418
+D1
+~
+~
+0 0 26420
+D2
+~
+gates~
+6 26419 26441
+D3
+~
+~
+0 0 26423
+S
+#26420
+Along the curtain wall~
+The massive outer curtain wall is here. To the west, off in the distance,
+the main gates of Dream Keep can be seen; and to the east, the wall seems
+to extend out beyond the horizon. Heavily armored soldiers can be seen
+patroling the battlements above, maintaining an ever vigilant watch over
+the dreamscape.
+~
+0 1056776 0
+D0
+~
+~
+0 0 26432
+D1
+~
+~
+0 0 26421
+D3
+~
+~
+0 0 26419
+S
+#26421
+The eternal wall~
+You find yourself before the outer curtain wall of Dream Keep. It extends
+to both the east and west beyond the edge of your vision. Guards can
+be seen patroling the battlements, gazing watchfully over the dreamscape.
+~
+0 1056776 0
+D0
+~
+~
+0 0 26434
+D1
+~
+~
+0 0 26422
+D3
+~
+~
+0 0 26420
+S
+#26422
+The eternal wall~
+You find yourself before the outer curtain wall of Dream Keep. It extends
+to both the east and west beyond the edge of your vision. Guards can
+be seen patroling the battlements, gazing watchfully over the dreamscape.
+~
+0 1056776 0
+D0
+~
+~
+0 0 26438
+D1
+~
+~
+0 0 26423
+D3
+~
+~
+0 0 26421
+S
+#26423
+Along the curtain wall~
+The massive outer curtain wall is here. To the east, off in the distance,
+the main gates of Dream Keep can be seen; and to the west, the wall seems
+to extend out beyond the horizon. Heavily armored soldiers can be seen
+patroling the battlements above, maintaining an ever vigilant watch over
+the dreamscape.
+~
+0 1056776 0
+D0
+~
+~
+0 0 26433
+D1
+~
+~
+0 0 26419
+D3
+~
+~
+0 0 26422
+S
+#26424
+The winding trail~
+A narrow, rocky trail begins its steep climb up the mountain here. Rocks
+and boulders litter the winding trail, making any attempt of a climb
+quite dangerous. As the trail winds its way higher into the mountain,
+steep cliffs can be seen to its side. A faint sound, almost like a
+terrified shriek, can be heard in the distance.
+ 
+~
+0 1056776 5
+E
+mountain~
+Nearly a third of this monstrous mountain is above the snow line. Dangerous
+cliffs and sheer rock faces can be viewed in abundance.
+~
+E
+shriek~
+A loud, peircing cry can be heard in the distance. It sounds vaguely like
+a woman's voice.
+~
+D2
+~
+~
+0 0 26415
+D4
+~
+~
+0 0 26425
+S
+#26425
+The steep climb~
+The smooth rocky face and small pebbles make traveling quite difficult
+over this nearly verticle climb. Luckily there is an occasional scrub to
+use as a handhold, making the passage only slightly less difficult. Again
+the screaming begins. It sounds quite feminine, but with the sheer sound
+of terror in the scream, it is quite difficult to be positive. Also,
+very faintly in the distance, a loud ominous rumbling can be heard.
+ 
+~
+0 1056776 5
+D1
+~
+~
+0 0 26426
+D5
+~
+~
+0 0 26424
+S
+#26426
+The narrow ledge~
+The steep climb up the winding trail ends on a narrow ledge. Looking out
+over the ledge, the twisted features of the dreamscape can be made out
+far below. At the very edge of the horizon, Dream Keep can be seen. A
+loud piercing scream comes from above. Its seems a young woman who was
+climbing the cliff face has slipped and is hanging onto a small rock
+pecariously with one hand. As you watch, her desperate situation turns
+into tragedy as her grip loosens and she plummets high from the cliff
+above. Her scream of terror gets insanely loud as she plummets by you,
+then fades away after she rushes by, narrowly avoiding this ledge. Before
+there is any chance to react, another loud scream comes from above.
+Somehow, the woman is back on the cliff, again hanging from a rock. Then
+in repetition, the same macabre cycle begins again.
+~
+0 1056776 5
+E
+woman~
+This young woman seems to be stuck in an endless cycle, falling over and over,
+yet never quite reaching the ground below. You take pity on her and wonder
+if something can be done to end this macabre cycle.
+~
+E
+cliffs~
+The cliff is nearly verticle yet seems to be fairly easy to climb because
+of numerous handholds along its face.
+~
+D1
+~
+~
+0 0 26427
+D3
+~
+~
+0 0 26425
+D4
+~
+~
+0 0 26429
+S
+#26427
+Looking over the river~
+The distant rumbling gets louder as you continue on the mountain path. It
+feels as if the very mountain itself is vibrating under the force. A sheer
+cliff drops of before you, and you find yourself overlooking a raging river.
+Large chunks of ice bob up and down in the raging torrent as it flows down
+the mountain at a breathtaking pace. A small footpath around the cliff leads
+down into the river.
+~
+0 1056776 5
+D3
+~
+~
+0 0 26426
+D5
+~
+~
+0 0 26428
+S
+#26428
+The raging river~
+Shivers run up your spine as the shock of the extremely cold water hits you.
+Luckily you managed to find a calm spot near a large rock before you
+are swept away in what would be a sure death. The sound of the water is
+deafening, yet somehow you manage to make out a garbled scream. A wet
+and slightly blue form is splashing about upstream. You can make out
+what seems to be female features beaneath strands of tangled hair. The
+woman seems to be in great distress and is on the verge of drowning. Before
+you can attempt to rescue her, she slips beneath the raging torrent, never
+to resurface again. Just then, another garbled scream captures your 
+attention. Its seems the malicious drowning scene is replaying itself
+again.
+~
+0 1056776 7
+D4
+~
+~
+0 0 26427
+S
+#26429
+The precarious cliff~
+This steep climb is extremely precarious. You find yourself struggling from
+rock to rock, nearly falling a dozen times. Currents of noticably cooler air
+blow in on a stiff breeze, making the climb even more dangerous. Far down
+below, you see a raging river streaming down the mountain, probably the result
+of a large snow melt. A faint rumble can be heard from high above you where
+the beginning of the snow cap can be seen.
+~
+0 1056776 5
+D4
+~
+~
+0 0 26430
+D5
+~
+~
+0 0 26426
+S
+#26430
+Past the snow cap~
+With the beginning of the snow cap behind you, you find yourself on a frozen
+waste. The bitter cold of the wind whips around, blinding you in swirling
+snow. The frozen ground and sheer strength of the wind, makes all movement
+here difficult. Continuing upwards towards the peak is impossible due to
+the extreme incline and the ice. You feel a slight tremor beneath you, shortly
+followed by a deafening rumble. Suddenly tons of ice and snow began to slide
+down from the peak above, heading directly towards you. The only possible
+escape is to either seek shelter below or to hurry east along the waste.
+ 
+~
+0 1056776 5
+D1
+~
+~
+0 0 26431
+D5
+~
+~
+0 0 26429
+S
+#26431
+Trapped beneath the ice~
+Tons of snow and ice come crashing down around you, completely entrapping
+you. As you struggle to break free from the weight of it, the warmth slowly
+begins to drain out of your body. Blackness begins to encroach on your
+consciousness as your strength leaves you. As you fight to refrain from
+passing out, you notice a strange glimmer in the ice.
+~
+0 1056780 5
+E
+glimmer~
+Upon closer examination, the strange glimmer seems to waver and change shape
+rapidly, morphing into what seems to be some sort of portal.
+~
+S
+#26432
+Greedy dreams~
+Riches beyond the wildest imagination are here. Piles of gold and platinum
+coins litter the floor of this room, creating what is almost a sea of treasure.
+Glittering jewels in a multitude of colors can be seen sparkling amongst the
+coins. Various types of exspensive appearing jewelry can bee seen scattered
+about in what is a virtual armory of brightly glowing weapons. An old oak
+chest, seemingly more tangible than the rest of the treasure, lies in the
+corner collecting dust.
+~
+0 1056776 2
+E
+weapons~
+Weapons of all shapes and sizes are scattered about. You pick up a brightly
+glowing weapon. While taking practice swings, it slowly fades out of
+existence.
+~
+E
+piles~
+Large piles of gold and platinum adorn this room. They look deep enough to
+almost swim in.
+~
+D0
+~
+~
+0 0 26416
+D1
+~
+~
+0 0 26434
+D2
+~
+~
+0 0 26420
+D3
+~
+~
+0 0 26418
+S
+#26433
+Dream feast~
+The dreamscape fades away and you find yourself in a lavish feast hall. A
+large oaken table presides in the center of the room, basking in the dim
+candlelight from sconces on the wall. A large ham sits in the the center
+of the table on a silver platter, glistening in what appears to be some
+sort of honey glaze. Various fruits are intermingled with breads and
+cheeses all about the table. A large decanter of wine can be seen on the
+far side of the table next to a single plate and chair. You find
+it odd that a feast large enough for an army, would only have one place
+setting.
+~
+0 1056776 0
+E
+chair~
+A single chair is before the table. Pillows have been stacked on it as if
+to allow someone short to sit there.
+~
+E
+plate~
+A Silver dinner plate is here, you find it odd that there is only one plate
+for such a large feast.
+~
+E
+table~
+This long table is made of aged oak and is covered with all sorts of food.
+~
+D0
+~
+~
+0 0 26417
+D1
+~
+~
+0 0 26418
+D2
+~
+~
+0 0 26423
+D3
+~
+~
+0 0 26438
+S
+#26434
+Chased~
+The features of the dreamscape slowly fade away, morphing into a featureless
+landscape. The sky is grey and overcast and the ground is barren and 
+perfectly flat. Pure evil permeates the air from all around, and it seems
+as if some horrific presence is out there, wait and watching for new prey.
+The air rapidly begins to decline in temperature and you can see the frosty
+mist of your breath in the air. Very near you, from behind, a loud thump
+echoes across the barren landscape. The sound of falling footsteps can
+be heard and felt coming from the same direction. Whatever it is, it
+appears to be quite large due to the small tremors in the ground as it 
+makes its way towards you. The evil permeating the air grows stronger,
+almost to the point of being suffocating.
+~
+0 1056776 0
+D0
+~
+~
+0 0 26435
+D1
+~
+~
+0 0 26438
+D2
+~
+~
+0 0 26421
+D3
+~
+~
+0 0 26432
+S
+#26435
+Trial by fire~
+Flames rise up everywhere and begin to eat away at the surroundings, causing
+billowing plumes of black smoke to fill the air. The temperature begins to
+rise to an unbearable level as the inferno greedily consumes everything
+in sight. Smoke continues to pour into the air, obscuring all vision and
+rapidly displacing any breathable air. There is no apparent escape, as all
+possible exits are blocked by walls of flame. 
+~
+0 1056776 0
+E
+smoke~
+Huge billowing plumes of smoke fill the air as the fire consumes everything.
+The supply of breathable air is rapidly being deplenished as the smoke
+continues to fill the area. All vision is being rapidly obscured.
+~
+E
+inferno~
+This raging inferno burns on, cutting off all exits and filling the air with 
+smoke. The only possible way to escape seems to be plunging headlong through
+the flames.
+~
+E
+fire~
+The fire burns wildly, rapidly increasing the room temperature and causing
+huge plumes of smoke to fill the air, obscuring all vision. A quick dash
+through the flames seem to be the only means of escape.
+~
+E
+flame~
+Flame greedily consumes all in sight and blocks off any exits. The only
+possible means of escape is to plunge headlong through the fire.
+~
+D0
+~
+~
+0 0 26415
+D1
+~
+~
+0 0 26437
+D2
+~
+~
+0 0 26434
+D3
+~
+~
+0 0 26416
+S
+#26436
+The dreamscape~
+The vast plains of the dreamscape stretch for what seems to be an eternity.
+Dotting the dreamscape are various forms of plant and animal life. Every 
+now and then, various types of dreams can be seen embarking on their
+journeys to either plague or bless the sleeps of those in Discordia. Far
+off to the distant south, the towering walls of dreamkeep can be seen.
+~
+0 1056776 0
+D0
+~
+~
+0 0 26436
+D1
+~
+~
+0 0 26414
+D2
+~
+~
+0 0 26437
+D3
+~
+~
+0 0 26415
+S
+#26437
+The travelers~
+The plains of the dreamscape stretch onward. This particular area is teaming
+with various life forms. Wonderous plants and flowers entertwined with
+twisted scrubs and weeds, give this area a very chaotic appearance. Small
+animals and various insects scurry about the plant life, interacting
+together in the unordered harmony of nature. To the immediate south, the
+dreamscape is blotted by an area of darkness and beyond that, the walls
+of Dream Keep can be seen stretching on for eternity.
+~
+0 1056776 0
+D0
+~
+~
+0 0 26436
+D1
+~
+~
+0 0 26417
+D2
+~
+~
+0 0 26438
+D3
+~
+~
+0 0 26435
+S
+#26438
+The way home~
+The twisted features of the dreamscape slowly begin to fade away into black.
+Any illumination, be it held light source or enchanted equipment, slowly
+begins to fade, until it too is engulfed in darkness. You blindly stumble
+around in the overwhelming darkness looking for some feature to use as
+a landmark, but you find nothing. After a few minutes of stumbling, you
+notice a small, twinkling light in the distance, rocketing towards you like
+a shooting star. The light grows larger as it approaches and you notice
+that it seems to be some sort of window or portal about twice the size and
+length of a large doorway. It slows down as it approaches, and comes to a full
+stop in front of you. Looking at the portal, you notice a vaguely familiar
+place on the otherside. Somewhere in the real world perhaps?
+~
+0 1056781 0
+E
+portal~
+A shining portal hangs suspended here. A vaguely familiar place can be
+seen on the other side. At the base of the portal, faintly glowing
+inscriptions can be seen.
+~
+E
+inscriptions~
+Enter yonder, the passage home. The world of the waking awaits.
+~
+D0
+~
+~
+0 0 26437
+D1
+~
+~
+0 0 26433
+D2
+~
+~
+0 0 26422
+D3
+~
+~
+0 0 26434
+S
+#26439
+The study~
+Blinding light and sharp pain assaults your senses as you step into the
+fissure. You find yourself in a large circular room, much to large, based
+on the dimensions of the oak tree. This quaint little room is illuminated
+by glowing spheres of light, encapsulated within crystal globes that are
+hung on the wood grain walls. A large window is set within one wall, from
+which the area outside of the tree can be viewed. In fact, the very top of the 
+snoozing dwarf's head can be seen, propped against the lower left corner
+of the glass. Facing the window is a large desk. Various papers and
+scrolls are scattered about on its surface. Adorning the walls are book
+shelves, filled to the brim with various works of arcane lore. From all
+appearances, this seems to be the study of a very powerful mage.
+~
+0 1057292 0
+E
+spheres~
+Magical spheres of light illuminate the room. They are completely
+encapsulated within crystal globes.
+~
+E
+crystal~
+These crystal globes encapsualte glowing spheres of magic light.
+~
+E
+window~
+A large window is set within the wall, giving an excallent view of the
+surrounding area. You can see the very top of a dwarf's head propped
+against the lower left corner of the glass.
+~
+E
+dwarf~
+A dwarf is snoozing just outside the window. His head is propped against
+the glass.
+~
+E
+desk~
+This large desk is covered with many parchments and notes. A large drawer
+is in the desk.
+~
+E
+book~
+Many books and scrolls adorn the shelves. Unlike the desk, they seems to
+be in order and well cared for.
+~
+E
+label~
+The label read: "The key to success lies within."
+~
+D0
+A large window is here. It looks like it can easily be opened.
+~
+window~
+1 0 26400
+S
+#26440
+Awakenings~
+Sleepy eyed, you peer around your surroundings and are shocked to find that
+you are no longer in the same place where you went to sleep! In fact, you
+have no idea "where" you are. You are surrounded by a faintly glowing
+fog and can see nothing in any direction. The ground beneath you is solid,
+yet looks very ethereal in nature. You faintly recall various
+transportation spells used by various spellcasters throughout the realm.
+The fog vaguely reminds you of the residue left over by one of these
+spells, however it is much different. As you ponder you current dilemma,
+a loud voice cuts through the fog and booms: "Welcome brave souls! Hurry
+along and do not tarry in the realm of sleep."
+  Just as the the word "sleep" leaves the unknown speaker's mouth, a
+shimmering archway opens to the south.
+~
+0 8204 0
+E
+archway~
+A shimmering archway is here, leading to parts unknown.
+~
+E
+shimmering~
+A shimmering archway is here, leading to parts unknown.
+~
+S
+#26441
+Inside the gates~
+This long hallway has been well designed for a seige. Many murder holes
+are present on the ceiling and enough arrow slits to deter any invading
+army line the walls. The hall begins about 30 feet wide, then gradually
+narrows down at the end to a width of about 15 feet, just wide enough for
+a wagon to pass through into the courtyard. The entrance into the courtyard
+is barred by a rather thick and sturdy looking portcullis.
+~
+0 1056780 0
+E
+portcullis~
+This thick portcullis blocks the entrance to the courtyard. The bars are set
+far enough apart to allow both pikeman and archers to attack those on the
+otherside.
+~
+E
+murder~
+Many murder holes are present in the ceiling. Thick, greasy stains can be
+seen on the edges of the holes and on the ground beneath them.
+~
+E
+grease~
+This substance appears feels and smells like oil, and looks quite flammable.
+~
+E
+stains~
+These stains are not actually stains at all, in fact, they seem to be some
+sort of greasy substance.
+~
+E
+arrow~
+Numerous arrow slits line the wall. In fact, occasional movement can be seen
+through them.
+~
+E
+courtyard~
+The courtyard and the gates to the keep can be seen through the heavy
+portcullis. Movement can be seen just inside them.
+~
+D0
+~
+gate~
+6 26419 26419
+D2
+~
+portcullis~
+6 26419 26442
+S
+#26442
+The Courtyard~
+This large courtyard is covered in thick, green grass. It extends to the
+east and west for what seems to be an eternity. Directly to the south, the
+entrance to the keep can be seen. Huge, iron-banded doors protect this
+entryway, such a defense, that it would seem that it would take a massive
+force to penetrate its barrier. Arrow slits adorn the entire height of the
+keep, looking out on the courtyard and the dreamscape beyond.
+~
+0 1056776 0
+E
+grass~
+On closer inspection, several bare spots can be seen in the grass.
+~
+E
+bare~
+The earth under these bare spots seem scorched as if some fire of
+unimaginable heat burnt there. In fact some of the sandier spots have
+crystallized into glass.
+~
+E
+arrow~
+Movement can be seen through the arrow slits.
+~
+D0
+~
+portcullis~
+6 26419 26441
+D1
+~
+~
+0 0 26443
+D2
+~
+doors~
+6 26419 26445
+D3
+~
+~
+0 0 26444
+S
+#26443
+Eastern Courtyard~
+The courtyard extends to the east for what seems an eternity. Nearby, to the
+west, the entrance to the keep can be seen. Guards in shining armor patrol
+the curtain wall to the north, maintaining an ever watchful eye on the
+dreamscape. Above you and to the south, the massive walls of the keep loom
+over its surroundings. Arrow slits are cut into its face every few yards.
+~
+0 1056776 0
+D1
+~
+~
+0 0 26443
+D3
+~
+~
+0 0 26442
+S
+#26444
+Western courtyard~
+The couryard extends to the west for what seems an eternity. Nearby, to the
+east, the entrance to the keep can be seen. Guards in shining armor patrol
+the curtain wall to the north, maintaining an ever watchful eye on the
+dreamscape. Above you and to the south, the massive walls of the keep loom
+over its surroundings. Arrow slits are cut inot its face every few yards.
+~
+0 1056776 0
+D1
+~
+~
+0 0 26442
+D3
+~
+~
+0 0 26444
+S
+#26445
+The entrance hall~
+Numerous murder holes line the ceiling of this long, narrow passage. Every
+few yards arrow slits can be seen, cut into the smooth surface of the
+stone walls. The air smells faintly of fire. It cannot be determined
+whether or not it is from the torches lining the walls or from some ancient
+calamity or war. On closer inspection of the walls, numerous nicks and
+scratches can be seen. Dark stains cover the floor, most noticably in the 
+areas surrounding the holes. The passage widens into a large room to the
+south and huge, iron-banded doors block the exit to the north.
+~
+0 1056776 0
+E
+nicks~
+These nicks look as if they may have been caused by arrows fired from the
+slits. Their height and location seems to back up this assumption.
+~
+E
+scratches~
+Numerous scratches cover the wall. Their height and frequency seem to support
+the theory that they were caused by arrows fired from the slits.
+~
+E
+stains~
+These stains are oily to the touch and smell faintly of lantern fuel.
+~
+E
+
+doors~
+These doors are iron-bounded and reinforced with steel bars. They look as if
+they could withstand a considerable force.
+~
+D0
+~
+doors~
+6 26419 26442
+D2
+~
+~
+0 0 26446
+S
+#26446
+Entrance to the castle proper~
+This large room is illuminated by small globes of light that hang from the
+ceiling. The stone floor here is stain free and appears to be slightly
+angled to the north. Large, white curtains cover both the eastern and
+western walls, obstructing your view to the area beyond. A large exit is to
+the south, blocked by a large portcullis.
+~
+0 1056776 0
+D0
+~
+~
+0 0 26445
+D1
+~
+curtain~
+1 0 26447
+D2
+~
+portcullis~
+1 0 26449
+D3
+~
+curtain~
+1 0 26448
+S
+#26447
+Eastern guard room~
+Unlike most other areas in the keep, this small guard room is dark. Thick
+pieces of black cloth cover each of the hanging globes here, shutting off
+the source of light. Bunk beds are situated in two rows, 3 beds deep. A
+large table is in the center of the room and is free and clear of debris.
+On the northern wall hangs a large rack, various pieces of armor and a
+few weapons can be seen dangling from it.
+~
+0 1056777 0
+D3
+~
+~
+1 0 26446
+S
+#26448
+Western guard room~
+This small chamber is well lit by hanging globes of light. Neatly made bunk
+beds are arranged in two rows, three beds deep near the southern portion of
+the room. A large rack can be seen, mounted about 2 meters high, on the
+northern wall. Various weapons and pieces of armor can be seen hanging from
+it. In the dead center of the room is a small table. It appears as if some
+sort of card game is going on. Playing cards of various suites can be seen
+resting face up on the table, intermingled between a few coins and some
+half-eaten sandwiches.
+~
+0 1056776 0
+E
+cards~
+Various cards lay face up on the table, on closer examination you notice
+that they seem to be grouped together by type and in some instances, by
+color.
+~
+E
+coins~
+These coins are in fact wooden discs of various sizes and colors. Some are
+scattered in the center of the table and others are arranged neatly in
+stacks of the same color and size.
+~
+D1
+~
+curtain~
+1 0 26446
+S
+#26449
+The castle proper~
+The splash of falling water and the sweet sound of joyous laughter can be
+heard as you enter the castle proper. Many fine furnishing adorn this well
+lit room. Plush benches and chairs can be seen arranged about the room, facing
+both the gorgeous stone fountain and the large, richly made tapestries on
+the walls. Passages lead from this room in all directions, the one to the
+north being bared by a portcullis.
+~
+0 1056776 0
+D0
+~
+portcullis~
+1 0 26446
+D1
+~
+~
+0 0 26492
+D2
+~
+~
+0 0 26450
+D3
+~
+~
+0 0 26473
+S
+#26450
+The grand hall~
+This grandly furnished hallway is decorated with thick carpets and plush 
+benches. Various works of art hang from the walls, illuminated by a giant
+crystal chandelier that hangs in the center of the room. The floor is so
+thickly carpeted that it gives the impression of walking on air as you
+move down the hall.
+~
+0 1056776 0
+E
+works~
+One of the paintings stands out from the rest, it seems to be the work of
+a master painter. It is a very fine piece of artwork.
+~
+E
+chandelier~
+This huge crystal chandelier hangs from the center of the hall. Small globes
+of light are in place of the candles that would normally be providing its
+illumination.
+~
+D0
+~
+~
+0 0 26449
+D2
+~
+~
+0 0 26451
+S
+#26451
+The elegant waiting chamber~
+Quaint, yet plushly made benches and chairs adorn this small room. Like the
+rest of the keep, it is illuminated by small globes of light that are
+suspended from the ceiling. A large, woven tapestry depicting a crest of
+some sort is hanging on the southern wall to the right of a large set of
+double doors. To the left of the double doors, a large desk can be seen.
+~
+0 1056776 0
+D0
+~
+~
+0 0 26450
+D2
+~
+double~
+1 0 26452
+S
+#26452
+The council chamber~
+A large stone table predominates the southern portion of this large room.
+Arranged behind the table are four large chairs. The right-center chair
+is the largest and most elaborate of the four, possibly indicating that it
+is for someone of higher ranking or status. Regardless, these chairs are
+much to large for someone of human size to use comfortably. On the wall,
+behind the chairs, is a large woven tapestry depicting the crest of dream
+keep. Facing the large table and chairs are several rows of benches. As
+with most other areas of the keep, this large council chamber is illuminated by
+several globes of light that hang suspended from the ceiling.
+~
+0 1056776 0
+E
+tapestry~
+This tapestry depicts the seal of dream keep. On closer examination you see
+that it faintly sways outward, almost as if something is behind it.
+~
+D0
+~
+double~
+1 0 26451
+D2
+~
+tapestry~
+7 0 26453
+S
+#26453
+The secret landing~
+A grand circular stairways leads up from this small landing. To the north,
+the cloth back of a tapestry can be seen in the illumination from the hanging
+globes of light.
+~
+0 1056776 0
+D0
+~
+~
+7 0 26452
+D4
+~
+~
+0 0 26454
+S
+#26454
+The nobles' quarter~
+This small and richy furnished chamber is the entrance to the keep's noble
+quarter. Lush red carpeting starts in the center of this elaborate room and
+continues through the northern exit. To the south, nothing can be seen but
+an all consuming darkness. It is so dark that the globes illuminating the
+chamber cannot even begin to penetrate its gloomy interior. The eastern exit
+is dark and dreary, and as you look, a sudden feeling of uneasiness settles
+about you. In contrast, the western exit is brightly lit.
+~
+0 1048588 0
+D0
+~
+~
+0 0 26456
+D1
+~
+~
+0 0 26455
+D2
+~
+~
+0 0 26458
+D3
+~
+~
+0 0 26457
+D5
+~
+~
+0 0 26453
+S
+#26455
+Frightening corridor~
+No footprints can be seen crossing the dust covered floor of this ancient,
+stone-hewed corridor. Cobwebs stretch across it in such abundance that it
+seems apparent that it hasn't seen any use for a long, long time. Some sort
+of presence can be felt from the corridor, radiating a deep burning hatred
+for you and all other life as well.
+~
+0 1056776 0
+D1
+~
+~
+0 0 26459
+D3
+~
+~
+0 0 26454
+S
+#26456
+The hall of dreams~
+Dreams coalesce and swirl about the air forming into a long hallway.
+Extravagent chandeliers made of brightly glowing dream crystals cast their
+illumination in a wavering, hypnotic pattern across the smooth stone walls.
+A thick red carpet runs along the center of the hallway, leaving enough
+space so that the richly tiled floors can be seen on its frilled edges.
+~
+0 1056776 0
+D0
+~
+~
+0 0 26467
+D2
+~
+~
+0 0 26454
+S
+#26457
+Benevolent passage~
+Beautiful music fills the air of this brightly lit passage. Its soft sound
+reverberates off the smooth, seamless stone walls in such a manner that is
+both soothing and comforting. The air is fresh and warm, much like a spring
+day in a temperate climate.
+~
+0 1056776 0
+D1
+~
+~
+0 0 26454
+D2
+~
+~
+0 0 26462
+S
+#26458
+Endless darkness~
+The darkness in this room greedily devours all light with an unsatiable
+appetite. It is so thick that it seems to cling to your body, trying to
+draw you in.
+~
+0 1056777 0
+D0
+~
+~
+0 0 26454
+S
+#26459
+The mouth of madness~
+Horrors beyond compare fill this large chamber. On the southern wall, a 
+seemingly real mural depicts an enormous face caught mid-scream, its features
+contorted in a visage of absolute horror. The image is so real, that you
+almost expect a loud scream to escape its mouth at anytime, deafening you
+with its piercing sound. As you stare transfixed at the image, it seems as
+if the mouth is drawing you in.
+~
+0 1056776 0
+D3
+~
+~
+0 0 26455
+S
+#26460
+The twisted throne room~
+A large, twisted throne rests in the center of this large chamber, its dark
+black surface glowing with a malignant light. Loud screams echo through
+this chamber as various horrid images form and reform in various places.
+It seems that everytime one of the screams pierces the air, the throne glows
+brighter, as if it is feeding off the present horror.
+~
+0 1056776 0
+D1
+~
+~
+0 0 26461
+D2
+ ~
+0 0 26459
+S
+#26462
+The quiet beach~
+You find yourself on an endless white beach. Its bleached sand ends at a deep
+ocean of azure. Small waves gently lap at the shoreline, washing small tufts
+of seaweed onto the sand. The water takes an orange hue on the horizon,
+where the sun can be seen making its decent. The smell of salt is thick in
+the air as it blows in on a warm breeze. As you look out on the beach, it
+almost seems as if the ocean is calling to you.
+~
+0 1056776 0
+D0
+~
+~
+0 0 26457
+S
+#26463
+The benevolent throne~
+Blinding light warms the smooth, white walls of this large chamber. A large
+ivory throne, glowing with a soothing light, is neatly placed in the center
+of the tiled floor. It seems to pulsate with energy and benevolence. Waves
+of calmness and serenity assail you as you near it.
+~
+0 1056776 0
+D1
+~
+~
+0 0 26462
+D3
+~
+~
+0 0 26464
+S
+#26464
+Sweet dreams~
+Warmth radiates against your face as you enter this brightly lit chamber. A
+strong feeling of peace and calmness fills your senses. All the light and
+heat seems to be generated by a gigantic quartz crystal centered in the middle
+of the room. Brightly painted tiles cover both the walls and floors, creating
+a fantastic mural of color and reflection.
+~
+0 1056776 0
+D1
+~
+~
+0 0 26463
+S
+#26465
+Unyielding darkness~
+The darkness consumes you, stealing your breath and crushing you under its
+weight. Although seemingly dangerous, this darkness radiates a wave of
+calmness and serenity, almost peaceful in nature.
+~
+0 1056777 0
+D0
+~
+~
+0 0 26458
+D2
+~
+~
+0 0 26466
+S
+#26466
+The chamber of oblivion~
+This shapeless void is completely barren and absent of light. As you watch,
+it seems to waiver and collapse in on itself. A loud crack of noise similiar
+to thunder echoes about you, temporarily stunning you. When your senses clear,
+you find yourself floating in a sea of nothing.
+~
+0 1056777 0
+D0
+~
+~
+0 0 26465
+S
+#26467
+The dream vortex~
+Large crystal chandeliers cast their hypnotic light across the smooth walls
+of this small, stone chamber. The room begins to waiver as the walls suddenly
+begin to sag and melt, leaving large puddles of dream aether on the tiled
+floor. They slowly bein to creep towards the center of the floor, taking with
+them the tiles and even the stone beneath them. The ceiling sways and slowly
+sags in the center as it folds inwards on itself, forming another mass of
+aether. It slowly congeals itself and moves towards the other puddle that is
+now rising to meet it. The two puddles begin to swirl about each other slowly,
+rapidly gaining intensity until a virtual vortex of swirling aether is created.
+You begin to feel yourself being drawn in towards the vortex. The only means
+of escape is to the south.
+~
+0 1056776 0
+D2
+~
+~
+0 0 26456
+S
+#26468
+The audience chamber~
+A plush red carpet runs through the center of this gigantic chamber, ending
+at a huge throne that is seemingly cut from one huge piece of dream crystal.
+Unlike most of the keep, illumination here is provided by several large 
+torches, hanging from sconces high overhead on the vaulted ceiling. The air
+is noticably warm, causing perspiration to form at the edges of your brow.
+Fantastic murals adorn every wall, seperated by several ornate stained glass
+hangings. Torch light, reflected and refracted by the hangings, causes a
+myriad of bright colors to splay across the tiled floor. A large curtain
+covers the northern wall and a darkened exit is to the south.
+~
+0 1056776 0
+D0
+~
+curtain~
+1 0 26469
+D2
+~
+~
+0 0 26467
+S
+#26469
+The dream chamber~
+Half formed dreams swirl through the sparkling mist filling the air of this
+vaulted chamber. Frescoes and murals adorn the walls depiciting both wonders
+and horrors of unimaginable magnitude. The mist is eerily illuminated by
+large torches suspended in bronze sconces, hanging high above on the walls.
+Even the tiled floor of this chambers is painted with scenes from various
+dreams.
+~
+0 1056776 0
+D0
+~
+~
+0 0 26471
+D1
+~
+~
+0 0 26470
+D2
+~
+curtain~
+1 0 26468
+D3
+~
+~
+0 0 26472
+S
+#26470
+The Lord's study~
+Flickering torchlight casts its illumination over this small study. Resting
+on the thick carpeting, against the far wall, a large desk is facing towards
+the entryway. Situated behind it is a large, comfortable looking chair.
+Hanging between the fantastic murals on the stonewalls are several large
+and finely crafted paintings that depict various images from the Dreamscape.
+~
+0 1056776 0
+E
+paintings~
+On closer examination you notice movement within the paintings. It seems that
+these "paintings" are actually viewing devices that show various places
+throughout the Dreamscape. One of these devices depicts a woman falling from
+a cliff to her death. The second shows a horrible creature that is stalking
+through a dream. The last shows a man lustily eyeing several scantily clad
+harem girls.
+ 
+~
+D3
+~
+~
+0 0 26469
+S
+#26471
+The dream crystal~
+A myriad of colors are splayed across the smooth stone walls of this chamber
+as flickering torch light is refracted by an enormous dream crystal 
+encompassing most of the room. Various flickering and waivering images can
+be seen within the surface of the stone, depicting various sleeping forms
+throughout all of discordia. barely audible, the dream crystal hums with
+an inner power, slightly vibrating the frescoed walls of the room.
+~
+0 1056776 0
+D2
+~
+~
+0 0 26469
+S
+#26472
+The ancient library~
+Magical light illuminates the ancient bookshelves lining the frescoed walls
+of this small chamber. The air is dry and free of humidity, almost as if
+the entryway provided a barrier from the elements. Thick carpet covers the
+floor, providing both a sense of comfort and luxury. This affect is added
+to by the large, plush reading chair that predominates the center of the room.
+~
+0 1056776 0
+D1
+~
+~
+0 0 26469
+S
+#26473
+A long hallway~
+Sounds of joyous laughter and loud conversation echo through this long
+hallway. Illumination ,provided by magical lights, shine off the well
+polished tile floor. Murals depicting fantastic scenes from various dreams
+decorate the walls.
+~
+0 1056776 0
+D1
+~
+~
+0 0 26449
+D3
+~
+~
+0 0 26474
+S
+#26474
+The southern market~
+You are standing on the southern market square, the beginning of the widely
+reknown Dream Keep market. To the south is the well known Twilight Cafe.
+You can hear loud conversation and laughter coming from within. To the west
+is the luxurious Inn of Fabulous Dreams. The market continues on to the north.
+~
+0 1056776 0
+D0
+~
+~
+0 0 26475
+D1
+~
+~
+0 0 26473
+D2
+~
+~
+0 0 26481
+D3
+~
+~
+0 0 26483
+S
+#26475
+The central market~
+This is the center of the well known Dream Keep market. To the west is the
+keep's planar travel center and to the east, the entrance to a small guard
+shack can be seen. The market continues on to the north and south.
+~
+0 1056776 0
+D0
+~
+~
+0 0 26476
+D1
+~
+~
+0 0 26491
+D2
+~
+~
+0 0 26474
+D3
+~
+~
+0 0 26482
+S
+#26476
+The northern market~
+You are standing on the northern portion of the widely reknown Dream Keep
+market. To the east and north, the loud sounds of metal crashing against
+metal can be heard, echoing across the market. Armando's Life Savers, a well
+known armoury lies to the east, and the Keep's weapon shop lies to the north.
+This probably accounts for the loud banging. To the west is the traders shop,
+and to the south, the market continues on.
+~
+0 1056776 0
+D0
+~
+~
+0 0 26477
+D1
+~
+~
+0 0 26478
+D2
+~
+~
+0 0 26475
+D3
+~
+~
+0 0 26480
+S
+#26477
+Jebadiah's Fine Weaponry~
+You are in a large room that displays various weapons of excellent 
+craftmanship and material. It is apparent that they were forged by someone
+of both great skill and style. Hefting a sword for you to examine, Jebadiah
+approaches you from behind the counter. The loud sounds of metal on metal can
+be heard banging from the east.
+~
+0 1056776 0
+D1
+~
+~
+0 0 26479
+D2
+~
+~
+0 0 26476
+S
+#26478
+Armando's Life Savers~
+This is the armory of Dream Keep, known for having one of the finest armorers
+in all the planes. Suits of armor hang from several hooks on the walls, they
+appear to be quite sturdy and well made of the finest materials. Armando
+smiles at your approach and suggests you take a look at his wares. Loud
+banging and heat emanate from the north.
+~
+0 1056776 0
+D0
+~
+~
+0 0 26479
+D3
+~
+~
+0 0 26476
+S
+#26479
+The forge~
+The loud din of crashing metal and waves of extreme heat assault you as you
+enter this room. A large brazier burns in the center of this room, its smoke
+being ventilated through a small shaft in the ceiling. A large barrel of
+water is between the fire and a large, iron anvil. Several stacks of raw
+material are located against the eastern wall.
+~
+0 1056776 0
+D2
+~
+~
+0 0 26478
+D3
+~
+~
+0 0 26477
+S
+#26480
+Trader Jaque's~
+Large boxes and crates are scattered haphazardly about this large room.
+Several large skins of an unknown type hang from its walls, intermingled
+between shelves containing an odd assortment of items. The smell of spice
+permeates the air and several bottles of such can be seen on a large shelf
+on the eastern wall. A large sign hangs on the back wall. It reads:
+"Welcome to Trader Jaque's".
+~
+0 1056776 0
+D1
+~
+~
+0 0 26476
+S
+#26481
+The Twilight Cafe~
+A large mural of a nearly set sun covers the entire western wall of this 
+small cafe. It casts its twilight across the room, causing long shadows to
+dance on the carpeted floor from the tables and chairs situated about. Small
+stars can be seen making their first appearance on the ceiling, twinkling
+between large, purple clouds. Soft music, from an unknown source, plays
+a hauntingly beautiful tune in the background.
+~
+0 1056776 0
+D0
+~
+~
+0 0 26474
+S
+#26482
+The Portal~
+This small room is completely barren with the exception of the red carpet,
+a light globe, and a large portal. The surface of the portal shimmers,
+almost as if beckoning you to enter it.
+~
+0 1056776 0
+D1
+~
+~
+0 0 26475
+S
+#26483
+The Inn of Fabulous Dreams~
+You enter a very busy and lavishly furnished inn. Adventurers and explorers
+from all over Discordia, along with many local patrons, talk and laugh
+loudly. Although the inn is crowded, several empty tables can be made out in
+the common room to the west. The exit back to the market is to the east.
+~
+0 1056776 0
+D1
+~
+~
+0 0 26474
+D3
+~
+~
+0 0 26484
+S
+#26484
+The Common Room~
+This portion of the inn is dimly lit and less crowded. A few empty tables
+can be made out near the back wall were a spiral staircase can be seen,
+winding its way up to the second floor. Boisturous laughter and conversation
+can be heard from the east over the soft music of a minstrel. The air smells
+faintly of perfume intermixed with cigar smoke.
+~
+0 1056776 0
+D1
+~
+~
+0 0 26483
+D4
+~
+~
+0 0 26485
+S
+#26485
+The landing~
+This is the landing to the spiral staricase that leads down into the common
+room. Laughter and music can faintly be heard coming from below. Doors lie to
+the north and south, obviously rooms for some of the inn's patrons. A dimly lit
+hallway runs a few meters to the east, where more doors can be seen.
+~
+0 1056776 0
+D0
+~
+~
+1 0 26487
+D1
+~
+~
+0 0 26486
+D2
+~
+~
+1 0 26488
+D5
+~
+~
+0 0 26484
+S
+#26486
+End of the Hallway~
+You have come to the end of the hallway. Doors to guest rooms are to the
+north and south. A spiral staircase and a couple of doors can be spied through
+the dim illumination to the west. 
+~
+0 1056776 0
+D0
+~
+~
+1 0 26489
+D2
+~
+~
+1 0 26490
+D3
+~
+~
+0 0 26485
+S
+#26487
+Guest room~
+This small guest room is unoccupied at the moment. A small, yet comfortable
+looking down bed rests in the center of the room. It appears to be neatly
+made. Only the skilled touch of an experienced maid could get sheets so
+taught. A small globe of light hangs suspended in the middle of the ceiling,
+covered by a wool cover, completely blocking out its light.
+~
+0 1056777 0
+D2
+~
+~
+1 0 26485
+S
+#26488
+Guest room~
+You enter this small guest room, only to find it in utter disarray. The sheets
+of the down bed have been stripped and lie strwen about the room. A half eaten
+tray off food lies on the floor upside down, its contents spilled and ground
+into the thick carpet. The room is brightly lit by a small globe of light
+hanging in the center of the ceiling. You notice its wool cover lying
+crumbled in the corner.
+~
+0 1056776 0
+D0
+~
+~
+1 0 26485
+S
+#26489
+Guest room~
+You find yourself in a large guest room. The sheer luxury and size of the bed
+makes it apparent that this is perhaps the finest room the inn has to offer.
+A large down bed has been placed in the center of the room, its sheets and
+covers tossed back. A linen robe, stiched with the inn's emblem lies across
+a plush chair against the western wall.
+~
+0 1056777 0
+D2
+~
+~
+1 0 26486
+S
+#26490
+Guest room~
+This small guest room is unoccupied at the moment. A small, yet comfortable
+look down bed rests in the center of the room. It appears to be neatly made.
+Only the skilled touch of an experienced made could get sheets so taught. A
+small globe of light hangs suspended from the ceiling, covered by a black
+wool cover.
+~
+0 1056777 0
+D0
+~
+~
+1 0 26486
+S
+#26491
+Guard shack~
+This small guard shack offers a wide view of the market. Occasionaly a patrol
+wanders into the shack as they are making their rounds, giving an all clear.
+Several whetstones and tubes of oil used to maintain armor and weapons are
+scattered about.
+~
+0 1056776 0
+D3
+~
+~
+0 0 26475
+S
+#26492
+Long hallway~
+Unlike most of the keep, this long hallway is lit be several torches hanging
+from sconces on the wall. No carpet or tile covers the floor, just rough, bare
+stone. The hallway continues to the east and the castle proper is to the
+west.
+~
+0 1056776 0
+D1
+~
+~
+0 0 26493
+D3
+~
+~
+0 0 26449
+S
+#26493
+The hallway~
+Torchlight flickers on the stone walls of this long hallway. It is completely
+barren with the exception of some small scratches on the northern wall. The
+hallway continues on to the east and west.
+~
+0 1056776 0
+D0
+~
+wall~
+1 0 26498
+D1
+~
+~
+0 0 26494
+D3
+~
+~
+0 0 26492
+S
+#26494
+The hallway~
+Faint light cast from the torches above, flicker through this long hallway.
+The rough stone walls and floor seem to have seen heavy use. To the east and
+west, the hall winds on.
+~
+0 1056776 0
+D1
+~
+~
+0 0 26495
+D3
+~
+~
+0 0 26493
+S
+#26495
+A turn in the hall~
+The hall takes a turn here. To the north, a large stariway can be seen and to
+the west, the long hallway stretches on. Unlike the rest of the hall, a large
+silver mirror hangs on the wall.
+~
+0 1056776 0
+E
+mirror~
+You look in the mirror and see a horrid image....wait a minute! Its you.
+~
+D0
+~
+~
+0 0 26496
+D3
+~
+~
+0 0 26494
+S
+#26496
+The stairway~
+A large circular stairway predominates this portion of the hall. It winds
+upwards farther than your eye can see. To the south, a large mirror can
+be seen hanging on the wall where it turns to the west. Several torches
+line the walls and you notice the stairway above is lined with globes
+of light. The ground is well worn, as if by years of heavy use.
+~
+0 1056776 0
+D2
+~
+~
+0 0 26495
+D4
+~
+~
+0 0 26497
+S
+#26497
+The endless stair~
+This endless stairway winds up for what seems like an eternity. From high
+above you can barely make out movement and what sounds like faint footsteps.
+The stairway is well lit by small globes that emit magical light.
+~
+0 1056776 0
+D4
+~
+~
+0 0 26497
+D5
+~
+~
+0 0 26496
+S
+#26498
+The secret passage~
+This small passageway leads to the north. It is faintly lit by a small globe
+of light, partially covered with black cloth. The stone walls here are
+damp and the air is musty. Several cobwebs hang from the ceiling.
+~
+0 1056776 0
+D0
+~
+~
+0 0 26499
+D2
+~
+wall~
+1 0 26493
+S
+#26499
+Behind the arrow slits~
+The secret passageway terminates here were several arrow slits are cut into
+the wall. looking through the slits, you can view the entrance passage into
+the keep. Cobwebs hang from the ceiling here, almost completely blocking
+off the passage in some spots. an old, dust covered barrel lies in the corner,
+smelling faintly of oil.
+~
+0 1056776 0
+D2
+~
+~
+0 0 26498
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 26401 spec_cast_mage Load to: the sandman
+M 26402 spec_cast_mage Load to: a bad dream
+M 26403 spec_cast_cleric Load to: a good dream
+M 26404 spec_cast_mage Load to: a nightmare
+M 26405 spec_cast_mage Load to: a sweet dream
+M 26412 spec_cast_mage Load to: an old sage
+M 26413 spec_cast_mage Load to: a young scribe
+M 26415 spec_breath_any Load to: a dream guardian
+M 26416 spec_cast_cleric Load to: a ghostly druid
+M 26420 spec_cast_mage Load to: a half-formed nightmare
+M 26421 spec_cast_cleric Load to: a pleasant dream
+M 26428 spec_breath_frost Load to: a drowning woman
+M 26431 spec_breath_frost Load to: an ice flow
+M 26432 spec_fido Load to: a gluttonous halfling
+M 26434 spec_cast_undead Load to: a dreamstalker
+M 26435 spec_breath_fire Load to: a raging inferno
+M 26436 spec_cast_mage Load to: a wizened explorer
+M 26439 spec_breath_lightning Load to: an invisible stalker
+M 26460 spec_cast_mage Load to: the Lord of Nightmares
+M 26463 spec_cast_cleric Load to: the Lord of Benevolence
+M 26466 spec_cast_mage Load to: the lord of oblivion
+M 26467 spec_cast_mage Load to: Azahael
+M 26468 spec_cast_mage Load to: the Lord of Dreams
+M 26483 spec_cast_mage Load to: a minstrel
+S
+
+
+
+#RESETS
+D 0 26419 2 2
+D 0 26439 0 0
+D 0 26441 0 2
+D 0 26441 2 2
+D 0 26442 0 2
+D 0 26442 2 2
+D 0 26445 0 2
+D 0 26446 1 0
+D 0 26446 2 0
+D 0 26446 3 0
+D 0 26447 3 0
+D 0 26448 1 0
+D 0 26449 0 0
+D 0 26451 2 0
+D 0 26452 0 0
+D 0 26452 2 0
+D 0 26453 0 0
+D 0 26468 0 0
+D 0 26469 2 0
+D 0 26485 0 0
+D 0 26485 2 0
+D 0 26486 0 0
+D 0 26486 2 0
+D 0 26487 2 0
+D 0 26488 0 0
+D 0 26489 2 0
+D 0 26490 0 0
+D 0 26493 0 0
+D 0 26498 2 0
+O 0 26412 0 26400
+O 0 26421 0 26400
+O 0 26430 0 26400
+P 0 26439 0 26430
+P 0 26439 0 26430
+P 0 26440 0 26430
+P 0 26439 0 26430
+P 0 26439 0 26430
+P 0 26439 0 26430
+P 0 26439 0 26430
+M 0 26400 1 26400
+G 0 26400 0
+M 0 26401 8 26401
+E 0 26401 0 17
+P 0 26402 0 26401
+M 0 26401 8 26403
+M 0 26401 8 26405
+E 0 26401 0 17
+P 0 26402 0 26401
+M 0 26401 8 26407
+M 0 26401 8 26409
+E 0 26401 0 17
+P 0 26402 0 26401
+E 0 26410 0 12
+O 0 26411 0 26410
+M 0 26403 15 26412
+M 0 26402 15 26412
+M 0 26404 5 26412
+M 0 26405 5 26412
+M 0 26402 15 26413
+M 0 26403 15 26413
+M 0 26404 5 26413
+M 0 26405 5 26413
+M 0 26402 15 26414
+M 0 26403 15 26414
+M 0 26404 5 26414
+M 0 26405 5 26414
+M 0 26402 15 26415
+M 0 26403 15 26415
+M 0 26404 5 26415
+M 0 26405 5 26415
+M 0 26416 1 26416
+O 0 26477 0 26417
+O 0 26476 0 26417
+M 0 26403 15 26417
+M 0 26417 3 26417
+M 0 26418 1 26417
+E 0 26418 0 2
+G 0 26417 0
+M 0 26402 15 26418
+M 0 26403 15 26418
+M 0 26404 5 26418
+M 0 26405 5 26418
+M 0 26403 15 26419
+M 0 26402 15 26419
+M 0 26404 5 26419
+M 0 26405 5 26419
+M 0 26402 15 26420
+M 0 26403 15 26420
+M 0 26404 5 26420
+M 0 26405 5 26420
+M 0 26402 15 26423
+M 0 26403 15 26423
+M 0 26404 5 26423
+M 0 26405 5 26423
+M 0 26426 1 26426
+E 0 26427 0 5
+M 0 26428 1 26428
+E 0 26428 0 8
+O 0 26411 0 26431
+M 0 26431 1 26431
+G 0 26431 0
+O 0 26408 0 26432
+P 0 26406 0 26408
+P 0 26409 0 26408
+P 0 26404 0 26408
+P 0 26403 0 26408
+M 0 26433 1 26432
+E 0 26432 0 16
+E 0 26405 0 3
+G 0 26407 0
+M 0 26402 15 26432
+M 0 26403 15 26432
+M 0 26404 5 26432
+M 0 26405 5 26432
+O 0 26426 0 26433
+P 0 26434 0 26426
+P 0 26425 0 26426
+P 0 26429 0 26426
+M 0 26432 1 26433
+E 0 26433 0 16
+E 0 26425 0 17
+M 0 26434 1 26434
+M 0 26402 15 26434
+M 0 26403 15 26434
+M 0 26405 5 26434
+M 0 26404 5 26434
+M 0 26435 1 26435
+M 0 26402 15 26435
+M 0 26403 15 26435
+M 0 26404 5 26435
+M 0 26405 5 26435
+M 0 26402 15 26436
+M 0 26403 15 26436
+M 0 26405 5 26436
+M 0 26404 5 26436
+M 0 26437 2 26437
+E 0 26437 0 16
+M 0 26436 1 26437
+E 0 26436 0 16
+E 0 26435 0 17
+O 0 26438 0 26438
+O 0 26414 0 26439
+P 0 26415 0 26414
+O 0 26413 0 26439
+P 0 26416 0 26413
+P 0 26422 0 26413
+P 0 26423 0 26413
+P 0 26424 0 26413
+M 0 26439 1 26439
+O 0 26420 0 26440
+M 0 26406 2 26442
+E 0 26441 0 5
+E 0 26442 0 11
+E 0 26443 0 16
+M 0 26407 2 26446
+E 0 26441 0 5
+E 0 26442 0 11
+E 0 26444 0 16
+O 0 26445 0 26447
+O 0 26449 0 26447
+P 0 26443 0 26449
+P 0 26444 0 26449
+P 0 26441 0 26449
+M 0 26409 2 26447
+O 0 26445 0 26448
+P 0 26446 0 26445
+P 0 26447 0 26445
+P 0 26448 0 26445
+O 0 26449 0 26448
+P 0 26442 0 26449
+P 0 26441 0 26449
+M 0 26408 2 26448
+E 0 26441 0 5
+E 0 26442 0 11
+E 0 26443 0 16
+O 0 26450 0 26449
+O 0 26451 0 26449
+O 0 26452 0 26449
+O 0 26453 0 26449
+M 0 26411 1 26449
+M 0 26412 1 26449
+E 0 26454 0 12
+E 0 26455 0 16
+E 0 26456 0 17
+O 0 26452 0 26450
+O 0 26457 0 26450
+O 0 26452 0 26451
+O 0 26451 0 26451
+O 0 26458 0 26451
+O 0 26460 0 26451
+P 0 26463 0 26460
+P 0 26462 0 26460
+M 0 26413 1 26451
+E 0 26461 0 16
+G 0 26459 0
+M 0 26414 2 26451
+E 0 26441 0 5
+E 0 26444 0 16
+O 0 26452 0 26452
+O 0 264464 0 26452
+O 0 26465 0 26452
+M 0 26415 1 26454
+O 0 26466 0 26458
+O 0 26468 0 26459
+O 0 26470 0 26460
+M 0 26460 1 26460
+E 0 26469 0 16
+O 0 26471 0 26461
+M 0 26420 2 26461
+O 0 26472 0 26462
+O 0 26473 0 26463
+M 0 26463 1 26463
+E 0 26474 0 16
+O 0 26475 0 264464
+M 0 26421 2 264464
+M 0 26419 2 26465
+M 0 26466 1 26466
+E 0 26467 0 16
+O 0 26478 0 26467
+M 0 26468 1 26468
+E 0 26480 0 16
+E 0 26482 0 2
+E 0 26481 0 13
+O 0 26479 0 26468
+M 0 26467 1 26468
+E 0 26483 0 5
+E 0 26484 0 16
+E 0 26485 0 8
+O 0 26451 0 26470
+O 0 26458 0 26470
+O 0 26493 0 26470
+O 0 26492 0 26470
+O 0 26491 0 26470
+O 0 26490 0 26470
+P 0 26494 0 26493
+P 0 26495 0 26493
+O 0 26486 0 26471
+O 0 26489 0 26472
+P 0 26487 0 26489
+O 0 26451 0 26472
+O 0 26488 0 26472
+M 0 26475 2 26475
+E 0 26444 0 16
+E 0 26441 0 5
+E 0 26442 0 11
+M 0 26476 3 26476
+M 0 26477 1 26477
+G 0 26496 0
+G 0 26443 0
+G 0 26444 0
+G 0 26497 0
+M 0 26478 1 26478
+G 0 26442 0
+G 0 26441 0
+G 0 26499 0
+G 0 26498 0
+M 0 26480 1 26480
+M 0 26482 1 26481
+G 0 26439 0
+O 0 26438 0 26482
+M 0 26483 1 26483
+M 0 26488 1 26488
+M 0 26489 1 26489
+M 0 26491 2 26491
+E 0 26497 0 16
+E 0 26499 0 6
+E 0 26441 0 5
+E 0 26442 0 11
+S
+
+
+
+#SHOPS
+26477 5 0 0 0 0 100 60 7 17
+26478 0 9 0 0 0 120 80 7 17
+26480 10 8 2 11 13 120 60 8 16
+26482 0 19 0 0 0 100 100 17 23
+0
+
+
+
+#$

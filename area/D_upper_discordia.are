@@ -1,0 +1,4729 @@
+#AREADATA
+Name { ALL } RODCo   Upper Discordia~
+Builders Sighel Audrina Brysaar~
+VNUMs 3000 3399
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#3000
+town crier~
+a town crier~
+A town crier is here, advertising the shops of Discordia. ({CLOOK CRIER{x).
+~
+A young boy is here crying out that you can find {cGreck's Armoury{x and {cTrade 
+Your Blade{x to the east.  He is rather well kempt for his age, which seems to 
+be approximately eleven years.  His clothes are clean and neat but obviously 
+lacking refinement, looking to be homespun by a caring mother.  His brown 
+hair is messy and sticks up no matter how many times he tries to smooth it 
+down to appear more presentable.  
+~
+human~
+AB 0 0 0
+1 0 1d2+8 4d10+100 1d1+0 none
+9 9 9 10
+0 0 0 0
+(null) (null) female 4
+AHMV ABCDEFGHIJK medium unknown
+#3002
+ektor old wizened trainer healer~
+Ektor~
+Ektor stands here, waiting to pass on his knowledge.
+~
+This is one of the older healers who has dedicated his time to helping
+the advancing healers to practice the skills and spells that they learn
+throughout their travels.  
+~
+human~
+A DFHJ 1000 0
+40 0 10d98+804 40d10+100 4d7+10 none
+-5 -5 -5 -3
+0 ABQ 0 0
+(null) (null) female 180
+AHMV ABCDEFGHIJK medium unknown
+#3003
+Jamal~
+Jamal~
+Jamal smiles and greets you warmly.
+~
+The shopkeeper, Jamal, is a short portly man, with a well-tended beard
+and brilliantly white teeth.  His gold-flecked turban is comically askew and
+he is slightly sweaty from his efforts at trying to clean up the mess on the
+floor.  
+~
+human~
+ABRW 0 0 0
+60 0 11d277+1559 60d10+100 5d7+19 none
+-13 -13 -13 -11
+0 ABCDQ 0 0
+(null) (null) female 270
+AHMV ABCDEFGHIJK medium unknown
+#3004
+Kimil~
+Kimil~
+Kimil the Giant welcomes you into his store.
+~
+Kimil is enormous in height and girth, and has hands and feet to match. 
+He wears his long black hair tied back, and his bushy black eyebrows cast
+shadows over his glowering eyes.  His face is long and rather homely, but in
+spite of the fearsome looks, he appears to be non-threatening and interested
+in helping you.  
+~
+giant~
+ABRW 0 0 0
+60 0 11d277+1559 60d10+100 5d7+19 none
+-13 -13 -13 -11
+0 ABCDQ HI JP
+(null) (null) female 270
+AHMV ABCDEFGHIJK medium unknown
+#3005
+sneaking thief figure~
+the thief~
+A hooded figure dressed in black skulks nearby.
+~
+By all appearances, the hooded figure seems very skilled in the ways of
+subterfuge. As you watch the figure skulk nearby, you hear nary a sound as it
+becomes quite apparent that if you hadn't luckily caught a glimpse of it,
+you probably would still be oblivious to its presence. The thief is dressed
+from head to toe in black and from all it appearances and cat-like stealth,
+it would probably make a formidable opponent.
+~
+human~
+A PQ -500 0
+20 5 6d39+294 80d10+100 3d5+4 digestion
+2 2 2 4
+BEFJN 0 0 0
+(null) (null) none 90
+AHMV ABCDEFGHIJK medium unknown
+#3006
+Tortu bartender~
+Tortu~
+Tortu, the bartender keeps the ale flowing.
+~
+Tortu is a portly little fellow.  He once fancied himself to be a warrior
+but the scars on his face suggest that he should have spent more time on his
+equipment.  He wandered into the guild one day after a severe beating hoping
+only to get drunk and forget the pain and humiliation.  After being
+ridiculed mercilessly he threw off his sub-issue armor and stayed to tend
+bar.  
+~
+unique~
+ABRW J 0 0
+90 0 12d991+3214 360d10+100 5d11+28 none
+-25 -25 -25 -23
+0 ABCLQ CLQ R
+(null) (null) female 405
+AHMV ABCDEFGHIJK medium unknown
+#3007
+guildmaster warrior~
+a guildmaster warrior~
+The warrior guildmaster is here to help you practice.
+~
+This tall haitorin warrior has seen his share of battles and is one of
+the few who has perfected his craft.  He hasn't been slowed by age but finds
+himself bored with adventuring.  There are few challenges for a warrior of
+his caliber.  When the old guildmaster died he took over the duties of
+helping younger warriors practice their craft.  
+~
+unique~
+ABK HVZ 0 0
+90 0 12d991+3214 360d10+100 5d11+28 none
+-25 -25 -25 -23
+H ABCLQ BP H
+(null) (null) female 405
+ACGHMV ABCDEFGHIJKMQUV medium unknown
+#3008
+tamaril~
+Tamril~
+Tamaril is waiting for you order.
+~
+Long and sleek, this tervadi is one to be reckoned with, even at his old age.
+Reputed to be one of the greatest spell casters known to his race, he has
+recently thrown magic to the wind and decided to retire here. He shoots you
+a winning smile and asks to take your order.
+~
+unique~
+ABRW T 1000 0
+90 20 12d991+3214 360d10+100 5d11+28 divine
+-25 -25 -25 -23
+0 ACDQ B LZ
+(null) (null) male 405
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#3009
+Rhonda~
+Rhonda~
+Rhonda is here to facilitate your relaxation.
+~
+Rhonda is a young cleric hired by the warriors guild to assist those
+warriors who need a hot bath and a few soothing words.  She is slight of
+build with a pretty face.  Many a warrior has gone from here feeling better
+after having just been in her presence.  
+~
+unique~
+AB 0 0 0
+50 0 10d167+1149 50d10+100 5d6+13 none
+-9 -9 -9 -7
+0 ABQ 0 0
+(null) (null) either 225
+ACGHMV ABCDEFGHIJKMQUV medium unknown
+#3010
+retired adventurer~
+a retired adventurer~
+A retired adventurer is here boasting to a mage.
+~
+This grizzled old warrior has a deep scowl upon his scar covered face. 
+He is dressed in smelly black clothing, covered with old vomit and urine
+stains.  It is is obvious that he is well beyond his prime and has fallen
+into the curse of alcoholism.  He slurs as he berates a young mage sitting
+next to him.  
+~
+human~
+A 0 -400 0
+20 7 6d39+294 80d10+100 3d5+4 digestion
+2 2 2 4
+CFI 0 0 0
+(null) (null) female 90
+AHMV ABCDEFGHIJK medium unknown
+#3011
+Hassan~
+Hassan~
+Hassan is here, waiting to dispense some justice.
+~
+Big. Very big.
+Stupid. Very stupid.
+
+Hassan, the guardian of Rivers of Mud, towers over you.  He's over 12 feet
+tall, every inch of it muscle. It would be a Bad Thing to commit a crime
+in his presence.
+~
+giant~
+A CDFJZ 1000 0
+100 30 12d1397+3920 100d10+100 6d11+29 blast
+-35 -35 -35 -27
+ACDEFHIKLNOT ABP CDHI JP
+(null) (null) female 450
+AHMV ABCDEFGHIJK huge unknown
+#3012
+fisherman man~
+an old fisherman~
+An old fisherman scowls at you as you walk out onto the pier.
+~
+Obviously very upset by your appearance on the pier, this grizzled old
+fisherman is scowling at you. He is wearing blood and fish gut stained
+overalls and knee high wading boots. Upon his head is a large wide-brimmed
+hat that serves it purpose to keep the sun off of his weathered and wrinkled
+face.
+~
+human~
+AB 0 -400 0
+8 1 2d19+93 32d10+100 2d3+1 digestion
+7 7 7 7
+N 0 0 0
+(null) (null) female 36
+AHMV ABCDEFGHIJK medium unknown
+#3013
+captain mikail~
+Captain Mikail~
+Captain Mikail is sitting at the desk going over paperwork.
+~
+Captain Mikail is in charge of the guard for this sector of the city.  He
+is well built from many long years as a member of the guard.  Roughly six
+feet tall and about two hundred and fifty pounds, his figure is an imposing
+one indeed.  He looks up from his work and smiles at you.  
+~
+human~
+ABd 0 1000 0
+20 3 6d39+294 20d10+100 3d5+4 digestion
+2 2 2 4
+FIQT 0 0 0
+(null) (null) female 90
+AHMV ABCDEFGHIJK medium unknown
+#3014
+red plume guard~
+a red plume guard~
+A red plume guard is here protecting the streets.
+~
+Dressed in glittering armor, this guard is a sight to behold.  As a
+member of the fabled Red Plume Guard, this one is not to be trifled with for
+sure.  The guard smiles at you as you pass and gives you a warm greeting.  
+~
+human~
+ABd 0 1000 0
+12 1 4d26+151 12d10+100 2d4+0 digestion
+5 5 5 7
+FIU 0 0 0
+(null) (null) none 54
+AHMV ABCDEFGHIJK medium unknown
+#3015
+weary adventurer haitorin~
+a weary adventurer~
+A weary haitorin adventurer growls at you as you pass by.
+~
+This weary haitorin is road worn and seems to have fallen on bad times. He
+shoots a menacing growl at you as you pass by and greedily eyes your coin
+purse. He is dressed in tattered clothing and bears the scars of numerous
+battles.
+~
+unique~
+A VZ -1000 0
+8 1 2d19+93 8d10+100 2d3+1 slash
+7 7 7 7
+H 0 P H
+(null) (null) female 36
+ACGHMV ABCDEFGHIJKMQUV medium unknown
+#3016
+elven warrior~
+an elven warrior~
+A stunningly beautiful warrior smiles at you as she strolls down the road.
+~
+Her large green eyes and winsome smile, framed by her long golden tresses,
+gives this young elven warrior a unique beauty. Although appearances can
+be deceiving, something about her seemingly thin and weak figure betrays
+her ability. Perhaps it is the cat-like bounce in her step or the way she
+seems to be completely aware of her surroundings, regardless she is not
+one to be trifled with.
+~
+unique~
+A J 1000 0
+11 2 3d25+135 44d10+100 2d3+3 digestion
+5 5 5 6
+0 0 B Z
+(null) (null) either 49
+AHMV ABCDEFGHIJK medium unknown
+#3017
+young elven mage elf~
+a young mage~
+A young elven mage is here, listening intently.
+~
+On closer examination it is quite evident that she is not really listening
+at all. It as if she is trying to humor the person she is in conversation with
+to keep him at bay. She is young for an elf, barely a whelp, yet she possesses
+an aura of considerable power.
+~
+unique~
+A J 1000 0
+16 1 5d33+218 64d10+100 2d4+2 digestion
+3 3 3 6
+0 0 B Z
+(null) (null) either 72
+AHMV ABCDEFGHIJK medium unknown
+#3018
+middle aged man~
+Justin~
+A middle aged man is bent over throwing knucklebones against the wall.
+~
+This middle aged man is well dressed for someone who is hanging out in an
+alley. He busily throws knucklebones against the wall of the building 
+bordering the alley. As he senses your approach, he looks up and smiles.
+He says, "Would you like to join me in an honest game of knucklebones?"
+~
+human~
+A 0 -200 0
+10 10 3d23+120 10d10+100 2d3+2 none
+6 6 6 6
+0 ABCDQ 0 0
+(null) (null) female 45
+AHMV ABCDEFGHIJK medium unknown
+#3019
+thief~
+a powerful thief~
+A nimble thief clad in black disappears into the shadows.
+~
+You catch a glimpse of this thin thief as it disappears into some nearby
+shadows.  From the way it moved, it is very obvious that this is a being of
+extreme experience and power.  
+~
+unique~
+A JPQ -800 0
+60 12 11d277+1559 240d10+100 5d7+19 digestion
+-13 -13 -13 -11
+BFHIJ 0 B Z
+(null) (null) none 270
+AHMV ABCDEFGHIJK medium unknown
+#3020
+alchemist master~
+the master alchemist~
+The master alchemist is tooling over some lab equipment.
+~
+The master alchemist appears old and tired.  You can clearly see the vast
+amount of skill and knowledge she possesses.  She is wearing a fine blue
+robe that glows with a blue aura.  She turns at your approach and beckons
+you over to a lab table to practice.  
+~
+unique~
+AB DEFHJZ 1000 0
+36 0 10d80+683 36d10+100 4d6+9 slap
+-4 -4 -4 -2
+FG ABCD B Z
+(null) (null) either 162
+AHMV ABCDEFGHIJK medium unknown
+#3021
+guildmaster master~
+the guildmaster~
+Your guildmaster is standing here.
+~
+You are in no doubt that this guildmaster is truly close to your god; he has
+a peaceful, loving look. You notice that he is surrounded by a white aura.
+~
+human~
+ABJK CDEFHZ 1000 0
+36 0 10d80+683 36d10+100 4d6+9 punch
+-4 -4 -4 -2
+EFHIK ABCD 0 0
+(null) (null) female 162
+AHMV ABCDEFGHIJK medium unknown
+#3022
+guildmaster master~
+the guildmaster~
+Your guildmaster is standing here.
+~
+You realize that whenever your guildmaster moves, you fail to notice it:
+the way of the true thief.  She is dressed in poor clothing, having the
+appearance of a beggar.  
+~
+human~
+A DFZ 1000 0
+36 0 10d80+683 36d10+100 4d6+9 digestion
+-4 -4 -4 -2
+BEFHJN ABCD 0 0
+(null) (null) either 162
+AHMV ABCDEFGHIJK medium unknown
+#3023
+guildmaster master~
+the guildmaster~
+Your guildmaster is standing here.
+~
+This is your master. A short, strong dwarf with bulging muscles.  Several scars
+across his body prove that he was using arms before you were born.  He
+has a calm look on his face.
+~
+unique~
+A DFJ 1000 0
+36 0 10d80+683 36d10+100 4d6+9 bite
+-4 -4 -4 -2
+ACDEIK ABCD CLQ R
+(null) (null) female 162
+AHMV ABCDEFGHIJK medium unknown
+#3024
+sorcerer guard~
+a sorcerer guard~
+A sorcerer is guarding the entrance.
+~
+He is an experienced mage who has specialized in the field of Combat Magic.
+He is here to guard the Mage's Guild and his superior knowledge of offensive
+as well as defensive spells make him a deadly opponent.
+~
+unique~
+ABd BDJ 0 0
+30 5 10d60+520 120d10+100 3d6+8 slap
+-1 -1 -1 0
+AEG AB B Z
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#3025
+templar~
+the knight templar~
+A knight templar is guarding the entrance.
+~
+He is a specially trained warrior belonging to the military order of the Faith.
+His duty is to protect the faithful from persecution and infidel attacks and
+his religious devotion combined with his superior skill makes him a deadly
+opponent.
+~
+human~
+AB DJ 800 0
+30 5 10d60+520 30d10+100 3d6+8 punch
+-1 -1 -1 0
+DEIK AB CD 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#3026
+assassin~
+the assassin~
+An assassin is guarding the entrance.
+~
+He is a thief who has specialized in killing others as effectively as possible,
+using all sorts of weapons.  His superior knowledge of how and where to use
+them combined with his extraordinary stealth makes him a deadly opponent.
+~
+human~
+A DFPQ -800 0
+30 8 10d60+520 120d10+100 3d6+8 digestion
+-1 -1 -1 0
+BEFJN AB CD 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#3027
+knight~
+the knight~
+A knight is guarding the entrance.
+~
+He is an expert warrior who has attained knighthood through countless
+chivalrous deeds.  His duty is to protect the Guild of Swordsmen and his
+extreme skill combined with his experience in warfare makes him a deadly
+opponent.
+~
+human~
+AB DF 800 0
+30 10 10d60+520 30d10+100 3d6+8 digestion
+-1 -1 -1 0
+ACDEHIK AB CD 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#3029
+guildsmaster Saria~
+Saria~
+Your guildsmaster stands here, ready to teach you.
+~
+A woman, skilled in the art of thievery, has given up her wild adventures
+to teach others the knowledge she's gained in the immodest arts.  Her quick
+hands and ever darting eyes strike fear into the heart of those who cross
+her path.  
+~
+unique~
+AB J -750 0
+45 0 10d128+969 45d10+100 5d5+14 none
+-7 -7 -7 -5
+0 ABPQ B Z
+(null) (null) either 202
+AHMV ABCDEFGHIJK medium unknown
+#3040
+bartender~
+the bartender~
+A bartender watches you calmly, while he skillfully mixes a drink.
+~
+A tired looking Bartender who hates trouble in his bar.
+~
+human~
+ABRW 0 900 0
+23 0 7d44+355 23d10+100 3d5+5 bite
+1 1 1 3
+FHJN AB CD 0
+(null) (null) female 103
+AHMV ABCDEFGHIJK medium unknown
+#3041
+waiter~
+the waiter~
+A waiter is going around from one place to another.
+~
+A tired looking waiter.
+~
+human~
+A 0 900 0
+23 0 7d44+355 23d10+100 3d5+5 bite
+1 1 1 3
+FHJN AB CD 0
+(null) (null) female 103
+AHMV ABCDEFGHIJK medium unknown
+#3042
+sorcerer bartender~
+a bartender~
+A once famous sorcerer, now a bartender, happily requests your drink order.
+~
+This tall and proud tervadi was once a renown sorcerer.  Now he happily
+spends his retirement, serving the proud mages of the realm drinks.  From
+his manner and professionalism, it is quite apparent that he does quite well
+for himself.  
+~
+human~
+A D 600 0
+23 0 7d44+355 23d10+100 3d5+5 bite
+1 1 1 3
+FJN AB CD 0
+(null) (null) female 103
+AHMV ABCDEFGHIJK medium unknown
+#3043
+waiter~
+the waiter~
+A waiter who seems to have reached contact with God.
+~
+~
+human~
+A 0 600 0
+23 0 7d44+355 23d10+100 3d5+5 bite
+1 1 1 3
+FHJN AB CD 0
+(null) (null) female 103
+AHMV ABCDEFGHIJK medium unknown
+#3044
+waiter~
+the waiter~
+A waiter who knows where all his customers keep their money.
+~
+~
+human~
+A 0 600 0
+23 0 7d44+355 23d10+100 3d5+5 bite
+1 1 1 3
+FHJN AB CD 0
+(null) (null) female 103
+AHMV ABCDEFGHIJK medium unknown
+#3045
+waiter~
+the waiter~
+A waiter who easily could kill you, and still carry quite a few firebreathers.
+~
+~
+human~
+A 0 600 0
+23 0 7d44+355 23d10+100 3d5+5 bite
+1 1 1 3
+BFHJN AB CD 0
+(null) (null) female 103
+AHMV ABCDEFGHIJK medium unknown
+#3046
+guild guard~
+a guild guard~
+A loyal guard of the guild is here, maintaining the peace.
+~
+Decked in shining armor and well built, this guard does not seem to be one
+to trifle with. Charged with keeping the peace and protecting the guild,
+this guard has the full support of the city's guard force as well. You are
+greeted warmly by the guard.
+~
+human~
+AB 0 0 0
+102 4 20d2000+6000 408d10+100 20d20+50 digestion
+-75 -75 -75 -70
+IKT 0 0 0
+(null) (null) none 459
+AHMV ABCDEFGHIJK medium unknown
+#3047
+lord tharion~
+Lord Tharion~
+Lord Tharion is here, ready to pass on his knowledge.
+~
+Perhaps one of the most famous heroes in all of Discordia, Lord Tharion
+has taken up residence here to impart his knowledge and skills to the
+younger adventurer's and heroes of the land.  Long streaks of black hair
+peppered with grey frame his imposing face.  Over six feet tall and well
+surpassing two hundred and fifty pounds, he is indeed a very imposing
+figure.  It is quite obvious that he would be able to rip you from limb to
+limb at a moments notice.  Surprisingly, he shoots you a warm smile and
+invites you to practice.  
+~
+human~
+ABJK HN 0 0
+90 18 12d991+3214 90d10+100 5d11+28 peck
+-25 -25 -25 -23
+CFHIK ABQ 0 0
+(null) (null) female 405
+AHMV ABCDEFGHIJK medium unknown
+#3048
+meditation master~
+the meditation master~
+The master of meditation beckons you to become one with yourself.
+~
+Streaks of white shoot through the gray hair of this wizened old man. The
+calm serenity and seemingly agelessness in his eyes is quite disturbing
+however. It must be due to the years of practicing this fine art. He smiles
+at you from beneath his flowing white robes and beckons you to take a seat
+and begin your training.
+~
+human~
+A 0 0 0
+90 10 12d991+3214 90d10+100 5d11+28 none
+-25 -25 -25 -23
+0 ABCDQ 0 0
+(null) (null) male 405
+AHMV ABCDEFGHIJK medium unknown
+#3049
+tharin~
+Tharin the minstrel~
+Tharin the minstrel staggers nearby.
+~
+Tharin is a rather unkempt fellow and seems to like the sauce perhaps a
+bit too much.  In fact as you near him, you almost retch at the foul stench
+of sour whiskey emanating from his body.  He grins at you as he passes by.  
+~
+human~
+A 0 500 0
+30 10 10d60+520 30d10+100 3d6+8 digestion
+-1 -1 -1 0
+FIN 0 0 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#3050
+thief~
+a thief~
+You catch a momentary glimpse of a thief in the shadows.
+~
+This thief is a master amongst those of his profession.  With his
+panther-like agility and chameleon-like ability to blend into the
+surroundings, it becomes quite apparent that he is perhaps the best thief in
+the land.  
+~
+human~
+A PQ -1000 0
+95 18 12d1182+3558 95d10+100 6d10+29 digestion
+-30 -30 -30 -25
+FHIJN 0 0 0
+(null) (null) female 427
+AHMV ABCDEFGHIJK medium unknown
+#3062
+mangy dog~
+a mangy dog~
+A mangy dog is sniffing the air.
+~
+This mangy dog is appears to be a mixture of several breeds and therefore
+a mutt.  It warily peers at you out of the corner of its eye as it sniffs
+the air and ground looking for food.  The pungent odor from its body fills
+the air with a fouls smells that seems to at least be made partly up of
+rotting flesh.  
+~
+fido~
+AV 0 -200 0
+1 0 1d2+8 1d10+100 1d1+0 crush
+9 9 9 10
+FR 0 0 C
+(null) (null) none 4
+ABGV ACDEFHJKPQV small unknown
+#3063
+street sweeper~
+a street sweeper~
+A street sweeper is busy beautifying the place.
+~
+Covered in dirt and grime, the street sweeper is busy cleaning everything in
+sight. Responsible for the general appearance of town, the sweeper takes
+great pride in the performed work. You are given a broad smile as the sweeper
+notices you.
+~
+human~
+A 0 0 0
+3 0 1d7+30 3d10+100 1d2+0 none
+9 9 9 9
+N 0 0 0
+(null) (null) none 13
+AHMV ABCDEFGHIJK medium unknown
+#3106
+arianna~
+Arianna~
+Arianna, the master bard, plays a haunting melody.
+~
+Breathtakingly beautiful, even for the high standards of the nymphs,
+Arianna could quite easily be considered one of the wonders of the world. 
+With a voice to match and a seductive manner, she completely has the crowd
+in awe.  As she strums her lute, her long blond curls fall over her large,
+almond eyes and onto her pouty lips.  She is dressed in a lavish evening
+gown and winks in your direction as she notices you in the crowd.  
+~
+unique~
+AB 0 1000 0
+75 11 11d551+2303 75d10+100 5d9+24 bite
+-19 -19 -19 -17
+FHK 0 B 0
+(null) (null) either 337
+ACGHMV ABCDEFGHIJKMQUV medium unknown
+#3107
+Silvesti~
+Silvesti~
+Silvesti is busy frying up a steak.
+~
+Silvesti is a dark skinned human, tall with black curly hair and deep
+almond eyes. Grease glistens on his sweaty face as he labors over the grill.
+He looks up at you as he notices you and says, "Get out! Get out of my
+kitchen now! No customers allowed." He stares at you blandly and waits for
+you to leave.
+~
+human~
+AB 0 800 0
+14 1 5d30+184 14d10+100 2d4+1 digestion
+4 4 4 6
+N 0 0 0
+(null) (null) male 63
+AHMV ABCDEFGHIJK medium unknown
+#3108
+old maid~
+an old maid~
+An old maid is busy cleaning the hall, she glances fearfully around.
+~
+Hunched over and bent do to many long years of sweeping and scrubbing
+floors, this old maid is aged beyond her true years.  Thick callouses cover
+her worn hands.  
+~
+human~
+AB 0 600 0
+1 0 1d2+8 1d10+100 1d1+0 bite
+9 9 9 10
+0 0 0 0
+(null) (null) either 4
+AHMV ABCDEFGHIJK medium unknown
+#3110
+ghost spirit~
+a damned spirit~
+An evil spirit materializes before you.
+~
+Incorporeal and full of malignance, this evil spirit casts its glowing
+red eyes upon you.  Before her curse to roam the world forever as the
+undead, it is quite apparent that she must have been quite beautiful when
+alive.  
+~
+unique~
+A BDFPQTU -1000 0
+45 12 10d128+969 180d10+100 5d5+14 slash
+-7 -7 -7 -5
+AFGH ABQ A C
+(null) (null) either 202
+CIKLM ABCDEFGHIJKLM medium unknown
+#3131
+master huan tse chan~
+Master Huan Tse Chan~
+Master Huan Tse Chan meditates cross-legged on the floor quietly.
+~
+Master Chan wears a long white robe, which looks more in the style of a
+toga than anything else.  Attached at his waist is a golden cord, from which
+hangs a small bottle.  He looks old and frail, though in extremely good
+condition for his age.  
+~
+human~
+AB 0 750 0
+98 24 12d1308+3773 392d10+100 6d11+28 none
+-33 -33 -33 -26
+EKN B 0 F
+rest rest female 441
+AHMV ABCDEFGHIJK medium unknown
+#3143
+mayor~
+the mayor~
+The mayor is here.  He shakes your hand.
+~
+He is a stocky, middle-aged man with thin, grey hair.
+~
+human~
+A N 900 0
+23 6 7d44+355 23d10+100 3d5+5 digestion
+1 1 1 3
+EFNS AB CD 0
+sleep sleep female 103
+AHMV ABCDEFGHIJK medium unknown
+#3200
+crippled mystic man~
+a crippled mystic~
+A crippled old man is kneeling nearby, tossing bloody chicken bones.
+~
+When you look down at this old man, he peers up at you with a toothless
+grin.  You notice one eye is covered by a thick white membrane while the
+other is large and dilated.  Beneath the torn rags he uses for clothing, you
+can make out old, faded tattoos of mystic symbols.  His left leg ends at a
+bound stump just above where is ankle would have been.  You notice that his
+hands are caked with the dried blood of the chicken bones he is tossing.  
+~
+human~
+A 0 0 0
+30 1 10d60+520 30d10+100 3d6+8 none
+-1 -1 -1 0
+0 ABCDPQ 0 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#3352
+Gespar~
+Gespar~
+Gespar stands here, watching you closely.
+~
+A wretched barkeep, Gespar looks as if he hasn't had a bath in five
+years.  Dirt and food particles cling to his sweaty shirt as he coughs a
+hairball out in the corner.  After being fired from near ever pub this realm
+holds, he found refuge here, serving drinks to men and women of his own ilk.
+~
+human~
+ABRW 0 -750 0
+30 0 10d60+520 30d10+100 3d6+8 none
+-1 -1 -1 0
+0 ABPQ 0 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#3353
+Myang Chan man noble~
+Myang Chan~
+A well built man of undoubtedly noble heritage carefreely saunters about.
+~
+The one and only son of Master Huan Tse Chan, Myang could rightfully be
+considered as a pride to his family.  The relatively young man offers
+somewhat of a short height, but nevertheless a stern build.  His finely
+trimmed hair is tinged a dark black, outlining a delicately featured, kind
+and elegant face of a man at peace.  A certain tranquility can be seen
+within his dark brown eyes, as well as his overall demeanor, whether it is
+gestures, words or whatnot.  Myang's Chan appearence clearly speaks of a man
+trained both at the mental and physical arts, one to be reckoned with.  
+~
+human~
+AV 0 700 0
+60 0 11d277+1559 60d10+100 5d7+19 peck
+-13 -13 -13 -11
+CEFKQ 0 0 0
+(null) (null) female 270
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#3001
+pool~
+an ancient pool~
+This ancient pool seems safe to drink from.~
+unknown~
+fountain R 0
+10000 10000 'water' 0 0
+100 1000 10000 P
+#3002
+wooden tub~
+a wooden tub~
+A large wooden tub, full of steaming water, is along the north wall.~
+unknown~
+portal A 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 CDEGHIJL 0
+0 0 0 P
+#3003
+copper tub~
+a copper tub~
+A steaming hot bath is ready in the copper tub along the western wall.~
+unknown~
+portal A 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 ABDEGHIJL 0
+0 0 0 P
+#3004
+bronze tub~
+a bronze tub~
+A heavy bronze tub if full of piping hot water along the southern wall.~
+unknown~
+portal A 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 BDEGHIJL 0
+0 0 0 P
+#3005
+scimitar blade~
+a powerful scimitar~
+A powerful looking scimitar lies upon the ground, waiting for it's owner.~
+unknown~
+weapon BI AN
+sword 13 13 wrath EF
+91 45 455 P
+A
+19 5
+E
+scimitar blade~
+It is quite heavy.  The blade is made of some metal that you can't even
+spell.  The edge of the blade looks as if it could cut through anything
+or anyone.
+~
+#3006
+egg pickled~
+a pickled egg~
+A pickled egg smells of vinegar.~
+unknown~
+pill R A
+10 'reserved' 'reserved' 'reserved' 'reserved'
+0 1 1 P
+#3007
+weaponsmaster brew~
+a weaponsmaster brew~
+A thick brown brew forms a thick head when poured.~
+unknown~
+drink 0 A
+3 3 'dark ale' 0 0
+1 1 3 P
+#3008
+ebony dagger~
+an ebony dagger~
+A wickedly sharp dagger made of ebony is here.~
+unknown~
+weapon 0 AN
+bow 5 8 crunch 0
+20 3 100 P
+#3010
+donation locker~
+the donation locker~
+A donation locker fills the back wall.~
+unknown~
+container 0 0
+10000 F 0 1000 0
+0 0 0 P
+E
+locker~
+This is where items are donated to assist all the heroes of the land.
+Initially put in place after the battle with the ancients, it has become
+a time told tradition.
+~
+E
+pit~
+This is where items are donated to assist all the heroes of the land. 
+Initially put in place after the battle with the Ancients, it has become
+a time told tradition.
+~
+#3011
+fishing pole~
+a fishing pole~
+A finely crafted fishing pole is here.~
+unknown~
+weapon 0 ANPWXYZabcdef
+whip 4 4 beating F
+8 3 40 P
+#3012
+ceremonial dagger~
+a ceremonial dagger~
+A ceremonial dagger from the distant land of Xian is here.~
+unknown~
+weapon BG AN
+bow 5 14 crunch 0
+35 5 175 P
+A
+19 2
+A
+2 1
+#3013
+captains sword~
+a captain's sword~
+A well polished sword engraved with the symbol of the city guard is here.~
+unknown~
+weapon 0 AN
+sword 5 8 lunge 0
+20 7 100 P
+#3014
+captains armor~
+a suit of captain's armor~
+A full suit of armor engraved with the city guard symbol is here.~
+unknown~
+armor 0 ADF
+AB AB AB A 0
+20 12 100 P
+#3015
+plumed captains helm~
+a plumed captain's helm~
+A shiny helm adorned with a {Rred{x feather is here.~
+unknown~
+armor A AE
+AB AB AB A 0
+20 4 100 P
+A
+17 -2
+#3016
+brass silver key~
+a brass and silver key~
+A brass key lined with silver streaks is here.~
+unknown~
+key 0 AO
+0 0 0 0 0
+1 1 10 P
+#3017
+captains desk~
+the captain's desk~
+This desk is covered with loose papers. It has a keyhole on the front.~
+unknown~
+container R 0
+50 ACD 3016 0 0
+1 250 0 P
+#3018
+pile tax money~
+a pile of tax money~
+A pile of collected tax money is here.~
+unknown~
+money 0 A
+DGH 0 0 0 0
+1 10 120 P
+#3019
+sword~
+a red plume sword~
+A sword engraved with the insignia of the Red Plume Guard is here.~
+unknown~
+weapon 0 AN
+sword 4 6 lunge 0
+12 5 60 P
+#3020
+red plume platemail~
+a suit of red plume platemail~
+A suit of platemail engraved with the insignia of the Red Plume Guard is here.~
+unknown~
+armor 0 ADF
+B B B 0 0
+12 20 60 P
+#3021
+red plume helmet~
+a red plume helmet~
+A shiny helmet with a {Rred{W plume is here.~
+unknown~
+armor 0 AE
+B B B 0 0
+12 5 60 P
+#3022
+sabretooth claw~
+a sabretooth claw~
+A blood covered sabretooth claw is here.~
+unknown~
+weapon 0 AN
+bow 4 4 lunge 0
+8 2 40 P
+#3023
+tattered shirt~
+a tattered shirt~
+A shirt tattered and worn from over use is here.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+1 1 1 P
+#3024
+ripped leather pants~
+some ripped leather pants~
+A pair of pants, ripped and worn from over use is here.~
+unknown~
+clothing 0 AF
+0 0 0 0 0
+10 2 15 P
+A
+17 -1
+#3025
+snake skin belt~
+a snake skin belt~
+A shiny belt made from the skin of a large snake is here.~
+unknown~
+clothing 0 AL
+0 0 0 0 0
+1 1 24 P
+#3026
+mithril chainmail~
+mithril chainmail~
+A finely woven mesh of mithril is here.~
+unknown~
+armor 0 AD
+A A A 0 0
+11 5 55 P
+#3027
+black leather leggings~
+black leather leggings~
+A shiny pair of black leather leggings is here.~
+unknown~
+armor 0 AF
+A A A 0 0
+11 2 55 P
+#3028
+polished leather boots~
+polished leather boots~
+A pair of polished, black leather boots sit here.~
+unknown~
+armor 0 AG
+A A A 0 0
+11 4 55 P
+#3029
+eel skin whip~
+an eel skin whip~
+A deadly looking whip made of a shiny material is here.~
+unknown~
+weapon 0 AN
+flail 3 8 jab 0
+11 1 55 P
+A
+19 1
+#3030
+hiking pack~
+a hiking pack~
+A leather pack, specially designed for hiking is here.~
+unknown~
+container 0 AK
+100 AC 0 0 0
+1 2 50 P
+#3031
+kayak~
+a river kayak~
+A brightly painted kayak designed for shooting rapids is here.~
+unknown~
+boat 0 A
+0 0 0 0 0
+1 20 150 P
+#3032
+river canoe~
+a river canoe~
+A hand carved river canoe is here.~
+unknown~
+boat 0 A
+0 0 0 0 0
+3 30 200 P
+#3033
+miners headlamp~
+a miner's headlamp~
+A fashioned piece of head gear designed to cast magical light forward is here.~
+unknown~
+light 0 A
+0 0 ABCFGHIJ 0 0
+1 3 200 P
+#3034
+walking stick~
+a walking stick~
+A finely carved walking stick is here. It looks quite sturdy.~
+unknown~
+staff G AO
+10 12 12 'reserved' 0
+10 5 50 P
+#3035
+warrior mask~
+a warrior mask~
+A brightly painted warrior mask from the land of Hdo'Ran is here.~
+unknown~
+armor GI AT
+BD BD BD AB 0
+60 5 300 P
+A
+19 2
+A
+18 2
+A
+1 1
+#3036
+funeral urn~
+a funeral urn~
+A musty funeral urn from the distant land of Riah is here.~
+unknown~
+treasure BG AO
+0 0 0 0 0
+70 15 700 P
+A
+12 50
+#3037
+dream crystal~
+a dream crystal amulet~
+A rare dream crystal from the fabled Dreamscape is here.~
+unknown~
+treasure AG AC
+0 0 0 0 0
+45 1 450 P
+A
+3 1
+A
+4 1
+#3038
+ale house specialty~
+the house specialty~
+A cup of the fine house specialty ale is here.~
+unknown~
+drink 0 AO
+1 1 'ale' 0 0
+1 1 3 P
+#3039
+bottle scotch~
+a bottle of scotch~
+A bottle of well aged and rare scotch is here.~
+unknown~
+drink 0 AO
+5 5 'local specialty' 0 0
+1 5 3 P
+#3040
+tervadi coffee~
+a cup of tervadi coffee~
+A cup of tervadian coffee, known for its strong brew, is here.~
+unknown~
+drink 0 AO
+1 1 'coffee' 0 0
+1 1 3 P
+#3041
+roast duck dinner~
+a roast duck dinner~
+A wonderful scent fills your nostrils as you see a roast duck dinner here.~
+unknown~
+food 0 AO
+CDE 0 0 0 0
+1 3 2 P
+#3042
+baked flounder~
+a baked flounder~
+A finely prepared and baked flounder fillet is here.~
+unknown~
+food 0 AO
+DE 0 0 0 0
+1 3 2 P
+#3043
+booth~
+a booth~
+A shadow booth is here. It looks as if it is comfortable to sit upon.~
+unknown~
+furniture R 0
+0 0 0 0 0
+1 500 100 P
+#3044
+notched axe~
+a notched axe~
+This old axe is well notched from many hard years of use.~
+unknown~
+weapon B AN
+mace 5 8 wrath F
+20 10 100 P
+A
+19 2
+#3045
+silver dirk~
+a silver dirk~
+An easily concealed silver dirk is here.~
+unknown~
+weapon Q AN
+bow 4 8 crunch 0
+16 2 80 P
+#3046
+full platemail~
+a suit of full platemail~
+A complete set of shining platemail is here.~
+unknown~
+armor 0 AD
+AB AB AB 0 0
+18 45 90 P
+#3047
+soul reaver~
+the Soul Reaver~
+The Soul Reaver is here, glowing with green flames.~
+unknown~
+weapon ABGJK AN
+sword 14 12 lunge AF
+90 20 450 P
+A
+17 -5
+A
+2 2
+#3048
+morning star~
+a morning star~
+A wicked looking morning star is here.~
+unknown~
+weapon 0 AN
+axe 5 7 blast 0
+18 5 90 P
+#3049
+silver athame~
+a silver athame~
+A silver athame with a wickedly sharp blade is here.~
+unknown~
+weapon 0 AN
+bow 8 7 crunch D
+30 3 150 P
+#3050
+bar~
+a bar~
+This well stocked bar appears ageless and priceless in quality.~
+unknown~
+furniture R 0
+0 0 0 0 0
+1 5000 1400 P
+#3051
+box pills fortitude~
+a box of fortitude pills~
+A box of pills is here.~
+unknown~
+pill A AO
+20 'reserved' 'reserved' 'reserved' 'reserved'
+20 1 600 P
+#3052
+pickled hawk eyes~
+some pickled hawk eyes~
+Foul smelling eyeballs are here stinking up the room.~
+unknown~
+pill 0 AO
+20 'reserved' 'reserved' 'reserved' 'reserved'
+1 1 30 P
+#3053
+assassin blade~
+an assassin blade~
+An evil looking blade is here.~
+unknown~
+weapon EJ AN
+bow 8 7 stab 0
+30 3 150 P
+A
+19 1
+#3054
+onyx dagger~
+an onyx dagger~
+An onyx dagger with a wickedly sharp blade is here.~
+unknown~
+weapon CEJ AN
+bow 31 3 crunch D
+60 5 300 P
+#3060
+halo~
+fREE~
+A small circular hoop glows with a righteous brilliance.~
+unknown~
+armor KL AE
+CEFGHI CEFGHI CEFGHI CEFGHI 0
+102 0 510 P
+A
+24 -300
+A
+5 50
+#3061
+patterned white kimono~
+a patterned white kimono~
+A white kimono lies here, graced by some looping, black patterns.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+1 3 20 P
+#3105
+moonstone anklet~
+a moonstone anklet~
+A glittering silver anklet encrusted with moonstones is here.~
+unknown~
+treasure G AU
+0 0 0 0 0
+75 1 750 P
+A
+13 20
+A
+12 20
+A
+2 1
+#3106
+ancient lute~
+an ancient lute~
+An ancient lute is here, faintly glowing with an inner light.~
+unknown~
+weapon AGIKL AN
+exotic 11 13 slap 0
+75 5 375 P
+A
+13 25
+A
+4 1
+#3107
+frying pan~
+a black frying pan~
+A black frying pan filled with grease is here.~
+unknown~
+weapon 0 AN
+staff 4 7 claw 0
+14 18 70 P
+#3110
+soul orb~
+a soul orb~
+An orb used to capture and hold souls is here.~
+unknown~
+treasure CEGJLQ AR
+0 0 0 0 0
+45 1 450 P
+A
+24 -10
+#3114
+stool~
+a cypress stool~
+This stool is of exquisite craftsmanship and design.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#3115
+silver brush~
+a silver brush~
+A silver brush is here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+1 2 10 P
+#3117
+large tub bath~
+a large tub~
+This elaborate tub is filled with soapy warm water.~
+unknown~
+drink R 0
+100 100 'water' 0 0
+0 1000 1 P
+#3118
+glass wine~
+a pewter wine glass~
+A pewter wine glass is filled with a dark red wine.~
+unknown~
+drink R AO
+2 2 'red wine' 0 0
+0 1 1 P
+#3119
+plate dinner~
+a steaming plate of food~
+A large plate filled with turkey, potatoes and carrots steams hotly.~
+unknown~
+food R AO
+CE 0 0 0 0
+0 1 1 P
+#3120
+table~
+a large cherry wood table~
+A large cherry wood table fills the room surrounded by chairs.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 700 1350 P
+E
+table~
+The table is covered with sparkling silver and a fine pale bone china. 
+Five large bouquets line the centre of the table and spill their blossoms
+and a few petals onto the table.  Only one of the place settings looks to be
+in use, as the plate is full of wonderful smelling food and the glass next
+to it is filled with a dark red wine.  
+~
+#3121
+pewter vial~
+a small pewter vial~
+A small pewter vial is filled with a fragrant liquid.~
+unknown~
+potion Rb AO
+86 'reserved' 'reserved' 'reserved' 'reserved'
+86 2 2580 P
+#3122
+samurai helmet~
+a polished Samurai helmet~
+A Samurai helmet shines in the light.~
+unknown~
+armor 0 AE
+BCD BCD BCD C 0
+85 15 425 P
+#3123
+cabinet~
+a dark cherry wood cabinet~
+A dark cherry wood cabinet has a door slightly ajar.~
+unknown~
+container R 0
+25 AC 0 0 0
+1 178 875 P
+E
+cabinet~
+The sharp clean lines of the dark glossy wood contrast sharply with the
+pale delicate curves of the vase and flowers.  The cabinet closest to the
+west exit has one of its doors slightly ajar.  
+~
+#3124
+thin silver dagger~
+a thin silver dagger~
+Highly polished silver reflects the smallest amount of light brightly.~
+unknown~
+weapon R AN
+bow 11 15 crunch H
+87 2 435 P
+#3125
+bow staff~
+a slender wood bow staff~
+The long piece of wood is slender though strong.~
+unknown~
+weapon R ANP
+whip 9 19 bite AF
+87 5 435 P
+E
+bow~
+Though the long piece of wood is slender, it's extremely hard and strong.
+The wood is polished to a high shine.  
+~
+E
+staff~
+Though the long piece of wood is slender, it's extremely hard and strong.
+The wood is polished to a high shine.  
+~
+#3126
+heavy black silk sash~
+a heavy black silk sash~
+A black pile of silk is folded in the corner.~
+unknown~
+armor R AL
+BCD BCD BCD C 0
+86 2 1720 P
+A
+4 1
+E
+heavy~
+An ebony silk sash hangs in graceful waves and quivers with even the
+slightest movement.  
+~
+E
+black~
+An ebony silk sash hangs in graceful waves and quivers with even the
+slightest movement.  
+~
+E
+silk~
+An ebony silk sash hangs in graceful waves and quivers with even the
+slightest movement.  
+~
+E
+sash~
+An ebony silk sash hangs in graceful waves and quivers with even the
+slightest movement.  
+~
+#3127
+katana sword~
+a razor sharp katana sword~
+Light draws your eye to a sharp katana sword.~
+unknown~
+weapon R AN
+sword 12 14 slice D
+88 7 440 P
+A
+1 1
+E
+katana~
+Light glints off the sharp edge of the blade, making a hot bright white
+flash that makes the carved ivory handle look dull in comparison.  
+~
+E
+sword~
+Light glints off the sharp edge of the blade, making a hot bright white
+flash that makes the carved ivory handle look dull in comparison.  
+~
+#3128
+bubble~
+a large bubble~
+The bubble floats near the dock.~
+unknown~
+treasure R AR
+0 0 0 0 0
+89 0 890 P
+A
+3 1
+A
+4 1
+E
+bubble~
+The bubble is almost like glass as its form doesn't change and it doesn't
+burst.  Rainbow colours swirl over the surface, making this simple bubble be
+more like a galaxy of its own.  
+~
+#3129
+bed~
+a large soft bed~
+A large soft bed lays low against the floor here.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 1875 2455 P
+E
+bed~
+A large bed is set low to the ground, almost futon-like.  Covering the
+soft bed is a thick white comforter, spread out neatly without any wrinkles.
+~
+#3130
+wardrobe~
+a large cherry wood wardrobe~
+A large cherry wood wardrobe stands against a wall.~
+unknown~
+container R 0
+950 ABCD 3131 0 0
+0 900 850 P
+E
+wardrobe~
+The doors to the wardrobe are closed, and a shining brass lock catches
+light.  A high polish on the surface only enhances the clean lines of the
+wood, and show not a single scratch or dent in the wood.  The wardrobe is
+quite plain and gives a minimalistic feel to the room.  
+~
+#3131
+small brass key~
+a small shining brass key~
+A small brass key shines and catches light here.~
+unknown~
+key R AO
+0 0 0 0 0
+91 2 0 P
+#3132
+table~
+a long cherry wood table~
+A long cherry wood table.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 60 240 P
+E
+table~
+A high polish on the long cherry wood table makes it look as though it's
+covered in glass.  Centred on the table is a cracked glass bowl filled with
+water and a few flower blossoms floating.  Next to the glass bowl is a small
+brass key.  
+~
+#3133
+chair~
+a simple plush chair~
+A simple plush chair faces the window.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 15 55 P
+E
+chair~
+The same sparkling white of the comforter on the bed covers this chair. 
+Polished cheery wood can be seen at the feet of the chair, and the wood is
+carved into the shape of lions paws.  The chair is set low to the floor and
+is very large and deep, so one sinks into it more than sits on it.  
+~
+#3134
+crisp black gui~
+a crisp black gui~
+A crisp black gui hangs neatly in the wardrobe.~
+unknown~
+armor 0 AD
+ABCD ABCD ABCD C 0
+92 10 460 P
+A
+19 1
+#3135
+kimono~
+a delicate silk kimono~
+A delicate cream silk kimono hangs on the back of the door.~
+unknown~
+clothing S ADK
+0 0 0 0 0
+91 6 2275 P
+A
+2 1
+E
+kimono~
+A large bright orange tiger is embroidered on the back of the outfit. 
+The delicate cream silk kimono has a large bright orange tiger embroidered
+on its back.  Intricate writing lines the belt that hangs loosely from the
+hoops around the waist.  
+~
+#3136
+suit armor~
+a heavy suit of armor~
+A tall steel suit of armor stands on guard at the top of the stairs.~
+unknown~
+armor S ADEFGI
+ABCD ABCD ABCD C 0
+90 150 450 P
+A
+19 1
+E
+armor~
+The armor is in good condition, polished and oiled, so it can be used at
+any time.  Its weight is balanced evenly on a small platform, though it
+looks like any small nudge of it will knock the suit down with a loud
+clatter.  Leaning gently against the side of the leg, close to the hand, is
+a highly polished and sharp sword.  
+~
+E
+suit~
+The armor is in good condition, polished and oiled, so it can be used at
+any time.  Its weight is balanced evenly on a small platform, though it
+looks like any small nudge of it will knock the suit down with a loud
+clatter.  Leaning gently against the side of the leg, close to the hand, is
+a highly polished and sharp sword.  
+~
+#3137
+knights sword~
+a strong knights sword~
+A highly polished and sharpened sword leans against the armor.~
+unknown~
+weapon Rb ANP
+sword 9 20 slice EF
+93 50 465 P
+A
+18 1
+#3138
+couch~
+a comfortable cheery wood couch~
+A cherry wood couch with plush upholstery is lit by a lamp.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 780 250 P
+#3139
+white scroll~
+a white scroll~
+A rolled white scroll is sealed with red wax.~
+unknown~
+scroll R AO
+94 'reserved' 'reserved' 'reserved' 'reserved'
+94 1 2820 P
+#3140
+yellow scroll~
+a yellow scroll~
+A rolled yellow scroll is sealed with red wax.~
+unknown~
+scroll R AO
+95 'reserved' 'reserved' 'reserved' 'reserved'
+95 1 2850 P
+#3141
+pink scroll~
+a pink scroll~
+A rolled pink scroll is sealed with red wax.~
+unknown~
+scroll R AO
+96 'reserved' 'reserved' 'reserved' 'reserved'
+96 1 2880 P
+#3142
+light blue scroll~
+a light blue scroll~
+A rolled light blue scroll is sealed with red wax.~
+unknown~
+scroll R AO
+97 'reserved' 'reserved' 'reserved' 'reserved'
+97 1 2910 P
+#3143
+long white robe~
+a long flowing white robe~
+The white robe falls and hangs more like a toga than anything else.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+98 5 1470 P
+A
+5 1
+#3144
+counter~
+a heavy wood counter~
+A large wood counter fills the middle of the room.~
+unknown~
+container 0 0
+0 AC 0 0 0
+0 50 150 P
+#3145
+kitchen knife~
+a sharp kitchen knife~
+A sharp kitchen knife rests in the drawer.~
+unknown~
+weapon 0 AN
+bow 11 15 crunch D
+86 2 430 P
+#3146
+golden cord~
+a long golden cord~
+A long golden cord wraps around a waist a few times.~
+unknown~
+clothing 0 AL
+0 0 0 0 0
+98 1 2548 P
+A
+4 1
+#3147
+numchuks~
+a pair of wooden numchuks~
+A pair of sturdy wooden numchuks.~
+unknown~
+weapon 0 ANP
+exotic 29 6 beating FH
+99 4 495 P
+#3148
+golden bottle~
+a small golden bottle~
+A small golden bottle is filled with a dark blue liquid.~
+unknown~
+potion 0 AO
+99 'reserved' 'reserved' 'reserved' 'reserved'
+99 1 2970 P
+#3162
+map discordia~
+a new-looking map~
+A map of the town of discordia lies here.~
+unknown~
+map 0 A
+0 0 0 0 0
+1 1 1 P
+E
+map~
+______________________________________________________________________________
+|                                                                              |
+| W  \                        TrystenVeldt                                 \ E |
+| e  /                           |   |                                     | a |
+| s |________ Ruined Wall _______/Arch\________Ruined Wall_________________| s |                                 
+| t |                           |     |      Training                      | t |
+|   |                           |  D  |      Academy                       |   |
+| D |         __________________|  o  |______|    |_____________           | D |
+| i |        /D                    c           A    Adventurer's \         | i |
+| s  \      | o  _______________   k   ______  c  ____________    |        | s |
+|\ c  \     | c |               |  e  |      | a |            | L |        | c |
+||  o |      \ k \              |  r  |      | d |   _|Shop|__| a |        /o  |
+||  r |       \ s \             |  s  |      | e |  /           n |       / r /|
+| \  d \       \ i \            |     |      | m | | Divine___  e |      | d | | 
+|  \  i \       \ d \           |  R  |      | y |  \  C |    |   |      | i | |
+|  |  a |       | e |           |  o  |      |   |   \  r \   |   |      | a | |
+|  |    |       |   |           |  a  |Locker| R |    \  e \  |   |     /   /  |
+|   \ R  \       \ N \         _|  d  |__  __| d |_Inn_\  s \_|   |    | R |   |
+|    \ i  \       \ o \     Shop        Guildmans Row             |    | i |   |
+|    | v  |        \ r \       _       __    _________    _    __ /    | v |   |
+|     \ e  \       | t |       _|     |_ |  |         |  | |  |        | e |   |
+|      \ r  \      | h |  Healer        Shrine        |  | Shop        | r |   |
+|      |    |      |   |       _       _____/         |  |             |   |   | 
+|      |    |      | W |        |     |     Weaponry  |  | Shop        |   |   |
+|      |    |      | h |       _|     |_______|  |____|  |_| |_____    |   |   |
+|       \    \     /a  /   Shop_           Market Street           |   |   |   |
+|       |    |____/ r /_________|      ___   __________    ________|   |   |   |
+|       |    |     f    Dockside      |   | |          |  |            |   |   |
+|       |    |     and _________      |  Armory        Shop   _____    |   |   |
+|       |    |   Piers|_________|     |                      |     |   |   |   |
+|        \    \____       West        |                      |  R  |   |   |   |
+|        |    |    |    ________|     |                      |  i  |   |   |   |
+|        |    |    |   |        |     |         Stables      |  v  |   |   |   | 
+|________|____|____|   |________|     |__________|  |________|  e  |___|___|___|
+|        Leonid            Discordia Road                       r    Rheols    |
+|_______ Bridge_____    _______         _________    ________       _Bridge____|
+|        |    |    |   |       |       |         |  |        |  L  |  /   /    |
+|        |    |    |   |        Gardens          Inn         |  a  | |   |     |
+|        |    |    |   |          and                        |  n  | |   |     | 
+|         \    \    \   \        Temple                      |  e  | |   |     |
+|                             _____________                              |     |
+|                                                                        |     |
+|          Dockside South                         Dockside South               |
+|                               Phar Point                                     |
+|                                                                              |
+|______________________________________________________________________________|                                
+Cartography by Lutessa
+~
+#3166
+map moria first~
+a map of the first level of Moria~
+A rolled up map is here.~
+unknown~
+map 0 A
+A 0 0 0 0
+0 1 1500 P
+E
+map moria first~
+* * * MORIA - Map 1 * * *                                           To Mahn-Tor
+ = = =============== = =                                                 |
+Talk about a mess! by Ezra                                           Foothills
+                                                                         |
+This is as far as our courageous, noble, brave           Light Cave    Valley
+and apparently quite deceased cartographers                   |           |
+could get.  Perhaps more maps could be found             Smelly Tunnel  Cave
+in the depths of Moria itself.                                |           |
+                                                  Cave---Many Tunnels---Tunnel
+                                                    |         |           |
+         West End--Large Cave--East End           Cave      Tunnel      *Hole
+            |          |                            |         |        (Map 2)
+            |        Tunnel---------Tunnel--------Tunnel----Tunnel
+            |                                       |
+ *Hole----Damp----Damp  Tunnel--Tunnel--Tunnel    Tunnel
+(Map 3)  Tunnel  Tunnel   |               |         |
+                   |      |            (*Map 3)  The Cave
+                   |      |                         |
+                   |    Tunnel--Light--Maze      End of
+                   |            Cave    |        The Path
+                   |                  Light         |
+                   |                  Cave      The Hills--> Dwarven Kingdom
+                   |                    |           |
+                 Tunnel----Tunnel-----Light     The Plains
+                                      Cave          |
+                                                 The Lane
+                                                    |
+                                      Midgaard <--Cross--> Eastern Road
+                                                  Roads
+                                                    |
+                                               Dwarf Forest
+~
+#3167
+map new thalos~
+a map of New Thalos ~
+A rolled up map is here.~
+unknown~
+map 0 A
+A 0 0 0 0
+0 1 2500 P
+E
+map new thalos~
+.
+           * * * **************** New Thalos ***************** * * *
+                   "Not Thalos or Old Thalos but New Thalos"
+            = = =============================================== = =
+                     (C) ROM - This place is HUGE! by Ezra
+
+                                   Plains
+                                     |
+Northwest--West Casbah-------------North-----------------Casbah--------Northeast
+  Tower     |                       Gate                    |            Tower
+          Alley                      |                      |              |
+            |    Guard            Sultan's                  |  Library----Kali
+          Alley  House              Walk                    |             Row
+                   |                 |      Dancing         |              |
+     Sultan's----Grand----Palace--Sultan's--Daemon          |   Dance-----Kali
+      Palace    Entrance   Gate     Walk      Inn           |   Hall      Row
+                   |                 |                      |
+                 Guard               |         Bowyer--Guildsman's--Mason's
+                 House               |         Guild       Row      Guild
+ High                                |                      |
+Priest                               |         Weaver--Guildsman's--Craftsman
+Chamber  Altar                    Sultan's     Guild       Row        Guild
+  |        |                        Walk                    |
+Inside--Inside--Donation             |         Tanner--Guildsman's--Museum
+Temple  Temple    Room               |         Guild       Row      of the
+  |        |                         |                      |       Greater
+Cleric     |                         |                 Guildsman's---Gods
+Guild     /                          |                     Row
+        /                            |                      |
+     Temple             Ahkeem's  Sultan's  Vera's     Guildsman's         Mage
+     Gates                Stuff     Walk   Veggies         Row             Tower
+       |     Alley--Alley    |       |       |              |                |
+     Temple    |           Market--Market--Market           | Witch's  Magic |
+     Square  Alley   Bank--Square  Square  Square--Butchery |  Brew    Shop  |
+       |       |             |       |       |              |    |      |    |
+West--West---West---West---Market--Center--Market---East--East--East--East--East
+Gate  Main   Main   Main   Square  Square  Square   Main  Main  Main  Main  Gate
+  |    |       |             |       |       |              |    |
+  |  Repair  Alley  Store--Market--Market--Market--Abdul's  | Mercenary--Thieves
+  |   Shop     |           Square  Square  Square   Armor   |   Guild     Guild
+  |          Alley--Alley    |       |       |             Alley
+Warrior's                  Bread   Medina  Igor's  Leather  |           Smuggler
+  Guild                    Stand     |    Weapons   Shop---Alley--Alley---Inn
+                                   Medina                        /
+      Warehouse    Shipwright        |     Forge  Stables      /    Cass's  Dump
+       |     |          |          Common    |       |        |       |      |
+       +-----West Ishtar Drive-----Square----+---East Ishtar Drive----+------+
+                        |            |
+                    Boat Ramp        |
+                        |          South
+===================Ishtar River====Bridge======================> To Dragon Sea
+                                     |
+                                   South
+                                   Gate
+~
+#3168
+cypress bed~
+a cypress bed~
+A stout bed made of aged cypress is here.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#3169
+platinum bar~
+a platinum bar~
+A glittering platinum bar catches your attention.~
+unknown~
+warp_stone 0 0
+I H BD AC 0
+30 0 0 P
+#3170
+potion aura sight~
+a potion of aura sight~
+A light grey potion is here.~
+unknown~
+potion A AO
+20 'reserved' 'reserved' 'reserved' 'reserved'
+1 1 30 P
+#3171
+large silver key~
+a large silver key~
+A silver key of elegant design and large size rests at this place.~
+unknown~
+key A AO
+0 0 0 0 0
+0 1 50 P
+#3172
+wooden bow~
+a wooden bow~
+This heavy wooden bow is used for shooting arrows.~
+unknown~
+weapon 0 AN
+exotic 8 7 crunch FN
+30 8 150 P
+#3173
+wooden arrow~
+a wooden arrow~
+This wooden arrow is tipped with a sharp point.~
+unknown~
+weapon 0 AW
+exotic 8 7 crunch D
+30 1 150 P
+#3174
+quiver~
+a quiver~
+This quiver is used for holding arrows.~
+unknown~
+container 0 A
+40 0 0 0 0
+30 10 500 P
+#3175
+assassination arrow~
+an assassination arrow~
+This light arrow is tipped with a wicked point, making it perfect for assassinations.~
+unknown~
+weapon 0 AW
+exotic 8 7 crunch DJ
+30 1 150 P
+#3398
+scroll~
+a scroll~
+A scroll is bound up here.~
+unknown~
+scroll 0 AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 1 500 P
+#3399
+hole portal~
+a small hole~
+This small hole looks oddly like a rabbits hole.~
+unknown~
+portal R 0
+0 0 0 ACFGHIJKN 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#3001
+The Shrine of Discordia~
+An unnatural stillness fills the air, aiding to evoke a sense of serenity
+and well-being.  Eight snowy pillars stand as sentinels within this
+cavernous {cdome{x, one rising in each of the major compass points. 
+Moonflower vines spiral up each column and lend their alluring scent to the
+chamber.  Light grey marble, flecked with ruby red and emerald green mingled
+with black onyx accents diffuse the light and make the shadows in the
+recesses of the room indistinct.  A {cpedestal{x rises from the shimmering
+pool that is located in the middle of this inspiring place, seeming to be
+the focal point of this area.  Something is glinting from atop the
+{cpedestal{x and faint markings quite like writing can be seen upon its
+sides.  
+~
+0 262152 1
+E
+dome~
+Small cracks spiderweb the surface of this ancient dome, giving it a sense
+of timelessness. Faint writings can be seen upon its surface.
+~
+E
+writing~
+Faded with the passing of time, you can barely make out these inscriptions.
+ 
+"The World Was Forged From Chaos...
+ And So Shall It Return."
+~
+E
+pedestal~
+({WGlowing{x) A beautiful rose made of gleaming silver is mounted on the pedestal.
+These words have been carved into the pedestal:
+
+--------------------
+
+Like the rose,
+We grow from a seed.
+To become more than
+We dare to dream.
+
+--------------------
+~
+D0
+~
+~
+~
+0 0 3010
+D3
+To the west you see a gleaming white path.  
+~
+~
+~
+0 0 3009
+M 0 H 0
+S
+#3002
+The Practice Room~
+This section of the healers guild is where learning adventurers go to
+practice their new found skills and spells, until they feel they are ready
+to try them in battle.  There are a few small animals that forest rangers
+have found sick and wounded and brought here for help and practice.  
+~
+0 262156 0
+E
+animals~
+There are a few assorted creatures from the woodlands brought here in an
+effort to save them from their sufferings by the learning healers.  
+~
+D1
+To the east is the main rotunda of the healer's guild.
+~
+~
+~
+0 -1 3003
+M 0 H 0
+S
+#3003
+Guild of Divine Healing Rotunda~
+It was impossible to truly comprehend the sheer vastness of this room
+until finally entering into it.  The various riches and plush seating
+arrangements adorn this amazing expanse, and all sorts of amazing treasures
+can be seen as you glance about in awe.  Adventurers come from all over the
+land to meet and talk with other healers here.  It's even rumored that there
+is a secret room where higher level healers go, but no one speaks of it for
+fear of the curse.  
+~
+0 262156 0
+E
+curse~
+It is said that if the god of healing were to hear of anyone giving away
+the whereabouts of the sacred healing room.  That they would find themselves
+unable to speak for as long as the god was angered.  It is this curse that
+reminds us that it is best that those wanting to learn new things look
+around themselves, and not try to gain all new knowledge by querying others.
+~
+E
+secret~
+The eldest healers have been said to know of a secret room hidden
+somewhere in the guild where the powers of the healers are focused that
+gives those entering within increased healing powers while inside, but no
+one speaks of it for fear of the curse.  
+~
+D2
+The entrance to the healers guild is to the south.
+~
+~
+~
+0 -1 3004
+D3
+The room where skills and spells can be practiced is to the west.
+~
+~
+~
+0 -1 3002
+M 0 H 0
+S
+#3004
+Entrance to the Guild of Divine Healing~
+You walk into the foyer of the healer's guild and you can feel the
+radiance of healing energy flowing from inside.  All types of healers come
+from miles around to gather and share secrets with one another, from the
+most experienced to the newest apprentice.  However, only those who chose to
+use the true powers of their gods to correct harm are allowed in here.  As
+you peer into the room, you gaze upon such luxuries as you have not seen the
+likes of before, and you know those inside do not want for much.  
+~
+0 262152 0
+E
+luxuries~
+You see such wonderous extravagancies like lush velvet couches,
+chandeliers made out of sparkling multi-colored jewels, even the tables
+appear to be made out of crystal! You look down and notice you've managed
+to form a nice little puddle of drool after all this gazing.  
+~
+E
+healers~
+You can tell by the way they carry themselves and the sparkle in their
+eyes that these healers have seen what Discordia has to offer and lived to
+tell the tales.  The sit around swapping tales of adventures and glorious
+fights they have swayed from certain disastor to victory with their healing
+powers.  
+~
+E
+foyer~
+It's a very fine foyer, fit for the finest of castles, but it's
+nothing compared to the luxuries you see beyond the main doors...
+~
+E
+apprentices~
+They are a shadow of the experienced healers you see mulling about, but
+they are eager to learn from the travels of those around them.  
+~
+E
+drool~
+You stare at your pile of drool and glance around to see if anyone caught
+you.  You sigh deeply and wish you'd chosen to be a healer.  
+~
+D0
+You see the bar, richly decorated with really stylish furniture.
+~
+~
+~
+0 -1 3003
+D2
+The entryway deposits you back onto Guildsman's Row to the south.  
+~
+~
+~
+0 0 3013
+M 0 H 0
+S
+#3005
+Before The Academy~
+You stand before an old mansion with well-manicured lawns and a
+wrought-iron fence.  This was once a regal house which has been converted by
+it's current owner, into a training academy for the newest adventurers in
+the realm.  Hanging over the entrance is a large sign.  To the west and
+east, Adventurer's Lane goes on, and to the south, Academy Road continues.  
+~
+0 262144 1
+E
+sign~
+The sign reads {YOba's Training Mansion{x.  
+~
+D0
+You see the doorway to an old mansion.  
+~
+~
+~
+0 0 3767
+D1
+Adventurer's Lane winds through town.  
+~
+~
+~
+0 0 3260
+D2
+You see Academy Road continuing to the south.
+~
+~
+~
+0 0 3006
+D3
+Adventurer's Lane winds through town.  
+~
+~
+~
+0 0 3055
+M 0 H 0
+S
+#3006
+Academy Road~
+You are on the narrow street known as Academy Road. To the north the road
+ends at a set of stairs leading into a large building. The building appears
+much like a miniature fortress and would probably be very hard to take in
+battle. To the south, the road ends at a junction with another street.
+~
+0 262144 1
+D0
+You see the Training Academy.
+~
+~
+~
+0 0 3005
+D2
+You see the junction of Academy Road and Guildsman Row.
+~
+~
+~
+0 0 3012
+M 0 H 0
+S
+#3007
+Near a Pier~
+Adventurer's Lane continues to both the north and south from this point. On
+the eastern edge of the road, you see a small pier jutting out over the
+Discordia River. The pier is a favorite spot for the locals wishing to
+enjoy the splendid view while hopefully catching dinner. The East Discordia
+River, with its steep banks and rocky shallows, is quite difficult for
+boaters, but excellent for fishing. Over the buildings to the north, you
+can see majestic snow-tipped peaks rising above the twin river valley.
+~
+0 262148 1
+D0
+~
+~
+~
+0 0 3257
+D1
+~
+~
+~
+0 0 3011
+D2
+~
+~
+~
+0 0 3053
+M 0 H 0
+S
+#3008
+Guildsman Row~
+The well traversed road can be found busy at nearly anytime of the day or
+night due to its proximity to the Academy and the the various guilds.  To
+the east, it can be seen winding along several tightly packed buildings.  A
+small whitestone path leads across a small field to the south and ends at an
+ancient structure.  To the west a busy intersection can be seen.  Just to
+the north, there is a large warehouse-like building.  
+~
+0 262144 1
+D0
+~
+~
+~
+0 0 3300
+D1
+You see the road passing by several large buildings.
+~
+~
+~
+0 0 3012
+D2
+A crushed whitestone path can be seen leading to an ancient structure.
+~
+~
+~
+0 0 3010
+D3
+You see a busy intersection.
+~
+~
+~
+0 0 20081
+M 0 H 0
+S
+#3009
+A Whitestone Path~
+The din of Dockers' Road dies down to a low roar as you find yourself
+crossing a small, grass covered field.  Between the clumps of sod, numerous
+wild flowers peek out, filling the air with their aromatic perfume, both
+seductive and passionate in its scent.  The path you are standing on is made
+of crushed and highly polished whitestone and it winds casually to the east
+towards and ancient domed structure.  As you look towards it, you cannot
+help but be awestruck at both its natural beauty and skilled craftsmanship. 
+~
+0 262148 1
+D1
+You see an ancient shrine of some sort.
+~
+~
+~
+0 0 3001
+D3
+You see the hustle and bustle of Dockers' Road.
+~
+~
+~
+0 0 20082
+M 0 H 0
+S
+#3010
+A Whitestone Path~
+The din of Guildsman Row dies down to a low roar as you find yourself
+crossing a small, grass covered field.  The scent of wildflowers fills the
+air like an aromatic perfume, both seductive and passionate in its scent. 
+The path you are standing on is made of crushed and highly polished
+whitestone and it winds casually to the south towards and ancient domed
+structure.  As you look towards it, you cannot help but be awestruck at both
+its natural beauty and skilled craftsmanship.  
+~
+0 262148 1
+D0
+You see the hustle and bustle of Guildsman Row.
+~
+~
+~
+0 0 3008
+D2
+You see an ancient shrine of some sort.
+~
+~
+~
+0 0 3001
+M 0 H 0
+S
+#3011
+The Small Pier~
+You are on an old wooden pier looking out over the swiftly flowing waters
+of the East Discordia River. The faint smell of fish and blood fills the
+air. To the north, majestic peaks rise above the twin river valley. Looking
+to the south, you see a large bridge spanning the river. Beyond that, you
+notice large amounts of spray filling the air, almost as if there are rapids
+or falls far to the south. Adventurer's Way is to the west.
+~
+0 262144 1
+D3
+~
+~
+~
+0 0 3007
+M 0 H 0
+S
+#3012
+The Corner of Academy Road and Guildsman Row~
+This heavily traversed intersection can be found busy at all times of the
+day or night.  To the north, Academy Road can be seen ending at a stairway
+leading up into a large building.  To the west and south, light can be seen
+reflecting off the weathered dome of an ancient structure.  Guildsman Row
+continues to both the east and west from here.  
+~
+0 262144 1
+D0
+You see Academy Road ending before steps that lead up into a two story
+structure that appears to be the town's training academy.
+~
+~
+~
+0 0 3006
+D1
+You see Guildsman Row winding towards several large structures.
+~
+~
+~
+0 -1 3013
+D3
+You see Guildsman Row heading towards an intersection with another street.
+~
+~
+~
+0 0 3008
+M 0 H 0
+S
+#3013
+Guildsman Row~
+You are standing between two large buildings on the east-west roadway known
+as Guildsman Row. To the north, the humble entrance to a modest building
+can be seen. A sign hanging above it proclaims it as The Guild of Divine
+Healing. South of you lies a looming tower-like structure. Hanging over
+its well lit grand entryway is a sign proclaiming it as The Spellcasters'
+Guild. 
+~
+0 262144 1
+D0
+~
+~
+~
+0 0 3004
+D1
+~
+~
+~
+0 -1 3014
+D2
+~
+~
+~
+0 0 3017
+D3
+~
+~
+~
+0 -1 3012
+M 0 H 0
+S
+#3014
+Guildsman Row~
+You are on the wide roadway known as Guildsman Row. To your immediate north
+is the entrance to the famous Golden Dragon Inn. Unlike many of the buildings
+on the street, the inn has a very unique antique quality about it. Above
+the entrance a large balcony can be seen overlooking the street from the
+inn's second floor. To the south is a rustic almost fortress like building.
+You can hear the clash of steel on steel through the iron banded doors 
+framing the open entryway. Hanging above this is a sign proclaiming it as
+the Warriors Guild. Guildsman Row continues to both the east and west from
+this point.
+~
+0 262144 1
+D0
+~
+~
+~
+0 0 3105
+D1
+~
+~
+~
+0 -1 3015
+D2
+~
+~
+~
+0 0 3021
+D3
+~
+~
+~
+0 -1 3013
+D4
+You see a balcony high up on the second floor of the inn.
+~
+~
+~
+0 0 3133
+M 0 H 0
+S
+#3015
+The Junction of Guildsman Row and The Divine Crescent~
+This intersection is perhaps one of the busiest in the city due to its
+proximity to the guilds and the academy. A winding street simply known as
+The Divine Crescent winds off to the north. Leading to the east towards
+the Discordia River and to the west towards Dockers' Row, the wide expanse
+of Guildsman Row can be seen. To the south, a narrow alleyway cuts between
+two buildings into the shadows.
+~
+0 262144 1
+D0
+You see The Crescent winding off to the north.
+~
+~
+~
+0 0 3267
+D1
+The street continues in this direction.
+~
+~
+~
+0 -1 3016
+D2
+You see a narrow alley running to the south.
+~
+~
+~
+0 0 3104
+D3
+The street continues in this direction.
+~
+~
+~
+0 -1 3014
+M 0 H 0
+S
+#3016
+Guildsman Row~
+The sprawling roadway known as Guildsman Row runs to both the east and west
+from this location. Far to the east you can make out the road ending at a
+junction with both another road and the East Discordia River. To the north
+you see a small building that from all appearances is a guard station. The
+grand entrance to a large flamboyant building can be seen to the south.
+Hanging over its entrance is a sign grandly proclaiming it as the Adventurers'
+Guild.
+~
+0 262144 1
+D0
+~
+~
+~
+0 0 3020
+D1
+~
+~
+~
+0 -1 3041
+D2
+~
+~
+~
+0 0 3042
+D3
+~
+~
+~
+0 -1 3015
+M 0 H 0
+S
+#3017
+The Grand Entrance to the Spellcasters' Guild~
+You find yourself in the grand entrance hall of the tall, tower-like building
+known as the Spellcasters' Guild. Almost like fireflies in the night,
+several globes of magical light float freely near the ceiling, filling the
+hall with twinkling luminescence that causes shadows to play across the
+walls. The cold feeling of a presence can be felt emanating from the walls,
+almost as if something unseen is watching your every move. You can return
+safely to Guildsman Row to the north or continue into the guild to the south.
+~
+0 262152 1
+D0
+You see the busy streets of Guildsman Row.
+~
+~
+~
+0 0 3013
+D2
+You see an anteroom with a large spiral staircase leading up into darkness.
+~
+~
+~
+0 -1 3018
+M 0 H 0
+S
+#3018
+The Anteroom~
+You are in an empty anteroom within the Spellcasters' Guild. A large spiral
+staircase can be seen leading up, beyond the illumination of the magical
+light sources, into the darkness above. To the north you see an exit that
+leads to the guild's entrance hall. As you contemplate your choices, a huge
+wave of dizziness washes over you, causing your vision to blur and your
+head to throb. When you finally manage to clear the cobwebs from your brain,
+you find yourself in the same exact anteroom, however this time it is not
+empty. A well stocked bar, complete with a wide assortment of liquors, can
+be seen filling the entire southern wall. The din of conversation and laughter
+fills the air, only interrupted by the occasional flash and thunderclap of
+a pyrotechnic spell. The only empty seats you can see are at the bar itself.
+~
+0 262156 1
+E
+spell~
+Numerous displays of pyrotechnics and ellaborate illusions fill the air,
+obviously cast by the drunken mages filling the bar.
+~
+D0
+You see the lobby.
+~
+~
+~
+0 -1 3017
+D4
+~
+~
+~
+0 0 3019
+M 0 H 0
+S
+#3019
+Magical Experiments Laboratory~
+This is the Magical Experiments Laboratory where all the spellcasters of
+Discordia come to practice their skills and to renew their bindings with the
+magical weave.  Dark smoke-stained and slightly charred stones arch over
+numerous huge oaken tables, most of which are cluttered with strange looking
+pipes, flasks, and liquid separators.  The floor is covered with mystic
+symbols and half-erased pentagrams along with other unknown runes, some
+still faintly glowing with power.  A large blackboard in the corner of the
+far wall can be barely made out in the shadows.  It has only been partially
+cleaned, and in fact the few remaining symbols almost sear your eyes.  A
+spiral staircase leads both up and down from here.  
+~
+0 4456456 1
+E
+blackboard~
+Runes of power are scribbled across this blackboard. They seem to burn into
+your eyes.
+~
+E
+pentagram~
+These pentagrams were drawn to ward something off or to summon spirits or
+demons.
+~
+E
+tables~
+These tables are stained and charred from centuries of use.
+~
+D4
+You see the spiral staircase ascending into darkness.
+~
+~
+~
+0 0 3037
+D5
+You see the spiral staircase leading down into an empty anteroom.
+~
+~
+~
+0 0 3018
+M 0 H 0
+S
+#3020
+Guard Station~
+This is one of the many guard stations within the town of Discordia. Several
+benches occupy this other unremarkable room, along with a stout wooden
+desk along the back wall. Behind the desk, a large rack for hanging weapons
+and armor can be seen. To the south, an entryway leads back onto the busy
+sprawl of Guildsman Row.
+~
+0 262152 1
+E
+keyhole~
+The keyhole is fairly small and uninteresting.  
+~
+D2
+~
+~
+~
+0 0 3016
+M 0 H 0
+S
+#3021
+Entrance to the Guild of the Artisans of Weaponry~
+This could be the entranceway to any dingy warehouse.  Torches hang from
+sconces.  The shadows dance across the walls, which have scores of marks, as
+if axes and other blades have been gouged into them.  The door to the north
+is a heavy wooden sort with a large iron ring as a handle to pull it shut. 
+It fits snuggly in the frame when closed but is usually left ajar.  The
+doorway leads out to Guildsman Way to the north.  The sounds of much
+laughter and a few harsh words comes from what appears to be a rowdy bar to
+the east.  
+~
+0 262156 0
+E
+torch~
+These are mere bundles of some sort of burnable plant material which
+smell to have been dipped in kerosene.  
+~
+E
+torches~
+These are mere bundles of some sort of burnable plant material which
+smell to have been dipped in kerosene.  
+~
+E
+door~
+It is at least three inches thick and rounded at the top.  
+~
+D0
+~
+~
+~
+0 0 3014
+D1
+You see a busy bar area full of rowdy adventurer's.  
+~
+~
+~
+0 -1 3022
+M 0 H 0
+S
+#3022
+The Art of War Bar~
+This is the famed Art of War Bar.  Warriors from all the lands come here
+to drink and lick their wounds.  The bar itself is a heavy wooden structure
+with a long counter.  A large carving of an ancient battle takes up the
+entire wall behind the counter.  Large kegs are stacked up along the north
+wall.  Two of them stand behind the bar.  A basket of pickled eggs sits near
+the entrance.  To the west is the dingy entrance to the Guild.  The training
+room is to the south, often the sounds of battle and the groan of an injured
+comes from that direction.  The room opens up to the east to a wide area in
+which heavy wooden tables are surrounded by drunken warriors of every race. 
+~
+0 262152 0
+E
+carving~
+It would be a rather disturbing scene were it not meant for the eyes of
+those who glorify battle.  The ground is littered with bodies, some of which
+have spears sticking from their chests.  Warriors on horses carry huge axes
+and a few decapitated heads.  
+~
+E
+keg~
+They are formed from planks that have been forced to curve just the right
+way and held tightly in place with thick iron rings.  
+~
+E
+battle~
+It would be a rather disturbing scene were it not meant for the eyes of
+those who glorify battle.  The ground is littered with bodies, some of which
+have spears sticking from their chests.  Warriors on horses carry huge axes
+and a few decapitated heads.  
+~
+E
+basket~
+This is a plain straw basket lined with a red-checkered cloth.  It holds
+about three dozen pickled eggs.  
+~
+E
+egg~
+The appear to be hard-boiled eggs except for the intense vinager smell.  
+~
+D1
+You see a bunch of heavy tables around which sit drunken warriors of all
+races.  
+~
+~
+~
+0 0 3031
+D2
+You see the practice yard.
+~
+~
+~
+0 -1 3023
+D3
+You see a dingy entranceway with poor lighting.  
+~
+~
+~
+0 -1 3021
+M 0 H 0
+S
+#3023
+The Tournament and Practice Yard~
+This room opens up into a huge arena.  From the outside of the guild one
+wouldn't expect to find such a large space here.  The floor is bare dirt
+with large circles imprinted in it.  Inside some of the circles warriors in
+full combat gear are practicing their craft.  Several novice warriors can be
+found here on the sidelines watching the more experienced warriors.  It is
+one of the few places that they are able to watch the adventurers that they
+wish to emulate in action.  
+~
+0 262152 0
+D0
+You see the bar.
+~
+~
+~
+0 -1 3022
+M 0 H 0
+S
+#3024
+Jamal's Imports~
+A fragrant mixture of spice and incense pleasantly assaults your nostrils
+as you enter Jamal's establishment.  The front of the shop is a tangled maze
+of shelves holding a variety of goods from innumerable foreign lands. 
+Ceremonial daggers from Xian, warriors masks from the land of Hdo'Ran,
+funeral urns from distant Riah are intermingled with strange items the like
+of which you have never before seen.  A recent shipment of exotic goods has
+left a trail of {Ypacking {Ystraw{x and {Rclay{x {Rshards{x, leading to the
+back of the shop.  There, wooden crates are stacked, still full of
+inventory.  
+~
+0 262152 1
+E
+straw~
+Bits of packing straw and broken pottery trail across the floor to the back of the room.
+~
+E
+clay~
+Broken shards of pottery crunch underfoot as you make your way about the shop.
+~
+E
+crates~
+The crates are huge, with pieces of packing sticking out on all sides.
+~
+D2
+~
+~
+~
+0 0 3266
+M 0 H 0
+S
+#3026
+The Dark Alley~
+River Lane ends here, and leads directly into a dark passageway. 
+Mischief lurks behind the shadows around you in this grimy alleyway.  Light
+from the street to the south disappears into nothingness as darkness takes
+hold on the passage in front of you.  To the north lies a dimly light
+entrance and to the west you hear laughter and primitive speech.  
+~
+0 262145 1
+E
+guild~
+Many who venture into this hideaway never leave.  Some think death takes
+them, but the magic is so strong that anything is possible.  
+~
+D0
+~
+~
+~
+0 0 3027
+D2
+~
+~
+~
+0 0 3101
+D3
+~
+~
+~
+0 0 3352
+M 0 H 0
+S
+#3027
+Entrance Hall to the Guild of Thieves~
+Lost in the alleyways of this realm lies the guild of thieves.  Many who
+venture into this hideaway never leave.  Rigged and guarded against
+outsiders, it is a haven for those with stealthy talents, to band together
+as a society that helps, and shares each other's secrets.  
+~
+0 262152 0
+D1
+Walls draped in velvet can be made out to the west.  Plush carpets, large
+armchairs and tables filled with every treat imaginable have been set out. 
+Laughter and wellness trail back to you.  
+~
+~
+~
+0 -1 3028
+D2
+~
+~
+~
+0 0 3026
+M 0 H 0
+S
+#3028
+The Thieves Bar~
+Behind secret doors, illusions and false walls, those of the immodest
+arts come together, to learn as well as teach.  Simple tables and chairs
+have been bolted to the floor of this room.  The walls are empty of
+embellishments.  This is a place of strict business, congeniality is lost to
+these bland walls.  Shadows conceal most of the western wall, a secret yard
+lies to the south.  A small sign has been fastened to the bar.  
+~
+0 262156 0
+E
+furniture~
+As you look at the furniture, the chair you sit on disappears.
+~
+E
+sign~
+If you want to get drunk, do it on your own time.  This guild is not
+tolerant and will not have abusers.  Our members time will not be wasted
+with petty drinks and laughter.  So you want to drink?  Go see Gespar!  
+~
+D2
+You see the secret yard.
+~
+~
+~
+0 -1 3029
+D3
+You see the entrance hall to the thieves guild.
+~
+~
+~
+0 -1 3027
+M 0 H 0
+S
+#3029
+The Secret Yard~
+Stealth, swiftness and secrecy are but a handful of the threads that,
+entwined, conceive the Art of Thievery.  Together the thieves are as one,
+and the guild is a place of camaraderie and learning the art.  Practice
+dummies have been set out for sparring purpose.  Stones have been pulled a
+random distance out from walls for climbing.  Here members strive to master
+the arts of their chosen, darker path.  
+~
+0 263180 0
+D0
+You see the bar.
+~
+~
+~
+0 -1 3028
+M 0 H 0
+S
+#3030
+Bedroom~
+An unmade bed sits in the middle of the room.  No other fineries are in
+view.  This bedroom, once respectable enough to sleep in is now filled with
+bad memories and lowly crimes.  The walls are stained with ale and foolish
+men's illusions.  This room is clearly one frequently used for unlawful acts
+of abuse.  No upstanding citizen of Discordia would be seen here.  The only
+exit is back down, into the tavern.  
+~
+0 262152 0
+D5
+~
+~
+~
+0 0 3352
+M 0 H 0
+S
+#3031
+The Art of War Bar~
+Heavy wooden tables are placed randomly about the room here.  It is quite
+loud, rowdy adventurers let down their guards here.  Combat is not allowed
+and only the most foolish warrior would attempt it here.  The ale flows
+freely here and singing is routinely heard.  Along the north wall are large
+iron hooks on which adventurer's hang their heavier weapons.  To the east is
+a long bar behind which sits a rather portly man.  To the south is a warm
+hearth, remarkable in it's size, around which a group of adventurers is
+huddled.  
+~
+0 262144 0
+E
+table~
+These are very crudely put together from a three-inch thick slab of some
+dark wood.  The surface isn't planed correctly and spilled ale collects in
+the low-points.  
+~
+E
+hook~
+Large iron hooks are bolted to the wall here.  Knowing that thieves
+aren't allowed in here, some of the warriors feel comfortable hanging their
+maces, axes and swords on the wall.  
+~
+D2
+You see a group of adventurers lounging around a warm hearth.  
+~
+~
+~
+0 0 3032
+D3
+You see a long wooden bar.  
+~
+~
+~
+0 0 3022
+M 0 H 0
+S
+#3032
+In Front of the Great Hearth~
+Heavy chairs and benches are arranged around a giant hearth.  The heat
+from blazing logs keeps the area very warm.  Warriors can be found gathered
+around the hearth at all hours of the day.  Piles of armor lay at their
+feet.  The stories flow as freely as the ale here.  Warriors brag about
+great battles and show off their scars with pride.  Treasures gained from
+victory in battle are passed around for others to admire.  
+~
+0 262144 0
+E
+hearth~
+It is truly a magnificant hearth.  Three warriors could stand inside the
+fire opening comfortably if it weren't for the fire there.  It has been made
+from grey-{Ggreen{x stones.  The heat is intense here.  
+~
+D0
+You see an area full of heavy tables and drunken warriors.  
+~
+~
+~
+0 0 3031
+D4
+A narrow staircase leads up into darkness.  
+~
+~
+~
+0 0 3033
+M 0 H 0
+S
+#3033
+Soaking Room~
+This is the room where weary warriors come to recover from their
+adventures.  The lighting from small candles is soft and soothing.  Lockers
+are available to hold all of a warriors belongings while they settle into
+one of the steaming tubs that sit in the room.  A young maid sits on a high
+wooden stool making sure that the water is kept hot and that the bathers
+have everything needed for relaxing.  
+~
+0 33816576 0
+D5
+A warm glow comes from downstairs.  
+~
+~
+~
+0 0 3032
+M 0 H 0
+S
+#3034
+Soaking in the Bronze Tub~
+You settle into the steaming hot water up to your chin.  The soothing
+water cleans your wounds and relaxes your muscles.  Someone has added flower
+petals and herb sprigs which have medicinal qualities.  It would be easy to
+snooze here awhile and let your guard down.  You don't even notice the other
+tubs full of warriors who are themselves recovering from their adventures.  
+~
+0 262144 0
+D0
+~
+~
+~
+0 0 3033
+M 0 H 0
+S
+#3035
+Soaking in the Copper Tub~
+You settle into the steaming hot water up to your chin.  The soothing
+water cleans your wounds and relaxes your muscles.  Someone has added flower
+petals and herb sprigs which have medicinal qualities.  It would be easy to
+snooze here awhile and let your guard down.  You don't even notice the other
+tubs full of warriors who are themselves recovering from their adventures.  
+~
+0 262144 0
+D1
+~
+~
+~
+0 0 3033
+M 0 H 0
+S
+#3036
+Soaking in the Wooden Tub~
+You settle into the steaming hot water up to your chin.  The soothing
+water cleans your wounds and relaxes your muscles.  Someone has added flower
+petals and herb sprigs which have medicinal qualities.  It would be easy to
+snooze here awhile and let your guard down.  You don't even notice the other
+tubs full of warriors who are themselves recovering from their adventures.  
+~
+0 262144 0
+D2
+~
+~
+~
+0 0 3033
+M 0 H 0
+S
+#3037
+The Meditation Chamber~
+Waves of calmness and serenity wash over you as you enter this domed room.
+The walls are cut from solid slabs of clear quartz and provide a splendid
+view of the surrounding town and countryside. Unlike the rest of the tower,
+no light sources are evident here. It is apparent that whoever constructed
+this chamber preferred the natural illumination of the sun and stars. You
+notice a faint resonance filling the air, reverberating off the walls and
+filling the room with magical energy. You feel completely at one with your 
+body and mind. You notice several down pillows scattered about the floor
+to provide cushioning to those who wish to meditate here. A spiral
+staircase leads down into the tower from here.
+~
+0 262152 1
+D5
+You see a spiral staircase leading down into a laboratory.
+~
+~
+~
+0 0 3019
+M 0 H 0
+S
+#3041
+Guildsman Row~
+You are standing before a small building along the sprawling roadway
+known as Guildsman Row.  Hanging above its quaint little entrance to the
+north is a small brightly painted sign reading: "Kimil's Adventuring
+Supplies".  The road continues to both the east and west from this point. 
+You do notice that to the east, it seems to end at a junction with both the
+Eastern Discordia River and another street.  
+~
+0 262144 1
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+D0
+~
+~
+~
+0 0 3118
+D1
+~
+~
+~
+0 0 3053
+D3
+~
+~
+~
+0 -1 3016
+M 0 H 0
+S
+#3042
+Entrance Hall to the Adventurers' Guild~
+Well polished brass doors, securely fastened to the walls, frame this
+grand entrance way.  The loud sounds of raucous laughter over the faint
+clash of steel on steel can be heard filtering in over the fine red carpet
+leading into the building.  A large sign, polished to a sheen, proudly
+proclaims this building as the Adventurer's Guild.  Rumor has it that the
+finest heroes of the land frequent this place to trade stories and rest from
+many hard days and nights of heroism.  You can return to Guildsman Row to
+the north or continue into the guild to the south.  
+~
+0 262152 1
+D0
+~
+~
+~
+0 0 3016
+D2
+~
+~
+~
+0 -1 3043
+M 0 H 0
+S
+#3043
+The Adventurer's Lounge~
+Loud conversation and raucous laughter fill the smoke filled air of this
+finely furnished bar.  Shadows cast from the hanging candelabras dance
+across the room in an almost hypnotic pattern.  The air is filled with the
+scent of foreign spices intermingled with the strong aroma of finely brewed
+ale.  Although the bar is quite busy, several open booths can be seen
+towards the back in the shadows.  You can leave the bar through the northern
+archway which leads to the entryway or by passing through a bead covered
+doorway to the south.  As you consider your options, you hear a loud grunt
+of pain followed by a flurry of clashing such as two swords would make when
+striking each other.  
+~
+0 262152 1
+D0
+~
+~
+~
+0 -1 3042
+D2
+~
+~
+~
+0 -1 3047
+M 0 H 0
+S
+#3047
+The Training Hall~
+This large chamber is surrounded by a ring of stadium bleachers which run
+ten rows deep. A large sparring mat rests within the center of the floor
+and you notice that it is heavily gouged and charred in some spots. On
+closer examination you can even make out the faint stains of droplets of
+blood. Well used practice dummies are stationed around the edge of the mat
+near the bleachers for ease of moving on and off the training area. You
+can exit this room through a beaded archway to the north.
+~
+0 263176 1
+D0
+~
+~
+~
+0 -1 3043
+M 0 H 0
+S
+#3053
+The Corner of Adventurer's Lane and Guildsman Row~
+The sprawling thoroughfare of Guildsman Row ends here at a scenic view of
+East Discordia River.  A steep, grass covered bank drops off directly to the
+edge of the clear waters down and to the east.  To the north, the narrow,
+brick covered street of Adventurer's Lane can be seen winding off into the
+distance.  
+~
+0 262144 1
+D0
+~
+~
+~
+0 0 3007
+D3
+You see the sprawling expanse of Guildsman Row continuing beyond your vision.
+~
+~
+~
+0 0 3041
+M 0 H 0
+S
+#3054
+{CCast Into Oblivion{x~
+You awaken to find yourself floating in an endless void. You are consumed
+in darkness and your body feels numb and is totally unresponsive to your
+commands. After what seems to be an eternity, a strong, cold breeze blows
+across your body. Tremors of pain and tingling wrack your senses as you slowly
+regain feeling and control of your body. Eventually the pain subsides and you
+notice a bright {Wlight{x below you. As you watch, you notice the light growing
+larger and brighter. After seconds of contemplating on what to do, you
+realize that its not the light approaching you. It seems as if the cool
+breeze has been blowing you towards the light all along. Just when that
+thought crosses your mind for contemplation, the breeze increases in
+intensity, becoming a strongly blowing gale. As you drift towards the light,
+you feel a powerful presence beckon you towards the light, almost as if it
+wants you to enter it.
+~
+0 34874380 1
+D5
+You see a blinding light. It beckons towards you and pulls at you as if it
+wants you to descend down into it.
+~
+~
+~
+0 0 20282
+M 0 H 0
+S
+#3055
+Adventurer's Lane~
+Adventurer's Lane is a narrow city street, little more here than an alley 
+between an ancient stone wall to the north, and the back of a beautiful 
+stone building to the south.  Directly east is the Discordia Academy.  
+Adventurer's Lane continues east and west.  To the south, a worn-looking 
+building stands with a weathered sign hanging above its doorway.  
+~
+0 262148 1
+E
+sign~
+~
+D1
+~
+~
+~
+0 0 3005
+D2
+~
+~
+~
+1 0 20202
+D3
+~
+~
+~
+0 0 15000
+M 0 H 0
+S
+#3060
+Secret Healing Alcove~
+This room will be imped once +regen is imped.  There will be a mob in the
+main room with a key that disappears when the room repops or after so many
+ticks.  If the player is not good, then guard mobs will assist the fight. 
+The room will also be solitary, and If I find others 'say'ing the location
+to others, I'll nochannel them for a few hours or something like that for
+the 'curse'...  That is if I have the command by the time +regen is imped ;)
+~
+0 1311246 0
+M 0 H 0
+S
+#3100
+River Lane~
+River Lane is a quiet road that follows the East Discordia River along
+its west bank.  A startled muskrat scurries across your path and races down
+the bank to the water below.  Looking down, you can see large rocks rising
+from swirling rapids.  The lane continues northwards, hugging the back walls
+of buildings to the west, and the river to the east.  Rheol's Bridge is to
+the south.  
+~
+0 262144 1
+E
+muskrat~
+All you can see is a rat-like tail disappear into the reeds lining the river bank.
+~
+D0
+~
+~
+~
+0 0 3101
+D2
+~
+~
+~
+0 0 20073
+M 0 H 0
+S
+#3101
+River Lane~
+You can see the East Discordia River wind its way north to the mountains
+and south to the fertile valleys of the fork.  To the west, there is an
+alley between two buildings.  The lane continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+~
+0 0 3026
+D2
+~
+~
+~
+0 0 3100
+D3
+~
+~
+~
+0 0 3102
+M 0 H 0
+S
+#3102
+Between Two Buildings~
+The alleyway is dark from the shadows cast by the buildings on the
+north and south sides.  It is eerily quiet and the apparent peacefulness of
+this place is somehow less than reassuring.  The alley continues east and
+west.  
+~
+0 262145 1
+D1
+~
+~
+~
+0 0 3101
+D3
+~
+~
+~
+0 0 3103
+M 0 H 0
+S
+#3103
+An alleyway~
+Buildings crowd around the narrow alleyway on each side, blocking the sun
+at all times but the peak of the day.  The alley continues in darkness to
+the north, however, to the south there is brightness, and the cheerful
+hubbub of Market Avenue.  
+~
+0 262149 1
+D0
+~
+~
+~
+0 0 3104
+D1
+~
+~
+~
+0 0 3102
+D2
+~
+~
+~
+0 0 20372
+M 0 H 0
+S
+#3104
+A Narrow Alley~
+It is a quiet back lane, with little traffic, but not entirely solitary. 
+The alleyway is narrow and dark, due to buildings all around.  It opens to
+the north upon a wide busy street, and continues south.  Occasionally, loud
+noises and voices echo through the alley, from the busy streets beyond.  
+~
+0 262145 1
+D0
+~
+~
+~
+0 0 3015
+D2
+~
+~
+~
+0 0 3103
+M 0 H 0
+S
+#3105
+The Golden Dragon Inn~
+You stand within the ornate foyer of the Golden Dragon Inn.  Flickering
+light, from two elaborate and expensive chandeliers, splay across the aged
+mahogany walls.  Brass plaques, hung expertly on the wall, reflect the light
+and seem to try and draw the attention of any onlookers.  Above you, hanging
+proudly on the wall, is the humongous stuffed head of an ancient golden
+dragon.  It seems to look out upon the foyer with a mixture of sorrow and
+humility in its eyes.  Hauntingly beautiful music filters in through the
+archway to the north, lifting your spirits and making you wonder how the
+innkeeper could afford such a fine musician.  You can return to Guildsman
+Row through the entrance to the south.  
+~
+0 262152 1
+D0
+~
+~
+~
+0 0 3106
+D2
+~
+~
+~
+0 0 3014
+M 0 H 0
+S
+#3106
+The Common Room~
+Hauntingly beautiful music, from a time long past, filters through the
+hazy air. You can detect the scent of finely brewed ale intermixed with
+the strong aroma of burning cypress mingling together in the air. A large
+bar fills the entire western wall, its various bottles and glass reflecting
+the light from the cozy stone fireplace set within the northern wall. Hushed
+whispers can be heard over the music from the numerous patrons inhabiting
+the aged pine tables scattered about the room, almost reverent in their
+volumes. To the right of the fireplace is a slightly raised dias used to
+ensure that all of the patrons will have an excellent view of the
+entertainment. To the left of the fireplace, a worn spiral staircase can
+be seen leading up into the inn proper. To the east, through a swinging
+door, you detect the faint sounds of banging pots. You can return to the
+foyer through an entryway to the south.
+~
+0 262156 1
+D1
+~
+~
+~
+0 0 3107
+D2
+~
+~
+~
+0 0 3105
+D4
+~
+~
+~
+0 0 3108
+M 0 H 0
+S
+#3107
+The Fabled Kitchen~
+The aromatic smell of spices mixed with the scent of freshly baked bread
+assaults your nose as you enter this well kept and nearly spotless kitchen. 
+Over then loud crashing of pots and pans, you can hear meat sizzling on a
+large grill along the back wall.  Smoke from the grill slowly filters out of
+the room through a small brass vent is the ceiling.  You can see the common
+room through an archway to the west or you can exit through a closed door to
+the east.  
+~
+0 262152 1
+D1
+~
+doorway~
+~
+1 0 3116
+D3
+~
+~
+~
+0 0 3106
+M 0 H 0
+S
+#3108
+The Landing~
+This is the large landing of a spiral staircase that leads down into the
+inn's common room.  From below, you can hear beautiful music wafting up upon
+the scent of burning cypress.  To the north a large door made of cypress,
+apparently hewn from a single piece, covers a large archway.  Its handles
+are made of polished brass and reflect the torchlight across the landing. 
+Doors leading into rooms can be seen on both the east and west wall while to
+the south a hallway continues on.  
+~
+0 262152 1
+D0
+~
+cypress~
+~
+1 0 3117
+D1
+~
+~
+~
+1 0 3110
+D2
+~
+~
+~
+0 0 3111
+D3
+~
+~
+~
+1 0 3109
+D5
+~
+~
+~
+0 0 3106
+M 0 H 0
+S
+#3109
+A Cosy Room~
+This small room is well furnished by a small cypress posted bed with a
+thick down mattress.  A small armoire made of scarred and aged cypress rests
+against the northern wall.  By the looks of its small adorning mirror and
+miniature drawers, it becomes apparent that this room was meant for some of
+the establishments smaller guests.  
+~
+0 262157 1
+D1
+~
+~
+~
+1 0 3108
+M 0 H 0
+S
+#3110
+A Small Room~
+The smell of {Rblood{x and decay fill you nostrils as you enter this small
+room.  Feathers, from the ripped mattress of the small bed in the center of
+the room, a strewn about the rooms.  Congealed {Rblood{x covers the walls and
+the down feathers, staining their {Wwhite{x surface a malignant pink.  Hanging
+from the lantern in the center of the ceiling is the severed head of what
+appears to be a young human male.  As you watch, it's eyes open wide and its
+lips form into a sinister grin.  As the head begins to cackle madly,
+everything within your vision begins to blur.  When your vision clears you
+find yourself in a small, neatly cleaned guest chamber.  The {Rblood{x and
+feathers are gone and everything seems in order.  The bed, although neatly
+made, appears to have been recently sat upon.  
+~
+0 262152 1
+D3
+~
+~
+~
+1 0 3108
+M 0 H 0
+S
+#3111
+The End of the Hall~
+Brass lanterns, hung high upon the arched ceiling of this hallway cast
+their illumination across the smoothly sanded surface of the cypress wood
+floor.  Rooms branch from the hall to both the east and west.  To the south
+you feel a faint breeze blowing though an open entryway.  Peering through
+it, you can see a large balcony complete with chairs and a table.  The hall
+continues to the north where more rooms can be seen as well as a circular
+staircase leading down.  
+~
+0 262152 1
+D0
+~
+~
+~
+0 0 3108
+D1
+~
+~
+~
+1 0 3113
+D2
+~
+~
+~
+0 0 3114
+D3
+~
+~
+~
+1 0 3112
+M 0 H 0
+S
+#3112
+A Guest Room~
+A single dark lantern provides the only possible source of illumination
+for this large dark room.  The faint aroma of fresh lemons fill the air,
+gently settling around you like a whisper.  In the center of the room is a
+large cypress post bed complete with tautly made satin sheets and a fluffy
+down mattress.  On the far wall of the room is a dust free vanity chest
+adorned by a large mirror.  
+~
+0 262157 1
+E
+mirror~
+You glance into the mirror and see a horrible visage staring back at you.
+You are momentarily shocked until you realize that it is only your
+reflection.  
+~
+D1
+~
+~
+~
+1 0 3111
+M 0 H 0
+S
+#3113
+A Guest Room~
+The soft illumination of a single hooded lantern gently flows across the
+wood grain walls of this large guest room.  A thick bear skin carpet lies
+slightly rumpled up at the foot of a large cypress post bed.  A soft down
+mattress is covered by rumpled sheets of satin, making it quite apparent
+that someone has used this room recently.  On the far wall across from the
+bed, a large vanity chest adorned by a large mirror can be seen.  In front
+of the mirror is a small stool that appears to have been carved from a solid
+piece of cypress.  
+~
+0 262156 1
+E
+mirror~
+As you peer at the mirror, you are confronted by a horrible visage.  You
+are almost momentarily startled until you realize that its simply your
+reflection.  
+~
+D3
+~
+~
+~
+1 0 3111
+M 0 H 0
+S
+#3114
+The Grand Balcony~
+The vast sprawl of Discordia Town winds out into the distance.  Looking
+out over the carved handrails of the sturdy cypress wood balcony, You can
+see the busy streets of Guildsman Row.  Your elevation of about 30 feet
+above the street gives an excellent vantage point for observations of the
+nearby surroundings.  Across from the balcony and to the south, your view is
+somewhat obstructed by a large building.  It's rustic and near fortress-like
+appearance makes it apparent that it is most likely the Warriors' Guild. 
+You can return to the inn proper to the south or you can take your chances
+below by scrambling over the handrails.  
+~
+0 262148 1
+D0
+~
+~
+~
+0 0 3111
+D5
+~
+~
+~
+0 0 3133
+M 0 H 0
+S
+#3115
+A Small Alley~
+Dark shadows play across this small alleyway, filling it with a sense of
+gloom.  The faint stench of garbage gently wafts in upon a light breeze.  To
+the west, the alley turns into a dead end.  The winding street known as the
+Divine Crescent opens up to the south.  
+~
+0 262144 1
+D2
+~
+~
+~
+0 0 3267
+D3
+~
+~
+~
+0 0 3116
+M 0 H 0
+S
+#3116
+A Trash Filled Alley~
+This dark alley is lined with several large trash cans. Wafting into the air
+is the horrendous stench of rotting food intermingled with the smells of
+sour liquor and vomit. The alley gets slightly lighter to the east and a
+large wooden door can be seen leading into a building to the west.
+~
+0 262149 1
+D1
+~
+~
+~
+0 0 3115
+D3
+~
+doorway~
+~
+1 0 3107
+M 0 H 0
+S
+#3117
+The Shared Bath~
+The smell of fresh soap permeates the air of this well cleaned and
+sanitized bath chamber.  Light from a large brass lantern reflects off the
+highly polished tiled walls and floors and shimmers faintly off the bronze
+bath fixtures.  A large tub fills the entire expanse of the northern wall,
+its hot, clear waters constantly refreshed from an unseen source.  A large,
+polished mirror covers the eastern wall over a large sink and bassinet.  On
+the southern wall, several towel and clothes racks display pure {Wwhite{x
+linen towels.  
+~
+0 33816588 1
+D2
+~
+cypress~
+~
+1 0 3108
+M 0 H 0
+S
+#3118
+Kimil's Adventuring Supplies~
+Kimil's Supplies is on a grand scale.  The dimensions of the store are
+that of a warehouse.  Shelves reach as high as the beamed ceiling, and are
+jammed with stock.  All types of adventuring needs are catered to here. 
+Travel gear for wintry regions, mountaineering equipment, canoes and kayaks
+for water travel, as well as all the necessities for lonely long distance
+hiking.  The store has a musty smell about it, mostly rising from the old
+warriors' surplus at the back.  There, you can see dusty stacks of padded
+jerkins, flannel peacoats and heavy rain gear, undoubtedly moth infested and
+reeking of mildew.  
+~
+0 262152 1
+E
+shelves~
+The shelves are stacked with every imaginable need for the traveller.
+~
+E
+canoe~
+Brightly painted {rRed canoes{x and {rkayaks{x neatly line one wall of the store.  They look to be lightweight and of good construction.
+~
+D2
+~
+~
+~
+0 0 3041
+M 0 H 0
+S
+#3119
+A grand foyer~
+Brightly stained {Rred{x cherry lined with onyx framework embraces the highly
+polished brass lanterns and metal work on the smooth walls of this grand
+foyer.  Light gently cascades down, illuminating the expertly tiled mosaic
+on the floor.  You can see the edge of a plush azure carpet through an
+archway to the north while a set of double doors lead to the busy street to
+the south.  
+~
+0 262152 1
+E
+mosaic~
+A beautiful golden dragon entwined around a large curving sword adorns
+this expertly crafted tile mosaic.  Unlike most of its kind, this dragon is
+long and snake like and completely without wings.  
+~
+D0
+~
+~
+~
+0 0 3120
+D2
+~
+double~
+~
+4 3171 3259
+M 0 H 0
+S
+#3120
+A finely furnished living room~
+Plush {cazure{x carpet of exquisite craftsmanship covers the hardwood
+floor of this large living chamber.  Brass lanterns adorn the stained
+{Rcherry{x and onyx framed walls creating an atmosphere of luxury and
+wealth.  Sofas and chairs of thick, comfortable looking down are
+meticulously arranged around a glowing brass fireplace in the northeastern
+corner of the room.  A large portrait of an aged man covers the wall
+immediately over the hearth.  Adorning the other walls are framed scrolls
+with unrecognizable symbols painted upon their surfaces in a myriad of
+bright colors.  Exits lead in all directions.  
+~
+0 262152 1
+E
+portrait~
+This portrait is life-like in both quality and craftsmanship. The gentlman
+is balding and is wearing a long white robe.
+~
+E
+fireplace~
+The brass hearth of this fireplace sparkles wildly in the flickering fire
+from within it. You can feel heat radiating out from its glowing coals.
+~
+D0
+~
+~
+~
+0 0 3124
+D1
+~
+~
+~
+0 0 3121
+D2
+~
+~
+~
+0 0 3119
+D3
+~
+~
+~
+0 0 3123
+M 0 H 0
+S
+#3121
+The Banquet Hall~
+A large room opens before you, and any movement you make echoes off the
+walls and floor.  The luxury of the room is seen in the hardwood floor,
+unmarred in any way, and two large candelabras hang from the ceiling over
+the long table.  Three large windows line the eastern wall, spaced evenly
+apart and running from floor to ceiling.  Sheer white curtains hang loosely
+and pool on the floor as they do little more than add to the decor of the
+room.  In between the windows are two pictures, one of a young man who faces
+to the middle window and the other of a young woman who faces from the other
+direction to the middle window.  The southern wall is filled mostly with a
+large fireplace, the mantle being taller than a normal man.  
+~
+0 262152 1
+E
+pictures~
+The young man in the picture vaguely resembles the pictures of the old
+man in the other rooms, and is probably the same man.  The woman in the
+other picture is extremely beautiful, though she looks rather frail.  
+~
+D0
+~
+~
+~
+0 0 3122
+D3
+~
+~
+~
+0 0 3120
+M 0 H 0
+S
+#3122
+A Large Kitchen~
+The room contrasts sharply with the other lavish rooms in the house, as
+it's filled with the highest technology and stainless steel appliances.  The
+ceramic tiled floor helps keep the room slightly cooler, though when the
+large oven is on, it makes little difference.  In the far corner is a large
+stainless steel refrigerator, next to which is a double sink below a window.
+Filling the middle of the room is a heavy wood counter with pots hanging
+over hand and drawers all around the edge, one of which is slightly open,
+showing silver flashing inside.  
+~
+0 262152 1
+D2
+~
+~
+~
+0 0 3121
+M 0 H 0
+S
+#3123
+The Trophy Room~
+The room shines with a gold light, from the natural light of the room
+reflecting off many trophies and plaques set on shelves and hung on the
+walls.  The floor is covered with a dark red oriental rug, and centred in
+the room is a circular sofa, so all the treasures can be seen from any angle
+comfortably.  A large window opens in the west wall, and below this is a
+small table.  
+~
+0 262152 1
+E
+table~
+The dark wood gleams with a high polish, and its simple lines draw even
+more attention to it.  A large Samari helmet is placed with honour in the
+centre of the table.  Set next to the helmet is a small pewter vial.  
+~
+D1
+~
+~
+~
+0 0 3120
+M 0 H 0
+S
+#3124
+The Narrow Hallway~
+Deep golden hardwood floor peeks out from between dark scarlet rugs
+spread evenly down the hall.  The rugs are speckled with a delicate cherry
+blossom design, and fringed in gold.  Eggshell coloured walls remain mostly
+bare, leaving clean lines for the length of the hall, though three frosted
+conical lights are spaced evenly along the eastern wall.  Just before the
+western exit, a dark cherry wood cabinet sits low to the floor.  An
+identical cabinet is set just past the west exit, though along the eastern
+wall.  On both are frosted vases, overflowing with cherry tree branches in
+full blossom.  
+~
+0 262152 1
+E
+cabinet~
+The sharp clean lines of the dark glossy wood contrast sharply with the
+pale delicate curves of the vase and flowers.  
+~
+D0
+~
+~
+~
+0 0 3125
+D2
+~
+~
+~
+0 0 3120
+D3
+~
+~
+~
+0 0 3126
+M 0 H 0
+S
+#3125
+The Spiral Staircase~
+Large stones make the walls of this rounded room.  A black steel spiral
+staircase goes up into darkness.  Small slits of windows follow the winding
+path up to another level.  Each window splashes bright colours onto the
+black steel from the amazing stained glass patterns set in them.  A
+high-pitched whistling can be heard coming from the drafts in this room
+moving through the grating of the staircase.  
+~
+0 262152 1
+D2
+~
+~
+~
+0 0 3124
+D4
+~
+~
+~
+0 0 3128
+M 0 H 0
+S
+#3126
+The Dojo~
+Light fills the room from all directions but east from illuminated rice
+paper walls.  Strong wooden beams can be seen supporting the
+bamboo-decorated roof through the rice paper, and the golden wood from the
+hallway covers the entire floor.  The high polish on the floor reflects back
+the light from the walls, and makes it look like there is a thin layer of
+still water covering the wood.  Hanging from a few of the beams are
+intricately carved swords, the metal blades contrasting with the delicate
+ivory grips.  To the right of the eastern door is a small black and white
+picture of the same elderly man seen in other pictures in this house.  
+~
+0 262152 1
+E
+picture~
+In a simple black wooden frame is a black and white photograph of an
+elegant man, the same seen in previous rooms.  His brow shows his
+aristocracy and strength, though a small smile crosses his lips showing his
+compassion.  This picture being hung as the only object on this one wall
+places it in high importance, indicating that this picture has been watched
+and admired by many students who pass through this Dojo.  
+~
+E
+beams~
+A long wooden pole rests lightly against the paper walls, it's high
+polish matching that of the floor.  Hanging from a beam to the left of the
+bow is a large elaborate Samari sword, its delicate ivory handle attached to
+a strong metal blade.  Folded neatly in the corner is some silk, as dark as
+night, and as soft looking as a kittens fur.  
+~
+D0
+~
+~
+~
+0 0 3127
+D1
+~
+~
+~
+0 0 3124
+M 0 H 0
+S
+#3127
+The Rocky Pool~
+Stepping from the dojo to the south, you find yourself surrounded by
+water on a small bamboo dock.  The pool itself is raised above the
+landscape, held in place by many large boulders and rocks.  In the distance,
+a small bubbling of water can be heard, and you can see the water cascading
+over a pink rock into the landscape below.  Hanging from the roof of the
+dojo are bamboo wind chimes that bring a calming sound that echoes back and
+forth between trees.  Brightly coloured flowers peek out from between rocks,
+and green ferns reach to look at their reflection in the still water. 
+Floating slowly along the surface of the water are pale yellow and pink
+lilies that perch themselves on their dark green lily pads.  The water is
+extremely clear, and looking down you can see right to the rounded stones
+below.  
+~
+0 262144 1
+E
+pool~
+Clear water lets you see the stones lining the base of the pond.  Small
+ripples on the surface of the water turn the underwater world into an
+abstract one.  Golds and bright oranges dart around under the water as the
+large pond fish search for food.  A large bubble floats on the surface of
+the water near you.  
+~
+E
+pond~
+Clear water lets you see the stones lining the base of the pond.  Small
+ripples on the surface of the water turn the underwater world into an
+abstract one.  Golds and bright oranges dart around under the water as the
+large pond fish search for food.  A large bubble floats on the surface of
+the water near you.  
+~
+E
+water~
+Clear water lets you see the stones lining the base of the pond.  Small
+ripples on the surface of the water turn the underwater world into an
+abstract one.  Golds and bright orangesdart around under the water as the
+large pond fish search for food.  A large bubble floats on the surface of
+the water near you.  
+~
+D2
+~
+~
+~
+0 0 3126
+M 0 H 0
+S
+#3128
+The Artsy Landing~
+The same eggshell white walls are just barely visible here, as the walls
+are mostly covered with various sized paintings.  All sorts of genres of art
+are mixed in with each other.  The bright paintings of a more abstract style
+almost clash with the dark tones of baroque pieces, though standing from a
+distance makes them look beautiful together, instead of as separate pieces. 
+Only one large area is left uncovered by art, and that's the large picture
+window set in the northern wall.  
+~
+0 262152 1
+D2
+~
+~
+~
+0 0 3129
+D5
+~
+~
+~
+0 0 3125
+M 0 H 0
+S
+#3129
+The Enormous Bedroom~
+The stark bareness of this room contrasts sharply with the clutter of the
+hallway.  It seems as though the owner of this house loves art, though likes
+bareness in his rooms as well.  A thick plush carpet of a neutral beige
+keeps all noises in here to a whisper, and only a large wardrobe, bed, table
+and chair mark the carpet.  Two large windows are left open, leaving the
+wispy sheer white curtains to blow gracefully in even the smallest breeze.  
+~
+0 262152 1
+D0
+~
+~
+~
+0 0 3128
+D1
+~
+~
+~
+0 0 3130
+D3
+~
+~
+~
+0 0 3131
+M 0 H 0
+S
+#3130
+The Lavish Bath~
+Ceramic tiles lining the floor and walls keep the room a few degrees
+cooler than the rest of the house.  A sunken tub lines the eastern wall, and
+it looks as though at least three people could fit in there comfortably. 
+Glass counters and sink leave the room feeling larger than it actually is,
+and a white toilet blends into the wall opposite the sink.  Many small white
+lights sparkle above your head, acting like stars that get reflected in the
+large mirror above the sink.  Lining the wall-ceiling joint are glass blocks
+to let in natural light, and these stop a foot below the ceiling.  A fuzzy
+dark green rug fits between the sink, toilet and tub to help keep ones feet
+warm.  
+~
+0 262152 1
+D3
+~
+~
+~
+0 0 3129
+M 0 H 0
+S
+#3131
+The Reading Room~
+Large windows let in natural light which makes the dark cherry woods of
+the room glow warmly.  Books fill the shelves and over flow onto the
+delicately upholstered couches.  Brightly coloured Tiffany lights adorn the
+small tables scattered about the room, illuminating rolled scrolls beneath
+them.  A large fireplace is built of flagstone and almost fills the west
+wall.  On the mantle are candles and vases full of flowers in bloom. 
+Centred above it is a large picture of cliffs with a bonsai tree as the main
+focus along with herons.  A glass door with white sheer curtains barely
+hiding the amazing view outside is to the north.  
+~
+0 4456456 1
+E
+tables~
+Three small tables are scattered about the room.  Beneath each brightly
+coloured Tiffany lamp are some tightly rolled scrolls.  Each scroll is on a
+different colour of paper; white, yellow, pink and a light blue.  A hot red
+seal is placed on each to keep them rolled.  
+~
+D0
+~
+~
+~
+0 0 3132
+D1
+~
+~
+~
+0 0 3129
+M 0 H 0
+S
+#3132
+The Serene View~
+The wonderful smell of plants and flowers and fresh air invades your
+nose.  The sound of trickling water rises from below, as looking down you
+can see the pond amidst branches of trees.  Looking above the trees you can
+see majestic mountains rising in the distance.  The purplish hue of these
+mountains makes the green of the trees more intense.  Bamboo wind chimes
+sound softly in the background from where they hang on the corner of the
+roof.  
+~
+0 262144 1
+D2
+~
+~
+~
+0 0 3131
+D5
+~
+~
+~
+0 0 3127
+M 0 H 0
+S
+#3133
+Above Guildsman Row~
+You are about 15 feet above the busy streets of Guildsman Row.  The
+smooth wooden face of the Golden Dragon Inn is to your north.  Above that, a
+sturdy looking balcony can be seen protruding outwards.  To you south you
+can see a large fortress-like structure which is known as the Warriors'
+Guild.  You can return to the street below or attempt to make you way above
+to the balcony.  
+~
+0 262144 9
+D4
+~
+~
+~
+0 0 3114
+D5
+~
+~
+~
+0 0 3014
+M 0 H 0
+S
+#3257
+A Turn in Adventurer's Lane~
+The brick covered streets of Adventurer's Way slowly meanders away from the
+river's edge as it gradually makes a turn to the west here towards a junction
+with the Divine Crescent. The gurgle of flowing water can be barely made
+out over the din of this busy section of town. To the south, the street
+can be seen passing closer to the water near a pier.
+~
+0 262144 1
+D2
+~
+~
+~
+0 0 3007
+D3
+~
+~
+~
+0 0 3258
+M 0 H 0
+S
+#3258
+An Intersection on Adventurer's Lane~
+Adventurer's Way intersects here with the twisting road known simply as
+the Divine Crescent.  To the east, the road takes a sharp bend to the south,
+running parallel to the rocky shores of the East Discordia River.  Far off
+in the distant north, majestic snow capped peaks can be seen keeping watch
+over the twin river valley.  
+~
+0 262144 1
+D1
+~
+~
+~
+0 0 3257
+D2
+~
+~
+~
+0 0 3264
+D3
+~
+~
+~
+0 0 3259
+M 0 H 0
+S
+#3259
+Adventurer's Lane~
+You are on the brick covered roadway known as Adventurer's Way which is 
+correctly named as such due to the large number of famous adventurers who 
+claim it for their residences.  To the north is an elaborate mansion adorned 
+with finely manicured hedges and other trappings of wealth.  Its simple yet 
+amazingly beautiful design is made much more so by the fact that it well 
+framed by majestic snow capped peaks far to the north.  Adventurer's way 
+runs to both the east and west from this point while a large set of double 
+doors leads into the mansion to the north.  A sign hangs over the door that 
+leads southward, proclaiming the shop as {cGreck's Armoury{x.  
+~
+0 262144 1
+D0
+~
+double~
+~
+4 3171 3119
+D1
+~
+~
+~
+0 0 3258
+D2
+~
+~
+~
+0 0 20005
+D3
+~
+~
+~
+0 0 3260
+M 0 H 0
+S
+#3260
+Adventurer's Lane~
+This road, simply known as Adventurer's Way, winds to both the east and west 
+from this point.  To The west you see an intersection with another road 
+before a large almost fortress-like building.  It looks quite formidable and 
+well defended in its design, as if it could withstand a large assault.  To 
+the north, you see majestic mountains rising above the horizon.  A discreet 
+door leads southward, above which a sign hangs, reading: {cTrade Your Blade{x.  
+~
+0 262144 1
+D1
+~
+~
+~
+0 0 3259
+D2
+~
+~
+~
+0 0 20029
+D3
+~
+~
+~
+0 0 3005
+M 0 H 0
+S
+#3264
+A Turn in The Crescent~
+The Divine Crescent takes a sharp turn here from the west to the north,
+where it can be seen intersecting with the bricked roadway known as
+Adventurer's Lane.  Beyond the intersection and far to the north, majestic
+mountains with sparkling snow covered peaks can be seen keeping watch out
+over the twin river valley.  
+~
+0 262144 1
+D0
+~
+~
+~
+0 0 3258
+D3
+~
+~
+~
+0 0 3265
+M 0 H 0
+S
+#3265
+The Divine Crescent~
+You are standing on the street simply known as the Divine Crescent, which
+runs to both the east and west from this point. Over the buildings and far
+to the north, majestic snow covered peaks can be seen rising above the
+horizon. To the east, the Crescent takes a sharp turn to the north.
+~
+0 262144 1
+D1
+~
+~
+~
+0 0 3264
+D3
+~
+~
+~
+0 0 3266
+M 0 H 0
+S
+#3266
+Along The Crescent~
+The Divine Crescent runs both to the east and west from this point. To the
+north you can see an elaborate entryway leading into a large building owned
+and operated by Jamal. Widely known for both the quality and rarity
+of his imported items, it is quite obvious by the grandness of this building
+that he has done very well for himself. To the south you see the face of
+a large building.
+~
+0 262144 1
+D0
+~
+~
+~
+0 0 3024
+D1
+~
+~
+~
+0 0 3265
+D3
+~
+~
+~
+0 0 3267
+M 0 H 0
+S
+#3267
+A Turn in The Crescent~
+You are on a winding road simply known as The Divine Crescent. From this
+sharp turn, it runs to both the east and to the south where it intersects
+with a busy portion of Guildsman Row. To the north, a narrow alley leads
+between the Golden Dragon Inn and Jamal's Imports. From this vantage point
+you can also make out another alley beyond the intersection to the south.
+~
+0 262144 1
+D0
+~
+~
+~
+0 0 3115
+D1
+~
+~
+~
+0 0 3266
+D2
+~
+~
+~
+0 0 3015
+M 0 H 0
+S
+#3300
+Donation Room~
+This large warehouse styled building was erected in ancient times to assist
+the heroes of the land. Made with exquisite materials and fashioned by
+the finest craftsman, this structure was built to last an eternity. Its
+smooth onyx walls glimmer with a high sheen, obviously due to years of
+excellent upkeep and polishing. The perfectly tiled floors have been
+etched with the names of all the heroes who have died defending the realms.
+On the far side of the building you notice several tiles yet to be etched.
+Perhaps someday your name too will be etched upon the face of a tile,
+forever honouring your deeds. An archway exits the building to the south.
+~
+0 263180 1
+D2
+~
+~
+~
+0 0 3008
+M 0 H 0
+S
+#3352
+Gespar's Tavern~
+This primitive establishment has taken the precaution of bolting down all
+of the furnishings.  Old tables and broken chairs are sprawled about.  Few
+pictures line the walls.  The bar is grubby and unkempt.  Rotting food and
+broken glass lie underneath your feet.  There is no sign of a broom, rag or
+mop.  Heading east would place you into a dark passage, while a rickety
+staircase leads up.  
+~
+0 262152 0
+D1
+~
+~
+~
+0 0 3026
+D4
+~
+~
+~
+0 0 3030
+M 0 H 0
+S
+#3389
+~
+~
+0 262150 0
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 3005 spec_nasty
+M 3007 spec_cast_cleric
+M 3009 spec_cast_cleric
+M 3013 spec_guard
+M 3014 spec_guard
+M 3017 spec_cast_mage
+M 3019 spec_nasty
+M 3024 spec_cast_mage
+M 3046 spec_guard
+M 3047 spec_cast_cleric
+M 3050 spec_nasty
+M 3062 spec_fido
+M 3063 spec_janitor
+M 3106 spec_cast_mage
+M 3108 spec_janitor
+M 3110 spec_cast_undead
+M 3131 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 3055 2 1
+D 0 3107 1 1
+D 0 3108 0 1
+D 0 3108 1 2
+D 0 3108 3 1
+D 0 3109 1 1
+D 0 3110 3 2
+D 0 3111 1 1
+D 0 3111 3 1
+D 0 3112 1 1
+D 0 3113 3 1
+D 0 3116 3 1
+D 0 3117 2 1
+D 0 3119 2 2
+D 0 3259 0 2
+O 0 3001 0 3001
+M 0 3002 1 3002 10
+M 0 3000 1 3005 10
+M 0 3063 10 3005 10
+M 0 3014 1 3006 10
+E 0 3019 0 16
+E 0 3020 0 5
+E 0 3021 0 6
+M 0 3062 10 3006 10
+M 0 3050 1 3007 10
+M 0 3012 1 3011 10
+E 0 3011 0 16
+M 0 3063 10 3012 10
+M 0 11600 6 3013 10
+E 0 11600 0 16
+M 0 3062 10 3014 10
+M 0 3015 1 3015 10
+E 0 3023 0 5
+E 0 3022 0 16
+E 0 3025 0 13
+E 0 3024 0 7
+M 0 11600 6 3016 10
+E 0 11600 0 16
+M 0 3024 1 3017 10
+E 0 3049 0 16
+O 0 3050 0 3018
+M 0 3042 1 3018 10
+G 0 3040 0
+G 0 3039 0
+G 0 3038 0
+M 0 3020 1 3019 10
+O 0 3017 0 3020
+P 0 3169 0 3017 10
+P 0 3018 0 3017 10
+M 0 3013 1 3020 10
+E 0 3013 0 16
+E 0 3014 0 5
+E 0 3015 0 6
+G 0 3016 0
+M 0 3014 8 3020 10
+E 0 3019 0 16
+E 0 3020 0 5
+E 0 3021 0 6
+O 0 3006 0 3022
+M 0 3006 1 3022 10
+G 0 3039 0
+G 0 3038 0
+G 0 3007 0
+M 0 3007 1 3023 10
+M 0 3003 1 3024 10
+G 0 3012 0
+G 0 3035 0
+G 0 3036 0
+G 0 3037 0
+G 0 3051 0
+G 0 3170 0
+M 0 3005 2 3026 10
+E 0 3008 0 16
+M 0 3026 1 3027 10
+E 0 3053 0 16
+M 0 3029 1 3029 10
+M 0 3009 1 3033 10
+O 0 3002 0 3033
+O 0 3003 0 3033
+O 0 3004 0 3033
+M 0 3048 1 3037 10
+M 0 3046 2 3042 10
+E 0 3046 0 5
+E 0 3048 0 16
+M 0 3049 1 3043 10
+O 0 3043 0 3043
+M 0 3008 1 3043 10
+G 0 3040 0
+G 0 3038 0
+G 0 3039 0
+G 0 3041 0
+G 0 3042 0
+M 0 3010 1 3043 10
+E 0 3044 0 16
+M 0 3017 1 3043 10
+E 0 3045 0 16
+M 0 3047 1 3047 10
+E 0 3047 0 16
+M 0 3014 8 3053 10
+E 0 3019 0 16
+E 0 3020 0 5
+P 0 3021 0 1 10
+M 0 3063 10 3053 10
+M 0 3353 1 3053 10
+G 0 3171 0
+E 0 3061 0 5
+M 0 3063 10 3102 10
+M 0 3062 10 3102 10
+M 0 3200 1 3103 10
+M 0 3106 1 3106 10
+E 0 3106 0 16
+E 0 3105 0 25
+M 0 3107 1 3107 10
+E 0 3107 0 16
+M 0 3108 1 3108 10
+O 0 3168 0 3109
+O 0 3168 0 3110
+M 0 3110 1 3110 10
+E 0 3110 0 21
+O 0 3168 0 3112
+O 0 3115 0 3113
+O 0 3168 0 3113
+O 0 3114 0 3113
+M 0 3018 1 3115 10
+O 0 3117 0 3117
+M 0 3004 1 3118 10
+G 0 3052 0
+G 0 3030 0
+G 0 3031 0
+G 0 3033 0
+G 0 3034 0
+G 0 3032 0
+O 0 3118 0 3121
+O 0 3119 0 3121
+O 0 3120 0 3121
+O 0 3144 0 3122
+P 0 3145 0 3144 10
+O 0 3121 0 3123
+O 0 3122 0 3123
+O 0 3123 0 3124
+P 0 3124 0 3123 10
+O 0 3125 0 3126
+O 0 3126 0 3126
+O 0 3127 0 3126
+O 0 3128 0 3127
+O 0 3136 0 3128
+O 0 3137 0 3128
+O 0 3129 0 3129
+O 0 3130 0 3129
+P 0 3134 0 3130 10
+O 0 3132 0 3129
+O 0 3131 0 3129
+O 0 3133 0 3129
+O 0 3135 0 3130
+O 0 3138 0 3131
+O 0 3139 0 3131
+O 0 3140 0 3131
+O 0 3141 0 3131
+O 0 3142 0 3131
+M 0 3131 1 3132 10
+E 0 3143 0 5
+E 0 3146 0 13
+G 0 3148 0
+E 0 3147 0 16
+M 0 3062 10 3257 10
+M 0 3016 1 3258 10
+E 0 3026 0 5
+E 0 3027 0 7
+E 0 3028 0 8
+E 0 3029 0 16
+M 0 3014 8 3259 10
+E 0 3019 0 16
+E 0 3020 0 5
+E 0 3021 0 6
+M 0 3063 10 3266 10
+O 0 3010 0 3300
+M 0 3352 1 3352 10
+S
+
+
+
+#SHOPS
+3003 11 8 12 13 27 140 40 0 23
+3004 26 22 0 0 0 120 80 0 23
+3006 0 0 0 0 0 110 90 0 23
+3008 0 0 0 0 0 150 30 0 23
+3042 0 0 0 0 0 100 100 0 23
+3352 0 0 0 0 0 150 40 1 24
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

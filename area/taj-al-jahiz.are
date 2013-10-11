@@ -1,0 +1,4357 @@
+#AREADATA
+Name { ALL } Sighel  Taj-Al-Jahiz~
+Builders Sighel~
+VNUMs 4200 4300
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#4200
+gate guard~
+the castle gate guard~
+The guard keeps an eye out on the path, protecting his home.
+~
+This tall man, looks welcoming, but on guard for trouble.  He wears a
+dark blue velvet on him, showing the colours of his home proudly.  He
+doesn't seem to keen on the idea of letting you into the castle, and stands
+in your path.  
+~
+unique~
+AB CDEFTZ 500 0
+5 0 1d12+53 5d10+100 1d2+1 slice
+8 8 8 8
+EKR AB LR 0
+(null) (null) female 22
+ACGHLMV ABCDEFGHIJK medium unknown
+#4201
+male commoner~
+a male commoner~
+A male commoner flies around slowly, carrying out his business.
+~
+Dressed in simple cloths, this tall man moves about town slowly, going
+about his business.  He carries a few neatly wrapped parcels under his arm,
+protectively safe guarding his purchases from theft.  
+~
+unique~
+A CDEFTZ 500 0
+20 10 6d39+294 20d10+100 3d5+4 bite
+2 2 2 4
+FH M BLS 0
+(null) (null) female 90
+ACGHLMV ABCDEFGHIJK medium unknown
+#4202
+Rosalie gypsy peddler~
+Rosalie the gypsy peddler~
+Rosalie the gypsy watches her wares carefully.
+~
+Each movement corresponds to the tinkling of tiny little silver bells on
+her wrists and ankles.  Her skirt is brightly coloured though her top a
+simple cream shirt.  Long dark curls cascade down her back wildly, and her
+bright white eyes flash at you, keeping a close eye on her wares.  
+~
+unique~
+ABRW CDEFTZ 0 0
+75 10 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+0 ABQ L 0
+(null) (null) either 337
+ACGHLMV ABCDEFGHIJK medium unknown
+#4203
+female commoner~
+a female commoner~
+A female commoner flies about doing her daily tasks.
+~
+Though this woman is a commoner, she is dressed as nicely as she can in
+simple linen and keeps herself looking as good as she can by adding a flower
+to her hair.  
+~
+unique~
+A CDEFTZ 500 0
+12 10 4d26+151 12d10+100 2d4+0 none
+5 5 5 7
+CEJ NS LO 0
+(null) (null) either 54
+ACGHLMV ABCDEFGHIJK medium unknown
+#4204
+executioner~
+a large sinister executioner~
+A large sinister executioner stands solidly with his axe by his hand here.
+~
+Dress in heavy linens dyed black to hide blood, the executioner stands
+solidly watching you from behind his hood.  Pale white eyes pierce into you
+as though judging your sole as he gets a better grip on his axe.  His entire
+body is covered, from the heavy leather boots on his feet to a black hood,
+covering all but his eyes on his head.  This beast of a Jinn has no need to
+speak as most sane people keep a good distance from him.  
+~
+unique~
+ABQ CDEFTZa -700 0
+35 13 10d76+654 35d10+100 4d6+9 lunge
+-3 -3 -3 -1
+0 BP L S
+(null) (null) female 157
+ACGHLMV ABCDEFGHIJK large unknown
+#4205
+Sayf the healer~
+Sayf the Healer~
+Sayf sits calmly and regally on the side of the fountain.
+~
+Brightly coloured clothing in reds, greens and golds swath this beautiful
+lady's slight figure.  Many gold bracelets sparkle in the light around her
+wrists and ankles.  Her pale blue skin and glowing white eyes almost
+resemble a porcelain dolls, but she smiles kindly at you.  
+~
+unique~
+ABRTW CDEFHTZc 1000 0
+88 14 12d921+3083 88d10+100 5d10+27 slap
+-25 -25 -25 -22
+EHO ILR HL K
+(null) (null) either 396
+ACGHLMV ABCDEFGHIJK large unknown
+#4206
+beggar~
+a dirty beggar~
+A dirty beggar reaches a hand out for money.
+~
+Covered in grime, this man looks at you bleakly, holding a hand out for
+money.  His clothing barely fits him, though there isn't much of it left,
+and a strange smell emanates like an aura around him.  He keeps his ratty
+blanket held tightly to his hunched and boney shoulders.  
+~
+unique~
+AP CDEFTXZ 200 0
+10 10 3d23+120 10d10+100 2d3+2 digestion
+6 6 6 6
+EIJN 0 L CI
+(null) sit female 45
+ACGHLMV ABCDEFGHIJK medium unknown
+#4207
+Royal Castle Guard~
+a royal castle guard~
+A royal castle guard protects the gates into the castle.
+~
+The guard stands solidly blocking your path, broadsword drawn and ready
+to keep you from causing any trouble on his watch.  He wears the same dark
+blue clothing as the gate guards into the town itself wear.  
+~
+unique~
+ABQ CDEFTZ 800 0
+80 14 11d677+2588 80d10+100 5d10+24 wrath
+-21 -21 -21 -19
+EKR BPS LN F
+(null) (null) female 360
+ACGHLMV ABCDEFGHIJK medium unknown
+#4208
+Evan~
+Evan the Weapons Master~
+Evan sweats by the hot fire pounding metal into a sword.
+~
+Evan's muscles glisten with sweat in the light of the roaring fire to his
+side.  He wears no shirt, and his brown leather pants are cut short and
+covered with soot and dirt.  He stands tall, holding a half-made broadsword
+in his one hand and a sledge hammer in the other to look at you when you
+enter his shop.  A cheerful face greets you, and welcomes you into the heat
+of the store.  
+~
+human~
+ABQRW 0 0 0
+75 10 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+0 ABQ 0 0
+(null) (null) female 337
+AHMV ABCDEFGHIJK medium unknown
+#4209
+stable boy~
+a dirty stable boy~
+A dirty stable boy cleans the stalls and floor slowly.
+~
+Small and meager looking, this boy slowly goes about his chores for the
+day.  He moves around with bare feet, and his pants are torn short.  The
+shirt he wears looks as though at one time it was a bright white, but has
+now dulled into a light brown.  The rake he carries to move hay around with
+is far to tall for his small height, but he manages it with lots of
+experience.  
+~
+unique~
+A CDEFTZ 200 0
+9 7 2d21+106 9d10+100 2d3+2 beating
+6 6 6 6
+0 0 L 0
+(null) (null) female 40
+ACGHLMV ABCDEFGHIJK medium unknown
+#4210
+gray pony~
+a small gray pony~
+A small gray pony looks faithful and sturdy.
+~
+Smaller and slower than a horse, this beast looks much more sturdy and
+trustworthy of a friend than a wild horse ever could.  Its body is covered
+with a coarse gray hair, making this young pony look aged and wise.  It
+calmly stands looking at you, chewing on a bit of grass.  
+ 
+~
+unique~
+AEI FJZ 0 0
+20 10 6d39+294 20d10+100 3d5+4 blast
+2 2 2 4
+FHJLMOS 0 I H
+(null) (null) male 90
+AGHMV ABCDEFGHIJKLPQUV medium unknown
+#4211
+white horse~
+a pure white horse~
+A pure white horse shakes its mane wildly at you.
+~
+Quite tall and proud looking, this horse almost looks down at you
+condescendingly as it pounds its hoof into the ground.  The muscles ripple
+with anticipation of running quickly through the fields of the world below
+the coarse perfectly white hair.  
+~
+unique~
+AEI FJZ 0 0
+50 10 10d167+1149 50d10+100 5d6+13 suction
+-9 -9 -9 -7
+FHJLMNS 0 I H
+(null) (null) male 225
+AGHMV ABCDEFGHIJKLPQUV large unknown
+#4212
+brown Clydesdale~
+a huge brown Clydesdale~
+A huge brown Clydesdale watches you with soft brown eyes.
+~
+This gentle giant leans down to nuzzle against your shoulder, looking at
+you sagely with soft brown eyes.  Though he may not be the fastest moving of
+the horses, his power and stamina top any other horse around.  
+~
+bear~
+AEI 0 0 0
+80 11 11d677+2588 80d10+100 5d10+24 claw
+-21 -21 -21 -19
+CDEFIJLMOS 0 EI 0
+(null) (null) male 360
+AGV ABCDEFHJKPUV huge unknown
+#4213
+Dmitri the Farrier~
+Dmitri the Farrier~
+Dmitri stands by the fire, pounding out a horseshoe on the anvil.
+~
+Pale white eyes watch you closely as he continues to create horseshoes. 
+Brown leather pants are tucked neatly into scuffed black leather boots.  He
+wears no shirt by the heat of the fire, though a heavy black apron protects
+his sweaty muscular chest from sparks from metal or the fire.  He looks
+ready to put down his work at any moment to help you with a horse for your
+journeys.  
+~
+unique~
+ABRW CDEFTZ 0 0
+75 10 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+0 ABQ L 0
+(null) (null) female 337
+ACGHLMV ABCDEFGHIJK medium unknown
+#4214
+bar wench~
+a busty bar wench~
+A busty bar wench smiles cheerfully while serving drinks.
+~
+This slightly plump woman flies around the room with a bounce, smiling at
+everyone and joking around with the customers.  Her blouse reveals most of
+her bosom, which almost looks like it's falling out with every bouncy
+movement she makes.  
+~
+unique~
+AB CDEFTZ 300 0
+76 0 11d574+2358 76d10+100 5d9+24 slash
+-20 -20 -20 -18
+FIJ 0 L 0
+(null) (null) either 342
+ACGHLMV ABCDEFGHIJK medium unknown
+#4215
+Redd the butcher~
+Redd the butcher~
+Redd stands with a bloodied cleaver in one hand, and part of an animal in another.
+~
+This large man towers over most of his customers that come to his store
+to purchase their meat.  His off-white clothing is splattered with blood,
+some brown and old and others bright red and fresh.  He nods at you as his
+steady glowing white eyes watch over all the people in his shop.  
+~
+unique~
+ABRW CDEFTZ 0 0
+75 0 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+0 ABQ L 0
+(null) (null) female 337
+ACGHLMV ABCDEFGHIJK medium unknown
+#4216
+inn maid~
+a tired maid~
+A simple woman cleans the rooms, keeping the inn tidy.
+~
+This simple woman looks tired and worn out, as her job of keeping the inn
+tidy and neat is a never-ending task.  She wears a plain black skirt and
+white shirt that is kept neat, and carries a large grey feather duster on a
+cord around her belt.  
+~
+unique~
+AB CDEFTZ 500 0
+50 0 10d167+1149 50d10+100 5d6+13 beating
+-9 -9 -9 -7
+0 0 L 0
+(null) (null) either 225
+ACGHLMV ABCDEFGHIJK medium unknown
+#4217
+taj-al-jahiz royal guard horse~
+a Taj-Al-Jahiz Royal Guard horse~
+A regal white Taj-Al-Jahiz Royal Guard horse prances importantly.
+~
+Pure white, this magnificent horse stands tall and proud, its muscles
+rippling with energy.  The long mane has been braided intricately and kept
+back so as not to become a problem in battle.  Draped across the back of
+this beautiful creature is a dark blue velvet cloth with a highly polished
+black leather saddle on top of that.  
+~
+unique~
+AEI FJVZ 0 0
+90 0 12d991+3214 90d10+100 5d11+28 shbite
+-25 -25 -25 -23
+FHIJLMS 0 I H
+(null) (null) none 405
+AGHMV ABCDEFGHIJKLPQUV medium unknown
+#4218
+Viktor the armorer~
+Viktor the armorer~
+Viktor is bent over an anvil with a sheet of metal and hammer in hand.
+~
+A burly man, Viktor's clothing is tattered around the edges, and covered
+with stains and burn marks.  You can see his large arm muscles ripple while
+he bangs out new armor with a heavy sledge for his customers to purchase.  
+~
+unique~
+ABRW CDEFTZ 0 0
+75 0 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+0 ABQ L 0
+(null) (null) female 337
+ACGHLMV ABCDEFGHIJK medium unknown
+#4219
+noble man~
+a nobleman~
+A tall, regal nobleman flies by with his nose in the air.
+~
+Born into privilege, this man feels he's better than others roaming about
+the streets.  He shows this by flying along with his nose in the air, and
+not moving for other people outside of the nobility.  His clothing is well
+tailored and perfectly spotless, and his shoes shine with a high gloss.  
+~
+unique~
+AQ CDEFTZ 900 0
+70 0 11d443+2036 70d10+100 5d8+22 none
+-17 -17 -17 -15
+EFK 0 L 0
+(null) (null) female 315
+ACGHLMV ABCDEFGHIJK medium unknown
+#4220
+noble woman~
+a noblewoman~
+A beautiful noblewoman flies daintily around town.
+~
+This beautiful woman is dressed up and carrying a parasol to block any
+sun from reaching her porcelain skin.  She looks uncomfortably straight in
+the back from her corset which keeps her already slender waist tucked in. 
+Her dress is in perfect condition and uses yards of extra material and lace
+which show off her great wealth.  
+~
+unique~
+A CDEFTZ 850 0
+65 0 11d352+1789 65d10+100 5d8+19 beating
+-15 -15 -15 -13
+FIJ 0 L 0
+(null) (null) either 292
+ACGHLMV ABCDEFGHIJK medium unknown
+#4221
+Lily the baker~
+Lily the baker~
+Lily stands here with flour dotting her face and clothing, smiling cheerfully.
+~
+A jovial face beams a huge smile at you from between rosy cheeks.  She's
+dressed in a simple blouse and skirt which has patches of flour dusting them
+over.  The flour spots continue up into her once neatly braided hair and
+onto her face.  
+~
+unique~
+ABRW CDEFTZ 0 0
+75 0 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+0 ABQ L 0
+(null) (null) either 337
+ACGHLMV ABCDEFGHIJK medium unknown
+#4222
+prison guard~
+a castle prison guard~
+A strong-looking Jinn scowls harshly at you, twirling his whip in his hand.
+~
+The muscles on this man's arms bulge with power as they are crossed in
+front of his large green chest.  A shimmer covers all his skin, adding to
+the effect of his strength through his muscles.  He flies only a few inches
+off the ground, leaning forward to be more oppressive-looking to any who
+come to close to him.  White eyes glow with an angry essence as he carefully
+watches his prisoners for their slightest misbehavement.  
+~
+unique~
+AQ CDEFTZa -100 0
+95 0 12d1182+3558 95d10+100 6d10+29 jab
+-30 -30 -30 -25
+DEFHR 0 L 0
+(null) (null) female 427
+ACGHLMV ABCDEFGHIJK medium unknown
+#4223
+jinn prisoner~
+a Jinn prisoner~
+A tired and beaten Jinn huddles in a corner away from people.
+~
+Large dark purple bruises stand out from the pale blue skin of the
+prisoner huddled away from you.  Fresh red streaks criss-cross the back and
+arms of this Jinn, as it tries to keep the rags it's wearing covering it's
+body.  This poor Jinn looks absolutely miserable and desolate.  
+~
+unique~
+AH CDEFTZ 100 0
+90 0 12d991+3214 90d10+100 5d11+28 crush
+-25 -25 -25 -23
+0 0 L 0
+(null) (null) none 405
+ACGHLMV ABCDEFGHIJK medium unknown
+#4224
+bartender~
+a rough bartender~
+A rough-looking man stands behind the bar, chewing on a toothpick.
+~
+This small-statured man looks as though he has been sailing at sea for
+many years of his life, and has just gotten off the boat.  His clothing is
+sensible and sturdy, though slightly dirty.  His face is unshaven, though
+not grown out to a full beard and his lips are in a snarl as he chews one
+end of a toothpick constantly.  
+~
+unique~
+ABRW CDEFTZ 0 0
+54 0 11d205+1304 54d10+100 5d7+15 none
+-11 -11 -11 -9
+0 ABQ L 0
+(null) (null) female 243
+ACGHLMV ABCDEFGHIJK medium unknown
+#4225
+captain royal guard~
+the captain of the Royal Jahiz Guard~
+The Captain of the Royal Jahiz Guard flies around the town, protecting his people.
+~
+Standing tall and strong, this large Jinn flies a head higher than the
+rest of the townspeople around him.  His glowing white eyes are keen and
+constantly moving about as he searches the crowds for law-breakers.  His
+clothing is kept impeccably clean and neat, and the darkness of the soft
+material contrasts the pale green of his skin dramatically.  
+~
+unique~
+AQ CDEFTZ 1000 0
+75 0 11d551+2303 75d10+100 5d9+24 wrath
+-19 -19 -19 -17
+EFHLRT 0 L 0
+(null) (null) female 337
+ACGHLMV ABCDEFGHIJK medium unknown
+#4226
+sleeping royal jahiz guard~
+a sleeping Royal Jahiz Guard~
+A Royal Jahiz Guard is off duty and sound asleep on a bed.
+~
+This Jinn looks absolutely peaceful and content with its life.  Floating
+a few inches off the bed, the sheets draped over its body make it look as
+though it's still on the bed.  Though the Jinn is sound asleep, its sword
+never leaves its side.  
+~
+unique~
+A CDEFTZ 850 0
+30 0 10d60+520 30d10+100 3d6+8 lunge
+-1 -1 -1 0
+EFKRT 0 L 0
+sleep sleep none 135
+ACGHLMV ABCDEFGHIJK medium unknown
+#4227
+inn keeper tiny man~
+the inn keeper~
+A tiny man sits behind the counter, managing the goings-on of the inn.
+~
+This small man looks a little sleazy and greedy, which probably comes
+from his "trying to be hip and fashionable" outfit made of cheap materials
+and the large amounts of jewelry he wears.  Blank white eyes look you over
+to see what he can get from you for the services of this bed and breakfast. 
+~
+unique~
+AB CDEFTZ 400 0
+54 0 11d205+1304 54d10+100 5d7+15 digestion
+-11 -11 -11 -9
+FIN 0 L 0
+(null) (null) female 243
+ACGHLMV ABCDEFGHIJK medium unknown
+#4228
+Awenyedd~
+Awenyedd~
+Awenyedd sits mournfully by a window, gazing out at the land.
+~
+Beauty radiates out from deep within this slender Jinn.  She almost seems
+to glow because of it, and there is a feeling of serene calm from this
+imprisoned woman.  She smiles and nods at you from behind a masked face and
+far-away eyes before turning to gaze out the window again.  
+~
+unique~
+ABO CDEFTZ 1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 slap
+-35 -35 -35 -27
+0 HNS IL 0
+stand (null) either 450
+ACGHLMV ABCDEFGHIJKMQUV medium unknown
+#4229
+Achard evil sorcerer~
+Achard~
+Achard grins evilly while contemplating his plans for Awenyedd.
+~
+Clothed in a large hooded black robe, you can't make out any facial
+features of this human.  The air around him is of anger and hatred and
+evilness, making him less than compatible for a good companion.  
+~
+dragon~
+ABOQ DEFJOTVc 0 0
+99 0 12d1352+3846 99d10+100 6d11+28 slap
+-34 -34 -34 -27
+EFGH L BEHL FIN
+(null) (null) female 445
+ACGHLMVZc ABCDEFGHIJKLOPQUVX medium unknown
+#4230
+Violet the librarian~
+Violet the librarian~
+Violet the town's librarian has her nose stuck in a book.
+~
+A young lady, Violet has spent all her time reading and studying in the
+library, so she knows all about the town's history, but has no suitor and is
+lonely.  All this shows in her sad white eyes as she gazes over the top of a
+book at you.  Her clothes are simple and well kept, though muted and dull in
+colouring.  
+~
+unique~
+ABRW CDEFTZ 0 0
+75 0 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+0 ABQ L 0
+(null) (null) either 337
+ACGHLMV ABCDEFGHIJK medium unknown
+#4231
+guardian dragon~
+a huge red dragon~
+A huge red dragon magically fits in this room.
+~
+This huge beast shouldn't technically be able to fit inside the whole
+castle, let alone this one room, so you know magic is afoot here.  Gleaming
+red scales make it look as though it's on fire, as amber eyes stare down at
+you, coming closer and larger as it moves its head in a quick smooth motion
+down to eye-level with you.  You can feel heat radiating off the creature.  
+~
+dragon~
+ABQ DFJOTVZac 0 0
+98 0 12d1308+3773 98d10+100 6d11+28 chop
+-33 -33 -33 -26
+CDHMOR BHKL BEHL FI
+(null) (null) male 441
+ACGHMVXZc ABCDEFGHIJKLOPQUVX huge unknown
+#4232
+lithe jinn archer~
+a Jahiz archer~
+A lithe Jinn stands guard with his staff looking over the walls of the town.
+~
+This lithe Jinn stands looking over the battlements of the towers to be
+able to warn of any incoming invasions and act as archers through magic. 
+The dark blue clothing shows that this Jinn is a member of the Royal Jahiz
+Guard, and is of importance to the town.  
+~
+unique~
+ABO CDEFTZ 850 0
+25 0 8d48+400 25d10+100 3d5+7 whip
+0 0 0 2
+EFR 0 L 0
+(null) (null) none 112
+ACGHLMV ABCDEFGHIJK medium unknown
+#4233
+palinar the wizard~
+Palinar the wizard~
+Palinar stands behind a large bowl that is bubbling and smoking.
+~
+This old and wizened Jinn knows all there is to know about potions and
+brews in the town.  He is constantly working, trying to make bigger and
+better potions to help aide his clients.  His long hair is silver and wild
+around his pale green wrinkled face, but he cracks a large toothless smile
+at you when he finally notices your presence in his smoky shop.  
+~
+unique~
+ABRW CDEFTZ 1000 0
+75 0 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+0 ABQ L 0
+(null) (null) female 337
+ACGHLMV ABCDEFGHIJK medium unknown
+#4234
+wandering Jahiz guard~
+a wandering Jahiz Guard~
+A Jahiz Guard wanders about the town looking for trouble.
+~
+This young Jinn flies around the town, looking for the slightest bit of
+trouble with a naive and cocky attitude.  Constantly being twirled about in
+its hand is a large shiny onyx stick which seems to glow and hum magically. 
+~
+unique~
+AV CDEFTZ 0 0
+15 0 5d31+200 15d10+100 2d4+2 claw
+4 4 4 6
+EFKR 0 L 0
+(null) (null) none 67
+ACGHLMV ABCDEFGHIJK medium unknown
+#4235
+castle maid~
+a castle maid~
+A small maid floats about quickly from spot to spot keeping the castle clean.
+~
+This small Jinn keeps her pale eyes lowered in respect for all the
+nobility and royalty around her.  She keeps her simple outfit clean and
+wrinkle free, and her long black hair is braided back simply.  Her light
+blue skin blends in with her dress which dangles past her feet, just barely
+brushing the ground as she quickly flies by to stay out of the way.  
+~
+unique~
+AHQ CDEFTZ 675 0
+81 0 11d704+2646 81d10+100 5d10+24 crush
+-22 -22 -22 -20
+0 0 L 0
+(null) (null) either 364
+ACGHLMV ABCDEFGHIJK medium unknown
+#4236
+Orrick the cobbler~
+Orrick the cobbler~
+Orrick sits hunched over a shoe as he hammers it back together again.
+~
+Orrick hovers slightly above the chair he uses to make and repair the
+marvelous shoes he sells to the townspeople.  It almost appears as though
+his back is naturally hunched over in this position.  He doesn't look at you
+in the store, even though you feel as though you are being watched.  A smile
+will only crack is pale green face to those who wish to purchase something. 
+~
+unique~
+ABRW CDEFTZ 0 0
+75 0 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+0 ABQ L 0
+(null) (null) female 337
+ACGHLMV ABCDEFGHIJK medium unknown
+#4237
+wandering royal jahiz guard~
+a wandering Royal Jahiz Guard~
+A Royal Jahiz Guard flies around town, letting the people know they are protected.
+~
+This powerful looking Jinn flies slowly around town, showing off the
+Royal Jahiz Guard colours.  This guard gives an obvious calm to the
+townspeople because of the safety that is provided for them.  A small smile
+is spread across the pale green face, and though the eyes are completely
+white, you can tell they look at you in a cheerful manner.  
+~
+unique~
+AQV CDEFTZ 0 0
+60 0 11d277+1559 60d10+100 5d7+19 wrath
+-13 -13 -13 -11
+EFKRT 0 L 0
+(null) (null) none 270
+ACGHLMV ABCDEFGHIJK medium unknown
+#4238
+mutt~
+a mangy mutt~
+A mangy mutt wanders the streets, nipping at people walking by.
+~
+This dog has obviously always lived on the street, as it's extremely
+mangy and can't be pinpointed to any one breed.  It snarls and bares its
+teeth at anyone who comes to close to it, as its wiry frame is always ready
+for a fight.  
+~
+dog~
+AC 0 0 0
+7 0 2d17+79 7d10+100 1d3+2 shbite
+7 7 7 7
+H 0 0 0
+(null) (null) none 31
+AGV ACDEFHJKPUV medium unknown
+#4239
+Jessamin~
+Jessamine the clothier~
+Jessamine is constantly moving about the store with pins held in her mouth.
+~
+Constantly on the move, Jessamine keeps finding things to mend and pin on
+the items in her store.  You can tell she knows her stuff because the dress
+she wears is simple, yet dazzling in colour and style, accentuating all her
+best features as she flies around the small room.  Her face is friendly and
+soft as she smiles at you before going back to what she was doing.  
+~
+unique~
+ABRW CDEFTZ 0 0
+75 0 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+0 ABQ L 0
+(null) (null) either 337
+ACGHLMV ABCDEFGHIJK medium unknown
+#4240
+female courtier~
+a female courtier~
+A female courtier flies elegantly around, socializing with everyone.
+~
+This elegant Jinn is absolutely beautiful, which comes easy to the
+courtiers since they have never known a hard day in their lives.  Her long
+flowing dress hovers just slightly off the ground as she flies around
+talking to the other courtiers.  Pearls and other gemstones cascade down her
+hair, as if held there magically.  Her hair itself is tied up is beautiful
+curls, though length is not cut short through the curls.  Her very pale blue
+skin is almost white, matching her eyes, and making the dark black eye
+makeup and bright red lipstick stand out from her.  
+~
+unique~
+AO CDEFTZ 0 0
+88 0 12d921+3083 88d10+100 5d10+27 slap
+-25 -25 -25 -22
+IKNR 0 L 0
+(null) (null) either 396
+ACGHLMV ABCDEFGHIJK medium unknown
+#4241
+male courtier~
+a male courtier~
+A male courtier smiles charmingly to all the ladies around him, trying to be the centre of attention.
+~
+Tall and dashingly handsome, this male Jinn has a slightly delicate air
+about him, which comes from his easy life of never having to work.  His
+black hair shines with a high gloss and is tied back in a small pony tail at
+the base of his neck.  His impressively tailored suit shows his form.  
+~
+unique~
+AO CDEFTZ 0 0
+89 0 12d955+3148 89d10+100 5d11+28 slap
+-25 -25 -25 -23
+IKNR 0 L 0
+(null) (null) female 400
+ACGHLMV ABCDEFGHIJK medium unknown
+#4242
+Lindara the florist~
+Lindara the florist~
+Lindara smiles softly at you from over a large arrangement of beautiful blossoms.
+~
+Tall and delicate, Lindara smiles softly at you and hovers in waiting to
+help you find the perfect flower for someone special to you.  Brightly
+coloured flowers with strange exotic appeal and scents coming from them. 
+Her dress is simple, letting the flowers she wears in her long black hair be
+the accents to her beauty.  Her large white eyes watch you intently, almost
+eagerly.  
+~
+unique~
+ABRW CDEFTZ 0 0
+75 0 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+0 ABQ L 0
+(null) (null) either 337
+ACGHLMV ABCDEFGHIJK medium unknown
+#4243
+jahiz court fool~
+the Jahiz Court fool~
+The Jahiz Court fool flies around performing tricks to entertain the nobility.
+~
+Bright gaudy colours cloth this fool, making it stand out from the
+richness around it like a feather amongst rocks.  It has many magic tricks
+that it performs for the people around it, just to get disdaining looks.  It
+prances over to you and attempts to make a mockery of you in front of the
+royalty.  
+~
+unique~
+AO CDEFTZ 765 0
+86 0 12d855+2954 86d10+100 5d10+26 slap
+-24 -24 -24 -22
+0 0 L 0
+(null) (null) male 387
+ACGHLMV ABCDEFGHIJK medium unknown
+#4244
+rogue~
+a rough rogue~
+A rough looking rogue peers over his ale glass suspiciously at you.
+~
+A dark cape covers most of this Jinn, hiding all features but his glowing
+white eyes, that have a glare about them.  He moves his cape back enough
+that you can see his rough scarred hands holding glintingly sharp daggers.  
+~
+unique~
+ABP CDEFTZ -200 0
+45 0 10d128+969 45d10+100 5d5+14 stab
+-7 -7 -7 -5
+BEHIJKNQ 0 L 0
+(null) (null) female 202
+ACGHLMV ABCDEFGHIJK medium unknown
+#4245
+royal farrier haz~
+Haz the royal Jahiz farrier~
+Haz sits by a long row of leather saddles, polishing them to a shine.
+~
+Haz looks comfortable in his soft suede clothing as he sits and polishes
+the royal Jahiz guard saddles.  He occassionally glances out the large
+opening in the back of his stable at the white regal-looking horses prancing
+around the green field.  
+~
+unique~
+AB CDEFTZ 0 0
+75 0 11d551+2303 75d10+100 5d9+24 digestion
+-19 -19 -19 -17
+0 ABQ L 0
+(null) (null) female 337
+ACGHLMV ABCDEFGHIJK medium unknown
+#4250
+J.O.~
+J.O. the fruit seller~
+J.O. stands here polishing an apple.
+~
+Standing tall in his worn overalls, his unshaven face beams a large smile
+at you cheerfully.  He doesn't seem to make much money selling his fruits
+and vegetables, but he seems to enjoy his job greatly.  
+~
+unique~
+ABRW CDEFTZ 0 0
+75 10 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+0 ABQ L 0
+(null) (null) female 337
+ACGHLMV ABCDEFGHIJK medium unknown
+#4251
+rogue warrior~
+a rogue warrior~
+This rogue warrior moves silently, guarding against intruders.
+~
+This man is dressed from head to toe in black, skintight garb.  His heavy
+muscles portray that he is more than capable of dealing with almost any
+threat.  As he notices your gaze, he draws his sword and heads your way with
+a scowl.  
+~
+human~
+AQ OQVc 0 0
+50 4 10d167+1149 50d10+100 5d6+13 none
+-9 -9 -9 -7
+CEIU 0 C 0
+(null) (null) female 225
+AHMV ABCDEFGHIJK medium unknown
+#4252
+rogue leader~
+the rogue leader~
+The rogue leader stands here, issuing orders.
+~
+This man is dressed from head to toe in black, skintight garb.  A single
+red circlet covers his left bicep, signifying him as a leader.  His heavy
+muscles portray that he is more than capable of dealing with almost any
+threat.  As he notices your gaze, he draws his sword and heads your way with
+a scowl.  
+~
+human~
+AQ HOVc -250 0
+55 4 11d216+1345 55d10+100 5d7+16 none
+-11 -11 -11 -9
+0 0 0 0
+(null) (null) female 247
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#4200
+blue sapphire key~
+a blue sapphire key~
+The dark blue of this sapphire glows brightly.~
+unknown~
+key P AO
+0 0 0 0 0
+1 1 75 P
+#4201
+slave silver bell bracelet~
+a silver slave bell bracelet~
+A delicate silver slave bell bracelet chimes softly.~
+unknown~
+clothing M AM
+0 0 0 0 0
+10 1 1125 P
+A
+5 1
+A
+12 10
+#4202
+silver slave bell anklet~
+a silver slave bell anklet~
+A silver slave bell anklet chimes softly.~
+unknown~
+clothing M AU
+0 0 0 0 0
+12 1 1140 P
+A
+5 1
+A
+17 1
+#4203
+cluster glowing quartz crystals~
+a cluster of glowing quartz crystals~
+A cluster of glowing quartz crystals will fit in ones hand.~
+unknown~
+wand A AO
+20 6 6 'reserved' 0
+20 5 100 P
+#4204
+cluster glowing rutile spikes~
+a cluster of glowing rutile spikes~
+A cluster of glowing rutile spikes will fit in ones hand.~
+unknown~
+wand A AO
+87 8 8 'reserved' 0
+80 6 400 P
+#4205
+triangular vial~
+a triangular vial~
+A triangular vial holds a strong smelling clear liquid.~
+unknown~
+potion 0 AO
+80 'reserved' 'reserved' 'reserved' 'reserved'
+62 2 1860 P
+#4206
+shiny large red apple~
+a shiny large red apple~
+A shiny large red apple looks appetizing.~
+unknown~
+food 0 AO
+BD 0 0 0 0
+0 1 1 P
+#4207
+ripe juicy pear~
+a ripe juicy pear~
+A ripe juicy pear looks mouthwatering.~
+unknown~
+food 0 AO
+BD 0 0 0 0
+0 1 1 P
+#4208
+large green watermelon~
+a large green watermelon~
+A large green watermelon shows its ripe juicy centre.~
+unknown~
+food 0 AO
+CE 0 0 0 0
+0 5 5 P
+#4209
+executioner hood~
+black linen executioner hood~
+A black linen executioner hood oozes evilness.~
+unknown~
+armor CM AET
+AC AC AC A 0
+35 3 1215 P
+A
+13 50
+A
+2 -2
+#4210
+executioner axe~
+an executioners axe~
+A well-used executioners axe rests here unsafely.~
+unknown~
+weapon 0 ANP
+mace 5 14 wrath DF
+35 123 175 P
+E
+axe~
+The axe looks extremely heavy, as it should be to chop any heads off in
+one clean slice.  To help with the clean slice, the double blade is
+razor-sharp and sparkles in the light.  The large wood handle is polished
+from heavy use, and adds to the weight of the total axe.  The wood and blade
+and stained a rusty read with the blood of many men.  
+~
+#4211
+fountain~
+a sparkling carved white fountain~
+A sparkling white carved marble fountain fills the square.~
+unknown~
+fountain 0 0
+0 0 'water' 0 0
+1 10000 0 P
+#4212
+large emerald key~
+a large emerald key~
+Laying here, sparkling in the light, is a large emerald key.~
+unknown~
+key FP AO
+0 0 0 0 0
+87 5 1650 P
+#4213
+broadsword sword~
+an emerald-coloured broadsword~
+An emerald-coloured broadsword rests here.~
+unknown~
+weapon GS AN
+sword 11 14 wrath 0
+80 28 400 P
+#4214
+buckler~
+a painted buckler~
+A bright green and blue buckler lays on the ground.~
+unknown~
+armor 0 AJ
+ACD ACD ACD C 0
+80 40 400 P
+#4215
+road apple~
+a soft road apple~
+A soft road apple lies strategically in the middle of the road.~
+unknown~
+food 0 AO
+A 0 0 A 0
+1 1 2 P
+#4216
+spiked mace~
+a heavy spiked mace~
+Sharp spikes spark in the light on the heavy mace.~
+unknown~
+weapon 0 ANP
+staff 5 14 peck DF
+35 50 175 P
+#4217
+steel halberd~
+a long steel halberd~
+A long sharp steel halberd leans against a wall.~
+unknown~
+weapon 0 ANP
+whip 5 7 crunch DF
+18 40 90 P
+#4218
+sharp greatsword sword~
+a sharp-edged greatsword~
+A sharp-edged greatsword stands as tall as a woman against a wall.~
+unknown~
+weapon 0 ANP
+sword 9 15 slice DF
+70 75 350 P
+#4219
+rake~
+a long rake~
+A long rake leans against the wall here.~
+unknown~
+weapon 0 ANP
+exotic 2 10 bite F
+9 5 45 P
+#4220
+small dry raisin bread in wool~
+a small dry piece of raisin bread~
+A small dry piece of raisin bread is wrapped in dirty wool rags.~
+unknown~
+food R AO
+CD 0 0 0 0
+0 2 1 P
+#4221
+dark wood box~
+a dark wood box~
+Delicate carvings cover the exterior of a dark wood box.~
+unknown~
+container R AO
+5 ABCD 4222 0 0
+75 1 600 P
+#4222
+small carved brass key~
+a small carved brass key~
+A small carved brass key looks to fit a small box.~
+unknown~
+key P AO
+0 0 0 0 0
+75 1 600 P
+#4223
+etched brass ring~
+a small etched brass ring~
+A small etched brass ring glints in the light.~
+unknown~
+protect 0 AB
+0 0 0 0 0
+58 1 2200 P
+#4224
+thin worn mattress~
+a thin worn mattress~
+A thin worn mattress looks as though rats use it the most.~
+unknown~
+furniture R 0
+0 0 0 0 0
+1 10 600 P
+#4225
+crystal box~
+a small crystal box~
+A small crystal box sparkles in the light.~
+unknown~
+container GR AO
+2 AC 0 0 0
+90 2 1350 P
+#4226
+small crystal key~
+a small crystal key~
+A small crystal key hums magically.~
+unknown~
+key BG AO
+0 0 0 0 0
+91 1 1365 P
+#4227
+instrument string~
+an instrument string~
+A long instrument string looks long, though it's old.~
+unknown~
+weapon R AN
+flail 11 14 jab 0
+80 1 400 P
+#4228
+royal throne~
+a majestic royal throne~
+A majestic royal throne glows with its own light.~
+unknown~
+furniture A 0
+0 0 0 0 0
+1 5000 25999 P
+E
+throne~
+This large throne practically glows with its radiance, giving it a
+magical, mystical aura.  Dark blue sapphire sparkles throughout the throne,
+held in place with the shining white gold the rest of it is made from. 
+Comfortable cushions line the inside, though they look like they haven't
+been used in a long time.  
+~
+#4229
+large bed~
+a large bed~
+A large bed fills only a fraction of the room.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+1 400 1200 P
+E
+bed~
+The size of the bed looks as though it can fit about four people
+comfortably.  A beautiful scene of the castle and surrounding landscape is
+carved into the headboard and footboard of the bed frame.  Various sized
+pillows of shades of blues and silver shine in the soft light of the room
+and compliment the dark blue silk sheets with the crest of Awenyedd
+embroidered on them.  The bed looks extremely comfortable.  
+~
+#4230
+ancient key~
+an ancient key~
+An ancient-looking key with a new gold cord attached to it lays here.~
+unknown~
+key 0 AO
+0 0 0 0 0
+95 1 190 P
+#4231
+rack of lamb~
+a rack of lamb~
+A roasted rack of lamb looks juicy and delicious.~
+unknown~
+food 0 0
+BCDE 0 0 0 0
+0 6 1 P
+#4232
+turkey leg~
+a roasted turkey leg~
+A large roasted turkey leg drips juice as steam raises from it.~
+unknown~
+food 0 0
+CD 0 0 0 0
+0 2 1 P
+#4233
+dragon scale sleeves~
+shimmering dragon scale sleeves~
+Silver dragon scale sleeves shimmer in any light.~
+unknown~
+armor 0 AI
+AD AD AD B 0
+58 25 290 P
+#4234
+dragon scale leggings~
+shimmering dragon scale leggings~
+Impressive leggings made of dragon scale shimmer in any light.~
+unknown~
+armor 0 AF
+BD BD BD AB 0
+63 64 315 P
+#4235
+steel basinet~
+a steel basinet~
+A strong steel basinet reflects light sharply from its high polish.~
+unknown~
+armor 0 AE
+AC AC AC A 0
+32 55 160 P
+#4236
+chain mail coif~
+a chain mail coif~
+A chain mail coif looks dull and heavy.~
+unknown~
+protect 0 ACE
+ABDE ABDE ABDE BC 0
+97 47 1455 P
+A
+18 4
+A
+19 4
+#4237
+knot bread~
+a steaming knot bread~
+A steaming fresh loaf of knot bread.~
+unknown~
+food 0 AO
+ABC 0 0 0 0
+0 1 1 P
+#4238
+cinnamon bun~
+a large cinnamon bun~
+A large cinnamon bun drips with icing.~
+unknown~
+food 0 AO
+C 0 0 0 0
+0 1 1 P
+#4239
+black forest cake slice piece~
+a large piece of black forest cake~
+A large piece of black forest cake.~
+unknown~
+food 0 AO
+BC 0 0 0 0
+0 1 1 P
+#4240
+shot of whiskey~
+a shot of whiskey~
+A shot of whiskey.~
+unknown~
+drink 0 AO
+1 1 'whisky' 0 0
+0 1 1 P
+#4241
+pint of ale~
+a pint of ale~
+A pint of ale.~
+unknown~
+drink 0 AO
+5 5 'ale' 0 0
+0 1 1 P
+#4242
+story of taj-al-jahiz jahiz jewelled book~
+"Taj-Al-Jahiz"~
+A large jewelled book has the name "Taj-Al-Jahiz" inscribed on it in gold.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+10 5 100 P
+E
+read1~
+Taj-Al-Jahiz is an ancient town, formed on a strong magic that the first
+Jahiz had tapped into.  He gave this power to his people, the Jinn, and with
+it grew a mighty city.  Peace ruled over this city, as its great walls
+were safely protected from the Jinns enemies, the Efreet, by strong magical
+barriers.  This lasted for many hundreds of years.  The great city grew
+more powerful and beautiful as time went on, and the Efreet saw this and
+wanted all that wasn't theirs.  A great battle ensued from this jealousy,
+and the city was decimated.  The few Jinn who remained, cast the Efreet
+deep into the desert, binding them there through their magic.  Slowly, over
+many years, and many new Jahiz leaders, the city grew to a high status again,
+and it was decided that the magical barrier hiding their city would be cast
+down, so they may make new allies against the Efreet.
+ 
+This is the city of Taj-Al-Jahiz today.  This is the greatness of the Jinn.
+~
+E
+story of taj-al-jahiz jahiz jewelled book~
+Taj-Al-Jahiz is an ancient town, formed on a strong magic that the first
+of the Jahiz people had tapped into.  He gave this power to his people, the
+Jinn, and with it grew a mighty city.  Peace ruled over this city, as its
+great walls were safely protected from the Jinns enemies, the Efreet, by
+strong magical barriers.  This lasted for many hundreds of years.  The great
+city grew more powerful and beautiful as time went on, and the Efreet saw
+this and wanted all that wasn't theirs.  A great battle ensued from this
+jealousy, and the city was decimated.  The few Jinn who remained, cast the
+Efreet deep into the desert, binding them there through their magic. 
+Slowly, over many years, and many new Jahiz leaders, the city grew to a high
+status again, and it was decided that the magical barrier hiding their city
+would be cast down, so they may make new allies against the Efreet.  This is
+the city of Taj-Al-Jahiz today.  This is the greatness of the Jinn.  
+~
+#4243
+gold hoop earring~
+a large gold hoop earring~
+A large gold hoop earring sparkles with a fire of its own.~
+unknown~
+protect 0 AQ
+0 0 0 0 0
+98 2 2940 P
+A
+1 1
+A
+3 1
+A
+13 10
+#4244
+gold ring bangle~
+a gold ring bangle~
+A gold ring bangle sparkles with a fire of its own.~
+unknown~
+treasure S AM
+0 0 0 0 0
+98 5 2940 P
+A
+2 1
+#4245
+black hooded robe~
+a black hooded robe~
+A large black robe has a magical feel to it.~
+unknown~
+clothing S ADEIK
+0 0 0 0 0
+99 25 3465 P
+A
+12 10
+A
+2 -1
+A
+1 -1
+A
+4 1
+A
+3 1
+#4246
+pad of paper~
+a pad of paper~
+This pad of paper has some writing all over it.~
+unknown~
+scroll R AO
+75 'reserved' 'reserved' 'reserved' 'reserved'
+50 1 2500 P
+#4247
+jinn jahiz archer magic staff~
+a Jahiz archer's staff~
+A Jahiz archer's staff glows with a strong power.~
+unknown~
+staff AG AO
+25 8 8 'reserved' 0
+25 5 125 P
+#4248
+dark cape~
+a dark cape~
+A dark cape looks like it would hide anyone inside it.~
+unknown~
+clothing 0 Aa
+0 0 0 0 0
+45 7 675 P
+#4249
+sharp daggers~
+a sharp dagger~
+A sharp dagger looks like an excellent weapon.~
+unknown~
+weapon 0 AN
+bow 19 4 crunch D
+45 2 225 P
+#4250
+sharp stone~
+a large sharp stone~
+A large sharp stone looks to be useful as a mace.~
+unknown~
+weapon R ANP
+staff 13 13 wrath F
+91 10 455 P
+#4251
+flower~
+a bright yellow flower~
+A bright yellow flower looks like a pretty addition to anyones looks.~
+unknown~
+protect 0 AQ
+0 0 0 0 0
+12 1 1 P
+A
+12 10
+#4252
+parcel~
+a parcel~
+A wrapped parcel looks like it could hold a good number of items.~
+unknown~
+container 0 AO
+45 AC 0 0 0
+20 2 60 P
+#4253
+simple black linen pants~
+a pair of black linen pants~
+A pair of simple black linen pants shows ones rank in society.~
+unknown~
+clothing 0 AF
+0 0 0 0 0
+1 3 85 P
+#4254
+simple linen dress~
+a simple linen dress~
+A simple linen dress shows ones status in life.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+1 4 36 P
+#4255
+feather duster~
+a feather duster~
+The feather duster seems to almost vibrate with magical activity.~
+unknown~
+wand 0 AO
+50 4 4 'reserved' 0
+50 1 250 P
+#4256
+black skirt~
+a simple starched black skirt~
+This simple black skirt has been starched stiff, like a maid would wear.~
+unknown~
+clothing 0 AF
+0 0 0 0 0
+1 7 150 P
+#4257
+shoes~
+a pair of highly polished shoes~
+These black shoes shine and reflect light back like they were mirrors.~
+unknown~
+clothing 0 AG
+0 0 0 0 0
+1 2 700 P
+#4258
+well tailored jacket~
+a well-tailored jacket~
+Sharp creases aide this jacket in showing that one needs wealth to own such an item.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+1 9 835 P
+#4259
+gold ring~
+a humming gold ring~
+The gold ring shines brightly as it hums with a magical energy.~
+unknown~
+protect B AB
+CE CE CE C 0
+70 1 1400 P
+A
+24 -2
+#4260
+parasol~
+a parasol~
+The parasol looks sturdy enough that it could be used to defend oneself with.~
+unknown~
+weapon 0 AN
+exotic 9 14 bite 0
+65 4 325 P
+#4261
+corset~
+a small corset~
+This corset is designed to make ones waist appear small and dainty.~
+unknown~
+clothing 0 AL
+0 0 0 0 0
+1 3 258 P
+#4262
+necklace~
+a sparkling necklace~
+The necklace is encrusted with many gemstones that all sparkle brightly.~
+unknown~
+protect 0 AC
+BE BE BE C 0
+65 2 1300 P
+#4263
+black leather whip~
+a black leather whip~
+This long whip looks like it could seriously hurt a person, and probably has.~
+unknown~
+weapon 0 AN
+flail 13 14 jab I
+95 4 475 P
+#4264
+black leather bracers~
+a black leather bracer~
+Thick black leather looks like it would be good support and armor for a person.~
+unknown~
+armor 0 AM
+ABCD ABCD ABCD C 0
+95 2 475 P
+#4265
+Jahiz tattoo~
+a Jahiz tattoo~
+The complex emblem of the Jahiz regime makes an interesting tattoo.~
+unknown~
+armor MU AS
+ABCD ABCD ABCD C 0
+95 0 475 P
+#4266
+captain jahiz guard cloak~
+the Captain of the Jahiz Guard's cape~
+Dark blue velvet is heavy, but serves as good armor around ones shoulders.~
+unknown~
+armor 0 AZ
+CD CD CD AB 0
+75 11 375 P
+#4267
+captain jahiz guard rapier~
+the Captain of the Jahiz Guard's rapier~
+A bright sparkle of light reflects into your eye from the sharp point of the rapier.~
+unknown~
+weapon 0 AN
+sword 11 13 crunch 0
+75 2 375 P
+#4268
+captain jahiz guard capotain~
+the Captain of the Jahiz Guards capotain~
+The dark blue velvet of this capotain gives it a rich feel.~
+unknown~
+clothing 0 AE
+0 0 0 0 0
+75 5 650 P
+#4269
+costume jewelry~
+oversized costume jewelry~
+Thick strands of fake gold and gemstones are overwhelming in appearance.~
+unknown~
+trash 0 AC
+0 0 0 0 0
+54 6 54 P
+#4270
+short sword~
+a short sword~
+A simple short sword looks easy to handle.~
+unknown~
+weapon 0 AN
+sword 31 3 lunge 0
+60 7 300 P
+#4271
+white dress~
+a long white dress~
+This long white dress is made of a thin material, but glows magically.~
+unknown~
+armor A ADF
+E E E AC 0
+100 2 500 P
+A
+13 100
+#4272
+sapphire necklace~
+a dark blue sapphire necklace~
+A single large dark blue sapphire hangs from a simple silver chain and glows with a light of its own.~
+unknown~
+protect A AC
+CDE CDE CDE BC 0
+100 1 5900 P
+A
+13 50
+A
+12 40
+#4273
+royal jahiz shield~
+a Royal Jahiz Guard shield~
+This shield is painted with the complex emblem of the Jahiz royalty.~
+unknown~
+armor 0 AJ
+B B B 0 0
+15 6 75 P
+#4274
+three headed flail~
+a three headed flail~
+A thick wooden stick has three sharply spiked metals balls attached to the top.~
+unknown~
+weapon 0 AN
+axe 5 6 peck 0
+15 4 75 P
+#4275
+hidden wall safe~
+a hidden wall safe~
+This safe is flush with the stone walls of the castle, and wouldn't be noticed at all if it wasn't for the glint of the lock.~
+unknown~
+container R 0
+5000 ABCD 4226 0 0
+80 0 0 P
+#4276
+towering mound of gold~
+a towering mound of gold~
+A mound of gold towers in piles that sway gently.~
+unknown~
+money 0 A
+DHIJM 0 0 0 0
+1 250 5000 P
+#4277
+pearl crown~
+a pearl crown~
+A large pearl crown glows and hums magically.~
+unknown~
+armor ABG AE
+E E E AC 0
+100 5 500 P
+A
+19 3
+A
+18 3
+#4278
+story of the jinn book leather brown~
+"The Jinn"~
+A simple brown leather book that looks ancient beckons you strangely.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+10 4 100 P
+E
+read1~
+Created from a smokeless fire, the Jinn were to be servants to all
+mankind, without souls.  But the Gods chose to give them a soul, so they can
+make decisions for themselves to be right or wrong, good or evil, in the
+world.  The Jinn are a magical people, highly intelligent and able to change
+form.  Those that chose the path of goodness and purity, are still known
+today as the Jinn, while those who wished to cause havoc in the world have
+been termed the Efreet, and cast out into the vast desert near the Jinn's
+home city of Taj-Al-Jahiz.  
+~
+E
+story of the jinn book leather brown ancient~
+Created from a smokeless fire, the Jinn were to be servants to all
+mankind, without souls.  But the Gods chose to give them a soul, so they can
+make decisions for themselves to be right or wrong, good or evil, in the
+world.  The Jinn are a magical people, highly intelligent and able to change
+form.  Those that chose the path of goodness and purity, are still known
+today as the Jinn, while those who wished to cause havoc in the world have
+been termed the Efreet, and cast out into the vast desert near the Jinn's
+home city of Taj-Al-Jahiz.  
+~
+#4279
+simple leather sandals~
+a pair of simple leather sandals~
+A pair of simple leather sandals look comfortable, but not very supportive.~
+unknown~
+clothing 0 AG
+0 0 0 0 0
+16 2 65 P
+#4280
+leather boots~
+a pair of tall leather boots~
+A pair of tall leather boots shine with a high gloss like a mirror.~
+unknown~
+clothing 0 AG
+0 0 0 0 0
+43 6 239 P
+#4281
+silver winged shoes~
+a pair of silver winged shoes~
+A pair of silver winged shoes glow with a strange magical light.~
+unknown~
+clothing AG AG
+0 0 0 0 0
+97 8 970 P
+A
+13 30
+A
+14 50
+#4282
+jahiz guard spear~
+a Jahiz Guard spear~
+A long piece of polished silver glints in the light, with a spark coming off the tip of this spear.~
+unknown~
+weapon 0 ANP
+dagger 31 3 stab F
+60 4 300 P
+#4283
+jahiz guard belt~
+a Jahiz Guard belt~
+A simple leather belt is emblazoned with the Jahiz Guard crest.~
+unknown~
+armor 0 AL
+BD BD BD AB 0
+60 1 300 P
+#4284
+jahiz guard gloves~
+a pair of Jahiz Guard gloves~
+Simple leather gloves have the Jahiz Guard crest embroidered on them.~
+unknown~
+clothing 0 AH
+0 0 0 0 0
+60 2 540 P
+A
+2 1
+#4285
+tailored suit~
+a tailored suit~
+Simple black cloth has been sewn into a fabulous-looking suit that would fit perfectly.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+22 7 330 P
+#4286
+tailored dress~
+a tailored dress~
+A simple silvery cloth has been sewn in a dress to enhance the figure of the lady wearing it.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+22 5 330 P
+#4287
+over coat~
+a plain over coat~
+A plain over coat looks extremely well made, so that it will protect from the elements well.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+41 9 615 P
+#4288
+Fire Bird flower~
+a Fire Bird flower~
+The bright red petals of this strange looking flower make the shape look like a bird.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+10 1 100 P
+A
+13 10
+#4289
+snow bird flower~
+a Snow Bird flower~
+Delicate white petals look like a coating of powdery snow on a flying bird shaped flower.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+50 2 500 P
+A
+12 20
+#4290
+water bird flower~
+a Water Bird flower~
+This strange flower looks like liquid water in the form of a bird made from the shape of its transparent petals.~
+unknown~
+treasure B AO
+0 0 0 0 0
+100 1 1000 P
+A
+1 1
+#4291
+fool's hat~
+a three-pointed fool's hat~
+An old and worn top hat, that looks like it once belonged to nobility, has had an ass' ears and tail attached to it, making it the three-pointed fool's hat.~
+unknown~
+clothing 0 AE
+0 0 0 0 0
+86 2 430 P
+A
+12 50
+#4292
+ill fitting tights~
+ill fitting tights~
+Once a clean white, these men's tights have been worn so long and patched over so many times, that they aren't anything like they once were.~
+unknown~
+clothing G AF
+0 0 0 0 0
+86 3 516 P
+A
+17 -5
+A
+2 3
+#4293
+glowing green vial~
+a glowing green vial~
+A glowing green vial.~
+unknown~
+potion A AO
+14 'reserved' 'reserved' 'reserved' 'reserved'
+14 1 420 P
+#4294
+glowing red flask~
+a glowing red flask~
+A glowing red flask.~
+unknown~
+potion 0 AO
+52 'reserved' 'reserved' 'reserved' 'reserved'
+52 1 1560 P
+#4295
+simple wooden wand~
+a simple wooden wand~
+A simple wooden wand.~
+unknown~
+wand 0 AO
+26 4 4 'reserved' 0
+26 2 130 P
+#4296
+thin quartz wand~
+a thin quartz wand~
+A thin quartz wand.~
+unknown~
+wand 0 AO
+91 5 5 'reserved' 0
+91 1 455 P
+#4297
+ring onyx serpentine~
+a serpentine onyx ring~
+This serpentine onyx ring seems to soak up the light around it.~
+unknown~
+protect CEG AB
+CDE CDE CDE BC 0
+100 1 2500 P
+A
+13 40
+A
+19 4
+A
+18 4
+#4298
+parchment~
+an old and yellowed piece of parchment~
+This old and yellowed piece of parchment has some writing on it in faded letters.~
+unknown~
+treasure S AO
+0 0 0 0 0
+0 0 1 P
+E
+parchment letters~
+As old as the lands, and buried by time.  This place is one of knowledge,
+of the times left behind.  Never to be forgotten, yet never to be known. 
+This places serves as a reminder of what happened long ago.  
+ 
+Deep in this place, hidden in a room. There lies another parchment, much
+like the one you now hold. This one serves as a riddle, though the answer
+is a clue. Of where to go looking, to find it, should you choose.
+ 
+Here is the riddle, now prepare your mind for it. For the answer is
+complicated and it is sure to worry your wit.
+ 
+Shrouded in darkness, protected by force. The creatures who guard this place
+do so with a ferocity to protect their home and their art.  Their art is of
+stealth and disregard for life. They use this art to defend against outsiders,
+who might come to take their wealth.
+ 
+Their place is covered in buildings, each in stages of disrepair. Mostly this
+is due to the water which is everywhere.  Some places it is shallow, in others
+its very deep. Yet the entire place is a reminder of the horrors of what man
+can do to man. Greed, hate, and distrust all led to the downfall of this place,
+and now it serves as a memory of times past and our mistakes.
+ 
+Go here if you can find it, if you dare to enter the gates. Search for a place of
+power, and speak to the one at the throne. He will have the remainder of this puzzle,
+held in his very hands. I warn you now the path will not be easy. In fact it will be
+deadly, and dangerous therein.
+~
+#4299
+rogues sword~
+a rogue's sword~
+This rogue's sword glitters with a serrated edge on one side and a sharp on the other.~
+unknown~
+weapon 0 AN
+sword 8 12 slice DJ
+50 3 250 P
+A
+13 40
+#4300
+fancy scabbard~
+a fancy scabbard~
+A well crafted facy scabbard has been discarded here.~
+unknown~
+none G AY
+0 0 0 0 0
+40 4 500 P
+A
+18 1
+A
+19 1
+#0
+
+
+
+#ROOMS
+#4200
+Outside the Gates of Taj-Al-Jahiz~
+The great stone walls seen from a distance previously have loomed upon
+you.  A dark oak gate stands blocking your path into the castle to the
+south.  On either side of the gate are tall towers, at the top of which are
+lookouts.  Looking east and west the stone wall continues, ending at each
+corner with more lookouts, at the top of which can be seen a small face
+peeking out.  
+~
+0 4 2
+D0
+~
+~
+~
+0 0 4022
+D2
+A large dark gate bars your path, only to be opened by those inside, or
+with a key from the outside.  A small window is set in the middle of the
+gate, though it is hard to see because of its deep blue colour.  
+~
+gate~
+~
+1 4200 4201
+M 0 H 0
+S
+#4201
+Inside Taj-Al-Jahiz~
+Sound erupts after passing through the gates as a large market place
+spreads out before you.  People are hustling about doing their daily chores,
+and mixed in with them are small animals that wander about.  Directly in the
+middle of the market are gallows, and beyond this can be seen the large
+stone castle.  All around making winding paths through the town are small
+tents and huts scattered about without any thought.  Directly to the east
+and west are small gatehouses with wooden ladders in them.  
+~
+0 4 1
+D0
+A large wooden gate blocks your path.
+~
+gate~
+~
+1 4200 4200
+D1
+A small stone building with a gaping black doorway.
+~
+~
+~
+0 0 4205
+D2
+Many villagers roam about doing their daily chores.
+~
+~
+~
+0 0 4207
+D3
+A small stone building with a gaping black doorway.
+~
+~
+~
+0 0 4206
+M 0 H 0
+S
+#4202
+Mystical Delights~
+The windows are brightly coloured, filtering the light entering the store
+into many vibrant colours.  A slight haze fills the room from the smoke of
+potions on the hearth and incense burning along the shelves.  The smells of
+spices and exotic things fill ones nose, almost making one want to sneeze. 
+The doorways are draped with coloured glass beads and clear crystals which
+refract the light hitting them.  A flimsy tables spans the length of the
+room, cutting it in two parts - one for the customer and one for the gypsy
+and the wares she sells.  Lined up along the table are all sorts of crystals
+and bottles and silver jewelry.  
+~
+0 12 0
+D0
+~
+~
+~
+0 0 4230
+M 0 H 0
+S
+#4203
+The Fruit Stand~
+A large wooden cart is filled to overflowing with various fruits and
+vegetables.  The rough boards are weathered, and the painted "J.O. &
+Sons" is now just a faded green, barely visible.  The bright colours of the
+fresh fruit make the cart look all the more shabby.  Standing next to one of
+the large wooden wheels is J.O. himself.  
+~
+0 4 1
+D2
+~
+~
+~
+0 0 4217
+M 0 H 0
+S
+#4204
+The Gallows~
+Large wooden gallows stand before you, looking like they were here before
+the castle was.  The wood is greyed with age, though still extremely sturdy
+looking.  Many people must have been hung from this spot over the years, and
+by the looks of how the people don't even seem to notice it, hangings are a
+common occurrence in this castle.  Blood stained ropes dangle loosely from
+the wooden beams, swaying slightly as though ghosts were swinging them back
+and forth.  
+~
+0 0 1
+D0
+The road opens slightly leading to the market entrance.
+~
+~
+~
+0 0 4207
+D1
+Litter and dirt blow across the stones on East Sapyr Road.  
+~
+~
+~
+0 0 4236
+D2
+A shadowy gloom persists from the archway above the cobblestone road.  
+~
+~
+~
+0 0 4240
+D3
+Shop signs dangle from building fronts at the opening of West Sapyr Road.  
+~
+~
+~
+0 0 4219
+M 0 H 0
+S
+#4205
+East Gatehouse~
+The room here gives you barely enough space to move around in.  Stone
+walls are left bare and show lime build-up in the cracks.  The dirt floor
+has been packed down hard, almost like rock itself.  The only furnishing
+here is a rickety wooden ladder leading up into darkness.  
+~
+0 9 1
+D3
+The far off sound of people talking and animals seeps through the doorway.
+~
+~
+~
+0 0 4201
+D4
+You can't see anything except blackness.
+~
+~
+~
+0 0 4262
+M 0 H 0
+S
+#4206
+West Gate Tower~
+The room here barely gives you enough space to move around in.  Stone
+walls are left bare and show lime build-up in the cracks.  The dirt floor
+has been packed down hard, almost like rock itself.  The only furnishing
+here is a rickety wooden ladder leading up into darkness.  
+~
+0 9 1
+D1
+The far off sound of people talking and animals seeps through the doorway.  
+~
+~
+~
+0 0 4201
+D4
+You can't see anything except blackness.
+~
+~
+~
+0 0 4263
+M 0 H 0
+S
+#4207
+Entrance to the Market~
+A cobblestone pathway leads you deeper in to the castle grounds.  Trees
+and flowers line both sides of the path, and birds fly and chirp over head. 
+Young lovers can be seen avoiding their chores sitting in the grass, picking
+at flower petals.  South of you, the market place opens up with people and
+animals wandering about the streets and loud music and laughter bubbles over
+to your ears.  Back to the north are the gatehouse and gates leading into
+this amazing place in the middle of nowhere.  
+~
+0 0 1
+D0
+Large stone walls and a heavy wooden gate casts shadows on the ground.  
+~
+~
+~
+0 0 4201
+D2
+Wooden gallows mark the main market.  
+~
+~
+~
+0 0 4204
+M 0 H 0
+S
+#4208
+East Sapyr Road~
+The road continues, and though most of the houses have their back onto
+this street, one shop front is to the north.  The sign above the door shows
+a sword and a mace crossing, and looking up shows a large chimney puffing a
+lot of smoke.  This area seems to be the poorer section of town, as most of
+the buildings look slightly run down.  The road continues both east and
+west.  
+~
+0 0 1
+D0
+A loud clanging of metal on metal reverberates from here.  
+~
+~
+~
+0 0 4210
+D1
+A strange smell wafts over the bend in the road.  
+~
+~
+~
+0 0 4209
+D3
+The entrance of East Sapyr Road opens up to the gallows.  
+~
+~
+~
+0 0 4236
+M 0 H 0
+S
+#4209
+East Sapyr Road~
+The road bends sharply here, continuing perpendicular to the original
+path.  One part leads north, while the other heads to the west.  Rickety
+wooden stables line the east side of the road, and the horses stare out at
+passer-bys.  The corner between the stables and the building to the south is
+full of dirt and broken boxes and other small pieces of litter.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 4289
+D1
+The strong stench on animals and manure pour out from the common stables.  
+~
+~
+~
+0 0 4211
+D3
+The road heads back to the smithy.  
+~
+~
+~
+0 0 4208
+M 0 H 0
+S
+#4210
+The Weapon Shop~
+The room is dark, hot and hazy.  A large fire blasts in the immense
+hearth, and this casts the only light for the room.  It is also the source
+of the haze and heat.  A dirty man fans the fire constantly to keep it
+large, so the smith can build his impressive weapons.  The wall is lined
+with some examples of his work, and other peoples weapons which have been
+brought in for repairs.  
+~
+0 8 0
+D2
+The door leads out to East Sapyr Road.  
+~
+~
+~
+0 0 4208
+M 0 H 0
+S
+#4211
+The Common Stables~
+The strong stench of horses, sweat and manure blasts at your nose when
+you first step into the dim light of the stables.  Around you are wooden
+plank walls covered with long nails that are used to hang various
+necessities on.  Most of these nails are used for rope, hand-woven blankets
+and horseshoes.  The hard ground is covered with a thick layer of hay,
+partly to cover a messy floor, partly to cover the smell of manure and
+partly to soften the ground for the horses.  Lanterns hanging from the
+ceiling cast dim light circles on the ground around you.  You can see the
+horses kept in their stalls to the north and in the back corner in this part
+is an anvil next to a hot fire.  
+~
+0 2097160 0
+D0
+The sound of horse hooves scratch against the ground, as they dig for
+fresher hay.  
+~
+~
+~
+0 0 4216
+D3
+The wide doors open up on to East Sapyr Road and the cool breeze that
+contrasts sharply with the heat in this room.  
+~
+~
+~
+0 0 4209
+M 0 H 0
+S
+#4212
+The Stables~
+Many horses fill the stalls, waiting to be bought or rented.  
+~
+0 32772 1
+M 0 H 0
+S
+#4213
+East Sapyr Road~
+The road forks slightly here, leading to the north, east and south.  Both
+north and south lead to the same options of a litter ridden road between run
+down and dirty buildings.  To the east, the base of a tall tower starts to
+lead upwards, built of the same heavy dark stone that the city walls are
+made of.  
+~
+0 0 1
+D0
+Looking north, you can see the strong thick walls of the city limits in
+the distance.  
+~
+~
+~
+0 0 4214
+D1
+The base of a tall round tower dominates the corner.  A large
+metal-studded wooden door looks menacing.  
+~
+~
+~
+1 0 4215
+D2
+The road continues straight through run-down buildings.  
+~
+~
+~
+0 0 4289
+M 0 H 0
+S
+#4214
+East Sapyr Road~
+The road ends suddenly here, blocked in by buildings to the east and
+west, and the city wall to the north.  It looks as though some people have
+spent nights here in this desolate corner of the city.  Papers are stacked
+in the corners and some torn woolen clothing looks to be wrapped around
+something on top of this paper stack.  A few rats peek out of the sewer
+pipes, twitching their noses at you.  
+~
+0 0 1
+E
+woolen~
+The wool that used to be an item of clothing has been torn to become
+wrappings and bindings around some object in the centre of the dirty mess.  
+~
+E
+clothing~
+The wool that used to be an item of clothing has been torn to become
+wrappings and bindings around some object in the centre of the dirty mess.  
+~
+D2
+The road goes straight through run-down houses and litter at the edges.  
+~
+~
+~
+0 0 4213
+M 0 H 0
+S
+#4215
+The Northeast Tower~
+The thick stone walls have a tiny window next to the heavy oak door to
+the west that is the only source of natural light in this dark room.  The
+place is sparsely furnished with a small wood table and two chairs.  On the
+table is a deck of cards and an unlit oil lantern.  A shelf is firmly
+attached to the north side of the room, and through the shadows, it looks as
+though there is something set on it.  A rickety wood ladder leads vertically
+up to the ceiling where a hatch is located to go up a floor.  
+~
+0 9 0
+E
+shelf~
+Looking closer in the dim light to the shelf, you can see a small box in
+the furthest corner on it.  The box is made of a dark wood, making it even
+less noticable in the poor lighting.  
+~
+D3
+The dark doorway looks menacing though it is the way out.  
+~
+~
+~
+1 0 4213
+D4
+A rickety ladder leads up to a hatch that is enshrouded in shadows.  
+~
+~
+~
+1 0 4260
+M 0 H 0
+S
+#4216
+The Common Stables~
+Surrounding you are many wooden stalls.  Only three of these stalls are
+currently being occupied, the rest have their doors wide open and are free
+of hay and dirt.  Along the western wall, two gentle beasts watch you with
+lazy eyes.  The first is a small gray pony who bobs his head knowingly at
+you.  The other is a pure white horse, who looks wild as it shakes its head,
+its mane flying around like fire.  The eastern wall houses only one horse -
+a massive Clydesdale that looks down at you with big brown eyes.  At the
+very northern part of the stalls is a wide table that is piled high with
+various types and sizes of saddles.  
+~
+0 8 0
+D2
+The large room is heated and lit by a huge fire next to an anvil.  Dmitri
+pounds out new horseshoes by this light, waiting to help serve you.  
+~
+~
+~
+0 0 4211
+M 0 H 0
+S
+#4217
+West Sapyr Road~
+The cobblestones of the road continue east and west here, leading along
+West Sapyr Road.  An eerie silence comes from the east as a result of the
+gallows nearby.  Leading off the road to the north is a short dirt path
+ending at a large wooden cart who's owner stands nearby.  A warm, wonderful
+smell wafts over the air to you from the south, and looking that direction
+you can see steps leading up into the open doors of a bakery.  More hustle
+and bustle of the town comes from the west.  
+~
+0 0 1
+D0
+The path ends in a large area mostly dirt, though with little tufts of
+grass taking root.  A rickety cart takes up a small piece of this area for
+its own.  
+~
+~
+~
+0 0 4203
+D1
+~
+~
+~
+0 0 4219
+D2
+~
+~
+~
+0 0 4220
+D3
+~
+~
+~
+0 0 4218
+M 0 H 0
+S
+#4218
+West Sapyr Road~
+The road stops suddenly to the west at the open doors of the town's inn,
+and you can see in at the cozy interior.  Cobblestones continue the road to
+the north and east from here.  South of this corner in the road is the back
+of another store which opens up onto a road running parallel to this one.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 4221
+D1
+~
+~
+~
+0 0 4217
+D3
+~
+~
+~
+0 0 4222
+M 0 H 0
+S
+#4219
+West Sapyr Road~
+The road is bare here, no stores wanting to be close to the death of the
+gallows to the east of this spot.  More action in the street can be seen to
+the west where there are stores and nicer "feelings" in the air.  Three
+wooden barrels line the wall to the north here, collecting rainwater where
+horses can drink when they pass by.  
+~
+0 0 1
+D1
+Large wooden gallows mark the intersection of Sapyr Road.  
+~
+~
+~
+0 0 4204
+D3
+The cobblestone road continues between stores.
+~
+~
+~
+0 0 4217
+M 0 H 0
+S
+#4220
+Delightful Treats~
+The wonderful smell of baking treats fills the room as well as the warm
+heat of many ovens constantly being used.  Shelves built along the western
+wall are filled with all sorts of pastries, breads and other treats.  A
+large table in the south-east corner of the room has piles of fresh dough in
+balls arranged neatly in a row.  Covering the table, as well as the
+surrounding floor is a fine coating of flour, which also wafts through the
+air, giving a haze to the room.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 4217
+M 0 H 0
+S
+#4221
+West Sapyr Road~
+The road leads perfectly north-south here, and has no stores or buildings
+leading off it.  To the west is the tall stone wall protecting the town and
+castle from the wilds outside the walls.  The large stone blocks are
+darkened and aged with years of weathering.  Lining the east side of the
+road is a rough wooden fence standing about six feet.  Spaces between the
+boards let you peek through to see a large wooden cart filled to the top
+with fruit.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 4223
+D2
+~
+~
+~
+0 0 4218
+M 0 H 0
+S
+#4222
+Bed & Breakfast~
+This large room doesn't quite give you the cozy, comfort feeling of a
+"Bed & Breakfast", but more of an elegant, expensive air.  Set against the
+northern wall is a mahogany desk which is kept nicely polished, behind which
+is a few nooks in the wall to hold any mail for customers.  Centred in the
+room on a circular rug is a small round table.  Adorning the table is a
+large crystal vase with a fresh bouquet of flowers.  Lining the western and
+eastern walls are large couches, which spill over into the next room to the
+south which appears to be a dining room.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 4218
+D2
+~
+~
+~
+0 0 4225
+M 0 H 0
+S
+#4223
+West Sapyr Road~
+The cobblestone road comes to a blinding halt to the north at a dark
+stone wall that surrounds the town.  Despite the semi-rough conditions along
+this road, this tiny corner is kept meticulously clean and swept.  Looking
+up, you can see the battlements along the top of the wall, and to the west
+is the tall tower where archers would do battle.  A rough wooden door to the
+west shows the way into this tower, and otherwise the only way to go is
+south.  
+~
+0 0 1
+D2
+~
+~
+~
+0 0 4221
+D3
+~
+~
+~
+1 0 4224
+M 0 H 0
+S
+#4224
+The Northwest Tower~
+The thick stone walls have a tiny window next to the heavy oak door to
+the east that is the only source of natural light in this dark room.  The
+place is sparsely furnished with a small wood table and two chairs.  On the
+table is an unlit oil lantern.  Tucked back in the south-western corner is a
+hay-filled mattress on the floor.  The mattress looks as though rats have
+been using it more than humans.  A rickety wooden ladder leads vertically up
+to the ceiling where a hatch is located to go up a floor.  
+~
+0 9 0
+D1
+A heavy oak door leads the way back to the market streets.  
+~
+~
+~
+1 0 4223
+D4
+A rickety old ladder leads up to the ceiling where a hatch leads up.  
+~
+~
+~
+1 0 4261
+M 0 H 0
+S
+#4225
+Bed & Breakfast~
+Four small round tables each surrounded by four wooden chairs fill most
+of the space in this room.  Each table is decorated with a fresh vase of
+flowers.  Large windows in the eastern and western walls make sure there's
+constantly light entering the room, whether it's daylight, or light from the
+town and stars at night.  In the back corner of the room is a steep narrow
+stairway leading up to where the rooms would be rented out, but a barrier
+has been placed in front of it for some unknown reason.  The southern wall
+is almost completely filled with a bar, but there is space enough for a
+small door next to it.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 4222
+D2
+~
+~
+~
+1 0 4226
+M 0 H 0
+S
+#4226
+Bed & Breakfast Bedroom~
+This tiny back room has been converted into a small bedroom for the
+less-important customers the inn has.  A small window in the eastern wall is
+framed by lace curtains and looks out into the town.  Below the window is a
+tiny dresser to hold what few possessions the inhabitant might have on them.
+In the back south-western corner is tucked away a tiny cot, with barely
+enough room for a man to lay down.  In the centre of the room is a circular
+rag-rug, which has been dulled and muted by years of use.  Despite all this,
+there is a feeling of charm and quaintness, and you feel welcome to rest
+yourself for a while here.  The door leading out into the rest of the Bed
+and Breakfast is in the northern wall.  
+~
+0 33554440 0
+D0
+~
+~
+~
+1 0 4225
+M 0 H 0
+S
+#4227
+West Emerand Road~
+The road comes to an abrupt halt to the west, as it meets up with a wall
+holding a small window with lace curtains.  It continues to the south,
+leading to a darker part of the town, though you are sure there must be
+stores down there.  A wooden door is propped open to the north, welcoming
+customers in.  Above the door is a large shoe, indicating that the store
+below it is a shoe store.  The cobblestones lead to the east where more
+stores are located as well as to the south.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 4228
+D1
+~
+~
+~
+0 0 4230
+D2
+~
+~
+~
+0 0 4229
+M 0 H 0
+S
+#4228
+Fancy Feet~
+The smell of leather and glue fills the room, along with the sound of
+tapping from hammering nails into the soles of shoes fills the air.  Lined
+up neatly on tables and shelves are many brown and black leather shoes and
+boots.  A large pair of sharp scissors sit open on the table next to a
+tipped jar of small nails that have spilt over onto the floor.  Though the
+finished shoes may be kept neat, the shoes in progress are all over the
+room, pieces everywhere and leather snippings dotting the floor.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 4227
+M 0 H 0
+S
+#4229
+West Emerand Road~
+The road leads you north and south from here, with the north being more
+lit and seemingly cheerier than the south part looks.  Along the eastern
+edge of the road is a tall building, casting shadows over the road.  There
+aren't any windows to look in and see what the building is for though.  On
+the western edge of the road are some wooden stairs leading up to a heavy
+door with the picture of a pig on it.  Framing the door are shuttered
+windows, as though the people inside are trying to keep things out.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 4227
+D2
+~
+~
+~
+0 0 4232
+D3
+~
+~
+~
+1 0 4231
+M 0 H 0
+S
+#4230
+West Emerand Road~
+The clean cobblestone road that runs in an east-west direction here,
+seems to bend slightly to lead up to the entrance of a strange looking shop
+to the south.  On the northern side of the road is the back of a store which
+must front on a road to the north that runs parallel to this one.  A locked
+door and shuttered windows are all that you can see on this building to
+north, giving no way in.  The sound of tinkling bells draws your attention
+to the south again.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 4237
+D2
+The coloured windows block any look into the store, but a strange exotic
+smell wafts out the doorway.  A sign hangs above the store with a cauldron
+painted on it.  
+~
+~
+~
+0 0 4202
+D3
+~
+~
+~
+0 0 4227
+M 0 H 0
+S
+#4231
+Butcher's Shop~
+This tiny store manages to keep itself cool even though its windows and
+door is kept shut to keep insects out.  Hanging in the back of the store are
+huge slabs of meat, ready to be cut for your desire.  On a long string
+running over a butchers table are various types of sausages, looped in a
+spiral.  Blood stains the floor everywhere, though some patches look fresh
+and bright.  Stuck in a heavy piece of wood attached to the wall behind the
+table are a row of sharp mirror-like knives.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 4229
+M 0 H 0
+S
+#4232
+West Emerand Road~
+In a constant shadow, this part of West Emerand Road has a rougher feel
+than the rest of the road.  The cobblestones are still neatly laid and kept
+clean, running north and south here.  A rough wooden building butts up
+against the road to the west here, though no windows allow you to see what
+it could possibly be.  Along the eastern side of the road is a high stone
+wall, enclosing the royal castle grounds.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 4229
+D2
+~
+~
+~
+0 0 4233
+M 0 H 0
+S
+#4233
+Dead End~
+The road ends abruptly here, collecting leaves and other small pieces of
+litter.  This back corner barely sees the light of day from the surrounding
+walls and buildings, so it is forgotten about by the residents of town.  A
+wooden fence along the western side of the road is in shambles, though
+miraculously is still standing.  A loose board looks as though it can be
+moved out of the way however, and behind it is gaping darkness.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 4232
+D3
+~
+loose board~
+~
+1 0 4234
+M 0 H 0
+S
+#4234
+Hidden Alley~
+This dark alley has been hidden from the rest of the town for good
+reason.  Rats scuttle around the ground from garbage pile to garbage pile,
+their noses twitching in your direction.  Loud shouts and laughter spill
+from a decrepit building to the north.  Light shines through the many cracks
+in the door and boarded windows, and through the shadows a figure can be
+seen sitting near the entrance.  A loose board to the east looks like it
+could be moved out of the way for you to go through.  
+~
+0 1 1
+D0
+~
+~
+~
+0 0 4235
+D1
+~
+loose board~
+~
+1 0 4233
+M 0 H 0
+S
+#4235
+The Pig and Whistle~
+Dark and dirty, the people who frequent this tavern reflect its interior
+perfectly.  Loud laughter and shouting fills the small room as the bar
+wenches try to make their way through the crowds as best as possible.  Sharp
+knives and daggers can be seen glinting in the dim lighting either on the
+tables or in the hands of the rogues and misfits.  Ale flows freely here,
+giving the shine to the bar top which reflects the scared face of the
+bartender glaring at you.  A loud smash of breaking glass from behind you
+exemplifies the unease and tension in the air.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 4234
+M 0 H 0
+S
+#4236
+East Sapyr Road~
+Only the backs of buildings face the road here, so litter and dirt
+catches in the corners.  The windows are either boarded up or heavily
+curtained on the inside so no one is able to peep in.  To the east of here,
+people can be heard shouting to each other as they pass through doing
+errands.  Three barrels are lined up along the north wall, and a broken
+crate sits next to the southern wall.  
+~
+0 0 1
+D1
+The cobble stone road continues with buildings on either side.  
+~
+~
+~
+0 0 4208
+D3
+Large wooden gallows cause the people to be silent near it.  
+~
+~
+~
+0 0 4204
+M 0 H 0
+S
+#4237
+West Emerand Road~
+The road seems bright and cheerful here, with the white walls and shining
+windows of buildings proudly looking over the street.  A door is swung wide
+open to the north, welcoming all who pass by.  The only indication as to
+what the store to the north would be, is the strange little symbol painted
+in a bright yellow between the open doorway and the draperied window.  The
+south is fenced off with a large black wrought iron fence that keeps the
+beautiful gardens behind it protected from the commoners of the town. 
+Neatly arranged cobblestones lead you east and west along the road.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 4238
+D1
+~
+~
+~
+0 0 4239
+D3
+~
+~
+~
+0 0 4230
+M 0 H 0
+S
+#4238
+The Magic Box~
+Strange and wonderful aromas circle about you in different coloured
+hazes.  Brightly coloured bottles line the walls between thick old books and
+strange glowing crystals.  Thick coloured rugs lay atop each other in a
+haphazard way, carpeting the floor piece by piece.  A small table sits in
+the middle of the room, and in the middle of the table is a large crystal
+ball.  Looking at the crystal ball, you see a purple mist swirling inside
+it, drawing you deeper and deeper in...  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 4237
+M 0 H 0
+S
+#4239
+The Fountain Square~
+A beautiful white marble fountain sparkles as cold clear water bubbles
+over the intricate carvings.  This massive piece of work is the main focal
+point of this square, and many people rest on the benches circling it.  The
+cobblestones here seen to gleam, and everyone walking by waves cheerily and
+offers a happy greeting.  To the south, a large glistening white castle
+looms and to the north the tops of the wooden gallows can be seem.  This
+spot here seems to have a calming, restful air to it amidst the hustle and
+bustle of the rest of the town.  
+~
+0 33817600 1
+D0
+A dark gloom emanates from the passageway under the arch over the road.  
+~
+~
+~
+0 0 4240
+D1
+People bustle down East Emrand Road as they carry out their chores.  
+~
+~
+~
+0 0 4242
+D2
+A long sparkling pool surrounded by lush gardens marks the beginning of
+castle grounds.  
+~
+~
+~
+0 0 4241
+D3
+Shopkeepers sweep the steps to their stores down West Emrand Street.  
+~
+~
+~
+0 0 4237
+M 0 H 0
+S
+#4240
+The Archway~
+The cobblestone path is covered with constant shade from the archway
+covering it.  Above the archway is part of the houses on either side of the
+roadway.  The bricks forming the arch look solidly in place, though there
+are small cracks starting to form.  Two lanterns hang from either side to
+light this area, which shows the beggars huddled together against the sides
+of the houses.  Rats peek out from cans and a small boy feeds one some of
+his mouldy bread he probably spent hours searching for.  
+~
+0 0 1
+D0
+A dark gloom seems to linger over the square to the north as the gallows
+fill most of the free space there.  
+~
+~
+~
+0 0 4204
+D2
+Cheerful sounds and the splashing of water come from the south where a
+large fountain and statue are the focal points.  
+~
+~
+~
+0 0 4239
+M 0 H 0
+S
+#4241
+The Garden Pool~
+Lush and thick on the east and west sides of the path are the Royal
+Gardens, filled with flowers and trees.  Bumble bees buzz drunkenly from
+flower to flower and many workers can be seen keeping the grounds beautiful.
+The path splits to travel along either side of a long pool on its way to the
+great gates of the castle.  The water is perfectly still, letting one look
+down through the crystal waters to watch large koi swimming.  In the centre
+of the pool is large statue, which at one time must have been covered in
+gold, though now it is black and dark and no longer in use.  
+~
+0 0 1
+E
+gate~
+The dark wood is kept from weathering by a constant polish always be
+added on.  The polish enhances the intricate carvings over the doors, and
+accentuates the scene of heaven and hell and those being sent to one or the
+other.  At the top of the gate is an angelic figure, and the face is
+recognizable as the same on the statue of Awenyedd.  
+~
+D0
+The splashing of water can be heard from the large marble fountain.  
+~
+~
+~
+0 0 4239
+D2
+Massive wooden gates with intricate carvings close the castle off from
+the rest of the world.  
+~
+gate~
+~
+1 4212 4266
+M 0 H 0
+S
+#4242
+East Emerand Road~
+The street is made of cobblestones and is kept in good condition.  Though
+horses sometimes wander by, no presents from the gentle beasts can be seen
+anywhere, indicating that this road is where the upper class frequent.  A
+large impressive building is to the north with its large carved double doors
+atop a short flight of steps.  Above these grand doors is a carved marble
+sign stating that this building is the "Taj-Al-Jahiz University".  The road
+continues east and west from here past beautiful buildings.  
+~
+0 0 1
+D0
+~
+carved double~
+~
+1 0 4243
+D1
+~
+~
+~
+0 0 4245
+D3
+~
+~
+~
+0 0 4239
+M 0 H 0
+S
+#4243
+Taj-Al-Jahiz University~
+The grandeur of this building doesn't show from the outside as much as
+this large entry into the University does.  Tall polished wood columns frame
+the carved oak double doors which lead back out to the street, and another
+set of columns frame the entrance to the reading room to the east.  The
+marble floor is inlaid with beautiful flower designs in a circle around the
+kiosk in the centre of the room.  The wood of the kiosk glows with a warm
+shine and holds a few precious books and vases with flowers for decorations.
+Pictures of important people in the castle's history are framed in heavy
+gilt carved frames and hung around the room.  Light comes down from above
+through a large skylight in the ceiling.  
+~
+0 4194312 0
+D1
+~
+~
+~
+0 0 4244
+D2
+~
+carved double~
+~
+1 0 4242
+M 0 H 0
+S
+#4244
+Taj-Al-Jahiz University~
+This large room is shrouded in silence.  Deep red and blue rugs cover the
+polished marble floor to keep any movement noises to a bare minimum so as
+not to disturb anyone studying here.  Three large wood tables are placed
+down the centre of the room, each shining with a high polish.  On each table
+is a beautiful gilt gold desk lamp.  Piles of books sit randomly on the
+tables as well, where people before you had left them after studying. 
+Instead of walls, there are just shelves, all filled with books of various
+types, styles and dates.  
+~
+0 4194312 0
+D3
+~
+~
+~
+0 0 4243
+M 0 H 0
+S
+#4245
+East Emerand Road~
+The evenly laid cobblestones pave a smooth road in a perfect east-west
+direction through this better side of town.  A large rough-cut marble
+building with large windows overlooks the street from the north, though you
+can't enter it from this position.  The sound of creaking wood draws your
+attention to the sign that always seems in perpetual motion to the south. 
+Writing on the sign indicates that the door below it leads into the town's
+clothier.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 4247
+D2
+~
+~
+~
+0 0 4246
+D3
+~
+~
+~
+0 0 4242
+M 0 H 0
+S
+#4246
+High Fashion~
+Many tables fill the room with yards of rich, brightly coloured cloth
+folded and displayed on them.  On either side of the door are two
+statuettes, one female form and one male form.  The female is dressed in a
+pale blue and silver silk dress with strands of pearls around her neck,
+while the male is dressed in a dark blue form-fitting suit with a white
+carnation.  The richness of the material and the way the models are dressed
+gives the air that this store is only for those of the wealthy towns people.
+~
+0 8 0
+D0
+~
+~
+~
+0 0 4245
+M 0 H 0
+S
+#4247
+East Emerand Road~
+The road takes a sharp bend here, now leading to the west and south.  You
+can follow the cobblestones in either of those directions to see more of the
+castle grounds, or you can go into the shops to the north or east.  Looking
+east, the wind catches the scent of flowers and brings it to you, filling
+your senses with the fragrance.  This is a good indication that flowers can
+be bought from the store to the north, and the sign of "Lindara's Flowers"
+confirms this.  The store front to the east doesn't give much away about it,
+as the only indication that it is a store is the fact that the door is open
+and a large star is painted next to it.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 4248
+D1
+~
+~
+~
+0 0 4249
+D2
+~
+~
+~
+0 0 4250
+D3
+~
+~
+~
+0 0 4245
+M 0 H 0
+S
+#4248
+Flowers by Lindara~
+The wonderful fragrance of many flowers invades your senses, as the
+bright multitude of colours surround you.  Everywhere are freshly cut
+flowers set neatly in buckets and bunches, waiting to be plucked and given
+to a special someone.  It seems like there's at least three of each type of
+flower here, as well as green plants growing in hanging baskets.  The store
+is set up specifically for you to feel sentimental towards a person so you
+will purchase them some lovely flowers.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 4247
+M 0 H 0
+S
+#4249
+Viktor's Protections~
+The warm glow of lanterns fills the room, making the displays of armor
+shine merrily.  Half-completed chain mail shirts lay scattered about a table
+in the back corner of the store.  Hanging from wooden pegs in the wall next
+to the door are many different straps of leather, all freshly polished and
+gleaming.  Standing tall in the south-eastern corner of the room is a full
+set of polished armor, with its helmet tilted slightly as though there was a
+person inside the metal looking back at you.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 4247
+M 0 H 0
+S
+#4250
+East Emerand Road~
+This section of the road seems slightly darker than the road to the
+north, but it's only sue to the fact that not as much natural light filters
+down through the buildings.  A large wooden building opens onto the street
+from the east here, and looking in, you can see saddles and a keeper
+brushing a horse.  The building is unmarked as to what it is though. 
+Looking south down the road further, you can see it ends abruptly at the
+front of a building which has it's doors closed.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 4247
+D1
+~
+~
+~
+0 0 4251
+D2
+~
+~
+~
+0 0 4290
+M 0 H 0
+S
+#4251
+Royal Guard Stables~
+This small room is extremely neat, with saddles set in perfect positions
+in a row and the blankets all folded and placed in the same manner.  The
+floor is free of any dirt or hay, which is uncommon to see in a stable. 
+Through a wide window facing east over a green field, you can see brilliant
+black and white horses, parading and galloping around.  Deep shelves
+surrounding the door in the western wall are filled with dark blue jewelled
+and feathered ornaments for the horses, and the northern wall holds the
+protective armor for battle horses.  
+~
+0 2097160 0
+D3
+~
+~
+~
+0 0 4250
+M 0 H 0
+S
+#4252
+Royal Guard Pasture~
+The green grass of this pasture is kept perfect for the Royal Guard
+horses that reside here.  
+~
+0 32772 2
+M 0 H 0
+S
+#4253
+The Royal Guard Barracks~
+The entrance to the barracks are what any person would expect for a place
+where the military thrives.  The floor is freshly mopped and there is no
+dust anywhere, nor are there any decorations around the room.  A picture of
+the current Captain is placed squarely on the western wall opposite a plain
+wooden door.  This small hallway leads south into the main part of the
+barracks, and another plain wooden door to the north leads out into the
+town.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 4290
+D1
+~
+~
+~
+1 0 4254
+D2
+~
+~
+~
+0 0 4255
+M 0 H 0
+S
+#4254
+Captain's Quarters~
+This small room is kept extremely neat.  A cot-like bed in the
+north-eastern corner of the room has its sheets pulled tightly and corners
+made perfectly.  A desk sits opposite the bed in the south-eastern corner,
+and places perfectly in the centre is a pad of paper and a pen which is
+exactly parallel to the top of the pad.  At the foot of the bed is a large
+trunk which is kept locked, and free of dust.  A small window in the eastern
+wall looks out of the countryside, and a wooden door in the western wall
+leads to the Royal Guard barracks.  
+~
+0 8 0
+D3
+~
+~
+~
+1 0 4253
+M 0 H 0
+S
+#4255
+The Royal Guard Barracks~
+The room is mostly empty with three beds lined up evenly spaced against
+the southern wall.  No windows let natural light in, and nothing is hung on
+the walls.  Beneath each bed is a small foot locker, in the same position
+under the beds.  A polished and swept floor leads to more beds in the
+barracks to the east and the west, and to the entrance to the north.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 4253
+D1
+~
+~
+~
+0 0 4256
+D3
+~
+~
+~
+0 0 4257
+M 0 H 0
+S
+#4256
+The Royal Guard Barracks~
+This tiny nook of the barracks holds only a single small bed, which is
+perfectly kept like the other beds that aren't being used.  A small foot
+locker is tucked under the bed next to which are a pair of shined black
+boots.  Opposite the bed in the south-eastern corner of the room is a sturdy
+wooden ladder that leads up to a hatch in the ceiling.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 4255
+D4
+~
+~
+~
+1 0 4258
+M 0 H 0
+S
+#4257
+The Royal Barracks~
+Three beds line this little nook in the barracks, the sheets in perfect
+condition with no wrinkles and perfect corners.  Like all the other beds in
+this place, there are small foot lockers tucked away neatly under the beds. 
+The walls are painted a dull off white, and are plain without any markings,
+pictures or windows.  A tiny closet is set in the northern wall which holds
+a mop, broom and dusting rag to help keep the place clean.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 4255
+M 0 H 0
+S
+#4258
+The Southeast Lookout~
+A cool breeze blows across your face from this altitude.  You can see for
+miles around you, though the only sign of life is the castle and its market
+to the north-west.  All the other directions just show a long expanse of
+wilderness.  Battlements circle the tower here, and are perfect for
+protecting archers in case of a battle.  
+~
+0 0 1
+D5
+~
+~
+~
+1 0 4256
+M 0 H 0
+S
+#4260
+The Northeast Lookout~
+A cool breeze blows across your face from this altitude.  You can see for
+miles around you, though the only sign of life is the castle and its market
+to the south west.  All the other directions just show a long expanse of
+wilderness.  Battlements circle the tower here, and are perfect for
+protecting archers in case of a battle.  
+~
+0 0 1
+D5
+A wooden hatch leads down into darkness.  
+~
+~
+~
+1 0 4215
+M 0 H 0
+S
+#4261
+The Northwest Lookout~
+A cool breeze blows across your face from this altitude.  You can see for
+miles around you, though the only sign of life is the castle and its market
+to the south-east.  All the other directions just show a long expanse of
+wilderness.  Battlements circle the tower here, and are perfect for
+protecting archers in case of a battle.  
+~
+0 0 1
+D5
+A wooden hatch leads down into darkness.  
+~
+~
+~
+1 0 4224
+M 0 H 0
+S
+#4262
+East Gate Lookout~
+A cool breeze blows across your face from this altitude.  You can see for
+miles around you, though the only sign of life is the castle and its market
+to the south.  All the other directions just show a long expanse of
+wilderness.  Battlements circle the tower here, and are perfect for
+protecting archers in case of a battle.  
+~
+0 0 1
+D5
+A gaping hole leads down into darkness.
+~
+~
+~
+0 0 4205
+M 0 H 0
+S
+#4263
+West Gate Lookout~
+A cool breeze blows across your face from this altitude.  You can see for
+miles around you, though the only signs of life are from the castle and
+market to the south.  All the other directions just show a long expanse of
+wilderness.  Battlements circle the tower here, and are perfect for
+protecting archers in case of a battle.  
+~
+0 0 1
+D5
+A gaping hole leads down into darkness.
+~
+~
+~
+0 0 4206
+M 0 H 0
+S
+#4264
+The Southwest Tower~
+The thick stone walls have a tiny window placed centred in the eastern
+wall, that is the only source of natural light in this dark room.  The place
+is sparsely furnished with a small wood table and two chairs.  On the table
+is an unlit oil lantern.  Tucked back in the south-western corner is a
+hay-filled mattress on the floor.  The mattress looks as though rats have
+been using it more than humans.  A rickety wooden ladder leads vertically up
+to the ceiling where a hatch is located to go up a floor, and another hatch
+is in the floor beneath the table.  
+~
+0 0 0
+D4
+~
+~
+~
+1 0 4265
+D5
+~
+~
+~
+1 0 4282
+M 0 H 0
+S
+#4265
+The Southwest Lookout~
+A cool breeze blows across your face from this altitude.  You can see for
+miles around you, though the only sign of life is the castle and its market
+to the north-east.  All the other directions just show a long expanse of
+wilderness.  Battlements circle the tower here, and are perfect for
+protecting archers in case of a battle.  
+~
+0 0 1
+D5
+~
+~
+~
+1 0 4264
+M 0 H 0
+S
+#4266
+The Grand Entryway~
+The size of this room hits you like the cool breeze that seems to come
+from all around.  Large blocks of sparkling stone have been worn to a smooth
+polish by many years of use and scrubbing the floors.  Huge tapestries hang
+from the walls depicting mystical landscapes and beautiful people.  These
+deeply coloured woven master-pieces are light by torches placed between them
+on the walls.  Tall, thin and deeply set windows overlook the garden pools
+to the north, framing the dark polished wood doors that lead back into the
+town.  South of this position is a large arch that leads into a dimly lit
+cavernous room.  
+~
+0 8 0
+D0
+~
+~
+~
+1 4212 4241
+D2
+~
+~
+~
+0 0 4267
+M 0 H 0
+S
+#4267
+The Main Room~
+The cavernous size of this room is almost overwhelming.  Looking up, you
+can only see shadows shrouding the vaulted ceiling, light barely able to
+reach into the depths.  The floor is the same sparkling dark stone that has
+been worn smooth over centuries.  Any small sound you make echoes
+dramatically from the walls and ceiling.  East and west of this spot in the
+large room are smaller, though still large, nooks for various purposes -
+east appears to be a dining area and west looks empty.  A bright red carpet
+starts suddenly and leads to a throne to the south.  
+~
+0 9 0
+D0
+A large arch leads out into the entryway for the castle.  
+~
+~
+~
+0 0 4266
+D1
+A long table fills this large nook of the room.
+~
+~
+~
+0 0 4268
+D2
+A beautiful gold and royal blue throne sits proudly above a red carpet.  
+~
+~
+~
+0 0 4270
+D3
+A large, relatively empty nook branches off from the main room.  
+~
+~
+~
+0 0 4269
+M 0 H 0
+S
+#4268
+Dining Nook~
+An immense candelabra hangs low from the tall ceiling to light a long
+heavy wood table.  One tall, thing window looks out over the east to catch
+the morning sun.  The walls are covered with large paintings and tapestries
+depicting the glory days of the royal family here.  In one corner stands a
+large globe, showing a world unknown to anyone of this land.  The table
+spreads out, filling the majority of the space here, with twelve chairs
+tucked in neatly around it.  There is a strange block of stone set in the
+wall that doesn't look like an original piece of the stonework.  
+~
+0 9 0
+E
+table~
+The heavy wood of this large table has strange animal carvings around it,
+with the legs ending as large claws from some monsterous beast.  Almost
+totally barren of decoration, in the centre of the table is a small crystal
+box.  
+~
+E
+stone~
+A strange glint coming out from the centre of this piece of stone looks
+almost like a safe lock.  
+~
+D3
+~
+~
+~
+0 0 4267
+M 0 H 0
+S
+#4269
+Empty Nook~
+Almost totally devoid of anything in this space, the floor here is much
+more smooth and formed than anywhere else.  Dust now collects in corners
+where people used to stand, filling the castle with chatter and laughter.  A
+tall, narrow window is placed centred in the western wall, paralleling
+another window in the nook far off to the east.  Also mimicking the nook to
+the east is a large candelabra hanging low from the shadowed ceiling. 
+Looking closer at the floor, you can see what looks like a long string from
+some type of instrument.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 4267
+M 0 H 0
+S
+#4270
+Throne Room~
+The room here seems to glow with its own light, shining down onto the
+majestic throne seated in the centre back against the wall.  Above the
+throne is a large painting of a beautiful young woman wearing a heavy
+diamond crown.  A gold plaque is attached to the frame at the bottom and
+tells you the woman is Awenyedd.  To the east and west of the throne and
+painting are small, dark alcoves that don't seem to lead anywhere.  
+~
+0 8 0
+E
+painting~
+The soft glow of the woman's white eyes are captured with a magical air
+that makes it seem there is a person watching you there.  Her pale blue skin
+is contrasted sharply with her long gleaming black tendrils of hair tied in
+a top knot to fall like a fountain above the crown she wears.  Her intense
+beauty is absolutely breath-taking.  
+~
+D0
+The bright red carpet leads out to the main room.
+~
+~
+~
+0 0 4267
+D1
+A small alcove is dimly lit.
+~
+~
+~
+0 0 4272
+D3
+A small alcove is dimly lit.
+~
+~
+~
+0 0 4271
+M 0 H 0
+S
+#4271
+A Small Alcove~
+This tiny room is cold and dark.  You can reach your arms out to either
+side and touch the walls surrounding you.  The rough stones you do touch are
+even colder than the strange draft here.  A faint whistling can be heard
+coming from some type of opening in the room.  
+~
+0 9 0
+D1
+Light glows from the large throne in the room.
+~
+~
+~
+0 0 4270
+D5
+A dark pit looms below.
+~
+trap door~
+~
+1 0 4279
+M 0 H 0
+S
+#4272
+A Small Alcove~
+This tiny room is cold and dark.  You can reach your arms out to either
+side and touch the walls surrounding you.  The rough stones you do touch are
+even colder than the strange draft here.  A faint whistling can be heard
+coming from some type of opening in the room.  
+~
+0 9 0
+D3
+Light glows from the large throne in the room.
+~
+~
+~
+0 0 4270
+D4
+A small trap door is hidden in shadows in the ceiling.
+~
+trap door~
+~
+1 0 4273
+M 0 H 0
+S
+#4273
+The Castle Tower~
+This large landing is the first floor up in a tall tower that soars over
+the land surrounding the castle.  Many small, coloured and plain windows dot
+the southern and eastern walls, giving a good view of the countryside
+surrounding the town.  The hall continues to the north and west, leading off
+to closed doors.  The walls are bare and there are no furnishings.  Light
+comes from stubby candles that are attached to the walls, spaced enough to
+not have any dark areas, but far enough apart that it's not extremely
+bright.  A patch of carpet seems to be a slightly different shade than the
+rest of the carpet in this area.  
+~
+0 8 0
+E
+patch carpet~
+This patch of carpet looks less worn than the rest of the carpet around
+it, and a faint line seems to be circling it.  Seems this may be a trap
+door.  
+~
+D0
+~
+~
+~
+0 0 4277
+D3
+~
+~
+~
+0 0 4274
+D5
+~
+~
+~
+1 0 4272
+M 0 H 0
+S
+#4274
+Hallway~
+This small branch of the hallway seems to be a collect-all area for
+whoever lives here.  A large shelf is filled with books and crystals and
+strange contraptions that have no visible means for a use.  A single candle
+is affixed to the southern wall here, giving strong shadows that dance over
+the floor and shelf.  Along the eastern wall, and rickety old ladder leads
+straight up to the ceiling with no visible signs of something holding it
+here.  On the floor directly below the ladder is a small red rug that has
+been so worn in the centre that the colour is now an off-white.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 4273
+D4
+~
+~
+~
+1 0 4275
+M 0 H 0
+S
+#4275
+In the Tower~
+This dark and closed-in room has a strange magical air to it.  A small
+table lining the southern wall is filled with strange glass apparatus filled
+with colourful solutions.  Books and manuscripts are scattered about the
+room and practically fall from a bookshelf on the northern wall.  Strange
+skulls and stones fill up all the rest of the open spaces to hold things off
+the floor.  Dust and cobwebs fill the corners of the room, though the main
+open floor is clean, showing this room is still used today.  Placed centred
+in the western wall is an ancient wooden ladder.  
+~
+0 9 0
+D4
+~
+~
+~
+3 4230 4276
+D5
+~
+~
+~
+1 0 4274
+M 0 H 0
+S
+#4276
+Awenyedd's Chamber~
+Dark and damp, this room causes shivers to run over your spine.  High
+above your head are a few narrow breaks in the stone wall, giving a small
+amount of ventilation and murky light to the room.  You can hear the cooing
+of pigeons up in the darkness of the rafters above the narrow slits of
+light.  The smell of moulding straw is rancid in the air while the sound of
+trickling water invades your ears.  You can hear a soft whimpering coming
+from somewhere, though you can't pinpoint it exactly because of the echoes
+this round chamber amplifies.  
+~
+0 8 0
+D5
+~
+~
+~
+3 4230 4275
+M 0 H 0
+S
+#4277
+Hallway~
+The short hallway ends here at a window and small table.  Looking out the
+window, you can over look the entire town and see the many citizens moving
+around, doing their daily tasks.  Beyond the strong walls surrounding the
+town, you can see the forests and fields that are still wild.  The little
+table below the window holds a candle to light this end of the hall and a
+small bowl with a little gold fish swimming in it.  A large cherry wood door
+fills the western wall, making the eastern wall look even more plain.  The
+hall continues to the south.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 4273
+D3
+~
+~
+~
+1 0 4278
+M 0 H 0
+S
+#4278
+A Large Bedroom~
+This room is almost the size of a commoner's house, and this is just a
+bedroom.  Large bay windows fill the north, west and southern walls, partly
+covered by heavy dark blue velvet drapes.  The brightness from the cracks of
+light at the windows is a stark contrast to the dark colours decorating the
+rest of the room.  Polished dark red wood boards lay in a direction to lead
+ones eyes to the bed below the window to the north.  Hanging from the
+ceiling is a fancy wrought iron candelabra filled with half-burned candles. 
+A large door the colour of the floor takes up just a small fraction of the
+eastern wall, the rest of it being filled with a mirror and tapestries
+framing a large stone fireplace.  Small tables and chests fill most of the
+border of the room, and a little vanity station is placed discretely by a
+large wardrobe in the south-western corner of the room.  The smell of a
+strange incense swirls about the room, though you can't pinpoint the
+location it's coming from.  
+~
+0 33554440 0
+D1
+~
+~
+~
+1 0 4277
+M 0 H 0
+S
+#4279
+Stone Stairs~
+The stairs here are narrow, barely giving you enough room to get by, as
+if you step slightly to one side or the other, you brush up against cold,
+slimy stone walls.  Darkness invades your eyes, not letting you see more
+than one step ahead or behind you.  Echoing through the hall are faint moans
+and groans of people in extreme pain.  The sharp crack of a whip and a loud
+scream curdles ones blood, making one cautious about continuing down into
+the dark depths.  
+~
+0 9 0
+D4
+~
+~
+~
+1 0 4271
+D5
+~
+~
+~
+0 0 4280
+M 0 H 0
+S
+#4280
+The Dungeon~
+Torches spot the slick stone walls, casting dim and eerie light over the
+rough walls and dirt-packed floor.  Heavy thick chains and shackles line the
+walls, while corners are filled with various standing torture devices.  The
+pungent stench of death and decay fills ones nostrils sharply.  Painful
+moaning and groaning fills your ears from all around you, from the prisoners
+chained to the walls for punishment.  A large room which emanates heat and
+sweat and pain opens up to the south, while a dark hallways leads off to the
+west.  Slick rough stone stairs lead back up into darkness.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 4284
+D3
+~
+~
+~
+0 0 4281
+D4
+~
+~
+~
+0 0 4279
+M 0 H 0
+S
+#4281
+The Dungeon~
+This long hallway is dotted with torches alternating walls to get the
+maximum amount of light for the minimum amount of torches.  Immediately to
+the north is a heavy wooden door, studded with metal spikes that look
+rusted, though not quite the colour rust usually is.  Packed dirt leads you
+east and west through the cold stone walls.  A tiny whimpering can be heard
+echoing up and down the hallway, as is a loud cracking whip which is enough
+to make anyone jump.  
+~
+0 9 0
+D0
+~
+~
+~
+1 0 4283
+D1
+~
+~
+~
+0 0 4280
+D3
+~
+~
+~
+0 0 4282
+M 0 H 0
+S
+#4282
+The Dungeon~
+The stone hallway ends suddenly at a ladder to the west here.  Looking
+down, you can see the floor has recently been swept here, and there are no
+stains and scuffs in the hard dirt.  Brighter light fills this corner than
+the rest of the hall to the east, making this part feel slightly out of
+place down in these dark depths.  The large stones making the walls to
+either side of you have been slightly smoothed down, and no signs of
+deterioration can be seen.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 4281
+D4
+~
+~
+~
+1 0 4264
+M 0 H 0
+S
+#4283
+The Dungeon~
+This stinking pit of a room sucks in any who are unfortunate enough to be
+forced in here.  Cold stone walls are covered in a strange slime, that upon
+closer inspection is reddish, making the walls look like they are bleeding. 
+A loud whistling can be heard, like wind rushing through an opening in the
+stones, though total blackness indicates this is impossible.  The faint
+light you bring into this room makes the floor look like black skeletal
+hands reaching up to grab you in desperation to free themselves or bring you
+down with them - or is that not tricks of light, but actually happening?  
+~
+0 13 0
+M 0 H 0
+S
+#4284
+The Dungeon~
+This large room is filled with various torturing devices, cages and pits
+where a strange howling comes from.  Many torches on the walls cast
+flickering lights over the people here, and make the strange shadows on the
+walls dance around you.  Those prisoners that are conscious, look at you
+woefully, their eyes begging you to free them from this hell.  The looks
+some of the prison guards cast over to you as they loudly whip their
+prisoner, is enough to give even the most hardened of people shivers down
+their spine.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 4280
+D1
+~
+~
+~
+0 0 4285
+D2
+~
+~
+~
+0 0 4287
+D3
+~
+~
+~
+0 0 4286
+M 0 H 0
+S
+#4285
+The Dungeon~
+A single flickering torch mounted on the stone wall lights this small
+hallway, casting reflections off the metal studs on a door to the east.  The
+stone walls are dark black with age and rough, though a single trail of
+bright green algae glistens in the torch light signifying where water is
+continually leaking through the wall.  The large torture room opens up to
+the west, with the groans of the many prisoners resonating down this small
+hallway to you.  
+~
+0 9 0
+D1
+~
+~
+~
+1 0 4288
+D3
+~
+~
+~
+0 0 4284
+M 0 H 0
+S
+#4286
+The Dungeon~
+This small nook off the larger main torture room to the east holds a
+single item - the iron maiden.  Only one barely-lit torch casts any kind of
+light of the gleaming metal of this beast before you.  Looking down, you can
+see the rough stones and hard-packed dirt stained a deep brownish-red,
+pooling out from the iron maiden itself.  
+~
+0 9 0
+E
+iron maiden~
+This monstrous piece of machinery is horrendous in every aspect. 
+Currently it faces you closed, with the only opening being the slit at the
+eyes of the victim inside.  Looking deep into the darkness of this slit, you
+can see the frozen look of wide-eyed terror of the poor soul as he was shut
+into the maiden.  
+~
+D1
+~
+~
+~
+0 0 4284
+M 0 H 0
+S
+#4287
+The Dungeon~
+The lighting in this small nook off the larger room to the north is
+non-existent, except for what you bring in.  Part of the stone wall has
+crumbled, leaving a pile of broken rock and dirt, which now fills most of
+the space.  Poking out from beneath this mound, you can see some dirty, torn
+material, and by looking closer, the dirt-covered whiteness of bone. 
+Hanging just to the side of the broken part of the wall is a rusted chain
+ending in a shackle that still has part of a decomposing arm attached to it.
+~
+0 9 0
+D0
+~
+~
+~
+0 0 4284
+M 0 H 0
+S
+#4288
+The Dungeon~
+Blackness completely surrounds you.  The light you carry is barely able
+to penetrate two inches around you, giving you a closed-in, creepy feel to
+the room.  Reaching out, you can feel cold, hard stone encircling you,
+giving you little room to move around, or sit.  Something hard and sharp
+sticks out from the wall about knee-height, jabbing itself into your leg.  
+~
+0 13 0
+M 0 H 0
+S
+#4289
+East Sapyr Road~
+The hard-packed earth road runs perfectly north-south here.  Lining the
+road are buildings with boarded up windows and large cracks running through
+the brick.  Beyond the houses to the east, you can make out the high stone
+walls protecting the city from the dangers of the wilds outside.  Off in the
+distance to the north-east is a tall tower which overlooks the world outside
+the walls, and the city within the walls.  
+~
+0 0 1
+D0
+The road continues on closer to a tall tower in the north-east corner of
+town.  
+~
+~
+~
+0 0 4213
+D2
+The smell of horses and manure waft through the air, giving an indication
+of where the common stables are.  
+~
+~
+~
+0 0 4209
+M 0 H 0
+S
+#4290
+Outside the Royal Guard Barracks~
+East Emerand Road stops suddenly here at the doors to the Royal Guard
+Barracks.  The cobblestones lead to the north as they only way out of this
+cul-de-sac, otherwise to the south is the heavy door to the barracks.  No
+windows adorn this building from this view, and it is in typical simple
+military style.  The location for the barracks seems out of the way, though
+it is close to the castle, perhaps with some secret passage between the two,
+and also close to the stable to the north.  Either side of the road here is
+closed off with high stone walls, the western one being part of the castle,
+and the eastern one being part of the battlements.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 4250
+D2
+~
+~
+~
+1 0 4253
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 4204 spec_executioner
+M 4205 spec_cast_adept
+M 4216 spec_janitor
+M 4228 spec_cast_mage
+M 4229 spec_cast_mage
+M 4231 spec_breath_fire
+M 4232 spec_cast_mage
+M 4235 spec_janitor
+M 4240 spec_cast_mage
+M 4241 spec_cast_mage
+M 4243 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 4200 2 2
+D 0 4201 0 2
+D 0 4213 1 1
+D 0 4215 3 1
+D 0 4215 4 1
+D 0 4223 3 1
+D 0 4224 1 1
+D 0 4224 4 1
+D 0 4225 2 1
+D 0 4226 0 1
+D 0 4229 3 1
+D 0 4231 1 1
+D 0 4233 3 1
+D 0 4234 1 1
+D 0 4241 2 2
+D 0 4242 0 1
+D 0 4243 2 1
+D 0 4253 0 1
+D 0 4253 1 1
+D 0 4254 3 1
+D 0 4256 4 1
+D 0 4258 5 1
+D 0 4260 5 1
+D 0 4261 5 1
+D 0 4264 4 1
+D 0 4264 5 1
+D 0 4265 5 1
+D 0 4266 0 2
+D 0 4271 5 1
+D 0 4272 4 1
+D 0 4273 5 1
+D 0 4274 4 1
+D 0 4275 4 2
+D 0 4275 5 1
+D 0 4276 5 2
+D 0 4277 3 1
+D 0 4278 1 1
+D 0 4279 4 1
+D 0 4281 0 1
+D 0 4282 4 1
+D 0 4285 1 1
+D 0 4290 2 1
+M 0 4200 2 4200 10
+G 0 4200 0
+M 0 4200 2 4201 10
+G 0 4200 0
+M 0 4234 5 4201 10
+E 0 4274 0 16
+M 0 4202 1 4202 10
+G 0 4201 0
+G 0 4202 0
+G 0 4203 0
+G 0 4205 0
+G 0 4204 0
+M 0 4250 1 4203 10
+G 0 4206 0
+G 0 4207 0
+G 0 4208 0
+M 0 4204 1 4204 10
+E 0 4209 0 6
+E 0 4210 0 16
+M 0 4238 3 4207 10
+M 0 4203 6 4207 10
+E 0 4254 0 5
+M 0 4219 3 4208 10
+E 0 4258 0 5
+M 0 4237 5 4209 10
+E 0 4282 0 16
+M 0 4208 1 4210 10
+G 0 4216 0
+G 0 4217 0
+G 0 4218 0
+M 0 4209 2 4211 10
+E 0 4219 0 16
+M 0 4213 1 4211 10
+M 0 4212 1 4212 10
+M 0 4211 1 4212 10
+M 0 4210 1 4212 10
+M 0 4201 6 4213 10
+E 0 4253 0 7
+M 0 4238 3 4214 10
+O 0 4220 0 4214
+M 0 4206 3 4214 10
+O 0 4221 0 4215
+P 0 4223 0 4221 10
+O 0 4222 0 4215
+M 0 4209 2 4216 10
+E 0 4219 0 16
+M 0 4234 6 4217 10
+E 0 4274 0 16
+E 0 4273 0 11
+M 0 4201 6 4218 10
+E 0 4253 0 7
+M 0 4220 3 4219 10
+E 0 4261 0 13
+M 0 4221 1 4220 10
+G 0 4237 0
+G 0 4238 0
+G 0 4239 0
+M 0 4201 6 4221 10
+E 0 4252 0 17
+M 0 4227 1 4222 10
+E 0 4269 0 3
+M 0 4216 2 4222 10
+E 0 4256 0 7
+M 0 4206 3 4223 10
+M 0 4237 5 4223 10
+E 0 4282 0 16
+E 0 4283 0 13
+O 0 4224 0 4224
+M 0 4216 2 4225 10
+G 0 4255 0
+M 0 4219 3 4227 10
+E 0 4257 0 8
+M 0 4236 1 4228 10
+G 0 4279 0
+G 0 4280 0
+G 0 4281 0
+M 0 4234 5 4229 10
+E 0 4274 0 16
+M 0 4201 6 4229 10
+E 0 4253 0 7
+M 0 4220 3 4230 10
+E 0 4260 0 17
+M 0 4215 1 4231 10
+G 0 4231 0
+G 0 4232 0
+M 0 4203 6 4232 10
+E 0 4254 0 5
+M 0 4238 3 4233 10
+M 0 4237 5 4233 10
+E 0 4282 0 16
+E 0 4284 0 9
+M 0 4224 1 4235 10
+G 0 4240 0
+G 0 4241 0
+M 0 4214 2 4235 10
+M 0 4244 3 4235 10
+E 0 4249 0 16
+E 0 4248 0 12
+O 0 4215 0 4236
+M 0 4237 5 4236 10
+E 0 4282 0 16
+M 0 4203 6 4237 10
+E 0 4251 0 19
+M 0 4233 1 4238 10
+G 0 4296 0
+G 0 4294 0
+G 0 4295 0
+G 0 4293 0
+O 0 4211 0 4239
+M 0 4205 1 4239 10
+M 0 4201 6 4239 10
+E 0 4253 0 7
+M 0 4234 5 4240 10
+E 0 4274 0 16
+M 0 4207 3 4241 10
+E 0 4213 0 16
+G 0 4212 0
+M 0 4207 2 4241 10
+E 0 4213 0 16
+E 0 4214 0 11
+M 0 4220 3 4242 10
+E 0 4262 0 3
+M 0 4230 1 4243 10
+G 0 4242 0
+G 0 4278 0
+M 0 4219 3 4245 10
+E 0 4259 0 1
+M 0 4237 5 4245 10
+E 0 4282 0 16
+E 0 4283 0 13
+M 0 4239 1 4246 10
+G 0 4285 0
+G 0 4286 0
+G 0 4287 0
+G 0 4300 0
+M 0 4203 6 4247 10
+E 0 4254 0 5
+M 0 4242 1 4248 10
+G 0 4290 0
+G 0 4289 0
+G 0 4288 0
+M 0 4218 1 4249 10
+G 0 4233 0
+G 0 4234 0
+G 0 4235 0
+G 0 4236 0
+M 0 4234 5 4250 10
+E 0 4273 0 11
+E 0 4274 0 16
+M 0 4201 6 4250 10
+E 0 4252 0 17
+M 0 4245 1 4251 10
+M 0 4217 1 4252 10
+O 0 4246 0 4254
+M 0 4226 6 4255 10
+E 0 4270 0 16
+M 0 4226 6 4255 10
+E 0 4270 0 16
+M 0 4226 6 4255 10
+E 0 4270 0 16
+M 0 4226 6 4256 10
+E 0 4270 0 16
+M 0 4226 6 4257 10
+E 0 4270 0 16
+M 0 4226 6 4257 10
+E 0 4270 0 16
+M 0 4232 6 4258 10
+E 0 4247 0 17
+M 0 4232 6 4260 10
+E 0 4247 0 17
+M 0 4232 6 4261 10
+E 0 4247 0 17
+M 0 4232 6 4262 10
+E 0 4247 0 17
+M 0 4232 6 4263 10
+E 0 4247 0 17
+M 0 4232 6 4265 10
+E 0 4247 0 17
+M 0 4207 3 4266 10
+E 0 4213 0 16
+M 0 4235 4 4266 10
+M 0 4243 1 4267 10
+E 0 4291 0 6
+E 0 4292 0 7
+M 0 4240 4 4268 10
+M 0 4241 4 4268 10
+O 0 4225 0 4268
+P 0 4226 0 4225 10
+O 0 4275 0 4268
+P 0 4276 0 4275 10
+P 0 4277 0 4275 10
+M 0 4240 4 4269 10
+M 0 4241 4 4269 10
+O 0 4227 0 4269
+O 0 4228 0 4270
+M 0 4235 4 4271 10
+M 0 4231 1 4275 10
+E 0 4244 0 14
+E 0 4243 0 19
+M 0 4229 1 4275 10
+E 0 4297 0 1
+E 0 4245 0 5
+G 0 4230 0
+M 0 4228 1 4276 10
+E 0 4271 0 5
+E 0 4272 0 3
+M 0 4235 4 4277 10
+O 0 4229 0 4278
+M 0 4222 4 4280 10
+E 0 4263 0 16
+M 0 4223 5 4281 10
+M 0 4222 4 4282 10
+E 0 4263 0 16
+E 0 4265 0 23
+M 0 4223 5 4284 10
+M 0 4222 4 4285 10
+E 0 4263 0 16
+E 0 4264 0 15
+M 0 4223 5 4285 10
+M 0 4222 4 4287 10
+E 0 4263 0 16
+E 0 4264 0 14
+M 0 4223 5 4287 10
+O 0 4250 0 4288
+M 0 4234 5 4289 10
+E 0 4274 0 16
+M 0 4203 6 4289 10
+E 0 4254 0 5
+M 0 4203 6 4290 10
+E 0 4251 0 19
+M 0 4225 1 4290 10
+E 0 4266 0 12
+E 0 4267 0 16
+E 0 4268 0 6
+S
+
+
+
+#SHOPS
+4202 11 10 3 0 0 130 60 6 18
+4208 5 0 0 0 0 130 60 6 18
+4213 0 0 0 0 0 130 60 6 18
+4215 19 0 0 0 0 130 60 6 18
+4218 9 0 0 0 0 130 60 6 23
+4221 19 0 0 0 0 130 60 6 23
+4224 17 0 0 0 0 140 60 11 24
+4230 8 0 0 0 0 130 80 8 16
+4233 10 3 0 0 0 130 80 6 18
+4236 11 0 0 0 0 130 80 6 18
+4239 11 8 0 0 0 130 80 6 18
+4242 8 0 0 0 0 130 80 6 18
+4250 19 0 0 0 0 130 60 6 18
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

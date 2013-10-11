@@ -1,0 +1,1985 @@
+#AREADATA
+Name {75 80} Belic   Malack~
+Builders Belic~
+VNUMs 19251 19299
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#19252
+young elf~
+an elf thief~
+A elf is trying to sneak away from Malack.
+~
+Like all thieves, he clings to the shadows.  As you study him, you note
+that he is tall and lanky.  His movements are quick and accurate.  He is
+constantly scanning his surroundings so no one sneaks up on him.  
+~
+unique~
+AP JQ 250 0
+77 0 11d599+2414 77d10+100 5d9+25 stab
+-20 -20 -20 -18
+CDFK L BC 0
+(null) (null) female 346
+AHMV ABCDEFGHIJK medium unknown
+#19253
+elite dwarf tracker~
+a dwarf tracker~
+An elite tracker is hunting for the slightest hint of a trail.
+~
+You are looking at the finest dwarf tracker in the realm.  He has been
+summoned here to determine what has happened to the trail of a thief.  
+~
+unique~
+A J 160 0
+76 0 11d574+2358 76d10+100 5d9+24 digestion
+-20 -20 -20 -18
+DFKO L CLQ R
+(null) (null) female 342
+AHMV ABCDEFGHIJK medium unknown
+#19254
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d10+100 0d0+0 none
+10 10 10 10
+0 0 0 0
+(null) (null) male 0
+AHMV ABCDEFGHIJK medium unknown
+#19256
+Lithane~
+Lithane~
+Lithane is cleaning some dirt off the walls.
+~
+She is an elderly dwarf.  She has a soft smile for all those who enter
+into her area.  She stares at your boots to see if you have mud on them. 
+Seeing that you are fairly clean, she smiles at you.  
+~
+unique~
+ABRW J 0 0
+80 0 11d677+2588 80d10+100 5d10+24 none
+-21 -21 -21 -19
+0 ABQ CLQ R
+(null) (null) either 360
+AHMV ABCDEFGHIJK medium unknown
+#19257
+young male dwarf~
+a young male dwarf~
+A young dwarf is practicing the fine art of axe throwing.
+~
+Young and lean, this young dwarf aspires to be a member of the elite
+guards one day.  He spends his entire day practice with the axe and has
+forgot to study in the other arts that will help him.  
+~
+unique~
+AQ J 290 0
+76 0 11d574+2358 76d10+100 5d9+24 digestion
+-20 -20 -20 -18
+CDF L CLQ R
+(null) (null) female 342
+AHMV ABCDEFGHIJK medium unknown
+#19259
+an elderly dwarf~
+an elderly dwarf~
+An elderly dwarf is resting on the fountain.
+~
+The dwarf is old.  His temples are grey and the lines in his face are
+taunt.  His hands have turned to leather.  He speaks in a low hushed voice. 
+It would appear that the years have not been kind to this dwarf.  
+~
+unique~
+AQ J 300 0
+76 0 11d574+2358 76d10+100 5d9+24 digestion
+-20 -20 -20 -18
+CDO L CLQ R
+(null) (null) female 342
+AHMV ABCDEFGHIJK medium unknown
+#19260
+a dwarf nobleman~
+a dwarf nobleman~
+A dwarven nobleman looks at you with contempt.
+~
+Rather small in statue, this dwarf carries an air of self-importance
+about him.  He looks like he has never seen a hard days work.  He waddles
+his obese body along, rushing to get past you.  
+~
+unique~
+AQ J 300 0
+76 0 11d574+2358 76d10+100 5d9+24 digestion
+-20 -20 -20 -18
+CDKO L CLQ R
+(null) (null) female 342
+AHMV ABCDEFGHIJK medium unknown
+#19261
+young female dwarf~
+a young dwarf~
+A young female dwarf bounces a ball off the wall.
+~
+Maybe 8 years old, this young girl seems content to play by herself.  She
+giggles as she bounces the ball off the wall and chases it down.  There is a
+look of joy on her face.  
+~
+unique~
+AQ J 0 0
+75 0 11d551+2303 75d10+100 5d9+24 digestion
+-19 -19 -19 -17
+DF L CLQ R
+(null) (null) either 337
+AHMV ABCDEFGHIJK small unknown
+#19262
+giant dwarf~
+a giant dwarf~
+A giant dwarf stares down at you.
+~
+He towers over you and makes you fell like a child.  In his eyes, you
+are.  Selected for his size, he takes his job seriously.  He glares at you
+and pulls back into a fighting stance.  
+~
+unique~
+AQ J 500 0
+79 0 11d650+2529 79d10+100 5d10+23 pound
+-21 -21 -21 -19
+CDFKO L CLQ R
+(null) (null) female 355
+AHMV ABCDEFGHIJK giant unknown
+#19263
+young dwarf page~
+a page~
+A young dwarf carries a note to the Guardian of the Gold.
+~
+His eyes shine with the unmistakable look of intelligence.  He is smaller
+than the guards in the city of Malack, but he is larger than most dwarves
+you have seen.  He is adorned in fine silks, signalling that he is a member
+of the administration.  
+~
+unique~
+A J 170 0
+75 0 11d551+2303 75d10+100 5d9+24 digestion
+-19 -19 -19 -17
+CDO L CLQ R
+(null) (null) female 337
+AHMV ABCDEFGHIJK medium unknown
+#19264
+Guardian of the Gold~
+the Guardian of the Gold~
+The Guardian of the Gold is seated behind a desk of pure gold.
+~
+The Guardian of the Gold is busy studying the latest reports to be left
+on his desk.  Glancing up at you, the guardian glares at you with hatred in
+his eyes.  
+~
+unique~
+AQ J 0 0
+76 0 11d574+2358 76d10+100 5d9+24 digestion
+-20 -20 -20 -18
+CDEFO L CLQ R
+(null) (null) female 342
+AHMV ABCDEFGHIJK medium unknown
+#19265
+the Gold Checker~
+the Gold Checker~
+The Gold Checker shuffles about the room.
+~
+The Gold Checker is a relatively young dwarf.  He appears to be more of
+an official than a warrior.  As you approach, he glares at you angrily for
+daring to encroach upon his time and business.  
+~
+unique~
+AQ J 250 0
+79 0 11d650+2529 79d10+100 5d10+23 digestion
+-21 -21 -21 -19
+DFO O CLQ R
+(null) (null) female 355
+AHMV ABCDEFGHIJK medium unknown
+#19266
+elite member guard~
+a dwarven guard~
+An elite member of the guards of Malack is here.
+~
+You stand face to face with one of the best trained dwarves in the realm.
+His eyes and face are hardened, as if to suggest that he has seen a lot of
+combat in his life.  
+~
+unique~
+AQ J 0 0
+77 0 11d599+2414 77d10+100 5d9+25 digestion
+-20 -20 -20 -18
+CDO L CLQ R
+(null) (null) female 346
+AHMV ABCDEFGHIJK medium unknown
+#19267
+The Gate Keeper~
+the Gate Keeper~
+The Keeper of the Gate glares at you.
+~
+Selected for his warrior skills, the Keeper of the Gate is well suited
+for his job.  He is a giant among his kind.  He is the best of the best. 
+His body ripples with muscles and his face is covered in tattoos.  He stares
+down at you, hoping that you will try to test your skill against his.  
+~
+unique~
+A J 0 0
+78 0 11d624+2471 78d10+100 5d10+23 none
+-21 -21 -21 -18
+DEKR L CLQ R
+(null) (null) female 351
+AHMV ABCDEFGHIJK large unknown
+#19268
+elite member of the guard~
+a dwarven guard~
+An elite member of the guards of Malack is here.
+~
+You stand face to face with one of the best trained dwarves in the realm.
+His eyes and face are hardened, as if to suggest that he has seen a lot of
+combat in his life.  
+~
+unique~
+AQ J 0 0
+77 0 11d599+2414 77d10+100 5d9+25 digestion
+-20 -20 -20 -18
+CDO L CLQ R
+(null) (null) female 346
+AHMV ABCDEFGHIJK medium unknown
+#19269
+an elite member of the guards~
+a dwarven guard~
+An elite member of the guards of Malack is here.
+~
+You stand face to face with one of the best trained dwarves in the realm.
+His eyes and face are hardened, as if to suggest that he has seen a lot of
+combat in his life.  
+~
+unique~
+AQ J 0 0
+75 0 11d551+2303 75d10+100 5d9+24 digestion
+-19 -19 -19 -17
+CDO L CLQ R
+(null) (null) female 337
+AHMV ABCDEFGHIJK medium unknown
+#19270
+an elite member guard~
+a dwarven guard~
+An elite member of the guards of Malack is here.
+~
+You stand face to face with one of the best trained dwarves in the realm.
+His eyes and face are hardened, as if to suggest that he has seen a lot of
+combat in his life.  
+~
+unique~
+AQ J 250 0
+77 0 11d599+2414 77d10+100 5d9+25 digestion
+-20 -20 -20 -18
+CDK L CLQ R
+(null) (null) female 346
+AHMV ABCDEFGHIJK medium unknown
+#19271
+elite guard~
+a dwarven guard~
+An elite member of the guards of Malack is here.
+~
+You stand face to face with one of the best trained dwarves in the realm.
+His eyes and face are hardened, as if to suggest that he has seen a lot of
+combat in his life.  
+~
+unique~
+AQ J 350 0
+77 0 11d599+2414 77d10+100 5d9+25 digestion
+-20 -20 -20 -18
+CDKO L CLQ R
+(null) (null) female 346
+AHMV ABCDEFGHIJK medium unknown
+#19272
+giant dwarf~
+a giant dwarf~
+A giant dwarf stares down at you.
+~
+He towers over you and makes you feel like a child.  In his eyes, you
+are.  Selected for his size, he takes his job seriously.  He glares at you
+and pulls back into a fighting stance.  
+~
+unique~
+AQ J 300 0
+80 0 11d677+2588 80d10+100 5d10+24 digestion
+-21 -21 -21 -19
+CDFO L CLQ R
+(null) (null) female 360
+AHMV ABCDEFGHIJK giant unknown
+#19273
+controller~
+the Controller~
+The Controller studies the latest request.
+~
+You see an elderly dwarf before you.  He has the air of a warrior about
+him, but the years have left him weakened.  A pained look is on his face,
+suggesting that he would have rather face his death on the battlefield than
+to stay cooped up in this office.  
+~
+unique~
+ABQ J 300 0
+78 0 11d624+2471 78d10+100 5d10+23 digestion
+-21 -21 -21 -18
+CDK O CLQ R
+(null) (null) female 351
+AHMV ABCDEFGHIJK medium unknown
+#19274
+giant dwarf~
+a giant dwarf~
+A giant dwarf stares down at you.
+~
+He towers over you and makes you feel like a child.  In his eyes, you
+are.  Selected for his size, he takes his job seriously.  He glares at you
+and pulls back into a fighting stance.  
+~
+unique~
+AQ J 0 0
+79 0 11d650+2529 79d10+100 5d10+23 digestion
+-21 -21 -21 -19
+CDFKO L CLQ R
+(null) (null) female 355
+AHMV ABCDEFGHIJK giant unknown
+#19278
+Keeper of the Gold~
+a Keeper of the Gold~
+A Keeper of the Gold watches you closely.
+~
+Like the rest of the dwarves in Malack, he is large.  He has a gentle
+look to his face, but that is only to hide the fact that he is a hardened
+warrior.  
+~
+unique~
+ABQ J 0 0
+79 0 11d650+2529 79d10+100 5d10+23 digestion
+-21 -21 -21 -19
+CDEKO C CLQ R
+(null) (null) female 355
+AHMV ABCDEFGHIJK medium unknown
+#19279
+Keeper of the Gold~
+a Keeper of the Gold~
+A Keeper of the Gold watches you closely.
+~
+Like the rest of the dwarves in Malack, he is large.  He has a gentle
+look to his face, but that only hides the fact that he is a hardened
+warrior.  
+~
+unique~
+ABQ J 400 0
+78 0 11d624+2471 78d10+100 5d10+23 digestion
+-21 -21 -21 -18
+CDFKO L CLQ R
+(null) (null) female 351
+AHMV ABCDEFGHIJK large unknown
+#19280
+Keeper of the Gold~
+a Keeper of the Gold~
+A Keeper of the Gold watches you closely.
+~
+Like the rest of the dwarves in Malack, he is large.  He has a gentle
+look to face, but that only hides the fact that he is a hardened warrior.  
+~
+unique~
+ABQ J 0 0
+79 0 11d650+2529 79d10+100 5d10+23 digestion
+-21 -21 -21 -19
+CDEKO C CLQ R
+(null) (null) female 355
+AHMV ABCDEFGHIJK medium unknown
+#19284
+giant dwarf~
+a giant dwarf~
+A giant dwarf stares down at you.
+~
+He towers over you and makes you feel like a child.  In his eyes, you
+are.  Selected for his size, he takes his job seriously.  He glares at you
+and pulls back into a fighting stance.  
+~
+unique~
+AQ J 0 0
+79 0 11d650+2529 79d10+100 5d10+23 pound
+-21 -21 -21 -19
+CDFKO L CLQ R
+(null) (null) female 355
+AHMV ABCDEFGHIJK giant unknown
+#19286
+Keeper of the Ruby~
+the Keeper of the Ruby~
+The Keeper of the Ruby stands watch here.
+~
+This dwarf is one of the largest that you have ever encountered.  He has
+a far off look in his eyes, as if he misses the heat of battle.  He wears a
+snarl on his face, suggesting that he is ready for a fight.  
+~
+unique~
+ABQ J 500 0
+80 0 11d677+2588 80d10+100 5d10+24 digestion
+-21 -21 -21 -19
+CDEF F CLQ R
+(null) (null) female 360
+AHMV ABCDEFGHIJK giant unknown
+#19287
+The Keeper of the Sapphire~
+the Keeper of the Sapphire~
+The Keeper of the Sapphire stares at you with hatred in his eyes.
+~
+The size of this dwarf is overwhelming.  His muscles ripple in places
+that you did not realize that muscles existed.  His face is hardened,
+suggesting that he has seen a lot of combat action in his lifetime.  
+~
+unique~
+ABQ J 350 0
+80 0 11d677+2588 80d10+100 5d10+24 digestion
+-21 -21 -21 -19
+CDKO K CLQ R
+(null) (null) female 360
+AHMV ABCDEFGHIJK giant unknown
+#19288
+Keeper of the Diamond~
+the Keeper of the Diamond~
+The Keeper of the Diamond stares at you with hatred in his heart.
+~
+This dwarf seems as hardened as the stones that he protects.  He longs
+for the feel of battle and is prepared to to do battle with any that enter
+here without permission.  
+~
+unique~
+ABQ J 400 0
+80 0 11d677+2588 80d10+100 5d10+24 digestion
+-21 -21 -21 -19
+CDEK Q CLQ R
+(null) (null) female 360
+AHMV ABCDEFGHIJK giant unknown
+#19289
+Keeper of the Gold~
+a Keeper of the Gold~
+A Keeper of the Gold stands watch here.
+~
+An elite warrior, this dwarf has been selected for his fighting ability. 
+He stands ready to uphold his duty, which is to protect the gold in this
+room.  
+~
+unique~
+ABQ J 250 0
+77 0 11d599+2414 77d10+100 5d9+25 digestion
+-20 -20 -20 -18
+CDO L CLQ R
+(null) (null) female 346
+AHMV ABCDEFGHIJK large unknown
+#19291
+Keeper of the Gold~
+Keeper of the Gold~
+A Keeper of the Gold stands watch here.
+~
+An elite warrior, this dwarf has been selected for his fighting ability. 
+He stands ready to uphold his duty, which is to protect the gold in this
+room.  
+~
+unique~
+ABQ J 300 0
+77 0 11d599+2414 77d10+100 5d9+25 digestion
+-20 -20 -20 -18
+CDE L CLQ R
+(null) (null) female 346
+AHMV ABCDEFGHIJK large unknown
+#19294
+Molosh~
+Molosh~
+Molosh throws an evil glance at you for your intrusion.
+~
+You are looking at the cook.  The first thing you notice is that one of
+his arms has been cut off just below the elbow.  The fire in his eyes
+suggest that he once was a warrior of great strength and skill.  
+~
+unique~
+AB J 600 0
+77 0 11d599+2414 77d10+100 5d9+25 beating
+-20 -20 -20 -18
+CDIK 0 CLQ R
+(null) (null) female 346
+AHMV ABCDEFGHIJK medium unknown
+#19296
+Captain Culhaven~
+Captain Culhaven~
+Captain Culhaven paces the room, muttering to himself.
+~
+Before you stands the Captain of the Keepers.  Of all the dwarves that
+are stationed here, he is the largest.  His muscles ripple under his armor,
+proving that he does not take his posting lightly.  
+~
+unique~
+ABQ J 450 0
+80 0 11d677+2588 80d10+100 5d10+24 digestion
+-21 -21 -21 -19
+DEKO 0 CLQ ER
+(null) (null) female 360
+AHMV ABCDEFGHIJK giant unknown
+#19298
+wounded thief~
+a wounded thief~
+A wounded thief tries to hide in the darkness.
+~
+Lathe is a small built elf.  For years, he has been stealing gold from
+the dwarves located here in the mountains.  But now, you see a skeleton of
+an elf that has many scars and cuts coverings his body.  
+~
+unique~
+AHP JPQY 0 0
+75 0 11d551+2303 75d10+100 5d9+24 digestion
+-37 -37 -37 -13
+BFI 0 BC D
+(null) (null) female 337
+AHMV ABCDEFGHIJK small unknown
+#0
+
+
+
+#OBJECTS
+#19251
+a note~
+a note~
+A note has been discarded here.~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 1 P
+E
+note~
+The writing is illegible but a few scraps can be made out:
+ 
+The one... Prolatarian... killed so many... we've never seen this much
+trouble before... the heroes cannot resc... how are we supposed to
+make weapons with this...
+~
+#19252
+a golden cloak~
+a golden cloak~
+A hunting cloak made of gold fabric is laying here.~
+unknown~
+armor RXb AZ
+CD CD CD AB 0
+76 12 380 P
+A
+17 -10
+#19253
+a long spear~
+a long spear~
+A long spear lays discarded here.~
+unknown~
+weapon 0 AN
+dagger 12 12 crunch 0
+76 27 380 P
+A
+19 7
+#19254
+silk robe~
+a silk robe~
+A finely crafted robe made of pure silk is laying here.~
+unknown~
+armor 0 AD
+CD CD CD AB 0
+75 4 375 P
+#19255
+puzzle box~
+a puzzle box~
+A finely crafted puzzle box of pure ivory is here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+75 3 750 P
+#19256
+roasted beef~
+a side of roasted beef~
+A tender and juicy cut of beef is here.~
+unknown~
+food 0 AO
+BD 0 0 0 0
+0 12 154 P
+#19257
+throwing axe~
+throwing axe~
+A small axe is resting here.~
+unknown~
+weapon 0 AN
+mace 12 12 lunge M
+76 20 380 P
+#19259
+A golden fountain~
+a golden fountain~
+A golden fountain offers refreshment.~
+unknown~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 P
+#19261
+a rubber ball~
+a rubber ball~
+A child's rubber ball is resting here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+75 3 10 P
+#19265
+an inventory list~
+an inventory list~
+The inventory of Malack is laying here.~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 1 P
+E
+inventory~
+The words on this list are so smudged, it's hard to make out more than the 
+word "gold."  
+~
+#19273
+a small crystal~
+a small crystal~
+A small crystal is laying here.~
+unknown~
+armor A AO
+CD CD CD AB 0
+77 12 500 P
+#19282
+a golden orb~
+a golden orb~
+An orb of pure gold is laying here.~
+unknown~
+protect A AR
+BCE BCE BCE AC 0
+80 1 0 P
+A
+19 3
+A
+18 3
+A
+4 2
+#19283
+diamond studded leggings~
+diamond studded leggings~
+A pair of diamond studded leggings are laying here.~
+unknown~
+armor b AF
+ACD ACD ACD C 0
+80 20 400 P
+A
+12 -300
+A
+14 -100
+A
+17 -10
+#19285
+dwarven ale~
+a mug of ale~
+This appears to be a mug of ale, the smell of which would alert most to the fact that it's dwarven.~
+unknown~
+drink 0 AO
+3 3 'ale' 0 0
+0 0 80 P
+#19286
+a silver cloak~
+a finely stitched silver cloak~
+The cloak bears the seal of the former dwarf nation.~
+unknown~
+armor 0 AZ
+ACD ACD ACD C 0
+80 5 400 P
+#19287
+dwarven bread~
+dwarven bread~
+A loaf of dwarven bread has been left here.~
+unknown~
+food 0 AO
+BE 0 0 0 0
+0 0 80 P
+#19288
+bowl of stew~
+a bowl of stew~
+A steaming bowl of stew is resting here.~
+unknown~
+food 0 0
+BD 0 0 0 0
+1 1 150 P
+#19289
+a large mace~
+a large mace~
+A large mace of amazing craftsmanship lays here.~
+unknown~
+weapon 0 AN
+staff 53 2 blast 0
+77 15 385 P
+#19290
+a suit of golden plate mail~
+a suit of golden plate mail~
+A suit of golden plate mail is lying here.~
+unknown~
+armor 0 AD
+CD CD CD AB 0
+77 57 385 P
+#19294
+a white apron~
+a short, white apron~
+A stained apron is laying here.~
+unknown~
+armor 0 AL
+CD CD CD AB 0
+77 2 385 P
+A
+2 1
+A
+17 -2
+#19295
+foot locker~
+a foot locker~
+A golden foot locker lays at the foot of the bed.~
+unknown~
+container M 0
+0 AC 0 0 0
+78 100 0 P
+#19296
+Double-headed axe~
+a giant double-headed axe~
+A giant, diamond studded axe is resting here.~
+unknown~
+weapon 0 AN
+mace 11 14 lunge 0
+80 15 400 P
+A
+1 1
+#19297
+Golden chest plate~
+a golden chest plate~
+The golden chest plate of the Captain of the Keepers is laying here.~
+unknown~
+armor b AD
+ACD ACD ACD C 0
+80 25 400 P
+A
+14 -100
+A
+17 -20
+A
+12 -300
+#19298
+Blinding dagger~
+a blinding dagger~
+A long, slim dagger that seems to glow with a mysterious power is laying here.~
+unknown~
+weapon A AN
+bow 11 13 crunch O
+75 3 375 P
+#19299
+a {ygolden{x chest~
+a {ygolden {xchest~
+A large golden chest engraved with ancient runes.~
+unknown~
+container M 0
+100 AC 0 0 0
+80 1000 0 P
+#0
+
+
+
+#ROOMS
+#19251
+The Cave of Malack~
+{xYou suddenly find yourself standing inside a dimly lit cave, with loud
+rushing water of a waterfall pounding rock to your south.  Glancing about,
+you see many discarded axes and swords.  It would appear that this was once
+used as a guard station.  Looking up, you see a small hole that is allowing
+light to penetrate the room, it is just large enough for a small horse to
+pass through.  
+~
+0 1 0
+D2
+~
+~
+~
+0 0 16094
+D4
+~
+~
+~
+0 0 19252
+M 0 H 0
+S
+#19252
+Approaching the Top of the Mountain~
+{xThe light grows brighter as you near the top of the pass, making it
+difficult to tell the real time of day.  To the east, you can make out what
+appears to be a hitching post.  The mouth of a small cave stands looming to
+the west.  
+~
+0 8 0
+E
+rock~
+Carefully postioned, these rocks have been used to conceal a small cave.  
+~
+E
+post~
+It is easy to tell that it has been a long time since the post was used. 
+It is old and looks as if it would collapse if you touched it.  
+~
+E
+rock~
+The rocks have been piled in a neat stack.  Looking closely, a tiny
+opening can be seen.  
+~
+D3
+~
+~
+~
+0 0 19298
+D4
+~
+~
+~
+0 0 19253
+D5
+~
+~
+~
+0 0 19251
+M 0 H 0
+S
+#19253
+Top of the Mountain~
+As you reach the top of the mountain, you are forced to shield your eyes
+from the glow that is coming from the wall.  As your eyes adjust to the
+light, you are filled with greed as you realize that you stand in front of a
+wall made of pure gold.  Thinking back to the stories that you heard as a
+child, it dawns on you that you stand in front of Malack.  The fabled golden
+city of the Dwarves.  To the north is the gates to the great city.  
+~
+0 0 5
+E
+gate~
+Engraved on the gate of Malack is the symbol of the Dwarf nation.  
+~
+D0
+~
+gate~
+~
+1 0 19254
+D5
+~
+~
+~
+0 0 19252
+M 0 H 0
+S
+#19254
+Inside Malack~
+You are standing inside the city of Malack.  The stories you heard as a
+child have done nothing to prepare you for what you now see.  The streets
+are paved in precious gems, but everything else is made of gold.  To the
+north, you can see the counting house, housing the wealth of the Dwarf
+nation.  An armory is to the east and the smell of food drifts from the
+west.  
+~
+0 0 1
+D0
+~
+gate~
+~
+0 0 19259
+D1
+~
+~
+~
+0 0 19257
+D2
+~
+gate~
+~
+1 0 19253
+D3
+~
+~
+~
+0 0 19255
+M 0 H 0
+S
+#19255
+Along the Golden Wall~
+As you start to walk toward the corner, you can help but notice the
+life-like engravings that have been carved into the walls.  The story being
+told seems to be an ancient one, lost to time itself.  On the wind, the
+aroma of roasted beef lingers.  Your mouth begins to water, you quickly
+count your money to make sure that you have enough to buy a quick meal.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 19254
+D3
+~
+~
+~
+0 0 19256
+M 0 H 0
+S
+#19256
+Lithane's Corner~
+Standing here, you are impressed with the logic that the Dwarves have
+used.  To save space, Lithane's Corner has actually been built into the wall
+itself.  It is small and crowded, but neatly kept by Lithane herself.  The
+walls have been polished to a high shine and not a trace of dirt can be
+found on the floor.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19260
+D1
+~
+~
+~
+0 0 19255
+M 0 H 0
+S
+#19257
+Near the Armory~
+You are still amazed by what you are seeing.  Glancing at the wall from
+time to time, you can make out what appears to be engravings depicting a
+great battle.  Running your fingers over the engravings, you realize that
+the relief is actually of the Wars of Blood.  Looking to the east, you
+notice the armory is tucked into the wall.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 19258
+D3
+~
+~
+~
+0 0 19254
+M 0 H 0
+S
+#19258
+Inside the Armory~
+Like Lithane's corner, the armory has been built into the wall to save
+space.  The few weapons that you see here do not seem all that impressive. 
+As you begin to think about it, you realize that weapons are really not
+needed.  The city is isolated inside the mountain pass and an all out
+assault on this city would almost certainly fail.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19261
+D3
+~
+~
+~
+0 0 19257
+M 0 H 0
+S
+#19259
+Approaching the Heart of the City~
+As you draw closer to the entrance to the counting house, the city seems
+to be a more alive with activity.  Many dwarves are gathered around a large
+fountain, telling stories of the greatness that was once the Dwarf nation. 
+The Counting House is to the north, but from this vantage point, you can see
+that it is heavily guarded.  
+~
+0 0 1
+E
+fountain~
+This is an masterful crafted fountain.  A large dwarf stands at the
+center holding what appears to be a book in his hands.  
+~
+D0
+~
+~
+~
+0 0 19263
+D2
+~
+~
+~
+0 0 19254
+M 0 H 0
+S
+#19260
+Along the Western Wall~
+As your eyes fall upon the engravings on the wall, you realize that the
+story being told is that of the Great Sacrifice.  The runes are ancient and
+unreadable, but the engravings are are unmistakable.  To the north, you can
+see guards patrolling what appears to be a corner of a large counting house.
+To the south, you can see a small shop.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 19262
+D2
+~
+~
+~
+0 0 19256
+M 0 H 0
+S
+#19261
+Along the Eastern Wall~
+This wall seems to be in a state of slightly disrepair.  Looking at the
+mural on the wall, you can make out the engraving of a large dwarf fighting
+what appears to a dragon.  However, it would seem that the runes that would
+identify these two has been eroded from the wall.  Looking to the north, you
+can make out the eastern corner of a large counting house.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 19268
+D2
+~
+~
+~
+0 0 19258
+M 0 H 0
+S
+#19262
+Approaching the Counting House~
+As you near the western corner of the counting house, you have the
+feeling that you are being watched closely.  Guard stations are posted here
+and to the north.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 19266
+D2
+~
+~
+~
+0 0 19260
+M 0 H 0
+S
+#19263
+In the Heart of the City~
+You now stand in the center of the city of Malack.  The hustle and bustle
+seems somehow out of place compared to the watch you have seen.  Many aids
+cross from the office to the east of you to the office on the west.  To the
+east, you see the Office of the Guardian of the Gold, while to the west lies
+the Office of the Gold Checker.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 19267
+D1
+~
+~
+~
+0 0 19264
+D2
+~
+~
+~
+0 0 19259
+D3
+~
+~
+~
+0 0 19265
+M 0 H 0
+S
+#19264
+Office of the Guardian of the Gold~
+You stand in the office of the Guardian of the Gold.  It is an impressive
+room, filled with many treasures that would fetch a fortune anywhere else. 
+Your eyes fall upon lamps made of gold, diamonds and rubies.  The cabinets
+are hand crafted mother-of-pearl with intricate designs laid in with
+sapphires.  The object that is the greatest interest to you is the desk of
+pure gold that occupies the center of the room.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 19263
+M 0 H 0
+S
+#19265
+Office of the Gold Checker~
+You are standing in the office of the Gold Checker.  Looking around, you
+can see that this position hold many perks.  The desk is covered in stacks
+of gold, causing it to sag in the middle.  The room is decorated in fine
+tapestries and furniture made of the highest quality fabrics.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19263
+M 0 H 0
+S
+#19266
+Western Corner of the Counting House~
+You have made it to the western end of the counting house.  The guards
+here seem to be more experienced that those that you saw as you enter the
+city.  The feeling of alertness hangs in the air, hinting that something may
+be wrong.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 19270
+D2
+~
+~
+~
+0 0 19262
+M 0 H 0
+S
+#19267
+Before the Counting House~
+You now stand in front of the Counting House.  According to legend, the
+wealth of the dwarf nation lies beyond the {Wivory{x doors.  The entrance
+has been left wide open, leaving you to wonder what has truly happened here.
+The guards rush past you, ignoring what they perceive as no threat.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 19272
+D1
+~
+~
+~
+0 0 19271
+D2
+~
+~
+~
+0 0 19263
+D3
+~
+~
+~
+0 0 19270
+M 0 H 0
+S
+#19268
+Nearing the Counting House~
+The runes and engravings have disappeared from the walls as you get
+closer to the counting house.  The guards here seem to be alert, as if they
+are prepared for anyone to attempt to steal the gold that is housed within
+the counting house.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 19269
+D2
+~
+~
+~
+0 0 19261
+M 0 H 0
+S
+#19269
+Eastern Corner of the Counting House~
+The sheer size of the Counting House is staggering.  Standing below it,
+you begin to feel as if you are insignificant.  Staring at the wall, you can
+see the symbol of the dwarf nation has been carefully craved into it.  You
+now begin to understand why the dwarves wanted this city to remain hidden.  
+~
+0 0 1
+D2
+~
+~
+~
+0 0 19268
+D3
+~
+~
+~
+0 0 19271
+M 0 H 0
+S
+#19270
+West of the Entrance~
+The feeling of security is heightened here.  Large dwarves run back and
+forth, seeming to be searching for something or someone.  Unaware of your
+approach, they mutter something under their breath about gold being missing.
+~
+0 0 1
+D1
+~
+~
+~
+0 0 19267
+D3
+~
+~
+~
+0 0 19266
+M 0 H 0
+S
+#19271
+East of the Entrance~
+The sound of excitement can be heard coming from the west.  As you draw
+closer to the entrance to the Counting House, you can make out the forms of
+guards running to fill their post.  You realize that something has gone
+wrong and that sneaking into the stronghold will not be that easy.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 19269
+D3
+~
+~
+~
+0 0 19267
+M 0 H 0
+S
+#19272
+Inside the Counting House~
+You are now standing inside the great Counting House of the dwarves.  You
+can only begin to imagine the wealth that is stored here.  The walls are
+made of pure, refined gold and the floors are covered in diamonds.  Halls
+continues to the east and west, while the desk of the controller can be seen
+to the north.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19273
+D1
+~
+~
+~
+0 0 19284
+D2
+~
+~
+~
+0 0 19267
+D3
+~
+~
+~
+0 0 19274
+M 0 H 0
+S
+#19273
+The Office of the Controller~
+This is one of the largest rooms in the counting house.  All request for
+gold transfers are made in this room, as well as request for repairs to the
+walls.  Golden files stand behind the desk of the comptroller, filled with
+countless volumes of request.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 19272
+M 0 H 0
+S
+#19274
+Along the Golden Hall~
+The hall is lit by burning torches that cast strange, eerie shadows upon
+the walls.  The shadows flicker and play causing you to lose yourself in
+their dance.  For a brief second, you forget that you are an intruder here. 
+The hall continues to the east and to the west.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19272
+D3
+~
+~
+~
+0 0 19275
+M 0 H 0
+S
+#19275
+Southwest Corner of the Counting House~
+This corner of the counting house is crafted like nothing that you have
+seen before.  A beautifully crafted spiral staircase leads down toward what
+appears to be a storage area.  The hall continues to the north and back to
+the east.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19276
+D1
+~
+~
+~
+0 0 19274
+D5
+~
+~
+~
+0 0 19286
+M 0 H 0
+S
+#19276
+Along the West Passage~
+You find yourself in a large checkpoint area.  A guard station stands
+just to the east, seemingly empty.  A {Wlog{x book can be seen laying on the
+station desk.  A pair of legs stick out from behind the desk, suggesting
+that someone has found a quiet place to sleep.  Stairways can be seen to the
+north and south.  
+~
+0 8 0
+E
+logbook~
+Looking at the logbook, you see that the last person to visit the vaults
+was Captain Ulham.  As your eyes move to see when he was here, you notice
+the corpse of the guard.  
+~
+D0
+~
+~
+~
+0 0 19277
+D2
+~
+~
+~
+0 0 19275
+M 0 H 0
+S
+#19277
+Northwestern Corner of the Counting House~
+The room is decorated like every other room in the counting house.  The
+gold has been shaped and crafted into beautiful shapes along the wall.  A
+spiral staircase leads down toward the storage area.  The hallway disappears
+into the darkness to the east.  Far to the south, you can make out another
+staircase.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19278
+D2
+~
+~
+~
+0 0 19276
+D5
+~
+~
+~
+0 0 19289
+M 0 H 0
+S
+#19278
+The Golden Hall~
+Looking closely at the engravings on the wall, it suddenly dawns on you
+that a story is being told.  Each panel of the wall builds on the panel
+before it, telling the story of the creation of Malack.  The hall is damp
+and a slight chill hangs in the air.  The hall continues to the east and
+west.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19279
+D3
+~
+~
+~
+0 0 19277
+M 0 H 0
+S
+#19279
+The Golden Hall~
+The engravings on the wall continue to tell their story.  Try as you may,
+you cannot understand the runes that are etched under the panels.  A single
+golden lamp is here, casting light upon the mural.  The hall has a damp,
+musk smell, suggesting that it has been a long time since this area was
+cleaned.  The hall continues to the east and the west.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19280
+D3
+~
+~
+~
+0 0 19278
+M 0 H 0
+S
+#19280
+The Golden Hall~
+The walls are inscribed in the ancient runes of the dwarves.  The story
+that is being told on the wall seems to be an ancient one that few remember
+today.  The coolness of the room leaves you wishing that you had brought
+along an overcoat.  The hall continues to the east and west.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19281
+D3
+~
+~
+~
+0 0 19279
+M 0 H 0
+S
+#19281
+Northeast Corner of the Counting House~
+You have found you way to the northern corner of the counting house.  The
+corner seems to be bereft of any special markings or engravings.  A
+staircase leads up, while the hallway continues to the south and west.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 19282
+D3
+~
+~
+~
+0 0 19280
+D4
+~
+~
+~
+0 0 19292
+M 0 H 0
+S
+#19282
+Along the East Passage~
+You are standing in a large hallway that runs north and south.  You can
+make out nothing special about this room.  Staircases can be seen to the
+north and south.  A crack can be seen in the engravings on the east wall,
+hinting that a door was once there.  
+~
+0 8 0
+E
+crack~
+A faint outline of a door can be seen in the wall.  Strangely, there is
+no other indications that this is a door.  
+~
+D0
+~
+~
+~
+0 0 19281
+D1
+~
+crack~
+~
+1 0 19299
+D2
+~
+~
+~
+0 0 19283
+M 0 H 0
+S
+#19283
+Southeast Corner of the Counting House~
+You stand at the end of the south hall.  The counting house seems quiet,
+almost as if it truly had been forgotten by time.  A staircase winds its way
+up to the next level.  The hall continues to the north and back to the west.
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19282
+D3
+~
+~
+~
+0 0 19284
+D4
+~
+~
+~
+0 0 19295
+M 0 H 0
+S
+#19284
+Along the Golden Hall~
+The golden hall seems to stretch on for an eternity.  There are no
+decorations hung on the walls, only a few engravings.  The hall flows toward
+a staircase to the east and disappears into darkness to the west.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19283
+D3
+~
+~
+~
+0 0 19272
+M 0 H 0
+S
+#19285
+The Treasure of Malack~
+You find yourself standing inside a small, nondescript chamber.  The only
+light that illuminates this room comes from a large {Ygolden{x chest.  The
+chest seems to glow with a mysterious power, suggesting that it holds
+something of great value.  
+~
+0 4 0
+E
+obj~
+~
+M 0 H 0
+S
+#19286
+The Room of the Ruby~
+This is a large storage area, housing only rubies.  Storage bins stand
+against the wall, piled full of the precious stone.  You can see more
+storage rooms to the east.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 19287
+D4
+~
+~
+~
+0 0 19275
+M 0 H 0
+S
+#19287
+The Room of the Sapphire~
+Like the previous room, this is a storage area.  Row upon row of bins set
+here, filled to the top with sapphires.  They range in size from tiny to
+larger than your hand.  The exit the the ruby storage is to your west, while
+a exit to the east seems to house another storage area.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19288
+D3
+~
+~
+~
+0 0 19286
+M 0 H 0
+S
+#19288
+The Room of the Diamond~
+This is the largest storage chamber.  The sheer volume of diamonds in
+this room is staggering.  There is enough wealth in this room alone to set
+you for life.  Their is but one exit from this storage room just passed.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 19287
+M 0 H 0
+S
+#19289
+The First Vault of Gold~
+Perhaps the largest room you have ever seen, the room is designed to hold
+vast amounts of gold.  The untold amount of gold in this room is staggering.
+Staggering.  Rows upon rows of gold are stacked here, piled from the floor
+to the ceiling.  Looking to the east, you can see two more vaults.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19290
+D4
+~
+~
+~
+0 0 19277
+M 0 H 0
+S
+#19290
+The Second Vault of Gold~
+The room is twice as large as the last one.  Gold is stacked from the
+floor to the ceiling in neat rows, leaving a pathway between the exit to the
+east and west.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19291
+D3
+~
+~
+~
+0 0 19289
+M 0 H 0
+S
+#19291
+The Third Vault of Gold~
+As you enter this chamber, you expect to see more gold than the previous
+room.  But assumptions can be wrong.  This room is almost barren.  You see
+only a couple of rows of gold left toward the back of the chamber.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 19290
+M 0 H 0
+S
+#19292
+Barracks of the Gold Keepers~
+These are the barracks of the keepers of the gold.  The room is
+unadorned, unlike the hall down below.  You can see many bunks lining the
+far wall, but none seem to be occupied.  There is an exit to the west, and
+the stairs that lead back to the hallway.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 19293
+D5
+~
+~
+~
+0 0 19281
+M 0 H 0
+S
+#19293
+Dining Area~
+This is the eating place of the keepers of the gold.  A long table stands
+in the center of the room, allowing for maybe twenty to eat at one time. 
+Plates still are set at the table, making it appear that this room was left
+in a rush.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19292
+D3
+~
+~
+~
+0 0 19294
+M 0 H 0
+S
+#19294
+The Kitchen~
+This room is neatly arranged.  Fresh vegetables can be seen soaking in a
+large tub of water.  On the stove, large chunks of beef can be seen
+simmering in their own juices.  Dried peppers and fruits hang from the
+ceiling, waiting for the right recipe.  The aroma is overpowering.  Your
+nose begins to twitch as you try to suppress a sneeze.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19293
+M 0 H 0
+S
+#19295
+Barracks of Keeper of the Gems~
+Three large beds line the wall in this room.  From the size of the beds,
+you realize that these are not average sized dwarves.  A large foot locker
+rests at the foot of the bed.  You can see the door to the captain's quarter
+to the west or you take the stairs back down.  
+~
+0 8 0
+D3
+~
+~
+~
+1 0 19296
+D5
+~
+~
+~
+0 0 19283
+M 0 H 0
+S
+#19296
+The Captain's Quarters~
+This is a large, finely furnished room.  The window is covered with a
+fine curtain made of silk.  The bed is crafted of ivory, and the carpet is
+made of a soft, plush fabric.  An ivory statue of a god is setting on the
+table beside the bed.  Doors can be seen to the east and west.  
+~
+0 8 0
+E
+curtain~
+A finely, crafted curtain made of pure silk has the crest of the dwarf
+nation stitched into it.  
+~
+E
+ivory~
+A statue of the god of the dwarves has been carved from pure ivory.  
+~
+E
+statue~
+~
+D1
+~
+~
+~
+1 0 19295
+D3
+~
+~
+~
+1 0 19297
+M 0 H 0
+S
+#19297
+The Study~
+The private room of the Captain of the Keepers.  The room is filled with
+large bookcases that encircle the entire room.  A lonely desk sits in the
+center, with a simply candle sitting upon it.  As you stand here, you think
+you hear the books whisper your name.  
+~
+0 4194312 0
+D1
+~
+~
+~
+1 0 19296
+M 0 H 0
+S
+#19298
+The Thief's Lair~
+You are assaulted by the strong odor of urine and feces as you enter the
+cave.  Holding your breath, you do a quick scan of the contents.  You can
+hear a steady drip coming from the back of the cave.  As your eyes fall to
+the floor of the cave, you see straw has been heaped into mats.  Turning to
+return outside to get fresh air, you catch a movement from the corner of
+your eye.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19252
+M 0 H 0
+S
+#19299
+The Treasure of Malack~
+You have found the room that houses the true treasure of Malack.  This
+room is not filled with gold or precious gems.  The only thing thing that
+you can see here is a large {ygolden{x chest.  
+~
+0 8 0
+D3
+~
+~
+~
+1 0 19282
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 19298 spec_thief
+S
+
+
+
+#RESETS
+D 0 19253 0 1
+D 0 19254 2 1
+D 0 19282 1 1
+D 0 19295 3 1
+D 0 19296 1 1
+D 0 19296 3 1
+D 0 19297 1 1
+D 0 19299 3 1
+M 0 19253 1 19253 10
+E 0 19253 0 16
+E 0 19252 0 27
+M 0 19256 1 19256 10
+G 0 19288 0
+G 0 19287 0
+G 0 19285 0
+G 0 19256 0
+M 0 19257 1 19257 10
+E 0 19257 0 16
+M 0 19259 3 19259 10
+E 0 19255 0 17
+O 0 19259 0 19259
+M 0 19260 1 19260 10
+E 0 19254 0 27
+E 0 19289 0 16
+M 0 19261 1 19261 10
+E 0 19261 0 17
+M 0 19262 1 19262 10
+M 0 19263 1 19263 10
+E 0 19251 0 17
+E 0 19254 0 27
+M 0 19264 1 19264 10
+E 0 19296 0 16
+E 0 19290 0 5
+M 0 19265 1 19265 10
+E 0 19265 0 17
+M 0 19266 1 19266 10
+E 0 19290 0 5
+E 0 19289 0 16
+M 0 19267 1 19267 10
+E 0 19289 0 16
+E 0 19290 0 5
+M 0 19268 1 19268 10
+E 0 19290 0 5
+E 0 19289 0 16
+M 0 19269 1 19269 10
+E 0 19296 0 16
+E 0 19290 0 5
+M 0 19270 1 19270 10
+E 0 19290 0 5
+E 0 19289 0 16
+M 0 19271 1 19271 10
+E 0 19289 0 16
+E 0 19290 0 5
+M 0 19269 1 19271 10
+E 0 19296 0 16
+E 0 19290 0 5
+M 0 19272 1 19272 10
+E 0 19289 0 16
+E 0 19290 0 5
+M 0 19272 1 19272 10
+E 0 19296 0 16
+E 0 19290 0 5
+M 0 19273 1 19273 10
+E 0 19273 0 17
+M 0 19274 1 19274 10
+E 0 19289 0 16
+E 0 19290 0 5
+M 0 19278 1 19278 10
+E 0 19290 0 5
+E 0 19296 0 16
+M 0 19279 1 19279 10
+E 0 19290 0 5
+E 0 19289 0 16
+M 0 19280 1 19280 10
+E 0 19296 0 16
+E 0 19290 0 5
+M 0 19284 1 19284 10
+E 0 19289 0 16
+E 0 19290 0 5
+O 0 19299 0 19285
+P 0 19282 0 19285 10
+M 0 19286 1 19286 10
+E 0 19296 0 16
+E 0 19286 0 27
+M 0 19287 1 19287 10
+E 0 19286 0 27
+M 0 19288 1 19288 10
+E 0 19286 0 27
+M 0 19289 1 19289 10
+E 0 19289 0 16
+E 0 19290 0 5
+M 0 19291 1 19291 10
+E 0 19289 0 16
+E 0 19290 0 5
+M 0 19289 1 19291 10
+E 0 19289 0 16
+E 0 19290 0 5
+M 0 19294 1 19294 10
+E 0 19294 0 13
+O 0 19295 0 19295
+P 0 19283 0 19295 10
+M 0 19296 1 19296 10
+E 0 19296 0 16
+E 0 19297 0 5
+M 0 19298 1 19298 10
+E 0 19298 0 16
+O 0 19299 0 19299
+P 0 19282 0 19299 10
+S
+
+
+
+#SHOPS
+19256 19 19 0 0 0 130 80 8 18
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

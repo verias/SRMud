@@ -1,0 +1,1745 @@
+#AREADATA
+Name {85 99} Brysaar Basalt Stadium~
+Builders Brysaar~
+VNUMs 7951 7999
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#7951
+man gray~
+a man in gray~
+A man in gray stands beside the door.
+~
+This curious figure stands guard at the door to the Arena of Mortals.  He
+does not halt or slow your process, or even attempt to warn you of any
+possible danger, but simply stands here, watching.  
+~
+human~
+AB DF 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 digestion
+-35 -35 -35 -27
+0 0 0 0
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#7952
+cleansing guardian bipedal statue falcon~
+a cleansing guardian~
+A statue of a bipedal falcon dressed out in a full suit of platemail stands against the wall here.
+~
+Totally made of basalt, this statue closely resembles that of a Tervadi. 
+Stone feathers cover the entirety of the statue that isn't wearing a heavy
+stone suit of armor plate.  The statue looks remarkably lifelike and
+detailed, right down to the enormous basalt blade it carries.  
+~
+unique~
+ABF DFOTZ 0 0
+94 0 12d1141+3486 94d10+100 6d10+28 lunge
+-29 -29 -29 -25
+FHKR JQ L KS
+(null) (null) male 423
+ACGHMVXc ABCDEFGHJKLOPUVW large unknown
+#7953
+gahab hero human~
+Gahab Dartellis~
+A lone human stands here, feathers running down his back and a hatchet in his hand.
+~
+Gahab Dartellis has long been a myth among the people of Discordia.  Said
+to have defeated an entire legion of goblins single handedly, the plainsman
+now stands here, defending himself against the torrents of the arena.  He is
+a tall man, and wields an extended hand axe with deadly accuracy.  His dark
+skin is marred by an enormous amount of blood, but almost none of it is his
+own.  
+~
+human~
+A NOac 1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 sunder
+-35 -35 -35 -27
+EFHIKN 0 C 0
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#7954
+teldrick demonic prince efreet~
+Teldrick, Prince of Flames~
+A dark looking efreet with a flowing gold cape stands here.
+~
+This efreet is known to his people as Teldrick, Prince of Flames.  The
+creature stands at over six and a half feet tall, and burns with a fiery
+hatred that you can almost feel.  An oppressor of his people, the Efreet were
+not sad to see their dark prince vanish in the night, but he is certainly
+not gone from memory.  In his hand he holds a flaming stave, which he wields
+with deadly accuracy.  
+~
+unique~
+AF CDEFGOTZac -1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 claw
+-35 -35 -35 -27
+CFHIK H CL I
+(null) (null) female 450
+ACGHLMV ABCDEFGHIJK large unknown
+#7955
+gizzerelli lacerti lizardman~
+Gizzerelli Lacerti~
+A quick little lizardman wields a lavender dagger against his foes.
+~
+Ducking, dodging, and darting, this lacerti is naturally faster than most
+haitorins.  The little lizard wields his undersized blade well, striking
+like a serpent in his enemy's least convenient places.  Gizzerelli Lacerti
+was born naturally small, but his size did not prevent him from becoming a
+renowned fighter.  It is said by some that his fights in ancient arenas were
+the reason his tribe was spared from destruction.  
+~
+unique~
+A Nc 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 crunch
+-35 -35 -35 -27
+EFHIJKN L D 0
+(null) (null) female 450
+AGHMVXc ABCDEFGHIJKLPUVX small unknown
+#7956
+ellestra nymph~
+Ellestra the Charmer~
+A tall nymph with deep blue eyes and a stunning set of features stands here.
+~
+Ellestra the Charmer is a fine specimen even for a nymph.  This beautiful
+creature keeps herself looking as best as possible.  She is a champion
+charmer, capable of luring any man she wishes into the snare of lust.  She
+wears on her full bosom an extremely small and somewhat transparent silk
+shirt, and her golden braids spill almost further down her back than does
+her matching blue skirt.  
+~
+unique~
+AO HOVc -1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 beating
+-35 -35 -35 -27
+F 0 C 0
+(null) (null) either 450
+ACGHMV ABCDEFGHIJK medium unknown
+#7957
+xtzil man spiritfolk~
+Xtzil~
+A man stands before you, constantly fading in and out of reality.
+~
+This tall spiritfolk is known as Xtzil.  Less famous than the other
+heroes in this place, Xtzil was a self made man, and what he made he
+likewise kept to himself, and is rumored to have an entire palace to himself
+somewhere in Utopia.  
+~
+unique~
+AF OTU 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 lunge
+-35 -35 -35 -27
+CFGIK 0 DP CN
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#7958
+skybird healer tervadi~
+Skybird the Healer~
+A tall Tervadi stands here, glowing with a steady white aura.
+~
+Skybird made his name for himself healing the masses of a plague stricken
+city.  The healer is talented in all aspects of the mystic art, curative and
+destructive.  Skybird dresses completely in white attire, a practice which
+magnifies his already bright appearance.  He looks to be serene, even in the
+midst of this chaos.  
+~
+unique~
+AN HOT 1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 blast
+-35 -35 -35 -27
+FK N S L
+(null) (null) female 450
+ACGHMV ABCDEFGHIJKOU medium unknown
+#7959
+trixil zaglar haitorin woman~
+Trixil Zaglar~
+A haitorin woman crouches low, preparing to pounce.
+~
+Trixil Zaglar has always been known as a masterful teacher of the
+fighting arts.  She has made her profession training some of the most
+renowned warriors that the realm has seen.  Zaglar is a master at unarmed
+combat, using any means necessary to get ahead.  
+~
+unique~
+AF GNOVZ 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 slash
+-35 -35 -35 -27
+CFHIKN 0 PS HR
+(null) (null) either 450
+ACGHMV ABCDEFGHIJKUV medium unknown
+#7960
+daldroth brushbeard dwarf paladin~
+Daldroth Brushbeard~
+One of the forgotten dwarven paladins is here, spear in hand.
+~
+Squat but bulky, this dwarf is by no means small.  Daldroth Brushbeard is
+one of the few remaining dwarven paladins of old, a class famed for their
+aid to the gods in the war against the ancients.  Brushbeard wields his
+spear masterfully, using every motion to his advantage.  
+~
+unique~
+AFN HJNO 1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 stab
+-35 -35 -35 -27
+CEFK N CLQS R
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#7961
+nameless drow elf dark~
+a nameless drow~
+A tall elf, clad in dark garb, stands here.
+~
+Before you stands a lone drow.  The creature stands tall, showing no
+fear.  His lithe features are contradicted by his dark aura, which seems to
+swell around him.  He wields a black barbed whip.  
+~
+unique~
+AF JO -1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 stab
+-35 -35 -35 -27
+EFJK 0 B NS
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#7962
+gargoyle~
+a gargoyle~
+A gargoyle stands here, flapping its stone wings.
+~
+This creature is completely made of stone.  Two large wings adorn its
+back, and on its face are a set of sharp stone fangs.  It grimaces as it
+sees you.  
+~
+unique~
+AF TZ 0 0
+95 0 12d1182+3558 95d10+100 6d10+29 slash
+-30 -30 -30 -25
+R J L KS
+(null) (null) male 427
+ACGHMVXc ABCDEFGHJKLOPUVW medium unknown
+#7963
+gorgon~
+a gorgon~
+A gorgon slithers on the floor here.
+~
+The gorgon is half woman, half snake.  Contradictory to the myth, her
+hair is long and blond, not made up of slithering snakes.  She looks at you
+with a steely gaze.  
+~
+unique~
+AF TZ 0 0
+70 0 11d443+2036 70d10+100 5d8+22 claw
+-17 -17 -17 -15
+R J L KS
+(null) (null) either 315
+ACGHMVXc ABCDEFGHJKLOPUVW medium unknown
+#7964
+large imp~
+a large imp~
+A large imp flaps its wings and glares at you.
+~
+This large imp stands at about seven feet tall, but is very thin.  Its
+razor sharp fingers give the creature all it needs in the form of weapons. 
+The yellow vertical slits which make up its eyes focus on you as you pass.  
+~
+unique~
+AF TZ 0 0
+70 0 11d443+2036 70d10+100 5d8+22 slice
+-17 -17 -17 -15
+R J L KS
+(null) (null) male 315
+ACGHMVXc ABCDEFGHJKLOPUVW medium unknown
+#7965
+grizzlyman man bear hybrid~
+a grizzlyman~
+An enormous man-bear hybrid faces you.
+~
+This creature is similar to a bear, but completely bipedal.  It is an
+immense creature, and delights in nothing more than a good fight.  It gives
+a low guttural growl from time to time in an effort to start a brawl.  
+~
+unique~
+AF TZ 0 0
+70 0 11d443+2036 70d10+100 5d8+22 lunge
+-17 -17 -17 -15
+R J L KS
+(null) (null) female 315
+ACGHMVXc ABCDEFGHJKLOPUVW medium unknown
+#7966
+man gray~
+a man in gray~
+A man in gray stands beside the door.
+~
+This curious figure stands guard at the door to the Arena of Mortals.  He
+attempts to halt or slow your process, and even attempts to warn you of
+possible danger.
+~
+human~
+AB DF 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 digestion
+-35 -35 -35 -27
+0 C D 0
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#7967
+dakkolith wings black bat beast~
+A Dakkolith~
+A pair of black wings beat heavily in the air here, attached to some sort of beast.
+~
+Seemingly made up of nothing but fangs and wings, the leathery Dakkolith
+are the guardians of this long shaft.  With wings designed for inverted
+flight, they are perfectly adapted to their environment.  
+~
+unique~
+AF CDEFGTVZc -200 0
+87 0 12d887+3018 87d10+100 5d10+26 crush
+-24 -24 -24 -22
+FH 0 LQ S
+(null) (null) male 391
+ACGHMVW ABCDEFGHIJKOPUV large unknown
+#7968
+golden human~
+a golden human~
+A golden statue of a human stands here.
+~
+Golden fingers, golden toes, and golden teeth, many adventurers would
+trade their left eye to be this fellow.  Constructed totally out of gold, or
+so it would appear, he is quite resilient, though tarnishes if left out in
+the weather.  
+~
+human~
+ABF DHOZ 0 0
+90 0 12d991+3214 90d10+100 5d11+28 claw
+-25 -25 -25 -23
+CK 0 HIKLQ J
+(null) (null) female 405
+AHMV ABCDEFGHIJK giant unknown
+#7969
+golden elf~
+a golden elf~
+A golden statue of an elf stands here.
+~
+Crafted totally out of gold, this statue appears to be very heavy and
+very dense.  The elf pictured is a handsome one, but his features are
+somehow marred by the metallic look.  
+~
+unique~
+AB FHJOZ 0 0
+90 0 12d991+3214 90d10+100 5d11+28 claw
+-25 -25 -25 -23
+CK 0 BHIKL 0
+(null) (null) male 405
+AHMV ABCDEFGHIJK medium unknown
+#7970
+golden dwarf~
+a golden dwarf~
+A golden statue of a dwarf stands here.
+~
+Stout and bulky, this dwarf is extremely thick, and solid gold.  His
+belly hangs, but does not jiggle.  His fists look to be exceptional weapons.
+~
+human~
+ABF Z 0 0
+90 0 12d991+3214 90d10+100 5d11+28 none
+-25 -25 -25 -23
+CK 0 DHIKLQ J
+(null) (null) male 405
+AHMV ABCDEFGHIJK medium unknown
+#7971
+mass energy zarzim~
+The Zarzim~
+A mass of energy writhes upon the enormous throne here.
+~
+The mass of pure energy sitting upon the throne seems to have no shape,
+but at the same is very easily defined.  Perhaps a ghost, perhaps a demon,
+the Grand Zarzim knows many such names, most if not all of which are
+assumptions based on shape.  
+~
+unique~
+ABF BCDEFHOTVZ 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 charge
+-35 -35 -35 -27
+FGHKO 0 L 0
+(null) (null) male 450
+ACGHLMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#7951
+door doorframe~
+a door~
+A door lies set into the ground here.~
+wood~
+portal R 0
+0 AB 0 AEIJKLM 0
+0 0 0 P
+#7952
+door~
+a door~
+A door is set into the ceiling here.~
+wood~
+portal R 0
+0 A 0 EIJKLM 0
+0 0 0 P
+#7953
+mirror~
+a full sized mirror~
+A full sized basalt mirror stands in the center of the room here.~
+basalt~
+portal R 0
+0 0 0 BEIJKLM 0
+0 0 0 P
+#7954
+mirror~
+a full-sized mirror~
+A full-sized basalt mirror stands in the center of the room here.~
+basalt~
+portal R 0
+0 0 0 AEIJKLM 0
+0 0 0 P
+#7955
+door~
+a door~
+A door is securely situated upon the ceiling.~
+wood~
+portal R 0
+0 AB 0 ABEIJKLM 0
+0 0 0 P
+#7956
+door~
+a door~
+A door has been positioned in the middle of the floor here.~
+wood~
+portal R 0
+0 A 0 BEIJKLM 0
+0 0 0 P
+#7957
+hatchet winds~
+the Hatchet of the Four Winds~
+A hand axe with an exceptionally long handle sits here.  The head shines a metallic blue.~
+mithril~
+weapon T AN
+mace 14 12 sunder D
+90 4 450 P
+A
+1 1
+A
+18 3
+A
+19 3
+#7958
+flaming fire rod stave~
+a fire rod~
+A flaming stave lies on the ground here.~
+wood~
+weapon AE AN
+whip 14 12 claw A
+90 3 450 P
+A
+19 5
+#7959
+golden cape~
+a golden cape~
+This short golden cape is designed to be worn on the shoulders.~
+gold~
+armor 0 Aa
+ABCD ABCD ABCD C 0
+90 1 450 P
+A
+19 6
+#7960
+lavender dagger snakebite~
+a dagger named "Snakebite"~
+A small lavender dagger lies here.~
+mithril~
+weapon 0 AN
+bow 14 12 crunch G
+90 1 450 P
+A
+18 5
+#7961
+blue shirt~
+a blue transparent shirt~
+This silk shirt is so thin that it almost doesn't look like it's there at all.~
+silk~
+clothing 0 AD
+0 0 0 0 0
+90 1 4000 P
+A
+24 -9
+#7962
+steel sword longsword~
+a steel longsword~
+This longsword is made out of very sharp steel.~
+steel~
+weapon 0 AN
+sword 14 12 lunge 0
+90 4 450 P
+A
+13 60
+#7963
+pristine white mace~
+a pristine white mace~
+A bright white mace sits here.~
+stone~
+weapon 0 AN
+staff 14 12 blast 0
+90 3 450 P
+A
+13 50
+#7964
+spear fury~
+the Spear of Dwarven Fury~
+A heavy spear is here, with a steel shaft and mythril point.~
+steel~
+weapon I AN
+dagger 14 12 stab J
+90 12 450 P
+A
+19 7
+#7965
+dark black whip~
+a barbed whip as black as night~
+This barbed whip is as black as night.~
+hide~
+weapon 0 AN
+flail 14 12 jab D
+90 4 450 P
+A
+19 4
+A
+18 2
+#7966
+heavy black door~
+a heavy looking black door~
+A large heavy looking black door is here.~
+marble~
+portal GR 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef ABCDE 0 CDEIJKLM ABCDEIJKLM
+0 0 0 P
+#7967
+tiny platinum key~
+a tiny platinum key~
+A tiny platinum key shines brightly.~
+platinum~
+key GPQ A
+0 0 0 0 0
+1 1 0 P
+#7968
+heavy looking black door~
+a heavy looking black door~
+A heavy looking black door is here.~
+basalt~
+portal R 0
+0 ACDE 0 ABCDIJKLM ABCDEIJKLM
+0 0 0 P
+#7969
+door~
+a door~
+A door is set firmly into the ground here.~
+wood~
+portal R 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef A 0 BCDEIJKLM 0
+0 0 0 P
+#7970
+key~
+a key~
+The small wooden key looks to be strong enough to withstand constant use.~
+iron~
+key R A
+0 0 0 0 0
+85 1 0 P
+#7971
+windows~
+a window~
+Just below the painted window is a neatly painted keyhole.  Looking closer, you realize that it is not painted at all, but quite real.~
+wood~
+portal R 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef ABCDE A ACDEFIJKLM BFIJKLM
+0 30 0 P
+#7972
+red golden needle~
+a red and golden needle~
+The tiny needle is lodged in the rug quite securely.~
+gold~
+protect R AQ
+0 0 0 0 0
+87 1 200 P
+A
+18 8
+#7973
+wave energy~
+a wave of energy~
+A wave of energy is here.~
+energy~
+armor GQ AK
+E E E AC 0
+100 0 500 P
+A
+2 3
+A
+3 3
+A
+1 3
+#7974
+energy ring~
+a ring of energy~
+A ring of energy is here.~
+energy~
+portal GQ AB
+A 0 0 ABCDIJKLM 0
+80 0 500 P
+#0
+
+
+
+#ROOMS
+#7951
+{GWithin the Basalt Dome~
+{WYou are standing now within an enormous structure seemingly made
+completely out of basalt.  To the north of here is an enormous wall that
+seems to stretch up into infinity.  The form of the wall reveals that this
+illusion is caused by a hemispherical structure shape, the bleak color
+causing the imperfections in the rock face to blend together the further up
+the wall goes.  To the south can be seen a large gray archway that leads
+into another vast basalt chamber.  Set into the northern wall is a heavy
+looking black door.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 7952
+M 0 H 0
+S
+#7952
+{GEntrance to the Arena of Mortals~
+{WThis room is open on all sides.  All around you can be seen nothing but
+the dark gray of cold basalt.  The structure of this building is so large
+that it could encompass an entire castle, but the landscape for the vast
+majority of the open space is absolutely bare.  In the floor in the center
+of the room is a doorframe, and upon it hinges a single door which resembles
+that of a common home's entranceway, and leads down into the floor. 
+Standing by it is a man dressed entirely in gray.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 7951
+M 0 H 0
+S
+#7953
+{GThe Cleansing~
+{WThis room is a circular one.  The open feeling of the above chamber has
+left now, and normal proportions have taken their rightful place in your
+psyche once again.  Lining the circular walls of the room are six basalt
+statues of armed avian characters.  These warrior birds stand seemingly
+attentive in the room, keeping an almost tangible vigil over the area.  On
+the ceiling is the door by which you entered, while standing upright in the
+center of the room is a full sized mirror.  
+~
+0 1048588 0
+E
+mirror~
+This enormous mirror seems to shimmer slightly as you stare into its
+depths.  A warning is scribed along the top of the mirror which reads: 
+ 
+Those not of powerful spirit tarry not within the bounds
+     of this place, for within dwells a challenge not
+     for those of untested strength.
+~
+M 0 H 0
+S
+#7954
+{GThe Cleansing~
+{WThis room is a circular one.  The open feeling of the above chamber has
+left now, and normal proportions have taken their rightful place in your
+psyche once again.  On the ceiling is a door, while standing upright in the
+center of the room is a full sized mirror.  
+~
+0 1048588 0
+M 0 H 0
+S
+#7955
+{GThe Arena of Mortals~
+{WYou are in a vast dome made completely of basalt.  The walls of this room
+are high and nondescript, the terrain featureless.  {WThis room is enormous. 
+Big enough to fit an army of men.  The hemispherical structure is almost
+totally rounded, without exception.  
+~
+0 1048588 0
+D0
+~
+~
+~
+0 0 7956
+D1
+~
+~
+~
+0 0 7958
+D2
+~
+~
+~
+0 0 7960
+D3
+~
+~
+~
+0 0 7962
+M 0 H 0
+S
+#7956
+{GThe Arena of Mortals~
+{W{WThis room is enormous.  The vast basalt dome completely encircles this
+room in a featureless shell.  Spaced at random intervals can be seen black
+marks upon the cold stone floor.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 7957
+D2
+~
+~
+~
+0 0 7955
+D3
+~
+~
+~
+0 0 7963
+M 0 H 0
+S
+#7957
+{GThe Arena of Mortals~
+{WYou are in a vast dome made completely of basalt.  The walls of this room
+are high and nondescript, the terrain featureless.  {WThis room is enormous. 
+Big enough to fit an army of men.  The hemispherical structure is almost
+totally rounded, without exception.  
+~
+0 1048584 0
+D2
+~
+~
+~
+0 0 7958
+D3
+~
+~
+~
+0 0 7956
+M 0 H 0
+S
+#7958
+{GThe Arena of Mortals~
+{WThis room is enormous.  The vast basalt dome completely encircles this
+room in a featureless shell.  Spaced at random intervals can be seen black
+marks upon the cold stone floor.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 7957
+D2
+~
+~
+~
+0 0 7959
+D3
+~
+~
+~
+0 0 7955
+M 0 H 0
+S
+#7959
+{GThe Arena of Mortals~
+{WYou are in a vast dome made completely of basalt.  The walls of this room
+are high and nondescript, the terrain featureless.  {WThis room is enormous. 
+Big enough to fit an army of men.  The hemispherical structure is almost
+totally rounded, without exception.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 7958
+D3
+~
+~
+~
+0 0 7960
+M 0 H 0
+S
+#7960
+{GThe Arena of Mortals~
+{WThis room is enormous.  The vast basalt dome completely encircles this
+room in a featureless shell.  Spaced at random intervals can be seen black
+marks upon the cold stone floor.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 7955
+D1
+~
+~
+~
+0 0 7959
+D3
+~
+~
+~
+0 0 7961
+M 0 H 0
+S
+#7961
+{GThe Arena of Mortals~
+{WYou are in a vast dome made completely of basalt.  The walls of this room
+are high and nondescript, the terrain featureless.  {WThis room is enormous. 
+Big enough to fit an army of men.  The hemispherical structure is almost
+totally rounded, without exception.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 7962
+D1
+~
+~
+~
+0 0 7960
+M 0 H 0
+S
+#7962
+{GThe Arena of Mortals~
+{WThis room is enormous.  The vast basalt dome completely encircles this
+room in a featureless shell.  Spaced at random intervals can be seen black
+marks upon the cold stone floor.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 7963
+D1
+~
+~
+~
+0 0 7955
+D2
+~
+~
+~
+0 0 7961
+M 0 H 0
+S
+#7963
+{GThe Arena of Mortals~
+{WYou are in a vast dome made completely of basalt.  The walls of this room
+are high and nondescript, the terrain featureless.  {WThis room is enormous. 
+Big enough to fit an army of men.  The hemispherical structure is almost
+totally rounded, without exception.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 7956
+D2
+~
+~
+~
+0 0 7962
+M 0 H 0
+S
+#7964
+{GWithin the Basalt Dome~
+{WYou are standing now within an enormous structure seemingly made
+completely out of basalt.  To the north of here is an enormous wall that
+seems to stretch up into infinity.  The shape of the wall reveals that this
+illusion is caused by a hemispherical structure shape, the bleak color
+causing the imperfections in the rock face to blend together the further up
+the wall goes.  To the south can be seen a large gray archway that leads
+into another vast basalt chamber.  Set into the southern wall is a heavy
+looking black door.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 7965
+M 0 H 0
+S
+#7965
+{GWithin the Basalt Done~
+{WThis room is open on all sides.  All around you can be seen nothing but
+the dark gray of cold basalt.  The structure of this building is so large
+that it could encompass an entire castle, but the landscape for the vast
+majority of the open space is absolutely bare.  In the floor in the center
+of the room is a doorframe, and upon it hinges a single door which resembles
+that of a common home's entranceway, and leads down into the floor. 
+Standing by it is a man dressed entirely in gray.  
+~
+0 1048584 0
+E
+man~
+Though it looks to very much resemble a man, this tall statue is just
+that.  It does not move or give any other sign of life.  
+~
+D2
+~
+~
+~
+0 0 7964
+M 0 H 0
+S
+#7966
+{RA Long Shaft~
+{WYou stand now at the bottom of a long shaft.  Above you stretches forth
+a vast area of impenetrable darkness.  You can hear strange sounds coming
+from above you.  Strangely, coming through the door has seemed to have
+flipped reality upside down for you.  Though you came through the door from
+above, it is somehow now once again below you.  
+~
+0 9437193 0
+D4
+~
+~
+~
+0 0 7967
+M 0 H 0
+S
+#7967
+{RA Long Shaft~
+{WYou are now well within this long shaft.  It is unnaturally dark in here,
+and the walls are all a shade of dull black, making it difficult to
+distinguish them from the rest of the shaft.  
+~
+0 9437193 0
+D4
+~
+~
+~
+0 0 7968
+D5
+~
+~
+~
+0 0 7966
+M 0 H 0
+S
+#7968
+{RA Long Shaft~
+{WThe shaft seems to go on endlessly in every direction.  The sound of
+wings can be heard echoing up and down the long shaft.  It is very dark
+here.  
+~
+0 9437193 0
+D4
+~
+~
+~
+0 0 7969
+D5
+~
+~
+~
+0 0 7967
+M 0 H 0
+S
+#7969
+{RA Long Shaft~
+{WBeating wings can be heard coming from both above and below you. 
+Though it is extremely dark, you imagine you can almost make out black
+leathery wings in the distance.  
+~
+0 9437193 0
+D4
+~
+~
+~
+0 0 7970
+D5
+~
+~
+~
+0 0 7968
+M 0 H 0
+S
+#7970
+{RA Long Shaft~
+{WThis long shaft seems to have no end.  The shaft goes and goes for what
+seems like forever in both directions.  It is very dark here.  
+~
+0 9437193 0
+D4
+~
+~
+~
+0 0 7971
+D5
+~
+~
+~
+0 0 7969
+M 0 H 0
+S
+#7971
+{RA Long Shaft~
+{WYou can see nothing, and no sound can be heard over the din of silence
+except for the faint beating of wings.  The shaft seems to travel forever
+both above and below you.  
+~
+0 9437193 0
+D4
+~
+~
+~
+0 0 7972
+D5
+~
+~
+~
+0 0 7970
+M 0 H 0
+S
+#7972
+{RA Long Shaft~
+{WThe stone walls absorb any and all light which touches them, making this
+place almost totally black with darkness.  It almost seems that the vertical
+shaft drinks any light produced within its confines.  
+~
+0 9437193 0
+D4
+~
+~
+~
+0 0 7973
+D5
+~
+~
+~
+0 0 7971
+M 0 H 0
+S
+#7973
+{RA Long Shaft~
+{WThis bleak shaft is certainly dark, but you can tell fairly easily that
+it is not deserted.  You sense that you are approaching one end of the long
+shaft now.  
+~
+0 9437193 0
+D4
+~
+~
+~
+0 0 7974
+D5
+~
+~
+~
+0 0 7972
+M 0 H 0
+S
+#7974
+{RA Long Shaft~
+{WYou have come to the top of the long shaft.  Below you is darkness,
+above you the same.  The upper wall is within your reach now.  On it lies a
+single hatch.  
+~
+0 1048585 0
+D4
+~
+~
+~
+1 0 7975
+D5
+~
+~
+~
+0 0 7973
+M 0 H 0
+S
+#7975
+{YThe Golden Corridors~
+{WIt seems that everything in this hall is crafted of gold.  The floors,
+walls, and ceiling all sparkle of polished gold.  There are no carpets to be
+seen, or for that matter any furniture other than gold figurines which line
+the walls of the corridors.  You cannot tell whether or not the gold is
+real, but it certainly looks impressive.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 7976
+D1
+~
+~
+~
+0 0 7982
+D2
+~
+~
+~
+0 0 7987
+D3
+~
+~
+~
+0 0 7992
+D5
+~
+~
+~
+1 0 7996
+M 0 H 0
+S
+#7976
+{YThe Golden Corridors~
+{WYou are surrounded now by a golden corridor.  The entire room sparkles
+with potential wealth, enough to drive a greedy thief mad.  The glittering
+corridors travel onwards.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 7977
+D2
+~
+~
+~
+0 0 7975
+M 0 H 0
+S
+#7977
+{YThe Golden Corridors~
+{WGold covers everything in these corridors.  The floor, walls, and ceiling
+are all crafted out of the stuff.  Several large figurines line the walls,
+all apparently solid gold.  
+~
+0 1048585 0
+D1
+~
+~
+~
+0 0 7978
+D2
+~
+~
+~
+0 0 7976
+D3
+~
+~
+~
+0 0 7995
+M 0 H 0
+S
+#7978
+{YThe Golden Corridors~
+{WThis part of the hallway glistens in every direction from the light,
+casting small shimmering reflections all over your body.  You find yourself
+focusing your eyes upon the floor in order to continue forward.  
+~
+0 1048585 0
+D1
+~
+~
+~
+0 0 7979
+D3
+~
+~
+~
+0 0 7977
+M 0 H 0
+S
+#7979
+{YThe Golden Corridors~
+{WThe floor is level and spotless, shining a burnished gold to match the
+walls and vaulted ceiling.  Stretching away into the beyond, the corridor
+continues onward.  
+~
+0 1048585 0
+D2
+~
+~
+~
+0 0 7980
+D3
+~
+~
+~
+0 0 7978
+M 0 H 0
+S
+#7980
+{YThe Golden Corridors~
+{WThe golden hall echoes softly with shadows of past conversations, still
+emanating from the metallic sheen.  Every little sound reverberates through
+the still air, echoing off the walls and rebounding down the corridor.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 7979
+D2
+~
+~
+~
+0 0 7981
+M 0 H 0
+S
+#7981
+{YThe Golden Corridors~
+{WLight originating from an unknown source refracts off the golden walls
+here.  The value of this chamber, if the substance is actually gold, must be
+immense.  Your golden surroundings continue on down the corridors.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 7980
+D2
+~
+~
+~
+0 0 7983
+D3
+~
+~
+~
+0 0 7982
+M 0 H 0
+S
+#7982
+{YThe Golden Corridors~
+{WBright and distracting, the golden corridor is very disorienting.  The
+only color being gold, it is difficult to measure distance or lighting very
+well.  The entire place has this strange feeling.  
+~
+0 1048585 0
+D1
+~
+~
+~
+0 0 7981
+D3
+~
+~
+~
+0 0 7975
+M 0 H 0
+S
+#7983
+{YThe Golden Corridors~
+{WThe shine of these golden hallways has no parallel.  All the light in the
+room jumps from one wall to the next and back again, causing for one of the
+brightest places in the realm.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 7981
+D2
+~
+~
+~
+0 0 7984
+M 0 H 0
+S
+#7984
+{YThe Golden Corridors~
+{WThe golden statues lining the golden walls, while having no particular
+likeness, are most definitely crafted masterfully.  The walls themselves are
+smooth and cold.  They do not give off light, but simply reflect what is
+already there.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 7983
+D3
+~
+~
+~
+0 0 7985
+M 0 H 0
+S
+#7985
+{YThe Golden Corridors~
+{WThe vast amount of gold that was required to build this structure is
+mind-boggling.  The corridors are by no means small, and the statues are
+actually quite large.  
+~
+0 1048585 0
+D1
+~
+~
+~
+0 0 7984
+D3
+~
+~
+~
+0 0 7986
+M 0 H 0
+S
+#7986
+{YThe Golden Corridors~
+{WGold surrounds you on all sides.  These solid golden corridors are cold
+and smooth.  Though the room is extremely bright, the light comes totally
+from reflection off the walls.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 7987
+D1
+~
+~
+~
+0 0 7985
+D3
+~
+~
+~
+0 0 7988
+M 0 H 0
+S
+#7987
+{YThe Golden Corridors~
+{WGold covers everything in these corridors.  The floor, walls, and ceiling
+are all crafted out of the stuff.  Several large figurines line the walls,
+all apparently solid gold.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 7975
+D2
+~
+~
+~
+0 0 7986
+M 0 H 0
+S
+#7988
+{YThe Golden Corridors~
+{WThe golden corridors are vast and amazing.  An enormous amount of gold
+went into the construction of this place, and it is all very visible. 
+Though you cannot tell how deep the gold goes on the walls, you can tell
+that it is not simply plating.  
+~
+0 1048585 0
+D1
+~
+~
+~
+0 0 7986
+D3
+~
+~
+~
+0 0 7989
+M 0 H 0
+S
+#7989
+{YThe Golden Corridors~
+{WThe floor is level and spotless, shining a burnished gold to match the
+walls and vaulted ceiling.  Stretching away into the beyond, the corridor
+continues onward.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 7990
+D1
+~
+~
+~
+0 0 7988
+M 0 H 0
+S
+#7990
+{YThe Golden Corridors~
+{WThe golden hall echoes softly with shadows of past conversations, still
+emanating from the metallic sheen.  Every little sound reverberates through
+the still air, echoing off the walls and rebounding down the corridor.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 7991
+D2
+~
+~
+~
+0 0 7989
+M 0 H 0
+S
+#7991
+{YThe Golden Corridors~
+{WLight originating from an unknown source refracts off the golden walls
+here.  The value of this chamber, if the substance is actually gold, must be
+immense.  Your golden surroundings continue on down the corridors.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 7993
+D1
+~
+~
+~
+0 0 7992
+D2
+~
+~
+~
+0 0 7990
+M 0 H 0
+S
+#7992
+{YThe Golden Corridors~
+{WThe shine of these golden hallways has no parallel.  All the light in the
+room jumps from one wall to the next and back again, causing for one of the
+brightest places in the realm.  
+~
+0 1048585 0
+D1
+~
+~
+~
+0 0 7975
+D3
+~
+~
+~
+0 0 7991
+M 0 H 0
+S
+#7993
+{YThe Golden Corridors~
+{WThe golden statues lining the golden walls, while having no particular
+likeness, are most definitely crafted masterfully.  The walls themselves are
+smooth and cold.  They do not give off light, but simply reflect what is
+already there.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 7994
+D2
+~
+~
+~
+0 0 7991
+M 0 H 0
+S
+#7994
+{YThe Golden Corridors~
+{WThe vast amount of gold that was required to build this structure is
+mind-boggling.  The corridors are by no means small, and the statues are
+actually quite large.  
+~
+0 1048585 0
+D1
+~
+~
+~
+0 0 7995
+D2
+~
+~
+~
+0 0 7993
+M 0 H 0
+S
+#7995
+{YThe Golden Corridors~
+{WGold surrounds you on all sides.  These solid golden corridors are cold
+and smooth.  Though the room is extremely bright, the light comes totally
+from reflection off the walls.  
+~
+0 1048585 0
+D1
+~
+~
+~
+0 0 7977
+D3
+~
+~
+~
+0 0 7994
+M 0 H 0
+S
+#7996
+{MThe Puzzle Room~
+{WThis room is quite featureless, except for a rug on the floor, a chair in
+the center of the room, and a tapestry on the northern wall.  
+~
+0 1048589 0
+E
+chair~
+This large wooden chair is the only piece of furniture in the room.  It
+sits directly north of the narrow rug and faces the southern wall.  The arms
+of the chair are covered in strange looking carvings.  
+~
+E
+carvings~
+Looking closer at the carvings, you see that they are actually keys.  One
+carved key seems to be loose.  
+~
+E
+tapestry~
+The tapestry appears to be grafted somehow into the wall.  It is a
+picture of an enormous cabin, painted masterfully, the ink actually lifting
+up off of the backing in places to give it a realistic touch.  
+~
+E
+wall~
+It's a wall.  Nothing special, really.
+~
+E
+cabin~
+The cabin is massive for a simple wall painting.  Made of logs, with two
+windows and a door, other then that it is simply wood.  
+~
+E
+door~
+The door to the cabin is nothing more then paint.
+~
+E
+windows~
+~
+E
+rug~
+The threads of the red and gold rug seem to be woven with great skill. 
+Nothing, however, lies under, upon, or around the rug.  
+~
+E
+threads~
+The gold and red threads are interwoven with great skill.  Looking closer
+between them, you see a tiny needle.  
+~
+M 0 H 0
+S
+#7997
+{MThe Basalt Bubble~
+{WBack in basalt once again, this enormous room is shaped in a spherical
+manner but other than that completely featureless.  The cold gray stone
+surrounds you on all sides.  Directly to your north a strange object floats,
+but from this distance you cannot make out what it is.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 7998
+M 0 H 0
+S
+#7998
+{MThe Floating Throne~
+{WFloating above your head is an enormous throne.  Constructed of basalt
+but garnished with onyx and gold, the throne sits listlessly in the air,
+motionless.  The stone gray cavern which surrounds you is featureless save
+for the enormous royal seat.  
+~
+0 1048585 0
+D2
+~
+~
+~
+0 0 7997
+M 0 H 0
+S
+#7999
+{MThe Basalt Bubble~
+~
+0 1048580 0
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 7956 spec_cast_mage
+M 7958 spec_cast_cleric
+M 7960 spec_cast_cleric
+M 7967 spec_nasty
+M 7968 spec_nasty
+M 7969 spec_nasty
+M 7970 spec_nasty
+M 7971 spec_breath_acid
+S
+
+
+
+#RESETS
+D 0 7974 4 1
+D 0 7975 5 1
+O 0 7966 0 7951
+M 0 7951 1 7952 10
+O 0 7951 0 7952
+O 0 7953 0 7953
+O 0 7952 0 7953
+O 0 7955 0 7954
+O 0 7954 0 7954
+M 0 7952 6 7954 10
+M 0 7965 9 7955 10
+M 0 7964 9 7955 10
+M 0 7963 9 7955 10
+M 0 7962 9 7955 10
+M 0 7953 1 7955 10
+E 0 7957 0 16
+O 0 7956 0 7955
+M 0 7965 9 7956 10
+M 0 7964 9 7956 10
+M 0 7963 9 7956 10
+M 0 7962 9 7956 10
+M 0 7954 1 7956 10
+E 0 7958 0 16
+E 0 7959 0 27
+M 0 7965 9 7957 10
+M 0 7964 9 7957 10
+M 0 7963 9 7957 10
+M 0 7962 9 7957 10
+M 0 7955 1 7957 10
+E 0 7960 0 16
+M 0 7965 9 7958 10
+M 0 7964 9 7958 10
+M 0 7963 9 7958 10
+M 0 7962 9 7958 10
+M 0 7956 1 7958 10
+E 0 7961 0 5
+M 0 7965 9 7959 10
+M 0 7964 9 7959 10
+M 0 7963 9 7959 10
+M 0 7962 9 7959 10
+M 0 7957 1 7959 10
+E 0 7962 0 16
+M 0 7965 9 7960 10
+M 0 7964 9 7960 10
+M 0 7963 9 7960 10
+M 0 7962 9 7960 10
+M 0 7958 1 7960 10
+E 0 7963 0 16
+M 0 7965 9 7961 10
+M 0 7964 9 7961 10
+M 0 7963 9 7961 10
+M 0 7962 9 7961 10
+M 0 7959 1 7961 10
+G 0 7967 0
+M 0 7965 9 7962 10
+M 0 7964 9 7962 10
+M 0 7963 9 7962 10
+M 0 7962 9 7962 10
+M 0 7960 1 7962 10
+E 0 7964 0 16
+M 0 7965 9 7963 10
+M 0 7964 9 7963 10
+M 0 7963 9 7963 10
+M 0 7962 9 7963 10
+M 0 7961 1 7963 10
+E 0 7965 0 16
+O 0 7968 0 7964
+M 0 7966 1 7965 10
+O 0 7969 0 7965
+M 0 7967 10 7967 10
+M 0 7967 10 7968 10
+M 0 7967 10 7969 10
+M 0 7967 10 7969 10
+M 0 7967 10 7970 10
+M 0 7967 10 7970 10
+M 0 7967 10 7971 10
+M 0 7967 10 7971 10
+M 0 7967 10 7972 10
+M 0 7967 10 7973 10
+M 0 7968 4 7976 10
+M 0 7970 4 7978 10
+M 0 7969 4 7979 10
+M 0 7968 4 7981 10
+M 0 7968 4 7982 10
+M 0 7970 4 7983 10
+M 0 7969 4 7984 10
+M 0 7968 4 7987 10
+M 0 7970 4 7988 10
+M 0 7969 4 7989 10
+M 0 7968 4 7992 10
+M 0 7970 4 7993 10
+M 0 7969 4 7994 10
+O 0 7972 0 7996
+O 0 7970 0 7996
+O 0 7971 0 7996
+M 0 7971 1 7998 10
+E 0 7974 0 2
+E 0 7973 0 6
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

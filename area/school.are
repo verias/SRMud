@@ -87,7 +87,7 @@ tyrial trainer~
 ~
 ~
 human~
-ABJKQab CDEFGHIJZc 0 0
+ABJKQabd CDEFGHIJZc 0 0
 99 99 199d33+1999 99d10+85 33d3+54 none
 -57 -57 -57 -36
 0 BCDEFGHIJKLMNOPQRTXYZ 0 0
@@ -151,7 +151,7 @@ vest newbie~
 {wa {CN{ce{Cw{cb{Ci{ce {Wv{wes{Wt {wendorsed by the gods to protect the young ones lies upon the ground{x~
 blessings from the gods~
 armor ABIY ADP
-A A A A 0
+AC AC AC AC 0
 1 2 5 P
 #703
 flask water crystal~
@@ -167,7 +167,7 @@ helmet newbie~
 {wA {CN{ce{Cw{cb{Ci{ce {Whelmet {wlies on the {Wg{wroun{Wd{x~
 protection of the gods~
 armor ABGIY AEP
-A A A A 0
+BC BC BC BC 0
 1 2 5 P
 #705
 burning light torch~
@@ -183,7 +183,7 @@ boots newbie~
 {wA pair of {CN{ce{Cw{cb{Ci{ce {Wb{woot{Ws {wrest on the ground{x~
 protection of the gods~
 armor ABGIY AGP
-A A A A 0
+AB AB AB AB 0
 1 2 5 P
 #707
 pants newbie~
@@ -191,7 +191,7 @@ pants newbie~
 {wA pair of {CN{ce{Cw{cb{Ci{ce {Wp{want{Ws {wlies on the ground{x~
 protection of the gods~
 armor ABIY AFP
-0 0 0 0 0
+B B B B 0
 1 1 1 P
 #708
 bracers newbie~
@@ -199,15 +199,15 @@ bracers newbie~
 {wA pair of {CN{ce{Cw{cb{Ci{ce {Wb{wracer{Ws {wlies on the ground{x~
 protection of the gods~
 armor ABIY AIP
-A A A A 0
+B B B B 0
 1 2 5 P
 #709
 power newbies~
 {YP{yO{YW{yE{YR {BO{bF {WTHE {CN{cE{CW{cB{CI{cE{CS{c!{C!{c!{C!{c!{x  ~
-{wA {YP{yO{YW{yE{YR {BO{bF {WTHE {CN{cE{CW{cB{CI{cE{CS{c!{C!{c!{C!{c! {wstarter weapon lies upon the ground{x  ~
+Gwen~
 power of the newbies~
 weapon ABGIY ANP
-dagger 1 4 pierce DEG
+dagger 4 8 pierce DEG
 1 2 120 P
 #710
 wand cure poison~
@@ -366,13 +366,13 @@ armor ABIY AD
 AC AC AC 0 0
 1 5 750 P
 F
-A 0 0 O
-F
 A 0 0 N
+F
+A 0 0 O
 #729
 machine~
-machine~
-Machine~
+a gambling slot machine~
+A gambling machine is here, waiting to gobble up tokens.~
 unknown~
 token 0 0
 0 0 0 0 1
@@ -405,13 +405,18 @@ almost beyond sight.  Gold ornates the walls accented by hints of silver and
 platinum.  Your footsteps resound towards the heavens which each and every
 stride.  
 ~
-0 140296 0
+0 132104 0
 D0
 ~
 ~
 ~
 0 0 702
-R ERROR 700 100~
+D5
+~
+~
+~
+0 0 3001
+R GRALL 700 100~
 S
 #702
 {yGrand Hall{x~
@@ -419,7 +424,7 @@ Within the next expanse of the Grand Hall stands several well dressed
 individuals.  They seem like they may be able to provide any answers you may
 have during this time of self realization and understanding.  
 ~
-0 140296 0
+0 132104 0
 D0
 ~
 ~
@@ -492,7 +497,7 @@ from which you just came.  A man leans against the wall, arms crossed with a
 near defiant gaze.  At his feet, a trap door made from worn steel set within
 the floor leads to parts unknown.  
 ~
-0 140300 0
+0 132108 0
 D4
 ~
 ~
@@ -511,7 +516,7 @@ are formed of large stones.  Their surface bear many scratches and gouges,
 worn down in places and stained by the blood of unknown victims.  The floor
 is made of dust and dirt, several tracks and marks litter the ground.  
 ~
-0 8200 0
+0 8 0
 D0
 ~
 ~
@@ -547,7 +552,7 @@ place{c.  {wThe walls around you are f{Wo{wrmed of large {Wst{wo{Wnes{c.
 unknown v{mi{wct{mi{wms{c.  {wThe floor is made of dust and {ydirt{c,
 {wseveral tracks and marks litter the ground{c.  {x 
 ~
-0 139272 0
+0 131080 0
 D2
 ~
 ~
@@ -561,7 +566,7 @@ are formed of large stones.  Their surface bear many scratches and gouges,
 worn down in places and stained by the blood of unknown victims.  The floor
 is made of dust and dirt, several tracks and marks litter the ground.  
 ~
-0 139272 0
+0 131080 0
 D0
 ~
 ~
@@ -580,7 +585,7 @@ are formed of large stones.  Their surface bear many scratches and gouges,
 worn down in places and stained by the blood of unknown victims.  The floor
 is made of dust and dirt, several tracks and marks litter the ground.  
 ~
-0 139272 0
+0 131080 0
 D3
 ~
 ~
@@ -594,7 +599,7 @@ are formed of large stones.  Their surface bear many scratches and gouges,
 worn down in places and stained by the blood of unknown victims.  The floor
 is made of dust and dirt, several tracks and marks litter the ground.  
 ~
-0 139272 0
+0 131080 0
 D1
 ~
 ~
@@ -608,7 +613,7 @@ are formed of large stones.  Their surface bear many scratches and gouges,
 worn down in places and stained by the blood of unknown victims.  The floor
 is made of dust and dirt, several tracks and marks litter the ground.  
 ~
-0 8200 0
+0 8 0
 D0
 ~
 ~
@@ -642,7 +647,7 @@ are formed of large stones.  Their surface bear many scratches and gouges,
 worn down in places and stained by the blood of unknown victims.  The floor
 is made of dust and dirt, several tracks and marks litter the ground.  
 ~
-0 139272 0
+0 131080 0
 D2
 ~
 ~
@@ -656,7 +661,7 @@ are formed of large stones.  Their surface bear many scratches and gouges,
 worn down in places and stained by the blood of unknown victims.  The floor
 is made of dust and dirt, several tracks and marks litter the ground.  
 ~
-0 139272 0
+0 131080 0
 D3
 ~
 ~
@@ -670,7 +675,7 @@ are formed of large stones.  Their surface bear many scratches and gouges,
 worn down in places and stained by the blood of unknown victims.  The floor
 is made of dust and dirt, several tracks and marks litter the ground.  
 ~
-0 139272 0
+0 131080 0
 D0
 ~
 ~
@@ -689,7 +694,7 @@ are formed of large stones.  Their surface bear many scratches and gouges,
 worn down in places and stained by the blood of unknown victims.  The floor
 is made of dust and dirt, several tracks and marks litter the ground.  
 ~
-0 139272 0
+0 131080 0
 D1
 ~
 ~
@@ -703,7 +708,7 @@ are formed of large stones.  Their surface bear many scratches and gouges,
 worn down in places and stained by the blood of unknown victims.  The floor
 is made of dust and dirt, several tracks and marks litter the ground.  
 ~
-0 8200 0
+0 8 0
 D0
 ~
 ~
@@ -737,7 +742,7 @@ are formed of large stones.  Their surface bear many scratches and gouges,
 worn down in places and stained by the blood of unknown victims.  The floor
 is made of dust and dirt, several tracks and marks litter the ground.  
 ~
-0 139272 0
+0 8 0
 D2
 ~
 ~
@@ -751,7 +756,7 @@ are formed of large stones.  Their surface bear many scratches and gouges,
 worn down in places and stained by the blood of unknown victims.  The floor
 is made of dust and dirt, several tracks and marks litter the ground.  
 ~
-0 139272 0
+0 8 0
 D3
 ~
 ~
@@ -765,7 +770,7 @@ are formed of large stones.  Their surface bear many scratches and gouges,
 worn down in places and stained by the blood of unknown victims.  The floor
 is made of dust and dirt, several tracks and marks litter the ground.  
 ~
-0 139272 0
+0 8 0
 D0
 ~
 ~
@@ -784,7 +789,7 @@ are formed of large stones.  Their surface bear many scratches and gouges,
 worn down in places and stained by the blood of unknown victims.  The floor
 is made of dust and dirt, several tracks and marks litter the ground.  
 ~
-0 139272 0
+0 8 0
 D1
 ~
 ~
@@ -795,7 +800,7 @@ S
 {wAre you {mr{wead{my{c?{x~
 Now is the time for judgement.  Are you ready?
 ~
-0 9228 0
+0 1036 0
 D4
 ~
 ~
@@ -833,7 +838,7 @@ into the wall to allow Bob to be able to see all that enter the shop while
 he is in the kitchen.  A clean stone slate floor leads to the counter, where
 this artisans exquiset goods are ready to be sold.  
 ~
-0 140296 0
+0 132104 0
 D3
 ~
 ~
@@ -850,7 +855,7 @@ and polished wood.  A few bar patrons are scattered at various tables and
 chairs.  A well mannered barkeep in a clean well pressed suit tends to the
 customers.  
 ~
-0 140296 0
+0 132104 0
 D1
 ~
 ~
@@ -889,7 +894,7 @@ G 0 711 0
 G 0 726 0
 G 0 727 0
 G 0 728 0
-M 0 705 1 705 1
+M 0 705 2 705 1
 O 0 750 0 705
 M 0 800 30 706 30
 M 0 800 30 706 30
@@ -961,6 +966,7 @@ S
 #SHOPS
 703 0 0 0 0 0 100 65 0 23
 704 0 0 0 0 0 100 65 0 23
+705 0 0 0 0 0 100 100 0 23
 723 0 0 0 0 0 100 65 0 23
 724 0 0 0 0 0 100 65 0 23
 0
@@ -971,9 +977,9 @@ S
 #700
 if level $n > 5
 say you are ready to enter the realm. Farewell.
-mob mdelay 5 mob transfer $n 701
+mob mdelay 5 mob transfer $n 3001
 else
-mob echo Testing testing
+say You are not yet ready to depart, return upstairs for a bit longer.
 endif
 ~
 #701
@@ -989,7 +995,7 @@ emote slaps $n in the face.
 #700
 if level $n > 5
 room echo Why are you still around?
-room delay 5 room transfer $n 701
+room delay 5 room transfer $n 2
 else
 room echo Holy hell!
 endif

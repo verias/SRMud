@@ -1,0 +1,1120 @@
+#AREADATA
+Name {10 15} Fury    Circle of Druids~
+Builders None~
+VNUMs 8900 8999
+Security 9
+End
+
+
+
+#MOBILES
+#8900
+hierophant~
+the Hierophant~
+The old Hierophant of the holy grove is here, gathering hollies.
+~
+He is an ancient man, dressed in an old robe.  You feel a great energy
+almost pulsating from him.  He is a master druid.  His understanding of the
+world and the natural energy is matched only by a very few others who have
+achieved his rank.  It is the hierophants who draw the crowds of young
+druids who are anxious for the knowledge required to conquer their craft.  
+~
+Human~
+ABH DN 1000 S
+17 0 5d34+236 17d10+100 2d5+5 3
+3 3 3 5
+0 0 0 0
+9 9 1 76
+AHMV ABCDEFGHIJK M unknown
+#8901
+hierophant~
+the Hierophant~
+The old Hierophant of the holy grove is here, gathering ivy.
+~
+She is an ancient woman, dressed in an old robe.  You feel a great energy
+almost pulsating from her.  She is a master druid.  Her understanding of the
+world and the natural energy is matched only by a very few others who have
+achieved her rank.  It is the hierophants who draw the crowds of young
+druids who are anxious for the knowledge required to conquer their craft.  
+~
+Human~
+ABH D 1000 S
+17 0 5d34+236 17d10+100 2d5+5 7
+3 3 3 5
+0 0 0 0
+9 9 2 76
+AHMV ABCDEFGHIJK M unknown
+#8902
+elder druid~
+an elder druid~
+An elder druid stands here, watching the local flora and wildlife.
+~
+He looks ageless, as do all druids.  His grey beard contrasts strongly
+with his lack of wrinkles.  He is very learned in the ways of the druid. 
+His duties here include teaching of the novice druids.  
+~
+Human~
+AH N 1000 S
+15 0 5d31+200 60d10+100 2d4+2 3
+4 4 4 6
+0 0 0 0
+9 9 1 67
+AHMV ABCDEFGHIJK M unknown
+#8903
+elder druidess~
+an elder druidess~
+An elder druidess stands here, watching the local fauna and feeding rabbits.
+~
+She looks ageless, as do all druids.  She smiles a beautiful smile at
+you.  She is very learned in the ways of the druid.  Her duties here include
+teaching of the novice druids.  
+~
+Human~
+AH N 1000 S
+14 0 5d30+184 56d10+100 2d4+1 7
+4 4 4 6
+0 0 0 0
+9 9 2 63
+AHMV ABCDEFGHIJK M unknown
+#8904
+owl~
+an owl~
+An owl watches you and all other potential predators suspiciously.
+~
+A funny looking creature with wide eyes sits on a low branch before you. 
+Snow-white down surrounds his face.  His tan feathers are smooth and glossy.
+He rarely takes to flight.  
+~
+Human~
+AH T 0 S
+10 0 3d23+120 40d10+100 2d3+2 3
+6 6 6 6
+0 0 0 0
+9 9 2 45
+AHMV ABCDEFGHIJK M unknown
+#8905
+a doe~
+a doe~
+A doe looks at you with timid eyes.
+~
+She glances around anxiously for her mate.  You can see the fear in her
+eyes as she looks your way.  
+~
+Human~
+AH 0 0 S
+10 0 3d23+120 40d10+100 2d3+2 7
+6 6 6 6
+0 0 0 0
+9 9 2 45
+AHMV ABCDEFGHIJK M unknown
+#8906
+buck large~
+a buck~
+A large buck is here, protecting his territory.
+~
+This large animal would rather run but if he chooses to fight he is well
+equipped to gouge any foe.  
+~
+Human~
+A 0 0 S
+12 0 4d26+151 48d10+100 2d4+0 11
+5 5 5 7
+0 0 0 0
+9 9 1 54
+AHMV ABCDEFGHIJK M unknown
+#8907
+bunny rabbit~
+a small bunny~
+A small bunny is here, poking from bush to bush.
+~
+This bunny looks so adorable, you wished you had one just like this!
+~
+Rabbit~
+AH 0 0 S
+8 0 2d19+93 32d10+100 2d3+1 3
+7 7 7 7
+FH 0 0 0
+9 9 3 36
+AGHMV ABCDEFGHIJKP M unknown
+#8908
+snake~
+a harmless snake~
+A small snake slithers between the grass.
+~
+A small brightly colored snake appears to not even notice your presence. 
+He'll probably slither on by unless you step on him or something.  
+~
+Snake~
+A P 0 S
+8 0 2d19+93 32d10+100 2d3+1 3
+7 7 7 7
+0 0 L I
+9 9 0 36
+AGRXYc ADEFKLPQVX M unknown
+#8909
+druid~
+a druid~
+A druid is here in meditation.
+~
+He is here to learn as much about his craft as possible.  He has always
+felt a kinship with other living things, even the lowliest worm.  
+~
+Human~
+A DNU 1000 S
+14 0 5d30+184 56d10+100 2d4+1 3
+4 4 4 6
+0 0 0 0
+9 9 1 63
+AHMV ABCDEFGHIJK M unknown
+#8910
+druidess~
+a druidess~
+A druidess is here, peering at you.
+~
+She is here to learn to control the power that she feels from the living
+things around her.  
+~
+Human~
+A DU 1000 S
+12 0 4d26+151 48d10+100 2d4+0 3
+5 5 5 7
+0 0 0 0
+9 9 2 54
+AHMV ABCDEFGHIJK M unknown
+#8911
+adept nature~
+an adept of nature~
+An adept of nature stands here, quietly contemplating the power of the mother.
+~
+{xA smallish woman is before you.  Although she appears peaceful, you sense a 
+strong power in her.  Her eyes are a spring green and she is constantly 
+brushing wisps of chestnut brown hair out of them.  
+~
+Human~
+AB DH 0 S
+20 0 6d39+294 20d10+100 3d5+4 0
+2 2 2 4
+0 0 0 0
+9 9 2 90
+AHMV ABCDEFGHIJK M unknown
+#8912
+oso lobo~
+an oso-lobo~
+An oso-lobo glares at your trespass.
+~
+A rather terrifying creature glares at you.  He has the body of a grizzly
+bear but his head is more wolf-like.  Drool drips from his sharp fangs. 
+Large paws with dangerous looking claws are ready to swipe your abdomen if
+he can get to it.  
+~
+Wolfen~
+AB FJQZ 0 S
+28 0 9d55+470 28d10+100 3d5+9 0
+0 0 0 1
+AEFH A CI H
+9 9 0 126
+AGHMV ABCDEFGHIJKLPQUV M unknown
+#0
+
+
+
+#OBJECTS
+#8900
+fountain tree~
+a tree-shaped fountain~
+This fountain is in the shape of a tree.~
+stone~
+25 R 0 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#8901
+closet~
+a closet~
+There is a wooden closet tucked into a corner.~
+wood~
+15 0 0 0
+CFG A 0 0 0
+7 500 70 P
+E
+closet~
+It is large, yet gracefully made.  Tucked away on the top shelf is a
+small wooden box.  
+~
+0 0
+#8902
+jar~
+a spice jar~
+A small unlabeled spice jar is standing here.~
+glass~
+15 0 A 0
+AC AC -1 0 0
+7 1 70 P
+0 0
+#8903
+powder black~
+some black powder~
+Some strong-smelling black powder has been carelessly scattered here.~
+nothing~
+19 0 A 0
+BCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0 0 0 0
+7 1 14 P
+E
+powder~
+*        *         *
+      *      *       *
+****   AAAHHHH-TSHOU!   ****
+      *      *       *
+    *        *         *
+~
+0 0
+#8904
+kernel kernels~
+some small yellow kernels~
+Some small yellow kernels have been accidentally left here.~
+corn~
+19 0 AO 0
+BD 0 0 0 0
+7 1 14 P
+E
+kernel kernels~
+Look fairly dull...
+~
+0 0
+#8905
+wooden spoon~
+a wooden spoon~
+A wooden spoon is stained from years of use.~
+wood~
+5 0 AN 0
+C B BC 0 0
+5 1 25 P
+0 0
+#8906
+box wooden~
+a small wooden box~
+A small wooden box can be seen here.~
+wood~
+15 R 0 0
+BD 0 0 0 0
+0 0 0 P
+0 0
+#8907
+wand twig oak~
+an oak twig~
+A twig from an oak tree is here.~
+oak~
+3 0 AO 0
+CD C C 1 0
+8 3 40 P
+0 0
+#8908
+reflecting pool~
+a pool~
+A circular pool catches the reflections of the trees here.~
+stone~
+25 R 0 0
+EIJKN 0 0 0 0
+0 0 0 P
+0 0
+#8910
+staff wooden~
+a wooden staff~
+You see a wooden staff on the floor.~
+oak~
+5 K AN 0
+AB C BC ABC 0
+12 5 60 P
+E
+staff wooden~
+This oaken staff is very hefty but balanced.
+~
+0 0
+#8911
+robe brown cloth~
+a brown robe~
+Some brown cloth is on the floor.~
+cotton~
+9 K AD 0
+B B B 0 0
+17 5 85 P
+A
+12 10
+E
+robe brown cloth~
+This robe is rough, but appears quite durable.
+~
+0 0
+#8912
+robe green~
+a green robe~
+A piece of green cloth is on the floor.~
+cotton~
+9 0 AD 0
+B B B 0 0
+17 7 85 P
+A
+17 -1
+0 0
+#8913
+herbs bluish blue~
+some bluish herbs~
+Some bluish herbs are scattered here.~
+herbs~
+26 0 A 0
+11 3 33 0 0
+11 1 330 P
+0 0
+#8914
+herbs purplish purple~
+some purplish herbs~
+Some purplish herbs are scattered here.~
+herbs~
+26 0 A 0
+9 82 33 0 0
+9 1 270 P
+0 0
+#8915
+herbs black blackish~
+some blackish herbs~
+Some blackish herbs are scattered here.~
+herbs~
+26 0 A 0
+5 39 33 0 0
+17 1 510 P
+0 0
+#8916
+herbs grayish~
+some grayish herbs~
+Some grayish herbs are scattered here.~
+herbs~
+26 0 A 0
+5 39 0 0 0
+11 1 330 P
+0 0
+#8917
+herbs reddish~
+some {rreddish{x herbs~
+Some {rreddish{x herbs are scattered here~
+herbs~
+26 0 A 0
+12 39 0 0 0
+12 1 360 P
+0 0
+#8918
+herb orangish~
+some orangish herbs~
+Some orangish herbs are scattered here.~
+herbs~
+26 0 A 0
+5 509 33 0 0
+9 1 270 P
+0 0
+#8919
+herbs pinkish~
+some pinkish herbs~
+Some pinkish herbs are scattered here.~
+herbs~
+26 0 A 0
+5 33 61 0 0
+12 1 360 P
+0 0
+#8920
+pendant green shimmering~
+a shimmering green pendant~
+A shimmering green pendant catches your eye.~
+emerald~
+11 0 AC 0
+0 0 0 0 0
+14 5 150 P
+A
+12 10
+0 0
+#8921
+lemonade glass~
+a glass of cold lemonade~
+A glass of cold lemonade looks refreshing.~
+glass~
+17 0 A 0
+AB AB BC 0 0
+7 1 21 P
+0 0
+#8923
+rose fire~
+a fire rose~
+A single long stem blossoms a flame which holds the shape of a rose.~
+nothing~
+3 AFIK AO 0
+CE B B 273 0
+20 2 100 P
+0 0
+#8924
+reflecting pool~
+a pool~
+A circular pool catches the reflections of the trees here.~
+stone~
+25 R 0 ABEFIJ
+0 0 0 0 0
+0 0 0 P
+0 0
+#8925
+fallen log hollow~
+a hollow log~
+This fallen log is now hollow.~
+wood~
+29 R 0 0
+-1 0 0 8905 0
+0 0 0 P
+0 0
+#8926
+claw bear~
+a bear's claw~
+A bloody bear claw is attached to a tarnished silver chain.~
+bone~
+27 BG AC 0
+D D D A 0
+28 2 600 P
+A
+1 1
+0 0
+#0
+
+
+
+#ROOMS
+#8901
+Reflecting Pool~
+You are looking at a magnificent pool in the middle of a peaceful grove. 
+The still water catches the reflection of the towering oaks which form a
+near perfect circle around it.  The energy of living things can be felt very
+strongly here.  A few druids sit in quiet meditation near the edge of the
+pool.  To the east you can just make out a large mansion nestled amongst the
+trees.  To the north, south and west you see only the grove teaming with
+wildlife.  
+~
+0 0 3
+E
+oak~
+Towering above you are huge oak trees.  
+~
+E
+pop~
+Poplar trees grow side by side with the huge oaks.  
+~
+D0
+~
+~
+0 0 8902
+D1
+~
+~
+0 0 8919
+D3
+~
+~
+0 0 8903
+S
+#8902
+Druid's Grove~
+You are standing amongst the towering oaks and poplars in an ancient
+grove.  You feel a profound peace here.  From where you are, you can look
+south at a beautiful pool.  The grove continues in all directions.  To the
+south-east you see a shimmering mansion nestled amongst the trees.  
+~
+0 0 3
+E
+oak~
+Towering above you are huge oak trees.  
+~
+E
+poplar~
+Poplar trees share the landscape with the giant oaks.  
+~
+D1
+~
+~
+0 0 8906
+D2
+~
+~
+0 0 8901
+D3
+~
+~
+0 0 8904
+S
+#8903
+A clearing in the woods~
+You are standing at the edge of a beautiful grove of oak trees.  All
+around you the wildlife cavorts freely.  Druids in many colored robes walk
+quietly by.  To the east you see a large reflecting pool.  Past the pool is
+a rather large mansion.  This is a very restful place.  A songbird sings on
+a low branch above you.  Through the trees to the west can be seen a small
+path.  Though small, the path looks to be a decent thoroughfare for someone.
+~
+0 4 3
+E
+tablet~
+This zone has been populated by Merc.  1993
+~
+E
+sonbird~
+~
+E
+songbird~
+A bright yellow and green fellow whistles melodic song.  
+~
+D0
+~
+~
+0 0 8904
+D1
+~
+~
+0 0 8901
+S
+#8904
+Druid's grove~
+You are standing amongst the ancient oaks and poplars of the druid's
+sacred grove.  You feel calm and relaxed here, as if great burdens have been
+lifted from your shoulders.  From here, you can see a pool to the
+south-east.  To the south and west you see only a continuation of the
+forest.  To the north you see a large fallen log.  It has decayed away over
+the years leaving it hollow.  
+~
+0 4 3
+E
+tree~
+A large tree fell here, perhaps centuries ago.  It has been hollowed out
+by the action of weather, time and insects.  
+~
+D1
+~
+~
+0 0 8902
+D2
+~
+~
+0 0 8903
+S
+#8905
+Inside the hollow log~
+You are inside a huge hollow log.  The tree that it came from was very
+large indeed.  The log is tall enough for even the largest giant to stand
+straight.  The smell of rotting oak is very strong here.  There is also
+another, unfamiliar odor.  Something has made this log it's lair.  You feel
+and smell it's presence long before you can see it.  
+~
+0 1048577 3
+D2
+~
+~
+0 0 8904
+S
+#8906
+Druid's grove~
+Seemingly out of place, a great mansion is hidden here amongst the trees.
+It has been well maintained throughout the years and its grandeur is
+impressive.  A grove of ancient oaks and poplars continues to the north and
+west of you.  To the south-west you can see a large pool with several robed
+figures sitting near it.  The road continues through the grove to the west
+and north through the forest.  
+~
+0 0 3
+E
+mansion~
+The mansion is a sprawling, two-story affair with three wings, where the top
+of one wing serves as balcony. The walls look as marble would do, if marble
+changed color slowly, continuously, through the entire spectrum. There are
+large windows all over the house.
+~
+D0
+~
+~
+0 0 16045
+D3
+~
+~
+0 0 8902
+S
+#8907
+The holy grove~
+You are standing amidst the tall, majestic trees in the southern end of the
+holy grove. Paths lead north and east. To the east, You can see a wide, open
+field, sloping gently down towards a bright, glittering lake. Somehow, here
+you feel an inexplicable happiness, as if the world's troubles no longer
+really matter to you.
+~
+0 32772 3
+E
+mansion~
+The mansion is a sprawling, two-story affair with three wings, where the top
+of one wing serves as balcony. The walls look as marble would do, if marble
+changed color slowly, continuously, through the entire spectrum. There are
+large windows all over the house.
+~
+S
+#8908
+The sunny field~
+You are standing in the middle of a wide, summery, sunlit field.  There
+is a fragrance of spring in the air, a sound of summer and a feeling of
+eternal Saturday afternoon.  To the south is a clear, sparkling lake, and to
+the north and west is the holy grove.  In the wood's edge, to the east, is a
+stately mansion, shimmering softly through the colors of the rainbow.  You
+feel as if you could spend the rest of your life here, lying on your back
+and looking at the patterns of the clouds as they gently drift across the
+sky.  
+~
+0 32780 2
+E
+mansion~
+The mansion is a sprawling, two-story affair with three wings, where the top
+of one wing serves as balcony. The walls look as marble would do, if marble
+changed color slowly, continuously, through the entire spectrum. There are
+large windows all over the house. There is a terrace in front of the house,
+next to the low wing, which is almost completely windows.
+~
+S
+#8909
+Meditation Lawn~
+You are standing on an immaculately manicured lawn, the kind you get only
+after many years of meticulous work.  The air around you appears to hum with
+a peaceful energy.  Several druids in many different colored robes are
+quietly meditating here.  A statue of a tree continuously drips water from
+its leaves like a fountain.  There is a winding stone path leading from the
+woods edge to the north to the softly shimmering, rainbow-colored mansion to
+the south.
+~
+0 0 2
+E
+fountain~
+A tree is carved from the same shimmering material as was used to make
+the mansion to the south.  Miraculously, it seems, water trickles from it's
+leaves.  The water is cold and refreshing.  
+~
+E
+mansion~
+The mansion is a sprawling, two-story affair with three wings, where the
+top of one wing serves as balcony.  The walls look as marble would, if
+marble changed color slowly, continuously, through the entire spectrum. 
+There are large windows all over the house.  
+~
+D2
+The ornate door of a shimmering mansion is here.  
+~
+~
+1 0 8910
+S
+#8910
+The foyer~
+You are standing in the foyer of a strange mansion.  The wide double
+doors to a beautiful lawn are to the north, flanked by large windows.  The
+walls are panelled in oak and hung with strange paintings.  A rich green
+carpet is under your feet.  There is a door to the south.  
+~
+0 12 0
+E
+painting paintings~
+They are strange indeed, works of breathtaking precision depicting
+obviously impossible scenes, all wearing black costumes (including hats), a
+lady that is blue from the waist up, some pieces of plankwood that seem to
+be melting away like snow, or a night sky with a dove-shaped hole of bright
+day sky in the middle.  A sky filled with headless men' 
+~
+E
+door~
+Wide oak doors stand to the north.  They run from the floor, clear to the
+vaulted ceilings.  Large windows are on either side of them.  
+~
+E
+windows~
+Looking through the huge windows you see a peaceful looking lawn and a
+fountain, in the shape of a tree.  
+~
+D0
+~
+~
+1 0 8909
+D2
+~
+~
+1 0 8911
+S
+#8911
+The hallway~
+You are at the north end of a hallway, tastefully decorated with oak
+panelling.  A thick dark green carpet covers the floor.  The hallway leads
+south, and there is a door to the east.  To the north is a door leading into
+a peaceful meditation lawn.  
+~
+0 8 0
+D0
+~
+~
+1 0 8910
+D1
+~
+~
+1 0 8912
+D2
+~
+~
+0 -1 8913
+S
+#8912
+Guest Room~
+You are in one of the guest rooms of the mansion.  The room is decorated
+in soft shades of green.  On the south wall is a large mural of a lone oak
+tree.  There is a large four-poster bed and a matching set of sofas,
+easy-chairs and a coffee table.  A window in the east wall looks out to the
+edge of the grove.  
+~
+0 8 0
+D3
+~
+~
+1 0 8911
+S
+#8913
+The hallway~
+You are standing in the south end of the hallway.  At the north end of
+the hallway a door leads out into a peaceful meditation lawn.  There are
+doors in the elegant oak-panelled walls to the south, east and west.  
+~
+0 8 0
+D0
+~
+~
+0 -1 8911
+D1
+~
+~
+1 0 8914
+D2
+~
+~
+1 0 8915
+D3
+~
+~
+1 0 8916
+S
+#8914
+Guest Room~
+You are in one of the guest rooms in the druid's mansion.  A huge,
+overstuffed bed looks very inviting.  All of the wood is the richest
+mahogany and the room was a comforting glow.  To the east, heavy brown
+curtains are pulled away from wide windows revealing a peaceful view into
+the grove.  
+~
+0 8 0
+E
+bed~
+A mahogany four-poster bed takes up most of the room.  The mattress is
+over-stuffed and looks quite soft.  A soft green comforter covers the bed.  
+~
+E
+comforter~
+A huge comforter made of very soft green material will keep you warm on
+even the coldest of nights.  
+~
+D3
+~
+~
+1 0 8913
+S
+#8915
+The kitchen~
+You are standing in the middle of a huge kitchen.  It is well stocked
+with dried vegetables and roots.  You can see no traces of meat anywhere. 
+Sometimes the mansion is host to great numbers of druids who come here to
+learn their craft.  This kitchen is called on to produce great feasts at a
+moments notice.  
+~
+0 8 0
+E
+roots~
+Piles of dried vegetables and roots are neatly sorted on the counter.  
+~
+E
+vegetables~
+Piles of dried vegetables and roots are neatly sorted on the counter.  
+~
+D0
+~
+~
+1 0 8913
+D3
+~
+~
+1 0 8918
+S
+#8916
+The meeting room~
+This is a large airy room adjoining the conservatory.  This mansion was
+long ago donated to a guild of druids for the purpose of education.  Druids
+come from all over to learn from the great Hierophants who inhabit this huge
+home.  This room is used for study and discussion.  It is comfortably
+adorned with overstuffed pillows in every shade of green.  
+~
+0 8 0
+E
+pillows~
+Large pillows are arranged along each wall of the room.  They are large
+enough to recline on.  Each pillow is a slightly different shade of green.  
+~
+D1
+~
+~
+1 0 8913
+D2
+~
+~
+1 0 8918
+D3
+~
+~
+1 0 8917
+S
+#8917
+The conservatory~
+You are standing in the middle of an immense greenhouse.  Above you the
+sky is visible through the glass ceiling.  On clear nights this room is full
+of druids eager to study the heavens.  During the day green light filters in
+slantwise through the plants, giving the room a subtropical ambience.  It is
+not really hot in here, though, rather a pleasantly warm temperature. 
+Exotic plants from distant locations are tenderly cared for here.  There are
+doors to the south and east.  
+~
+0 520 0
+E
+plants~
+Plants of all types and shades are sampled here.  Bright red bonchita
+flowers fill the room with a pungent, yet pleasant smell.  Yellow
+bourganvilla vines climb up the side of the door.  
+~
+E
+ceiling~
+The glass that encloses this room is so clean that it's barely noticible.
+The room has a wide-open feeling, as if the sky is part of the construction.
+~
+D1
+~
+~
+1 0 8916
+D2
+~
+~
+1 0 8919
+S
+#8918
+The dining hall~
+This is the druid's dining hall where legendary feasts are common.  There
+is a large solid oak table, seating at least 24, with matching heavy wooden
+chairs.  The oak panel walls are filled with paintings.  There are doors to
+the north and east.  To the west, a set of wide, double doors opens out onto
+the sunlit terrace.  
+~
+0 8 0
+E
+chairs~
+The back of each of these grand chairs is carved into the form of a tree.
+Each is unique and quite stunning.  
+~
+E
+table~
+A gigantic table looks as if it's been carved from a single oak.  It has
+been polished to a warm glow.  
+~
+E
+painting paintings~
+There are many, many beautiful paintings of famous dragons of history and
+literature. There is a big one of Smaug, a group picture of Cuspidorian Toxic
+Dragons, a rather fearsome picture of Norse Chaos incarnate, a grainy black-
+and-white photograph of Vorgulremik the Steel Dragon, a romantic picture of 
+Dalvenjah the Mindijaran and Allan the man become dragon. There are three
+empty frames labeled 'The Chimerical', 'The Mythical' and 'The Hypothetical',
+A panoramic picture of Strabo flying between the worlds dominate one wall, 
+while a dragons-eye view of Pern (with dragons in the foreground, of course) 
+fills another. There even are a few rare medieval renditions of the great 
+beast of the Revelation. Over the head of the table hangs a rather modest 
+portrait of a silver Dragon, sparkling with blue lightening, looking amused.
+~
+D0
+~
+~
+1 0 8916
+D1
+~
+~
+1 0 8915
+D3
+~
+~
+1 0 8919
+S
+#8919
+The terrace~
+You are standing on a sunlit terrace in front of the Druid mansion.  To
+the west, there is a splendid view of a quiet grove filled with wildlife. 
+To the north is an impressive conservatory, it's large windowpanes
+shimmering with weird and wonderful colors.  A double door leads into the
+house proper to the east.  It is warm and calm here.  There is a small table
+and a set of chairs here.  A cold glass of lemonade is on the table.  
+~
+0 12 0
+E
+table~
+A small table has been lovingly carved of some exotic rose-colored wood.  
+~
+E
+chairs~
+Rose-colored wooden chairs match the table here.  
+~
+D0
+~
+~
+1 0 8917
+D1
+~
+~
+1 0 8918
+D3
+~
+~
+0 0 8901
+S
+#8950
+At the edge of the grove~
+You are standing at the southern entrance of a beautiful grove of trees.
+This looks like a safe place to recover from the wounds of adventuring.  The
+air is cool and refreshing here.  The road is narrow to the north through
+the grove.  It widens to the south through a thick forest.  
+~
+0 0 3
+D0
+A faint trail leads deeper into the grove.
+~
+~
+0 -1 8951
+D2
+~
+~
+0 0 16046
+S
+#8951
+Inside the grove~
+You are on a forest trail.  To the north is a large pool of water while
+to the south the trail continues to bisect the forest.  
+~
+0 0 3
+D2
+A faint trail heads towards the eastern road.
+~
+~
+0 -1 8950
+S
+#8999
+The fog~
+You are in a grey fog, falling, screaming in pain as you realize
+that you are being torn to nothing, atom by atom, falling and falling 
+and falling ...
+...
+.
+~
+0 4 0
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 8900 spec_cast_cleric Load to: the Hierophant
+M 8901 spec_cast_cleric Load to: the Hierophant
+M 8902 spec_cast_cleric Load to: an elder druid
+M 8903 spec_cast_cleric Load to: an elder druidess
+M 8908 spec_poison Load to: a harmless snake
+M 8909 spec_cast_cleric Load to: a druid
+M 8910 spec_cast_cleric Load to: a druidess
+M 8911 spec_cast_cleric Load to: an adept of nature
+S
+
+
+
+#RESETS
+D 0 8909 2 0
+D 0 8910 0 0
+D 0 8910 2 0
+D 0 8911 0 0
+D 0 8911 1 0
+D 0 8912 3 0
+D 0 8913 1 0
+D 0 8913 2 0
+D 0 8913 3 0
+D 0 8914 3 0
+D 0 8915 0 0
+D 0 8915 3 0
+D 0 8916 1 0
+D 0 8916 2 0
+D 0 8916 3 0
+D 0 8917 1 0
+D 0 8917 2 0
+D 0 8918 0 0
+D 0 8918 1 0
+D 0 8918 3 0
+D 0 8919 0 0
+D 0 8919 1 0
+O 0 8924 0 8901
+O 0 8908 0 8901
+M 0 8900 1 8901
+E 0 8912 0 5
+G 0 8913 0
+G 0 8918 0
+G 0 8915 0
+M 0 8901 1 8901
+E 0 8911 0 5
+G 0 8914 0
+G 0 8919 0
+M 0 8902 1 8902
+G 0 8917 0
+M 0 8906 1 8902
+M 0 8903 1 8903
+E 0 8910 0 16
+G 0 8916 0
+E 0 8920 0 4
+M 0 8905 1 8903
+M 0 8907 1 8904
+O 0 8925 0 8904
+M 0 8912 1 8905
+E 0 8926 0 4
+M 0 8904 1 8906
+M 0 8908 1 8906
+M 0 8912 1 8909
+O 0 8900 0 8909
+O 0 8901 0 8912
+O 0 8906 0 8912
+P 0 8907 0 8906
+M 0 8910 2 8913
+G 0 8916 0
+O 0 8901 0 8914
+O 0 8906 0 8914
+M 0 8909 2 8916
+G 0 8913 0
+O 0 8923 0 8917
+M 0 8909 2 8919
+G 0 8917 0
+O 0 8921 0 8919
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

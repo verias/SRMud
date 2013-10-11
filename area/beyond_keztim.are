@@ -1,0 +1,847 @@
+#AREADATA
+Name {20 25} Gith    Beyond Keztim~
+Builders None~
+VNUMs 19300 19330
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#19300
+spider baby black widow~
+a small black widow~
+A small black widow spider crawls closer to you.
+~
+Something small and quick darts across a shimmer of web hanging in the air.  
+It makes its way towards you and you can see it scurry hurriedly on its 
+eight legs.  Its dark red eyes point directly towards you, and in the final 
+moments before it attacks, you can vaguely make out a red hourglass on its 
+back.  
+~
+human~
+AB DFJZ -300 0
+12 2 4d26+151 12d10+100 2d4+0 crush
+5 5 5 7
+AFG BLOPQ M CEHN
+(null) (null) male 54
+ABHMPV ABCDEFGHIJK small unknown
+#19301
+spider medium black widow~
+a big black widow~
+A big black widow spider crawls toward you.
+~
+Something quick moves across a glimmer of white strands floating in
+mid-air.  It moves around the edge of the glimmer and spits something down
+onto the ground, which promptly starts sizzling.  Once again moving around
+the edge of the glimmer, it makes its way into the darkness and drops down
+in front of you.  Only now do you notice the red hourglass on its back.
+~
+human~
+AB DFJZ -650 0
+17 0 5d34+236 68d10+100 2d5+5 crush
+3 3 3 5
+AFG BLOPQ M CEHN
+(null) (null) female 76
+ABHMPV ABCDEFGHIJK medium unknown
+#19302
+spider large black widow~
+a large black widow~
+A large blade widow spider crawls closer to you.
+~
+Something large makes it way across an invisible support.  Without
+hesitation, it drops down onto the ground and heads straight for you.  Its
+dark red eyes glow with an furious hatred of all things not native
+to these caverns.  It spits something at you, and it lands just in front of
+you dissolving a little patch of the ground.  As it moves closer the
+red hourglass on its back comes into view.
+~
+human~
+ABF DFJZ -1000 0
+19 0 6d37+274 76d10+100 2d5+6 crush
+2 2 2 4
+AFG BLOPQ M CEHN
+(null) (null) either 85
+ABHMPV ABCDEFGHIJK large unknown
+#19303
+ghoul human decay creature slave~
+a decaying human~
+A decaying human moves towards you, incredibly agile for something so decrepit.
+~
+This creature's flesh is slowly crawling off its form, the decay seeming to 
+have been in effect for quite some time already.  It lets out a low moan 
+that carries the essence of its despair as it shambles closer to you.  
+Something blurry moves about at its side, and when it lashes the object 
+feebly it is recognizable as a chain whip.  
+~
+human~
+ABF BFQZ -750 0
+20 2 6d39+294 20d10+100 3d5+4 claw
+2 2 2 4
+0 BLPQR I CEHOS
+(null) (null) female 90
+AHIMV ABCDEFGHIJK medium unknown
+#19304
+keztim commander marius black figure~
+Commander Marius~
+Marius sneaks here, waiting for his next victim.
+~
+The stealthy movements of Marius keep him well hidden as he advanced towards 
+his victim with murder on his mind.  Judging by the way he moves and the way 
+he holds his weapons, he is a skilled fighter.  His long tail snakes behind 
+him as he lunges towards his prey, red eyes glinting for blood.  
+~
+unique~
+ABF BDFQZ -800 0
+22 2 7d42+334 22d10+100 3d5+5 slash
+1 1 1 3
+BEFIJKMN Q FL HOS
+(null) (null) female 99
+AGHMV ABCDEFGHIJKPUV medium unknown
+#19305
+vermin soldier~
+a vermin soldier~
+A vermin soldier moves towards you with hatred in its red eyes.
+~
+A hunched figure with gleaming red eyes stalks towards you.  Long
+gleaming claws spring out from it's hands, slashing the air, as the creature,
+the rat, continues closer.  The fanatical shine in its eye says that this
+creature will go all out in a fight.
+~
+unique~
+A BFZ -500 0
+18 0 6d36+255 18d10+100 2d5+6 slash
+3 3 3 5
+DFIJKN Q FL HOS
+(null) (null) female 81
+AGHMV ABCDEFGHIJKPUV medium unknown
+#19306
+clawed vermin~
+a clawed vermin~
+This vermin lashes about with its claws, clearly mad at your intrusion.
+~
+A hunched figure with gleaming red eyes charges at you.  Its claws
+slash through the air, ripping chunks of the cavern walls onto the floor. 
+It grunts then squeaks and moves in with even more vehemence.  It does not
+take lightly to those who invade its home.
+~
+unique~
+A FZ -500 0
+14 0 5d30+184 14d10+100 2d4+1 slash
+4 4 4 6
+FIJMN Q L HOS
+(null) (null) female 63
+AGHMV ABCDEFGHIJKPUV medium unknown
+#19307
+vermin giant ogre~
+a giant vermin ogre~
+A giant hulking mass, this vermin orgre moves towards you.
+~
+You are looking upon one of the rarest forms of the rat, the rat ogre.
+Twelve feet in size and four feet across, this monster is gigantic.  It
+grins evilly, baring it razor sharp teeth, and slowly moves towards you.
+It moves rather slowly, but you are sure that it does massive damage.
+~
+unique~
+A Z -700 0
+20 0 6d39+294 20d10+100 3d5+4 slash
+2 2 2 4
+CIKMN Q FL HOS
+(null) (null) female 90
+AGHMV ABCDEFGHIJKUV giant unknown
+#0
+
+
+
+#OBJECTS
+#19300
+deertrap~
+a deer~
+A deer is grazing by the path.~
+nothing~
+warp_stone R 0
+A 0 0 0 0
+1 1 2 P
+E
+!trap!~
+A deer on the path is startled by your movement.
+It dashes across past you, and disappears into the bush.
+~
+#19301
+bone arm~
+{Wan ashen white bone{x~
+{WAn ashen white arm bone sticks out of the ground.{x~
+bone~
+trash 0 0
+0 0 0 0 0
+1 1 1 P
+#19302
+bone leg~
+{Wan ashen white leg bone{x~
+{WAn ashen white leg bone sticks out of the ground.{x~
+bone~
+treasure 0 0
+0 0 0 0 0
+1 0 10 P
+#19303
+chain whip~
+{xa chain whip{x~
+{xA chain whip with rusting links lies here.{x~
+iron~
+weapon 0 AN
+flail 5 7 jab 0
+18 2 90 P
+#19304
+assassin dagger~
+an assassin's dagger~
+A dagger dripping with blood gleams in the light.~
+steel~
+weapon EGJ AN
+bow 5 8 crunch D
+20 2 100 P
+A
+19 1
+A
+13 10
+#19305
+keztim fighting claws~
+keztim fighting claws~
+A gleaming claw dripping with blood lies here on the ground.~
+steel~
+weapon 0 AN
+sword 4 8 lunge 0
+16 2 80 P
+A
+18 1
+E
+claw~
+{xA lone fighting claw drips with {rblood{x.  Its three pronged glove, though
+thoroughly used and abused still looks like it could be workable.  The long
+claws that spring out from the glove look razor sharp and ready to kill.{x
+~
+#19306
+keztim boots~
+keztime assassin boots~
+A pair of boots dark as night are here on the ground.~
+hide~
+armor J AG
+AB AB AB 0 0
+18 1 90 A
+A
+2 1
+#19307
+medallion rat~
+a medallion of the rat~
+A medallion with an engraving of a giant horned rat is here.~
+gold~
+protect A AC
+AC AC AC A 0
+20 1 315 P
+A
+19 1
+#19308
+gold golden brick~
+a golden brick~
+A golden brick lies here, reflecting any sunlight that reaches it.~
+gold~
+treasure R AO
+0 0 0 0 0
+20 10 4000 P
+A
+18 2
+#19309
+a stone club~
+a stone club~
+A club of stone and wood lies here.~
+stone~
+weapon 0 AN
+staff 5 7 claw 0
+18 0 90 P
+A
+18 1
+#0
+
+
+
+#ROOMS
+#19300
+A Trodden Path~
+You make your way along a well-trodden path of dirt.  Bordering the path
+on each side, you see the beginnings of forest growth.  Birds in branches
+above you, chirp cheerily, and animal chatter surrounds you.  The path forks
+here to the north and east.  
+~
+0 4 2
+D0
+~
+~
+~
+0 0 19301
+D1
+~
+~
+~
+0 0 16076
+M 0 H 0
+S
+#19301
+A Fork In The Path~
+Approaching a fork in the path, you come to a confused stop.  One path
+branches off to the west, while the others branch east and south.  All look
+similar in terrain, but the west path seems darker, and somehow more silent.
+At the fork, you see a sign post stuck in the ground.  
+~
+0 0 2
+E
+sign~
+Looking up the sign in the road, you see two arrows, each pointing in the
+direction of one of the paths, left and right.  Scribbled beneath, obviously
+not part of the original sign, are a few words.
+ 
+               /------      ------\
+               Trouble       Safe
+~
+D1
+~
+~
+~
+0 0 19302
+D2
+~
+~
+~
+0 0 19300
+D3
+~
+~
+~
+0 0 19303
+M 0 H 0
+S
+#19302
+A Trodden Path~
+You make your way along a forest-fringed path.  Animals skitter nervously
+as you approach, and disappear in the undergrowth.  The brilliant,
+enlightened songs of birds flow merrily through the air, creating a wondrous
+orchestra of music.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 19305
+D3
+~
+~
+~
+0 0 19301
+M 0 H 0
+S
+#19303
+A Trodden Path~
+The forest is thick here, and trees reach over the path on each side,
+casting a somber shade.  The animals of the forest seem curiously quiet and
+furtive in their behaviour.  A mourning dove coos plaintively in the
+distance, a sad reminder of loved ones long gone.  The path continues to the
+north, and east.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 19304
+D1
+~
+~
+~
+0 0 19301
+M 0 H 0
+S
+#19304
+A Trodden Path~
+{Y{xThe path continues to the north, looking even more trodden and packed
+down.  Unlike before, you don't see any animal tracks in the earth, and if
+you pause to listen, the songs of the birds seem to have faded down to a
+single melancholy tune.  It flows somberly through the air, and your spirit
+seems to slow down.  {x 
+~
+0 0 2
+D0
+~
+~
+~
+0 0 19307
+D2
+~
+~
+~
+0 0 19303
+M 0 H 0
+S
+#19305
+A Trodden Path~
+{Y{xAs you walk on down the path, a little {Bblue bird{Y {xflits down
+from a branch and lands on your shoulder.  He looks at you quizzically and
+then smiles as well as a bird can, and starts to chirp happily.  From the
+branches of the surrounding trees come birds of all colors{x; a {Rrobin{Y
+{xsoars overhead; a {mpurple finch{x glides next to you and down the path; a
+{Wpure as snow dove {Y{xcoos high above and flies off towards the sun.  {x 
+~
+0 0 2
+D0
+~
+~
+~
+0 0 19306
+D2
+~
+~
+~
+0 0 19302
+M 0 H 0
+S
+#19306
+A Trodden Path~
+Along the forested path, you encounter a wide menagerie of gentle beasts.
+Deer, grazing on sweet grass in a clearing, gaze mildly and unafraid as you
+pass.  A small woodpecker hops across a branch and after taking a brief look
+at you, continues his pecking.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 4301
+D2
+~
+~
+~
+0 0 19305
+M 0 H 0
+S
+#19307
+A Trodden Path~
+As if the path has crossed an invisible boundary, the lively forest is
+finally and suddenly muted.  There is no noise and no motion but those
+emitted by yourself.  The path continues through the eerie forest, to the
+south.  There is a hole at your feet.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 19304
+D5
+The hole is extremely dark.  It looks to be big enough to fit a large
+human.  The opening seems to be almost vertical, with just enough of a slope
+to prevent falling straight down.  
+~
+hole~
+~
+0 0 19308
+M 0 H 0
+S
+#19308
+The Vertical Shaft~
+As you travel through the shaft-like hole, you notice the lack of visible
+light in either direction.  The beginnings of an earthen smell creeps up
+from below, mingling with the sweet, fresh air from above.  In the distance,
+the muted noises of surface animals can barely be heard.  Looking upwards,
+you suddenly realize why there is no light from above.  The way up is
+somehow blocked by a magical force.  
+~
+0 521 0
+D5
+~
+~
+~
+0 0 19309
+M 0 H 0
+S
+#19309
+The Vertical Shaft~
+Loose soil tumbles down from above as this spiraling tunnel of earth works 
+its way steadily deeper and deeper into the bowels of the earth.  Dampness 
+seeps through the dirt giving everything an unpleasant sheen which is 
+reminiscent of a rotting corpse.  No sounds reach one's ears here further 
+reinforcing that the opening leads to a tomb.  
+~
+0 521 0
+D4
+~
+~
+~
+0 0 19308
+D5
+~
+~
+~
+0 0 19310
+M 0 H 0
+S
+#19310
+The Vertical Shaft~
+Continuing along the vertical shaft, you notice the air is laden with the
+musk of the earth.  The air is thick with moisture and it is becoming more
+and more difficult to breathe.  Small scaled insects scurry by your feet,
+attempting to avoid getting crushed by your passing through the narrow
+shaft.  
+~
+0 521 0
+D4
+~
+~
+~
+0 0 19309
+D5
+~
+~
+~
+0 0 19311
+M 0 H 0
+S
+#19311
+The Vertical Shaft~
+This slanted chute comes to an end just below.  The smell of damp earth 
+pervades the air, overwhelming to the most delicate of noses.  A still 
+silence fills the air, only broken by the sound of constantly dripping 
+water.  It looks possible to climb upwards from this point.  
+~
+0 525 0
+D4
+~
+~
+~
+0 0 19310
+D5
+~
+~
+~
+0 0 19312
+M 0 H 0
+S
+#19312
+An Earthen Landing~
+Earth has been cleared from this chamber allowing for several people to 
+gather here at any time.  Corridors leads off in all the cardinal directions 
+and a hole has been dug into the floor with crude steps leading down into it 
+as well as an opening up into the roof.  From this gaping opening downwards, 
+glints and gleams shine up to this chamber as light flitters down that hole. 
+ The smell of the damp ground is strong here as well as something akin to 
+decay.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19316
+D1
+~
+~
+~
+0 0 19313
+D2
+~
+~
+~
+0 0 19315
+D3
+~
+~
+~
+0 0 19314
+D4
+~
+~
+~
+0 0 19311
+D5
+~
+~
+~
+0 0 19321
+M 0 H 0
+S
+#19313
+An Earthen Cavern~
+Walls glistening with trickling water can be found to the east, south, and 
+north.  The start of pairs of stalagmites and stalactites has begun to form 
+from the minerals in the constantly dripping water.  A hole has been cut 
+into the ceiling here, with wide lines carved into the northern rock face to 
+provide hand and foot holds.  
+~
+0 9 0
+D3
+~
+~
+~
+0 0 19312
+D4
+~
+~
+~
+0 0 19319
+M 0 H 0
+S
+#19314
+An Earthen Cavern~
+The steady trickle of water comes from the ceiling above, some of which 
+rains down on you as you linger here.  Flat rectangular grooves have been 
+sunk into the wall to allow easier passage upwards, though the hole they 
+lead into has a cold, stygian quality.  This chamber opens up to the east, 
+though it is impossible to tell what lies in that direction due to the 
+blackness that swallows everything.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 19312
+D4
+~
+~
+~
+0 0 19320
+M 0 H 0
+S
+#19315
+An Earthen Cavern~
+A hole that has crude stairs leading into its depths can be seen in along 
+the southern wall, obviously of poor construction but solid enough.  The 
+small chamber opens up to the north, but it is difficult to see very far in 
+that direction due to the fact that there is a large demand for light in 
+this hole.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19312
+D5
+~
+~
+~
+0 0 19318
+M 0 H 0
+S
+#19316
+An Earthen Cavern~
+A hole in the corner of this rounded alcove leads downward via some stairs 
+cut into the cavern's rock, their design crude but functional.  Water 
+trickles over the walls, causing the rock to glisten and reflect any light 
+with a soft shimmer.  The gaping mouth that could be considered the 
+entrance, or exit, can be found to the south.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 19312
+D5
+~
+~
+~
+0 0 19317
+M 0 H 0
+S
+#19317
+A Hidden Cache~
+The floor is littered with trash and forgotten treasures all mixed together 
+in a mess that is difficult to move through.  A film of dirt covers 
+everything within this small pit, making it difficult to determine exactly 
+what is worthless and what is not.  Crude stairs cut from the dirt and rock 
+of the cavern lead up from this thieve's den.  
+~
+0 9 0
+D4
+~
+~
+~
+0 0 19316
+M 0 H 0
+S
+#19318
+A Hidden Cache~
+The sound of flapping of wings fills the air, seeming to originate from the 
+farthest corner of this dark chamber.  A single beam of light filters in 
+from a hole above, illuminating the poorly carved but serviceable stairs 
+that lead to the chamber that can be found there.  The ground is covered in 
+rotting wooden items, papers, dirt, and the occasional metal spike.  
+~
+0 9 0
+D4
+~
+~
+~
+0 0 19315
+M 0 H 0
+S
+#19319
+The Spider's Web~
+Cobwebs are mixed in with the very functional weave of a gigantic web here.  
+The gossamer strands shine in any light that reaches them, as a sort of 
+visual proof that it is newly spun and a capable trap.  Bar-like grooves 
+have been cut into the wall to allow easy climbing between here and the 
+chamber below.  
+~
+0 13 0
+D5
+~
+~
+~
+0 0 19313
+M 0 H 0
+S
+#19320
+The Spider's Web~
+Uncountable gossamer strands of spider's silk line this chamber, hanging 
+from the roof and stretching towards the floor and walls with a pattern that 
+defies one's mind.  Dangerous sharp rocks lay masked in the web, only 
+revealed when someone is foolish enough to move too closely.  Crudely 
+fashioned steps have been cut into the floor leading downwards, no other 
+exit is apparent from this silken chamber.  
+~
+0 13 0
+D5
+~
+~
+~
+0 0 19314
+M 0 H 0
+S
+#19321
+Below The Cavern~
+Chains ending in vicious looking hooks hang from the ceiling, swaying back 
+and forth with an almost harmonious tinkling sound, any feelings of 
+pleasantness are soon dispelled as a red glint is elicited as light strikes 
+one of these cruel objects.  Decay and death seem to hang around this 
+earthen chamber wafting up in the still air from all about, except for the 
+opening above which has crudely fashioned stairs leading up to it.  
+~
+0 13 0
+D4
+~
+~
+~
+0 0 19312
+M 0 H 0
+S
+#19322
+~
+~
+0 1048580 0
+M 0 H 0
+S
+#19323
+~
+~
+0 1048580 0
+M 0 H 0
+S
+#19324
+~
+~
+0 1048580 0
+M 0 H 0
+S
+#19325
+~
+~
+0 1048580 0
+M 0 H 0
+S
+#19326
+~
+~
+0 1048580 0
+M 0 H 0
+S
+#19327
+~
+~
+0 1048580 0
+M 0 H 0
+S
+#19328
+~
+~
+0 1048580 0
+M 0 H 0
+S
+#19329
+~
+~
+0 1048580 0
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 19300 spec_poison
+M 19301 spec_poison
+M 19302 spec_poison
+M 19304 spec_thief
+M 19305 spec_thief
+M 19306 spec_thief
+S
+
+
+
+#RESETS
+O 0 19300 0 19300
+O 0 19301 0 19308
+O 0 19302 0 19311
+M 0 19305 3 19313 10
+E 0 19305 0 16
+E 0 19305 0 11
+M 0 19306 4 19314 10
+M 0 19305 3 19315 10
+E 0 19305 0 16
+E 0 19305 0 11
+M 0 19304 1 19316 10
+E 0 19307 0 0
+E 0 19306 0 0
+E 0 19305 0 0
+E 0 19304 0 0
+M 0 19305 3 19317 10
+E 0 19305 0 16
+E 0 19309 0 11
+O 0 19308 0 19317
+M 0 19306 4 19318 10
+M 0 19307 1 19318 10
+M 0 19300 4 19319 10
+M 0 19300 4 19319 10
+M 0 19300 4 19320 10
+M 0 19300 4 19320 10
+M 0 19303 1 19321 10
+E 0 19303 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

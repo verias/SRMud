@@ -2518,7 +2518,7 @@ case CON_GET_ALIGNMENT:
 //	    do_function (ch, &do_outfit,"");
 //	    obj_to_char(create_object(get_obj_index(OBJ_VNUM_MAP),0),ch);
 
-	    char_to_room( ch, get_room_index( ROOM_VNUM_LIMBO ) );
+	    char_to_room( ch, get_room_index( ROOM_VNUM_SCHOOL ) );
 	    send_to_char("\n\r",ch);
 	    do_function(ch, &do_help, "newbie info");
 	    send_to_char("\n\r",ch);
@@ -2533,7 +2533,7 @@ case CON_GET_ALIGNMENT:
 	}
 	else
 	{
-	    char_to_room( ch, get_room_index( ROOM_VNUM_LIMBO ) );
+	    char_to_room( ch, get_room_index( ROOM_VNUM_TEMPLE ) );
 	}
 
 	act( "$n has entered the game.", ch, NULL, NULL, TO_ROOM );

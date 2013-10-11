@@ -1,0 +1,2155 @@
+#AREADATA
+Name { ALL } Sighel  Royal Castle~
+Builders Sighel~
+VNUMs 100 175
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#100
+kitchen maid~
+a kitchen maid~
+A kitchen maid works to prepare the next meal.
+~
+A simple, humble young woman works hard for her living, scrubbing pots
+and pans and plucking chickens.  Her dress is drab in colour, but in
+excellent condition, which is better than most servants have in the realm. 
+Her long hair is tied back neatly, and rosy cheeks add to the good-natured
+look she has.  She glances over at you briefly before going back to her
+work.  
+~
+human~
+ABRW 0 0 0
+10 0 3d23+120 10d10+100 2d3+2 bite
+6 6 6 6
+0 ABQ 0 0
+(null) (null) either 45
+AHMV ABCDEFGHIJK medium unknown
+#101
+butler~
+a well-dressed butler~
+A well-dressed butler points you north to the throne room.
+~
+This man stands quite tall for a human and he's also quite well built. 
+His dark outfit is perfectly pressed and creased as he stands rigidly,
+looking down at anyone who walks by him.  His cold blue eyes are emotionless
+as they look you over, while a small sneer crosses his lips at your
+appearance.  
+~
+human~
+ABX 0 0 0
+40 0 10d98+804 40d10+100 4d7+10 claw
+-5 -5 -5 -3
+0 A 0 0
+(null) (null) female 180
+AHMV ABCDEFGHIJK medium unknown
+#102
+maid~
+a maid~
+A tired-looking maid continually cleans the room.
+~
+This poor woman looks absolutely worn out.  Her clothing is neat and
+well-kept, though drab in colour so as not to attract attention to herself. 
+She looks much older than she probably is, as having to keep a large castle
+spotless is a wearing and tiring job.  Despite her tiredness, she sends you
+a cheerful smile and slight curtsey before going back to her duties.  
+~
+human~
+AX 0 0 0
+15 0 5d31+200 15d10+100 2d4+2 bite
+4 4 4 6
+0 A 0 0
+(null) (null) either 67
+AHMV ABCDEFGHIJK medium unknown
+#103
+treasury guard~
+a treasury guard~
+A strong guard watches over the riches here.
+~
+Strong and quick, this guard knows he's not one likely to be messed with.
+Picked especially for these qualities, he relishes in his job of protecting
+the riches of the royal family.  His dark eyes stare fixated at the door and
+at you at the same time.  His armor is in the colours of the royal family
+with a gold chestplate protecting him.  
+~
+human~
+ABQX 0 0 0
+85 0 12d823+2891 85d10+100 5d10+25 stab
+-43 -43 -43 -16
+CEHNT AFG 0 0
+(null) (null) female 382
+AHMV ABCDEFGHIJK medium unknown
+#104
+throne room guards~
+a royal throne room guard~
+A tall, strong guard stands here, protecting over the throne room.
+~
+It almost appears as if this guard isn't alive because he stands so still
+and unblinking.  He stands proudly in the colours of the royal family with
+the added gold protection gleaming in a high polish.  Firmly gripped, he
+holds a long gold spear at the ready for the first sign of aggression
+against his lord and master.  
+~
+human~
+ABQX 0 0 0
+95 0 12d1182+3558 95d10+100 6d10+29 stab
+-30 -30 -30 -25
+BDEFHT A 0 0
+(null) (null) female 427
+AHMV ABCDEFGHIJK medium unknown
+#105
+royal elven guard~
+an elven royal guard~
+An elven royal guard wanders the area, looking out for signs of trouble.
+~
+Slight in stature, this guard doesn't look as strong as it really is. 
+Short cropped hair reveals the elf's pointed ears and delicate features
+while the colours of the royal family on its clothing accentuates its petite
+frame.  The elf's eyes are always darting around, constantly aware of
+everything that is happening around it.  
+~
+unique~
+AX J 0 0
+25 0 8d48+400 25d10+100 3d5+7 crunch
+0 0 0 2
+EHJT A B 0
+(null) (null) none 112
+AHMV ABCDEFGHIJK medium unknown
+#106
+royal dwarven guard dwarf~
+a royal dwarven guard~
+A stout dwarf wears the royal colours as he protects the royal family.
+~
+This stout dwarf scowls at you, looking you over as a threat to the royal
+family.  He watches you closely, tugging at his tunic in the royal colours,
+making sure you are aware who he is working for.  His long beard is tied in
+three braids to keep it out of the way during a battle.  
+~
+unique~
+AQX J 0 0
+50 0 10d167+1149 50d10+100 5d6+13 sunder
+-9 -9 -9 -7
+0 A CLQ R
+(null) (null) female 225
+AHMV ABCDEFGHIJK medium unknown
+#107
+royal sorcerer guard~
+a royal sorcerer guard~
+A figure shrouded in robes with the Royal crest on it stands here stoically.
+~
+A hooded robe blocks you from being able to see the face of the creature
+standing before you, though you can see two glowing yellow eyes.  This being
+stands solidly, unswaying, with its hands tucked inside the sleeves of the
+robe as its arms are crossed.  You can't tell if this being is alive or just
+there as a statue to frighten away the weak.  
+~
+unique~
+ABOX TU 0 0
+75 0 11d551+2303 75d10+100 5d9+24 slap
+-19 -19 -19 -17
+GHT ACP 0 CN
+(null) (null) male 337
+AHMV ABCDEFGHIJK medium unknown
+#108
+demonic menta~
+Menta~
+The demonic form of Menta frolics here, possessing inhuman grace.
+~
+The tall, graceful form of a demon dances to a tune that seems to come
+magically from the air around her.  Shimmering blue-black skin stretches
+over her voluptuous form, hardly covered by the black gauzy gown she wears. 
+Each of her movements are synchronized effortlessly with the tune that
+accompanies her, making her appear even more sensual, if anything.  Of her
+head, only a pair of thin spiralling horns and a shock of ice blue hair can
+be seen, due to a gauzy mask of the same substance as her dress.  
+~
+unique~
+AQ CDFJOTVZa -1000 0
+102 0 20d2000+6000 408d10+100 20d20+50 slap
+-75 -75 -75 -70
+ACEFHK CLQ DM N
+(null) (null) either 459
+ACGHIMVZc ACDEFHJKLOPUVW medium unknown
+#109
+demonic dancer~
+a demonic dancer~
+A demonic dancer twirls here, laughing as it spins.
+~
+This being prances about on cloven hooves, laughing madly, spinning, and
+leaping with unnatural skill and grace.  Trying to make out its features
+proves difficult as they shift and change, sometimes forming a face of
+unearthly beauty and sometimes a hideous mask of cruelty and sadism.  
+~
+unique~
+AQ CJOTVZa -1000 0
+95 0 12d1182+3558 95d10+100 6d10+29 slash
+-30 -30 -30 -25
+CEH LQ CM N
+(null) (null) none 427
+ACGHIMVZc ACDEFHJKLOPUVW medium unknown
+#110
+demonic musican~
+a demonic musican~
+A demonic musican plays strange and unnatural music here.
+~
+Clawing the air and producing sounds the likes of which no mortal could
+ever master, this creature has been summoned purely to produce its strange
+melodies.  Wreathed in an aura of flames, it moves about with unseeing eyes
+as music flows from its body.  To each movement of its hands through the
+air, another sound is called forth, sometimes soft and sweet, sometimes
+jarring and almost painful to the ear.  
+~
+unique~
+AQ CJTVZa -1000 0
+90 0 12d991+3214 90d10+100 5d11+28 beating
+-25 -25 -25 -23
+0 HLQ CM N
+(null) (null) male 405
+ACGHIMVZc ACDEFHJKLOPUVW medium unknown
+#111
+demonic juggler~
+a demonic juggler~
+A demonic juggler composed completely of flames is here.
+~
+Composed of flame and oddly reptilian in form, this beast throws up
+massive balls of fire, catching them and sending them arching back into the
+air skillfully.  It laughs to some joke of its own understanding as it
+juggles these lethal spheres, gazing eerily about the room with a veneer of
+contempt.  
+~
+dragon~
+AQ DFJOTVc -1000 0
+97 0 12d1265+3700 97d10+100 6d11+27 chop
+-32 -32 -32 -26
+CH HL BEH FIN
+(null) (null) male 436
+ACGHMVZc ACDEFGHIJKLOPQUVX medium unknown
+#152
+halfling gardener~
+a halfling gardener~
+A halfling putters about, making sure the gardens stay perfect.
+~
+Simple linen clothing is all this gardener needs.  A constant smile is on
+its face, happy to have the perfect job for the Monarchy.  The gardener
+moves about the grounds, making sure everything looks just right, so these
+Royal Gardens stay the most beautiful in the land.  
+~
+unique~
+AQ V 100 0
+50 0 10d167+1149 50d10+100 5d6+13 crunch
+-21 -21 -21 -5
+EFIN 0 L C
+(null) (null) none 225
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#100
+castle gate key~
+an intricately carved key~
+An intricately carved key is here.~
+unknown~
+key W AO
+0 0 0 0 0
+99 2 1485 P
+E
+key~
+This intricately carved key is quite large for its actual weight.  At the
+top of the handle is a worn crest, which matches the crest on the gates to
+the castle.  
+~
+#101
+sparkling golden key~
+a sparkling golden key~
+A sparkling golden key looks like it opens something very important.~
+unknown~
+key SW AO
+0 0 0 0 0
+1 0 0 P
+#102
+throne~
+a large silver throne~
+A large silver throne sits before you majestically.~
+unknown~
+furniture R 0
+0 0 0 0 0
+90 500 98500 P
+E
+throne~
+The throne looks as though it were made from gold, and just as heavy. 
+Beautiful carvings decorate the legs, arm rests and back of the throne.  For
+comfort, cushions of beautifully embroidered royal purple material line the
+seat and back of the throne.  
+~
+#103
+throne~
+a large silver throne~
+A large silver throne sits before you majestically.~
+unknown~
+furniture R 0
+0 0 0 0 0
+90 500 88500 P
+E
+throne~
+The throne looks as though it were made from gold, and just as heavy. 
+Beautiful carvings decorate the legs, arm rests and back of the throne.  For
+comfort, cushions of beautifully embroidered royal purple material line the
+seat and back of the throne.  
+~
+#104
+fountain~
+beautiful fountains~
+Two beautiful fountains frame the path to the castle doors.~
+unknown~
+fountain 0 0
+0 0 'water' 0 0
+1 5000 0 P
+E
+fountain~
+Two long fountains frame the path leading up to the door.  The water
+sparkles and looks like diamonds falling from the sky from the high-shooting
+water.  Figures of beautiful women are carved into the fountain stone,
+sending water up through their hands in an almost magical way.  
+~
+#105
+simple skeleton key~
+a simple skeleton key~
+A simple skeleton key lays here.~
+unknown~
+key W AO
+0 0 0 0 0
+50 1 315 P
+#106
+mound of gold~
+a mound of gold coins~
+A mound of gold coins.~
+unknown~
+money 0 A
+EHMOPQR 0 0 0 0
+0 500 0 P
+#107
+diamond crown~
+a diamond crown~
+A heavy crown encrusted in diamonds sits here.~
+unknown~
+treasure 0 AE
+0 0 0 0 0
+80 75 800 P
+#108
+grand dining table~
+a grand dining table~
+A grand dining table stretches the length of the room.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 350 1500 P
+E
+table~
+The many legs supporting the weight of the heavy, polished mahogany table
+top are all carved to look like the legs of dragons, detailed to see each
+individual scale.  Large silver candle holders run down the middle of the
+table, each holding seven thick candles.  Matching the silver of the candle
+holders, the silverware sparkles with a high polish in the lighting of the
+room.  
+~
+E
+grand~
+The many legs supporting the weight of the heavy, polished mahogany table
+top are all carved to look like the legs of dragons, detailed to see each
+individual scale.  Large silver candle holders run down the middle of the
+table, each holding seven thick candles.  Matching the silver of the candle
+holders, the silverware sparkles with a high polish in the lighting of the
+room.  
+~
+E
+dining~
+The many legs supporting the weight of the heavy, polished mahogany table
+top are all carved to look like the legs of dragons, detailed to see each
+individual scale.  Large silver candle holders run down the middle of the
+table, each holding seven thick candles.  Matching the silver of the candle
+holders, the silverware sparkles with a high polish in the lighting of the
+room.  
+~
+#109
+royal crest key~
+a key with the royal crest~
+A key with the royal crest on it lays here.~
+unknown~
+key W AO
+0 0 0 0 0
+50 1 120 P
+#110
+plush sofa~
+a plush sofa~
+An over-stuffed plush sofa looks to be a favourite resting spot.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 500 750 P
+#111
+bed~
+a large bed~
+A large four poster bed fills the room.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 500 250 P
+#112
+gold chest plate~
+a gold chest plate~
+A heavy gold chest plate gives excellent protection.~
+unknown~
+armor 0 AD
+BCD BCD BCD C 0
+85 40 425 P
+#113
+royal gold sword~
+a royal gold sword~
+A strong gold sword is used by the royal treasury guards.~
+unknown~
+weapon 0 AN
+sword 29 5 lunge 0
+85 35 425 P
+#114
+royal gold chest plate~
+a gold royal chest plate~
+A shining gold chest plate has the royal crest on its front.~
+unknown~
+armor 0 AD
+ABCD ABCD ABCD C 0
+95 45 475 P
+#115
+gold spear~
+a gold spear~
+A long sharp spear is crafted from pure gold and looks to be a deadly weapon.~
+unknown~
+weapon 0 AN
+dagger 13 14 crunch 0
+95 35 475 P
+#116
+royal gold dagger~
+a sharp gold dagger~
+A sharp gold dagger has the royal crest embossed on it.~
+unknown~
+weapon 0 AN
+bow 6 8 crunch D
+25 5 125 P
+#117
+gold battle axe~
+a gold battle axe~
+A gold battle axe carries the royal crest on its sharp blade.~
+unknown~
+weapon 0 ANP
+mace 8 12 wrath F
+50 55 250 P
+#118
+glowing orb~
+a strange red glowing orb~
+A strange glowing red orb hovers slightly above ones hands.~
+unknown~
+weapon AG AN
+exotic 11 13 slap 0
+75 0 375 P
+#119
+king's guard captain's cloak~
+the Captain of the King's Guard cloak~
+A deep purple velvet cloak is marked with the King's crest in gold embroidery.~
+unknown~
+armor CGIS AZ
+E E E AC 0
+100 5 500 P
+A
+13 30
+A
+1 2
+A
+2 2
+#120
+lieutenant's cape king's guard~
+a Lieutenant of the King's Guard cape~
+A deep purple velvet cape is marked with the King's crest in silver embroidery.~
+unknown~
+armor CGIS Aa
+AC AC AC A 0
+34 3 170 P
+A
+1 1
+A
+2 1
+A
+13 10
+#121
+giant cake~
+a truly giant cake~
+A giant cake sits here, covered in frosting and bearing one blood-red candle.~
+unknown~
+container A 0
+20 0 0 0 0
+1 0 0 P
+#122
+chunk cake~
+a large chunk of cake~
+A large chunk of frosted, cream stuffed, cake awaits to be devoured.~
+unknown~
+food A AO
+AC 0 0 0 0
+0 1 1 P
+#123
+piglet suckling~
+a whole suckling piglet~
+A whole suckling piglet sits here, resplendent with an apple in its mouth.~
+unknown~
+food 0 AO
+DF 0 0 0 0
+0 5 1 P
+#124
+hades fog~
+a steaming glass of hades fog~
+A steaming glass of hades fog sits here.~
+unknown~
+drink 0 AO
+2 2 'whisky' 0 0
+0 1 1 P
+#125
+bloodwine wine goblet~
+a goblet of bloodwine~
+A large goblet holding bloodwine has been placed here.~
+unknown~
+drink 0 AO
+4 4 'red wine' 0 0
+0 0 1 P
+#126
+Duck Orange~
+a plate of duck orange~
+A well prepared plate of succulent duck with orange sauce.~
+unknown~
+food 0 A
+DF 0 0 0 0
+1 0 1 P
+#127
+stuffed turkey~
+a stuffed turkey~
+A golden-brown stuffed turkey is set in the middle of a silver plate.~
+unknown~
+food 0 A
+DF 0 0 0 0
+1 0 1 P
+#128
+bowl of assorted vegetables~
+a bowl of assorted vegetables~
+A bowl of peas, carrots, corn, and broccoli sits here.~
+unknown~
+food 0 A
+CE 0 0 0 0
+1 0 1 P
+#129
+fresh loaf of bread~
+a fresh loaf of bread~
+A warm, steaming loaf of bread sits on a silver plate.~
+unknown~
+food 0 A
+CE 0 0 0 0
+1 0 1 P
+#130
+a cup of tea~
+a cup of lemon tea~
+A small tea cup steams with the sweet aroma of lemon.~
+unknown~
+drink 0 A
+2 2 'tea' 0 0
+1 0 1 P
+#150
+wood chair~
+a wood chair~
+A simple wood chair is set around the table, ready for a meeting.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#151
+heavy table~
+a heavy wood table~
+A heavy wood table stands solidly in the middle of the room.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#152
+cold steel key~
+a cold steel key~
+A cold steel key.~
+unknown~
+key W AO
+0 0 0 0 0
+20 2 1 P
+#153
+small rusted rusty key~
+a small rusted key~
+A small rusty key.~
+unknown~
+key 0 AO
+0 0 0 0 0
+50 1 1 P
+#154
+kings guard pin~
+the symbol of the King's Guard~
+This pin bears the symbol of the King's Guard of Discordia.~
+unknown~
+protect S AC
+0 0 0 0 0
+15 1 150 P
+A
+19 2
+A
+18 2
+#155
+ivory coffin~
+an ivory coffin~
+This ivory coffin gleams in the sun.~
+unknown~
+treasure 0 0
+0 0 0 0 0
+0 0 1 P
+E
+inscription engraving~
+This small inscription reads:
+ 
+- - - - - - - - - - - - - - -
+Plioris, King of Discordia
+
+A man who gave his life for
+the lands he loved. He will
+be missed and never forgotten.
+- - - - - - - - - - - - - - -
+~
+E
+coffin~
+This coffin is made of pure ivory and has a small inscription engraved
+upon its surface.  
+~
+#0
+
+
+
+#ROOMS
+#100
+The Tall Gates~
+Standing tall and strong, black wrought iron gates are intricately
+designed and are blocking your path to the east.  Running north and south
+for as long as the eye can see are high stone walls which encircle the
+majestic castle you can see behind the gates.  Split down the middle where
+the gates open is a crest that is faded and barely visible.  Looking past
+the crest, into the castle grounds, you can see beautifully kept gardens
+running alongside the long drive up to the castle doors.  A strange circular
+glyph is mosaicked into the ground here in a shining gold.  
+~
+0 4 1
+E
+crest~
+A brightly painted crest is covered with gold gild plating.  The colours
+of the current monarchy shine at you with a light of their own.  Beneath the
+crest on a flashy scroll, the name "Tanos" is painted intricately in gold
+gild.  
+~
+D1
+Looking past the castle gates, you can see beautiful gardens leading up
+to a grand castle.  
+~
+gates~
+~
+1 100 101
+D2
+~
+~
+~
+0 0 20076
+M 0 H 0
+S
+#101
+The Grand Road~
+A wide cobblestone road spreads out before you, shining in any light as
+though each stone was made of jewels.  Beautiful gardens grow suddenly out
+from the sides of the road, growing thick with trees the further from the
+road you look.  You can hear the sounds of birds singing to each other and
+small animals playing tag through the underbrush.  Far off in the distance
+the sound of falling water can be heard.  The spectacular road leads you
+east towards a towering castle or west to tall gates.  
+~
+0 0 1
+D1
+The sparkling cobblestones lead you deeper into these amazing grounds.  
+~
+~
+~
+0 0 102
+D3
+Tall iron gates protect this inner sanctum from the outside world.  
+~
+gates~
+~
+1 100 100
+M 0 H 0
+S
+#102
+The Grand Road~
+The sparkling cobblestones lead you onwards east towards a grand castle
+and west towards strong gates.  They make you feel as though you are walking
+on tiny jewels, as they catch even the smallest amounts of light and reflect
+it back to you.  The calm air around you is filled with the fragrance of
+many flowers that grow in the lavish gardens around you.  Birds and
+squirrels fill the air with playful sounds, giving this area a gentle and
+calm aura.  
+~
+0 0 1
+D0
+Jewel-like cobblestones swing in a soft bend on their journey to the
+castle.  
+~
+~
+~
+0 0 103
+D3
+The sparkling cobblestones lead to a tall iron gate.  
+~
+~
+~
+0 0 101
+M 0 H 0
+S
+#103
+The Grand Road~
+Jewel-like cobblestones swing lazily around a large tree.  Apparently it
+was easier to build around the tree than to remove it, and this leads to
+greater benefits in the end.  The size and grandeur of this tree is
+magnificent, as its branches lead out in all directions, giving shelter to
+those creatures which live in it, and to anyone walking below it.  A warm
+scent of slightly damp earth rises from the bare ground beneath the tree to
+intermingle with the fragrances of the flowers on the west side of the road.
+The immense castle grows large to the north-east.  
+~
+0 0 1
+E
+tree~
+This tree looks as though it has watched over this land from the
+beginning of time.  Looking at a distance at the bark, the grains and
+roughness of the raised bark depict something which could be the resemblance
+of a wise old face, looking out to the gates of the grounds as if watching
+everyone who enters.  
+~
+D1
+Glittering cobblestones lead up to a large set of stairs.  
+~
+~
+~
+0 0 104
+D2
+Sparkling cobblestones lead toward the gates of the castle grounds.  
+~
+~
+~
+0 0 102
+D3
+~
+~
+~
+0 0 133
+M 0 H 0
+S
+#104
+The Grand Road~
+The beautiful, sparkling jewel-like cobblestones lead up to a large
+staircase of the whitest of marbles.  Running alongside the end of the
+cobblestones is the widest of all the steps in the huge staircase, looking
+wide enough for a small army to fit on in a proper military row.  Gradually
+as you look up the stairs, they sweep in a graceful arch up to a warm
+glowing set of doors.  Framing the sides of the stairs are detailed
+sculptures of large gargoyles, keeping their keen eyes focused on the exact
+spot you stand, judging any who want to enter the castle.  The sound of
+falling water has grown slightly louder, though you still can't see a source
+for it.  
+~
+0 0 1
+E
+gargoyles~
+These winged beasts sit perched on marble pedestals.  Both their heads
+are angled slightly in to the first step, keeping a watchful eye on any who
+pass this way.  You can almost feel the creatures gaze on you, as faint
+grinding sound makes you think they are stretching and scratching their
+claws on the pedestals they rest on.  
+~
+D1
+~
+~
+~
+0 0 130
+D3
+Glittering cobblestones bend around a massive tree.  
+~
+~
+~
+0 0 103
+D4
+Pure white marble is almost blinding, leading you up the stairs to the
+castle at the top.  
+~
+~
+~
+0 0 105
+M 0 H 0
+S
+#105
+The Grand Stairway~
+The size of this magnificent staircase dwarfs even the largest of men who
+scales the steps.  The whiteness of the marble is almost blinding, even in
+the smallest amounts of light.  As you climb up towards the castle, the
+steps gradually become narrower in their graceful arch up to the top. 
+Conversely, as you climb down, the steps grow out to the ground, adding to
+the miniscule feeling you get overcome with.  The splashing sound of water
+has grown slightly louder.  
+~
+0 0 5
+D4
+More pure white marble stairs sweep up to the castle gracefully.  
+~
+~
+~
+0 0 106
+D5
+Steps lead down to jewel-like cobblestones.  
+~
+~
+~
+0 0 104
+M 0 H 0
+S
+#106
+The Grand Staircase~
+The glowing white marble leads to a smooth walkway to the large wooden
+castle doors.  Framing either side of this walkway are large, long pools
+with fountains spouting sparkling droplets of water.  You stand at the top
+of the staircase, being able to go north towards the castle doors, or down
+to leave the castle.  If one thought the staircase was dwarfing, standing in
+the shadow of the tall castle to your north is even more dwarfing.  You need
+to crane your head back to see the tallest of the spires of this castle, and
+you still aren't quite at its immediate base.  The walls of the castle look
+like a continuation of the smooth marble you are over now, only leading
+vertically upward.  
+~
+0 0 1
+D0
+A long walkway of the almost glowing white marble passes between two
+large fountains to the castle doors.  
+~
+~
+~
+0 0 107
+D5
+Bright white marble steps lead down to a sparkling cobblestone road.  
+~
+~
+~
+0 0 105
+M 0 H 0
+S
+#107
+Outside the Royal Castle~
+The splashing of the fountains drowns out any other sounds that would
+normally reach ones ears in front of these large doors.  The pure whiteness
+of the marble walkway continues straight up the walls of the castle, giving
+a seamless, perfect feel to anyone who dares touch the royal castle.  Tall,
+thin windows are filled with brightly coloured stain-glass designs, making
+it impossible to sneak a peek inside.  Lush green potted bushes are pruned
+to two neat spirals pointing skyward on either side of the warm wood of the
+doors.  
+~
+0 0 1
+E
+glyph~
+This strange golden symbol has the word "Royal" inscribed in onyx mosaic
+as part of the circle surrounding the shape.  
+~
+D0
+Large wooden doors are the only way into the castle.  
+~
+doors~
+~
+4 101 108
+D2
+A sharp drop leads down a large staircase to a cobblestone road.  
+~
+~
+~
+0 0 106
+M 0 H 0
+S
+#108
+A Long Hallway~
+The vastness of this hallway is shown by the fact that any slightest
+noise you make echoes down the length, bouncing off polished floors and
+vaulted ceilings.  Sparse furnishings of dark polished wood tables and
+marble pedestals with sculptures make this area uninhabitable, pushing
+people either further into the castle or out the doors to the south. 
+Magnificent paintings of kings and queens gone by fill the walls with beauty
+and grandeur.  Columns that lead up to the vaulted ceiling are carved and
+gilded in gold.  The ceiling itself is painted as though you were looking up
+to a night sky full of constellations and heavenly bodies.  The floor has
+such a high polish, that it faintly reflects the ceiling so high above.  The
+hallway leads north into a large room and south to a set of tall wooden
+doors.  
+~
+0 1048584 0
+D0
+The polished floor leads on through a tall open doorway to a large room
+beyond.  
+~
+~
+~
+0 0 109
+D2
+A large double set of wooden doors lead out of the castle.  
+~
+doors~
+~
+4 101 107
+M 0 H 0
+S
+#109
+The Main Room~
+The size of the room is cavernous.  The doorway to the south, though tall
+and wide itself, is almost dwarfed by the size of this room.  Any slight
+movement echoes from the rafters of the vaulted ceiling.  Tall stained glass
+windows frame the east and west, letting the rising sun light to bring
+splashes of colour to the polished floor in the morning, and setting sun
+light to continue the colouring of the floor.  The polished floor is of a
+black marble with white veins, which contrasts sharply with the brilliant
+white marble walls of the room.  Tapestries and sculptures adorn the room
+with a richness not seen anywhere else in the land.  You can see the throne
+for the King and Queen far to the north, and to the south is the open doors
+to the hallway.  
+~
+0 1048584 0
+D0
+This large main room continues to the north where two thrones can be seen.  
+~
+~
+~
+0 0 110
+D2
+The polished marble floor leads through an open doorway to the long hall
+at the entrance of the castle.  
+~
+~
+~
+0 0 108
+M 0 H 0
+S
+#110
+The Thrones in the Main Room~
+Polished black marble spreads out from a wide, low beautiful white set of
+steps like a smooth sea, reflecting the objects which seem to float on the
+floor.  Set atop the sparkling white marble pedestal of steps are two golden
+thrones with heavily embroidered cushioning in a bright royal purple.  To
+the east and west sides of the thrones are tall candleholders with many
+thick white candles lit on each.  Wax drips from the candles in lazy rivers,
+growing like stalactites as they reach for the floor.  Behind the thrones,
+hung on the smooth marble wall, is a large painting.  Tucked away in small
+alcoves to the east and west behind the thrones are small dark wooden doors.
+~
+0 1310728 0
+E
+painting~
+Larger than life, the beautiful painting of King Tanos watches over the
+thrones and the entire main room itself.  He sits tall and proud, with a
+stern, but soft and lonely look about him.  The artist who painted this was
+obviously the best in the land for being able to catch his expression so
+well, and for the jewels he wears to sparkle as though they were pasted to
+the painting.  
+~
+D1
+A set of plain dark wooden doors blocks your way to the east.  
+~
+doors~
+~
+1 0 111
+D2
+Bright red carpet leads you away from the royal thrones.
+~
+~
+~
+0 0 109
+D3
+A set of plain dark wooden doors blocks your way to the west.  
+~
+doors~
+~
+1 0 112
+D5
+A piece of the smooth polished black marble flooring is easily lifted to
+a reveal a gaping hole below.  
+~
+marble slab~
+~
+1 0 113
+M 0 H 0
+S
+#111
+Small Hallway~
+This impressive hallway is about the size of a room in a noble man's
+house.  Flickering torch light reflects off the mirror-like polish on the
+wood floor, adding more of an ambient glow to the hall.  A delicate table is
+placed below a large tapestry on the southern wall.  Pale wood doors meld
+into the northern and eastern walls, trying to be unobtrusive amidst the
+glowing richness of the room.  Winding stairs lead up from the north-east
+corner of the hall.  
+~
+0 1048584 0
+E
+table~
+The table looks barely able to hold up its own weight, let alone the
+weight of the large crystal vase filled with flowers centred on it.  The
+thin fragile-looking legs of the table are fashioned to look like the legs
+of a heron, accenting the feather carvings around the lip of the table.  
+~
+D0
+Loud chatter and metallic clanging is muted by a thick wooden door.  
+~
+heavy door~
+~
+1 0 116
+D1
+A soft glowing light from a window in a wooden door beckons you.
+~
+pale door~
+~
+1 0 117
+D3
+A simple wooden door blocks your path to the west.
+~
+simple door~
+~
+1 0 110
+D4
+Intricate black iron stairs wind their way up to a small landing above.  
+~
+~
+~
+0 0 118
+M 0 H 0
+S
+#112
+Small Hallway~
+This impressive hallway is about the size of a room in a noble man's
+house.  Flickering torch light reflects off the mirror-like polish on the
+wood floor, adding more of an ambient glow to the hall.  A delicate table is
+placed below a large tapestry on the southern wall.  Pale wood doors meld
+into the northern and western walls, trying to be unobtrusive amidst the
+glowing richness of the room.  
+~
+0 1048584 0
+E
+table~
+The table looks barely able to hold up its own weight, let alone the
+weight of the large crystal vase filled with flowers centred on it.  The
+thin fragile-looking legs of the table are fashioned to look like the legs
+of a heron, accenting the feather carvings around the lip of the table.  
+~
+D0
+A large door hides what is beyond it.
+~
+large door~
+~
+1 0 121
+D1
+A plain wooden door closes you off from the throne room.
+~
+plain door~
+~
+1 0 110
+D3
+A pale wood door blocks your path.
+~
+pale door~
+~
+1 0 122
+M 0 H 0
+S
+#113
+Hidden Escape Tunnel~
+There is a damp coolness coming from these lower depths of the world. 
+Total darkness surrounds you outside of your own source of light.  Reaching
+out, you can feel rough stone walls, giving a little more room than two
+people would need.  Occasionally you can feel a small trickle of water
+running down the stone, echoing the soft drips eerily around you.  An
+extremely faint source of light barely penetrates the darkness from above.  
+~
+0 1048585 0
+D3
+Total darkness leads you on.
+~
+~
+~
+0 0 114
+M 0 H 0
+S
+#114
+Hidden Escape Tunnel~
+There is a damp coolness coming from these lower depths of the world. 
+Total darkness surrounds you outside of your own source of light.  Reaching
+out, you can feel rough stone walls, giving a little more room than two
+people would need.  Occasionally you can feel a small trickle of water
+running down the stone, echoing the soft drips eerily around you.  A tunnel
+exactly the same as this runs to the south here, and the blackness there
+doesn't let you see far down it.  
+~
+0 1048585 0
+D1
+Total darkness leads you on.
+~
+~
+~
+0 0 113
+D2
+~
+~
+~
+0 0 148
+D3
+Total darkness leads you on.
+~
+~
+~
+0 0 115
+M 0 H 0
+S
+#115
+Hidden Escape Tunnel~
+There is a damp coolness coming from these lower depths of the world. 
+Total darkness surrounds you outside of your own source of light.  Reaching
+out, you can feel rough stone walls, giving a little more room than two
+people would need.  Occasionally you can feel a small trickle of water
+running down the stone, echoing the soft drips eerily around you.  An
+extremely faint source of light barely penetrates the darkness from above.  
+~
+0 1048585 0
+D1
+Total darkness leads you on.
+~
+~
+~
+0 0 114
+D4
+A small crack of light indicates an opening above your head.  
+~
+~
+~
+1 0 20300
+M 0 H 0
+S
+#116
+The Kitchen~
+The constant heat from this room is overwhelming as the large fireplace
+always has a fire burning it in for cooking.  Lively kitchen maids chatter
+and laugh as they go about their chores of cooking and cleaning.  Small
+windows dot the northern wall, giving a glimpse of the gardens that encircle
+the castle.  Two doors block the exits of the room to the south and the
+west, helping to keep the rest of the castle quiet from the loud racket that
+is almost a constant feature of the kitchen.  A small nook in the eastern
+wall acts as the scullery while the rest of the room is used solely for
+cooking grand meals.  
+~
+0 1048584 0
+D2
+A heavy wooden door mutes the loud sounds from here for the rest of the
+castle.  
+~
+heavy door~
+~
+1 0 111
+D3
+A heavy wooden door blocks your way and the sounds of the room to the
+rest of the castle.  
+~
+~
+~
+1 0 121
+M 0 H 0
+S
+#117
+The Study~
+A warm glow fills the room from the many candles spread about the place. 
+Beautifully carved bookcases line all the walls, only leaving enough space
+for the door to the room to the west.  Two long cherry wood tables fill the
+centre of the room with not a speck of dust on them.  Looking up to the
+ceiling, you can see the bookcases make full use of any space available,
+leading right up to the ceiling themselves.  Discretely hidden from view are
+a couple of highly polished ladders to aid in the retrieval of books high
+above ones head.  A white marble bust of King Tanos is placed regally on the
+table closest to you.  
+~
+0 5506056 0
+D1
+A large bookcase filled with heavy old books stands before you.
+~
+secret hidden~
+~
+3 105 120
+D2
+Rows of bookcases continue to the south.
+~
+~
+~
+0 0 119
+D3
+A plain pale wood door leads out into the main castle.
+~
+pale door~
+~
+1 0 111
+M 0 H 0
+S
+#118
+Landing~
+This landing is bare, and only serves the basic function of bringing one
+up to the next level of the castle.  A small nook in the wall to the east
+holds a simple silver candlestick and candle, giving the only light to this
+area.  The walls are plain, and the floor looks very slightly worn here.  
+~
+0 1048584 0
+D0
+A large carved door closes you off from the rest of this floor.  The
+carving is that of the royal symbol.  
+~
+carved door~
+~
+1 109 125
+D5
+Intricate black iron stairs lead down to a small hallway.
+~
+~
+~
+0 0 111
+M 0 H 0
+S
+#119
+The Study~
+A warm glow fills the room from the many candles spread about the place. 
+Beautifully carved bookcases line all the walls except to the south which
+instead has a large window with pale curtains.  The view out these windows
+is impressive, over looking the magnificent gardens and lands that surround
+the castle itself.  Two long cherry wood tables fill the centre of the room
+with not a speck of dust on them.  The table closest to you holds a large
+crystal vase filled with fresh flowers from outside.  The study continues to
+the north.  
+~
+0 5506056 0
+D0
+Bookcases continue to the north, holding their knowledge for any to read.  
+~
+~
+~
+0 0 117
+M 0 H 0
+S
+#120
+Treasury~
+The room glows golden from the torches place on the walls bouncing their
+light off the many riches that fill the room.  Old paintings that are to
+precious to dispose of, line the western wall around the wood of the
+bookcase.  Shelves and drawers line the other three walls, opened and filled
+with various pieces of silverware, gold and gems.  You can see rolls of
+tapestries poking out of a box in the north-eastern corner of the room as
+you circle and marvel at the masses of riches stored here.  
+~
+0 8 0
+D3
+The back of a bookcase blocks your path.
+~
+~
+~
+3 105 117
+M 0 H 0
+S
+#121
+The Grand Dining Room~
+This immense room is filled with a large, long mahogany table surrounded
+by thirty chairs.  The neutral-coloured walls are filled intermittently with
+large windows and tapestries to the north.  Framing a heavy wooden door to
+the east are two paintings of the castle itself, towering over the
+surrounding lands.  Another small door sits nestled in the southern wall
+with a tall suit of armor protecting it.  The room and table continues to
+the west, taking you further into the room and towards more windows in the
+far western wall.  
+~
+0 1048584 0
+D1
+A heavy wooden door mutes the loud kitchen sounds that come from beyond
+it.  
+~
+~
+~
+1 0 116
+D2
+A cherry wood door blocks this room off from the rest of the castle.  
+~
+~
+~
+1 0 112
+D3
+The long dining table draws you to the rest of the room.  
+~
+~
+~
+0 0 123
+M 0 H 0
+S
+#122
+The Ballroom~
+Barren for a reason, this room is absolutely beautiful.  Three dazzling
+silver chandeliers hand low from the ceiling, their many arms reaching out
+above your head, grasping thick candles.  The west wall of the room is
+mostly windows, looking out over a large pond in the gardens.  The high
+polish to the maple-coloured wood floor reflects even the smallest amount of
+light from outside the windows.  A large mirror is centred high on the
+eastern wall, adding the illusion of more windows in this direction.  A
+plain, pale door melts in with the walls of the room to the east, while the
+rest of the ballroom continues to the south.  
+~
+0 1048584 0
+D0
+A large open archway gives you a good view of the grand dining table.  
+~
+~
+~
+0 0 123
+D1
+A pale wooden door camouflages with the colour of the walls.  
+~
+~
+~
+1 0 112
+D2
+The polished floor continues on.
+~
+~
+~
+0 0 124
+M 0 H 0
+S
+#123
+The Grand Dining Room~
+This immense room is filled with a large, long mahogany table surrounded
+by thirty chairs.  The neutral-coloured walls are filled intermittently with
+large windows and tapestries to the north and west.  The room and table
+continues to the east, taking you further into the room and towards the
+doors that lead deeper into the castle.  To the south, there is a large open
+archway that lets you see into the room beyond, which appears mostly barren.
+~
+0 1048584 0
+D1
+The room and table continues towards two doors.
+~
+~
+~
+0 0 121
+D2
+A large open archway gives you a view of a barren room.
+~
+~
+~
+0 0 122
+M 0 H 0
+S
+#124
+The Ballroom~
+Three dazzling silver chandeliers hand low from the ceiling, their many
+arms reaching out above your head, grasping thick candles.  The west wall of
+the room is mostly windows, looking out over a large pond in the gardens. 
+The high polish to the maple-coloured wood floor reflects even the smallest
+amount of light from outside the windows.  A large mirror is centred high on
+the eastern wall, adding the illusion of more windows in this direction. 
+The southern wall has been painted over with a huge mural of the gardens
+outside, adding to the illusion of this room being larger than it is.  In
+the south-west corner of the room is a large raised platform where musicians
+would sit during a ball.  The room continues to the north.  
+~
+0 1048584 0
+D0
+The polished floor spreads open before you.
+~
+~
+~
+0 0 122
+M 0 H 0
+S
+#125
+Royal Lounge~
+A deeply coloured oriental rug covers most of the floor hear, damping any
+sounds one makes.  Two windows with white curtains look out the north wall
+over the forests beyond.  Plush-looking furniture is scattered about the
+room with small tables placed next to each piece for a place for candles and
+lighting.  The strong smell of flowers fills the air from the many vases
+with fresh-cut flowers in them scattered about the room.  Another arch shows
+a large bed to the west and more lush furnishings and a steep set of stairs
+leads up to another level.  
+~
+0 34603016 0
+D2
+A large wooden door leads out to the rest of the castle.
+~
+~
+~
+1 109 118
+D3
+A large open arch leads to the softness of a bedroom beyond.
+~
+~
+~
+0 0 127
+D4
+~
+~
+~
+0 0 126
+M 0 H 0
+S
+#126
+Tower Lookout~
+Though small, this circular room is spacious enough for two people to
+stand here, looking out over the land.  Looking up is a spired roof, giving
+protection from the heavens above, and all around the room is glass, giving
+a full view right out to the horizon.  This is the tallest point for miles
+around, and you can see the forests and gardens far below, with almost
+ant-like people milling about, doing their chores.  
+~
+0 1049088 0
+D5
+~
+~
+~
+0 0 125
+M 0 H 0
+S
+#127
+Bedroom~
+The bedroom acts as almost an extension to the lounge with plush chairs
+and sofas lining the walls.  A large bed is placed just off-centre in the
+room, with the four posts in the corners reaching almost to the ceiling. 
+Heavy burgundy velvet hangs around the bed, though while empty, the pieces
+are tied back with gold cord to reveal gold silk sheets and spreads.  Two
+small tables balance the bed, one holding a small candlestick and the other
+bare for objects to be placed on.  A mirror hangs on the northern wall
+between two windows.  The curtains billow in a gentle breeze that comes in
+through the open windows.  A set of double glass doors with white curtains
+lead out to a balcony to the south.  
+~
+0 34866184 0
+D1
+A large open archway shows a comfortable lounge room beyond.  
+~
+~
+~
+0 0 125
+D2
+Glass double doors lead out into fresh air.  
+~
+glass double doors~
+~
+1 0 129
+D3
+A plain door closes off the room beyond.
+~
+plain door~
+~
+1 0 128
+M 0 H 0
+S
+#128
+Bath~
+Polished white and black marble is a sharp contrast to the warm wood of
+the bedroom beyond the door.  The marble covers the floor and leads halfway
+up the walls to give added protection from water to the bath.  A matching
+marble stand sits in the north-western corner of the room, holding a small
+wash basin for washing ones hands and face.  Above this, on both walls, are
+two mirrors meeting at the corner, giving a person a good view of how they
+look.  On either outer edge of the mirrors are small nooks where small
+candles are placed to give extra light.  The south wall is filled mostly
+with a large, comfortable-looking porcelain bath tub, that currently lays
+empty.  A small window is placed high on the southern and western walls to
+help light this small cleaning room.  
+~
+0 1048584 0
+D1
+A plain door leads out of the bath.
+~
+plain door~
+~
+1 0 127
+M 0 H 0
+S
+#129
+Balcony~
+Clean, crisp air catches your breath as it goes by your face.  The smell
+of the gardens from below, and the plants and flowers decorating the
+balcony, bombard your sense of smell, enough to make one delirious.  The
+view is amazing as you can see over the great town of Discordia and beyond
+to the horizon.  Far below, the small people go about their chores and daily
+tasks, not noticing what happens this high above them.  
+~
+0 1048576 2
+D0
+Double glass doors lead back into the castle.
+~
+double glass doors~
+~
+1 0 127
+M 0 H 0
+S
+#130
+Garden Path Around the Castle~
+Closely clipped grass gives the ground a softer fuzz to hard dirt.  The
+smell of freshly cut grass floats its way up from the ground.  Beautiful
+gardens surround you, and the scents from the many exotic and local flowers
+mingles perfectly with the grass.  Tall trees cast speckled shadows across
+the gardens, giving cooling patches of solitude.  The sounds of birds
+singing to each other can be heard echoing from tree to tree.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 131
+D3
+~
+~
+~
+0 0 104
+M 0 H 0
+S
+#131
+Garden Path Around the Castle~
+Closely clipped grass gives the ground a softer fuzz to hard dirt.  The
+smell of freshly cut grass floats its way up from the ground.  Beautiful
+gardens surround you, and the scents from the many exotic and local flowers
+mingles perfectly with the grass.  Tall trees cast speckled shadows across
+the gardens, giving cooling patches of solitude.  The sounds of birds
+singing to each other can be heard echoing from tree to tree.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 132
+D3
+~
+~
+~
+0 0 130
+M 0 H 0
+S
+#132
+Garden Path Around the Castle~
+Closely clipped grass gives the ground a softer fuzz to hard dirt.  The
+smell of freshly cut grass floats its way up from the ground.  Beautiful
+gardens surround you, and the scents from the many exotic and local flowers
+mingles perfectly with the grass.  Tall trees cast speckled shadows across
+the gardens, giving cooling patches of solitude.  The sounds of birds
+singing to each other can be heard echoing from tree to tree.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 136
+D3
+~
+~
+~
+0 0 131
+M 0 H 0
+S
+#133
+Garden Path Around the Castle~
+Closely clipped grass gives the ground a softer fuzz to hard dirt.  The
+smell of freshly cut grass floats its way up from the ground.  Beautiful
+gardens surround you, and the scents from the many exotic and local flowers
+mingles perfectly with the grass.  Tall trees cast speckled shadows across
+the gardens, giving cooling patches of solitude.  The sounds of birds
+singing to each other can be heard echoing from tree to tree.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 103
+D3
+~
+~
+~
+0 0 134
+M 0 H 0
+S
+#134
+Garden Path Around the Castle~
+Closely clipped grass gives the ground a softer fuzz to hard dirt.  The
+smell of freshly cut grass floats its way up from the ground.  Beautiful
+gardens surround you, and the scents from the many exotic and local flowers
+mingles perfectly with the grass.  Tall trees cast speckled shadows across
+the gardens, giving cooling patches of solitude.  The sounds of birds
+singing to each other can be heard echoing from tree to tree.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 133
+D3
+~
+~
+~
+0 0 135
+M 0 H 0
+S
+#135
+Garden Path Around the Castle~
+Closely clipped grass gives the ground a softer fuzz to hard dirt.  The
+smell of freshly cut grass floats its way up from the ground.  Beautiful
+gardens surround you, and the scents from the many exotic and local flowers
+mingles perfectly with the grass.  Tall trees cast speckled shadows across
+the gardens, giving cooling patches of solitude.  The sounds of birds
+singing to each other can be heard echoing from tree to tree.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 139
+D1
+~
+~
+~
+0 0 134
+M 0 H 0
+S
+#136
+Garden Path Around the Castle~
+The beautiful gardens of the front of the castle grow more wild here,
+giving a new beauty to the path.  Bright green grass grows ragged and longer
+here, reaching out to the thick bushes that frame the path you are
+following.  Tall thin windows are set deep into the stone walls of the
+castle, giving you a small glimpse at the riches inside.  Small leaves of
+ivy cling to the base of the castle wall.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 137
+D2
+~
+~
+~
+0 0 132
+M 0 H 0
+S
+#137
+Garden Path Around the Castle~
+The beautiful gardens of the front of the castle grow more wilder here,
+giving a new beauty to the path.  Bright green grass grows ragged and longer
+here, reaching out to the thick bushes that frame the path you are
+following.  Tall thin windows are set deep into the stone walls of the
+castle, giving you a small glimpse at the riches inside.  Small leaves of
+ivy cling to the base of the castle wall.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 138
+D2
+~
+~
+~
+0 0 136
+M 0 H 0
+S
+#138
+Garden Path Around the Castle~
+The beautiful gardens of the front of the castle grow more wilder here,
+giving a new beauty to the path.  Bright green grass grows ragged and longer
+here, reaching out to the thick bushes that frame the path you are
+following.  Tall thin windows are set deep into the stone walls of the
+castle, giving you a small glimpse at the riches inside.  Small leaves of
+ivy cling to the base of the castle wall.  
+~
+0 0 2
+D2
+~
+~
+~
+0 0 137
+D3
+~
+~
+~
+0 0 147
+M 0 H 0
+S
+#139
+Garden Path Around the Castle~
+The beautiful gardens of the front of the castle grow more wilder here,
+giving a new beauty to the path.  Bright green grass grows ragged and longer
+here, reaching out to the thick bushes that frame the path you are
+following.  Tall thin windows are set deep into the stone walls of the
+castle, giving you a small glimpse at the riches inside.  Small leaves of
+ivy cling to the base of the castle wall.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 140
+D2
+~
+~
+~
+0 0 135
+M 0 H 0
+S
+#140
+Garden Path Around the Castle~
+The beautiful gardens of the front of the castle grow more wilder here,
+giving a new beauty to the path.  Bright green grass grows ragged and longer
+here, reaching out to the thick bushes that frame the path you are
+following.  Tall thin windows are set deep into the stone walls of the
+castle, giving you a small glimpse at the riches inside.  Small leaves of
+ivy cling to the base of the castle wall.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 141
+D2
+~
+~
+~
+0 0 139
+M 0 H 0
+S
+#141
+Garden Path Around the Castle~
+The beautiful gardens of the front of the castle grow more wilder here,
+giving a new beauty to the path.  Bright green grass grows ragged and longer
+here, reaching out to the thick bushes that frame the path you are
+following.  Tall thin windows are set deep into the stone walls of the
+castle, giving you a small glimpse at the riches inside.  Small leaves of
+ivy cling to the base of the castle wall.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 142
+D2
+~
+~
+~
+0 0 140
+M 0 H 0
+S
+#142
+Garden Path Around the Castle~
+The back of the Royal castle is almost as impressive as the front.  A
+large lawn is dotted with fountains and flower beds, leading out further to
+what looks like a shrub maze.  Dark green ivy clutches to the white stone
+walls of the castle, rising up to the tall spires and around windows.  Just
+north, you can see what looks to be a huge chess board, perhaps for a live
+game of chess, and just next to that a croquet game is set up.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 143
+D3
+~
+~
+~
+0 0 141
+M 0 H 0
+S
+#143
+Garden Path Around the Castle~
+The back of the Royal castle is almost as impressive as the front.  A
+large lawn is dotted with fountains and flower beds, leading out further to
+what looks like a shrub maze.  Dark green ivy clutches to the white stone
+walls of the castle, rising up to the tall spires and around windows.  Just
+north, you can see what looks to be a huge chess board, perhaps for a live
+game of chess, and just next to that a croquet game is set up.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 144
+D3
+~
+~
+~
+0 0 142
+M 0 H 0
+S
+#144
+Garden Path Around the Castle~
+The back of the Royal castle is almost as impressive as the front.  A
+large lawn is dotted with fountains and flower beds, leading out further to
+what looks like a shrub maze.  Dark green ivy clutches to the white stone
+walls of the castle, rising up to the tall spires and around windows.  Just
+north, you can see what looks to be a huge chess board, perhaps for a live
+game of chess, and just next to that a croquet game is set up.  There seems
+to be a slightly different shade of green patch of ivy, thick on the wall.  
+~
+0 0 2
+E
+ivy~
+A brighter shade of green patch of ivy grows thickly beneath a window
+here.  The patch is almost a perfect square shape, like the outline of a
+miniature door.  
+~
+D1
+~
+~
+~
+0 0 145
+D2
+~
+~
+~
+4 153 116
+D3
+~
+~
+~
+0 0 143
+M 0 H 0
+S
+#145
+Garden Path Around the Castle~
+The back of the Royal castle is almost as impressive as the front.  A
+large lawn is dotted with fountains and flower beds, leading out further to
+what looks like a shrub maze.  Dark green ivy clutches to the white stone
+walls of the castle, rising up to the tall spires and around windows.  Just
+north, you can see what looks to be a huge chess board, perhaps for a live
+game of chess, and just next to that a croquet game is set up.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 146
+D3
+~
+~
+~
+0 0 144
+M 0 H 0
+S
+#146
+Garden Path Around the Castle~
+The back of the Royal castle is almost as impressive as the front.  A
+large lawn is dotted with fountains and flower beds, leading out further to
+what looks like a shrub maze.  Dark green ivy clutches to the white stone
+walls of the castle, rising up to the tall spires and around windows.  Just
+north, you can see what looks to be a huge chess board, perhaps for a live
+game of chess, and just next to that a croquet game is set up.  A large
+stone is set against the castle wall, but the ivy makes sure to grow around
+it.  
+~
+0 0 2
+E
+stone~
+Sparkling with a light of its own, this large stone seems to have some
+type of magical air about it to not have the ivy growing against it.  Or the
+gardeners make sure the ivy is kept pruned.  
+~
+D1
+~
+~
+~
+0 0 147
+D3
+~
+~
+~
+0 0 145
+D5
+~
+~
+~
+1 0 114
+M 0 H 0
+S
+#147
+Garden Path Around the Castle~
+The back of the Royal castle is almost as impressive as the front.  A
+large lawn is dotted with fountains and flower beds, leading out further to
+what looks like a shrub maze.  Dark green ivy clutches to the white stone
+walls of the castle, rising up to the tall spires and around windows.  Just
+north, you can see what looks to be a huge chess board, perhaps for a live
+game of chess, and just next to that a croquet game is set up.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 138
+D3
+~
+~
+~
+0 0 146
+M 0 H 0
+S
+#148
+Dank Tunnel~
+There is a damp coolness coming from these lower depths of the world. 
+Total darkness surrounds you outside of your own source of light.  Reaching
+out, you can feel rough stone walls, giving a little more room than two
+people would need.  Occasionally you can feel a small trickle of water
+running down the stone, echoing the soft drips eerily around you.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 114
+D2
+~
+~
+~
+0 0 149
+M 0 H 0
+S
+#149
+Dank Tunnel~
+There is a damp coolness coming from these lower depths of the world. 
+Total darkness surrounds you outside of your own source of light.  Reaching
+out, you can feel rough stone walls, giving a little more room than two
+people would need.  Occasionally you can feel a small trickle of water
+running down the stone, echoing the soft drips eerily around you.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 148
+D1
+~
+~
+~
+0 0 150
+M 0 H 0
+S
+#150
+Dank Tunnel~
+There is a damp coolness coming from these lower depths of the world. 
+Total darkness surrounds you outside of your own source of light.  Reaching
+out, you can feel rough stone walls, giving a little more room than two
+people would need.  Occasionally you can feel a small trickle of water
+running down the stone, echoing the soft drips eerily around you.  Feeling
+the sides of the wall more closely, your finger tips come across a wooden
+door, that feels extremely strong and sturdy to the north.  
+~
+0 1048585 0
+D0
+~
+~
+~
+3 152 152
+D2
+~
+~
+~
+0 0 151
+D3
+~
+~
+~
+0 0 149
+M 0 H 0
+S
+#151
+Dank Tunnel~
+There is a damp coolness coming from these lower depths of the world. 
+Total darkness surrounds you outside of your own source of light.  Reaching
+out, you can feel rough stone walls, giving a little more room than two
+people would need.  Occasionally you can feel a small trickle of water
+running down the stone, echoing the soft drips eerily around you.  The
+tunnel ends here suddenly, giving you a closed-in feeling of oppressiveness.
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 150
+M 0 H 0
+S
+#152
+Hidden Room~
+This room is cavernous in size, and any sound you make echoes back to you
+eerily.  A heavy wooden table is set up in the centre of the room, and many
+chairs are placed neatly around it.  On the table, there is a single large
+candle holder, which barely lights to the edge of the table.  The faint
+lighting from the candle does cause strange shadows to jump across the stone
+walls, almost as though they were alive.  You can tell just from the looks,
+let alone the feel, of the room, that this place was meant for secrecy.  
+~
+0 1048585 0
+D2
+~
+~
+~
+3 0 150
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 102 spec_janitor
+M 107 spec_cast_mage
+M 111 spec_breath_fire
+S
+
+
+
+#RESETS
+D 0 100 1 1
+D 0 101 3 1
+D 0 107 0 2
+D 0 108 2 2
+D 0 110 1 1
+D 0 110 3 1
+D 0 110 5 1
+D 0 111 0 1
+D 0 111 1 1
+D 0 111 3 1
+D 0 112 0 1
+D 0 112 1 1
+D 0 112 3 1
+D 0 115 4 1
+D 0 116 2 1
+D 0 116 3 1
+D 0 117 1 2
+D 0 117 3 1
+D 0 118 0 2
+D 0 120 3 2
+D 0 121 1 1
+D 0 121 2 1
+D 0 122 1 1
+D 0 125 2 2
+D 0 127 2 1
+D 0 127 3 1
+D 0 128 1 1
+D 0 129 0 1
+D 0 144 2 2
+D 0 146 5 1
+D 0 150 0 2
+D 0 152 2 2
+M 0 105 3 101 10
+E 0 116 0 16
+M 0 106 3 102 10
+E 0 117 0 16
+M 0 152 3 103 10
+M 0 105 3 104 10
+E 0 116 0 16
+M 0 106 3 105 10
+E 0 117 0 16
+O 0 104 0 107
+M 0 107 2 107 10
+E 0 118 0 16
+M 0 101 1 108 10
+M 0 105 3 108 10
+E 0 116 0 16
+M 0 102 3 109 10
+M 0 106 3 109 10
+E 0 117 0 16
+M 0 107 2 109 10
+E 0 118 0 16
+M 0 104 2 110 10
+E 0 114 0 5
+E 0 115 0 16
+O 0 102 0 110
+O 0 103 0 110
+M 0 100 2 116 10
+M 0 100 2 116 10
+G 0 130 0
+G 0 129 0
+G 0 128 0
+G 0 127 0
+G 0 126 0
+G 0 125 0
+G 0 124 0
+G 0 123 0
+G 0 122 0
+M 0 102 3 119 10
+O 0 11602 0 120
+O 0 107 0 120
+M 0 103 2 120 10
+E 0 112 0 5
+E 0 113 0 16
+M 0 102 3 121 10
+O 0 108 0 121
+O 0 108 0 123
+O 0 110 0 125
+O 0 111 0 127
+O 0 155 0 138
+M 0 152 3 138 10
+M 0 152 3 141 10
+G 0 153 0
+O 0 151 0 152
+O 0 150 0 152
+S
+
+
+
+#SHOPS
+100 19 17 0 0 0 100 30 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

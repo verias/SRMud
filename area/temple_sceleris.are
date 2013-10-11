@@ -1,0 +1,723 @@
+#AREADATA
+Name {15 99} Celine  *Temple of Sceleris~
+Builders Celine~
+VNUMs 13800 13899
+Security 1
+End
+
+
+
+#MOBILES
+#13800
+distracted woman~
+a distracted woman~
+A distracted woman gazes at a mirror
+~
+A distracted woman stands here, staring into a single mirror, touching her face with an expression of longing.
+~
+Human~
+AB 0 0 S
+15 0 5d31+200 15d10+100 2d4+2 0
+4 4 4 6
+0 0 0 0
+9 9 2 67
+AHMV ABCDEFGHIJK M unknown
+#13801
+gluttonous man~
+a gluttonous man~
+A man stuffing his face with food wanders the room
+~
+Each table he steps up to he grabs a single piece of food, taking a huge bite then tossing it onto the floor.
+~
+Human~
+AB 0 0 S
+15 0 5d31+200 15d10+100 2d4+2 0
+4 4 4 6
+0 0 0 0
+9 9 0 67
+AHMV ABCDEFGHIJK M unknown
+#13802
+tall man cook~
+a cook~
+A tall man stands here, making food
+~
+This man doesn't even bother to acknowledge your presence as he continues to cook food.  He looks exhausted and like he's slowly starving to death.
+~
+Human~
+AB 0 0 S
+15 0 5d31+200 15d10+100 2d4+2 0
+4 4 4 6
+0 0 0 0
+9 9 0 67
+AHMV ABCDEFGHIJK M unknown
+#13803
+greedy man~
+a greedy man~
+A man stands here, clutching a statue to his chest
+~
+His body thin and haggard and eyes staring wildly, this man clutches a small statue close to his chest.
+~
+Human~
+AB 0 0 S
+15 0 5d31+200 15d10+100 2d4+2 0
+4 4 4 6
+0 0 0 0
+9 9 0 67
+AHMV ABCDEFGHIJK M unknown
+#13804
+raging man~
+a raging man~
+A man rages about the room, slashing wildly with a sword
+~
+His eyes crazed, this man yells and screams, slashing wildly with a sword.  
+~
+Human~
+AB 0 0 S
+20 0 6d39+294 20d10+100 3d5+4 0
+2 2 2 4
+0 0 0 0
+9 9 0 90
+AHMV ABCDEFGHIJK M unknown
+#13805
+vain man~
+a vain man~
+A vain man stares at a mirror
+~
+This man stands here, holding a small mirror, just looking at his
+reflection and posing in various ways.  
+~
+Human~
+AB 0 0 S
+15 0 5d31+200 15d10+100 2d4+2 0
+4 4 4 6
+0 0 0 0
+9 9 0 67
+AHMV ABCDEFGHIJK M unknown
+#13806
+sleeping man~
+a sleeping man~
+A large man is draped over a soft mat, snoring quietly
+~
+Not a movement is made to show he even notices you there, he just sleeps,
+snoring quietly.  
+~
+Human~
+AB 0 0 S
+15 0 5d31+200 15d10+100 2d4+2 0
+4 4 4 6
+0 0 0 0
+4 4 0 67
+AHMV ABCDEFGHIJK M unknown
+#13807
+sadistic woman~
+a sadistic woman~
+A beautiful woman stands here, holding a black riding crop 
+~
+Long blond hair hides most of this woman's face, her nose and soft smile
+being all that's visible.  She swings her riding crop lazily through the
+air, laughing softly.
+~
+Human~
+AB 0 0 S
+20 0 6d39+294 20d10+100 3d5+4 0
+2 2 2 4
+0 0 0 0
+9 9 0 90
+AHMV ABCDEFGHIJK M unknown
+#13808
+masochist man~
+a masochist~
+A man dangles from the cuffs in the ceiling
+~
+His body covered in welts, this nude man still smiles, loudly begging to be hit again, to bleed.
+~
+Human~
+AB 0 0 S
+15 0 5d31+200 15d10+100 2d4+2 0
+4 4 4 6
+0 0 0 0
+9 9 0 67
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#13800
+glowing ruby orb~
+a glowing ruby orb~
+A glowing ruby orb pulsates with a soft red light~
+unknown~
+1 A AO 0
+0 0 999 0 0
+15 1 0 P
+A
+12 10
+A
+13 10
+A
+19 3
+A
+18 3
+L
+throbbing darkly~
+0
+#13801
+pillow~
+a plush pillow~
+A plush pillow lies here~
+unknown~
+12 R 0 AEI
+0 0 0 0 0
+0 0 0 P
+0
+#13802
+huge roast~
+a huge roast~
+A huge roast sits here, still steaming slightly~
+unknown~
+19 0 A 0
+BD 0 0 0 0
+0 10 1 P
+0
+#13803
+cream tart~
+a cream tart~
+A delicious looking cream tart is here~
+unknown~
+19 0 A 0
+A 0 0 0 0
+0 1 1 P
+0
+#13804
+dark ale~
+a mug of dark ale~
+A large mug of strong smelling dark ale is here~
+unknown~
+17 0 A 0
+C C C 0 0
+0 1 1 P
+0
+#13805
+gold statue~
+a gold statue~
+A small gold statue, shaped like a beautiful woman~
+unknown~
+4 0 A 0
+ABCD AB AB 0 0
+15 5 75 P
+0
+#13806
+serrated sword~
+a serrated sword~
+A sword with a wickedly serrated edge lies here~
+unknown~
+5 0 AN 0
+A AC D A J
+20 0 100 P
+0
+#13807
+small mirror~
+a small mirror~
+A small mirror reflects strange images on it's surface~
+unknown~
+3 A AO 0
+ABCD AB AB 14 0
+15 1 0 P
+0
+#13808
+riding crop~
+a riding crop~
+A black leather riding crop lies here~
+unknown~
+5 0 AN 0
+0 AC BC BDE 0
+15 2 75 P
+A
+19 1
+0
+#13809
+leather wrist bindings~
+leather wrist bindings~
+A pair of leather straps to bind wrists sit in a crumpled heap~
+unknown~
+9 EM AH 0
+B B B 0 0
+15 3 75 P
+A
+5 2
+A
+2 -2
+L
+binding hands~
+0
+#13810
+diamond throne~
+a diamond throne~
+A massive throne made of diamond glows with faint red light~
+unknown~
+12 R 0 AE
+0 0 0 0 0
+0 0 0 P
+0
+#13811
+red cushion~
+a red cushion~
+A soft red cushion to rest on lies here~
+unknown~
+12 R 0 AE
+0 0 0 0 0
+0 0 0 P
+0
+#13812
+celine blessing~
+the Blessing of Celine~
+An smoke like armband lies here~
+unknown~
+9 AB AM 0
+D D D B 0
+50 1 250 P
+A
+13 10
+A
+18 2
+A
+19 2
+L
+worn with pride~
+0
+#13813
+black rose~
+a mace named 'Black Rose'~
+A large, black mace shaped like a rose lies here~
+unknown~
+5 E AN 0
+C D CD BE C
+50 10 250 P
+A
+12 5
+A
+13 10
+0
+#13814
+corruption~
+the whip 'Corruption'~
+A long black whip made of rotting leather is curled here~
+unknown~
+5 AE AN 0
+ABC CD E ABE 0
+100 5 500 P
+A
+2 2
+A
+13 40
+A
+12 40
+0
+#13815
+circlet~
+the Circlet of the High Sceleran~
+A circlet made of twisted black metal seems to absorb the light~
+unknown~
+9 0 AE 0
+BD BD BD BD 0
+40 1 200 P
+A
+12 70
+A
+13 70
+0
+#0
+
+
+
+#ROOMS
+#13800
+A Dim Corridor~
+A soft red light filters into this small corridor from a door to the
+north.  A low mist covers the floor, smelling faintly of perfume, glowing a
+faint red.  Soft music can be heard playing, its sound soothing and somewhat
+peaceful.  To the south a small glowing portal provides the only exit of the
+temple.  The walls are rough cut stone, sparkles of gold showing as a deep
+red in the light.  Completely smooth stone makes up the floor, its surface
+its surface has been polished to a mirror finish, brighter than the bands of gold inlayed in the
+stone.  
+~
+0 8 0
+D0
+~
+~
+0 0 13801
+S
+#13801
+A Huge Room~
+A thick mist covers the floor of this room, making the plush red pillows
+that rest on the floor seem almost like small islands.  Columns of pure
+gold rise out of the mist to support the stone ceiling high above.  To the
+east, west and north stone stairs rise out of the mist, leading to doors to
+other parts of the temple.  A delicate polished steel spiral staircase in
+the center of the room leads up to the upper levels of the temple.  Soft red
+light filters down from above.  
+~
+0 8 0
+D0
+~
+~
+1 0 13807
+D1
+~
+~
+1 0 13806
+D2
+~
+~
+0 0 13800
+D3
+~
+~
+1 0 13808
+D4
+~
+~
+0 0 13802
+S
+#13802
+Upper Level of a Huge Room~
+Delicate walkways made of silver lead from the spiral stairs, each to a
+different steel door.  The stairs continue up, leading to the source of the
+red light that filters down through a light fog from above.  Soft music
+drifts through the air, sometimes punctuated with a brief muted scream
+coming from the northern door.  
+~
+0 8 0
+D0
+~
+~
+1 0 13810
+D1
+~
+~
+1 0 13809
+D2
+~
+~
+1 0 13816
+D3
+~
+~
+1 0 13811
+D4
+~
+~
+0 0 13803
+D5
+~
+~
+0 0 13801
+S
+#13803
+Top of the Stairs~
+The spiral stairway ends on a large golden platform, anchored to the
+walls with delicate silver chains.  To the east and west short corridors
+lead off into dark rooms.  A large ruby floats near the ceiling, high above.
+Mist drifts from the ruby, it trailing slowly down to the floor and looking
+almost solid enough to walk on.  The red light comes from the ruby above as
+it pulses softly, the pulses similar to the beating of a heart.  
+~
+0 8 0
+D1
+~
+~
+0 0 13812
+D3
+~
+~
+0 0 13814
+D4
+~
+~
+0 0 13804
+D5
+~
+~
+0 0 13802
+S
+#13804
+Outside the Ruby~
+The mist encircles the ruby, it breaking up into tattered bits that float
+slowly down and away from the ruby.  On the southern side of the ruby a
+entryway leads into the large ruby.  The pulsing light makes the already
+dangerously small path even more treacherous.  Soft laugher fills the air,
+it having a somewhat mocking tone.  
+~
+0 8 0
+D0
+~
+~
+0 0 13805
+D5
+~
+~
+0 0 13803
+S
+#13805
+A Throne of Diamond~
+A large diamond throne sits against the north wall of the ruby, looking
+covered in blood from the ruddy light emanating from the walls.  Plush red
+cushions to kneel on are placed in regular intervals in front of the throne
+on the floor.  At times the ruby wall behind the throne seems to fade,
+revealing a swirling portal of darkness.  An almost overpowering perfume
+fills the room, making it almost a challenge to breath.  
+~
+0 8 0
+D2
+~
+~
+0 0 13804
+S
+#13806
+Room of Gluttony~
+Long tables fill this room, groaning from the weight of the delicious
+food that completely covers each table.  The floor is covered with half
+eaten bits of food, some of the food having only been bitten once.  A long
+wooden counter lies along the southern wall, covered in food to be delivered
+to each of the tables.  A simple wooden door leads back to the main room.  
+~
+0 8 0
+D3
+~
+~
+1 0 13801
+S
+#13807
+Room of Envy~
+Countless scrying mirrors cover the walls, every mirror showing some
+person of great beauty or during a moment of personal triumph.  Even the
+floor is a mirror finish, showing images of countless beings.  A single
+mirror is cracked, some shards having fallen to the floor, the stone wall
+visible behind it, a part of it reduced to powder from the force of some
+great strike.  A plain wooden door leads back out into the main room of the
+temple.  
+~
+0 8 0
+D2
+~
+~
+1 0 13801
+S
+#13808
+Room of Avarice~
+Stacks of gold coins are piled up around the walls, some piles spilled
+across the stone floor.  Priceless vases stand on ornate crystal stands that
+are encrusted with jewels.  Large casks, barrels, and chests stand open,
+overflowing with gems and coins of all shapes and sizes.  A single table
+sits in the center of the room, looking like it's going to break under the
+weight of solid gold statues that are jumbled in a pile on top of it.  A
+door of cold steel bars stands open, too blocked by treasure to be used to
+block off the entryway of the room.  
+~
+0 8 0
+D1
+~
+~
+1 0 13801
+S
+#13809
+Room of Lust~
+Dim red light fills this room and the floor is barely visible from the
+red mist covering it.  A large bed sits in the center of the room, right
+next to a pair of manacles hanging from the ceiling.  A dull throbbing fills
+the room, pulsing through your body, making your skin tingle and itch from
+your clothing.  A door to the west leads back into the temple, mostly hidden
+by strings of shimmering beads.  
+~
+0 8 0
+D3
+~
+~
+1 0 13802
+S
+#13810
+Room of Anger~
+The ruddy, firelit walls, although obviously rough hewn stone, seem to
+ooze and flow in a seeping mirage of movement, reminicscent of flowing
+blood.  Carcasses, torn apart, and with the skin flayed from their shattered
+bones litter the floor, blood pooling, and flowing around them.  Firelight,
+emanating from a single brazier set in the center of the room, flickers
+fitfully around the room, its ruddy glare creating dancing, whirling shadows
+on the walls, a macabre celebration of the carnage below.  To the south, a
+simple archway covered by strips of human skin masks the bloodied wooden
+door that leads away from this massacre.  
+~
+0 8 0
+D2
+~
+~
+1 0 13802
+S
+#13811
+Room of Pride~
+This simple stone room has a single table sitting in the center with a
+lone chair sitting infront of it.  On the table is a large, ornate mirror
+with a slightly distorted surface, giving any who look into it a strangely
+altered appearance.  A very plain wooden door leads out to the east and back
+to the main room of the temple.  
+~
+0 8 0
+D1
+~
+~
+1 0 13802
+S
+#13812
+A Short Corridor~
+The stone walls and ceiling give barely enough space for a person to
+pass.  The walls are rough hewn marble and seem to swallow what little light
+makes it into the corridor from the two adjoining rooms.  Soft murmurs of
+speech come from the room to the east, along with a dim yellow light. 
+Heading to the east leads you back to the golden platform.  
+~
+0 9 0
+D1
+~
+~
+0 0 13813
+D3
+~
+~
+0 0 13803
+S
+#13813
+Planning Room~
+The walls of this room are covered in maps, each one showing a different
+area of Discordia and Utopia.  Strange runes, somehow both familiar and
+impossible to read move across the maps, sometimes stopping for long periods
+of time.  A table completely covered in maps sits in the center of the room,
+these maps having various routes traced out along them in dark red ink.  A
+simple archway marks the exit back to the rest of the temple.  
+~
+0 8 0
+D3
+~
+~
+0 0 13812
+S
+#13814
+A Short Corridor~
+The stone walls and ceiling give barely enough space for a person to
+pass.  The walls are rough hewn marble and seem to swallow what little light
+makes it into the corridor from the two adjoining rooms.  A soothing humming
+and strange smell drift into the corridor from the room to the west. 
+Heading to the east leads you back to the golden platform.  
+~
+0 9 0
+D1
+~
+~
+0 0 13803
+D3
+~
+~
+0 0 13815
+S
+#13815
+Meditation Chamber~
+A soothing feeling of peace wraps around you as you enter this room.  A
+faint itching slides over your skin, speeding the healing of all injuries on
+your body.  Large bookshelves cover the walls, every one filled with books
+of all sizes and colors.  Plush couches make a rough circle near the
+bookshelves, some with books laying open on them.  A simple archway leads
+back into the corridor to the west.  
+~
+0 37748744 0
+D1
+~
+~
+0 0 13814
+S
+#13816
+Room of Sloth~
+An unearthy weariness clings to the very air in this still, quiet room;
+as if reality itself can do no more than rest its tired head.  A single
+melted candle flickering lazily, its flame nearly extinguished by the puddle
+of wax it has become, rests on a simple wooden table near the centre of the
+room.  Pillows, plush carpets, and low, overstuffed down mats line the
+floor, most filled by slumbering beings of every description.  To the north,
+a padded door muffles sound from entering the still room.  
+~
+0 8 0
+D0
+~
+~
+1 0 13802
+S
+#13899
+The Shrine of Celine~
+Polished stone steps lead up to a small marble platform.  A low railing
+of a strange blue metal runs around the platform, leading down the stairs,
+it supported at regular intervals by statues of beautiful women made of the
+same blue metal.  The center of the platform is dominated by a marble block,
+it inlayed with dizzying patterns of polished gold.  Immediately behind the
+block stands a tall statue of a heart-breakingly beautiful woman, gems
+decorating the robes and a pair of large rubies set for eyes.  A strange
+feeling of being watched comes from the statue and it almost seems as if
+those gemstone eyes are watching your every move.  
+~
+0 4 0
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 13801 0 0
+D 0 13801 1 0
+D 0 13802 0 0
+D 0 13802 1 0
+D 0 13802 2 0
+D 0 13802 3 0
+D 0 13806 3 0
+D 0 13807 2 0
+D 0 13809 3 0
+D 0 13810 2 0
+D 0 13811 1 0
+D 0 13816 0 0
+O 0 13801 0 13801
+O 0 13810 0 13805
+O 0 13811 0 13805
+M 0 13801 1 13806
+M 0 13802 1 13806
+G 0 13802 0
+G 0 13803 0
+G 0 13804 0
+M 0 13800 1 13807
+M 0 13803 1 13808
+E 0 13805 0 17
+M 0 13807 1 13809
+E 0 13808 0 16
+M 0 13808 1 13809
+E 0 13809 0 9
+M 0 13804 1 13810
+E 0 13806 0 16
+M 0 13805 1 13811
+E 0 13807 0 17
+M 0 13806 1 13816
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

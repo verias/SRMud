@@ -1,0 +1,3382 @@
+#AREADATA
+Name {25 35} Maddie  Kregora Castle~
+Builders None~
+VNUMs 401 500
+Security 9
+End
+
+
+
+#MOBILES
+#406
+sparrow~
+a sparrow~
+A sparrow darts swiftly through the clouds.
+~
+The brown-speckled sparrow flies about the clouds, searching for a place
+to land and rest it's tired wings.  Tiny black eyes examine everything from
+a large rock to a small bush.  Seeing people walking by, the bird takes to
+the air and soon is swallowed by the immense brightness of the sky.  
+~
+Song Bird~
+A T 0 S
+10 10 3d23+120 10d10+100 2d3+2 23
+6 6 6 6
+FH 0 S 0
+9 9 3 45
+AGW ACDEFHKOP T unknown
+#407
+ghostly adviser~
+a ghostly adviser~
+One of king Zadris' advisers tries to give comfort now in death as he did in life.
+~
+Blue robes cover the bent form of this figure that at first glance seems to 
+be a man, and then it becomes apparent that he is a ghost as his image fades 
+before you.  He calls to the king trying to calm the concerned monarch 
+without any effect it appears.  
+~
+Ghost~
+AB TU 0 S
+25 0 8d48+400 100d10+100 3d5+7 16
+0 0 0 2
+FK 0 A C
+9 9 1 112
+CIKLM ABCDEFGHIJK M unknown
+#408
+ghostly elder woman~
+a ghostly elder~
+A ghostly village elder rests in the comfort of a chair.
+~
+As in death this person looks like they did in life with frizzy white hair 
+surrounds a wrinkled face filled with the calm serenity that comes with age. 
+ Yellowing nails rest against the arms of a comfortable chair.  Dim eyes 
+watch the stew pot and supervise the activities of the children.  
+~
+Ghost~
+AB JTU 250 S
+28 0 9d55+470 28d10+100 3d5+9 16
+0 0 0 1
+JR 0 AB CZ
+7 9 2 126
+ACHIKLMV ABCDEFGHIJK M unknown
+#409
+phantom villager ghost~
+a phantom villager~
+A phantom of a villager stands here, looking concerned.
+~
+This flickering ghost could be either male or female, most of the definition 
+has faded and now it is just a shade of its former self.  Dun colored 
+clothing are faintly visible as it flickers before you as it tatty looking 
+brown hair.  
+~
+Ghost~
+A TU 0 S
+25 0 8d48+400 100d10+100 3d5+7 17
+0 0 0 2
+I 0 A C
+9 9 3 112
+CIKLM ABCDEFGHIJK M unknown
+#411
+ghost chief man~
+a village chief~
+The ghost of the village chief calls the crowd to attention.
+~
+Bushy red hair surrounds a weathered face atop a brawny torso.  Green eyes 
+survey the villagers present and reveal a deep concern for the welfare of 
+the princess.  Sporadically the image fades almost as if it doesn't truly 
+belong here.  
+~
+Ghost~
+AB TU 600 S
+30 0 10d60+520 30d10+100 3d6+8 17
+-1 -1 -1 0
+EK 0 AS C
+9 9 1 135
+ACHIKLMV ABCDEFGHIJK M unknown
+#412
+ghost chief wife woman~
+the chief's wife~
+The ghost of the chief wife hurries to fix a basket of food.
+~
+This ghost is obviously worried, the young wife of the chief hurries to and 
+fro to put a lunch together for the search party.  Strands of gentle brown 
+hair escape the mob cap resting on top of a large bun perched at the crown 
+of her head.  Pale, white skin is accented by a dark brown wool overdress 
+with flour decorating the front and sides.  
+~
+Human~
+AB N 500 S
+28 0 9d55+470 28d10+100 3d5+9 16
+0 0 0 1
+EF 0 B 0
+9 9 2 126
+AHMV ABCDEFGHIJK M unknown
+#415
+ghostly shaman~
+a ghostly shaman~
+A ghostly shaman still mutters quietly while mixing potions.
+~
+The shaman has an unkempt appearance.  Twigs and bits of colored cloth are 
+braided and woven into dirty brown hair.  Smudges of white powder streak 
+across each cheek below amber colored eyes of what must be a ghost, judging 
+by the faded nature of his existence.  Grubby hands constantly touch pockets 
+on the filthy green robe as if searching for something missing.  
+~
+Ghost~
+AB HJTU 500 S
+29 0 9d57+495 29d10+100 3d6+8 18
+-1 -1 -1 0
+0 0 ALQ CR
+9 9 0 130
+ACHIKLMV ABCDEFGHIJK M unknown
+#418
+shade falcon guard ghost~
+a Falcon guard~
+The shade of a Falcon guard walks alertly around the perimeter.
+~
+Proudly wearing the glittering armor of the Falcon Guard, this warrior 
+searches the grounds for clues as to the whereabouts of the princess.  Even 
+in death this apparition shows an alertness and concern for the missing 
+princess.  
+~
+Ghost~
+A TUa 700 S
+30 0 10d60+520 30d10+100 3d6+8 3
+-1 -1 -1 0
+EK N AE C
+9 9 3 135
+ACHIKLMV ABCDEFGHIJK M unknown
+#420
+shade ghostly black smith~
+a ghostly blacksmith~
+The shade of a blacksmith hammers steadily on a sword.
+~
+This shade looks as it did in life with a wealth of thick, black hair is 
+pulled back and tied in place with leather strips.  Nearly black eyes squint 
+against the intense light of the central fire.  A short sleeved tunic and 
+thick leather breeches provide little relief from the sweltering heat inside 
+the smithy.  
+~
+Ghost~
+AB JTU 500 S
+29 0 9d57+495 29d10+100 3d6+8 7
+-1 -1 -1 0
+0 0 ALQ CR
+9 9 2 130
+ACHIKLMV ABCDEFGHIJK M unknown
+#421
+ghostly wolf hound~
+a ghostly wolfhound~
+The ghost of a wolfhound waits impatiently for dinner.
+~
+Dark, twin eyes follow every move made outside of the pen.  Mottled dark
+fur stands straight up in spots where scabs mar the skin.  The menace oozing
+from the beast suggests leaving quickly.  
+~
+Dog~
+AB a -200 S
+27 0 9d52+446 27d10+100 3d5+8 10
+0 0 0 1
+H 0 B CH
+9 9 1 121
+AGV ACDEFHJKPUV M unknown
+#422
+ghostly stable boy~
+a ghostly stable boy~
+The ghost of a stable boy wanders about with no supervision.
+~
+What was a young boy with sad blue eyes now is naught but a ghost though he 
+still walks aimlessly among the stalls.  Straw covers his durable wool tunic 
+while dust coats the bottom of his breeches.  
+~
+Ghost~
+AB PTU 200 S
+25 0 8d48+400 25d10+100 3d5+7 16
+0 0 0 2
+F 0 A C
+9 9 1 112
+ACHIKLMV ABCDEFGHIJK M unknown
+#424
+ghostly brewer~
+a ghostly brewer~
+The ghost of a brewer is slumped over the counter here, snoring.
+~
+This specter looks to have soiled clothing and yesterday's wrinkles that 
+adorns the slumbering form of the elderly brewer.  A scraggly white beard 
+and bushy grey eyebrows give the old man a grumpy aspect.  A tankard rolls 
+from relaxed fingers and spills a golden fluid over the counter top.  
+~
+Ghost~
+AB RTU 200 S
+25 0 8d48+400 25d10+100 3d5+7 15
+0 0 0 2
+JK 0 AL C
+4 9 1 112
+ACHIKLMV ABCDEFGHIJK M unknown
+#425
+tazlen ghost~
+Tazlen's ghost~
+The ghost of Tazlen sits in a corner, repairing a shield.
+~
+This ghosts shoulders seem slumped as he works diligently to repair all the 
+armor he can for the castle guard.  Tired eyes stare unblinkingly at a 
+battered coif held in scraped hands that move swiftly to fix broken links.  
+~
+Ghost~
+AB JTU 650 S
+28 0 9d55+470 112d10+100 3d5+9 13
+0 0 0 1
+FJ 0 AB CZ
+9 9 1 126
+ACHIKLMV ABCDEFGHIJK M unknown
+#426
+ghostly sorcerer~
+a ghostly sorcerer~
+The ghost of a sorcerer stands here, still mixing potions even after death.
+~
+The ghost of a thin man of advanced years dabbles with several powders from 
+different crucibles.  His long, honey-brown beard hides the lower half of 
+his face while thinning golden hair mingles with the beard to give the 
+impression of a mass of hair and two eyes in the midst of all the hair.  
+~
+Ghost~
+AB TU 450 S
+28 0 9d55+470 112d10+100 3d5+9 17
+0 0 0 1
+0 0 ANS C
+9 9 1 126
+ACHIKLMV ABCDEFGHIJK M unknown
+#427
+guard~
+a castle guard~
+The ghost of a castle guard mutters under his breath.
+~
+The ghost of a disgruntled warrior paces back and forth, waiting to be 
+released for a more important duty.  He mutters about how he is sure he will 
+be the one to find the princess and that if they would only let him do his 
+job he would find her.  
+~
+Ghost~
+A JTUZ 400 S
+25 0 8d48+400 100d10+100 3d5+7 17
+0 0 0 2
+EK 0 AB CZ
+9 9 1 112
+ACHIKLMV ABCDEFGHIJK M unknown
+#430
+ghostly servant girl serving~
+a ghostly servant~
+A serving girl's ghost wanders here in distress.
+~
+This ghosts pale blonde hair streams over a simple blue servants dress.  Her 
+normally cheerful face is downcast as she hurries about the room, cleaning 
+and stocking the tables.  Tears of concern streak her cheeks for the lost 
+princess.  
+~
+Ghost~
+A TU 500 S
+25 0 8d48+400 100d10+100 3d5+7 16
+0 0 0 2
+FH 0 AB CI
+9 9 2 112
+ACHIKLMV ABCDEFGHIJK M unknown
+#431
+king zadris ghost~
+King Zadris' ghost~
+The ghost the king paces back and forth across the room.
+~
+Deep shadows darken the ghost of king's Zadris {ccyan{x colored eyes.  His pale 
+face is lined with worry as he walks endlessly about the room.  His deep 
+purple robes flutter as his steps carry him past windows and doorways.  He 
+stops a minute to listen to his beloved wife before continuing his endless 
+permutations.  
+~
+Ghost~
+AB HTUV 600 S
+35 3 10d76+654 140d10+100 4d6+9 27
+-3 -3 -3 -1
+AHR B AN CM
+5 9 1 157
+ACHIKLMV ABCDEFGHIJK M unknown
+#432
+ghost queen ellyn~
+Queen Ellyn's ghost~
+The queen's ghost walks here, worried about her missing daughter.
+~
+Soft black hair frames her gentle face while tears shimmer in eyes the color 
+of deep amethysts.  A soft linen handkerchief never leaves her clenched 
+hand.  Her beseeching eyes follow the quick yet aimless path of her husband, 
+the king.  Though clearly long dead her phantom still holds the beauty it 
+must have possessed in life.  
+~
+Ghost~
+AB HTU 600 S
+34 0 10d73+626 136d10+100 4d5+10 18
+-3 -3 -3 -1
+R B AN CL
+9 9 2 153
+ACHIKLMV ABCDEFGHIJK M unknown
+#440
+ghostly servant~
+a ghostly servant~
+A ghostly servant cringes and tries to avoid drawing the cook's attention.
+~
+Lank, greasy hair hangs down across nervous eyes as they dart about the
+room, constantly checking for the head cook.  An angry red welt mars the
+pale surface of a cheek while an ugly bruise grows just beneath the surface
+of the skin.  A calloused hand brushes gently across the mark, causing a
+wince to flit across the thin face.  
+~
+Ghost~
+AB TU 0 S
+25 0 8d48+400 25d10+100 3d5+7 16
+0 0 0 2
+U 0 AP CE
+9 9 3 112
+ACHIKLMV ABCDEFGHIJK M unknown
+#441
+ghostly cook~
+a ghostly cook~
+A ghost of the head cook stands here, glowering at his underlings.
+~
+Bushy grey eyebrows form a solid line across the top of his face, making
+the perpetual scowl seem a natural extension of his personality.  A rosy hue
+to his cheeks and nose is explained by a hefty swig taken from an almost
+empty stein carried with him.  Waving his large wooden spoon about to make
+his point, he glares at the object of his ire and rants.  
+~
+Ghost~
+AB TUa 0 S
+27 0 9d52+446 27d10+100 3d5+8 13
+0 0 0 1
+R 0 ABE CR
+9 9 1 121
+ACHIKLMV ABCDEFGHIJK M unknown
+#442
+ghostly gardener~
+a ghostly gardener~
+A ghostly gardener works here.
+~
+Gentle brown eyes hide a soft smile in their depths as they are raised in 
+greeting.  Clearing tools off of a bench, the gardener welcomes you to the 
+lush garden with a few soft-spoken words and a bright smile.  Tugging on his 
+collar, he excuses himself and returns to the herb patch with a serene 
+smile.  As you continue to gaze at the figure it flickers before you.  
+~
+Ghost~
+A TUc 400 S
+30 0 10d60+520 120d10+100 3d6+8 6
+-1 -1 -1 0
+J N A CM
+9 9 0 135
+ACHIKLMV ABCDEFGHIJK M unknown
+#443
+ghostly butler man~
+a butler's ghost~
+A ghostly butler stands here, looking unkempt.
+~
+Two small eyes stare blankly at the floor from above a heavily veined red
+nose.  The watery depths of those two blue-grey orbs once held great
+interest for many a woman before age and drink took their toll, washing away
+color and charm.  The tousled greying hair adds to the rumpled affect.  With
+aged speckled hands constantly running through the disorderly mop, the
+butler's appearance often seems unkempt.  
+~
+Ghost~
+A JTU 300 S
+31 0 10d63+545 124d10+100 4d5+8 17
+-2 -2 -2 0
+I R AB CIZ
+9 9 1 139
+ACHIKLMV ABCDEFGHIJK M unknown
+#454
+captain garen ghost phantom~
+Captain Garen's ghost~
+The ghost of the guard captain closely examines the room.
+~
+The phantom of the guard captain continues his last duty here, though now he 
+is only a shade of his full self.  His brown eyes scan the room, looking for 
+the faintest clue as to the princesses' location while a vein in his temple 
+seems to throb due to the concentration and tension.  
+~
+Ghost~
+A TUV 500 S
+34 0 10d73+626 136d10+100 4d5+10 27
+-3 -3 -3 -1
+EH S A CM
+9 9 1 153
+ACHIKLMV ABCDEFGHIJK M unknown
+#458
+ghostly maid~
+a ghostly maid~
+A ghostly maid moves along the hallway silently.
+~
+A young woman dressed neatly in sturdy wool carrying cleaning supplies.  Her 
+brown hair is neatly tied back and covered by a pristine white cap.  She 
+looks carefully about for dirt of any kind while moving about her domain.  
+Oddly she moves totally silently and then fades from view before returning 
+before you, it becomes apparent that she must be a ghost.  
+~
+Ghost~
+A JTU 500 S
+25 0 8d48+400 25d10+100 3d5+7 22
+0 0 0 2
+KN 0 AB CZ
+9 9 2 112
+ACHIKLMV ABCDEFGHIJK M unknown
+#459
+ghostly noble man~
+a ghostly nobleman~
+A ghostly nobleman stirs on the floor as if left unconscious.
+~
+A trickle of blood flows from the left temple of this fallen warrior,
+matting the long black hair.  Disoriented, his green eyes wander about the
+room, searching for the cause of his fall.  A blood soaked tear in the
+sleeve of his brown wool tunic proves he did not trip over the carpet in a
+drunken stupor.  
+~
+Ghost~
+AB JTUY 400 S
+28 0 9d55+470 112d10+100 3d5+9 8
+0 0 0 1
+0 0 ACLQ CR
+5 9 1 126
+ACHIKLMV ABCDEFGHIJK M unknown
+#460
+altria~
+Altria~
+Altria looks up as you enter the room.
+~
+Many winters have marked Altria's face with their passing but they have
+not dimmed her joy in living.  Wrinkles abound but her skin glows with good
+health.  Her blue eyes contain a sassy gleam as they measure your worth. 
+Being the wife of a magician has prepared her for many things over the years
+and her mere presence hints of power.  
+~
+Human~
+A H 600 S
+30 0 10d60+520 120d10+100 3d6+8 22
+-1 -1 -1 0
+EFK J N M
+9 9 2 135
+AHMV ABCDEFGHIJK M unknown
+#461
+lady adyn ghost~
+Lady Adyn's ghost~
+Lady Adyn's ghost stands near the window, brushing her hair.
+~
+Slightly bowed shoulders and greying hair are the only signs of age marking 
+Lady Adyn.  Her calculating grey eyes watch the activity below her window 
+with a marked interest.  A dress of crystal grey linen drapes across her 
+spare frame.  The way she fades in and out of reality proves she must be a 
+shade.  
+~
+Ghost~
+AB NTU 100 S
+30 0 10d60+520 30d10+100 3d6+8 18
+-1 -1 -1 0
+0 B AK CR
+9 9 2 135
+ACHIKLMV ABCDEFGHIJK M unknown
+#474
+slave~
+a slave~
+A slave cowers against the wall while chanting.
+~
+This hobit trembles in fear against the wall, chanting out a prayer to any 
+god that will listen.  Looking closely you can see under its brown hair that 
+its eyes have been taken out.  
+~
+Hobbit~
+A AJ 0 S
+25 0 8d48+400 25d10+100 3d5+7 22
+0 0 0 2
+F 0 CLQ R
+9 9 3 112
+AHMV ABCDEFGHIJK M unknown
+#475
+archmage~
+the archmage~
+An archmage steps from the shadowy fog.
+~
+With opaque white eyes, the lifeless archmage watches every move you
+make.  Dull grey skin sags from bones.  Malevolent dark forces wield their
+powers and transform the unfortunate archmage into an undead servant as you
+watch.  Hatred oozes from every pore of the creature as it releases an
+undiluted fury.  
+~
+unique~
+AM HJ -800 S
+35 45 10d76+654 140d10+100 4d6+9 18
+-3 -3 -3 -1
+EK 0 B NZ
+9 9 0 157
+AHMV ABCDEFGHIJK M unknown
+#480
+wizard~
+the wizard~
+A wizard cowers in fear behind protective wards.
+~
+The results of an experiment gone wrong have taken their toll on this
+pitiable soul.  Vacant eyes stare out from a haggard white face.  Scorched
+clumps of hair hang in untidy clumps along the robe covering the hunched
+shoulders.  Blood was splattered along the front of the robe in a grotesque
+pattern.  
+~
+Human~
+AO 0 -400 S
+35 0 10d76+654 35d10+100 4d6+9 5
+-3 -3 -3 -1
+0 0 B P
+9 9 1 157
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#405
+clouds~
+a mass of clouds~
+A mass of clouds floats near the summit.~
+unknown~
+29 F 0 0
+-1 0 1 406 0
+1 0 0 P
+0 0
+#408
+chair~
+a chair~
+A comfortable chair sits by a window.~
+unknown~
+12 0 0 AER
+0 0 0 0 0
+1 20 0 A
+0 0
+#410
+threadbare doublet~
+a threadbare doublet~
+A doublet was folded neatly to hide the more obvious patches of wear and tear.~
+unknown~
+9 0 AK Q
+C C C A 0
+29 3 145 A
+0 0
+#411
+boots waterproof~
+waterproof boots~
+A pair of waterproof boots needs a coat of oil.~
+unknown~
+9 B AG 0
+AC AC AC A 0
+30 5 150 A
+0 0
+#412
+bent metal key~
+a bent piece of metal~
+A bent piece of metal lies twisted into a circle.~
+unknown~
+18 0 AB 0
+0 0 0 0 0
+1 1 0 W
+0 0
+#413
+metal chest~
+a metal chest~
+A metal chest gleams dimly in the shadows.~
+unknown~
+15 0 0 0
+CE ACD CDEHI 0 0
+1 10 0 A
+0 0
+#414
+gold pile~
+a pile of gold coins~
+A pile of gold coins fills a metal chest.~
+unknown~
+20 0 A 0
+DFGHIJ 0 0 0 0
+1 0 0 P
+0 0
+#415
+notched staff~
+a notched staff~
+A notched staff was tossed carelessly on the ground.~
+unknown~
+4 A AO 0
+CE AC AC 2 0
+29 4 145 G
+0 0
+#417
+axe doubl~
+a double-headed axe~
+A double-headed axe gleams in the light.~
+unknown~
+5 B AN 0
+AC D ABC ACE 0
+30 8 150 A
+A
+19 2
+0 0
+#418
+large key~
+a large key~
+A large key rests in the shadows.~
+unknown~
+18 0 A 0
+0 0 0 0 0
+1 2 0 G
+0 0
+#420
+mallet~
+a mallet~
+A worn mallet looks as if it might fall apart.~
+unknown~
+5 A AN 0
+C ABC ABC D 0
+26 5 130 A
+0 0
+#421
+femur bone~
+a large femur~
+A large bone has settled in the dust.~
+unknown~
+5 0 AN 0
+C BC D D 0
+25 0 125 W
+0 0
+#422
+riding crop~
+a riding crop~
+A riding crop can be seen here.~
+unknown~
+5 0 AN 0
+ABC BC D BDE 0
+25 1 125 A
+0 0
+#423
+studded belt~
+a studded belt~
+A studded belt looks in need of repair.~
+unknown~
+9 0 AL 0
+C C C A 0
+25 2 125 A
+0 0
+#424
+vat~
+a vat of ale~
+A vat of ale waits to be sampled.~
+unknown~
+17 0 AO A
+C AB C 0 0
+1 60 3 G
+0 0
+#425
+falcon surcoat~
+a Falcon surcoat~
+A clean surcoat lays in a neat pile.~
+unknown~
+9 A AD 0
+C C C A 0
+28 10 140 P
+0 0
+#426
+foxglove potion~
+a foxglove potion~
+A foxglove potion waits to be used.~
+unknown~
+10 0 A 0
+15 509 0 0 0
+25 1 750 A
+0 0
+#427
+kestrel dagger~
+a kestrel dagger~
+A kestrel dagger waits to be drawn.~
+unknown~
+5 I AN 0
+B AC BD ABD 0
+25 5 125 P
+0 BC
+#428
+flask whisky~
+a dented flask of whisky~
+A dented silver flask lays forgotten on the ground.~
+unknown~
+17 0 A 0
+AB B AC 0 0
+1 1 3 A
+0 0
+#430
+table chair~
+a table and chairs~
+A table laden with food sits by a window.~
+unknown~
+12 0 0 CGR
+0 0 0 0 0
+1 0 0 G
+0 0
+#431
+glittering scepter~
+a glittering scepter~
+A scepter gleams with authority.~
+unknown~
+3 AK AO 0
+CE AB AB 34 0
+35 2 175 P
+0 0
+#436
+rose dagger thorn truth~
+a thorn of Truth~
+A large rose thorn gleams with the promise of a painful sting.~
+unknown~
+5 G AN 0
+B D ABC ABD D
+30 2 150 G
+0 BC
+#437
+rose bush~
+a large rosebush~
+A beautiful rosebush displays itself in the sunlight.~
+unknown~
+15 G 0 0
+AC AC 0 0 0
+1 10 0 P
+0 0
+#439
+rusty key~
+a rusty key~
+A rusted key was dropped into a puddle of water.~
+unknown~
+18 0 A 0
+0 0 0 0 0
+1 1 0 P
+0 0
+#441
+wooden spoon~
+a large wooden spoon~
+A large wooden spoon was dropped on the floor.~
+unknown~
+5 B AN 0
+C BC D D 0
+25 3 125 A
+0 0
+#442
+garden hoe~
+a garden hoe~
+A garden hoe rests propped against a handy wall until needed.~
+unknown~
+5 0 AN 0
+D D ABC AB F
+30 4 150 A
+0 CD
+#443
+trencher loaf bread~
+a trencher~
+A rock hard loaf of bread escaped being eaten with the evening meal.~
+unknown~
+5 P N 0
+C AC BD ABDE 0
+25 3 125 G
+0 0
+#446
+pallet~
+a clean pallet~
+An inviting pallet suggests resting for a while.~
+unknown~
+12 0 0 I
+0 0 0 0 0
+1 5 0 P
+0 0
+#447
+pallet~
+an unmade pallet~
+A rumpled pallet offers rest to the weary.~
+unknown~
+12 0 0 I
+0 0 0 0 0
+1 5 0 P
+0 0
+#450
+seat~
+a window seat~
+A window seat basks in the warm light shining through the window.~
+unknown~
+12 0 0 AEIQR
+0 0 0 0 0
+1 50 0 P
+0 0
+#454
+sword stormbringer~
+stormbringer~
+The power of a storm seems contained within the length of a very long blade.~
+unknown~
+5 BI ANPWXYZabcdefghijklmnopqrstuvwxyz 0
+A AC ACD AB B
+32 6 160 G
+0 0
+#458
+ring eye horus~
+an eye of horus~
+A ring shaped like an eye lays abandoned.~
+unknown~
+27 M AB 0
+C C C A 0
+25 1 275 G
+A
+24 -2
+0 0
+#459
+obsidian knife~
+an obsidian knife~
+A sliver of obsidian was chipped into a sharp knife.~
+unknown~
+5 CR AN 0
+B BC AD A B
+28 5 140 W
+0 BC
+#461
+crystal flacon~
+a crystal flacon~
+A crystal flacon glows with an internal light.~
+unknown~
+17 AQR AO 0
+A A ACD 0 0
+15 1 45 G
+0 0
+#462
+privy~
+a privy~
+A privy hints of places better left alone.~
+unknown~
+29 0 0 A
+-1 0 1 463 0
+1 0 0 W
+0 0
+#466
+reflection~
+your reflection~
+Your reflection stares back at you from the surface of the tower.~
+unknown~
+29 C 0 0
+-1 0 1 467 0
+1 0 0 P
+0 0
+#471
+wizard cap hat~
+a wizard's cap~
+A long pointy hat sits in a dusty corner.~
+unknown~
+9 GI AE 0
+C C C A 0
+28 2 140 A
+A
+12 15
+0 0
+#474
+satchel leather~
+a leather satchel~
+A worn leather satchel gleams in the light.~
+unknown~
+15 Q AO 0
+CDEF A 0 0 0
+20 0 250 P
+0 0
+#475
+star talisman~
+a star talisman~
+A star talisman glows with an inner light.~
+unknown~
+8 IK AC 0
+0 0 0 0 0
+35 1 350 P
+0 0
+#477
+silver dirk~
+a silver dirk~
+A silver dirk gleams in the dust.~
+unknown~
+5 I AN 0
+B D ABC B 0
+30 0 150 P
+0 BC
+#479
+ancient scroll~
+an ancient scroll~
+An ancient scroll crumbles into tiny pieces.~
+unknown~
+2 0 A 0
+20 0 0 0 0
+30 0 600 P
+0 0
+#480
+warding amulet~
+a warding amulet~
+A warding amulet glints with a subtle power.~
+unknown~
+27 Q AC R
+AC AC AC A 0
+35 1 400 P
+A
+19 2
+0 0
+#481
+fountain~
+a fountain~
+Water sprays from the top of the fountain, only to arc slowly to earth again and be caught in the wide basin.  The merry tinkle of its magic draws people to come listen and refresh themselves with a quick drink.~
+unknown~
+25 R 0 0
+0 0 0 0 0
+0 10000 0 P
+0 0
+#500
+ancient grinning skull~
+an ancient skull~
+An ancient skull floats magically in the darkness, grinning at you.~
+unknown~
+15 AR 0 0
+B 0 0 0 0
+0 9999 0 P
+0 0
+#0
+
+
+
+#ROOMS
+#401
+Path up the mountain~
+A faint curl of mist wisps across the rock-strewn path.  Birch and oak
+huddle close together to form a tightly interlaced canopy over the path.  A
+few rays of sun penetrate the semi-twilight to encourage growth of shrubs
+and grass.  The hoot of an owl echoes across the dark woods as it watches
+your progress through it's domain.  
+~
+0 1 5
+D1
+~
+~
+0 0 402
+D2
+~
+~
+0 0 16002
+S
+#402
+Path up the mountain~
+The eerie mist seems to seep from the ground as progress is made up the
+path.  It curls around the trees and dampens every surface it touches.  The
+oak and birch population has thinned, allowing light to caress the chilled
+soil and coax a few timid flowers to bloom.  Their gentle hues play hide and
+seek through the chilly mist.  
+~
+0 0 5
+D3
+~
+~
+0 0 401
+D4
+~
+~
+0 0 403
+S
+#403
+Split in the path~
+Few trees grow at this altitude, but those that have made the attempt are
+caricatures of those below.  The mist has grown increasingly thick and hides
+rocks and holes that trip the unwary.  A rope bridge crossing the valley is
+barely visible to the east.  A dense mass of clouds hovers above,
+surrounding the summit of the mountain.  
+~
+0 0 5
+D1
+~
+~
+0 0 404
+D4
+~
+~
+0 0 405
+D5
+~
+~
+0 0 402
+S
+#404
+The rope bridge~
+The rope bridge stretches out to the east, and although rickety in
+appearance, looks serviceable.  The cliff face to the north vertically drops
+to a rocky crevasse below, where an icy mountain stream flows southwards. 
+The bridge itself leads eastwards to a rocky mountain ridge and west to a
+misty path on the mountainside.  
+~
+0 0 5
+E
+rope~
+The ropes on the bridge are old and have not been replaced in years. 
+Weakened fibers bristle from the tight bundles caused by the sun and
+continuous damp mist.  
+~
+D1
+~
+~
+0 0 18485
+D3
+~
+~
+0 0 403
+S
+#405
+The summit~
+Thick, billowing masses of white clouds obscure sight in every direction.
+An overwhelming sense of confusion hovers in the air with the white veil. 
+Panic sets in, but one false step could lead to a slow, painful death.  The
+shrouding mists part to reveal a glint of metal.  
+~
+0 4 5
+E
+sign~
+The metal sign says:
+ 
+Kregora Castle awaits.
+Enter the clouds.
+~
+E
+metal~
+A silvery metal sign glints in a brief clearing of the mists.  It seems
+slightly out of place in this world of ethereal white.  
+~
+D0
+~
+~
+0 0 406
+D5
+~
+~
+0 0 403
+S
+#406
+On a cloud~
+Filmy white tendrils of passing clouds linger on your clothes.  To the
+north, a village and a castle are barely evident through the mist.  Sunlight
+bathes the scene with it's warmth, removing the chill of the mist and
+encouraging approach.  
+~
+0 0 4
+D0
+~
+~
+0 0 407
+D2
+~
+~
+0 0 405
+S
+#407
+Road Through the Village~
+A snowy white path travels through the small, clean hamlet.  Children run
+to and fro in the golden sunlight.  A few wrinkled ancients watch from the
+sheltered interiors of spacious cottages.  The elders tend the children
+during their play and keep watch over the village.  The sounds of a crowd
+rise from the center of the village.  
+~
+0 0 1
+D0
+~
+~
+0 0 410
+D1
+~
+~
+0 0 409
+D2
+~
+~
+0 0 406
+D3
+~
+~
+0 0 408
+S
+#408
+Inside a Cottage~
+The interior of this cottage is quite large.  Several windows allow lots
+of light to enter to keep the shadows at bay.  A table surrounded by chairs,
+sits in the center of the cottage.  Behind a partition on the northern wall,
+a couple of pallets laying on the floor serve as beds.  A small hearth keeps
+a pot of stew simmering for the evening meal.  
+~
+0 8 0
+E
+pot~
+A small, black pot simmers over the cheerful blaze in the hearth.  A
+glimpse inside the pot reveals a thick, meaty stew.  
+~
+E
+pallet~
+A thick mattress made of coarse straw lays on the floor, protecting it's
+owner from the cold dirt at night.  
+~
+E
+hearth~
+A fire blazes cheerfully in the hearth.  Meals are cooked over it's
+warmth for the whole family.  
+~
+E
+window~
+A quick look out the largest window reveals a vast field of what appears
+to be wheat stretching out over the top of a cloud!  
+~
+D1
+~
+~
+0 0 407
+S
+#409
+Inside a Cottage~
+The floor of this cottage has been covered in straw mats to protect the
+feet from the cold dirt.  Three pallets lay against the southern wall,
+providing the family with additional comfort at night.  A small fire
+flickers in the hearth while providing illumination that the solitary window
+can not.  
+~
+0 8 0
+E
+window~
+This window provides most of the light for the cottage, but it is not
+enought to chase the shadows away.  It provides a fine view of the cottage
+to the north and a glimpse of the castle in the background.  
+~
+E
+mat~
+Thick, woven mats made of straw insulate the floor.  This makes it
+possible to sit on the floor and remain clean and warm.  
+~
+E
+pallet~
+Pallets made of straw are used for beds.  The fabric covering the rough
+straw is very thin and dirty straw pokes through in several locations.  
+~
+D3
+~
+~
+0 0 407
+S
+#410
+Road Through the Village~
+The castle grows closer as the path travels through the hamlet.  The
+children remain close to the cottages and under the watchful eyes of the
+elders.  The cottage to the east is larger than all the other dwellings.  It
+has a small bed of golden flowers gently waving in the slight breeze.  To
+the west, a barn of sorts can be seen.  A large gathering of people are
+milling about in the entrance.  
+~
+0 0 1
+D0
+~
+~
+0 0 414
+D1
+~
+~
+0 0 412
+D2
+~
+~
+0 0 407
+D3
+~
+~
+0 0 411
+S
+#411
+The Barn~
+It appears that all the able bodied adults of the village are gathered
+here for a meeting.  A lot of talking and occasional shouting is occurring. 
+Most of the faces have a desperate, shocked look to them.  Whispers are
+quickly passed back and forth.  A few words reach your ears....  Princess,
+kidnapped, and Graedan.  A large man loudly requests silence and his sheer
+force of will ensures he gets it.  In the following silence, the disturbed
+sounds of the animals housed in the barn can be heard.  Chickens, horses,
+cows and a couple of dogs all add to the din of the crowd.  
+~
+0 8 0
+D1
+~
+~
+0 0 410
+S
+#412
+The Large Cottage~
+This cottage belongs to the chief and his family.  It is larger than the
+other cottages and has more creature comforts.  Thick, comfortable pallets
+lay against the northern wall covered with soft, warm blankets.  A falcon
+delicately embroidered onto a silk screen separates the pallets from the
+rest of the room.  A large hearth on the southern wall provides heat for the
+whole room while the meals are cooked upon the fiery blaze.  The mantle
+above the hearth holds a curious statue of a bird-like man.  The eastern
+wall is covered with woven thatches while the other walls are bare wattle.  
+~
+0 8 0
+E
+thatch~
+The eastern wall draws attention because it is covered in thatch and is
+not just wattle.  At first glance, it merely looks like an attempt to add a
+little variation to the decor, but a slight uneveness reveals a panel that
+can be moved aside.  
+~
+E
+statue~
+The figure of a man dressed in feathers and carrying a bird's claw sits
+on the mantle.  The man's fierce expression and hovering stance symbolize
+protection.  The statue is a likeness of the deity of these people, Craan
+the warrior-hawk.  He is the protector of the just and defender of the
+royals.  
+~
+E
+screen~
+Intricate embroidery has created a realistic looking falcon hovering
+protectively on a cream colored silk screen.  The screen is put between the
+room and the pallets to create the illusion of two rooms and provide a bit
+of privacy for the "bedroom".  
+~
+D1
+~
+thatch~
+1 0 413
+D3
+~
+~
+0 0 410
+S
+#413
+The Hidden Store~
+Very little light enters this room.  What light pierces the dark comes
+from the thatch doorway.  This room is used to conceal grain and the wealth
+of the village from raiders and others seeking to gain.  Dust has settled
+thick on heavy bags of corn and wheat, inducing a desperate need to sneeze. 
+Kegs of ale are stacked against the far north wall, most distant from the
+door.  Sitting on the floor next to the kegs is a small metal chest.  It is
+easy to surmise that the chest contains the earnings of the hamlet.  
+~
+0 8 0
+D3
+~
+~
+1 0 412
+S
+#414
+Road Through the Village~
+Just a bit farther down the road, the castle looms in the sunlight. 
+Birds wheel and glide over it, taking advantage of the updrafts.  The last
+cottages of the village lie to the east and west.  The dilapidated state of
+the cottage to the west suggests that it is not inhabited.  Weeds grow up
+around the base of the walls and the windows are shuttered.  The cottage to
+the east has twice the windows of any other cottage in the village.  It
+glitters in the sunlight while the scent of herbs tantalize the nose from
+the open doorway.  A rack of drying herbs sits next to the door and a soft
+voice can be heard gently singing inside.  
+~
+0 0 1
+E
+rack~
+A sturdy hardwood rack specially made for drying bunches of herbs rests
+near the door of the cottage.  Several varieties of herbs curl as they sit
+in the bright sun.  They are almost ready to be packaged and stored.  
+~
+D0
+~
+~
+0 0 417
+D1
+~
+~
+0 0 415
+D2
+~
+~
+0 0 410
+D3
+~
+~
+0 0 416
+S
+#415
+Inside a Tiny Hut~
+This small hut belongs to the shaman.  Dried herbs lay on every surface
+and containers of herbs are stacked on shelves and tables.  Pungent odors
+assault the delicate nasal tissues as a peculiar cloud mushrooms from a
+minute bowl simmering over a candle on a workbench.  The floor is simple
+packed dirt, so no stray embers can fall and catch the rushes on fire.  A
+dingy blanket lies thrown in corner that serves as a bed.  The owner of this
+hut has little time for ensuring her comfort.  
+~
+0 8 0
+E
+herbs~
+Leafy branches of herbs hang all over the room in various stages of
+drying.  Bundles of dried herbs lay sorted on a wide counter against the
+east wall waiting to be put in separate labeled containers.  
+~
+E
+bowl~
+A small ceramic bowl simmers fitfully over a large candle.  Noxious fumes
+rise from the bowl and are swept away bye a cool breeze.  The dirty green
+color and the nasty odor of the mixture do not encourage further
+investigation.  
+~
+D3
+~
+~
+0 0 414
+S
+#416
+Inside a Cottage~
+The inside of this cottage is mainly used to store old tools and surplus
+materials for repair on the cottages.  Twine is stacked in the north-west
+corner and a cabinet on the west wall has scissors and a broken knife
+resting on it's dusty surface.  Rusty shovels and hoes line the walls in
+precise formation, hanging on nails tapped into the walls.  Mud encrusted
+boots line the north wall from the last day spent in the fields.  
+~
+0 8 0
+E
+scissors~
+A rusty pair of scissors lays forgotten on the dusty cabinet.  Water has
+dripped onto the blades for a long enough period of time that they cannot be
+separated because they have rusted together.  
+~
+E
+knife~
+The blade of this knife has been broken off.  Apparently, it was not
+meant to be used for prying.  Water has dripped onto it's surface and cause
+the blade to begin to rust.  
+~
+E
+boots~
+Muddy footprints lead to the north wall where several pairs of leather
+boots encrusted with a reddish brown mud sit.  The mud has long since dried
+but the boots have not been cleaned off.  It is almost as if the owners have
+forgotten about cleaning them.  
+~
+E
+shovel~
+The shovels and hoes hanging on the walls show signs of every day use. 
+Mud has dried on them and pieces have dropped unnoticed to the floor below. 
+~
+D1
+~
+~
+0 0 414
+S
+#417
+Before the Castle Walls~
+Leaving the village behind, the path continues onward.  Fertile fields of
+grains, corn, and potatoes line the path.  A gentle breeze frolics amongst
+the plants and sweeps across the path.  At last, the castle lies directly
+ahead.  The gates to the courtyard are open, but several guards watch all
+who enter and leave.  The thick stone walls of the castle loom overhead. 
+Ivy grows halfway up the walls, it's leaves shining with dew.  Several large
+birds fly along the currents above the castle.  
+~
+0 0 2
+E
+fields~
+Stalks of corn gleam in the sunlight, waving their deep green leaves in
+welcome.  Wheat bends and bows as it dances to the subtle music of the wind.
+~
+E
+birds~
+The birds spread their wings and glide over the air currents with finesse
+and ease.  They appear to be large falcons, hovering protectively over the
+castle.  
+~
+E
+ivy~
+Thick heavy tendrils of ivy cling to the stone walls.  Halfway up the
+wall, the growth has been cut back so the defenses of the castle are not
+compromised.  Moisture gleams from the dark green leaves where a gentle dew
+has kissed each one.  
+~
+D0
+~
+~
+0 0 418
+D2
+~
+~
+0 0 414
+S
+#418
+The Courtyard~
+The spacious courtyard spreads out between the gate and the main keep. 
+Several small buildings nestle close to the walls, sheltering the smithy,
+armourer, and brewer.  The stables set near the rear of the courtyard where
+they are sheltered from errant breezes.  The barking of dogs rises from the
+kennel next to the stables.  Several hounds stare pleadingly at passersby to
+let them out.  Servants and workers gather in groups in the courtyard. 
+Tension fills the air with a tangible scent.  To the north, the massive
+portcullis blocks entrance to the keep and is heavily guarded.  Few are
+allowed to enter.  
+~
+0 0 0
+D0
+~
+portcullis~
+1 418 427
+D1
+~
+~
+0 0 423
+D2
+~
+~
+0 0 417
+D3
+~
+~
+0 0 419
+S
+#419
+Western Courtyard~
+This section of the courtyard rings with the hammering from the smithy to
+the south.  The barking of dogs makes thinking impossible as a servant
+passes the kennels laying along the western walls.  The animals penned
+inside walk back and forth, begging to be released from their pens.  A
+slight breeze from the north carries the scent of the stables where the
+steeds for the royal family are housed.  
+~
+0 0 0
+D0
+~
+~
+0 0 422
+D1
+~
+~
+0 0 418
+D2
+~
+~
+0 0 420
+D3
+~
+pen~
+1 0 421
+S
+#420
+The Smithy~
+The sides of this hut have huge doors on them that can be swung open to
+allow light and a cooling breeze to flow through and alleviate the intense
+heat generated by the central fire pit.  The central fire is carefully
+tended so it burns slow and hot to produce coals to heat the metal.  Hammers
+of all sizes hang on the southern wall.  The anvil in the center of the room
+shows all kinds of wear and tear from the hard use it sees.  Large vats of
+cool water rest next to the anvil so the newly shaped, hot metal can be
+cooled to a temperature that can be handled.  
+~
+0 8 0
+E
+fire~
+A large fire pit dominates the center of the hut.  A ring of solid stone
+lines the pit to ensure that the fire remains contained.  Several servants
+tend the fire, feeding it small logs of hardwood.  
+~
+E
+anvil~
+A large, immobile chunk of scarred metal used to forge iron and copper
+into desired tools and weapons.  The hard, everyday use has left a story in
+the scars that wrinkle the surface and nick the sides.  
+~
+E
+hammer~
+These mallets are solid iron hammers that are used to pound red hot metal
+into forms that are useful.  
+~
+D0
+~
+~
+0 0 419
+S
+#421
+The kennels~
+Large pens hold the hunting dogs of the nobles.  Each animal has a pen to
+itself to prevent injuries.  The animals walk back and forth in a bored
+manner, watching every move made within their vision.  Scents tantalize them
+from outside their sphere of reach.  The inside of the kennel is kept clean
+by a handful of young boys.  The boys take care not to enter the pens of the
+largest dogs alone or before feeding the inhabitant.  
+~
+0 8 0
+D1
+~
+~
+1 0 419
+S
+#422
+The Stables~
+The dim interior of the stable rustles with sounds and obscure movements.
+Closed stall doors proceed down the center of the stable, lining the path
+with wooden half-doors.  The heads of several horses peer over their doors
+as they sense change on the air.  The slightly uneasy fidgeting of the
+horses and the whispers of the stable hands indicate a disturbance in normal
+routine.  Several overflowing feed buckets sit forgotten near the almost
+empty water trough.  It seems the stable hands are not concentrating on
+their labors.  
+~
+0 8 0
+E
+buckets~
+Nutritious oats fill several buckets sitting at the base of the water
+trough on the northern wall.  The buckets sit forgotten in the shadows while
+the stablehands gossip near the open doors.  The horses nearest the buckets
+whicker and lean out trying to grab a bite from the buckets.  
+~
+E
+trough~
+A cracked oak water trough sits against the northern wall.  A small
+amount of dirty, warm water remains inside the trough.  Water drips slowly
+from the crack on the underside of the trough.  Two empty buckets hang from
+the ends of the trough, waiting to fetch fresh water and distribute it to
+the horses.  
+~
+D2
+~
+~
+0 0 419
+S
+#423
+Eastern Courtyard~
+This section of the courtyard catches a cool breeze as it flows along the
+tops of the mountains and skims lightly over the castle walls.  The noise
+from the western courtyard is muffled and seems a great distance away.  The
+dispensary sits against the castle to the north, offering ease from
+suffering to all who venture within.  The brewery lies to the south,
+liberally scenting the air with advertisement of it's products.  The armoury
+rests against the east wall of the castle.  A few muffled clangs escape the
+interior as dents are pounded out of armor.  
+~
+0 0 0
+D0
+~
+~
+0 0 426
+D1
+~
+~
+0 0 425
+D2
+~
+~
+0 0 424
+D3
+~
+~
+0 0 418
+S
+#424
+The Brewery~
+The interior of this shop is dark and smells overpoweringly of alcohol. 
+A few candles rest in sconces on the walls away from the vats of fermenting
+liquids.  They shed enough light to see into the corners.  Several large
+vats and barrels rest against the walls, undisturbed in their brewing.  The
+sides are carefully labeled as to the contents and date the batch was
+started.  The brewer stands near an empty barrel contemplating what
+ingredients to use in this batch.  The ingredients are stored on a set of
+shelves built into the corner against the eastern wall.  
+~
+0 8 0
+E
+label~
+Reading the label on the nearest vat:
+ 
+Winterberry Meade
+The 13th day of the Sun, the Month of the Long Shadows
+No Sampling!
+~
+E
+barrel~
+Examining the nearest barrel, the label proclaims it to be fall ale.  A
+clever thief scratched his sentiments next to the label: Very good!  This
+would explain the lid being piled high with heavy objects.  
+~
+E
+shelves~
+Tucked neatly into the northeast corner behind the counter, a set of
+sturdy wooden shelves contains the special herbs and spices used in brewing.
+Raspberry leaves, juniper berries, sticks of cinnamon and several poorly
+labeled jars of herbs cluster together in a cheerful disorder on the bottom
+shelf.  A thick wooden paddle rests across the top of the shelves, long
+enough to reach the bottom of the deep vats while stirring.  
+~
+D0
+~
+~
+0 0 423
+S
+#425
+The Armoury~
+The interior of this shop is bright with sunlight streaming in through
+several large windows.  Leather armor is set in piles on tables along the
+southern wall for perusal.  Most of the leather armor is simple and
+unadorned.  A few pieces of chainmail and plate mail hang from the northern
+wall, gleaming in the sunlight.  The metal is bright, shiny and has no
+scratches or imperfections.  A coat of arms will be painted on after someone
+has purchased the armor.  Against the eastern wall, the armourer sits with
+his apprentice working on repairing several suits of armor in the bright
+sunlight under an open window.  
+~
+0 8 0
+D3
+~
+~
+0 0 423
+S
+#426
+The Dispensary~
+Inside this tiny hut, a vast amount of knowledge is stored in the salves,
+pills, and potions.  Many open cabinets line the walls, each shelf filled to
+overflowing with carefully labeled jars, bottles, and boxes.  A large,
+rickety table in the center of the room is littered with empty containers
+and small amounts of unidentified herbs and leaves.  Several dishes hold new
+concoctions that have yet to be sampled.  
+~
+0 8 0
+E
+cabinets~
+Large, deep-shelved cabinets sit against every wall concentrating great
+treasures in their grasp.  All manner of cures and quacks rest hidden in
+huddled masses of similar bottles.  The difference known only to a few
+learned souls.  
+~
+D2
+~
+~
+0 0 423
+S
+#427
+Through the Portcullis~
+Passing through the first portcullis, damp stone walls loom on both
+sides.  Darkness presses down as the light from both ends seems farther and
+farther away.  Murder holes stare down from the stones forming the ceiling. 
+They threaten vengeance should a false move be made.  Guards watch from both
+ends of the gateway into the castle, measuring all who wish to proceed into
+the castle.  
+~
+0 8 0
+E
+murderholes~
+The unblinking eye of the murderhole waits for a signal to release hot
+oil to scald the skin of any soul unlucky enough to be caught below.  
+~
+E
+portcullis~
+The iron bars of the portcullis allow light to enter from both ends of
+the tunnel to the keep.  Voices echo eerily through the passage.  Moving
+forward through the tunnel is the only option as the gate slams to the
+ground behind you.  
+~
+D0
+~
+portcullis~
+1 0 428
+D2
+~
+~
+1 0 418
+S
+#428
+The Inner Ward~
+Nestled against the thick, shimmering walls, a castle of grand
+proportions hails the sky.  Several birds soar along the breezes ruffling
+the brightly colored pennants fluttering along the walkways atop the castle.
+The main entrance into the keep is carefully guarded by devoted knights. 
+They warn off all intruders with fierce utterances and baleful stares. 
+Guards patrol along the perimeter, carefully inspecting all corners of the
+inner ward.  The air of panic is more prominent here.  Many people wander
+about looking through the extensive flower beds, crushing the delicate
+flowers.  
+~
+0 0 1
+E
+pennant~
+Jewel toned cloth brightens the skyline of the keep, shimmering with an
+abundance of cheerful vigor in the teasing zephyr.  
+~
+E
+birds~
+Several large birds wheel and spin over the castle, almost resembling an
+air patrol.  
+~
+E
+flower~
+Several delicate stems tilt at drunken angles after being rudely brushed
+aside.  The scent of roses wafts on the breeze after the soft red petals
+were crushed under the heavy tread of many feet.  
+~
+D0
+~
+~
+1 0 429
+D2
+~
+~
+1 0 427
+S
+#429
+The Foyer~
+Inside the keep, every surface glitters with a flourish of wealth.  Gold
+and platinum gleam in undisguised opulence while jewels wink coyly and hint
+at their presence.  The muted earth tone hues of the thick, extensive rugs
+are reflected in the chairs and and settees resting against the walls at
+spaced intervals.  Large portraits of distinguished leaders from centuries
+past adorn the walls.  Small alcoves, mere dents in the walls, house small
+bits of statuary and interesting pieces consisting of hand-blown glass vases
+and exotic flowers.  
+~
+0 8 0
+E
+cup~
+An ancient glass bowl, it has a deep basin, resembling more a deep cup
+than a bowl.  The glass is several shades of deep red which appear to
+flicker and shimmer like flames in the light.  There are figures carved into
+the bowl, so precise in detail, they appear to be miniature humans trapped
+in an invisible cage of the lacy net-like background of the cup itself.  
+~
+E
+alcove~
+Small indentations evenly spaced along the walls form tiny alcoves. 
+Stored in the alcoves are delicate and beautiful statues, glass vases, and a
+unique cage cup.  
+~
+E
+rug~
+Muted browns, golds, and creams swirl together in an elaborate
+kaleidoscope pattern.  The soft, thick yarn of the rug encourages one to
+remove shoes and walk barefoot along it's length.  
+~
+E
+portrait~
+The gold frame detracts from the poor quality of the artist who attempted
+to paint this bygone leader.  The painting is vague and indistinct leaving
+one with impressions instead of sharp detail.  
+~
+D0
+~
+~
+0 0 430
+D2
+~
+~
+1 0 428
+S
+#430
+The Reception Hall~
+This room was designed to ensure the comfort of those waiting for an
+audience before the king and queen.  Vivid tapestries cover the stone walls
+providing both a panorama for the eyes and protection from the cold, stone
+walls.  Large, cushioned wing-back chairs, comfortable divans, and several
+groupings of sturdy oak tables are situated around the room.  Nobles and
+commoners alike gather here to wait.  Servants bustle around the room,
+bringing fresh food and drink from the kitchens and then removing dirty
+dishes and uneaten meals.  
+~
+0 8 0
+E
+tapestry~
+The nearest tapestry is a finely worked piece covering a vast amount of
+the wall it hangs from.  Flowers and vines twine about small animals in an
+explosion of color.  
+~
+E
+tables~
+Several large tables sit in one corner of the cavernous room.  Each table
+is carefully attended by several servants.  Long benches provide seating for
+all who wish to eat.  
+~
+D0
+~
+~
+0 0 431
+D1
+~
+~
+0 0 439
+D2
+~
+~
+0 0 429
+S
+#431
+The Throne Room~
+Two heavily carved thrones crouch on a raised dais against the north
+wall.  A brilliant gold and red velvet canopy flutters over the dais.  Two
+perches rest near the thrones, each holding preening bird.  A large, gimlet
+eyed hawk holds a quiet vigilance on the perch near the king.  Near the
+queen, a white gyrfalcon observes all movement in the room.  The many bodies
+waiting for an audience add to the heat released by two fireplaces but a
+cold air of loss sweeps through the room.  
+~
+0 8 0
+E
+throne~
+Each throne is intricately carved with images of birds.  The most
+predominant are the falcons with wings outspread which form the backrest of
+the thrones.  Their fierce expressions expressing a protective air and
+promise of vengence.  
+~
+E
+canopy~
+A deep blood red velvet pane is draped smoothly to cascade around the
+thrones to the floor.  Cloth of gold trims the edges of the canopy,
+shimmering in the light with each tickle of a breeze.  The velvet is heavily
+embroidered in gold thread.  Falcons, hawks, and the name of the royal
+family.  
+~
+D0
+~
+~
+0 0 432
+D2
+~
+~
+0 0 430
+D3
+~
+~
+0 0 433
+S
+#432
+The War Room~
+The windowless walls of this room are covered with assorted instruments
+of death and maps of far away countries.  Stale air hangs in the room,
+reeking of old cigars, sweat and copiously spilled alcohol.  A medium-sized
+table rests in the center of the room, surrounded by comfortable chairs. 
+This room is obviously used for planning strategies and their
+implementation.  A bland dark brown curtain covers the stones of the western
+wall.  It occasionally lifts with an errant breeze.  
+~
+0 8 0
+E
+map~
+Large colorful hand-drawn maps of countries adjacent to Thera cover the
+walls.  Exacting details of mountain ranges and bodies of water are
+painstakingly inscribed on each for accuracy.  A few maps show signs of
+having been used for planning, indicated by faint charcoal lines plotting
+paths and noting places to hide armies.  
+~
+E
+instrument~
+Various weapons adorn the walls, prizes from years gone by: first swords,
+jewelled daggers, maces that struck down a dread enemy.  Others are more
+menacing: subtle instruments of torture such as masks of humiliation,
+rotting wooden stocks, and manacles.  
+~
+D2
+~
+~
+0 0 431
+D3
+~
+curtain~
+1 0 438
+S
+#433
+The Retiring Chamber~
+An intimate retreat for the royal family, this room exudes comfort and
+relaxation.  Bright light streams in through the many glass window panes. 
+Two large, comfortable chairs rest near a fireplace.  Carefully tucked
+underneath are two overstuffed footstools covered in the same subtle floral
+brocade.  A fragrant incense lingers in the air from the soft candles
+burning on the mantel.  To the south, a doorway with inset diamonds of glass
+leads to a vibrant conservatory.  Plants of all kinds can be seen, many
+blooming in profusion.  
+~
+0 8 0
+E
+window~
+This window offers a view of the western garden.  Carefully trimmed
+topiary lines the paths.  Flowers bloom in beds that are free of encroaching
+weeds and grass while trees gently shade them from the heat of the sun.  In
+the center of the garden, a large rose bush can be seen with a single white
+bloom on it.  
+~
+E
+candle~
+A slightly green hued candle glows with a gentle flame from atop the
+mantel.  A warm scent of verbena and citrus lingers in the air, relaxing and
+welcoming all who enter.  
+~
+D1
+~
+~
+0 0 431
+D2
+~
+~
+1 0 434
+S
+#434
+The Conservatory~
+The conservatory offers a peaceful stillness lacking in the rest of the
+castle.  The air is hot and moist, creating a lush atmosphere for exotic
+plants to thrive in.  Rich, earthy odors rise from the damp, verdant soil
+where many plants have sent down strong roots.  Blooms glitter against the
+deep green background of leaves.  A solid bench at the center of the
+conservatory offers a place to sit and contemplate the surroundings.  Almost
+hidden behind a large bush covered by white blooms is a door leading out to
+the western gardens.  
+~
+0 8 0
+E
+bench~
+A solid back curves for comfort while sturdy cushions provide a place to
+rest awhile.  Pillows settle against the arm rests, waiting to prop up limbs
+and offer rest to a weary head.  Almost hidden by the front leg are a
+forgotten pair of shears and a trowel.  
+~
+E
+bush~
+Tiny white blooms group together to form almost spherical balls of
+flowers framed by small light green leaves.  A plaque near the base of the
+bush proclaims it to be a snowball plant.  
+~
+D0
+~
+~
+1 0 433
+D3
+~
+~
+1 0 435
+S
+#435
+The Garden~
+A well tended path wanders through the vast array of plants and trees. 
+Flowers compete in a riot of beauty for attention.  White, red, orange, yellow
+and purple all swirl and dance in vivid patterns throughout the garden. 
+Trees offer gentle shade along the path and benches are strategically placed
+in their shelter.  The soft tinkle of a fountain can be heard nearby.  It's
+melody calling with a siren's song.  
+~
+0 0 0
+D0
+~
+~
+0 0 436
+D1
+~
+~
+1 0 434
+S
+#436
+The Garden~
+The path leads through the plants and flowers to a small square clearing
+surrounded by thick, tall hedges.  A fountain sprinkles water into a deep
+marble pool in the center of the clearing.  Several benches rest near the
+privacy hedges, offering seats right next to the fountain.  The northern
+hedge differs from the others.  No exits leave through it and no benches
+rest in front of it.  The topiary is carefully spaced in front of the hedge.
+Most of the other topiary bushes rest in the corners while a few grow in
+pots by the benches.  A large tree offers shade from the southeast corner of
+the clearing.  It's branches spread out in a dense canopy over half of the
+clearing.  
+~
+0 0 0
+E
+topiary~
+Bushes shaped like squares, circles and triangles all show signs of
+recently undergoing a trim.  Small clippings surround each bush, waiting to
+be raked up and removed.  
+~
+E
+fountain~
+Water sprays from the top of the fountain, only to arc slowly to earth
+again and be caught in the wide basin.  The merry tinkle of its magic draws
+people to come listen and refresh themselves with a quick drink.  
+~
+D0
+~
+hedge~
+1 0 437
+D2
+~
+~
+0 0 435
+S
+#437
+The Center of the Garden~
+A small glen is hidden between the towering hedges in the center of the
+garden.  Little travelled, it flourishes in the golden sunlight gently
+kissing each leaf.  In the center of the glen, a large rose bush basks in
+the warm light of the sun.  A single bloom on the bush attracts attention. 
+Impossibly white with a tinge of ruby red on the edges, the flower gleams
+against the dark green foliage.  A small bronze plaque lies almost hidden
+under the leaves of the rose bush.  
+~
+0 0 0
+E
+plaque~
+The small bronze plaque appears to be in good repair with no tarnish on
+it's gleaming surface.  A small inscription is deeply etched into the
+surface.  
+~
+E
+inscription~
+A short inscription reads:
+ 
+A fair rose named Truth.
+Truth is often disguised.
+~
+D2
+~
+~
+1 0 436
+S
+#438
+Secret Passage~
+A dark passage extends beyond the curtain.  Once used as an escape route,
+the passage is little used now.  Dust billows upwards with each step,
+choking all unfortunate enough to follow.  Small pieces of mortar lies in
+crumbling piles along the passage.  A small amount of light pierces the far
+end of the dim tunnel.  It outlines a rectangular shape that is revealed to
+be a solid wooden door.  A slender bar rests in brackets across the door,
+preventing it from being opened from the other side.  
+~
+0 8 0
+D1
+~
+~
+1 0 432
+D3
+~
+~
+1 0 437
+S
+#439
+A Corridor~
+A slightly airless corridor leads away from the bustle of the busiest
+rooms in the castle.  Servants move quickly down the hall toward the
+kitchen.  The mouth-watering smell of baking bread trickles down the
+corridor from the kitchen as servants begin carrying fresh bread to the
+tables.  To the north, a dark stairwell sulks in black solitude.  Little
+light filters into it's stygian depths without the aid of a torch.  
+~
+0 8 0
+D0
+~
+~
+0 0 448
+D1
+~
+~
+0 0 440
+D3
+~
+~
+0 0 430
+S
+#440
+A Corridor~
+The corridor continues on, closing the gap on the servants quarters.  The
+lively chatter of those busy at work is subdued.  The smell of meat roasting
+causes stomachs to growl in anticipation.  To the north, the large kitchen
+is filled with servants working quickly to feed many hungry mouths.  To the
+south, the buttery is carefully watched over so that wine and ale does not
+disappear without a trace.  
+~
+0 8 0
+D0
+~
+~
+0 0 441
+D1
+~
+~
+0 0 444
+D2
+~
+~
+0 0 443
+D3
+~
+~
+0 0 439
+S
+#441
+The Kitchen~
+Several deep windows admit a vast proportion of the light needed in this
+room.  A few smoky torches burn in carefully places brackets.  A select few
+herbs grow in large pots on the deep embrasures of the windows.  They are
+obviously well tended and used in special dishes.  A huge hearth stretches
+along the northern wall.  It actually contains three separate fires.  A
+cauldron of giant proportions simmers over the main fire while bread bakes
+beside the other two.  Servants move around peeling vegetables and scrubbing
+dishes as needed.  
+~
+0 8 0
+E
+windows~
+The eastern wall has several large windows at ground level looking out
+into the herb garden.  The west wall has several windows near the beams of
+the roof.  They allow light to stream in, unfettered by trees and shrubs.  
+~
+E
+cauldron~
+Finely ground up bits of chicken and pork float in the thin brown broth. 
+A young girl is adding dried breadcrumbs as it begins to simmer.  She
+curtseys and offers you a taste of the mortreux.  
+~
+E
+herbs~
+A few special herbs grow inside so they are available all year as a live
+herb and not dried so they maintain potency.  Whispers hint that the king
+likes sprigs of these herbs on his plate accompanying his meals.  
+~
+D1
+~
+~
+1 0 442
+D2
+~
+~
+0 0 440
+S
+#442
+The Herb Garden~
+A cool breath of air offers a little succor from the heat of the kitchen.
+Very little sound reaches the garden from the kitchen and servants quarters.
+Life seems very far away and totally disconnected.  The herbs perfume the
+air with the scent of a thousand meals.  The garden is laid out so that the
+most used herbs are closer to the door which can be seen by the evidence of
+frequent clipping.  
+~
+0 512 1
+E
+herbs~
+Mint, saffron, chives, dandelions, and small wild onions grow close to
+the door.  They appear to have been often clipped or rooted up for use in
+the kitchens.  Farther into the garden, larger bushes of less used herbs
+cling to the shadows, almost as if hiding in fear.  
+~
+D3
+~
+~
+1 0 441
+S
+#443
+The Buttery~
+Little light enters the small dank room containing the special alcoholic
+beverages of the castle.  Few people have the privilege of entering this
+room.  Great quantities of good quality wine and ale rest in the casks and
+barrels stacked within this room.  Mice can be heard skittering in the dark
+corners, unseen and squeaking in dismay at the bright light.  The odor of
+spilt wine and ale cascades over the senses upon entering the enclosed room.  
+~
+0 8 0
+D0
+~
+~
+0 0 440
+S
+#444
+A Corridor~
+Vision becomes more difficult the farther down the corridor one goes. 
+Windows were not considered necessary for the servants, so few were put in. 
+Surprisingly, little dust and dirt litters the hall.  The servants keep this
+section of the castle as clean as the portions most often seen.  The passage
+of many feet shows in the grooves worn into the stones of the floor. 
+Pathways lead clearly toward the kitchen and the main section of the castle.
+~
+0 8 0
+D1
+~
+~
+0 0 445
+D3
+~
+~
+0 0 440
+S
+#445
+The Servant's Quarters~
+Few comforts grace the servants hall.  No rugs cuddle the feet as they
+travel by.  No tapestries keep the breezes down.  The paintings on the wall
+were placed there by proud relatives.  Pictures done by young children with
+a piece of coal, or crude paintings made with "borrowed" paints.  A few
+discarded pieces of furniture from the main castle have found their way
+here.  A scarred table rests against the eastern wall, used for folding
+clothes and separating laundry.  A small secretary stands tall against the
+northern wall, next to the entrance to the sleeping quarters.  It's wooden
+doors are in sad shape, hanging lopsided from their hinges.  
+~
+0 8 0
+E
+picture~
+A proud youngster carefully used a piece of coal to draw the castle and
+it's denizens.  A lone bird patrols the top of the castle while guards
+obviously patrol the ground.  
+~
+E
+secretary~
+A small cabinet once used to store writing utensils and letters for the
+royals.  It was abandoned when a newer one was commissioned.  It is used for
+storing odds and ends here in the servants quarters.  
+~
+D0
+~
+~
+0 0 446
+D2
+~
+~
+0 0 447
+D3
+~
+~
+0 0 444
+S
+#446
+Sleeping Quarters~
+This large room is where all the single female servants sleep.  Pallets
+lay on the floor against the walls.  Broad pathways allow travel through the
+room and a bit of personal space.  Bright scraps of leftover cloth have been
+woven together to form small rugs scattered about the room.  Several pieces
+of unframed embroidery hang on the cold, stone walls.  A few articles of
+clothing can be seen tucked under a few pallets while blankets are neatly
+folded on top of them.  
+~
+0 8 0
+E
+embroidery~
+Each piece consists of thread scraps tossed away by one of the ladies of
+the court.  Thus, many colors are used in the simple designs.  They consist
+of intertwined ribbons and many knots placed to look like flowers.  
+~
+E
+rug~
+Bold, primary colors twine about each other to create rugs that stand out
+and create an atmosphere of brightness in the room.  The colors alleviate
+some of the drabness of the grey stone while the thickness attempts to keep
+feet warm as they pass by.  
+~
+D2
+~
+~
+0 0 445
+S
+#447
+Sleeping Quarters~
+Pallets line the floor of this chamber where the single male servants
+sleep.  Many were made in a hurry, and so, are rather untidy.  The grey
+stone of the walls creates a drab atmosphere not alleviated by the single
+window to the south.  Several personal possessions are within view.  One
+pallet has a ribbon tucked under the quickly folded blanket.  Hanging from
+hooks on the wall are several cloaks and overcoats.  A piece of paper peeks
+out from the pocket of a sturdy overcoat.  
+~
+0 8 0
+E
+hooks~
+A clever attempt to create a storage area for each servant within this
+room.  There appears to be two hooks for each pallet.  One at eye level to
+hang cloaks and coats from, the other slightly lower to hang everyday
+clothes at night.  
+~
+E
+ribbon~
+A vivid scarlet ribbon snakes across the pallet from under the blanket. 
+A few long golden strands of hair shimmer in the knot at the end of the
+ribbon.  A token of affection?  
+~
+E
+paper~
+The piece of paper is a hastily scribbled note:
+ 
+My son,
+ 
+As you requested, construction will begin
+on your new cottage as soon as possible.
+We look forward to meeting your bride-to-be.
+Bring her along on your next visit. The
+queen will understand.
+ 
+                     Your doting parents
+~
+D0
+~
+~
+0 0 445
+S
+#448
+The Stairwell~
+A crackling torch hisses near the base of the narrow stairwell.  Shadows
+dance frantically on the uneven stone walls as the torch shivers with a gust
+of air.  A narrow set of stairs curves upward into a stygian night.  From
+above, the unmistakable sounds of crying trickle down the stairwell.  
+~
+0 8 0
+D2
+~
+~
+0 0 439
+D4
+~
+~
+0 0 449
+S
+#449
+The Stairwell~
+The ascent into the stairwell quickly becomes a sensation of never-ending
+night.  Incomplete darkness reigns until a flickering torch appears around a
+blind curve, heralded by a lingering sooty odor.  The stairs continue up in
+a perpetual circle until the second floor announces itself with a brilliant
+burst of light from windows directly across from the stairwell.  
+~
+0 8 0
+D3
+~
+~
+0 0 450
+D5
+~
+~
+0 0 448
+S
+#450
+The Upper Hall~
+The splash of light originates from windows high above the room across
+from the stairwell.  The room appears to have been added onto the main
+section of the castle, and therefore, not built as high as the original
+castle walls.  Deep, emerald green and midnight blue perpetuate a sense of
+calm as they are extensively used throughout the hallway.  The rug consists
+of a jewel green background with gentle splashes of midnight blue.  Thick
+tapestries echoing the colors of the rug, drape the stone walls in a cozy
+comfort.  
+~
+0 8 0
+D0
+~
+~
+1 0 451
+D1
+~
+~
+0 0 449
+D2
+~
+~
+0 0 453
+D3
+~
+~
+0 0 452
+S
+#451
+The Lord's Chamber~
+A massive four poster bed dominates the room.  It is large enough to
+comfortably sleep eight people.  Wispy panels of red silk drape across the
+posters and supports.  Lavish panes of thick, red velvet form durable
+curtains that can be pulled closed around the bed.  Numerous pelts of
+animals cover the bed in a luxury of soft warmth.  Sable, mink, fox, and
+ermine mix together in a kaleidoscope of textures and colors.  An intricate
+carving of the family crest decorates the magnificent headboard.  The whole
+ensemble is fit for royalty.  
+~
+0 8 0
+E
+headboard~
+An exquisitely detailed hawk stares out from the wood.  One claw grasps a
+wreath of ivy containing edelweiss.  The other claw contains a short sword
+dripping blood.  With wings unfurling, the hawk both promises and threatens
+with an unspoken message.  
+~
+E
+pelts~
+Soft, thick fur tickles the nose and caresses the hand petting the pelt.  
+~
+D2
+~
+~
+1 0 450
+S
+#452
+The Queen's Solar~
+This room is the most productive in the castle, outside of the kitchen. 
+All the embroidery of clothes, sewing, weaving, and spinning occurs in this
+immense room.  Many windows were set into the walls in order to provide
+enough light to see the delicate work in progress.  Two large looms sit with
+half completed fabric threaded on them.  Many skeins of tightly spun thread
+wait to be worked into the sturdy fabric.  Spinning wheels sit silently
+against the southern walls, waiting for the ladies to return.  Several yards
+of fabric with patterns traced on them are waiting to be cut out on
+tables next to the looms.  
+~
+0 8 0
+E
+loom~
+A fine textured linen is currently being woven.  A high thread count is
+hard to maintain with a good, tight weave.  Some slackening in the threads
+can be seen due to not being constantly tightened.  
+~
+E
+windows~
+An excellent view of the garden glows with the colors of the flowers if
+not the details.  Looking farther out, the fields surrounding the castle
+eventually become a white mist that fades out into the blue of the sky.  
+~
+D1
+~
+~
+0 0 450
+S
+#453
+The Upper Hallway~
+A large bay window takes up most of the western wall.  A small cushioned
+bench rests before it, offering a place to sit in repose.  White linen
+cushions lined with gold piping nestle against the wood of the bench.  Their
+shimmering blue and green tassels complementing the soft, thick rugs which
+pad the floor and dampen the footsteps of passing guests as they proceed to
+their rooms in the eastern hallway.  The large nursery lies to the south,
+close to the royal quarters but still separate.  Gruff, male voices can be
+heard coming from the partially open door to the nursery.  
+~
+0 8 0
+E
+window~
+The window offers a clear view of the western mountain range.  It's deep
+green slopes playing hide and seek through the clouds.  The garden can be
+seen slightly off to the north.  The many flowers resembling more a canvas
+splashed with colors than a garden of individual flowers.  
+~
+D0
+~
+~
+0 0 450
+D1
+~
+~
+0 0 455
+D2
+~
+~
+1 0 454
+S
+#454
+The Nursery~
+The nursery looks as though her royal highness threw a tantrum of immense
+proportions.  A closer look reveals something more sinister took place. 
+Toys are strewn about in a haphazard manner but most are broken, ripped, or
+crushed.  The daintily embroidered curtains were torn from their brackets
+and then shredded to a pathetic pile of scraps.  Lamps were thrown against
+the walls to shatter them.  Pieces of glass litter the floor, having been
+ground into the rugs by careless male feet shod in metal boots.  A scrap of
+cloth from the coverlet that was on the bed hangs limply from a sharp
+splintered section of the window sill.  
+~
+0 8 0
+E
+window~
+This is the obvious route of escape for the kidnappers although there is
+no trace of their passing other than a bit of twine left in the broken sill.
+~
+E
+glass~
+The broken pieces of lamps and other breakables lay in a glittering
+pattern of tears across the floor.  Sharp and unheeding, the glass forms a
+path of destruction that continues to affect all who enter the room.  
+~
+E
+scraps~
+Someone or something in a fury took a knife or other sharp object to the
+gentle blue velvet.  Nothing remains but this piles of shredded material.  
+~
+E
+sill~
+Sharp splinters caught and held a tiny piece of the embroidered sky blue
+silk coverlet.  What appears to be strands of twine or rope are also caught
+in the abrasion of the wood.  
+~
+D0
+~
+~
+1 0 453
+S
+#455
+The Upper Hallway~
+The hallway turns to begin the east wing where the guest quarters are
+located.  Doorways to lavishly furnished bedrooms march down the dim
+passage.  A few torches light the way along the hall, but not enough for
+bright light due to most of the doors being closed.  The stone walls
+surrounding the torches are bare in order to prevent fires, but tapestries
+soften the walls at a safe distance from the flames.  The colorful rugs
+belonging on the floor are rolled up along the northern wall for transport
+to another room.  Footsteps echo loudly down the hallway.  
+~
+0 8 0
+E
+rugs~
+The few rugs adorning the floors were rolled up into tight circles and
+placed against the northern wall.  They are intended to replace the ruined
+rugs in the nursery.  
+~
+E
+torch~
+Flames flicker with bright energy from the torch resting in the metal
+bracket.  Sparks vigorously shoot from the flames every so often but fall
+harmlessly on cold stone floors and walls.  
+~
+D1
+~
+~
+0 0 456
+D3
+~
+~
+0 0 453
+S
+#456
+The Upper Hallway~
+The bare stone floor continues, enabling footsteps to echo off of the
+chilly stone walls.  A few niches carved into the stone of the walls hold
+odd bits of statuary.  In their dim resting places, the white marble of the
+statues almost glows with an unearthly reflection of the torch light.  The
+door to the privy lies to the north, a crude half moon scratched into the
+wood at eye level by an ungrateful guest.  To the south, a bedchamber waits
+for the occupants to return.  
+~
+0 8 0
+E
+statuary~
+The dim light conceals most of the details but the statues are the gods
+of the anicents.  The statues languish, unappreciated in their dusty niches,
+waiting to be rediscovered.  
+~
+D0
+~
+~
+1 0 462
+D1
+~
+~
+0 0 457
+D2
+~
+~
+1 0 461
+D3
+~
+~
+0 0 455
+S
+#457
+The Upper Hallway~
+The bare stones of the floor have a few uneven spots along this stretch
+of the hallway.  The dim light aids the stones in tripping the unwary foot. 
+A chill gust of air flows from the east, raising goose bumps.  Instead of
+the usual tapestry on the walls, a sword crossed with an axe glints on the
+northern wall while a suit of armor stands attentively against the southern
+wall.  A cobweb can be seen inside the suit of armor, leering through an
+empty eye socket.  
+~
+0 8 0
+E
+suit~
+The empty eyes of the suit of armor seem to follow every movement.  Small
+dark spots litter the smooth surface of the suit.  Closer examination
+reveals that they are rust spots from not being carefully shined everyday.  
+~
+D1
+~
+~
+0 0 458
+D3
+~
+~
+0 0 456
+S
+#458
+The Upper Hallway~
+Doors leading to guest chambers loom to the north and south.  The scant
+torch light makes the wood indistinct, but touch reveals intricate carving
+on each door, A chill breeze flows from under the northern door, stirring
+the light from a nearby torch to a flickering irritation of shifting
+shadows.  A large statue of an odd creature rests against the windowless
+eastern wall.  No torches light it's rough black surface.  
+~
+0 8 0
+E
+plaque~
+A plaque reads:
+ 
+From the depths of the night, the Malkron hunts.
+~
+E
+statue~
+No light reflects from the surface of the strange black stone.  The form
+and details seem indistinct when gazing directly at the statue.  From the
+corner of the eye, the details and shape of the statue come sharply into
+focus.  It has an almost insect appearance with several limbs and
+multifaceted eyes yet it is covered with fur and has sharp fangs protruding
+from its mouth.  A small golden plaque was attached to the base of the
+statue.  
+~
+D0
+~
+~
+1 0 459
+D2
+~
+~
+1 0 460
+D3
+~
+~
+0 0 457
+S
+#459
+The Green Cube Room~
+This room was aptly named for the stained glass windows lining the walls
+and the square shape of the room itself.  The windows were designed with
+squares of green glass arranged in geometric patterns.  A few tapestries
+grace the walls while a large carpet featuring cubes of emerald green covers
+the floor.  A shelf sits between two of the windows on the western wall,
+displaying a single piece of colored glass.  Both of the windows are propped
+slightly open, a few fibers from a rope are caught in the corner of one of
+the windows.  
+~
+0 8 0
+E
+chest~
+A simple white chest of drawers holds several changes of clothes for one
+of the guests.  Tunics, breeches, gloves, and several pairs of hose wait in
+the scented drawers.  A hat perches on a hook just above the chest while two
+spare pairs of boots hide between the chest and bed.  Green cubes flicker
+across the white surface of the chest as the sun shines into the room.  
+~
+E
+glass~
+Someone carefully placed this piece where light will illuminate the heart
+of the glass.  A tiny golden cube shows through the deep green glass only
+when illuminated by the light.  
+~
+E
+carpet~
+A generously sized carpet covers most of the floor in this room.  The
+design of geometric shapes is continued with a huge central cube of deep
+forest green covered with cubes of emerald green and rectangles of leaf
+green.  The smaller cubes and rectangles sit precisely aligned in rows
+against the dark green background.  They are outlined with a gold border for
+contrast.  
+~
+E
+tapestries~
+Several tapestries cover the walls with a splash of green and white
+geometric shapes.  Prominently figured are cubes, but circles and triangles
+appear as well.  Each of the tapestries have a gold border to contrast with
+the rest of the room and add a bit of sparkle.  
+~
+E
+windows~
+Intricately worked, the panes of glass are very old and carefully worked
+by a master.  The cubes vary from small light green cubes to a central large
+deep green cube.  The smaller cubes are arranged along the edges while
+slightly darker and larger cubes occupy the corners.  Light passes through
+the windows and leaves a kaleidoscope of green cubes and white light.  
+~
+D2
+~
+~
+1 0 458
+S
+#460
+The Aerie~
+Bright light streams into this room, entering from the many windows
+lining the walls and built into the sloping roof.  The windows allow a clear
+view of a large nest built in a secure crook of the roof where a small tower
+rises above the rest of the castle.  Lavish tapestries decorate the walls
+and thick rugs soften the floor.  They combine their efforts with a small
+fireplace to keep the room warm and comfortable.  A down tester sits
+invitingly under the sloping roof with thick blankets resting on it's
+surface.  A small armoire rests against the wall near the door, providing a
+place to store clothes and other possessions.  
+~
+0 8 0
+E
+armoire~
+Glancing inside the armoire, frilly undergarments and several colorful
+dresses proclaim this room occupied.  Several bright shawls peek out from a
+partially open drawer while a quick look reveals jewellery and hair ribbons
+in another.  Several pairs of shoes of different colors rest along the
+bottom of the armoire, waiting for their chance to be worn.  
+~
+E
+tapestries~
+The tapestries in this room all feature birds in many settings.  Birds
+flying, hunting, being captured, and perched appear throughout the room.  A
+small tapestry near the bed offers a representation of the royal coat of
+arms.  
+~
+E
+nest~
+Built of large sticks and twigs woven into a tight mass of wood, the nest
+is gently cradled against the roof.  Two large hawks circle around the nest,
+eyeing the occupants closely before landing to offer the food they returned
+with.  Three small chicks tear hungrily into the meat.  
+~
+D0
+~
+~
+1 0 458
+S
+#461
+The Sun Room~
+This room was intended to portray a cheerful glow from the sun. 
+Everything in the room is yellow and gold.  The southern wall is a tiled
+mosaic of the sun done with intricate detail.  Small half-orbs of shimmering
+gold glow with light from the torches they contain.  Bright, yellow silk
+curtains frame the windows, held in place by golden loops.  A glittering
+yellow coverlet covers the bed, embroidered with the sun, moon and stars.  A
+large cabinet against the northern wall was painted a pale yellow and
+decorated with circular gold handles and knobs.  
+~
+0 8 0
+E
+mosaic~
+A massive image of the sun is surrounded by a golden aura formed by
+thousands of painstakingly applied tiles.  Most of the tiles used are yellow
+and gold, but a few are white.  A fat border of white tiles surround the
+mosaic for a contrast to the grey stone of the wall.  
+~
+E
+coverlet~
+Thick dark gold velvet was carefully embroidered by a loving hand with
+small stars and moons surrounding a large sun in the center of the coverlet.
+Tiny suns were embroidered along the edges of the coverlet.  
+~
+E
+cabinet~
+The interior of the cabinet conceals the clothes of a couple.  Tunics and
+breeches hang next to skirts and blouses.  A few items have fallen to the
+bottom to cover the shoes and boots resting there.  Inside the doors of the
+cabinet, someone has painted a scene of people worshipping the sun god.  The
+scene is rich in color and quite a contrast to the rest of the room. 
+Resting on top of the cabinet is the same sun god standing with an orb
+representing the sun raised over his head.  
+~
+D0
+~
+~
+1 0 456
+S
+#462
+The Privy~
+A single torch illuminates this small room but little explanation is
+needed.  The simple wooden seat with two holes cut through it tells its own
+story along with the chilly breeze whistling through the holes.  It carries
+the smell of recently limed walls and hints at the outside world.  The stone
+walls emanate a deep cold that does not encourage lingering for too long.  
+~
+0 9 0
+D2
+~
+~
+1 0 456
+S
+#463
+Down the shaft~
+Slipping past the seat and ending up here seems like a really bad idea. 
+In fact, it stinks.  Slime covers the stone walls, and does not bear close
+examination.  A light at the end of the tunnel promises freedom from this
+too small prison.  
+~
+0 9 0
+E
+slime~
+WHY are you looking at this?
+~
+D5
+~
+~
+0 0 464
+S
+#464
+Down the shaft~
+Moving quickly down the shaft, aided by the slime and filth, progress is
+made toward the exit from the tunnel.  The breeze is stronger here, sweeping
+the fetid air up the tunnel and away from delicate noses.  A curious scent
+of sulfur lingers on the air.  The exit lies directly to the east, promising
+freedom.  
+~
+0 1 0
+D1
+~
+~
+0 0 465
+D4
+~
+~
+0 0 463
+S
+#465
+The moat~
+Escaping the confinement of the privy shaft, a short fall ends in a
+splash of water from the moat hugging the anterior portion of the castle. 
+Surprisingly, the water is clean and a quick dunk removes all traces of the
+journey through the shaft.  On the bank next to the moat, a warm zephyr
+tickles as it brushes by, whisking the water from dripping wet clothes.  A
+very tall tower rises to the north.  It was built completely separate from
+the castle and is free standing.  No plants grow near the base and no
+animals wander near its sullen blackness.  
+~
+0 0 0
+D0
+~
+~
+0 0 466
+S
+#466
+Base of the tower~
+A rocky path leads up to the black tower that appears to have sprouted
+directly from the solid ground.  An eerie aura surrounds the tower, sending
+off a wave of alarm to anything close to it.  Plants growing near the castle
+seem to grow away from the black spire.  None of the birds floating above
+the castle approach the tower in their lazy spirals overhead.  As the tower
+looms closer, the surface beckons for attention.  
+~
+0 0 0
+D2
+~
+~
+0 0 465
+S
+#467
+Inside the tower~
+Inside the tower, a cimmerian darkness holds court.  The darkness forces
+an ambiguity on the interior surface of the wall.  A close look reveals the
+stones are a dark charcoal grey with a nonreflective matte finish.  There is
+no going back.  A soft scurrying from above echoes loudly against the
+background silence.  Looking eastward, minute rays of light reveal a
+stairwell leading to the second floor.  
+~
+0 9 0
+D1
+~
+~
+0 0 468
+S
+#468
+Up the stairs~
+The stairs linger in a cloud of darkness that is punctuated by pinpricks
+of light filtering in through tiny windows in the shapes of half-moons,
+stars, and suns.  There is not enough light to see clearly by, but enough to
+see a trapdoor just to the side of the stairwell.  Small luminescent runes
+glow along the outside edge of each stair.  The ethereal glow is faint, as
+if it is about to be extinguished.  
+~
+0 9 0
+D3
+~
+~
+0 0 467
+D4
+~
+~
+0 0 469
+S
+#469
+On the first landing~
+The stairs are long and rise steeply through the darkness as if someone
+designed them to traverse the darkness as quickly as possible.  The first
+landing is a respite from the arduous task of climbing another flight of
+stairs.  A solid steel door lies to the west.  A brightly glowing rune above
+the handle catches the eye.  A soft rattling emanates from behind the closed
+door.  A shadow passes through the line of light showing under the door.  
+~
+0 9 0
+D0
+~
+~
+0 0 470
+D3
+~
+~
+1 0 471
+D5
+~
+~
+0 0 468
+S
+#470
+On the first landing~
+The stairs continue upwards into the midnight darkness looming overhead. 
+The occasional twinkle of sunlight glimmers through one of the celestial
+symbols punched into the walls.  Looking closely, the barely visible runes
+outline the stairs and make them easier to follow with a focal point.  The
+stairwell appears to narrow slightly at the entrance.  Coincidence or design
+will have to be determined by proceeding up the stairs.  
+~
+0 9 0
+D2
+~
+~
+0 0 469
+D4
+~
+~
+0 0 472
+S
+#471
+The reliquary~
+Torches brightly burn along the walls of this airless room.  Dusty tomes
+fill the many shelves that line the walls.  A large oak table occupies most
+of the center of the room.  Numerous items have been forgotten and remain on
+its surface, waiting patiently to be rediscovered.  Several large statues of
+forgotten deities stand against the walls.  Once studied thoroughly, they
+now collect dust and escape notice in the clutter.  Small boxes engraved
+with symbols and designs, amulets and rings of dubious origin, and even a
+yellowing skeleton all add to the sense of disorganization.  
+~
+0 9 0
+D1
+~
+~
+1 0 469
+S
+#472
+Up the stairs~
+The stairwell continues to narrow along the never-ending upwards flight
+until one person at a time can pass between the stone walls.  There are no
+celestial rays of light along this stretch of the stairs.  Darkness gloats
+all around with an unceasing presence.  A spark of light flits across the
+top of the stairwell, encouraging continuing to the top.  The walls seem to
+step back a bit and allow a bit of breathing room as the last steps are
+maneuvered at a fast clip.  
+~
+0 9 0
+D3
+~
+~
+0 0 473
+D5
+~
+~
+0 0 470
+S
+#473
+The second landing~
+High along one wall, a window the size of a small kettle is covered with
+a blackened animal skin.  A corner has torn loose and occasional gusts of
+wind puff the skin away from the window to allow a burst of light to tease
+the senses.  A thick, vaporous fog smelling heavily of sulfur creeps along
+the floor of this landing.  A soft chanting can be heard echoing down the
+hallway from around the corner.  
+~
+0 9 0
+D1
+~
+~
+0 0 472
+D2
+~
+~
+0 0 474
+S
+#474
+Entrance to the laboratory~
+Standing before two arched doors twelve feet high, the first impression
+of the laboratory is that of size.  The next impression is that of smell.  A
+horrendous odor floats across the air from somewhere in the depths of the
+smoke filled lab.  The chanting seems to be emanating from two slaves
+chained to the wall next to the door.  Over and over, they repeat the same
+chant in a monotone.  A sudden burst of light from directly east recalls the
+fact that someone chained the slaves here.  
+~
+0 9 0
+D0
+~
+~
+0 0 473
+D1
+~
+~
+0 0 475
+S
+#475
+The center of the lab~
+A small round table rests in the center of a pentagram drawn on the floor
+with blood and white chalk.  The surface of the table is slippery with fresh
+blood dripping from the remains of a small animal into an overflowing
+ceremonial urn.  Thick, dense fog limits sight into the surrounding area. 
+Sound echoes against unseen objects and reverberates from nearby metal.  A
+faint light shines through the fog to the east, beckoning through the
+indistinct haze.  
+~
+0 9 0
+E
+pentagram~
+Stark white chalk outlines the main lines of the pentagram while the red
+blood obscenely closes the lines with large daubs of red at the points. 
+Tiny, black candles burn in the blood, throwing blue sparks into the air and
+smelling of decay.  
+~
+E
+urn~
+A tiny urn used in holy ceremonies of dedication and bonding, the blood
+flowing from it seems a desecration of a magical object.  The silver metal
+is stained a dull brownish red that mocks its former brightness while the
+emblems engraved on the sides seem to have worn away and become
+indecipherable.  
+~
+D0
+~
+~
+0 0 476
+D1
+~
+~
+0 0 478
+D2
+~
+~
+0 0 477
+D3
+~
+~
+0 0 474
+S
+#476
+Along the shelves~
+To the north, an entire wall of shelves appears abruptly from the fog. 
+Filled to capacity with powders, potions, and dusty tomes, the shelves
+appear a disorganized hodgepodge of materials.  A shadow flits across the
+boundary of the fog, remaining hidden in the obscurity at the dark edge.  A
+sudden scuffling hidden in the dark raises goose bumps and puts nerves on
+edge.  A table that had been resting against the eastern wall lies smashed
+on the floor with bits of glass broken and laying in piles around the
+splinters.  
+~
+0 9 0
+E
+glass~
+Light reflects from the many shards of glass littering the floor,
+creating the illusion of a sea of lights.  Some of the glass has been ground
+into the stone by passing feet.  Slivers of wood mingle within the
+glittering pool and make passage across the room hazardous.  
+~
+E
+table~
+Shattered bits of the precious thick glassware used in archane magic
+rituals surround the sturdy oak table that lies in splinters on the floor. 
+Sacred wands were broken into tiny fragments before being burned amid the
+shambles.  
+~
+D2
+~
+~
+0 0 475
+S
+#477
+The Shrine~
+A small candle resting on a pristine white altar cloth illuminates the
+area, revealing the chaos surrounding the altar.  Heavy objects were thrown
+unsuccessfully in an attempt to shatter the shrine.  From the pattern of
+havoc, an invisible barrier seems to surround the holy place and protect it
+from desecration.  A small spark burns brightly just above the shrine,
+floating calmly on the air just above the holy relics resting on the altar
+surface.  
+~
+0 9 0
+E
+spark~
+The spark hovers unmoving above the altar until you take a step toward
+it.  A streak of light ripples across the space between you until it touches
+your forehead.  A tingle shivers throughout your body and suddenly stops. 
+The spark brightens and then with a twinkle subsides.  It resembles a small
+star against the lingering darkness.  
+~
+E
+inscription~
+The inscription reads:
+ 
+Mother of all, Lady of the Stars.
+~
+E
+altar~
+A small marble shrine dedicated to Neith, an arcane goddess long
+forgotten.  A few tarnished artifacts rest on the altar cloth, glinting in
+the bright light of a small candle.  Carved into the front of the altar is
+an inscription.  
+~
+D0
+~
+~
+0 0 475
+S
+#478
+The constellation room~
+The mystery of the tiny holes along the walls of the tower is solved in
+this room.  Sunlight shines through the minute holes creating the images of
+many constellations from the night sky.  The small amount of sunlight hits
+the dense fog and creates the illusion of walking through a cloud with the
+night sky above.  A stairway in the northeast corner of the room leads to a
+catwalk that passes over head and leads to a large telescope resting on a
+tall stone base.  
+~
+0 9 0
+E
+constellation~
+The twinkling of the sunlight through the tiny holes along the walls
+imitates starlight in the dark room.  Many constellations can be seen,
+glinting and twinkling just like the real ones in the night sky.  
+~
+E
+fog~
+Thick, clinging tendrils of the sulfurous mist hang in the air, giving
+the room a sinister aspect.  Sunlight causes the mist to become opaque,
+lending the mist the more solid looking aspect of a cloud.  
+~
+E
+cloud~
+Thick, clinging tendrils of the sulfurous mist hang in the air, giving
+the room a sinister aspect.  Sunlight causes the mist to become opaque,
+lending the mist the more solid looking aspect of a cloud.  
+~
+D3
+~
+~
+0 0 475
+D4
+~
+~
+0 0 479
+S
+#479
+The observatory~
+The catwalk stretches out precariously across the rooms below.  Far
+below, shapes move about in the mist farthest from the flickering torches. 
+To the south, a large telescope can be seen resting atop a stone pillar
+sitting next to a set of levers.  The roof near the telescope looks to be
+split down the center and overlapping.  A glint of metal draws attention to
+a set of huge gears located just beyond the telescope.  
+~
+0 9 0
+D2
+~
+~
+0 0 480
+D5
+~
+~
+0 0 478
+S
+#480
+The telescope room~
+The telescope sits atop its perch, lenses tilted upward toward the dim
+stones of the roof.  Tripping over a lever sets the gears behind the
+telescope to rotating, slowly at first and then quicker.  The roof begins to
+slide open at the center where it appears to have been cut in half.  Bright
+sunlight floods the room, a welcome relief from the darkness.  A haggard man
+can be seen sitting inside a closely grouped set of wards on the southeast
+side of the telescope near the opening roof.  
+~
+0 0 0
+E
+telescope~
+A simple telescope built on a grand scale.  The lenses cost a fortune and
+appear to be free of scratches and imperfections.  Looking through the
+telescope, a distant view of an ocean or large lake presents waves rippling
+in gentle harmony.  
+~
+E
+gears~
+The gears are slightly rusty but kept clean.  They rotate freely as they
+turn the mechanism that opens the ceiling.  
+~
+E
+lever~
+Made of stout oak, they operate the gear mechanism that opens the ceiling.  
+~
+D0
+~
+~
+0 0 479
+D2
+~
+~
+0 0 481
+S
+#481
+Outside the tower~
+Leaning too far out the opening, gravity takes over and pulls you
+downward.  Air rushes past your face as you fall past all the stairs so
+recently climbed inside the tower.  Perhaps this is a good time for prayers.
+~
+0 0 0
+D5
+~
+~
+0 0 482
+S
+#482
+Outside the tower~
+The air whistles past your ears, repeating a melancholy dirge.  Falling
+faster and faster, time slows to an infinitesimal pace as the ground draws
+closer and closer.  Boy, this is going to hurt.  
+~
+0 0 9
+D5
+~
+~
+0 0 483
+S
+#483
+On the ground~
+Crunch!  The ground rises to meet your falling body.  A harsh welcome is
+given by the rocks as they make impressions along your body.  The pain is
+only felt for a minute as the soul rebels and leaps free from the snare of
+life.  
+~
+0 4 1
+S
+#484
+~
+A single torch burns near the trapdoor leading up out of the stygian dark obscuring the base of the stairs. The flickering glow of red eyes appear in the darkness below.
+~
+0 40973 0
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 475 spec_cast_undead Load to: the archmage
+M 480 spec_cast_mage Load to: the wizard
+S
+
+
+
+#RESETS
+D 0 412 1 0
+D 0 413 3 0
+D 0 418 0 1
+D 0 419 3 0
+D 0 421 1 0
+D 0 427 0 0
+D 0 427 2 1
+D 0 428 0 0
+D 0 428 2 0
+D 0 429 2 0
+D 0 432 3 0
+D 0 433 2 0
+D 0 434 0 0
+D 0 434 3 0
+D 0 435 1 0
+D 0 436 0 0
+D 0 437 2 0
+D 0 438 1 0
+D 0 438 3 0
+D 0 441 1 0
+D 0 442 3 0
+D 0 450 0 0
+D 0 451 2 0
+D 0 453 2 0
+D 0 454 0 0
+D 0 456 0 0
+D 0 456 2 0
+D 0 458 0 0
+D 0 458 2 0
+D 0 459 2 0
+D 0 460 0 0
+D 0 461 0 0
+D 0 462 2 0
+D 0 469 3 0
+D 0 471 1 0
+M 0 409 5 407
+M 0 408 1 408
+O 0 408 0 408
+O 0 461 0 409
+O 0 459 0 409
+M 0 411 1 411
+E 0 411 0 8
+E 0 410 0 12
+M 0 409 5 411
+M 0 409 5 411
+M 0 409 5 411
+M 0 412 1 412
+E 0 412 0 1
+O 0 413 0 413
+P 0 414 0 413
+M 0 415 1 415
+G 0 415 0
+M 0 409 5 416
+M 0 418 2 418
+G 0 418 0
+E 0 417 0 16
+M 0 420 1 420
+E 0 420 0 16
+O 0 421 0 421
+M 0 421 4 421
+M 0 422 1 422
+E 0 422 0 16
+M 0 424 1 424
+O 0 424 0 424
+M 0 425 1 425
+E 0 425 0 5
+E 0 423 0 13
+M 0 426 1 426
+G 0 426 0
+M 0 427 1 427
+E 0 427 0 16
+G 0 428 0
+O 0 430 0 430
+M 0 430 3 430
+M 0 407 3 430
+M 0 431 1 431
+G 0 431 0
+M 0 432 1 431
+M 0 407 3 431
+M 0 407 3 432
+O 0 481 0 436
+O 0 437 0 437
+P 0 436 0 437
+M 0 430 3 439
+M 0 430 3 440
+M 0 441 1 441
+E 0 441 0 16
+M 0 440 3 441
+M 0 442 1 442
+E 0 442 0 16
+O 0 443 0 443
+M 0 443 1 444
+M 0 454 1 454
+M 0 458 4 455
+M 0 458 4 456
+M 0 458 4 457
+M 0 458 4 458
+M 0 461 1 461
+M 0 459 1 462
+O 0 466 0 466
+O 0 471 0 471
+M 0 474 2 474
+G 0 474 0
+M 0 475 1 475
+G 0 475 0
+O 0 477 0 477
+M 0 480 1 480
+E 0 480 0 3
+G 0 479 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

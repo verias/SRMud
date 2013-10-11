@@ -1,0 +1,2932 @@
+#AREADATA
+Name {30 40} Blyte   Caer Morr~
+Builders Blyte~
+VNUMs 11151 11250
+Security 1
+End
+
+
+
+#MOBILES
+#11200
+large bull creature bovine hairy~
+a bovine creature~
+A large hairy bull like creature chomps grass here.
+~
+A huge hairy bull like creature chomps happily on the grass.  This
+creature is bovine in nature but very big indeed, its huge curved horns
+sweep from side to side as it chews the grass.  Its hairy hide is both black
+and white in color making it almost quite attractive in a way.  The beast
+looks at you with big brown eyes almost as if it is attempting to work out
+if you are of danger to it.  
+~
+Pig~
+A a 0 S
+30 0 10d60+520 30d10+100 3d6+8 0
+-1 -1 -1 0
+C 0 0 0
+9 9 3 135
+AGV ACDEFHJKP L unknown
+#11201
+lugh Danan male~
+a tall danan male~
+Lugh a tall male Danan stands guard over the cattle.
+~
+Standing tall and erect, Lugh positions him self so that he has a clear
+view of the fields and cattle that are in his charge.  A slight glimmer
+masks his features but he appears to be good looking in a rugged sort of
+way.  
+~
+unique~
+A J 0 S
+35 0 10d76+654 35d10+100 4d6+9 2
+-3 -3 -3 -1
+I 0 B 0
+9 9 1 157
+AHMV ABCDEFGHIJK M unknown
+#11202
+millicent female danan woman~
+a danan female~
+This woman is Millicent, the wife of Lugh.
+~
+Millicent is here making a pie for her husband Lugh, flour covers her
+slim arms up to the elbows.  She seems both happy and absorbed in her task
+to such an extent that she seems not to have noticed you.  Her head is
+covered by long blond hair that is tied in a pony tail behind her head, her
+features seem to be blurred by some unseen aura about her face.  You still
+get the impression that she is of impressive beauty.  
+~
+unique~
+A J 0 S
+32 0 10d66+571 32d10+100 4d5+9 0
+-2 -2 -2 0
+0 0 B 0
+9 9 2 144
+AHMV ABCDEFGHIJK M unknown
+#11203
+sprite house spirit~
+a house spirit~
+A house spirit flits about cleaning the home.
+~
+The spirit of this home has formed into a small quick moving creature. 
+Small clawed hands pick up all traces of dust that it comes across.  Its
+over all form seems to be soft like fabric.  
+~
+Doll~
+A B 0 S
+33 0 10d69+599 33d10+100 4d5+9 22
+-2 -2 -2 0
+B C ES GHJKO
+9 9 3 148
+EHJMc ABCGHK S unknown
+#11204
+red cap sprite~
+a red cap~
+A hungry looking Red Cap sulks about here.
+~
+Hunched and gnarled this sprite is repulsive to look upon.  Its twisted
+head is split by a overly large mouth that seems to stretch from ear to ear.
+Its fuzzy red hair is contained with in a red cap from which its name comes.
+~
+Kobold~
+A J -90 S
+35 0 10d76+654 35d10+100 4d6+9 10
+-3 -3 -3 -1
+0 0 L C
+9 9 3 157
+ABGHMV ABCDEFGHIJKQ M unknown
+#11205
+danan gate guard~
+a danan guard~
+A Danan gate guard is here, playing with some dice.
+~
+Tall and graceful but showing signs of strength and courage the gate
+guard happily plays with a set of dice.  His features are obstructed from
+view by a strange haze that seems to shimmer about him.  
+~
+unique~
+A J 0 S
+35 0 10d76+654 35d10+100 4d6+9 0
+-3 -3 -3 -1
+DEF 0 B 0
+9 9 1 157
+AHMV ABCDEFGHIJK M unknown
+#11206
+white hart deer~
+a white deer~
+A swift white hart darts though the woods here.
+~
+This white deer like creature moves swiftly though the woodlands, leaping
+over fallen logs with a fluid grace.  It would pass as a normal deer apart
+from having an extra pair of legs.  
+~
+Pig~
+A 0 0 S
+33 0 10d69+599 33d10+100 4d5+9 0
+-2 -2 -2 0
+CI 0 0 0
+9 9 3 148
+AGV ACDEFHJKP M unknown
+#11207
+hound large dog~
+hound~
+A large dog sprawls about, as if it owns the place.
+~
+This is one of Lord Tuans hunting hounds.  Going by the size and strength
+of these creatures you doubt it would have any problem taking down a lion on
+its own.  Its coat is a dark grey color and it has been kept in an
+outstanding condition with careful grooming.  It would seem cute if it
+wasn't for the huge fangs and powerful jaws.  
+~
+Wolfen~
+A FJZ 0 S
+35 0 10d76+654 35d10+100 4d6+9 10
+-3 -3 -3 -1
+FH 0 I H
+9 9 3 157
+AGHMV ABCDEFGHIJKLPQUV M unknown
+#11208
+tuan lord danan~
+lord Tuan~
+Lord Tuan broods here, with much on his mind.
+~
+Small and slight for one of his people Lord Tuan rules through wisdom over
+brute strength.  His long dark hair is braided so as not to get in the way
+if he should be called on to fight a prospect that he seems more than
+willing to take any one up on.  His clean and sharp features are visible
+unlike most of his people he does not seem to use magic to mask or alter
+them at all.  
+~
+unique~
+A HJ 0 S
+40 0 10d98+804 40d10+100 4d7+10 0
+-5 -5 -5 -3
+EFK 0 B 0
+9 9 1 180
+AHMV ABCDEFGHIJK M unknown
+#11209
+guard danan look out~
+a danan lookout~
+A danan guard has been posted here as a lookout.
+~
+Like most of the Danan race this one seems fair and graceful even with
+its features masked by some kind of mystical haze.  This figure scans the
+the surrounding woods with great care so that it is impossible for a large
+force of intruders to approach with out being spotted and dispatched.  
+~
+unique~
+A J 0 S
+36 0 10d80+683 36d10+100 4d6+9 0
+-4 -4 -4 -2
+EFI 0 B 0
+9 9 3 162
+AHMV ABCDEFGHIJK M unknown
+#11210
+servant danan~
+a danan servant~
+A danan servant moves quickly about doing its tasks.
+~
+This danan is employed by Lord Tuan to facilitate the smooth running of
+the his hall.  Not as well trained as the guard or as well equipped this
+person still looks like he could mean business.  
+~
+unique~
+A J 0 S
+35 0 10d76+654 35d10+100 4d6+9 17
+-3 -3 -3 -1
+0 0 B 0
+9 9 3 157
+AHMV ABCDEFGHIJK M unknown
+#11211
+cook anwyne danan~
+anwyne~
+Anwyne the danan cook is here making sure every thing is in order.
+~
+Anwyne must be a very good cook going by her size, where as most of the
+danans you have seen are slight of build she seems more solid.  Her face is
+red from the shouting of instructions to the servants here and her hair has
+been cut short so as not to get in the way when working.  
+~
+unique~
+A J 0 S
+38 0 10d89+743 38d10+100 4d6+11 0
+-4 -4 -4 -2
+0 0 B 0
+9 9 2 171
+AHMV ABCDEFGHIJK M unknown
+#11212
+blythyn druid~
+blythyn the druid~
+The druid Blythyn is here looking into the lines that the Lordship can pass to.
+~
+A great bear like danan Blythyn was once said to be a great warlord in
+his own right before he got the calling.  Now he spends his time in quite
+meditation on what can be done to make his people stronger and safer.  
+~
+unique~
+A JO 0 S
+39 0 10d93+773 39d10+100 4d6+11 0
+-5 -5 -5 -3
+EI 0 B 0
+9 9 1 175
+AHMV ABCDEFGHIJK M unknown
+#11213
+danan villager~
+a danan villager~
+A danan villager walks by here with purposeful strides.
+~
+This villager is on the slender side, but not quite as slender as an elf, 
+though it looks as if he or she does possess an innate grace of his or her 
+own.  The features seem to blur slightly the harder you look at it, making 
+it very difficult to tell whether this being is male or female.  He or she 
+wears smart clothes made of deerskin leather, expertly tooled by one of the 
+local craftsmen.  
+~
+unique~
+AV J 0 S
+33 0 10d69+599 132d10+100 4d5+9 17
+-2 -2 -2 0
+I 0 B 0
+9 9 3 148
+AHMV ABCDEFGHIJK M unknown
+#11214
+danan lord~
+a danan lord~
+A danan lord stands here, watching the world around him.
+~
+The pale figure before you is slim but seems to have a strong, athletic 
+build in spite of this.  Brown hair is gathered into a ponytail and 
+otherwise flows freely to the middle of his back, a few wisps of it escaping 
+to frame his sharp-featured face.  His eyes are a piercing grey-blue and 
+when he notes your presence, his thin lips curl into a pointed grin.  
+~
+unique~
+A J 0 S
+38 0 10d89+743 152d10+100 4d6+11 17
+-4 -4 -4 -2
+CI 0 B 0
+9 9 1 171
+AHMV ABCDEFGHIJK M unknown
+#11215
+danan lady~
+a danan lady~
+A danan lady walks here, looking about with interest.
+~
+The lithe build and pale skin coloration hints at this woman's beauty, 
+though her features are masked behind a shimmering glamour.  Long hair of a 
+brown hue tumbles down her back, easily reaching the start of her shoulders 
+and a generous chest and narrow waist certainly help add to the feeling of 
+her incredible comeliness.  
+~
+unique~
+A J 0 S
+36 0 10d80+683 144d10+100 4d6+9 0
+-4 -4 -4 -2
+I 0 B 0
+9 9 2 162
+AHMV ABCDEFGHIJK M unknown
+#11216
+danan adolescent female girl~
+a danan girl~
+This danan girl cannot be much more than an adolescent.
+~
+This girl is wrapped in a simple deer hide that has been fashioned in a 
+dress of moderate length, the hem touching just below her knees.  Decorative 
+pins have been twined within the twin braids that wrap around her head 
+before they join to form a larger braid that hangs down her back.  Due to 
+the nature of her hair, her pointed ears become much more apparent than they 
+normally would be, the tapered tips not much longer than those of a normal 
+human's.  Her gently slanted eyes give an exotic look to her sharp-featured 
+face and offset her vivid purple irises well.  
+~
+unique~
+A J 0 S
+30 0 9d55+470 112d10+100 3d5+9 0
+0 0 0 1
+0 0 B 0
+9 9 2 135
+AHMV ABCDEFGHIJK M unknown
+#11217
+boy adolescent male danan~
+a danan boy~
+This danan boy seems to have just entered adolescence.
+~
+This boy is clothed entirely in deer pelts fashioned to keep him safe from 
+the elements.  His brown hair is soft-looking and falls to his shoulders, 
+some of it short enough to fall over his fine eyebrows and into his bright 
+blue eyes.  His body is on the slight side but shows some muscular 
+definition, presumably from training and working to aid his elders.  
+~
+unique~
+A J 0 S
+31 0 10d63+545 124d10+100 4d5+8 0
+-2 -2 -2 0
+0 0 B 0
+9 9 1 139
+AHMV ABCDEFGHIJK M unknown
+#11218
+Jazriela danan tanner female woman~
+Jazriela~
+The danan woman known as Jazriela is here, showcasing her wares.
+~
+Many, many intricate braids fall over this woman's shoulders, their mahogany 
+twists decorated with what appears to be lady bugs.  It soon becomes 
+apparent that the multitude of lady bugs are barrettes that have been 
+arranged in an artful manner within the neat plaits.  Her eyes are slanted a 
+bit, making the large blue-grey irises seem to fill the space between her 
+lashes.  Her lips are an understated pink color, appearing soft and inviting 
+in their fullness.  Her clothes look as if they had taken hours to finish 
+and she always appears to be displaying her best works as an advertisement 
+of her own skill with needle and hide.  
+~
+unique~
+ABRW J 0 S
+30 0 10d60+520 120d10+100 3d6+8 0
+-1 -1 -1 0
+0 ABQ B 0
+9 9 2 135
+AHMV ABCDEFGHIJK M unknown
+#11219
+shivyll danan smithy~
+Shivyll~
+Shivyll, the local smithy, stands here and awaits your request.
+~
+This smithy has developed good musculature through his profession, tempered 
+with heat, time, and persistence.  His eyes look much like molten steel 
+before the point it glows red, the pools of grey being striated with darker 
+lines of grey throughout.  His hair is a color between brown and blonde, 
+seeming one color or the other as the light shifts.  His chest is bare of 
+clothing, exposing smooth skin that is covered in tribal markings of what 
+seems to be blue paint.  
+~
+unique~
+ABRW J 0 S
+30 0 10d60+520 120d10+100 3d6+8 0
+-1 -1 -1 0
+0 ABQ B 0
+9 9 1 135
+AHMV ABCDEFGHIJK M unknown
+#11220
+reevay singing~
+Reevay~
+Reevay is here, singing one of her famous melodies.
+~
+This woman of elfin appearance has stained her long hair a bright red, which 
+the original brown beneath seems to show through, creating a rich and warm 
+cascade over her shoulders and down her back.  The hair at her temples has 
+been captured within two braids which meet at the nape of her neck and 
+combine into a single plait.  A delicate arrangement of flowers crowns her 
+head, woven into her hair artfully.  The blooms seem to be forever fresh and 
+have a light sprinkling of dew on their petals.  Her eyes are a dark steely 
+blue-grey, their large size and tendency to shimmer making her seem both 
+innocent and that these are in fact portals into her very soul.  All of her 
+clothing is decorative and is accented with fine jewelry, belying Reevay's 
+success at her chosen profession.  
+~
+unique~
+ABO J 0 S
+45 0 10d128+969 180d10+100 5d5+14 0
+-7 -7 -7 -5
+CH 0 B 0
+9 9 2 202
+AHMV ABCDEFGHIJK M unknown
+#11221
+seamus man red bagpipes~
+Seamus~
+A man with fuzzy red hair and bagpipes is here.
+~
+This man does not seem to be a danan, most clearly noted for his presence of 
+facial hair.  His mustache is carefully braided and sits atop his fuzzy 
+beard, which has been trimmed with equal care.  His hair tone seems to be a 
+natural red while his skin is quite pale and ruddy around his face.  He is 
+of a much larger build than the danan that can be seen around the village, 
+but seems to be just as welcome as their own kin.  
+~
+Human~
+A 0 0 S
+40 0 10d98+804 160d10+100 4d7+10 17
+-5 -5 -5 -3
+0 0 0 0
+9 9 1 180
+AHMV ABCDEFGHIJK M unknown
+#11222
+danan elder Ahnwed~
+Ahnwed~
+The elder of the danan is here, her attention affixed to the lords and ladies in her audience.
+~
+Though this danan's hair has long since turned white with her age, not a 
+wrinkle is apparent upon her pale face.  Her eyes are slightly cloudy, 
+though, marring the beautiful blue they must have been when she was in her 
+prime.  She wears a leather robe inscribed with runes and tribal marks, all 
+of which flow in a continuous design in rings around the hem, waist, and 
+collar.  Her lips are thin and angular, which helps give her sharp features 
+a commanding look.  
+~
+unique~
+AB J 0 S
+40 0 10d98+804 160d10+100 4d7+10 0
+-5 -5 -5 -3
+0 0 B 0
+9 9 2 180
+AHMV ABCDEFGHIJK M unknown
+#11223
+cicero danan jeweller~
+Cicero~
+The danan jeweller is here, crafting more beautiful adornments.
+~
+The slight man behind this glass counter seems to be working with some 
+delicate wires and jewels.  A monacle is strapped over his left eye so that 
+even the most minute of details can be attended to, a sure sign of his 
+devotion to his craft.  His long brown hair has been pulled back into a 
+ponytail, then braided, to help keep it out of his way.  When he glances up 
+at your entrance, you can see his eyes are a vivid green.  
+~
+Wild Elf~
+ABRW J 0 S
+30 0 10d60+520 120d10+100 3d6+8 0
+-1 -1 -1 0
+0 ABQ B 0
+9 9 1 135
+AGHMNV ABCDEFGHIJKLQ M unknown
+#11224
+genge wode man~
+Genga~
+The wode man is here labelling his newest creation.
+~
+Just as slight as the other danan, this man is slim and lacks any real 
+brawn.  The tips of his dark brown hair are stained blue, and so are his 
+hands, the coloring seeming to be a side-effect of working for prolonged 
+periods with the wode.  
+~
+unique~
+A J 0 S
+30 0 10d60+520 120d10+100 3d6+8 0
+-1 -1 -1 0
+0 ABQ B 0
+9 9 1 135
+AHMV ABCDEFGHIJK M unknown
+#11225
+morru drink~
+Morru~
+Morru is here, asking anyone within ear shot what they want to drink.
+~
+At first glance, this danan could be mistaken for a female: his hair is tied 
+up in an intricate fashion which includes hundreds of braids.  The 
+delicateness of the danan features could pass as either sex, but his lack of 
+a bussom makes it most obvious as to what he really is.  He has a towel 
+linked to his belt that is stained from the alcohol it is used to mop up 
+when patrons get a bit careless.  He wears a vest but no shirt, beneath this 
+scrap of clothing can be seen a large tribal marking in blue.  
+~
+unique~
+A J 0 S
+30 0 10d60+520 120d10+100 3d6+8 0
+-1 -1 -1 0
+0 ABQ B 0
+9 9 1 135
+AHMV ABCDEFGHIJK M unknown
+#11226
+couple two danan brawlers~
+a couple brawlers~
+Two danan are here, brawling fiercely.
+~
+These two heavily tattooed and pierced danan seem to have too much of 
+Morru's excellent spirits, for they are brawling wrecklessly in the 
+available open space, threatening to break things to create more room.  They 
+speak sharply to each other, making their otherwise beautiful language 
+gutteral as they throw insults you can only just imagine the intent of back 
+and forth.  
+~
+unique~
+AB J 0 S
+40 0 10d98+804 160d10+100 4d7+10 0
+-5 -5 -5 -3
+ACDHKN 0 B 0
+9 9 1 180
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#11194
+bronze armlet snake-like~
+a snake-like bronze armlet~
+This bronze armlet is in the shape of a snake.~
+copper~
+8 0 AS 0
+0 0 0 0 0
+0 0 400 P
+L
+around bicep~
+0 BC
+#11195
+silver antiqued cuff earring~
+a silver antiqued cuff~
+This small piece of antiqued silver is fashioned for wearing on the upper ear.~
+silver~
+8 0 AQ 0
+0 0 0 0 0
+30 0 300 P
+A
+12 20
+L
+on upper ear~
+0 ABCDE
+#11196
+crystals bronze necklace~
+a crystal and bronze necklace~
+This necklace has been wrought of bronze and set with crystals.~
+crystal~
+8 0 AC 0
+0 0 0 0 0
+30 0 500 P
+A
+18 2
+L
+sparkling~
+0 ABCDE
+#11197
+bronze flower barette~
+a bronze flower barette~
+This bronze barette is fashioned to look like a pretty flower.~
+copper~
+8 0 AE 0
+0 0 0 0 0
+30 0 300 P
+A
+4 3
+0 ABCDE
+#11198
+silver torc~
+a silver torc~
+A torc crafted from silver lays here.~
+silver~
+8 G AC 0
+0 0 0 0 0
+33 1 200 P
+A
+18 2
+E
+inscription~
+May whoever wears this never lose their head.
+~
+E
+silver torc~
+Twisted silver has been carefully crafted to form this torc around the 
+inside of which is an inscription.  The two ends curl slightly giving it an 
+elegant look.  
+~
+0 C
+#11199
+copper ring knot work~
+a knot work ring~
+A knot work ring of copper has been left here.~
+copper~
+8 G AB 0
+0 0 0 0 0
+30 1 100 P
+0 C
+#11200
+water hole~
+a water hole~
+(no description)~
+unknown~
+25 MR 0 0
+0 0 0 0 0
+30 0 0 P
+E
+water~
+The water must be clear as small fish can be seen in it.
+~
+E
+hole~
+The water must be clear as small fish can be seen in it.
+~
+0 0
+#11201
+long bronze spear~
+a bronze spear~
+A long bronze spear with an ornate head has been left here.~
+copper~
+5 0 AN 0
+AB AC BCD ABD 0
+35 8 175 P
+A
+4 1
+A
+19 1
+E
+head~
+Twin leaping salmon entwined with knot work decorate the head of this
+spear.  
+~
+E
+ornate~
+Twin leaping salmon entwined with knot work decorate the head of this
+spear.  
+~
+0 0
+#11202
+rolling pin~
+a rolling pin~
+A runic rolling pin has been left here.~
+marble~
+5 AG AN 0
+C C E ABC 0
+32 2 160 P
+A
+19 1
+A
+18 1
+E
+runic~
+Runes of strength and skill have been carved into the simple wooden tool.  
+~
+E
+rune~
+Runes of strength and skill have been carved into the simple wooden tool.  
+~
+0 0
+#11203
+dagger blade binding brass~
+the blade of binding~
+An ornate dagger made of brass that is known as The Blade of Binding is here.~
+copper~
+5 B AN 0
+B ABC ABD ABD D
+40 3 200 P
+A
+19 1
+A
+18 1
+0 BC
+#11204
+red cap~
+a red cap~
+A blood red colored cap has been carelessly left here.~
+cotton~
+9 HU AE 0
+AC AC AC A 0
+35 0 175 P
+A
+4 -1
+A
+1 1
+A
+13 20
+E
+!history!~
+This cap is dyed in the blood of those that have fallen foul of creatures
+that bear the same name.  
+~
+0 0
+#11205
+bright glamour~
+a bright glamour~
+A bright glittering glamour shimmers quietly to its self.~
+nothing~
+9 AG AT 0
+AC AC AC A 0
+35 1 175 P
+A
+13 20
+A
+12 20
+0 0
+#11206
+brass short sword~
+a brass short sword~
+A ornate brass short sword is here, left on the floor.~
+copper~
+5 0 AN 0
+A AC BCD AB D
+35 10 300 P
+A
+19 1
+0 0
+#11207
+kilt black~
+a black kilt~
+A dyed black woolen kilt lacking any markings has been left here.~
+wool~
+9 0 AL 0
+AC AC AC A 0
+35 2 175 P
+A
+18 2
+0 0
+#11208
+leather studded brown vest~
+a studded leather vest~
+A brown studded hard leather vest has been dropped here.~
+leather~
+9 0 AD 0
+AC AC AC A 0
+35 15 400 P
+A
+1 1
+A
+13 20
+0 0
+#11209
+black leather studded vest~
+a black studded vest~
+A fine black studded leather vest has been left here.~
+leather~
+9 0 AD 0
+BC BC BC B 0
+40 20 400 P
+A
+1 1
+A
+13 30
+0 0
+#11210
+plain smock~
+a plain smock~
+A crumpled pile of plain cotton that could be a smock have been dumped here.~
+cotton~
+11 0 AD 0
+0 0 0 0 0
+35 1 40 P
+A
+13 20
+0 0
+#11211
+cotton apron~
+an apron~
+A fine cotton apron has been left here with out a stain upon it.~
+cotton~
+11 B AL 0
+0 0 0 0 0
+37 1 230 P
+A
+18 1
+A
+19 1
+0 0
+#11212
+black iron frying pan~
+an iron frying pan~
+A heavy looking black iron frying pan has been discarded here.~
+iron~
+5 A AN 0
+C D AD ABDE 0
+38 4 190 P
+A
+18 1
+A
+1 1
+0 0
+#11213
+grey robe~
+grey robe~
+A expertly fashioned grey robe has been left unattended here.~
+cotton~
+11 0 AK 0
+0 0 0 0 0
+39 4 200 P
+A
+13 10
+A
+5 1
+0 0
+#11214
+oak staff~
+an oak staff~
+A gnarled and twisted oak staff has been left here, lying on the floor.~
+oak~
+4 B AO 0
+ABCF AC AC 0 0
+39 5 195 P
+0 0
+#11215
+dust bright white~
+bright dust~
+A strange bright white dust covers the surface here.~
+nothing~
+26 0 A 0
+1 0 0 0 0
+1 1 30 P
+0 0
+#11217
+die dice spotted cube bone~
+a bone die~
+A spotted cube of exotic bone has been carefully crafted and then discarded here.~
+bone~
+8 0 AO 0
+0 0 0 0 0
+30 0 300 P
+0 ABCDE
+#11218
+tree~
+a hole in a tree~
+A large hole in this tree appears to have plently of room inside of it.~
+nothing~
+29 R 0 0
+0 0 0 11225 0
+0 0 0 P
+0 0
+#11219
+unicorn pendant~
+a {WUnicorn{x Pendant~
+A glint in the dust.~
+ivory~
+27 AGS AC 0
+0 0 0 0 0
+15 2 100 P
+A
+13 10
+L
+worn with pride~
+0 0
+#11220
+unicorn stud earring~
+{xa tiny {WUnicorn{x stud~
+{xA sparkle in the dust.~
+ivory~
+27 GS AQ 0
+0 0 0 0 0
+50 1 0 P
+A
+17 -5
+A
+12 20
+0 0
+#11221
+exquisite bracers~
+an exquisite bracer~
+Some exquisitely made bracer have been discarded here.~
+adamantite~
+9 GS AM 0
+E E E AC 0
+100 5 500 P
+A
+17 -20
+A
+13 80
+0 0
+#11222
+exquisite helm~
+an exquisite helm~
+A helm of exquisite manufacture has been dropped here.~
+adamantite~
+9 AGS AE 0
+E E E AC 0
+100 8 500 P
+A
+19 5
+A
+18 5
+A
+13 25
+0 0
+#11223
+mercae cloak~
+{xa '{WMercae{x' cloak~
+A large cloak has been dropped here.~
+leather~
+15 AGS AV 0
+DGH A 0 0 0
+100 10 0 P
+A
+17 -50
+A
+12 30
+L
+worn with pride~
+0 0
+#11224
+unicorn cosh~
+{xA cosh made out of a '{WUnicorns{x' horn~
+A cosh made of some sort of ivory rests here.~
+ivory~
+5 BGS AN 0
+C CD E D E
+100 8 500 P
+A
+19 5
+A
+18 5
+E
+cosh~
+What appears to be just a piece of stout wood, infact seems to have a
+unicorn engraved on its suface .  
+~
+L
+gripped firmly~
+0 0
+#11225
+ancient black scroll~
+an ancient black scroll~
+A ancient black scroll has been dropped here.~
+hide~
+2 BES AO 0
+100 0 0 0 0
+100 1 5000 P
+E
+ancient~
+This parchment is made of a strange black material, upon it in gold
+writing is a way the ancients detail a way to make a weapon more deadlier.  
+~
+0 0
+#11226
+exquisite armor~
+a suit of exquisite armor~
+A suit of exquisite armor has been left here. ~
+adamantite~
+9 AGS AD 0
+E E E AC 0
+100 25 500 P
+A
+13 100
+0 0
+#11227
+exquisite greaves~
+a pair of exquisite greaves~
+A pair of greaves have been dropped here.~
+adamantite~
+9 AGS AF 0
+E E E AC 0
+100 5 500 P
+A
+2 2
+A
+17 -30
+A
+13 75
+0 0
+#11228
+mound hole~
+a strange mound~
+A strange mound with a small hole just large enough for you to enter.~
+nothing~
+29 R 0 0
+0 0 0 11201 0
+0 0 0 P
+0 0
+#11229
+strange wild bushberry~
+a wild bushberry~
+A strange berry has been dropped here.~
+berries~
+8 AG AO 0
+0 0 0 0 0
+1 1 10 P
+0 0
+#11230
+faerie lute~
+a lute carved with fae~
+This lute is overlaid with decorations of faeries and pixies alike.~
+balsa~
+4 b AO 0
+BEF BD C 0 0
+45 1 500 P
+E
+lute~
+This lute is an artwork in and of itself; the cherry wood has been polished 
+to a brilliant shine and seems bright in its red-brown color.  Covering it 
+is a continuous carving of flowers, and from within the masses of blooms one 
+can see that faeries have been hidden.  The tuning knobs are tiny little 
+dragonfly-winged people that hold lutes of their own, and the strings they 
+hold shimmer a silvery color even in the dimmest of light.  Someone loved 
+this lute very much.  
+~
+E
+!history!~
+This lute belongs to the famed Reevay de Danan, the single most successful 
+bard alive in this day.  Her ballads are heard throughout the lands, and 
+some that bear names of other singers like herself but are suspected to have 
+stolen some of her songs to pass off as their own works.  
+~
+0 C
+#11231
+bed~
+a bed covered in pelts~
+This large hardwood bed has been covered in numerous pelts and furs, looking quite inviting in the end.~
+fur~
+12 R 0 AFJ
+0 0 0 0 0
+0 0 0 P
+0 ABCDE
+#11232
+bronze knife~
+a bronze knife~
+A finely crafted bronze knife lays here, glinting.~
+copper~
+5 G AN 0
+B BC BD ABD 0
+31 2 150 P
+A
+18 1
+A
+19 1
+0 BC
+#11233
+ornate bronze helm~
+an ornate bronze helm~
+A finely crafted ornate bronze helm has been left here.~
+copper~
+9 0 AE 0
+AC AC AC A 0
+34 3 230 P
+0 C
+#11234
+bronze shin guard~
+a bronze shin guard~
+A finely crafted shin guard lays here.~
+copper~
+27 G AU 0
+AC AC AC A 0
+33 2 170 P
+0 C
+#11235
+bronze mask~
+a bronze mask~
+A bronze mask lined with doeskin, has been left here.~
+copper~
+9 G AT 0
+AC AC AC A 0
+32 2 160 P
+A
+18 2
+0 BC
+#11236
+woven leather headband band~
+a woven leather headband~
+A band of woven leather rests here, it looks like it could fit around ones head.~
+leather~
+11 Gb AE 0
+0 0 0 0 0
+30 1 150 P
+A
+12 10
+A
+3 2
+L
+ringing brow~
+0 ABCDE
+#11237
+black doeskin bodice~
+a black doeskin bodice~
+A bodice fashioned from doeskin and dyed black has been left here.~
+hide~
+11 G AD 0
+0 0 0 0 0
+31 3 200 P
+A
+18 1
+A
+19 1
+E
+bodice~
+A bodice fashioned from soft doeskin and reinforced with boning.  Its design 
+such that it narrows the wearers waste and highlights their bosom by pushing 
+it upwards.  Lacing down the front crisscrosses so that the item of clothing 
+can be tightened or loosened at the wearer's desire.  
+~
+0 BC
+#11238
+black doeskin leggings~
+black doeskin leggings~
+A pair of black doeskin leggings have been left here.~
+hide~
+11 G AF 0
+0 0 0 0 0
+32 4 250 P
+A
+19 1
+A
+18 1
+E
+leggings~
+Fine soft doeskin forms these elegant leggings, stained black and polished 
+to a fine shine.  Leather thongs and splits up the side allow for them to be 
+tightened or loosened so as to hug the legs of the wearer closely.  
+~
+L
+hugging legs~
+0 BC
+#11239
+hooded mantel~
+a hooded mantel~
+A hooded mantel fashioned from leather and reinforced with studs lays crumpled here.~
+hide~
+9 Gb AV 0
+AC AC AC A 0
+33 4 300 P
+A
+17 -2
+E
+mantel~
+Fashioned from cowhide and dyed in a pattern of greens and blacks this 
+mantel seems to have been designed to keep the wearer dry and warm.  Bronze 
+studs have been skillfully placed through the leather to strengthen it and 
+add to the protective value of this garment.  
+~
+0 C
+#11240
+tooled cape~
+a tooled leather cape~
+A leather cape with intricate designs tooled into its surface has been left here.~
+leather~
+9 Gb Aa AFQ
+AC AC AC A 0
+34 6 350 P
+A
+13 20
+E
+cape tooled~
+Animals, faeries and plants have all been tooled into the leather of this 
+cape giving an eye pleasing effect over all.  A pair of thongs and tassels 
+works as a method to attach this garment around ones neck and shoulders.  
+The inside of the cape is lined with rabbit skins so as keep the wearer warm 
+and comfortable.  
+~
+0 BCD
+#11241
+flask wine~
+a wine flask~
+A flask bearing a label that proclaims its contents to be wine rests here.~
+glass~
+17 0 AO 0
+C C B 0 0
+0 4 30 P
+0 CD
+#11242
+bronze tankard~
+a bronze tankard~
+A bronze tankard has been set here, its surface skillfully worked with swirls.~
+copper~
+17 0 AO 0
+B B C 0 0
+0 3 20 P
+0 BCD
+#11243
+bagpipes pipes~
+a set of bagpipes~
+A set of bagpipes have been left here, deflated.~
+cotton~
+4 GT AO 0
+DF AB AB 209 0
+30 5 1000 P
+0 CD
+#11244
+patterned leather robe~
+a patterned leather robe~
+Fashioned from soft leather, this robe looks comfortable even as it rests here.~
+leather~
+9 GT AD 0
+BC BC BC B 0
+40 6 350 P
+A
+12 45
+E
+!history!~
+This ancient robe is said to have been fashioned by some of the most skilled 
+danans, who worked upon the leather only at the hours of dawn and dusk when 
+magic is meant to be strongest.  The images and symbols worked upon the 
+leather are also meant to heighten the magic of the wearer and show the 
+commitment of the danans to the natural balances of the world and nature.  
+~
+E
+pattern~
+Symbolized designs of the sun and moon have been artfully crafted around the 
+collar, hem and waist of this elegant leather robe.  Swirls and knot work 
+interconnect these images adding to the over all appearance of this garment. 
+ 
+~
+L
+draping form~
+0 CD
+#11245
+skin skirt~
+a skin skirt~
+A skirt fashioned from animal skins sits crumpled here.~
+hide~
+11 GTb AF 0
+0 0 0 0 0
+35 3 200 P
+A
+19 1
+A
+18 1
+A
+14 40
+E
+!history!~
+Fashioned from the very rare pelts of pure white harts, then enchanted, this 
+skirt is said to aid the wearer in both battle and swiftness.  Generally due 
+to the rareness of the skins used to fashion it only small garments can be 
+made.  In danan culture these skirts are sometimes given as a promise of 
+love.  
+~
+E
+skin skirt~
+Fashioned from several animal skins and intentionally left with a ragged 
+edge.  A split runs from its ragged hem up to the waist band over where ones 
+hip would be placed so that its otherwise narrow fit does not restrict 
+movement.  
+~
+L
+embracing thighs~
+0 BC
+#11246
+blue swirls wode jar~
+{cblue{x swirls~
+A blue jar of wode paste is here.~
+glass~
+9 G AT 0
+AC AC AC A 0
+30 0 300 P
+A
+12 20
+E
+wode jar~
+Scribed on the back of this jar are instructions on how to paint magically 
+designs in the wode upon your face.  The swirls are meant to protect the 
+wearing in battle, according to these instructions.  
+~
+L
+drawn on face~
+0 ABCDE
+#11247
+celtic knot wode jar~
+a {cceltic{x knot~
+A blue jar of wode paste is here.~
+glass~
+9 G AS 0
+AC AC AC A 0
+30 0 400 P
+A
+12 20
+E
+wode jar~
+Scribed on the back of this jar are instructions on how to paint magically 
+designs in the wode upon your bicep.  The swirls are meant to protect the 
+wearing in battle, according to these instructions.  
+~
+L
+adorning arm~
+0 ABCDE
+#11248
+jar wode swirl stripes~
+{cblue{x swirls and stripes~
+A blue jar of wode paste is here.~
+glass~
+9 Gb AD 0
+AC AC AC A 0
+30 0 400 P
+A
+12 40
+E
+wode jar~
+Scribed on the back of this jar are instructions on how to paint magically 
+designs in the wode upon your body.  The swirls are meant to protect the 
+wearing in battle, according to these instructions.  
+~
+L
+marking body~
+0 ABCDE
+#11249
+jar wode blue tribal mark fierce~
+a fierce {ctribal mark{x~
+A blue jar of wode is here.~
+glass~
+9 0 AT 0
+AC AC AC A 0
+30 0 400 P
+A
+18 3
+E
+jar wode blue~
+Scribed on the back of this jar are the instructions on how to paint a 
+fierce tribal mask of wode over your face.  They are said to make one appear 
+more formidable during battle.  
+~
+L
+smeared on face~
+0 ABCDE
+#11250
+amber flute feywine glass alcohol~
+a flute of feywine~
+This fluted glass possesses an alcoholic-smelling amber liquid.~
+amber~
+17 0 AO 0
+B B BE 0 0
+0 0 70 P
+0 BCD
+#0
+
+
+
+#ROOMS
+#11191
+A Peaceful Chamber~
+A large bed which is constructed of hardwood, and and carved cunningly sits 
+under an opening in the eastern wall, through which a small woodland pool 
+can be seen.  Upon the bed, countless pelts and furs have been thrown, which 
+appear to be soft, warm and inviting at the same time.  To the west a long 
+curtain of leather has been situated, held in place by a concealed pole of 
+stained hardwood a similar fixture can be seen over the eastern opening.  
+The floor of this chamber is constructed of polished hardwood, over which 
+woven wool rugs and a few large animal pelts have been cast to try and 
+increase the warmth.  
+~
+0 33554440 0
+D3
+~
+leather-curtain~
+1 0 11192
+S
+#11192
+Sunset's Chamber~
+A wooden door which has been carved with exquisite forest scenes and life 
+like forest creatures stands to the west of this chamber.  Over this 
+polished door, a depiction of the setting sun has been skillfully crafted 
+from brass.  To the east, an equally ornately carved wooden chair sits before 
+a leather curtain, while against the north and south walls several low 
+benches and chairs have been placed.  Illumination and heat is provided for 
+this chamber by a large fireplace situated in the centre, over which a hole 
+is fashioned so that smoke may escape.  
+~
+0 8 0
+D1
+~
+leather-curtain~
+1 0 11191
+D3
+~
+~
+1 0 11193
+S
+#11193
+A Track's End~
+A small hollow has formed in the earthen roadway that terminates at a small 
+wooden door to the east.  Over this door, a bronze sun has been placed and 
+kept clean so that it shines with some semblance of that which is depicts.  
+The building its self is rather low, though of a good length across while 
+its depth remains hidden in the arms of the surrounding woodland.  Passage 
+to the north and south would be arduous at best and impossible at worst due 
+to the closeness with which the ancient trees grow and the sheer volume of 
+underbrush.  To the west a dirt track stretches away with a small bed of 
+blue flowers upon it.  
+~
+0 0 2
+D1
+~
+~
+1 0 11192
+D3
+~
+~
+0 0 11249
+S
+#11194
+A Humble Abode~
+A leather pelt forms a simple but surprisingly effective door to the north, 
+keeping out most of that which the elements throw at this domicile.  A plain 
+wooden pallet lies against the southern wall, covered in animal pelts that 
+seem both soft and warm.  A ring of stones has been constructed to form a 
+basic fire pit, over which a leather flap is situated that may be opened or 
+closed by means of a narrow leather cord.  The floor of this dwelling bears 
+a covering of fresh straw the scents of which drift up to make the place 
+seem much warmer and more homely.  
+~
+0 8 0
+D0
+~
+pelt~
+1 0 11249
+S
+#11195
+A Open Plain~
+Blade shaped grass grows all around the long stems forming into these
+broad leaves.  Off at some distance is an ancient forest the mighty trees
+standing high over these open plains and filled with dense, close growing,
+brambles and bracken.  From deep within these grasses sporadic noises can be
+heard, most likely some unseen creature living out there lives in peace.  
+~
+0 0 2
+D1
+~
+~
+0 0 11204
+D2
+~
+~
+0 0 11196
+D3
+~
+~
+0 0 11203
+S
+#11196
+A Large Field.~
+Dense forests grow all around this open plain, hemming it in and
+preventing all but the most determined from entering under its briar filled
+arches.  Long wild grasses carpets the floor waving to the slightest breeze
+or laying flat in a powerful gale.  Growing at random within the lush grass
+are numerous specimens of wild flower each adding its own aroma to the air. 
+~
+0 0 2
+D0
+~
+~
+0 0 11195
+D1
+~
+~
+0 0 11205
+D2
+~
+~
+0 0 11197
+D3
+~
+~
+0 0 11202
+S
+#11197
+A Plain~
+Long grasses grow here tall and lush swaying to the winds call. 
+Intermixed with these grasses are brightly colored wildflowers, growing tall
+towards the sky.  Off at some distance in all directions an ancient looking
+forest can be seen, the trees stretching there limbs skywards like wooden
+giants in praise to some solar god.  
+~
+0 0 2
+D0
+~
+~
+0 0 11196
+D1
+~
+~
+0 0 11206
+D3
+~
+~
+0 0 11207
+S
+#11198
+A Path Around Caer Morr~
+A wood built settlement can just be made out to the east around the curve of 
+this east-west track.  Plumes of wood smoke can be seen drifting above the 
+ancient forest's trees, wafting helpless to the wind's whim.  The dense 
+trees to the south have numerous bracken and other densely growing wild 
+plants under them, making effective movement in that direction all but 
+impossible.  To the south, the solid wooden walls of Caer Morr stand.  
+~
+0 0 3
+D1
+~
+~
+0 0 11231
+D3
+~
+~
+0 0 11229
+S
+#11199
+A Path Around Caer Morr~
+Partly concealed by trees to the east stands what looks like a wood built 
+settlement.  The track continues along the flank of the wooden hall of Caer 
+Morr to the north.  Bright wildflowers grow through the lush green grass of 
+this pathway, adding their aromas to the air.  Southward stands a dense and 
+deep forest littered with bramble and briar.  From within this forest faint 
+sounds of animal life drift upon the air, though nothing can truly be seen. 
+Wisps of wood smoke drift lazily up from the settlement to the east.  
+~
+0 0 3
+D1
+~
+~
+0 0 11233
+D3
+~
+~
+0 0 11230
+S
+#11200
+A Strange Mound~
+A large mound, oval like an upturned long ship, dominates the center of
+this clearing.  Something about the mound makes it look unnatural, maybe
+it's the symmetry of it, or the way it rises straight up from the level
+ground around it.  The woodland and bracken of the forest do not intrude
+upon this clearing in anyway almost as if it feels out of place here.  Wild
+flowers dot the hillock like scattered grain, bringing a pleasant splash of
+color to the rich green of the grass.  The sounds of the surrounding
+woodland filter to you but seem muted, some how as if from a lot further
+away then they really are.  
+~
+0 4 3
+E
+mound~
+This large mound looks like it was made long ago by mortal hands.  Upon
+the western side of the mound is an opening, just about big enough for you
+to enter.  
+~
+E
+hill~
+This must have been made by some long forgoten mortal.  Looking closer
+you see that there is an opening on the west side.  You think you could
+squeeze inside if you wished.  
+~
+E
+flowers~
+Your not sure what type theyy all are but the smell nice.
+~
+D1
+~
+~
+0 0 19550
+D2
+~
+~
+0 0 4339
+S
+#11201
+Bridge of Swords~
+Two blue stone ledges, one on the eastern side and one on the western
+side, are the only normal things inside the mound.  Between these ledges
+numerous swords can be seen floating in the stygian blackness that exists
+all around.  This blackness is broken by pin pricks of twinkling light that
+illuminate this area so that it is bright enough to see by.  Behind each of
+the ledges are holes, just about large enough for you to pass though, if you
+so wished.  
+~
+0 4 0
+E
+swords~
+The swords float here.  There does not seem to be any thing holding them
+up at all.  They seem to be making a bridge from the east to the west.  
+~
+E
+blackness~
+The blackness is broken by lights that look almost like stars.
+~
+D1
+~
+~
+0 0 11202
+D3
+~
+~
+0 0 11200
+S
+#11202
+A Mound~
+A large oval mound sits here in the rich grass land.  To the south, in
+the distance, a round house can be seen.  Far distant to the east, a large
+building of some description can just be seen over the woodland that stands
+before it.  North of here, there appears to be more plains leading to a very
+dense forest, the same can be said for west.  The woods that enclose this
+area seem far to dense with bracken and brambles for you to enter.  Lush
+grass grows under foot, long enough to be turned into hay.  
+~
+0 0 2
+E
+mound~
+This large mound seems to have been made by mortal hands.  Looking closer
+you notice a hole just large enough for you to enter on the western surface
+of the mound.  Wild flowers dot the surface and break up the green of the
+grass.  
+~
+E
+building~
+This building must be large to be seen over the huge trees that stand
+between it and the plain you are on.  
+~
+E
+mound~
+This large mound seems to have been made by mortal hands.  Looking closer
+you notice a hole just about big enough for you to enter on the western
+side.  Wild flowers dot the surface and brake up the green color of the
+grass.  
+~
+D0
+~
+~
+0 0 11203
+D1
+~
+~
+0 0 11196
+D2
+~
+~
+0 0 11207
+D3
+~
+~
+0 0 11201
+S
+#11203
+Grass Plain~
+Lush grass grows all around you.  Small animals can be heard moving
+around, but due to the length of the grass, they can not be seen.  A short
+way off to both the north and the west thick woodland blocks any chance of
+safe movement.  Oddly the sky seems to have an indigo tint to it.  
+~
+0 0 2
+E
+sky~
+The sky seems to have an indigo haze about it giving it an unreal, or at
+least an other worldly quality.  This haze seems to shift and move on its
+own not being affected by the wind.  
+~
+D1
+~
+~
+0 0 11195
+D2
+~
+~
+0 0 11202
+S
+#11204
+Grass Plain~
+Thick forest inhibits any real movement to the north, but there might be
+a usable deer trail to the east thats usable.  The grass is flattened in
+places as if something large has been left on it for some time.  To the
+south and west there is more grass land.  The sky seems odd due to an indigo
+tint or mist that covers it.  This does not seem to affect the light.  
+~
+0 0 2
+D1
+~
+~
+0 0 11214
+D2
+~
+~
+0 0 11205
+D3
+~
+~
+0 0 11195
+S
+#11205
+Grass Plain~
+Long grass covers the ground all about.  Small animals can be heard
+living out their lives from deep within its depths.  To the west a large
+mound can be seen while to the east a thick forest blocks all movement.  To
+the south west a round house can be seen and both north and south more of
+the grass land.  The sky has a strange indigo haze about it.  
+~
+0 0 2
+D0
+~
+~
+0 0 11204
+D2
+~
+~
+0 0 11206
+D3
+~
+~
+0 0 11196
+S
+#11206
+Water Hole~
+There is a large clear water hole in the center of this grass plain. 
+Around the edges of the water the ground seems to have been churned up as if
+by the passage of some large creatures.  To both the east and the north
+dense woodland grows, there does seem to be some kind of path to the east. 
+Not far to the south west a round house can be seen.  The sky seems to have
+an indigo tint to it.  
+~
+0 0 2
+E
+hole~
+The water hole seems to be natural, being fed by some kind of under
+ground spring.  The water must be fresh as you can see fish swimming around
+in the depths.  
+~
+E
+hole~
+The water hole seems to be natural fed by some kind of under ground
+spring.  The water must be fresh as you can see fish swimming around in the
+depths.  
+~
+E
+water~
+The water hole seems fresh enough.  You can even see fish swimming around
+in the depths.  
+~
+E
+path~
+The under growth seems to have been cleared by someone to form a path
+though the woods.  
+~
+E
+path~
+~
+D0
+~
+~
+0 0 11205
+D1
+~
+~
+0 0 11210
+D3
+~
+~
+0 0 11197
+S
+#11207
+Before the Round House~
+A path has been worn though the long grass leading up to the skin door of
+the round house.  The walls of the building seem to be made from wood that
+could well have come from the forest thats to both the west and south.  The
+roof seems to be well laid thatch, with a hole in the center to let smoke
+escape.  The black and white skin door seems to have been placed so that the
+mound to the north can be seen with ease.  There is a strange indigo tint to
+the sky.  
+~
+0 0 2
+D0
+~
+~
+0 0 11202
+D1
+~
+~
+0 0 11197
+D2
+~
+skin~
+1 0 11208
+S
+#11208
+Main Room~
+This room seems to be kitchen, dining room, study and living room all
+rolled into one.  Theres simple chairs arranged about the central stone fire
+pit.  On the western curve of the wall, a mix of pots and pans can be seen. 
+The eastern wall has a few books and personal things placed on some solid
+looking shelves.  A table stands under the shelves, this seems to have a few
+pots and things on it.  To the north is the skin door to the outside, while
+to the south another skin door stands.  
+~
+0 8 0
+E
+table~
+A plain wooden table stands here with some pots of cooking herbs on it.  
+~
+E
+books~
+The books seem to be in a strange script, the pictures are of large
+looking cow like beasts.  
+~
+E
+pots~
+Some of the pots seem to hold common herbs of a type normally employed in
+cooking.  Others are empty, maybe waiting to be filled.  
+~
+D0
+~
+skin~
+1 0 11207
+D2
+~
+skin~
+1 0 11209
+S
+#11209
+Bed Room~
+This room appears to be used for sleeping.  Theres a large wooden framed
+bed under a window on the southern wall , the window is closed, from the
+outside world by heavy wooden shutters.  Skins cover the straw mattress of
+the bed, these hang low almost to the floor.  Some clothing has been hung on
+wooden pegs that are hammered into the western wall.  The only visible exit
+to this room is a skin door on the northern wall.  
+~
+0 8 0
+D0
+~
+skin~
+1 0 11208
+S
+#11210
+Forest Path~
+It seems that a path has been made here by some unknown means.  The trees
+look to have moved out of the way as if by magic, either that or someone has
+planted them so that they form a tunnel either side of this clear and even
+path.  The forest is so dense here that no form of direct light can reach
+the ground.  Small animals can be heard moving about, just outside of eye
+shot and the song of some unknown bird drifts to your ears.  The path runs
+both east and west straight as a die, though you can make out a parting in
+the trees to the south, where another path cuts through.  
+~
+0 0 3
+E
+trees~
+The trees stand either side of the path like guards.  Not a single root
+of branch crosses the path as far as you can see.  
+~
+D1
+~
+~
+0 0 11211
+D3
+~
+~
+0 0 11206
+S
+#11211
+A turn in the path~
+The course of the path seems to have been altered due to one of the
+ancient tree having been struck by lightning.  The huge lightening blasted
+tree must have knocked over many of its smaller brethren going by the
+wreckage that can now be seen.  A large rent has been left due to the death
+of this tree, allowing the sky to be seen once more.  The path has been
+altered so that it now runs north and west.  The northern route seems to
+have been cleared with axes, while the western route seems clear and
+natural.  
+~
+0 0 3
+E
+sky~
+The sky has an indigo tint to it that does not seem to effect the light
+in any way.  
+~
+E
+trees~
+The blacken corpse of the lightening struck tree lies deep in the ruins
+of other smaller trees.  
+~
+D0
+~
+~
+0 0 11212
+D3
+~
+~
+0 0 11210
+S
+#11212
+Where trails meet~
+The path though the forest here seems to have been cleared with axes. 
+The cleared wood seems to have been taken along the path to the east judging
+by the scrape marks in the earth.  To the north a slight trail, maybe made
+by some deer can just about be made out.  The sound of birds singing fills
+the air, they almost seem to be in harmony with each other.  To the south
+another trail extends.  
+~
+0 0 3
+D0
+~
+~
+0 0 11213
+D1
+~
+~
+0 0 11215
+D2
+~
+~
+0 0 11211
+S
+#11213
+A deer trail~
+The deer trail twists and turns so badly it becomes hard to tell what
+direction you are traveling in.  The rich smell of decomposing plant matter
+rises up to your nose, mixing with the the scent of wild flowers.  A strange
+clicking sound appears to come from all directions.  A very large dead
+looking tree stands a short distance off to the north-east, its bark grey
+from time and weathering.  
+~
+0 0 3
+D2
+~
+~
+0 0 11212
+D3
+~
+~
+0 0 11214
+S
+#11214
+A deer trail~
+The narrow deer trail twists and turns more like the back of a serpent
+than a path.  The trees crowd around the path so that it has become
+impossible to see the sky.  A odd clicking sound can be heard coming from
+some unknown source.  
+~
+0 0 3
+D1
+~
+~
+0 0 11213
+D3
+~
+~
+0 0 11204
+S
+#11215
+Forest path~
+Trees stand on either flank of the path like great wooden lords of some
+bygone time.  Birds flit from high branches in the trees chirping happily to
+them selves.  The clean clear path leads both east and west.  The eastern
+path seems to lead to an open plain with a great hall upon it.  
+~
+0 0 3
+D1
+~
+~
+0 0 11216
+D3
+~
+~
+0 0 11212
+S
+#11216
+Before the Gates of Caer Morr~
+The great carved gates of Caer Morr stand here.  The hall is a massive
+structure made mainly from wood, some flags hang from two towers that stand
+watch either side of the gate.  The work that must have gone into the
+building of this hall is incredible, you would guess that years alone must
+have been spent just gathering and dragging the timber.  
+~
+0 0 2
+E
+carved~
+The carvings on the gates depict birds and beasts, entwined in knot work.
+The twists and turns of the pattern almost captivate the eye, making it
+almost impossable to see where it starts or ends.  
+~
+E
+gates~
+The carvings on the gates depict birds and beasts, entwined in knot work.
+The twists and turns of the pattern almost captivate the eye, making it
+almost impossable to see where it starts or ends.  
+~
+E
+flag~
+The flags show the coat of arms of Tuan Mac Morr.  A sliver dagger on a
+sable field.  
+~
+D0
+~
+~
+0 0 11227
+D1
+~
+~
+1 0 11217
+D2
+~
+~
+0 0 11228
+D3
+~
+~
+0 0 11215
+S
+#11217
+Great Hall~
+Feasting Tables cover most of the floor of this expansive room, with
+benches places under them.  The thick wooden walls are festooned with banners
+in various states and conditions.  A dais stands upon the far eastern edge
+of the room with a large wooden throne upon it.  Twin large carved wooden
+doors stand to the west, while smaller doors are situated on the other three
+walls.  Two large fire pits stand in front to the dais, with spits over them
+ready for food to be placed upon them.  Lighting comes from many braziers
+that are scattered about.  
+~
+0 8 0
+E
+tables~
+Large, strong, stained and battered are some of the best words to
+describe these.  
+~
+E
+banners~
+Main banners cover the walls.  Images depicted upon them show the silver
+dagger on the sable field.  Two boars sinister on a blue and green quartered
+field.  A rabit rampant on a silver field to name just a few.  
+~
+D0
+~
+~
+1 0 11218
+D1
+~
+~
+1 0 11220
+D2
+~
+~
+1 0 11222
+D3
+~
+~
+1 0 11216
+S
+#11218
+kitchen~
+The room is filled with steam from three large cauldrons hanging over
+three fire pits.  Hooks have been place in the roof so that herbs and other
+plants can hang, in a misguided attempt to dry them that has little hope in
+such a humid environment.  Cupboards line all the walls but the northern
+wall that has the three fire pits situated before it.  Both the southern and
+eastern wall have doors placed discreetly into them.  A wooden ladder placed
+in the north west corner leads up to a trapdoor in the roof.  
+~
+0 8 0
+D1
+~
+~
+1 0 11219
+D2
+~
+~
+1 0 11217
+D4
+~
+trapdoor~
+1 0 11224
+S
+#11219
+Sleeping Quarters~
+This room is filled with many simple straw pallets that look good to rest
+on.  A large hamper stands in the southern corner probably used to store
+dirty cloths and linen for washing latter.  There is a door on the western
+wall and covered windows set high in the roof.  
+~
+0 33554440 0
+D3
+~
+~
+1 0 11218
+S
+#11220
+Lordly chamber~
+This appears to be the room of the lord of Caer Morr, a great wooden bed
+large enough for four people to happily sleep upon it, lays under a high
+window set in the eastern wall.  A large silver mirror is attached by some
+means to the northern wall.  Pictures painted with great skill hang from the
+walls giving a atmosphere of comfort to this room.  The wood work of the
+roof has been carved into the form of great complex knots, with beasts and
+small creatures hiding in the twists and turns of the pattern.  
+~
+0 33554440 0
+E
+mirror~
+The silver mirror seems to be misted.  Though the mist strange shapes and
+places can just be seen.  
+~
+E
+silver~
+The silver mirror seems to be misted.  Though the mist strange shapes and
+places can just be seen.  
+~
+E
+bed~
+Large, soft and feather filled, this bed looks like it would give any one
+sleeping upon it a good nights rest.  
+~
+D3
+~
+~
+1 0 11217
+S
+#11221
+Archives~
+Scrolls, books and tomes of all shapes, sizes and descriptions are stored
+here in wooden racking that appears to have been designed for this purpose. 
+The room smells and looks dusty, it does not seem that many people can use
+this area.  The center of the room is dominated by a large table that has a
+few open books on it and a comfortable looking chair tucked under it.  
+~
+0 4194316 0
+E
+table~
+The table is worn smooth by many hands and books passing over it.  Upon
+the table top a selection of tomes on genealogy have been left open.  
+~
+D3
+~
+~
+1 0 11222
+S
+#11222
+Council Chamber~
+This room is dominated by a large oval table with severn heavy chairs
+placed around it at equal intervals.  The walls are decorated with maps and
+war trophies, two of which are what look to have once been human heads. 
+Doors lead both north and east.  A ladder has been placed in the north
+western corner of this room under a trapdoor.  
+~
+0 8 0
+E
+trophies~
+These seem to all be old items taken in battle.  There are a few old
+swords and axes, a helm with half the face plate missing as if it was cleaved
+off.  Two human heads with the eyes removed also make it into this collection.  
+~
+E
+heads~
+The eyes have been removed from the heads and the skin preserved by some
+means.  
+~
+D0
+~
+~
+1 0 11217
+D1
+~
+~
+1 0 11221
+D4
+~
+trapdoor~
+1 0 11223
+S
+#11223
+Top of a tower~
+The view from here shows the great forest all around, the land close to
+Caer Morr has been cleared so that some fore warning can be gain from these
+towers.  The sky seems to have a strange indigo tint to it that does not
+effect the natural light in any way.  There is a trapdoor in the floor
+leading down.  
+~
+0 0 0
+D5
+~
+trapdoor~
+1 0 11222
+S
+#11224
+Top of a tower~
+This point gives a good view of the lands around Caer Morr, you can see
+the great forest and the area cleared of trees so that some warning can be
+given if there is an attack.  The sky has a strange indigo tint to it.  The
+only exit appears to be a trapdoor in the floor.  
+~
+0 0 0
+D5
+~
+trapdoor~
+1 0 11218
+S
+#11225
+In A Hollow Tree~
+The whole of the inside of this tree for about eight feet up and to the
+solid bark of what makes up the walls is hollow.  A small bed has been made
+close to the northern most wall, the blankets seem clean though it is far
+from neat.  There is a faint odour of rot coming from the wood but at some
+point this has been mostly masked by incense.  A hole just large enough to
+slip out of in the south most side of the tree looks to be the only entrance
+or exit.  
+~
+0 8 0
+D2
+~
+~
+0 0 11213
+S
+#11226
+Corco's Den of Hidden Fluffiness~
+Both fluffy and lovely what else needs to be said about this delightful
+chamber.  You have a feel feeling of comfort and warmth just from being
+here.  Just don't eat the pot plants.  
+~
+0 1048588 0
+S
+#11227
+A Path Around Caer Morr~
+A curving path leads north south here, being blocked by very dense and
+overgrown wood to the west and the walls of Cear Morr to east.  Long grass
+grows upon the earth floor littered here and there by the occasional wind
+blown leaf, wild flowers dot these grasses adding there heady aroma to the
+air and a pleasant flash of brightness for the eye.  From within the
+woodland the sounds of numerous unseen animals can be heard, through the
+cause of these noises can not be seen.  
+~
+0 0 3
+D1
+~
+~
+0 0 11229
+D2
+~
+~
+0 0 11216
+S
+#11228
+A Path Around Caer Morr~
+Long grass grows upon the earth floor littered here and there by the
+occasional wind blown leaf, wild flowers dot these grasses adding there
+light aroma to the air and a flash of brightness for the eye.  From within
+the woodland the sounds of numerous unseen animals can be heard, through the
+cause of these noises can not be seen.  A curving path leads north south
+here, being blocked by an aged and dense and overgrown wood to the west and
+the walls of Cear Morr to east.  
+~
+0 0 3
+D0
+~
+~
+0 0 11216
+D1
+~
+~
+0 0 11230
+S
+#11229
+A Trail Around Caer Morr~
+The trail curves from the north to the east here working its way around
+the wooden walls of Caer Morr.  To the north and west deep forest grows tall
+and proud, thick with underbrush and brambles that prevent movement in those
+directions.  Long grass grows up from the earthen path, deep and lush.  An
+occasional wild flower can be seen its bright head adding a splash of
+vibrant color to the greens and browns that make up the rest of this area 
+~
+0 0 3
+D1
+~
+~
+0 0 11198
+D3
+~
+~
+0 0 11227
+S
+#11230
+A Trail Around Caer Morr~
+A trail curves from south to the east here, following the walls of Caer
+Morr.  To the west and further off south is an ancient forest the trees
+standing like mighty sentinels of wood there arms reaching up to the sky. 
+The floor of the trail is nothing but earth and grass through it would
+appear wild flowers have been cultivated to either side of this track.  From
+the forest an occasional animal sound can be heard.  
+~
+0 0 3
+D1
+~
+~
+0 0 11199
+D3
+~
+~
+0 0 11228
+S
+#11231
+A Curving Trail~
+A trail curves its way from the east towards the south here, winding around 
+a large wooden building to continue on into an ancient looking forest.  
+Further off to the east, plumes of smoke can be seen over the woodland, 
+spirally their way to the purple-tinted sky above.  From within the 
+surrounding wood, a sporadic chorus of sounds can be heard, sometimes that 
+of bird song and at other periods that of wandering animals.  
+~
+0 0 3
+D2
+~
+~
+0 0 11232
+D3
+~
+~
+0 0 11198
+S
+#11232
+A Forest Junction~
+A trail runs from the north to the south here, intersected partway along its 
+length by a wider track from the east.  To the west a large wooden structure 
+blocks movement in that direction, smoke curling sedately from chimneys 
+located there.  To the east at a distance, lining either side of the path, 
+are what appear to be houses, fashioned from timber.  Some of these also 
+have smoke that works its way skywards.  This draws more attention to the 
+purple hue overhead.  
+~
+0 0 3
+D0
+~
+~
+0 0 11231
+D1
+~
+~
+0 0 11234
+D2
+~
+~
+0 0 11233
+S
+#11233
+A Curving Trail~
+A winding trail makes its way around a large wooden building to the north, 
+from the roof of which smoke can be seen climbing skywards from its 
+chimneys.  A short distance off to the north, the trail seems to reach an 
+intersection while to the west it continues on through the forest for some 
+distance.  From within the surrounding forest, the sounds of small animals 
+going about unseen and the scents of wildflowers can be detected, proving 
+that life does indeed inhabit these lands.  
+~
+0 0 3
+D0
+~
+~
+0 0 11232
+D3
+~
+~
+0 0 11199
+S
+#11234
+Outside A Village~
+A beaten earthen road leads from the east to the west here, ending at a 
+junction in the latter direction and working its way through a collection of 
+huts and other dwellings to the former.  From the thatching of some of the 
+dwellings located here, smoke can be seen workings its way towards the 
+purple haze that cannot be defined as anything other than sky, resembling 
+serpents coiling after the heavens.  Sounds drift from the village, the 
+occasional call or other indicates that life is carrying on in its normal 
+fashion.  
+~
+0 0 2
+D1
+~
+~
+0 0 11235
+D3
+~
+~
+0 0 11232
+S
+#11235
+Between Two Dwellings~
+Small wooden houses can be seen to the north and south, with leather skins 
+hanging from the lintels to serve as doors.  These structures have been set 
+to either side of a beaten earthen roadway that works east-west here, small 
+tracks going through the wild grass to each hut's door.  Over the tops of 
+these domiciles an ancient forest can be seen, the mighty trees reaching up 
+towards the distant purple sky with the gnarled fingers of their branches 
+like drowning people seeking succor.  The track continues to both the west 
+and east here, seeming to exit the village to the west and work deeper into 
+it to the east.  
+~
+0 0 2
+D0
+~
+skin~
+1 0 11236
+D1
+~
+~
+0 0 11238
+D2
+~
+hide~
+1 0 11237
+D3
+~
+~
+0 0 11234
+S
+#11236
+In A Hut~
+A simple bed fashioned from wood and covered with skins and pelts sits 
+against the northern wall, looking comfortable if somewhat basic.  A fire 
+pit has been set up under a hole in the ceiling that can be closed or opened 
+by means of a leather thong tethered to a flap of the same material.  The 
+floor is covered by hay and straw to to help prevent the chill from there 
+rising and also dirt being trekked inside.  A leather cloth has been hung 
+from the door lintel to separate this location from the outside world.  
+~
+0 8 0
+D2
+~
+skin~
+1 0 11235
+S
+#11237
+Inside A Hut~
+A ring of stones placed carefully under a hole crafted in the roof here 
+works as a fire pit, a skin flap above it working as a vent that is 
+controlled with a leather cord.  In the south-eastern most corner of this 
+room, a pile of pelts lay upon a wooden frame that seems designed as a simple 
+bed.  A hide has been hung from the top of the door frame to the north, 
+presumably to function as a door of sorts and keep the worst of the weather 
+from intruding inside of this chamber.  Straw has been laid upon the floor 
+here as a protection against the compacted earth underneath it and the 
+natural chill from the ground.  
+~
+0 8 0
+D0
+~
+hide~
+1 0 11235
+S
+#11238
+An Earthen Track~
+A wide earthen track works its way between two wooden huts here, the ground 
+riddled with foot prints and potholes which most likely occurred during the 
+last shower of rain.  To the north, the unmistakable odor of a tannery can 
+be detected, while to the south a glow and the occasional pounding sounds 
+proclaim that to be a smithy.  The track continues to make its way to the 
+east and west, both directions looking fairly similar from this vantage 
+point while over the tops of the buildings an ancient forest filled with 
+massive trees is plainly visible.  
+~
+0 0 2
+D0
+~
+~
+0 0 11239
+D1
+~
+~
+0 0 11241
+D2
+~
+~
+0 0 11240
+D3
+~
+~
+0 0 11235
+S
+#11239
+The Tannery~
+A stench from vats and chemicals used to cure the leather hides that hang 
+from the ceiling fills the air, unmistakable and lamentably unavoidable 
+within the cozy confines of this wooden building.  A few pieces of completed 
+leather work are displayed upon a counter to the northern end of the 
+chamber, even from this distance appearing to be skillfully crafted.  
+Against the east most wall, another counter or work table has been set up, 
+the surface littered with reels of leather cord and tools for the working of 
+this fabric.  Some of these would seem to make fearsome weapons.  To the 
+south, an earth road is visible over which what looks to be a smithy can be 
+seen.  
+~
+0 8 0
+D2
+~
+~
+0 0 11238
+S
+#11240
+The Smithy~
+This small building is heated like a furnace, which isn't too surprising 
+when one considers that a large one resides against the south,ern wall.  The 
+glow from the forge gives plenty of illumination to this area even at night, 
+while during the day the heat from it is more than a little uncomfortable.  
+Anvils, hammers and other tools of the smithing trade lay dotted about, each 
+carefully cared for by the looks of it.  A few racks also stand within this 
+chamber, located mostly against the eastern wall, bearing weapons and tools, 
+each fashioned from brass.  To the south an open track is visible, over which 
+a tannery can be smelt and seen.  
+~
+0 8 0
+D0
+~
+~
+0 0 11238
+S
+#11241
+An Earthen Square~
+Compacted earth forms a clearing here, seemingly having been trampled by an 
+innumerable number of feet over an equally lengthy period of time.  Off to 
+the north, an open grassy field can be seen, surrounded by an ancient 
+looking forest, while to the south a large hall is visible nestled within 
+the trees.  To the east and west road ways with small buildings fashioned to 
+each side can be found.  An occasional clank, as if metal is striking metal 
+can be heard from the west as well as the faint odor of a tannery.  
+~
+0 0 2
+D0
+~
+~
+0 0 11242
+D1
+~
+~
+0 0 11246
+D2
+~
+~
+1 0 11245
+D3
+~
+~
+0 0 11238
+S
+#11242
+A Dancing Field~
+Short grass lines this field, littered with dainty flowers of {rred{x, {bblue {xand 
+{Yyellow{x, their scents drifting over this cleared section of forest.  Visible 
+to the west, a series of wooden trestle tables have been set up, the hard 
+wood showing signs of weathering even from this distance while to the east a 
+simple wooden stage stands.  Southwards what appears to be a village square 
+can be seen, exits leading from it in each of the cardinal directions.  
+Movement to the north here is prevented by a dense forest, the ancient trees 
+and thick briar making movement all but impossible without major effort.  
+~
+0 0 2
+D1
+~
+~
+0 0 11244
+D2
+~
+~
+0 0 11241
+D3
+~
+~
+0 0 11243
+S
+#11243
+A Feasting Field~
+Tables have been set about this area of cleared grassland, some bearing 
+stains and marks that would suggest they have been used for feasting and 
+drinking, an impression that is supported by a cleared area of fire blacked 
+earth.  To the east, an open field can be seen with a simple stage set up 
+before the surrounding forest while a short distance off in that direction a 
+mud path is visible leading southwards.  The occasional wildflower manages 
+to retain its life under some of the tables, from which a pleasant aroma 
+drifts skywards.  
+~
+0 0 2
+D1
+~
+~
+0 0 11242
+S
+#11244
+A Simple Stage~
+A simple stage has been constructed of hardwood here, the surface showing 
+the effects of the weather and sun as it remains shielded slightly by the 
+forest.  To the west is an open field, most likely for those that wish to 
+hear what is being played on this stage.  This is further evidenced by the 
+primitive benches and tables constructed in even rows that can be seen in 
+that direction.  A track of compacted earth can be seen to the southwest, 
+working through the surrounding forest like some kind of brown serpent.  
+~
+0 0 0
+D3
+~
+~
+0 0 11242
+S
+#11245
+A Village Hall~
+The rafters of this spacious wooden hall have each been intricately carved 
+by what must have been a skilled hand or hands, each now depicts some 
+woodland animal with enough feeling to almost seem alive.  Around the 
+eastern and western sides of the chamber are plain wooden tables, clearly 
+designed for function over decoration with large benches placed under them 
+of a similar construction.  The centre of the room has been left clear while 
+a small stage stands against the south most wall, to the north a pair of 
+double doors are set ornately carved to match the beams.  
+~
+0 8 0
+D0
+~
+~
+1 0 11241
+S
+#11246
+An Earth Roadway~
+Compressed earth forms a simple concourse through the forest here, heading 
+east and west.  To the west, an open square can be seen while the roadway 
+continues unimpeded to the east.  Nestled into the forest to both the north 
+and south are discreet buildings fashioned from wooden slats, the 
+craftsmanship such that there is little chance of rain seeping in.  Doorways 
+have been filled with deer skins, the markings still plainly visible and 
+from under these the occasional piece of straw can be perceived from beneath 
+the leathery flaps.  Over each building smoke laces through the purple sky 
+lazily.  
+~
+0 0 2
+D0
+~
+deerskin~
+1 0 11247
+D1
+~
+~
+0 0 11249
+D2
+~
+skin~
+1 0 11248
+D3
+~
+~
+0 0 11241
+S
+#11247
+A Bronze Jewelers~
+A simple wooden counter runs the length of this chamber, from the northern 
+wall towards the southern wall, stopping just short of the doorway.  Upon 
+this structure, trays full of bronze, copper, enamel and brass jewelry can 
+be seen, their contents glimmering in the available light.  In the north 
+eastern corner of the chamber, a small fire burns within a stone hearth, over 
+which a flap has been opened to permit the smokes escape.  A deer skin has 
+been fashioned into a simple door to the south, preventing the worst of the 
+elements from invading this slat-built dwelling.  
+~
+0 8 0
+D2
+~
+deerskin~
+1 0 11246
+S
+#11248
+A Room Filled With Jars~
+Smoke lazily curls its way up from a small fire in the southeastern corner 
+for this room, a foul smelling bubbling pot over it.  Next to the fire a 
+small stool, a pestle and mortar and a table filled with jars can be 
+seen.  Small jars line the racking that graces the east and west walls, each 
+clearly labeled and depicting a picture in an intricate hand.  To the north 
+a deerskin flap leads out onto an earthen roadway.  Straw has been carefully 
+laid upon the ground here, its musky aroma doing something to help mask the 
+scent of the bubbling cauldron, though, sadly, not enough.  
+~
+0 8 0
+D0
+~
+skin~
+1 0 11246
+S
+#11249
+A Blue Flower Track~
+Growing in the centre of this earthen track are countless blue flowers, 
+their sweet aroma drifting over the air like an expensive perfume.  To 
+either side of the flowers, barren earth can be seen, a stark contrast to 
+nature's beauty.  To the north and south, nestled cozily in the forest's 
+arms are two dwellings, from which smoke coils upwards from simple chimneys. 
+Eastwards and westwards, more roadway can be seen, though to the east it 
+seems to terminate in an ancient forest at some distance off.  
+~
+0 0 2
+D0
+~
+skin~
+1 0 11250
+D1
+~
+~
+0 0 11193
+D2
+~
+pelt~
+1 0 11194
+D3
+~
+~
+0 0 11246
+S
+#11250
+A Carved Hut~
+Small bunches of herbs and flowers dangle down from thongs attached to the 
+crossbeams of this house's roof.  The walls are made of solid wood, 
+skillfully carved to depict a forest scenes and its creatures, including a 
+few faeries here and there.  A low table with a few carved wooden toys upon 
+it sits close to a pallet bed against the northern wall, which has been 
+covered in various warm looking animal pelts.  A simple skin hanging 
+provides a door to the south and straw has been used to add insulation from 
+the earthen floor here.  
+~
+0 8 0
+E
+toys~
+Small wooden figurines of animals clutter this low table.  Recognizable 
+statuettes of wolves, deer, rabbits, and other woodland animals can be seen 
+mixed together, proportionate to each other in.  One smaller one stands out 
+among the rest: it depicts a small humanoid with wings.  
+~
+D2
+~
+skin~
+1 0 11249
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 11212 spec_cast_mage Load to: blythyn the druid
+M 11222 spec_cast_adept Load to: Ahnwed
+S
+
+
+
+#RESETS
+D 0 11191 3 0
+D 0 11192 1 0
+D 0 11192 3 0
+D 0 11193 1 0
+D 0 11194 0 0
+D 0 11207 2 0
+D 0 11208 0 0
+D 0 11208 2 0
+D 0 11209 0 0
+D 0 11216 1 0
+D 0 11217 0 0
+D 0 11217 1 0
+D 0 11217 2 0
+D 0 11217 3 0
+D 0 11218 1 0
+D 0 11218 2 0
+D 0 11218 4 0
+D 0 11219 3 0
+D 0 11220 3 0
+D 0 11221 3 0
+D 0 11222 0 0
+D 0 11222 1 0
+D 0 11222 4 0
+D 0 11223 5 0
+D 0 11224 5 0
+D 0 11235 0 0
+D 0 11235 2 0
+D 0 11236 2 0
+D 0 11237 0 0
+D 0 11241 2 0
+D 0 11245 0 0
+D 0 11246 0 0
+D 0 11246 2 0
+D 0 11247 2 0
+D 0 11248 0 0
+D 0 11249 0 0
+D 0 11249 2 0
+D 0 11250 2 0
+O 0 11231 0 11191
+M 0 11222 1 11192
+E 0 11244 0 0
+E 0 11205 0 0
+E 0 11236 0 0
+M 0 11215 3 11192
+E 0 11236 0 0
+E 0 11205 0 0
+E 0 11217 0 0
+M 0 11214 3 11192
+E 0 11208 0 0
+E 0 11206 0 0
+E 0 11239 0 0
+G 0 11215 0
+M 0 11217 6 11193
+E 0 11236 0 0
+M 0 11216 6 11193
+E 0 11232 0 0
+M 0 11217 6 11194
+M 0 11216 6 11194
+M 0 11200 7 11195
+M 0 11200 7 11196
+M 0 11200 7 11197
+O 0 11228 0 11200
+M 0 11200 7 11203
+M 0 11200 7 11204
+M 0 11201 1 11205
+E 0 11201 0 16
+O 0 11200 0 11206
+M 0 11200 7 11206
+M 0 11200 7 11207
+M 0 11202 1 11208
+E 0 11202 0 16
+M 0 11203 2 11208
+G 0 11215 0
+M 0 11204 1 11211
+E 0 11204 0 6
+M 0 11204 1 11211
+E 0 11204 0 6
+M 0 11204 1 11212
+E 0 11204 0 6
+O 0 11218 0 11213
+M 0 11206 1 11214
+G 0 11215 0
+M 0 11205 2 11216
+E 0 11205 0 24
+E 0 11207 0 13
+E 0 11206 0 16
+E 0 11208 0 5
+M 0 11205 1 11216
+E 0 11205 0 24
+E 0 11206 0 16
+E 0 11207 0 13
+E 0 11208 0 5
+G 0 11217 0
+M 0 11207 2 11217
+M 0 11208 1 11217
+E 0 11209 0 5
+E 0 11203 0 16
+E 0 11207 0 13
+G 0 11215 0
+M 0 11211 1 11218
+E 0 11210 0 5
+E 0 11211 0 13
+E 0 11212 0 16
+M 0 11210 4 11218
+E 0 11210 0 0
+M 0 11210 4 11218
+E 0 11210 0 0
+M 0 11210 4 11219
+E 0 11210 0 0
+M 0 11210 4 11219
+E 0 11210 0 0
+M 0 11212 1 11221
+E 0 11213 0 5
+E 0 11214 0 17
+E 0 11206 0 16
+G 0 11215 0
+M 0 11209 2 11223
+E 0 11205 0 24
+E 0 11206 0 16
+E 0 11208 0 5
+M 0 11209 2 11224
+E 0 11206 0 16
+E 0 11208 0 5
+M 0 11213 5 11235
+G 0 11215 0
+M 0 11217 6 11236
+M 0 11216 6 11236
+M 0 11217 6 11237
+M 0 11216 6 11237
+M 0 11218 1 11239
+G 0 11236 0
+G 0 11237 0
+G 0 11238 0
+G 0 11239 0
+G 0 11240 0
+G 0 11208 0
+M 0 11219 1 11240
+G 0 11206 0
+G 0 11233 0
+G 0 11234 0
+G 0 11235 0
+G 0 11232 0
+M 0 11215 3 11241
+E 0 11205 0 0
+E 0 11206 0 0
+E 0 11245 0 0
+M 0 11214 3 11241
+E 0 11208 0 0
+E 0 11207 0 0
+E 0 11206 0 0
+E 0 11205 0 0
+M 0 11213 5 11242
+G 0 11215 0
+M 0 11217 6 11242
+M 0 11216 6 11242
+M 0 11213 5 11243
+G 0 11215 0
+M 0 11215 3 11243
+E 0 11238 0 0
+E 0 11237 0 0
+M 0 11214 3 11243
+E 0 11205 0 0
+E 0 11201 0 0
+E 0 11207 0 0
+M 0 11220 1 11244
+E 0 11230 0 0
+M 0 11221 1 11244
+E 0 11243 0 0
+M 0 11225 1 11245
+G 0 11250 0
+G 0 11241 0
+G 0 11242 0
+M 0 11226 1 11245
+M 0 11223 1 11247
+G 0 11195 0
+G 0 11196 0
+G 0 11198 0
+G 0 11197 0
+G 0 11199 0
+M 0 11224 1 11248
+G 0 11247 0
+G 0 11246 0
+G 0 11248 0
+G 0 11249 0
+M 0 11213 5 11249
+M 0 11217 6 11250
+E 0 11232 0 0
+M 0 11216 6 11250
+M 0 11213 5 11250
+G 0 11215 0
+S
+
+
+
+#SHOPS
+11218 0 11 9 0 0 150 50 8 20
+11219 0 5 9 0 0 150 50 8 20
+11223 8 0 0 0 0 150 50 6 22
+11224 9 0 0 0 0 150 50 6 22
+11225 17 0 0 0 0 150 50 6 23
+0
+
+
+
+#$

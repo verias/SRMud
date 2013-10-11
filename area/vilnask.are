@@ -1,0 +1,1845 @@
+#AREADATA
+Name {30 45} Trystae Vilnask~
+Builders Trysteae~
+VNUMs 14900 14999
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#14901
+grey hissing gargoyle~
+hunched, hissing grey gargoyle~
+A hunched, hissing grey form.
+~
+This fiend is a medium-sized gargoyle with dark, oily grey skin and
+slowly flapping wings.  It shambles about on two claw-like feet, hissing and
+snapping its mouth nastily.  A broad tail swings behind it lazily as it
+paces the room.  Its fingers are tipped with dangerous-looking claws and its
+eyes glitter wickedly.  
+~
+unique~
+A TZ -500 0
+30 0 10d60+520 30d10+100 3d6+8 slash
+-1 -1 -1 0
+M J L KS
+(null) (null) male 135
+ACGHMVXc ABCDEFGHJKLOPUVW medium unknown
+#14902
+huge black bat~
+a huge black bat~
+A huge black bat is swooping across the ceiling here.
+~
+This squeaking black fiend is flapping its webbed wings for all its
+worth.  It has beady black eyes and a tiny-fanged mouth.  All in all, it
+doesn't look too bad.  Watch out for the droppings.  
+~
+unique~
+A CDEFGTVZc -600 0
+31 0 10d63+545 31d10+100 4d5+8 crush
+-2 -2 -2 0
+FH 0 0 S
+(null) (null) male 139
+ACGHMVW ABCDEFGHIJKOPUV large unknown
+#14903
+large black rat~
+a large black rat~
+A large black rat runs around, squeaking.
+~
+A large black rat can be seen running along the walls and burrowing
+through the various debris on the floor here.  It squeaks loudly, trailing
+its long pink tail behind it.  Yet somehow those large teeth and sharp claws
+look intimidating.  
+~
+unique~
+A 0 0 0
+32 0 10d66+571 32d10+100 4d5+9 crush
+-2 -2 -2 0
+H 0 0 0
+(null) (null) male 144
+AGV ACDEFHJKPUV large unknown
+#14904
+dead cook ghost~
+the ghost of a dead cook~
+The ghost of a dead cook moves about the room.
+~
+The haunting form of a long-dead cook can be seen here, moving about the
+room with a huge meat cleaver in hand.  His figure moves from the crumbling
+ovens to the long-dead stoves and elsewhere around the room.  You can almost
+imagine the bustle of his staff and the fragrant scents that offer testimony
+to his industriousness.  
+~
+unique~
+AB TU -500 0
+32 0 10d66+571 32d10+100 4d5+9 sunder
+-2 -2 -2 0
+0 0 D C
+(null) (null) female 144
+AHMV ABCDEFGHIJK medium unknown
+#14905
+ghost dead page~
+the ghost of a dead page~
+The ghost of a dead page scurries about the room.
+~
+The blurred form of a soul long-dead moves here in.  The figure darts
+about the room and towards the doors, a haunting echo of its position in
+life.  It appears industrious and earnest, yet it is obviously trapped in
+another fragment of this dead city.  
+~
+unique~
+AB TU -500 0
+30 0 10d60+520 30d10+100 3d6+8 sting
+-1 -1 -1 0
+0 0 D C
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#14922
+giant haunting spider~
+a giant, haunting spider~
+A rather large, haunting spider spins its webs.
+~
+This spider is huge!  Those clacking mandibles and eight glittering eyes
+are enough to make one think twice - or even three times!  Not only is it
+capable of spinning webs, but that sure does look like a stinger on its
+tail!  Caution is encouraged.
+~
+unique~
+A Z -500 0
+34 0 10d73+626 34d10+100 4d5+10 crush
+-11 -11 -11 0
+0 0 FI E
+(null) (null) male 153
+AGO ACFKX large unknown
+#14923
+large dark mouse~
+a large, dark mouse~
+A hideously dark and twisted mouse scurries under your feet.
+~
+A huge fur ball scurries about along the floors and walls.  Its fur is
+horribly dark, making it almost impossible to see.  But it squeaks
+occasionally, and if you ever get a glimpse of those huge, glistening red
+eyes and nastily curled claws you will realize there is much more than meets
+the eye here.  
+~
+unique~
+A 0 -500 0
+33 0 10d69+599 33d10+100 4d5+9 crush
+-2 -2 -2 0
+FH 0 0 0
+(null) (null) male 148
+AGV ACDEFHJKP large unknown
+#14928
+odd grey blob~
+this odd grey blob~
+An odd blob of grey material slowly lurches along the floor.
+~
+This odd mass of slime is creeping across the floor here, appearing to
+digest pieces of rubbish and debris and leaving a glistening trail of
+moisture behind it.  It is shapeless and featureless.  I wouldn't let it
+have your foot, though.  
+~
+unique~
+A 0 -500 0
+35 0 10d76+654 35d10+100 4d6+9 pierce
+-3 -3 -3 -1
+H 0 0 0
+(null) (null) male 157
+AGHMV ABCDEFGHIJKPUV medium unknown
+#14929
+dark water fey~
+a stunted, dark water fey~
+A dark grey water fey with glistening skin hisses at you.
+~
+A short, little grey man with glistening skin and an obscenely huge mouth
+waddles along here.  His eyes are huge and glisten blackly.  When he turns
+his head and hisses, a set of needle-like teeth are exposed.  His
+three-fingered hand gestures obscenely at you.  
+~
+unique~
+A J -500 0
+36 0 10d80+683 36d10+100 4d6+9 crush
+-4 -4 -4 -2
+0 0 L C
+(null) (null) male 162
+ABGHMV ABCDEFGHIJK small unknown
+#14950
+twisted dark blob~
+a dark and twisted blob~
+This blob inching along the floor is dark and twisted looking!
+~
+This dark and viscous blob is rather ...  Large.  It seems to be leaving
+a nasty trail of slime behind it that almost glows in the dark.  The rock it
+glides over turns smooth in its wake.  It has no form, but its skin is black
+and oily looking.  
+~
+unique~
+A 0 -500 0
+37 0 10d84+713 37d10+100 4d6+10 smash
+-4 -4 -4 -2
+H 0 0 0
+(null) (null) male 166
+AGV ACDEFHJKPUV medium unknown
+#14951
+dark mutant spider~
+a mutant dark spider~
+This dark spider is small - but it doesn't look quite right!
+~
+This spider is small and dark looking.  But it seems to have an extra leg
+and an extra pair of mandibles.  Its body is misshapen and it moves
+awkwardly.  The stinger protruding from its tail looks wickedly fierce,
+however.  
+~
+unique~
+A Z -500 0
+35 0 10d76+654 35d10+100 4d6+9 crush
+-3 -3 -3 -1
+0 0 FI E
+(null) (null) male 157
+AGO ACFKX small unknown
+#14954
+vile dark gargoyle~
+a vile dark gargoyle~
+A dark and vile gargoyle is shuffling along the floor.
+~
+This gargoyle is rather large.  It has dark skin so dark black as to be
+almost blue, and its eyes glisten a dull silver.  It has huge sized hands
+with talon-like claw tips, and while its wings don't appear to let it fly,
+they are still huge and unsettling.  
+~
+unique~
+A TZ 0 0
+43 0 10d115+900 43d10+100 4d7+12 lunge
+-6 -6 -6 -4
+0 J L KS
+(null) (null) male 193
+ACGHMVXc ABCDEFGHJKLOPUVW large unknown
+#0
+
+
+
+#OBJECTS
+#14900
+oil painting wall~
+an old oil portrait~
+This finely painted portrait still seems to be in good shape.  It depicts
+a tall, slender humanoid form with oddly dark skin.  The background is that
+of any forest or preserve, and it appears the man is simply sitting on a
+log, holding a book.~
+hemp~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#14901
+bed huge poster~
+a large, well-crafted bed~
+This bed is a huge four-poster and looks like it could accommodate all your needs.
+This bed is ancient and yet obviously well-made.  It appears to have been
+hand crafted from some dark and heavy wood.  Even after all these decades,
+it still carries the patina of heavy polish and good oils. ~
+wood~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#14902
+iridescent glittering custom sandals~
+iridescent, glittering sandals~
+These sandals are beautifully made and obviously custom-crafted.  The shoes 
+themselves are made of a mysterious fabric that seems to be eternally 
+shifting its colors.  The thin, delicate straps attach the narrow bottom and 
+its rather long, ornately carved spike heel to the wearers foot.~
+leather~
+clothing ABHI AG
+0 0 0 0 0
+90 0 0 P
+A
+13 25
+A
+18 5
+#14903
+belic's sigil mithril necklace~
+a beautifully hand-crafted mithril necklace~
+A mithril necklace has been discarded here. This necklace is made of the purest mithril, made up of a series of looping 
+lines that circle and weave beneath and around each other in a beautiful 
+design.  It has been custom-made for Belic by his consort Trysteae. ~
+mithril~
+clothing AHI AC
+0 0 0 0 0
+100 0 0 P
+#14904
+ghost cooks cleaver~
+the cleaver of a ghost cook~
+The glittering cleaver of a long dead cook glitters menacingly.~
+iron~
+weapon ABI AN
+staff 8 7 wrath C
+30 5 150 P
+#14905
+dead pages blade~
+blade of a dead page~
+This shining blade once belonged to a page - now long dead.~
+steel~
+weapon ABI AN
+sword 8 7 crunch D
+30 10 150 P
+#14906
+glittering shard power~
+a glittering shard of power~
+This shard of foreign substance glitters and seems to pulse with some unknown power.~
+nothing~
+container ABI AR
+50 0 0 0 0
+30 5 450 P
+A
+12 15
+A
+13 30
+#14917
+luke mineral water~
+a small pool of luke-warm water.~
+A small pool of luke-warm, mineral-scented water is here.~
+water~
+fountain R 0
+-1 -1 'water' 0 0
+0 0 0 P
+#14920
+Tapestries~
+a series of tapestries hangs here~
+Each of the walls carries the remnants of the great histories of this
+now-gone race.  The fabric is worn and gone in some places, but you can
+still decipher out scenes of great, dark warriors as they battle.  Slender,
+willowy, dark-skinned women as they are romanced, and scenes of peace and
+prosperity for all.  ~
+cotton~
+treasure R 0
+0 0 0 0 0
+0 0 1 P
+#14921
+Throne~
+an ancient, ornate throne~
+This great chair is well-used and yet still gives evidence of great power
+and craftmanship among these people.  ~
+wood~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#14925
+bed old carved~
+an old, ornate bed~
+An ornately carved, four poster wooden bed is here.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#14926
+Trap~
+trap~
+Trap~
+{WWith a loud crash, a teetering pile of junk falls onto you!  {x ~
+warp_stone RX 0
+G I ABCD ABCD 0
+0 0 0 P
+#14931
+desk grandiose wood~
+a massive, grandiose desk~
+This huge desk is a man's length wide and nearly as deep.  There are
+dozens of drawers - large, wide ones and tiny cubby-like ones.  All the
+drawers are neatly closed, and the surface is completely empty aside from a
+series of etched in characters.  Unfortunately, they are the rune-like
+symbols of the archaic language that belong to this now-dead race. 
+
+There are seven symbols here, each carved shallowly into the surface of
+the desk.  The room is miraculously dust free, and it is easy to decipher
+the shape of each.  They are, sadly, unreadable.  The language they are
+written in is beautiful - almost magical to see - but the words they
+represented have long since been lost.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#14945
+Trysteae's Vest~
+a shimmering, rainbow-hued vest~
+Small, rainbow-hued vest that is semi translucent.~
+mist~
+clothing ABHI AD
+0 0 0 0 0
+90 0 0 P
+A
+18 5
+A
+13 25
+#14946
+Trysteae's Skirt~
+a beautiful, iridescent skirt of lace and shimmering fabric~
+This skirt has a strip of semi translucent cloth at the top, with layer upon layer of voluminous lace below.  Each layer is a different color then the one above it, and the skirt rounds out behind her, almost bell-like.  The front opens into a long slit that comes up to her inner thigh.~
+mist~
+clothing ABHI AF
+0 0 0 0 0
+90 0 0 P
+A
+13 25
+A
+18 5
+#14947
+Trysteae's Bangle~
+glittering, shining bangle~
+This glittering bracelet is one of the Bangles of Trysteae.  The metal it is comprised of is multi-hued, rainbow-like in its shifting colors and patterns.~
+mist~
+clothing ABGHI AM
+0 0 0 0 0
+90 0 0 P
+A
+18 5
+A
+13 25
+#0
+
+
+
+#ROOMS
+#14900
+Eternity's Foyer~
+This room is vast and huge, lined with stone pillars and a ceiling so far
+overhead that light has trouble reaching it.  Shadows dance along the walls.
+The sound of movements echo around hauntingly, amplified in this daunting
+room.  Curved archways are built into each of the four walls surrounding
+you, each topped with a hand worked keystone traced with ancient, illegible
+script.  To the north and south lies more stone-lined passageways, to the
+east and west are narrow rock-hewed corridors.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 14901
+D1
+~
+~
+~
+0 0 14910
+D2
+~
+~
+~
+0 0 13101
+D3
+~
+~
+~
+0 0 14911
+M 0 H 0
+S
+#14901
+Gargoyles Cathedral~
+This room seems to be simply another monstrous cavern within the rock. 
+Thin, delicate-looking pillars climb from the floor into a ceiling absorbed
+in darkness.  The huge room seems to press down with its immense size, with
+gargoyles carved into the rock walls like row upon row of bizarre
+spectators.  The oppressive darkness can be escaped through the carved
+archway to the north or the tunnel to the south.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 14902
+D2
+~
+~
+~
+0 0 14900
+M 0 H 0
+S
+#14902
+Wall of Darkness~
+The broad tunnel opens into another room that stretches before and above
+you into what feels like infinity.  Sound echoes almost furtively, hushed
+and secretive.  The floor beneath your feet is covered in rune-like symbols
+partially filled with dust - more wild patterns in a dead, archaic tongue. 
+The faintest movements of air is felt throughout the room.  A stone
+staircase descends from the western wall and to the east lies a small wooden
+door.  
+~
+0 8 0
+E
+floor~
+The floor here is covered in flowering script.  Large, rune-like symbols
+that flow into one another almost like a river.  Dust partially obscures the
+writings, but even if it didn't, the flowing inscriptions would mean little,
+as they are completely indecipherable.  The language, like the people, long
+dead and gone.  
+~
+D1
+~
+~
+~
+1 0 14903
+D2
+~
+~
+~
+0 0 14901
+D5
+~
+~
+~
+0 0 14923
+M 0 H 0
+S
+#14903
+The Abandoned Pantry~
+This room is dusty and littered with hanging cobwebs.  The remains of
+various animal nests are scattered along the floors and empty shelves. 
+Obviously once used as a pantry or storeroom of some kind, the remnants of
+wooden tables and shelves still litter the area.  Small and almost
+claustrophobic, and an erie sense pervades the room the longer you remain. 
+A small wooden door to the west and a humble stone archway to the south are
+the only visible exits.  
+~
+0 8 0
+D2
+~
+~
+~
+1 0 14904
+D3
+~
+~
+~
+1 0 14902
+M 0 H 0
+S
+#14904
+Cook's Heaven~
+The thick walls of this room are filled with huge ovens, well-used to
+judge by the huge soot marks that climb up to the towering ceiling.  A dozen
+ovens and almost as many stone stoves jutting outwards give clear
+indications of this room's purpose.  The bricked chimneys climb up to the
+high ceilings and are swallowed by the stone.  Broken tables and rusted
+cooking tools lay about haphazardly.  A small, humble stone arch to the east
+and small wooden doors to the north and south appear to be the only exits.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 14903
+D1
+~
+~
+~
+0 0 14906
+D2
+~
+~
+~
+1 0 14910
+M 0 H 0
+S
+#14905
+A Bend in the Tunnel~
+The dark walls of stone are cut narrow and low here.  Water drips down
+nearly every vertical surface, leaving the gravel and grit along the floor
+of the tunnel rather grimy.  The walls of the tunnel are bending, and the
+current of cool, damp air can still be felt.  The tunnel continues to both
+the west and the north.
+~
+0 8 0
+D0
+~
+~
+~
+0 0 14953
+D3
+~
+~
+~
+0 0 14907
+M 0 H 0
+S
+#14906
+Eastern Stairway~
+This room apparently serves no other purpose than to give access to the
+round, stone staircase descending from its midst.  A rather curious looking
+series of ropes and pulleys dangles from above the staircase, but the ropes
+are almost completely rotted away by now, and their purpose will probably
+never be understood.  The staircase leads downwards, and a small stone arch
+leads to the west.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 14904
+D5
+~
+~
+~
+0 0 14927
+M 0 H 0
+S
+#14907
+Narrow Stone Tunnel~
+Stone hugs you from all side - crudely hewed rock walls that close
+narrowly about this tunnel.  The ceiling is low enough to urge caution, and
+water glides audibly along the dark, slick walls.  Gravel and small pebbles
+litter the floor here.  A cool breeze scented with the damp dark gently
+stirs the air.  The tunnel continues to both the east and the west.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 14905
+D3
+~
+~
+~
+0 0 14908
+M 0 H 0
+S
+#14908
+A Bend in the Tunnel~
+The dark walls of stone are cut narrow and low here.  Water drips down
+nearly every vertical surface, leaving the gravel and grit along the floor
+of the tunnel rather grimy.  The walls of the tunnel are bending, and the
+current of cool, damp air can still be felt.  The tunnel continues to both
+the east and the north.
+~
+0 8 0
+D0
+~
+~
+~
+0 0 14909
+D1
+~
+~
+~
+0 0 14907
+M 0 H 0
+S
+#14909
+A Bend in the Tunnel~
+The dark walls of stone are cut narrow and low here.  Water drips down
+nearly every vertical surface, leaving the gravel and grit along the floor
+of the tunnel rather grimy.  The walls of the tunnel are bending, and the
+current of cool, damp air can still be felt.  The tunnel continues to both
+the east and the south.
+~
+0 8 0
+D1
+~
+~
+~
+0 0 14954
+D2
+~
+~
+~
+0 0 14908
+M 0 H 0
+S
+#14910
+Chafing Room~
+The walls of this room are stone, and have been carefully cut into a
+series of shelves, niches, and cubby holes.  The litter of broken and
+rotting tables seems to indicate this room was simply a holding area for the
+dishes from the nearby kitchen.  The wild creatures of the dark seem to have
+taken over, however, and filled the room with cobwebs and various nests. 
+You can leave either by the small wooden door to the north or the plainly
+hewed corridor to the west.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 14904
+D3
+~
+~
+~
+0 0 14900
+M 0 H 0
+S
+#14911
+Storage~
+Half-opened cupboards full of various serving-ware and stacks of rotting
+tables and chairs fill this medium-sized room to almost overflowing.  The
+rock walls and ceilings themselves are blotted out by various piles of junk
+with a path barely large enough for an average sized human to scrape
+through.  Pottery and draperies are tossed haphazardly about, seeming to
+totter almost imperceptibly.  A narrow, rock-hewed tunnel leads to the east
+and a narrow wooden door passes to the north.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 14912
+D1
+~
+~
+~
+0 0 14900
+M 0 H 0
+S
+#14912
+Earthen Passage~
+Unlike the surrounding rooms that have been carved out of the cool, dark
+stone, this one appears to have been dug through a section of earth.  The
+entire tunnel is more circular in shape then anything else - the soil smooth
+and looking almost oily.  The damp feeling has become stronger in the air
+here, yet the darkness seems to carry a lot less weight.  The tunnel
+continues west into another stone chamber and south into a stone wall set
+with a wooden door.  
+~
+0 8 0
+D2
+~
+~
+~
+1 0 14911
+D3
+~
+~
+~
+0 0 14913
+M 0 H 0
+S
+#14913
+The Waterfall Room~
+The source for the sense of dampness pervading these caves becomes
+readily apparent.  A musically rushing, splashing cascade of mineral-scented
+water moves along the entire length of one wall of this room.  The stone
+around it is lighter in color, and cave growths such as stalactites and
+stalagmites sprout along the floor and ceiling.  Rusted ladles, mildewed
+buckets and abandoned porcelain dishes lay scattered about.  The earthen
+tunnel lies to the east and another stone room to the west.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 14912
+D3
+~
+~
+~
+0 0 14914
+M 0 H 0
+S
+#14914
+Western Stairway~
+This stone room is almost cave-like in its shape and appearance.  A
+large, spiralling stone stairway lays in the middle of the floor.  A wooden
+pulley hangs from the middle of the ceiling, bolted there decades ago.  The
+staircase leads downwards, and there is an earthen tunnel to the east.  
+ 
+~
+0 8 0
+D1
+~
+~
+~
+0 0 14913
+D5
+~
+~
+~
+0 0 14915
+M 0 H 0
+S
+#14915
+Western Stairway~
+This room, carved from the very stone that surrounds you, appears to
+serve no purpose other then to hold the massive stairway that passes from
+the ceiling and down through its floor.  The center of the staircase is
+carved out to provide room through which a half-rotted wooden pulley can be
+seen.  The staircase continues up and down, and there is another stone room
+to the south.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 14916
+D4
+~
+~
+~
+0 0 14914
+D5
+~
+~
+~
+0 0 14943
+M 0 H 0
+S
+#14916
+Servants Quarters~
+A broken down chest sits in one corner of the room, while simple cots
+lean up against each wall.  A huge, heavy wooden table lies in the middle of
+the room, cleanly broken down the middle.  The chairs around it are
+splintered into nothing, and the room is otherwise plain and barren.  A
+stone room can be seen to the north, and a small wooden door lies in the
+eastern wall.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 14915
+D1
+~
+~
+~
+1 0 14917
+M 0 H 0
+S
+#14917
+Cascade Room~
+The waterfalls from the room above continue down the huge faces of stone
+that make up the walls of this room.  Two of the walls are sheets of water
+simply cascading over the rock and leaving their pale deposits behind. 
+Piles of rotted cloth and chipped porcelain basins lay on rock-hewn shelves.
+The water pools against one wall and disappears into an underground river,
+the faintest echo of which can be heard when standing near the gap.  A small
+wooden door lays in the western wall and a smooth stone arch leads north.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 14918
+D3
+~
+~
+~
+1 0 14916
+M 0 H 0
+S
+#14918
+Tutors Halls~
+Rows of crumbling benches and tables fill this room.  At one end stands a
+podium or lectern, and the stone walls have deep shelves carved into them. 
+Metal lanterns are still suspended from the ceiling by thick, heavy bolts,
+their glass cloudy and smoked.  A smooth stone arch leads south and an
+intricately worked archway leads east.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 14919
+D2
+~
+~
+~
+0 0 14917
+M 0 H 0
+S
+#14919
+Library~
+Each of the walls in this room are lined with shelf upon shelf,
+stretching up to the high ceiling overhead.  The room is long and narrow,
+and there is a silence and near-serenity to be found in its hallowed
+lengths.  The shelves are littered with decaying scrolls and thick, dusty
+tomes.  The intricately worked archaic writings of the race that once
+occupied these halls is all that can be deciphered.  An intricately worked
+archway leads west, and a large, broad set of double doors leads south.  
+~
+0 4194312 0
+D2
+~
+~
+~
+1 0 14920
+D3
+~
+~
+~
+0 0 14918
+M 0 H 0
+S
+#14920
+Audience Room~
+At the far end of the room rests a dais of decaying wood.  Littered with
+animal and inspect spoor, the high-backed throne atop it and the crumbling
+hangings behind it still attest to the rooms once rich and lavish setting. 
+Ornate chairs line the walls to each side of the dais, and glistening metal
+lanterns dangle from the high, arched ceiling overhead.  A large set of
+broad double doors leads north, and to the east lays a massive pair of
+doors, decorated with gilt and rune-like script.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 14919
+D1
+~
+~
+~
+1 0 14921
+M 0 H 0
+S
+#14921
+Throne Room~
+Each of the four walls in this room is draped with massive tapestries
+that even in their state of collapse and decay depict an entire world.  A
+massive throne is the only furniture in this long room, and the only other
+decoration is the broad, delicately carved pillars that ascend from the
+rune-laced floor to the towering, arched ceiling.  Massive, gilt-inlaid
+double doors lead west and there is a towering, massive arch to the north.  
+~
+0 8 0
+E
+floor~
+The floor here is covered in flowering script.  Large, rune-like symbols
+that flow into one another almost like a river.  Dust partially obscures the
+writings, but even if it didn't, the flowing inscriptions would mean little,
+as they are completely indecipherable.  The language, like the people, long
+dead and gone.  
+~
+D0
+~
+~
+~
+0 0 14922
+D3
+~
+~
+~
+1 0 14920
+M 0 H 0
+S
+#14922
+Great Passage~
+This cavernous room stretches hugely in all directions.  The walls span
+upwards, the high ceiling overhead supported by thick pillars that gleam
+with glittery minerals and ores.  A thick carpet rustles underfoot, mostly
+frayed and gone but occasionally you can see its thick red nap and the
+glittering gold threads that once traced through it.  There is a massive
+archway opening to the north and one to the south, while to the east lays a
+rather plain set of double doors.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 14923
+D1
+~
+~
+~
+1 0 14924
+D2
+~
+~
+~
+0 0 14921
+M 0 H 0
+S
+#14923
+Northern Stairway~
+This large room appears to house nothing more than an almost gargantuan
+staircase that descends from its high ceiling and down through the floor. 
+The staircase itself is carved of more rock, with intricately crafted
+banisters and railing scrolling down its length.  The stairway goes both up
+and down, and there is a massive archway to the south.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 14922
+D4
+~
+~
+~
+0 0 14902
+D5
+~
+~
+~
+0 0 14933
+M 0 H 0
+S
+#14924
+Royal Quarters~
+The room you stand in seems small and rather plain - simple wooden
+furnishings littered about.  A fireplace is carved into the far wall, but
+otherwise this room seems almost nondescript.  To the west lays a plain set
+of double doors and there is a low stone archway to the south.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 14925
+D3
+~
+~
+~
+1 0 14922
+M 0 H 0
+S
+#14925
+Royal Bedroom~
+A massive four-post bed dominates this room, surrounded by hanging
+tapestries that still hang on to a vestige of their glory.  A huge
+fireplace, large enough to fit a rather tall human, is carved into the wall
+opposite it.  Two wardrobes flank the bed against the western wall.  A low
+stone archway leads to the north, and a plain wooden door passes through to
+the east.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 14924
+D1
+~
+~
+~
+1 0 14926
+M 0 H 0
+S
+#14926
+Servants Quarters~
+This plain room contains nothing more than a handful of cots and a large
+wooden table surrounded by rickety chairs.  Like the other rooms of this
+empty world, cobwebs and dust coat everything in sight.  The corners of the
+room are full of animal nests and remains.  A plain wooden door leads west,
+and another wooden door leads north.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 14927
+D3
+~
+~
+~
+1 0 14925
+M 0 H 0
+S
+#14927
+Eastern Stairway~
+This rather small room seems to serve no other purpose then to house the
+staircase that descends from its ceiling and through its floor.  Decaying
+wooden pulleys are bolted inside an opening in the middle of the stairway,
+its purpose now unknown.  The stairway proceeds both up and down, and there
+is a plain wooden door to the south.  
+~
+0 8 0
+D2
+~
+~
+~
+1 0 14926
+D4
+~
+~
+~
+0 0 14906
+D5
+~
+~
+~
+0 0 14928
+M 0 H 0
+S
+#14928
+Eastern Stairway~
+This rather small room seems to serve no other purpose then to house the
+staircase that descends from its ceiling and through its floor.  Decaying
+wooden pulleys are bolted inside an opening in the middle of the stairway,
+its purpose now unknown.  The stairway proceeds both up and down, and there
+is a plain wooden door to the south.  
+~
+0 8 0
+D2
+~
+~
+~
+1 0 14929
+D4
+~
+~
+~
+0 0 14927
+D5
+~
+~
+~
+0 0 14950
+M 0 H 0
+S
+#14929
+Nobles Bedchamber~
+This room was once a lavish and rich sleeping chamber.  The huge bed and
+wardrobe that remain are carved of a rich, dark wood that gleams even in the
+subdued light.  The rug underfoot, while slowly decomposing, is a dark, rich
+gold in color, shot through with cords of green, blue, and red.  Two darkly
+polished double doors lead west, and there are small, humble wooden doors to
+the north and south.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 14928
+D2
+~
+~
+~
+1 0 14930
+D3
+~
+~
+~
+1 0 14931
+M 0 H 0
+S
+#14930
+Servants Quarters~
+This plain room contains nothing more than a handful of cots and a large
+wooden table surrounded by rickety chairs.  Like the other rooms of this
+empty world, cobwebs and dust coat everything in sight.  The corners of the
+room are full of animal nests and remains.  A plain wooden door leads north.
+~
+0 8 0
+D0
+~
+~
+~
+1 0 14929
+M 0 H 0
+S
+#14931
+Nobles Quarters~
+A huge and grandiose desk is placed squarely in the middle of this room. 
+It is dark with years and use, yet the wood seems relatively untouched.  It
+sits atop a densely woven reed mat that covers the entire floor.  The room
+seems unusually warm and almost alive - mysteriously barren of the debris
+and various animal sign that litter every other room you have passed
+through.  Darkly polished double doors lead both east and west.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 14929
+D3
+~
+~
+~
+1 0 14935
+M 0 H 0
+S
+#14932
+Nobles Quarters~
+The remains of various pieces of furniture lay scattered about.  None of
+it looks salvageable - chairs that have splintered into almost nothing,
+couches and chairs with their stuffing pulled out and their wood work gnawed
+off.  The wall hangings that once adorned the cavernous stone walls have
+decayed into tatters and fluttering strips.  A pair of darkly polished
+double doors leads west, and to the east lies a pair of ornate, gilt-lined
+doors.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 14933
+D3
+~
+~
+~
+1 0 14941
+M 0 H 0
+S
+#14933
+Center Vestibule~
+The great stone stairway descends into this room and then stops.  The
+stairway is decorated with an ornate, scrolling banister and intricately
+worked railings.  Sconces on each wall hold rusting metal brackets bare of
+any torch or flame.  Four sets of darkly burnished wood doors with
+gold-traced runes face into the room.  The stairway moves upwards, and doors
+face you to the north, south, east, and west.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 14934
+D1
+~
+~
+~
+1 0 14935
+D2
+~
+~
+~
+1 0 14936
+D3
+~
+~
+~
+1 0 14932
+D4
+~
+~
+~
+0 0 14923
+M 0 H 0
+S
+#14934
+Nobles Quarters~
+The remains of various pieces of furniture lay scattered about.  None of
+it looks salvageable - chairs that have splintered into almost nothing,
+couches and chairs with their stuffing pulled out and their wood work gnawed
+off.  The wall hangings that once adorned the cavernous stone walls have
+decayed into tatters and fluttering strips.  A pair of darkly polished
+double doors leads west, and to the south lies a pair of ornate, gilt-lined
+doors.  A small wooden door lies to the east.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 14946
+D2
+~
+~
+~
+1 0 14933
+D3
+~
+~
+~
+1 0 14948
+M 0 H 0
+S
+#14935
+Nobles Quarters~
+The remains of various pieces of furniture lay scattered about.  None of
+it looks salvageable - chairs that have splintered into almost nothing,
+couches and chairs with their stuffing pulled out and their wood work gnawed
+off - and yet it was all obviously once of the highest quality.  The thick
+rug that once adorned the stone floor has decayed into tatters and fraying
+fraying strings.  A pair of darkly polished double doors leads east, and
+west lies a pair of ornate, gilt-lined doors.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 14931
+D3
+~
+~
+~
+1 0 14933
+M 0 H 0
+S
+#14936
+Nobles Quarters~
+The remains of various pieces of furniture lay scattered about.  None of
+it looks salvageable - chairs that have splintered into almost nothing,
+couches and chairs with their stuffing pulled out and their wood work gnawed
+off.  The wall hangings that once adorned the cavernous stone walls have
+decayed into tatters and fluttering strips.  A pair of darkly polished
+double doors leads west, and to the north lies a pair of ornate, gilt-lined
+doors.  A small wooden door lies to the east.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 14933
+D1
+~
+~
+~
+1 0 14939
+D3
+~
+~
+~
+1 0 14937
+M 0 H 0
+S
+#14937
+Nobles Quarters~
+This room appears to once have been used as a study of some sort.  A
+half-decayed desk and other crumbling furniture is strewn about.  The
+cobwebs and rats nests in here are particularly bad.  Metal lanterns hang
+from bolts drilled into the stone ceiling.  There is a pair of darkly
+polished double doors to the east and the west.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 14936
+D3
+~
+~
+~
+1 0 14938
+M 0 H 0
+S
+#14938
+Nobles Bedchamber~
+This room was once a lavish and rich sleeping chamber.  The huge bed and
+wardrobe that remain are carved of a rich, dark wood that gleams even in the
+subdued light.  The rug underfoot, while slowly decomposing, is a dark, rich
+red in color and shot through with cords of green and blue.  Metal lanterns
+hang from bolts in the cavernous ceiling, and two darkly polished double
+doors lead east.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 14937
+M 0 H 0
+S
+#14939
+Servants Quarters~
+This plain room contains nothing more than a handful of cots and a large
+wooden table surrounded by rickety chairs.  Like the other rooms of this
+empty world, cobwebs and dust coat everything in sight.  The corners of the
+room are full of animal nests and remains.  A plain wooden door leads west,
+and a small stone archway leads east.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 14940
+D3
+~
+~
+~
+1 0 14936
+M 0 H 0
+S
+#14940
+Storage Area~
+This room is dusty and littered with hanging cobwebs.  The remains of
+various animal nests are scattered along the floors and empty shelves. 
+Obviously once used as a pantry or storeroom of some kind, the remnants of
+wooden tables and shelves still litter the area.  Small and almost
+claustrophobic, an erie sense pervades the room the longer you remain.  A
+small stone archway to the west is the only visible exit.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 14939
+M 0 H 0
+S
+#14941
+Nobles Quarters~
+This room appears to once have been used as a study of some sort.  A
+half-decayed desk and other crumbling furniture is strewn about.  The
+cobwebs and rats nests in here are particularly bad.  Metal lanterns hang
+from bolts drilled into the stone ceiling.  There is a pair of darkly
+polished double doors to the east and the west.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 14932
+D3
+~
+~
+~
+1 0 14942
+M 0 H 0
+S
+#14942
+Nobles Bedchamber~
+This room was once a lavish and rich sleeping chamber.  The huge bed and
+wardrobe that remain are carved of a rich, dark wood that gleams even in the
+subdued light.  The rug underfoot, while slowly decomposing, is a dark, rich
+green in color, shot through with cords of blue and red.  Two darkly
+polished double doors lead east, and there are small, humble wooden doors to
+the north and south.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 14944
+D1
+~
+~
+~
+1 0 14941
+D2
+~
+~
+~
+1 0 14943
+M 0 H 0
+S
+#14943
+Western Stairway~
+This room, carved from the very stone that surrounds you, appears to
+serve no purpose other then to hold the massive stairway that passes from
+the ceiling and down to the floor.  The center of the staircase is carved
+out to provide room through which a half-rotted wooden pulley can be seen. 
+The staircase continues up, and there is a small wooden door to the north.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 14942
+D4
+~
+~
+~
+0 0 14915
+M 0 H 0
+S
+#14944
+Servants Quarters~
+This plain room contains nothing more than a handful of cots and a large
+wooden table surrounded by rickety chairs.  Like the other rooms of this
+empty world, cobwebs and dust coat everything in sight.  The corners of the
+room are full of animal nests and remains.  A plain wooden door leads south.
+~
+0 8 0
+D2
+~
+~
+~
+1 0 14942
+M 0 H 0
+S
+#14945
+blank~
+~
+0 12 0
+M 0 H 0
+S
+#14946
+Servants Quarters~
+This plain room contains nothing more than a handful of cots and a large
+wooden table surrounded by rickety chairs.  Like the other rooms of this
+empty world, cobwebs and dust coat everything in sight.  The corners of the
+room are full of animal nests and remains.  A plain wooden door leads west,
+and a small stone archway leads east.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 14947
+D3
+~
+~
+~
+1 0 14934
+M 0 H 0
+S
+#14947
+Storage Area~
+This room is dusty and littered with hanging cobwebs.  The remains of
+various animal nests are scattered along the floors and empty shelves. 
+Obviously once used as a pantry or storeroom of some kind, the remnants of
+wooden tables and shelves still litter the area.  Small and almost
+claustrophobic, an erie sense pervades the room the longer you remain.  A
+small stone archway to the west is the only visible exit.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 14946
+M 0 H 0
+S
+#14948
+Nobles Quarters~
+This room appears to once have been used as a study of some sort.  A
+half-decayed desk and other crumbling furniture is strewn about.  The
+cobwebs and rats nests in here are particularly bad.  Metal lanterns hang
+from bolts drilled into the stone ceiling.  There is a pair of darkly
+polished double doors to the east and the west.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 14934
+D3
+~
+~
+~
+1 0 14949
+M 0 H 0
+S
+#14949
+Nobles Bedchamber~
+This room was once a lavish and rich sleeping chamber.  The huge bed and
+wardrobe that remain are carved of a rich, dark wood that gleams even in the
+subdued light.  The rug underfoot, while slowly decomposing, is a dark, rich
+blue in color and shot through with cords of red and green.  A large
+painting hung against the western wall seems to be in fairly good condition
+as opposed to the rest of the furnishings.  Two darkly polished double doors
+lead east.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 14948
+M 0 H 0
+S
+#14950
+Darkened Stairway~
+This cave-like room is dark and dank.  The stairway climbing down one
+wall is rather simple and seems rather crude when compared to the other
+stairs seen in the caverns.  The ceiling of this room is low and the walls
+narrow.  Water can be heard audibly dripping down the darkly glistening
+walls, and the room is scattered with abandoned baskets and crates.  There
+is a narrow stone tunnel to the east and the crude stairway proceeds
+upwards.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 14951
+D4
+~
+~
+~
+0 0 14928
+M 0 H 0
+S
+#14951
+Narrow Stone Tunnel~
+Stone hugs you from all side - crudely hewed rock walls that close
+narrowly about this tunnel.  The ceiling is low enough to urge caution, and
+water glides audibly along the dark, slick walls.  Gravel and small pebbles
+litter the floor here.  A cool breeze scented with the damp dark gently
+stirs the air.  A small stone cavern can be seen to the west, and the tunnel
+continues to the east.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 14952
+D3
+~
+~
+~
+0 0 14950
+M 0 H 0
+S
+#14952
+A Bend in the Tunnel~
+The dark walls of stone are cut narrow and low here.  Water drips down
+nearly every vertical surface, leaving the gravel and grit along the floor
+of the tunnel rather grimy.  The walls of the tunnel are bending, and the
+current of cool, damp air can still be felt.  The tunnel continues to both
+the west and the south.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 14953
+D3
+~
+~
+~
+0 0 14951
+M 0 H 0
+S
+#14953
+Narrow Stone Tunnel~
+Stone hugs you from all side - crudely hewed rock walls that close
+narrowly about this tunnel.  The ceiling is low enough to urge caution, and
+water glides audibly along the dark, slick walls.  Gravel and small pebbles
+litter the floor here.  A cool breeze scented with the damp dark gently
+stirs the air.  The tunnel continues to both the north and the south.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 14952
+D2
+~
+~
+~
+0 0 14905
+M 0 H 0
+S
+#14954
+An Underground Pool~
+The dark, wet stone opens up here in a rather large cavern.  The walls
+are covered with glittering moisture and faintly luminescent moss.  In the
+middle of the floor of this cave is a huge, oval pool of water.  The room
+feels oppressive and overwhelming, the air almost too thick to breath.  Some
+unseen power tugs strongly enough to disturb the hair along one's body.  A
+tunnel leaves to the west.  
+~
+0 8 0
+E
+water~
+The pool of glittering water is nearly large enough to cover the floor of
+the entire cavern.  The pool itself is crystal clear, and looking downwards,
+one would be able to see the deep rocky bottom of its depths.  Despite the
+cool breeze moving through the cavern, the surface of the pool is not
+disturbed, nor does it ripple.  Overhanging stalactites drip their cloudy,
+mineral-laden water, adding to the volume.  But the surface remains placid
+and calm; unmoved.  
+~
+E
+pool~
+The pool of glittering water is nearly large enough to cover the floor of
+the entire cavern.  The pool itself is crystal clear, and looking downwards,
+one would be able to see the deep rocky bottom of its depths.  Despite the
+cool breeze moving through the cavern, the surface of the pool is not
+disturbed, nor does it ripple.  Overhanging stalactites drip their cloudy,
+mineral-laden water, adding to the volume.  But the surface remains placid
+and calm; unmoved.  
+~
+D3
+~
+~
+~
+0 0 14909
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 14922 spec_poison
+M 14951 spec_poison
+S
+
+
+
+#RESETS
+D 0 14902 1 1
+D 0 14903 2 1
+D 0 14903 3 1
+D 0 14904 0 1
+D 0 14904 2 1
+D 0 14911 0 1
+D 0 14912 2 1
+D 0 14916 1 1
+D 0 14917 3 1
+D 0 14919 2 1
+D 0 14920 0 1
+D 0 14920 1 1
+D 0 14921 3 1
+D 0 14922 1 1
+D 0 14924 3 1
+D 0 14925 1 1
+D 0 14926 0 1
+D 0 14926 3 1
+D 0 14927 2 1
+D 0 14928 2 1
+D 0 14929 0 1
+D 0 14929 2 1
+D 0 14929 3 1
+D 0 14930 0 1
+D 0 14931 1 1
+D 0 14931 3 1
+D 0 14932 1 1
+D 0 14932 3 1
+D 0 14933 0 1
+D 0 14933 1 1
+D 0 14933 2 1
+D 0 14933 3 1
+D 0 14934 1 1
+D 0 14934 2 1
+D 0 14934 3 1
+D 0 14935 1 1
+D 0 14935 3 1
+D 0 14936 0 1
+D 0 14936 1 1
+D 0 14936 3 1
+D 0 14937 1 1
+D 0 14937 3 1
+D 0 14938 1 1
+D 0 14939 3 1
+D 0 14941 1 1
+D 0 14941 3 1
+D 0 14942 0 1
+D 0 14942 1 1
+D 0 14942 2 1
+D 0 14943 0 1
+D 0 14944 2 1
+D 0 14946 3 1
+D 0 14948 1 1
+D 0 14948 3 1
+D 0 14949 1 1
+M 0 14901 3 14901 10
+M 0 14903 3 14902 10
+M 0 14902 5 14902 10
+M 0 14903 2 14903 10
+M 0 14902 2 14903 10
+M 0 14905 1 14903 10
+E 0 14905 0 16
+M 0 14903 1 14904 10
+M 0 14902 1 14904 10
+M 0 14904 1 14904 10
+E 0 14904 0 16
+M 0 14951 3 14905 10
+M 0 14950 3 14905 10
+M 0 14950 1 14908 10
+M 0 14951 1 14908 10
+E 0 14905 0 16
+M 0 14902 4 14910 10
+M 0 14903 4 14910 10
+M 0 14905 1 14910 10
+E 0 14905 0 16
+O 0 14926 0 14911
+M 0 14902 3 14911 10
+M 0 14903 3 14911 10
+M 0 14902 5 14912 10
+M 0 14903 5 14912 10
+M 0 14902 3 14913 10
+M 0 14903 3 14913 10
+O 0 14917 0 14913
+M 0 14922 1 14916 10
+M 0 14923 1 14916 10
+O 0 14917 0 14917
+P 0 14921 0 1 10
+P 0 14920 0 1 10
+M 0 14923 3 14918 10
+M 0 14922 3 14918 10
+M 0 14922 1 14919 10
+M 0 14923 1 14919 10
+M 0 14923 1 14920 10
+M 0 14922 1 14920 10
+M 0 14923 3 14921 10
+M 0 14922 3 14921 10
+M 0 14922 2 14922 10
+M 0 14923 2 14922 10
+M 0 14923 3 14924 10
+M 0 14922 3 14924 10
+O 0 14925 0 14925
+M 0 14923 1 14926 10
+M 0 14922 1 14926 10
+M 0 14923 1 14927 10
+M 0 14922 1 14927 10
+M 0 14922 3 14927 10
+M 0 14929 1 14928 10
+M 0 14928 1 14928 10
+M 0 14928 1 14929 10
+M 0 14929 1 14929 10
+O 0 14901 0 14929
+M 0 14929 1 14930 10
+M 0 14928 1 14930 10
+M 0 14928 1 14931 10
+M 0 14929 1 14931 10
+O 0 14931 0 14931
+M 0 14929 3 14933 10
+M 0 14928 3 14933 10
+M 0 14929 2 14934 10
+M 0 14928 2 14934 10
+M 0 14928 1 14936 10
+M 0 14929 1 14936 10
+M 0 14929 2 14938 10
+M 0 14928 2 14938 10
+O 0 14901 0 14938
+M 0 14929 3 14940 10
+M 0 14928 3 14940 10
+M 0 14928 1 14942 10
+M 0 14929 1 14942 10
+O 0 14901 0 14942
+M 0 14928 3 14943 10
+M 0 14929 3 14943 10
+M 0 14929 1 14944 10
+M 0 14928 1 14944 10
+M 0 14928 2 14946 10
+M 0 14929 2 14946 10
+M 0 14929 2 14949 10
+M 0 14928 2 14949 10
+O 0 14900 0 14949
+O 0 14901 0 14949
+M 0 14950 5 14950 10
+M 0 14951 5 14951 10
+M 0 14954 3 14954 10
+G 0 14906 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

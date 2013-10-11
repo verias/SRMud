@@ -1,0 +1,412 @@
+#AREADATA
+Name {15 99} Lisken  Temple of Syncarth~
+Builders Lisken~
+VNUMs 11500 11599
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#11500
+strange creature weremefoust~
+A strange creature~
+A strange creature stares at you.
+~
+Before you is something that defies the rules set by any creature's
+physiological makeup.  Six cloven hooves allow the green-furred beast to
+remain aloof from the ground, standing at a disturbing nine feet tall.  The
+abdominal section of the beast is shaped like a deer, but emerging from this
+deerlike portion is a scaled midsection and torso.  Four thickly muscled
+arms erupt from this scaly torso and extend into seven-fingered claws, two
+opposeable thumbs on each massive hand.  The scaly neck holds up a strange
+looking head that is obviously devoid of fur and even scales, covered by a
+stretchy looking skin.  The mouth portion of the "face" looks as if it would
+open up diagonally in four directions, and could possibly even posess the
+ability to unhinge.  Three eyes, dark black, sit above the dangerous mouth
+area and a trio of eyestalks allow three more eyes to watch all portions of
+the area.  
+~
+unique~
+A 0 0 0
+75 0 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+0 B 0 0
+(null) (null) male 337
+ACGHMV ABCDEFGHIJKMQUV medium unknown
+#11501
+a beast~
+a malformed dog~
+A beast is here, looking an awful lot like a malformed dog.
+~
+{xFrom the back half to about the middle of this creature, the body is covered 
+in a gray fur, coating its muscular hind legs.  Somewhere near the middle of 
+the creature the fur changes to leathery skin.  It would be easy to call 
+this a dog were it not for the change that occurs halfway up its body, not 
+to mention that the front legs are more like claws than feet.  Its nose is 
+slightly larger than it seems that it should be for a creature this size.  
+Its back legs have massive paws that look as if they could adequately 
+support the weight of this creature standing up on them alone.  The glow of 
+yellow eyes mark this as a definitely unnatural creature.  You estimate 
+that, if standing on its hind legs, it would reach about five and a half 
+feet in heigth.  
+~
+unique~
+A CDEJOTUVc -1000 0
+100 10 12d1397+3920 100d10+100 6d11+29 shbite
+-35 -35 -35 -27
+FG BCN DLR CDFG
+(null) (null) male 450
+CHIKM ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#11500
+Map to Lemrox's Atelier~
+map to Lemrox's Atelier~
+A scrap of paper with scribbles on it is here.~
+unknown~
+map 0 A
+0 0 0 0 0
+0 2 1000 P
+E
+map~
+Thank you for choosing {YGeoff's Explorations{x for your directional needs!
+ 
+From Geoff's:
+Leave east onto Docker's Road.  Turn south along Docker's Road until you reach
+Discordia Road.  Head due west from this intersection past the farms of Discordia
+until you reach the foothills; the road will begin to curve to the north.  You
+will pass a road on the left leading to the city of Xian.  After treading north
+through the foothills you will find yourself at the gate of Lemrox's Atelier.
+~
+#11501
+an orb~
+a large glowing obsidian orb~
+Glowing and humming is a large spherical orb made from obsidian.~
+unknown~
+trash ABb A
+0 0 0 0 0
+0 100 1 P
+E
+orb~
+Perfectly round and immaculately ground by some intricate work, this 
+obsidian orb glows faintly from its own projected light.  Nothing can be 
+seen within its depths, save the sheen of the surface of the orb.  Barely 
+detectable is a hum emenating from the sphere.  It has a diameter of perhaps 
+five feet, and looks to be a perfect sphere.  It does not appear as if it 
+would be hollow.  
+~
+#11503
+a book leatherbound~
+a leatherbound book~
+A book bound in leather is here.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 20 1 P
+E
+book~
+This book is filled with ancient writing that appears to be of the period 
+between the first and second ancient wars; the script and character set is 
+atypical to that time period.  The script, however, is not one that is 
+easily recognized and will require translation and possibly even magically 
+broken--runic symbols curve up and down the sides of each page.  
+~
+#11504
+etched black leather sleeves~
+etched black leather sleeves~
+A pair of black leather sleeves are lying here with beautifully etched patterns on them.~
+unknown~
+armor AB AI
+E E E AC 0
+100 10 500 P
+A
+2 1
+A
+1 1
+A
+19 2
+A
+18 2
+E
+sleeves~
+These sleeves have been obviously crafted by someone who knows their trade.  
+They are bound via strong cloth straps.  
+~
+#0
+
+
+
+#ROOMS
+#11500
+At a Well~
+The trees in this area seem to be very spread out.  In the center of the 
+clearing, a circular stone edifice has been constructed.  It appears to be a 
+rudimentary well.  The stones that make up the wall of the well are grey and 
+mostly dusty, with vines and cracks tracing around it.  The top of the stone 
+is flat and smooth, allowing for ease of access to the water within.  
+~
+0 0 3
+D3
+~
+~
+~
+0 0 19017
+D5
+~
+~
+~
+0 0 11501
+M 0 H 0
+S
+#11501
+Within the Well~
+Darkness envelopes you as you are immersed in the waters of the well. 
+For a short moment, you feel almost nauseous, then the feeling passes.  It
+is very difficult to tell up from down while in this incredible darkness. 
+Perhaps it is best to try to exit this well in whatever way possible...  
+~
+0 0 13
+D4
+~
+~
+~
+0 0 11502
+M 0 H 0
+S
+#11502
+At a Well~
+The trees in this area seem to be spread out.  In the center of the 
+clearing, a circular stone edifice has been constructed.  It appears to be a 
+rudimentary well.  The stones that make up the wall of the well are grey and 
+mostly dusty, with vines and cracks tracing around it.  The top of the stone 
+circle is flat and smooth, allowing for ease of access to the water within 
+the well.  The foliage in the area seems to be darker and thicker to the 
+west, east, and south, leaving the northern path as the easiest exit to 
+take.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 11503
+D5
+~
+~
+~
+0 0 11501
+M 0 H 0
+S
+#11503
+A narrow path~
+The path begins to be constricted by the briars and thick branches from
+the trees to either side of it.  It is difficult to make any progress either
+north or south, and east or west is simply improbable.  To the south, there
+is a small clearing and some musty stones rest in a circle.  To the north,
+the terrain begins to shift uphill.  There is some kind of opening in the
+hill.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 11504
+D2
+~
+~
+~
+0 0 11502
+M 0 H 0
+S
+#11504
+Before a cave~
+{KHere, the path seems to have reached its end before this cavern
+entrance.  Dangerous looking and entirely too dark to see inside very far,
+this cave entrance stands approximately fifteen feet tall, bolstered by a
+pair of old wooden timbers.  Another segment of wood reinforces the roof of
+the entrance.  It appears as though these supports have been here for quite
+a while.  A musty smell pervades the air around the cave.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 11505
+D2
+~
+~
+~
+0 0 11503
+M 0 H 0
+S
+#11505
+A dank tunnel~
+Scattered torches illuminate this dark and dank tunnel, revealing the
+wooden support beams that reinforce it.  The floor and walls are made of
+packed earth, with streaks of red clay splattered in various places, with no
+distinct pattern.  The support beams occasionally creak, and every so often
+a low hum resonates almost unnoticed down the tunnel.  
+~
+0 8 5
+D0
+~
+~
+~
+0 0 11506
+D2
+~
+~
+~
+0 0 11504
+M 0 H 0
+S
+#11506
+A curving tunnel~
+The tunnel begins to take a curving turn south and east here, as well as
+down.  The dirt and clay walls now give way to natural stone walls, and the
+tunnel itself widens within this new medium.  There are no telltale marks of
+the tools used to chip out or carve this tunnel, leaving it either as a
+natural tunnel or one that has been meticulously made to look like one.  
+~
+0 8 5
+D1
+~
+~
+~
+0 0 11507
+D2
+~
+~
+~
+0 0 11505
+M 0 H 0
+S
+#11507
+In a Cavern before a Portal~
+This cavern is massive, and only a quartet of torches around this
+{mglowing{x portal provide any illumination.  Stalagmites and stalactites
+are scattered naturally throughout the cavern, catching the light from the
+torches and the light from the portal and sending it glimmering in strange
+patterns and shapes.  A low, barely perceptible hum emits from the portal. 
+A wind of unknown origin--perhaps from the portal itself--breezes
+occasionally through the cavern, carrying fragments of voices, words on it. 
+Whispers echo off of the walls.  
+~
+0 8 5
+E
+portal~
+The portal swirls about in a circular motion.  The voices emenate from the 
+portal, it seems, but they are indistinct.  Below the portal, some runic 
+symbols decorate the cavern floor depicting chaos.  Perhaps this is a shrine 
+of sorts?  
+~
+D3
+~
+~
+~
+0 0 11506
+M 0 H 0
+S
+#11508
+Central Cavern of Syncarth~
+A large {mportal{x glows in the center of this cavern, a whirling vortex
+that catches the eye and occasionally sends sparks of energy streaking
+through the air.  Large stone columns, carved in a twisted way that could
+not possibly be engineered, stretch to the ceiling of this cavern.  To the
+south, the cavern becomes smaller and becomes a sort of tunnel between this
+one and another cave.  Runic symbols stretch across the columns and walls
+here, entirely unreadable and indecipherable.  The room is lit by a
+{mpurplish light{x from the vortex in the center of the cavern.  Voices and
+whispers echo from the walls without anything actually causing them, or so
+it seems.  
+~
+0 8 5
+D2
+~
+~
+~
+0 0 11509
+M 0 H 0
+S
+#11509
+A tunnel between caverns~
+{mPurple light{x bathes the tunnel floor to the north, while to the south
+the glimmer of flickering torchlight is present.  This tunnel is
+nondescript, lacking furnishing or decor beyond the dark stone walls
+themselves.  Occasionally, the tunnel seems to shift, causing your vision to
+swim dangerously for a few short moments.  
+~
+0 8 5
+D0
+~
+~
+~
+0 0 11508
+D2
+~
+~
+~
+0 0 11510
+M 0 H 0
+S
+#11510
+Chamber of Lisken~
+This stone chamber is perfectly circular in shape.  The walls curve upwards,
+making the room something like an upside down bowl.  Beneath the center of the
+room, there is a chair crafted from intricately woven branches, growing up from
+the floor of the stone cavern.  Light is provided in this cavern from a set of
+torches lining the outside of the room.  Beneath the chair, there is something
+carved into the floor.
+~
+0 8 5
+E
+carved~
+Syncarth
+~
+E
+carved~
+Syncarth
+~
+D0
+~
+~
+~
+0 0 11509
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

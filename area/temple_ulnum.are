@@ -1,0 +1,1101 @@
+#AREADATA
+Name {15 99} Belic   Temple of Ulnum~
+Builders Belic~
+VNUMs 14300 14349
+Security 5
+End
+
+
+
+#MOBILES
+#14300
+Rock Troll~
+a rock troll~
+A grey skinned troll beats on the door here.
+~
+A small mountain pounds on the double doors here.  He stands about seven
+foot tall.  His skin is hard and grayish in color.  His arms are as large as
+branches on a tree.  His black eyes seem to hide a furious nature.  The only
+reason you do not mistaken him for a mountain is because he continues to
+beat on the door without pause. 
+~
+Rock-Golem~
+AB Za 0 S
+60 0 10d167+1149 50d10+100 5d6+13 0
+-9 -9 -9 -7
+0 I F 0
+9 9 0 270
+EHM ABCGH M unknown
+#14301
+a goblin~
+a goblin~
+This goblin is a snotty green color. To top it off, he's picking his nose.
+~
+This goblin looks dumbfounded as he searches for the booger that itches
+his nostril so. He stares at you blankly as he continues to pick at his
+nose, not even intelligent enough to pick up his club and rush at you. 
+~
+Goblin~
+A J 0 S
+55 0 11d216+1345 220d10+100 5d7+16 17
+-11 -11 -11 -9
+0 Q 0 CP
+9 9 1 247
+AHMV ABCDEFGHIJK M unknown
+#14302
+female goblin~
+a female goblin~
+This goblin can be envisioned as a female... maybe.
+~
+The only features that might tip one off to this creature being female
+include a rather ugly rack and waist-length straggly hair of a dark green
+hue. 
+~
+Goblin~
+A J 0 S
+53 0 11d195+1265 212d10+100 5d6+16 0
+-10 -10 -10 -8
+0 Q 0 CP
+9 9 2 238
+AHMV ABCDEFGHIJK M unknown
+#14303
+a miniature goblin~
+miniature goblin~
+This must be a child, it's a goblin--in miniature.
+~
+This must be a goblin child, for it is a pint-sized and ugly thing with
+snot green skin and olive green hair. Its features are sharp, but it's hard
+to tell if it is a male or female. 
+~
+Goblin~
+A J 0 S
+50 0 10d167+1149 200d10+100 5d6+13 0
+-9 -9 -9 -7
+0 Q 0 CP
+9 9 0 225
+AHMV ABCDEFGHIJK M unknown
+#14304
+orc~
+an orc~
+This orc walks about with an odd gait.
+~
+Grey flesh the same tone as the mountain rock covers this ugly creature.
+A stench that is heavy enough to make the stomach churn emanates from it. 
+This could be none other than an orc. 
+~
+Orc~
+A J 0 S
+57 0 11d239+1429 228d10+100 5d7+17 0
+-12 -12 -12 -10
+0 0 Q S
+9 9 1 256
+AHMV ABCDEFGHIJKWY M unknown
+#14305
+dwarven maid wench~
+a dwarven wench~
+This maid hurries to set hot plates of food down for the waiting fighters.
+~
+This dwarf is only recognizable as a female due to its breasts poking
+through its beard's braids. She is one of the few serving wenches that has
+been enlisted to help serve each batch of fighters that come to the mess
+hall to eat. 
+~
+Mountain Dwarf~
+AB J 0 S
+55 0 11d216+1345 220d10+100 5d7+16 0
+-11 -11 -11 -9
+0 0 CLQ R
+9 9 2 247
+AGHMNV ABCDEFGHIJKLQ M unknown
+#14306
+dwarf~
+a dwarf~
+A dwarf sits at the table, shoveling hot food into its mouth.
+~
+Gleaming armor makes it impossible to see the figure of this dwarf. Due
+to the nature of their kind, where both have beards and rough features, it
+could easily be either. It is shoveling food into its mouth like it hasn't
+eaten in a week. 
+~
+Mountain Dwarf~
+AB J 0 S
+57 0 11d239+1429 228d10+100 5d7+17 0
+-12 -12 -12 -10
+0 0 CLQ R
+7 7 3 256
+AHMV ABCDEFGHIJK M unknown
+#14307
+dwarven guard dwarf~
+a dwarven guard~
+This dwarven guard stands ready to help fend off the next wave.
+~
+This dwarf is decked in shining mithril armor.  It is impossible whether
+to tell if it is a male or female, but they both seem to fight rather
+fiercely.  They hold a wicked-looking double axe, so it might be best not to
+look or smell like an orc or goblin around them.  
+~
+Mountain Dwarf~
+AB J 0 S
+63 0 11d321+1694 252d10+100 5d8+18 0
+-15 -15 -15 -12
+R 0 CLQ R
+9 9 3 283
+AHMV ABCDEFGHIJK M unknown
+#14308
+training dwarf~
+a training dwarf~
+This dwarf is trying to train here, to help fight the war.
+~
+This dwarf is training arduously in hopes of helping to defend the
+kingdom from the orc and goblin sieges. It is difficult to tell whether the
+creature is male or female, but then again it doesn't seem to matter. 
+~
+Mountain Dwarf~
+AB J 0 S
+60 0 11d277+1559 240d10+100 5d7+19 0
+-13 -13 -13 -11
+0 0 CLQ R
+9 9 3 270
+AHMV ABCDEFGHIJK M unknown
+#14309
+Arnold dwarf guard captain~
+Captain Arnold~
+Arnold the captain of the dwarf guards is here, readying his repeating cross bow.
+~
+Arnold is burly even for a dwarf, possessing powerful looking arms and a
+lush red beard.  His dark eyes hold a steely glint as he readies himself for
+the battles to come.  Sticking out between his bearded lips a thick cigar
+can be seen sending forth plumes of foul smoke.  In his hands he holds a
+weapon of gnomish invention, a feared repeating crossbow.  He glances up and
+says, {G'Hasta la vista...Baby.'{x 
+~
+Mountain Dwarf~
+AQ JV 0 S
+65 0 11d352+1789 260d10+100 5d8+19 17
+-15 -15 -15 -13
+CHR 0 CLQ R
+9 9 1 292
+AHMV ABCDEFGHIJK M unknown
+#14310
+dwarf king Brilif~
+Brilif~
+The dwarf king, Brilif, perches on his throne.
+~
+The dwarf king Brilif looks rather upset as he slumps in his throne here.
+He is constantly muttering about the orcs and goblins that have nearly
+overtaken them. 
+~
+Mountain Dwarf~
+AB J 0 S
+65 0 11d352+1789 260d10+100 5d8+19 0
+-15 -15 -15 -13
+0 0 CLQ R
+7 9 1 292
+AHMV ABCDEFGHIJK M unknown
+#14311
+dwarf guard treasure~
+a dwarf~
+This dwarf stands guard over the treasury.
+~
+This dwarf has been enlisted to watch for thieves, since he is too old to
+fight the brood of orcs and goblins infiltrating.  He wears the same heavy
+armor and moves slowly, but still looks like he shouldn't be messed with. 
+~
+Mountain Dwarf~
+AB J 0 S
+61 0 11d291+1603 244d10+100 5d7+19 0
+-14 -14 -14 -12
+0 0 CLQ R
+9 9 3 274
+AHMV ABCDEFGHIJK M unknown
+#14312
+dwarvan woman cook~
+a dwarven cook~
+A dwarven woman is here, trying to plan the next meal.
+~
+This dwarf woman's hair has been braided back to keep it from draping
+into the food she is busy preparing. She grunts a little to acknowledge the
+wenches when they come in to gather food and let her and the other cooks to
+know how many have just been released to eat. 
+~
+Mountain Dwarf~
+AB J 0 S
+59 0 11d264+1514 236d10+100 5d7+18 0
+-13 -13 -13 -11
+0 0 CLQ R
+9 9 2 265
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#14300
+black orb~
+a {Kblack{x orb~
+This {Kblack{x orb shimmers and seems to suck in all of the surrounding light.~
+unknown~
+1 0 AO 0
+0 0 999 0 0
+1 1 300 P
+0 ABCDE
+#14301
+helmet gleam mithril~
+a mithril helmet~
+A mithril helmet gleams from where it was dropped.~
+unknown~
+9 0 AE 0
+BD BD BD AB 0
+60 7 500 P
+0 BC
+#14302
+mithril breastplate~
+a mithril breastplate~
+Mithril glitters on the breastplate.~
+unknown~
+9 0 AD 0
+BD BD BD AB 0
+60 7 500 P
+A
+17 -5
+0 BC
+#14303
+mithril shiny leggings~
+mithril leggings~
+A pair of shiny leggings made of mithril are here.~
+unknown~
+9 0 AF 0
+BD BD BD AB 0
+60 7 500 P
+0 BC
+#14304
+boots mithril shiny~
+mithril boots~
+Some shiny mithril boots are here.~
+unknown~
+9 0 AG 0
+BD BD BD AB 0
+60 7 500 P
+0 BC
+#14305
+mithril shiny gloves~
+mithril gloves~
+These gloves are very shiny and appear to be made of mithril.~
+unknown~
+9 0 AH 0
+BD BD BD AB 0
+60 7 500 P
+0 BC
+#14306
+axe mithril~
+a double-headed axe~
+This axe is made from mithril and has a double head.~
+unknown~
+5 0 AN 0
+AC BD CD AB H
+63 7 500 P
+0 BC
+#14307
+mithril hammer~
+a mithril hammer~
+A hammer made of shiny mithril is here.~
+unknown~
+5 0 AN 0
+C ABCDE AB ABDE 0
+60 7 300 P
+0 BC
+#14309
+repeating cross bow~
+a repeating crossbow~
+A large and dangerous looking repeating crossbow has been carelessly left here.~
+unknown~
+3 G AOP 0
+ABDG BC BC 270 0
+65 6 1000 P
+0 BCD
+#14310
+diamond necklace~
+a diamond necklace~
+A flawless string of diamonds glitter here.~
+unknown~
+27 0 AC 0
+C C C A 0
+25 0 0 P
+L
+flashing brightly~
+0 0
+#14315
+engagement ring~
+an engagement ring~
+A golden ring engraved with the words, "Always and Forever."~
+unknown~
+8 0 AB 0
+0 0 0 0 0
+15 0 150 P
+0 0
+#14317
+bangle~
+a silver bangle~
+A tarnished silver bangle.~
+unknown~
+8 0 AM 0
+0 0 0 0 0
+0 0 30 P
+0 0
+#14318
+bracelet~
+a golden bracelet~
+Fake gold chips fall of the bracelet.~
+unknown~
+8 0 AM 0
+0 0 0 0 0
+0 0 500 P
+0 0
+#14327
+locker~
+a heavy locker~
+A heavy locker.~
+unknown~
+15 R 0 0
+FHJKPQ AF 0 0 0
+100 0 0 P
+0 0
+#14329
+ThunderBringer~
+thunderBringer~
+A bolt of lightning molded into the form of an axe.~
+unknown~
+5 0 AN 0
+AC AD BCD AB H
+65 7 500 P
+0 BC
+#14331
+ring~
+a flawless diamond ring~
+A beautiful ring lies here.~
+unknown~
+8 0 AB 0
+0 0 0 0 0
+100 0 10000 P
+0 0
+#14332
+ruined sapphire gem~
+a ruined sapphire~
+This sapphire has been cracked and pitted.~
+unknown~
+13 R A 0
+0 0 0 0 0
+0 0 0 P
+0 B
+#14333
+split emerald~
+a split emerald~
+This emerald has been split in half.~
+unknown~
+13 R A 0
+0 0 0 0 0
+0 0 0 P
+0 B
+#14334
+red stone dull ruby~
+a dull red stone~
+This dull red stone just might be a ruby.~
+unknown~
+18 R A 0
+0 0 0 0 0
+0 0 0 P
+0 B
+#0
+
+
+
+#ROOMS
+#14300
+Deep in the Mountain~
+The walls of the tunnel are smooth and cool.  The hallway itself is no
+longer lit by flaming torches, but by some unseen power.  Etched into the
+the mountain.  Wall is the dwarven word "Ul'Haggen".  The hall continues to
+run north under the mountain.  
+~
+0 8 0
+D0
+~
+~
+0 0 14301
+D2
+~
+~
+0 0 13550
+S
+#14301
+Deeper into the Mountain~
+The walls are smooth save for the few dwarven runes that are carved into
+the wall.  Near the floor, sheets of gold have been pressed into the wall. 
+These reflect the light more keenly into the hall.  You may continue to the
+north or south.  
+~
+0 8 0
+D0
+~
+~
+0 0 14302
+D2
+~
+~
+0 0 14300
+S
+#14302
+Vast Cavern~
+You are awestruck as you step in the room.  The room is cover in gold
+from the floor to the ceiling.  Columns stand in rows about every ten feet. 
+These columns are covered in silver and precious stones.  Exits appear in
+all of the cardinal directions.  
+~
+0 8 0
+D0
+~
+~
+0 0 14303
+D1
+~
+~
+0 0 14304
+D2
+~
+~
+0 0 14301
+D3
+~
+~
+0 0 14305
+S
+#14303
+Vast Cavern~
+You are awestruck as you step in the room.  The room is cover in gold
+from the floor to the ceiling.  Columns stand in rows about every ten feet. 
+These columns are covered in silver and precious stones.  Exits appear in
+all of the cardinal directions.  
+~
+0 8 0
+D0
+~
+~
+0 0 14308
+D1
+~
+~
+0 0 14306
+D2
+~
+~
+0 0 14302
+D3
+~
+~
+0 0 14307
+S
+#14304
+Corner Chamber~
+This is an elaborate room that is decorated in precious metals.  Against
+the wall stands a small alter that is piled high with glittering gems.  A
+faint glow comes from the alter, causing a rainbow effect as the light
+passes through the gems.  You may exit to the west.  
+~
+0 8 0
+D3
+~
+~
+0 0 14302
+S
+#14305
+Corner Chamber~
+This is an elaborate room that is decorated in precious metals.  Against
+the wall stands a small alter that is piled high with glittering gems.  A
+faint glow comes from the alter, causing a rainbow effect as the light
+passes through the gems.  You may exit to the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 14302
+S
+#14306
+Treasure Room~
+This cavernous room is laden with gold and silver, precious gems and
+mithril.  Each had been piled into neat stacks, but now lay toppled over and
+mixed upon the floor.  Gold coins lay among silver bars, rubies, diamonds,
+and mithril sheets.  More than a kings ransom lays at your feet, but seems
+to be protected by an unseen force.  You may exit to the west.  
+~
+0 8 0
+D3
+~
+~
+0 0 14303
+S
+#14307
+Treasure Room~
+This cavernous room is laden with gold and silver, precious gems and
+mithril.  Each had been piled into neat stacks, but now lay toppled over and
+mixed upon the floor.  Gold coins lay among silver bars, rubies, diamonds,
+and mithril sheets.  More than a kings ransom lays at your feet, but seems
+to be protected by an unseen force.  You may exit to the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 14303
+S
+#14308
+Vast Cavern~
+The crafted hallway narrows slightly, seeming to taper to an endpoint
+right before you.  You get the feeling that the mountain is trying to
+squeeze in upon you.  The feeling stops at the back of the chamber as you
+stand over a staircase that leads downward.  
+~
+0 8 0
+D2
+~
+~
+0 0 14303
+D5
+~
+~
+0 0 14309
+S
+#14309
+Silver Hallway~
+You find yourself in a silver hallway.  Torches have been set in small
+silver rings along the walls to light your way forward.  You get the feeling
+that you are being watched as you walk down the hall.  No, it is more than a
+feeling, it is a sensation deep within you that tells you that you walk upon
+holy ground.  
+~
+0 12 0
+D0
+~
+~
+0 0 14310
+D4
+~
+~
+0 0 14308
+S
+#14310
+Silver Hallway~
+You are at the end of the hallway.  The precious metal that helps to
+illuminate the hallway is as finely crafted as any you have ever seen. 
+Fine, small script runs along the wall, seeming to change as you look at it.
+As you watch the script, you notice that it is forming a staircase that
+leads upward.  
+~
+0 8 0
+D2
+~
+~
+0 0 14309
+D4
+~
+~
+0 0 14311
+S
+#14311
+Golden Hallway~
+The walls are covered completely in gold.  Crafted from the purest of
+gold, the hall gleams with amazing beauty.  A feeling of peace begins to
+descend upon you, one that puts your mind at ease.  The feeling turns to
+terror as you start to covet the gold of the wall.  
+~
+0 8 0
+D0
+~
+~
+0 0 14312
+D5
+~
+~
+0 0 14310
+S
+#14312
+Golden Hallway~
+The walls are covered completely in gold.  Crafted from the purest of
+gold, the hall gleams with amazing beauty.  A feeling of peace begins to
+descend upon you, one that puts your mind at ease.  The feeling turns to
+terror as you start to covet the gold of the wall.  A small step over in the
+corner leads to an incline that leads up to a higher level.  
+~
+0 8 0
+D2
+~
+~
+0 0 14311
+D4
+~
+~
+0 0 14313
+S
+#14313
+Platinum Hallway~
+The hallway you find yourself in is constructed in platinum from floor to
+ceiling.  Everything, the columns, the handrails in the walls, even the
+statues.  The feeling of being watched becomes more evident to you as the
+hair on your arms begin to rise.  At first, you think you should turn back,
+but a force seems to be pushing you along.  
+~
+0 8 0
+D2
+~
+~
+0 0 14314
+D5
+~
+~
+0 0 14312
+S
+#14314
+Platinum Hallway~
+The hallway you find yourself in is constructed in platinum from floor to
+ceiling.  Everything, the columns, the handrails in the walls, even the
+statues.  The feeling of being watched becomes more evident to you as the
+hair on your arms begin to rise.  At first, you think you should turn back,
+but a force seems to be pushing you along.  
+~
+0 8 0
+D0
+~
+~
+0 0 14313
+D2
+~
+~
+0 0 14315
+S
+#14315
+Platinum Hallway~
+The hallway you find yourself in is constructed in platinum from floor to
+ceiling.  Everything, the columns, the handrails in the walls, even the
+statues.  The feeling of being watched becomes more evident to you as the
+hair on your arms begin to rise.  At first, you think you should turn back,
+but a force seems to be pushing you along.  You notice a bright glow coming
+from a staircase to your north.  You think you hear voices calling you
+upward.  
+~
+0 12 0
+D0
+~
+~
+0 0 14314
+D4
+~
+~
+0 0 14316
+S
+#14316
+Mithril Hallway~
+This is the most lavish hallway you have ever seen.  The hall is covered
+in mithril, the greatest treasure to all the dwarves.  The details of the
+room are immaculate.  Murals are carved into the walls telling stories of
+the first dwarves and there journey into the mountains.  You are awestruck
+by the detail of the history.  A set of double doors set into the southern
+wall look rather battered. 
+~
+0 8 0
+D2
+~
+~
+1 14334 14317
+D5
+~
+~
+0 0 14315
+S
+#14317
+Mithril Hallway~
+This is the most lavish hallway you have ever seen.  The hall is covered
+in mithril, the greatest treasure to all the dwarves.  The details of the
+room are immaculate.  Murals are carved into the walls telling stories of
+the first meeting between the dwarves and the god of the mountain.  Exits
+lead in each of the cardinal directions, though a pair of scarred double
+doors block easy travel to the north.  
+~
+0 8 0
+D0
+~
+~
+1 14334 14316
+D1
+~
+~
+0 0 14320
+D2
+~
+~
+0 0 14318
+D3
+~
+~
+0 0 14321
+S
+#14318
+Mithril Hallway~
+This is the most lavish hallway you have ever seen.  The hall is covered
+in mithril, the greatest treasure to all the dwarves.  The details of the
+room are immaculate.  Murals are carved into the walls telling of the
+dwarves offer to the god of the mountain.  
+~
+0 8 0
+D0
+~
+~
+0 0 14317
+D1
+~
+~
+0 0 14322
+D2
+~
+~
+0 0 14319
+D3
+~
+~
+0 0 14323
+S
+#14319
+Outside a Carved Palace~
+The hallway ends at the entrance to of a grand palace.  Unlike those
+above ground, this palace seems to be carved right into the walls of the
+mountain, making it impossible to be breached.  A brilliant glow comes
+flooding through the door and spilling out into the hallway.  
+~
+0 8 0
+D0
+~
+~
+0 0 14318
+D2
+~
+~
+0 0 14330
+S
+#14320
+Outside a Palace~
+This greatly detailed mithril hall seems to lead to a place of rest,
+though a glimpse through the open doors shows it is empty of mirth or cheer.
+A bare bones shift of dwarven women scurry about to try to prepare meals for
+the shifts of soldiers. 
+~
+0 8 0
+D1
+~
+~
+0 0 14324
+D3
+~
+~
+0 0 14317
+S
+#14321
+Outside a Palace~
+You find yourself outside a small, block shaped palace.  The outside
+seems to be covered with weapons.  Fine axes and long swords line each side
+of the single door.  Sounds of weapons clashing come to your ears as you
+stand outside.  You hear a long yell of pain and can't help but smile.  
+~
+0 8 0
+D1
+~
+~
+0 0 14317
+D3
+~
+~
+0 0 14325
+S
+#14322
+Outside a Palace~
+You stand outside a unique looking palace.  Columns have been carved into
+the wall to go along with the palace front.  The smell of roasted meat
+floats on the air through the open door.  A odor so delicious that your
+mouth begins to water at the first hint of it.  
+~
+0 8 0
+D1
+~
+~
+0 0 14326
+D3
+~
+~
+0 0 14318
+S
+#14323
+Outside a Palace~
+You stand outside a palace the seems to rise right out of nothingness. 
+To say that it is huge is to make an understatement.  If not for the sheer
+bulk of the palace, the gems that hang inside the wall facing would be
+enough to stop you in your tracks.  Surely you must enter to see the
+treasure inside.  
+~
+0 8 0
+D1
+~
+~
+0 0 14318
+D3
+~
+~
+0 0 14327
+S
+#14324
+The Palace of Desire~
+The room looks much like a long banquet hall, but larger than any banquet
+hall you have ever heard of.  Bars line the wall about every twelve to
+sixteen feet.  The strongest liquors ever known sit behind them, awaiting
+for dwarven consumption. The hall is not crowded at all now in this time of
+war, and instead seats a shift of dwarves that have been given leave to eat.
+Dwarven women scurry about busily to try to make the fighters more
+comfortable and make sure they have enough food prepared for the next group
+of fighters. 
+~
+0 8 0
+D2
+~
+~
+0 0 14326
+D3
+~
+~
+0 0 14320
+S
+#14325
+Palace of War~
+Dwarves are in various positions of rest or getting ready for battling
+the orcs and goblins that have invaded their mountain keep.  Weapons of all
+types line the walls, gleaming in the light.  Some dwarves have taken to the
+reparation of old armor and weapons, to try to brace for the next onslaught.
+~
+0 8 0
+D1
+~
+~
+0 0 14321
+S
+#14326
+Palace of Want~
+This is the largest kitchen you have ever seen.  Table after table is
+laden with food, so much so, that many of the tables seem ready to break
+under all the weight.  Cooked hams and smoked turkeys, roasted venison and
+fried rootmot fill the table closest to you.  You could feast forever here
+and never go hungry.  
+~
+0 8 0
+D0
+~
+~
+0 0 14324
+D3
+~
+~
+0 0 14322
+S
+#14327
+Palace of Treasure~
+You mind can't handle what you are seeing.  Miles upon miles of precious
+gems and metals fill the room.  If a dwarf had an afterlife, surely this is
+what it would be.  You have the feeling that someone is watching you as you
+walk among the treasure.  
+~
+0 8 0
+D1
+~
+~
+0 0 14323
+S
+#14328
+~
+~
+0 4 0
+S
+#14329
+~
+~
+0 4 0
+S
+#14330
+The Throne Room~
+You realize now that you are standing before the throne of the dwarven
+king.  Set against the wall, it is impressive.  A base made from pure gold,
+the support of the chair is from mithril.  The cushion of the chair is of
+the finest silk and the armrest is encrusted with precious gems.  The hall
+narrows as it nears the throne.  
+~
+0 8 0
+D0
+~
+~
+0 0 14319
+S
+#14331
+Shrine of Ulnum~
+This shrine looks like a treasury house.  Treasures of all types decorate
+the room.  The center of the room is decorated with a single orb.  The orb
+shines brightly, illuminating all the precious minerals that are housed
+there.  The far wall is made of gold, with an image of a dwarf with a giant
+hammer stamped into it.  
+~
+0 12 0
+E
+orb~
+You see the mountain.  Then a flash, you see inside the mountain and
+behold the hall of gold.  
+~
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 14316 2 1
+D 0 14317 0 1
+M 0 14302 7 14300
+M 0 14301 7 14300
+M 0 14303 10 14300
+M 0 14302 7 14301
+M 0 14301 7 14301
+M 0 14303 10 14301
+M 0 14302 7 14302
+M 0 14301 7 14302
+M 0 14303 10 14302
+M 0 14302 7 14303
+M 0 14301 7 14303
+M 0 14303 10 14303
+O 0 14334 0 14304
+O 0 14333 0 14304
+O 0 14332 0 14304
+M 0 14302 7 14304
+M 0 14301 7 14304
+M 0 14303 10 14304
+M 0 14302 7 14305
+M 0 14301 7 14305
+M 0 14303 10 14305
+M 0 14302 7 14306
+M 0 14301 7 14306
+M 0 14303 10 14306
+M 0 14302 7 14307
+M 0 14301 7 14307
+M 0 14303 10 14307
+M 0 14302 7 14308
+M 0 14301 7 14308
+M 0 14303 10 14308
+M 0 14304 10 14310
+M 0 14304 10 14311
+M 0 14304 10 14312
+M 0 14304 10 14313
+M 0 14304 10 14314
+M 0 14300 1 14316
+M 0 14307 10 14317
+E 0 14301 0 0
+E 0 14302 0 0
+E 0 14303 0 0
+E 0 14304 0 0
+E 0 14305 0 0
+E 0 14306 0 0
+M 0 14307 10 14318
+E 0 14301 0 0
+E 0 14302 0 0
+E 0 14303 0 0
+E 0 14304 0 0
+E 0 14305 0 0
+E 0 14306 0 0
+M 0 14307 10 14319
+E 0 14301 0 0
+E 0 14302 0 0
+E 0 14303 0 0
+E 0 14304 0 0
+E 0 14305 0 0
+E 0 14306 0 0
+M 0 14309 1 14319
+E 0 14309 0 0
+E 0 14305 0 0
+E 0 14304 0 0
+E 0 14303 0 0
+E 0 14302 0 0
+E 0 14301 0 0
+E 0 14300 0 0
+M 0 14307 10 14320
+E 0 14301 0 0
+E 0 14302 0 0
+E 0 14303 0 0
+E 0 14304 0 0
+E 0 14305 0 0
+E 0 14306 0 0
+M 0 14307 10 14321
+E 0 14301 0 0
+E 0 14302 0 0
+E 0 14303 0 0
+E 0 14304 0 0
+E 0 14305 0 0
+E 0 14306 0 0
+M 0 14307 10 14322
+E 0 14301 0 0
+E 0 14302 0 0
+E 0 14303 0 0
+E 0 14304 0 0
+E 0 14305 0 0
+E 0 14306 0 0
+M 0 14307 10 14323
+E 0 14301 0 0
+E 0 14302 0 0
+E 0 14303 0 0
+E 0 14304 0 0
+E 0 14305 0 0
+E 0 14306 0 0
+M 0 14305 3 14324
+M 0 14306 8 14324
+E 0 14302 0 0
+M 0 14308 8 14325
+E 0 14307 0 0
+E 0 14302 0 0
+E 0 14304 0 0
+E 0 14303 0 0
+M 0 14312 7 14326
+M 0 14311 5 14327
+O 0 14327 0 14327
+P 0 14331 0 14327
+P 0 14317 0 14327
+P 0 14315 0 14327
+P 0 14310 0 14327
+P 0 14318 0 14327
+P 0 14318 0 14327
+P 0 14317 0 14327
+P 0 14315 0 14327
+M 0 14310 1 14330
+E 0 14329 0 0
+E 0 14305 0 0
+E 0 14304 0 0
+E 0 14303 0 0
+E 0 14302 0 0
+E 0 14301 0 0
+E 0 14300 0 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

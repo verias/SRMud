@@ -1,0 +1,1603 @@
+#AREADATA
+Name { ALL } Kardign Guild of Magic~
+Builders Kardigan~
+VNUMs 2101 2169
+Security 1
+End
+
+
+
+#MOBILES
+#2101
+Tralen~
+Tralen the healer~
+Tralen the healer stands prepared to aid the wounded.
+~
+Covered in a long flowing gown, this elegant Elf stands tall.  Her face,
+the only part of her which lies uncovered besides her hands is flawless and
+beautiful.  Her dark black hair is pulled back into a single pony tail, to
+keep it out of her way while she works.  Her green eyes seem to capture your
+gaze and find even the tiniest of details in which to comment over.  This
+along with the healing power she posesses makes her a master at her craft.  
+~
+unique~
+ABTW J 0 S
+100 100 12d1397+3920 100d10+100 6d11+29 0
+-35 -35 -35 -27
+0 ABCDLPQ B 0
+9 9 2 450
+AHMV ABCDEFGHIJK M unknown
+#2102
+Magic Guild Guard~
+a guild guard~
+A guard stands at attention, ready to defend the Guild of Magic.
+~
+Tall and willowy, this female human is nothing short of beautiful.  Her
+long blonde hair is pulled back into a ponytail behind her head.  Her hazel
+eyes constantly scan the area, as though searching for threats, and the
+intelligent glint in them belies that she is an ordinary woman.  She is
+dressed not as a lady, but as one who knows the duty she performs is of the
+most importance.  
+~
+unique~
+AB HOTUVc 350 S
+102 85 20d2000+6000 408d10+100 20d20+50 19
+-75 -75 -75 -70
+AH ABP CL CN
+9 9 2 459
+ACGHLMV ABCDEFGHIJK M unknown
+#2103
+Artimoris Guild Trainer~
+Artimoris~
+A figure in white robes stands solemnly near the back wall.
+~
+Covered in a long white flowing robe, few features can be made out about
+this human.  His face is shrouded in shadows, only enhanced by the
+flickering shadows from the dim lighting.  He stands ready to aid you with
+your training and practice needs.  
+~
+Human~
+ABJK 0 0 S
+100 0 12d1397+3920 100d10+100 6d11+29 0
+-35 -35 -35 -27
+0 B 0 M
+9 9 1 450
+ACGHMV ABCDEFGHIJKO M unknown
+#2104
+sans cat silver tabby~
+a small silver tabby~
+A small silver tabby can barely be seen in the shadows.
+~
+This small feline is a silver tabby with black markings.  Emblazoned on
+her chest is a star-shaped marking of a white that is as pure as snow.  Its
+nose is mottled pink and black with white whiskers at either side.  Her eyes
+are huge and green, rimmed with the same black as the slit in the middle. 
+She is a very small kitty, a fact that her fluffy fur cannot hide.  
+~
+Cat~
+AIRW Z 0 S
+1 0 1d2+8 1d10+100 1d1+0 0
+9 9 9 10
+FH ACDE 0 0
+9 9 2 4
+AGV ACDEFHJKUV S unknown
+#2105
+bee~
+a giant bumble bee~
+A giant bumble bee buzzes around, looking for flowers to pollinate.
+~
+This giant insect greatly resembles an ordinary bumble-bee, except for
+its size.  It is covered in yellow and black stripes and has furred black
+legs while its wings are a translucent white color.  The antennae of this
+creature move nearly constantly, almost as if seeking something.  
+~
+Song Bird~
+ABEI T 0 S
+15 0 5d31+200 15d10+100 2d4+2 26
+4 4 4 6
+FH A FG EI
+9 9 0 67
+AGW ACDEFHKOP M unknown
+#2106
+fox squirrel~
+a red-brown fox squirrel~
+A creature known as a fox squirrel is here, cleaning its paw.
+~
+This foot-tall creature is covered in fur that varies between red and
+brown rings of colour.  Its ears are oversized for its small head, as are
+its large red-brown eyes that seem to take everything in.  Small tufts of
+white hair can be seen originating from somewhere inside the ear, their
+color perfectly matched to the emblazoned star upon its chest.  It has a
+slim snout with a fox-like nose and many very sharp teeth.  It's legs are a
+little short, but slender to match the fox-squirrel's form, each one ending
+in dark brown fur that resembles socks.  
+~
+Fox~
+ABEI CDEFJNQZ 0 S
+15 0 5d31+200 15d10+100 2d4+2 0
+4 4 4 6
+FH A IPQR H
+9 9 0 67
+AGV ACDEFHJKPUV M unknown
+#2107
+gray brown mouse~
+a small gray and brown mouse~
+This small gray and brown mouse darts around, looking for a place to hide.
+~
+Covered in soft gray and brown fur, this tiny mouse looks adorably cute. 
+Its long whiskers extend from its twitching nose as it darts about,
+searching for food and a place to hide.  Its feet are covered in a grayish
+white fur, making it appear as though it were wearing socks.  
+~
+Rabbit~
+A 0 0 S
+15 0 5d31+200 15d10+100 2d4+2 0
+4 4 4 6
+FH A 0 0
+9 9 2 67
+AGV ACDEFHJKP T unknown
+#0
+
+
+
+#OBJECTS
+#2101
+Archway~
+an arched doorway~
+This arched doorway is the entrance to the Guild of Magic. The wood is of a deep and heavy looking mahogany finish, strapped together with heavy bars of iron. A glow seems to permeate it as it does the rest of this large building.~
+unknown~
+29 AR 0 0
+0 31 1 2102 2102
+1 0 0 P
+0 0
+#2102
+glowing key~
+a glowing key~
+A glowing key of a magical nature floats in the air.~
+unknown~
+18 W AO 0
+0 0 0 0 0
+1 1 5 P
+0 0
+#2103
+White Leather Couch~
+a white leather couch~
+A deeply cushioned white leather couch looks inviting.~
+unknown~
+12 R 0 AEIQ
+0 0 0 0 0
+0 0 0 P
+0 0
+#2104
+green glowing key~
+a green glowing key~
+A green glowing key has been left here.~
+unknown~
+18 W AO 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#2105
+Leather Chair~
+a leather chair~
+A comfortable looking leather chair.~
+unknown~
+12 R 0 A
+0 0 0 0 0
+0 0 0 P
+0 0
+#2106
+Cot~
+a small cot~
+A comfortable looking cot has been placed here for the sick to lie upon.~
+unknown~
+12 R 0 IQ
+0 0 0 0 0
+0 0 0 P
+0 0
+#2107
+Repair Potion~
+a potion of repair~
+This plain looking bottle is filled with a strangely glowing fluid. The words 'Potion of Repair' has been printed carefully along its front.~
+unknown~
+10 0 A 0
+50 203 43 14 0
+20 0 600 P
+0 0
+#2108
+Magic Guild Portal~
+a portal to the magic guild~
+The grand foyer of the Guild of Magic can be seen through this swirling portal.~
+unknown~
+29 0 A 0
+1 0 1 2101 0
+1 0 100 P
+0 0
+#2109
+Small Table~
+a small table~
+This small table has been pushed against the wall.~
+unknown~
+15 R 0 0
+BEF 0 0 0 0
+0 0 0 P
+0 0
+#2110
+Guild Library Paper~
+a neatly printed paper~
+This neatly printed paper has been drawn up with great care.~
+unknown~
+8 0 AO 0
+0 0 0 0 0
+0 0 1 P
+E
+guild library paper~
+The Library of the Guild of Magic
+
+South-East -- Protective Magic
+North-East -- Enchantment Magic
+North      -- Offensive Magic
+North-West -- Maladictions
+South-West -- Unknown Magic
+ 
+Please do not remove any materials
+from the Guild under any circumstances.
+ 
+Maglos Nefriti
+Arch-Mage
+~
+0 0
+#2111
+Glowing Orb~
+a glowing orb~
+This glowing orb seems to hum with magical energy.~
+unknown~
+1 AB AO 0
+0 0 999 0 0
+15 0 0 P
+A
+24 -5
+L
+glowing faintly~
+0 0
+#2112
+Blue Red Sleeves~
+blue and red sleeves~
+A pair of blue and red sleeves lie here, a symbol of the guild of magic is evident upon them.~
+unknown~
+9 0 AI 0
+E E E AC 0
+100 0 500 P
+A
+3 2
+A
+12 50
+0 0
+#2113
+Magic Guild Mace~
+a red and blue mace~
+This red and blue mace hums with magical energy. The symbol of the Guild of Magic is visible upon it's handle.~
+unknown~
+5 0 AN 0
+C CD E CDE 0
+100 0 500 P
+0 0
+#2114
+Window Portal~
+a large window~
+This large window has been set into the southern wall.~
+unknown~
+29 R 0 0
+0 3 16 0 0
+0 0 0 P
+0 0
+#2115
+Steel Safe~
+a steel safe~
+This small steel safe boasts an extremely complex lock.~
+unknown~
+15 R 0 0
+ABCFGHIJ ABCD CGL 0 0
+0 0 0 P
+0 0
+#2116
+Magical Key~
+a magical key~
+This key glows with a magical aura.~
+unknown~
+18 W AO 0
+0 0 0 0 0
+1 0 0 P
+0 0
+#2117
+Glowing Yellow Key~
+a glowing yellow key~
+A glowing yellow key has been left here.~
+unknown~
+18 W AO 0
+0 0 0 0 0
+1 0 0 P
+0 0
+#2118
+Black Desk~
+a large black desk~
+This large black desk is kept immaculately neat.~
+unknown~
+12 R 0 C
+0 0 0 0 0
+0 0 0 P
+0 0
+#2119
+Oak Desk~
+a large oaken desk~
+This large oaken desk has paperwork scattered across its surface.~
+unknown~
+12 R 0 C
+0 0 0 0 0
+0 0 0 P
+0 0
+#2120
+Glowing Red Key~
+a glowing red key~
+This glowing red key has been left here.~
+unknown~
+18 W AO 0
+0 0 0 0 0
+1 0 0 P
+0 0
+#2121
+Bonding Ring~
+an intricately woven silver and gold ring~
+This intricately woven {Ws{yi{Wl{yv{We{yr{x and {Wg{yo{Wl{yd{x ring has been inscribed with several magical runes.~
+unknown~
+27 S AB 0
+CDE CDE CDE BC 0
+52 0 0 P
+A
+13 50
+E
+rune inscription engraving~
+Inscribed across the surface of this silver
+ring are several different Drow symbols.
+ 
+Love
+Trust
+Passion
+Fidelity
+Commitment
+Friendship
+ 
+Each of these runes are inscribed to show
+the promises and oaths that hold their bearers
+together, as one. For all time.
+~
+0 0
+#2122
+sapphire gold ring~
+a {bsapphire{x wedding ring~
+This simple ring is made of pure gold and has small {bsapphires{x set into its surface all the way around.~
+unknown~
+27 S AB 0
+AC AC AC A 0
+76 0 0 P
+A
+13 50
+A
+18 4
+A
+19 4
+0 0
+#2123
+black velvet collar~
+a black velvet collar~
+A black velvet collar adorned with a single silver bell is here.~
+unknown~
+11 0 AC 0
+0 0 0 0 0
+0 0 0 P
+E
+bell~
+This small silver bell makes a gentle tinkling sound with every movement.
+Inscribed around the top of it reads the word 'Sansara.  ' 
+~
+0 0
+#2124
+four-poster bed~
+a four-poster bed~
+A four-poster bed draped in rich finery can be seen here.~
+unknown~
+12 R 0 AEI
+0 0 0 0 0
+0 9999 0 P
+0 0
+#2125
+birchwood swing~
+a birchwood swing~
+A polished swing made of birchwood can be seen swaying from a limb of the sycamore.~
+unknown~
+12 R 0 AEM
+0 0 0 0 0
+0 9999 0 P
+0 0
+#2126
+calm pond~
+a calm pond~
+Colorful leaves float aimlessly across the surface of this still pond.~
+unknown~
+25 R 0 BFLN
+0 0 0 0 0
+0 9999 0 P
+0 0
+#2127
+velvet couch~
+a green velvet couch~
+A green velvet couch has been snugly fit to the contour of the wall.~
+unknown~
+12 R 0 AEI
+0 0 0 0 0
+0 9999 0 P
+0 0
+#2128
+desk~
+a desk~
+A mahogany desk is here, pushed against the wall.~
+unknown~
+15 R 0 CEK
+CE AC 0 0 0
+0 9999 0 P
+0 0
+#2129
+key ribbon~
+a key on a {mribbon{x~
+A {mribbon{x has been threaded through the top of this key.~
+unknown~
+18 HRUW AM 0
+0 0 0 0 0
+0 1 0 P
+0 0
+#2130
+bath~
+a marble bath~
+A large black and green marble bath basin is here.~
+unknown~
+25 R 0 BFJN
+0 0 0 0 0
+0 9999 0 P
+0 0
+#2131
+Teddy Bear~
+a soft brown teddy bear~
+This soft brown teddy bear looks very huggable.~
+unknown~
+8 RS AO 0
+0 0 0 0 0
+15 0 150 P
+0 0
+#2132
+Pile Fur~
+a large pile of warm furs~
+This large pile of warm furs looks like it would make a good place to sleep.~
+unknown~
+12 R 0 AEI
+0 0 0 0 0
+1 0 0 P
+0 0
+#2133
+hot spring~
+a bubbling hot spring~
+This large spring bubbles and froths with heat.~
+unknown~
+25 R 0 BFJ
+-1 -1 0 0 0
+0 0 0 P
+0 0
+#2134
+strawberries strawberry~
+some plump strawberries~
+These plump strawberries look very delicious.~
+unknown~
+19 R AO 0
+ACDF 0 0 0 0
+0 0 1 P
+0 0
+#2135
+massive bed~
+a massive four-poster bed~
+This massive four-poster bed has been built to draconic proportions.~
+unknown~
+12 R 0 AEI
+0 0 0 0 0
+0 0 0 P
+0 0
+#2136
+sturdy table rack~
+a sturdy rack~
+This sturdy table is actually a rack for tying people up.~
+unknown~
+12 R 0 AEIP
+0 0 0 0 0
+1 0 0 P
+0 0
+#2137
+manacles~
+a pair of glowing manacles~
+This pair of glowing manacles appear extremly strong.~
+unknown~
+27 R AH 0
+0 0 0 0 0
+50 0 1 P
+A
+14 -20000
+S 0
+#0
+
+
+
+#ROOMS
+#2101
+Entrance to the Guild of Magic~
+Stretching upwards to the north is a large and magnificent building. 
+Approaching it, the first thing noticeable is the material used to construct
+it seems to be entirely of large grey blocks of stone.  Upon further
+inspection, you realize that the stone appears to be glowing faintly, as
+though they are magical in nature.  A well laid pathway leads north to a
+large wooden doorway set into a stone archway, and southwards it leads back
+to the streets.  A wonderfully kept garden on each side of the pathway
+offers a colorful distraction to the stone surroundings.  
+~
+0 4 1
+D2
+~
+~
+0 0 19406
+S
+#2102
+Grand Foyer~
+Suspended from the vaulted ceiling high above is a large chandelier.  The
+glowing aura being given off by it is created by three magical spheres of
+light that seem as though they are everlasting.  Looking upwards, the second
+and third floors have been designed around this one room.  A banister
+railing clearly built around the sides, so as to leave the center open from
+top to bottom.  The ceiling itself is built of massive wooden timbers,
+structurally sound in their placement.  Strange figures in an archaic
+language have been carved into the stones that form the walls, starting at
+the groundfloor and continuing upwards as far as you can see.  In the center
+of the room, a finely built staircase spirals its way upwards.  It has been
+crafted out of some of the most beautiful wood ever seen, and it has been
+polished to a mirror-like shine.  There is a short hallway to the north,
+while a door can be seen eastwards.  To the west the entrance to another
+room is visible.  Above each of the doors, a glowing sign can be seen.  
+~
+0 1048584 0
+E
+north~
+Training Room
+~
+E
+west~
+Guild Hospital
+~
+E
+east~
+Guild Guardian
+~
+D0
+~
+~
+0 0 2118
+D1
+~
+~
+6 2104 2117
+D2
+~
+~
+0 0 2101
+D3
+~
+~
+0 0 2103
+D4
+~
+~
+0 0 2104
+S
+#2103
+Guild Infirmiry~
+Wavering in the air like a visible object, the smell of healing herbs is
+strong but soothing.  Each of the walls have been lined with tall shelves,
+upon which are placed many different types of herbs and literature to aid in
+the repair of wounds.  A small cot has been placed in the center of the room
+for the sick to lay upon.  A healer can be seen constantly moving about,
+preparing more herbs and potions.  To the east, a massive chamber can be
+seen.  
+~
+0 33554440 0
+D1
+~
+~
+0 0 2102
+S
+#2104
+Second Floor~
+Built as a sort of circular balcony to overlook the floor below, the
+walkway extends around each side of the room.  A short hallway leading to
+the north heads off into darkness, while behind you, a trellis open to the
+outside can be seen.  Spread out on the level below you, a pattern in the
+flooring can be seen, creating a seal of sorts.  The spiraling staircase
+continues upwards or leads back down to the ground floor.  
+~
+0 1048584 0
+D0
+~
+~
+0 0 2106
+D2
+~
+~
+0 0 2105
+D4
+~
+~
+0 0 2112
+D5
+~
+~
+0 0 2102
+S
+#2105
+Open Air Trellis~
+Carefully set into the side of the building, this trellis spirals out in
+a half semi-circle.  Spread out below, the city of Utopia can be seen, its
+residents moving about, seeming to be no larger than an ant.  The only exit
+visible is to the north.  
+~
+0 1048576 2
+D0
+~
+~
+0 0 2104
+S
+#2106
+Guild Library~
+This short alcove off of the second floor walkway deadends into a gray
+stone wall.  A brass sign has been affixed to the wall, and a table placed
+underneath it.  Arched entryways to the east and west lead into what seems
+to be an extremely well stocked library.  To the south, a spiraling
+staircase is visible.  
+~
+0 1048584 0
+E
+table~
+This small wooden table has been placed against the wall.  Visible on
+it's surface, a small stack of papers has been left.  
+~
+E
+sign~
+A plate fashioned from a piece of brass has been affixed to the wall here.
+Engraved upon it's surface in large letters are the words:
+ 
+             'Library of the Guild of Magic'
+~
+D1
+~
+~
+0 0 2107
+D2
+~
+~
+0 0 2104
+D3
+~
+~
+0 0 2111
+S
+#2107
+South-East Library~
+Large bookshelves span the walls, stretching from floor to ceiling and
+take up all the available space.  Books of various colors and sizes have
+been arranged neatly to fill the shelves, each inviting in their own way. 
+Plush green carpeting covers the floor, broken only by a small table in the
+middle that is flanked by four chairs.  Glowing orbs of light can be seen
+floating near the ceiling, providing gentle illumination.  To the west, a
+set of double doors marks the exit of the library.  To the north, more
+shelves crammed full of books can be seen.  
+~
+0 5242888 0
+D0
+~
+~
+0 0 2108
+D3
+~
+~
+0 0 2106
+S
+#2108
+North-East Library~
+Large bookshelves adorn the east and west wall, stretching from the floor
+to ceiling.  Various colors and sizes of books have been placed on them,
+each of which seems to call out to be read.  Plush green carpeting covers
+the floor, showing little wear at all.  Floating near the ceiling, several
+glowing orbs provide gentle illumination of the room.  The library stretches
+to the west and south.  
+~
+0 5242888 0
+D2
+~
+~
+0 0 2107
+D3
+~
+~
+0 0 2109
+S
+#2109
+Northern Library~
+Running the entire length of the north wall is a large bookshelf crammed
+full of multicolored books.  The floor is adorned with plush green carpeting
+that is broken only by a small desk set against the south wall.  Floating up
+near the ceiling, several glowing orbs of light can be seen, providing
+gentle illumination.  
+~
+0 5242888 0
+E
+desk~
+This dark wood of this desk has been varnished to a brilliant shine.  A
+small magical orb of light floats above it to provide illumination to the
+readers and a comfortable looking chair is pushed under the edge.  
+~
+D1
+~
+~
+0 0 2108
+D3
+~
+~
+0 0 2110
+S
+#2110
+North-West Library~
+Spanning the walls are large bookshelves crammed full of various colors
+and sizes of books.  Plush green carpeting covers the floor, showing little
+wear at all.  Glowing orbs of light can be seen floating near the ceiling,
+providing gentle illumination.  To the south and east, more bookshelves can
+be seen.  
+~
+0 5242888 0
+D1
+~
+~
+0 0 2109
+D2
+~
+~
+0 0 2111
+S
+#2111
+South-West Library~
+Large bookshelves span the walls, stretching from the floor to ceiling,
+taking up all the available space.  Books of various colors and sizes have
+been arranged neatly to fill the shelves, each inviting in their own way. 
+Plush green carpeting covers the floor, broken only by a small table in the
+middle that is flanked by four chairs.  Glowing orbs of light can be seen
+floating near the ceiling, providing gentle illumination.  To the east, a
+set of double doors marks the exit of the library.  To the north, more
+shelves crammed full of books can be seen.  
+~
+0 5242888 0
+D0
+~
+~
+0 0 2110
+D1
+~
+~
+0 0 2106
+S
+#2112
+Third Floor~
+Circling around the walls, a polished wooden walkway has been
+constructed.  Rising from the outside edge of the walkway, a shiny brass
+banister has been affixed, to prevent creatures from falling to the floor
+far below.  Looking over the railing, you are able to see all of the guild
+of magic from this vantage point.  Slightly overhead suspended in space a
+chandelier is clearly visible.  Floating lazily around the walkway, a shiny
+of magic from this vantage point.  
+~
+0 1048584 0
+E
+floating sign~
+Guild of Magic
+
+=====================
+Third Floor Directory
+=====================
+ 
+North: Guild Trainer
+East:  Maderlyn's Sanctum
+West:  Ythril's Sanctum
+South: Archmage of the Guild of Magic
+~
+D0
+~
+~
+0 0 2113
+D1
+~
+~
+6 2120 2114
+D2
+~
+~
+6 2116 2116
+D3
+~
+~
+6 2117 2115
+D5
+~
+~
+0 0 2104
+S
+#2113
+Guild Training Room~
+Covering the gray stone walls is a wide assortment of weaponry.  The gray
+stone floor is covered in several different wooden practice dummies, and
+everything looks to be often used.  Standing near the back of the room, a
+figure clothed in brilliant white robes can be seen standing.  Illuminating
+the room, a single torch has been placed on the eastern wall, giving the
+entire area a shadowy look as it's flame dances and flickers.  The only exit
+is to the south.  
+~
+0 1048584 0
+D2
+~
+~
+0 0 2112
+S
+#2114
+Maderlyn's Sanctum~
+This room has been decorated in shades of red and black.  An elegant
+silver chandelier hangs from the ceiling, several magical orbs float around
+in providing gentle illumination.  Bookshelves painted a deep black line the
+walls, filled with many different volumes about magic and ancient lore.  A
+large black desk adorns the center of the room, it's surface kept
+immaculately clean and tidy.  The door to the west has been painted a dark
+red and seems to be the only way out.  
+~
+0 1048584 0
+D3
+~
+~
+6 2120 2112
+S
+#2115
+Ythril's Sanctum~
+Hanging from the ceiling of this office is a wrought iron chandelier. 
+The magical orbs floating above each of the five arms provide gentle
+illumination to the chamber.  Floating in the center of the chandelier, a
+golden orb can be seen, the light from it radiant.  A large desk has been
+placed under the chandelier, many untidy scrolls are evident upon it
+surface.  Situated in front of the desk are two leather chairs, while a
+third is located behind the desk.  Covering the surrounding walls are
+massive bookshelves, all full of ancient tomes of magic.  The only exit is
+to the east.  
+~
+0 1048576 0
+D1
+~
+~
+6 2117 2112
+S
+#2116
+Arch-Wizard's Sanctum~
+This circular chamber has been built entire of smooth gray stones, each
+bearing a different inscription.  A large window has been built on the
+southern side of the room, tasteful curtains hung on each side of it.  A
+plain looking handle has been attached to the frame of the glass, to allow
+it to be opened or closed at the occupants desire.  Situated in front of the
+window, a large oaken desk has been placed.  Set to the front of the desk
+are two comfortable looking leather chairs.  Large bookshelves have been
+placed on the eastern and western walls, the wood formed perfectly to
+conform with the curving walls.  A small steel safe has been placed on the
+eastern bookcase, a complex lock visible upon it.  The only entrance visible
+is to the north.  
+~
+0 1048584 0
+D0
+~
+~
+6 2116 2112
+S
+#2117
+Magic Guild Guardian's Sanctum~
+Fit carefully together, this room has been built into the shape of a
+large triangle.  Set high on the eastern wall, a large window has been
+placed.  Attached to the ceiling, an iron chandelier provides gentle
+illumination for this chambers occupants.  The floor is covered in deep
+sapphire blue carpeting, and a white leather couch has been pushed up
+against the eastern wall.  At it's end, a small bookshelf has been placed. 
+To the west, a strong looking door is the only visible exit.  
+~
+0 8 0
+E
+door~
+This door gives the impression of being nothing but strong.  Its frame is
+strengthened by wrought iron, which holds the planks together, and the
+entire device seems to have a magical glow about it.  Set into the door at
+head height is a small window.  Looking through it, the entire outer chamber
+can be seen with ease.  
+~
+E
+bookcase~
+This small bookcase has been adorned with a leather surface upon its top.
+Whilst it is barely as high as the arm of the couch, it is clearly used as a
+desk of sorts by its owner.  
+~
+E
+chandelier~
+Gracefully hung from the arch of the ceiling, this wrought iron
+chandelier is visible.  Floating above the six arms that make it up are
+glowing white orbs of light that provide illumination at night.  Crafted
+carefully into the center is an oval piece of glass.  Set into the center
+and left to float by some magic of it's own is a glowing green orb.  Magical
+in appearance yet soothing with it's glow, this chandelier is a work of art.
+~
+D3
+~
+~
+6 2104 2102
+S
+#2118
+Guild Training Hall~
+Built entirely of stone, this hallway dead-ends against a stone wall. 
+Entranceways adorn the eastern and western walls, leading into two similarly
+looking rooms.  Set onto the northern wall is a crossed sword and mace, a
+shield hanging underneath them.  To the south, the hallway leads out into a
+massive looking room.  
+~
+0 1048584 0
+D1
+~
+~
+0 0 2119
+D2
+~
+~
+0 0 2102
+D3
+~
+~
+0 0 2120
+S
+#2119
+Guild Training Room~
+This room has been setup and designed to act as a place for training. 
+The walls are barren and made of hard grey stone, free from any decorations
+that may get in the way.  Covering the floor from wall to wall, a thick
+spongey mat can be seen.  It has been crafted specifically for these rooms
+to help try and prevent the injury of the trainees.  The only exit is to the
+west.  
+~
+0 1048584 0
+D3
+~
+~
+0 0 2118
+S
+#2120
+Guild Training Room~
+This room has been setup and designed to act as a place for training. 
+The walls are barren and made of hard grey stone, free from any decorations
+that may get in the way.  Covering the floor from wall to wall, a thick
+spongey mat can be seen.  It has been crafted specifically for these rooms
+to help try and prevent the injury of the trainees.  The only exit is to the
+east.  
+~
+0 1048584 0
+D1
+~
+~
+0 0 2118
+S
+#2121
+A Trail in the Forest~
+A wide dirt path winds from a road to the south, leading further north
+into the woods.  Iron oaks and silver birch tower overhead, with thick brush
+growing around their bases.  Some bright wild flowers grow at the roadside
+along with thick green grass.  A few leaves have fallen across the way,
+varying in color.  
+~
+0 0 3
+D0
+~
+~
+0 0 2122
+D1
+~
+~
+7 0 2140
+D2
+~
+~
+0 0 16066
+S
+#2122
+The Winding Path~
+Iron oaks and silver birch mingle to form a canopy overhead, with ferns
+and bushes growing at their bases.  A wide dirt path works its way from a
+road to the south deeper into the forest to the east.  Purple and pink
+wildflowers mix at the roadside to produce a pleasing array as well as aroma
+that fills the stagnant air.  A few colored leaves have fallen over the
+ground, providing a splash of color.  
+~
+0 0 3
+D1
+~
+~
+0 0 2123
+D2
+~
+~
+0 0 2121
+S
+#2123
+Before a Gracious Home~
+Directly to the north, a large, stately home of solid construction towers
+into the air at three stories in height.  Silver birch and tall iron oaks
+surround this structure masking some of its impressiveness, their leaves a
+deep and healthy green.  A few gay wildflowers grow at the sides of the
+pathway, giving a splash of color to the scene.  A few multi-colored leaves
+have been scattered over the dirt road that leads from the door of the
+building at the north into the woods to the west.  A large and impressive
+iron oak tree grows to the south of the door, its base covered in
+multi-colored berry bushes.  
+~
+0 0 3
+D0
+~
+~
+6 2129 2124
+D2
+~
+pelt~
+3 0 2141
+D3
+~
+~
+0 0 2122
+S
+#2124
+The Foyer~
+Dark green carpet reminiscent of moss covers the level floor of this airy
+room.  Several downy-filled couches have been arranged in the center of the
+room, facing each other.  The northern wall is constructed entirely of glass
+and overlooks a clear blue pond, allowing natural light in when the forest
+green curtains are not drawn.  The other three walls are made of polished
+mahogany, seamlessly laid.  A door bearing engravings of ivy leaves along
+its doorjamb provides exit to the south while a glass panel to the north
+leads to the pond outside.  To the western side of the room, an elegant
+staircase spirals upward.  
+~
+0 1049608 0
+D0
+~
+~
+1 0 2125
+D2
+~
+~
+6 2129 2123
+D4
+~
+~
+0 0 2126
+S
+#2125
+A Pond~
+A large, calm pond can be seen to the north, the surface of which is
+covered in fallen leaves that drift by slowly.  Every now and then, a bright
+red or orange leaf floats by amidst the green ones.  Small pads can also be
+seen with pale lilies growing from them, and if one peers close enough, it
+is quite easy to spot the frogs swimming through the water or hiding along
+the lily pads.  At the edges of this small body of water, cat tails and long
+grasses keep it sheltered from the wind that the thickets of silver birch
+and iron oaks fail to break.  A diminutive wooden platform has been
+constructed that connects the southern path coming from the house to this
+peaceful pond.  A trail can be seen beyond the pond, leading further into
+the forest.  
+~
+0 1049600 0
+D0
+~
+~
+0 0 2134
+D2
+~
+~
+1 0 2124
+S
+#2126
+A Round Lounge~
+A plush green velvet couch lines the curvature of the wall, broken only
+by the doors and staircase leading in each of the cardinal directions. 
+Directly in the center of the room is a round table made of glass and
+polished mahogany, flanked by pillows that match the couches.  The walls
+have been painted a mysterious shade of midnight blue that seems to shift of
+its own accord.  Within this mass of oddity are pinpricks of light that
+resemble stars.  Though there is a limited source of illumination, this room
+is far from dark.  To the western side of the room, an elegant staircase can
+be seen, leading both downward and upward.  
+~
+0 1049608 0
+D0
+~
+~
+1 0 2127
+D1
+~
+~
+1 0 2129
+D2
+~
+~
+1 0 2128
+D3
+~
+~
+1 0 2130
+D4
+~
+~
+0 0 2131
+D5
+~
+~
+0 0 2124
+S
+#2127
+A Guest Bedroom~
+A polished mahogany four-poster that could comfortably fit two has been
+placed in the center of this chamber with curtains made of deep green velvet
+and flanked by soft carpeting comprised of several shades of green.  The
+walls are painted the lightest green from the carpeting, decorated with
+elaborate silver candelabras that have been set into the walls.  Along the
+eastern wall is a vanity with a sizeable mirror that has been crafted of a
+mix of marble, silver, and polished mahogany.  A large wooden armoire has
+been fitted in the corner of the room farthest from the door to the south.  
+~
+0 1049608 0
+D2
+~
+~
+1 0 2126
+S
+#2128
+A Guest Bedroom~
+A large window to the south permits natural light to enter this chamber
+when the black velvet curtains are not drawn.  A four-poster made of
+polished mahogany has been placed in the center of the black-green marble
+floor.  Several candelabras have been fixed to the walls, made elaborately
+of silver and able to hold three candles in each fixture.  A vanity with a
+sizeable mirror, crafted of marble, silver, and polished mahogany, dominates
+the western wall.  A large dark armoire can be seen in the corner of the
+room farthest from the door located at the north.  
+~
+0 1049608 0
+D0
+~
+~
+1 0 2126
+S
+#2129
+A Bathroom~
+The northern wall is composed entirely of a large and flawless mirror
+that effectively reflects candle light to produce a soft illumination.  On
+the opposite wall of the mirror is a large black and green marble bath basin
+that could easily fit more than two people.  The basin has three steps
+graduating down to the center to allow both sitting and lying in the
+structure.  Oddly enough, there is a large nozzle located above the bath and
+a lever on the wall next to it, presumably for an overhead shower of water. 
+Affixed to the bath the large window to the north has hunter green drapes
+made of velvet to cover it whenever desired, under which there is a large
+sink and polished mahogany cabinet for towels.  The floor is made of the
+same marble as the bath and is covered by a single emerald green rug.  The
+only apparent exit is the mahogany door located to the west.  
+~
+0 34604040 0
+D3
+~
+~
+1 0 2126
+S
+#2130
+A Kitchen~
+A single-pane window that spans the entire width of the western wall
+permits a good amount of natural light in this kitchen, despite the
+lace-covered velvet that serves as the curtains.  Underneath the large
+window, there is a sink with silver fixtures built into the counter that
+also runs the length of the wall.  Hooks and shelving provide spaces for
+pans and the crystalline dishes that are stacked neatly, while the drawers
+built into the marble counter house the flatware.  An oven that looks to be
+either well-taken care of or brand new has been situated in the
+south-eastern corner, apparently large enough to prepare meals for large
+dinner parties.  The floor is made of the same marble as the sink, the green
+and black flawless and polished to a high shine to compliment the deep green
+walls.  There is a mahogany door leading to the east.  
+~
+0 1049608 0
+D1
+~
+~
+1 0 2126
+S
+#2131
+The Master Bedroom~
+The eastern and western walls are comprised entirely of mirrors, which allow 
+even the dimmest light to give a soft glow to the whole room.  Plush velvet 
+curtains of hunter green adorn the glass panels that lead to balconies to 
+the north and south, keeping out all light when drawn.  Soft carpeting 
+covers the floor, dense enough to muffle even heavy tread.  A glance 
+overhead shows a vaulted ceiling made of a composite of large glass and 
+wooden squares that have been laid in an attractive design around the 
+emerald chandelier.  A small trapdoor can be seen near the northern wall, 
+leading up into the top floor of the house.  A mahogany desk has been set 
+against the eastern wall and a grand armoire of the same wood sits across 
+the room, facing it.  An elegant staircase spirals downward at the western 
+side of the room.  
+~
+0 34604040 0
+D0
+~
+~
+1 0 2132
+D2
+~
+~
+1 0 2133
+D4
+~
+~
+6 2129 2143
+D5
+~
+~
+0 0 2126
+S
+#2132
+A Balcony Overlooking the Dragon's Spine~
+This generous veranda has a banister made of polished hardwood at its
+edge that is connected to the house itself.  Beyond this, a calm pond with
+aimlessly floating leaves can be seen with wild growth surrounding it.  A
+path leads further into the woods north of the pond.  Most of the view of
+the forest itself is of its dazzling green canopy that stretches for miles
+and miles to the towering mountains that the Dragon's Spine is comprised of.
+Amidst all the silver birch and iron oak trees, a few gaps, for what one
+would presume to be clearings, are visible as well as a few trees that are
+larger than those that make up the general population of the forest.  A
+glass panel to the south allows entrance to an elaborate bedroom.  
+~
+0 1049600 3
+D2
+~
+~
+1 0 2131
+S
+#2133
+A Balcony~
+Clearly visible from this spacious balcony, a maze of ivy-ridden walls
+that have crumbled to near-nothingness can be seen to the south. 
+Surrounding nearly everything is a dense forest of silver birch and iron
+oak, which make seeing much more than the woodland, Dragon's Spine and the
+ivy ruins difficult to see.  A banister fashioned of polished mahogany has
+been constructed at the perimeter of the overlook to prevent any accidents. 
+A large sliding window acts as a door, leading northward into a spacious
+bedroom.  
+~
+0 1049600 3
+D0
+~
+~
+1 0 2131
+S
+#2134
+Deep in the Woods~
+Iron oaks interspersed with birch trees tower above to the north,
+creating an impasse that made whatever created this dirt path veer to the
+west to continue its journey.  Ferns and lupine create a colorful mix along
+the forest floor, springing fourth heartily from the rich soil and decaying
+leaves.  A large, calm pond can be seen to the south, with leaves floating
+along its surface lazily.  
+~
+0 1049600 3
+D2
+~
+~
+0 0 2125
+D3
+~
+~
+0 0 2135
+S
+#2135
+A Winding Trail~
+Several patches of bright yellow-orange flowers that resemble
+paintbrushes can be found on either side of this dirt path.  Grass springs
+forth from every niche claimable in the places where sunlight is the
+strongest throughout the day, lending more greenery with the ferns that are
+many shades of green and brown that thrive in the mass of rotting leaves and
+dark soil.  Some of the iron oaks that bar the way to the west have been
+attacked by a fungus that grows like a miniature set of steps up the rough
+bark.  Birch trees can be seen amongst the oak, standing out against the
+rich brown of the oaks with their ghastly pale bark.  The dirt trail
+continues to the north and to the east.  
+~
+0 1049600 3
+D0
+~
+~
+0 0 2136
+D1
+~
+~
+0 0 2134
+S
+#2136
+A Fork in the Trail~
+A sycamore rises mightily into the air directly to the north, its trunk
+an easy fifteen feet wide.  From its lowest branch, a swing can be seen,
+tied sturdily in place with hemp rope.  The slat that serves for the seat of
+it is made of birchwood that has been polished and sealed with a foreign
+substance to protect it from the elements.  The other expansive branches
+have strange symbols attached to them by means unseen to the naked eye. 
+Though they are alien, they do not seem to pose any threat whatsoever. 
+There are three paths here, leading to the east, south, and west, each one
+flanked with bright wildflowers and grasses.  
+~
+0 1049600 3
+D1
+~
+~
+0 0 2138
+D2
+~
+~
+0 0 2135
+D3
+~
+~
+0 0 2137
+S
+#2137
+A Small Clearing~
+This clearing is filled with tall grasses and majestic-looking goldenrod
+that is flowering.  Crickets and grasshoppers chirp to each other nearly
+non-stop, filling the air with a steady whisper of noise, while butterflies
+flutter lazily through the air, moving from one flower to the next.  A
+thicket of brambles and wildflowers surround the bases of the large iron oak
+and the thin birch trees, making passing in any direction aside from the
+path leading eastward a nightmare.  The branches of the trees tangle
+together, most of this lost to the mortal eye beneath the dense green
+foliage.  
+~
+0 1049600 3
+D1
+~
+~
+0 0 2136
+S
+#2138
+A Deer Passing~
+Iron oaks and birch can be seen all around, interspersed with bramble and
+brush that make it impossible to navigate off the deer trail with ease. 
+Wildflowers and ferns grow at the base of the blackberry bushes, barely
+disturbed by the passage of animals.  Cloven hoof marks can easily be seen
+along the path from the last rain storm, where they scored the muddy earth. 
+The trail rounds a large sycamore to the west and leads to a small clearing
+to the north.  
+~
+0 1049600 3
+D0
+~
+~
+0 0 2139
+D3
+~
+~
+0 0 2136
+S
+#2139
+A Twisted Tree~
+A strange tree with numerous gnarls and twists grows in the middle of
+this small meadow.  The large green leaves have black splotches all over
+them and the bark has cracked in places, allowing sap to drip steadily from
+it.  Bees buzz excitedly around the tree, their exact numbers impossible to
+acquire do to their hyperactivity.  The rest of the clearing appears to be
+well-kempt grass, except for the ring of stones at the base of the tormented
+tree.  Birch and iron oak trees enclose this space from every direction
+except the east and south, where a faint trail can be seen leading into the
+forest.  
+~
+0 1049600 3
+D1
+~
+~
+0 0 2142
+D2
+~
+~
+0 0 2138
+S
+#2140
+Inside A Tree~
+This hollowed out tree has been fashioned into a burrow of some type. 
+Thick grasses and furs cover the floors, providing a comfortable place to
+sleep and rest.  The smell of the flowers and oak wood from the forest is
+strong here, giving it a natural feel.  Ambient light filters in through the
+thick brush that protects this hidden alcove, providing gentle illumination.
+The only apparent way out is to the west.  
+~
+0 34603016 0
+D3
+~
+~
+7 0 2121
+S
+#2141
+A Hollowed Tree~
+The sweet smell of the forest fills the interior of this hollowed out
+tree, giving it a pleasant atmosphere.  The room itself has been formed into
+a large oval, nearly as wide and as deep as the tree itself.  The earthen
+floor has been covered with soft animal pelts, and a rather large pile has
+been fashioned into a bed of sorts on the south wall.  The walls are barren
+except for a single ledge which seems to have been chipped into the trunk
+itself.  A single ball of light and a brown teddy bear is visible on the
+shelf, providing gentle illumination.  The single exit to the north is
+covered by a gray pelt, causing it to blend in perfectly with the outside of
+the tree, hiding it through the thick bushes.  
+~
+0 1049608 0
+D0
+~
+pelt~
+3 0 2123
+S
+#2142
+The Hidden Hot Springs~
+The center of this area is made up of a small clearing which is
+haphazardly strewn with smooth rocks around a small body of water in the
+center.  The water itself seems to bubble and froth, obviously heated by the
+forces in the ground below.  A small vine of strawberries can be seen
+growing along the eastern edge of the rock formation, each berry plump and
+moist looking.  Birch and iron oak trees enclose this space from every
+direction except for a faint trail leading to the west.  
+~
+0 34604032 3
+D3
+~
+~
+0 0 2139
+S
+#2143
+A Small Room~
+Thick black rubber covers the walls and floor of this small room, offering a 
+layer of protection to the woodwork and to the people here.  The ceiling is 
+covered in a large piece of mirror which stretches from wall to wall, broken 
+only in the center by a set of bright glowing lights.  The center of the 
+room is dominated by a large, sturdy looking table, while a set of small 
+shelves line the north and eastern walls.  The western and southern walls 
+are decorated only with a set of heavy manacles, and both pair seems to glow 
+with a magical aura.  A bare area next to the table offers a section of 
+floor which is decorated only by two pairs of manacles, one pair for the 
+hands and one pair for the feet.  A single locked door on the northern wall 
+leads the way down.  
+~
+0 1049608 0
+D5
+~
+~
+6 2129 2131
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 2102 spec_cast_mage Load to: a guild guard
+S
+
+
+
+#RESETS
+D 0 2102 1 2
+D 0 2112 1 2
+D 0 2112 2 2
+D 0 2112 3 2
+D 0 2114 3 2
+D 0 2115 1 2
+D 0 2116 0 2
+D 0 2117 3 2
+D 0 2121 1 0
+D 0 2123 0 2
+D 0 2123 2 0
+D 0 2124 0 0
+D 0 2124 2 2
+D 0 2125 2 0
+D 0 2126 0 0
+D 0 2126 1 0
+D 0 2126 2 0
+D 0 2126 3 0
+D 0 2127 2 0
+D 0 2128 0 0
+D 0 2129 3 0
+D 0 2130 1 0
+D 0 2131 0 0
+D 0 2131 2 0
+D 0 2131 4 2
+D 0 2132 2 0
+D 0 2133 0 0
+D 0 2140 3 0
+D 0 2141 0 0
+D 0 2143 5 2
+M 0 2102 1 2101
+E 0 2112 0 10
+O 0 2101 0 2101
+E 0 2113 0 16
+O 0 2106 0 2103
+M 0 2101 1 2103
+G 0 2107 0
+G 0 2108 0
+O 0 2109 0 2106
+P 0 2110 0 2109
+P 0 2118 0 1
+M 0 2103 1 2113
+O 0 2119 0 2115
+O 0 2105 0 2115
+O 0 2114 0 2116
+O 0 2119 0 2116
+O 0 2105 0 2116
+O 0 2115 0 2116
+P 0 2102 0 2115
+P 0 2104 0 2115
+P 0 2111 0 2115
+P 0 2117 0 2115
+P 0 2120 0 2115
+O 0 2103 0 2117
+O 0 2105 0 2117
+O 0 2126 0 2125
+O 0 2127 0 2126
+M 0 2104 1 2126
+E 0 2123 0 3
+O 0 2124 0 2127
+O 0 2124 0 2128
+O 0 2130 0 2129
+O 0 2128 0 2131
+P 0 2129 0 2128
+O 0 2135 0 2131
+O 0 2125 0 2136
+M 0 2106 1 2137
+M 0 2105 2 2139
+O 0 2132 0 2141
+M 0 2107 1 2141
+O 0 2131 0 2141
+O 0 2134 0 2142
+O 0 2133 0 2142
+O 0 2134 0 2142
+O 0 2136 0 2143
+O 0 2137 0 2143
+S
+
+
+
+#SHOPS
+2101 10 0 0 0 0 110 90 0 23
+0
+
+
+
+#$

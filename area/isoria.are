@@ -1,0 +1,2299 @@
+#AREADATA
+Name {15 25} SanBlyt Isoria~
+Builders Sansara~
+VNUMs 2951 2999
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#2951
+red squirrel~
+a red squirrel~
+A red squirrel chatters noisily at you.
+~
+A small creature bearing short red fur is perched here.  The tail of
+squirrel is nearly as long as its body, sporting longer and fluffier fur
+than the rest of it.  Once it spies you, it dives at the nut it just dropped
+and chatters angrily in your direction.  
+~
+human~
+A 0 700 0
+10 0 3d23+120 10d10+100 2d3+2 none
+6 6 6 6
+0 0 0 0
+(null) (null) male 45
+AHMV ABCDEFGHIJK small unknown
+#2952
+snowy owl~
+a snowy owl~
+A snowy owl has perched nearby, studying you with curiosity.
+~
+A small owl roosts here, occasionally preening its feathers or darting
+into the gardens to attack smaller creatures that are foraging for food. 
+Snowy-white feathers cover its small body, with speckles of light grey
+showing on more than a few.  
+~
+song bird~
+A T 700 0
+12 0 4d26+151 12d10+100 2d4+0 none
+5 5 5 7
+FH 0 0 0
+(null) (null) male 54
+AGW ACDEFHKOP small unknown
+#2953
+bunny~
+a small bunny~
+A small bunny hops around in circles, startled by your presence.
+~
+A soft coat of brown fur covers the small body of the bunny.  Long,
+foppish ears compliment its large, dark eyes.  Fine whiskers protrude from
+either side of its pink nose, moving slightly with every twitch.  It hops
+around rather clumsily, obviously distressed over your presence.  
+~
+human~
+A 0 700 0
+11 0 3d25+135 11d10+100 2d3+3 none
+5 5 5 6
+0 0 0 0
+(null) (null) male 49
+AHMV ABCDEFGHIJK small unknown
+#2954
+Echo elf woman~
+a young elf woman~
+Echo stands here, singing in an enchanting voice.
+~
+A lithe woman stands here, clad in royal blue robes of an exotic design. 
+Her blonde hair is straight and left unbound, falling over her back and past
+her waist leaving her small ears to poke through her curtain of hair, the
+pointed tips an obvious mark of her elven heritage.  Her blue eyes dance
+with mirth as the fine features of her face form a smile directed at you.  
+~
+unique~
+A J 700 0
+21 0 7d41+314 21d10+100 3d5+4 none
+1 1 1 4
+0 0 B 0
+(null) (null) either 94
+AHMV ABCDEFGHIJK medium unknown
+#2955
+Severil elf man bard~
+Severil the bard~
+Severil practices his latest compositions here.
+~
+This ageless elf wears fine clothing made of velvet and other expensive
+materials.  He wears a floppy hat, one side of the rim pinned up and holding
+a stiff white feather.  His blonde hair is barely visible under the cap,
+being cropped short and barely touching his neck.  He plucks the strings of
+a lute, practicing diligently.  
+~
+unique~
+A J 700 0
+20 0 6d39+294 20d10+100 3d5+4 none
+2 2 2 4
+0 0 B 0
+(null) (null) female 90
+AHMV ABCDEFGHIJK medium unknown
+#2956
+Fenferil elf man painter~
+Fenferil the painter~
+Fenferil paces around, muttering about colors.
+~
+A rather short male stands here, talking to himself about color theory. 
+Delicately pointed ears poke out from his mass of auburn hair, marking him
+to be of elven descent.  His once-grey smock has been splattered with paint
+over time, creating an almost-pleasing design on its fabric.  His hands
+seemed stained from paints and varnishes, greatly discolored.  He waves his
+paintbrush around, pacing as he mumbles and glances about in search of
+inspiration, or maybe answers of some sort.  
+~
+unique~
+A J 700 0
+18 0 6d36+255 18d10+100 2d5+6 none
+3 3 3 5
+0 0 B 0
+(null) (null) female 81
+AHMV ABCDEFGHIJK medium unknown
+#2957
+Arina elf woman~
+Arina~
+Arina stands here, labeling bottles full of liquid.
+~
+She looks up at you, pushing a lock of her wayward brown hair out of her
+eyes.  Her tan-colored clothes are on the plain side, though they look
+comfortable and afford her the mobility she needs to move freely about the
+room.  Her hands working agilely to label bottles containing liquid of an
+amber color.  
+~
+unique~
+ABRW J 700 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+0 ABQ B 0
+(null) (null) either 112
+AHMV ABCDEFGHIJK medium unknown
+#2958
+Avnor elf man~
+Avnor~
+A greying elf sits here, studying a book.
+~
+This elven man's hair is long and grey, plaited into a braid that reaches
+down his back and shows off his pointed ears.  He wears a loose robe made of
+dark green plant fibers.  He occasionally looks up from his book and stares
+around the room, scrutinizing his surroundings.  
+~
+unique~
+AB J 800 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+0 0 B 0
+(null) (null) female 112
+AHMV ABCDEFGHIJK medium unknown
+#2959
+Elyrian elf man~
+Elyrian the falconer~
+Elyrian is here, teaching commands to a falcon.
+~
+A man on the tall side stands here, wearing a thick leather glove.  Tied
+to a small braid that is tucked behind a delicately pointed ear are several
+feathers, adding color to his brown hair.  His green eyes are trained on the
+bird perched upon his glove.  
+~
+unique~
+ABO J 0 0
+23 0 7d44+355 23d10+100 3d5+5 none
+1 1 1 3
+0 0 B 0
+(null) (null) female 103
+AHMV ABCDEFGHIJK medium unknown
+#2960
+Cerulyian elf man fletcher~
+Cerulyian the fletcher~
+Cerulyian is here, carving a bow.
+~
+A slender man sits here, carving a staff made of wood into a bow.  His
+chestnut colored hair occasionally falls into his eyes, exposing ears that
+taper to a fine point.  Furs and tanned hides are the main make-up of his
+clothing, which seems like it would provide good camouflage in the
+wilderness.  
+~
+unique~
+ABRW J 700 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+0 ABQ B 0
+(null) (null) female 112
+AHMV ABCDEFGHIJK medium unknown
+#2961
+Sinefer elf chef~
+Sinefer, head chef~
+Sinefer stands here, rolling dough for her next project.
+~
+This woman has her hair tucked into her large hat.  Her blue eyes sparkle
+mischievously as she looks at you, her hands skillfully moving through
+dough.  She occasionally calls to another chef in the room, giving him
+orders.  Her apron is dotted with flower, as are her clothes.  
+~
+unique~
+ABRW J 700 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+0 ABQ B 0
+(null) (null) either 112
+AHMV ABCDEFGHIJK medium unknown
+#2962
+Vissa elf woman~
+Vissa the seamstress~
+Vissa is here, altering a fine gown made of shimmering fabric.
+~
+This slightly aged elven woman works diligently, pushing and pulling
+fabric as she pins it together.  Her brown hair spills over her back in
+curls from the pony tail gathered high on the back of her head.  Her grey
+eyes seem to take in everything as they travel over the room and, in turn,
+you.  A satchel slung over her shoulder carries needles, thread, ribbons,
+scissors, and other materials for altering clothing.  
+~
+unique~
+A J 700 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+0 ABQ B 0
+(null) (null) either 112
+AHMV ABCDEFGHIJK medium unknown
+#2963
+elf boy~
+a small elven boy~
+A small boy of elvish descent is here, playing with a stick.
+~
+This young elf is on the short side, marking him as a mere boy.  Ears
+that taper to a fine point poke out from his shock of blonde hair.  He seems
+rather content to play with his stick, though the occasional glance in your
+direction shows that he has brown eyes.  
+~
+unique~
+A J 700 0
+14 0 5d30+184 14d10+100 2d4+1 none
+4 4 4 6
+0 0 B 0
+(null) (null) female 63
+AHMV ABCDEFGHIJK medium unknown
+#2964
+elf woman~
+an elvish woman~
+An elvish woman is here, tucking her hair behind her ears.
+~
+An ageless woman stands here, sliding a lock of blonde hair behind one
+delicately pointed ear.  She wears clothes of a plain color but of a design
+unique to Isoria, fitting close to her well-shaped form.  A small smile
+seems to permanently be on her face, as if she is amused by life itself,
+thus making her blue eyes shimmer with mirth.  
+~
+unique~
+A J 700 0
+16 0 5d33+218 16d10+100 2d4+2 none
+3 3 3 6
+0 0 B 0
+(null) (null) either 72
+AHMV ABCDEFGHIJK medium unknown
+#2965
+elf man~
+an ageless elvish man~
+An elvish man with no apparent age wanders here.
+~
+This man appears ageless, neither young or old.  He has short-cropped
+brown hair that exposes his elfin ears and hazel eyes.  His clothes are
+form-fitting and carefully embroidered, showing off the handiwork of some
+skilled taylor.  
+~
+unique~
+A J 700 0
+19 0 6d37+274 19d10+100 2d5+6 none
+2 2 2 4
+0 0 B 0
+(null) (null) female 85
+AHMV ABCDEFGHIJK medium unknown
+#2966
+elf girl~
+a small elven girl~
+A girl sits here, playing with a doll.
+~
+A young girl, obviously of elfish heritage by her finely tapered ears,
+plays with a doll here.  When she notices you looking at her, she stares
+curiously at you with large, dark eyes, holding her doll to herself.  Her
+brown hair is pulled into twin braids, falling over her shoulders.  
+~
+unique~
+A J 0 0
+14 0 5d30+184 14d10+100 2d4+1 none
+4 4 4 6
+0 0 B 0
+(null) (null) either 63
+AHMV ABCDEFGHIJK medium unknown
+#2967
+grey falcon~
+a grey falcon~
+A grey falcon has perched here, cautiously studying its surroundings.
+~
+A small bird of prey is here, twisting its head to survey the area with
+careful scrutiny.  Grey feathers cover its small body, excepting its sharp
+beak and taloned feet.  
+~
+song bird~
+A T 700 0
+13 0 4d28+168 13d10+100 2d4+0 slash
+5 5 5 7
+FHTU 0 0 0
+(null) (null) none 58
+AGW ACDEFHKOP medium unknown
+#2968
+Isoria guardian elf~
+an elvish guard~
+An elvish guard is here, blending into the garden scenery nearly perfectly.
+~
+Although this figure nearly perfectly blends into its surroundings, it is
+easy to tell that it is a slim elf.  Its blonde hair is tucked neatly into a
+camouflaged cap and its almond-shaped eyes study everything in its
+proximity.  The expressionless face carries no wrinkles, so it is impossible
+to tell the age of this guardian elf by looks alone.  
+~
+unique~
+A JPQ 800 0
+23 0 7d44+355 23d10+100 3d5+5 digestion
+1 1 1 3
+AF 0 B 0
+(null) (null) none 103
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#2951
+strawberry shortcake~
+a piece of strawberry shortcake~
+A piece of strawberry shortcake has been left here.~
+unknown~
+food 0 AO
+AB 0 0 0 0
+1 1 2 P
+#2952
+butter pancakes~
+a stack of butter pancakes~
+A stack of butter pancakes have been piled high on this tray.~
+unknown~
+food 0 AO
+BD 0 0 0 0
+1 1 2 P
+#2953
+mead bottle~
+a bottle of mead~
+A bottle of amber liquid lays on its side here.~
+unknown~
+drink 0 AO
+5 5 'white wine' 0 0
+1 3 3 P
+#2954
+cranberry wine bottle rosy~
+a bottle of rosy liquid~
+A bottle of cranberry wine is here.~
+unknown~
+drink 0 AO
+5 5 'red wine' 0 0
+1 3 3 P
+#2955
+arrow~
+a large arrow~
+A large arrow has been discarded here.~
+unknown~
+wand GR AO
+15 5 3 'reserved' 0
+20 1 100 P
+#2956
+steel knife~
+a steel knife~
+A steel knife with a white handle is here.~
+unknown~
+weapon 0 AN
+bow 4 8 crunch 0
+17 2 85 P
+#2957
+floppy hat~
+a hat adorned with a feather~
+A floppy hat adorned with a white plume is here.~
+unknown~
+armor 0 AE
+AB AB AB A 0
+20 2 100 P
+#2958
+Severil's lute~
+a mahogany lute~
+A carefully carved lute is here, bearing the name Severil.~
+unknown~
+staff 0 AO
+20 10 3 'reserved' 0
+20 7 100 P
+#2959
+black embroidered velvet tunic~
+an embroidered velvet tunic~
+A black velvet tunic embroidered in silver has been discarded here.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+20 2 255 P
+#2960
+black velvet leggings~
+black velvet leggings~
+A pair of black velvet leggings have been left here.~
+unknown~
+clothing 0 AF
+0 0 0 0 0
+20 2 255 P
+#2961
+grey painting smock~
+a painting smock~
+A grey smock splattered with paint has been dropped here.~
+unknown~
+armor 0 AD
+AB AB AB 0 0
+18 3 90 P
+#2962
+paintbrush~
+a paintbrush~
+A wood-handled paintbrush lies here.~
+unknown~
+wand 0 AO
+18 3 2 'reserved' 0
+18 1 90 P
+#2963
+satin royal blue dress~
+a satin royal blue dress~
+A fine dress of royal blue satin is here.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+21 2 315 P
+#2964
+ice fountain~
+the ice fountain~
+A round fountain with an ice sculpture.~
+unknown~
+fountain R 0
+1000 1000 'water' 0 0
+1 1000 0 P
+#2965
+loose green robe~
+a loose green robe~
+A loose robe made of green cloth is here.~
+unknown~
+armor 0 AD
+C C C A 0
+25 4 125 P
+#2966
+green cotton dress~
+a green cotton dress~
+A green cotton dress has been left here, in a pile.~
+unknown~
+armor 0 AD
+B B B 0 0
+16 3 80 P
+#2967
+bone longsword~
+a bone longsword~
+A longsword crafted from bone and magic is here.~
+unknown~
+weapon 0 AN
+sword 4 8 slice 0
+16 3 80 P
+#2968
+long stick~
+a long stick~
+A long stick with notches in it has been dropped here.~
+unknown~
+weapon 0 AN
+staff 5 6 claw 0
+14 2 70 P
+#2969
+small doll~
+a small doll with elvish features~
+A small doll has been dropped here.~
+unknown~
+trash 0 AO
+0 0 0 0 0
+1 1 1 P
+#2970
+riding boots~
+a pair of riding boots~
+A pair of leather riding boots have been dropped here.~
+unknown~
+armor 0 AG
+AB AB AB 0 0
+19 5 95 P
+#2971
+thick leather gloves~
+thick leather gloves~
+A pair of thick leather gloves have been abandoned here.~
+unknown~
+armor 0 AH
+AB AB AB A 0
+23 2 115 P
+#2972
+cloak of elven kind~
+a cloak of elven kind~
+A flowing green cloak is here, its design is elven.~
+unknown~
+armor 0 AZ
+AB AB AB A 0
+23 3 115 P
+#2973
+frilly dress~
+a frilly green dress~
+A frilly green dress has been left here.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+14 2 210 P
+#2974
+star light~
+a star-shaped light~
+A star-shaped light floats in the air here.~
+unknown~
+light R AR
+0 0 ABCFGHIJ 0 0
+15 0 0 P
+A
+13 5
+#2975
+hazel nut~
+a hazel nut~
+A fallen hazel nut lays here.~
+unknown~
+food 0 AO
+AB 0 0 0 0
+1 1 2 P
+#2976
+bee hive~
+a bee hive~
+A bee hive has been constructed here.~
+unknown~
+container R 0
+10 A 0 0 0
+0 0 0 P
+#2977
+amber honey mess~
+a droplet of honey~
+A sticky mess the color of amber is here. It looks like some honey.~
+unknown~
+pill 0 AO
+20 'reserved' 'reserved' 'reserved' 'reserved'
+1 1 30 P
+#2978
+rabbit stew~
+a bowl of rabbit stew~
+A small wooden bowl of rabbit stew is here.~
+unknown~
+food 0 AO
+D 0 0 0 0
+1 1 2 P
+#2979
+roast squirrel~
+a slice of roasted squirrel~
+A slice of roasted squirrel has been left here.~
+unknown~
+food 0 AO
+BC 0 0 0 0
+1 1 2 P
+#2980
+sugar-coated nuts~
+a sleeve full of sugar-coated nuts~
+A paper sleeve full of sugar-coated nuts has been abandoned here.~
+unknown~
+food 0 AO
+BD 0 0 0 0
+1 1 2 P
+#2981
+dandelion wine~
+a small bottle of dandelion wine~
+A bottle of faint yellow liquid is here, bearing a label with dandelion on it.~
+unknown~
+drink 0 AO
+2 2 'red wine' 0 0
+1 2 3 P
+#2982
+elderberry wine~
+a bottle of elderberry wine~
+A bottle of deep red wine is here.~
+unknown~
+drink 0 AO
+5 5 'red wine' 0 0
+1 3 3 P
+#2983
+leaf-shaped leather bracer~
+a leather bracer~
+A bracer shaped like an aspen leaf is here.~
+unknown~
+armor 0 AM
+C C C A 0
+25 2 125 P
+#2984
+gauzy sleeves~
+a pair of gauzy sleeves~
+A pair of filmy sleeves have been left here.~
+unknown~
+armor 0 AI
+AB AB AB A 0
+21 1 105 P
+A
+12 10
+A
+13 10
+#2985
+yew longbow~
+a yew longbow~
+A fine yew longbow has been left here.~
+unknown~
+weapon G AN
+exotic 5 9 crunch FN
+23 1 115 P
+#2986
+burrow~
+an abandoned burrow~
+This animal burrow appears to lead down under the tree.~
+unknown~
+portal R 0
+0 0 0 BCDFIJKL 0
+0 0 0 P
+#2987
+herbal cure book~
+a book on herbal cures~
+A carefully bound book on herbal cures has been left here.~
+unknown~
+treasure R AO
+0 0 0 0 0
+0 2 200 P
+E
+book herbal cures~
+Index
+Page1 Herbs For Arthritis
+Page2 Herbs For Burns & Scalds
+Page3 Herbs For Childbirth
+Page4 Herbs For Diarrhea
+Page5 Herbs For Insomnia
+Page6 Herbs For Liver Problems
+~
+E
+page1~
+Black Mustard - In a poultice, 3oz freshly ground mustard seeds with fairly 
+hot water, to form a thick paste.  Place on a piece of cloth the size of the 
+painful body area.  Apply the cloth, remove after a minute.  Dampened gauze 
+over the skin will prevent the mustard mixture from sticking.  If skin is 
+reddened, apply a dab of olive oil after poultice is used.  
+~
+E
+page2~
+Chickweed - can be used by bruising the leaves and creating a poultice, 
+extracting the juice and applying it to the burn, or by boiling a couple 
+handfuls of the herb in 2 quarts of water for 10 minutes, then cooled and 
+used as a wash.  
+~
+E
+page3~
+Angelica - 1 oz powdered root per pint of boiling water, used to ensure 
+expulsion of afterbirth.  
+Black Cherry - berry juice was used to reduce pain during childbirth.
+~
+E
+page4~
+Bilberry - tea- 1 pint of water over 3 tablespoons of dried berries, let 
+stand 5 to 10 minutes, bring to boil (boil 5 minutes) take one cup, 3 to 4 
+times a day.  May also be taken as fresh bilberry juice, 1 cup 3 to 4 times 
+a day.  
+~
+E
+page5~
+Catnip - 1 teaspoon herb per cup of boiling water, drink once cool (if taken 
+hot, some people find it an emetic, it can cause some folks to vomit if 
+taken hot).  
+Lavender - make a sachet to keep under your pillow.
+Passion Flower - tea, 1 tsp per cup of boiling water.
+Peppermint - tea, 1 tsp per cup of boiling water.
+~
+E
+page6~
+Dandelion - Tea, 1 to 2 teaspoons shredded root (or mix of root and leaves) 
+in a cup of cold water.  Heat and boil one minute.  Let stand 8 hours.  
+Drink two ounce installments throughout the day, up to 2 cups a day, for 3 
+to 6 weeks.  
+Hyssop - used in a tea, 1 tsp per cup of boiling water, steep covered.
+Uva Ursi - tea, 1 tsp herb per cup of boiling water, steep covered.
+~
+#0
+
+
+
+#ROOMS
+#2951
+The Gates of Isoria~
+Bright flowers grow in abundance on either side of the blue moss path
+that leads to the west end of the grove, stopping at the base of a giant
+tree.  A quick glance around this circular grove shows that everything is
+perfectly symmetrical.  Several statues can be seen within the grass,
+plotted to look at each other over a fountain in the middle of the wide
+mossy path.  Great oaken gate doors stand to the west, providing the only
+visible way to leave the grove by foot.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2952
+D2
+~
+~
+~
+0 0 2955
+D3
+~
+~
+~
+0 0 2954
+M 0 H 0
+S
+#2952
+Within the Garden Grove~
+Bushes shaped with care line the great silvery trees that form a wall
+around the grove.  The canopy of the trees forming a shelter of sorts from
+the elements.  Within the hedge, small birds can be heard singing
+blissfully.  Pots filled with flowers have been placed evenly to fill gaps
+in the hedgerows.  A statue of a man holding an instrument comes into view
+to the west and there is a path to the south.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 2951
+D3
+~
+~
+~
+0 0 2953
+M 0 H 0
+S
+#2953
+Statue of the Bard ~
+A very life-like statue depicting a bard holding a lute has been carved
+out of wood and placed on a square dais here.  Wildflowers in a variety of
+colors obscure the base of the platform, growing with abandon.  Small lights
+crafted of magic can be seen at the feet of the figure, throwing light onto
+it at all times of the day or night.  There is a mossy path to the south,
+across from which stands another statue, as does yet another further to the
+west.  
+~
+0 8 0
+E
+bard~
+A man with delicate, pointed ears and seated on a stool is carved here. 
+He holds a lute as if ready to play it for any that pass by.  Very proper
+clothing of a perfect fit adorns his smart figure.  His eyes seem to nearly
+twinkle in the light and on closer inspection it can be determined that a
+clever varnish is the cause of that.  The carving is an artistic
+masterpiece, no detail left undone, perfectly painted to resemble a real
+creature.  A small plaque can be seen near the ornate boots of the figure.  
+~
+E
+plaque~
+His wisdom great and sweeping
+Brought us from the times of weeping
+Eventually upon his golden brow
+A shining mark, the gods did bestow
+Fingers did flutter, strings did sing
+All who walked here, called him king
+~
+E
+statue~
+A man with delicate, pointed ears and seated on a stool is carved here. 
+He holds a lute as if ready to play it for any that pass by.  Very proper
+clothing of a perfect fit adorns his smart figure.  His eyes seem to nearly
+twinkle in the light and on closer inspection it can be determined that a
+clever varnish is the cause of that.  The carving is an artistic
+masterpiece, no detail left undone, perfectly painted to resemble a real
+creature.  A small plaque can be seen near the ornate boots of the figure 
+~
+D0
+~
+~
+~
+0 0 2963
+D1
+~
+~
+~
+0 0 2952
+D2
+~
+~
+~
+0 0 2954
+D3
+~
+~
+~
+0 0 2959
+M 0 H 0
+S
+#2954
+Between Two Statues~
+Overhead, the limbs of the trees encircling this grove interlock,
+providing shelter from the harshest of the elements.  Small lights hang on
+barely-visible threads from the tree branches, providing illumination at all
+times.  A fine path of blue moss, flanked by delicate wildflowers, leads to
+the east to a fountain and west to the gates.  A life-sized statue of a man
+can be seen to the north and one of a woman can be found to the south.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2953
+D1
+~
+~
+~
+0 0 2951
+D2
+~
+~
+~
+0 0 2956
+D3
+~
+~
+~
+0 0 2958
+M 0 H 0
+S
+#2955
+The Garden Grove of Isoria~
+Carefully groomed hedge lines the majestic silver trees that protect this
+hollow.  Occasionally there are breaks in the hedgerows that have pots
+filled with flowers of many different varieties.  The thicket seems to be
+perfectly symmetrical from what you can see of it.  A bee hive can be
+discerned, constructed in a hole between two of the trees that have grown
+together to form the perimeter of the grove.  To the west there is a statue
+while to the north is a mossy path.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2951
+D3
+~
+~
+~
+0 0 2956
+M 0 H 0
+S
+#2956
+Statue of the Harpist~
+Upon a dais sunk into the ground is a fine figure with delicately pointed
+ears.  Her hands are poised over a golden harp that is as tall as her
+sitting frame.  Flowers grow undisturbed around the base of the small
+pedestal, brightening the surroundings.  Across a path to the north is
+another statue and a glance westward brings another statue into view.  A
+large fountain bubbles steadily to the north-west.  
+~
+0 8 0
+E
+harpist~
+A woman dressed in a fine gown sits at a harp, her fingers poised as if
+in the middle of playing the instrument.  No detail has been ignored during
+the making of this statue, leaving her incredibly life-like.  Masterly
+applied paints and varnishes make the harp and her eyes glisten.  There is a
+small plaque near her feet.  
+~
+E
+plaque~
+Wisdom and truth was her wish for all
+From youngest babe to warrior tall
+A quest she claimed to set things straight
+Knowledge found for all to relate
+~
+E
+statue~
+A woman dressed in a fine gown sits at a harp, her fingers poised as if
+in the middle of playing the instrument.  No detail has been ignored during
+the making of this statue, leaving her incredibly life-like.  Masterly
+applied paints and varnishes make the harp and her eyes glisten.  There is a
+small plaque near her feet.  
+~
+D0
+~
+~
+~
+0 0 2954
+D1
+~
+~
+~
+0 0 2955
+D2
+~
+~
+~
+0 0 2966
+D3
+~
+~
+~
+0 0 2957
+M 0 H 0
+S
+#2957
+Between Two Statues~
+Great trees encircle this grove, their branches intertwining overhead to
+provide protection from the outside world.  Small lights have been hung from
+the lower limbs, dangling above.  Blue moss grows in the middle of the space
+between the statues that can be seen to the east and west, providing a small
+trail to the fountain that lies directly to the north.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 2958
+D1
+~
+~
+~
+0 0 2956
+D2
+~
+~
+~
+0 0 2967
+D3
+~
+~
+~
+0 0 2962
+M 0 H 0
+S
+#2958
+The Ice Fountain~
+Water pours endlessly from a fountain head, carved from what appears to
+be ice, into the basin below.  A soft fog rises from the water, spilling
+over the fountain edge to the moss that grows around its base.  Small white
+lights are hung from the branches above to provide soft illumination.  The
+foliage of the trees that line the edges of this circular grove keep the
+harsh elements from touching the secluded clearing.  The moss continues
+onward in each of the four cardinal directions, serving as a path.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2959
+D1
+~
+~
+~
+0 0 2954
+D2
+~
+~
+~
+0 0 2957
+D3
+~
+~
+~
+0 0 2961
+M 0 H 0
+S
+#2959
+Between Two Statues~
+Moss has found its way between the statues to the east and west, creating
+a small path toward the trees that encircle the grove.  The limbs of the
+mighty plants weave together above, providing shelter.  Thin threads of an
+unidentifiable substance have been draped over the lowest branches, holding
+small lights overhead to illuminate the area.  A fountain can be seen to the
+south.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2964
+D1
+~
+~
+~
+0 0 2953
+D2
+~
+~
+~
+0 0 2958
+D3
+~
+~
+~
+0 0 2960
+M 0 H 0
+S
+#2960
+Statue of the Dancer~
+A life-like statue of a woman depicted in dance has been carved upon a
+pedestal that has been sunk into the ground.  Flowers grow about the base of
+it, untamed with a smattering of different, though pleasant, colors.  Rich
+grass can be seen, mingling with the other flora.  Over a wide path of blue
+moss to the south a similar statue can be seen, as well as two more to the
+east.  A sparkling fountain can be seen to the south-east, the gentle
+bubbling sound it creates reaching your ears.  
+~
+0 8 0
+E
+dancer~
+A charming woman with delicately pointed ears has been carved on this
+dais, her arms raised in the fashion of a well-known ballroom dance.  Her
+dress is detailed in laces, tiny flower buds, and beads.  Her fine hair is
+swept into a foreign hairstyle that compliments her sharp features.  Clever
+use of paint and varnish make her appear to be nearly lifelike, her eyes
+glistening softly in the available light.  There's a small plaque near her
+feet.  
+~
+E
+plaque~
+With softest step and angelic gate
+She trod these roads, a gift to partake
+Swift in battle yet fast to forgive
+Long days have passed since she did live
+~
+E
+statue~
+A charming woman with delicately pointed ears has been carved on this
+dais, her arms raised in the fashion of a well-known ballroom dance.  Her
+dress is detailed in laces, tiny flower buds, and beads.  Her fine hair is
+swept into a foreign hairstyle that compliments her sharp features.  Clever
+use of paint and varnish make her appear to be nearly lifelike, her eyes
+glistening softly in the available light.  There's a small plaque near her
+feet.  
+~
+D0
+~
+~
+~
+0 0 2971
+D1
+~
+~
+~
+0 0 2959
+D2
+~
+~
+~
+0 0 2961
+D3
+~
+~
+~
+0 0 2974
+M 0 H 0
+S
+#2961
+Between Two Statues~
+Soft blue-colored moss forms a fine path, flanked on both sides by a
+boarder of fragrant wildflowers.  To the west a fountain can be seen, the
+soft bubble of its waters carrying on the air while to the east there is a
+mighty tree.  To the north and south are life-sized statues, the one to the
+north female and the one to the south male.  A wall of hedges and trees
+encompasses this area, keeping it secluded.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2960
+D1
+~
+~
+~
+0 0 2958
+D2
+~
+~
+~
+0 0 2962
+D3
+~
+~
+~
+0 0 2975
+M 0 H 0
+S
+#2962
+Statue of the Falconer~
+A finely-crafted statue has been fixed upon a wooden rise here, the edges
+of the base hidden amongst the wild growth of flowers, grass, and moss. 
+Lights are embedded at the foot of the statue, illuminating the surroundings
+at all times.  A statue of a dancer can be seen across a mossy path to the
+north, while a glance eastward shows a statue of a harpist.  To the
+north-east, a large fountain can be seen.  
+~
+0 8 0
+E
+falconer~
+The statue of a weathered elf is here.  His arm is raised to form a
+perfect perch for a snowy-white owl with grey spots, a thick glove
+protecting his hand.  In his other hand is a small black hood.  His hair is
+tied at the nape of his neck, the blonde turning silvery-grey.  Varnish and
+fine craftsmanship make it seem as if the statue's grey eyes follow your
+movements.  
+~
+E
+plaque~
+With voice of heaven and words of fire
+He wandered these lands but did not tire
+Finding and bringing that which we lost
+For him it seemed there was no cost
+Long he went, and often him missed
+But upon his return we all found bliss
+~
+E
+statue~
+The statue of a weathered elf is here.  His arm is raised to form a
+perfect perch for a snowy-white owl with grey spots, a thick glove
+protecting his hand.  In his other hand is a small black hood.  His hair is
+tied at the nape of his neck, the blonde turning silvery-grey.  Varnish and
+fine craftsmanship make it seem as if the statue's grey eyes follow your
+movements.  
+~
+D0
+~
+~
+~
+0 0 2961
+D1
+~
+~
+~
+0 0 2957
+D2
+~
+~
+~
+0 0 2969
+D3
+~
+~
+~
+0 0 2976
+M 0 H 0
+S
+#2963
+Behind the Statue of the Bard~
+Blue moss carpets the ground here, forming a pathway.  To either side of
+the trail, beds of wildflowers grow, their heady scent tinting the air.  To
+the south, a small distance off, the back of a statue can be seen, the neck
+of a lute poking around one side of its body.  All around this area sliver
+trees form a natural barrier of sorts.  In front of the trees are tamed
+hedges interspersed with large pots of flowers.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 2953
+D3
+~
+~
+~
+0 0 2964
+M 0 H 0
+S
+#2964
+A Mossy Path~
+Silver glints faintly in a complex labyrinth upon the moss-covered floor
+here.  Tracing crazily in all directions is the trail of some night-moving
+slug.  Off to the southeast and southwest stand wooden statues, their backs
+turned to you and the features hidden.  Overhead, the interlaced branches of
+mighty silver trees form a thick canopy, protecting the ground from the
+harsh, but natural, rigors of the elements.  The faint scent of the wild
+flowers that grow to either side of the moss covered ground drifts upon the
+air.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2965
+D1
+~
+~
+~
+0 0 2963
+D2
+~
+~
+~
+0 0 2959
+D3
+~
+~
+~
+0 0 2971
+M 0 H 0
+S
+#2965
+The Edge of the Circle~
+A single smooth stone rests upon the blue moss-covered path here.  Upon
+its surface are bright fragments of snail shells, a testament to this being
+a thrush's anvil.  Wildflowers flank the path, placed either by nature's
+design or skillful elven hands is uncertain, though it adds both a pleasant
+aroma and pleasing color to the area.  Ancient tree branches meet overhead,
+intertwining in what appears to be a loving embrace.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 2964
+D3
+~
+~
+~
+0 0 2972
+M 0 H 0
+S
+#2966
+Behind the Statue of the Harpist~
+Blue moss carpets the floor here, giving a soft cushioned feel to the
+earth.  Wildflowers grow on either side of the walkway, giving bright colors
+and soft scents to the air here.  Off to the north a single large wooden
+figure can be seen sitting before a well carved harp, even at this distance
+it looks almost life like.  Overhead, tiny dots of magical light cast their
+radiance down upon the blue floor, each string made from some shimmering
+thread.  The moss leads off in small trails to the north and west.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2956
+D3
+~
+~
+~
+0 0 2967
+M 0 H 0
+S
+#2967
+A Mossy Path~
+Bumblebees buzz between blossoms here, their movements looking lazy as
+they go about there business.  A blue moss path works its way steadily
+between the flower banks.  The smell of pollen drifts upon the air, mixing
+softly with the odor from the wildflowers.  Overhead, bead-like lights shed
+there soft radiance down, giving a magical look to the area.  Soft sounds of
+hidden animals and insects come from deep within the bedded flowers.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2957
+D1
+~
+~
+~
+0 0 2966
+D2
+~
+~
+~
+0 0 2968
+D3
+~
+~
+~
+0 0 2969
+M 0 H 0
+S
+#2968
+The Edge of the Grove~
+Purple thistle flowers poke there downy heads over bright red poppies on
+either side of the blue moss-covered trail that runs north and west here. 
+Overhead the branches of great silver trees grow, hanging from which are
+baubles of glimmering light on nearly invisible threads.  Faint bird song
+floats down from high above, maybe some lover calling to its mate.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2967
+D3
+~
+~
+~
+0 0 2970
+M 0 H 0
+S
+#2969
+Moss-covered Paths~
+Blue moss covers the ground, creating a thick carpet that muffles
+footfalls.  Insects can be heard from within the tall grasses that mingle
+with the vivid wildflowers that leave their scent hanging in the air. 
+Suspended on near-invisible threads from the canopy above are small
+star-like lights that shine constantly.  A statue can be seen to the north,
+though its back is turned to you, one arm can be seen plainly, raised to
+allow an owl to perch on it.  Mighty trees enclose the clearing, secluding
+it.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2962
+D1
+~
+~
+~
+0 0 2967
+D2
+~
+~
+~
+0 0 2970
+D3
+~
+~
+~
+0 0 2977
+M 0 H 0
+S
+#2970
+Edge of the Circle~
+Twinkling lights adorn the interlinked branches over head, casting a soft
+light towards the blue moss-covered earth.  Wildflowers grow to the sides of
+the path, adding seeming random dashes of color all about, there fragrances
+wafting through the air and softly tickling at one's nose.  The trunks of
+these silver skinned trees stand like sentinels around the edge of the
+grove, between them a hedge has been cultivated and bright potted plants
+placed.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2969
+D1
+~
+~
+~
+0 0 2968
+M 0 H 0
+S
+#2971
+Moss-covered Paths~
+Seed-laden wild grasses intermix with flowers and ferns along side the
+blue-moss covered path that trails its way about.  High overhead, branches
+of mighty silver-skinned tree interweave to form a majestic roof, dotted
+through these boughs are small orbs of magical light that make the growth
+below appear to be all but enchanted in its own right.  The air is filled
+with the faint sound of bird song and the scents produced by the abundance
+of flowers.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2972
+D1
+~
+~
+~
+0 0 2964
+D2
+~
+~
+~
+0 0 2960
+D3
+~
+~
+~
+0 0 2973
+M 0 H 0
+S
+#2972
+The Edge of the Grove~
+Startling silver bark covers the surface of the trees here, working their
+way up from the blue moss-covered earth to form an interlinked canopy over
+head.  Small orbs of magic light have been strung through the branches of
+these mighty giants.  The faint outline of an old animal burrow can be seen
+at the base of a tree.  Wildflowers grow to either side of the mossy path,
+while close to the hedge are potted plants add there own brilliance to the
+area.  The fragrances mixing to concoct a heady aroma in the air here.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 2965
+D2
+~
+~
+~
+0 0 2971
+M 0 H 0
+S
+#2973
+In the Gardens of Isoria~
+Small lights are suspended in mid-air by fine thread-like structures that
+have been tied to the branches that weave together overhead.  Trimmed hedges
+are broken at intervals by pots full of flowers, the gaps all perfectly
+symmetrical and regular.  Blue moss-covered paths lead to the west and
+south.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 2971
+D2
+~
+~
+~
+0 0 2974
+M 0 H 0
+S
+#2974
+Near the Statue of the Dancer~
+The trees amalgamate above, their limbs weaving together to create a
+dense canopy that keeps the elements at bay.  Threads hang from the lowest
+of the branches, dangling small lights in the air above.  A statue of what
+appears to be a dancing woman can be seen to the east while to the west
+there is a garden path.  A wide path can be seen southward, made of the same
+thick blue moss that serves as a path to the north.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2973
+D1
+~
+~
+~
+0 0 2960
+D2
+~
+~
+~
+0 0 2975
+D3
+~
+~
+~
+0 0 2978
+M 0 H 0
+S
+#2975
+The Moss Path~
+Leaves and branches combine overhead to create a protective canopy over
+the hollow.  Pinpricks of light dangle from the limbs above, suspended by
+thin threads of a foreign substance.  A smattering of wildflowers can be
+seen peeking through the the tall grasses, lightly scenting the air with a
+multitude of fragrances.  A courtyard of sorts can be seen to the east,
+containing a fountain and four wooden statues.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2974
+D1
+~
+~
+~
+0 0 2961
+D2
+~
+~
+~
+0 0 2976
+D3
+~
+~
+~
+0 0 2979
+M 0 H 0
+S
+#2976
+Near the Statue of the Falconer~
+Hanging from the lower branches that hold the dense foliage above are
+pinpricks of light, held in place by threads of an unknown substance. 
+Though there are trees encircling this grove, there is no sign of fallen
+leaves or twigs.  Wildflowers grow in a pleasing disarray of color, lightly
+scenting the air.  A wooden statue is visible to the east, depicting what
+seems to be a man and an owl.  To the north is a large path comprised of
+blue moss, while to the west and south are more garden paths.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2975
+D1
+~
+~
+~
+0 0 2962
+D2
+~
+~
+~
+0 0 2977
+D3
+~
+~
+~
+0 0 2980
+M 0 H 0
+S
+#2977
+The Garden Grove~
+Pots filled with colorful flowers and immaculately trimmed hedges line
+the perimeter of the circular grove, alternating in a symmetrical manner. 
+The limbs of the trees that encircle the hollow lock together high above,
+forming a living ceiling.  From the lowest branches hang delicate lights on
+threads of a silvery color.  Blue moss forms a mysterious pathway to the
+north and east.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2976
+D1
+~
+~
+~
+0 0 2969
+M 0 H 0
+S
+#2978
+In the Garden~
+A great tree can be seen to the south, a blue moss path growing right
+over its roots.  The grove is entirely symmetrical, with bushes and pots
+plotted around the perimeter at regular intervals.  The pots are filled with
+dark soil and bright flowers.  Above, you can see dainty lights fixed to the
+ends of nearly-invisible silvery threads.  A faint trail of blue moss leads
+eastward through the grass and wildflowers.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 2974
+D2
+~
+~
+~
+0 0 2979
+M 0 H 0
+S
+#2979
+The Great Tree of Isoria~
+An immense tree with silver bark grows here, outstretching its great
+limbs with perfect symmetry.  A knot approximately six feet in diameter and
+perfectly round can be seen plainly upon the trunk of the tree.  Strange
+markings have been painted around the edges of the blemish in a silvery-blue
+varnish.  A blue moss path stretches from the base of this tree to the east,
+where a courtyard can be seen.  There are small garden paths both to the
+north and south.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2978
+D1
+~
+~
+~
+0 0 2975
+D2
+~
+~
+~
+0 0 2980
+D4
+~
+knot~
+~
+1 0 2981
+M 0 H 0
+S
+#2980
+Garden Grove~
+A great tree is visible to the north, a blue moss path growing directly
+up to it.  Well-kept bushes and pots are placed in regular intervals, all
+perfectly aligned to a symmetry.  Dark soil and flowers fill the pots,
+adding color and fragrance to the surroundings.  Behind one of these pots,
+an wooden arrow can be seen.  The grass is dotted with more flowers in
+addition to a faint trail of blue moss that leads east.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2979
+D1
+~
+~
+~
+0 0 2976
+M 0 H 0
+S
+#2981
+Within the Great Tree~
+Steps wind around the inside of the great tree with archaic runes in a
+silver-blue color painted along the walls, leading to a platform.  Small
+lights have been embedded into the vestiges of the wood that serves to
+enclose the space, twinkling much like stars.  Open archways, crested with
+more runes, lead to the north and south.  One of the limbs of the great tree
+stretches eastward from here.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2982
+D1
+~
+~
+~
+0 0 2999
+D2
+~
+~
+~
+0 0 2983
+D5
+~
+~
+~
+1 0 2979
+M 0 H 0
+S
+#2982
+A Tree Home~
+Curtains fashioned from flexible green leaves are pushed to the side,
+exposing alcoves that are carved into the north wall.  Each has been lined
+with feathers and furs for rest, with small shelves further burrowed into
+the wood in each hollow.  A small table that looks like it was once a tree
+stump is located in the center of the room, covered in wooden toys.  Globes
+of magical light have been placed around the chamber to illuminate it at all
+times.  Rune-crested archways lead to the south and east.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 2984
+D2
+~
+~
+~
+0 0 2981
+M 0 H 0
+S
+#2983
+A Tree Home~
+Barriers made of leaves that are still green have been pulled most of the
+way over the alcoves imbedded into the walls to the west and south.  Small
+shelves have been carved into the sides of the hollows, holding the personal
+items of the elves that use them for rest.  A diamond-shaped table has been
+pushed into the north-eastern corner, graced by a bowl full of flowers. 
+Globes crafted of magic have been placed on shelves around the room,
+providing light at all times.  Doorways leading to the north and east are
+visible, their archways crested with runes painted in a silver-blue color.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2981
+D1
+~
+~
+~
+0 0 2985
+M 0 H 0
+S
+#2984
+The Seamstress~
+A curtain of supple green leaves covers the southern wall, affording only
+a glimpse of the alcove that serves as a resting place for the weary elf
+that resides here.  A tall crystalline vase with a single blue rose has been
+centered on the surface of the table by the eastern wall.  Covering the
+walls are various racks, draped in bolts of cloth.  Finished clothing hangs
+from hooks in the ceiling, on display for all who care to inspect the
+seamstress's handiwork.  Silvery-blue runes are scrawled over the archways
+that lead to the north and west, glowing faintly in the light shed from orbs
+placed around the room.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2987
+D3
+~
+~
+~
+0 0 2982
+M 0 H 0
+S
+#2985
+Cerulyian's~
+Stout staves of yew hang from cords attached to the ceiling, large rocks
+tied to the bottoms of the wood so that they will dry straight before
+carving.  Upon a large round of wood sits a selection of knives and tools,
+as well as a pile of fine feathers.  Piled in the north-most corner is a
+mound of cured pelts, waiting to be used.  A knotted rope hangs in front of
+a high alcove, in which a comfortable looking cot can just be seen, covered
+in furs.  The archways leading to the south and west are decorated with
+symbols of a silvery-blue color.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 2986
+D3
+~
+~
+~
+0 0 2983
+M 0 H 0
+S
+#2986
+Inside a Tree~
+Globes of light, most likely magical in nature, have been placed around
+the chamber to illuminate it at all times.  Curtains fashioned from pliable
+leaves that seem to live still are pushed to the side, exposing alcoves that
+are carved into the western wall.  Each hollow has been lined with feathers
+and furs for rest, with small shelves further burrowed into the wood of
+each.  A small table that looks like it was once a tree stump is located in
+the center of the room, with various pillows scattered around it.  Arching
+doorways, engraved with various runes, lead to the north and east.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2985
+D1
+~
+~
+~
+0 0 2998
+M 0 H 0
+S
+#2987
+Inside a Tree~
+Green leaves have been woven together to create curtains that can be
+drawn across the exposed alcove set into the western wall.  The bottom of
+this large, hollowed space has been lined in soft furs while shelves have
+been set into the alcove's wall.  Globes of light have been placed
+strategically around the room, providing illumination when needed.  Archways
+with traces of silvery-blue runes painted upon them lead to the south and
+east.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 2988
+D2
+~
+~
+~
+0 0 2984
+M 0 H 0
+S
+#2988
+The Gathering~
+The center of this room is dominated by a large stage area, this has been
+left empty at the moment awaiting the next artist.  All around this chamber,
+strings of magical lights hang from shimmering threads of silvery spider
+silk, looking almost like morning dew.  Radiating out from the stage in
+three concentric rings are tires of equally spaced tables and chairs, the
+surfaces of which carved to depict woodland scenes.  Adorning the walls are
+flowers, streamers, banners and life-like carvings each following the soft
+curve of the living walls.  The flowing script on the banners looks to be in
+ancient elvish and shimmers with light enchantment.  Vaulted rune-inscribed
+archways lead off to the east and west, each looking more like something
+living than crafted.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 2989
+D3
+~
+~
+~
+0 0 2987
+M 0 H 0
+S
+#2989
+The Kitchens~
+Surprisingly large for the inside of a tree, this chamber can be none
+other than the kitchens.  Racks for cooling breads and pastries line the
+southern wall like shelves.  The northern wall has several small doors set
+into it with glass panels that allow the chefs to view the food as it bakes.
+An open hearth is set under the enclosed ovens, the fires constantly fueled
+and ready for use.  Tables are arranged neatly, providing space for the
+cooks to place readied food.  Runes are scrawled neatly in silvery-blue
+paint around the archways that lead east and west.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 2990
+D3
+~
+~
+~
+0 0 2988
+M 0 H 0
+S
+#2990
+An Elven Archive~
+Shelf after shelf of scrolls and what can only be tomes of ancient lore
+line the walls of this chamber.  A low table is situated in the middle of
+the room, pillows of different sizes and shapes scattered around it. 
+Several racks with maps and parchments are strategically placed around the
+area, their contents straightened regularly with care.  A small desk can be
+seen on the north end of the room, alongside a comfortable-looking chair. 
+Hanging from the ceiling are models of various flora and fauna, suspended
+from silvery threads.  Rune-decorated archways lead off to the south and
+west.  
+~
+0 4194312 0
+D2
+~
+~
+~
+0 0 2991
+D3
+~
+~
+~
+0 0 2989
+M 0 H 0
+S
+#2991
+A Tree Home~
+A cross section of oak has been placed at the center of the chamber, the
+surface artfully carved to depict a waterside scene, working as a table with
+soft pillows around it.  Gossamer strands of spider silk drape from the
+roof, beaded with orbs of enchanted light that shine constantly with a soft
+light.  An oval opening in the curving wall functions as a window where ivy
+leaves have been crafted into beautiful curtains to either side of it. 
+Large rune-coated archways lead out of this room to the north and east. 
+Placed upon the circular table is a vase crafted from what looks like ice
+holding pale white lilies within it.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2990
+D1
+~
+~
+~
+0 0 2992
+M 0 H 0
+S
+#2992
+Echo's Chamber~
+A tall golden harp is in the corner, complimented with a small wooden
+stool.  Several racks of instruments are visible, the variety available
+ranging from flutes, mandolins, lutes, and drums to ocarinas and more exotic
+music devices.  Several pillows are placed on the floor, providing comfort
+to all who tarry here.  Lights placed around the room at even intervals
+steadily illuminate the chamber.  A small alcove can be seen set into the
+northern wall, a curtain of leaves concealing most of the bed.  Stands and
+parchment sheets of music have been placed just as carefully against the
+eastern most wall.  Silken strands decorated with soft silver lights of
+magical creation hang in gentle loops from the ceiling casting a soft
+constant glow about.  Sigil inscribed archways lead off to the south and
+east.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 2993
+D3
+~
+~
+~
+0 0 2991
+M 0 H 0
+S
+#2993
+A Tree Home~
+A small ladder has been placed against the eastern wall, providing easy
+access to the higher hollowed bed spaces.  Feathers hang from the ladder,
+coupled with small stones of various colors, that spin at the slightest
+disturbance.  Curtains devised of green foliage are drawn partway across the
+openings, concealing only half of the bedded hollows.  A small table that
+appears to be the remainder of a tree has been placed nearby, pillows and
+cushions scattered around it.  Doorways with archaic symbols dotting the
+edges lead to the north and south.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2992
+D2
+~
+~
+~
+0 0 2994
+M 0 H 0
+S
+#2994
+Fenferil's Hovel~
+A stately table dominated with small models, painted to perfection, can
+be seen against the western wall.  A curtain of greenery covers most of the
+eastern wall, leaving only a small portion bare, giving you a glimpse of the
+alcove used as a bed beyond the modest barrier.  A wooden box full of paints
+and varnishes sits on a chair alongside a cup full of water, a rag, and a
+few paint brushes.  The walls have been painted to resemble a night sky, the
+motif further enforced by delicate lights hanging daintily from spider silk,
+twinkling like stars.  Archways lead both north and west, the runes painted
+around the edges shimmering.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2993
+D3
+~
+~
+~
+0 0 2995
+M 0 H 0
+S
+#2995
+Arina's Sanctuary~
+Lofty ledges can be seen above, barrels stacked neatly upon the shelving,
+with no plainly visible way to reach them.  Set into the northern and
+western walls are racks with countless bottles of fine wine and mead, all
+labeled with archaic symbols.  A small sculpture in the shape of a candle is
+upon the table located on the middle of the room illuminating its
+surroundings with gentle light.  Burrowed into the eastern wall, beside a
+rune-inscribed archway, is a small alcove with a curtain half-drawn across
+it.  Another doorway leads southward.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 2994
+D2
+~
+~
+~
+0 0 2996
+M 0 H 0
+S
+#2996
+Elyrian's Perch~
+Numerous pegs jut out from the eastern wall, a small tray full of seeds
+located near each.  A large, round hole can be seen, with no barrier between
+this chamber and the outside world, giving a clear view of a rather large
+bird feeder that has been fastened to a nearby branch.  Birds occasionally
+roost upon the pegs or the window's sill, cooing and chirping softly. 
+Feathers have been tied together to form a curtain that covers the hollowed
+space in the southern wall, slightly agape to reveal a fur-lined basin. 
+Archways covered in symbols of an unknown variety lead to the north and to
+the west.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2995
+D3
+~
+~
+~
+0 0 2997
+M 0 H 0
+S
+#2997
+Severil's Abode~
+A multi-tier platform crafted of a dark wood has been placed against the
+northern wall.  A small rack designed for holding resting instruments in
+addition to sheet music is near the small dais, where several sheets of
+parchment can be found.  The bottom of the oval hollow located within the
+southern wall has been lined with furs, serving as a bed for the elf that
+lives here.  A fine curtain devised of living tree leaves partially covers
+the alcove, being half-drawn across the opening.  There are runes following
+the edge of the archways leading east and west.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 2996
+D3
+~
+~
+~
+0 0 2998
+M 0 H 0
+S
+#2998
+Liltana~
+Faintly glowing blue moss grows across the vaulted ceiling and the walls
+of this circular room.  Suspended from the ceiling are dozens of dainty
+lights, dangling from spider silk.  A balcony can be seen on both the
+northern and southern sides of the room.  Chairs with stands to hold sheets
+of music are located on the northern balcony, presumably for a small
+orchestra.  The southern balcony simply holds several chairs, the rows on a
+slow incline to provide a good seat for all.  Nestled at floor-level around
+the room are couches that follow the circular shape of the walls.  Elaborate
+doorways with runes inscribed over the arches lead east and west.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 2997
+D3
+~
+~
+~
+0 0 2986
+M 0 H 0
+S
+#2999
+Out on a Limb~
+Lights suspended by what appears to be spider silk dangle close by.  The
+limb is wide and smooth, the top being rather flat, almost as if by design. 
+From here, a fountain of ice and four wooden statues can be seen a distance
+below on a blue moss bed that leads from the gates to the great tree.  Fog
+pours from the fountain, slowly moving over the ground, tendrils of the mist
+grasping at everything it touches.  The statues appear to be of elves,
+displaying various forms of mastery that they praise: music, dance, and
+falconry.  The entire garden is visible, the symmetry of it making it an
+incredible sight to behold.  There is an opening in the tree trunk, to the
+west.  
+~
+0 524 0
+D3
+~
+~
+~
+0 0 2981
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 2979 4 1
+D 0 2981 5 1
+M 0 2951 1 2952 10
+M 0 2951 3 2953 10
+O 0 2975 0 2954
+M 0 2953 1 2955 10
+O 0 2976 0 2955
+P 0 2977 0 2976 10
+P 0 2977 0 2976 10
+P 0 2977 0 2976 10
+M 0 2951 3 2956 10
+M 0 2964 8 2958 10
+E 0 2966 0 5
+E 0 2970 0 8
+E 0 2967 0 16
+O 0 2964 0 2958
+M 0 2963 6 2959 10
+E 0 2968 0 16
+M 0 2953 3 2960 10
+M 0 2952 3 2962 10
+O 0 2975 0 2963
+M 0 2968 6 2965 10
+E 0 2985 0 16
+O 0 2975 0 2966
+M 0 2953 1 2966 10
+M 0 2968 6 2968 10
+E 0 2985 0 16
+O 0 2975 0 2968
+M 0 2968 1 2969 10
+O 0 2975 0 2969
+M 0 2968 6 2970 10
+E 0 2985 0 16
+M 0 2953 2 2971 10
+O 0 2975 0 2972
+M 0 2968 6 2972 10
+E 0 2985 0 16
+O 0 2986 0 2972
+M 0 2951 3 2973 10
+M 0 2953 1 2973 10
+M 0 2965 6 2976 10
+E 0 2960 0 7
+E 0 2959 0 5
+E 0 2956 0 16
+E 0 2970 0 8
+M 0 2951 1 2977 10
+M 0 2966 6 2978 10
+E 0 2969 0 17
+O 0 2955 0 2980
+M 0 2966 6 2982 10
+E 0 2969 0 17
+M 0 2963 6 2983 10
+E 0 2968 0 16
+M 0 2962 1 2984 10
+G 0 2963 0
+G 0 2960 0
+G 0 2959 0
+G 0 2957 0
+M 0 2960 1 2985 10
+G 0 2965 0
+G 0 2967 0
+G 0 2972 0
+G 0 2971 0
+G 0 2970 0
+G 0 2956 0
+M 0 2964 8 2986 10
+E 0 2966 0 5
+E 0 2970 0 8
+M 0 2965 6 2987 10
+E 0 2960 0 7
+E 0 2959 0 5
+E 0 2956 0 16
+E 0 2970 0 8
+M 0 2964 8 2988 10
+E 0 2966 0 5
+E 0 2970 0 8
+E 0 2967 0 16
+M 0 2965 6 2988 10
+E 0 2960 0 7
+E 0 2959 0 5
+E 0 2956 0 16
+E 0 2970 0 8
+M 0 2966 6 2988 10
+E 0 2969 0 17
+M 0 2961 1 2989 10
+G 0 2980 0
+G 0 2979 0
+G 0 2951 0
+G 0 2952 0
+G 0 2978 0
+M 0 2963 6 2989 10
+E 0 2968 0 16
+M 0 2966 6 2989 10
+E 0 2969 0 17
+O 0 2987 0 2990
+M 0 2958 1 2990 10
+E 0 2983 0 15
+E 0 2983 0 14
+E 0 2965 0 5
+E 0 2970 0 8
+M 0 2963 6 2990 10
+E 0 2968 0 16
+M 0 2966 6 2991 10
+E 0 2969 0 17
+M 0 2954 1 2992 10
+E 0 2984 0 10
+E 0 2963 0 5
+E 0 2970 0 8
+M 0 2964 2 2993 10
+E 0 2966 0 5
+E 0 2970 0 8
+E 0 2964 0 16
+M 0 2956 1 2994 10
+E 0 2961 0 5
+E 0 2962 0 17
+E 0 2960 0 7
+E 0 2970 0 8
+M 0 2957 1 2995 10
+G 0 2953 0
+G 0 2981 0
+G 0 2954 0
+G 0 2982 0
+M 0 2967 1 2996 10
+M 0 2959 1 2996 10
+E 0 2960 0 7
+E 0 2967 0 16
+E 0 2970 0 8
+E 0 2971 0 9
+E 0 2972 0 12
+M 0 2955 1 2997 10
+E 0 2957 0 6
+E 0 2958 0 17
+E 0 2959 0 5
+E 0 2960 0 7
+E 0 2970 0 8
+M 0 2964 8 2998 10
+E 0 2966 0 5
+E 0 2970 0 8
+E 0 2964 0 16
+M 0 2965 8 2998 10
+E 0 2960 0 7
+E 0 2959 0 5
+E 0 2956 0 16
+E 0 2970 0 8
+M 0 2963 6 2998 10
+E 0 2968 0 16
+O 0 2974 0 2999
+S
+
+
+
+#SHOPS
+2957 0 17 0 0 0 150 40 8 20
+2960 0 9 5 0 0 100 100 8 20
+2961 0 19 0 0 0 150 40 8 20
+2962 0 11 0 0 0 150 40 8 20
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

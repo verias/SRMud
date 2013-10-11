@@ -1,0 +1,906 @@
+#AREADATA
+Name        { ALL } Diku    The Void~
+Builders    None~
+VNUMs       1 99
+Security    9
+Flags       16~
+End
+
+
+
+#MOBILES
+#1
+Puff~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+~
+You see a fantastic, vaguely draconian-shaped mathematical pattern.  
+Even as you watch, though, the form reiterates itself in finer detail--
+with each passing moment, the shape becomes more complex and interesting.
+Almost, almost, you can discern the pattern...
+
+For all her fabulous appearance, though, Puff seems quite... addled.  As 
+the definition of her eyes increases, you realize that the Fractal Dragon 
+is obviously not paying much attention to the mortal world; she seems lost 
+in strange contemplations.
+
+~
+unique~
+A 0 1000 S
+101 5 20d2000+6000 101d10+100 20d20+50 32
+-45 -45 -45 -40
+MNc AB CD 0
+9 9 2 454
+DHZ ACDEFHJKPQUVX M unknown
+#2
+earth elemental~
+an earth elemental~
+A towering earth elemental lumbers about.
+~
+Made of packed earth and bits of sod, this large mass lumbers about. Though
+you see no legs to provide its movements, it almost seems as if it slides
+through the earth like a hot knife through butter. It stares off into the
+distance, looking at nothing in particular.
+~
+unique~
+A TU 0 S
+0 0 0d0+0 0d0+0 0d0+0 17
+0 0 0 0
+CL LQ 0 CN
+9 9 0 0
+ACHJMV ABCDEFGHIJK M unknown
+#3
+A sturdy pony~
+a sturdy pony~
+A shaggy-maned pony of the plains waits here.
+~
+A sturdy pony, with short, strong legs and a wide back, stands ready to
+mount.  His tangled mane is shaggy and his coat is thick and coarse, serving
+as protection against wind and rain.  He is the colour of ripening wheat,
+perfect camoflage from the hunting beasts of the plains.  Although wild in
+nature, he stands peacefully, at ease in your presence.  
+~
+Pig~
+A 0 0 S
+5 0 1d12+53 5d10+100 1d2+1 27
+8 8 8 8
+HI 0 0 0
+9 9 0 22
+AGV ACDEFHJKP M unknown
+#4
+Riding horse~
+a riding horse~
+A sleek riding horse is here, waiting for his master.
+~
+Before you stands a sleek riding horse.  He is beautifully equipped with
+fine leather saddle and bridle, a brightly coloured blanket, and
+silver-tipped stirrups.  He is very well groomed, with mane and tail clipped
+and combed, and his reddish coat brushed almost to a shine.  He paws the
+ground impatiently with one hoof as he waits.  
+~
+Pig~
+A 0 0 S
+10 0 3d23+120 10d10+100 2d3+2 27
+6 6 6 6
+HI 0 0 0
+9 9 3 45
+AGHMV ACDEFGHJKP L unknown
+#5
+sleek war horse~
+a sleek war-horse~
+A glossy `Cblue`w war-horse snorts and shakes her mane in annoyance.
+~
+Tamed yet with a frighteningly wild spirit, the war-horse observes the
+world with her angry eyes, her mind divided and independent of her owner's
+will.  Bulging coils of muscle are well defined on her sleek hide, evidence
+of scarring labelling her for the fighter she is.  Her loud, regular
+breathing forces columns of hot steam into the air, travelling far before
+dispersing into faraway nothing.  Impatient, the horse lives for and awaits
+action.  
+~
+Dog~
+A 0 0 S
+30 0 10d60+520 30d10+100 3d6+8 15
+-1 -1 -1 0
+CHIL 0 M 0
+9 9 2 135
+AGHV ACDEFHJKPUV L unknown
+#6
+majestic gryphon~
+a majestic gryphon~
+A majestic gryphon delicately smoothes her feathers.
+~
+A comely being of fiercely deceiving grace, the gryphon's clear, focussed
+eyes glint strangely with bird-like malice.  Gold shines opulently from a
+royal mane, soft feathers lapping intricately along a muscular hide and
+spreading into powerful wings.  Magic is folded heavily into the beast's
+archaic form, her oddly spectral contrast of lion and bird emphasising her
+presence, inducing wariness from all sentience she nears.  Claws with the
+sharpness of talons and the strength of lion feet scrape at stone and air
+with a viscous screech.  Hissing, a piercing beak warns.  
+~
+Wyvern~
+A DFTZ 0 S
+65 0 11d352+1789 65d10+100 5d8+19 5
+-15 -15 -15 -13
+CFHM BL J HS
+9 9 2 292
+ABGWZc ACDEFHJKOPQUVX H unknown
+#7
+black dragon~
+an inky black dragon~
+An ominous dragon swallows the light through his inky black scales.
+~
+A throbbing eminence of power exudes from the dragon, drawing all eyes
+upon him.  Inexorable, vice-like talons curl sharply at the sides of his
+huge form, their cruel claws glinting dully.  Black scales plate the beast
+for a metallic effect, moulded over his body like molten lead.  Scarlet eyes
+observe the area imperiously, with an expression almost thoughtful and
+intelligent, a long, leering smile curves outwards along a noble face.  A
+hint of wickedly sharp teeth glimmers when the beast draws his rasping
+breath.  
+~
+Dragon~
+A DFOTZc 0 S
+95 0 12d1182+3558 95d10+100 6d10+29 5
+-30 -30 -30 -25
+CFHLM KL J S
+9 9 1 427
+ABCGHMVZc ACDEFHJKLOPQUVX G unknown
+#8
+mount steed horse magical~
+a magical steed~
+A royal blue steed, speckled with magical stars of diamond, gently rocks her dream-refined head.
+~
+Either a nightmare or a dream depending on the focus of her rider, this
+vehicle of hellish or angelic divinity is however a being of constant charm
+and grace.  Each curve of her mystifying body is drawn in exasperating
+sculptural ecstasy, her smooth coat devoid of the natural roughness of hair
+and glistening like a pool of liquid sapphire flecked with the stars of a
+reflected night sky.  The steed needs no saddle, for her bare back radiates
+a pleasant warmth, and gently hugs the rider into a position more
+comfortable than the finest leather apparel.  Observing all with keen
+readiness and spiritual loyalty silver eyes shine from a beautiful and
+soulful, though perhaps deceiving head, their dazzling depths adjusting
+fluidly to that of their master.  
+~
+Dog~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 7
+0 0 0 0
+HIO HQ KLP I
+9 9 2 0
+AGV ACDEFHJKPUV M unknown
+#9
+familiar~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 0 0
+AHMV ABCDEFGHIJK M unknown
+#10
+magic sword~
+a magic sword~
+A sword inscribed with archaic runes trembles with magic as it sweeps angrily through the air.
+~
+An ancient object of incisive malice, the sword hums with the arcane
+sentience that sifts at the centre of its presence.  Although burnished with
+strange, twisting runes, the sword is plainly crafted, with only a large
+sapphire serving as decoration for the pommel.  Along the contours of the
+black, leaden blade, the area is blurred, as though the sword resides only
+half in this reality, and by fearsome will forges its light into definition.
+Hovering effortlessly in mid-air, the sword sweeps restlessly back and
+forth, the deadly edge thirsty for blood and souls.  
+~
+Human~
+A T 0 S
+25 0 4d48+400 25d10+100 3d5+7 1
+-5 -5 -5 2
+EFHK LPQR D HJK
+9 9 0 112
+ABHKMV ABCDEFGHIJK S unknown
+#11
+Insect swarm~
+a swarm of insects~
+A large swarm of various insects is here, making a dark, compact mass.
+~
+There is a large swarm of various insects.  The hundreds of tiny bodies
+could overcome many an adversary.  Black hairy spiders and large fire ants
+cover the floor, running constantly in every direction.  The air is
+shivering with the buzz of many winged creatures.  Large bees and locusts
+fill the air, ready to shred anything to pieces.  
+~
+Centipede~
+A TZa 0 S
+40 13 10d98+804 40d10+100 4d7+10 26
+-15 -15 -15 -2
+AH 0 FI EH
+9 9 0 180
+AGO ACFKVX L unknown
+#12
+conjuration~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 S
+60 0 11d277+1559 60d10+100 5d7+19 0
+-27 -27 -27 -9
+0 0 0 0
+9 9 0 270
+AHMV ABCDEFGHIJK L unknown
+#13
+creeping doom locusts swarm~
+a swarm of creeping doom~
+A swarm of giant locusts grows in size with each passing moment.
+~
+Giant locusts, many breathing fire, materialize from what appears to be
+thin air.  They keep coming, over and over.  Defeat one, and three more
+appear.  The air fairly shakes with the buzz of their wings.  They devour
+anything in their path.  
+~
+Centipede~
+A TZ 0 S
+80 15 11d677+2588 80d10+100 5d10+24 18
+-40 -50 -40 -15
+ACH 0 FI EH
+9 9 0 360
+ABGO ACFKOX L unknown
+#14
+chipmunk~
+a chipmunk~
+A small chipmunk scratches at the ground.
+~
+This mouse-sized creature can only be a chipmunk, evidenced by several
+vertical stripes of black and white on its back.  The rest of its fur is a
+tawny color, the hair short and soft.  When left to its own devices, it
+darts around freely with a speed that could be envied.
+~
+Rabbit~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 10
+0 0 0 0
+FH 0 0 0
+9 9 0 0
+AGV ACDEFHJKP M unknown
+#15
+rabbit~
+a gray rabbit~
+This gray rabbit hops about warily.
+~
+This small rabbit is covered in soft gray fur.  His floppy ears stand up
+straight for the most part, just the tips curling forwards.  He stares back
+at you unmoving, his black eyes piercing into your own.  
+~
+Rabbit~
+A TZ 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+FH 0 0 0
+9 9 1 0
+ACGHMVXc ABCDEFGHIJKLOPUVW M unknown
+#16
+brown fox~
+a large brown fox~
+This large brown fox snaps its teeth at you.
+~
+The brown fur on the back of the fox stands on edge and quivers slightly
+as its nose is raised in the air, smelling your approach.  It watches you
+warily, moving into a pounce and attack position as you draw closer,
+snapping its jaws, giving you warning.  
+~
+Fox~
+A Z 0 S
+0 0 0d0+0 0d0+0 0d0+0 32
+0 0 0 0
+FH 0 0 0
+9 9 1 0
+AGV ACDEFHJKPUV M unknown
+#17
+gray wolf~
+a large gray wolf~
+This large gray wolf growls softly.
+~
+Covered in thick gray fur that is matted together, this wolf stands tall.
+His parted jaws allow the sight of an extremely sharp set of teeth. 
+Piercing yellow eyes stare back at you from under his brow even as a low
+growl can be heard.  
+~
+Wolfen~
+A FJZ 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+FH 0 I H
+9 9 0 0
+AGHMV ABCDEFGHIJKLPQUV M unknown
+#18
+large black bear~
+a large black bear~
+This large black bear stands up on his back legs at your approach.
+~
+This large black bear growls at your approach, rising up onto its back legs.
+~
+Human~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 10
+0 0 0 0
+0 0 0 0
+9 9 0 0
+AHMV ABCDEFGHIJK M unknown
+#41
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 0 0
+AHMV ABCDEFGHIJK M unknown
+#99
+cave beast creature~
+a cave beast~
+This large creature rests in the shadows of the darkness.
+~
+This heavily muscled creature is totally naked.  His black leathery skin
+hugs his frame with an inhuman distinction.  From the way he looks, he is
+apparently not one to trifle with.  His eyes are what really set him apart
+from others, as they seem to glow with a red passion.
+~
+Demon~
+A CDFHJOTVZa 0 S
+102 0 20d2000+6000 408d10+100 20d20+50 20
+-75 -75 -75 -70
+0 ABLPQ CDM N
+9 9 1 459
+ACGHIMVZc ACDEFHJKLOPUVW M unknown
+#0
+
+
+
+#OBJECTS
+#1
+dummy object~
+a dummy object~
+Dummy object si used for loading non-existent objects~
+unknown~
+0 0 0 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#2
+coin gold~
+a gold coin~
+One miserable gold coin.~
+unknown~
+20 0 A 0
+A 0 0 0 0
+0 1 0 P
+0 0
+#3
+coins gold~
+%d gold coins~
+A pile of gold coins.~
+unknown~
+20 0 A 0
+0 0 0 0 0
+0 1 0 P
+0 0
+#4
+bloody severed legs~
+bloody severed legs~
+A pair of ragged severed legs pump gallons of blood across the floor.~
+unknown~
+5 0 AN 0
+A BD BD D E
+0 20 1 P
+E
+legs~
+They've been severed clean off the body, so clean that there is a sharp edge
+on the protruding bone.  Blood pumps out of the sliced arteries, making both 
+legs drown in deep red gore.  There are bits of flesh hanging off the
+edges of the cuts, dangling like pieces of meat from a predator's mouth.
+The toes still wiggle, bent at odd angles, the toenails black.
+~
+0 0
+#7
+hair dog~
+the hair of a dog~
+A small pouch containing the hair of a dog is here.~
+unknown~
+26 AG A 0
+20 0 0 0 0
+10 0 300 P
+0 0
+#8
+no name~
+(no short description)~
+(no description)~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#10
+corpse~
+corpse of %s~
+The corpse of %s is lying here.~
+unknown~
+23 0 A AFJM
+0 0 0 A 0
+0 100 0 D
+0 0
+#11
+corpse~
+corpse of %s~
+The corpse of %s is lying here.~
+unknown~
+24 0 A AFJM
+0 0 0 A 0
+0 100 0 D
+0 0
+#12
+head~
+the head of %s~
+The severed head of %s is lying here.~
+unknown~
+13 0 A 0
+0 0 0 0 0
+0 5 1 D
+0 0
+#13
+heart~
+the heart of %s~
+The torn-out heart of %s is lying here.~
+unknown~
+19 0 A 0
+E 0 0 0 0
+0 2 1 D
+0 0
+#14
+arm~
+the arm of %s~
+The sliced-off arm of %s is lying here.~
+unknown~
+19 0 A 0
+CE 0 0 0 0
+0 5 1 D
+0 0
+#15
+leg~
+the leg of %s~
+The sliced-off leg of %s is lying here.~
+unknown~
+19 0 A 0
+CE 0 0 0 0
+0 5 1 D
+0 0
+#16
+guts entrails~
+the guts of %s~
+A steaming pile of %s's entrails is lying here.~
+unknown~
+19 0 A 0
+AC 0 0 A 0
+0 2 1 D
+0 0
+#17
+brains brain~
+the brains of %s~
+The splattered brains of %s are lying here.~
+unknown~
+19 0 A 0
+BD 0 0 0 0
+0 2 1 D
+0 0
+#18
+smoked meat~
+some smoked meat~
+Some tasty smoked meat is here.~
+unknown~
+19 0 AO 0
+BD 0 0 0 0
+1 1 750 P
+0 0
+#19
+raw meat~
+a piece of raw meat~
+A piece of raw meat is here.~
+unknown~
+13 0 AO 0
+0 0 0 0 0
+1 0 1 P
+0 0
+#20
+loaf bread~
+an unleavened loaf of bread~
+An unleavened loaf of bread is here.~
+unknown~
+19 0 A 0
+D 0 0 0 0
+0 1 1 P
+0 0
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+unknown~
+1 A A 0
+0 0 999 0 0
+0 0 0 P
+0 0
+#22
+spring~
+a magical spring~
+A magical spring flows from the ground here.~
+unknown~
+25 G 0 0
+FHJKPQ FHJKPQ 0 0 0
+0 0 0 P
+0 0
+#23
+flame sword flamesword~
+a flamesword~
+A magic sword with a blade of flame is here on the ground.~
+unknown~
+5 G ANPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0
+B 0 ABC ACDE F
+0 10 1 P
+A
+19 3
+A
+18 3
+0 0
+#24
+steak~
+a nice, juicy steak~
+A big, juicy steak is here.~
+unknown~
+19 0 A 0
+0 0 0 0 0
+0 5 1 P
+0 0
+#25
+slab smoked venison~
+smoked venison~
+A slab of smoked venison is here.~
+unknown~
+19 G AO 0
+CD 0 0 0 0
+0 2 1 P
+L
+held greedily~
+0 0
+#26
+jug fruit juice~
+a jug of juice~
+A small, faintly glowing jug is here.~
+unknown~
+17 0 AO 0
+0 0 CE 0 0
+0 5 1 P
+0 0
+#30
+multi-colored berries~
+some multi-colored berries~
+These multi-colored berries look pretty tasty.~
+unknown~
+19 0 AO 0
+D 0 0 0 0
+1 0 0 P
+0 0
+#31
+purple mushroom~
+a purple mushroom~
+This purple mushroom looks pretty tasty.~
+unknown~
+19 0 AO 0
+D 0 0 0 0
+1 1 0 P
+0 0
+#32
+green apple~
+a green apple~
+This small green apple looks pretty tasty.~
+unknown~
+19 0 AO 0
+D 0 0 0 0
+1 1 0 P
+0 0
+#33
+nuts~
+some assorted nuts~
+These assorted nuts look pretty tasty.~
+unknown~
+19 0 AO 0
+D 0 0 0 0
+1 1 0 P
+0 0
+#40
+suit shadow plate~
+`wA suit of `Kshadow `wplate.~
+A suit of dark armour lays here almost invisible its plates linked with a strange dark metal.~
+unknown~
+9 0 AD 0
+ABCDE ABCDE ABCDE ABC 0
+110 0 550 P
+0 0
+#41
+stave shadow~
+`wThe Stave of `KShadows`w~
+A long staff lays here, its power is obvious and as you approach your head begins to pound.~
+unknown~
+5 0 ANO 0
+0 CD E ABDE A
+100 0 500 P
+0 0
+#42
+shadow dagger blade~
+`wa `KShadow `wBlade~
+A dark blade lays here, its surface wreathed in shadow.~
+unknown~
+5 0 AN 0
+B CD E ABD D
+30 0 150 P
+0 BC
+#54
+lavender leather couch~
+a lavender leather couch~
+A comfortable looking lavender leather couch floats mysteriously.~
+unknown~
+12 0 0 AEI
+0 0 0 0 0
+102 0 0 P
+0 0
+#55
+a note~
+a note~
+A note of some kind lies on the ground.~
+unknown~
+13 0 A 0
+0 0 0 0 0
+0 0 1 P
+E
+note~
+The note is written in black ink with a strong and forceful hand. It reads:
+ 
+Barons, and Baroness, my messengers are 
+bringing you this note each at the same time. 
+They are all my most trusted friends and loyal 
+servants. Whatever reply you give them shall 
+be delivered to me in the utmost secrecy, you 
+can be assured.
+Now, to the matter. We have been without a 
+Monarch in this land for many years, since the 
+death of Queen Jehanine the order of this land 
+has fallen. You have all done well to keep a 
+grip on such an unruly place, but I fear, as 
+do many others,
+that there is a change coming, and the recent 
+events surrounding the appearance of the 
+stranger called Sunrise have made us all think 
+of this.
+ 
+Baroness Kyssandra, I am sure you have heard 
+your people talk of the tales of Sunrise's 
+deceased friend Davis. Between them their talk 
+has infected many. Baron Fay, you have heard 
+first hand the tale of Sunrise, and of her 
+task. We are all
+witnessing the feelings that are spreading 
+through the land, hope is rife, and the 
+priests have begun to talk of prophecies come 
+true, and the return of true monarchy.
+ 
+I did not believe them. Until I ventured into 
+the heart of Cameria. I was attacked by some 
+Daemic priests who fled during battle. I 
+chased them down to the bowels of the 
+destroyed city where I was, in turn, cornered. 
+The ensuing battle was
+something of personal legend, and I despatched 
+them all to their Gods.
+ 
+I recovered there for many days, hiding in the 
+depths of their lair. These strange creatures, 
+described by Davis, were everywhere, unlike 
+anything I had seen before. Occasionally I 
+would see a human-type walking with them. He 
+had the air of
+authority, and the creatures obeyed him.
+ 
+When I was rested, and in the dead of night, 
+when these creatures were wondering Cameria, I 
+followed the human creature. I found his lair, 
+and with the aid of my professional skills, I 
+killed it in its sleep, along with its 
+servant. These
+were the creatures Sunrise and Davis talked 
+about, and to prove it, I found the body of 
+their friend Justin.
+ 
+I am sure you now know what I am about to tell 
+you. I have the item they died trying to 
+protect. I have the Ring of Order.
+ 
+I prised it from the finger of the corpse of 
+the human creature. From my many nights there, 
+I believe he was amassing an army, to what end 
+I do not know, but the numbers were growing 
+and all were compelled to do his bidding.
+ 
+The priests have foretold this, the Gods have 
+orchestrated it, and now I must complete it. I 
+plan, with your aid, to resume the great 
+Monarchy and return order to our land. I feel 
+I have been chosen to be King, and with this 
+Ring we can
+restore order to the land.
+ 
+We can work together to work the cities of 
+this land as one in times of crisis, to make 
+our borders strong and each city safe. You 
+will, of course, benefit from this power. You 
+shall find my help wise, strong and swift. I 
+will not be
+turned or corrupted, I have the Gods behind 
+me.
+ 
+Entrust your response to my messengers. Once I 
+have them, we shall begin and I shall assume 
+the Kingship.
+ 
+ 
+For Discordia, and this great land.
+ 
+Tanos, High Draconian Ambassador.
+~
+0 0
+#57
+make bag object~
+a makebag object~
+This is the make bag object.~
+unknown~
+15 0 AL 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#58
+spectral light~
+dancing spectral lights~
+These dancing spectral lights glow with an otherworldly illumination.~
+unknown~
+1 AS A 0
+0 0 999 0 0
+1 1 120 P
+L
+drifting around~
+0 0
+#59
+multicolored rose~
+a magnificent `Rm`bu`Cl`gt`Yi`rc`Mo`cl`Go`wr`Be`md`w rose~
+This `Rm`bu`Cl`gt`Yi`rc`Mo`cl`Go`wr`Be`md`w rose is absolutely magnificent in its beauty.~
+unknown~
+8 0 AQ 0
+0 0 0 0 0
+1 0 10 P
+A
+13 10
+A
+12 25
+L
+tucked behind ear~
+0 0
+#99
+long black whip~
+a long black whip~
+This long black whip has been made from the tentacles of a powerful cave creature.~
+unknown~
+5 ABGMQST AN 0
+ABC CD E CE CH
+100 8 500 P
+A
+18 11
+A
+19 11
+0 0
+#0
+
+
+
+#ROOMS
+#1
+The Void~
+You are floating in nothing.
+~
+0 1049608 0
+D5
+~
+~
+0 0 3001
+S
+#2
+Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 34612232 1
+D4
+~
+~
+0 -1 3001
+S
+#26
+~
+~
+0 4 0
+S
+#55
+~
+~
+0 4 0
+S
+#78
+~
+~
+0 4 0
+S
+#98
+Shapeshifters Corral~
+This room has a large wooden fence and was designed to keep shapeshifters
+locked up away from the general public.  They are scary creatures after all.
+~
+0 34604044 0
+S
+#99
+An Underground Chamber~
+The rough surface of the rocks which make up the floor and walls of this
+chamber are a dark red in color.  Several small boulders are scattered
+across the floor, seeming to have been dropped from the ceiling above.  One
+of the most noticeable things about this room is its extreme warmth.  Though
+judging from the distance that you fell, you are deep underground.  There
+are no visible exits to this chamber.
+~
+0 34603021 0
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 1 spec_puff Load to: Puff
+M 7 spec_breath_acid Load to: an inky black dragon
+M 99 spec_dispel Load to: a cave beast
+S
+
+
+
+#RESETS
+M 0 99 1 99
+E 0 99 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,1643 @@
+#AREADATA
+Name {40 60} Eris    Necromancer's Mansion~
+Builders Eris~
+VNUMs 10600 10700
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#10600
+skeleton~
+a skeleton~
+A skeleton moves silently towards you.
+~
+The skeletons red glowing eyes glare at you as it reaches for your throat.
+~
+human~
+AFM F -300 0
+40 0 10d98+804 40d10+100 4d7+10 slash
+-5 -5 -5 -3
+CR B C N
+(null) (null) female 180
+AHIMV ABCDEFGHIJK medium unknown
+#10601
+ghoul~
+a ghoul~
+A ghoul stands here, hatred filling his eyes.
+~
+The ghoul is almost human.  His skin is grey and wrinkled and he smells
+of death but his hate filled eyes still show signs of life.  
+~
+human~
+AFM X -250 0
+40 0 10d100+1245 0d0+0 8d6+2 slash
+-15 -15 -15 -2
+NR 0 B 0
+(null) (null) female 180
+AHIMV ABCDEFGHIJK medium unknown
+#10602
+zombie~
+a zombie~
+A zombie shambles towards you.
+~
+This zombie looks recently dead.  Its skin is greyish-green and its hair
+is almost all out but you can still see that this zombie was once human.  
+~
+human~
+AM c -650 0
+45 0 10d128+1287 0d0+0 6d9+2 beating
+-18 -18 -18 -4
+IR B C H
+(null) (null) male 202
+AHIMV ABCDEFGHIJK medium unknown
+#10603
+mummy~
+a mummy~
+A powerful looking mummy is here.
+~
+You are not sure what lies beneath all those bandages but it couldn't
+possibly be anything living...  
+~
+human~
+ABM 0 -900 0
+50 0 10d167+1577 0d0+0 6d10+1 digestion
+-23 -23 -24 -6
+0 BLQ C HN
+(null) (null) male 225
+AHIMV ABCDEFGHIJK medium unknown
+#10604
+hell hound hellhound~
+a hellhound~
+A massive glowing wolf-like being with fiery eyes and massive canines stands here.  Don't pet it.
+~
+A massive glowing wolf-like being with fiery eyes and massive canines
+stands here.  Don't pet it.  
+~
+fido~
+AF V -1000 0
+55 0 11d216+1786 0d0+0 6d10+28 crush
+-24 -24 -24 -7
+FR BLQ 0 C
+(null) (null) either 247
+ABGV ACDEFHJKPQV medium unknown
+#10605
+lich~
+the lich~
+A powerful looking Lich radiates evil here.
+~
+Looking at the Lich fills you with dread.  It's form is that of a large
+man garbed in black robes inscribed with evil symbols of power and magic. 
+The power radiates from him and makes you feel weak and foolish.  
+~
+human~
+AMO FOVc -1000 0
+61 0 11d277+2158 10d100+50 6d11+30 charge
+-27 -27 -27 -13
+B BLQ C H
+(null) (null) male 274
+AHMV ABCDEFGHIJK medium unknown
+#10606
+necromancer Zorad~
+Zorad the necromancer~
+Zorad the necromancer stands here radiating power.
+~
+Zorad is obviously a powerful being.  Just being near him causes your
+hair to stand on end.  You are uncertain whether he is living or dead -
+portions of his skin seem to have turned grey and yet others are pink and
+fresh.  He is dressed in a simple black robe, stained with blood and he
+reeks of death and decay.  
+~
+human~
+A FHJc -1000 0
+100 10 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+DEI BLQ 0 0
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#10600
+okk collar~
+okk's collar~
+This collar is made of black leather with runes inscribed in metal on its surface.~
+unknown~
+protect BG AC
+ABCD ABCD ABCD BD 0
+55 4 2600 P
+A
+13 50
+#10601
+executioners axe unholy~
+the Executioners Axe~
+The axe glows with an unholy aura. The head seems to be made from some kind of bone, sharpened to a razors edge.~
+unknown~
+weapon AP AN
+mace 6 18 wrath D
+55 10 275 P
+A
+1 1
+A
+18 1
+A
+19 1
+#10602
+The Ring of Zorad~
+the Ring of Zorad~
+You look upon a pure white ring of bone.  Etched into its surface are arcane symbols of magic and power.~
+unknown~
+protect GJ AB
+BCD BCD BCD CE 0
+59 0 10000 P
+A
+12 60
+#10603
+rusty sword old~
+an old rusty sword~
+A rusty old sword lies before you.~
+unknown~
+weapon 0 AN
+sword 7 12 slice 0
+40 6 200 P
+A
+19 1
+A
+18 3
+#10604
+worn axe~
+a worn axe~
+A large but worn looking axe lies here.~
+unknown~
+weapon 0 AN
+mace 7 11 sunder 0
+40 6 200 P
+A
+19 2
+A
+18 2
+#10605
+cleaver huge meat~
+a HUGE meat cleaver~
+The biggest meat cleaver you have ever seen lies before you.~
+unknown~
+weapon 0 AN
+exotic 13 7 wrath 0
+50 10 250 P
+A
+19 3
+A
+18 5
+#10606
+silverware case leather~
+a set of silverware~
+You see before you a fairly worn leather case. Looking inside you see an expensive looking set of silverware.~
+unknown~
+container 0 A
+20 0 0 0 0
+0 15 400 P
+#10607
+necklace silver~
+a silver necklace~
+This necklace is made of silver, its large links making it heavy and appear to be distasteful.~
+unknown~
+treasure 0 AC
+0 0 0 0 0
+0 4 700 P
+#10608
+broach gold~
+a gold broach~
+An elegant gold broach lies before you.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 2 1000 P
+#10609
+ruby pendant~
+a ruby pendant~
+A ruby pendant on a gold chain lies here, seemingly discarded.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 3 1100 P
+#10610
+candlestick~
+a candlestick~
+A fairly valuable gold candlestick lies before you.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 2 200 P
+#10611
+portrait poorly painting~
+a poorly painted portrait~
+You see before you a very shoddy portrait of a young man. The picture is held in a rather heavy but valuable looking brass frame.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 10 100 P
+#10612
+old book~
+an old book~
+A large leather-bound book lies here. You notice that the cover is engraved with gold.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 6 1 P
+E
+old book~
+By the word of magic - dread
+I hear the corpse within my head,
+And by the void - I speak with dead
+ 
+Opposing me is all in vain
+I summon from another plane
+A creature now to be your bane
+ 
+By this word I now do speak
+Forces from beyond I seek
+A long-dead spirit, good or fell
+Will impart knowledge by this spell.
+~
+#10613
+hairbrush silver~
+a silver hairbrush~
+An antique silver hairbrush lies here.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 1 100 P
+#10614
+music box clockwork~
+a music box~
+A fine clockwork music box sits here collecting dust.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 2 500 P
+#10620
+drawer drawers set~
+a set of drawers~
+A solid-looking set of drawers stands against a wall.~
+unknown~
+container M 0
+200 AC 0 0 0
+0 100 0 P
+#0
+
+
+
+#ROOMS
+#10600
+On the Spiral Staircase~
+You are at the top of an elegant spiral staircase.  The purple carpet is
+deeply worn and the paint on the walls is faded.  A musty stench assaults
+your senses.  Do not linger long.  A hallway leads off both east and west or
+you may go back down to the first floor.  "Do not linger long."  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 10602
+D3
+~
+~
+~
+0 0 10603
+D5
+~
+~
+~
+0 0 10627
+M 0 H 0
+S
+#10602
+Hallway~
+The hallway seems very narrow and confined for a mansion of this size.
+The faded carpet is bare in places and illumination is minimal.  You notice
+a total lack of sound - even your footsteps seem quieter.  The hallway
+continues into darkness to the north and south or you may return to the
+stairway by heading west.
+~
+0 12 0
+D0
+~
+~
+~
+0 0 10608
+D2
+~
+~
+~
+0 0 10610
+D3
+~
+~
+~
+0 0 10600
+M 0 H 0
+S
+#10603
+Hallway~
+The hallway in front of you is not the most welcome of places.  It is
+dark, cold and smells of rot.  The hallway continues into darkness to the
+north and south.  To the east, a stairway is visible.  
+~
+0 13 0
+D0
+~
+~
+~
+0 0 10604
+D1
+~
+~
+~
+0 0 10600
+D2
+~
+~
+~
+0 0 10606
+M 0 H 0
+S
+#10604
+Hallway~
+The hallway is not a nice place to be.  It's walls are oppressively
+close, the air smells of damp and it is very cold.  Everything is much
+quieter than it should be and even your own breathing seems muffled.  A
+large wooden door sits in a fragile-looking doorframe to the west and the
+hallways continues to the north and south.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 10605
+D2
+~
+~
+~
+0 0 10603
+D3
+~
+~
+~
+1 0 10616
+M 0 H 0
+S
+#10605
+Hallway~
+You are at the end of what looks like quite a long hallway.  The air is
+filled with the stench of death and rot and it is very cold.  A solid
+looking oak door blocks passage to the west and the hallway itself continues
+to the south.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 10604
+D3
+~
+~
+~
+1 0 10617
+M 0 H 0
+S
+#10606
+Hallway~
+The hallway is unnaturally quiet.  Looking westwards you notice a heavy
+oak door while to the north and south you can see nothing but darkness.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 10603
+D2
+~
+~
+~
+0 0 10607
+D3
+~
+~
+~
+0 0 10614
+M 0 H 0
+S
+#10607
+Hallway~
+Broken cobwebs brush against your face as you move down the hallway.  The
+walls are very close together here and the paint work is old and cracked. 
+Looking to the west you notice a large door while to the north the hallway
+continues into inky blackness.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 10606
+D3
+~
+~
+~
+1 0 10613
+M 0 H 0
+S
+#10608
+Hallway~
+The walls of the hallway seem very close together and rather
+claustrophobic.  The air is musty and very cold.  You notice a large wooden
+door to the east and you may attempt to enter this or travel north or south.
+~
+0 9 0
+D0
+~
+~
+~
+0 0 10609
+D1
+~
+~
+~
+1 0 10619
+D2
+~
+~
+~
+0 0 10602
+M 0 H 0
+S
+#10609
+Hallway~
+You enter the end of a long hallway.  The paint work on the walls has
+mostly disintegrated and flecks of paint cover the carpet.  The hallway
+continues further to the south or you may try the large wooden door to the
+east.  
+~
+0 9 0
+D1
+~
+~
+~
+1 0 10618
+D2
+~
+~
+~
+0 0 10608
+D3
+~
+~
+~
+1 0 10623
+M 0 H 0
+S
+#10610
+Hallway~
+Looking carefully you notice what appears to be dried blood spattered on
+the carpet.  The blood trails from a small pool across the hallway and
+through a wooden door to the east.  The hallway itself continues into
+darkness to the north and south.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 10602
+D1
+~
+~
+~
+1 0 10621
+D2
+~
+~
+~
+0 0 10611
+M 0 H 0
+S
+#10611
+Hallway~
+This is the end of a long hallway.  You notice a heavily scuffed oak door
+to the east.  The hallway continues on into darkness to the north.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 10610
+D1
+~
+~
+~
+1 0 10622
+M 0 H 0
+S
+#10613
+Storage Room~
+This seems to be a general storage room.  You see spare blankets,
+candles, mops and other cleaning items.  The room has a faint hint of decay
+but it's nothing compared to the rest of the mansion.  Perhaps here would be
+a good place to rest for a while?  
+~
+0 9 0
+D1
+~
+~
+~
+1 0 10607
+M 0 H 0
+S
+#10614
+Guest Bedroom~
+This room has been almost perfectly preserved.  The room is an elegant
+guest bedroom with a stunning four-poster bed and rich purple carpets.  The
+elegance is spoiled however by the stench coming through the door to the
+north.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 10615
+D1
+~
+~
+~
+1 0 10606
+M 0 H 0
+S
+#10615
+Guest Bathroom~
+You gag as you enter this room.  The bathtub and surrounding floor and
+walls have been covered with urine and faeces.  The shit has been rotting
+here for many, many years and the walls have started to crumble because of
+the prolonged reaction.  Only by maintaining the strongest self control can
+you stay in this room at all.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 10614
+M 0 H 0
+S
+#10616
+Guest Bedroom~
+This room has been almost destroyed.  What once was a fine bedroom is now
+a shambles.  Blood soaks the remains of shredded sheets and the solid oak
+dresser has huge, fist sized holes and what look like talon marks across it.
+The whole room stinks of urine and blood.  You wonder what kind of beast
+could have created such chaos.  
+~
+0 9 0
+D1
+~
+~
+~
+1 0 10604
+M 0 H 0
+S
+#10617
+Guest Bedroom~
+You enter what appears to be a bedroom for one of the many guests the
+mansion would have had in the past.  A comfortable looking bed is here along
+with a large dresser and various other items designed to make the guests
+stay more pleasant.  The stench of death is overpowering and as you look up
+you are shocked to see that the ceiling is covered with blood and entrails. 
+The rest of the room looks completely normal.  
+~
+0 9 0
+D1
+~
+~
+~
+1 0 10605
+M 0 H 0
+S
+#10618
+Guest Bathroom~
+This room is a perfectly ordinary bathroom with white marble tiles and a
+deep bathtub.  The room looks like it hasn't been used in many years.  You
+may exit via the doorway to the west.  
+~
+0 9 0
+D3
+~
+~
+~
+1 0 10609
+M 0 H 0
+S
+#10619
+Guest Bedroom~
+You look upon a spacious bedroom, obviously intended for an important
+guest or couple.  There is a massive four-poster bed in the centre of the
+room, it's lace covers now crumbled with age.  The carpeting is a rich
+purple and the fading walls are cream.  The room comes with matching cream
+coloured skeletons and there is what looks like a bathroom to the south.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 10620
+D3
+~
+~
+~
+1 0 10608
+M 0 H 0
+S
+#10620
+Guest Bathroom~
+The first thing you notice about this room is that the white tiles are
+slick with blood.  An ornate bathtub is half full of the stuff and the floor
+is slippery.  You feel deeply ill at the sight of all this carnage.  You may
+leave through the doorway to the north.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 10619
+M 0 H 0
+S
+#10621
+Servant's Room~
+This room is filled with the stench of death and decay.  Nothing alive
+could stand the cold that you feel in this room for long.  The room contains
+a simple, blood-stained bed and a dresser.  
+~
+0 9 0
+D3
+~
+~
+~
+1 0 10610
+M 0 H 0
+S
+#10622
+Servant's Room~
+You enter a small room containing nothing more than a bed and a dresser. 
+A large oak door allows passage to the west.  
+~
+0 9 0
+D3
+~
+~
+~
+1 0 10611
+M 0 H 0
+S
+#10623
+Evil Altar~
+This room seems to be lit with magical candles.  The whole room is bright
+red with candles attached to the walls.  The only object in the room is a
+large black altar carved with symbols of evil and death.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 10609
+M 0 H 0
+S
+#10624
+Entrance hallway~
+You enter what appears to be an entrance hallway to the mansion.  The
+carpet is a deep purple and the walls are a rich cream.  You notice fine
+paintings on the walls and there is a small mahogany table in the corner. 
+There is a faint hint of decay in the air and it is quite cold.  Looking
+north you see a spiral staircase leading up to the second floor of this
+large house and the hallway continues to the east and west.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 10627
+D1
+~
+~
+~
+0 0 10625
+D2
+~
+~
+~
+1 0 10685
+D3
+~
+~
+~
+0 0 10626
+M 0 H 0
+S
+#10625
+Hallway~
+You are in what appears to be a hallway connecting the entrance to the
+rooms beyond.  Large mahogany doors are to your north and south.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 10633
+D2
+~
+~
+~
+1 0 10634
+D3
+~
+~
+~
+0 0 10624
+M 0 H 0
+S
+#10626
+Hallway~
+You are in what appears to be a hallway connecting the entrance to the
+rooms beyond.  Large mahogany doors are to your north and south.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 10640
+D1
+~
+~
+~
+0 0 10624
+D2
+~
+~
+~
+1 0 10637
+M 0 H 0
+S
+#10627
+The bottom of the spiral staircase~
+You are at the bottom of an elegant spiral staircase.  The smell of decay
+is stronger here and you sense it is coming from above.  You may ascend the
+staircase or travel to the north or south.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 10628
+D2
+~
+~
+~
+0 0 10624
+D4
+~
+~
+~
+0 0 10600
+M 0 H 0
+S
+#10628
+Exit Hallway~
+You enter what appears to be the exit hallway of the mansion.  Other
+hallways lead off to your east and west and a spiral staircase is visible to
+the south.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 10630
+D2
+~
+~
+~
+0 0 10627
+D3
+~
+~
+~
+0 0 10629
+M 0 H 0
+S
+#10629
+Hallway~
+You are in what appears to be a hallway connecting you to the rooms
+beyond.  Large mahogany doors are to your north and west.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 10641
+D1
+~
+~
+~
+0 0 10628
+D3
+~
+~
+~
+1 0 10642
+M 0 H 0
+S
+#10630
+Hallway~
+You are in what appears to be a hallway connecting you to the rooms
+beyond.  Large mahogany doors are to your north and east.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 10631
+D1
+~
+~
+~
+1 0 10632
+D3
+~
+~
+~
+0 0 10628
+M 0 H 0
+S
+#10631
+The Dining Room~
+You enter what must be one of the largest rooms in the mansion - the
+dining room, complete with a wooden table large enough to seat 40 odd people
+comfortably.  The table has been laid for dinner, unfortunately this was
+several years ago and dust and cobwebs cover the fine silverware.  
+~
+0 8 0
+D2
+~
+~
+~
+1 0 10630
+M 0 H 0
+S
+#10632
+Storage Cupboard~
+This room was probably once a large storage cupboard.  Dust covered
+shelves line the walls and spider webs are everywhere.  The cupboard shows
+no signs of life and seems warmer than the rest of the house.  Perhaps this
+would be a good place to catch your breath?  
+~
+0 9 0
+D3
+~
+~
+~
+1 0 10630
+M 0 H 0
+S
+#10633
+The Games Room~
+The stench of scotch gone bad assaults your nose as you stand in the
+shadowed area behind an old billiard table, its legs broken so that it
+kneels to the rotted carpet like a lame horse.  The cracked and peeling
+wallpaper casts jagged shadows from the little light emerging from a stained
+glass lantern fixed to the ceiling.  
+~
+0 9 0
+D2
+~
+~
+~
+1 0 10625
+M 0 H 0
+S
+#10634
+The Sitting Room~
+You enter what was once a splendid sitting room.  The room has
+unfortunately not been cared for over the years and a thick layer of dust
+coats much of the furniture.  The floor shows evidence of recent movement
+however as you note that something fairly large appears to have been dragged
+further into the room to the east.  Everything seems eerily silent - you can
+no longer even hear the sound of your own breathing without effort.  It is
+colder that the outside temperature would suggest and that, coupled with the
+almost magical silence worries you deeply.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 10625
+D1
+~
+~
+~
+0 0 10635
+M 0 H 0
+S
+#10635
+The Sitting Room~
+You now realise that the sitting room is actually created in an "L" shape
+and not the usual rectangle.  You notice a few dust covered couches to the
+north that complement the ones here.  A few paintings adorn the walls but
+they are faded beyond recognition.  Strangely, many of the portraits have
+had their eyes cut out.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 10636
+D3
+~
+~
+~
+0 0 10634
+M 0 H 0
+S
+#10636
+The Sitting Room~
+More couches.  More dust.  Obviously no one has taken care of this room
+in many, many years.  The remains of a once beautiful grand piano lie here,
+the mahogany panels look like they have been deliberately bashed in and the
+wires have all been cut.  From the quality of the carvings you can see that
+this took many long hours of love to create and yet only moments to destroy.
+~
+0 8 0
+D2
+~
+~
+~
+0 0 10635
+M 0 H 0
+S
+#10637
+The Lounge~
+This large room was obviously once the main lounge.  It has now fallen
+into disrepair with worn carpets and faded walls.  You notice thick spider
+webs everywhere although many are broken suggesting something has moved
+around fairly recently.  Everything is silent and you realise there are no
+windows - whoever lived here obviously did not like people to see in.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 10626
+D3
+~
+~
+~
+0 0 10639
+M 0 H 0
+S
+#10638
+The Lounge~
+You are in the end part of the mansion's main lounge.  Bookless
+bookshelves line the walls and many of the books now littler the floor. 
+Someone seems to have cleared a space and started a small fire here although
+that was long ago - perhaps another adventurer like yourself?  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 10639
+M 0 H 0
+S
+#10639
+The Lounge~
+Walking into the centre of the lounge, you now realise it was actually
+built in an "L" shape and continues to both the east and north.  A large
+marble fireplace takes up much of the south wall.  Couches take up the rest
+of the space.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 10638
+D1
+~
+~
+~
+0 0 10637
+M 0 H 0
+S
+#10640
+Storage Cupboard~
+This is a fairly normal, albeit dusty, storage cupboard.  It seems that
+anything of value was removed long ago.  You may leave via the door to the
+south.  
+~
+0 8 0
+D2
+~
+~
+~
+1 0 10626
+M 0 H 0
+S
+#10641
+The Bathroom~
+You enter and a fetid stench assaults your senses.  The bathroom has been
+filled with decomposing, maggot-infested bodies.  A basin and a bath remain
+to show the rooms original purpose.  Taking another look at the bodies, you
+notice that many are only slightly decomposed.  Why would fresh bodies be
+here?  
+~
+0 9 0
+D2
+~
+~
+~
+1 0 10629
+M 0 H 0
+S
+#10642
+Kitchen~
+You enter what appears to be a fairly normal kitchen.  A cold iron stove
+sits in the corner and the walls are covered in counters and cupboards.  You
+spot a small kitchen table to the north.  The room seems cleaner and warmer
+than other parts of the mansion and you note a definite lack of cobwebs on
+the door to the south.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 10643
+D1
+~
+~
+~
+1 0 10629
+D2
+~
+~
+~
+1 0 10644
+M 0 H 0
+S
+#10643
+The Kitchen~
+This is the other half of the mansion's main kitchen.  A round, slightly
+dusty, wooden table sits here supporting what was probably once a loaf of
+bread.  It seems that someone has deliberately broken every plate and bowl
+they could find and placed the remains under the table.  You kick at the
+remains but spot nothing of interest.  You may go back to the main part of
+the kitchen to the south.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 10642
+M 0 H 0
+S
+#10644
+Stairs~
+You enter a cramped passage leading to a set of spiral stairs.  The smell
+of decay is stronger here and the temperature is close to freezing.  You may
+descend into the darkness below or exit this foul place through the door to
+the north.  
+~
+0 13 0
+D0
+~
+~
+~
+1 0 10642
+D5
+~
+~
+~
+0 0 10645
+M 0 H 0
+S
+#10645
+Stairs~
+You reach the bottom of the kitchen stairs.  It is very cold here -
+almost freezing.  The smell of decay and rot and death is overpowering.  You
+almost choke on it.  You may leave here by going up the stairs or out to the
+north, south or east.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 10646
+D1
+~
+~
+~
+0 0 10655
+D2
+~
+~
+~
+0 0 10654
+D4
+~
+~
+~
+0 0 10644
+M 0 H 0
+S
+#10646
+An Empty Room~
+The room you enter is completely bare.  The dust on the stone floor is
+fairly thick although you can make out several footprints of varying sizes. 
+You may exit to the south.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 10645
+M 0 H 0
+S
+#10650
+The Laboratory~
+You enter a laboratory area which seems to take up a large amount of
+space to the north south and east.  Wooden benches hold lots of strange
+looking equipment along with vials of various fluids and many pots,
+obviously filled with pure chemicals of one kind or another.  You note with
+dismay that it is only very slightly above freezing in this room.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 10651
+D1
+~
+~
+~
+0 0 10653
+D2
+~
+~
+~
+0 0 10652
+D3
+~
+~
+~
+0 0 10655
+M 0 H 0
+S
+#10651
+The Laboratory~
+The north end of the laboratory is fairly empty.  A few alchemical odds
+and ends are scattered about on some of the many benches but it seems that
+most of the real work took place in the center areas.  Travelling east or
+south will take you to other sections of the lab.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 10660
+D2
+~
+~
+~
+0 0 10650
+M 0 H 0
+S
+#10652
+The Laboratory~
+You enter a corner of the laboratory.  The benches here are clear of any
+of the usual clutter.  A large metal table in the center supports a fairly
+fresh human cadaver.  Although the stench is putrid, you are almost thankful
+for the extreme cold - without it the body would have rotted long ago.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 10650
+D1
+~
+~
+~
+0 0 10661
+M 0 H 0
+S
+#10653
+The Laboratory~
+You are in the middle of some kind of laboratory.  The air is very cold
+here and you can hear a faint bubbling from some kind of strange experiment
+involving a red liquid and a lot of tubing and glass.  There is ample space
+between the various workbenches to move in any direction.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 10660
+D1
+~
+~
+~
+0 0 10662
+D2
+~
+~
+~
+0 0 10661
+D3
+~
+~
+~
+0 0 10650
+M 0 H 0
+S
+#10654
+An Empty Room~
+This room was probably once used for storage - bits of old crates litter
+the floor.  You see nothing of interest in this room and judging by the cold
+it is probably not wise to linger too long.  You may exit to the north.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 10645
+D2
+~
+~
+~
+0 0 10653
+M 0 H 0
+S
+#10655
+Okk's Room~
+This room is a total mess.  What once was wooden furniture now lies in a
+splintered and broken heap.  A massive stone pillar occupies most of the
+middle area of the room, coupled with a chain large enough to restrain an
+elephant.  Examining the chain more closely you note with some trepidation
+that the chain has been broken by something with very large teeth.  You may
+leave this room to the east or west.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 10650
+D3
+~
+~
+~
+0 0 10645
+M 0 H 0
+S
+#10660
+The Laboratory~
+You enter a corner of the laboratory.  The smell of sulphur in the air
+masks the usual stench of death.  The wooden workbenches are cluttered with
+books and instruments of various kinds.  You single out a particularly gory
+detail - a polished human skull with arcane writing etched into its surface
+sits atop one of the tomes as a paperweight.  
+~
+0 9 0
+E
+books~
+Most of the books concern anatomy and various dark magicks.  
+~
+E
+skull~
+The skull is creamy white in colour, the markings are crazy zig-zags and
+spirals and don't seem to follow any pattern.  
+~
+D2
+~
+~
+~
+0 0 10653
+D3
+~
+~
+~
+0 0 10651
+M 0 H 0
+S
+#10661
+The Laboratory~
+You enter a corner of the laboratory.  The benches here are almost
+completely covered in books.  Taking a glance at some of the open pages in
+front of you, you note that the owner of these books was heavily into
+necromancy.  You note a blood stained fingerprint on the worn binding -
+obviously the owner did more than just read.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 10653
+D3
+~
+~
+~
+0 0 10652
+M 0 H 0
+S
+#10662
+The Laboratory~
+You enter a section of a recently used laboratory.  The usual
+paraphernalia are all present: glass beakers, tubing, heating elements and a
+few hefty tomes lie haphazardly on a pair of sturdy looking wooden benches. 
+What you find odd is the cold - how could anyone work with the temperature
+so close to freezing?  You can see some light to the north as well as a
+space between the benches to the west.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 10663
+D3
+~
+~
+~
+0 0 10653
+M 0 H 0
+S
+#10663
+The Necromancer's Study~
+The room you enter is extremely well lit with identical blood red candles
+along every inch of the walls.  The floor is smooth marble - cold and
+featureless.  The walls and ceiling are mere whitewashed stone, completely
+unadorned.  A small alcove in the north wall contains an altar to some
+unknown god.  Perhaps this room is used for nothing more than solitude -
+nowhere in here can you find any hint of the evil and death that surrounds
+the rest of the mansion.  The stark contrast makes you uneasy for some
+unknown reason.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 10662
+M 0 H 0
+S
+#10685
+In front of the Mansion~
+You are in front of a large mansion which appears to spring magically
+from the mists in the middle of this forest.  It is old and dilapidated. 
+The paint is chipped and cracked.  The shutters have either fallen to the
+ground or hang perilously from one nail.  Painted in what appears to be
+blood above the door are the words "{RStay Away or DIE{x".  A skeleton with
+a crushed skull rests against the door as if to warn of the dangers inside. 
+~
+0 4194308 3
+D0
+~
+~
+~
+1 0 10624
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 10603 spec_cast_undead
+M 10605 spec_cast_mage
+M 10606 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 10604 3 1
+D 0 10605 3 1
+D 0 10607 3 1
+D 0 10608 1 1
+D 0 10609 1 1
+D 0 10609 3 1
+D 0 10610 1 1
+D 0 10611 1 1
+D 0 10613 1 1
+D 0 10614 1 1
+D 0 10616 1 1
+D 0 10617 1 1
+D 0 10618 3 1
+D 0 10619 3 1
+D 0 10621 3 1
+D 0 10622 3 1
+D 0 10623 1 1
+D 0 10624 2 1
+D 0 10625 0 1
+D 0 10625 2 1
+D 0 10626 0 1
+D 0 10626 2 1
+D 0 10629 0 1
+D 0 10629 3 1
+D 0 10630 0 1
+D 0 10630 1 1
+D 0 10631 2 1
+D 0 10632 3 1
+D 0 10633 2 1
+D 0 10634 0 1
+D 0 10637 0 1
+D 0 10640 2 1
+D 0 10641 2 1
+D 0 10642 1 1
+D 0 10642 2 1
+D 0 10644 0 1
+D 0 10685 0 1
+M 0 10602 14 10600 10
+E 0 10604 0 16
+M 0 10600 20 10605 10
+E 0 10603 0 16
+M 0 10601 18 10605 10
+E 0 10604 0 16
+M 0 10601 18 10607 10
+E 0 10604 0 16
+M 0 10601 18 10608 10
+E 0 10604 0 16
+M 0 10602 14 10609 10
+E 0 10603 0 16
+M 0 10601 18 10611 10
+E 0 10603 0 16
+O 0 10614 0 10614
+M 0 10603 8 10615 10
+E 0 10605 0 16
+M 0 10603 8 10615 10
+E 0 10605 0 16
+M 0 10602 14 10616 10
+E 0 10604 0 16
+M 0 10602 14 10616 10
+M 0 10602 14 10616 10
+E 0 10603 0 16
+O 0 10613 0 10616
+M 0 10602 14 10617 10
+M 0 10600 20 10617 10
+M 0 10600 20 10617 10
+E 0 10603 0 16
+M 0 10600 20 10619 10
+E 0 10604 0 16
+M 0 10600 20 10619 10
+E 0 10603 0 16
+M 0 10600 20 10619 10
+E 0 10604 0 16
+M 0 10600 20 10619 10
+E 0 10603 0 16
+M 0 10603 8 10620 10
+E 0 10605 0 16
+O 0 10609 0 10620
+M 0 10603 8 10621 10
+E 0 10605 0 16
+O 0 10620 0 10621
+P 0 10607 0 10620 10
+M 0 10602 14 10622 10
+E 0 10603 0 16
+M 0 10604 5 10623 10
+M 0 10604 5 10623 10
+M 0 10603 8 10623 10
+E 0 10601 0 16
+M 0 10600 20 10624 10
+E 0 10603 0 16
+M 0 10600 20 10624 10
+E 0 10603 0 16
+M 0 10601 18 10625 10
+E 0 10603 0 16
+M 0 10601 18 10627 10
+E 0 10603 0 16
+M 0 10601 18 10627 10
+E 0 10604 0 16
+M 0 10601 18 10628 10
+E 0 10603 0 16
+M 0 10600 20 10628 10
+E 0 10603 0 16
+M 0 10601 18 10629 10
+E 0 10604 0 16
+M 0 10601 18 10630 10
+E 0 10604 0 16
+M 0 10602 14 10631 10
+E 0 10603 0 16
+M 0 10602 14 10633 10
+E 0 10604 0 16
+M 0 10602 14 10633 10
+E 0 10603 0 16
+M 0 10600 20 10635 10
+E 0 10604 0 16
+M 0 10600 20 10635 10
+E 0 10604 0 16
+M 0 10600 20 10635 10
+O 0 10611 0 10635
+M 0 10600 20 10636 10
+E 0 10603 0 16
+M 0 10600 20 10637 10
+E 0 10603 0 16
+M 0 10601 18 10637 10
+E 0 10604 0 16
+M 0 10601 18 10637 10
+E 0 10604 0 16
+M 0 10601 18 10638 10
+M 0 10601 18 10639 10
+E 0 10603 0 16
+O 0 10610 0 10639
+M 0 10600 20 10642 10
+E 0 10604 0 16
+M 0 10600 20 10642 10
+E 0 10604 0 16
+M 0 10600 20 10642 10
+E 0 10604 0 16
+M 0 10600 20 10643 10
+E 0 10604 0 16
+M 0 10602 14 10645 10
+E 0 10604 0 16
+M 0 10601 18 10645 10
+E 0 10603 0 16
+M 0 10601 18 10645 10
+E 0 10603 0 16
+M 0 10604 5 10646 10
+M 0 10604 5 10650 10
+M 0 10603 8 10652 10
+E 0 10605 0 16
+M 0 10605 1 10653 10
+O 0 10612 0 10653
+O 0 10608 0 10654
+M 0 10602 14 10655 10
+E 0 10604 0 16
+M 0 10602 14 10655 10
+E 0 10604 0 16
+M 0 10602 14 10655 10
+E 0 10604 0 16
+M 0 10602 14 10655 10
+E 0 10604 0 16
+O 0 10600 0 10655
+M 0 10604 5 10660 10
+M 0 10603 8 10660 10
+E 0 10605 0 16
+E 0 10602 0 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

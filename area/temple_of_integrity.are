@@ -1,0 +1,765 @@
+#AREADATA
+Name {15 99} Belic   Temple of Integrity~
+Builders Belic~
+VNUMs 900 924
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#901
+Higus~
+the spirit of Higus~
+Higus is chained to the wall.
+~
+Belic's first follower stands chained to the wall.  His transparant body
+shows signs of abuse.  His face is ripped and torn, his body bleeding
+openly.  He looks at you with fear in his eyes.  
+~
+human~
+AB 0 300 0
+30 0 10d60+520 30d10+100 3d6+8 none
+-1 -1 -1 0
+0 0 0 0
+(null) (null) male 135
+AHMV ABCDEFGHIJK medium unknown
+#904
+Aldermort~
+Aldermort~
+Aldermort waits patiently to train you.
+~
+Aldermort is a tall, lean man.  His face is taunt and drawn.  He is
+encased with chainmail with arcane markings on it.  Feeling you approach, he
+turns and smiles broadly at you.  His eyes twinkle as he sizes you up.  His
+mind touches yours briefly, then he nods.  
+~
+human~
+ABJ 0 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 0 0 0
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#910
+Othelis~
+Othelis~
+Othelis looks at your wounds.
+~
+Othelis is a heavy set, balding man.  While it would appear that he has
+no grace, his movements are swift and with purpose.  He is adorned in a
+simple cloak that is pulled close to his body.  The cloak ends just below
+his knee.  His highly polished boots reach the point where the cloak ends.  
+~
+human~
+ABTW 0 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 0 0 0
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#911
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A J 0 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+0 0 B 0
+(null) (null) male 112
+AHMV ABCDEFGHIJK medium unknown
+#912
+Criminal~
+a criminal~
+A sinister criminal glances at you with hateful eyes.
+~
+The criminal is a small fellow.  His face and upper body is covered in
+many scars.  He is barefooted and his pants are ripped in many places.  Upon
+seeing you, he lets out a loud laugh.  
+~
+unique~
+A DFJOPVZa -500 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+BFK 0 B 0
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#913
+Ethereal Bladesman~
+Ethereal Bladesman~
+The bladesman is looking for criminals.
+~
+Before you stands a large, tall, muscular human.  He stands rigid in a
+military posture.  His armor has been polished to a high shine.  His red
+cape flows freely over his armor.  His visor is lowered over his helmed
+head, hiding his true appearance from you.  The thick black gloves he wears
+carry a strange insigna.  
+~
+human~
+A 0 1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+DH S F 0
+(null) (null) male 450
+AHMV ABCDEFGHIJK medium unknown
+#914
+agent of choas~
+an agent of choas~
+This monstrousity of a being is looking for revenge.
+~
+He has the shape of a human.  But if he was human, that is forever gone
+now.  His skin is cracked open and a greenish slime oozes forth from small
+wounds.  He turns a hatefull glare at you and prepares to attack.  
+~
+human~
+A 0 0 0
+15 0 5d31+200 15d10+100 2d4+2 none
+4 4 4 6
+H F S C
+(null) (null) female 67
+AHMV ABCDEFGHIJK medium unknown
+#915
+an agent of choas~
+an agent of choas~
+This monstrousity of a being is looking for revenge.
+~
+He has the shape of an elf.  But if he was and elf, that is forever gone
+now.  His skin is cracked open and a greenish slime oozes forth from small
+wounds.  He turns a hatefull glare at you and prepares to attack.  
+~
+human~
+A 0 0 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+H F S C
+(null) (null) female 112
+AHMV ABCDEFGHIJK medium unknown
+#916
+an agent of choas~
+an agent of chaos~
+This monstrousity of a being is looking for revenge.
+~
+He has the shape of an elf.  But if he was and elf, that is forever gone
+now.  His skin is cracked open and a greenish slime oozes forth from small
+wounds.  He turns a hatefull glare at you and prepares to attack.  
+~
+human~
+A 0 0 0
+30 0 10d60+520 30d10+100 3d6+8 none
+-1 -1 -1 0
+0 0 0 F
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#917
+The first~
+the first~
+The first seems steps out of the light.
+~
+He is a tall, lean man.  His armor has been stripped away and his
+clothing is torn.  Great cuts and gashes cover his entire body.  He has a
+pained look on his face.  A strangle substance seems to be coating his body.
+~
+human~
+A 0 0 0
+30 0 10d60+520 30d10+100 3d6+8 none
+-1 -1 -1 0
+H S B C
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#918
+dark drow guard~
+a dark Drow, standing guard~
+A dark Drow stands here, guarding carefully.
+~
+This tall and lithe figure is obviously a Drow - her features are sharp
+and her hair braided in intricate warrior's braids.  Her posture seems to
+indicate a sense of wariness and watchfulness, her bright eyes scanning
+constantly.  
+~
+unique~
+A J -750 0
+30 0 10d60+520 30d10+100 3d6+8 none
+-1 -1 -1 0
+0 0 B 0
+(null) (null) either 135
+AHMV ABCDEFGHIJK medium unknown
+#919
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+(null) (null) male 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#901
+fire place~
+a fire place~
+(no description)~
+unknown~
+portal 0 0
+A 0 0 BEHIJ 0
+1 0 0 P
+#903
+golden bonding ring~
+a golden bonding ring~
+A finely crafted golden band.~
+unknown~
+protect 0 AB
+C C C A 0
+15 0 0 P
+#904
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 1 P
+#906
+chair~
+a plush chair~
+A plush chair is pushed up against the table.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#907
+Jimmy's memoirs~
+jimmy's memoirs~
+JImmy's thoughts are bound in this book.~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 1 P
+#909
+Balance of Order~
+the Balance of Order~
+The Balance of Order is tipped slightly to one side.~
+unknown~
+treasure 0 0
+0 0 0 0 0
+100 10000 1000 P
+E
+balance~
+A large balance floats gently over the floor.  The acts of order are on
+one side, the acts of chaos the other.  
+~
+#910
+a jar~
+a jar of {Woinment~
+{WA jar of ointment is sitting here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+#911
+diamond ear ring~
+a flawless diamond earring~
+A diamond of order has been crafted into an ear ring.~
+unknown~
+protect 0 AQ
+C C C A 0
+15 1 0 P
+#912
+crystal rose~
+a crystal rose~
+A perfectly crafted crystal rose.~
+unknown~
+treasure A AO
+0 0 0 0 0
+0 0 1 P
+#913
+throne~
+the throne~
+A regal throne stands in the center of the room.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+15 10000 0 P
+E
+throne~
+A towering throne has been crafted from a single block of marble.  The
+seat is covered with a soft velvet cushion.  
+~
+#914
+sword of courage~
+the sword of courage~
+The sword of courage glows brightly.~
+unknown~
+weapon 0 AN
+sword 0 0 none 0
+0 0 1 P
+#915
+bed~
+a large oval bed~
+A oval canopy bed sits in the center of the room.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 3 0 P
+#916
+wedding dress~
+a white wedding gown~
+A pure white wedding gown.~
+unknown~
+armor 0 AO
+C C C A 0
+15 0 75 P
+#917
+book of Higus~
+the book of Higus~
+A thick book lays here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 1 P
+#918
+Arrow~
+an arrow.~
+An arrow with a message attached.  For the glory of Discordia.~
+unknown~
+weapon 0 AW
+bow 12 16 crunch DG
+100 0 500 P
+#924
+Laws of Order~
+the Laws of Order~
+An old book seems to glow with power.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+15 0 150 P
+#0
+
+
+
+#ROOMS
+#900
+Before the Temple~
+You are standing in front of a large Temple.  The white walls rise up out
+of the mist and extend far overhead.  The central tower rises a good fifty
+feet above the eastern and western towers.  The walls appear to be made out
+of one single block of pearl and is unbroken except for a spot that appears
+to be a handprint.  Looking closely, it seems like you can push it open.  
+~
+0 0 0
+E
+handprint~
+A rather large handprint is imprinted into the wall.  It is about 4 times
+larger than yours.  
+~
+D0
+~
+hand~
+~
+1 0 901
+D2
+~
+~
+~
+0 0 907
+M 0 H 0
+S
+#901
+Inside the Temple~
+You are standing inside the Temple.  The coolness of the hallway is
+pleasing.  The walls are made of the same material as the exterior.  The
+room is flawless.  Hallways flow to the east and west.  A large table is
+waiting to the north.  
+~
+0 262152 0
+D0
+~
+~
+~
+0 0 906
+D1
+~
+~
+~
+0 0 908
+D2
+~
+~
+~
+1 0 900
+D3
+~
+~
+~
+0 0 902
+M 0 H 0
+S
+#902
+The Hallway~
+The hallway runs from the entrance to the western tower.  There is a
+feeling of peace in the air.  Everything about you has a feeling of order. 
+From the marbled walls to the smooth floor, everything is flawless.  A place
+for everything and everything in its place.  
+~
+0 262152 0
+D1
+~
+~
+~
+0 0 901
+D3
+~
+~
+~
+0 0 903
+M 0 H 0
+S
+#903
+The Tower of Training~
+You are standing at the base of a tower.  The tower is encircled by a
+steps that lead up to the upper portion.  Weapons hang suspended from the
+end of the steps like banners.  
+~
+0 262152 0
+D1
+~
+~
+~
+0 0 902
+D4
+~
+~
+~
+0 0 904
+M 0 H 0
+S
+#904
+The Training Room~
+The steps come to an end at the top of the tower.  The room is quite
+small and crowded.  Training dummies encircle the small room.  Lanterns are
+positioned in regular intervals about the wall to provide illuminations. 
+The room smells slightly of oil and fuel.  
+~
+0 262152 0
+D5
+~
+~
+~
+0 0 903
+M 0 H 0
+S
+#905
+Hallway of the Ethereal Bladesman~
+You are standing in a regal hallway.  Statues are evenly spaced along the
+hall.  Finely crafted marble statues that seem to be alive.  They seem to
+stare down on you, as if judging you and your worth to be here.  The room is
+lit by a soft blue light that illumes everythingclearly.  
+~
+0 1048588 0
+M 0 H 0
+S
+#906
+Council of Order~
+You are standing in a large, oval room.  A large circular table has been
+knocked onto its side against the northern wall of the room.  Three large
+throne-like chairs have been scattered haphazardly around the room.  A large
+fireplace, long since dead and cold has been set into the eastern wall.  A
+large stairwell circles around the entire room.  A large hole dominates the
+center of the floor, seeming to have been dug from below.  
+~
+0 262152 0
+E
+table~
+A table carved from ivory awaits you.  A large bowl of fruit is the
+centerpiece.  
+~
+D2
+~
+~
+~
+0 0 901
+D4
+~
+~
+~
+0 0 912
+D5
+~
+~
+~
+0 0 13202
+M 0 H 0
+S
+#907
+Approaching the Mist~
+The mist rising from the ground blurs your vision.  Ghostlike shadows
+dance in and out of your vision as you move along the path.  The mist is
+trying to prevent you from seeing what lies beyond.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 900
+D1
+~
+~
+~
+0 0 920
+M 0 H 0
+S
+#908
+The Hallway~
+The vaulted hallway leads away from the entrance of the temple.  The
+tiled floor seems to be one big sheet solid sheet of pearl.  Window plated
+display cases line the temple wall.  Numerous books are housed inside the
+glass cases.  They are stacked neatly and ordered by importance.  
+~
+0 262152 0
+D1
+~
+~
+~
+0 0 909
+D3
+~
+~
+~
+0 0 901
+M 0 H 0
+S
+#909
+Tower of Healing~
+You are standing at the base of the eastern tower.  While the room is
+lined with many instruments, the room has a look of order than cannot be
+explained.  A spiral stairwell stands in the northern section of the room
+leading up to the next level.  
+~
+0 262152 0
+D3
+~
+~
+~
+0 0 908
+D4
+~
+~
+~
+0 0 910
+M 0 H 0
+S
+#910
+The Chamber of the Healer~
+You have arrived at the top of the tower.  Immediately, a feeling of
+security falls over you.  The room is filled with cabinets that contain rare
+herbs and oils.  The odor of medication is heavy in the air.  
+~
+0 33816584 0
+D5
+~
+~
+~
+0 0 909
+M 0 H 0
+S
+#911
+Nearing the Light~
+As you move closer to the source of the light, you have a feeling that
+all is right in the world.  A feeling of great power and strength seems to
+move through the radiating light.  You slow as you reach the last few steps.
+~
+0 262152 0
+D4
+~
+~
+~
+0 0 913
+D5
+~
+~
+~
+0 0 912
+M 0 H 0
+S
+#912
+Approaching the Light~
+The stairwell moves closer to the top of the tower.  A feeling of peace
+falls over you as you move further along the steps.  The light that is
+coming from the top of the stairs sweeps down and seems to bring order with
+it.  
+~
+0 262152 0
+D4
+~
+~
+~
+0 0 911
+D5
+~
+~
+~
+0 0 906
+M 0 H 0
+S
+#913
+Belic's Throne~
+You have reached the top of the tower.  A feeling of order emanates from
+the throne in front of you.  The feeling of peace and order is magnified
+here.  When you turn your head, you realize that the room has shifted to
+remain in the same position as when you entered.  
+~
+0 262156 0
+E
+throne~
+A towering throne has been crafted from a single block of marble.  The
+seat is covered with a soft velvet cushion.  
+~
+E
+throne~
+A towering throne has been crafted from a single block of marble.  The
+seat is covered with a soft velvet cushion.  
+~
+D0
+~
+~
+~
+1 0 915
+D5
+~
+~
+~
+0 0 911
+M 0 H 0
+S
+#914
+The Master Book Room~
+You are surrounded by rows and rows of shelves filled with books.  Books
+of ancient and forgotten lore stand silently on the shelves.  A large table
+stands in the center of the room with several chairs waiting to be occupied.
+A large book sits on the table, opened to a key passage.  
+~
+0 4194316 0
+E
+book~
+The passage reads: Order is paramount.  Maintain it at all cost.  
+~
+M 0 H 0
+S
+#915
+A Special Room~
+This room is perfect.  The walls are of the the finest marble.  A thick,
+plush red carpet lays across the floor.  A large, regal bed stands in the
+center of the room.  Small shelves line the walls and are filled fine
+crafted trinkets and finely cloth clothes.  
+~
+0 1048588 0
+D2
+~
+~
+~
+1 0 913
+M 0 H 0
+S
+#916
+Corridor of Time~
+The mist thickens as you walk forward.  Nothing is visible to your eyes. 
+Where you are, when you are is a mystery to you.  The mist seems to come
+alive and then disappears.  You look around and look at the aftermath of a
+fight.  The site is a sad one.  Surely this was an ambush.  The bodies of
+man and creature lay everywhere.  
+~
+0 1048580 0
+D1
+~
+~
+~
+0 0 917
+M 0 H 0
+S
+#917
+Corridor of Time~
+The mist swirls around you, blurring all of existance.  As the mist
+clears, you find you are standing at the edge of a river.  All around you is
+death.  Whatever battle that was waged here, it was pure slaughter.  You see
+a bright light, a strange green glowing light coming at you.  
+~
+0 1048576 0
+D3
+~
+~
+~
+0 0 916
+M 0 H 0
+S
+#920
+A forgotten Trail~
+The trail cuts through the underbrush.  What was once a path is now
+overgrown and unrecognizable.  A feeling of power hangs heavily in the air. 
+A mist seems to hang in the air trying to block your view.  
+~
+0 0 0
+D3
+~
+~
+~
+0 0 907
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 910 spec_cast_adept
+S
+
+
+
+#RESETS
+D 0 900 0 1
+D 0 901 2 1
+D 0 913 0 1
+D 0 915 2 1
+M 0 904 1 904 10
+O 0 906 0 906
+M 0 918 1 906 10
+O 0 909 0 909
+M 0 910 1 910 10
+M 0 918 2 912 10
+M 0 918 5 913 10
+O 0 913 0 913
+O 0 913 0 913
+M 0 916 2 916 10
+M 0 917 1 917 10
+E 0 914 0 16
+E 0 917 0 17
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

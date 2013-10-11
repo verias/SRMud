@@ -1,0 +1,1231 @@
+#AREADATA
+Name {15 99} Trystae Temple of Kantalutha~
+Builders Trysteae~
+VNUMs 13200 13299
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#13201
+Dark Priest of Kantalutha~
+A dark priest of Kantalutha~
+A Dark Priest of Kantalutha moves about, uttering praises to his Goddess as he heals his brethren.
+~
+{x
+Here stands the most perfect specimen of a human male ever beheld.  This
+man is tall, nearly seven feet, with shoulders wide enough that they might
+give him trouble squeezing through doors.  His arms are long and thick,
+sinewed and well-muscled.  His robe leaves those shining arms bare,
+cascading to drape along the floor behind him.  Yet oddly enough, you notice
+his skin is an impossible shade of {rcopper{x, his limbs glistening almost
+unnaturally.  The cowl of his robe covers his face, exposing only the
+occasional glimpse of square jaw or angled cheeks.  
+~
+unique~
+A 0 -1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 B 0 0
+(null) (null) female 450
+ACGHMV ABCDEFGHIJKMQUV medium unknown
+#13202
+Dark Paladin Kantalutha~
+a dark paladin of Kantalutha~
+A Dark Paladin of Kantalutha towers over you, looking menacing.
+~
+Before you stands another perfect specimen of masculinity.  This guardian
+is also attired in a long, draping robe that leaves his tree-trunk arms bare
+to scrutiny.  He appears to be over 7' tall, and stands before the
+iridescent door with clasped hands.  His fingers are curled around the blade
+of a wicked looking sword that seems to shed its own light.  The sword comes
+up to his waist, the grip large enough for his massive hands and the blade
+long enough to cleave his own leg in half.  This trusted paladin wears no
+cowl, but allows his noble features and fierce scowl to be seen plainly.  
+~
+unique~
+A 0 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 wrath
+-35 -35 -35 -27
+0 B 0 0
+(null) (null) female 450
+ACGHMV ABCDEFGHIJKMQUV large unknown
+#13203
+Dark Priest Tutor~
+a tutor of the dark priests and arts~
+A tutor of the dark priests and arts stands here, ready to teach.
+~
+Another huge, {rcopper{x-hued man stands here.  His figure is lean but
+handsome, and he does not hide his patrician features beneath the cowl of
+his draped robe.  He sits, talking quietly under his breath to himself,
+studying a huge tome that is spread open in one meaty hand.  Streaming
+{Kblack{x, straight hair cascades down his shoulders, making him appear
+amazingly warrior-like.  
+~
+unique~
+A 0 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 B 0 0
+(null) (null) female 450
+ACGHMV ABCDEFGHIJKMQUV large unknown
+#13204
+dark drow guard~
+a heavily armored drow in guard insignia~
+This guard wears the 8-Legged symbol of the house of Maritari.
+~
+Before you stands a tall and lithely muscled female drow.  She is heavily
+armored and carries multiple weapons.  Her head is hooded, and so little is
+seen besides glowing yellow eyes.  Her body is hugged by glittering chain
+mail and covered in the tabard of the Tari'Ohtar - a huge spider dominating
+the design.  Nimble fingers and lighting-quick reflexes reflect in her every
+movement.  
+~
+unique~
+A J -500 0
+75 0 11d551+2303 75d10+100 5d9+24 smash
+-19 -19 -19 -17
+0 0 B 0
+(null) (null) either 337
+AHMV ABCDEFGHIJK medium unknown
+#13205
+elite drow guard~
+a well-seasoned elite drow guard~
+This Drow is obviously a guard for the Maritari, but she looks well-seasoned and dangerously strong.
+~
+~
+unique~
+A J -750 0
+90 0 12d991+3214 90d10+100 5d11+28 none
+-25 -25 -25 -23
+0 0 B 0
+(null) (null) either 405
+AHMV ABCDEFGHIJK medium unknown
+#13206
+drow troop scout~
+a drow scout~
+This tall and slender figure is obviously a scout for the drow troops.
+~
+Before you stands a slender and wary-looking Drow.  Her eyes burn a
+fierce, almost red - her hip-length white hair is braided into several tiny,
+swinging braids.  Her body ripples with its well-used musculature, and her
+teeth glisten when she bares her teeth at you.  
+~
+unique~
+A J -500 0
+15 0 5d31+200 15d10+100 2d4+2 none
+4 4 4 6
+0 0 B 0
+(null) (null) either 67
+AHMV ABCDEFGHIJK medium unknown
+#13207
+ghost of mikako~
+the ghost of Mikako~
+This pale and tiny girl looks bedraggled and trembles visibly.
+~
+Before you stands the ghost of a pale and shuddering girl.  Her long hair
+is stringy and thin, barely covering her pointy ears.  Her apparel is
+bedraggled, stained and torn.  Her fine skin is covered with many old scars
+and fading bruises - yet she appears no more then fifteen or sixteen human
+years old.  Her eyes - when they turn to behold you - are a fiery and
+searing green, their color enough to pierce your heart.  
+~
+unique~
+A BJPQTU 0 0
+20 0 6d39+294 20d10+100 3d5+4 none
+2 2 2 4
+0 0 AB C
+(null) (null) male 90
+ACHIKLMV ABCDEFGHIJK small unknown
+#13208
+chaos sorcerer~
+a chaos sorcerer~
+This tall dark creature is known as the Chaos Sorcerer.
+~
+Nothing is determineable about this creatures features as they are all
+shrouded in darkness.  The cloak he is wearing covers his entire form,
+leaving everything except his height to the imagination.  As you gaze into
+the hood, only a pair of bright red eyes stare back at you.  Suddenly, a
+sinister laugh can be heard coming from him and a pair of hands emerge from
+the sleeves of the long robe.  A ring can be plainly seen on the left hand,
+though no weapon is visible.  From the sounds of the spells he is murmuring,
+he himself is a true weapon.  
+~
+human~
+A JOV -1000 0
+85 0 12d823+2891 85d10+100 5d10+25 charge
+-23 -23 -23 -21
+H 0 BCH 0
+(null) (null) female 382
+AHMV ABCDEFGHIJK medium unknown
+#13209
+towering holy monk~
+a towering, holy monk~
+A huge, towering, holy monk draped in robes stands here.
+~
+Before you stands a very tall and hulking figure draped in {ybrown{x
+robes that drape a broad yet lithe figure.  Wide shoulders seem to fill the
+doorways it passes through - 
+~
+unique~
+A DEFGHNOVZcf 1000 0
+60 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CEFGHIKNO 0 P H
+(null) (null) female 270
+ACGHMV ABCDEFGHIJKUV large unknown
+#0
+
+
+
+#OBJECTS
+#13200
+large silver bed~
+a canopied, glittering {Wsilver{x bed~
+(no description)~
+unknown~
+furniture AR 0
+0 0 0 0 0
+0 0 0 P
+E
+bed~
+{xThe frame is made of some shifting, iridescent material that glitters
+in the warm light of the room.  It is larger than a king - almost what one
+would consider an orgy sized bed - stretching the width of two beds.  It has
+four glittering {Wsilver{x posts that uphold a canopy of shimmering {Kblack
+{xcloth shot with more {Wsilver{x thread.  The cloth is draw tight across
+the canopy, and is draped around each post of the bed like curtains.  Ties
+dangle from the extra drapes of cloth, indicating that they can be pulled
+around and tied shut for more intimacy.  
+~
+#13201
+Altar Kantalutha Trysteae~
+a beautifully carved altar, constantly changing in color~
+A beautifully carved alter which constantly changes colors.~
+unknown~
+furniture BGR 0
+0 0 0 0 0
+0 0 0 P
+E
+trysteae~
+This altar appears to be as hard as stone, yet the colors on the surface
+are constantly changing and shifting, moving through a myriad spectrum of
+iridescent beauty.  Carved along its surface is one word: {MTrysteae {x 
+~
+E
+kantalutha~
+This altar appears to be as hard as stone, yet the colors on the surface
+are constantly changing and shifting, moving through a myriad spectrum of
+iridescent beauty.  Carved along its surface is one word: {MTrysteae{x 
+~
+E
+altar~
+{x This altar appears to be as hard as stone, yet the colors on the
+surface are constantly changing and shifting, moving through a myriad
+spectrum of iridescent beauty.  Carved along its surface is one word:
+{MTrysteae{g {g {x 
+~
+#13202
+locker~
+a Locker ~
+A set of lockers sits here in a row.~
+unknown~
+container 0 0
+0 C 0 0 0
+1 0 0 P
+#13203
+iridescent robe kantalutha~
+an iridescent robe of {WK{xa{Kn{Rt{ra{Ml{mu{Yt{yh{ca{x~
+An iridescent robe of {WK{xa{Kn{Rt{ra{Ml{mu{Yt{yh{ca{x shimmers here.~
+unknown~
+armor ANR AD
+AC AC AC A 0
+32 15 160 P
+A
+12 15
+A
+13 15
+A
+19 1
+E
+keyword~
+This long robe is hooded, with only slits and no sleeves for the arms. 
+The fabric it is made of feels as light and wispy as air itself, yet the
+weave is tight and smooth against the skin.  The cloth is eternally shifting
+in colors, an iridescent rainbow gliding across its surface continually.  It
+is an eternal reminder and keepsake, a gift from {KHer Dark Majesty{x,
+{MTrysteae{x.  
+~
+E
+robe~
+This long robe is hooded, with only slits and no sleeves for the arms. 
+The fabric it is made of feels as light and wispy as air itself, yet the
+weave is tight and smooth against the skin.  The cloth is eternally shifting
+in colors, an iridescent rainbow gliding across its surface continually.  It
+is an eternal reminder and keepsake, a gift from {KHer Dark Majesty{x,
+{MTrysteae{x.  
+~
+E
+kantalutha~
+This long robe is hooded, with only slits and no sleeves for the arms. 
+The fabric it is made of feels as light and wispy as air itself, yet the
+weave is tight and smooth against the skin.  The cloth is eternally shifting
+in colors, an iridescent rainbow gliding across its surface continually.  It
+is an eternal reminder and keepsake, a gift from {KHer Dark Majesty{x,
+{MTrysteae{x.  
+~
+#13204
+glittering stone fountain~
+a glittering fountain in stone~
+The stone block cradles a glittering bowl of liquid that dances and shines in the flickering light.~
+unknown~
+fountain 0 0
+-1 -1 'red wine' 0 0
+0 0 0 P
+#13205
+green gold cushion~
+a vividly colored {Ggreen{x cushion with {ygold{x trim~
+A vividly colored {Ggreen{x cushion with {ygold{x trim.~
+unknown~
+furniture 0 AO
+0 0 0 0 0
+0 8 1750 P
+#13206
+Dark Sword Kantalutha~
+the blessed sword of {WK{xa{Kn{Rt{ra{Ml{mu{Yt{yh{Ca{x~
+The blessed sword of {WK{xa{Kn{Rt{ra{Ml{mu{Yt{yh{Ca{x~
+unknown~
+weapon ABI AN
+sword 23 3 lunge J
+44 5 220 P
+A
+19 4
+A
+13 4
+#13207
+shimmering mail kantalutha~
+the shimmering mail of {WK{xa{Gn{gt{Ra{rl{Yu{yt{Ch{ca{x~
+The shimmering mail of {WK{xa{Gn{gt{Ra{rl{Yu{yt{Ch{ca{x glitters here.~
+unknown~
+armor ABI AD
+D D D B 0
+53 30 265 P
+A
+18 3
+A
+17 -1
+A
+13 4
+#13208
+iridescent shimmering dagger~
+an iridescent and shimmering dagger~
+This small iridescent dagger is shimmering.~
+unknown~
+weapon ABI AN
+bow 4 16 crunch J
+50 2 250 P
+A
+18 3
+#13209
+broad gold desk~
+a broad gold desk~
+A broad, {ygold{x desk rests here.~
+unknown~
+container 0 0
+1000 0 0 0 0
+90 500 0 P
+#13210
+small gold box~
+a small gold box~
+A small {ygold{x box rests here.~
+unknown~
+container 0 AO
+2500 ABC 0 0 0
+15 5 2500 P
+#13211
+long gold couch~
+a long golden couch~
+A long, golden couch sits here.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 2500 0 P
+#13212
+massive throne kantalutha~
+the massive throne of {WK{xa{Gn{gt{Ra{rl{Yu{yt{Mh{ma{x~
+The ornate and massive throne of {WK{xa{Gn{gt{Ra{rl{Yu{yt{Mh{ma{x sits in the middle of the room.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 2500 0 P
+E
+throne~
+~
+#13213
+irridescent silver ring~
+an irridescent silver ring~
+This ring appears to be made of a simple silver-colored metal, but glows with a faint irridescence.~
+unknown~
+treasure ABI AB
+0 0 0 0 0
+30 2 300 P
+A
+17 -1
+A
+13 20
+#13214
+portal dark halls~
+a portal to the darkened halls~
+This shimmering portal shows darkened halls on the opposite side.~
+unknown~
+portal 0 AO
+0 0 0 CFHLMN 0
+30 2 30000 P
+#13215
+glowing assassins daggers~
+a glowing assassins blade~
+This glowing blade belongs in the hands of an assassin.~
+unknown~
+weapon ABI AN
+bow 8 12 stab CDI
+50 5 250 P
+#13216
+gold scroll lore~
+a gold scroll~
+A {ygold{x scroll rests here.  (Look Scroll to read)~
+unknown~
+room_key ABI AO
+0 0 0 0 0
+25 1 25000 P
+E
+scroll~
+Looking at this {ygold{x scroll, one sees it covered in large, curving
+script that is delicate and almost beautiful in and of itself.  It reads:
+{KWise is he who knows when to ask questions and when to listen.  Wise is he
+who knows when to laugh and when to listen.  Wise is he who knows when to
+act and when to listen.  Wise is he who knows when to kill and when to
+listen.  {x 
+~
+#13217
+drow queen tabard~
+the tabard of the Tari'Ohtar~
+This tabard is worn by those in service to the Maritari and bears her 8-legged spider emblem.~
+unknown~
+armor ABI AD
+B B B 0 0
+15 9 75 P
+A
+13 15
+#13218
+fierce blade ohtar~
+the fierce blade of the Ohtar~
+This blade is sharp and cunning, crafted for the servants of the Maritari in the Ohtar.~
+unknown~
+weapon ABI AN
+sword 5 6 lunge D
+15 3 75 P
+A
+13 15
+#13219
+liam sketch molly~
+a sketch of Liam by Molly~
+This grey-toned sketch is of Liam, resting in a patch of sunlight in the healers.  It is signed by Molly.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+1 1 10 P
+#13220
+sketch molly furion~
+a sketch of Furion by Molly~
+This grey-toned sketch is of Furion, resting in a patch of sunlight in the healers.  It is signed by Molly.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+1 0 10 P
+#13221
+dummy key horus~
+horus's stupid key~
+This stupid key is for Horus.~
+unknown~
+key 0 AO
+0 0 0 0 0
+1 1 100 P
+#13222
+dark drow leggings~
+dark leggings~
+These dark and shimmering metal leggings look well-crafted.~
+unknown~
+armor ABI AF
+AD AD AD B 0
+57 5 285 P
+A
+18 5
+#13223
+dark drow breatplate~
+a dark Drow breastplate~
+This darkly glittering breastplate is of obvious Drow workmanship.~
+unknown~
+armor ABI AD
+ABC ABC ABC B 0
+45 0 225 P
+A
+17 -5
+A
+13 45
+#13224
+dark Drow cloak~
+a Drow's heavy, dark cloak~
+This dark and heavy cloak is made of thight and tightly woven material.  Its obviously designed to protect the skin of the Drow who wears it.~
+unknown~
+clothing 0 AZ
+0 0 0 0 0
+0 3 450 P
+#13225
+test armor piece~
+test armor piece~
+Test armor piece~
+unknown~
+armor ABI A
+AD AD AD B 0
+57 0 285 P
+#13226
+test master armor~
+test master armor~
+Test master armor~
+unknown~
+armor ABI AI
+E E E AC 0
+100 0 500 P
+#13227
+dark sigil Kantalutha~
+an intricately shaped sigil made of dark metal~
+An intricately shaped sigil made of dark metal seems to hover here mysteriously, with its own power.~
+unknown~
+treasure ABHIMU AS
+0 0 0 0 0
+15 2 150 P
+A
+13 5
+A
+19 1
+E
+sigil~
+This piece of dark metal seems to glow and throb with its own private
+power.  Forged of what looks like one piece of the foreign metal, it is
+shaped in an elaborately shaped figure eight - comprised of a thin serpent
+tracing the eternally circling figure and eating its own tail.  The serpent
+itself is carefully wrought - each scale seeming to have a life of its own,
+while the eyes seem almost molded of some fluid black stone (mayhap
+hematite).  Occasionally irridescent flashes of lights float across its
+surface, startling in their brilliance before fading away into nothing.  On
+the backside of this carefully wrought piece of metal-work, the letter K is
+buried very deeply in the melding of the metal - a very tiny and almost
+unnoticeable letter.  
+~
+#13228
+circlet high priest~
+the Circlet of the High Priest of Kantalutha~
+This glittering and irridescent circlet belongs upon the head of Furion - high priest to Trysteae.~
+unknown~
+armor ABI AE
+E E E AC 0
+100 3 500 P
+A
+13 50
+A
+18 4
+#13229
+chaos dagger~
+the Dagger of ChAoS~
+A dagger is here, this is a dagger of what many call "ChAoS."~
+unknown~
+weapon ABI AN
+bow 12 16 crunch D
+100 0 500 P
+#13230
+flowing white robe~
+a flowing white robe~
+This flowing white robe looks very comfortable.~
+unknown~
+armor 0 AD
+C C C A 0
+25 0 125 P
+A
+17 -30
+#13231
+black belt~
+a {Kblack{x belt~
+A long {Kblack{x belt.~
+unknown~
+armor 0 AL
+C C C A 0
+25 0 125 P
+A
+17 -10
+A
+13 50
+#13232
+thong sandals~
+a pair of sandals~
+A pair of wooden sandals.~
+unknown~
+armor 0 AG
+C C C A 0
+25 0 125 P
+A
+13 50
+A
+17 -25
+#13273
+new tome~
+a new tome~
+A new looking tome has been left here, upon its spine it bears the legend: The Dog and the Wolf. (OOC: To read the book read page1 etc)~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 100 P
+E
+page1~
+One warm day a Dog lay down under a tree in a field, and was soon fast asleep. In a little while a Wolf came out of the woods and was about to seize him and eat him up. 
+"Cousin Wolf," cried the Dog, "don't you see how thin I am? I am not fit for you to eat now. If you will only wait a few days, you will find that I shall make you a better meal. Master is going to have a big dinner next week, and then there will be so much to eat that I shall grow plump and fat." 
+"Well, if that is the case," said the Wolf, "I think I will wait a little while. You may go now, and live till after the dinner." 
+In two weeks the Wolf came back, but the Dog was not in the field. He was asleep on the house top. 
+"Come down, and let me see how fat you are," said the Wolf. 
+The Dog woke up and said: "Cousin Wolf, if you ever find me asleep in the field again, you may eat me. But if you are wise, you will not wait till after the master has had that big dinner." 
+ 
+~
+#0
+
+
+
+#ROOMS
+#13200
+A Quiet Altar~
+The thick, lush path of {gclover{x continues its way along the ground - leading 
+to this quiet, secluded grove.  The roar of the nearby {Bw{ca{Ct{ce{Br{cf{Ca{cl{Bl{cs{x should be 
+almost deafening here, except that it appears a huge, arching {Rr{ya{Yi{Gn{Bb{Mo{mw{x 
+shields the quiet copse from both mist and sound.  The towering trees 
+overhead bow inwards, as if drawn downwards or even bent into a sign of 
+homage.  In the middle of the clearing lies an altar - made of some strange 
+{Kblack{x rock with flecks of {Ws{Ki{Wl{Kv{We{Kr{x in it.  The clearing itself opens only to 
+the south.  
+~
+0 33554436 3
+E
+altar~
+~
+M 0 H 0
+S
+#13201
+Rainbows End~
+The entrance to the shining and illustrious temple dedicated to
+Kantalutha surrounds one here.  The hall one stands in is constructed of
+glittering {Kblack{x stone that holds tiny, sparkling shards of {Wsilver{x
+in it.  Yet the room is filled with refracting shards of iridescent light
+that seem to sparkle and dance around the room of their own will.  The array
+of shining light seems to come from the south, where through a simple arch
+of the stone one can see a brilliant room of ever-shifting colors.  
+~
+0 33555464 0
+D2
+~
+~
+~
+0 0 13203
+M 0 H 0
+S
+#13202
+The Dark Tunnel~
+Earthen walls make up this 'room' - a passage that appears to have been
+scraped through the dark dirt and then simply tamped to form a downward
+sloping tunnel.  A few spiderwebs have accumulated against the rounded
+ceiling and the sides of the walls, but other than that the room seems
+empty.  Dozens of small, booted footsteps are marked clearly in the packed
+dirt floor.  A faint light shines further up the tunnel, to the north.  
+~
+0 8 0
+D0
+~
+~
+~
+0 13221 13216
+D4
+~
+~
+~
+0 0 906
+M 0 H 0
+S
+#13203
+Rainbows Arch~
+The room shimmers and sparkles, the massive walls and high ceiling
+overhead a hypnotic dance in light and color.  The floor is still shimmering
+{Kblack{x stone with dancing flecks of {Wsilver{x, but it is almost
+invisible compared to the spectrum that dances around the room.  A fantastic
+array slides across the walls and ceiling, drawing one into a state of
+hypnotic trance with amazing ease.  Two dark alcoves lay to the east and
+west, and there are arches leading north and south.  
+~
+0 33555464 0
+D0
+~
+~
+~
+0 0 13201
+D1
+~
+~
+~
+0 0 13209
+D2
+~
+~
+~
+0 0 13204
+D3
+~
+~
+~
+0 0 13210
+M 0 H 0
+S
+#13204
+Among The Clouds~
+This room is simple and vacant.  The ceiling is low, sweeping down almost
+cave-like to the floor.  The floor is composed of glittering {Kblack{x rock
+with shards of {Wsilver{x encased.  The walls and ceilings have been painted
+in sweeping panoramas of {Wwhite{x and grey, with splinters of {Yyellow{x
+and {cblue{x thrown in.  There are simple passageways to the north and
+south.  
+~
+0 33555464 0
+D0
+~
+~
+~
+0 0 13203
+D2
+~
+~
+~
+0 0 13205
+M 0 H 0
+S
+#13205
+Planes of Heaven~
+This tiny room seems nothing more than a simple hallway.  The low ceiling
+and narrow walls are plain, seeming carved from simple grey granite.  A
+narrow stone shelf runs down each side of the room, the ledge barely wide
+enough to hold a hand, let alone anything else.  There is a red door to the
+west and a green door to the east.  Stone doorways lead both north and
+south.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 13204
+D1
+~
+~
+~
+1 0 13211
+D2
+~
+~
+~
+0 0 13206
+D3
+~
+~
+~
+1 0 13212
+M 0 H 0
+S
+#13206
+Heavens Grasp~
+A large, curling staircase dominates this room.  The banister and railing
+seem forged of some {Wsilvery{x metal that appears to move and flow like
+water in the flickering light.  A glowing, golden brazier sits atop a stone
+block at the base of the stairs, behind a small square of glinting liquid. 
+{Kebony{x stone with {Wsilver{x shards that fills the rest of the temple. 
+The staircase leads upwards, while a plain doorway in the stone leads north.
+~
+0 8 1
+D0
+~
+~
+~
+0 0 13205
+D4
+~
+~
+~
+0 0 13207
+M 0 H 0
+S
+#13207
+Divine Pinnacle~
+Swirling banks of {cblue{x swirl around the ceiling walls of this
+chamber.  An ornate banister and set of steps made of flowing, liquid
+{Wsilver{x metal flow through the floor and into the room below.  There are
+four doors facing into the room.  Each one a different shade from its
+brother, except for the one to the south which is iridescent and constantly
+shifting in colors.  Obvious exits are the stairs descending downwards and
+the four doors leading north, south, east and west.  
+~
+0 33554440 0
+D0
+~
+~
+~
+1 0 13214
+D1
+~
+~
+~
+1 0 13213
+D2
+~
+~
+~
+1 0 13208
+D3
+~
+~
+~
+1 0 13215
+D5
+~
+~
+~
+0 0 13206
+M 0 H 0
+S
+#13208
+Chambers of Perfection~
+This room seems to have been draped in shimmering {Kblack{x silk with
+{Wsilver{x flecks woven in it.  The fabric flutters and ripples in some
+unfelt breeze, stirring the fabric so that it moves in constantly shifting
+patterns.  A huge glowing orb hovers in the middle of the room, shedding a
+gentle and forgiving light upon everything within.  There is a massive
+throne in the middle of the room that seems to swallow the dimensions of the
+large chamber.  A pair of faintly glowing doors lead north.  
+~
+0 33554440 1
+E
+light~
+A huge, glowing orb sheds continual light upon this room.  The light is
+soft and forgiving, almost warm to the touch.  
+~
+E
+glowing~
+A huge, glowing orb sheds continual light upon this room.  The light is
+soft and forgiving, almost warm to the touch.  
+~
+E
+orb~
+A huge, glowing orb sheds continual light upon this room.  The light is
+soft and forgiving, almost warm to the touch.  
+~
+D0
+~
+~
+~
+1 0 13207
+M 0 H 0
+S
+#13209
+The Black Room~
+This room is a vast dark hole of nothingness, a hole in space filled with
+nothing but {Kdarkness{x.  Holding a light reveals nothing, the features of
+the room obscured with a dark so real and tangible one can almost taste it
+or feel it on their skin.  To the west one can see simply an alleviation in
+the swallowing darkness that hints at escape.  
+~
+0 33555464 0
+D3
+~
+~
+~
+0 0 13203
+M 0 H 0
+S
+#13210
+The White Room~
+This room is utterly filled with blinding, mind-numbing {Wwhite{x.  The
+color seeps out any features or distinctions, turning it into one huge
+glowing world.  The only escape appears to be to the east, where one can
+almost see dancing hues and shifting colors.  
+~
+0 33555464 0
+D1
+~
+~
+~
+0 0 13203
+M 0 H 0
+S
+#13211
+The Green Room~
+Wall to wall and floor to ceiling this room is filled and overflowing
+with bright and vibrant {Ggreen{x.  The color bleeds into the eyes and
+causes the head to throb.  Cushions are scattered across the floor,
+discernible only by their {ygold{x braid edges.  A grey door to the west
+appears to be the only exit.  
+~
+0 8 0
+D3
+~
+~
+~
+1 0 13205
+M 0 H 0
+S
+#13212
+The Red Room~
+Bleeding, burning {Rred{x fills this room to the point of pain.  It oozes
+along the walls and ceiling until it almost seems like one could press a cup
+to the wall and bring it away filled with liquid red.  A grey door to the
+east appears to be the only escape.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 13205
+M 0 H 0
+S
+#13213
+{xThe {rCopper{x Room~
+The floors, walls, rugs and furniture in this room are all a {rcopper{x
+color.  The color reminds one of rich, dark blood.  The walls are hung with
+numerous paintings - each one depicting the breathtaking Goddess Trysteae at
+points throughout history.  In each one, her multi-hued hair and tri-irised
+eyes remain distinct.  Some of the paintings look ancient, while others yet
+look tattered and some even have scorch marks upon them.  A set of double
+doors leads west.  
+~
+0 33554440 0
+D3
+~
+~
+~
+1 0 13207
+M 0 H 0
+S
+#13214
+{xThe {WSilver{x Room~
+This room is overwhelming in its sheer opulence and breath catching
+beauty.  The room is huge, stretching to vast distances, and has a high,
+vaulted ceilings.  The northern wall is filled with floor to ceiling
+windows, the glass set in shimmering {Wsilver{x frames.  Sheer {Wsilver{x
+curtains frame each one.  The other three walls are covered with mirrors
+that constantly refract light and images.  There is a door leading out to
+the south.  
+~
+0 33554440 0
+D2
+~
+~
+~
+1 0 13207
+M 0 H 0
+S
+#13215
+{xThe {yGold{x Room~
+This room is filled - from wall to wall and floor to ceiling - with huge
+masses of books and scrolls.  The curtains, carpets, and furniture are all
+varying shades of {ygold{x, enough to make a palm itchy.  Two {ygold{x
+armchairs and a couch are arrayed around a fireplace that most men could
+stand in comfortably.  A broad {ygold{x desk sits square in the middle of
+the room, with a {ygold{x box atop it.  A {ygold{x door leads to the east.  
+~
+0 37748744 0
+D1
+~
+~
+~
+1 0 13207
+M 0 H 0
+S
+#13216
+The Dark Tunnel~
+Earthen walls make up this 'room' - a passage that appears to have been
+scraped through the dark dirt and then simply tamped to form a downward
+sloping tunnel.  A few spiderwebs have accumulated against the rounded
+ceiling and the sides of the walls, but other than that the room seems
+empty.  Dozens of small, booted footsteps are marked clearly in the packed
+dirt floor.  The tunnel continues to the south and a faint light can be seen
+shining to the north.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 13217
+D2
+~
+~
+~
+0 0 13202
+M 0 H 0
+S
+#13217
+Tunnel's End~
+The tamped earthen tunnel ends abruptly - and almost wierdly - at a solid
+brick wall.  A simple wooden door is fitted to its middle, and two torches
+burn in sconces on each side of the door.  The door itself is banded with
+iron, and a simple doorknob extends from it.  The tunnel is otherwise
+vacant, the thick wall gives no clue as to what lies on the other side. 
+From here, the tunnel continues south.  The doorway lies to the north.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 13218
+D2
+~
+~
+~
+0 0 13216
+M 0 H 0
+S
+#13218
+A Stone Hallway~
+This long hallway is made of bricks and long, slender carpets lay down
+the middle.  The light here is guttering and dancing due to the line of
+torches ensconced on the walls.  Smoke lines crawl up the dark stoned walls,
+and the shifting shadows of the hallway seem onerous.  The hallways
+continues east and west, and a plain wooden door leads south.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 13220
+D2
+~
+~
+~
+1 0 13217
+D3
+~
+~
+~
+0 0 13219
+M 0 H 0
+S
+#13219
+The Stony Dark End~
+The stone hallway here is dark, with no torches to light it.  The shadows
+are creepy and almost overhwelming, the sense of foreboding heavy.  There
+doesn't seem to be any carpet lining the hallway here, and the cold of the
+stone permeates to your very bones.  The darkness almost seems to hold its
+own menace as the hallway narrows down to nothing more then a tunnel hewed
+from the rock that surrounds you.  A door lies in the western wall, and the
+hallway continues to the east where guttering torches can be plainly seen.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 13218
+D3
+~
+~
+~
+4 13221 13224
+M 0 H 0
+S
+#13220
+An Intersection in Stone~
+The narrow, thick rugs continue down a tunnel-like floor and to a
+junction of other brick-lined hallways.  The thick bricks seem to echo what
+little sound the carpets don't absorb, the resulting echoes seeming to
+bounce up and down the torch-lined hallways.  To north lies a pair of broad
+wooden double doors - the wood itself ebony and artfully carved into
+intricated designs of panthers, spiders, and lithe female Drow.  The stone
+and the brick hallway continues both east and west from here.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 13221
+D1
+~
+~
+~
+0 0 13222
+D3
+~
+~
+~
+0 0 13218
+M 0 H 0
+S
+#13221
+Royal Antechambers~
+This stone chamber is huge - the ceiling far enough overhead that the
+huge fire, dancing candles, and torches have trouble lighting its curve
+fully.  Darkness seems to eat at the far-off corners of the room, making it
+seem chilly despite the plush carpets and thick draperies adorning the
+visible stretches of wall.  Large, bulky wooden and stone furniture is
+littered around the room - each piece obviously expensive and well crafted. 
+A huge fireplace fills the northern wall, a wooden door to one side.  
+~
+0 8 0
+D2
+~
+~
+~
+1 0 13220
+M 0 H 0
+S
+#13222
+A Stone Hallway~
+This long hallway is made of bricks and long, slender carpets lay down
+the middle.  The light here is guttering and dancing due to the line of
+torches ensconced on the walls.  Smoke lines crawl up the dark stoned walls,
+and the shifting shadows of the hallway seem onerous.  The hallway continues
+west from here, and to the east lies a plain wooden door.  
+~
+0 8 0
+D1
+~
+~
+~
+4 13221 13223
+D3
+~
+~
+~
+0 0 13220
+M 0 H 0
+S
+#13223
+dummy room~
+~
+0 0 0
+D3
+~
+~
+~
+4 0 13222
+M 0 H 0
+S
+#13224
+Dummy Room~
+~
+0 0 0
+D1
+~
+~
+~
+4 0 13219
+M 0 H 0
+S
+#13299
+The Quiet Room~
+This room is nothing but a vast area of gray.  The dimensions of the room
+itself are unknown, swallowed in a rolling gray mist that seems to obscure
+everything in sight.  The only truly visible features are a huge white orb
+that hangs over a beautifully canopied bed in what seems to be the only
+clear area in the mist.  There do not appear to be any visible entrances or
+exits.  There is, however, a breathtaking sense of power humming through the
+room.  
+~
+0 1065996 0
+E
+orb~
+A huge, glowing orb sheds continual light upon this room.  The light is
+soft and forgiving, almost warm to the touch.  
+~
+E
+light~
+A huge, glowing orb sheds continual light upon this room.  The light is
+soft and forgiving, almost warm to the touch.  
+~
+E
+glowing~
+A huge, glowing orb sheds continual light upon this room.  The light is
+soft and forgiving, almost warm to the touch.  
+~
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 13205 1 1
+D 0 13205 3 1
+D 0 13207 0 1
+D 0 13207 1 1
+D 0 13207 2 1
+D 0 13207 3 1
+D 0 13208 0 1
+D 0 13211 3 1
+D 0 13212 1 1
+D 0 13213 3 1
+D 0 13214 2 1
+D 0 13215 1 1
+D 0 13217 0 1
+D 0 13218 2 1
+D 0 13219 3 2
+D 0 13220 0 1
+D 0 13221 2 1
+D 0 13222 1 2
+D 0 13223 3 2
+D 0 13224 1 2
+O 0 13201 0 13200
+M 0 13201 3 13203 10
+E 0 13203 0 5
+M 0 13203 1 13204 10
+E 0 13203 0 5
+O 0 13204 0 13206
+M 0 13202 2 13207 10
+E 0 13203 0 5
+E 0 13206 0 16
+O 0 13212 0 13208
+O 0 13205 0 13211
+O 0 13209 0 13215
+O 0 13211 0 13215
+O 0 13210 0 13215
+P 0 13208 0 13210 10
+O 0 13200 0 13299
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

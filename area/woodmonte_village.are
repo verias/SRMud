@@ -1,0 +1,2821 @@
+#AREADATA
+Name {20 40} Audrina Woodmonte Village~
+Builders Audrina~
+VNUMs 19550 19650
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#19554
+Dolcal~
+Dolcal~
+Dolcal swings his axe with purpose.
+~
+Dolcal is one of the stronger lumberjacks.  He swings his heavy axe with
+determination.  He has a serious look on his face and his mouth is locked
+into a scowl.  Sweat pours off his face from the repeated motion of swinging
+his axe.  He has the sleeves of his shirt rolled, but that does little to
+cool him off.  
+~
+human~
+AB 0 750 0
+40 0 10d98+804 160d10+100 4d7+10 sunder
+-5 -5 -5 -3
+DF 0 0 L
+(null) (null) female 180
+AGHMNV ABCDEFGHIJKLQ medium unknown
+#19555
+Acklin~
+Acklin~
+Acklin is here surveying trees to be cut down.
+~
+He is an overweight man who has taken to easy living.  He is obese, yet
+he appears to be as strong as an ox.  Years of easy living have made him
+soft.  His belly hangs over his belt.  And under his trimmed beard is a
+double chin.  
+~
+unique~
+AB VZ 0 0
+35 0 10d76+654 140d10+100 4d6+9 digestion
+-3 -3 -3 -1
+DFH 0 P H
+(null) (null) female 157
+ACGHMV ABCDEFGHIJKUV medium unknown
+#19556
+A lumberjack~
+a lumberjack~
+A lumberjack is busy cutting down a tree.
+~
+One of the numerous loggers of the area.  You see nothing special about
+him.  As you stand there, you watch as he quickly sinks his axe into another
+tree.  
+~
+human~
+AB 0 0 0
+30 0 10d60+520 120d10+100 3d6+8 sunder
+-1 -1 -1 0
+DF 0 0 E
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#19558
+Cozmal~
+Cozmal~
+Cozmal is here professing his love to a young woman.
+~
+Cozmal is an average looking young man who thinks he has found his true
+love.  He hopes that his dreams will be enough to stay the heart of his love
+as he has nothing more to offer.  
+~
+human~
+AB 0 750 0
+25 0 8d48+400 100d10+100 3d5+7 digestion
+0 0 0 2
+0 0 0 D
+(null) (null) female 112
+AHMV ABCDEFGHIJK medium unknown
+#19559
+a rabid dog~
+a rabid dog~
+A large dog foams at the mouth.
+~
+Once the companion of one of the hunters that hunted in these woods, this
+dog has become rabid.  He foams at the mouth and has a mean look in his
+eyes.  He acts out of habit now, knowing not whom or what he attacks.  
+~
+dog~
+ABF 0 0 0
+20 0 6d39+294 80d10+100 3d5+4 crush
+2 2 2 4
+FH 0 0 0
+(null) (null) either 90
+AGV ACDEFHJKPUV medium unknown
+#19560
+Ashlen~
+Ashlen~
+Ashlen blushes at Cozmal's words.
+~
+Ashlen is a lovely young woman whom all the local boys want to marry. 
+Her features are small and delicate.  Her green eyes hide the fact that she
+wants to leave this place.  She waits for the first man to offer to take her
+away.  
+~
+human~
+ABN V 750 0
+25 0 8d48+400 100d10+100 3d5+7 beating
+0 0 0 2
+H 0 C E
+(null) (null) either 112
+AHMV ABCDEFGHIJK medium unknown
+#19566
+a little boy~
+a little boy~
+A little boy plays in the grass.
+~
+He is a handsome little boy.  He has his father's eyes and his mother's
+features.  He plays in the grass pretending to be a great warrior.  
+~
+human~
+A 0 0 0
+22 0 7d42+334 88d10+100 3d5+5 digestion
+1 1 1 3
+H 0 0 C
+(null) (null) female 99
+AHMV ABCDEFGHIJK medium unknown
+#19567
+A mother~
+a mother~
+A mother sits beside her husband and smiles.
+~
+She is a bit younger than her husband.  Her looks have faded slightly,
+but she is still attractive.  She beams a smile at her husband, then turns
+her eyes back to her two children.  
+~
+human~
+ABN 0 750 0
+67 0 11d387+1885 268d10+100 5d8+20 beating
+-16 -16 -16 -14
+H 0 0 E
+stand (null) either 301
+AHMV ABCDEFGHIJK medium unknown
+#19568
+a father~
+a father~
+A father sits here smiling at his family.
+~
+He is a middle-aged man.  His temple has already started to grey.  He
+looks at his children and smiles with pride.  His gentle eyes speak of a
+love that is deep.  
+~
+human~
+ABN 0 750 0
+27 0 9d52+446 108d10+100 3d5+8 digestion
+0 0 0 1
+H 0 0 H
+(null) (null) female 121
+AHMV ABCDEFGHIJK medium unknown
+#19569
+a little girl~
+a little girl~
+A little girl watches her brother intently.
+~
+She is a lovely little girl.  She has long, flowing hair that is the
+color of sunshine.  She smiles happily as she watches her brother fight a
+great battle.  
+~
+human~
+A 0 0 0
+23 0 11d352+1789 65d10+100 5d8+19 beating
+-30 -30 -30 -10
+0 0 0 H
+(null) (null) either 103
+AHMV ABCDEFGHIJK medium unknown
+#19571
+A lovely lady~
+a lovely lady~
+A lovely lady looks at you shyly.
+~
+The young lady is vain.  She thinks herself a beauty beyond compare.  The
+truth, however, is more more than she can bear.  Her looks are plain at
+best.  She is also bone thin.  The only reason that she is even considered a
+beauty is because she is one of the few women in Woodmonte.  
+~
+human~
+AN 0 750 0
+29 0 9d57+495 116d10+100 3d6+8 beating
+-1 -1 -1 0
+H 0 0 F
+(null) (null) either 130
+AHMV ABCDEFGHIJK medium unknown
+#19572
+A tall lady~
+a tall lady~
+A tall lady struts proudly by.
+~
+She is a tall, plain woman.  She walks around with her nose in the air. 
+Leaving you to wonder, how she is able to see where she is going?  
+~
+human~
+AN 0 750 0
+30 0 10d60+520 120d10+100 3d6+8 beating
+-1 -1 -1 0
+0 0 C F
+(null) (null) either 135
+AHMV ABCDEFGHIJK medium unknown
+#19576
+poacher~
+a poacher~
+A poacher is here, hunting illegally for wild game.
+~
+This poacher looks a bit startled at your arrival; it is well known that
+illegal hunters are severely punished.  He is very tall with a thick build. 
+You can tell by the smell of him he has been out here for days without a
+break.  
+~
+human~
+AF V 200 0
+33 0 10d69+599 132d10+100 4d5+9 digestion
+-2 -2 -2 0
+BEJ 0 0 EG
+(null) (null) female 148
+AHMV ABCDEFGHIJK medium unknown
+#19577
+Lascardus~
+Lascardus, the tool sharpener~
+Lascardus is here studying an axe.
+~
+Lascardus is a tall stout man who has spent years training at his craft. 
+He has become one of the greatest at the skill.  Like all the residents of
+Woodmonte, his beard is long and flowing.  He is muscled, but not overly so.
+He has a tender look in his eyes.  
+~
+human~
+AB 0 750 0
+38 0 10d89+743 152d10+100 4d6+11 lunge
+-4 -4 -4 -2
+CDFHIK 0 C FG
+(null) (null) female 171
+AHMV ABCDEFGHIJK medium unknown
+#19578
+an old man~
+an old man~
+An old man looks at you intently.
+~
+He is a hard old man.  Years of hard work and hard drinking have left him
+drained.  His face is tough and leathery, and locked into a constant state
+of a frown.  His skin color almost takes on a yellowish hue.  
+~
+human~
+AN 0 750 0
+31 0 11d369+1836 66d10+100 5d8+20 beating
+-31 -31 -31 -10
+0 0 0 F
+(null) (null) female 139
+AHMV ABCDEFGHIJK medium unknown
+#19579
+A young man~
+a young man~
+A young man looks at you curiously.
+~
+You look at a tall, lean young man.  He is not quiet built as large as
+the older men of Woodmonte.  Comparatively speaking, he is a weakling.  He
+walks with a purpose, thinking that one day he will be one of the greatest
+in the area.  As you look at him, all you can think of is short man
+syndrome.  
+~
+human~
+A 0 750 0
+34 0 10d73+626 136d10+100 4d5+10 digestion
+-3 -3 -3 -1
+FK 0 0 EF
+(null) (null) female 153
+AHMV ABCDEFGHIJK medium unknown
+#19580
+the town bum~
+a bum~
+A bum holds his hand out begging for change.
+~
+He is tall and lanky, and still shows signs of youthfulness.  His main
+problem is that he is lazy.  He feels that work is for those that are to
+dumb to take what they want.  This has been his calling and his curse.  At
+first, the citizens took pity on him, now he is just the object of their
+jokes.  
+~
+human~
+AP 0 0 0
+34 0 10d73+626 136d10+100 4d5+10 digestion
+-3 -3 -3 -1
+FH 0 0 H
+(null) (null) female 153
+AHMV ABCDEFGHIJK medium unknown
+#19583
+sinister criminal~
+a sinister criminal~
+A dirty, sinister criminal lurks here.
+~
+This career criminal stares at you with sincere loathing.  He appears
+absolutely filthy and is emitting an odor that repulses you.  Dark circles
+can be seen under his eyes; it looks as though he has not slept in days. 
+This sinister man is creeping under the streets getting into trouble.  
+~
+human~
+A DV -200 0
+34 0 10d73+626 136d10+100 4d5+10 digestion
+-3 -3 -3 -1
+ADFJR 0 L CIS
+(null) (null) female 153
+ABGHMRVXYc ABCDEFGHIJKLPQVX medium unknown
+#19585
+lorenzo dealer~
+Lorenzo~
+Lorenzo is here, shuffling cards.
+~
+Lorenzo clearly never misses a meal.  His large, exposed belly hangs over
+the top of his pants, stretching the waistband to the limit.  He has short
+hair has not been washed in weeks.  As he looks up and smiles, the condition
+of his teeth make you feel sick.  
+~
+human~
+ABO 0 -900 0
+38 0 10d89+743 152d10+100 4d6+11 digestion
+-4 -4 -4 -2
+CFJ 0 B NS
+(null) (null) female 171
+AHMV ABCDEFGHIJK medium unknown
+#19586
+sharon girl~
+one of Sharon's girls~
+One of Sharon's girls is here, looking you over carefully.
+~
+She is an over worked and underfed nymph.  She spends her time trolling
+under the streets for potential customers.  She appears as though she has
+had a few already today.  She attempts to primp a bit and says, "You lookin'
+for some company?"  
+~
+unique~
+AH V -700 0
+36 0 10d80+683 144d10+100 4d6+9 beating
+-4 -4 -4 -2
+EGINQ AB C HNS
+(null) (null) either 162
+ACGHMV ABCDEFGHIJK small unknown
+#19587
+Lady Sharon~
+lady Sharon~
+Lady Sharon is here, waiting for her girls to make her money.
+~
+Lady Sharon, employer of females, is cunning and crafty nymph.  She looks
+as if she was once a pretty girl but years of hard labour and fast living
+have taken it's toll on her.  Dark circles under her eyes tell a story of
+long nights filled with drinking and entertaining.  Her arms and legs are
+terribly thin, the skin just hangs off them.  Her posture is so bad, she
+could be quite tall if she stood up straight.  Something about the way she
+moves tell you she is a force to be reckoned with.  
+~
+unique~
+ABN V -700 0
+40 0 10d98+804 160d10+100 4d7+10 beating
+-5 -5 -5 -3
+EFI BP 0 NS
+(null) (null) either 180
+ACGHMV ABCDEFGHIJK medium unknown
+#19592
+Prista~
+Prista~
+Prista walks along, muttering in an ancient tongue
+~
+Prista is a young looking woman who clearly does not wish to be bothered.
+She keeps her head low, her eyes on the ground.  A black cloak covers most
+of her body giving away no hints as to her frame.  
+~
+human~
+AO 0 -900 0
+39 0 10d93+773 156d10+100 4d6+11 slap
+-5 -5 -5 -3
+CDEIN 0 0 N
+(null) (null) either 175
+AHMV ABCDEFGHIJK medium unknown
+#19594
+sleeping drunk~
+a drunk~
+A sleeping drunk snuggles his bottle and snores.
+~
+All he is wearing is socks.  He passed out in the wrong part of town.  He is 
+covered in dirt and looks flea ridden, if the angry red spots covering his 
+flesh are any indication.  Of course, that might just be a rash...  
+~
+human~
+A a -500 0
+29 0 9d57+495 116d10+100 3d6+8 digestion
+-1 -1 -1 0
+CFI 0 0 NS
+sleep (null) female 130
+AHMV ABCDEFGHIJK medium unknown
+#19599
+dirty adventurer~
+a dirty adventurer~
+A dirty adventurer is here, looking for his next thrill.
+~
+A dirty man lurks here, perhaps he is looking for one of Sharon's girls.  
+His eyes look down and the floor of the tunnel...  And then at your bag of 
+gold.  His hair is coated in grime and grease and stands on end in places.  
+~
+human~
+AP DV -900 0
+36 0 10d80+683 144d10+100 4d6+9 digestion
+-4 -4 -4 -2
+CEF LQ B NS
+(null) (null) female 162
+AHMV ABCDEFGHIJK medium unknown
+#19603
+Lothus~
+Lothus~
+Lothus is here watch for his father to come home.
+~
+Maybe 16 years od age, Lothus is ready to venture out into the forest
+with his father.  He is strong.  Stronger than any of the boys in town,
+Lothus still wants his fathers approval.  So he waits here everyday until
+his father says he can go.  
+~
+human~
+A 0 750 0
+27 0 9d52+446 108d10+100 3d5+8 digestion
+0 0 0 1
+FK 0 0 C
+(null) (null) female 121
+AHMV ABCDEFGHIJK medium unknown
+#19604
+Bowsman~
+Bowsman~
+Bowsman is here working.
+~
+At first look, you see nothing special about the man.  He is of average
+height and weight.  He has no special features that would make him stand out
+in the crowd.  He wears a long beard that has been tied back to avoid
+getting it caught in the press.  Then you notice the limp.  The tell-tell
+sign that he has been injured doing his job.  
+~
+human~
+AB 0 750 0
+34 0 10d73+626 136d10+100 4d5+10 digestion
+-3 -3 -3 -1
+FI 0 0 F
+(null) (null) female 153
+AHMV ABCDEFGHIJK medium unknown
+#19605
+Roscol~
+Roscol~
+Roscol is here hooking logs.
+~
+A young man who is not all together to bright.  He works hard at his job
+making sure that no logs get close to the treadmill.  He is slight of body
+and seems almost feeble as you look at him.  
+~
+human~
+AB 0 750 0
+34 0 10d73+626 136d10+100 4d5+10 digestion
+-3 -3 -3 -1
+DF 0 0 D
+(null) (null) female 153
+AHMV ABCDEFGHIJK medium unknown
+#19606
+A lumberjack~
+a lumberjack~
+A lumberjack is preparing for work.
+~
+One of the many lumberjacks that work in the forest that surround
+Woodmonte.  He is a rather large man, standing well over 6'6".  He is broad
+in the shoulders and wide at the hips.  His beard is thick and full.  He has
+a hard look in his eyes and pays little attention to the details to his
+appearance.  
+~
+human~
+A 0 0 0
+38 0 10d89+743 152d10+100 4d6+11 digestion
+-4 -4 -4 -2
+EFK 0 0 Q
+(null) (null) female 171
+AHMV ABCDEFGHIJK medium unknown
+#19607
+Silvia~
+Silvia~
+Silvia carries plates in both hands.
+~
+A large, elderly woman smiles at you as she carries plates to the tables.
+She has been here almost as long as the village has.  She looks at you and
+smile.  The words "We need to fatten you up" rolls off her tongue.  
+~
+human~
+ABRW 0 0 0
+65 0 11d352+1789 260d10+100 5d8+19 none
+-15 -15 -15 -13
+0 ABQ 0 0
+(null) (null) either 292
+AHMV ABCDEFGHIJK medium unknown
+#19608
+the paymaster~
+the paymaster~
+The paymaster is getting ready for the rush.
+~
+One of the most trusted employees of the company.  He has access to the
+company funds.  Once a week, he walks to his office and waits patiently for
+the lumberjacks to come and claim their pay.  
+~
+human~
+AB 0 750 0
+40 0 10d98+804 160d10+100 4d7+10 none
+-5 -5 -5 -3
+CD 0 0 CL
+(null) (null) female 180
+AHMV ABCDEFGHIJK medium unknown
+#19609
+a store clerk~
+a store clerk~
+A store clerk stocks the shelves.
+~
+He is a rather small fellow.  He holds himself with an air of pride.  He
+walks briskly around the room and hurriedly puts items on the shelf to
+prepare for the coming shoppers.  
+~
+human~
+AB 0 750 0
+30 0 10d60+520 120d10+100 3d6+8 beating
+-1 -1 -1 0
+FHIK 0 0 F
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#19610
+An old school teacher~
+a school teacher~
+An old school teacher grades essays.
+~
+She is an elderly lady.  She has a soft look to her face.  One that hides
+the fact that she is strict.  Her years have caused her hair to grey, and
+her eyesight is almost gone.  Each year, she claims she will retire.  
+~
+human~
+ABN 0 0 0
+35 0 10d76+654 140d10+100 4d6+9 beating
+-3 -3 -3 -1
+H L 0 H
+(null) (null) either 157
+AHMV ABCDEFGHIJK medium unknown
+#19611
+Nasrick~
+a dirty elf~
+Nasrick is here, sneaking about the tunnel.
+~
+Nasrick emits an awful odor.  He is attempting to sneak about without
+being noticed.  His clothes hang on him in dirty shreds.  As he peers at you
+he foams slightly at the mouth, making you cringe.  
+~
+unique~
+AHP DJVa -900 0
+38 0 10d89+743 152d10+100 4d6+11 stab
+-4 -4 -4 -2
+B C B FNOS
+(null) (null) female 171
+AHMV ABCDEFGHIJK medium unknown
+#19617
+Jezelle~
+Jezelle~
+Jezelle is here, waiting for a bit of Tahji's attention
+~
+Jezelle was once one of Sharon's girls but has now fallen under the good
+graces of Tahji.  She is a skinny, unhealthy nymph who clearly spends too
+much time underground.  She is as dirty as Tahji.  Her long, black, stringy
+hair hangs in her face.  Dark circles under her eyes tell a tale of a hard
+life.  She thinks her jewelry makes up for her awful appearance.  
+~
+unique~
+ABN Va -900 0
+40 0 10d98+804 160d10+100 4d7+10 crush
+-5 -5 -5 -3
+EJ B 0 NS
+(null) (null) either 180
+ACGHMV ABCDEFGHIJK medium unknown
+#19618
+the poacher's wife~
+the poacher's wife~
+Marsalla awaits her husbands return.
+~
+A slim woman with blonde hair stands here, hoping for her husbands save 
+return.  She glances about with a mixture of concern and anger on her sharp 
+features.  
+~
+human~
+AN 0 750 0
+30 0 10d60+520 120d10+100 3d6+8 beating
+-1 -1 -1 0
+FHK 0 0 F
+(null) (null) either 135
+AHMV ABCDEFGHIJK medium unknown
+#19619
+Tahji~
+Tahji ~
+Tahji is here, counting his money
+~
+Tahji smells.  He is big, ugly, mean and rich.  His long stringy hair
+hangs to his shoulders and covers most of his face.  His breathing is heavy
+and seems as if he has a hard time drawing a full breath.  He is tall and
+his frame bulky.  As his gaze falls on you, it is clear he loathes company. 
+~
+human~
+AB D -1000 0
+40 0 10d98+804 160d10+100 4d7+10 pound
+-5 -5 -5 -3
+E B 0 HS
+(null) (null) female 180
+AHMV ABCDEFGHIJK large unknown
+#19620
+silly playful silver kitten~
+a small silver kitten~
+This small silver kitten darts around, playfully pouncing on everything in sight.
+~
+This small feline is a silver tabby.  Emblazoned on her chest is a
+star-shaped marking of white that is as pure as snow.  Her nose is mottled
+pink and black with white whiskers at either side.  Her eyes are huge and
+green, rimmed with the same black as the slit in the middle.  She is a very
+small kitty, a fact that her fluffy fur cannot hide.  
+~
+unique~
+A VZ 0 0
+20 0 6d39+294 80d10+100 3d5+4 slash
+2 2 2 4
+H ABP P H
+(null) (null) either 90
+ACGHMV ABCDEFGHIJKUV medium unknown
+#0
+
+
+
+#OBJECTS
+#19552
+heavy camouflage coat~
+a heavy camouflage coat~
+A heavy camouflage hunting coat has been left here.~
+cloth~
+armor S AD
+AC AC AC A 0
+33 8 350 P
+#19554
+A large axe~
+a large axe~
+A large axe has a sharp blade on it.~
+steel~
+weapon 0 AN
+mace 7 11 wrath 0
+40 0 350 P
+#19555
+a short staff~
+a short staff~
+A short staff lays here.~
+wood~
+weapon 0 AN
+polearm 5 14 none 0
+35 0 325 P
+#19556
+a logging axe~
+a logging axe~
+A logging axe is resting here.~
+steel~
+weapon 0 AN
+mace 5 8 lunge 0
+38 0 340 P
+#19558
+A hunting spear~
+hunting spear~
+A hunting spear has been laid aside.~
+steel~
+weapon 0 0
+dagger 6 8 crunch 0
+25 5 340 P
+#19560
+gloves~
+lacy pink gloves~
+A fancy pair of lacy pink gloves lay here.~
+cotton~
+armor 0 AH
+C C C A 0
+25 2 325 P
+#19576
+hunting knife~
+a hunting knife~
+A large hunting knife had been left here.~
+steel~
+weapon 0 AN
+bow 7 9 none J
+33 3 350 P
+#19577
+dull axe~
+a dull axe~
+A dull axe looks in need of repairs.~
+steel~
+weapon 0 AN
+staff 8 9 blast 0
+38 0 330 P
+#19579
+A wooden staff~
+a wooden staff~
+A long wooden staff has been cast away.~
+wood~
+weapon 0 AN
+polearm 5 8 blast 0
+20 4 325 P
+#19583
+cooties~
+cooties~
+Ewwww! Someone left cooties here!~
+nothing~
+trash HM A
+0 0 0 0 0
+1 10 0 P
+#19584
+purse~
+a purse~
+A broken purse has been left on the ground.~
+leather~
+weapon 0 AN
+staff 7 10 none 0
+36 4 30 P
+#19585
+deck cards~
+a deck of cards~
+An old deck of cards have been left here.~
+paper~
+trash 0 AO
+0 0 0 0 0
+1 1 1 P
+E
+cards~
+This deck of worn cards should have been thrown in the trash long ago. 
+They are so faded it is hard to use them.  
+~
+#19586
+broken trunk~
+broken trunk~
+An old broken trunk is here ~
+wood~
+container R 0
+0 0 0 0 0
+1 100 1 P
+#19587
+bright lipstick~
+{xbright {Mlipstick{x~
+A bright lipstick is here, It looks like your color.~
+nothing~
+clothing 0 AT
+0 0 0 0 0
+20 1 150 P
+#19588
+dirty pants~
+a pair of dirty pants~
+A dirty pair of pants lay here in a heap.~
+cloth~
+armor 0 AF
+BC BC BC A 0
+38 5 355 P
+#19592
+black shiny cloak~
+a shiny black cloak~
+A shiny black cloak seems to emit an evil presence~
+cloth~
+armor BG AZ
+BC BC BC A 0
+39 3 100 P
+#19594
+wool socks~
+wool socks~
+Some old socks lay here and stink up the area.~
+cloth~
+armor 0 AG
+C C C A 0
+29 2 365 P
+#19596
+empty bottle~
+a large bottle~
+A large empty bottle has been left here.~
+glass~
+weapon 0 AN
+staff 7 8 none 0
+29 3 365 P
+#19599
+small dagger~
+a small dagger~
+A small dagger has been left here. This tiny dagger could easily fit in the palm of your hand.~
+steel~
+weapon 0 AN
+bow 7 10 crunch 0
+36 1 350 P
+#19601
+bull whip ~
+a bull whip~
+"Woodmonte Logging Company" is engraved on the handle of a whip.~
+leather~
+weapon 0 AN
+flail 7 11 scratch 0
+40 5 345 P
+#19603
+a wooden block~
+a wooden block~
+A heavy wooden block lays here.~
+wood~
+weapon 0 AN
+staff 7 7 blast 0
+27 12 325 P
+#19604
+Wooden Mallet~
+a sturdy mallet~
+A mallet lays here on the ground~
+wood~
+weapon 0 AN
+staff 6 11 blast 0
+34 12 325 P
+#19605
+A hooking spear~
+a hooking spear~
+A hooking spear lays here.~
+steel~
+weapon 0 AN
+dagger 6 11 crunch 0
+34 4 325 P
+#19606
+Logging axe~
+logging axe~
+A logging axe is laying here.~
+iron~
+weapon 0 AN
+mace 8 9 sunder 0
+38 8 375 P
+#19607
+pancakes~
+pancakes~
+A stack off steaming pancakes.~
+wheat~
+food 0 A
+CD 0 0 0 0
+1 0 2 P
+#19608
+waffles~
+waffle~
+A hot stack of waffles.~
+wheat~
+food 0 A
+CD 0 0 0 0
+1 0 2 P
+#19609
+a work vest~
+a work vest~
+A work vest has been discarded here.~
+leather~
+armor 0 AD
+AC AC AC A 0
+30 3 325 P
+#19610
+A thick pair of eyeglasses~
+a thick pair of glasses~
+A pair of thick eyeglasses lay here.~
+glass~
+clothing 0 AT
+0 0 0 0 0
+1 2 300 P
+#19611
+broken bottle~
+a broken bottle~
+A broken bottle with sharp edges has been left here.~
+glass~
+weapon 0 AN
+bow 5 8 none D
+20 2 375 P
+A
+18 4
+A
+19 4
+#19615
+a rusty pick~
+a rusty pick~
+A rusty old pick is here, waiting to be remembered.~
+iron~
+weapon 0 AN
+bow 7 11 crunch 0
+40 10 375 P
+#19616
+navel ring~
+{xa silver navel ring~
+A small navel ring has been left here.~
+silver~
+armor 0 AL
+BC BC BC B 0
+40 1 375 P
+#19617
+charmed diamond necklace~
+a charmed diamond necklace~
+A diamond necklace seems to pull toward its other half.~
+diamond~
+protect 0 AC
+ACE ACE ACE AC 0
+40 8 900 P
+A
+13 25
+A
+1 1
+#19618
+large ruby ring~
+{xa large {Rruby {xring~
+A ruby holds the light and takes your breath.~
+ruby~
+protect 0 AB
+ACE ACE ACE AC 0
+40 3 800 P
+#19619
+diamond ring~
+{xa huge {Wdiamond {xring~
+A huge diamond ring that sparkles at every angle has been left here~
+diamond~
+protect 0 AB
+ACE ACE ACE AC 0
+40 1 800 P
+E
+ring~
+This ring is made of perhaps the largest, most perfect diamond you have
+ever seen.  It is set in a thick gold band and sparkles at every angle.  
+~
+#19621
+Couch~
+a comfortable looking couch~
+A comfortable looking couch.~
+cloth~
+furniture R 0
+0 0 0 0 0
+1 0 0 P
+#19622
+Chair~
+a comfortable chair~
+A large chair looks extremely comfortable.~
+cloth~
+furniture R 0
+0 0 0 0 0
+1 0 0 P
+#19623
+Large Dining Table~
+a large dining-room table~
+This dining-room table is large enough to seat ten people with ease.~
+wood~
+furniture R 0
+0 0 0 0 0
+1 0 0 P
+#19624
+Large Bed~
+a large, comfortable looking bed~
+This large bed is covered in thick blankets and large pillows.~
+wood~
+furniture R 0
+0 0 0 0 0
+1 0 0 P
+#19625
+Massive Comfortable Bed~
+a warm and comfortable bed~
+This massive bed has a soft mattress and is covered in thick warm blankets and invitingly soft pillows.~
+wood~
+container R 0
+1000 AC 0 0 0
+1 0 0 P
+#19626
+Wrought Iron Key Wrought-Iron~
+a wrought-iron key~
+A wrought-iron key is here.~
+iron~
+key SW AO
+0 0 0 0 0
+1 0 0 P
+#19627
+Wooden Bureau~
+a wooden bureau~
+This wooden bureau looks to be quite capable of holding many types of clothing.~
+wood~
+container R 0
+1000 AC 0 0 0
+0 0 0 P
+#19628
+White Robe~
+a white silk robe~
+This robe has been made of pure silk and reaches mid-thigh.~
+silk~
+clothing S AD
+0 0 0 0 0
+1 0 500 P
+#19629
+Comfortable Swing~
+a comfortable swing~
+Attached from the overhang of the roof, this swing looks extremely comfortable.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#19550
+A Dirt Path~
+As you begin down a small path you notice a change in the woods around
+you.  Many of the enormous trees that once stood here have been reduced to
+stumps protruding from the soft ground.  These stumps have been left as
+evidence of some severe logging that has obviously taken place recently as
+you can still smell fresh sawdust in the air.  
+~
+0 4 3
+D1
+~
+~
+~
+0 0 19551
+M 0 H 0
+S
+#19551
+A Dirt Path~
+Near the base of what was once a large tree, a patch of bright yellow and
+lavender flowers have been smashed into the dirt.  To the west a pile of
+large branches are piled knee high.  Large pieces of dry moss have been
+placed in various places over the top of the branches.  It appears someone
+is preparing to have a rather large fire here.  The dirt path continues
+north and west.  
+~
+0 1 3
+D0
+~
+~
+~
+0 0 19552
+D3
+~
+~
+~
+0 0 19550
+M 0 H 0
+S
+#19552
+Near the Sawmill~
+The forest is thinner here.  The effects of heavy logging has already
+began to show signs.  New spruces have been planted to take the place of the
+hardwoods that have already been cut.  The path continues to the south and
+east into the forest.  An old sawmill can be seen to the west.  
+~
+0 1048576 3
+D1
+~
+~
+~
+0 0 19576
+D2
+~
+~
+~
+0 0 19551
+D3
+~
+~
+~
+0 0 19553
+M 0 H 0
+S
+#19553
+Before the Sawmill~
+This is a simple building.  It was constructed so that it could be used
+for a long time.  Tiny particles of sawdust float around in the air, seeming
+as if to block out all intruders.  The rumble of water running over the
+treadmill is louder than you expected.  The dirt path continues to the east
+and west.  
+~
+0 1056768 3
+D0
+~
+~
+~
+0 0 19604
+D1
+~
+~
+~
+0 0 19552
+D3
+~
+~
+~
+0 0 19554
+M 0 H 0
+S
+#19554
+On the Pond~
+The water that is used to turn the treadmill is pooled here.  A slow
+steady stream can be seen running to the south, keeping the pond from
+overflowing.  Except for the sound of the turning treadmill, this place is
+quite.  Almost inviting you to come in and relax.  The path wanders to the
+north into the forest and east back to the sawmill.  
+~
+0 1056768 3
+D0
+~
+~
+~
+0 0 19555
+D1
+~
+~
+~
+0 0 19553
+M 0 H 0
+S
+#19555
+The Untouched Forest~
+The forest here has not yet been touched by the blades of the loggers. 
+The trees stand tall and proud, reaching high into the sky.  Nestled into
+the trees to the north, a large house can be seen.  The sound of wildlife
+reaches your ear.  The dirt path ends here.  You can continue to the south
+and to the pond or you can follow a slight trail to the west.  
+~
+0 1056768 3
+D0
+~
+~
+~
+0 0 19620
+D2
+~
+~
+~
+0 0 19554
+D3
+~
+~
+~
+0 0 19556
+M 0 H 0
+S
+#19556
+Deeper into the Forest~
+The large hardwoods tower over everything in the forest.  The branches of
+these massive trees compete with one another for sunlight and almost block
+the light from the forest floor.  A slight wind blows from the west,
+bringing a refreshing scent of lilac to your nose.  The animal trail
+continues to the east and west.  
+~
+0 1056768 3
+D1
+~
+~
+~
+0 0 19555
+D3
+~
+~
+~
+0 0 19557
+M 0 H 0
+S
+#19557
+A Small Clearing~
+The forest thins a little here and actually opens into a small clearing. 
+The clearing is clean and looks comfortable.  Many a lover has come to this
+spot to profess his love.  Looking at the trees that encircle the clearing,
+you can see {Wmarkings {xon the trunks of the trees.  A path runs north and
+back to the east.  
+~
+0 1056768 3
+E
+marking~
+A heart has been carved into the tree with the names Arlic and Kristen 
+~
+D0
+~
+~
+~
+0 0 19558
+D1
+~
+~
+~
+0 0 19556
+M 0 H 0
+S
+#19558
+Edge of the Forest~
+The forest is naturally thinner here.  The hardwoods have given way to
+smaller, less hardy trees.  The undergrowth is thick and heavy in places. 
+The smell of honeysuckle rises to your nose as you move among the
+underbrush.  The trail continues to the north and south, while a cabin lies
+to the east.  
+~
+0 1056768 3
+D0
+~
+~
+~
+0 0 19560
+D1
+~
+~
+~
+0 0 19559
+D2
+~
+~
+~
+0 0 19557
+M 0 H 0
+S
+#19559
+The Old Cottage~
+An old cabin stands here.  It looks as if it has seen better days.  The
+wooden floor of the front porch has collapsed in places.  The door hangs
+loosely on its hinges and looks as if it fall at the slightest touch.  You
+can stay here or return to the path to the west.  
+~
+0 0 0
+D3
+~
+~
+~
+0 0 19558
+M 0 H 0
+S
+#19560
+Nearing a Community~
+The forest has thin down into a single run of trees.  This area has been
+cleared and a small town has began to form.  To be fair, it is not really a
+town but more of a small settlement.  The path is still little more than a
+dirt path.  The path goes south back to the forest, north to a log cabin, or
+east into the settlement.  
+~
+0 1048576 3
+D0
+~
+~
+~
+0 0 19561
+D1
+~
+~
+~
+0 0 19566
+D2
+~
+~
+~
+0 0 19558
+M 0 H 0
+S
+#19561
+A Log Cabin~
+You are standing in front of a well kept log cabin.  The house is fairly
+new and is in excellent condition.  The windows have been careful placed
+into the four directions to allow for the occupant to see all that approach
+from any direction.  The path disappears to the south toward the forest or
+continues to the east toward other cabins.  
+~
+0 1048576 1
+D2
+~
+~
+~
+0 0 19560
+M 0 H 0
+S
+#19563
+A Stone Walkway~
+Stones have been put into the ground to serves as stepping stones along
+the path.  The path is neat and in order.  The grass has been mowed close to
+the ground and flowers have been planted on either side of the walkway.  The
+walkway leads between houses to the east and west.  
+~
+0 1056768 1
+D1
+~
+~
+~
+0 0 19564
+M 0 H 0
+S
+#19564
+The Bunk House~
+You stand outside the bunkhouse of the loggers.  Those loggers of
+Woodmonte who have not saved up enough money to buy a cabin of their own
+stay here.  The place is huge, larger than any other building in Woodmonte. 
+It has been kept up and stands as a proud symbol for all that live here. 
+The front of the building offers little to suggest how many could fit inside
+the dwelling.  It has one window located as the eastern end and a door in
+the middle.  
+~
+0 1048576 1
+D0
+~
+~
+~
+1 0 19606
+D1
+~
+~
+~
+0 0 19565
+D3
+~
+~
+~
+0 0 19563
+M 0 H 0
+S
+#19565
+The Walkway~
+The walkway continues down the path.  The path runs by many small houses
+as it heads toward the main road of Woodmonte.  The path is carefully tended
+and has already began to receive improvements.  Stones have been placed
+along the path and places on the path have been marked for the stones to be
+set into the ground.  The path runs east and west.  
+~
+0 1048576 1
+D1
+~
+~
+~
+0 0 19581
+D3
+~
+~
+~
+0 0 19564
+M 0 H 0
+S
+#19566
+Entrance to Woodmonte Village~
+You have found your way into the logging community of Woodmonte Village. 
+The community is a small, quiet area that is home to the best loggers in the
+realm.  The path you now follow is heavily traveled and has been worn deep
+into the ground.  A small trench has been dug at the side of the path to
+allow water to run off without causing massive ruts in the path.  The path
+goes east and west.  
+~
+0 1048576 1
+D1
+~
+~
+~
+0 0 19567
+D3
+~
+~
+~
+0 0 19560
+M 0 H 0
+S
+#19567
+Along the Path~
+The path is well traveled, having been used by many loggers to travel to
+their daily jobs.  Someone has gone to the effort to make this path
+pleasant.  Shrubs have been planted to the southern side of the trail.  Even
+small rows of flowers have been planted along the path.  The trench still
+runs along the side of the path, carrying away excess water.  The path
+itself continues east and west.  
+~
+0 1048576 1
+D1
+~
+~
+~
+0 0 19568
+D3
+~
+~
+~
+0 0 19566
+M 0 H 0
+S
+#19568
+Closer to the Village~
+The path continues to run toward the community of Woodmonte.  This part
+of the path has been turned into a small type of picnic area.  To the
+northern part of the path is a picnic table and several benches.  The
+southern part of the path is lined with scrubs.  The path continues to the
+east and west.  
+~
+0 1048576 1
+D1
+~
+~
+~
+0 0 19569
+D3
+~
+~
+~
+0 0 19567
+M 0 H 0
+S
+#19569
+Nearing Woodmonte~
+The path continues to draw closer to the village of Woodmonte.  The dirt
+has been hard packed against the ground and is as firm as brick.  The trench
+that runs beside the path empties into a grate that has been placed into the
+ground.  The path continues east to Woodmonte or returns to the forest to
+the far west.  
+~
+0 1048576 1
+D1
+~
+~
+~
+0 0 19570
+D3
+~
+~
+~
+0 0 19568
+D5
+~
+grate~
+~
+1 0 19583
+M 0 H 0
+S
+#19570
+Just Outside Woodmonte~
+The path widens here as the path flows into the main road of Woodmonte. 
+The sound of excitement comes from the east and makes you wonder just how
+large Woodmonte really is.  A slight breeze blows across the path and makes
+you feel more at peace.  The path continues east and into town or heads west
+back toward the forest.  
+~
+0 1056768 1
+D1
+~
+~
+~
+0 0 19571
+D3
+~
+~
+~
+0 0 19569
+M 0 H 0
+S
+#19571
+The Center of Woodmonte~
+The main lane in Woodmonte.  This is the busiest place in all of
+Woodmonte.  Young men and woman rush back and forth between buildings,
+running through their daily chores.  A large sign has been placed in the
+grass.  Woodmonte Lane runs north and south, while a dirt path runs back to
+the west.  
+~
+0 1056768 1
+E
+sign~
+Welcome to Woodmonte.  
+~
+D0
+~
+~
+~
+0 0 19578
+D2
+~
+~
+~
+0 0 19572
+D3
+~
+~
+~
+0 0 19570
+M 0 H 0
+S
+#19572
+Woodmonte Lane~
+Woodmonte Lane quiets a little here.  The excitement of life slowed some
+this far down the street.  A few citizens pass by quietly, headed for the
+excitement to the north.  A water tower stands to the east.  To the west is
+a small shop.  Woodmonte Lane continues north and south.  
+~
+0 1056768 1
+D0
+~
+~
+~
+0 0 19571
+D1
+~
+~
+~
+0 0 19602
+D2
+~
+~
+~
+0 0 19573
+D3
+~
+~
+~
+0 0 19607
+M 0 H 0
+S
+#19573
+The End of Woodmonte Lane~
+You have reached the end of Woodmont Lane.  The quiet little town is
+almost on the verge of becoming a small city.  The entrance to the Dull
+Blade is to the east.  The steps to the school house are due south of you
+and a cabin can be seen to the west.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 19572
+D1
+~
+~
+~
+0 0 19577
+D2
+~
+~
+~
+0 0 19610
+D3
+~
+~
+~
+0 0 19575
+M 0 H 0
+S
+#19575
+An old cabin~
+One of the first houses to be built in Woodmonte.  This cabin shows signs
+of aging, but still appears to be a sturdy dwelling.  The grass is higher
+here than is to be expected and the forest comes close to the house.  An
+animal trial leads to the south and a has been cut to the east back to
+Woodmonte Lane.  
+~
+0 1048576 1
+D1
+~
+~
+~
+0 0 19573
+D2
+~
+~
+~
+0 0 19576
+M 0 H 0
+S
+#19576
+In the forest~
+The massive size of the trees that surround you are truly impressive. 
+They reach so high it is hard to see the tops.  The lush green leaves create
+a canopy overhead allowing only small rays of light onto the dark wet forest
+floor.  Halfway up a large tree an "X" has been carved into the bark, at the
+base of the trunk a hole can be seen in the ground.  
+
+~
+0 1 0
+D0
+~
+~
+~
+0 0 19575
+D3
+~
+~
+~
+0 0 19552
+D5
+~
+~
+~
+0 0 19600
+M 0 H 0
+S
+#19577
+The Dull Blade~
+You have stepped into a small shop that is crowded with dull blades.  The
+smell of oil is heavy in the air.  The blades are simple tools that are used
+everyday in the normal life here in Woodmonte.  A few axes sit on the
+counter waiting to be sharpened.  A sharpening stone stands in the corner
+awaiting the master to press blade against it.  
+~
+0 1048584 0
+D3
+~
+~
+~
+0 0 19573
+M 0 H 0
+S
+#19578
+Woodmonte Lane~
+The lane gets louder and more active as you get closer to the center of
+the village.  The buildings are stack tightly but neatly against one
+another.  Sidewalks line both sides of the lane and offer some protection
+from the rains that often fall here in Woodmonte.  The lane continues to the
+north and the south.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 19579
+D1
+~
+~
+~
+0 0 19609
+D2
+~
+~
+~
+0 0 19571
+D3
+~
+~
+~
+0 0 19608
+M 0 H 0
+S
+#19579
+The Beginning of Woodmonte Lane~
+The stone path runs into Woodmonte Lane, the main road in Woodmonte.  The
+sounds of daily life can be heard coming from the south.  Small buildings
+line the lane as it continues to the south.  The stone path runs back to the
+west and the houses just outside of the village.  A small path can be seen
+running to the east.  
+~
+0 1048576 1
+D1
+~
+~
+~
+0 0 19616
+D2
+~
+~
+~
+0 0 19578
+D3
+~
+~
+~
+0 0 19580
+M 0 H 0
+S
+#19580
+The Stone Works~
+The path has turned from a dirt trail into a carefully constructed stone
+walkway.  The stones have been placed into the ground and tucked neatly into
+small designs.  Log cabins line the northern part of the trail and stand
+tightly stacked one against another.  The path continues to the east and the
+west.  
+~
+0 1048576 1
+D1
+~
+~
+~
+0 0 19579
+D3
+~
+~
+~
+0 0 19581
+M 0 H 0
+S
+#19581
+Improvements on the Path~
+The path to Woodmonte is undergoing improvements here.  Stones have been
+placed into the ground at regular intervals.  A large grate has been placed
+into the center of the path to help control water run-off.  The stone work
+continues to the east and west.  
+~
+0 1048576 1
+D1
+~
+~
+~
+0 0 19580
+D3
+~
+~
+~
+0 0 19565
+D5
+~
+grate~
+~
+1 0 19582
+M 0 H 0
+S
+#19582
+The Drainage Tunnel~
+This small area has been dug under the Woodmonte to control the excess
+water that falls here.  The room is crowded with pipes, each running in a
+different direction, feeding the water back to the outside.  Occasionally,
+the water does not go down the pipe and backs up into the room.  Such a time
+as now, you long for the fresh air above.  
+~
+0 1048585 0
+D4
+~
+grate~
+~
+1 0 19581
+M 0 H 0
+S
+#19583
+Under the Street~
+The dirt floor has been leveled by the mass amount of heavily armed
+adventurers who have traveled this path.  The world under the streets is
+vastly different than the world above.  Once you enter here, the laws
+change.  Anything could happen in this criminal environment.  A cool musty
+smell fills the space around you, the air feels damp on your exposed skin. 
+In your attempt to peer down the long dark corridor the feeling of being
+watched washes over you.  The only exits are up to the surface or east into
+the darkness.  
+~
+0 1048585 0
+D1
+~
+~
+~
+0 0 19584
+D4
+~
+grate~
+~
+1 0 19569
+M 0 H 0
+S
+#19584
+Under the Street~
+The tunnel grows dark and the air more musty than ever.  The widening
+tunnel seems to swallow you whole.  With each step you grow more curious as
+to what can be hiding it the darkness beyond.  
+~
+0 1056781 0
+D1
+~
+~
+~
+0 0 19586
+D3
+~
+~
+~
+0 0 19583
+M 0 H 0
+S
+#19585
+A Card Room~
+A lantern pierces the darkness in this room with an eerie glow; A thick
+haze of dirt and dust are made obvious by the intruding light.  In the
+center of the small room a rickety card table has been set up and a deck of
+very used cards are awaiting the next deal.  The smell of booze is obvious
+and almost burns your nose.  The only exit form here is south.  
+~
+0 8200 0
+D2
+~
+~
+~
+0 0 19586
+M 0 H 0
+S
+#19586
+Under the Street~
+The darkness seems to be broken a bit by the sound of voices bouncing off
+the dirt walls.  A trickle of water has found its way to the dirt floor
+leaving a stagnant pool of water at your feet.  Small holes have been dug
+into the tunnel north and south.  The tunnel continues east and west 
+~
+0 1056777 0
+D0
+~
+~
+~
+0 0 19585
+D1
+~
+~
+~
+0 0 19588
+D2
+~
+~
+~
+0 0 19587
+D3
+~
+~
+~
+0 0 19584
+M 0 H 0
+S
+#19587
+Lady Sharon's House of Pleasure~
+The smell of cheap perfume hits you like a ton of bricks.  The attempt to
+decorate this small room, was done in vain.  The dirt floor is half covered
+by a (once) bright pink carpet that has obviously seen it's share of
+traffic.  At one end of the room a small cot sits.  It has been made up with
+stained yellowing sheets, that have apparently been well used.  Under the
+cot a small {Wtrunk {xis open displaying an abundance of rouges, lipsticks,
+cheap jewelry and various other female products.  The only exit from this
+pungent smelling room is north.  
+~
+0 8200 0
+E
+trunk~
+The old broken trunk contains all sorts of female junk.  One lipstick in
+particular seems to be unusually bright, I wonder if it's your color?  
+~
+D0
+~
+~
+~
+0 0 19586
+M 0 H 0
+S
+#19588
+Under the Street~
+Debris is scattered about the tunnel floor.  Partially eaten food,
+bottles, old playing cards have all been left behind as evidence of
+adventurers who have visited this place.  The dark tunnel continues east and
+west.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 19590
+D3
+~
+~
+~
+0 0 19586
+M 0 H 0
+S
+#19589
+A Sudden Stop~
+The tunnel runs into a sudden end here.  Trash has been piled high and
+the smell is that of rot.  You can hear rats gnawing in the trash pile.  A
+sticky substance holds your feet to ground.  As you look down, you realize
+that you are standing in a puddle of blood.  
+~
+0 1056777 0
+D2
+~
+~
+~
+0 0 19590
+M 0 H 0
+S
+#19590
+Under the Street~
+The darkness becomes almost oppressive, on the air lingers the smell of a
+mixture of blood and perfume.  The hairs on your arms begin to rise as you
+move along the tunnel.  Sounds of struggle come to your ears ever now and
+then.  
+~
+0 1056777 0
+D0
+~
+~
+~
+0 0 19589
+D1
+~
+~
+~
+0 0 19592
+D2
+~
+~
+~
+0 0 19591
+D3
+~
+~
+~
+0 0 19588
+M 0 H 0
+S
+#19591
+A Cozy Corner~
+The tunnel has been shaped into an small alcove here.  It is dimly lit
+and appears to offer little in the way of relaxation.  The floor is sticky
+and a musty scent fills the air.  Bottles of cheap perfume litter the far
+wall, along with many empty whiskey bottles.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 19590
+M 0 H 0
+S
+#19592
+Under the Street~
+The tunnel narrows slightly here.  The smell of perfume lingers in the
+air.  Sounds of enjoyment can be heard bouncing off the walls of the tunnel.
+One can only wonder what lies ahead.  The tunnel continues to the east and
+the west.  A boarded up tunnel can be seen to the north.  
+~
+0 1056777 0
+D0
+~
+tunnel~
+~
+1 0 19611
+D1
+~
+~
+~
+0 0 19593
+D3
+~
+~
+~
+0 0 19590
+M 0 H 0
+S
+#19593
+Under the Street~
+The tunnel returns to darkness here.  The rumble above your head makes
+you realize that you are in a tunnel under the street of Woodmonte. 
+Markings have been left on the walls of the tunnel suggesting the Lady
+Sharon's place is around here somewhere.  
+~
+0 1056777 0
+D2
+~
+~
+~
+0 0 19594
+D3
+~
+~
+~
+0 0 19592
+M 0 H 0
+S
+#19594
+Into the Gloom~
+The tunnel winds deeper into the darkness.  The only source of
+illumination comes from a single lantern that has been hung on the wall. 
+The light is dim and cast little in the way of real comfort.  Trash has been
+littered about and lies piled in heaps.  
+~
+0 1056777 0
+D0
+~
+~
+~
+0 0 19593
+D1
+~
+~
+~
+0 0 19595
+M 0 H 0
+S
+#19595
+Approaching the Light~
+The light from the west is not strong enough to punch into the darkness
+here.  The temperature is still hot and leaves your skin feeling sticky. 
+You reach out your hand and touch the tunnel wall, finding it to be damp and
+sticky to the touch.  You may continue toward the light or return to the
+darkness to the east.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 19596
+D3
+~
+~
+~
+0 0 19594
+M 0 H 0
+S
+#19596
+Along the Tunnel~
+You find yourself in total darkness, broken only by a small pinpoint of
+light that can be seen to the west.  You still have the feeling that you
+can't shake about this place.  It smells of urine and sweat, and the
+increase in the temperature here only makes it worse.  The tunnel runs east
+and west.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 19597
+D3
+~
+~
+~
+0 0 19595
+M 0 H 0
+S
+#19597
+A Turn in the Darkness~
+The tunnel widens here.  The darkness is only broken by a small beacon of
+light that comes from the west.  Feeling your way along the wall, you kick
+up a cloud of trash.  Perhaps this is not the kind of place that offers much
+in the ways of civility, but then again, beauty is where you find it.  You
+still have the nagging feeling that a magical force is present here.  You
+can return north or continue toward the light from the west.  
+~
+0 1056777 0
+D0
+~
+~
+~
+0 0 19598
+D3
+~
+~
+~
+0 0 19596
+M 0 H 0
+S
+#19598
+Into the Darkness~
+From the look of this tunnel, all manners of vice are accepted here. 
+Beer kegs and whiskey bottles lay all over the place.  The damp, musty scent
+still lingers in the air and tickles your nose.  The feeling that this place
+is cursed is still heavy on your mind.  The tunnel continues to south and
+the unknown or to the north and the safety of the entrance.  
+~
+0 1056777 0
+D0
+~
+~
+~
+0 0 19599
+D2
+~
+~
+~
+0 0 19597
+M 0 H 0
+S
+#19599
+Along the Tunnel~
+As you walk deeper into the tunnel, the light from the north almost
+disappears.  The tunnel has a damp, musty smell that carries with it the
+hint of adventure.  Your skin begins to crawl as you feel a heaviness
+pressing down on you, suggesting that this place may be cursed.  The sound
+of merriment strikes your ears and makes you want to push on.  The tunnel
+returns to the light to the north or into the darkness to the south.  
+~
+0 1056777 0
+D0
+~
+~
+~
+0 0 19600
+D2
+~
+~
+~
+0 0 19598
+M 0 H 0
+S
+#19600
+The Back Entrance~
+The secret underworld of Woodmonte Village is here under the ground on
+which they walk.  The carefully constructed tunnels are cold and dark.  The
+dirt walls surround you making you feel almost buried alive.  The thin air
+smells musty and feels wet on your skin.  In the distance you can hear the
+sounds of small animals.  Very few adventurers dare to visit the rough
+criminal environment of the underworld.  The exits are up to the surface or
+further into the tunnel south.  
+~
+0 1048589 0
+D2
+~
+~
+~
+0 0 19599
+D4
+~
+~
+~
+0 0 19576
+M 0 H 0
+S
+#19601
+~
+~
+0 4 0
+M 0 H 0
+S
+#19602
+The Water Tower~
+The water town is used as a point of reference here in Woodmonte.  It
+stands taller that the buildings that are nearby and can be easily seen. 
+The water supply is stored up in the top of the tower.  An old wooden ladder
+is the only way to make it to the top.  
+~
+0 1048576 1
+D3
+~
+~
+~
+0 0 19572
+D4
+~
+~
+~
+0 0 19603
+M 0 H 0
+S
+#19603
+Atop the Water Tower~
+You are standing on top of the water tower.  It is a simple wooden
+structure that was designed to house rain water, so that it could be used in
+cases of emergencies.  Due to the size of the tower, you are able to gain a
+complete view of the landscape of Woodmonte Village.  An old ladder is the
+only means of exit.  
+~
+0 1048576 1
+D5
+~
+~
+~
+0 0 19602
+M 0 H 0
+S
+#19604
+Inside the Sawmill~
+The interior of the sawmill is quite large.  It was built to house a
+large number of logs at once.  The logs can be easily rolled onto slabs
+where they can be trimmed down into planks of varying lengths.  Chains hang
+from the ceiling, allowing a small number of people to do a job that would
+require many.  There is an exit to north to a holding area or the one south
+that leads back outside.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 19605
+D2
+~
+~
+~
+0 0 19553
+M 0 H 0
+S
+#19605
+A Holding Area~
+This is the holding area for the sawmill.  Logs float in the water beside
+the sawmill.  A small area has been housed off to keep the logs from
+floating past this spot and causing the wheel of the treadmill to become
+clogged up.  The only exit is back south into the sawmill.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 19604
+M 0 H 0
+S
+#19606
+Inside the Bunk House~
+While the cabin is very large on the outside, the interior is smaller
+than you had imagined.  Bunks are spaced evenly along both walls and are
+stacked three high.  Small ladders hang off the top bunk to help ease the
+difficulty of getting to the top bunk.  The window has been opened to try
+and remove the heavy smell of sweat that fills the room.  The only exit is
+back out the door to the south.  
+~
+0 8 0
+D2
+~
+~
+~
+1 0 19564
+M 0 H 0
+S
+#19607
+The Hungry Lumberjack~
+The only eating establishment in Woodmonte.  The Hungry Lumberjack is the
+gathering place of the lumberjacks before they head into the forest.  The
+interior doesn't offer much to hold your attention, but it was not designed
+for any other purpose.  The smell of pancakes lingers in the air.  The only
+exit is back to the east and the street outside.  
+~
+0 1056776 0
+D1
+~
+~
+~
+0 0 19572
+M 0 H 0
+S
+#19608
+The Outer Office~
+This is the front room to the office of the paymaster.  The office is a
+simple one.  The interior has been smoothed and sanded down until it shines.
+A coat of wax has been applied to the wall to cover cracks that have
+appeared there.  A single window appears in the wall, from where the pay
+master passes out the gold.  While the room is quiet now, it will become a
+madhouse on pay day.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 19578
+M 0 H 0
+S
+#19609
+The Corner Shop~
+You are standing in a small shop owned by the lumber company.  A kinds of
+trinkets can be bought here, as long as you work for the company.  The
+number of goods that can be bought here is limited.  As you look around, you
+see nothing of interest to make you want to stay here.  The street is back
+to the west.  
+~
+0 1048584 0
+D3
+~
+~
+~
+0 0 19578
+M 0 H 0
+S
+#19610
+One Room Schoolhouse~
+This is a small, one room school.  Children of every age spend their days
+here learning to read and write.  The room has been divided, so that the
+younger children are apart from the older ones.  The room is neat and
+orderly.  The desks are aligned in rows of two, from the front of the room,
+to the back.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 19573
+M 0 H 0
+S
+#19611
+A Narrow Tunnel~
+There is no light source here.  The narrow tunnel seems to swallow you
+whole.  The only sound heard is your feet kicking up the trash that has left
+about.  The exits are north or south.  
+~
+0 1056777 0
+D0
+~
+~
+~
+0 0 19612
+D2
+~
+tunnel~
+~
+1 0 19592
+M 0 H 0
+S
+#19612
+A Narrow Tunnel~
+A rancid smell fills your nostrils with a sour offensive odor.  Rotten
+garbage is scattered everywhere.  The dark tunnel surrounds you like a
+coffin.  The only exits are north or south.  
+~
+0 1056777 0
+D0
+~
+~
+~
+0 0 19613
+D2
+~
+~
+~
+0 0 19611
+M 0 H 0
+S
+#19613
+A Narrow Tunnel~
+A heavy presence coils around you.  There is a magic in this part of the
+tunnel you have not felt anywhere else under the streets of Woodmonte.  A
+strange {Kmarking {xhas been carved on the wall of the narrow tunnel.  You
+may exit east or south.  
+~
+0 1048585 0
+E
+marking~
+The marking is an ancient language used by elves.  You are almost certain
+it spells out the word "home".  
+~
+D1
+~
+~
+~
+0 0 19614
+D2
+~
+~
+~
+0 0 19612
+M 0 H 0
+S
+#19614
+A Narrow Tunnel~
+The blackness can hardly be pierced here.  You have the feeling that you
+are being followed.  Heavy, wet air invades your lungs causing you to feel
+like you are choking.  The exits from here are east and south.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 19615
+D3
+~
+~
+~
+0 0 19613
+M 0 H 0
+S
+#19615
+End of the Tunnel~
+The narrow tunnel ends abruptly here.  The floor has been leveled,
+seemingly due to to the massive amount of adventurers who have braved the
+bowels of the lovely village that is Woodmonte.  A heavy door is south of
+here.  The space between the floor of the tunnel and the door is allowing a
+heavy stench to find its way to your nose.  The sound of heavy breathing is
+also escaping through the small opening.  
+~
+0 1056777 0
+D2
+~
+~
+~
+1 0 19619
+D3
+~
+~
+~
+0 0 19614
+M 0 H 0
+S
+#19616
+Behind the Hedges~
+You are standing on a narrow path that runs behind some neatly trimmed
+hedges.  The area is thin of trees here, having been logged early in the
+creation of Woodmonte.  The trail runs back to the east and the small town
+or to the south and a small shack.  
+~
+0 1048576 3
+D2
+~
+~
+~
+0 0 19617
+D3
+~
+~
+~
+0 0 19579
+M 0 H 0
+S
+#19617
+Nearing the Shack~
+The small trail runs right up to the door of an old rickety shack.  The
+windows have been busted out and the door lays almost torn off its hinges. 
+It would appear to be an abandoned cabin except for the small puff of smoke
+that is coming from the chimney.  
+~
+0 1048576 3
+D0
+~
+~
+~
+0 0 19616
+D2
+~
+~
+~
+1 0 19618
+M 0 H 0
+S
+#19618
+The Poacher's Shack~
+This is a nondescript cabin, save for the fact that hides hang all along
+the walls.  Many of them are still fresh and have yet to finish tanning.  A
+vent runs from the fireplace to the area where the hides hang to move heat
+to them.  The rest of the room has little in the ways of living.  
+~
+0 8200 0
+D0
+~
+~
+~
+1 0 19617
+M 0 H 0
+S
+#19619
+Tahji's Lair~
+Piles of gold are stacked neatly about the small room.  An impressive
+collection of jewelry and various loose stones have been laid out on a
+table.  The walls appear wet and sticky.  The smell of body odor and cheap
+booze is over powering.  Clearly this is the lair of the person who rules
+over this criminal environment.  The only exit is north.  
+~
+0 1056777 0
+D0
+~
+~
+~
+1 0 19615
+M 0 H 0
+S
+#19620
+A Large Veranda~
+The gray stones that make up this veranda runs the width of the house. 
+Tall wooden pillars have been placed at regular intervals to hold up the
+roof above.  The house itself has been constructed of a dark wood that seems
+to have been cut from the surrounding forest.  The ornate door to the north
+looks to have been hand-carved from a solid piece of wood, with a
+beautifully decorated piece of glass set into the center.  A set of stone
+steps lead down and towards a small lane to the south.  
+~
+0 4 3
+D0
+~
+~
+~
+4 19626 19621
+D2
+~
+~
+~
+0 0 19555
+M 0 H 0
+S
+#19621
+A Small Foyer~
+Separating this area from the main room to the north is a narrow wooden
+archway.  A small chandelier hangs from the center of the wooden ceiling,
+providing illumination that seems to reflect from the polished wooden
+floors, lighting the room up with a vibrant glow.  An ornately carved door
+is visible to the south, the forest beyond visible through the glass set
+into it.  
+~
+0 1049608 0
+D0
+~
+~
+~
+0 0 19622
+D2
+~
+~
+~
+4 19626 19620
+M 0 H 0
+S
+#19622
+A Large Living Room~
+Decorated in comfortable looking furniture, this room has been decorated
+around the fireplace on the eastern wall.  A large couch has been set
+directly in front of the fireplace while a large and comfortable chair set
+on either side at an angle to it.  The northern wall has been made entirely
+of glass, offering an uninterrupted view of the forest beyond.  In the
+eastern side of the room, a large staircase winds its way up in lazy
+circles, leading to the floors above.  A small foyer is visible to the
+south, leading to the door.  
+~
+0 1049608 0
+D2
+~
+~
+~
+0 0 19621
+D4
+~
+~
+~
+0 0 19623
+M 0 H 0
+S
+#19623
+Second Floor Landing~
+This landing is nothing more than a small hallway which runs north and
+south.  Plain doors located at each end are visible, while an open doorway
+to the west gives a view into a magnificent dining room.  A carved wooden
+bannister lines the east side of the walkway, offering a view of the room
+below.  A break in the bannister near the south door allows access to the
+spiraling staircase, giving you the option to continue upwards or to go down
+to the floor below.  
+~
+0 1049608 0
+D0
+~
+~
+~
+1 0 19624
+D2
+~
+~
+~
+1 0 19626
+D3
+~
+~
+~
+0 0 19625
+D4
+~
+~
+~
+0 0 19627
+D5
+~
+~
+~
+0 0 19622
+M 0 H 0
+S
+#19624
+A Large Bedroom~
+The walls of this room have been painted a pale shade of blue, and plush
+carpeting of a slightly darker color lines the floor.  A single window on
+the northern wall allows a view of the forest outside, though it does not
+look like it can be opened.  A large bed has been pushed up under the
+window, the blue pillows and blankets on it matching perfectly in the
+surroundings.  A small bureau built of dark wood has been placed on the west
+wall, looking quite large enough to hold a goodly amount of clothing.  A
+single door leads the way south, providing the only exit.  
+~
+0 1032 0
+D2
+~
+~
+~
+1 0 19623
+M 0 H 0
+S
+#19625
+A Large Dining Room~
+Dominating the center of the room is a large dining room table, big enough 
+to easily sit ten people.  Hanging from the ceiling, a small chandelier 
+provides gentle illumination of the surroundings, which is made even more 
+efficient with the reflection of light off the polished wooden floor.  A 
+single doorway is visible to the east, leading the way out of the dining 
+area, while a door on the northern wall leads to the kitchen.  
+~
+0 1049608 0
+D0
+~
+~
+~
+1 0 19628
+D1
+~
+~
+~
+0 0 19623
+M 0 H 0
+S
+#19626
+A Large Bedroom~
+The walls of this room have been painted a pale shade of green, and plush
+carpeting of a slightly darker color lines the floor.  A single window on
+the northern wall allows a view of the forest outside, though it does not
+look like it can be opened.  A large bed has been pushed up under the
+window, the green pillows and blankets on it matching perfectly in the
+surroundings.  A small bureau built of dark wood has been placed on the west
+wall, looking quite large enough to hold a goodly amount of clothing.  A
+single door leads the way north, providing the only exit.  
+~
+0 1049608 0
+D0
+~
+~
+~
+1 0 19623
+M 0 H 0
+S
+#19627
+The Master Bedroom~
+The entire top floor of this house has been turned into a single large
+bedroom.  The shiny wooden floor stretches from wall to wall, broken only by
+a large bed and wooden bureau.  The southern wall is dominated by a large
+sliding glass door.  Curtains at each end of the door look to be thick
+enough to stop the bright rays of sun which shine in during the day.  A bed
+of massive proportions has been pushed up against the northern wall, its
+thick and warm blankets and pillows giving it an inviting look.  A large
+spiraling staircase leads the way down to the floor below, the hand-crafted
+wood positively glows in the available light.  A large window in the eastern
+wall allows a view of the forests trees outside, the height just right to
+see the birds resting in the trees.  
+~
+0 34604040 0
+D2
+~
+sliding-glass~
+~
+1 0 19629
+D5
+~
+~
+~
+0 0 19623
+M 0 H 0
+S
+#19628
+A Large Kitchen~
+Pale tiles cover the floor of this large kitchen, matching perfectly with
+the deeply colored wooden walls.  Lining the northern wall is a long wooden
+counter, complete with a large sink in the center.  A woodburning stove has
+been placed on the eastern wall, appearing to be quite capable of handling a
+large meal with ease.  A rack of pots and pans has been hung to the left
+side of the stove, allowing many different types of foodstuffs to be
+prepared.  The western wall has a small shelf near the counter, its insides
+clearly piled with different types of food.  Further down the wall, a small
+ice box has been placed.  The only exit visible is through a door to the
+south.  
+~
+0 1049608 0
+D2
+~
+~
+~
+1 0 19625
+M 0 H 0
+S
+#19629
+An Open Balcony~
+Built in a half-circle and arching away from the house, this open-air
+balcony overlooks a beautiful clearing in the forest below.  The tall trees
+of the virgin woods grow tall over the house, and the sight of the birds
+nestling in the trees is plainly visible.  Above you and extending slightly
+past the edge of the house, the roof creates a slight overhang.  A
+comfortable looking swing has been attached to the edge, and hangs in the
+center of the balcony.  A sliding glass door to the north is the only exit
+visible.  
+~
+0 1049600 0
+D0
+~
+sliding-glass~
+~
+1 0 19627
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 19559 spec_poison
+M 19560 spec_cast_cleric
+M 19567 spec_cast_cleric
+M 19568 spec_cast_cleric
+M 19571 spec_cast_cleric
+M 19572 spec_cast_cleric
+M 19578 spec_cast_cleric
+M 19580 spec_thief
+M 19585 spec_cast_mage
+M 19587 spec_cast_cleric
+M 19592 spec_cast_mage
+M 19599 spec_thief
+M 19610 spec_cast_cleric
+M 19611 spec_thief
+M 19617 spec_cast_cleric
+M 19618 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 19564 0 1
+D 0 19569 5 1
+D 0 19581 5 1
+D 0 19582 4 1
+D 0 19583 4 1
+D 0 19592 0 1
+D 0 19606 2 1
+D 0 19611 2 1
+D 0 19615 2 1
+D 0 19617 2 1
+D 0 19618 0 1
+D 0 19619 0 1
+D 0 19620 0 2
+D 0 19621 2 2
+D 0 19623 0 1
+D 0 19623 2 1
+D 0 19624 2 1
+D 0 19625 0 1
+D 0 19626 0 1
+D 0 19627 2 1
+D 0 19628 2 1
+D 0 19629 0 1
+M 0 19554 1 19554 10
+E 0 19554 0 16
+M 0 19555 1 19555 10
+E 0 19555 0 16
+M 0 19556 3 19556 10
+E 0 19556 0 16
+M 0 19558 1 19558 10
+E 0 19558 0 16
+M 0 19560 1 19558 10
+E 0 19560 0 9
+M 0 19559 1 19559 10
+M 0 19568 1 19568 10
+M 0 19567 1 19568 10
+M 0 19566 1 19568 10
+M 0 19569 1 19568 10
+M 0 19571 1 19571 10
+M 0 19572 1 19572 10
+M 0 19576 1 19576 10
+E 0 19576 0 16
+E 0 19552 0 5
+M 0 19577 1 19577 10
+E 0 19577 0 16
+M 0 19578 1 19578 10
+M 0 19579 1 19579 10
+E 0 19579 0 16
+M 0 19580 1 19580 10
+M 0 19583 1 19583 10
+G 0 19583 0
+M 0 19585 1 19585 10
+E 0 19585 0 17
+E 0 19588 0 7
+M 0 19586 6 19586 10
+E 0 19584 0 16
+O 0 19586 0 19587
+P 0 19587 0 19586 10
+M 0 19587 1 19587 10
+M 0 19594 1 19591 10
+E 0 19594 0 8
+E 0 19596 0 16
+M 0 19592 1 19594 10
+E 0 19592 0 5
+M 0 19599 6 19599 10
+E 0 19599 0 16
+M 0 19603 1 19603 10
+E 0 19603 0 16
+M 0 19604 1 19604 10
+E 0 19604 0 16
+M 0 19605 1 19605 10
+E 0 19605 0 16
+M 0 19606 4 19606 10
+E 0 19606 0 16
+M 0 19607 1 19607 10
+G 0 19607 0
+G 0 19608 0
+M 0 19608 1 19608 10
+E 0 19601 0 16
+M 0 19609 1 19609 10
+E 0 19609 0 5
+M 0 19610 1 19610 10
+E 0 19610 0 24
+M 0 19611 1 19613 10
+E 0 19611 0 16
+M 0 19617 1 19619 10
+E 0 19618 0 2
+E 0 19617 0 3
+E 0 19616 0 13
+M 0 19619 1 19619 10
+E 0 19615 0 16
+E 0 19619 0 1
+O 0 19621 0 19622
+O 0 19622 0 19622
+M 0 19620 1 19623 10
+O 0 19624 0 19624
+O 0 19623 0 19625
+O 0 19624 0 19626
+O 0 19625 0 19627
+P 0 19626 0 19625 10
+O 0 19627 0 19627
+P 0 19628 0 19627 10
+O 0 19629 0 19629
+S
+
+
+
+#SHOPS
+19607 19 19 0 0 0 130 70 6 20
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

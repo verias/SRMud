@@ -1,0 +1,955 @@
+#AREADATA
+Name {15 99} Audrina Temple of Aristea~
+Builders Audrina~
+VNUMs 15160 15180
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#15166
+healer lexia~
+Lexia, the healer~
+{YLexia{x is here, offering her healing services.
+~
+Lexia's glowing white hair hangs down her back in long flowing waves. 
+Her large pale blue eyes stare directly at you, pouring over every inch of
+your body.  Her creamy white skin is absolutely flawless making her seem
+almost ghostly.  Lexia's mouth takes on a slight warm smile.  She seems to
+be calling your name, yet her lips never move.  A long golden robe hangs on
+her small frame, the sleeves come down far enough to cover her hands.  As
+she moves her arms, tiny specs of golden light follow her every movement. 
+At the very point her robe touches the floor it appears to create a golden
+pool all around her.  Her movements are so fluid you think she may be
+floating.  Lexia looks into your eyes, tilts her head and asks, "how can I
+help?"  
+~
+human~
+ABTW H 1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 AB 0 0
+(null) (null) either 450
+AHMV ABCDEFGHIJK small unknown
+#15170
+nanny woman~
+a nanny~
+A tall atrractive woman is here,
+~
+A tall human woman stands here in a crisp white uniform.  Her long black
+hair is pulled up tightly and wrapped around her head in a braided crown. 
+Her mannerism is quiet and polite and she keeps her large blue eyes downcast
+as she speaks.  
+~
+human~
+A 0 0 0
+1 0 1d2+8 1d10+100 1d1+0 none
+9 9 9 10
+0 0 0 0
+(null) (null) either 4
+AHMV ABCDEFGHIJK medium unknown
+#15179
+fidelias~
+Fidelias~
+Fidelias is here, ready to whisper secrets in your ear.
+~
+{xFidelias has devoted his life to assist anyone in need of training.  As he 
+sits here motionless, his mysterious yellow eyes never look away from your 
+face for an instant.  He wears only a simple white robe accompanied by a 
+crown of {Rfire {xthat circles his head.  His face is somber and his eyes alert. 
+ He watches you intently waiting for you to ask him for assistance.  
+~
+human~
+ABJK 0 1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 AB 0 0
+(null) (null) female 450
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#15160
+silver leaf~
+a tiny silver leaf~
+Shimmering faintly on the surface, you can see the outline of the Temple of Discordia.~
+unknown~
+portal R 0
+0 0 0 ADEFHIJL 0
+0 0 0 P
+#15161
+Aristean waterfall~
+a magical waterfall~
+A tiny stream of water emerges from nothingness, and bounces across the branches like a magical waterfall. {WA slight, inaudible voice that sounds more like tiny chiming bells is coming from the waters of the fountain.{x~
+unknown~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 P
+#15162
+prayer pillow~
+a prayer pillow~
+A silk prayer pillow lies here.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#15163
+prism light~
+a glowing prism of light~
+A glowing prism of light floats here, soft music and radiance coming from it.~
+unknown~
+portal GV 0
+0 B A 0 0
+0 10000 0 P
+E
+prism light~
+Through the shimmering surface of the prism of light an image can be
+seen.  Looking closely it becomes apparent that this is no normal seen,
+light of all colours flows about like some ever-changing river of
+brilliance.  Past the light the likeness of a woman can be seen, her beauty
+clearly perceptible but sadly all but indescribable, almost as if ones mind
+was never meant to behold such a sight.  Flame red hair frames the face
+which matching the form appears to be in peaceful slumber.  The image seems
+most stable, almost like looking through a window, with an occasional
+wafting eddy of vibrantly coloured mist drifting over the spectacle.  
+~
+#15164
+donation pit~
+a donation pit~
+A large pit for donations is here.~
+unknown~
+container 0 0
+100000 0 0 0 0
+1 0 0 P
+#15165
+rectangular table~
+the Aristean Council table~
+The council table of the Aristean is here, waiting for the next meeting.~
+unknown~
+container R 0
+30 0 0 0 0
+0 100 0 P
+E
+table~
+The long rectangular table is black and white marble.  The top has been
+polished so much that your can clearly see your reflection.  
+~
+#15166
+white throne~
+{xa {Wglowing {xwhite throne~
+{xA {Wglowing {xwhite throne.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 100 0 P
+E
+throne~
+Audrina's throne sits over the council chamber.  It is glowing white and
+looks to be made of marble.  
+~
+#15167
+dagger justice~
+{xa dagger named '{WJustice{x'~
+The dagger of justice emits a strange light.~
+unknown~
+weapon A AN
+bow 12 16 crunch J
+100 1 500 P
+A
+3 1
+A
+19 2
+A
+18 4
+#15169
+book oracles~
+{xthe book of {Yoracles{x ~
+The book of oracles has been left here~
+unknown~
+treasure F AO
+0 0 0 0 0
+1 1 10 P
+#15170
+baby~
+a tiny newborn baby~
+A baby wrapped in a blanket is here.~
+unknown~
+trash 0 AO
+0 0 0 0 0
+1 1 1 P
+E
+baby~
+This red-haired boy looks to be a bit over a year old.  His eyes are
+unblinking, and he moves very little if at all.  
+~
+E
+baby~
+~
+E
+ring~
+This flawless ring is an example of perfect craftsmanship.  On the
+inside of the platinum band is a tiny inscription that reads, "All my love
+forever" 
+~
+E
+ring~
+{xOn the inside of the ring is an ancient symbol for 'love' 
+~
+E
+eternity~
+This platinum band is an example of perfect craftsmanship.  In delicate,
+tiny handwriting the inscription reads, "All my love, forever" 
+~
+E
+ring~
+~
+E
+baby~
+This boy, who appears to be about a year in age, has red hair covering
+his head.  His eyes, red with black cat-slits look glossy and slightly
+unfocused.  He moves very little, only turning his head now and again.  He
+makes little in the way of noise and his breathing is slightly laboured.  
+~
+#15171
+cloak~
+{xa {ggreen{x cloak with etchings~
+This cloak shimmers subtly from the floor.~
+unknown~
+armor 0 AZ
+DE DE DE AC 0
+85 1 425 P
+A
+12 50
+E
+cloak~
+Artfully stitched from hunter green threads, this cloak is a sight to
+behold.  On its back lay ancient runes and on its front is an emerald green
+locket, shaped like a leaf.  These silverrunes speak of a language long
+forgotten, and as the cloak flutters about, they glint in waiting for
+someone to reveal their secrets.  
+~
+E
+silver~
+~
+E
+pearl~
+~
+#15172
+prism truth~
+a {Wprism{x~
+{xA prism hangs in the air casting the {Wpurest white light {xall around the room~
+unknown~
+light AB A
+0 0 ABCFGHIJ 0 0
+0 0 0 P
+E
+prism~
+As you look into the prism, to your absolute shock, you see a series of
+events in your life.  The first being your birth.  Many events follow until
+finally, the day Audrina chose you to walk in her light.  
+~
+#15173
+diary~
+an old, worn diary~
+An old worn diary has been left here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+1 1 10 P
+E
+ring~
+~
+E
+diary~
+The large, worn tome of dark leather and plainly elegant design opens to
+reveal crumpling, blank pages.  Upon closer inspection, one can make out a
+faded inscription at the bottom of the first page, "The first gift unto our
+brothers The Darkness unto Morn, A Guide for the Lorn, Sheds order upon
+thought, Forms language from naught" 
+~
+E
+expert~
+~
+E
+expcert~
+Unfortunately, time appears to have taken it's toll on the letters -
+faded and corrupted, the letters are insufficiently legible, disallowing any
+attempts to read through the diary.  However, the most recent, last couple
+of excerpts still prevail and may be read with some effort.  Aughter smiled,
+even giggled as the little animal...  The ball of string.  How little she
+knows.  So soft, so innocent a young life, yet bound she is to fall.  Oh,
+the light has finally concealed itself, abandoned...  Servants to a grievous
+end."  Ilarn has fallen fo...  Morning's charge, along...  Priest
+Athilien...  A sweeping, deadly claw.......  Our walls, struck...  The east
+and west.  Traces of Captain Illother are not to be found, leaving
+Lieutenant Nia..  R a sole commander.  The...  A terrible, resounding
+explosion, the gateway finally breache...  And perhaps for the better of us
+all.  The waiting...  Worse a torment...  Eth - a gift."  A..  Ir must be
+summoned to confront the southern front...  Slight and single shade of
+hope."  "We shall definitely not barricade...  I, if none else, shall
+forbid...  Of all, the one chamber...  Prevail and survive..  The potent of
+wards..  Perfectly hidden."  "Buried, forgotten, within we shall rot.  The
+days of our brothers are yet to come, when righteous light shall lead them
+to this spot.  The twisted hand, graced with the ring.  Gently press the
+square of spring.  The cherry third, atop the door, Thy answers lies at the
+edge of west."  
+~
+E
+excerpt~
+Unfortunately, time appears to have taken it's toll on the letters -
+faded and corrupted, the letters are insufficiently legible, disallowing any
+attempts to read through the diary.  However, the most recent, last couple
+of excerpts still prevail and may be read with some effort...  Aughter
+smiled, even giggled as the little animal...  The ball of string.  How
+little she knows.  So soft, so innocent a young life, yet bound she is to
+fall.  Oh, the light has finally concealed itself, abandoned...  Servants to
+a grievous end."  Ilarn has fallen fo...  Morning's charge, along...  Priest
+Athilien...  A sweeping, deadly claw.......  Our walls, struck...  The east
+and west.  Traces of Captain Illother are not to be found, leaving
+Lieutenant Nia..  R a sole commander.  The...  A terrible, resounding
+explosion, the gateway finally breache...  And perhaps for the better of us
+all.  The waiting...  Worse a torment...  Eth - a gift."  A..  Ir must be
+summoned to confront the southern front...  Slight and single shade of
+hope."  "We shall definitely not barricade...  I, if none else, shall
+forbid...  Of all, the one chamber...  Prevail and survive..  The potent of
+wards..  Perfectly hidden."  "Buried, forgotten, within we shall rot.  The
+days of our brothers are yet to come, when righteous light shall lead them
+to this spot.  The twisted hand, graced with the ring.  Gently press the
+square of spring.  The cherry third, atop the door, Thy answers lies at the
+edge of west."  
+~
+E
+excerpt~
+~
+E
+excerpt~
+Unfortunately, time appears to have taken it's toll on the letters - faded and
+the letters are insufficiently legible, disallowing any attempts to '
+read through the diary. However, the most recent, last couple of excerpts still
+prevail and may be read with some effort.
+ 
+'..aughter smiled, even giggled as the little animal...the ball of string. How
+little she knows. So soft, so innocent a young life, yet bound she is to fall.
+The light has finally concealed itself, abandoned...servants to a grievous
+end."
+ 
+..ilarn has fallen fo...morning's charge, along...priest Athilien...A sweeping,
+deadly claw.....our walls, struck....the east and west. Traces of Captain
+Illother are not to be found, leaving Lieutenant Nia..r a sole commander.
+The...a terrible, resounding explosion, the gateway finally breache....and 
+perhaps for the better of us all. The waiting....worse a torment.....eth - a gift."
+ 
+"A..ir must be summoned to confront the southern front....slight and single
+shade of hope."
+ 
+No, we shall not barricade....I, if none else, shall forbid...of all, the one
+chamber....prevail and survive..the potent of wards..perfectly hidden
+ 
+"Buried, forgotten, within we shall rot. The days of our brothers are yet to
+come, when righteous light shall lead them to this spot.'
+
+The twisted hand, graced with the ring.
+Gently press the square of spring.
+The cherry third, atop the door,
+Second - blue, and then - no more
+Thy answers lies at the edge, to the west."
+~
+#15174
+skimpy sheer shirt blouse~
+a skimpy, sheer shirt ~
+This blouse is both sheer and designed to bare quite a bit of flesh.~
+unknown~
+clothing GIK AD
+0 0 0 0 0
+35 0 0 P
+A
+3 2
+A
+5 2
+#15175
+stadium seat chair~
+the stadium seats~
+The stadium seats surround the council chamber.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 100 0 P
+E
+seats~
+Each seat is covered in a thick red velvet.  There are enough seats to
+accommodate many Aristeans at once.  
+~
+#15176
+amulet hero~
+amulet of the {Whero{x~
+A great amulet has been dropped here, left to glisten until picked up once more.~
+unknown~
+protect S AC
+CDE CDE CDE BC 0
+100 5 0 P
+A
+2 1
+A
+1 1
+E
+!history!~
+It is fabled that this amulet once belonged to the hero of all Aristea, 
+Tigress.  It is set with a clear diamond of an expert cut, the gem 
+shimmering and glinting relentlessly under light.  These purities were meant 
+to represent the saintliness of its previous owner.  
+~
+#15177
+sword vengeance~
+{xa sword named {W'Vengeance'{x~
+A mighty sword has been left here.~
+unknown~
+weapon S AN
+sword 12 16 none D
+100 5 500 P
+#15178
+gold orb light~
+{Wa {Ygolden {Worb of light {x~
+A beautiful orb of pure gold emits a white light that illuminates the entire room.~
+unknown~
+light AGKLM AR
+0 0 ABCFGHIJ 0 0
+15 2 300 P
+#15179
+priest amulet holy~
+an {WAristean {xpriests amulet~
+An amulet of great importance can be seen here, glowing softly with its magic.~
+unknown~
+protect GIKSV AC
+CDE CDE CDE BC 0
+100 2 0 P
+A
+4 1
+A
+3 1
+A
+1 1
+E
+!history!~
+Ythril, head priestess of the Aristeans, earned this amulet from his goddess 
+through his service.  It was a gift from the empress to her chosen, a token 
+representing love and purity.  
+~
+E
+amulet~
+The High Templar's amulet glows softly with magic.  A name has been
+engraved on the back, it reads: {WYule{x 
+~
+#15180
+imperial armor~
+{Wimperial holy armor{x~
+Holy armor has been left here~
+unknown~
+armor A AD
+CDE CDE CDE BC 0
+100 3 500 P
+A
+17 -30
+#0
+
+
+
+#ROOMS
+#15160
+The White Path~
+A path of evenly cut white marble stones meanders through a neatly tended
+garden of flowering vines.  Grey mourning doves perch on stone statues,
+lifelike in artistry and clothed in living green.  The path leads towards a
+large domed building to the east, and a small shrine to the north.  
+~
+0 4 0
+E
+statues~
+The statues are heroic in appearance, their faces and physiques,
+beautiful in their perfection.  
+~
+E
+doves~
+The doves, oblivious of your presence, coo plaintively at one another.
+~
+D0
+~
+~
+~
+0 0 15163
+D1
+~
+~
+~
+0 0 15164
+D2
+~
+~
+~
+0 0 16036
+M 0 H 0
+S
+#15161
+The Aristean Temple~
+{WA slight, warm wind swirls about this room, embracing you and uplifting
+your very soul.  {xThe temple is a circular marble structure with a soaring,
+transparent ceiling.  Marble columns, in the shape of oak trees, reach with
+tapering branches towards the high, domed ceiling.  At your feet, spiraling
+mosaic tiles lead to the altar at the center of the room.  
+~
+0 1049608 0
+E
+columns~
+The columns are carved in the shape of ancient oak trees.
+~
+D1
+~
+~
+~
+0 0 15165
+D3
+~
+gate~
+~
+1 0 15164
+D4
+~
+~
+~
+0 0 15162
+M 0 H 0
+S
+#15162
+Inner Circle~
+You have entered into a large, plainly furnished chamber.  It is the
+meeting place of the Aristean High Council.  Around you are several rows of
+stadium-style seats, bordered on the front by a granite wall.  There is a
+small door in the wall that allows the council members to enter the meeting
+room.  In the center of the meeting room, a long, rectangular table is
+flanked by five seats, two on one side, three on another, and to the front,
+a large white throne sits proudly over all.  
+~
+0 1049608 0
+E
+tree~
+A magical waterfall flows from the tree trunk, splashing soundlessly at
+your feet.  The splashes sparkle in the white light, sending miniature
+rainbows bouncing through the air.  
+~
+D5
+~
+~
+~
+0 0 15161
+M 0 H 0
+S
+#15163
+The Shrine of Audrina~
+The white marble path ends abruptly at a gazebo-like structure with a
+canopy roof, suspended from marble columns shaped like slender trees.  Under
+the roof, a marble altar is surrounded by burning incense that wafts gently
+in the breeze.  Flat silk pillows are laid in tidy rows before the altar,
+and look perfect for rest and meditation.  
+~
+0 1024 3
+E
+altar~
+The altar is in the form of a stylized woman, lithe and benign of
+countenance.  
+~
+D2
+~
+~
+~
+0 0 15160
+M 0 H 0
+S
+#15164
+Before the Temple~
+The marble path ends at the Aristean Temple gate.  Beyond the gate, you
+can see a glowing white light shining from the domed roof, casting brilliant
+rays across the floor.  
+~
+0 0 3
+D1
+~
+gate~
+~
+1 20390 15161
+D3
+~
+~
+~
+0 0 15160
+M 0 H 0
+S
+#15165
+The Aristean Temple~
+The white tile that surrounds you appears to be somehow illuminated.  In
+the middle of the room three large marble oak trees are glowing with the
+purest white aura.  A feeling of peace settles over you, in the presence of
+such beauty.  
+~
+0 1049608 0
+D0
+~
+~
+~
+0 0 15168
+D1
+~
+~
+~
+0 0 15167
+D2
+~
+~
+~
+0 0 15166
+D3
+~
+~
+~
+0 0 15161
+M 0 H 0
+S
+#15166
+The Aristean Temple~
+This room is perfectly round.  White gleaming marble tile covers every
+inch, from floor to ceiling.  White satin pillows are strewn about the room.
+A warm, comfortable feeling washes over you.  This would be the perfect
+place to rest for a bit.  
+~
+0 34604040 0
+D0
+~
+~
+~
+0 0 15165
+D2
+~
+~
+~
+0 0 15179
+M 0 H 0
+S
+#15167
+The Aristean Temple~
+A large glowing white hallway surrounds you.  Your footsteps echo all
+around you bouncing off the walls and ceiling.  {WDancing about, tiny specs
+of {ygolden lights{W appear from nowhere and then quickly fade out{x.  The
+illuminated hallway seems to call your name, making you feel as if you have
+come home.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 15169
+D3
+~
+~
+~
+0 0 15165
+M 0 H 0
+S
+#15168
+The Aristean Temple~
+A huge magical oak tree is growing here.  Water flows from somewhere
+behind the massive tree, creating a flood of water which is held back by a
+small wall that has been built up around the base of the oak tree.  The wall
+is made of marble tile which has been crushed into small pieces.  Giving the
+appearance of glittering diamonds at the correct angle.  The sound of the
+rushing water fills your ears which, eventually, turn into a melody that
+calms your very soul.  
+~
+0 1049608 0
+D0
+~
+~
+~
+0 0 15180
+D2
+~
+~
+~
+0 0 15165
+M 0 H 0
+S
+#15169
+The Aristean Temple~
+White doves fly low overhead creating a slight wind.  The sound of their
+wings brings a calm feeling over you.  {WThe doves seem to be making a
+pleasant sound and appear a bit restless.  {xStreaming white light casts
+down from somewhere above you.  The hallway continues east and west.  
+~
+0 1049608 0
+D1
+~
+~
+~
+0 0 15170
+D3
+~
+~
+~
+0 0 15167
+M 0 H 0
+S
+#15170
+The Aristean Temple~
+As you continue down the hallway you get the overwhelming feeling that
+you have been here before.  Perhaps it is that the gleaming white tile all
+seems to look the same to you.  Perhaps it is that your spirit somehow
+belongs in this sacred place.  The grand hallway continues east and west.  
+~
+0 1049608 0
+D1
+~
+~
+~
+0 0 15171
+D3
+~
+~
+~
+0 0 15169
+M 0 H 0
+S
+#15171
+The Aristean Temple~
+You have come to a turn in the grand hallway.  White marble tile has been
+polished to a shine that gives off a glow.  The high domed ceiling is home
+to hundreds of white doves that watch you as you creep down the hall.  
+~
+0 1049608 0
+D0
+~
+~
+~
+0 0 15172
+D2
+~
+~
+~
+0 0 15173
+D3
+~
+~
+~
+0 0 15170
+M 0 H 0
+S
+#15172
+The Aristean Temple~
+A bright prism of light hangs in the air casting a pure white light all
+around the room.  It is the Prism of Truth.  Only those with pure hearts
+dare to enter this sacred room and gaze into the prism.  The tiny room seems
+to radiate with a magnificent power.  The magic here seems to pierce your
+skin.  The only exit from here is south.  
+~
+0 1049608 0
+D2
+~
+~
+~
+0 0 15171
+M 0 H 0
+S
+#15173
+The Aristean Temple~
+Many silver oak trees now line the great hall.  {WTiny white birds fill
+the trees, chirping a merry tune.  A sense of calmness wraps about you like
+a warm blanket.  {xIn a row on each side of you they have been lined from
+small to very tall.  The largest standing far above your head.  The grand
+hallway continues east and north.  
+~
+0 1049608 0
+D0
+~
+~
+~
+0 0 15171
+D1
+~
+~
+~
+0 0 15174
+M 0 H 0
+S
+#15174
+The Aristean Temple~
+A bright white light is coming from the east.  Tiny flex of color can be
+seen for an instant in the streaming light.  The white marble tile is more
+illuminated than ever.  
+~
+0 1049608 0
+D1
+~
+~
+~
+0 0 15175
+D3
+~
+~
+~
+0 0 15173
+M 0 H 0
+S
+#15175
+The Aristean Temple~
+Great white stairs now stand before you.  You may go up into the unknown,
+into the light.  Or back into the marble hallway.  
+~
+0 1049608 0
+D3
+~
+~
+~
+0 0 15174
+D4
+~
+~
+~
+0 0 15176
+M 0 H 0
+S
+#15176
+The Aristean Temple~
+The light is so bright now you cannot help but to squint your eyes.  You
+suddenly are overwhelmed with the feeling that you have come home at long
+last.  
+~
+0 1049608 0
+D4
+~
+~
+~
+0 0 15177
+D5
+~
+~
+~
+0 0 15175
+M 0 H 0
+S
+#15177
+The Aristean Temple~
+You can feel the power of this sacred place embracing you.  The marble
+steps are illuminated before you.  
+~
+0 1049608 0
+D4
+~
+~
+~
+0 0 15178
+D5
+~
+~
+~
+0 0 15176
+M 0 H 0
+S
+#15178
+The Grand Chamber of the Empress~
+A giant silver oak tree looms high over the chamber of the Imperial
+Empress.  White gleaming walls meet a domed ceiling high above your head. 
+{WOn the second topmost branch, a gleaming {ygolden leaf{W is clearly seen. 
+{x A white platform made of marble is in the center of the room where
+meetings are obviously held with the empress.  White light streams from all
+angles of the ceiling and focused on the center of the platform, where
+Audrina conducts her business.  
+~
+0 1056776 0
+D5
+~
+~
+~
+0 0 15177
+M 0 H 0
+S
+#15179
+The Round Room~
+As you enter this room you are very aware the sound your footsteps
+create.  First bouncing from the floor to the walls and swirling around
+until the sound reaches the top of the gleaming walls.  The absolutely
+perfect craftsmanship that created this room is truly amazing.  The seamless
+walls the surround you are so white it almost hurts your eyes.  As your mind
+starts to wander a bit, suddenly you think perhaps someone has said your
+name.  
+~
+0 1049608 0
+D0
+~
+~
+~
+0 0 15166
+M 0 H 0
+S
+#15180
+Donation Pit~
+Upon entering the donation room it is obvious many have come here before
+you.  Scratches and chips on the floor and walls show evidence of those who
+have come here heavily armed to leave weapons or armor for other Aristeans. 
+The white marble room is bare except for a great pit that has been lined
+with what appears to be gold bricks.  A plaque hangs on the wall behind the
+pit.  
+~
+0 1049608 0
+E
+plaque~
+The plaque reads: Donations are appreciated. May the light forever shine upon your face.
+~
+D2
+~
+~
+~
+0 0 15168
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 15161 3 1
+D 0 15164 1 1
+O 0 15166 0 15162
+O 0 15165 0 15162
+P 0 15173 0 15165 10
+P 0 15169 0 15165 10
+O 0 15175 0 15162
+M 0 15166 1 15166 10
+O 0 15161 0 15168
+O 0 15172 0 15172
+M 0 15179 1 15179 10
+O 0 15164 0 15180
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

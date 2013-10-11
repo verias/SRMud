@@ -1,0 +1,167 @@
+#AREADATA
+Name Ilistara Temple~
+Builders Izael~
+VNUMs 6551 6561
+Credits (null)~
+Security 5
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#6551
+Illuminescent moon~
+On this steady path through the forest, darkness creeps, silently
+covering the trees, bushes and even the steady sky.  A blackened night is
+now in place over your head, and even if it was day before, here the night
+hangs in balance.  A bright moon hangs over the sky, beaming its brilliance
+down over the trees and the majestic sight before your eyes.  A huge
+cathedral silently rests as the ancient stones it was made out of finally
+getting the rest it deserves after so long of a time.  The cross, hanging
+like a crucified hero of old, seems to be stained a dark, blood red from the
+bright blue light of the moon.  Faint visions stir in your mind, a power
+beyond your control forcing hints into your thoughts, a very faint blur of a
+creature strapped to the cross struggling for all eternity in its company. 
+The forest gives way to the cleared receiving of the temple for its guests,
+the clearing allowing the beautiful and eerie sight of the whole temple to
+be seen, driven down by lack of use over the centuries.  The two double
+doors stand to the north, cracked slight ajar to let anything in as it
+wishes.  
+~
+0 1 0
+D0
+~
+~
+~
+1 0 6552
+M 0 H 0
+S
+#6552
+The blackened Atrium~
+The steady flow of the chilling current billows through the cracks
+between and in the two large, broken doorways, leaving the air inside enough
+to chill a mortal to the bone.  Tapestries adorn the two walls on either
+side, hanging from the ancient stones like two murderers, dealt with by
+hanging, in the old days, their sway almost eerily creaking as they flutter
+in the breeze.  Tattered robes, barely clinging by their weavings in a final
+struggle to maintain what they once were, lay on the table in the center of
+the room, black as the night sky and clasped together with a symbol of a
+primeval order.  Candlesticks sit on either side of the table, magically lit
+and glowing faintly in the presence of darkness to illuminate what they can.
+A sacrificial dagger clings to the stones, thrust into them by a strong
+hand, caked in blackened-red blood that has been there for centuries.  
+~
+0 9 0
+E
+tapestries~
+Horrors are barely recognizable in the weavings.  What looks to be pale
+creatures fighting against an onslaught of huge, furred beasts that rain
+down upon the shields and spears.  A blood red moon courses across the black
+sky to illuminate the battle in red.  
+~
+D0
+~
+~
+~
+0 0 6553
+D2
+~
+~
+~
+1 0 6551
+M 0 H 0
+S
+#6553
+A worn Temple Hall~
+Hallowed stone floors and huge tapestries fill the room, whispers of an
+ancient power that once laid in rest at the foot of the marble statue. 
+Candlesticks stand perfectly on the sides of the blood red carpet that sits
+peacefully between the rows of pews.  The broken, shattered memories, which
+were once entrapped in convoluted mosaics, are now sitting near the walls in
+thousands of pieces that will never be arranged.  The rows of pews that sit
+eerily in the center of the room, once belonging to the followers, are
+broken and dilapidated after years of neglect.  The light seems to trail
+along the steps that rise to the statue and the marvelous pedestal before
+it, drawn to the magnificence of the two and the magic that might be stored
+away inside them.  On the pedestal rests a book, fastened to it's holder
+with a force that cannot be cast aside, the one page left open to tell of a
+grim tale and the era it once reveled.  Clung in the marble grip of the
+statue, is a brilliantly glowing shield, mirroring the world around it and
+flowing with an aura of magic.  
+~
+0 0 0
+E
+statue~
+Old and worn, leaving the face completely incomprehensible, this ancient
+relic of days long forgotten was once a hero of his time.  Dressed in regal
+robes that can barely be seen over the glints in the room, he bears the
+symbol of another empire, one forged in times that have stretched beyond
+remembrance.  Its stature is straight, much like a soldier's would be if
+they were standing on duty before a commanding officer, but the slight form
+and frail-looking fingers are a sign that this hero might have been a magic
+user.  
+~
+E
+page~
+Here lies the records of Na...  *the name seems to have been worn down in
+time*, the priest of Ilistara.  The days have rounded on us, rumors of
+ancient powers are returning to this world, whispers of darkness that will
+come to consume this land.  Discordia cannot help us anymore than Utopia has
+tried.  The magic that once flowed easily in the veins of the Royal Family
+has grown dim, with the death of the accursed Royal himself.  What power we
+have left, as mortals, will not be enough.  We have condemned ourselves with
+our petty power mongering.  My fellow kin have already been put to sleep,
+ending their lives to keep our Lord's temple safe from the coming onslaught.
+I leave this page here, under my sacrifice, which will be contained and
+untouched for the rest of eternity.  To my Lord, I leave this world so he
+can be remembered, and returned when the time is right.  Est irathi oth
+palanth.  
+~
+D2
+~
+~
+~
+0 0 6552
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 6551 0 1
+D 0 6552 2 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

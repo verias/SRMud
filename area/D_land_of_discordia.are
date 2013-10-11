@@ -1,0 +1,8221 @@
+#AREADATA
+Name { ALL } RODCo   Land of Discordia~
+Builders Ethran Acrith~
+VNUMs 16000 18000
+Credits (null)~
+Security 3
+End
+
+
+
+#MOBILES
+#16000
+wandering gypsy peddler~
+a gypsy pedler~
+A gypsy peddler carries unimaginable treasures in his wagon.
+~
+A tall muscular man with dark skin, black hair and piercing black eyes
+stands before you.  He wears a bandanna around his neck and a bright silk
+shirt.  He is generally a jovial guy and is often heard singing as he
+wanders the roads, selling his treasures and collecting more.  He'll
+convince you that his prices are fair for the fine merchandise in his cart. 
+~
+human~
+ABRW 0 0 0
+1 0 1d2+8 1d10+100 1d1+0 none
+9 9 9 10
+0 ABCQ 0 0
+(null) (null) female 4
+AHMV ABCDEFGHIJK medium unknown
+#16001
+Nomadic elf~
+a nomadic elf~
+A nomadic elf juggles shrunken dwarven heads as he saunters by.
+~
+This elf is slim and of medium build.  He seems quite hairy for an elf,
+and you can hardly make out his ear tips beneath the thick swath of hair. 
+He has a thin nose, an insolent smile, and a mischievous look about him. 
+One hand is occupied with juggling 3 shrunken heads and his other hand
+fingers a dagger at his belt.  
+~
+unique~
+A J -600 0
+10 0 3d23+120 10d10+100 2d3+2 digestion
+6 6 6 6
+F 0 B Z
+(null) (null) female 45
+AHMV ABCDEFGHIJK medium unknown
+#16002
+cherub golden~
+a {ygolden{x cherub~
+({WGlowing{C)  A small, {ygolden{C cherub sits with an arm full of flowers.
+~
+A serene looking cherub with {ygolden{x skin and {ygolden{x wings which
+{Wshimmer{x with a magical aura sits cross-legged here.  He holds an arm
+full of fragrant blossoms and winks when he realises that you've found him. 
+~
+unique~
+AB BN 1000 0
+15 0 5d31+200 15d10+100 2d4+2 none
+4 4 4 6
+F 0 0 0
+(null) (null) female 67
+ACGHMV ABCDEFGHIJKMQUV medium unknown
+#16003
+behemoth~
+a behemoth~
+A large, grey behemoth is the subject of many sailor's legends.
+~
+This ancient sea creature is thought by some to be a figment of the
+imagination of sailors who have been out to sea too long.  Occasionally,
+expeditions go in search of these great animals.  It looks a bit like a
+giant manatee and at first glance might appear to be clumsy.  It has a
+massive tail that it is able to whip around with lightening speed.  
+~
+unique~
+A Qb 0 0
+35 0 10d76+654 35d10+100 4d6+9 suction
+-3 -3 -3 -1
+M R L HS
+(null) (null) male 157
+ABCGHMc ABCDEFGHIJKMN medium unknown
+#16004
+haitorin merchant Salivan~
+Salivan~
+Salivan, the haitorin merchant is said to trade with the exiled Kortaga.
+~
+A large, fierce-looking haitorin licks his light yellow-brown fur as he
+paddles rhythmically in the Great Discordia River.  This is Salivan, famous
+throughout the realm for supplying items made of gindar, a rare ore which
+luminesces.  Few know that the source of the gindar is the exiled Kortaga,
+with whom he regularly trades.  
+~
+unique~
+A VZ -800 0
+15 0 5d31+200 15d10+100 2d4+2 digestion
+4 4 4 6
+BEFH 0 P H
+(null) (null) female 67
+ACGHMV ABCDEFGHIJKMQUV medium unknown
+#16005
+otter~
+an otter~
+A sleek looking otter floats on its back, tangling itself in the oily weeds.
+~
+A playful and sleek brown otter chitters at you motioning with its
+forepaws as it ducking down to bob out of your sight beneath the water
+before reappearing in a tangle of the oily weeds. 
+~
+snake~
+AB 0 0 0
+12 0 4d26+151 48d10+100 2d4+0 none
+5 5 5 7
+0 0 L I
+(null) (null) male 54
+AGXYc ADEFKLPQVX medium unknown
+#16006
+siren mermaid~
+a mermaid~
+A siren sits here singing as she combs her hair.
+~
+This creature looks beautiful, if somewhat alien.  Her skin is a silvery
+color and her eyes are a vivid blue.  Her features are slightly angular,
+though not too sharp aside from her ears, which look slightly like fins. 
+Long hair of a delicate blue color cascades from her head, which she is
+attempting to brush with a piece of shaped bone.  It is only when she
+notices you and moves that her fish-like tail becomes apparent, marking her
+as one of the sirens known as a mermaid.  
+~
+unique~
+AB Vbc -750 0
+60 0 11d277+1559 240d10+100 5d7+19 beating
+-13 -13 -13 -11
+FHKM R C H
+(null) (null) either 270
+AGHNV ABCDEFGHIJKLQ medium unknown
+#16007
+grey dolphin~
+a grey dolphin~
+A grey dolphin frolicks in these clear waters.
+~
+This grey dolphin swims through the aqua sea, diving and surfacing often.
+It makes a medium-high pitched noise that sounds like laughing until you get
+too close, then it shies away. 
+~
+dog~
+AH b 0 0
+25 0 8d48+400 100d10+100 3d5+7 suction
+0 0 0 2
+H R 0 0
+(null) (null) male 112
+AGV ACDEFHJKPUV medium unknown
+#16008
+shoal fish~
+a shoal of fish~
+A shoal of fish swim here, moving and acting as one creature.
+~
+Innumerable fish of mostly silver color except for a blue stripe down
+there sides swim here, working almost like a single creature.  None of these
+animals could be bigger than a person's fist so they shoal to together for
+protection from some of the larger fish. 
+~
+human~
+AV Ob 0 0
+20 0 6d39+294 80d10+100 3d5+4 grep
+2 2 2 4
+0 R 0 0
+(null) (null) male 90
+AHMV ABCDEFGHIJK small unknown
+#16009
+electric eel~
+an electric eel~
+An electric eel swims here, looking for food.
+~
+This long and slender creature is called an electric eel due to the fact
+it can release an electric charge to stun its prey or protect its self. 
+Painful looking teeth line its mouth and it looks towards you as if
+considering something. 
+~
+human~
+A b 0 0
+18 0 6d36+255 72d10+100 2d5+6 peckb
+3 3 3 5
+0 R 0 0
+(null) (null) male 81
+AHMV ABCDEFGHIJK medium unknown
+#16010
+tuna~
+a tuna~
+A tuna flaps its tail here, moving its silvery body through the water.
+~
+This silvery fish has rounded fins.  Lighter scales outline the gills
+behind its eyes, the instrument which they used to breathe in the depths of
+the ocean.  It looks like it might make a good snack or meal. 
+~
+dog~
+AB b 0 0
+10 0 3d23+120 40d10+100 2d3+2 none
+6 6 6 6
+H R 0 0
+(null) (null) male 45
+AGV ACDEFHJKPUV medium unknown
+#16011
+fiddle crab~
+a fiddle crab~
+This crab's pincers are shaped something like a fiddle.
+~
+This arthropod scurries on numerous legs that are made tough via an
+exoskeleton.  It has eyes that are on stalks so that it can peer around
+itself easily.  It is red in color and has two pincers of different sizes,
+one of which looks like a fiddle and the other looks like a baton to play it
+with. 
+~
+cat~
+A Zb 0 0
+10 0 3d23+120 40d10+100 2d3+2 crunch
+6 6 6 6
+FH R 0 0
+(null) (null) male 45
+AGV ACDEFHJKQUV medium unknown
+#16012
+sea anemone~
+a sea anemone~
+This sea anemone looks to be stationary.
+~
+This creature looks much like a bright pink plant growing on the sea
+floor. Many tendrils surround its mouth, beckoning algae and plankton into
+its mouth. 
+~
+doll~
+AB 0 0 0
+10 0 3d23+120 40d10+100 2d3+2 peckb
+6 6 6 6
+0 CILMNPQR EFIS EGHJKO
+(null) (null) male 45
+AEGJMOc ABCFGHKX medium unknown
+#16013
+blue whale~
+a blue whale~
+A blue whale swims lazily here, filtering its food out of the water.
+~
+This mammoth of a beast must be in excess of thirty feet in length and is
+nearly entirely blue, by the looks of it.  It has a powerful tail to propel
+it through the depths as well as the over the surface of the ocean.  This
+creature somewhat fits the description of a whale. 
+~
+wyvern~
+A DFTb 0 0
+30 0 10d60+520 120d10+100 3d6+8 peck
+-1 -1 -1 0
+CFH LR 0 S
+(null) (null) male 135
+ABGZc ACDEFHJKOPQUVX medium unknown
+#16014
+shelled creature oyster~
+an oyster~
+This shelled creature might be mistaken for dead by the reckless.
+~
+A gleaming white shell is here, its white length oddly shaped and full of
+smooth grooves.  It doesn't seem to move, so it might as well be dead. 
+~
+human~
+AB b 0 0
+10 0 3d23+120 40d10+100 2d3+2 none
+6 6 6 6
+0 R 0 0
+(null) (null) male 45
+AHMV ABCDEFGHIJK medium unknown
+#16015
+sponge~
+a sponge~
+Oddly enough, there is a sponge on the sea floor.
+~
+This sponge is a dull yellow color and looks quite soft to the touch
+while it is submersed in the water here.  It is irregularly shaped,
+possessing bumps and ridges throughout its porous form. 
+~
+human~
+AB b 0 0
+10 0 3d23+120 40d10+100 2d3+2 none
+6 6 6 6
+0 R 0 0
+(null) (null) male 45
+AHMV ABCDEFGHIJK medium unknown
+#16240
+open~
+a glowing sheep~
+There's something wrong with the sheep, it glows! As it moves about eating grass.
+~
+This animal is very odd not only does an unnatural glow emit from its
+wool but its about the size of a adult cave bear.  Great curved horns loop
+from either side of its massive head.  Its dull eyes gaze around it with a
+worried look, almost as if even this massive creature has something to be
+concerned about.  
+~
+bear~
+A 0 0 0
+65 0 11d352+1789 65d10+100 5d8+19 suction
+-15 -15 -15 -13
+DEO 0 EI 0
+(null) (null) none 292
+AGV ABCDEFHJKPUV medium unknown
+#16241
+open~
+a fell wolf~
+A huge fell wolf skulks here hunting for new prey.
+~
+This must be a fell wolf, a hate from an older time.  Massive jaws are
+lined with fearsome teeth and powerful shoulders give a impression of power.
+These must have once long ago been called forth by some kind of magic but
+now they run free preying on any living thing that crosses their path.  
+~
+unique~
+A FJVZc -800 0
+70 0 11d443+2036 70d10+100 5d8+22 crush
+-17 -17 -17 -15
+DFH 0 BI H
+(null) (null) none 315
+AGHMV ABCDEFGHIJKLPQUV medium unknown
+#16242
+open~
+a pink fog~
+A pinkish hint to the fog here may be showing the presence of a blood mist.
+~
+This must be a blood mist so named due to its habit of draining the life
+blood from the living.  The slight pinkish color is due to blood remaining
+in its cloud like body.  A thin web like structure seems to be all that
+makes up the monster.  Around this web an ever present fog helps to conceal
+it.  
+~
+unique~
+A OQTU -1000 0
+68 0 11d405+1935 68d10+100 5d8+21 grep
+-17 -17 -17 -14
+AF F E CGHN
+(null) (null) male 306
+AHMV ABCDEFGHIJK large unknown
+#16243
+open~
+a dragon's ghost~
+The ghost of the fire dragon Maegenheard battles on here.
+~
+The ghost Maegenheard still battles on even after his death.  He soars
+above the site of his death.  Light passes through his body now where once
+it would have shone off golden scales, still light glints off fearsome claws
+and teeth.  By pure will power Maegenheard remains in the plane of the
+living to kill the wizard that ended his life.  
+~
+dragon~
+A BDFHJOTVc 600 0
+74 0 11d528+2248 74d10+100 5d9+23 charge
+-19 -19 -19 -17
+CM L BEHIK CFI
+(null) (null) female 333
+ACGHMVZc ACDEFGHIJKLOPQUVX huge unknown
+#16244
+open~
+a spirit of a wizard~
+The spirit of the wizard Alyson battles on here.
+~
+The nymph wizard Alysons spirit battles on here against the dragon. 
+Alyson in life must have been truly wonderful to gaze upon and even after
+her death the beauty remains.  Alyson was a small nymph whose power was
+based upon great magic, stories are still told of how she bound the dragon
+to her will, with but a single dance.  Now she remains here in an attempt to
+still the dragons spirit.  
+~
+unique~
+A BH -600 0
+73 0 11d505+2194 73d10+100 5d9+22 slap
+-19 -19 -19 -16
+0 LQ H CN
+(null) (null) either 328
+ACGHMV ABCDEFGHIJKMQUV medium unknown
+#16245
+open~
+a spectral host~
+A host of specters, move in unison almost as a single creature.
+~
+Many warriors are here acting as a single creature.  So unified were they
+in life that even after death they work towards a single goal.  Moving as
+one creature these lost souls advance towards a long departed enemy.  
+~
+unique~
+A BOTU 0 0
+71 0 11d463+2089 71d10+100 5d9+21 none
+-18 -18 -18 -16
+CD 0 A C
+(null) (null) male 319
+CIKLM ABCDEFGHIJKLM huge unknown
+#16246
+open~
+the ghost of grax~
+Grax the commander of one of the doomed armies is here shouting orders to long dead troops.
+~
+In life Grax was a great leader and warrior alike, now in death his will
+for battle is all that keeps him going.  Short cut hair and heavily scared
+features surround a pair of penetrating eyes.  
+~
+unique~
+A BTU -1000 0
+73 0 11d505+2194 73d10+100 5d9+22 sting
+-19 -19 -19 -16
+EFIK 0 A CN
+(null) (null) female 328
+CIKLM ABCDEFGHIJKLM medium unknown
+#16247
+open~
+the ghost of blent~
+Blent the commander of a long dead army rages here.
+~
+Blent's anger rages about him forming a wall of fire about his person. 
+His eyes roll insanely at his own death and the loss of the battle.  Now and
+then he can be heard bellowing "How could we lose, we had a dragon!"  What
+was once a great leader with plans of conquest now is little more than an
+insane shadow.  
+~
+unique~
+A BTU -1000 0
+73 0 11d505+2194 73d10+100 5d9+22 chop
+-19 -19 -19 -16
+FIK 0 A CN
+(null) (null) female 328
+CIKLM ABCDEFGHIJKLM medium unknown
+#16248
+open~
+Joch McLintock~
+Big Joch McLintock is a large bull headed creature selling drinks here.
+~
+Joch has worked here for some time and it is thought that its only by the
+blessings of some god that this place remains in the curse land.  Joch
+appears as a huge bull headed human, his long curved horns reach up towards
+the roof.  Lifting a bottle of spirits to his bovine mouth he drinks heavily
+muttering warnings such as "Do not go onto the moors" and "beware the nights
+of the full moon".  
+~
+unique~
+ABRW 0 0 0
+75 0 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+0 ABQ 0 0
+(null) (null) female 337
+ACGHMV ABCDEFGHIJKMQUV medium unknown
+#16249
+open~
+ullhagen darkhammer~
+The dwarf Ullhagen Darkhammer is here his body twisted into that of a beast, frothing madly.
+~
+A heavily battle scarred dwarf, who goes by the name of Ullhagen
+Darkhammer stands before you.  His stocky form is warped into that of a
+lupine beast in places.  Madness and a feral hunger fills his eyes , so far
+gone is his mind that he is even chomping on his own arm.  Clumps of dark
+black fur mix in with equally dark hair, covering powerful muscles.  As he
+takes time from biting him self you see that his teeth have grown long and
+sharpe.  
+~
+unique~
+A FJOVa -1000 0
+75 0 11d551+2303 75d10+100 5d9+24 crush
+-19 -19 -19 -17
+FHIK B CELQ CR
+(null) (null) female 337
+AHMV ABCDEFGHIJK medium unknown
+#16250
+open~
+a mage~
+Calandor the elven mage waits here for someone to rob.
+~
+Calandor is a young elven mage with pretensions of being a gentleman, it
+is to this end that he has taken to the life of a highway man.  Lacking
+money he coverts the wealth of others and have seen the Golden Temple of
+Xian he thought that wealth must be there.  His looks are those of an angel
+but something seems dark about him, maybe its the way his mouth is locked
+into a smirk or something about the eyes your not sure.  
+~
+unique~
+A JQ -500 0
+60 0 11d277+1559 60d10+100 5d7+19 digestion
+-13 -13 -13 -11
+0 0 B 0
+(null) (null) female 270
+AHMV ABCDEFGHIJK medium unknown
+#16251
+open~
+a warrior~
+Ragnar's fat form stands here waiting for orders or something to hit.
+~
+Ragnar is an over weight lacerti who wishes to be accepted by other
+races, sadly he has fallen in with a bad group of friends and now works as a
+thug mugging those who he comes across.  He lusts after Rowan and respects
+Calandors intelligence and style so theres little chance of him changing.  
+~
+unique~
+A B -100 0
+60 0 11d277+1559 60d10+100 5d7+19 digestion
+-13 -13 -13 -11
+0 L 0 0
+(null) (null) female 270
+ACGHMVXc ABCDEFGHIJKLMPQUVX medium unknown
+#16252
+massive kraken green circle light~
+a massive kraken~
+A circle of green light.
+~
+You gazed, fascinated, at the circle of green light glowing in the this
+area.  You suddenly realize that this green unblinking orb is an eye.  As
+the water becomes undulated with some strange disturbance, you comprehend
+that you are gazing at almost point-black range at a massive kraken.  Its
+tentacles flex contracting their suctions as it makes to draw you into its
+sharp and clacking beak.  It is waiting to introduce you to a watery grave. 
+~
+wyvern~
+ABF DFTVZb 0 0
+101 0 13d1446+3994 404d10+100 6d11+30 slash
+-45 -45 -45 -40
+CFH LR P HS
+(null) (null) either 454
+ABCGHMVZc ABCDEFGHIJKMOPQUVX medium unknown
+#0
+
+
+
+#OBJECTS
+#16000
+pungent herbs~
+a pinch of pungent herbs~
+A pinch of pungent herbs assaults your nostrils.~
+unknown~
+pill G A
+15 'reserved' 'reserved' 'reserved' 'reserved'
+15 0 450 P
+#16001
+canoe~
+a canoe~
+A long wooden canoe rests here.~
+unknown~
+boat 0 A
+0 0 0 0 0
+10 30 150 P
+#16002
+lantern dented~
+a dented lantern~
+A dented oil lantern looks like it has seen it's better days.~
+unknown~
+light 0 A
+0 0 DFGHIJ 0 0
+5 2 10 P
+A
+17 -1
+#16003
+potion thick brown~
+a thick brown potion~
+A thick brown potion in a heavy glass vial is here.~
+unknown~
+potion 0 A
+10 'reserved' 'reserved' 'reserved' 'reserved'
+10 0 300 P
+#16004
+snake oil~
+snake oil~
+A vial containing snake oil is here.~
+unknown~
+potion AG A
+30 'reserved' 'reserved' 'reserved' 'reserved'
+20 1 600 P
+#16005
+hair dog~
+the hair of a dog~
+A pouch containing the hair of a dog is here.~
+unknown~
+pill G A
+20 'reserved' 'reserved' 'reserved' 'reserved'
+10 0 300 P
+#16006
+potion clarification~
+a clarification potion~
+A clear potion in a square vial is here.~
+unknown~
+potion AG A
+25 'reserved' 'reserved' 'reserved' 'reserved'
+8 0 240 P
+#16007
+milky potion antidote~
+a milky antidote potion~
+A milky potion in a brown glass vial is here.~
+unknown~
+potion A A
+25 'reserved' 'reserved' 'reserved' 'reserved'
+6 0 180 P
+#16008
+potion magenta~
+{xa {mmagenta{x potion~
+{xA {mmagenta{x potion is in a clear vial here.~
+unknown~
+potion 0 A
+25 'reserved' 'reserved' 'reserved' 'reserved'
+20 0 600 P
+#16009
+potion levitation~
+a levitation potion~
+A {cpale blue{x potion in a tiny vial is here.~
+unknown~
+potion G A
+15 'reserved' 'reserved' 'reserved' 'reserved'
+10 0 300 P
+#16010
+jug stone~
+a stone jug~
+A heavy jug carved out of stone is here.~
+unknown~
+drink 0 A
+50 50 'water' 0 0
+10 6 30 P
+#16011
+potion imperceptibility~
+a potion of imperceptibility~
+A vial contains barely perceptible vapors~
+unknown~
+potion 0 A
+30 'reserved' 'reserved' 'reserved' 'reserved'
+10 0 300 P
+#16013
+blue whale~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#16018
+elven sleeves~
+elven sleeves~
+A pair of elven sleeves, fashioned in hard thick leather, are here.~
+unknown~
+armor M AI
+A A A 0 0
+10 1 50 P
+#16019
+elven boots~
+elven boots~
+A pair of dusty elven boots lie here.~
+unknown~
+armor 0 AG
+A A A 0 0
+10 0 50 P
+A
+14 5
+#16020
+nomadic dagger~
+a nomadic dagger~
+An ivory handled dagger has fallen to the ground.~
+unknown~
+weapon E ANO
+bow 4 5 crunch 0
+10 1 50 P
+#16021
+a shrunken head~
+a shrunken head~
+A hairy shrunken head has dropped to the ground.~
+unknown~
+treasure 0 AR
+0 0 0 0 0
+10 1 100 P
+A
+13 5
+A
+24 -1
+#16022
+gloves golden sheer~
+sheer golden gloves~
+A pair of sheer golden gloves have been discarded here.~
+unknown~
+armor G AH
+B B B 0 0
+15 0 75 P
+A
+18 1
+#16023
+undertow portal~
+a strong undertow~
+{WA strong undertow tugs you downwards.~
+unknown~
+portal 0 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 BEFGHJKLMN 0
+0 0 0 P
+#16024
+wooden oar~
+a wooden oar~
+The paint from a wooden oar is chipped and peeling.  The wood is water swollen.~
+unknown~
+weapon 0 AN
+staff 5 6 none 0
+15 8 75 P
+#16025
+shimmering key~
+a tiny shimmering key~
+A tiny key is made of some shimmering metal and gives off a comforting heat.~
+unknown~
+key Q A
+0 0 0 0 0
+15 0 0 P
+#16026
+dried meat~
+dried meat~
+Strips of dried meat are shrivelled and a little grey.~
+unknown~
+food 0 A
+ADE 0 0 0 0
+1 1 2 P
+#16027
+bone comb~
+a bone comb~
+A finely fashioned bone comb has been left here.~
+unknown~
+treasure Tb AO
+0 0 0 0 0
+1 1 500 P
+#16240
+The Serpent's Ribs~
+a spine dagger~
+This dagger is made of bone and looks like it might have came from a spine.~
+unknown~
+weapon GR AI
+bow 23 3 lunge 0
+44 15 50 P
+#16241
+open~
+fREE~
+A sharpe looking punch dagger with a basket guard has been left here.~
+unknown~
+weapon B AN
+bow 31 3 crunch 0
+60 3 300 P
+A
+19 1
+#16242
+riding boots~
+fREE~
+A pair of master crafted black leather riding boots and been tossed here.~
+unknown~
+armor G AG
+BD BD BD AB 0
+60 6 300 P
+#16243
+massive great sword~
+fREE~
+A massive great sword at least six feet in length has been left here.~
+unknown~
+weapon B ANP
+sword 31 3 wrath DF
+60 50 300 P
+#16244
+orb of wisdom~
+fREE~
+Floating in the air, a glowing orb has been left here.~
+unknown~
+clothing ABG AR
+0 0 0 0 0
+60 1 1200 P
+A
+4 2
+A
+12 10
+E
+orb~
+Inside this glowing orb words of great thinkers from older times form,
+helping the wear to understand the world around him with greater clarity.  
+~
+#16245
+green jerkin~
+fREE~
+A heavy green jerkin with runic inscriptions inside has be dropped on the floor.~
+unknown~
+armor G AD
+BD BD BD AB 0
+60 10 300 P
+E
+inscription~
+THe runes inscribed with in this jerkin should help to turn aside all but
+the strongest blows.  
+~
+E
+runic~
+These runes make this jerkin about as effective as true armor.  
+~
+#16246
+viscous green fluid~
+fREE~
+A viscous glowing green fluid is stored in a flat bottomed flask.~
+unknown~
+potion A AO
+20 'reserved' 'reserved' 'reserved' 'reserved'
+1 1 30 P
+E
+!history!~
+By grinding up the eyes of the curse sheep that can be located on the
+moors it is said a powerful potion can be made that lets you see things
+hidden by magic.  Be warned that this liquid is must unwholesome.  
+~
+E
+fluid~
+This fluid seems to have been made from something being mashed up going
+by the thickness of it.  
+~
+#16247
+black heart~
+fREE~
+The black heart of a fell wolf has been cut out and dumped here.~
+unknown~
+pill H AO
+60 'reserved' 'reserved' 'reserved' 'reserved'
+1 1 30 P
+#16248
+shimmering green gown~
+fREE~
+A green gown shimmers with magical energy and power, has been left lying on the ground.~
+unknown~
+armor GJT AD
+CD CD CD AB 0
+73 6 365 P
+A
+5 -1
+A
+12 30
+E
+!history!~
+Legend would have you believe that the shimmering green robe was made
+from the hair of daemons.  
+~
+E
+!history!~
+This shimmering green gown, legand would have you believe is made from
+the hair of daemons.  
+~
+#16249
+blackthorn stave~
+fREE~
+A rod of blackthorn has been skillfully crafted and left here for some lucky person to find.~
+unknown~
+staff BGT AO
+70 4 2 'reserved' 0
+70 4 350 P
+#16250
+icy spear~
+fREE~
+A spear crafted from the determination of the wielder, pulses with icy power as it lays here.~
+unknown~
+weapon FG AN
+dagger 10 14 crunch B
+73 20 365 P
+#16251
+iron key~
+a black iron key~
+A key made from black iron sits here, the word 'Xian' cut into the metal.~
+unknown~
+key W AO
+0 0 0 0 0
+1 0 10 P
+A
+18 -4
+A
+18 4
+#16252
+small black metal key~
+a small black metal key~
+A small black metal key looks like something that couldn't have been forged here.~
+unknown~
+key W AO
+0 0 0 0 0
+50 0 0 P
+#16253
+small blue metal key~
+a small blue metal key~
+A small blue metal key looks like something that couldn't have been forged here.~
+unknown~
+key W AO
+0 0 0 0 0
+50 0 0 P
+#16254
+small clear metal key~
+a small clear metal key~
+A small clear metal key looks like something that couldn't have been forged here.~
+unknown~
+key W AO
+0 0 0 0 0
+50 0 0 P
+#16255
+black leather sofa~
+a black leather sofa~
+The black leather sofa is cool and smooth to the touch.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 1 15 P
+#16256
+black leather chair~
+a black leather chair~
+This black leather chair is cool and smooth to the touch.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 1 10 P
+#16257
+long glass table~
+a long glass table~
+The table top is a long single pane of thick glass, letting you see the metal legs it rests on.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 1 40 P
+#16258
+black leather armchair chair~
+a black leather armchair~
+The black leather is smooth and cool to the touch, and the chair itself swivels around and is extremely comfortable.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 1 30 P
+#16259
+scroll glass~
+an open scroll protected behind thick glass~
+Written in the strange language of the Vampires, you see the laws are laid out before you.  There are five of them.  (read law<#>)~
+unknown~
+treasure R 0
+0 0 0 0 0
+1 1 10 P
+E
+law1~
+That no vampire may ever destroy another vampire, except the clan Master,
+who has the power of life and death over all of his flock.  And it is
+further his obligation to lead the old ones and the mad ones into the fire
+when they can no longer serve as they should.  It is his obligation to
+destroy all vampires who are not properly made.  It is his obligation to
+destroy all those who are so badly wounded that they cannot survive on their
+own.  And it is his obligation finally to seek the destruction of all
+outcasts and all those who have broken these laws.  
+~
+E
+law2~
+Only clan Masters may embrace others, who have been selected from
+council.  Should someone else embrace another without permission, both
+parties will be punished severely and painfully.  That the Dark Gifts must
+never be given to the crippled, the maimed, or to children, or to those who
+cannot, even with the Dark Powers survive on their own.  Be it further
+understood that all mortals who would receive the Dark Gifts should be
+beautiful in person so that the insult to the Gods might be greater when the
+trick is done.  
+~
+E
+law3~
+All hunters of our race are to hunted down and taught lessons of respect
+until they either learn, or die, by any means necessary.  
+~
+E
+law4~
+Respect and loyalty within the family is the highest importance.  Respect
+of those outside the family is important too.  Without them, there would be
+no food.  Treat others with the respect you would show your own family at
+all times.  
+~
+E
+law5~
+That no vampire shall ever reveal his true nature to a mortal and let the
+mortal live.  No vampire must ever reveal the history of the vampires to a
+mortal and let the mortal live.  No vampire must commit to writing the
+history of the vampires or any true knowledge of vampires lest such a
+history be found by mortals and believed.  And never must any vampire reveal
+to mortals the location of his or any other vampire's lair.  
+~
+#16260
+dark pool~
+a dark pool~
+(no description)~
+unknown~
+fountain R 0
+10 10 'water' 0 0
+0 0 0 P
+#16270
+large canopy bed~
+a large canopy bed~
+A large canopy bed looks extremely comfortable.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#16271
+opening behind black rock~
+opening behind a black rock~
+An opening behind a black rock.~
+unknown~
+portal R 0
+0 A A HIJKLMN 0
+0 0 0 P
+E
+black~
+The large black rock seems to harbour some kind of an opening behind it.
+~
+#16272
+crude ancient iron key~
+a visibly ancient, crude iron key~
+An iron key of a relatively huge size and unmistakable ancient age rests at this place.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 2 0 P
+#16320
+neck~
+neck~
+(no description)~
+unknown~
+protect 0 AC
+E E E AC 0
+100 1 120000 P
+#16321
+wrist~
+wrist~
+(no description)~
+unknown~
+armor 0 AM
+E E E AC 0
+100 1 500 P
+#16322
+finger~
+finger~
+(no description)~
+unknown~
+treasure 0 AB
+0 0 0 0 0
+100 1 1000 P
+A
+3 1
+A
+4 1
+A
+5 1
+A
+2 1
+A
+1 1
+#16323
+ear~
+ear~
+(no description)~
+unknown~
+clothing 0 AQ
+0 0 0 0 0
+100 1 300000 P
+A
+19 2
+#16324
+ankle~
+ankle~
+(no description)~
+unknown~
+clothing 0 AU
+0 0 0 0 0
+100 1 300000 P
+A
+18 2
+#16325
+body~
+body~
+(no description)~
+unknown~
+armor 0 AD
+E E E AC 0
+100 4 500 P
+#16326
+head~
+head~
+(no description)~
+unknown~
+armor 0 AE
+E E E AC 0
+100 1 500 P
+A
+12 50
+#16327
+legs~
+legs~
+(no description)~
+unknown~
+armor 0 AF
+E E E AC 0
+100 2 500 P
+A
+17 -5
+#16328
+feet~
+feet~
+(no description)~
+unknown~
+armor 0 AG
+E E E AC 0
+100 1 500 P
+A
+14 100
+#16329
+hands~
+hands~
+(no description)~
+unknown~
+armor 0 AH
+E E E AC 0
+100 1 500 P
+#16330
+arms~
+arms~
+(no description)~
+unknown~
+armor 0 AI
+E E E AC 0
+100 2 500 P
+#16331
+about~
+about~
+(no description)~
+unknown~
+armor 0 AK
+E E E AC 0
+100 3 500 P
+#16332
+waist~
+waist~
+(no description)~
+unknown~
+armor 0 AL
+E E E AC 0
+100 1 500 P
+A
+5 1
+#16333
+bicep~
+bicep~
+(no description)~
+unknown~
+armor 0 AS
+E E E AC 0
+100 1 500 P
+A
+13 50
+A
+17 -5
+#16334
+face~
+face~
+(no description)~
+unknown~
+armor 0 AT
+E E E AC 0
+100 1 500 P
+A
+3 1
+A
+4 1
+#16335
+shoulder~
+shoulder~
+(no description)~
+unknown~
+armor 0 A
+E E E AC 0
+100 1 500 P
+A
+24 -10
+#16336
+shop key~
+a small wood key~
+A small wooden key.~
+unknown~
+key 0 A
+0 0 0 0 0
+100 0 0 P
+#16350
+volteris marking tattoo~
+a skull and crossbones~
+This skull and cross bone set is done in deep black ink.~
+unknown~
+treasure HMSU AC
+0 0 0 0 0
+0 0 1 P
+A
+19 1
+A
+18 1
+#16351
+markov tattoo marking~
+the marking of the Markov family~
+The tattoo is pure black depicting four blades hanging from a rope set upon a sable field.~
+unknown~
+treasure HMSU AC
+0 0 0 0 0
+0 0 1 P
+A
+19 1
+A
+18 1
+#17177
+heavy chest~
+a heavy chest~
+A heavy chest is filled with jewels.~
+unknown~
+container 0 0
+10000 ACD 14172 0 0
+1 0 0 P
+#17581
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 1 P
+#0
+
+
+
+#ROOMS
+#16384
+Under the Sea~
+It is difficult to tell how deep one is in this watery bed, but it can't
+be too deep as the light from the surface world penetrates this far.  It
+becomes less and less useful the deeper one tries to scan, but it still
+illuminates peaceful groups of fish that swim about in tight groups, their
+scales shining with bright colors.  Dark shadows wiggle through the water
+below, seeming to be much larger than the gayly colored fish that swim here.
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16376
+D1
+~
+~
+~
+0 0 16385
+D2
+~
+~
+~
+0 0 16390
+D3
+~
+~
+~
+0 0 16383
+D4
+~
+~
+~
+0 0 16330
+M 0 H 0
+S
+#16385
+Under the Sea~
+The water teases the plant growth here, causing pockets of air to rise
+toward the surface, where light filters through.  The illumination is too
+poor to penetrate much deeper toward the floor, but it serves to show the
+bright fish that swim in teams in their search of food.  Every now and then,
+a larger fish rises from the depths to snack upon the tropical animals that
+are near you. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16377
+D3
+~
+~
+~
+0 0 16384
+D4
+~
+~
+~
+0 0 16329
+M 0 H 0
+S
+#16386
+Under the Sea~
+The surface of the sea can be detected directly above, shimmering
+slightly when it is illuminated with natural light.  Far below, the water
+becomes darker and less definition of shapes can be made out, but the sea
+floor is not apparent just yet.  As for here, there are schools of gayly
+colored fish swimming about, trying to avoid you as you displace the salt
+water in their path. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16380
+D1
+~
+~
+~
+0 0 16387
+D4
+~
+~
+~
+0 0 16338
+M 0 H 0
+S
+#16387
+Under the Sea~
+Algae and free drifting kelp float through the water here, looking very
+much like strands of maiden hair from the way the current causes them to
+dance.  The light that penetrates the surface of the ocean directly above
+fails to define the contents of the water below, making the swimming shapes
+in that depth look like little more than wiggling masses of darkness. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16381
+D1
+~
+~
+~
+0 0 16388
+D2
+~
+~
+~
+0 0 16391
+D3
+~
+~
+~
+0 0 16386
+D4
+~
+~
+~
+0 0 16339
+M 0 H 0
+S
+#16388
+Under the Sea~
+A few strands of seaweed climbs toward the light from the depths below,
+the bed of kelp tickling any skin that comes in contact with.  The currents
+that run through the grass of the sea make them move like hair when it is
+submerged in water.  The light from above is not enough to make the
+algae-filled depths of the ocean clear, but one can see the dark shapes of
+other creatures swimming further below. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16382
+D1
+~
+~
+~
+0 0 16389
+D2
+~
+~
+~
+0 0 16392
+D3
+~
+~
+~
+0 0 16387
+D4
+~
+~
+~
+0 0 16340
+M 0 H 0
+S
+#16389
+Under the Sea~
+Bubbles of air come from the depths of the ocean below, following a
+stirring of something large.  Schools of fish with bright red, yellow, and
+white markings swim at speed through the water here, their slim finned
+bodies wiggling with an otherworldly grace.  Algae and brine shrimp float
+through on the flowing salt water.  The surface to the ocean seems to be
+just above, as some dappled light filters from above. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16383
+D1
+~
+~
+~
+0 0 16390
+D2
+~
+~
+~
+0 0 16393
+D3
+~
+~
+~
+0 0 16388
+D4
+~
+~
+~
+0 0 16341
+M 0 H 0
+S
+#16390
+Under the Sea~
+The water shimmers above and partially lights this area, allowing one a
+plain view of hordes of tetra fish swimming in schools.  If you watch these
+strange clear-bodied fish longer, a larger silvery fish comes along and
+scoops up a handful of the unsuspecting animals and then swims away.  Algae
+floats by on the currents that flow through here, bringing a blast of warm
+water as it travels along.  Further below, one can barely make out the large
+shapes of other creatures moving along. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16384
+D3
+~
+~
+~
+0 0 16389
+D4
+~
+~
+~
+0 0 16342
+M 0 H 0
+S
+#16391
+Under the Sea~
+A short burst of movement disrupts the kelp and fish swimming below you,
+sending the living creatures scattering rather abruptly.  It is too dark to
+see clearly what caused this fright, however, as the light from the surface
+above is too weak to penetrate the algae-laden waters.  The fish soon return
+to their normal paths and swim in schools back and forth as they search out
+their sustenance. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16387
+D1
+~
+~
+~
+0 0 16392
+D4
+~
+~
+~
+0 0 16347
+D5
+~
+~
+~
+0 0 16395
+M 0 H 0
+S
+#16392
+Under the Sea~
+The buoyant waters of the sea provide a steady resistance to all your
+efforts of swimming, the moving water playing with your clothes and hair
+alike, moving them as if under a lover's caress.  The water is warm here but
+gets colder the deeper one swims, and seems to lose definition in the
+depths, as well; the light of the surface world doesn't penetrate very far
+into the stygian fluid. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16388
+D1
+~
+~
+~
+0 0 16393
+D2
+~
+~
+~
+0 0 16394
+D3
+~
+~
+~
+0 0 16391
+D4
+~
+~
+~
+0 0 16346
+M 0 H 0
+S
+#16393
+Under the Sea~
+Creatures stir in the depths, hidden both in the relative darkness and
+the masses of plant life that flourish here.  Schools of bright fish swim in
+concert to and fro, the light from above flashing off their smooth, scaled
+bodies in vibrant yellow, red, and snowy white.  Algae mixed with shrimp
+floats by on the currents, littering your submerged body with deposits of
+their particles. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16389
+D3
+~
+~
+~
+0 0 16392
+D4
+~
+~
+~
+0 0 16345
+M 0 H 0
+S
+#16394
+Under the Sea~
+It is difficult to tell how deep one is in this watery bed, but it can't
+be too deep as the light from the surface world penetrates this far.  It
+becomes less and less useful the deeper one tries to scan, but it still
+illuminates peaceful groups of fish that swim about in tight groups, their
+scales shining with bright colors.  Dark shadows wiggle through the water
+below, seeming to be much larger than the gayly colored fish that swim here.
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16392
+D4
+~
+~
+~
+0 0 16350
+M 0 H 0
+S
+#16395
+The Serpent's Head~
+Encased in the frigid waters of the seas inner bowels, you find yourself
+staring into the hollow eye-sockets of a immense sea serpent.  Thankfully it
+is only the skeletal remains of this once fearsome being.  Its gaping,
+toothy maw invites you to travel down its former gullet into the musky cave
+where the rest of its corpse rests, surrounded by water and stone. 
+~
+0 268435464 13
+D4
+~
+~
+~
+0 0 16391
+D5
+~
+~
+~
+0 0 16396
+M 0 H 0
+S
+#16396
+The Serpent's Ribs~
+The sediment of the seas floor shifts and swirls about you as the chill
+waters drive it up and about your face with your every movement.  The
+visibility in this area is worse then poor--the only things that your light
+seems to touch are the reflective gleam of the serpents long white ribs as
+they span far above your reach and a strange circle of green glowing light. 
+~
+0 268435464 13
+E
+ribs~
+The serpent ribs are of a pure ivory color, having been long ago been
+picked clean by some bottom dweller. 
+~
+D2
+~
+~
+~
+0 0 16397
+D4
+~
+~
+~
+0 0 16395
+M 0 H 0
+S
+#16397
+The Serpent's Tail~
+Almost running into the solid stone that blocks your path, you have
+finally reached the end of the cave here in what once must have been the sea
+serpents tail.  Small bones about the size of your arm litter the sediment
+rich floor, inviting your tread upon their sharp edges.  Little can be told
+of what this cave once held before this monster came to dwell and die within
+it, as the stone walls of this cave are quite unremarkable if smooth, due to
+the constant chill current. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16396
+M 0 H 0
+S
+#16560
+kill me.~
+Harsh fog enshrouded moor land stretches out in all directions.  Moss
+encrusted rocks jut out of thee earth and ground hugging gorse and heather
+break this uneven landscape.  A strange quietness fills the air, due either
+to the dense fog or some unnatural influence.  
+~
+0 4 4
+M 0 H 0
+S
+#16000
+A country road~
+This is the fertile plateau of the twin rivers of TrystenVeldt.
+The road has a well travelled feel about it.  Dust and stones
+line the roadsides, and occasional potholes make walking slightly more
+difficult.  Snow capped mountains loom in the distant north, and curling
+smoke can be seen from rooftops to the south.  To the east, there is a
+dwindling forest.  Fallow land spreads westward, and a broad tributary can
+be seen flowing down from the northern peaks.  The road continues to meander
+to the north and south.
+~
+0 4 1
+D0
+~
+~
+~
+0 0 16001
+D2
+~
+~
+~
+0 0 15071
+M 0 H 0
+S
+#16001
+A hilly road~
+The road travels north and south, through smoothly rolling foothills. 
+The farmlands to the west appear to be less than prosperous.  Rocky
+outcroppings stand out starkly along the hillsides, while here and there,
+sheep attempt to graze upon the sparse grass growing amidst the rocks.  In
+the distance, to the east and west, you can make out the silver threads of
+two rivers.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 16079
+D2
+~
+~
+~
+0 0 16000
+M 0 H 0
+S
+#16002
+A mountain~
+Pristine white snow gently drapes the hard, grey rocks of the northern
+peaks.  Turning to the south, you are stunned by a beauteous vista of
+rolling fields and two rivers that meet and continue as one beyond
+the rooftops of a distant city.  The road continues to the north and south. 
+~
+0 4 5
+D2
+~
+~
+~
+0 0 16079
+M 0 H 0
+S
+#16003
+Along the River's Edge~
+The shoreline of the lazy Cameria river is difficult to distinguish.  The
+water depth gradually lessens until the terrain can be best described as a
+sloppy wet bog.  Gigantic skunk cabbage with thick green leaves the size of
+capes grow in the wetness.  To the west, the Cameria dumps it's silty water
+into the deep blue ocean.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16067
+D3
+~
+~
+~
+0 0 16021
+M 0 H 0
+S
+#16004
+Rough Road in the Plains~
+Prairie grass has begun to fill in the ruts of this wide road.  To the
+north and south waist-high grass ripples in the wind over the rolling hills.
+To the west the remains of the road wander over a gentle hill which stands a
+bit higher than the rest.  On the horizon to the north-east is what appears
+to be a smallish town nestled up next to a thick forest.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 19050
+D1
+~
+~
+~
+0 0 16061
+D3
+~
+~
+~
+0 0 16072
+M 0 H 0
+S
+#16005
+A neat garden~
+The surrounding garden is of miniature proportions yet pleasant
+appearance.  Precisely four rows of what seems to be carrots dominate the
+very center of it, while the sides suggest a few large bushes of diminutive
+flowers, tinged a pale yellow.  A natural lawn of thorny bushes walls the
+garden all around, at the southwestern corner of which a pair of thick
+wooden logs rest, undoubtedly serving as seats.  Strangely, a great number
+of footprints are apparent on the soft soil, much resembling footprints of
+wolves or similiar animals.  
+~
+0 1048580 0
+D0
+~
+~
+~
+1 0 16070
+M 0 H 0
+S
+#16006
+On a Dock~
+This is a small dock that someone has taken great pains to make appear
+from a distance as if it is only a large rock.  The water is fairly rough
+here and it's a wonder that anyone would tie their boat to this dock.  To
+the east the West River flows in a rush Upon close inspection, foot and
+handholds can be seen carved into the cliff face leading up.  It looks
+treacherous.  
+~
+0 0 5
+D3
+~
+~
+~
+0 0 16095
+D4
+~
+~
+~
+0 0 16007
+M 0 H 0
+S
+#16007
+On the Cliff Face~
+Rough hand and footholds have been deliberately carved out of the side of
+the stone cliff face.  Whoever, or whatever, did that must be powerful
+indeed.  Perhaps, it is wise for only those who are sufficiently experienced
+adventurers to disturb what lays in wait at the top of the cliff.  Below,
+the West Discordia rushes to the sea to the south.  From this vantage point
+you can see the City of Discordia and a few ships in its harbors.  
+~
+0 0 5
+D4
+~
+~
+~
+0 0 16008
+D5
+~
+~
+~
+0 0 16006
+M 0 H 0
+S
+#16008
+At the Top of the Cliff~
+A lush, green field is abruptly met by the great stone cliff.  One false
+step here could lead to a long fall into the rushing waters of the West
+Discordia river.  If one were to survive the fall they would be swept to sea
+where all kinds of sea life is eager for a tasty meal.  To the north the
+fields continue until they are choked off by a thick forest in the far
+distance.
+~
+0 0 5
+D1
+~
+~
+~
+0 0 16013
+D5
+~
+~
+~
+0 0 16007
+M 0 H 0
+S
+#16009
+On the River Near the Docks~
+The wide Western Discordia river flows gently to the south past the town
+of Discordia.  Boats of all sizes navigate the waterway.  Many are tied up
+to the docks, unloading and loading merchandise.  The water is clear and
+cold, a suggestion that its source is snow runoff.  Directly to the east is
+a short pier which sits several feet above the water level.  Seagulls sit on
+the railing, supervising all river activity.  An old wooden ladder leads up
+to the pier.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16031
+D2
+~
+~
+~
+0 0 16010
+D4
+~
+~
+~
+0 0 20195
+M 0 H 0
+S
+#16010
+West Discordia River~
+The river here moves slowly and deliberately southward past the town of
+Discordia, which sits on a high bank to the east.  Looking in that
+direction, you can see many buildings.  A large domed structure is visible
+past the docks.  To the south, the river continues its march to the sea.
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16009
+D2
+~
+~
+~
+0 0 16011
+M 0 H 0
+S
+#16011
+North of the Fork~
+The river is wide and slow here.  Navigation is easy and a few ships are
+anchored near the edges waiting their turns at the docks to the north.  The
+river seethes to the west into a dark swampy area.  To the north, on a
+grass-covered hill sits a great stone building with a dome-shaped roof. 
+River otters play near the shores, swimming on their backs.  Fish hang from
+their paws.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16010
+D1
+~
+~
+~
+0 0 16012
+D2
+~
+~
+~
+0 0 20027
+D3
+~
+~
+~
+0 0 16109
+M 0 H 0
+S
+#16012
+Where East meets West~
+The two forks of the river slam violently against each other at this spot
+creating the Great Discordia.  The swifter Eastern Discordia river plows
+fiercely into the wider, slower moving Western Discordia river.  Huge
+whirlpools are formed here making navigation by boat very treacherous. 
+Debris from more than one boat wreck lines the shores on either side.  To
+the north is a grass covered bluff, on top of which the Temple of Discordia
+rises.  The wide Great Discordia cuts through the landscape to the south.  
+~
+0 4 7
+D1
+~
+~
+~
+0 0 16014
+D2
+~
+~
+~
+0 0 16026
+D3
+~
+~
+~
+0 0 16011
+M 0 H 0
+S
+#16013
+In front of the castle~
+You stand atop a high bluff, overlooking the the city of Discordia, which
+is a sprawling town.  Beyond the city, the Neru sea can be seen.  The view
+from here is magnificent.  A lush, green field stretches to the north and
+east.  To west and continuing north, a gaping canyon cuts through the land. 
+The West Discordia river winds its way through it.  Sitting majestically
+near the edge of the bluff is a gleaming white castle.  It appears to be the
+abode of something very powerful.  Perhaps it is wise to stay away and not
+disturb the inhabitants.  
+~
+0 4 2
+D3
+~
+~
+~
+0 0 16008
+M 0 H 0
+S
+#16014
+Eastern Discordia River Near the Temple~
+Eastern Discordia River roars violently from the north where it crosses
+under a large stone bridge.  To the south it meets the slightly more serene
+Western Discordia River to form the Great Discordia River.  High on the
+western river bank is a large stone temple with a great dome.  A beautiful
+garden surrounds the temple.  The wind carries flower petals to the river
+where they are crushed in the raging waters.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16015
+D3
+~
+~
+~
+0 0 16012
+M 0 H 0
+S
+#16015
+East Discordia River~
+The East Discordia river churns over rapids here.  Large rocks sit
+dangerously just under the water, waiting to bash the poor fool who falls
+in.  Navigation by boat is tricky here.  Overhead, a large stone bridge
+spans the river.  To the north, the river rushes swiftly past high,
+grass-covered banks.  On the western bank a lively town sits.  Far to the
+north, a spectacular mountain range cuts across the sky.  A path leads up a
+steep bank to the bridge above.  
+~
+0 0 7
+D2
+~
+~
+~
+0 0 16014
+D4
+~
+~
+~
+0 0 20031
+M 0 H 0
+S
+#16016
+Wild Flower Field~
+A field of brilliant wild flowers stretches over the crest of a hill. 
+The ground is covered with knee high patches of colorful blossoms on soft
+greenery.  {RScarlet{x pimpernels, {Cbluebells{x and {Yyellow{x and
+{Wwhite{x daisies are just a few of the blossoms here.  
+~
+0 0 2
+D2
+~
+~
+~
+0 0 16035
+M 0 H 0
+S
+#16017
+A Dirt Road~
+The road continues east and westwards.  The northern mountain range
+curves southwards, encroaching upon the fertile highland farms to the north.
+To the south, the land is flat, with fields of grain as far as the eye can
+see.  
+~
+0 4 4
+D1
+~
+~
+~
+0 0 16018
+D3
+~
+~
+~
+0 0 16078
+M 0 H 0
+S
+#16018
+A Dirt Road~
+The road continues on a relatively straight east west route through the
+foothills of the great Northern mountain range.  A verdant virgin
+forest fans out and expands across the northeast.  The land to the south is
+flat, and seeded with grain crops, that move in waves of gold across
+your vision.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 19200
+D1
+~
+~
+~
+0 0 16019
+D3
+~
+~
+~
+0 0 16017
+M 0 H 0
+S
+#16019
+A Dirt Road~
+The Northern Mountain Range dwindles as it winds its way south, and
+becomes mere hills directly to the east.  A dense forest that begins in the
+higher altitudes spreads lusciously across the northeast.  The roadway
+continues to the east and west.  
+~
+0 0 4
+D1
+~
+~
+~
+0 0 16020
+D3
+~
+~
+~
+0 0 16018
+M 0 H 0
+S
+#16020
+A Turn in the Road~
+A wide expanse of virgin forest spreads to the north and east.  Fields of
+golden grain shift gracefully in the breeze.  The road turns west and south
+here, skirting the edge of the northeastern forest, and cutting through the
+grain fields.  
+~
+0 0 4
+D2
+~
+~
+~
+0 0 16038
+D3
+~
+~
+~
+0 0 16019
+M 0 H 0
+S
+#16021
+Mouth of the Cameria~
+The lazy Cameria pours its silty cargo into the vast blue ocean waters at
+this point.  The mouth is wide and is so slow moving as to appear almost
+lake-like.  Were it not for the wave action of the sea, it would be nearly
+completely still.  The river banks are wet peat bogs with thin reeds and
+skunk-cabbage plants of impressive proportions.  Sand bars and silt from the
+river combine directly to the south, their sodden mess preventing travel to
+the ocean beyond. 
+~
+0 4 7
+D0
+~
+~
+~
+0 0 16242
+D1
+~
+~
+~
+0 0 16003
+D3
+~
+~
+~
+0 0 16107
+M 0 H 0
+S
+#16022
+Sea of Neru~
+The sea seems to boil even as the sky does the same, waves rise higher
+and higher before pounding vengefully downwards once more.  Spume is thrown
+heavenwards, its salty tang speaking of the deeps that is has risen from.  A
+shiver runs along your spine, almost as if you can sense rather than see
+some form of magic at work behind this mighty storm, though no true source
+can as yet be determined.  The traitorous sea seems to stretch out in all
+directions even if the truth of this matter can no be determined due to the
+tempest.  
+~
+0 4 7
+D0
+~
+~
+~
+0 0 16352
+M 0 H 0
+S
+#16023
+in the foothills~
+~
+0 0 0
+D1
+~
+~
+~
+0 0 16024
+M 0 H 0
+S
+#16024
+in the foothills~
+~
+0 0 0
+D0
+~
+~
+~
+0 0 16025
+D3
+~
+~
+~
+0 0 16023
+M 0 H 0
+S
+#16025
+where the east fork meets the mountains~
+~
+0 0 0
+D2
+~
+~
+~
+0 0 16024
+M 0 H 0
+S
+#16026
+Great Discordia~
+The Great Discordia churns loudly southward.  The roar of the water is
+almost deafening.  On either side of the river are gentle, forest-covered
+hills rise, cutting off further inspection of the landscape.  To the north,
+in the distance you can see a great domed building.  Further yet, a set of
+snow-tipped peaks reaches skyward.  To the south the river wanders as it
+cuts out slices of the landscape.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16012
+D2
+~
+~
+~
+0 0 16028
+M 0 H 0
+S
+#16027
+A Dirt Road~
+Forest grows up around you, encroaching upon the road, which has become
+little more than an animal trail.  On each side of the road, trees and
+undergrowth fill every available inch, leaving no room for movement beyond
+the set path that runs in an east-west direction.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 16047
+M 0 H 0
+S
+#16028
+Great Discordia River~
+{rRed{x clay bluffs rise harshly on either side of the Great Discordia
+river.  There are no shores here to speak of.  The water has a {rred{x tint to
+it and is opaque.  There is no way of telling how deep it is or if there is
+a jagged rock just under the surface.  The river flows to the north and east
+here.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16026
+D1
+~
+~
+~
+0 0 16029
+D5
+~
+~
+~
+1 0 16255
+M 0 H 0
+S
+#16029
+On the Great Discordia~
+The Great Discordia continues to slice it's way through the great {rred{x
+cliffs.  It is wide and moves swiftly.  Here and there, giant boulders stick
+out of the water, which swirls around it.  Water birds rest atop the
+boulders, seeming amused at the effort expended by the sailors of the ships
+trying to navigate these waters.  
+~
+0 0 7
+D2
+~
+~
+~
+0 0 16030
+D3
+~
+~
+~
+0 0 16028
+M 0 H 0
+S
+#16030
+Discordia River~
+Looming rock and red clay bluffs rise dramatically from both sides of the
+river.  They are so high that you can't see what lies beyond their edge. 
+The water moves swiftly through Discordia Canyon, carved out over
+millenniums by the rushing waters.  High on the eastern cliff face is what
+appears to be a small, dark opening.  The river carries all traffic
+purposefully south here.  To the south the canyon opens into a vast sea. 
+There's a small outcropping of rocks to the west which are low enough that a
+person could dock there.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16029
+D2
+~
+~
+~
+0 0 16032
+D3
+~
+~
+~
+0 0 16240
+M 0 H 0
+S
+#16031
+On the River~
+The water here carries you past Dockside West, giving you a good view of the 
+various goings-on there.  Choppy water beats against the wood of the docks 
+to the east and provides a percussive counterpoint to the whistling wind.  
+The Western Discordia River accomodates several boats here, many laden with 
+goods and a few heading out for more.  Seagulls dart about, diving at you 
+occassionally in search of the food they KNOW you carry.  A river otter 
+peeks out from the choppy water, a fish in her jaws, and lies back to enjoy 
+her prize.  The western shore is lined with thick forest, and the faint 
+sounds of various birds fill the air.  
+~
+0 1081348 7
+D0
+~
+~
+~
+0 0 16054
+D2
+~
+~
+~
+0 0 16009
+M 0 H 0
+S
+#16032
+At the Mouth of the Great Discordia~
+The ships and boats that travel through the canyon on the Great Discordia
+are dwarfed by the enormous grey rock cliffs that form walls on either side.
+To the north, red clay is mixed with the rock on the cliff faces forming a
+motley pattern.  To the south the river spills out into the ocean.  
+~
+0 4 7
+D0
+~
+~
+~
+0 0 16030
+D2
+~
+~
+~
+0 0 16103
+M 0 H 0
+S
+#16033
+A Forest's Edge~
+You are at the edge of a thick forest.  To the west, the road disappears
+into the trees.  To the east the forest clears to a few random trees and a
+neglected road.  North of here is a large snow-capped mountain range.  One
+mountain stands as a giant over the rest.  The road here looks somewhat
+ragged with deep wagon ruts along the edges and a high grassy centre. 
+Occasional animal prints mix amongst those of adventurers and merchants.  
+~
+0 4 3
+D1
+A road meanders over gentle hills.  
+~
+~
+~
+0 0 16034
+D3
+You see a thick, dark forest.  
+~
+~
+~
+0 0 2184
+M 0 H 0
+S
+#16034
+A neglected Road~
+This part of the road meanders over gentle hills.  The grades are not too
+steep making this an excellent place for a pleasant stroll.  To the west the
+road disappears into a thick, fog-enshrouded forest.  Mount Baru can be seen
+looming above the rest of the mountain range to the north.  Another thick
+forest covers the hills to the south-east.  Tall grass ripples in waves on
+either side of the road.  
+~
+0 0 4
+D1
+~
+~
+~
+0 0 16035
+D3
+~
+~
+~
+0 0 16033
+M 0 H 0
+S
+#16035
+A Cross Road~
+The ragged road continues east-west here.  To the south, the road
+disappears into a thick grove of trees.  A field to the north is full of
+colorful wild flowers.  Vibrant blue corn flowers and brilliant red poppies
+create a bright, living tapestry.  Past the wild flowers looms the great
+snow-covered Wynton Peak which juts majestically over the rest of the
+northern mountain range.  The road continues west into a thick forest and
+east through more fields of wild flowers.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 16016
+D1
+~
+~
+~
+0 0 16036
+D2
+~
+~
+~
+0 0 16041
+D3
+~
+~
+~
+0 0 16034
+M 0 H 0
+S
+#16036
+A Ragged Road~
+The road roams leisurely over gentle, wild flower covered hills.  At the
+crest of one of the hills you can see a settlement to the northeast. 
+Bristly jewel-flower, King's clover, and rosy pussytoes scent the air
+magically.  To the south a thick forest swells from what appears to be a
+valley.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 15160
+D1
+~
+~
+~
+0 0 16037
+D3
+~
+~
+~
+0 0 16035
+M 0 H 0
+S
+#16037
+A Ragged Road~
+This is a rather straight and flat section of the road.  To the west it
+winds through rolling hills covered in brightly colored ground cover.  A
+curtain of mountains to the north run as far to the west as you can see. 
+They begin to curve southward to the east of you.  A river with several
+tributaries flows down from the mountains, meeting at a settlement to the
+east.  To the south an immense forest blocks the view of anything beyond
+it's reaches.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 16039
+D3
+~
+~
+~
+0 0 16036
+M 0 H 0
+S
+#16038
+A Dirt Road~
+The Northern Mountain Range dwindles as it winds its way south, and
+becomes mere hills directly to the east.  A dense forest that begins in the
+higher altitudes spreads lusciously across the northeast.  The roadway
+continues to the east and north.
+~
+0 0 2
+D0
+~
+~
+~
+0 0 16020
+D1
+~
+~
+~
+0 0 16066
+M 0 H 0
+S
+#16039
+On the Road to Cameria~
+The road here meets a mid-sized river.  The water is a pale green-grey
+which matches the clay along it's banks.  Across the river to the east is
+the base of an imposing mountain range which runs north south at this
+point.  To the north, the range curves to run east-west.  Looking up, it
+appears that ascending it would be very perilous.  On the south side of the
+road is the beginning of a deep dark forest.  The smell of pine drifts from
+that direction.  North, you can see the gates of some type of settlement.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 16040
+D3
+~
+~
+~
+0 0 16037
+M 0 H 0
+S
+#16040
+Near the Town of Cameria~
+A small, muddy road leads along a river's edge which snuggles up against
+the mountain range to the east.  Directly to the west of the road is a lush
+field of thick wild grass splashed with infrequent dots of colors from wild
+flowers.  What appears at first to be a small settlement lies directly to
+the north of you.  
+~
+0 0 2
+D2
+~
+~
+~
+0 0 16039
+M 0 H 0
+S
+#16041
+A Forest Road~
+A well-travelled road weaves between the trees of a light forest.  Most
+of the trees here are relatively small and there is plenty of space which
+hasn't been claimed by underbrush.  Deep ruts in the road suggest that many
+wagons have run the same path.  To the north you can see a crossroad with a
+rather neglected looking road.  Past the junction looms a snow-capped
+mountain range from which protrudes the glorious Mount Baru.  To the south,
+the road disappears into a denser forest.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 16035
+D2
+~
+~
+~
+0 0 16044
+M 0 H 0
+S
+#16042
+unused~
+The wide banks of the river here allow the current to flow violently
+twards the east, churning around large rocks.  To the west the river
+continues and some ruins can be seen in the distance.  To the east, the
+river appears to become even wider.  
+~
+0 4 7
+D1
+~
+~
+~
+0 0 16043
+M 0 H 0
+S
+#16043
+unused~
+The river merges here with a large ocean to the east.  The water is
+violently flowing around large jagged rocks as it dumps into the ocean.  The
+coastline continues to the north and south as far as you can see, yet is
+blocked by large trees that sit on top of jagged cliffs that plummet
+straight down to the water below.  
+~
+0 4 7
+D3
+~
+~
+~
+0 0 16042
+M 0 H 0
+S
+#16044
+A Forest Road~
+The road descends into a forest covered valley to the south here.  To the
+north, the trees clear and a striking view of Mount Baru can be seen.  The
+road is wide and well travelled.  Low hanging tree branches have been
+cleared from either side to allow the passage of wagons.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 16041
+D2
+~
+~
+~
+0 0 16045
+M 0 H 0
+S
+#16045
+North of a thick grove~
+The road winds through a thick forest.  Underbrush is beginning to claim 
+every bit of land between the towering trees.  It is dark and damp here.  
+Moss grows freely although it is obvious that some care is taken to keep the 
+road passable.  It is rather narrow in this section, allowing only one wagon 
+through at a time.  To the east the roadway appears more travelled, 
+continuing to wind its way through the surrounding woodland.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 16044
+D1
+~
+~
+~
+0 0 4334
+M 0 H 0
+S
+#16046
+Treble Road~
+The forest here is thick and there is a persistent chill.  The road
+appears to be well travelled but it isn't clear what destinations could be. 
+Nothing except thick forest is within view in any direction.  It is easy to
+feel lost here.  The moss on the side of the road is thick and deep green. 
+If it weren't so damp it would make a comfortable place to rest.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 16048
+M 0 H 0
+S
+#16047
+A Muddy Shore~
+The shore of the river, which was recently flooded out, is strewn with
+driftwood and dead branches.  The stench from the water is enough to
+convince you that it is tainted and unpalatable.  From the north, you hear a
+thunderous noise of rushing water, and you can see water spray above the
+highest branches of the trees to the north.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 16093
+D3
+~
+~
+~
+0 0 16027
+M 0 H 0
+S
+#16048
+Treble Road~
+The road slithers through the forest which threatens to swallow it.  Deep
+underbrush prohibits travelling off the road in any direction.  Thick tree
+branches hang overhead nearly cutting off all view of the sky.  Soft animal
+noises echo from all directions.  The road continues on its journey through
+the forest to the south and west.  
+~
+0 0 3
+D2
+~
+~
+~
+0 0 16049
+D3
+~
+~
+~
+0 0 16046
+M 0 H 0
+S
+#16049
+Road to Treble~
+The road runs through a heavily forested valley.  Fog hangs in the air
+making it impossible to see into the trees on either side of the road. 
+Everything is damp and chilly.  Above, you can hear what appear to be birds
+clicking in the trees.  Branches swish against each other, presumably when
+the animals above hop from one to another.  Occasionally, water falls in
+large droplets from the branches above.  A tall neat house with a plain
+wooden door sits tucked amongst trees to the west here.  
+~
+0 1 3
+D0
+~
+~
+~
+0 0 16048
+D3
+~
+~
+~
+4 5457 5445
+M 0 H 0
+S
+#16050
+Outside Treble~
+The forest is heavy but not oppressive here.  A light fog hangs in the
+air, giving everything an eerie quality.  To the west a large town is just
+visible through the trees.  Four towers rise the four corners of the out of
+the town.  To the east and south the forests thickens.  Forest animals seem
+to be unaware of the activity that is going on just to the west of you. 
+They graze contentedly and barely give you any notice.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 4355
+D3
+~
+~
+~
+0 0 5300
+M 0 H 0
+S
+#16051
+West Discordia Road~
+This is a well travelled east-west road.  To the east it cuts through some
+farmland.  The tiny farmhouses and barns are visible in the distance. 
+Farther to the east there is the busy city of Discordia.  To the south is a
+deep, thick forest.  It looks almost impenetrable in some places.  To the
+north a mountain range juts into the skyline.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 176
+D1
+~
+~
+~
+0 0 20090
+D3
+~
+~
+~
+0 0 16052
+M 0 H 0
+S
+#16052
+West Discordia Road~
+The road skirts around the northern edge of a great, misty forest.  The
+view to the south only penetrates a short distance.  Along the northern edge
+of the road is an abandoned wagon with a broken axle.  All the goods have
+been removed from the bed of the wagon.  To the north, a snow-capped
+mountain range creates a majestic skyline.  The fertile twin river valley
+lies to the northeast.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 16051
+D3
+~
+~
+~
+0 0 16053
+M 0 H 0
+S
+#16053
+West Discordia Road~
+The road wanders through some fairly steep foothills here and begins to
+cut through the outer edge of the forest.  To the north you can still see
+through the trees to the majestic mountains but to the south the forest is
+so thick you can see only a few wagon lengths through the tree.  The road is
+wide and well travelled here.  It continues east towards Discordia and turns
+a bit to the north.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 16056
+D1
+~
+~
+~
+0 0 16052
+M 0 H 0
+S
+#16054
+On the River~
+The water here carries you past Dockside West, giving you a good view of the 
+various goings-on there.  Choppy water beats against the wood of the docks 
+to the east and provides a percussive counterpoint to the whistling wind.  A 
+handful of boats float about, some with a load of goods heading into or out 
+of the city.  A fisherman is anchored in the middle of the river, trying his 
+luck.  The western shore is covered in forest, and you hear the cry of 
+seagulls to the south.  
+~
+0 1081348 7
+D2
+~
+~
+~
+0 0 16031
+D3
+~
+~
+~
+0 0 16063
+M 0 H 0
+S
+#16055
+Unused~
+This is a thick trail which travels roughly north-south through some
+foothills.  The hills themselves are rocky slopes.  Tufts of grass and small
+shrubs grow randomly over the faces of the hills.  From the top of the hill
+a walled-off residence can be seen in a valley to the north.  Just past the
+residence a mountain rises swiftly skyward.  To the east a wide river flows
+down from the mountain range.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 16073
+M 0 H 0
+S
+#16056
+West Discordia Road~
+The road is wide and smooth here.  It wanders through the northern edge
+of a forest at the base of a mountain range.  A thin trail leads off to the
+north and disappears over the top of one of the many foothills in this area.
+To the south the road cuts through a thickening forest.  To the west the
+forest is light and the base of the trees is padded with thick green moss. 
+Perfect for a nap.  
+~
+0 0 2
+D2
+~
+~
+~
+0 0 16053
+D3
+~
+~
+~
+0 0 16057
+M 0 H 0
+S
+#16057
+Western Discordia Road~
+The wide road cuts through the woods here.  The forest is thicker to the
+south than to the north.  The road itself is widely travelled.  Wagon tracks
+and horse dung mark it's dirt path.  Forest animals sneak peeks at the
+road's inhabitants.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 16056
+D2
+~
+~
+~
+0 0 16058
+M 0 H 0
+S
+#16058
+Western Road~
+Although the road is wide and maintained it has a cramped feeling.  It
+traverses a deep thick forest.  The air is damp and smells of decaying wood
+and moss.  Light filters only weakly through the trees giving this part of
+the road an eerie quality.  Far to the south the forest appears to open up
+some.  To the north it disappears over some steep foothills.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 16057
+D2
+~
+~
+~
+0 0 4319
+M 0 H 0
+S
+#16059
+Western Road~
+The road travels roughly north-south here.  The eastern edge of the road
+is defined by the tree line of a light forest.  A wide open plains stretches
+to the south and west.  To the north the dirt road travels through some farm
+land into a small town.  A well-maintained log cabin is directly to the west
+here.  
+~
+0 0 2
+D2
+~
+~
+~
+0 0 16060
+D3
+~
+~
+~
+4 16251 16251
+M 0 H 0
+S
+#16060
+Western Road~
+The road travels roughly north-south here.  The eastern edge of the road
+is defined by the tree line of a light forest.  A wide open plain stretches
+to the south and west.  To the southeast, you can make out a tower rising
+from beyond a thick grove.  There seems to be a small town to the north.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 16059
+D2
+~
+~
+~
+0 0 16068
+M 0 H 0
+S
+#16061
+Rough Road~
+This is a rough road with lots of ruts and rocks in it.  It would be a
+very uncomfortable ride in a wagon.  It leads through an open plains and
+curves to the west.  It appears to go on forever in that direction.  To the
+east it disappears into a large grove of trees.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 16068
+D3
+~
+~
+~
+0 0 16004
+M 0 H 0
+S
+#16062
+A Dirt Road~
+Though the forest is thin here, it encroaches on the road from lack of
+use.  Because of this, the road is little more than a forest trail.  To the
+east, you can see a bedraggled-looking city gate.  
+~
+0 4 3
+D3
+~
+~
+~
+0 0 16066
+M 0 H 0
+S
+#16063
+A Bend in the River~
+The river takes a turn here around a section of the city that juts out 
+toward the forest to the west.  You can see some of the darker alleys to the 
+east.  Occassionally, you can see a shadow moving into or out of an alley or 
+doorway.  The broken windows of the buildings seem to follow you like eyes.  
+The sounds of gulls echo from the south, and the water laps against the wood 
+of the docks.
+~
+0 1089540 0
+D0
+~
+~
+~
+0 0 16074
+D1
+~
+~
+~
+0 0 16054
+M 0 H 0
+S
+#16064
+Trail into the Forest~
+A narrow trail winds its erratic course through the trees here, working from 
+a cobbled road that is just visible to the north towards more dense woodland 
+to the east.  The grass here has been worn somewhat short, most likely due 
+to the activities of children from the northwards city.  Over the tops of 
+the trees to the northwest a massive structure is visible, being formed from 
+gold by the looks of it and temple-like in appearance.  
+~
+0 4 2
+D0
+~
+~
+~
+0 0 1551
+D1
+~
+~
+~
+0 0 16298
+M 0 H 0
+S
+#16065
+A Track Into The Forest~
+This road leads into a thick, cool forest.  Tall trees, covered with lichen 
+loom above you.  The air smells of pine, cedar and mold.  Huge mushrooms, 
+big enough for several meals, cling to the trunks of the trees.  The sound 
+of rushing water comes from the east.  A steady clicking noise fills the 
+air, the monotony of it driving home quickly with each tap, as if some 
+unseen creature was counting out each second, or perhaps your every breath.  
+An almost undetectable moaning sound accompanies the click, click, click, 
+neither of the sounds seem to echo but are ever present and eerie.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 10226
+D1
+~
+~
+~
+0 0 16297
+D3
+~
+~
+~
+0 0 16299
+M 0 H 0
+S
+#16066
+A Dirt Road~
+The Northern Mountain Range dwindles as it winds its way south, and
+becomes mere hills directly to the east.  A dense forest that begins in the
+higher altitudes spreads lusciously across the north.  To the east, the
+forest thins out, and you can see the faint outline of a city.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 16062
+D3
+~
+~
+~
+0 0 16038
+M 0 H 0
+S
+#16067
+On a Murky Bog~
+The air smells of decaying vegetation and skunk cabbage.  A thin mist
+hovers, just inches from the soft, wet ground.  To the west random birch
+trees grow from the nutrient rich muck.  The hooting of an owl slices the
+stagnant air at random intervals.  To the east a large body of water is
+visible, judging by its size it must be an ocean. 
+~
+0 0 4
+D1
+~
+~
+~
+0 0 20905
+D2
+~
+~
+~
+0 0 16003
+M 0 H 0
+S
+#16068
+Western Road~
+The eastern edge of the road is defined by the tree line here.  A thin
+trail leads off through the light grove to the east.  To the west is a wide
+open plains area.  Tall yellow grass ripples in the wind.  Far to the south
+a thick green area can be seen.  To the north, the road continues to follow
+its course leading to what appears to be a small town.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 16060
+D1
+~
+~
+~
+0 0 16069
+D3
+~
+~
+~
+0 0 16061
+M 0 H 0
+S
+#16069
+Before the Shadow Grove~
+A thin trail runs between the road to the west and an eerie, dark grove
+to the east.  Forest sounds echo around you and several sets of beady eyes
+can be seen staring at you from the forest.  The trail is narrow and
+unkempt.  The moss threatens to grow across it in several places.  
+~
+0 1 0
+D1
+~
+~
+~
+0 0 5702
+D3
+~
+~
+~
+0 0 16068
+M 0 H 0
+S
+#16070
+A poor hut~
+The following hut offers a true picture of poverty, with its bare wooden
+walls and strikingly scarce furnishing.  A pair of uninviting bed line the
+eastern wall, sticking into the small room, while a pathetic looking kitchen
+occupies the western wall.  A miniature fireplace serves both as a stove and
+as a heating device, situated at the western wall as well.  Otherwise, the
+room itself is kept clean and tidy, what must be an easy job - there are too
+few objects to form a real mess.  A small wooden door leads outside to a
+small garden down south.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 16076
+D2
+~
+~
+~
+1 0 16005
+M 0 H 0
+S
+#16071
+unused~
+This is the end of the road so far.  If continued south it would run into rainforest.
+~
+0 1081348 0
+M 0 H 0
+S
+#16072
+On a Rolling Hill~
+From the top of this gentle hill a vast plains is visible to the south. 
+A mountain range far to the north defines the northern visible boarder.  A
+rugged road has nearly been swallowed by the persistent prairie grass as it
+struggles it's way east and west.  In the valley at the bottom of the hill
+is the ruins of a once impressive castle.  
+~
+0 0 4
+D1
+The remains of a rugged road meanders through a rolling plains.  
+~
+~
+~
+0 0 16004
+D3
+You see the ruins of a once impressive town.  
+~
+~
+~
+0 0 3500
+M 0 H 0
+S
+#16073
+Unused~
+You are standing to the south of some large iron gates.  Looking beyond
+the gates is a walled courtyard containing a large town house, to the south
+of the house there is a fountain and a guardhouse.  The house is a large
+building made of large white stones with a red tiled roof.  You notice a
+large number of guard quietly patrolling the grounds.  
+~
+0 4 4
+D2
+~
+~
+~
+0 0 16055
+M 0 H 0
+S
+#16074
+Flowing Into Forest~
+The river flows to the border of Discordia City, which rises to the south in 
+stark contrast to the surrounding terrain.  Forest on either side lends a 
+peaceful atmosphere, and various birds call out to whomever will listen.  A 
+deer ambles out of the thick brush and stops to look at you, then lowers her 
+head to take a drink.  The snow-capped mountains are plainly visible to the 
+north.  A bridge stretches over the river high above and tree roots that 
+look very much like steps scale the bankside to allow the adventurous to 
+climb up to the town above.  At a distance over head a wooden bridge spans 
+the river, the aged planks of which are held in place by thick logs.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16081
+D2
+~
+~
+~
+0 0 16063
+D4
+~
+~
+~
+0 0 16075
+M 0 H 0
+S
+#16075
+A Narrow Bridge~
+Crystal clear mountain water flows beneath the narrow wooden bridge.  The
+river, which is little more than a stream here, gathers together various
+creeks and streamlets along its path to become the West Discordia River to
+the south.  Strong old growth logs hold the wooden bridge firmly in place
+above the rushing water.  The bridge leads east towards the outskirts of the
+town of Discordia and west towards a forested area.  
+~
+0 4 0
+D1
+~
+~
+~
+0 0 15072
+D3
+~
+~
+~
+0 0 16076
+D5
+~
+~
+~
+0 0 16074
+M 0 H 0
+S
+#16076
+A Country Path~
+The lane is a narrow path tufted with grass at the center and rutted from
+wagon wheels along the edges.  Long-grass meadow lands flank each side of
+the country trail, and a fresh breeze sends a fragrant aroma of wild flowers
+your way.  To the east you can see a mountain stream crossing, and
+westwards, the path continues.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 16075
+D2
+~
+~
+~
+1 0 16070
+D3
+~
+~
+~
+0 0 19300
+M 0 H 0
+S
+#16077
+A stone bridge~
+An ancient arched bridge crosses the East Discordia River here.  The
+bridge is simple and functional, expertly constructed of evenly cut granite.
+A short stone wall on each side of the bridge prevents the accidental
+precipitous fall of travelers into the icy mountain runoff.  The bridge
+leads west into TrystenVeldt and east to a wide dirt road.  
+~
+0 4 1
+D1
+East beyond the bridge, you see a country road wend its way through farmland.
+~
+~
+~
+0 0 16078
+D3
+To the west, there is a wide boulevard.
+~
+~
+~
+0 0 15076
+M 0 H 0
+S
+#16078
+Across the river~
+The road is broad and well travelled.  Farmlands with evenly tilled
+fields can be seen spreading across the highlands of the north, and down
+into the river valley to the south.  The road continues east and westwards. 
+~
+0 0 4
+D1
+~
+~
+~
+0 0 16017
+D3
+~
+~
+~
+0 0 16077
+M 0 H 0
+S
+#16079
+A hilly road~
+The road rises more and more steeply, with dips and rises occurring
+frequently along the way.  Occasionally, a hovel can be seen in the
+distance, a thin wisp of smoke rising from makeshift chimneys.  Prosperity
+appears to be an unknown term in this part of the countryside.  The road
+rises to the north, and falls to the south.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 16002
+D2
+~
+~
+~
+0 0 16001
+M 0 H 0
+S
+#16080
+By the River's Edge~
+You stand on the muddy shore of the Camerian River, swollen beyond its
+normal boundaries, and extending almost to the city wall.  There is a shady
+forest, thick with ancient growth to the north and the Camerian city wall is
+south.  
+~
+0 4 0
+D1
+~
+~
+~
+0 0 16082
+M 0 H 0
+S
+#16081
+Flowing Through Forest~
+The current picks up a bit here as the river narrows.  The forest and its 
+sounds are closer and more insistent.  The breeze carries the subtle scent 
+of pine mixed with an unidentifiable earthy aroma.  An otter emerges from 
+the water and climbs up onto the bank, shaking off the water and turning to 
+look at you as you pass.  The snow-capped mountains are plainly visible to 
+the north.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16095
+D2
+~
+~
+~
+0 0 16074
+M 0 H 0
+S
+#16082
+On The River~
+The river's current flows eastwards, and spreads outward like a fan.  To
+the west, the grey, silent ruins of Cameria are almost ghostly in their
+quietude.  The river continues off to the south.  
+~
+0 1 7
+D0
+~
+~
+~
+0 0 16083
+D3
+~
+~
+~
+0 0 16080
+M 0 H 0
+S
+#16083
+Along the River~
+The harsh river floods have washed out the land on either shore.  The
+water itself is muddy, and smells of rotting animal flesh.  Bloated
+carcasses float by occasionally, leaving little taste for the water that
+surrounds you.  
+~
+0 1 7
+D0
+~
+~
+~
+0 0 16084
+D2
+~
+~
+~
+0 0 16082
+M 0 H 0
+S
+#16084
+Along the River~
+The harsh river floods have washed out the land on either shore.  The
+river water is muddy and smells of rotting carcasses that water itself is
+muddy, and smells of rotting animal flesh.  Bloated carcasses float by
+occasionally, leaving little taste for the water that surrounds you.  
+~
+0 1 7
+D0
+~
+~
+~
+0 0 16093
+D1
+~
+~
+~
+0 0 16085
+D2
+~
+~
+~
+0 0 16083
+M 0 H 0
+S
+#16085
+The Eastern Shore~
+Waves from the Camerian river lick the muddy path leaving the shore. 
+Water lilies float serenely amongst the water reeds growing to just below
+the surface of the engorged river.  A muddy trail leads north, and the river
+is west.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 16086
+D3
+~
+~
+~
+0 0 16084
+M 0 H 0
+S
+#16086
+Along the Eastern Shore~
+The trail follows the eastern shore of the Camerian River, in a north and
+south direction.  To the west, water lilies float serenely on the river
+surface and nearby, you can hear the cheerful chorus of bullfrogs croaking
+their songs.  The trail turns east, towards dry land, and south along the
+shore.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 16087
+D2
+~
+~
+~
+0 0 16085
+M 0 H 0
+S
+#16087
+Eastern Plains~
+The land is monotonously flat, a basin-like plain spreading eastwards
+towards a distant mountain range.  The path through the grassy plains is
+hard baked clay, that looks like it could turn into sticky muck following a
+quick downpour.  The path continues east and west.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 16088
+D3
+~
+~
+~
+0 0 16086
+M 0 H 0
+S
+#16088
+The Eastern Plains~
+The land is monotonously flat here, a basin-like plain spreading
+eastwards and rising gradually northwards.  The path is hard baked clay,
+looking like it could turn into sticky much following a quick downpour.  The
+path rises northward.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 16089
+D3
+~
+~
+~
+0 0 16087
+M 0 H 0
+S
+#16089
+Highland Plains~
+The path follows a ridge, up a gradual incline.  Flowering shrubs border
+the path on each side, and birds wing overhead.  A wind breezes down from
+the eastern peaks, lightly nipping your skin with a touch of frost.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 16090
+D2
+~
+~
+~
+0 0 16088
+M 0 H 0
+S
+#16090
+Highland Plains~
+The path follows a ridge, up a gradual incline.  Flowering shrubs border
+the path on each side, and birds wing overhead.  A wind breezes down from
+the eastern peaks, lightly nipping your skin with a touch of frost.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 16091
+D2
+~
+~
+~
+0 0 16089
+M 0 H 0
+S
+#16091
+A Foothill Trail~
+The trail continues through the foothills.  Deep wagon ruts lead in both
+directions, trampled in places by animal tracks and pedestrian travelers. 
+There is a high mountain looming to the east.  
+~
+0 1 4
+D1
+~
+~
+~
+0 0 16092
+D3
+~
+~
+~
+0 0 16090
+M 0 H 0
+S
+#16092
+A Foothill Trail~
+The trail is narrow and well worn.  Footprints of animals, large and
+small, and the deep wagon ruts leading in both directions are evidence that
+the trail is likely the easiest passage through the foothills.  Eastwards,
+you can see a mountain, and a tall structure set into its face.  
+~
+0 5 4
+D1
+~
+~
+~
+0 0 18800
+D3
+~
+~
+~
+0 0 16091
+M 0 H 0
+S
+#16093
+Up the River~
+Floods have washed out the land on either shore.  The water itself is
+muddy, and smells of rotting animal flesh.  Bloated carcasses float by
+occasionally, leaving little taste for the water that surrounds you.  
+~
+0 1 7
+D0
+~
+~
+~
+0 0 16094
+D2
+~
+~
+~
+0 0 16084
+D3
+~
+~
+~
+0 0 16047
+M 0 H 0
+S
+#16094
+A Waterfall~
+The loud roar of a waterfall, pounding into the river, overwhelms our
+senses.  The spray shoots from the surface, causing a rainbow to form just
+over your head.  Huge boulders have fallen from the cliff-face, dislodged by
+the pounding water, and now form walls of rock around the water.  If you
+look very closely through the rushing water, you can see what looks like an
+opening in the rocks.  
+~
+0 1 7
+D0
+~
+~
+~
+0 0 19251
+D2
+~
+~
+~
+0 0 16093
+M 0 H 0
+S
+#16095
+A Turn in the Current~
+The river curves like a snake in its southward-flowing path.  The current
+takes on a stronger flow as it winds around boulders and sends spray into
+the air.  Shallow spots near the bank reveal fish and the occassional
+something larger.  Reeds grow out of the silt and sway gently with the
+breeze.  A large rock can be seen to the east. 
+~
+0 0 7
+D1
+~
+~
+~
+0 0 16006
+D2
+~
+~
+~
+0 0 16081
+D3
+~
+~
+~
+0 0 16096
+M 0 H 0
+S
+#16096
+A Turn in the Current~
+The river curves like a snake in its southward-flowing path.  A large 
+boulder stands watch from the shallows near the bank, and a heron wades into 
+the water looking for a quick meal.  A steady and cool breeze blows from the 
+north, carrying the scent of evergreens and the electric tingle of swift 
+current.  The snow-capped mountains are plainly visible to the north.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16097
+D1
+~
+~
+~
+0 0 16095
+M 0 H 0
+S
+#16097
+A Turn in the Current~
+The river curves like a snake in its southward-flowing path.  Reeds and 
+cattails grow from the silt-covered clay along the banks.  Algae-covered 
+rocks can be seen beneath the surface through the slightly muddy water.  A 
+cool and steady breeze blows from the north, carrying the scent of 
+evergreens and the electric tingle of swift current.  The snow-capped 
+mountains are plainly visible to the north.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 16098
+D2
+~
+~
+~
+0 0 16096
+M 0 H 0
+S
+#16098
+The Rushing Rapids~
+Large boulders rise from the water and redirect the current in frothing 
+rapids toward the southwest.  A shallow pool lies still to the west, 
+separated from the current by several smooth stones.  Swarms of insects take 
+advantage of the stillness of the pool and play across its surface.  A tall 
+cascade can be seen to the north, and the snow-capped mountains are visible 
+above it.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16099
+D2
+~
+~
+~
+0 0 16097
+M 0 H 0
+S
+#16099
+A Misty Cascade~
+Water slides down a steep embankment that blocks any further view to the 
+north, throwing a perpetual mist into the air around you.  The centuries 
+have worn smooth the stone underneath.  The trees give way to the rocky 
+hillside, though an occassional sapling struggles for life on the slope.  
+Several types of {mf{rl{co{xw{ye{mr{x peek out of the mist beside the water, mingling with 
+multi-hued {gmoss{x and lending a sweet overtone to the damp air.  The river 
+continues on its way south.  
+~
+0 0 7
+D2
+~
+~
+~
+0 0 16098
+D4
+~
+~
+~
+0 0 16121
+M 0 H 0
+S
+#16100
+In the Lee of a Cliff~
+The blue waters of the ocean stretch away to the south, the waves of
+which collide with the cliff that forms a barrier to both the north and
+west.  The steady lapping at the rock is a testament of the attempt of the
+water to claim the land, and its effects are starting to become apparent
+with the shelf that is now carved into the rock face.  Several boats, of
+merchant and naval nature both, can be seen travelling over the steady
+waves. 
+~
+0 0 7
+D1
+~
+~
+~
+0 0 16103
+D2
+~
+~
+~
+0 0 16301
+M 0 H 0
+S
+#16101
+Near the Coastline~
+The repeated booming sound caused as waves slap against the unyielding
+stone of the northwestern cliffs brings forth a siphon of noise which all
+but drowns out the songs of the sea birds calling to each other.  To the
+south and east the sea seems considerably safer, the waters softly lapping
+upon each other without a hint of the deadly rocks that line the base of
+these cliffs.  Upon the zenith of the cliffs a green smudge can be seen,
+which one would guess are either trees or grass though at this distance it
+is impossible to tell. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16300
+D1
+~
+~
+~
+0 0 16104
+D2
+~
+~
+~
+0 0 16314
+D3
+~
+~
+~
+0 0 16353
+D5
+~
+~
+~
+0 0 16358
+M 0 H 0
+S
+#16102
+The Docks of Tortuguero~
+A thick jungle hides away a small town to the north from behind an
+expanse of golden sand.  Far to the north, above the dense growth, a
+mountain with ribbons of black smoke rising from it can be seen clearly.  A
+wooden structure connects the water and the land, serving as the port of
+Tortuguero.  Birds circle overhead, reading to snag a fish from the sea or
+steal some food from the sailors that come and go.  A small road leads from
+this jetty to the west, providing an entrance to Tortuguero. The blue water
+that comprises the temperamental ocean continues on with no sign of ending
+to the east. 
+~
+0 0 7
+D1
+~
+~
+~
+0 0 16317
+M 0 H 0
+S
+#16103
+South of the Great Discordia~
+The great ocean stretches as far to the south as you can see and appears
+to fall off the end of the world.  The water is deep blue in most places. 
+To the west it appears to be opaque and the color is difficult to define,
+being somewhere between blue and green.  Random ships dot the waters here
+and there.  Rocky cliffs define the northern edge of the sea.  The waves
+slam violently into them creating spray the reaches nearly to the top. The
+water hugs a cliffside to the west and seems passable.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16032
+D1
+~
+~
+~
+0 0 16106
+D2
+~
+~
+~
+0 0 16302
+D3
+~
+~
+~
+0 0 16100
+D5
+~
+~
+~
+0 0 16354
+M 0 H 0
+S
+#16104
+Sea of Neru~
+The gentle lapping of the waves holds a relaxing quality, lulling to
+one's senses with its continuous actions and unhurried motions.  Small
+shapes wheel high overhead and judging by the sounds of their faint calls,
+they must be sea gulls though it is unusual for one to descend so that
+anyone upon this stretch of water can truly perceive one to be certain. 
+Seawater can be seen in all directions, seeming one continuous body of fluid
+that is only occasionally broken by a dark shape on the horizon. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16301
+D1
+~
+~
+~
+0 0 16105
+D2
+~
+~
+~
+0 0 16313
+D3
+~
+~
+~
+0 0 16101
+D5
+~
+~
+~
+0 0 16359
+M 0 H 0
+S
+#16105
+Sea of Neru~
+The rolling sea stretches off in all directions, its blue-green surface
+looking serene and unalterable.  The scent of the ocean continually drifts
+upwards from the body of water, inescapable from this position upon it and
+forcing a salty tang to fill the lungs and coat one's flesh.  Dark masses
+line the horizons, whether this is an optical illusion or something is truly
+present can not really be determined at this point. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16302
+D1
+~
+~
+~
+0 0 16108
+D2
+~
+~
+~
+0 0 16312
+D3
+~
+~
+~
+0 0 16104
+M 0 H 0
+S
+#16106
+In the Lee of a Cliff~
+Random ships dot the seawater here and there, some of which are merchant
+ships travelling between ports to trade for riches.  The great sea extends
+to the west and south without an apparent end, the water holding a tinge of
+blue in its briny depths.  The water is slightly muddy here from the silt of
+the Great Discordia, the mineral-rich soil helping a profusion of kelp to
+grow here.  Rocky cliffs define the northern edge of the ocean here, looking
+quite dangerous in their own right.  On a large outcropping, a tall round
+building that streams with light can be seen, to help guide the sailors to
+land. 
+~
+0 0 7
+D2
+~
+~
+~
+0 0 16303
+D3
+~
+~
+~
+0 0 16103
+M 0 H 0
+S
+#16107
+Along the Coast~
+A river at the east dumps into the sea here, stirring silt into the
+otherwise clear waters.  Scarlet pimpernels grow freely on the shoreline to
+the north, amidst the sandy soil and driftwood.  The ocean opens up to the
+west and south from here, becoming more treacherous with the ill-famed rip
+tides and sea serpents that are well known to litter the great waters.  A
+gentle spray is produced by the waves lapping against each other, the sound
+from this almost relaxing. 
+~
+0 0 7
+D1
+~
+~
+~
+0 0 16021
+D2
+~
+~
+~
+0 0 16304
+D3
+~
+~
+~
+0 0 16303
+M 0 H 0
+S
+#16108
+Sea of Neru~
+The constant slosh, slosh, slosh of the ocean here sounds almost like a
+lullaby to one's ears, continuing as the waves rise and then tumble softly
+back onto themselves over and over.  The water possesses a blue tint,
+somewhat reminiscent of a summer's sky in color, which also adds to the
+serene feel of this area.  Only the aroma of the salt water dispels any
+feelings of peace, along with the occasional cry of a distant sea bird. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16303
+D1
+~
+~
+~
+0 0 16304
+D2
+~
+~
+~
+0 0 16309
+D3
+~
+~
+~
+0 0 16105
+M 0 H 0
+S
+#16109
+A Swampy Shore~
+The river shore is low lying and swampy.  An odour of sulphur and rotting
+detritus rises from the thick, oozing mud.  To the east, the Great Discordia
+River flows southwards, and beyond, you can make out the cliffs of the
+eastern shore.  To the west, Cypress trees, covered in mossy growth, rise
+out of the water, casting strangely shaped silhouettes against the sky.  The
+ground, which rises slightly to the south, appears to be forming a path.  
+~
+0 1 3
+D1
+~
+~
+~
+0 0 16011
+D2
+~
+~
+~
+0 0 16110
+M 0 H 0
+S
+#16110
+A Muddy Path~
+The croaking and chirrups of miscellaneous small swamp creatures echo
+around you.  On each side of the path, scummy pools of stagnant water spread
+as far as the eye can see.  Human-form stumps of trees and Cypress knees
+breaking through the pools, are almost threatening in their formation.  The
+path continues westwards and northwards.  
+~
+0 1 3
+D0
+~
+~
+~
+0 0 16109
+M 0 H 0
+S
+#16111
+A Fog Enshrouded Trail~
+Mists swirl about your feet, rising and falling with the undulations of
+the trail.  Forest birds flutter between branches above your head, but they
+are oddly quiet and secretive in their flight.  To the east, the path drops
+into swampland.  The trees to the west open onto a fog enshrouded path.  
+~
+0 5 3
+D3
+~
+~
+~
+0 0 16112
+M 0 H 0
+S
+#16112
+A Fog Enshrouded Trail~
+Your feet disappear below your knees.  They are completely enshrouded in
+fog.  The trail itself is uneven, and shallow tree roots seem to reach out
+to trap you into a fall.  The trail, bounded on each side by thick forest,
+turns northwards and eastwards.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 16113
+D1
+~
+~
+~
+0 0 16111
+M 0 H 0
+S
+#16113
+A Misty Trail~
+Mists flow in river-like currents along the trail and through the forest.
+Your passage sends swirling eddies of misty droplets about your knees,
+causing your clothing to feel damp and cold against your skin.  The trail
+continues to the west and south.  
+~
+0 5 3
+D2
+~
+~
+~
+0 0 16112
+M 0 H 0
+S
+#16114
+Sinking in Warm Water~
+The strong undertow drags you down into the depths.  The water is clear
+and comfortingly warm.  When you finally give up trying to hold your breath
+and resign yourself to certain death you find that you are magically able to
+breath, despite the fact that you are seemingly surrounded with water.  
+~
+0 8 0
+D5
+~
+~
+~
+0 0 16115
+M 0 H 0
+S
+#16115
+Further into the Depths~
+Schools of brightly colored fish dart past you during your gentle
+descent.  Looking down, the bottom is clearly visible.  It is covered in
+glittering white sand.  Unbelievably, through the water it almost appears
+that a small city exists on the bottom.  You catch a glimpse of a
+fantastical creature that appears to be part fish and part tervadi.  
+~
+0 8 0
+D4
+~
+~
+~
+0 0 16114
+D5
+~
+~
+~
+0 0 1000
+M 0 H 0
+S
+#16116
+Amongst Rolling Foothills~
+A small path disappears into a thicket to the south and is lost within
+the curves of gentle hills to the north.  The hills get gradually larger to
+the north, reaching a crescendo in a looming mountain range which lies
+across the landscape like the backbone of a massive dragon.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 16117
+M 0 H 0
+S
+#16117
+Overgrown Path~
+The remnants of a path follow the curves of one of the foothills which
+are gathered at the base of the great mountain range to the north.  To the
+south, the size of the hills diminish, giving way to forested flat-lands. 
+The path gets a bit broader and more defined in that direction.  
+~
+0 0 4
+D2
+~
+~
+~
+0 0 16116
+D3
+~
+~
+~
+0 0 16118
+M 0 H 0
+S
+#16118
+Base of the Dragon's Spine~
+An impressive range of mountains jut upward here to the north and span
+the entire horizon.  A hint of a trail snakes up the side and disappears in
+a crevasse.  To the south, the rolling foothills diminish gradually to
+eventually greet a forest.  
+~
+0 0 5
+D0
+~
+~
+~
+0 0 16119
+D1
+~
+~
+~
+0 0 16117
+M 0 H 0
+S
+#16119
+A Craggy Mountain Face~
+Jagged rocks make up the stark face of one of the mountains in the long
+east-west range which blocks your view of any landscape past their stern
+curtain.  A light trail seems to lead up, into a deep, vertical crevasse,
+and south, through the foothills.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 16118
+D4
+~
+~
+~
+0 0 16120
+M 0 H 0
+S
+#16120
+In a deep crevasse~
+A gigantic split in the granite, which makes this towering mountain, is
+wide enough for several humanoids to travel abreast, just above ground
+level.  The walls of the fissure are rough and sparkle with tiny flecks of
+mica.  At the fissure opening a faint trail leads through rolling foothills.
+Deep inside the fissure you can hear the sounds of some sort of living
+beings.  
+~
+0 9 0
+D5
+~
+~
+~
+0 0 16119
+M 0 H 0
+S
+#16121
+Overlooking a Cascade~
+The river roars over a steep slope, sending a thick mist into the air around 
+you.  A {Rr{ya{gi{cn{Bb{mo{rw{x seems to phase in and out of existence in front of you as 
+you gaze at the view of the forest below you.  A city can be seen far to the 
+south, and beyond that the sea opens into the horizon.  To the north, the 
+river tumbles from a greater height, and the snow-capped mountains can be 
+seen above.  Pine forest lines both sides of the river, and the heady scent 
+blends with the mist to create an invigorating atmosphere.  Boulders large 
+and small dot the river and create a musical turbulence in the current.  
+~
+0 0 7
+D3
+~
+~
+~
+0 0 16122
+D5
+~
+~
+~
+0 0 16099
+M 0 H 0
+S
+#16122
+A Treacherous Turn~
+The river slams into a sheer stone wall to the south, as if a large chunk of 
+the mountain were sliced out by an enormous blade.  More large boulders 
+stand nearby, churning the current even more.  The roar of the water is 
+almost deafening, from this white-water bend and from the enormous cascade 
+seen to the north.  The pine trees thin out toward the cascade, and the 
+temperature is noticeably cooler here.  Snow-capped mountains loom to the 
+north, silent white sentinels watching all below with an unblinking gaze.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16123
+D1
+~
+~
+~
+0 0 16121
+M 0 H 0
+S
+#16123
+Before an Enormous Cascade~
+The roar of the cascade drowns out all thought and echoes through the
+thick mist lingering around the stone and trees.  The descending water
+carries a chilling breeze from the heights.  A large bear stands in the
+water, intently focused on snaring an elusive fish.  The slope rises high
+above, the gray marred only by the occassionaly lichen, and the river
+continues on its southward path. 
+~
+0 0 7
+D2
+~
+~
+~
+0 0 16122
+D4
+~
+~
+~
+0 0 16124
+M 0 H 0
+S
+#16124
+A Wide Ledge~
+The stone levels out here to form a ledge wide enough to accomodate
+several people.  A few stunted trees grow from the rocks and sway with the
+constant wind dropping with the water from above you.  A shallow pool opens
+under the flow of the downward current, and several small fish fight the
+turbulence to scour the bottom of the pool for scraps of food.  The wet
+slope extends above and below from here. 
+~
+0 0 7
+D4
+~
+~
+~
+0 0 16125
+D5
+~
+~
+~
+0 0 16123
+M 0 H 0
+S
+#16125
+Above a Towering Cascade~
+The cold river flows from its northern mountain source, intensified by
+snowmelt from either side.  Spruce and pine trees stand watch, sheltering
+small wintergreen plants in their shadows.  A raptor's call echoes around
+you in contrast to the roar of the current. The river drops off of a sheer
+cliff, flowing down to a ledge partially hidden by mist.  Two large rock
+outcroppings interrupt the downward flow, with patches of dull green moss
+growing on top of them.  Small saplings erupt from the mountainside below. 
+In the distance, signs of civilization can be detected, and the river joins
+with the vast expanse of sea beyond that.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16126
+D5
+~
+~
+~
+0 0 16124
+M 0 H 0
+S
+#16126
+An Icy Junction~
+The current pushes from the east, widening considerably as it is fed by
+three small snowmelt rivulets from the north.  The joining of waters creates
+a white-water turbulence, further churned by multiple gray stones that sit
+in the riverbed.  Short spruce and pine trees line the river, decorated with
+tiny icicles and sprinklings of snow.  A roar can be heard to the south,
+indicating a waterfall of considerable size. 
+~
+0 0 7
+D1
+~
+~
+~
+0 0 16127
+D2
+~
+~
+~
+0 0 16125
+M 0 H 0
+S
+#16127
+A Short Waterfall~
+A sharp bend in the current coincides with a small drop, only a few feet
+down.  A small spring bubbles to the south near the fall, adding to its
+flow, aided by snowmelt from the north.  Dwarf spruce trees line the water
+on either side, and small wintergreen plants sprout among them.  The current
+flows westward from the fall, and a roar can be heard over the current from
+that direction.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16128
+D3
+~
+~
+~
+0 0 16126
+M 0 H 0
+S
+#16128
+Growing Creek~
+The creek flowing from the north is met by several rivulets of snowmelt
+that widen it and intensify its flow.  Dwarf trees huddle close to the
+ground, just thick enough to bar movement to the east or west.  A
+high-flying raptor circles overhead, searching for evasive prey. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16129
+D2
+~
+~
+~
+0 0 16127
+M 0 H 0
+S
+#16129
+Snowy Serenity~
+A chilly peace rests upon the land.  Powdery white snow blankets the
+ground, leaving only a few gray stones visible.  A large spring bubbles
+forth pristine water that flows south, down the mountainside.  Small trees
+dwarfed by the cold and altitude tenaciously cling to a barren existence. 
+The mountain peak rises above you to the north, shrouded in perpetual fog. 
+~
+0 0 5
+D2
+~
+~
+~
+0 0 16128
+M 0 H 0
+S
+#16240
+Small Outcropping~
+The hard red rock of this small outcropping has been smoothed down into a
+beach of sorts over hundreds of years.  The river laps gently at the sides
+of the stone to the north, east and south, while a large cliff stands like a
+tall guard to the west.  The cliff face seems to have small hand and foot
+holes that look to be part of the rock, but are spaced to perfectly to be
+natural.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 16030
+D4
+~
+~
+~
+0 0 16241
+M 0 H 0
+S
+#16241
+Climbing a Cliff Face~
+The hard red rock of the cliff you are climbing looks to be never-ending
+in either direction you look.  Far below you, you can see the might
+Discordia river rushing past the cliff, while high above you all you can see
+is sky.  The hand and foot holds you currently clutch to give you no
+indication in which direction you should continue.  A strange and horrible
+howling can be heard falling over the cliff's top down toward you like some
+terrible soul is cursed and warning you that you could be as well if you
+join it.  
+~
+0 0 5
+D5
+~
+~
+~
+0 0 16240
+M 0 H 0
+S
+#16242
+The Cameria River~
+The wide Cameria River seems to barely be moving toward the mouth to the
+south.  Its colour is an odd brownish-green from all the silt and materials
+that are suspended in the water, soon to be dumped free from their lazy
+travel down the river.  Large bogs frame the river to the east and west,
+though the more north you look, the more solid the ground seems to become.  
+~
+0 4 7
+E
+sign~
+The sign swings freely in even the slightest breeze, painted upon both
+faces of the sign is a picture of a wolves head impaled upon a fire hardened
+wooden stake.  Beneath this written in the common script is the legend "The
+Slaughtered Lamb".  
+~
+D0
+~
+~
+~
+0 0 16243
+D2
+~
+~
+~
+0 0 16021
+M 0 H 0
+S
+#16243
+The Cameria River~
+The great river widens impressively here, turning more into a lake than a
+river.  Small waves ripple over the surface of the silt-filled water,
+breaking any mirror-like effects there might have been.  In the distance to
+the east and west are the banks of the river, which are gradually turning
+into great rock cliffs covered in thick lush forests.  The banks look
+impossible to climb at this point, and off to the north you can see a break
+in the forest that looks to be an opening for the river.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16244
+D2
+~
+~
+~
+0 0 16242
+M 0 H 0
+S
+#16244
+The Cameria River~
+Fast flowing water pours out from between two steep and jagged rock
+cliffs on the east and west of the river.  The quick-paced water hits the
+large lake-section of the river and suddenly drops its load of large pebbles
+here, creating shallow sand-bar effects beneath the surface here.  High
+above, tall trees tower above the cliffs, almost seeming to bend over,
+looming down on you.  The water to the north looks far more difficult to
+navigate than it currently is here.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16245
+D2
+~
+~
+~
+0 0 16243
+M 0 H 0
+S
+#16245
+The Cameria River~
+Water bubbles and churns around you as it quickly rushes past boulders
+and trapped fallen logs on its journey south.  Steep cliffs reach skyward on
+the east and west of you, giving no place to stop and rest.  A loud roaring
+sound can be heard echoing down the narrow gorge from the north, while
+looking south, you can see a great opening showing just sky and water.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16246
+D2
+~
+~
+~
+0 0 16244
+M 0 H 0
+S
+#16246
+The Cameria River~
+A towering wall of water comes rushing down from its high cliff starting
+point down towards you.  The roaring sound created by this waterfall pounds
+in your ears as it echoes off the slick rock walls surrounding you.  You
+notice a small formation of rocks along the eastern wall of the cliff that
+creates a shallow pool of water where you could safely leave the water. 
+Looking up from the water, you see what looks like a steep foot path that
+has yet to be fully packed down by travel.  
+~
+0 0 7
+D1
+~
+~
+~
+0 0 16259
+D2
+~
+~
+~
+0 0 16245
+D4
+~
+~
+~
+0 0 16247
+M 0 H 0
+S
+#16247
+A narrow Footpath Along the Cameria River~
+The dirt along this path is wet and slick, giving you poor footing as you
+try and navigate it.  Luckily, there are many trees which offer hand holds,
+and these trees roots try to create natural steps to make this journey
+easier.  Looking down, you can see the raging waters where the waterfall
+smashes into ground to continue its journey downstream to the south.  You
+realise that there is nothing but yourself preventing you from falling into
+that water to the west.  The top of the cliff is only a short climb up,
+whereas down you can see a calm pool of water sheltered by algae-covered
+rocks.  
+~
+0 0 5
+D4
+~
+~
+~
+0 0 16258
+D5
+~
+~
+~
+0 0 16246
+M 0 H 0
+S
+#16248
+The Large House~
+You have entered the large house belonging to the Lieutenant of the
+King's Guard in Tortuguero.  This elegant house is larger than average, but
+still pales in comparison to the Tortuguero mansion.  In this foyer, the
+ceiling is high.  On one wall is a large table designed with the purpose of
+dining in mind.  It is made of a blood red mahogany, and has four very
+stable legs.  On the north wall lies a large ornate fireplace.  The red
+stones of the fireplace are quite clean, the ashes long since swept away by
+passing breezes, and you can tell that the fireplace has not been used in
+quite a long time.  On the west wall lies a door which leads into the
+personal chambers of the inhabitant.  
+~
+0 1048584 0
+E
+large~
+These seem to be bones mainly of large animals but some maybe human or
+from other racers.  
+~
+E
+white~
+These seem to be bones mainly of large animals but some maybe human or
+from other racers.  
+~
+D3
+~
+~
+~
+1 0 16249
+M 0 H 0
+S
+#16249
+A {BPrivate Bedroom~
+You have entered the private chamber of the Tortuguero lieutenant.  In
+the center of the room here is a large canopy bed.  The bed itself takes up
+about half of the room.  On the wall is a large wardrobe, within which lies
+an unusually small mirror.  The room is actually quite dark, and you realize
+that you didn't notice any windows in the main room of the house either. 
+The foyer lies back to the west.  
+~
+0 34603016 0
+E
+large~
+These seem to be bones mainly of large animals but some maybe human or
+from other racers.  
+~
+E
+white~
+These seem to be bones mainly of large animals but some maybe human or
+from other racers.  
+~
+D1
+~
+~
+~
+1 0 16248
+M 0 H 0
+S
+#16250
+A Boarded Cellar~
+Wooden boards cover the walls that must be made of packed earth.  A hatch
+set into the roof appears to be the only exit from this room.  Looking
+around you see a fair selection of torture devices.  A large rack sits in
+the center of this room, oiled and only missing a victim for it to be used
+on.  Hooks and rings have been set into the rafters of what must be the room
+above.  A brazier stands cold in the western corner, ready to be lit for
+use.  Racking and tables set against the eastern wall hold all manner of
+whips, flails, knives and pincers for the use of causing pain.   
+~
+0 1048584 0
+D4
+~
+~
+~
+1 0 16251
+M 0 H 0
+S
+#16251
+Inside a Log Cabin~
+Warmed throughout by a large stone fire place set into the northern most
+wall of this spacious log cabin single room seems comfortable enough.  A
+large carved wooden bed stands in the south western corner, while a table
+and chairs sit in the center of the room.  Dyed, woven rush rugs cover the
+the polished wooden floor.  A royal seal over the mantle shows this to be a
+home owned by the crown.  No windows are set into any of the walls.  Pots
+and pans for cooking hang over the fire, but seem not have have been used in
+some time, to say the least.  A heavy wooden door to the east seems to be
+the exit.  
+~
+0 1048584 0
+E
+hatch~
+There is a heavy wooden hatch hidden under the rugs in the floor here.  
+~
+E
+rugs~
+Looking closely at these rugs you notice that there seems to be a hatch
+hiden under them.  
+~
+E
+bed~
+Well crafted from dark stained hard woods and craved with an intricate
+knot work design this bed looks both comfortable and inviting.  
+~
+E
+bones~
+~
+D1
+~
+~
+~
+4 16251 16059
+D5
+~
+hatch~
+~
+1 0 16250
+M 0 H 0
+S
+#16252
+The Waiting Room~
+A large, cold, impersonal room surrounds you, designed to make you feel
+small and insignificant.  The floor spreads our beneath you like a mirror of
+black, reflecting the dim blue lighting that is sparsely spaced along the
+walls.  The walls themselves seem to be made of perfectly smooth and
+seamless metal, though not polished to a shine.  Along the northern and
+southern walls are small black leather sofas and chairs, set up like a
+waiting line to something you are unsure of.  Set in the eastern wall is a
+shiny black door, made of something smooth, cold and heavy to the touch. 
+Looking up, all you can see is blackness, and you can't tell where the
+ceiling really is, or even if there is one at all.  You notice there are
+absolutely no windows anywhere, or any type of decoration.  
+~
+0 1056776 0
+D1
+~
+~
+~
+4 16253 16253
+D3
+~
+~
+~
+4 16252 10246
+M 0 H 0
+S
+#16253
+The Meeting Room~
+The floor spreads out beneath you like perfectly still black water. 
+Metallic walls rise from this reflective blackness making you feel like
+you've just stepped into the future.  Though the room is large, and you
+can't even make out a ceiling looking up into blackness, there are
+absolutely no sounds, and any that you make are muted by some magical unseen
+force.  The only door in this room is a large shiny black one set in the
+centre of the western wall.  Set importantly in the middle room is a long
+glass table surrounded by large comfortable armchairs covered with black
+leather.  The walls hold only small blue lights which cast a cool dim
+lighting over the room and a large scroll covered with glass set in the
+centre of the eastern wall.  
+~
+0 1056776 0
+D3
+~
+~
+~
+4 16253 16252
+D5
+~
+~
+~
+4 16254 16254
+M 0 H 0
+S
+#16254
+The Hole~
+You find yourself inside blackness.  Reaching out in all directions, you
+can feel the cool, damp touch of stone.  There are no windows.  There are no
+exits.  You must have done something very wrong to be locked in here.  
+~
+0 1056777 0
+D4
+~
+~
+~
+4 0 16253
+M 0 H 0
+S
+#16255
+Underwater~
+The moderately cool waters engulf you gently yet thoroughly as you dive
+into the depths, introducing you into a flowing underwater realm, full of
+life and blueish-greenish colours.  Aquatic flora sways and trembles
+gracefully to the rushing current, covering the squishy ground nearly
+completely.  The flora consists of quite a few different plants, some of
+which display plain design and but a single colour, while others boast
+intricate leaves and even lavish, colourful flowers.  A rather intriguing
+black rock lies at the bottom of the river to the southwest, nearly
+completely veiled by the greenery.  
+~
+0 1056768 4
+D4
+~
+~
+~
+1 0 16028
+M 0 H 0
+S
+#16256
+A Narrow Staircase~
+The seemingly stern set of stairs rise gallantly from the rushing waters,
+leading you into a thankfully dry, completely bare compartment of space. 
+The stairs themselves offer a rather well kept appearance, and even the air
+seems to be at movement and quite clear to breathe.  The walls are mostly
+indistuinguishable, each bearing a thin line of dark red.  The red line
+emerges from the waters below, stretching across the walls and vanishing
+inside the leaves of a thick plant at the top of the stairs.  Indeed, a
+visibly ancient, knotty ivy plant has found its way into this chamber,
+falling gracefully from the ceiling all the way to the floor.  
+~
+0 1048584 0
+E
+ivy~
+The ivy seems to be veiling a round stone door, the keyhole of which lies
+at its center. 
+~
+D3
+~
+~
+~
+4 16272 16257
+M 0 H 0
+S
+#16257
+A Hidden Archive~
+An ever so slight, ever so tingling mustiness encloses you upon entrance
+to this rather widely extent, rectangularly designed library.  Hardly much
+of a bother, the mustiness clearly tells a great amount of slowly deceasing
+paper.  Indeed, as much as the darkness permits, a decent number of rows of
+shelves can be seen standing imposingly throughout the length of the
+chamber.  Lurking silently upon the many shelves are literally countless
+tomes and books of all imaginable designs and colours.  Although this
+chamber clearly speaks of old and even ancient age, the overall condition of
+it seems quite well, as if regularly cared for.  
+~
+0 1056776 0
+D1
+~
+~
+~
+4 16272 16256
+M 0 H 0
+S
+#16258
+Top of a Cliff Along the Cameria River~
+You are surrounded by forest here, with the great Cameria River flowing
+south to your west.  You can see a massive waterfall dumping the Cameria
+River down a few hundred feet.  Large trees and thick foliage surround you
+here, but you can see the faintest signs of a footpath leading down the
+cliff face.  
+~
+0 0 3
+D5
+~
+~
+~
+0 0 16247
+M 0 H 0
+S
+#16259
+Old Taj Lead Up First Room~
+The thick cool forest thins here, giving way to a field to the east.  A
+roaring sound can be heard faintly in the distance to the west, indicating
+the position of the Cameria River to your position.  Off in the distance to
+the south-east, you can see the spires of what could be a castle poking over
+the long grasses in the field.  From this vantage point, you can see the
+forest running parallel to the Cameria River, north and south, while
+everywhere else is just long expanses of fields.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 16260
+D3
+~
+~
+~
+0 0 16246
+M 0 H 0
+S
+#16260
+A Large Field~
+Tall grasses surround you, brushing past your legs, clinging gently
+before letting go to bend and sway in the gentle breeze that seems to be a
+constant feature here.  Burrs and nettles grab onto your clothing, digging
+in deep, to join you with your travels around the land.  All around you the
+constant chirping of crickets can be heard, rising and falling in waves,
+circling you.  The field continues all around you, but the grasses have been
+bent apart in a form of a path to the south.  Looking south, you can see a
+thinning grasses and then sand, lots of sand. 
+~
+0 0 2
+D2
+~
+~
+~
+0 0 16261
+D3
+~
+~
+~
+0 0 16259
+M 0 H 0
+S
+#16261
+The Beginning Of A Desert~
+Tough looking grass starts to give way to acrid sands to the south, while
+to the north, the countryside seems more pleasant and welcoming.  Westwards,
+one can see a rock face which appears to follow the desert with birds
+circling high above the cliff, dancing upon the deserts thermals.  Something
+about this expanse of sand seems unnatural though nothing really indicates
+it as such other than possibly its location.  
+~
+0 4 10
+D0
+~
+~
+~
+0 0 16260
+D2
+~
+~
+~
+0 0 16267
+M 0 H 0
+S
+#16262
+A Mossy Path~
+The moss has encroached upon the trail and provides a soft cushion for
+you to walk upon.  Occasionally, patches of moss disappear revealing a
+white, gleaming surface.  Kneeling down, you can make out the the trail was
+once a blocked pathway.  
+~
+0 1048576 4
+D2
+~
+~
+~
+0 0 16263
+M 0 H 0
+S
+#16263
+A Turn in the Trail~
+The moss begins to die away from the trail.  While the path appears to be
+unkept, it has a look of careful order to it.  The shrubs along the side of
+the path begin to take on a carefully shaped form.  The path seems to lead
+to an alter to the east.  
+~
+0 1048576 4
+D0
+~
+~
+~
+0 0 16262
+D1
+~
+~
+~
+0 0 16264
+M 0 H 0
+S
+#16264
+The Peaceful Path~
+The path is now well kept.  The marble tile gleams brightly in the forest
+path.  Small spruces line the walkway and have been planted at equal
+distances.  The area has a feeling of order.  A shrine rises up to the east.
+~
+0 1048576 4
+D1
+~
+~
+~
+0 0 16265
+D3
+~
+~
+~
+0 0 16263
+M 0 H 0
+S
+#16265
+Before the Shrine~
+The path ends at the steps of a large shrine.  The steps seem to glow
+with an unworldly power.  The glow catches your attention and forces your
+eyes up to the top of the shrine where a large statue is waiting upon you. 
+You get the feeling that the eyes of a god are upon you.  
+~
+0 1048580 4
+D3
+~
+~
+~
+0 0 16264
+D4
+~
+~
+~
+0 0 16266
+M 0 H 0
+S
+#16266
+Before the Statue~
+You have made it to the top of the stairs.  The height offers a
+commanding view of the surrounding area.  As you turn your view back to the
+statue, you fell the eyes of the statue watching you.  A brass plate seems
+to hang effortlessly to the base of the statue.  
+~
+0 1048576 2
+E
+plate~
+Order is only obtained with Integrity.  If your heart is such, call upon
+my name.  
+~
+E
+statue~
+A statue of Belic stands looking down at you.  His dwarven features are
+flawless and the smile that plays on his lips is warming.  
+~
+D5
+~
+~
+~
+0 0 16265
+M 0 H 0
+S
+#16267
+A Solemn Desert~
+A sea of sand stretches off to the south, unbroken and unmarred until the
+horizon, where a domed structure is evident.  This building must truly be of
+an impressive size to be visible, from this distance.  Heat rises from the
+sun bakes sand, causing one's throat and nose to feel perpetually dry and
+the only fragrance is that of the heated granules.  To the west, a low set
+of cliff faces is visible looking inhospitable with their wind-worn faces. 
+Sand continues to stretch away to the north and south.  
+~
+0 1048576 10
+D0
+~
+~
+~
+0 0 16261
+D2
+~
+~
+~
+0 0 16268
+M 0 H 0
+S
+#16268
+Peaceful Dunes~
+Rolling meadows of sand ripple to the wind's commands in all directions
+but to the west, where a rock face stands.  Southwards, a large dome can be
+plainly seen, even at this distance, rising over the sand dunes like a ship
+onto the sea.  No sounds disturb one's senses here, it is almost as if the
+world is waiting for something to occur and only the smell of baked rock
+reaches one's nose.  
+~
+0 1048576 10
+D0
+~
+~
+~
+0 0 16267
+M 0 H 0
+S
+#16269
+Inside A Tree~
+The inside of this great ancient tree has been hollowed out, though the
+tree still grows strong.  All the furniture and long tables filling the room
+have been carved from the tree itself as well.  A few small windows let you
+see the forests surrounding this place, but little else.  You see some
+stairs leading up into darkness that are more of varying-sized pieces of the
+tree than real stairs.  Against the far wall a huge fireplace has been built
+of large stones, partly to protect the tree, and partly for contrast in the
+warm golds and browns of the room.  Everything is completely spotless. 
+There is a piece of paper set neatly on the long table in front of you.  A
+door is set in the tree to the east, leading back out to the swamps.  
+~
+0 1048580 2
+E
+paper note~
+Price List
+ 
+  Item Location    |  Cost (in gold)
+-------------------+------------------
+  neck             |  120,000
+-------------------+------------------
+  wrist            |  120,000
+-------------------+------------------
+  finger*          |  500,000
+-------------------+------------------
+  ear              |  300,000
+-------------------+------------------
+  ankle            |  300,000
+-------------------+------------------
+  body             |  200,000
+-------------------+------------------
+  head             |  750,000
+-------------------+------------------
+  legs             |  750,000
+-------------------+------------------
+  feet             |  700,000
+-------------------+------------------
+  hands            |  250,000
+-------------------+------------------
+  arms             |  350,000
+-------------------+------------------
+  about            |  450,000
+-------------------+------------------
+  waist            |  150,000
+-------------------+------------------
+  bicep            |  500,000
+-------------------+------------------
+  face             |  100,000
+-------------------+------------------
+  shoulders        |  300,000
+--------------------------------------
+ 
+* limit one per customer's lifetime
+ 
+Also available are:
+Fireproofing ->  10,000 gold
+Enchanting   ->  10,000 gold
+ 
+All items are guaranteed for life.
+ 
+~
+M 0 H 0
+S
+#16295
+A Beaten Path~
+Groves of fruit trees crowd together here, their blossoms a colorful and
+fragrant bouquet among the mingling leaves.  A few of the recognizable trees
+are those bearing apples, pears, plums and cherries, fruits from their past
+ripenings still rotting amongst the fallen logs.  Snowdrops and sweetgrass
+grow in abundance along the trail's sides, brightening the dirt track by
+quite a bit.  Travel to the north and south looks to be more trouble than
+it's worth, considering the dense bramble and thorned bushes.  The dull roar
+of moving water comes from the east, growing increasingly louder the further
+east one goes. 
+~
+0 0 3
+D3
+~
+~
+~
+0 0 16296
+M 0 H 0
+S
+#16296
+A Trail In The Woods~
+From the east a sound very much like that produced by rushing water can
+be heard, a constant companion of this forest trail.  Numerous spiky plants
+grow under the trees that hem this east to west track in, almost like nature
+has conspired to keep you at this point.  Under some of these painful
+looking plants, it is possible to make out tiny snowdrops which flourish in
+this safe environment.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 16295
+D3
+~
+~
+~
+0 0 16297
+M 0 H 0
+S
+#16297
+A Woodland Trail~
+Branches twist together high overhead, a mingling of purple and green
+leaves from both cherry and plum trees creating a colorful canopy.  Hints of
+their fruit lay scattered over the ground, strangely left by the birds in
+the area to rot and waste away.  The path is well-beaten, though signs of
+recent travel are rather scarce over its muddy surface.  Ferns and fungi
+fight over which one will have a rotting tree trunk as its host, the orange
+and green clashing. 
+~
+0 0 3
+D1
+~
+~
+~
+0 0 16296
+D3
+~
+~
+~
+0 0 16065
+M 0 H 0
+S
+#16298
+A Forest Path~
+Trees hem in this seldom used trail, their gnarled limbs stretching out over 
+the concourse like a crone's wizened fingers reaching for fresh meat.  
+Brambles line the path, thorny guardians of the seemingly ancient forest 
+that surrounds this area and preventing all but the starving from attempting 
+to gather mushrooms that cling to the trunks of the trees.  The scent of 
+decaying leaf matter hangs heavily in the air, intermixing with the more 
+pleasant aroma of wildflowers.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 16299
+D3
+~
+~
+~
+0 0 16064
+M 0 H 0
+S
+#16299
+A Winding Trail~
+A narrow trail works between ancient trees here, lush grasses plentiful upon 
+its earthen surface.  The gnarled branches of the surrounding trees meet 
+over this meandering pathway, creating an almost cathedral like feeling to 
+the area.  Under the canopy of the forest grow innumerable small shrubs many 
+of which belong to the bramble family by the looks of their vicious sharp 
+thorns.  These plants make wandering off this east-west trail problematic, 
+to say the least.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 16065
+D3
+~
+~
+~
+0 0 16298
+M 0 H 0
+S
+#16300
+Along the Coast~
+Gentle waters of the cool blue ocean lap at the base of the cliff to the
+north that is curving gently to the west, creating an unobtrusive sound that
+has its own relaxing quality.  At the very top of the bluff, the edges of a
+forest can be seen, the green contrasting quite vividly with the brown rock
+it sits atop of.  The sea continues on to the south and east until it melds
+with the horizon, the azure broken only by the occasional vessel travelling
+upon it.  
+~
+0 0 7
+D1
+~
+~
+~
+0 0 16301
+D2
+~
+~
+~
+0 0 16101
+M 0 H 0
+S
+#16301
+Along the Bluffs~
+The tall bluffs that rise in the northwest seem to be topped with thick
+forests that thrive right to the edge.  The steady crashing of wave against
+wave fills the air, the sounds rhythmic and constant, these qualities
+combine to make them almost relaxing.  The blue waters continue far to the
+south, east, and west and a few vessels of different sizes can be made out
+on the horizon. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16100
+D1
+~
+~
+~
+0 0 16302
+D2
+~
+~
+~
+0 0 16104
+D3
+~
+~
+~
+0 0 16300
+D5
+~
+~
+~
+0 0 16355
+M 0 H 0
+S
+#16302
+Sea of Neru~
+Rolling waves peak and trough all around and are sending forth the scent
+of salt into the air with each movement of their tumult.  The continuous
+movements of the sea have a serenity to themselves which is only broken by
+the harsh calls of high flying sea gulls that seem to gaze down upon your
+maritime efforts with contempt.  In the distance dark shapes can be
+perceived, though their nature can not be determined from this vantage
+point. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16103
+D1
+~
+~
+~
+0 0 16303
+D2
+~
+~
+~
+0 0 16105
+D3
+~
+~
+~
+0 0 16301
+D5
+~
+~
+~
+0 0 16356
+M 0 H 0
+S
+#16303
+Along the Coast~
+Merchant and naval ships cruise the deep waters of the ocean, taking
+advantage of any winds available.  The crisp blue water of the ocean seems
+to become one with the sky at the horizon on the good days, while on the bad
+the ocean churns tumultuously and rages in a dull grey color.  To the north
+east, the cliff line slopes down until it meets the beaches the sea's water
+laps over constantly. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16106
+D1
+~
+~
+~
+0 0 16107
+D2
+~
+~
+~
+0 0 16108
+D3
+~
+~
+~
+0 0 16302
+D5
+~
+~
+~
+0 0 16357
+M 0 H 0
+S
+#16304
+Upon the Coast~
+A river can be seen to the north, dumping its muddy contents into the sea
+with a noted laziness.  The level land that the river travels through
+gradually builds up to high cliffs and bluffs further to the west.  To the
+east, a wall of rock stops the progress of this ocean, at least for a few
+thousand years.  The azure sea stretches away in the other directions, its
+surface flinting in any available natural light. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16107
+D1
+~
+~
+~
+0 0 16305
+D2
+~
+~
+~
+0 0 16308
+D3
+~
+~
+~
+0 0 16108
+D5
+~
+~
+~
+0 0 16362
+M 0 H 0
+S
+#16305
+Along the Coast~
+The constant movements of the sea against the unyielding wall of rock to
+the north and east produces a pounding sound, akin to something you could
+expect made by a god striking some gigantic drum.  To the east and the south
+the sea stretches away, seemingly without end though small dark shapes upon
+the horizon hint to either other land masses or some untold adventure. 
+~
+0 0 7
+D2
+~
+~
+~
+0 0 16307
+D3
+~
+~
+~
+0 0 16304
+D5
+~
+~
+~
+0 0 16360
+M 0 H 0
+S
+#16306
+On the Coast~
+A deadly layer of rocks lurks just under the water's surface to the east
+and north jagged points that look almost as if designed to gut a ship or
+person so that their entrails will become offerings to the ocean.  The rocks
+rise steadily out of the waters to the north, becoming what would seem to be
+a high rock face in that direction while to the west and south the sea
+stretches away, soft wave rippling over each other into the distance.  
+~
+0 0 7
+D2
+~
+~
+~
+0 0 16326
+D3
+~
+~
+~
+0 0 16307
+M 0 H 0
+S
+#16307
+Along the Coast~
+Waves pound into the northeastern cliffs making a symphony akin to
+thunder with each roaring impact which drown out the cries of highflying
+seagulls.  To the west and south more undulating waves can be seen,
+stretching off into the distance for what seems like an eternity.  The scent
+of salt fills the air inescapable due to the proximate of the waters.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16305
+D1
+~
+~
+~
+0 0 16306
+D2
+~
+~
+~
+0 0 16325
+D3
+~
+~
+~
+0 0 16308
+D5
+~
+~
+~
+0 0 16369
+M 0 H 0
+S
+#16308
+Sea of Neru~
+The continual motions of the sea conjure forth a sound like no other. 
+Waves cascade upon waves in a constant rhythm, driven by some unseen force
+which sends forth spray heavenwards and fills the air with the energizing
+scent of this marine world.  Circling high in the sky is an albatross,
+judging by its long yellow bill, black top wing feathers and pale under
+plumage, as well as its size.  This avian is a clear indication that land
+can not be too far off. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16304
+D1
+~
+~
+~
+0 0 16307
+D2
+~
+~
+~
+0 0 16324
+D3
+~
+~
+~
+0 0 16309
+D5
+~
+~
+~
+0 0 16368
+M 0 H 0
+S
+#16309
+Sea of Neru~
+The harmonic sound of one wave caressing the next resonates from all
+around, creating a soft lapping sound out here upon the expanse of the
+ocean, accompanied by the bracing smell of the sea.  Small dark shapes can
+be perceived upon the horizons, whether these are indications of land or
+some nautical vessel it can not really be discerned from this far-off
+position. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16108
+D1
+~
+~
+~
+0 0 16308
+D2
+~
+~
+~
+0 0 16323
+D3
+~
+~
+~
+0 0 16312
+D5
+~
+~
+~
+0 0 16367
+M 0 H 0
+S
+#16310
+Sea of Neru~
+The Sea of Discord stretches for what seems like forever in all
+directions.  It is easy to lose your bearings.  The water is crisp blue and
+melts into the skyline on a sunny day.  Huge swells of water rock you gently
+as you move along the water.  The shore of land awaits you to the south. 
+~
+0 0 7
+D2
+~
+~
+~
+0 0 19334
+D3
+~
+~
+~
+0 0 16311
+M 0 H 0
+S
+#16311
+Sea of Neru~
+The Sea of Discord stretches for what seems like forever in all
+directions.  It is easy to lose your bearings.  The water is crisp blue and
+melts into the skyline on a sunny day.  Huge swells of water rock you gently
+as you move along the water.  The shore of land awaits you to the south.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16327
+D1
+~
+~
+~
+0 0 16310
+D3
+~
+~
+~
+0 0 16328
+M 0 H 0
+S
+#16312
+Sea of Neru~
+As far as the eye can see, the ocean stretches away.  Its sky-blue waters
+seemingly ripple at a distance, though this illusion is dispelled with a
+closer look to be the gentle undulations of the waves.  The fresh aroma of
+the sea is cast forth with each movement of the waters, somewhat
+invigorating if one happens to be effected by such things.  The horizons in
+all directions seem clear and undisturbed from here, apart from a few dark
+smudges. 
+~
+0 4 7
+D0
+~
+~
+~
+0 0 16105
+D1
+~
+~
+~
+0 0 16309
+D2
+~
+~
+~
+0 0 16322
+D3
+~
+~
+~
+0 0 16313
+D5
+~
+~
+~
+0 0 16366
+M 0 H 0
+S
+#16313
+Sea of Neru~
+The unremitting sounds and movements of the sea happen all around,
+seemingly as unstoppable as they are persistent.  High overhead a grey-white
+bird can be seen circling your location, though it is too distant for any to
+determine its species.  This aerial companion hints that land, though not
+visible from this position, can't to too far-flung, even if it doesnt say in
+which direction. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16104
+D1
+~
+~
+~
+0 0 16312
+D2
+~
+~
+~
+0 0 16321
+D3
+~
+~
+~
+0 0 16314
+D5
+~
+~
+~
+0 0 16365
+M 0 H 0
+S
+#16314
+Sea of Neru~
+The ocean swells then falls all around, seemingly dancing to a primal
+tune which was laid down by the gods long ago.  Spray is periodically cast
+up from the surrounding waters filling the air with moisture which dries to
+a white crystalline powder upon clothing or other surfaces.  The tranquility
+of this location it spoilt from time to time by the call of one seagull to
+another, otherwise only the song of the sea would be heard. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16101
+D1
+~
+~
+~
+0 0 16313
+D2
+~
+~
+~
+0 0 16320
+D3
+~
+~
+~
+0 0 16315
+D5
+~
+~
+~
+0 0 16364
+M 0 H 0
+S
+#16315
+Along the Coast~
+Low rocks protrude from the waters, deadly for those traversing the sea
+but failing to impede the movement of the ocean's waters from reaching the
+sandy shore.  Over the sands, a dense mass of vines and trees can be
+discerned which looks all but impenetrable from this distance, over the top
+of which a peak can be seen that has a spiral of smoke rising from it.  To
+the east and south, open waters are visible and the tang of salt is a
+constant presence because of this.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16353
+D1
+~
+~
+~
+0 0 16314
+D2
+~
+~
+~
+0 0 16319
+D3
+~
+~
+~
+0 0 16316
+D5
+~
+~
+~
+0 0 16363
+M 0 H 0
+S
+#16316
+A Jungle-lined Coast~
+The scenery changes drastically here: the bluffs to the north do not
+continue on to the west.  Instead, level land becomes more apparent, covered
+in a dense jungle all the way to its raised coastline.  Over the tropical
+growth, a monolithic mountain rises far into the distance, giving off a
+steady stream of smoke.  The sea is shallow here, following a shelf of sand
+that the low tides never seem to bare.  To the south and the east, the ocean
+continues on in a shimmering bright blue mass. 
+~
+0 0 7
+D1
+~
+~
+~
+0 0 16315
+D2
+~
+~
+~
+0 0 16318
+M 0 H 0
+S
+#16317
+The Docks of Tortuguero~
+A wooden jetty stretches out into the sea here, the wood bleached by the
+sun, wind, rain and sea so that it is grey instead of whatever color it was
+before.  It still looks like it could support a significant weight, despite
+its weathered state.  Moored upon the north and south side of these docks
+are a pair of vessels: to the north, there is a small ship and to the south
+a fishing boat, by the looks of them.  To the east, sits the azure ocean,
+its surface in constant motion.  
+~
+0 0 7
+D1
+~
+~
+~
+0 0 16318
+D3
+~
+~
+~
+0 0 16102
+M 0 H 0
+S
+#16318
+Nearing a Port~
+The peninsula to the northwest is edged in golden sand that wraps around
+from its start around the tip to the docks found at the immediate west.  A
+town can be detected past the sand and docking area, though it is uncertain
+of the total size or the nature due to the jungle screening it.  Over the
+dense foliage and vine growth, a mountain peak rises far above the plant
+life at some distance to the north.  The blue ocean continues to the east
+and south, only broken by the occasional smudge at the horizon that marks a
+passing vessel.  A few boats are moving through this area, clearly intending
+to stop at this port.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16316
+D1
+~
+~
+~
+0 0 16319
+D2
+~
+~
+~
+0 0 16336
+D3
+~
+~
+~
+0 0 16317
+D5
+~
+~
+~
+0 0 16370
+M 0 H 0
+S
+#16319
+Sea of Neru~
+Salt spray fills the air as a wave falls down upon one of its brethren,
+spume is cast forth bearing a heavy taint of the salty deeps.  The ocean
+possesses a blue coloration similar in color to the sky upon a summer's day,
+and this, when considered with the lapping sounds and motions of the sea,
+creates an impression of tranquility that could almost be soothing to one's
+spirit.  A few dark shapes appear to loom upon the horizon, whether they be
+naval vessels or masses of land can not be perceived from this vantage
+point. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16315
+D1
+~
+~
+~
+0 0 16320
+D2
+~
+~
+~
+0 0 16335
+D3
+~
+~
+~
+0 0 16318
+D5
+~
+~
+~
+0 0 16371
+M 0 H 0
+S
+#16320
+Sea of Neru~
+The continuous movements of the waves fill the air with the salty scent
+of the sea as they break upon one another, accompanying this smell is the
+sounds of the ocean, the slosh and slap of water hitting water.  The call of
+some far distant bird slices through the marine worlds harmony, sounding out
+over the sapphire blue waters clearly for miles.  Specks dot the horizon
+though the nature of these blemishes is not apparent. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16314
+D1
+~
+~
+~
+0 0 16321
+D2
+~
+~
+~
+0 0 16334
+D3
+~
+~
+~
+0 0 16319
+D5
+~
+~
+~
+0 0 16372
+M 0 H 0
+S
+#16321
+Sea of Neru~
+Rolling waves peak and trough all around and are sending forth the scent
+of salt into the air with each movement of their tumult.  The continuous
+movements of the sea have a serenity to themselves which is only broken by
+the harsh calls of high flying sea gulls that seem to gaze down upon your
+maritime efforts with contempt.  In the distance dark shapes can be
+perceived, though their nature can not be determined from this vantage
+point. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16313
+D1
+~
+~
+~
+0 0 16322
+D2
+~
+~
+~
+0 0 16333
+D3
+~
+~
+~
+0 0 16320
+D5
+~
+~
+~
+0 0 16373
+M 0 H 0
+S
+#16322
+Sea of Neru~
+The gentle lapping of the waves holds a relaxing quality, lulling to
+one's senses with its continuous actions and unhurried motions.  Small
+shapes wheel high overhead and judging by the sounds of their faint calls,
+they must be sea gulls though it is unusual for one to descend so that
+anyone upon this stretch of water can truly perceive one to be certain. 
+Seawater can be seen in all directions, seeming one continuous body of fluid
+that is only occasionally broken by a dark shape on the horizon. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16312
+D1
+~
+~
+~
+0 0 16323
+D2
+~
+~
+~
+0 0 16332
+D3
+~
+~
+~
+0 0 16321
+D5
+~
+~
+~
+0 0 16374
+M 0 H 0
+S
+#16323
+Sea of Neru~
+The rolling sea stretches off in all directions, its blue-green surface
+looking serene and unalterable.  The scent of the ocean continually drifts
+upwards from the body of water, inescapable from this position upon it and
+forcing a salty tang to fill the lungs and coat one's flesh.  Dark masses
+line the horizons, whether this is an optical illusion or something is truly
+present can not really be determined at this point. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16309
+D1
+~
+~
+~
+0 0 16324
+D2
+~
+~
+~
+0 0 16331
+D3
+~
+~
+~
+0 0 16322
+D5
+~
+~
+~
+0 0 16375
+M 0 H 0
+S
+#16324
+Sea of Neru~
+The constant slosh, slosh, slosh of the ocean here sounds almost like a
+lullaby to one's ears, continuing as the waves rise and then tumble softly
+back onto themselves over and over.  The water possesses a blue tint,
+somewhat reminiscent of a summer's sky in color, which also adds to the
+serene feel of this area.  Only the aroma of the salt water dispels any
+feelings of peace, along with the occasional cry of a distant sea bird 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16308
+D1
+~
+~
+~
+0 0 16325
+D2
+~
+~
+~
+0 0 16330
+D3
+~
+~
+~
+0 0 16323
+D5
+~
+~
+~
+0 0 16376
+M 0 H 0
+S
+#16325
+Sea of Neru~
+The ocean swells then falls all around, seemingly dancing to a primal
+tune which was laid down by the gods long ago.  Spray is periodically cast
+up from the surrounding waters filling the air with moisture which dries to
+a white crystalline powder upon clothing or other surfaces.  The tranquility
+of this location it spoilt from time to time by the call of one seagull to
+another, otherwise only the song of the sea would be heard.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16307
+D1
+~
+~
+~
+0 0 16326
+D2
+~
+~
+~
+0 0 16329
+D3
+~
+~
+~
+0 0 16324
+D5
+~
+~
+~
+0 0 16377
+M 0 H 0
+S
+#16326
+Sea of Neru~
+The unremitting sounds and movements of the sea happen all around,
+seemingly as unstoppable as they are persistent.  High overhead a grey-white
+bird can be seen circling your location, though it is too distant for any to
+determine its species.  This aerial companion hints that land, though not
+visible from this position, can't to too far-flung, even if it doesnt say in
+which direction.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16306
+D1
+~
+~
+~
+0 0 16327
+D2
+~
+~
+~
+0 0 16328
+D3
+~
+~
+~
+0 0 16325
+D5
+~
+~
+~
+0 0 16378
+M 0 H 0
+S
+#16327
+Sea of Neru~
+As far as the eye can see, the ocean stretches away.  Its sky-blue waters
+seemingly ripple at a distance, though this illusion is dispelled with a
+closer look to be the gentle undulations of the waves.  The fresh aroma of
+the sea is cast forth with each movement of the waters, somewhat
+invigorating if one happens to be effected by such things.  The horizons in
+all directions seem clear and undisturbed from here, apart from a few dark
+smudges. 
+~
+0 0 7
+D2
+~
+~
+~
+0 0 16311
+D3
+~
+~
+~
+0 0 16326
+M 0 H 0
+S
+#16328
+Sea of Neru~
+The rolling sea stretches off in all directions, its blue-green surface
+looking serene and unalterable.  The scent of the ocean continually drifts
+upwards from the body of water, inescapable from this position upon it and
+forcing a salty tang to fill the lungs and coat one's flesh.  Dark masses
+line the horizons, whether this is an optical illusion or something is truly
+present can not really be determined at this point.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16326
+D1
+~
+~
+~
+0 0 16311
+D3
+~
+~
+~
+0 0 16329
+M 0 H 0
+S
+#16329
+Sea of Neru~
+The gentle lapping of the waves holds a relaxing quality, lulling to
+one's senses with its continuous actions and unhurried motions.  Small
+shapes wheel high overhead and judging by the sounds of their faint calls,
+they must be sea gulls though it is unusual for one to descend so that
+anyone upon this stretch of water can truly perceive one to be certain. 
+Seawater can be seen in all directions, seeming one continuous body of fluid
+that is only occasionally broken by a dark shape on the horizon. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16325
+D1
+~
+~
+~
+0 0 16328
+D2
+~
+~
+~
+0 0 16343
+D3
+~
+~
+~
+0 0 16330
+D5
+~
+~
+~
+0 0 16385
+M 0 H 0
+S
+#16330
+Sea of Neru~
+Rolling waves peak and trough all around and are sending forth the scent
+of salt into the air with each movement of their tumult.  The continuous
+movements of the sea have a serenity to themselves which is only broken by
+the harsh calls of high flying sea gulls that seem to gaze down upon your
+maritime efforts with contempt.  In the distance dark shapes can be
+perceived, though their nature can not be determined from this vantage
+point. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16324
+D1
+~
+~
+~
+0 0 16329
+D2
+~
+~
+~
+0 0 16342
+D3
+~
+~
+~
+0 0 16331
+D5
+~
+~
+~
+0 0 16384
+M 0 H 0
+S
+#16331
+Sea of Neru~
+The continuous movements of the waves fill the air with the salty scent
+of the sea as they break upon one another, accompanying this smell is the
+sounds of the ocean, the slosh and slap of water hitting water.  The call of
+some far distant bird slices through the marine worlds harmony, sounding out
+over the sapphire blue waters clearly for miles.  Specks dot the horizon
+though the nature of these blemishes is not apparent.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16323
+D1
+~
+~
+~
+0 0 16330
+D2
+~
+~
+~
+0 0 16341
+D3
+~
+~
+~
+0 0 16332
+D5
+~
+~
+~
+0 0 16383
+M 0 H 0
+S
+#16332
+Sea of Neru~
+Salt spray fills the air as a wave falls down upon one of its brethren,
+spume is cast forth bearing a heavy taint of the salty deeps.  The ocean
+possesses a blue coloration similar in color to the sky upon a summer's day,
+and this, when considered with the lapping sounds and motions of the sea,
+creates an impression of tranquility that could almost be soothing to one's
+spirit.  A few dark shapes appear to loom upon the horizon, whether they be
+naval vessels or masses of land can not be perceived from this vantage
+point.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16322
+D1
+~
+~
+~
+0 0 16331
+D2
+~
+~
+~
+0 0 16340
+D3
+~
+~
+~
+0 0 16333
+D5
+~
+~
+~
+0 0 16382
+M 0 H 0
+S
+#16333
+Sea of Neru~
+The continual motions of the sea conjure forth a sound like no other. 
+Waves cascade upon waves in a constant rhythm, driven by some unseen force
+which sends forth spray heavenwards and fills the air with the energizing
+scent of this marine world.  Circling high in the sky is an albatross,
+judging by its long yellow bill, black top wing feathers and pale under
+plumage, as well as its size.  This avian is a clear indication that land
+can not be too far off. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16321
+D1
+~
+~
+~
+0 0 16332
+D2
+~
+~
+~
+0 0 16339
+D3
+~
+~
+~
+0 0 16334
+D5
+~
+~
+~
+0 0 16381
+M 0 H 0
+S
+#16334
+Sea of Neru~
+The harmonic sound of one wave caressing the next resonates from all
+around, creating a soft lapping sound out here upon the expanse of the
+ocean, accompanied by the bracing smell of the sea.  Small dark shapes can
+be perceived upon the horizons, whether these are indications of land or
+some nautical vessel it can not really be discerned from this far-off
+position. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16320
+D1
+~
+~
+~
+0 0 16333
+D2
+~
+~
+~
+0 0 16338
+D3
+~
+~
+~
+0 0 16335
+D5
+~
+~
+~
+0 0 16380
+M 0 H 0
+S
+#16335
+Tangled Waves~
+It seems almost impossible to make a boat passable in these waters since
+the waves dont seem to consist of liquid but rather a slowly moving bed of
+tangled seaweed.  These rubbery plants are simply everywhere and have
+intertwined themselves to one another.  You do mange to spy a few trickles
+of thick green algae coated water seeping through the large and oily leaves,
+dispelling your former notions.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16319
+D1
+~
+~
+~
+0 0 16334
+D2
+~
+~
+~
+0 0 16337
+D3
+~
+~
+~
+0 0 16336
+D5
+~
+~
+~
+0 0 16379
+M 0 H 0
+S
+#16336
+Jagged Rocks~
+To the northwest a peninsula can be seen littered with dwellings of
+differing sizes and a number of boats can be seen upon its docks.  West and
+south of here travel it restricted by several large rocks that litter the
+sea, looking very likely to cut open either a swimmer of a vessel that
+should be silly enough to try an navigate this gauntlet.  To the north and
+east, open sea is visible, appearing to stretch away without end.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16318
+D1
+~
+~
+~
+0 0 16335
+M 0 H 0
+S
+#16337
+Jagged Rocks~
+Sharp rocks rise from the frothing waters here like spear tips of some
+angry water tribe, ready to shred boat or swimmer alike.  Spots of coral can
+be seen wrapping along the bottoms of the rocks when the unsettled water
+clears enough by displacing all the algae floating in it.  Something dark
+can be seen along the horizon some distance to the north, its elongated form
+marking it as a piece of land.  The blue water of the ocean continues off to
+the east, as well, its horizon free of blemish.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16335
+D1
+~
+~
+~
+0 0 16338
+M 0 H 0
+S
+#16338
+Near Jagged Rocks~
+Wave upon wave of the ocean's water collides here, sending a spray into
+the air as it collides against the jagged rocks that bar travel to the
+southwest.  A glance to the north and the south shows that the jagged rocks
+continue on for some distance, their menacing structures overgrown with
+kelp.  More sea can be seen beyond this strange barrier, but it is barred by
+nature.  The blue waters of the sea continue in all other directions and
+movement toward the rippling waters seems unhindered. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16334
+D1
+~
+~
+~
+0 0 16339
+D2
+~
+~
+~
+0 0 16348
+D3
+~
+~
+~
+0 0 16337
+D5
+~
+~
+~
+0 0 16386
+M 0 H 0
+S
+#16339
+Sea of Neru~
+The ocean swells then falls all around, seemingly dancing to a primal
+tune which was laid down by the gods long ago.  Spray is periodically cast
+up from the surrounding waters filling the air with moisture which dries to
+a white crystalline powder upon clothing or other surfaces.  The tranquility
+of this location it spoilt from time to time by the call of one seagull to
+another, otherwise only the song of the sea would be heard.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16333
+D1
+~
+~
+~
+0 0 16340
+D2
+~
+~
+~
+0 0 16347
+D3
+~
+~
+~
+0 0 16338
+D5
+~
+~
+~
+0 0 16387
+M 0 H 0
+S
+#16340
+Sea of Neru~
+The unremitting sounds and movements of the sea happen all around,
+seemingly as unstoppable as they are persistent.  High overhead a grey-white
+bird can be seen circling your location, though it is too distant for any to
+determine its species.  This aerial companion hints that land, though not
+visible from this position, can't to too far-flung, even if it doesnt say in
+which direction. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16332
+D1
+~
+~
+~
+0 0 16341
+D2
+~
+~
+~
+0 0 16346
+D3
+~
+~
+~
+0 0 16339
+D5
+~
+~
+~
+0 0 16388
+M 0 H 0
+S
+#16341
+Sea of Neru~
+As far as the eye can see, the ocean stretches away.  Its sky-blue waters
+seemingly ripple at a distance, though this illusion is dispelled with a
+closer look to be the gentle undulations of the waves.  The fresh aroma of
+the sea is cast forth with each movement of the waters, somewhat
+invigorating if one happens to be effected by such things.  The horizons in
+all directions seem clear and undisturbed from here, apart from a few dark
+smudges. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16331
+D1
+~
+~
+~
+0 0 16342
+D2
+~
+~
+~
+0 0 16345
+D3
+~
+~
+~
+0 0 16340
+D5
+~
+~
+~
+0 0 16389
+M 0 H 0
+S
+#16342
+Close To A Coral Bed~
+The harsh call of a sea bird echoes through the air as it circles above
+an impassable reef to the southeast, its beady eyes trained upon the coral
+for signs of food.  This natural barrier seems to stretch off on the
+diagonal to the northeast and southwest from this point, impossible to cross
+with either a boat or by swimming.  In the other directions the sea
+continues looking calm and clear for as far as the eye can see, though a few
+dark smudges upon the horizon can be discerned.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16330
+D1
+~
+~
+~
+0 0 16343
+D2
+~
+~
+~
+0 0 16344
+D3
+~
+~
+~
+0 0 16341
+D5
+~
+~
+~
+0 0 16390
+M 0 H 0
+S
+#16343
+Along the Coral~
+Coral of graduating colors blocks passage to both the south and the east,
+the structure of which is very thick and must be ancient.  The water breaks
+in gentle lapping noises over the top of this natural barrier, sending both
+a refreshing spray of sea water and an almost relaxing sound to fill the
+air.  The azure waters continue to the north and west, the surface rippling
+with activity but seeming relatively calm. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16329
+D3
+~
+~
+~
+0 0 16342
+M 0 H 0
+S
+#16344
+Before A Reef~
+Bright coral can be seen just under the water's surface, beautiful in its
+own way but lethal to attempt to cross.  The waters lap over the broad reef
+bringing the bounty of the ocean to the creatures that thrive within its
+shelter.  The scent of the sea is a strong companion as it fills the air all
+around, thrown up as a wave breaks upon the obstacle.  Northwards and
+westwards, more docile waters stretch away, seemingly endless.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16342
+D3
+~
+~
+~
+0 0 16345
+M 0 H 0
+S
+#16345
+A Coral Reef~
+To the southeast, what at first looks eerily like bones can be seen
+jutting from the water's surface.  It is only when the movement of the waves
+permits that it becomes obvious that this is in fact a coral reef.  Under
+the sea's surface the coral looks much more alive, possessing a range of
+vivid colors the likes of which are rarely seen in the surface world.  To
+the southwest, the sea seems to be gripped by a mighty storm while in all
+the other directions it looks to be placid, stretching off into the
+distance. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16341
+D1
+~
+~
+~
+0 0 16344
+D2
+~
+~
+~
+0 0 16349
+D3
+~
+~
+~
+0 0 16346
+D5
+~
+~
+~
+0 0 16393
+M 0 H 0
+S
+#16346
+Sea of Neru~
+The continual motions of the sea conjure forth a sound like no other. 
+Waves cascade upon waves in a constant rhythm, driven by some unseen force
+which sends forth spray heavenwards and fills the air with the energizing
+scent of this marine world.  Circling high in the sky is an albatross,
+judging by its long yellow bill, black top wing feathers and pale under
+plumage, as well as its size.  This avian is a clear indication that land
+can not be too far off. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16340
+D1
+~
+~
+~
+0 0 16345
+D2
+~
+~
+~
+0 0 16350
+D3
+~
+~
+~
+0 0 16347
+D5
+~
+~
+~
+0 0 16392
+M 0 H 0
+S
+#16347
+Stormy Coast~
+The waves slow in their motion, clear of the binding hold of rocks upon
+which to break their anger.  Free of the visual impairment of the sea's
+thrashing white froth, you can follow the ripples of various aquatic life
+which have chosen to travel closer to the broiling surface.  Far beneath the
+green wrathful waters there are a number of sculpted white and coral stones
+which look to be inhabited by the smaller breeds for shelter.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16339
+D1
+~
+~
+~
+0 0 16346
+D2
+~
+~
+~
+0 0 16351
+D3
+~
+~
+~
+0 0 16348
+D5
+~
+~
+~
+0 0 16391
+M 0 H 0
+S
+#16348
+Sea's Perch~
+A single low flat rock stands out from all the others here, its surface
+smoothed by the wind and the sea, behind this rock others can be seen but
+these appear more like the fangs of some legendary sea monster than a place
+to rest.  To the north and east the ocean appears more open and travelable
+and all around there is the continuous smell of sea somewhat invigorating to
+one's senses, as if it is filled with life. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16338
+D1
+~
+~
+~
+0 0 16347
+M 0 H 0
+S
+#16349
+Stormy Coast~
+Nature's fury seems to have been unleashed upon this section of the sea
+as waves rise and crash back down with ferocity akin to a wrathful god. 
+Hidden in the boiling waters to the east and south are lethal looking rocks
+or a coral reef, through which travel at the moment would be impossible due
+to the raging winds and trashing waves.  Salt water is thrown all around,
+inescapable with the movements of the waves.  Northwards the ocean seems
+calmer when compared to here, though this might be a trick of the eye or
+mind. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16345
+D3
+~
+~
+~
+0 0 16350
+M 0 H 0
+S
+#16350
+Storm Tossed Waters~
+The sea seems to boil even as the sky does the same, waves rise higher
+and higher before pounding vengefully downwards once more.  Spume is thrown
+heavenwards, its salty tang speaking of the deeps that is has risen from.  A
+shiver runs along your spine, almost as if you can sense rather than see
+some form of magic at work behind this mighty storm, though no true source
+can as yet be determined.  The traitorous sea seems to stretch out in all
+directions even if the truth of this matter can no be determined due to the
+tempest.  
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16346
+D1
+~
+~
+~
+0 0 16349
+D2
+~
+~
+~
+0 0 16352
+D3
+~
+~
+~
+0 0 16351
+D5
+~
+~
+~
+0 0 16394
+M 0 H 0
+S
+#16351
+Stormy Coast~
+Grey waters crash with a thunderous smack against the rocks that jut out
+of the waters at the west.  This spine of brown spear-like rocks looks like
+it could destroy ships, let alone people lost within the swift currents that
+rage here.  This stone formation of razor points seems to continue its way
+in a diagonal from the northwest to the southeast.  The sea becomes more
+treacherous as it is churned over and over here, the waves easily sixteen
+feet in height. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16347
+D1
+~
+~
+~
+0 0 16350
+M 0 H 0
+S
+#16352
+The Ill Sea~
+The dark waves fall upon each other in a boil as they seethe, cursing in
+the form; of the harsh, bedewed tongue of an ill-tempered sea.  The wind
+swirls about you clamoring in its own violent and rasping voice, contending
+to be heard by the ears of one who might appease their temperament.  It
+would be wise to leave this place before it decides to works you into it
+cacophonous symphony. 
+~
+0 0 7
+D0
+~
+~
+~
+0 0 16350
+D2
+~
+~
+~
+0 0 16022
+M 0 H 0
+S
+#16353
+In the Shallows of the Bluffs~
+The pounding of the sea as it strikes these low cliffs produces a sound
+much akin to that of a great storm raging over head, though no storm holds
+the lethal rocks that the ocean throws itself against.  Off to the east and
+south, the sea stretches away as far as ones eye can see--an endless expanse
+of blue only broken near the horizon by an occasional dark shape too small
+to see.  Dense plant life throngs the top of these cliffs and from somewhere
+inland a sporadic plume of dark smoke can be seen.  
+~
+0 0 7
+D1
+~
+~
+~
+0 0 16101
+D2
+~
+~
+~
+0 0 16315
+M 0 H 0
+S
+#16354
+Under the Sea~
+The surface of the sea can be detected directly above, shimmering
+slightly when it is illuminated with natural light.  Far below, the water
+becomes darker and less definition of shapes can be made out, but the sea
+floor is not apparent just yet.  As for here, there are schools of gayly
+colored fish swimming about, trying to avoid you as you displace the salt
+water in their path. 
+~
+0 8 13
+D2
+~
+~
+~
+0 0 16356
+D4
+~
+~
+~
+0 0 16103
+M 0 H 0
+S
+#16355
+Under the Sea~
+Algae and free drifting kelp float through the water here, looking very
+much like strands of maiden hair from the way the current causes them to
+dance.  The light that penetrates the surface of the ocean directly above
+fails to define the contents of the water below, making the swimming shapes
+in that depth look like little more than wiggling masses of darkness. 
+~
+0 8 13
+D1
+~
+~
+~
+0 0 16356
+D2
+~
+~
+~
+0 0 16359
+D4
+~
+~
+~
+0 0 16301
+M 0 H 0
+S
+#16356
+Under the Sea~
+A few strands of seaweed climbs toward the light from the depths below,
+the bed of kelp tickling any skin that comes in contact with.  The currents
+that run through the grass of the sea make them move like hair when it is
+submerged in water.  The light from above is not enough to make the
+algae-filled depths of the ocean clear, but one can see the dark shapes of
+other creatures swimming further below. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16354
+D1
+~
+~
+~
+0 0 16357
+D2
+~
+~
+~
+0 0 16360
+D3
+~
+~
+~
+0 0 16355
+D4
+~
+~
+~
+0 0 16302
+M 0 H 0
+S
+#16357
+Under the Sea~
+Bubbles of air come from the depths of the ocean below, following a
+stirring of something large.  Schools of fish with bright red, yellow, and
+white markings swim at speed through the water here, their slim finned
+bodies wiggling with an otherworldly grace.  Algae and brine shrimp float
+through on the flowing salt water.  The surface to the ocean seems to be
+just above, as some dappled light filters from above. 
+~
+0 8 13
+D2
+~
+~
+~
+0 0 16361
+D3
+~
+~
+~
+0 0 16356
+D4
+~
+~
+~
+0 0 16303
+M 0 H 0
+S
+#16358
+Under the Sea~
+The water shimmers above and partially lights this area, allowing one a
+plain view of hordes of tetra fish swimming in schools.  If you watch these
+strange clear-bodied fish longer, a larger silvery fish comes along and
+scoops up a handful of the unsuspecting animals and then swims away.  Algae
+floats by on the currents that flow through here, bringing a blast of warm
+water as it travels along.  Further below, one can barely make out the large
+shapes of other creatures moving along. 
+~
+0 8 13
+D1
+~
+~
+~
+0 0 16359
+D2
+~
+~
+~
+0 0 16364
+D4
+~
+~
+~
+0 0 16101
+M 0 H 0
+S
+#16359
+Under the Sea~
+A short burst of movement disrupts the kelp and fish swimming below you,
+sending the living creatures scattering rather abruptly.  It is too dark to
+see clearly what caused this fright, however, as the light from the surface
+above is too weak to penetrate the algae-laden waters.  The fish soon return
+to their normal paths and swim in schools back and forth as they search out
+their sustenance. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16355
+D1
+~
+~
+~
+0 0 16360
+D2
+~
+~
+~
+0 0 16365
+D3
+~
+~
+~
+0 0 16358
+D4
+~
+~
+~
+0 0 16104
+M 0 H 0
+S
+#16360
+Under the Sea~
+The buoyant waters of the sea provide a steady resistance to all your
+efforts of swimming, the moving water playing with your clothes and hair
+alike, moving them as if under a lover's caress.  The water is warm here but
+gets colder the deeper one swims, and seems to lose definition in the
+depths, as well; the light of the surface world doesn't penetrate very far
+into the stygian fluid. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16356
+D1
+~
+~
+~
+0 0 16361
+D2
+~
+~
+~
+0 0 16366
+D3
+~
+~
+~
+0 0 16359
+D4
+~
+~
+~
+0 0 16305
+M 0 H 0
+S
+#16361
+Under the Sea~
+Creatures stir in the depths, hidden both in the relative darkness and
+the masses of plant life that flourish here.  Schools of bright fish swim in
+concert to and fro, the light from above flashing off their smooth, scaled
+bodies in vibrant yellow, red, and snowy white.  Algae mixed with shrimp
+floats by on the currents, littering your submerged body with deposits of
+their particles. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16357
+D1
+~
+~
+~
+0 0 16362
+D2
+~
+~
+~
+0 0 16367
+D3
+~
+~
+~
+0 0 16360
+M 0 H 0
+S
+#16362
+Under the Sea~
+It is difficult to tell how deep one is in this watery bed, but it can't
+be too deep as the light from the surface world penetrates this far.  It
+becomes less and less useful the deeper one tries to scan, but it still
+illuminates peaceful groups of fish that swim about in tight groups, their
+scales shining with bright colors.  Dark shadows wiggle through the water
+below, seeming to be much larger than the gayly colored fish that swim here.
+~
+0 8 13
+D2
+~
+~
+~
+0 0 16368
+D3
+~
+~
+~
+0 0 16361
+D4
+~
+~
+~
+0 0 16304
+M 0 H 0
+S
+#16363
+Under the Sea~
+The water teases the plant growth here, causing pockets of air to rise
+toward the surface, where light filters through.  The illumination is too
+poor to penetrate much deeper toward the floor, but it serves to show the
+bright fish that swim in teams in their search of food.  Every now and then,
+a larger fish rises from the depths to snack upon the tropical animals that
+are near you. 
+~
+0 8 13
+D1
+~
+~
+~
+0 0 16364
+D2
+~
+~
+~
+0 0 16371
+D4
+~
+~
+~
+0 0 16315
+M 0 H 0
+S
+#16364
+Under the Sea~
+The water teems with fish, their scaled bodies rubbing against each other
+as they try to move in their own direction.  Glimmers of yellow, silver,
+white, and red can be seen in this writhing mass with the help of the
+natural light that comes from above, though the rays fail to penetrate into
+the briney depths below.  It is enough, however, to show the faint outline
+of larger creatures swimming slowly, as if on patrol. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16358
+D1
+~
+~
+~
+0 0 16365
+D2
+~
+~
+~
+0 0 16372
+D3
+~
+~
+~
+0 0 16363
+D4
+~
+~
+~
+0 0 16314
+M 0 H 0
+S
+#16365
+Under the Sea~
+The surface of the sea can be detected directly above, shimmering
+slightly when it is illuminated with natural light.  Far below, the water
+becomes darker and less definition of shapes can be made out, but the sea
+floor is not apparent just yet.  As for here, there are schools of gayly
+colored fish swimming about, trying to avoid you as you displace the salt
+water in their path. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16359
+D1
+~
+~
+~
+0 0 16366
+D2
+~
+~
+~
+0 0 16373
+D3
+~
+~
+~
+0 0 16364
+D4
+~
+~
+~
+0 0 16313
+M 0 H 0
+S
+#16366
+Under the Sea~
+Algae and free drifting kelp float through the water here, looking very
+much like strands of maiden hair from the way the current causes them to
+dance.  The light that penetrates the surface of the ocean directly above
+fails to define the contents of the water below, making the swimming shapes
+in that depth look like little more than wiggling masses of darkness. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16360
+D1
+~
+~
+~
+0 0 16367
+D2
+~
+~
+~
+0 0 16374
+D3
+~
+~
+~
+0 0 16365
+D4
+~
+~
+~
+0 0 16312
+M 0 H 0
+S
+#16367
+Under the Sea~
+A few strands of seaweed climbs toward the light from the depths below,
+the bed of kelp tickling any skin that comes in contact with.  The currents
+that run through the grass of the sea make them move like hair when it is
+submerged in water.  The light from above is not enough to make the
+algae-filled depths of the ocean clear, but one can see the dark shapes of
+other creatures swimming further below 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16361
+D1
+~
+~
+~
+0 0 16368
+D2
+~
+~
+~
+0 0 16375
+D3
+~
+~
+~
+0 0 16366
+D4
+~
+~
+~
+0 0 16309
+M 0 H 0
+S
+#16368
+Under the Sea~
+Bubbles of air come from the depths of the ocean below, following a
+stirring of something large.  Schools of fish with bright red, yellow, and
+white markings swim at speed through the water here, their slim finned
+bodies wiggling with an otherworldly grace.  Algae and brine shrimp float
+through on the flowing salt water.  The surface to the ocean seems to be
+just above, as some dappled light filters from above. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16362
+D1
+~
+~
+~
+0 0 16369
+D2
+~
+~
+~
+0 0 16376
+D3
+~
+~
+~
+0 0 16367
+D4
+~
+~
+~
+0 0 16308
+M 0 H 0
+S
+#16369
+Under the Sea~
+The water shimmers above and partially lights this area, allowing one a
+plain view of hordes of tetra fish swimming in schools.  If you watch these
+strange clear-bodied fish longer, a larger silvery fish comes along and
+scoops up a handful of the unsuspecting animals and then swims away.  Algae
+floats by on the currents that flow through here, bringing a blast of warm
+water as it travels along.  Further below, one can barely make out the large
+shapes of other creatures moving along. 
+~
+0 8 13
+D2
+~
+~
+~
+0 0 16377
+D3
+~
+~
+~
+0 0 16368
+D4
+~
+~
+~
+0 0 16307
+M 0 H 0
+S
+#16370
+Under the Sea~
+A short burst of movement disrupts the kelp and fish swimming below you,
+sending the living creatures scattering rather abruptly.  It is too dark to
+see clearly what caused this fright, however, as the light from the surface
+above is too weak to penetrate the algae-laden waters.  The fish soon return
+to their normal paths and swim in schools back and forth as they search out
+their sustenance. 
+~
+0 8 13
+D1
+~
+~
+~
+0 0 16371
+D4
+~
+~
+~
+0 0 16318
+M 0 H 0
+S
+#16371
+Under the Sea~
+The buoyant waters of the sea provide a steady resistance to all your
+efforts of swimming, the moving water playing with your clothes and hair
+alike, moving them as if under a lover's caress.  The water is warm here but
+gets colder the deeper one swims, and seems to lose definition in the
+depths, as well; the light of the surface world doesn't penetrate very far
+into the stygian fluid. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16363
+D1
+~
+~
+~
+0 0 16372
+D2
+~
+~
+~
+0 0 16379
+D3
+~
+~
+~
+0 0 16370
+D4
+~
+~
+~
+0 0 16319
+M 0 H 0
+S
+#16372
+Under the Sea~
+Creatures stir in the depths, hidden both in the relative darkness and
+the masses of plant life that flourish here.  Schools of bright fish swim in
+concert to and fro, the light from above flashing off their smooth, scaled
+bodies in vibrant yellow, red, and snowy white.  Algae mixed with shrimp
+floats by on the currents, littering your submerged body with deposits of
+their particles. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16364
+D1
+~
+~
+~
+0 0 16373
+D2
+~
+~
+~
+0 0 16380
+D3
+~
+~
+~
+0 0 16371
+D4
+~
+~
+~
+0 0 16320
+M 0 H 0
+S
+#16373
+Under the Sea~
+It is difficult to tell how deep one is in this watery bed, but it can't
+be too deep as the light from the surface world penetrates this far.  It
+becomes less and less useful the deeper one tries to scan, but it still
+illuminates peaceful groups of fish that swim about in tight groups, their
+scales shining with bright colors.  Dark shadows wiggle through the water
+below, seeming to be much larger than the gayly colored fish that swim here.
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16365
+D1
+~
+~
+~
+0 0 16374
+D2
+~
+~
+~
+0 0 16381
+D3
+~
+~
+~
+0 0 16372
+D4
+~
+~
+~
+0 0 16321
+M 0 H 0
+S
+#16374
+Under the Sea~
+The water teases the plant growth here, causing pockets of air to rise
+toward the surface, where light filters through.  The illumination is too
+poor to penetrate much deeper toward the floor, but it serves to show the
+bright fish that swim in teams in their search of food.  Every now and then,
+a larger fish rises from the depths to snack upon the tropical animals that
+are near you. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16366
+D1
+~
+~
+~
+0 0 16375
+D2
+~
+~
+~
+0 0 16382
+D3
+~
+~
+~
+0 0 16373
+D4
+~
+~
+~
+0 0 16322
+M 0 H 0
+S
+#16375
+Under the Sea~
+The water teems with fish, their scaled bodies rubbing against each other
+as they try to move in their own direction.  Glimmers of yellow, silver,
+white, and red can be seen in this writhing mass with the help of the
+natural light that comes from above, though the rays fail to penetrate into
+the briney depths below.  It is enough, however, to show the faint outline
+of larger creatures swimming slowly, as if on patrol. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16367
+D1
+~
+~
+~
+0 0 16376
+D2
+~
+~
+~
+0 0 16383
+D3
+~
+~
+~
+0 0 16374
+D4
+~
+~
+~
+0 0 16323
+M 0 H 0
+S
+#16376
+Under the Sea~
+The surface of the sea can be detected directly above, shimmering
+slightly when it is illuminated with natural light.  Far below, the water
+becomes darker and less definition of shapes can be made out, but the sea
+floor is not apparent just yet.  As for here, there are schools of gayly
+colored fish swimming about, trying to avoid you as you displace the salt
+water in their path. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16368
+D1
+~
+~
+~
+0 0 16377
+D2
+~
+~
+~
+0 0 16384
+D3
+~
+~
+~
+0 0 16375
+D4
+~
+~
+~
+0 0 16324
+M 0 H 0
+S
+#16377
+Under the Sea~
+Algae and free drifting kelp float through the water here, looking very
+much like strands of maiden hair from the way the current causes them to
+dance.  The light that penetrates the surface of the ocean directly above
+fails to define the contents of the water below, making the swimming shapes
+in that depth look like little more than wiggling masses of darkness. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16369
+D1
+~
+~
+~
+0 0 16378
+D2
+~
+~
+~
+0 0 16385
+D3
+~
+~
+~
+0 0 16376
+D4
+~
+~
+~
+0 0 16325
+M 0 H 0
+S
+#16378
+Under the Sea~
+A few strands of seaweed climbs toward the light from the depths below,
+the bed of kelp tickling any skin that comes in contact with.  The currents
+that run through the grass of the sea make them move like hair when it is
+submerged in water.  The light from above is not enough to make the
+algae-filled depths of the ocean clear, but one can see the dark shapes of
+other creatures swimming further below. 
+~
+0 8 13
+D3
+~
+~
+~
+0 0 16377
+D4
+~
+~
+~
+0 0 16326
+M 0 H 0
+S
+#16379
+Under the Sea~
+Bubbles of air come from the depths of the ocean below, following a
+stirring of something large.  Schools of fish with bright red, yellow, and
+white markings swim at speed through the water here, their slim finned
+bodies wiggling with an otherworldly grace.  Algae and brine shrimp float
+through on the flowing salt water.  The surface to the ocean seems to be
+just above, as some dappled light filters from above. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16371
+D1
+~
+~
+~
+0 0 16380
+D4
+~
+~
+~
+0 0 16335
+M 0 H 0
+S
+#16380
+Under the Sea~
+The water shimmers above and partially lights this area, allowing one a
+plain view of hordes of tetra fish swimming in schools.  If you watch these
+strange clear-bodied fish longer, a larger silvery fish comes along and
+scoops up a handful of the unsuspecting animals and then swims away.  Algae
+floats by on the currents that flow through here, bringing a blast of warm
+water as it travels along.  Further below, one can barely make out the large
+shapes of other creatures moving along. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16372
+D1
+~
+~
+~
+0 0 16381
+D2
+~
+~
+~
+0 0 16386
+D3
+~
+~
+~
+0 0 16379
+D4
+~
+~
+~
+0 0 16334
+M 0 H 0
+S
+#16381
+Under the Sea~
+A short burst of movement disrupts the kelp and fish swimming below you,
+sending the living creatures scattering rather abruptly.  It is too dark to
+see clearly what caused this fright, however, as the light from the surface
+above is too weak to penetrate the algae-laden waters.  The fish soon return
+to their normal paths and swim in schools back and forth as they search out
+their sustenance. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16373
+D1
+~
+~
+~
+0 0 16382
+D2
+~
+~
+~
+0 0 16387
+D3
+~
+~
+~
+0 0 16380
+D4
+~
+~
+~
+0 0 16333
+M 0 H 0
+S
+#16382
+Under the Sea~
+The buoyant waters of the sea provide a steady resistance to all your
+efforts of swimming, the moving water playing with your clothes and hair
+alike, moving them as if under a lover's caress.  The water is warm here but
+gets colder the deeper one swims, and seems to lose definition in the
+depths, as well; the light of the surface world doesn't penetrate very far
+into the stygian fluid. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16374
+D1
+~
+~
+~
+0 0 16383
+D2
+~
+~
+~
+0 0 16388
+D3
+~
+~
+~
+0 0 16381
+D4
+~
+~
+~
+0 0 16332
+M 0 H 0
+S
+#16383
+Under the Sea~
+Creatures stir in the depths, hidden both in the relative darkness and
+the masses of plant life that flourish here.  Schools of bright fish swim in
+concert to and fro, the light from above flashing off their smooth, scaled
+bodies in vibrant yellow, red, and snowy white.  Algae mixed with shrimp
+floats by on the currents, littering your submerged body with deposits of
+their particles. 
+~
+0 8 13
+D0
+~
+~
+~
+0 0 16375
+D1
+~
+~
+~
+0 0 16384
+D2
+~
+~
+~
+0 0 16389
+D3
+~
+~
+~
+0 0 16382
+D4
+~
+~
+~
+0 0 16331
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 16243 spec_breath_fire
+M 16244 spec_cast_mage
+M 16250 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 16005 0 1
+D 0 16028 5 1
+D 0 16049 3 2
+D 0 16059 3 2
+D 0 16070 0 1
+D 0 16070 2 1
+D 0 16076 2 1
+D 0 16248 3 1
+D 0 16249 1 1
+D 0 16250 4 1
+D 0 16251 1 2
+D 0 16251 5 1
+D 0 16252 1 2
+D 0 16252 3 2
+D 0 16253 3 2
+D 0 16253 5 2
+D 0 16254 4 2
+D 0 16255 4 1
+D 0 16256 3 2
+D 0 16257 1 2
+M 0 16008 20 16384 10
+M 0 16008 20 16385 10
+M 0 16008 20 16386 10
+M 0 16009 5 16386 10
+M 0 16008 20 16387 10
+M 0 16011 10 16387 10
+M 0 16014 10 16387 10
+M 0 16008 20 16388 10
+M 0 16008 20 16389 10
+M 0 16014 10 16389 10
+M 0 16008 20 16390 10
+M 0 16011 10 16390 10
+M 0 16008 20 16391 10
+M 0 16009 5 16391 10
+M 0 16011 10 16391 10
+M 0 16011 10 16392 10
+M 0 16014 10 16392 10
+M 0 16008 20 16393 10
+M 0 16011 10 16393 10
+M 0 16252 1 16396 10
+O 0 16240 0 16397
+M 0 16001 1 16000 10
+E 0 16021 0 21
+E 0 16018 0 10
+E 0 16019 0 8
+E 0 16020 0 16
+M 0 16002 1 16016 10
+E 0 16022 0 9
+M 0 16004 1 16029 10
+E 0 16024 0 16
+G 0 16025 0
+G 0 16026 0
+M 0 16000 2 16035 10
+G 0 16001 0
+G 0 16000 0
+G 0 16002 0
+G 0 16003 0
+G 0 16004 0
+G 0 16005 0
+M 0 16000 2 16058 10
+G 0 16011 0
+G 0 16009 0
+G 0 16008 0
+G 0 16007 0
+G 0 16006 0
+G 0 16010 0
+M 0 16003 3 16101 10
+M 0 16003 3 16103 10
+O 0 16023 0 16105
+M 0 16003 3 16107 10
+O 0 16270 0 16249
+O 0 16255 0 16252
+O 0 16256 0 16252
+O 0 16257 0 16253
+O 0 16258 0 16253
+O 0 16259 0 16253
+O 0 16271 0 16255
+M 0 16005 2 16335 10
+M 0 16006 1 16348 10
+E 0 16027 0 0
+M 0 16008 20 16354 10
+M 0 16011 10 16354 10
+M 0 16008 20 16355 10
+M 0 16014 10 16355 10
+M 0 16008 20 16356 10
+M 0 16011 10 16356 10
+M 0 16008 20 16357 10
+M 0 16008 20 16358 10
+M 0 16014 10 16358 10
+M 0 16008 20 16359 10
+M 0 16011 10 16359 10
+M 0 16008 20 16360 10
+M 0 16008 20 16361 10
+M 0 16011 10 16361 10
+M 0 16008 20 16362 10
+M 0 16011 10 16363 10
+M 0 16008 20 16364 10
+M 0 16008 20 16365 10
+M 0 16014 10 16365 10
+M 0 16008 20 16366 10
+M 0 16008 20 16367 10
+M 0 16011 10 16367 10
+M 0 16014 10 16367 10
+M 0 16008 20 16368 10
+M 0 16008 20 16369 10
+M 0 16008 20 16372 10
+M 0 16008 20 16373 10
+M 0 16009 5 16373 10
+M 0 16008 20 16374 10
+M 0 16011 10 16374 10
+M 0 16008 20 16375 10
+M 0 16008 20 16376 10
+M 0 16014 10 16376 10
+M 0 16008 20 16377 10
+M 0 16013 2 16377 10
+M 0 16011 10 16379 10
+M 0 16014 10 16379 10
+M 0 16008 20 16380 10
+M 0 16008 20 16381 10
+M 0 16011 10 16381 10
+M 0 16008 20 16382 10
+M 0 16014 10 16382 10
+M 0 16008 20 16383 10
+S
+
+
+
+#SHOPS
+16000 11 10 8 5 9 150 50 0 23
+16248 0 17 0 0 0 130 60 10 24
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

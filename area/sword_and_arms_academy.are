@@ -1,0 +1,2014 @@
+#AREADATA
+Name {15 40} Krass   Sword & Arms Academy~
+Builders None~
+VNUMs 19200 19250
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#19200
+Silverclaw the Blade master~
+SilverClaw~
+SilverClaw the Blade master, instructs the trainees in the way of the blade.
+~
+A handsome human stands before you.  Silver hair flows freely about his
+shoulders.  He is lean and high and could easily be mistaken for an elf.  He
+demonstrates a move with his swords, and it is as if the blades started
+dancing by themselves.  He finishes with an elegant bow and sheaths his
+swords.  He wears a pair of green breeches, and the two silver, thin, sharp
+edged blades hang idly from his belt.  A pair of knee high boots cover his
+feet.  
+~
+human~
+AQ 0 400 0
+40 8 10d98+804 40d10+100 4d7+10 lunge
+-5 -5 -5 -3
+AEF 0 0 C
+(null) (null) female 180
+AHMV ABCDEFGHIJK large unknown
+#19201
+IronAxe the Axe master~
+IronAxe~
+IronAxe the Axe master, helps his pupils learn some new moves.
+~
+Short, a long grey beard and a well built body make this dwarf easy to
+recognize.  IronAxe the master wielder of axes stands before you, clad in a
+breastplate and a horned helm, with his soft brown leather pants and boots. 
+A hugh two headed axe rests on his shoulder crackling with power.  He moves
+with the ease and deadliness that comes from years of battling, as he show
+his pupils some new moves and tricks with the axe.  
+~
+unique~
+AQ Ja 400 0
+38 7 10d89+743 38d10+100 4d6+11 wrath
+-4 -4 -4 -2
+0 0 CLQ R
+(null) (null) female 171
+AHMV ABCDEFGHIJK small unknown
+#19202
+Silky the Staff master~
+silky~
+Silky the Staff master, scans her surroundings intently.
+~
+Sparkling green eyes, lush crimson lips and a small sharp nose all bound
+with brilliant black hair and a pale face.  Silky stands tall and straight
+before you unashamed by the fact she is a rouge.  A lean fit body, long legs
+and longer fingers.  Silky flashes a smile and give you back your coin
+purse.  Silky wears a black hooded cape, long leather pants and knee-high
+boots.  She wields a wooden staff combined with a craftsmanship of silver
+and gold.  
+~
+human~
+A 0 200 0
+37 0 10d84+713 37d10+100 4d6+10 claw
+-4 -4 -4 -2
+BJ 0 L 0
+(null) (null) either 166
+AHMV ABCDEFGHIJK medium unknown
+#19203
+Olek Mace Master MaceMaster Cleric ~
+Olek~
+Olek the Mace master, pray's silently to his god.
+~
+Olek is a short and pudgy fellow, his smile warms your heart and makes
+you feel welcomed.  Olek wears a long white robe that contrasts well with
+his flowing grey beard.  The mace that hangs from his belt is a real work of
+art and he fondles it with care and love now and then.  His head is bald,
+his ears big but other than that, Olek seems a really great guy.  
+~
+human~
+AB 0 800 0
+36 0 10d80+683 36d10+100 4d6+9 claw
+-4 -4 -4 -2
+H M BLPQ H
+(null) (null) female 162
+AHMV ABCDEFGHIJK medium unknown
+#19205
+Marian the spellcrafter, wizard of the academy.~
+marian~
+Marian the spellcrafter, wizard of the academy is meditating quietly here.
+~
+Marian the spellcrafter stands before you.  Her emerald green eyes
+piercing into your mind.  She is pretty but not beautiful,her pale skin and
+black hair make her look a bit haunting.  She wears a red robe with a large
+sunrise at the middle of her stomach.  Marian is lean and tall with long
+delicate fingers that can shape magic quickly and easily.  
+~
+human~
+AHO 0 500 0
+37 0 10d84+713 37d10+100 4d6+10 none
+-4 -4 -4 -2
+0 0 CP L
+(null) (null) either 166
+AHMV ABCDEFGHIJK medium unknown
+#19206
+Short Trainee~
+a short trainee~
+A short trainee is here, practicing some moves.
+~
+A short trainee stands here, practicing some moves with his short sword. 
+He has short black hair, hazel brown eyes and a hawk-like nose.  He is pudgy
+but well built, his muscles ripple beneath his shirt.  
+~
+human~
+A 0 200 0
+20 0 6d39+294 20d10+100 3d5+4 digestion
+2 2 2 4
+EI 0 0 0
+(null) (null) female 90
+AHMV ABCDEFGHIJK medium unknown
+#19207
+Lean Trainee~
+a lean trainee~
+A lean trainee stands here, swinging his axe in magnificent maneuverability.
+~
+A handsome and lean trainee is here swinging his large axe.  Sweat runs
+down his high brow pass his green eyes and down his flushed cheeks.  His
+hair is black and well cut and he wears fine garments that as though
+beautiful, do not interfere with his moves.  His legs and arms are strong
+and his chest wide.  This man is a true piece of a complicated war machine. 
+~
+human~
+A 0 200 0
+23 0 7d44+355 23d10+100 3d5+5 digestion
+1 1 1 3
+0 0 0 0
+(null) (null) female 103
+AHMV ABCDEFGHIJK medium unknown
+#19208
+A hot tempered trainee.~
+a hot tempered trainee~
+A hot tempered trainee is here looking for fights.
+~
+Blood flushed eyes and a mouth that won't stop yapping, this hot tempered
+trainee never stops moving.  She is either tapping her foot or swinging her
+staff but she is never still.  She looks at you and laughs, and then she laughs
+again commenting something insulting about you.  It is very clear that this
+girl is looking for a fight.  
+~
+human~
+AF a -10 0
+25 0 8d48+400 25d10+100 3d5+7 digestion
+0 0 0 2
+0 0 0 0
+(null) (null) either 112
+AHMV ABCDEFGHIJK medium unknown
+#19209
+A beautiful trainee~
+a beautiful trainee~
+An amazingly beautiful trainee stands here practicing her bow.
+~
+This beautiful trainee is lean and long.  Her long strong legs, her large
+bosom, her luscious full lips, and her beautiful big brown eyes make her
+irresistible.  Though she looks like a sweet innocent girl you sense that
+annoying her will be dangerous and that she can handle her weapons even
+better then how she handles he guys.  
+~
+human~
+A 0 200 0
+20 0 6d39+294 20d10+100 3d5+4 digestion
+2 2 2 4
+0 0 0 0
+(null) (null) either 90
+AHMV ABCDEFGHIJK medium unknown
+#19210
+roy stableboy stable boy~
+roy~
+Roy the stable boy is feeding the horses.
+~
+Small, filthy and smelly Roy is a common stableboy.  He is a scrawny
+young lad with dirt smudged all along his face.  He wears a simple wool
+tunic and a pair of warm wool pants.  
+~
+human~
+AB 0 800 0
+26 0 8d50+423 26d10+100 3d5+8 digestion
+0 0 0 2
+0 ABQ 0 0
+(null) (null) female 117
+AHMV ABCDEFGHIJK medium unknown
+#19211
+Sesil Weapon Smith~
+Sesil~
+Sesil is just finishing a fine blade.
+~
+A large man stands before you, his muscles ripple as he brings his
+sledgehammer down on a piece of metal.  His fierce brow is covered with
+sweat from the near by furnace.  He wears a leather apron and leather pants,
+he hums a happy tune as he works setting his batting pace, to his tune.  He
+smiles at you and asks "Can I help you?"  
+~
+human~
+AB 0 500 0
+35 0 10d76+654 35d10+100 4d6+9 digestion
+-3 -3 -3 -1
+CEF 0 0 0
+(null) (null) female 157
+AHMV ABCDEFGHIJK large unknown
+#19212
+Kel the armorer~
+Kel~
+Kel the armorer is fixing a battered helm.
+~
+Red long hair, red short beard and olive green eyes Kel the armorer of
+the academy, looks up from his word and stares at you.  He smiles, get up
+and looks down at you.  He is huge a simple work apron hanging around his
+neck and a large hammer in his right hand.  
+~
+human~
+AB 0 700 0
+36 0 10d80+683 36d10+100 4d6+9 digestion
+-4 -4 -4 -2
+C 0 0 0
+(null) (null) female 162
+AHMV ABCDEFGHIJK medium unknown
+#19213
+Xarg the shopkeeper~
+Xarg the shopkeeper~
+Xarg the shopkeeper stands here checking his wares.
+~
+Brown hair, a styled gray beard and moustache and keen green eyes makes
+Xarg a good merchant to look at and a bad merchant to deal with.  It is said
+that Xarg could outsmart the most famed sages of discordia and that he could
+sell anything to anyone.  Xarg wears a blow silken shirt a black leather
+pants and some fine leather boots.  He smiles and invites you to check the
+new training room.  
+~
+human~
+ABRW 0 0 0
+35 0 10d76+654 35d10+100 4d6+9 none
+-3 -3 -3 -1
+0 ABLQ 0 0
+(null) (null) female 157
+AHMV ABCDEFGHIJK medium unknown
+#19214
+Kley the crazy.~
+Kley the crazy~
+Kley the crazy is here showing some new methods for staking a vampire.
+~
+Long black hair, haunted storm grey eyes and really pale face make it
+quite easy to identify Kley.  He wears supple leather garments, and his belt
+is equipped with a large variety of stakes knifes and daggers.  He is tall
+and large, and his large hands move with grand grace and skill.  
+~
+human~
+AB a 200 0
+35 0 10d76+654 35d10+100 4d6+9 digestion
+-3 -3 -3 -1
+CIN 0 B H
+(null) (null) female 157
+AHMV ABCDEFGHIJK medium unknown
+#19215
+William the tactics instructor~
+William~
+William is sketching a battle scene on the blackboard.
+~
+A bit old of age, and a bit bent down but still William is the grand
+knight he used to be.  His two handed sword lies surly on his hip, his
+mustache is black as ever and his eyes are still sharp.  He wears a
+comfortable shirt and some loose pants other then that he teaches some young
+trainees the basic tactics of wars in large and small groups.  
+~
+human~
+AB 0 700 0
+33 0 10d69+599 33d10+100 4d5+9 digestion
+-2 -2 -2 0
+F 0 0 0
+(null) (null) female 148
+AHMV ABCDEFGHIJK medium unknown
+#19216
+Sepharus the combat sage~
+Sepharus~
+Sepharus the combat sage is here sorting some books.
+~
+A hawk like nose in the size of a continent, black eyes that will make
+rock melt and white hair like cotton fields.  Sepharus although his nasty
+look is quite a nice person, he smiles and his frame shakes.  He has long
+scrawny legs and arms with weird spots covering them.  
+~
+human~
+AB 0 800 0
+28 0 9d55+470 28d10+100 3d5+9 digestion
+0 0 0 1
+0 0 0 0
+(null) (null) female 126
+AHMV ABCDEFGHIJK medium unknown
+#19217
+A training dummy~
+a training dummy~
+A training dummy stand in the middle of the room on a short pole.
+~
+The dummy is made out of some tough hides raped in a bundle to resemble
+the body, and other smaller bundles to resemble the hands legs and head. 
+The dummy is wrapped with bandages and was then sewed together to make it
+more durable.  
+~
+doll~
+A 0 0 0
+1 0 1d2+8 1d10+100 1d1+0 none
+9 9 9 10
+0 ABCDEFGHIJKLMNOPQRS ES GHJKO
+(null) (null) male 4
+EJMc ABCGHK medium unknown
+#19218
+magnificent stallion~
+a magnificent stallion~
+A magnificent stallion struts proudly.
+~
+A magnificent black stallion stand before you, his green intelligent eyes
+studying you.  He stamps his fore legs rising a small cloud of dust with
+every impact.  He steadies his gaze to meet yours and then lowers his neck
+accepting you as his master.  
+~
+unique~
+AEI FJZ 0 0
+20 0 6d39+294 20d10+100 3d5+4 none
+2 2 2 4
+FHI 0 I H
+(null) (null) female 90
+AGHMV ABCDEFGHIJKLPQUV medium unknown
+#19219
+shabby donkey~
+a shabby donkey~
+A shabby looking donkey is here munching the grass.
+~
+A shabby looking donkey is here, her hair is half eaten and the green
+eyes look tired.  She has a fat belly and short legs and a wicked green
+crosses her face when ever you look at her.  
+This is more then just a donkey.....
+~
+pig~
+AEI 0 0 0
+20 0 6d39+294 20d10+100 3d5+4 none
+2 2 2 4
+C 0 0 0
+(null) (null) either 90
+AGV ACDEFHJKP medium unknown
+#0
+
+
+
+#OBJECTS
+#19200
+knee high boots~
+a pair of boots~
+A pair of knee high boots.~
+unknown~
+armor 0 AG
+B B B 0 0
+15 7 75 P
+#19201
+brown leather boots~
+a pair of boots~
+A pair of soft brown leather boots.~
+unknown~
+container 0 AG
+15 0 0 0 0
+1 5 15 P
+#19202
+silvertwins twin blade scimitar~
+silvertwin~
+A scimitar made from silver is here.~
+unknown~
+weapon GIST AN
+sword 7 11 lunge D
+40 15 200 P
+A
+1 1
+A
+2 2
+E
+!history!~
+It is said that both the Silvertwin blades were crafted in the deep mines
+of the dwarves, from the molten scales of Haros the mighty silver dragon. 
+The blades were ordered by the grand templar Pakir the beneficial, who was
+known to the realm as both a kind man and a brave one.  It is said that when
+Pakir wielded his blades even giants would run in fear.  A ballad describes
+how Pakir lost the blades and his life.  
+Pakir the beneficial, the greatest templar of his order
+Called upon his deity to help him get over
+The black dragon Formic who has threatened the realm
+Because thats what dragons do when their food is finally digested in to gems.
+So Pakir the beneficial called his gods name
+And by that name's right, he charged that awful bane
+His mighty scimitars "SilverTwins" held high above his head
+The grand templar Pakir slashed at that dread
+And then when Formic was almost defeated
+A black lightning struck and Pakir was beaten
+ Why do lightning struck you say? well you must see
+That even evil black dragons have a protective deity
+And that evil deity was so fed up with Pakir
+So he blasted the knight and went back to his beer
+And that my friends is the ballad of Pakir the beneficial
+The most brave and smug templar, THATS OFFICIAL.
+After that the company of dawn happened to destroy Formic and get his treasure for themselves.
+~
+#19203
+silvertwin twin blade scimitar~
+silvertwin~
+A scimitar made from silver is here.~
+unknown~
+weapon GIST AN
+sword 7 11 lunge D
+40 15 200 P
+A
+1 1
+A
+2 2
+E
+!history!~
+It is said that both the Silvertwin blades were crafted in the deep mines
+of the dwarves, from the molten scales of Haros the mighty silver dragon.
+The blades were ordered by the grand templar Pakir the beneficial, who was
+known to the realm as both a kind man and a brave one.  It is said that when
+Pakir wielded his blades even giants would run in fear.  A ballad describes
+how Pakir lost the blades and his life.
+Pakir the beneficial, the greatest templar of his order
+Called upon his deity to help him get over
+The black dragon Formic who has threatened the realm
+Because thats what dragons do when their food is finally digested in to gems.
+So Pakir the beneficial called his gods name
+And by that name's right, he charged that awful bane
+His mighty scimitars "SilverTwins" held high above his head
+The grand templar Pakir slashed at that dread
+And then when Formic was almost defeated
+A black lightning struck and Pakir was beaten
+Why do lightning struck you say? well you must see
+That even evil black dragons have a protective deity
+And that evil deity was so fed up with Pakir
+So he blasted the knight and went back to his beer
+And that my friends is the ballad of Pakir the beneficial
+The most brave and smug templar, THATS OFFICIAL.
+After that the company of dawn happened to destroy Formic and get his treasure for themselves.
+~
+#19204
+thunder axe blade~
+a thunder axe~
+A magnificent double-headed axe is here, its rune covered head is sizzling with arcane power.~
+unknown~
+weapon ABGIKST AN
+mace 8 9 blast FH
+38 30 190 P
+A
+1 1
+A
+5 1
+E
+!history!~
+ThunderAxe was crafted by IronAxe himself, from a lightning struck Ash
+wood tree, and its blade is made of dwarven metals combined together to make
+an excellent weapon.  The magical nature of the blade was set in by Marian
+herself who etched the lightning runes and the extra nature of the blade
+into the blade itself.  It is said that ThunderAxe grants it wielder more
+stamina and strength so he can wield the blade as well as its powerful and
+shocking attack.  
+~
+#19205
+Staff of bursting flame~
+a staff of bursting flame~
+A staff covered with silver and gold flames rests here.~
+unknown~
+weapon AGST AN
+dagger 7 10 peck A
+36 11 180 P
+A
+2 3
+E
+!history!~
+BurstingFlame was created by Aggar the fiery, a grand elementalist who
+used fire in most of his works.  This was one of his first creations and is
+considered a really mediocre staff.  It is said to be able to burn by touch
+any foe you are attacking.  It was bought by a small time merchant, who
+dealt with magical items and was obtained by the Company of Dawn when the
+company went into Discordia, to repair and purchase new equipment.  
+~
+#19206
+Grog the battle mace~
+a battle mace~
+A mace made out of metal with an ivory hilt decorated with gold lines lies here.~
+unknown~
+weapon IS AN
+staff 7 11 blast 0
+36 15 180 P
+E
+!history!~
+The mace was forged in the academy and is a genuine piece of art.  
+~
+#19207
+Bow of accuracy~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 1 P
+#19208
+A Hummingbird~
+a Hummingbird~
+A dagger in the shape of a Hummingbird is here.~
+unknown~
+weapon B AN
+bow 5 15 crunch 0
+35 1 175 P
+#19209
+A short sword~
+a short sword~
+A plain short sword lies here.~
+unknown~
+weapon 0 AN
+sword 5 8 lunge 0
+20 5 100 P
+E
+!history!~
+This sword has the S&A brand.
+~
+#19210
+A slight mace~
+a slight mace~
+A slight mace is here.~
+unknown~
+weapon 0 AN
+staff 5 8 none 0
+20 2 100 P
+E
+!history!~
+This mace has the S&A brand.
+~
+#19211
+A two headed axe~
+an axe~
+A two headed axe is here.~
+unknown~
+weapon 0 AN
+mace 5 9 lunge DF
+23 18 115 P
+E
+!history!~
+This axe has the S&A brand.
+~
+#19212
+A wooden Staff~
+a staff~
+A wooden staff is here.~
+unknown~
+weapon 0 AN
+dagger 6 8 claw 0
+25 8 125 P
+E
+!history!~
+This staff has the S&A brand.
+~
+#19213
+A plain flail~
+a flail~
+A plain flail can be seen here.~
+unknown~
+weapon 0 AN
+axe 5 8 blast 0
+20 13 100 P
+E
+!history!~
+This flail has the S&A brand.
+~
+#19214
+A sledge hammer~
+a sledge hammer~
+A heavy sledge hammer is here.~
+unknown~
+weapon 0 AN
+staff 5 14 peck 0
+35 30 175 P
+#19215
+A hunting knife~
+a hunting knife~
+A long and serrated knife is here.~
+unknown~
+weapon 0 AN
+bow 5 14 crunch J
+35 10 175 P
+#19216
+A two handed sword~
+a two handed sword~
+A long and heavy sword lies here~
+unknown~
+weapon 0 ANP
+sword 7 10 lunge F
+33 33 165 P
+#19217
+A wooden cane~
+a wooden cane~
+A wooden cane is here.~
+unknown~
+weapon 0 AN
+dagger 6 9 claw 0
+28 5 140 P
+#19218
+A spear~
+a spear~
+A spear lies here.~
+unknown~
+weapon 0 AN
+dagger 5 8 stab 0
+20 18 100 P
+E
+!history!~
+This spear has the S&A brand.
+~
+#19219
+A war hammer~
+a war hammer~
+A heavy war hammer lies here~
+unknown~
+weapon 0 AN
+staff 5 9 blast 0
+23 30 115 P
+E
+!history!~
+This war hammer has the S&A brand.
+~
+#19220
+A leather whip~
+a leather whip~
+A leather whip is coiled up here.~
+unknown~
+weapon 0 AN
+flail 8 7 crush 0
+30 10 150 P
+A
+18 1
+A
+19 1
+E
+!history!~
+This whip has the S&A brand.
+~
+#19221
+A horned helm~
+a horned helm~
+A helmet with two horn like spikes coming out of it lies here.~
+unknown~
+armor 0 AE
+BC BC BC A 0
+38 5 190 P
+A
+19 2
+A
+18 2
+E
+!history!~
+This helm has the S&A brand.
+~
+#19222
+A breastplate~
+a breastplate~
+A beautifully made breastplate rests here.~
+unknown~
+armor 0 AD
+BC BC BC A 0
+38 25 190 P
+E
+!history!~
+This breastplate has the S&A brand.
+~
+#19223
+A pair of forest green breeches~
+a pair of breeches~
+A pair of forest green breeches are here.~
+unknown~
+clothing 0 AF
+0 0 0 0 0
+1 2 500 P
+#19224
+A pair of soft leather pants~
+a pair of leather pants~
+A pair of soft brown leather pants are here.~
+unknown~
+clothing 0 AF
+0 0 0 0 0
+1 3 499 P
+#19225
+A chainmail shirt~
+a chainmail shirt~
+A shirt made out of small chains of metal is here.~
+unknown~
+armor 0 AD
+C C C A 0
+27 15 135 P
+E
+!history!~
+This chainmail has the S&A brand.
+~
+#19226
+A black hooded cloak~
+a black hooded cloak~
+A black hooded cloak made from fine velvet is here.~
+unknown~
+clothing S AZ
+0 0 0 0 0
+36 15 700 P
+A
+18 2
+#19227
+a feathered visor helm~
+a feathered helm~
+A visor helm is here, a beautiful purple feather is attached to it.~
+unknown~
+armor 0 AE
+AB AB AB A 0
+20 5 100 P
+E
+!history!~
+This helm has the S&A brand.
+~
+#19228
+A red robe~
+a red robe~
+A red robe is here, a large yellow sun in woven into the middle of it.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+37 8 733 P
+A
+12 30
+#19229
+A full plate armor~
+a full plate armor~
+A full plate armor is here, the symbol of some order is engraved upon it.~
+unknown~
+armor I AD
+AC AC AC A 0
+33 50 165 P
+E
+!history!~
+This suit of armor is a type of ancient armor, that knights of some ancient order used to wear.
+~
+#19230
+A white robe~
+a white robe~
+A fine linen white robe.~
+unknown~
+clothing I AD
+0 0 0 0 0
+36 13 388 P
+A
+12 10
+#19231
+A spiked breastplate~
+a spiked breastplate~
+A metal breastplate with spikes in strategic points is here.~
+unknown~
+armor 0 AD
+AB AB AB A 0
+20 30 100 P
+E
+!history!~
+This breastplate has the S&A brand.
+~
+#19232
+belt~
+a leather belt~
+A nicely tooled leather belt has been left here.~
+unknown~
+clothing 0 AL
+0 0 0 0 0
+20 3 300 P
+A
+18 1
+#19233
+arm pads cloth elastic~
+arm pads~
+A thick cylinder of cloth bound together in an elastic type of fabric is here.~
+unknown~
+armor 0 AI
+AB AB AB A 0
+20 8 100 P
+E
+!history!~
+This arm pad has the S&A brand.
+~
+#19234
+A small shield~
+a small shield~
+A small shield made from metal is here, it wears the symbol of the academy.~
+unknown~
+armor 0 AO
+C C C A 0
+26 12 130 P
+E
+!history!~
+This shield has the S&A brand.
+~
+#19235
+A small buckler~
+a small buckler~
+A small buckler is here, the symbol of the academy is painted on it.~
+unknown~
+armor 0 AO
+AB AB AB A 0
+23 9 115 P
+E
+!history!~
+This buckler has the S&A brand.
+~
+#19236
+A pair of steel gauntlets~
+a pair of steel gauntlets~
+A pair of steel gauntlets are here.~
+unknown~
+armor 0 AH
+AC AC AC A 0
+33 10 165 P
+#19237
+pair black leather gloves sleek~
+a pair of black leather gloves~
+A pair of black leather gloves are here, they are sleek.~
+unknown~
+clothing 0 AH
+0 0 0 0 0
+36 3 533 P
+A
+19 1
+A
+18 2
+#19238
+A wool tunic~
+a wool tunic~
+A wool tunic is here.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+26 22 390 P
+#19239
+A pair of warm wool pants~
+a pair of wool pants~
+A pair of warm wool pants.~
+unknown~
+clothing 0 AF
+0 0 0 0 0
+26 22 390 P
+#19240
+A wand of searing flame~
+a wand of searing flame~
+A short pointy rod made out of strange jasper is here.~
+unknown~
+wand G AO
+37 15 5 'infravision' 0
+37 5 185 P
+#19241
+A leather apron~
+a leather apron~
+A used and scorched leather apron.~
+unknown~
+clothing 0 AC
+0 0 0 0 0
+35 11 475 P
+#19242
+a bench~
+a bench~
+A sound looking wooden bench has been set here.~
+unknown~
+furniture R 0
+0 0 0 0 0
+1 1 0 P
+#19243
+heap of garbage~
+a heap of garbage~
+A smelly pile of {Gg{ga{Gr{gb{Ga{gg{Ge{x lays here.~
+unknown~
+container RS 0
+1000 0 0 0 0
+1 5 0 P
+#19244
+in the shade~
+in the shade~
+A peaceful place in the shade.~
+unknown~
+furniture R 0
+0 0 0 0 0
+1 0 0 P
+#19250
+A key for the training room~
+a training room key~
+A key for the training room is here.~
+unknown~
+key 0 AO
+0 0 0 0 0
+1 0 1500 P
+#0
+
+
+
+#ROOMS
+#19200
+Outside the main gate of the Swords & Arms academy.~
+The large wooden sign that hangs above the gate, makes it quite clear
+that you are standing outside the growing combat school "Swords & Arms". 
+The high stone wall and the heavy iron gate that stands before you are very
+impressive and the two stone gargoyles that are hunched over the gate make
+all the scene even more impressive and frightening.  You can hear the sounds
+and rackets of the trainees from inside the gate.  The gate opens to the
+north.  To the south is the road you came from.  
+~
+0 0 1
+E
+sign~
+The sign reads: This is the entrance to the academy Swords & Arms.
+~
+E
+gargoyle~
+A big stone gargoyle stands hunched on the wall near the gate. His mouth is open like he is screaming in rage.
+His expression is as if he will tear you if he could just move.
+~
+E
+north~
+~
+D0
+~
+gate~
+~
+0 0 19201
+D2
+~
+~
+~
+0 0 16018
+M 0 H 0
+S
+#19201
+The entrance to the Swords & Arms academy.~
+You are standing in a clear dirt yard.  As you look around you can see
+the trainees working hard, beating the training dummies and fighting each
+other.  The yard is about 10 yards wide and 20 yards long.  There are some
+staves and arm-pads lying around the area.  To the north the entrance to the
+inner wall begins and to the south the exit from the academy lies.  The yard
+continues to the east and west.  
+~
+0 0 1
+E
+staff~
+Its a plain wood staff.
+~
+E
+arm-pad~
+It is a small protective gear that comes on your arm.
+~
+E
+trainee~
+They are hacking and slashing at each other.
+~
+D0
+~
+~
+~
+0 0 19202
+D1
+~
+~
+~
+0 0 19226
+D2
+~
+~
+~
+0 0 19200
+D3
+~
+~
+~
+0 0 19227
+M 0 H 0
+S
+#19202
+In the inner gate.~
+A heavy iron gate looms above your head, ready to close and ensure the
+safety of the people within the fortress.  Stone walls stand high and strong
+to the left and right, leaving you in a small and compact room.  You are
+standing on paved cobblestone, it must be a part of the original fortress. 
+Before the time that the company of dawn took over this place and turned it
+into an academy.  To the north the inner gate continues, and to the south a
+yard opens.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 19203
+D2
+~
+~
+~
+0 0 19201
+M 0 H 0
+S
+#19203
+Between two gates.~
+Darkness surrounds you, broken only by the abrupt flickering of the
+torches in the walls.  The flickering light casts ghastly shadows that
+stretch and move on the four walls surrounding you.  Two gates make the only
+exits from this small chamber, built into the north and south walls.  The
+smell of still air and dirt is sensed slightly, a constant dripping sound
+can be heard coming from somewhere near the east wall.  
+~
+0 1 0
+E
+east~
+A tiny puddle of murky water has accumulated at the bottom of the east
+wall.  The middle of the wall is dripping from ceiling to bottom making the
+puddle constantly larger.  
+~
+D0
+~
+~
+~
+0 0 19204
+D2
+~
+~
+~
+0 0 19202
+M 0 H 0
+S
+#19204
+A paved cobblestone path.~
+Neither narrow nor wide, the path is paved with cobblestone, here and
+there, the path is broken, leaving small patches of dirt or pebbles in the
+midst of the path.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 19205
+D2
+~
+~
+~
+0 0 19203
+M 0 H 0
+S
+#19205
+Inside the fortress.~
+You are standing in a short stone corridor, doors lead to the north, west
+and east.  Torches are burning along the corridor illuminating it with their
+flickering orange glow.  A signpost stand in the center of the corridor.  
+~
+0 12 0
+E
+signpost~
+West- Dean's office
+East- History class
+North- Strategy Class
+North East- Hunting class
+Please note our new training room, for more details go to visit the academy shop.
+~
+D0
+~
+~
+~
+0 0 19208
+D1
+~
+~
+~
+0 0 19207
+D2
+~
+~
+~
+0 0 19204
+D3
+~
+~
+~
+0 0 19206
+M 0 H 0
+S
+#19206
+Dean's office.~
+This is a small but cosy room.  A large marble fireplace is set in the
+north wall, a soft orange glow spreads from it warming the entire room. 
+Fine Estandian rugs cover the stone floor, and a large picture hangs on a
+nail in the west wall.  A massive wood table stands near the west wall with
+a matching chair just behind it.  A faint smell of leather and metal can be
+smelled here, and the quiet here is quite surprising considering the
+distance between here and the training yard.  
+~
+0 8 0
+E
+picture~
+This is a the picture Brass on molten Gold by Harrakan Mastersniff.
+It shows a great brass dragon flying above a huge lake in sunset which makes the water look like molten gold.
+~
+D1
+~
+~
+~
+0 0 19205
+M 0 H 0
+S
+#19207
+History class.~
+Books, lots of books.  Old ones, new ones, thin ones, thick ones, every
+kind of book related to combat is here.  The cabinets are full with books so
+are the shelves, tables chairs and part of the ground.  Other then books,
+beautiful tapestries of great battles cover the walls, and some old weapons
+hang on the walls above them.  The room feels a bit stuffy.  
+~
+0 8 0
+E
+weapons~
+An array of weapons is lined on the walls, from pike weapons to
+magnificent and old swords.  All the weapons are old and seem useless.  
+~
+D0
+~
+~
+~
+0 0 19209
+D3
+~
+~
+~
+0 0 19205
+M 0 H 0
+S
+#19208
+Strategy class.~
+You are standing in a medium size stone room.  A large rug covers the
+wooden floor, worn out at some places.  A blackboard stand near the north
+wall.  Two massive wood tables stand in the middle of the room, a three
+dimensional model of the realm is placed upon them with small armies upon
+it.  Other small tables hold chess boards.  
+~
+0 8 0
+E
+blackboard~
+A mass of lines arrows and circles cover the blackboard in what appears
+to be an attack plan on a large circle in the middle.  
+~
+D1
+~
+~
+~
+0 0 19209
+D2
+~
+~
+~
+0 0 19205
+M 0 H 0
+S
+#19209
+Hunting class.~
+Stuffed animals cover the walls, decorated with long knives, spears,
+shields and bows.  A table stands in the middle of the class, a pile of
+pelts upon it.  A cabinet with old books stands on the northern side of the
+room.  Chains of garlic criss crossed with crosses line the wall.  And you
+can swear its long fangs that lie on the table.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 19207
+D3
+~
+~
+~
+0 0 19208
+M 0 H 0
+S
+#19210
+The Training room.~
+A square room with benches to sit on in the sides and a single dummy in
+the middle of the room.  Torches line the wall in case of night training and
+high windows placed at the ceiling make the usual lighting to the place. 
+The air is a bit stuffy but now and then a cool breeze comes pouring from
+the windows and door adding some freshness to the generally stuffy place.  
+~
+0 1049088 0
+D2
+~
+~
+~
+1 0 19235
+M 0 H 0
+S
+#19211
+A paved cobblestone path.~
+~
+0 32768 0
+D2
+~
+~
+~
+0 0 19212
+M 0 H 0
+S
+#19212
+A paved cobblestone path.~
+~
+0 32768 0
+D0
+~
+~
+~
+0 0 19211
+D2
+~
+~
+~
+0 0 19213
+M 0 H 0
+S
+#19213
+A paved cobblestone path.~
+~
+0 32768 0
+D0
+~
+~
+~
+0 0 19212
+M 0 H 0
+S
+#19214
+A paved cobblestone path.~
+~
+0 32768 0
+D0
+~
+~
+~
+0 0 19215
+M 0 H 0
+S
+#19215
+A paved cobblestone path.~
+~
+0 32768 0
+D0
+~
+~
+~
+0 0 19216
+D2
+~
+~
+~
+0 0 19214
+M 0 H 0
+S
+#19216
+A paved cobblestone path.~
+~
+0 32768 0
+D2
+~
+~
+~
+0 0 19215
+M 0 H 0
+S
+#19217
+North-eastern end of the training yard~
+This part of the yard is abandoned, the smell here is awful and the whole
+place looks like it could use a pair of hands to clean it and fix it.  A
+stone wall blocks the eastern western and northern directions leaving you
+with only the exit you came from.  A pile of garbage looms above you leaning
+on the north-eastern wall.  Swarms of flies fly around the pile, buzzing and
+cheering for their new found treasure.  The place seems as though the rot
+had gained a life and is trying with all his strength to rot everything
+before he returns to be dead.  The fact that it is hot here just makes all
+of the scenery more disgusting.  
+~
+0 0 1
+E
+pile~
+Its big, some may even say huge.  Every useless thing in the area found
+its way here, right from Apple cores to Zebra skins.  The most common color
+in the pile is rotting brown although if you inspect it carefully you are
+bound to find every color of the known spectrum and maybe even of the
+several unknown ones in it.  A small twinkle of light captures your eye, it
+looks like there is some kind of gem in this pile.  As you examine it
+closely it looks like a large Sapphire, and its resting on what appears to
+be a flail of a sort.  
+~
+E
+flies~
+Huge black beast, that are much to large to be flies buzz around you. 
+They are black with fluorescent purple and green shades in their wings and
+huge red eyes.  They fly around the area, landing on the heap of garbage and
+sucking vigorously at the rotten food.  
+~
+D2
+~
+~
+~
+0 0 19218
+M 0 H 0
+S
+#19218
+A part of the training yard.~
+The quiet seems a bit strange here, just a few dozens of meters from
+where trainees make such a racket it is hard to hear your thoughts.  Grass
+covers the ground, soft and green.  Small daisies blossom with no visible
+order.  The smell of the fresh plants is obscured by the awful smell that
+arrives from the north.  A stone wall blocks the way to the west and east.  
+~
+0 0 1
+E
+daisy~
+Beautiful small and full of grace a yellow daisy grows here.
+~
+D0
+~
+~
+~
+0 0 19217
+D2
+~
+~
+~
+0 0 19219
+M 0 H 0
+S
+#19219
+A part of the training yard.~
+Standing between the eastern wall of the inner fortress, and the eastern
+wall of the whole fortress there is not much room to pass by.  Small and
+rare patches of grass and weed cover the packed dirt ground, and the low
+buzz of flies insects and birds is acknowledged somewhere in the back of
+your thoughts.  The sound of trainees is faint here but still very audible. 
+~
+0 0 1
+D0
+~
+~
+~
+0 0 19218
+D2
+~
+~
+~
+0 0 19220
+M 0 H 0
+S
+#19220
+A part of the training yard.~
+A young axe wielder brushes by swiftly, leaving west in some urgent
+matter.  The yard continues to the north and west, and it seems very strange
+that the only person you saw was a single trainee.  A sturdy wooden bench is
+laid near the eastern wall, and a small bunch of roses rises from the left
+of the bench leaning towards it as though they await a story.  A field mouse
+scurries along, it is a bit of surprise you noticed him with all the lack of
+people and noise here.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 19219
+D3
+~
+~
+~
+0 0 19221
+M 0 H 0
+S
+#19221
+A part of the training yard.~
+The yard seems to be less swaying with activity.  It is as though the
+stream of trainees masters and huge piles of armor thins down as it reaches
+this part of the yard.  A robin lingers in the air, enjoying the easy breeze
+as he swirls around the yard with unmatched ease and grace.  
+~
+0 0 1
+E
+robin~
+A small robin flies through the air, its red and sweat.
+~
+D1
+~
+~
+~
+0 0 19220
+D2
+~
+~
+~
+0 0 19222
+M 0 H 0
+S
+#19222
+A part of the training yard.~
+This is the training yard.  Armors and weapons are piled everywhere,
+people are rushing through or just standing idly near one of the many piles.
+A faint scent of metal and a more ruling scent of dirt and grass can be
+smelled here.  Clashes of weapons, and clatter of boots make the sounds of
+the birds very hard to trace.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 19221
+D2
+~
+~
+~
+0 0 19226
+M 0 H 0
+S
+#19223
+The stable yard.~
+Dirt and hay cover the ground, a wall blocks the exits to the north and
+east.  A circular holding pen stands at the corner of the north-eastern
+wall.  It seems to be used for training.  The yard is not big but not small
+as well.  To the west lies a small gate.  A faint smell of manure comes from
+the south.  
+~
+0 0 1
+E
+holding~
+A simple circular fence, made out of wood.
+~
+D2
+~
+~
+~
+0 0 19224
+D3
+~
+~
+~
+0 0 19241
+M 0 H 0
+S
+#19224
+The Stables~
+The strong scent of manure and hay strikes you hard as a sudden gust
+rushes by.  Three stalls line the east wall, filled by strong beautiful and
+well kept beasts.  This place is dominated by straw.  Straw as a ceiling, as
+food and as large piles for the case that the ceiling or food grow short! 
+To the north a small yard opens and to the east the training yard lies.  
+~
+0 2097152 1
+D0
+~
+~
+~
+0 0 19223
+D1
+~
+~
+~
+0 0 19227
+M 0 H 0
+S
+#19225
+Storage room~
+~
+0 1081356 0
+M 0 H 0
+S
+#19226
+A part of the training yard.~
+The yard is filled with trainees fighting, bashing, kicking, and lashing
+body parts at each other.  It smells of dirt dust sweat and a bit of blood
+all mingled together.  The outcome of smells is a bit offensive.  Patches of
+weed and grass grow here and there dotting the yard with their brown and
+green colors.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 19222
+D1
+~
+~
+~
+0 0 19240
+D3
+~
+~
+~
+0 0 19201
+M 0 H 0
+S
+#19227
+A part of the training yard.~
+Ah another part of the training yard.  The yard is moderately full with
+trainees, banging and slashing and dancing lethal dances of death.  The
+sounds of clinking metal smashing staves and maces and the thuds of clashing
+bodies make every other sound that might be sounded here quite impossible to
+hear.  Instructors pass by, watching the pupils train, and correcting them
+when ever necessary.  Dust and mud particles rule the air, as more clouds of
+dust rise with every move of the pupils.  A faint smell of dung rises from
+the west.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 19228
+D1
+~
+~
+~
+0 0 19201
+D3
+~
+~
+~
+0 0 19224
+M 0 H 0
+S
+#19228
+A part of the training yard.~
+A squad of trainees stands in the middle of this section of the training
+yard.  They stand in 3 rows thrusting their blades at invisible enemies.  A
+single man stands before the squad shouting instructions and corrections to
+the squad.  The rumble of the boots as they meet the ground with a loud
+SMACK!  Is deafening.  Some small rocks and pebbles dance a weird dance with
+each smack of boots, swirling and whirling around.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 19229
+D2
+~
+~
+~
+0 0 19227
+M 0 H 0
+S
+#19229
+A part of the training yard.~
+Standing in the training yard you are surrounded by warriors training
+hard to achieve mastery.  They jab, thrust, swing and yank their weapons
+practicing the same maneuver over and over.  The yard is not big and is
+occupied by several trainees.  The dirt floor is hard beneath your feet and
+the smell of sweat is overwhelming.  A strange structure stands in the
+middle of the yard.  It appears to be some sort of a simulation of
+treacherous ground.  More trainees are training on the structure.  
+~
+0 0 1
+E
+structure~
+The structure is made of wood.  It is a sort of stage that leans
+dangerously to the east and has several bumps and holes in it.  It appears
+to be some sort of a simulation for treacherous ground.  
+~
+D2
+~
+~
+~
+0 0 19228
+D3
+~
+~
+~
+0 0 19230
+M 0 H 0
+S
+#19230
+A part of the training yard.~
+This part of the yard is quite empty.  A few trainees are here practicing
+in pairs.  They seem to dance, though sometimes the lethal dance stops in an
+abrupt halt when someone falls or gets badly hurt.  The yard itself is what
+you can call a normal stumped yard.  The dirt is packed, and small sharp
+stones are scattered around the ground.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 19231
+D1
+~
+~
+~
+0 0 19229
+M 0 H 0
+S
+#19231
+A part of the training yard.~
+The yard narrows as two stone walls close on you from the west and east,
+leaving you beneath the shade of the two massive trees you can't seem to
+identify.  A quick squirrel darts up one of the trees vanishing between the
+thick brush of branches and leaves.  A trainee rushes by from the south,
+running north with a small pile of iron ingots.  
+~
+0 0 1
+E
+trees~
+The are old and big trees, with vibrant green leaves.  The have a big
+trunk with hardly any branches darting from it and a large canopy of
+branches and leaves at the top of the trees.  
+~
+D0
+~
+~
+~
+0 0 19232
+D2
+~
+~
+~
+0 0 19230
+M 0 H 0
+S
+#19232
+A part of the training yard.~
+An old oak tree stands near the wall, the sweet tweeting sound of birds
+is audible from the tree and once in a while you can even spot a bird.  Dirt
+covers the ground and small pieces of rubble are scattered all around the
+yard.  Walls close on you from the west and east leaving only the south and
+north to leave by.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 19233
+D2
+~
+~
+~
+0 0 19231
+M 0 H 0
+S
+#19233
+Before the smithy and the armory.~
+Heat radiates from the smithy and armory, and there is a constant beat as
+a hammer hits an in-process weapon.  A small patch of grass covers this part
+of the yard, and a small garden of roses is lined against the wall.  The
+smell of iron and metal is strong here.  Screeches rise from time to time as
+metal is dragged across a room near by.  
+~
+0 0 1
+E
+roses~
+Beautiful red roses grow here, long thorns decorating their stems.
+~
+D0
+~
+~
+~
+0 0 19234
+D1
+~
+~
+~
+0 0 19236
+D2
+~
+~
+~
+0 0 19232
+M 0 H 0
+S
+#19234
+The Armory~
+Standing at the heart of what seems to be the Armory, you are surrounded
+by shields, bracers, arm-pads and all sorts of armor.  Armor suits are
+posted upon special stands.  Shelves line the walls holding more armor upon
+them.  The room is lit by some torches and is fairly clean.  The floor has
+been swept recently and the room dusted.  No armor stands on the floor and
+all seems to be in place.  
+~
+0 8 1
+E
+suit~
+A beautiful suit of armor is here, it is a real masterpiece.  Other then
+having perfectly overlapping plates, it has magnificent Patterns endowed
+into it.  
+~
+D1
+~
+~
+~
+0 0 19235
+D2
+~
+~
+~
+0 0 19233
+M 0 H 0
+S
+#19235
+The academy shop.~
+Shelves line the walls, and weapon racks are posted so that they will
+create columns inside the shop.  A small heavy mahogany table stands in the
+northern corner.  The shop is lit by large chandeliers that holds dozen of
+candles each.  All the items look new and polished, all seems to be of
+excellent quality.  A small sign hangs above the table and a notice stands
+on the table.  The room is hot and stuffy.  
+~
+0 1032 0
+E
+sign~
+The sign reads: Buy- to buy an item. List- to see what the shop can offer. Sell- to sell items to the shop. Enjoy.
+~
+E
+notice~
+The notice reads: If you want to train in the training room, please buy a
+key to the room from the shopkeeper.  The trains are for a limited time so
+please leave when your time is up so other people can enjoy our services. 
+After buying the key please proceed to the north door, you should unlock it,
+open it, enter the room and enjoy your train.  Thank you.  
+~
+D0
+~
+doorway~
+~
+1 19250 19210
+D2
+~
+~
+~
+0 0 19236
+D3
+~
+~
+~
+0 0 19234
+M 0 H 0
+S
+#19236
+The Smithy~
+Two large furnaces are positioned at the east wall, already heated up. 
+Heat waves are radiating slowly from them.  A good sized anvil stands in the
+middle of the room with a cooling sink nearby.  About five smithing hammers
+are hung on the wall together with other equipment the smith uses.  Some
+horseshoes are hanging from a nail in the wall, probably a game played by
+the smith and his apprentice.  The room is not very big with the two large
+furnaces taking up most of the room.  
+~
+0 8 1
+D0
+~
+~
+~
+0 0 19235
+D3
+~
+~
+~
+0 0 19233
+M 0 H 0
+S
+#19237
+Cadet's bunkroom.~
+Order in such disorder is quite amazing and still that is how the room
+looks.  Piles of mats are lain randomly in the room, but their places seem
+rational in some way, other mats are spread open in rows, off duty trainees
+are sleeping resting or just playing dice and card games upon them.  All of
+this is stored in a stout stone room, large windows are placed high in the
+ceiling and torches burn in their places in the walls.  Bags and sacks of
+personal belongings are all over the place, and the feeling of friendship
+and sharing rules this happy place.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 19239
+D3
+~
+~
+~
+0 0 19238
+M 0 H 0
+S
+#19238
+Cadet's mess-hall.~
+Two rows of parallel tables are lined up in a row from the east end of
+the room to the west end of the room, each row consists of three separate
+wood tables.  The northern row of tables are stacked with piles of bread,
+cheese, meat and wine lined up as a buffet.  The southern row of tables is
+used for eating, bunches of trainees are sitting there eating, drinking,
+gossiping and having good time.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19237
+D2
+~
+~
+~
+0 0 19240
+M 0 H 0
+S
+#19239
+Instructors lounge.~
+This place seems to be teleported from a rich palace, fine Estandian rugs
+cover the floor, vases of china stands in niches in the wall.  A big table
+packed with fine wine, and exotic treats stands in the middle of the room. 
+Thick wood chairs are placed under the table.  A strong smell of wine and
+food makes your head spin a bit.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19237
+D3
+~
+~
+~
+0 0 19240
+M 0 H 0
+S
+#19240
+The barracks.~
+The wooden floor squeaks as you enter the entrance to the barracks.  A
+fireplace in the south wall provides light and warmth to this dimly lit
+room, and a bench is placed against the eastern wall.  A fine oak door with
+steel barbs upon it closes the exit to the east, and a door frame without
+any door leads to the north.  
+~
+0 8 1
+D0
+~
+~
+~
+0 0 19238
+D1
+~
+~
+~
+0 0 19239
+D3
+~
+~
+~
+0 0 19226
+M 0 H 0
+S
+#19241
+The stable gate.~
+A low arched gate made of steel gives an opening in the wall.  The stones
+that block the gate are quite new, as no dirt is packed between them.  A
+small sign hangs over the arch.  The wall seems to be breached in several
+places near the gate, and the rats and rodents squeaks are quite loud.  This
+place could use a good fix.  As for now it is blocked.  The only way out is
+through the main gate.  
+~
+0 0 1
+E
+sign~
+The sign reads: Under construction, please be patient.
+~
+D1
+~
+~
+~
+0 0 19223
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 19205 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 19210 2 2
+D 0 19235 0 2
+M 0 19200 1 19201 10
+E 0 19202 0 16
+E 0 19223 0 7
+E 0 19200 0 8
+G 0 19203 0
+M 0 19206 3 19202 10
+E 0 19209 0 16
+E 0 19233 0 10
+M 0 19205 1 19204 10
+E 0 19208 0 16
+E 0 19228 0 5
+E 0 19240 0 17
+M 0 19216 1 19207 10
+E 0 19217 0 16
+M 0 19215 1 19208 10
+E 0 19216 0 16
+E 0 19229 0 5
+E 0 19236 0 9
+M 0 19214 1 19209 10
+E 0 19215 0 16
+O 0 19243 0 19217
+M 0 19208 2 19219 10
+E 0 19212 0 16
+E 0 19233 0 10
+O 0 19242 0 19220
+M 0 19202 1 19221 10
+E 0 19205 0 16
+E 0 19224 0 7
+E 0 19226 0 5
+E 0 19237 0 9
+E 0 19200 0 8
+M 0 19209 2 19222 10
+E 0 19213 0 16
+E 0 19233 0 10
+M 0 19209 2 19223 10
+E 0 19213 0 16
+E 0 19233 0 10
+M 0 19210 1 19224 10
+M 0 19218 1 19225 10
+M 0 19219 1 19225 10
+M 0 19208 2 19227 10
+E 0 19212 0 16
+E 0 19233 0 10
+M 0 19201 1 19229 10
+E 0 19204 0 16
+E 0 19221 0 6
+E 0 19222 0 5
+E 0 19224 0 7
+E 0 19201 0 8
+M 0 19207 2 19230 10
+E 0 19211 0 16
+E 0 19233 0 10
+O 0 19244 0 19231
+M 0 19206 3 19232 10
+E 0 19210 0 16
+E 0 19233 0 10
+O 0 19244 0 19232
+M 0 19212 1 19234 10
+E 0 19214 0 16
+E 0 19241 0 3
+M 0 19213 1 19235 10
+G 0 19250 0
+G 0 19218 0
+G 0 19219 0
+G 0 19220 0
+G 0 19221 0
+G 0 19222 0
+G 0 19225 0
+G 0 19227 0
+G 0 19231 0
+G 0 19232 0
+G 0 19233 0
+G 0 19234 0
+G 0 19235 0
+G 0 19201 0
+M 0 19211 1 19236 10
+E 0 19214 0 16
+E 0 19224 0 7
+E 0 19241 0 3
+M 0 19207 2 19237 10
+E 0 19211 0 16
+E 0 19233 0 10
+M 0 19206 3 19238 10
+E 0 19210 0 16
+E 0 19233 0 10
+M 0 19203 1 19239 10
+E 0 19206 0 16
+E 0 19230 0 5
+P 0 19242 0 1 10
+O 0 19242 0 19240
+S
+
+
+
+#SHOPS
+19213 5 9 8 0 0 130 75 1 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

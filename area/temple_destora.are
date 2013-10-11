@@ -1,0 +1,993 @@
+#AREADATA
+Name {15 99} Ciara   Temple of Destora~
+Builders Ciara Dawn~
+VNUMs 3800 3920
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#3886
+Elessa~
+Elessa~
+Elessa stands ready to train and humble her students.
+~
+This woman stands before you, ready to put you in your place.  Her
+aggressive appearance and demeanor lets you know she is a master of combat. 
+Her sleek, serpent body is stunning and beautiful.  Her upper body is toned
+and you can tell she can handle any assault or surprise you throw at her. 
+The streamline flow of her snake-body shows her ability to move and strike
+from a standing position.  She will obviously put you in your place if you
+step out of line in your training.  
+~
+unique~
+A 0 -1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 LQ BLQ 0
+(null) (null) either 450
+AMXc ABCDEFGIKLQUVX medium unknown
+#3887
+ssilvaeran guard~
+a ssilvaeran guard~
+This ssilvaeran guard stays close to Ciara.
+~
+~
+unique~
+A 0 0 0
+101 0 13d1446+3994 101d10+100 6d11+30 none
+-45 -45 -45 -40
+0 LQ L 0
+(null) (null) female 454
+AMXc ABCDEFGIKLQUVX medium unknown
+#3888
+baby snake~
+a baby snake~
+This baby snake stays close to Ciara.
+~
+~
+unique~
+A 0 0 0
+101 0 13d1446+3994 101d10+100 6d11+30 none
+-45 -45 -45 -40
+0 LQ L 0
+(null) (null) female 454
+AMXc ABCDEFGIKLQUVX medium unknown
+#3889
+ssilvaeran shopkeeper~
+a ssilvaeran shopkeeper~
+This ssilvaeran works to keep Ciara's children taken care of.
+~
+This aging ssilvaeran male works hard tending to the children of Ciara.  
+~
+unique~
+A 0 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 LQ L 0
+(null) (null) male 450
+AMXc ABCDEFGIKLQUVX medium unknown
+#3890
+fluffy bunny~
+a fluffy bunny~
+This fluffy bunny is really cute.
+~
+Soft white and brown fur covers the body of this large bunny.  A pair of
+long ears adorn the top of her head, and her twitching nose looks oh so
+cute.  A large cotton tail can be seen wiggling as she moves around.  
+~
+rabbit~
+A 0 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+FH 0 0 0
+(null) (null) either 450
+AGV ACDEFHJKP medium unknown
+#3892
+Verraent~
+Verraent, the Cleric~
+Verraent stands here, waiting to heal any who need his assistance.
+~
+This medium sized man stands in the center of this chamber, offering his
+services to any who enter here.  His appearance is slightly startling as you
+notice his pitch-black skin and stark white hair.  He looks around the room
+with dull red eyes, seeming to survey the occupants, carefully.  He seems to
+give off a pleasant feeling and one of serenity, perhaps his appearance is
+separate from his demeanor.  
+~
+unique~
+A J -1000 0
+100 5 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 LQ BLQ 0
+(null) (null) female 450
+AHMV ABCDEFGHIJKQUV medium unknown
+#3893
+Draig red dragon~
+Draig~
+Draig, the red dragon, is here watching the room.
+~
+Standing imposingly in the room, the immense size and might of this dragon 
+draws the eyes of all the room's occupants.  His fiery red body shimmers in 
+the light, giving his form the same appearance as a flickering flame.  
+Arched upon a long, muscular neck, his head is slender and sharp.  The 
+fierce eyes that gaze out around the room only add to the respect he 
+demands.  Large horns rise from his head, their deep obsidian color blends 
+well with the shadows that cover his body from the many cuts and curves of 
+his monsterous body.  From his neck sprout razor sharp scales that fan out 
+and highlight the ferocity of his appearance.  Travelling down the front of 
+his body are heavy scales, seeming almost like armor plating, each cut for 
+easy mobility yet strong enough to protect.  His body seems to hold the same 
+grace and fluidity as that of a cat, housing within it great and horrible 
+strength able to be released like a pent up coil.  From his back spread 
+large wings of crimson and smokey black, they are partially open and drawn 
+forward, almost to increase the size of his appearance and also show another 
+form of protection he holds.  Curling next to his hind legs and resting 
+smoothly along the floor is his long slender tail.  That part of him alone 
+seems able to crush a man with a single movement.  For all his fierce 
+appearance, he seems very calm and controlled.  He watches the room with his 
+penatrating gaze, seeming to take in every breath and twitch.  
+~
+dragon~
+A DFJOTc 0 0
+101 10 13d1446+3994 101d10+100 6d11+30 none
+-45 -45 -45 -40
+0 L BEH FI
+(null) (null) female 454
+ACGHMVZc ACDEFGHIJKLOPQUVX large unknown
+#3898
+cloaked man Maestro Phanuel~
+a cloaked man~
+A tall, cloaked man stands here, watching the room.
+~
+This man is covered from head to toe in a long flowing cloak.  His hood
+sets a shadow over his face, making the detail of his features hard to
+determine.  The stern lines of his face and the soft pallor of his skin are
+visible, however, giving him an almost handsome appearance.  His cloak is
+covered in unintelligible symbols that seem to swirl and move along the
+fabric.  That, however, could be an illusion caused by the slight shift of
+the material.  This figure does not seem threatening, but the strange nature
+of his appearance seems to make one think twice before approaching him.  
+~
+unique~
+A J 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 0 B 0
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#3800
+Scroll of Destora~
+a neatly rolled scroll~
+A neatly rolled scroll lays here, ready to be opened.~
+unknown~
+treasure T AO
+0 0 0 0 0
+50 2 500 P
+E
+lettering~
+The neatly inked letters form into intelligible words, reading as follows: 
+ 
+"He who searches for Knowledge is never far from Truth.
+ Time is forgotten within the bounds of Understanding.
+ The ruins of the Past are Present in the Future,
+ There shall one Find that for which they Search."
+~
+E
+scroll~
+This scroll appears to be new and unused saved for the inked lettering
+set perfectly at the center.  The lettering is strange in appearance and
+appears to be meaningless scribble on the page.  Suddenly the lettering
+shifts and wavers, forming words you can understand.  
+~
+#3801
+blood crystal necklace~
+a blood crystal necklace~
+A large crimson, blood crystal hangs delicately from an elegant silver chain and glows with a soft inner radiance.~
+unknown~
+protect G AC
+0 0 0 0 0
+109 3 1000 P
+#3802
+a black leather book~
+a black leather book~
+A large black leather bound book lays here, looking worn and ancient.~
+unknown~
+treasure A A
+0 0 0 0 0
+50 2 500 P
+E
+story3~
+*Large parts of the Text are missing or seem burned away*
+
+
+"Emergence"
+The invokers, magic-users.  They weave magic not with the words of their mouths,
+but the movements of their hands...
+The invokers sought a new power that would give them complete control over the
+elements.  Most users of magic were against so much power in such a small area of
+concentration....
+Too much power in a small area?  The dissidents were correct.  There were
+no words to describe what happened next, not accurately at least.  Huge
+waves crashed onto the beaches of Utopia and Tortuguero, swamping the towns.
+Earthquakes rent the streets.  Firestorms, lightning...  The images that
+were left to us were terrible...
+More terrible, perhaps, was the development soon after--the fact that the
+plane of magic had been torn asunder, had done more than it was supposed to
+by giving invokers power.  It had sent Gods from their prisons, letting them
+free to affect the world directly.  More importantly, but less obvious... 
+The tear in the plane of magic had set free the Ancients.
+The Ancients were not yet aware of their freedom.  Fortunately for the
+world, there were a few years of peace while the people adjusted to this
+new, awkward reality.  These years of peace came to a sudden end when the
+Ancients flexed their newfound power.  The people were unprepared
+completely.  Distracted by the affairs of politics, the affairs of their own
+religions, none had foreseen what would happen save a select few whose
+voices were overlooked.
+I would wish to say that a valiant effort to defeat the Ancients took
+place.  There were a few instances here and there of scattered fighting
+between Ancient and mortal or a mixture of Gods and mortals attempting to
+quell the Ancient uprising.  I could not tell you more than that
+here--perhaps a hidden book holds the truth.  What I do know is that the
+Gods and mortals did not hold out very long.  Within weeks, the Gods and the
+more powerful mortals had been destroyed.  While the last Gods were being
+hunted down by their Ancient pursuers, they managed to use their own power
+to send the still-sleeping Gods to the Dreamscapes, hidden temporarily from
+the Ancients.
+~
+E
+story2~
+The Ring of Order
+ 
+The Gods of Order created the Ring of Order, an artifact of immense power
+with now largely mythical properties. The ring was given to Kohmar Brehus,
+a warrior who detested the current way of things, who used its powers to help create a 
+kingdom and restore order to the land. 
+
+Brehus created a system of monarchy that survives to this day. Each King or 
+Queen names his or her own sucessor, it does not necessarily pass from father
+to son or mother to daughter. These Kings then rule and protect the land from
+those who threaten it.
+
+As time went on and other towns and cities were formed, it was later declared
+that there should be a Baron or Baroness from each major settlement. On their
+own, the King would overrule these Barons, but if the Barons presented a 
+unanimous front on a decision, the views of the Barons should take precedence.
+The King or Queen along with the Barons and Baronesses would be responsible for
+the defence of the realm and be responsible for ensuring it never again fell 
+into the evil and chaos of the early times.
+
+Obviously, some objected to this state of affairs. The Gods of Chaos in 
+particular were certain that the races must learn right from wrong in their own
+ways and that dictating these things would lead to even greater problems in the
+future. The Gods of Chaos thus formed their own rings, and gave them to key 
+people they felt would help the true cause of Chaos. Exactly what these rings 
+do was never tested for when Brehus died, all of the rings, both Order and 
+Chaos, vanished from the world. The priests have foretold that the rings will
+only come back to the world when they are required, and that he who wields the
+Ring of Order will be the One True King.
+~
+E
+story1~
+The Beginning, The End
+
+There was a time long ago that is now forgotten, and that is the time of 
+Freedom. In this time, all races were free from the oppression and slavery
+they lived in for so long. Elders would tell the children of the world stories
+of beauty and freedom and travelling and happiness. These stories of the Elders
+were told to them as stories when they were children, and so on and so forth
+back in time, as it was so long ago. 
+
+At some point in History, a point no one can remember (or chose to remember),
+slavery fell from above on all races in the Realm. Each race was used in the
+areas they excelled in - dwarves mined and forged weapons for the Ancient Ones,
+humans worked in all areas, and so on through the races. Nothing was left 
+untouched by the Ancient Ones - they wanted total control of all things living
+and inanimate. 
+
+It was a time of slavery, rape, murder and ruthlessness. The Ancients 
+controlled all that lived, and abused the powers granted to them by the Great
+Creator showing no mercy. They killed and slaughtered without honour. 
+Throughout thousands of years of such cruel existence man and beast were 
+controlled by these Ancient Ones. The Ancient's had power that is unfathomable,
+unthinkable and uncomprehendable by even the highest ranking magicians and 
+scholars. The Ancients were of such strength and number that no mortal could
+overcome them. The races cried out time and time again for aide.
+~
+E
+page~
+This dog-earred page shows the signs of age with the yellowing color and
+torn edges.  In large flowing letters at the top center of the page are the
+words, 
+ 
+"The Well of Mystery"
+ 
+Following that are symbols and then what appears to be a list.  They are legible
+and the words are:
+ 
+(ooc Story1) "The Beginning, The End"
+(ooc Story2) "The Ring of Order"
+(ooc Story3) "Emergence"
+(ooc Story4) "New Day Dawns"
+ 
+The dog-eared pages that follow must be marked to show the places of these stories.
+~
+E
+book~
+This book appears ancient and worn, the black leather cover is beaten and
+the lettering on the front cover has faded, leaving only the imprint of the
+flowing symbols.  There are dog-earred pages, where someone has repeatedly
+marked their place or maybe significant passages.  The pages themselves seem
+to beckon to you, calling you to read them.  
+~
+#3803
+An elegant couch~
+an elegant couch~
+An old, elegant couch looks comfortable enough to rest upon as you watch the eons pass by.~
+unknown~
+furniture R 0
+0 0 0 0 0
+109 1000 0 P
+#3804
+The Black Grimoire~
+a large black grimoire~
+A large book lays here, looking old and worn.~
+unknown~
+treasure C A
+0 0 0 0 0
+60 3 600 P
+E
+book~
+~
+#3805
+Chest of Destora~
+an ancient chest~
+A large chest is here, it appears worn and old.~
+unknown~
+container G 0
+0 0 0 0 0
+50 10 1 P
+E
+chest~
+Here is a large chest sitting near the corner of the chamber.  The
+appearance of the box is old and worn, the ages seem clearly shown on its
+face.  There are symbols etched in gold on the lid and fixtures.  
+~
+#3806
+star fragment~
+a glowing fragment of a star~
+Laying here in the dirt is a glowing fragment of a star, the air around it buzzes with magical energy.~
+unknown~
+treasure ABGI A
+0 0 0 0 0
+1 10 10 P
+#3807
+star mace~
+a star shaped mace~
+This light mace is made from a strange glowing material. The head is in the shape of a star.~
+unknown~
+weapon 0 AN
+exotic 31 3 punch H
+50 0 250 P
+A
+19 3
+A
+18 3
+A
+12 100
+#3808
+star dagger~
+a star shaped dagger~
+This light dagger bears an extremely sharp blade. The hilt is in the shape of a star.~
+unknown~
+weapon 0 AN
+bow 10 20 crunch H
+98 0 490 P
+A
+19 4
+A
+18 5
+A
+13 100
+#3809
+silver star~
+a silver star~
+This silver star seems to glow with energy.~
+unknown~
+weapon 0 AN
+exotic 8 12 punch C
+41 0 205 P
+A
+19 3
+A
+18 3
+A
+12 100
+#3810
+soft down pillow~
+a soft down pillow~
+Here lays a large, soft down pillow.~
+unknown~
+furniture GIR 0
+0 0 0 0 0
+1 10 0 P
+#3811
+Ancient scroll~
+an ancient scroll~
+An ancient scroll lays here, the writing faded, but readable.~
+unknown~
+room_key G A
+0 0 0 0 0
+1 2 0 P
+E
+writing~
+The Ancients were entering a period in which they were not winning, but not 
+exactly losing, either.  They expected to more easily face the magic using 
+heroes of the gods, and it turned out that they were actually presenting 
+themselves as formidable opponents.  As the Ancients did, they found out a 
+way to combat the magic users.  They called the creature the Mage's Bane.  
+They made it to seek out active magic users, and created it in such a way 
+that it was itself immortal, yet not upon the planes of the gods or a danger 
+to the Ancients.  Every time that it was destroyed, its spirit returned to 
+the staging area from which it was sent out.  The Ancients in charge of this 
+project made note of how it was destroyed last, and made modifications to 
+it, more resistant to what had killed it.  The creature bit down on its 
+victim and with a type of unique, negating magic, it rendered its victim 
+useless.  
+~
+#3812
+antique circular table~
+a circular table~
+In the middle of this room is a large circular table with many chairs surrounding it.  At the center of the table is a large symbol that seems to glow and pulse softly.~
+unknown~
+furniture GIR 0
+0 0 0 0 0
+1 0 0 P
+#3813
+a big fluffy comforter~
+a big fluffy comforter~
+A big fluffy comforter is here, looking warm and inviting to snuggle up in.~
+unknown~
+clothing ABGIR AK
+0 0 0 0 0
+110 2 100 P
+#3820
+dark serpent~
+a dark serpent~
+This dark serpent winds itself lazily around.~
+unknown~
+armor 0 AM
+AC AC AC A 0
+20 0 100 P
+A
+13 200
+A
+12 200
+#3821
+sparkling diamond necklace~
+a sparkling diamond necklace~
+This sparkling silver necklace has a perfectly cut diamond attached to it.~
+unknown~
+treasure 0 AC
+0 0 0 0 0
+110 0 1100 P
+#3822
+shimmering blue dagger~
+a {Bs{bh{Bi{bm{Bm{be{Br{bi{Bn{bg {Bb{bl{Bu{be{x dagger~
+This {Bs{bh{Bi{bm{Bm{be{Br{bi{Bn{bg {Bb{bl{Bu{be{x dagger hums with a mysterious energy.~
+unknown~
+weapon 0 AN
+bow 7 11 charge D
+40 2 200 P
+#3890
+A Clear Pool~
+a clear pool~
+The water that drips from the stalagtites and rocky ceiling gathers in this shallow pool.~
+unknown~
+fountain R 0
+-1 0 'water' 0 0
+0 10000 10000 P
+#3891
+Book of Knowledge~
+the Book of Knowledge~
+{k~
+unknown~
+treasure R 0
+0 0 0 0 0
+110 2000 1100 P
+E
+words~
+Swirling black mists blur across the lettering and slowly form recognizable 
+words and sentences.  The letters are written in a flowing calligraphy, making 
+the words appear to dance across the pearly pages.  The words on the open 
+page stand out the most, seeming highlighted in the intense light.  
+ 
+"Those who seek Truth must see beyond many truths."
+~
+E
+book~
+This book rests open in the middle of a naturally formed rock table.  It 
+glows with an ethereal light, the leather cover seem untouched by the 
+elements and time and the pages are perfectly white, as if they were new.  
+There are black markings on each page, seeming like foreign pictographs and 
+letters.  As you look at the writing, it begins to blur and the words become 
+readable.  
+~
+#3892
+Cushions~
+a soft, fluffy cushion~
+Laying of the floor of this room is a soft, down-filled cushion.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 10000 100 P
+#3895
+a long table~
+a long table~
+(no description)~
+unknown~
+furniture R 0
+0 0 0 0 0
+50 1000 10 P
+E
+table~
+This long table stretchs the length of the room.  It is covered in many
+different books and scrolls.  Open tomes and discarded stone tablets litter
+the top and even some seats.  
+~
+#3896
+violin~
+violin~
+This is a violin.~
+unknown~
+gem 0 AO
+0 0 0 0 0
+1 0 0 P
+#3897
+A serpent tattoo~
+a serpent tattoo~
+Coiled around the wearer's wrist is a tattoo of a serpent.  As you look at this tattoo, it seems to glow.~
+unknown~
+protect AG AM
+0 0 0 0 0
+15 0 0 P
+#3898
+Throne of Ciara~
+an ancient throne~
+{k.~
+unknown~
+furniture R 0
+0 0 0 0 0
+109 5 10000 P
+E
+throne~
+Seated on an elevated dais, this throne commands the attention of the
+room.  Its large shape and ancient construct are amazing to look upon. 
+There are arcane symbols carved into the body of the throne and they seem to
+glow with an inner light.  The rich aura surrounding the dais shows that
+obviously this seat is meant only for the Divine.  
+~
+#3899
+a queen sized bed~
+a queen sized bed~
+This large, queen sized bed is cluttered in jumbled blankets and worn clothes.  Among the folds are discarded books, many of them seeming to be college text books and other source material.~
+unknown~
+furniture R 0
+0 0 0 0 0
+109 0 0 P
+#0
+
+
+
+#ROOMS
+#3800
+Shrine of Destora~
+You appear to have entered into a hallowed place.  This small grove is
+populated by a circle of standing stones.  The stones are placed evenly
+apart and the height is that of an average man.  Stepping into the stone
+circle, the energy in the air seems to vibrate.  There are faces looking out
+from the stones, the features of men and women are etched into the flat
+fronts of the blocks.  In the middle of the circle is a naturally formed
+bench or table and upon it is an open book.  
+~
+0 1028 3
+M 0 H 0
+S
+#3801
+~
+~
+0 4 0
+M 0 H 0
+S
+#3886
+Down An Earthen Staircase~
+Entering this large hole, you notice that you are standing on a
+staircase.  The enormous roots above remind you that you are below ground
+and the man-made earthen stairs leading down this deep shaft suggest you are
+going down into the belly of the earth.  There is a soft glow of light below
+you, coming from an unknown source.  
+~
+0 1048584 0
+D5
+~
+~
+~
+0 0 3893
+M 0 H 0
+S
+#3887
+A Cavernous Room~
+~
+0 1081356 0
+M 0 H 0
+S
+#3888
+~
+~
+0 4 0
+M 0 H 0
+S
+#3889
+The Training Room~
+This expansive room is made of smoothed rock, the walls and ceiling
+glisten in the light of the torches and the few stalactites that hang from
+the ceiling drip water into clear pools on the floor.  The pools appear to
+have grown out of the floor and over time formed flowing streams and
+fountains with the running water.  There are hundreds of different weapons
+strapped to the wall, giving one many options to train with.  A woman, most
+likely the trainer, stands ready in the center of the room.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 3895
+M 0 H 0
+S
+#3890
+The Chamber of Names~
+This expansive room is made of smoothed rock, the walls and ceiling
+glisten in the light of the torches and the few stalactites that hang from
+the ceiling drip water into clear pools on the floor.  The pools appear to
+have grown out of the floor and over time formed flowing streams and
+fountains with the running water.  All over the walls are pictures and
+glowing lettering.  There are whispered voices echoing through this chamber
+but there is no visible source of the sound.  
+~
+0 1048584 0
+E
+pictures~
+Covering all three walls are pictures, drawn or painted, of people. 
+There is one of a short haitorin male, another of a large dragon, and yet
+more with couples or warriors wreathed in a holy light.  There appear to be
+no names with these pictures, only strange lettering written along the
+walls.  
+~
+E
+lettering~
+The strange glowing lettering appears to be carved perfectly into the
+walls.  The words, if they are even that, are unintelligible and must have
+been written in a language that has long since died.  
+~
+D1
+~
+~
+~
+0 0 3894
+M 0 H 0
+S
+#3891
+Chamber of the Sky~
+You have stepped into a room unlike any other.  Surrounding you on all
+sides are countless stars and swirling nebulae.  The rock that should form
+this room has disappeared behind the black endlessness of, what seems to be,
+star-filled space.  You are standing on a surface, though you cannot see
+exactly what.  The void of space and time swirl all around you, showing you
+patterns of stars as no one else could see.  To the west is the carved stone
+entrance that leads back to the rest of the cavernous temple.  
+~
+0 1048584 0
+D3
+~
+~
+~
+0 0 3894
+M 0 H 0
+S
+#3892
+The Healing Chamber~
+This immense room is carved out of the cavern rock.  The light from iron 
+braziers casts shadows on the walls and cushioned floor.  The warm darkness 
+wraps around you like comforting arms, relaxing the body and mind.  The 
+shelves along the wall are covered in hundreds of candles and plates of food 
+for any visitors who are in need.  Rising up from the back wall is a 
+floating wooden staircase that seems to lead into a well-lit room.  
+~
+0 1048584 0
+D3
+~
+~
+~
+0 0 3895
+D4
+~
+~
+~
+0 0 3898
+M 0 H 0
+S
+#3893
+The Portcullis to the Temple of Destora~
+This room appears to be an enormous cavern.  The walls are made of
+dripping limestone rock and darker rock formations.  The ceiling is littered
+with stalagtites, all seeming to glow in an unnatural light from within. 
+The floor is smooth and rocky with a few stalagmites rising out of the
+ground.  The appearance of the room makes one think it is an entrance way to
+the rest of the cavern, trying to keep any intruders out with its looming
+enormity.  
+~
+0 1048584 0
+D2
+~
+~
+~
+0 0 3894
+D4
+~
+~
+~
+0 0 3886
+M 0 H 0
+S
+#3894
+The Library of Ages~
+This expansive room has been chisled out of the cavern walls.  There are
+braziers burning brilliantly, casting shadows on the dark formations.  There
+are books filling this room, the shelves are carved out of the harsh rock,
+creating a beautiful library.  The tomes, books, and scrolls that occupy
+this room are browned and crinkled from age and repeated viewing.  There is
+one long table in the center of the room with chairs all around and books
+and scrolls littering the top.  The innumerable amount of resources that
+fill this room are staggering to behold.  Within this room could be the
+history of the universe or the answers to all questions.  The shelves and
+the rest of the library stretches on further to the south while carved
+tunnels lead off to the north, west, and east.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 3893
+D1
+~
+~
+~
+0 0 3891
+D2
+~
+~
+~
+0 0 3895
+D3
+~
+~
+~
+0 0 3890
+M 0 H 0
+S
+#3895
+The Library of Ages~
+This grand room has been born from the harsh cavern walls and created
+into an awesome spectacle.  The library spreads across each wall, the
+shelves having been chiseled out of the virgin rock.  The tomes, books, and
+scrolls that fill every inch of space here range from ancient to new, all
+slightly worn from age and repeated viewing.  There is one long table in the
+center of the room with chairs all around and books and scrolls spread over
+the top of it.  The shelves and the rest of the library stretches on further
+to the north while carved tunnels lead off to the south, west, and east.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 3894
+D1
+~
+~
+~
+0 0 3892
+D2
+~
+~
+~
+0 0 3896
+D3
+~
+~
+~
+0 0 3889
+M 0 H 0
+S
+#3896
+The Chamber of Knowledge~
+This chamber is the holiest of ground in this cavernous structure.  As you 
+enter you notice the large scale of the room, the glowing limestone walls 
+and the holy symbols that seem to stand out from their places along this 
+towering structure.  All around the room are pedestals that display marvels, 
+books, orbs, and even machines.  The commanding object in the room is a 
+large throne.  It sits on an elevated dais with many large pillows 
+decorating the huge circular platform.  The ancient and regal appearance of 
+this space adds to the majesty of the room.  
+~
+0 1049608 0
+E
+orb~
+Floating just above its marble pedestal, this glowing blue orb burns with
+an eerie fire.  There is no smoke or ash created from this continuously
+burning spectacle.  
+~
+E
+machine~
+Sitting atop this pedestal is a strange contraption.  This crude machine
+is made of wood and tea-paper and spirals onto itself.  There is a wooden
+disk at the base of the machine with cords holding the spiraling tea-paper
+top to it.  Perhaps it is an ancient flying machine.  
+~
+E
+book~
+Laying open on this pedestal, this book appears old and worn.  The pages
+shown are covered in drawings and scribbled words.  The detailed pictures
+depict the muscular structure of a humanoid arm, each tendon and fiber of
+muscle is perfectly drawn and described through the text and pictures.  
+~
+D0
+~
+~
+~
+0 0 3895
+M 0 H 0
+S
+#3897
+Ciara's Dorm Room~
+This room can be described in no other way than disorderly and messy.  There 
+are clothes scattered across the floor and books stacked in every available 
+space.  A queen sized bed is situated along the southern wall, hidden below 
+jumbled sheets and comforters, even for all the clutter, it looks 
+comfortable and inviting.  A small refrigerator rests along the east wall 
+with a large butterfly chair next to it.  Empty soda cans litter the 
+endtable next to the bed and an alarm clock blinks with the unset time.  
+Hanging from the exposed water pipes are twinkling christmas lights, the 
+soft glow set from this decoration gives the room a homey and warm feeling.  
+This cluttered, crowded space is perfect for relaxation and the functions of 
+day to day living.  
+~
+0 1081357 0
+E
+book~
+Tons of college text books litter the floor and are lost in the folds of the 
+bed's blankets.  Some of the titles include great thinkers like Dante, 
+Plato, Kant, and Beauvoir.  
+~
+E
+refrigerator~
+A small brown refrigerator stands along the east wall.  There are cups and 
+dishes set around a small coffee maker that perks away, making tasty strong 
+coffee for anyone in need of a boost.  
+~
+E
+butterfly~
+This chair is large and made for comfort.  The sturdy frame allows for 
+anyone to sit and relax in the padded cloth.  Draped across the back of this 
+chair is a flag of red and white with a large red maple leaf in the center.  
+
+~
+E
+soda~
+Empty soda cans lay about the room, either littering the top of the endtable 
+or tumbling from the recycling bin.  From the logo on the cans, you can 
+guess that the owner of this room really likes Coca-Cola.  
+~
+M 0 H 0
+S
+#3898
+Tree Tower~
+This cylindrical room appears to be made out of the inside of a giant tree, 
+though the size may just be an illusion.  There is a beautiful wood floor 
+covering the entire expanse of the room as well as detailed carvings in the 
+direction of the four corners.  Filled shelves line the southern and western 
+wall of this circular room, the contents ranging from skulls in jars to 
+strangely glowing rocks.  There are cushions here to rest upon and an 
+antique couch, all seeming soft and inviting.  There is no noise here except 
+the soft plucking of a hidden harp, the sound seeming soft and pleasant like 
+that of wind through water reeds.  The floating wooden staircase spirals up 
+the walls, leading to the next level of these quarters.  
+~
+0 1081353 0
+D4
+~
+~
+~
+0 0 3899
+D5
+~
+~
+~
+0 0 3892
+M 0 H 0
+S
+#3899
+Tree Tower~
+This cylindrical room appears to be made out of the inside of a giant tree, 
+though the size may just be an illusion.  There is a beautiful wood floor 
+covering the entire expanse of the room as well as detailed carvings in the 
+direction of the four corners.  There is a sweet smell of cedar and pine 
+floating through the air, giving you the impression that this is no 
+naturally occuring tree.  The ancient furniture in the room seems priceless 
+and adds to the already breathtaking splendor of the space.  In the center 
+of this room is an antique wooden table, it is perfectly circular and many 
+chairs surround it, none seeming more important or higher than the other.  
+~
+0 1081868 0
+D5
+~
+~
+~
+0 0 3898
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 3891 0 3800
+M 0 3888 1 3887 10
+M 0 3887 1 3887 10
+M 0 3886 1 3889 10
+M 0 3892 1 3892 10
+O 0 3890 0 3892
+O 0 3895 0 3894
+O 0 13402 0 3894
+O 0 3895 0 3895
+M 0 3893 1 3896 10
+O 0 3810 0 3896
+O 0 3898 0 3896
+O 0 3899 0 3897
+O 0 3803 0 3898
+O 0 3810 0 3898
+O 0 3812 0 3899
+S
+
+
+
+#SHOPS
+3889 0 0 0 0 0 1 1 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

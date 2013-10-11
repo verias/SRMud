@@ -1,0 +1,1321 @@
+#AREADATA
+Name {40 60} Fury    Sonasta House~
+Builders None~
+VNUMs 7900 7950
+Security 9
+End
+
+
+
+#MOBILES
+#7900
+mejora lord~
+Mejora Sonasta~
+Mejora Sonasta smokes a cigar and watches over his plantation.
+~
+Mejora is a hard-looking man with shifty eyes and a constant sniffle. 
+His hair is always kept short and impeccably in place.  Being the second son
+he was not to have inherited this profitable plantation.  He schemed to take
+control of his brother's rightful inheritance.  He encouraged his field
+boss, Armando, to try to steal his brother's wife in the hopes that
+Eleuterio would die in a dual.  
+~
+Human~
+ABN D -700 S
+52 8 11d185+1225 52d10+100 5d6+16 11
+-10 -10 -10 -8
+0 0 0 0
+9 9 1 234
+AHMV ABCDEFGHIJK M unknown
+#7901
+maid woman~
+a maid~
+A middle-aged elven woman keeps the house in order.
+~
+A streak of grey hair runs through her otherwise jet-black locks which
+she keeps tightly pulled back into a bun.  Her clothes are plain but neat. 
+She has grey eyes which seem to grow colder with every instant that you are
+in her presence.  
+~
+Human~
+AN DFJUZ -400 S
+40 0 10d98+804 40d10+100 4d7+10 16
+-5 -5 -5 -3
+FR 0 HIL Z
+9 9 2 180
+AHMV ABCDEFGHIJK M unknown
+#7902
+spirit Juarita ghost~
+the spirit of Juarita~
+A ghost hovers just over the top of her coffin.
+~
+The shimmering form of a sad looking woman hovers just over a gleaming
+white coffin.  She makes no sound but tears stream down her face.  Oddly,
+although she is not of this plane, a puddle of her tears has collected on
+the top of the coffin.  
+~
+Ghost~
+ABFM DHTUZ 500 S
+55 5 11d216+1345 55d10+100 5d7+16 3
+-11 -11 -11 -9
+FH 0 A CS
+9 9 2 247
+ACGIKLMVW ABCDEFGHIJKLMP S unknown
+#7903
+Clarissa niece girl~
+Clarissa~
+Clarissa is here visiting her aunt Anabella.
+~
+Clarissa is here visiting her aunt Anabella.  She doesn't understand the
+change in her aunt who was a such a kind young woman but has turned into a
+bitter shrew.  Clarissa mostly spends her time in the sitting room, reading
+a book or playing with her cat.  She has lovely mahogany-colored hair and
+wide brown eyes.  Her skin is the color of the rich cocoa which is her
+favorite drink.  
+~
+Human~
+ABO Nc -300 S
+44 4 10d121+934 44d10+100 4d7+12 16
+-7 -7 -7 -5
+F 0 0 0
+9 9 2 198
+AHMV ABCDEFGHIJK M unknown
+#7904
+cat fat tabby~
+a fat tabby cat~
+A flat tabby cat is curled around Clarissa's feet.
+~
+It purrs and flexes claws experimentally.  
+~
+Cat~
+ABO NZ -200 S
+40 0 10d98+804 40d10+100 4d7+10 5
+-5 -5 -5 -3
+FHR A 0 0
+9 9 1 180
+AGV ACDEFHJKQUV M unknown
+#7905
+cook woman~
+the cook~
+A small, dark woman hums sweetly as she chops cilantro.
+~
+She wears her hair in long braids which flow down her shapely back.  She
+is petite, even for an elf.  Her hands are pruned from the moisture of the
+vegetables that she cuts every day for her fresh meals.  
+~
+Human~
+ABQ 0 0 S
+42 0 10d109+868 42d10+100 4d7+11 17
+-6 -6 -6 -4
+CDIKL 0 0 0
+9 9 1 189
+AHMV ABCDEFGHIJK M unknown
+#7906
+anabella sonasta~
+Anabella~
+Anabella Sonasta hums as she brushes her long dark hair.
+~
+Anabella was once a lovely elf with coffee-colored skin and flowing ebony
+hair.  She is married to Mejora and is the lady of the house.  She and her
+best friend Juarita married the Sonasta brothers in a double ceremony. 
+Anabella was never content to be the wife of the second-in-line to the
+family fortune and turned bitter until the demise of her sister-in-law,
+Juarita.  She taunted poor Eleuterio until he gave up his rightful
+inheritance.  This bitterness hardened her features and sometimes it is
+difficult to see the beauty that was once there.  
+~
+unique~
+ABO JN -450 S
+48 5 10d150+1075 48d10+100 5d6+13 0
+-8 -8 -8 -6
+FR 0 B 0
+9 9 2 216
+AHMV ABCDEFGHIJK M unknown
+#7907
+nurse maid nursemaid woman~
+the nursemaid~
+A young woman tends to the youngest Sonasta family member.
+~
+She hums sweetly to the infant in the cradle and watches you warily.  Her
+long black hair flows freely across her shoulders causing the baby to giggle
+when it brushes his face.  
+~
+Human~
+ABN Na -400 S
+50 0 10d167+1149 50d10+100 5d6+13 0
+-9 -9 -9 -7
+DF 0 0 0
+9 9 2 225
+AHMV ABCDEFGHIJK M unknown
+#7915
+butler stiff man~
+a stiff butler~
+A rather stiff looking man prepares a serving tray.
+~
+An elderly elf with short blue-grey hair stands in starkly starched
+clothing.  He looks at you with disdain, as if you are not worthy to grace
+this house.  
+~
+unique~
+AB J -500 S
+48 0 10d150+1075 48d10+100 5d6+13 16
+-8 -8 -8 -6
+DEF 0 B 0
+9 9 1 216
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#7900
+silver serving spoon~
+a silver serving spoon~
+A silver serving spoon has been immaculately polished.~
+unknown~
+5 J AN 0
+C BC ABCD ABC 0
+48 10 240 P
+0 0
+#7901
+locket silver engraved~
+an engraved silver locket~
+An engraved silver locket on a delicate chain lies here.~
+unknown~
+8 IJ AM 0
+0 0 0 0 0
+55 1 550 P
+A
+2 2
+E
+engrave~
+To my love, Eleuterio 
+~
+0 0
+#7902
+a mother of pearl coronet~
+a mother-of pearl coronet~
+A mother of pearl coronet catches the light and shimmers.~
+unknown~
+8 GIJ AE 0
+0 0 0 0 0
+48 2 480 P
+A
+12 20
+A
+3 1
+0 0
+#7903
+ebony bodkin~
+an ebony bodkin~
+An ebony bodkin has a shiny point.~
+unknown~
+5 G AN 0
+B ABCE AB ABD 0
+44 4 220 P
+A
+2 2
+0 BC
+#7904
+ruby clasp~
+a ruby clasp~
+{xA brilliant {Rruby{x, set in a silver clasp, lies here.~
+unknown~
+8 G AC 0
+0 0 0 0 0
+44 1 440 P
+A
+4 2
+0 0
+#7905
+stiffly starched waistcoat~
+a stiffly starched waistcoat~
+A black stiffly starched waistcoat lies here.~
+unknown~
+11 G AK 0
+0 0 0 0 0
+48 2 720 P
+A
+24 -3
+0 0
+#7906
+white apron~
+a crisp apron~
+A crisp white apron has been discarded here.~
+unknown~
+11 0 AL 0
+0 0 0 0 0
+40 2 600 P
+0 0
+#7907
+ruby collar~
+a {Rruby{x collar~
+{xA {Rruby{x-studded cat collar lies here.~
+unknown~
+8 G AC 0
+0 0 0 0 0
+40 1 400 P
+A
+2 1
+A
+24 -2
+0 B
+#7908
+white silk dressing gown~
+a white silk dressing gown~
+A white silk dressing gown with an embroidered noble crest lies here.~
+unknown~
+11 0 AK 0
+0 0 0 0 0
+11 2 45 P
+0 0
+#7909
+treasure coins~
+a huge treasure~
+A huge treasure is lying here, looking very valuable.~
+unknown~
+20 0 A 0
+EFHK 0 0 0 0
+27 0 270 P
+E
+writing letters~
+It reads: "Hi Conan.  No more coins from here, pal. :) Signed, Redferne".
+~
+E
+treasure~
+Looks like a LOT of coins.  One of them has writing on it.
+~
+0 0
+#7910
+chest~
+a wooden chest~
+A wooden chest stands in the corner.~
+unknown~
+15 0 0 0
+CEFGHI ABCD ABCFGHJKLM 0 0
+27 400 270 P
+E
+chest~
+It is a robust chest made from short, heavy planks that have been
+fastened together with tendons.  It is equipped with a simple brass lock.  
+~
+0 0
+#7911
+key~
+a small brass key~
+A small brass key lies here.~
+unknown~
+18 0 A 0
+BCFGHJKLM 0 0 0 0
+29 1 290 P
+E
+key~
+It is a small, simple brass key with no inscriptions or marks of any kind.
+~
+0 0
+#7912
+wren claw~
+a wren's claw~
+A wren's claw hangs from a thin leather thong.~
+unknown~
+8 0 AC 0
+0 0 0 0 0
+40 1 400 P
+A
+5 1
+A
+4 1
+0 ABCDE
+#7913
+white linen dress~
+a white linen dress~
+A white linen dress has a tomato stain on the skirt.~
+unknown~
+11 0 AK 0
+0 0 0 0 0
+1 2 45 P
+0 0
+#7914
+ghostly flame~
+a small ghostly flame~
+A tiny white flame flickers and dances.~
+unknown~
+1 AG AO 0
+0 0 999 0 0
+50 0 750 P
+0 ABCDE
+#7915
+cigar fine~
+a fine cigar~
+A fine cigar smells delicately of cherries.~
+unknown~
+3 AG AO 0
+ACDF D D 72 0
+40 2 200 P
+0 0
+#7916
+pomegranate red~
+a red pomegranate~
+A reddish pomegranate rolls about here.~
+unknown~
+26 RXb A 0
+50 61 61 61 0
+1 0 30 P
+0 0
+#7917
+heavy sauce pan~
+a heavy sauce pan~
+A heavy sauce pan still has a film of some savory sauce inside.~
+unknown~
+5 0 AN 0
+C D BD ABC 0
+42 6 210 P
+A
+19 2
+0 0
+#7918
+heart broken~
+a broken heart~
+The translucent outline of heart beats slowly here.~
+unknown~
+5 AGK AN 0
+0 BC BE D 0
+55 1 275 P
+A
+12 40
+0 ABCDE
+#7919
+ebony silver shortsword~
+an ebony and silver shortsword~
+A shortsword has a black hilt inlaid with thin silver strips that encircle the handle.~
+unknown~
+5 BG AN 0
+A AD ABD AB 0
+52 9 260 P
+A
+1 2
+0 0
+#7920
+coffin~
+a coffin~
+A gleaming white coffin rests in the center of the room.~
+unknown~
+15 R 0 0
+ADE AC 0 0 0
+0 0 0 P
+0 0
+#7921
+skeleton elven~
+an elven skeleton~
+An elven skeleton lies with boney hands crossed in a white silk lined coffin.~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#7922
+broom straw~
+a straw broom~
+A straw broom leans up against the wall here.~
+unknown~
+5 0 AN 0
+C ABC ABD ACD 0
+40 5 200 P
+A
+18 -2
+0 0
+#7923
+knitting needle~
+a knitting needle~
+A knitting needle is missing it's mate.~
+unknown~
+5 0 AN 0
+B D CD ABD 0
+50 0 250 P
+A
+19 -1
+A
+18 -2
+0 BC
+#7924
+kris bone~
+a bone kris~
+A kris made of polished bone is here.~
+unknown~
+5 BGT AN 0
+B BC ABCD ABD J
+48 3 240 P
+A
+13 20
+E
+!history!~
+This fine bone kris was plunged into Juarita's heart to end her life.  
+~
+0 BC
+#7925
+bowl wooden~
+a wooden bowl~
+A wide wooden bowl made of a rosy hardwood holds luscious looking fruit.~
+unknown~
+15 R 0 0
+BD 0 0 0 0
+0 0 0 P
+0 0
+#7926
+banana plump~
+a plump banana~
+A plump banana is just perfectly ripened.~
+unknown~
+26 0 A 0
+50 36 0 0 0
+1 0 30 P
+0 0
+#7927
+peg~
+a wooden peg~
+A series of wooden pegs line the north wall.~
+unknown~
+15 R AD 0
+BD 0 0 0 0
+0 0 0 P
+L
+pinching flesh~
+0 0
+#7928
+stone sharpening~
+a sharpening stone~
+A sharpening stone hangs on a peg beneath a row of knives.~
+unknown~
+30 0 0 0
+I H D BCD 0
+0 0 0 P
+E
+!trap!~
+You disturb the large blade which hangs above the stone.
+A sharp blade slices your arm.
+~
+0 0
+#7929
+pot boiling soup~
+a boiling pot of soup~
+A boiling pot of savory liquid smells delicious~
+unknown~
+19 R A 0
+ADE 0 0 0 0
+0 0 1 P
+0 0
+#7930
+lantern oil~
+an oil lantern~
+A small oil lantern with a thick yellowish wick burns brightly.~
+unknown~
+1 R AO 0
+0 0 100 0 0
+0 0 0 P
+0 0
+#7931
+nightstand drawer~
+a one-drawer nightstand~
+A one-drawer nightstand sits next to the bed.~
+unknown~
+15 R 0 0
+BD ACD CDEFGHJKLM 0 0
+0 0 0 P
+0 0
+#7932
+key worn~
+a worn key~
+A worn key hangs on a thin ring.~
+unknown~
+18 0 A 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#7933
+recipe secret salsa~
+a secret salsa recipe~
+A well guarded recipe for salsa is a family secret.~
+unknown~
+2 Ab A 0
+60 274 0 0 0
+40 0 1500 P
+0 0
+#7934
+barrel~
+a large barrel~
+The lid of a large barrel is slightly askew.~
+unknown~
+15 R 0 0
+BD 0 0 0 0
+0 0 0 P
+0 0
+#7935
+oats handful~
+a handful of oats~
+A handful of oats has been scattered here.~
+unknown~
+19 0 A 0
+ADE 0 0 0 0
+0 0 1 P
+0 0
+#7936
+bowl metal~
+a large metal bowl~
+A large metal bowl rests on the shelf holding fresh limes.~
+unknown~
+15 R 0 0
+BD 0 0 0 0
+0 0 0 P
+0 0
+#7937
+lime fresh~
+a fresh lime~
+A fresh lime with a fragrant greenish yellow skin rolls around.~
+unknown~
+26 0 A 0
+55 67 258 0 0
+40 0 1200 P
+0 0
+#7938
+coverlet musty~
+a musty coverlet~
+A cream-colored coverlet smells musty from sitting in an abandoned room.~
+unknown~
+11 R AK 0
+0 0 0 0 0
+35 4 250 P
+A
+12 40
+A
+5 -2
+0 BCD
+#7939
+key silver shiny~
+a shiny silver key~
+A shiny silver key lays here.~
+unknown~
+18 Q A 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#7940
+shoes feminine~
+a pair of feminine shoes~
+A pair of feminine shoes with dainty silk bows is here.~
+unknown~
+9 GR AG 0
+BC BC BC B 0
+40 4 200 P
+0 BC
+#0
+
+
+
+#ROOMS
+#7900
+Outside the Plantation House~
+{xA grand house with four thick pillars supporting the roof sits on a
+grassy hill overlooking the prosperous Sonasta Banana Plantation.  A great
+arched entranceway is closed with an ornately carved door made of deep
+{mpurple{x wood.  Behind the house, and on the eastern side a lush
+rainforest looms.  A deep {ggreen{x lawn rolls down the hill where it
+finally meets the banana grove below.  
+~
+0 8 0
+E
+door~
+It is ornately decorated with delicate looking bonchita flowers.  
+~
+E
+house~
+This is a grand old construction that is kept in immaculate shape.  The
+grey sloping roof is help up via four sturdy columns.  On the second floor
+is a long balcony.  
+~
+E
+lawn~
+This grass is not indigenous to the area.  Someone has meticulously
+groomed and pampered it to create a lush lawn that invites barefooted treks
+through it.  
+~
+D0
+You see an ornately carved door.  
+~
+~
+1 0 7901
+D2
+A wide white lane curves gently down a grassy hill to a banana grove.  
+~
+~
+0 0 7920
+S
+#7901
+A Warmly Lit Hall~
+{xThe vast entrance hallway is warmly lit by several large glowing
+globes.  The light inside of each appears to be made of several tiny
+individual fires which flit and flash around as if dozens of fireflies were
+trapped inside the spheres.  A large portrait of a young couple is hanging
+on the western wall.  A staircase made of richly buffed wood spirals up into
+the second story.  A high, arched passage leads away from the hall to a set
+of wide oak doors to the west.  The enormous hallway extends further north
+from here.  To the south stands an intricately carved arched door made of an
+exotic {mpurple{x wood.  
+~
+0 8 0
+E
+portrait~
+You see the portrait of a beautiful dark-skinned elven couple.  The woman
+is sitting in a white wrought-iron chair wearing a flowing white gown. 
+Behind her stands a very happy looking man wearing a rich brown smoking
+jacket.  
+~
+D0
+The hallway continues that way. You can see more doorways under the
+wooden staircase in that direction.
+~
+~
+0 -1 7904
+D2
+You see an ornately carved door.  
+~
+~
+1 0 7900
+D3
+Large oak doors with polished brass handles sit at the end of a short
+passageway.  
+~
+~
+1 0 7902
+D4
+You see a spiral staircase extending upwards.  
+~
+~
+0 -1 7909
+S
+#7902
+Well-Lit Study~
+A large window in the western wall provides most of the light for this
+impressive library.  Rich wood shelves line the north and south walls. 
+Books and scrolls are sorted onto their respective shelves.  A large globe,
+with the map of the realm upon it, stands in the dimly lit north-western
+corner of the room.  Two large and comfortable-looking leather arm-chairs
+adorn the center of the study together with a huge mahogany desk.  A bright
+chandelier hangs high from the vaulted ceiling.  To the east is a wide
+doorway.  
+~
+0 4194312 0
+E
+out outside beyond~
+A lush green rainforest stands just outside the property boundaries. 
+Through the trees a fantastical, opal colored river flows swiftly.  
+~
+E
+window glass~
+These windows are really BIG! They reach from about 20 inches above the
+floor to approximately 10 inches under the ceiling. If you try and
+"look out", you might see what might lie beyond these windows.
+~
+E
+chairs leather arm-chairs~
+These two chair are exactly alike one another. They look incredibly
+comfortable. They're both made from old leather, and yet they seem so worn
+that they can be nothing but a perfect place for a long needed rest.
+~
+E
+globe world map~
+You see a large world map stretch out on the enormous globe.  It has
+towns drawn in every spot available for such.  In the middle of the map you
+can spot a large town witht he name 'DISCORDIA' written over it.  It sits in
+between two rivers which meet just south of it and flow into a sea.  The
+rest is mountains, forest, plains and water.  
+~
+D1
+You see large oak doors with polished brass handles.  
+~
+~
+1 0 7901
+S
+#7903
+Shrine of Juarita~
+This room appears to have been sealed for ages.  A faint, sweet smell
+lingers in the air.  In the center of it is a elven-sized coffin.  The top
+of the coffin is carved in the likeness of a beautiful elven girl holding a
+bouquet of bonchita flowers.  Small wooden bowls have been placed in a
+circle around the coffin holding the residue of some long evaporated
+fragrant oil.  A small ladder leads to a hatch above.  
+~
+0 8 0
+D4
+You see a small ladder leading to a hatch above.  
+~
+~
+1 0 7910
+S
+#7904
+The Northern end of the hall~
+The northern part of this vast hall is tucked under the grand wooden
+staircase.  To the north is a wide set of oak doors with fancy brass
+handles.  Savory smells come from that direction.  To the south the hallway
+leads to a huge set of ornately carved doors.  To the east there is a grey
+metal door.  To the west, there is a large aspen wood door.  
+~
+0 8 0
+D0
+You see a wide set of oak doors with fancy brass handles.  
+~
+oak doors~
+1 0 7906
+D1
+You see a cold grey metal door.  
+~
+metal door~
+1 0 7913
+D2
+The rest of the hall lies in that direction, and so does the exit.
+~
+~
+0 -1 7901
+D3
+You see a large aspen wood door.  
+~
+aspen wood door~
+1 0 7905
+S
+#7905
+Luxurious Parlor~
+Two large overstuffed chairs with rose-colored upholstery rest on either
+side of a soft leather sofa.  The heavy wooden legs are carved in the shape
+of lion's paws.  A low wooden table in front of the sofa holds a large
+wooden bowl with plump ripe bananas.  Paintings of smiling dark skinned
+people hang on the dark wooden walls.  A grand window with burgundy curtains
+takes up most of the western wall.  
+~
+0 8 0
+E
+chair~
+~
+E
+chair~
+Two large chairs with dark hardwood frames have lush rose-colored
+upholstry.  They are slightly worn but are basically treasures as far as
+furniture goes.  They appear to be quite heavy and probably haven't been
+moved for years.  
+~
+E
+sofa~
+A supple tan leather couch is made from heavy construction.  The legs
+match those of the accompanying chairs, carved into the shape of lion's
+paws.  
+~
+E
+painting~
+These seems to be portraits of the Sonasta ancestors.  Most appear happy.  
+~
+D1
+You see a large aspen wood door.  
+~
+aspen wood door~
+1 0 7904
+S
+#7906
+Large Dining Room~
+Large windows, each made of three thick panes, define the eastern and
+western walls of this wide open room.  Each looks out over a tranquil
+courtyard.  The center pane on each side is stained glass, causing colored
+beams of light to move slowly across the grand dining room table as the sun
+moves on it's tireless journey.  A doorway leads out to the hall to the
+south and a small swinging door leads north.  Polished silver trays rest on
+the wide wooden buffet, ready to be used for serving.  A large wooden bowl
+sits on the center of the buffet, holding various fruits.  
+~
+0 8 0
+E
+bowl~
+A wide wooden bowl made of a rosey hardwood holds luscious looking fruit.  
+~
+E
+courtyard~
+They are quiet little retreats in the center of which grow small red
+maple trees.  A curved stone bench on each side faces away from the house.  
+~
+E
+buffet~
+This is a very old and heavy buffet.  The once crisp edges of the wood
+have been rounded a bit with age.  The front drawers have carvings of
+hummingbirds drinking the nectar from elaborate bonchita flowers.  
+~
+D0
+You see a smallish swinging wooden door.  
+~
+swinging door~
+1 0 7907
+D2
+You see a doorway leading into the vast hall.  
+~
+~
+1 0 7904
+S
+#7907
+Well Stocked Kitchen~
+A wide island defines the center of this spotlessly cleaned kitchen. 
+Stock pots and frying pans of all sizes hang from pegs on the north wall.  A
+variety of knives hang next to the pans along with a sharpening stone.  In
+the north-east corner a large black oven blasts heat throughout the room. 
+On the top is a boiling pot of some savory liquid.  A swinging wooden door
+leads south into the dining room.  Two plain wooden doors lead to the east
+and west.  
+~
+0 8 0
+E
+island~
+In the center of this large room is a wide cabinet, the top of which is a
+thick slab of bleached wood.  Long scores and nicks cover the top of surface
+which is obviously used for a cutting board.  
+~
+E
+oven~
+This is a heavy oven made of cast iron that has been blacked by years of
+seasoning.  A small door hangs on an oversized-hinge.  Heat blasts from deep
+inside.  
+~
+D1
+You see a plain wooden door.  
+~
+~
+1 0 7908
+D2
+You see a smallish swinging wooden door.  
+~
+swinging door~
+1 0 7906
+D3
+You see a plain wooden door.  
+~
+~
+1 0 7914
+S
+#7908
+The Pantry~
+Barrels of dried goods stand against the western wall.  The lid of one of
+the barrels was not replaced tightly and a stash of oats is visible.  Braids
+of garlic hang from the ceiling next to strands of just about every color
+imaginable of peppers.  Metal bowls holding fresh limes, ginger root and
+rounds of butter as well as many other ingredients line the shelves on the
+north and south walls.  A plain wooden door leads out to the west.  
+~
+0 8 0
+E
+garlic~
+Large off-white cloves with papery skins have been woven together in a
+braid using the dried stalks.  Several three-foot long braids hang from
+beams along the ceiling.  
+~
+E
+braid~
+Large off-white cloves with papery skins have been woven together in a
+braid using the dried stalks.  Several three-foot long braids hang from
+beams along the ceiling.  
+~
+D3
+You see a plain wooden door.  
+~
+~
+1 0 7907
+S
+#7909
+On the stairs~
+Polished wooden stairs spiral from the grand entrance hall below up to
+the second floor of this grand plantation house.  Each rail along the
+banister is slightly bowed and thicker in the middle than at the top and
+bottom, reminiscent of bananas.  
+~
+0 8 0
+D4
+The stair spiral up to a well-lit landing.  
+~
+~
+0 0 7911
+D5
+The stairs spiral into a vast entrance hall below.  
+~
+~
+0 -1 7901
+S
+#7910
+Mejora's Stash~
+This is a small dark room with no windows.  Most of the room is covered
+with a thick layer of dust.  A trail of footprints leads from the north wall
+to a large chest in the center of the room.  Oddly, the chest is the only
+thing in the room that has been wiped clean of dust.  The only obvious exit
+is a hatch in the floor although it doesn't look like it's been disturbed in
+ages.  
+~
+0 9 0
+D0
+You see a smooth wall with a tiny lever about waist high.  
+~
+~
+7 0 7913
+D5
+You see the outline of a trap door in the floor.  
+~
+hatch~
+1 0 7903
+S
+#7911
+Landing~
+A spiral stair case disappears into an opening in the floor on this upper
+hallway.  An intricate oval rug, woven with figures of fairies has been
+placed in front of a set of white french doors to the south.  Through the
+window panes in the doors, a view of the rows and rows of banana plants is
+visible.  Dark wooden doors lie to the east, west and north.  
+~
+0 8 0
+E
+intricate woven rug~
+You see an oval area rug woven from fine silk threads.  The threads are
+so thin that great detail has been achieved in the pattern.  Tiny fairies
+dance around the outside edge of a green field.  
+~
+E
+french~
+Wide double doors with polished brass handles open to the south.  Each
+door is made up of several hand-sized panes held together with strips of
+wood painted cleanly white.  
+~
+D0
+You see a dark wooden door.  
+~
+~
+1 0 7915
+D1
+You see a dark wooden door.  
+~
+~
+1 0 7918
+D2
+You see a wide set of french doors that lead out to a grand balcony.  
+~
+french door~
+1 0 7912
+D3
+You see a dark wooden door.  
+~
+~
+1 0 7917
+D5
+The stairs spiral into a vast entrance hall below.  
+~
+~
+0 0 7909
+S
+#7912
+The Balcony~
+A wide balcony spans the length of this great plantation house. 
+Wrought-iron chairs, painted pristine white reside next to an intricately
+sculpted table.  Along the edge of the balcony is a low wall, perhaps
+two-feet high along which are placed several flower boxes.  Brilliant blooms
+frame the sitting area which is scented delicately with lilac and hyacinth. 
+To the south lies the banana fields.  From this vantage point one can watch
+the entire process from picking, to washing, to boxing, to loading of wagons
+as the fruit is readied for market.  
+~
+0 0 0
+D0
+A set of wide french doors leads into a well-lit landing.  
+~
+french doors~
+1 0 7911
+S
+#7913
+Mejora's Study~
+The most striking feature in this private study is a tall {xbookcase{x
+which lines the south wall.  All of the shelves are made of a smooth, ash
+colored wood except for the lowest one which is significantly darker and
+appears to have some odd bumps on the face of it.  A wide leather
+wing-backed chair sits in the center of the room next to a large table.  A
+tall stain-glassed window casts colored light across the dark hardwood
+floor.  
+~
+0 8 0
+D2
+You see a large bookcase that doesn't look quite right.  It doesn't seem
+to sit squarely against the wall.  The bottom shelf has some odd bumps on
+the face.  
+~
+bookcase~
+7 0 7910
+D3
+You see a door leading out to the west.  
+~
+~
+1 0 7904
+S
+#7914
+Cooks Quarters~
+The head of a twin-sized bed with a fluffy mattress has been placed under
+a wide window along the western wall.  It is covered with a thin blue
+crocheted coverlet.  A small, one-drawer nightstand sits on the north side
+of the bed holding a small oil lantern, a wooden comb and a small hand
+mirror.  Monkeys can be seen swinging in tall hardwood trees out the window
+to the east.  A plain wooden door leads out to the east.  
+~
+0 8 0
+E
+coverlet~
+It is delicately crocheted from blue thread nearly as fine as spider's
+silk.  The pattern is complex and mostly resembles overlapping rosettes.  
+~
+D1
+A plain wooden door leads out to the east.  
+~
+plain door~
+1 0 7907
+S
+#7915
+Master Bedroom~
+A snugly set bedroom has all the necessities for a romantic evening.  A
+large fireplace adorns the east wall, and sizzling away is the wood that is
+ablaze within.  A thin translucent curtain is draped over the four posts of
+the grand mahogany bed.  The canopy rustles in the cooling breeze coming
+from the open window to the east.  Vases holding fragrant bonchita bouquets
+rest on every available surface.  A closet door is set in the western wall. 
+A heavy wooden door leads south, out of the room.  
+~
+0 0 0
+E
+vase~
+Heavy, crystal vases from a distant land have highly cut surfaces,
+allowing for extra sparkle when they catch the light.  Each is filled about
+half-full with water and holds a fragrant bouquet of golden bonchita
+flowers.  
+~
+E
+bouquet~
+Heavy, crystal vases from a distant land have highly cut surfaces,
+allowing for extra sparkle when they catch the light.  Each is filled about
+half-full with water and holds a fragrant bouquet of golden bonchita
+flowers.  
+~
+D2
+You see a dark wooden door.  
+~
+~
+1 0 7911
+D3
+You see a closet door.  
+~
+closet~
+1 7939 7916
+S
+#7916
+Spacious Closet~
+The smell of cedar gently scents the clothing which hangs from a long rod
+at the northern end of the closet and is stacked neatly in wooden cubicals
+which line the western wall.  The closet is rather spacious, easily as large
+as a peasants entire house.  Several styles of feminine shoes and fancy
+boots are lined up along the southern wall.  
+~
+0 8 0
+D1
+~
+~
+1 0 7915
+S
+#7917
+Nursery~
+This is obviously a child's room.  Everything is clean and painted
+perfectly white.  A large cradle is placed near the window to catch the
+sun's warmth when it is in the right position.  In it is a slumbering child
+wrapped in a lovingly embroidered blue baby quilt.  A changing table near
+the door hold a stack of thick cotton diapers and various baby accessories. 
+~
+0 8 0
+E
+cradle~
+You see a cradle that has been lovingly fashioned of warm rosewood.  In
+each end panel a hand hold is carved, making it easy to carry a sleeping
+infant from room to room.  Along the sides are painted a line of toy
+soldiers.  
+~
+E
+child~
+Not quite a newborn but far from a toddler, a tiny elven child figits
+slightly in his sleep.  
+~
+E
+embroidered quilt~
+A tiny blanket, quilted with loving stitches lies gently over the
+sleeping baby.  
+~
+D1
+~
+~
+1 0 7911
+S
+#7918
+Abandoned Bedroom~
+{xThis room appears to have been closed off for a very long time.  The
+coverlet on the bed is folded neatly at the foot, as if it were pulled back
+waiting for the inhabitants to settle in for a night's rest.  A dense layer
+of dust lies over everything and a musty smell thickens the air.  On the
+wall is a cross-stitched picture with the words Eleuterio and Juarita in
+pale {cblue{x.  
+~
+0 8 0
+E
+cross-stiched picture~
+Someone has lovingly cross-stiched a picture of a simple home with the
+words 'Elueterio and Juarita' above a date.  
+~
+D3
+You see a plain wooden door leading out.  
+~
+~
+1 0 7911
+S
+#7920
+On a wide lane~
+A wide lane curls gently up a long grass-covered hill.  The lush
+{Ggreen{x lawn looks terribly out of place rising at the meeting of a jungle
+and a banana plantation.  The lane is wide and lined with crushed white rock
+providing stark contrast to the green shades that dominate here.  To the
+north is a wide plantation house with two stories and white columns.  
+~
+0 4 4
+E
+lawn~
+Thick bluegrass is evenly cut creating a beautiful green carpet.  The
+lawn stretches from the sides of the great house to the north to the edges
+of the jungle.  
+~
+E
+lane~
+A wide lane meanders between the banana grove and the house on the hill. 
+Gleaming white rocks have been crushed to pebble-sized pieces and layered
+over the lane's surface.  No stray rocks seem to have found their way into
+the rich grass which lines the lane.  
+~
+D0
+You see a large house with a long balcony and white columns.  
+~
+~
+0 0 7900
+D2
+You see the banana packaging area.  
+~
+~
+0 0 2540
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 7900 spec_cast_cleric Load to: Mejora Sonasta
+M 7901 spec_cast_cleric Load to: a maid
+M 7902 spec_cast_undead Load to: the spirit of Juarita
+M 7903 spec_cast_mage Load to: Clarissa
+M 7904 spec_cast_mage Load to: a fat tabby cat
+M 7906 spec_cast_mage Load to: Anabella
+M 7907 spec_cast_cleric Load to: the nursemaid
+S
+
+
+
+#RESETS
+D 0 7900 0 0
+D 0 7901 2 0
+D 0 7901 3 0
+D 0 7902 1 0
+D 0 7903 4 0
+D 0 7904 0 0
+D 0 7904 1 0
+D 0 7904 3 0
+D 0 7905 1 0
+D 0 7906 0 0
+D 0 7906 2 0
+D 0 7907 1 0
+D 0 7907 2 0
+D 0 7907 3 0
+D 0 7908 3 0
+D 0 7910 0 0
+D 0 7910 5 0
+D 0 7911 0 0
+D 0 7911 1 0
+D 0 7911 2 0
+D 0 7911 3 0
+D 0 7912 0 0
+D 0 7913 2 0
+D 0 7913 3 0
+D 0 7914 1 0
+D 0 7915 2 0
+D 0 7915 3 1
+D 0 7916 1 1
+D 0 7917 1 0
+D 0 7918 3 0
+M 0 7901 1 7902
+E 0 7906 0 13
+E 0 7922 0 16
+O 0 7920 0 7903
+P 0 7921 0 7920
+P 0 7901 0 7920
+M 0 7902 1 7903
+E 0 7914 0 0
+E 0 7918 0 16
+O 0 7925 0 7905
+M 0 7904 1 7905
+E 0 7907 0 4
+M 0 7903 1 7905
+E 0 7904 0 3
+E 0 7903 0 16
+O 0 7925 0 7906
+P 0 7916 0 7925
+P 0 7927 0 7925
+M 0 7915 1 7906
+E 0 7905 0 12
+E 0 7900 0 16
+O 0 7929 0 7907
+O 0 7927 0 7907
+P 0 7928 0 7927
+M 0 7905 1 7907
+E 0 7917 0 16
+E 0 7913 0 12
+G 0 7932 0
+O 0 7936 0 7908
+P 0 7937 0 7936
+O 0 7934 0 7908
+P 0 7935 0 7934
+O 0 7910 0 7910
+P 0 7909 0 7910
+M 0 7900 1 7912
+E 0 7919 0 16
+G 0 7911 0
+E 0 7915 0 17
+O 0 7931 0 7914
+P 0 7933 0 7931
+O 0 7930 0 7914
+M 0 7906 1 7915
+E 0 7924 0 16
+E 0 7908 0 12
+E 0 7902 0 6
+G 0 7939 0
+O 0 7940 0 7916
+M 0 7907 1 7917
+E 0 7912 0 3
+E 0 7923 0 16
+O 0 7938 0 7918
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

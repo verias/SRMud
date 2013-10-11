@@ -1,0 +1,1407 @@
+#AREADATA
+Name { 1 20} Sighel  The Garden Lake~
+Builders Sighel~
+VNUMs 2171 2199
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#2171
+brownie brown~
+a brownie~
+A brownie peeks out from behind a fern.
+~
+A small dirty little guy peers at you intently.  Seeing you watching him,
+he beckons you closer.  
+~
+unique~
+AP J -500 0
+4 0 1d10+41 16d10+100 1d2+0 sunder
+8 8 8 8
+F 0 BCLQ RZ
+(null) (null) female 18
+AHMV ABCDEFGHIJK small unknown
+#2172
+Roselyn hag~
+Roselyn~
+Emerging from a corner is an old hag.
+~
+It's possible that Roselyn was once a beautiful woman.  Age and
+bitterness have played a nasty trick on her features.  Her eyes are sunken
+into the sockets and the skin around them is dark.  She has lost most of her
+front teeth and the two remaining have turned brown.  Her oily long black
+hair is streaked with grey.  Her most gruesome feature is her nose.  It
+appears to have been broken at some time.  It does not set squarely on her
+face but a bit off to the right.  
+~
+unique~
+ABO IJNTZ -750 0
+20 0 6d39+294 20d10+100 3d5+4 none
+2 2 2 4
+N P BI SZ
+(null) (null) either 90
+AHMV ABCDEFGHIJK medium unknown
+#2173
+fairy~
+a fairy~
+(Glowing) A tiny fairy flies toward you.
+~
+A delicate fairy, glowing softly smiles warmly at you.
+~
+unique~
+A JT 500 0
+5 0 1d12+53 5d10+100 1d2+1 crush
+8 8 8 8
+F 0 B Z
+(null) (null) male 22
+AHMV ABCDEFGHIJK tiny unknown
+#2174
+nymph~
+a nymph~
+A lithe nymph frolics in the water here.
+~
+She is very slight of build and her skin appears to shimmer in the
+reflection off the water.  Her long, wet hair hangs down her back and fans
+across the water at her waist.  She is naked and winks at you mischievously.
+~
+unique~
+ABN HJ -300 0
+14 0 5d30+184 14d10+100 2d4+1 none
+4 4 4 6
+U 0 B Z
+(null) (null) either 63
+AHMV ABCDEFGHIJK medium unknown
+#2175
+gremlin~
+a gremlin~
+A disgusting little gremlin laughs at you and runs away.
+~
+He looks like a mini gargoyle with silly little fangs and useless wings. 
+His skin is a leathery brown-grey.  He drools constantly.  
+~
+troll~
+A FJQc 0 0
+7 0 2d17+79 7d10+100 1d3+2 crush
+7 7 7 7
+DJ 0 BE HK
+(null) (null) male 31
+ABGHMVc ABCDEFGHIJKUVY medium unknown
+#2176
+gargoyle~
+a large gargoyle~
+A large gargoyle guards the grand stairway.
+~
+You might mistake this large creature for a stone statue if it wasn't for
+his glowing red eyes.  He makes no movement but stands, ready to pounce
+should the slightest danger present itself.  
+~
+unique~
+AB JTVZ -250 0
+16 0 5d33+218 16d10+100 2d4+2 digestion
+3 3 3 6
+C J L KS
+(null) (null) male 72
+ACGHMVXc ABCDEFGHIJKLOPUVW medium unknown
+#2177
+lady Queen Map~
+Queen Map~
+A tall, elegant lady stands before you, looking down harshly.
+~
+A tall, elegant lady stands before you with a long, flowing, iridescent
+blue gown.  Her dark hair sweeps nearly to the floor.  Her eyes cackle with
+an energy that reminds you of fire.  Her most striking feature are her
+hands.  The fingers are extraordinarily long and slim.  The nails have been
+filed into long points.  It might be wise to stay out of reach of those
+claws.  
+~
+unique~
+ABO DHJZ -750 0
+25 0 8d48+400 25d10+100 3d5+7 slap
+0 0 0 2
+B 0 B Z
+(null) (null) either 112
+AHMV ABCDEFGHIJK medium unknown
+#2178
+sprite~
+a forest sprite~
+A forest sprite peeks at you from behind a tree
+~
+This creature appears nearly elven, except that the skin seems to glow
+with a soft light.  His hair is colorless, as is his complexion.  There
+seems to be no pigment at all in his skin.  He peers at you from behind a
+tree and disappears easily into the forest.  
+~
+unique~
+A JNT 250 0
+8 0 2d19+93 8d10+100 2d3+1 none
+7 7 7 7
+0 0 B Z
+(null) (null) none 36
+AHMV ABCDEFGHIJK medium unknown
+#2179
+princess fairy Sylvaria~
+Sylvaria~
+Sylvaria, the fairy princess, glances at you shyly.
+~
+Sylvaria is a shy little fairy who doesn't particularly like the burden
+of her royal blood.  She yearns to be an ordinary fairy and enjoy the
+freedom to frolic at will.  She is a striking beauty with delicate wings
+that shimmer in the moonlight and glisten in the sun.  
+~
+unique~
+A JQ 400 0
+10 0 3d23+120 10d10+100 2d3+2 slap
+6 6 6 6
+J 0 B Z
+(null) (null) either 45
+AHMV ABCDEFGHIJK medium unknown
+#2180
+fairy suitor~
+a fairy suitor~
+This young male fairy hopes to win the hand of Sylvaria.
+~
+He is dressed in his finest, hoping to catch the eye of the fairy
+princess.  He has rehearsed the conversation that he hopes to have with her
+over and over.  He is not particularly handsome but hopes to charm her into
+seeing past the physical.  
+~
+unique~
+A JN 0 0
+9 0 2d21+106 9d10+100 2d3+2 none
+6 6 6 6
+EJK 0 B Z
+(null) (null) female 40
+AHMV ABCDEFGHIJK medium unknown
+#2181
+hound fierce~
+a fierce hound~
+A fierce hound paces here.
+~
+Drool drips from his long fangs and his fur is coated with sweat.  He is
+a large hound and looks dangerous.  He appears to be in a frenzy over
+something.  
+~
+dog~
+AB a -650 0
+12 0 4d26+151 12d10+100 2d4+0 crush
+5 5 5 7
+ACH 0 0 0
+(null) (null) none 54
+AGV ACDEFHJKPUV medium unknown
+#2182
+mistress waters lady~
+the Mistress of the Waters~
+There is a sound of running water as a beautiful lady forms out of the water.
+~
+This is the woman of the statue in the gardens.  She seems to be made
+purely of water.  At times, it seems that you can see right through her to
+the faint outline of island island surrounded by mists.  She introduces
+herself with a soft voice as the Mistress of Water and welcomes you warmly
+to her domain.  
+~
+unique~
+ABN HTU 0 0
+40 0 10d98+804 40d10+100 4d7+10 charge
+-5 -5 -5 -3
+AF 0 A C
+(null) (null) either 180
+ACHIKLMV ABCDEFGHIJKLM medium unknown
+#2183
+rogue~
+a rogue~
+This rogue stands quietly, awaiting orders.
+~
+This man stands about six feet in height.  His body is covered in dark
+black clothing which seems to hug his body, helping to keep his movements
+easy and silent.  He seems to be lightly muscled and moves with a quick
+waryness as though always on guard for something.  
+~
+human~
+A HOPVc -250 0
+15 3 5d31+200 15d10+100 2d4+2 crunch
+4 4 4 6
+0 0 0 0
+(null) (null) female 67
+AHMV ABCDEFGHIJK medium unknown
+#2184
+rogue leader~
+the rogue leader~
+The rogue leader is here issuing orders.
+~
+This man stands about six feet in height.  His body is covered in dark
+black clothing, broken only by a red stripe on the left sleeve.  The
+clothing itself has been designed to hug his body, helping to keep his
+movements easy and silent.  He seems to be lightly muscled and moves with a
+quick waryness as though always on guard for something.  
+~
+human~
+A HOVc 0 0
+25 5 8d48+400 25d10+100 3d5+7 crunch
+0 0 0 2
+0 0 0 0
+(null) (null) female 112
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#2171
+parchment~
+an old and yellowed piece of parchment~
+This old and yellowed piece of parchment has some faded words written on it.~
+unknown~
+treasure S AO
+0 0 0 0 0
+1 0 10 P
+E
+parchment~
+Far to the south and with a turn to the east lies a city not far from a
+cliff.  This city is massive, this city is grand, this city is inhabited by
+flying women and men.  
+
+Nobody really remembers when this city came to pass, but one thing is for
+certain, it has a long and colorful past.
+
+There is a story, a tale if you will please, about a place in this City,
+protected by ancient magic, though from where it came, nobody is sure.
+
+Seek out this City and search for a place filled with knowledge. If you
+are one who can figure out this riddle, then you will know the place of
+which I write. Within this place seek out this parchments brother, and
+upon it you will find, another riddle to solve.
+
+Riddles here and riddles there, is this a game or something more. Nobody
+really knows unless you follow the signs, and if you are brave enough, smart
+enough, and you wish to solve it bad enough, then trust your heart and use
+your mind.
+~
+E
+words~
+Far to the south and with a turn to the east lies a city not far from a
+cliff.  This city is massive, this city is grand, this city is inhabited by
+flying women and men.  
+ 
+Nobody really remembers when this city came to pass, but one thing is for
+certain, it has a long and colorful past.
+ 
+There is a story, a tale if you will please, about a place in this City,
+protected by ancient magic, though from where it came, nobody is sure.
+ 
+Seek out this City and search for a place filled with knowledge. If you
+are one who can figure out this riddle, then you will know the place of
+which I write. Within this place seek out this parchments brother, and
+upon it you will find, another riddle to solve.
+ 
+Riddles here and riddles there, is this a game or something more. Nobody
+really knows unless you follow the signs, and if you are brave enough, smart
+enough, and you wish to solve it bad enough, then trust your heart and use
+your mind.
+~
+#2172
+ring Queen Map~
+queen Map's ring~
+Queen Map's ring shimmers here.~
+unknown~
+protect ABG AB
+C C C A 0
+25 1 250 P
+A
+12 10
+A
+4 1
+A
+13 5
+#2173
+crown crystal~
+a crystal crown~
+The facets of a cut-crystal crown glitter when they catch the light.~
+unknown~
+armor GJ AE
+C C C A 0
+25 2 125 P
+A
+3 1
+#2174
+scepter map crystal~
+map's Scepter~
+A long crystal scepter slowly pulsates with a strange energy here. ~
+unknown~
+weapon BG AN
+staff 6 8 claw 0
+25 8 125 P
+A
+18 1
+A
+19 1
+#2175
+claw stone~
+a massive stone claw~
+A massive stone club looks like a fearsome weapon, if you can hold it.~
+unknown~
+weapon BG AN
+staff 4 8 pound 0
+16 20 80 P
+A
+19 1
+#2176
+a short sword~
+a short sword~
+A short sword is made of some dark material.~
+unknown~
+weapon B AN
+sword 3 5 none 0
+7 3 35 P
+#2177
+glowing red potion~
+a glowing {Rred{x potion~
+A crystal vial holding a glowing {Rred{x potion is here.~
+unknown~
+potion BG A
+10 'know alignment' 'acid blast' 'reserved' 'reserved'
+2 1 60 P
+#2178
+grass blade stiff~
+a stiff blade of grass~
+This blade of grass looks very stiff, almost as if it were made of metal.~
+unknown~
+weapon 0 AN
+bow 2 5 crunch 0
+4 0 20 P
+#2179
+vial dull potion~
+a dull {rred{x potion~
+A vial with a dull red potion inside sits here.~
+unknown~
+potion GR A
+15 'reserved' 'reserved' 'reserved' 'reserved'
+4 0 120 P
+#2180
+sphere water~
+a water sphere~
+A magical sphere of water floats here.~
+unknown~
+weapon AGQ AN
+exotic 7 11 punch 0
+40 1 200 P
+E
+ball~
+It looks like regular water.  Some magical force holds it the shape of a
+perfect sphere.  It is about the size of an elven fist.  
+~
+#2181
+amulet clover~
+a four-leaf clover amulet~
+An amulet made of a four-leaf clover hangs on a delicate chain.~
+unknown~
+protect 0 AC
+A A A 0 0
+4 0 80 P
+A
+12 5
+#2182
+hair nymph strand~
+a strand of nymph hair~
+A long curled strand of dark hair is here.~
+unknown~
+armor EGI AM
+B B B 0 0
+14 0 70 P
+A
+13 10
+#2183
+ball ethereal light~
+a ball of ethereal light~
+A ball of ethereal light floats here.~
+unknown~
+light 0 A
+0 0 ABCFGHIJ 0 0
+20 0 0 P
+A
+12 10
+#2184
+sash brown~
+a tattered brown sash~
+A tattered brown sash lies here in a heap.~
+unknown~
+armor BG AL
+AB AB AB A 0
+20 2 100 P
+#2185
+dagger obsidian~
+an obsidian dagger~
+A short, obsidian dagger could be easily hidden in the folds of a robe.~
+unknown~
+weapon ABEG AN
+bow 5 8 crunch G
+20 4 100 P
+#2186
+thick potion~
+a thick green potion~
+A thick green potion in a dirty vial sits here.~
+unknown~
+potion BE A
+20 'reserved' 'reserved' 'reserved' 'reserved'
+20 0 600 P
+#2187
+brownie dander~
+brownie dander~
+Some white flakes of brownie dander coat everything.~
+unknown~
+pill G A
+10 'reserved' 'reserved' 'reserved' 'reserved'
+3 0 90 P
+#2188
+mace slight~
+a slight mace~
+A mace looks to be delicate but can do much damage.~
+unknown~
+weapon G AN
+staff 4 4 blast 0
+8 5 40 P
+#2189
+cape green short~
+a short green cape~
+A short green cape lies in a pile here.~
+unknown~
+armor GI Aa
+A A A 0 0
+8 3 40 P
+#2190
+a tiny tiara~
+a tiny tiara~
+A tiny tiara looks to be made of raindrops strung together on spiders silk.~
+unknown~
+armor AGI AE
+A A A 0 0
+10 0 50 P
+#2191
+wit fairy~
+a fairy wit~
+The wit of a fairy can bring a smile to the most hardened heart.~
+unknown~
+armor G AT
+A A A 0 0
+9 0 45 P
+#2192
+pine needle~
+a pine needle~
+A long pine needle has dropped to the ground.~
+unknown~
+wand G AO
+25 4 4 'reserved' 0
+8 0 40 P
+#2193
+boots brownie leather grey~
+a pair of brownie boots~
+A pair of soft grey leather boots is here.~
+unknown~
+armor 0 AG
+0 0 0 0 0
+4 2 20 P
+A
+13 5
+#2194
+slippers fairy~
+a pair of fairy slippers~
+A pair of delicate slippers has been discarded here.~
+unknown~
+armor 0 AG
+A A A 0 0
+10 0 50 P
+#2195
+sleeves fairy~
+fairy sleeves~
+A pair of delicate looking sleeves lies here.~
+unknown~
+armor 0 AV
+A A A 0 0
+10 0 50 P
+A
+12 5
+#2196
+string silk strand single~
+silk string~
+A single strand of silk string lies here.~
+unknown~
+armor AGI AL
+A A A 0 0
+10 0 50 P
+#2197
+mace silver~
+a silver mace~
+A mace made of smooth, shiny silver inlaid with what appear to be rubies is here.~
+unknown~
+weapon 0 AN
+staff 4 5 peck 0
+10 5 50 P
+#2198
+light ball blue~
+a ball of blue light~
+A tiny ball of blue light appears to have a mind of it's own.~
+unknown~
+protect A AR
+A A A 0 0
+8 0 80 P
+A
+24 -1
+#2199
+circle red capped mushrooms white ring~
+a circle of {rred{x capped mushrooms~
+A circle of {rred{x capped mushrooms with {Wwhite{x spots grows here. The centre of the circle seems to shimmer.~
+unknown~
+portal R 0
+0 0 0 ABGHJN 0
+1 10000 0 P
+E
+circle red capped mushrooms white~
+As you glance at this circle of mushrooms you remember something you once
+heard: 
+
+Beware faerie rings, they can alter things.
+
+As you continue to look, the ground in the middle of the ring seems to fade
+and a vision of another location appears, though distorted somewhat like
+looking through water. 
+~
+#0
+
+
+
+#ROOMS
+#2171
+Path Around the Lake~
+You stand on a wide pathway which forms the dividing line between the
+northern shore of a serene lake and a dark forest.  Tiny white flowers grow
+just at the water's edge scenting the air subtly.  The lake appears to be
+vast but you cannot see to it's other shores.  The center of the lake is
+fog-enshrouded.  An island with a rocky top peeks out of the mist.  
+~
+0 0 2
+D1
+A thin path follows the water's edge.  
+~
+~
+~
+0 0 2179
+D3
+A thin path follows the water's edge.  
+~
+~
+~
+0 0 2185
+M 0 H 0
+S
+#2172
+The Gazebo~
+At the southern edge of the gardens someone has built a small wooden
+gazebo.  Fairies flit throughout the area.  The trees are fairly thick to
+the south and east.  To the north and west trails roam through the a serene
+garden along the shores of a mist-covered lake.  The sound of the water
+rhythmically lapping on the shores give this area a peaceful feeling.  A
+small vial is tucked within the grass under the edge of the gazebo.  
+~
+0 0 0
+E
+gazebo~
+The gazebo is a small wooden structure, little more than a free-standing
+roof.  It looks old and worn but shows no sign of rot.  
+~
+D0
+The trail leads through a glorious garden.  
+~
+~
+~
+0 0 2187
+D3
+The trail leads through a glorious garden.  
+~
+~
+~
+0 0 2188
+M 0 H 0
+S
+#2173
+Edge of the Forest~
+The air is cooler here and the wind is stronger.  The trees are very
+thick to the north and the lack of light is evident there however there is
+an opening big enough to admit two fully grown humans.  To the west you can
+see the beginnings of a path while to the south you can make out a small
+clearing.  
+~
+0 0 3
+D0
+The trail disappears into a thick forest.  
+~
+~
+~
+0 0 2176
+D2
+You see the forest open a bit and a colorful garden comes into view.  
+~
+~
+~
+0 0 2187
+D3
+You see a quiet lake with a mist enshrouded island in the center.  
+~
+~
+~
+0 0 2186
+M 0 H 0
+S
+#2174
+Edge of the Forest~
+The air cools down as the wind picks up just within the edge of the
+forest.  All around are glowing specks.  A "firefly" comes up to you and
+shows itself as a petite fairy which gives you a small kiss on your cheek. 
+Peeking curiously out from behind ferns and flowers are small brownies and
+sprites.  To the north, a mist covered lake stretches out past a pebble
+beach.  
+~
+0 0 3
+D0
+You look out over a serene lake.  
+~
+~
+~
+0 0 2189
+D1
+The trail leads through a glorious garden.  
+~
+~
+~
+0 0 2188
+D3
+The trail leads through a glorious garden.  
+~
+~
+~
+0 0 2191
+M 0 H 0
+S
+#2175
+Path Around the Lake~
+This is a thin path between the waters edge and a thick forest.  To the
+west the trees grow very close to one another, making the visibility in that
+direction very slight.  To the east, a large placid lake stretches.  The
+surface is still and dark.  A thin cloud of mist hovers just above the
+surface.  A barren island peeks out above the mists off in the distance. 
+The sound of laughter and splashing trickles to you from the north-east.  
+~
+0 0 3
+D0
+A thin path follows the water's edge.  
+~
+~
+~
+0 0 2185
+D2
+A thin path follows the water's edge.  
+~
+~
+~
+0 0 2194
+M 0 H 0
+S
+#2176
+Within the Forest~
+The pathway narrows and darkens dramatically.  Strange howling can be
+heard from all around, and glowing eyes peer out at you from the dark
+depths.  To the north the path is only slightly wider and the darkness
+precludes you from seeing very far down it.  The forests opens a bit to the
+south.  The sound of water lapping on a shore comes from somewhere near.  
+~
+0 1 3
+D0
+It is very dark and you can barely see in front of you.  
+~
+~
+~
+0 0 2177
+D2
+It is very dark and you can barely see in front of you.  
+~
+~
+~
+0 0 2173
+M 0 H 0
+S
+#2177
+The Crossroads~
+Unexpectedly, you come upon a gallows at a crossroads.  Hanging there is
+a cage with an almost mummified man inside.  His hand seems to be pointing
+to the west, but upon closer inspection it is evident that it is only caught
+in the side of the cage.  Looking west, the dark forest appears to open a
+bit.  Whereas looking east, the shadows of the forest enshroud the road. 
+Northwards, the road appears to darken further.  A cold wind rushes from
+that direction, and you can only see a few feet into the forest before it
+goes pitch black.  A path runs off the road to the south.  
+~
+0 0 3
+D0
+The road disappears into darkness.  
+~
+~
+~
+0 0 2181
+D1
+The road continues through the forest.  
+~
+~
+~
+0 0 2184
+D2
+A thin path leads into the woods.  
+~
+~
+~
+0 0 2176
+D3
+The road continues through the forest.  
+~
+~
+~
+0 0 2178
+M 0 H 0
+S
+#2178
+Path to the Lake~
+The trees begin to thin and the ground to either side of you is speckled
+with {Bblue{x, {Wwhite{x and {Yyellow{x flowers.  Soft music and laughter
+can be heard from the west.  The ground is soft here and slightly damp.  To
+the south and west is a silent lake, enshrouded in a light dusting of fog. 
+The tip of a barren island hovers just above the fog.  
+~
+0 0 3
+D1
+You see a gallows at a crossroads.  
+~
+~
+~
+0 0 2177
+D3
+A thin path follows the waters edge.  
+~
+~
+~
+0 0 2179
+M 0 H 0
+S
+#2179
+Path Around the Lake~
+A warm breeze blows off the lake from the south.  The path follows the
+waterline to the east into a thick, dark forests.  It wanders around the
+lake to the west drawing the line between forest and lake.  Forest creatures
+frolic all around this small area.  The mirthful sound of laughter echoes
+from every direction.  Looking south out into the lake, you can see an
+islands which is surrounded by mist.  
+~
+0 0 2
+D1
+A thin path follows the water's edge.  
+~
+~
+~
+0 0 2178
+D2
+You see a lake with a mist shrouded island in the middle.  
+~
+~
+~
+0 0 2180
+D3
+A thin path follows the water's edge.  
+~
+~
+~
+0 0 2171
+M 0 H 0
+S
+#2180
+On the Lake~
+The lake is cool, but not unpleasant.  In the water you see beautiful
+coloured fish swimming alongside you, almost as though they are guiding and
+protecting you.  As you near the island, the mist surrounds you, and the
+water gets colder.  
+~
+0 4 7
+D0
+~
+~
+~
+0 0 2179
+D2
+~
+~
+~
+0 0 2190
+M 0 H 0
+S
+#2181
+Darkness along the road~
+You can barely see three feet around you it's so strangely dark.  It's
+hard to tell if you're moving forward or back or in circles.  A strange
+clicking noise seems to be surrounding you, fading at some angles, and
+getting closer at other angles.  You can just make out that the road meets a
+path to the north and continues west and south here.  
+~
+0 1 3
+D0
+It's so dark you can barely see three feet around you.  
+~
+~
+~
+0 0 2182
+D2
+It's so dark you can barely see three feet around you.  
+~
+~
+~
+0 0 2177
+D3
+~
+~
+~
+0 0 20080
+M 0 H 0
+S
+#2182
+An Old Shack~
+An old shack seems to suddenly jump out of the eerie darkness.  If it
+weren't for the dim light coming from cracks in the walls it would appear
+uninhabited.  A faint creaking seems to be coming from inside.  The boards
+of the walls fit together poorly and are covered with ivy which threatens to
+swallow the shack whole.  The door to the shack is not readily discernible. 
+~
+0 1 3
+D2
+It's so dark you can barely see three feet around you.  
+~
+~
+~
+0 0 2181
+D3
+~
+~
+~
+1 0 2183
+M 0 H 0
+S
+#2183
+Roselyn's Shack~
+Entering the shack, you find it bare and full of cobwebs.  A low wooden
+stool with one broken leg is propped against the wall on it's remaining
+legs.  A dark wooden rocking chair is still swaying back and forth, as if
+someone has just gotten up from it.  There is no sign of the source of the
+light that was visible through the cracks from the outside.  There is a
+rustling coming from a dark corner.  
+~
+0 9 0
+D1
+~
+~
+~
+1 0 2182
+D2
+~
+~
+~
+0 0 2182
+M 0 H 0
+S
+#2184
+The {BDark Forest~
+Thick forest growth looms on each side of the road.  There is a feeling
+of magic in the air, which is strongest in the west.  Travel is slow here,
+and time seems muted.  Tree branches swaying in the breeze seem to be trying
+to reach out and stroke your face as you walk by.  The road continues to the
+east and west.  
+~
+0 1 3
+D1
+The forest opens to reveal some rolling hills.  
+~
+~
+~
+0 0 16033
+D3
+You see a crossroads of sorts.  
+~
+~
+~
+0 0 2177
+M 0 H 0
+S
+#2185
+Path Around the Lake~
+This is the northwest corner of a mist covered lake.  The path continues
+east along the shoreline into the forest again.  It goes south at the
+waterline to a what appears to be a hedge.  Although this area looks
+natural, the hedge appears to be kept trimmed by some type of creatures. 
+The lake is large and still.  The sound of laughter and splashing rings from
+the east.  Looking out to what would be the center of the lake, an island
+cloaked in mist is visible.  
+~
+0 0 2
+D1
+A thin path follows the water's edge.  
+~
+~
+~
+0 0 2171
+D2
+A thin path follows the water's edge.  
+~
+~
+~
+0 0 2175
+M 0 H 0
+S
+#2186
+On the Lake~
+The lake is cool, but not unpleasant.  In the water you see beautiful
+coloured fish swimming alongside you, almost as though they are guiding and
+protecting you.  As you near the island, the mist surrounds you, and the
+water gets colder.  
+~
+0 4 7
+D1
+~
+~
+~
+0 0 2173
+D3
+~
+~
+~
+0 0 2190
+M 0 H 0
+S
+#2187
+Near the Garden Lake~
+The trail leads through a large clearing at the south of which is a
+splendorous garden.  The forests cradles it on all sides save the west.  A
+placid lake forms the western boundary of the clearing.  The water slowly
+washes the pebble shore.  Forest creatures romp through the flowers and the
+trees.  Some splash in the inviting waters of the lake.  
+~
+0 0 3
+D0
+The trail leads into a forest.  
+~
+~
+~
+0 0 2173
+D2
+You see a small gazebo tuck away in the edge of the garden.  
+~
+~
+~
+0 0 2172
+M 0 H 0
+S
+#2188
+Edge of the Lake~
+The garden trail wanders through a glorious garden in full bloom.  A
+rather large bumblebee buzzes you before finding the perfect blossom on
+which to light.  A large mist covered lake lies to the north.  From
+somewhere within the mist a small island peeks through.  The part of the
+island that is visible is barren and harsh looking.  To the south a dark
+forest nips at the edges of this serene garden.  
+~
+0 0 2
+D1
+You see a small wooden gazebo.  
+~
+~
+~
+0 0 2172
+D3
+The trail leads through a glorious garden.  
+~
+~
+~
+0 0 2174
+M 0 H 0
+S
+#2189
+On the Lake~
+The lake is cool, but not unpleasant.  In the water you see beautiful
+coloured fish swimming alongside you, almost as though they are guiding and
+protecting you.  As you near the island, the mist surrounds you, and the
+water gets colder.  
+~
+0 4 7
+D0
+~
+~
+~
+0 0 2190
+D2
+~
+~
+~
+0 0 2174
+M 0 H 0
+S
+#2190
+The Island~
+You climb out of the water onto a stony beach and look around at this
+damp dark place.  The sun seems to only cast enough light through the mist
+for you to see the shapes of what's around you.  You can make out small
+figures running around the island, some climbing up the small hill in the
+centre, and some going into a dark cave which gapes open before you.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 2180
+D1
+~
+~
+~
+0 0 2186
+D2
+~
+~
+~
+0 0 2189
+D3
+~
+~
+~
+0 0 2195
+D4
+~
+~
+~
+0 0 2196
+D5
+~
+~
+~
+0 0 2197
+M 0 H 0
+S
+#2191
+The Gardens~
+A thick forest to the south ends rather suddenly at a beautiful garden. 
+The scent of flowers fills the air, and bumblebees buzz by lazily.  Fairies
+intermingle and seem to dance with the butterflies.  The garden spreads to
+the east and west here.  A gazebo stands to the east and a statue stands to
+the west.  To the north the garden slopes gently to the edge of a lake.  To
+the south, a small clearing is visible.  
+~
+0 0 2
+D1
+The trail leads through a glorious garden.  
+~
+~
+~
+0 0 2174
+D2
+~
+~
+~
+0 0 14200
+D3
+The trail leads through a glorious garden.  
+~
+~
+~
+0 0 2192
+M 0 H 0
+S
+#2192
+The Statue~
+The pathway divides to surround the tall white statue as you come up to
+it.  The marble sparkles and shines in the sun, and a few fairies can be
+seen sleeping in the hands of the stunning woman who is carved in stone.  To
+the north the path continues around the water's edge.  To the east it
+travels through the gardens.  
+~
+0 0 2
+D0
+You see a tall white statue of a beautiful woman.  
+~
+~
+~
+0 0 2193
+D1
+The trail leads through a glorious garden.  
+~
+~
+~
+0 0 2191
+M 0 H 0
+S
+#2193
+The Gardens~
+The edge of the gardens has come upon you as a long low hedge running off
+to either side of you.  There are brightly coloured flowers right up the the
+bushes.  The other side of the bushes is a short field which turns into a
+long white beach down to the lake.  A thin trail leads along the hedge to
+the west up to a large oak tree.  
+~
+0 0 2
+D0
+A thin path leads through a hedge.  
+~
+~
+~
+0 0 2194
+D2
+The trail leads through a glorious garden.  
+~
+~
+~
+0 0 2192
+D3
+A thin trail leads to a large oak tree.  
+~
+~
+~
+0 0 2199
+M 0 H 0
+S
+#2194
+Edge of the Lake~
+The path leads through soft warm sand, tiny footprints lead down to the
+water's edge.  The air has a magical quality, as if everything, including
+the plants is waiting for something special to happen.  The lake extends out
+to the east.  A thin blanket of mist floats just above the mirror-like
+surface.  To the south is a hedge that is kept well trimmed.  Over the top
+of the hedge you can see a statue of a beautiful woman.  
+~
+0 0 2
+D0
+A thin path follows the water's edge.  
+~
+~
+~
+0 0 2175
+D1
+You see a still lake which disappears into the mist.  
+~
+~
+~
+0 0 2195
+D2
+A thin path leads through a hedge.  
+~
+~
+~
+0 0 2193
+M 0 H 0
+S
+#2195
+On the Lake~
+The lake is cool, but not unpleasant.  In the water you see beautiful
+coloured fish swimming alongside you, almost as though they are guiding and
+protecting you.  As you near the island, the mist surrounds you, and the
+water gets colder.  
+~
+0 4 7
+D1
+~
+~
+~
+0 0 2190
+D3
+~
+~
+~
+0 0 2194
+M 0 H 0
+S
+#2196
+On Top of the World~
+Climbing the hill wasn't so bad, and from up here, you can see over the
+mist to all sides of the lake.  Of course, you can't see down, so you don't
+know if anything is climbing up the hill after you or not.  Getting a close
+look at the ground, you find that plants seem to struggle to survive here,
+and usually end up failing.  Everything here is depressing grey and dull and
+damp.  
+~
+0 0 4
+D5
+~
+~
+~
+0 0 2190
+M 0 H 0
+S
+#2197
+Queen Map's Castle~
+This cold place is illuminated with torches along stalagmites and
+stalactites.  Above you is a stone aqueduct which has small waterfalls
+throughout it and seems to be used as a waterway for the fairies who are
+working away.  Directly in front of you is a grand stairway, leading further
+into the depths of the castle.  It's guarded by two large gargoyles that
+watch you with glowing red eyes.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 2198
+D4
+~
+~
+~
+0 0 2190
+M 0 H 0
+S
+#2198
+Queen Map~
+You've walked into a huge hall, with a throne at the very end and a long
+table between you and it.  It's absolutely quiet in here, and there are tall
+candles placed everywhere, dripping wax to the stone floor.  The candle
+light plays tricks on the walls, making the shadows dance and jump.
+~
+0 9 0
+D2
+~
+~
+~
+0 0 2197
+M 0 H 0
+S
+#2199
+An Old Oak~
+Before you is an old gnarled oak tree.  The many knots seem to be doors
+and windows.  This is confirmed when a knot opens and out flies a fairy. 
+The thick branches spread out over your head, giving a nice cooling shade. 
+Some brightly colored birds sing in the branches.  Forests sprites scamper
+along the limbs above you.  Close to the oak tree a ring of {rred{x capped
+mushrooms with {Wwhite{x spots can be seen. 
+~
+0 0 2
+D1
+~
+~
+~
+0 0 2193
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 2171 spec_thief
+M 2172 spec_cast_mage
+M 2174 spec_cast_cleric
+M 2176 spec_breath_fire
+M 2177 spec_cast_mage
+M 2182 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 2182 3 1
+D 0 2183 1 1
+O 0 2179 0 2172
+M 0 2171 5 2172 10
+E 0 2193 0 8
+M 0 2173 8 2172 10
+E 0 2178 0 16
+M 0 2180 3 2173 10
+G 0 2177 0
+M 0 2173 8 2174 10
+E 0 2178 0 16
+M 0 2171 5 2176 10
+G 0 2187 0
+E 0 2193 0 8
+M 0 2173 8 2176 10
+E 0 2178 0 16
+M 0 2178 5 2177 10
+E 0 2189 0 5
+E 0 2188 0 16
+G 0 2192 0
+M 0 2173 5 2177 10
+E 0 2178 0 16
+M 0 2173 8 2178 10
+M 0 2174 2 2179 10
+M 0 2174 2 2179 10
+E 0 2182 0 15
+M 0 2181 1 2182 10
+M 0 2171 5 2182 10
+E 0 2181 0 4
+G 0 2187 0
+M 0 2172 1 2183 10
+E 0 2185 0 16
+E 0 2183 0 17
+E 0 2184 0 13
+G 0 2186 0
+M 0 2180 3 2184 10
+M 0 2171 5 2184 10
+E 0 2193 0 8
+G 0 2187 0
+M 0 2175 2 2190 10
+E 0 2176 0 16
+M 0 2175 2 2190 10
+G 0 2177 0
+M 0 2178 5 2191 10
+E 0 2198 0 21
+E 0 2189 0 5
+M 0 2173 8 2192 10
+E 0 2178 0 16
+M 0 2180 3 2193 10
+E 0 2191 0 24
+M 0 2182 1 2194 10
+E 0 2180 0 16
+M 0 2178 5 2194 10
+E 0 2198 0 21
+E 0 2189 0 5
+M 0 2178 5 2194 10
+G 0 2192 0
+E 0 2188 0 16
+M 0 2173 8 2194 10
+M 0 2176 2 2197 10
+M 0 2176 2 2197 10
+E 0 2175 0 16
+M 0 2177 1 2198 10
+E 0 2174 0 16
+E 0 2173 0 6
+E 0 2172 0 2
+M 0 2179 1 2199 10
+E 0 2197 0 16
+E 0 2196 0 13
+E 0 2195 0 27
+E 0 2194 0 8
+E 0 2190 0 6
+M 0 2178 5 2199 10
+E 0 2188 0 16
+M 0 2173 8 2199 10
+E 0 2178 0 16
+M 0 2173 8 2199 10
+G 0 2177 0
+O 0 2199 0 2199
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,7068 @@
+#AREADATA
+Name { 1 30} Fury    The Bard Towers~
+Builders Blyte~
+VNUMs 5300 5499
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#5300
+noble lord franken~
+Lord Franken~
+A noble man warms himself by the fire waiting for his host.
+~
+Lord Franken is finely dressed.  He is from one of the wealthy families
+from an estate near Treble.  He is here to visit the Lord and Lady Godiva.  
+~
+unique~
+AB DHT -300 0
+21 0 7d41+314 21d10+100 3d5+4 lunge
+1 1 1 4
+R 0 0 L
+sit (null) female 94
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5301
+master franken~
+Master Franken~
+Young master Franken picks his teeth and looks bored.
+~
+Young master Franken has been drug here by his father, Lord Franken, to
+visit the Godiva's.  He is very bored of the grownup talk and wishes that he
+were back on his estate, chasing the young maids who work for his family.  
+~
+unique~
+AB T -500 0
+19 0 6d37+274 19d10+100 2d5+6 crunch
+2 2 2 4
+CF 0 0 L
+(null) (null) female 85
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5302
+dinner guest~
+a dinner guest~
+A dinner guest is just finishing a large meal.
+~
+This guest is clearly satisfied by the delicious dinner put on by the
+Godiva's.  
+~
+unique~
+AB T -250 0
+20 0 6d39+294 20d10+100 3d5+4 lunge
+2 2 2 4
+EFK 0 0 L
+(null) (null) none 90
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5303
+guard Godiva~
+a guard~
+A Godiva guard bars entrance to the house of Godiva.
+~
+He is dressed in plate, and he looks quite formidable.  He may not like
+the master of the house but he takes his job seriously.  It won't be easy to
+get past him.  
+~
+unique~
+AB HT -700 0
+18 0 6d36+255 18d10+100 2d5+6 claw
+3 3 3 5
+CEF 0 0 L
+(null) (null) female 81
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5304
+cook~
+the cook~
+The cook gets grumpy when she has to prepare a feast like today's.
+~
+The cook was once a pretty woman but years of working for the demanding
+Godiva clan have weathered her.  She is often crabby and most know to avoid
+her kitchen when there is a feast planned.  She wears a simple white dress
+which is covered with food stains.  
+~
+unique~
+AB HTV -500 0
+25 0 8d48+400 25d10+100 3d5+7 claw
+0 0 0 2
+BC 0 0 L
+(null) (null) either 112
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5305
+Lord Godiva~
+Lord Godiva~
+Lord Godiva is here counting the gold that he has squeezed from the townspeople.
+~
+Lord Godiva is a greedy man.  He became mayor of the fair town of Treble
+when the previous mayor, Lord Cromwell, mysteriously died.  He rules through
+terror.  His gallows are often full with the corpses of those who have done
+little more than refuse to pay the ridiculous taxes that he has assessed on
+them.  He is a hard, cruel man with one soft spot.  He truly loves his Lady
+Godiva and would do ALMOST anything for her.  
+~
+unique~
+AB HTV -1000 0
+35 0 10d76+654 35d10+100 4d6+9 crunch
+-3 -3 -3 -1
+ADEJ A 0 L
+sit (null) female 157
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5306
+maid~
+a maid~
+A maid meticulously cleans the house of Godiva.
+~
+She has been working for the Godiva's for only a short time.  Maids
+rarely stay here a long time because Lord Godiva is such a tyrant.  She does
+her work well but is beginning to wish that she had never come here.  
+~
+unique~
+A TU 0 0
+20 0 6d39+294 20d10+100 3d5+4 claw
+2 2 2 4
+E 0 0 L
+(null) (null) either 90
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5307
+priest~
+the priest of Treble~
+The priest of Treble chants a prayer.
+~
+He stands in the temple chanting his prayers.  He is happy at his post as
+priest of Treble.  For the most part the citizens of this town are pious and
+spend much time in this temple.  He has done his best to make the evil Lord
+Godiva change his ways but he realizes that he can't save everyone.  
+~
+unique~
+AB T 1000 0
+19 0 6d37+274 19d10+100 2d5+6 claw
+2 2 2 4
+E 0 0 L
+(null) (null) female 85
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5308
+chance gardener man~
+Chance~
+An elderly man tends to the Godiva gardens
+~
+Chance has been the Godiva gardner for many years.  He loathes the Lord
+Godiva but he has a soft spot for the Lady.  He only stays because he takes
+pride in seeing the pleasure that she gets from spending time in his garden.
+~
+human~
+AB T 300 0
+10 0 3d23+120 10d10+100 2d3+2 claw
+6 6 6 6
+N 0 LP L
+(null) (null) female 45
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5309
+Oremnok master~
+Oremnok~
+The grand master of the Order of the Nightingale is taking a break here.
+~
+He is a tall elvish man, a bit bent at the shoulders.  Bards far and wide
+know of the great Oremnok, whose tales of adventure have entertained
+thousands through the years.  He has grown weary of travel and has accepted
+the position of Grand Master here.  He is a tough but fair examiner of the
+bard apprentices who hope to win his approval.  
+~
+unique~
+AB HJPQ 0 0
+30 0 10d60+520 30d10+100 3d6+8 claw
+-1 -1 -1 0
+EFN 0 B Z
+rest (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#5310
+dan barkeep~
+Dan the Barkeep~
+Dan the Barkeep stands by the counter wiping a glass.
+~
+He looks at you, and says, 'What's your poison, stranger?'
+~
+unique~
+ABRW T 600 0
+31 0 10d63+545 31d10+100 4d5+8 crunch
+-2 -2 -2 0
+0 ACD 0 L
+(null) (null) female 139
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5311
+george butcher~
+George the Butcher~
+George the Butcher is here whacking away at a side of beef.
+~
+Looking down at you with blood splattered all over his face and apron,
+he asks, 'How much you want?'
+~
+unique~
+ABRW T 600 0
+30 0 10d60+520 30d10+100 3d6+8 lunge
+-1 -1 -1 0
+0 0 0 L
+(null) (null) female 135
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5312
+farmer betty~
+Farmer Betty~
+Farmer Betty looks at you sweetly offering you some apples.
+~
+She smiles at you meekly.
+~
+unique~
+ABRW T 650 0
+30 0 10d60+520 30d10+100 3d6+8 crunch
+-1 -1 -1 0
+0 ABCD 0 L
+(null) (null) either 135
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5313
+thaellor dwarf~
+Thaellor the dwarf~
+Thaellor is here selling his metal wares.
+~
+Thaellor sweats rivers and complains about the heat as he pounds the
+metal into items of defense and destruction.
+~
+human~
+ABRW 0 550 0
+29 0 9d57+495 29d10+100 3d6+8 lunge
+-1 -1 -1 0
+0 ABCD 0 0
+(null) (null) either 130
+AHMV ABCDEFGHIJK medium unknown
+#5314
+ben smith~
+Ben the Smith~
+Ben the Smith sells metal odds and ends to anyone interested.
+~
+Ben tries to pawn his various wares to you.
+~
+unique~
+ABRW T 600 0
+29 0 9d57+495 29d10+100 3d6+8 lunge
+-1 -1 -1 0
+0 ABCD 0 L
+(null) (null) female 130
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5315
+tax collector~
+the tax collector~
+The tax collector is huddled over his books.
+~
+A small, shrewish man is hunched over his books.  He peers at you through
+wire-rimmed glasses with a cruel smile.  He works for the cruel Lord Godiva
+and gets a perverse pleasure out of taking the taxes from those that he
+knows can least pay them.  
+~
+unique~
+AB NT -500 0
+7 0 2d17+79 7d10+100 1d3+2 lunge
+7 7 7 7
+BI AB 0 L
+sit sit female 31
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5316
+Porcelli master~
+Porcelli~
+The grand master of the Order of the Sparrow looks busy.
+~
+Porcelli is stocky, even for a dwarf.  He has been on many adventures
+during which he recorded much of the recent history of his people.  At times
+he wishes to return to the more exciting life of an adventurer but for now
+he is Grand Master here.  He is much beloved by his students who work very
+hard to please him.  
+~
+unique~
+AB HJN 500 0
+30 0 10d60+520 30d10+100 3d6+8 claw
+-1 -1 -1 0
+EFN 0 CLQ R
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#5317
+tailor~
+A tailor~
+A tailor is here busily making silken bard's outfits.
+~
+This small elvish man works with only the finest silks, imported from far
+away lands.  His hands are soft and supple.  His lightning-quick
+manipulation of the needle and thread make him an indispensable part of the
+bard's tower.  
+~
+unique~
+ABRW DJ 550 0
+30 0 10d60+520 30d10+100 3d6+8 claw
+-1 -1 -1 0
+0 ABCDLQ B Z
+(null) (null) female 135
+ACGHMVXc ABCDEFGHIJKLMPQUVX medium unknown
+#5318
+chamber maid~
+a chamber maid~
+A young maid puts Lady Godiva's room in order.
+~
+She is young and shy.  She truly likes the lady of the house, who is kind
+to her but she is frightened of the lord of the house.  She wears a simple
+blue dress and her hair hangs down around her shoulders.  Sometimes, when no
+one else is around she sits at Lady Godiva's dressing table and pretends to
+put on her makeup.  
+~
+unique~
+A NT 700 0
+4 0 1d10+41 4d10+100 1d2+0 crunch
+8 8 8 8
+0 0 0 L
+(null) (null) either 18
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5319
+Balrak master~
+Balrak~
+The grand master of the Order of the Finch barely notices your presence.
+~
+It wasn't through great deeds that Balrak became grand master here.  He
+was the bastard son of a powerful bard in the guild.  When the previous
+master died in a duel with Norland there were no others willing to take his
+place.  Balrak's father manipulated the rest of the council into naming
+Balrak, thinking that he would be easily controlled.  His father paid a high
+price for that mistake.  
+~
+unique~
+AB HTa -500 0
+30 0 10d60+520 30d10+100 3d6+8 claw
+-1 -1 -1 0
+CEFHK 0 0 L
+(null) (null) female 135
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5320
+Norland ghost master~
+the ghost of Norland~
+The ghost of Norland, the grand master of the Order of the Chickadee, is here.
+~
+Norland lost his life in a battle with the master of the Order of the
+Finch.  He's still pretty bitter about it.  After his death, many of his
+bard's and apprentices defected to the other orders.  Norland drove out the
+rest of the Order of the Chickadee with his relentless haunting of the
+tower.  His was the oldest and most respected of the four Bard's towers
+until the jealousy of the other masters forced a duel.  
+~
+unique~
+ABF BDHTU -1000 0
+35 0 10d76+654 35d10+100 4d6+9 crunch
+-3 -3 -3 -1
+0 0 A C
+(null) (null) female 157
+ACHIKLMV ABCDEFGHIJKLM medium unknown
+#5321
+a street urchin~
+a street urchin~
+A raggedy little street urchin is darting around the people in the town.
+~
+This child is dirty and dressed in rags.  He has dirt smudged on his face
+and crumbs from his last meal on his clothing.  He grins at you with a
+mischievous twinkle in his eye.  
+~
+unique~
+AC T 500 0
+8 0 2d19+93 8d10+100 2d3+1 crunch
+7 7 7 7
+0 0 0 L
+(null) (null) female 36
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5322
+spectator~
+a spectator~
+A spectator watches as another poor soul is executed.
+~
+This is one of the crowd of on-lookers at the current hanging.  
+~
+unique~
+AB JT -300 0
+12 0 4d26+151 12d10+100 2d4+0 claw
+5 5 5 7
+B 0 B L
+(null) (null) none 54
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5323
+Widow Cromwell~
+the Widow Cromwell~
+The widow Cromwell does her best to provide for her young son.
+~
+Widow Cromwell is a tired woman.  Her hair is streaked with grey although
+she is young.  Her clothes were once fine but now are tattered.  It is all
+she can manage to do to provide for her young son.  She isn't proud of the
+things that she has had to do since the mysterious death of her husband.  
+~
+unique~
+A NTac 500 0
+20 0 6d39+294 20d10+100 3d5+4 claw
+2 2 2 4
+DFNR 0 0 L
+(null) (null) either 90
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5324
+chickadee~
+a chickadee~
+A chickadee flits around the birdbath.
+~
+Cheerful and quick, this little guy is carefree.  
+~
+song bird~
+A T 0 0
+4 0 1d10+41 4d10+100 1d2+0 lunge
+8 8 8 8
+FH 0 0 0
+(null) (null) none 18
+AGHMVW ABCDEFGHIJKOP medium unknown
+#5325
+finch~
+a finch~
+A tiny finch splashes in the birdbath.
+~
+This tiny bird belts out a big song.  
+~
+song bird~
+A T 0 0
+2 0 1d5+19 2d10+100 1d1+0 divine
+9 9 9 9
+FH 0 0 0
+(null) (null) male 9
+AGHMVW ABCDEFGHIJKOP medium unknown
+#5326
+bard yellow sparrow~
+a bard~
+A bard of the order of the sparrow sings his tale.
+~
+This smallish fellow is dressed in yellow silks.  He is in Treble to
+perfect his craft.  He has been recruited by the order of the sparrow and
+spends much of his time in the north-west tower.  
+~
+unique~
+A DNT 0 0
+10 0 3d23+120 10d10+100 2d3+2 crunch
+6 6 6 6
+0 0 0 IL
+(null) (null) female 45
+ACGHMRVXYc ABCDEFGHIJKLMOQUVX medium unknown
+#5327
+bard blue finch~
+a bard~
+A bard of the order of the finch sings his tale.
+~
+This smallish fellow is dressed in blue silks.  He is in Treble to
+perfect his craft.  He has been recruited by the order of the finch and
+spends much of his time in the south-east tower.  
+~
+human~
+A DN 500 0
+10 0 3d23+120 10d10+100 2d3+2 crunch
+6 6 6 6
+0 0 0 0
+(null) (null) female 45
+AHMV ABCDEFGHIJK medium unknown
+#5328
+bard red nightingale~
+a bard~
+A bard of the Order of the nightingale sings his tale.
+~
+This smallish fellow is dressed in red silks.  He comes to Treble to
+perfect his craft.  He is being trained in the order of the nightingale and
+spends most of his time in the north-east tower.  
+~
+human~
+A DN 500 0
+10 0 3d23+120 10d10+100 2d3+2 lunge
+6 6 6 6
+0 0 0 0
+(null) (null) female 45
+AHMV ABCDEFGHIJK medium unknown
+#5329
+Peeping Tom~
+Peeping Tom~
+A young man, whom many call Peeping Tom, is watching for Lady Godiva.
+~
+This young "noble" man is dressed in fine clothing.  He wears a perpetual
+blush and is the only one in town to openly stare at Lady Godiva as she
+rides by.  
+~
+human~
+A Pa 450 0
+7 0 2d17+79 7d10+100 1d3+2 lunge
+7 7 7 7
+BE 0 0 0
+(null) (null) female 31
+AHMV ABCDEFGHIJK medium unknown
+#5330
+Sinclair Cromwell~
+Sinclair~
+Sinclair Cromwell is growing up in a harsh world.
+~
+He is a small boy who misses his daddy very much.  His face is tear
+streaked much of the time.  This big house scares him.  
+~
+human~
+A 0 550 0
+15 0 5d31+200 15d10+100 2d4+2 claw
+4 4 4 6
+BDEJR 0 0 0
+(null) (null) female 67
+AHMV ABCDEFGHIJK medium unknown
+#5331
+bard apprentice sparrow~
+a bard apprentice~
+A bard's apprentice is here to learn the ways of the bard.
+~
+Dressed in the traditional yellow silks of an apprentice of the Order of
+the Sparrow this young musician hopes to one day earn the title of Bard.  
+~
+human~
+A N 500 0
+15 0 5d31+200 15d10+100 2d4+2 lunge
+4 4 4 6
+0 0 0 0
+(null) (null) none 67
+AHMV ABCDEFGHIJK medium unknown
+#5332
+bard apprentice nightingale~
+a bard apprentice~
+A bard's apprentice is here to learn the ways of the bard.
+~
+Dressed in the traditional red silks of an apprentice of the Order of the
+Nightingale, this young musician hopes to one day earn the title of Bard.  
+~
+unique~
+A JNPQ 900 0
+15 0 5d31+200 15d10+100 2d4+2 crunch
+4 4 4 6
+0 0 B Z
+(null) (null) none 67
+AHMV ABCDEFGHIJK medium unknown
+#5333
+mangy cur~
+a mangy cur~
+A mangy cur slinks around looking for a few scraps.
+~
+A mangy cur with matted yellow fur looks for scraps.  He is so skinny
+that each rib is shown in fine detail.  He has a foul smell and pieces of
+rotted meat cling to his whiskers.  
+~
+fido~
+A 0 -200 0
+1 0 1d2+8 1d10+100 1d1+0 crunch
+9 9 9 10
+FR 0 0 C
+(null) (null) female 4
+ABGV ACDEFHJKPQV medium unknown
+#5334
+Lady Godiva~
+Lady Godiva~
+Lady Godiva rides through town wearing nothing but her long blonde hair.
+~
+Lady Godiva is a beautiful woman.  Although her husband, Lord Godiva,
+insures that she always has the finest gowns, she is currently stark naked
+and riding her chestnut mare through town.  This is her desperate protest to
+her husband who has imposed unfair taxes on the people of Treble.  She has
+tried everything else that she can think of to try to get him to change his
+terrible ways.  
+~
+unique~
+A T 1000 0
+15 0 5d31+200 15d10+100 2d4+2 crunch
+4 4 4 6
+DF 0 0 L
+(null) (null) either 67
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5335
+bard apprentice finch~
+a bard apprentice~
+A bard's apprentice is here to learn the ways of the bard.
+~
+Dressed in the traditional blue silks of an apprentice of the Order of
+the Finch, this young musician hopes to one day earn the title of Bard.  
+~
+unique~
+A J 500 0
+15 0 5d31+200 15d10+100 2d4+2 digestion
+4 4 4 6
+EF 0 CLQ R
+(null) (null) none 67
+AHMV ABCDEFGHIJK medium unknown
+#5336
+master bard finch~
+a master bard~
+A master bard in flowing midnight blue robes is here to instruct the apprentices.
+~
+He is an old dwarf.  His shoulders are rounded and he has a slight paunch
+around his middle section.  The life of a master bard is very comfortable
+and he is happy to have finally made it to this rank.  His students
+appreciate his patience with them.  
+~
+unique~
+A JN 500 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+ACE 0 CLQ R
+(null) (null) female 112
+AHMV ABCDEFGHIJK medium unknown
+#5337
+master bard sparrow~
+a master bard~
+A master bard in flowing yellow robes is here to instruct the apprentices.
+~
+He was an exceptionally talented and brave bard.  He attained the rank of
+master bard at a relatively young age.  He sometimes gets impatient with his
+students.  
+~
+unique~
+AB HJN 500 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+FHK 0 B Z
+(null) (null) female 112
+AHMV ABCDEFGHIJK medium unknown
+#5338
+master bard nightingale~
+a master bard~
+A master bard in flowing crimson robes is here to instruct the apprentices.
+~
+He is a tired man who can barely stand the tedium of teaching the
+apprentices anymore.  He has been at it for what seems like an eternity. 
+His hair is completely grey and his face is wrinkled.  The joints in his
+hands ache each time he picks up an instrument now.  
+~
+human~
+AB HNa 500 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+ACDEFK 0 0 0
+(null) (null) female 112
+AHMV ABCDEFGHIJK medium unknown
+#5339
+flock finches~
+a flock of finches~
+A flock of finches sings and flits about the cage.
+~
+Tiny little birds move nearly as one entity in the golden cage.  Their
+song creates a relaxing atmosphere.  
+~
+song bird~
+A DTa 0 0
+28 0 9d55+470 28d10+100 3d5+9 none
+0 0 0 1
+AFH 0 0 0
+(null) (null) male 126
+AGW ACDEFHKOP medium unknown
+#5340
+flock nightingales~
+a flock of nightingales~
+A flock of nightingales fill the cage.
+~
+Nightingales swoop dangerously close to your head.  They appear to dive
+right for your eyes.  Their sweet song makes the experience all the more
+frightening.  
+~
+song bird~
+A HNT 0 0
+28 0 9d55+470 28d10+100 3d5+9 none
+0 0 0 1
+AEFH 0 0 0
+(null) (null) male 126
+AGW ACDEFHKOP small unknown
+#5341
+flock sparrows~
+a flock of sparrows~
+A flock of sparrows sings and dives.
+~
+The sparrows whistle their soulful tune as they dive straight at you!  
+~
+song bird~
+A DTc 0 0
+28 0 9d55+470 28d10+100 3d5+9 divine
+0 0 0 1
+AFH 0 0 0
+(null) (null) male 126
+AGW ACDEFHKOP small unknown
+#5342
+chickadee bird~
+a chickadee~
+A chickadee flaps about here, uttering, {g'Chick-a-dee-dee-dee.'{x
+~
+This small bird can be identified by its black cap and bib and white
+cheeks.  The back is grey with white underparts the wings are edged with
+white.  Their characteristic call is a buzzy "chick-a-dee-dee-dee".  
+~
+song bird~
+A DFT 0 0
+10 0 3d23+120 40d10+100 2d3+2 divine
+6 6 6 6
+FH 0 0 0
+(null) (null) none 45
+AGVW ACDEFHJKOP small unknown
+#5343
+cat orange tabby~
+a large orange tabby~
+A long orange tabby purrs here.
+~
+This is a rather large cat.  He's also pretty fat, being well fed by the
+scraps from the huge feasts that are thrown here.  
+~
+cat~
+A HZ 0 0
+15 0 5d31+200 15d10+100 2d4+2 slash
+4 4 4 6
+FHM 0 CE 0
+(null) (null) male 67
+AGV ACDEFHJKQUV medium unknown
+#5344
+citizen male~
+a male citizen~
+A male citizen of the town of Treble is here.
+~
+This man has known happier times.  He just goes about his business trying
+to make ends meet.  
+~
+unique~
+A T 0 0
+12 0 4d26+151 12d10+100 2d4+0 none
+5 5 5 7
+EJ 0 0 L
+(null) (null) female 54
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5345
+citizen female~
+a female citizen~
+A female citizen of the town of Treble is here.
+~
+She is a kind and gentle woman.  She hums sweetly as she goes about her
+business.  Her clothing is simple but neat.  
+~
+unique~
+A T 300 0
+12 0 4d26+151 12d10+100 2d4+0 none
+5 5 5 7
+EJ 0 0 L
+(null) (null) either 54
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#5350
+willowy dryad~
+a willowy dryad~
+This willowy dryad is various shades of brown and green.
+~
+Eyes the same shade of green as newly unfurled leaves peer out from a deeply 
+tanned face.  Her hair is a darker brown yet and grows in tangles that look 
+very much like the roots of a thriving tree.  When her hair is taken into 
+consideration, as well as her bark brown lips, a trace of yellow-green 
+becomes apparent as an undertone in her skin.  
+~
+unique~
+ABRW 0 0 0
+30 0 10d60+520 120d10+100 3d6+8 digestion
+-1 -1 -1 0
+0 ABQ 0 0
+(null) (null) either 135
+AGHMNV ABCDEFGHIJKLQ medium unknown
+#5351
+nymph apprentice bard female~
+a nymph apprentice~
+This female bard must be a nymph, judging by the green tint to her skin.
+~
+A slight green tint is evident upon the short woman's skin, marking at
+least some nymph blood.  Her figure is comely possessing a narrow waist,
+wider hips and a chest which could be tactfully described as ample.  A
+smattering of freckles dot her face and she possesses vivid blue eyes that
+are almost startling with their intensity.  Her hair has been gathered up
+into a pair of pigtails which give a girlish air to her otherwise mature
+form.  
+~
+unique~
+AH 0 0 0
+15 0 5d31+200 60d10+100 2d4+2 beating
+4 4 4 6
+J 0 0 0
+(null) (null) either 67
+ACGHMV ABCDEFGHIJK medium unknown
+#5352
+dryan treble guardian~
+a Treble guard~
+This dryan serves as a guardian of Treble.
+~
+This dryan's brown hair is braided thickly, making his hair look much
+like the roots of a tree.  His skin is a deep tan that is darker than his
+hair, shining healthily.  His eyes are the green of newly unfurled leaves
+and scans the surroundings constantly for any sign of trouble, or the lady
+Godiva. 
+~
+unique~
+Aa 0 0 0
+30 0 10d60+520 120d10+100 3d6+8 none
+-1 -1 -1 0
+0 0 0 0
+(null) (null) female 135
+AGHNV ABCDEFGHIJKLQ medium unknown
+#0
+
+
+
+#OBJECTS
+#5300
+desk~
+the curved desk~
+A beautiful desk made from a gigantic sea shell is here~
+unknown~
+container 0 0
+100 ACD 5316 0 0
+0 5 40 P
+#5301
+shelf~
+a shelf~
+{b{x~
+unknown~
+container R 0
+100 0 0 0 0
+0 0 0 P
+#5302
+book ancient~
+an ancient book~
+An ancient book was written and bound by hand.~
+unknown~
+protect G AO
+0 0 0 0 0
+12 8 300 P
+A
+24 -2
+#5303
+pendant godiva~
+a Godiva pendant~
+A shining golden disk on a red velvet string lays here.~
+unknown~
+protect BGM AC
+AD D D B 0
+30 4 900 P
+A
+19 1
+A
+24 -1
+E
+disk~
+Perfectly round and meticulously shined, this pendant has the Godiva coat
+of arms imprinted on it.  
+~
+E
+pendant~
+Perfectly round and meticulously shined, this pendant has the Godiva coat
+of arms imprinted on it.  
+~
+#5304
+scroll magic~
+a scroll of enchantment~
+A scroll of magical enchantment has been left here.~
+unknown~
+scroll G A
+30 'reserved' 'reserved' 'reserved' 'reserved'
+30 15 500 P
+#5305
+scroll bound~
+a bound scroll~
+A bound scroll of detection lies at your feet.~
+unknown~
+scroll G A
+30 'reserved' 'reserved' 'reserved' 'reserved'
+18 15 3000 P
+#5306
+fountain~
+a large beautiful fountain~
+An elaborate white marble fountain is here.~
+unknown~
+fountain 0 0
+100000 100000 'water' 0 0
+2 0 0 P
+E
+fountain~
+You see the most beautiful fountain in the world.  The white marble glistens
+as sunlight hits its wet surfaces.  Fish swim around in the inner fountain, and
+an exterior fountain is reserved just for drinking.
+~
+E
+marble~
+The fountain is carved from gleaming white marble.  Water bubbles from
+somewhere below up through an urn held by a maiden.  
+~
+E
+fountain~
+The fountain is carved from gleaming white marble.  Water bubbles from
+somewhere below up through an urn held by a maiden.  
+~
+#5307
+desk~
+the curved desk~
+A beautiful desk made from a gigantic sea shell is here.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+18 0 0 P
+E
+desk~
+The sea shell desk here is just gorgeous.  The creamy white of the table
+surface makes you dream of being in a pool swimming among mermaids.
+~
+#5308
+cabinet~
+the glass cabinet~
+A sturdy glass cabinet is here.~
+unknown~
+container R 0
+500 ABCD 5414 0 0
+3 0 30 P
+E
+cabinet~
+A cabinet made of oak and mahogany, this piece of workmanship is just
+splendid to view.  The wood is varnished with a very strong stain that looks
+as if it would last longer than the cabinet itself.  
+~
+#5309
+mandolin~
+a mandolin~
+A mandolin lies against the wall.~
+unknown~
+staff G AO
+18 5 5 'reserved' 0
+7 5 35 P
+#5310
+harp golden~
+a golden harp~
+A beautiful golden harp is waiting to be played.~
+unknown~
+staff G AO
+30 1 1 'reserved' 0
+7 50 35 P
+#5311
+flute silver~
+a silver flute~
+A brilliant silver flute glimmers from its holster.~
+unknown~
+staff AG AO
+30 2 2 'reserved' 0
+7 6 35 P
+#5312
+duster feather~
+a feather duster~
+A duster made of long goose feathers lies here.~
+unknown~
+weapon H AN
+staff 2 5 beating 0
+4 2 20 P
+#5313
+amber potion~
+an amber potion~
+An amber potion in a tiny vial is here.~
+unknown~
+potion G A
+5 'reserved' 'reserved' 'reserved' 'reserved'
+4 1 120 P
+#5314
+closet~
+a closet~
+{b{x~
+unknown~
+container R 0
+100 0 0 0 0
+9 1 90 P
+E
+closet~
+This free-standing armour is made of a beautiful exotic purple wood.  The
+doors are ornately carved with large unfamiliar flower blossoms.  It must
+have been imported from far away.  
+~
+#5315
+dress blue silk~
+a blue silk dress~
+A fancy dress made of shimmering blue silk hangs here.~
+unknown~
+armor 0 ADFIKL
+A A A 0 0
+10 10 30 P
+#5316
+key mother of pearl~
+a key with a mother of pearl handle~
+A key with a handle made of mother of pearl lies here.~
+unknown~
+key 0 A
+0 0 0 0 0
+1 1 90 P
+#5317
+sword godiva~
+a Godiva sword~
+A sword with the insignia of the Godiva house on the hilt lies here.~
+unknown~
+weapon G AN
+sword 4 8 lunge 0
+16 5 80 P
+A
+19 1
+E
+sword~
+You see a sword of great craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#5318
+mace godiva~
+a godiva mace~
+A mace with the Godiva coat of arms stamped in the handle lies here.~
+unknown~
+weapon G AN
+staff 4 8 claw 0
+16 5 80 P
+A
+19 1
+E
+mace~
+You see a mace of great craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#5319
+dress pink silk~
+a pink silk dress~
+A delicate dress made of shimmering pink silk hangs here.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+15 10 45 P
+#5320
+chestplate godiva~
+a godiva chestplate~
+A chestplate bearing the Godiva coat of arms lies here.~
+unknown~
+armor G AD
+AB AB AB 0 0
+18 10 90 P
+A
+17 -1
+#5321
+cloak green velvet~
+a green velvet cloak~
+You see a pile of green velvet cloth here.~
+unknown~
+protect AGIKLP AZ
+C C C A 0
+15 5 150 P
+#5322
+boots dainty~
+some dainty boots~
+A pair of dainty lady's boots lie here.~
+unknown~
+armor 0 AG
+B B B 0 0
+15 5 225 P
+A
+14 15
+#5323
+chest heavy wooden~
+a heavy wooden chest~
+A heavy looking wooden chest sits at the foot of the bed.~
+unknown~
+container 0 0
+1000 ACD 5326 0 0
+0 5 0 P
+#5324
+boots heavy~
+a pair of heavy leather boots~
+You see a pair of heavy leather boots here.~
+unknown~
+armor 0 AG
+AC AC AC A 0
+30 5 150 P
+E
+plate boots~
+You see plate boots of great craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#5325
+plate gloves~
+a pair of plate gloves~
+You see a pair of plate gloves here.~
+unknown~
+armor 0 AH
+B B B 0 0
+16 5 80 P
+E
+plate gloves~
+You see plate gloves of great craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#5326
+silver key~
+a shiny silver key~
+A shiny silver key lays here.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 1 0 P
+#5327
+imperial cape~
+an imperial cape~
+You see an imperial cape here.~
+unknown~
+armor 0 Aa
+B B B 0 0
+17 5 85 P
+E
+cape~
+You see a cape of great craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#5328
+rag dust~
+a dust rag~
+A dirty, dusty rag lies here.~
+unknown~
+trash 0 AO
+0 0 0 0 0
+4 2 4 P
+#5329
+belt wide leather~
+a wide leather belt~
+You see a wide leather belt here.~
+unknown~
+armor 0 AL
+AB AB AB A 0
+20 5 100 P
+#5330
+ring godiva golden signet~
+a golden signet ring~
+A ring carrying the mark of Godiva house is here.~
+unknown~
+protect G AB
+AC AC C A 0
+17 1 255 P
+A
+17 -1
+#5331
+banner godiva~
+a godiva war banner~
+A war banner with the Godiva coat-of-arms is lying here.~
+unknown~
+light AG A
+0 0 ABCFGHIJ 0 0
+16 1 160 P
+A
+17 -1
+E
+banner~
+This is the official Merc war banner to see you through the darkest realm!
+~
+#5332
+gilded cage~
+a gilded cage~
+You can see a gilded cage here, gleaming in the light.~
+unknown~
+portal R 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 ABCFIKM 0
+0 0 0 P
+#5333
+gilded cage nightingale~
+a gilded cage~
+You can see a gilded cage here, gleaming in the light.~
+unknown~
+portal R 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 BCEIKM 0
+0 0 0 P
+#5334
+gilded cage sparrow~
+a gilded cage~
+You can see a gilded cage here, gleaming in the light.~
+unknown~
+portal R 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 ABIKM 0
+0 0 0 P
+E
+cage~
+It is taller than the tallest giant that you have seen and is large
+enough for you to lay down in if you chose to do that.  The golden bars
+gleam when they catch the light.  
+~
+#5335
+gilded cage chickadee~
+a gilded cage~
+You can see a gilded cage here, gleaming in the light.~
+unknown~
+portal R 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 DEFIKM 0
+0 0 0 P
+#5336
+invitation dinner scroll~
+a dinner invitation~
+A fancy scroll bearing an invitation to dinner at the Godiva house is here.~
+unknown~
+scroll GQ A
+20 'reserved' 'reserved' 'reserved' 'reserved'
+20 0 300 P
+#5337
+silver spoon~
+a silver spoon~
+This silver spoon has been meticulously polished.~
+unknown~
+treasure b AO
+0 0 0 0 0
+20 1 20 P
+A
+13 10
+A
+1 -2
+#5338
+apron~
+an apron~
+A crisp white apron lies here.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+10 3 20 P
+#5339
+knife kitchen~
+a kitchen knife~
+This long kitchen knife is covered in blood.~
+unknown~
+weapon AGLQ AN
+bow 6 8 stab 0
+25 5 125 P
+A
+2 1
+#5340
+oven brick~
+a brick oven~
+You see an oven made of bricks.~
+unknown~
+container R 0
+100 0 0 0 0
+0 0 0 P
+#5341
+bread rosemary~
+a loaf of rosemary bread~
+A fragrant loaf of rosemary bread tempts you.~
+unknown~
+food 0 A
+CE 0 0 0 0
+0 0 1 P
+#5342
+apple half-eaten~
+a half-eaten apple~
+Someone has eaten half of this apple already.~
+unknown~
+pill 0 A
+20 'reserved' 'reserved' 'reserved' 'reserved'
+20 0 600 P
+#5343
+mouse dead~
+a dead mouse~
+This dead mouse has been played with for quite awhile.~
+unknown~
+trash Q AO
+0 0 0 0 0
+0 1 1 P
+#5344
+pipe~
+a mahogany pipe~
+A pipe carved from a piece of mahogany smells of tobacco.~
+unknown~
+treasure 0 AT
+0 0 0 0 0
+21 1 21 P
+#5345
+wig powdered~
+a powdered wig~
+A powdered wig smells from months of wear.~
+unknown~
+armor GJ AE
+AB AB AB A 0
+21 2 105 P
+A
+13 10
+#5346
+turquoise potion~
+a turquoise potion~
+A turquoise liquid effervesces in a small vial.~
+unknown~
+potion FG A
+15 'reserved' 'reserved' 'reserved' 'reserved'
+10 0 300 P
+#5347
+ivy leaf key~
+a ivy leaf~
+An ivy leaf lays here.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#5348
+tax rolls book~
+a book of tax rolls~
+The tax rolls are kept meticulously in this little book.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+7 2 70 P
+A
+12 -10
+E
+book~
+It has yellowed pages and is bound in red leather.  A gold "G" is
+embossed on the front.  
+~
+#5349
+quill pen feather~
+a feather quill pen~
+A feather quill pen is stained with black ink.~
+unknown~
+weapon 0 AN
+bow 3 7 magic 0
+10 1 50 P
+A
+2 1
+#5350
+hut~
+a tiny hut~
+A tiny hut is nearly hidden under the vines.~
+unknown~
+portal R 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef ABC 0 ABFGHKM ABFGHKM
+0 0 0 P
+#5351
+vest yellow silk~
+a yellow silk vest~
+A yellow silk vest with fine stitching is here.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+5 1 50 P
+#5352
+hat silk yellow apprentice~
+a yellow silk hat~
+A yellow silk hat of the type worn by apprentice bards is here.~
+unknown~
+clothing 0 AE
+0 0 0 0 0
+5 2 65 P
+#5353
+sash yellow~
+a yellow silk sash~
+A pile of yellow silk lies here.~
+unknown~
+armor 0 AL
+0 0 0 0 0
+5 2 25 P
+#5354
+yellow hat felt~
+a yellow felt hat~
+A yellow felt hat of the type worn by the Order of the Sparrow is here.~
+unknown~
+armor G AE
+A A A 0 0
+10 2 50 P
+A
+17 -1
+#5355
+robe yellow silk~
+a yellow silk robe~
+A flowing yellow silk robe is here.~
+unknown~
+protect J AK
+AB B B 0 0
+10 4 200 P
+A
+18 1
+#5356
+vest blue silk~
+a blue silk vest~
+A blue silk vest with fine stitching is here.~
+unknown~
+armor 0 AD
+0 0 0 0 0
+5 2 25 P
+#5357
+hat silk blue apprentice~
+a blue silk hat~
+A blue silk hat of the type worn by apprentice bards is here.~
+unknown~
+clothing 0 AE
+0 0 0 0 0
+5 2 65 P
+#5358
+sash blue~
+a blue silk sash~
+A piece of blue silk lies here.~
+unknown~
+clothing 0 AL
+0 0 0 0 0
+5 2 65 P
+#5359
+blue felt hat~
+a blue felt hat~
+A blue felt hat of the type worn by the Order of the Finch is here.~
+unknown~
+armor G AE
+A A A 0 0
+10 2 50 P
+A
+13 5
+#5360
+robe blue silk~
+a blue silk robe~
+A flowing blue silk robe is here~
+unknown~
+protect K AC
+B AB B 0 0
+10 4 200 P
+A
+17 -1
+#5361
+vest red silk~
+a red silk vest~
+A {Rred{x silk vest with fine stitching is here.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+5 1 50 P
+#5362
+hat silk red apprentice~
+a red silk hat~
+A red silk hat of the type worn by apprentice bards is here.~
+unknown~
+clothing 0 AE
+0 0 0 0 0
+5 2 60 P
+#5363
+sash red~
+a red sash~
+A pile of red silk lays here.~
+unknown~
+clothing 0 AL
+0 0 0 0 0
+5 2 80 P
+#5364
+hat felt red~
+a red felt hat~
+A red felt hat of the type worn by the Order of the Nightingale is here.~
+unknown~
+armor G AE
+A A A 0 0
+10 2 50 P
+A
+24 -1
+#5365
+robe red silk~
+a red silk robe~
+A flowing red silk robe is here~
+unknown~
+protect L AC
+B B AB 0 0
+10 2 200 P
+A
+12 5
+#5366
+pochette ancient~
+an ancient pochette~
+An ancient-looking pochette lays here.~
+unknown~
+staff AGQ AO
+25 5 5 'reserved' 0
+25 5 125 P
+E
+pochette~
+A long slender stringed instrument lays here.  
+~
+#5367
+sash crimson~
+a crimson sash~
+A pile of crimson silk lies here.~
+unknown~
+armor AGI AL
+C C C A 0
+25 3 125 P
+A
+12 15
+#5368
+sash midnight blue~
+a midnight blue sash~
+A pile of midnight blue silk lies here~
+unknown~
+armor AGI AL
+C C C A 0
+25 3 125 P
+A
+1 1
+#5369
+sash bright yellow~
+a yellow sash~
+A pile of bright yellow silk lies here~
+unknown~
+armor AGIP A
+C C C A 0
+25 3 125 P
+A
+5 1
+#5370
+pochette rosewood~
+a rosewood pochette~
+A rosewood pochette lies here.~
+unknown~
+staff AGQ AO
+25 5 5 'reserved' 0
+25 5 125 P
+E
+pochette~
+A long slim stringed instrument carved of the finest rosewood lies here.  
+~
+#5371
+pochette ivory~
+an ivory pochette~
+An ivory pochette is lying here.~
+unknown~
+staff AGQ AO
+25 5 5 'reserved' 0
+25 5 125 P
+E
+pochette~
+A long stringed instrument carved from ivory is here.  
+~
+#5372
+robe flowing blue~
+a flowing blue robe~
+A flowing blue robe lays in a heap on the ground.~
+unknown~
+armor ACGIJL AK
+AC AC AC A 0
+30 5 150 P
+A
+17 -3
+#5373
+robe flowing yellow~
+a flowing yellow robe~
+A flowing yellow robe lays in a heap on the ground.~
+unknown~
+armor ACGIKL AK
+AC AC AC A 0
+30 5 150 P
+A
+17 -3
+#5374
+robe flowing red~
+a flowing red robe~
+A flowing red robe lays in a heap on the ground~
+unknown~
+armor ACGIJK AK
+AC AC AC A 0
+30 5 150 P
+A
+17 -3
+#5375
+boots supple leather~
+a pair of supple leather boots~
+A pair of supple leather boots look very comfortable~
+unknown~
+armor BGM AG
+AC AC AC A 0
+30 5 150 P
+A
+18 1
+A
+12 15
+#5376
+piccolo wooden enchanted~
+an enchanted wooden piccolo~
+A wooden piccolo glows with an eerie light.~
+unknown~
+wand ABJQ AO
+30 8 8 'reserved' 0
+30 2 150 P
+#5377
+dagger long slim~
+a long slim dagger~
+A long slim dagger look lethal.~
+unknown~
+weapon 0 AN
+bow 4 6 crunch 0
+12 2 60 P
+#5378
+harpsichord~
+a harpsichord~
+A harpsichord is collecting dust here.~
+unknown~
+wand GLQ AO
+30 8 8 'reserved' 0
+30 7 150 P
+#5379
+tambourine~
+a tambourine~
+A tambourine with a picture of a nightingale painted on the front is here.~
+unknown~
+staff AGKQ AO
+30 8 8 'reserved' 0
+30 3 150 P
+#5380
+feather nightingale~
+a nightingale feather~
+A single nightingale feather floats to the ground.~
+unknown~
+treasure G A
+0 0 0 0 0
+28 0 280 P
+A
+4 1
+#5381
+feather sparrow~
+a sparrow feather~
+A single sparrow feather floats silently to the ground.~
+unknown~
+treasure G AO
+0 0 0 0 0
+28 0 280 P
+A
+13 10
+A
+12 10
+#5382
+feather finch~
+a finch feather~
+A finch feather glides slowly to the ground.~
+unknown~
+treasure GQ AEO
+0 0 0 0 0
+30 0 300 P
+A
+5 1
+#5383
+robe tattered purple~
+a tattered purple robe~
+A tattered purple robe lies in a heap here.~
+unknown~
+armor AGHMR AK
+AC AC AC A 0
+30 5 150 P
+A
+12 50
+A
+13 -75
+A
+1 -5
+#5384
+viola ghostly~
+a ghostly viola~
+A viola appears to be a trick of the light at times.~
+unknown~
+weapon ABEGQ AN
+staff 5 8 claw C
+35 0 175 P
+A
+17 5
+#5385
+corpse chickadee~
+a chickadee corpse~
+The corpse of a small bird, probably a chickadee, is here.~
+unknown~
+trash BM AO
+0 0 0 0 0
+15 2 15 P
+A
+12 -10
+#5387
+slingshot~
+a sling shot~
+A slingshot made from a yew branch is here.~
+unknown~
+wand G AO
+8 4 4 'reserved' 0
+8 1 40 P
+#5388
+necklace silver~
+a silver necklace~
+A sterling silver necklace with a heart shaped pendant is here.~
+unknown~
+protect G AC
+AB AB AB 0 0
+12 1 200 P
+#5389
+sword crude wooden~
+a crude wooden sword~
+A piece of old wood has been crudely fashioned into a sword.~
+unknown~
+weapon G AN
+sword 4 5 slice 0
+8 3 40 P
+#5390
+gloves fine leather~
+a pair of fine leather gloves~
+A pair of fine leather gloves lies here.~
+unknown~
+armor 0 AH
+B B B 0 0
+12 1 60 P
+A
+13 5
+#5391
+macintosh apple~
+a macintosh apple~
+A plump macintosh apple looks delicious.~
+unknown~
+food 0 A
+CE 0 0 0 0
+0 1 1 P
+#5392
+yam~
+a yam~
+A yam looks sweet and filling.~
+unknown~
+food 0 A
+BCDE 0 0 0 0
+0 0 1 P
+#5393
+persimmons~
+a persimmons~
+A juicy persimmons is here.~
+unknown~
+food 0 A
+CE 0 0 0 0
+0 1 1 P
+#5394
+cider apple fresh squeezed~
+fresh squeezed apple cider~
+A jug of freshly squeezed apple cider is here.~
+unknown~
+drink 0 A
+15 15 'lemonade' 0 0
+0 1 1 P
+#5395
+pot copper~
+a copper pot~
+A copper pot is here.~
+unknown~
+container S A
+100 0 0 0 0
+10 9 200 P
+#5396
+spittoon~
+a spittoon~
+A bright copper spittoon is here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+7 5 7 P
+#5397
+plate copper breastplate~
+a copper breastplate~
+A breast plate made from shining copper is here.~
+unknown~
+armor 0 AD
+A A A 0 0
+7 10 35 P
+#5398
+leggings brass~
+some brass leggings~
+A shiny pair of brass leggings is here.~
+unknown~
+armor 0 AF
+A A A 0 0
+7 7 35 P
+#5399
+helm copper~
+a copper helm~
+A shiny copper helm is here.~
+unknown~
+armor 0 AE
+A A A 0 0
+7 6 35 P
+#5400
+bells silver~
+a string of silver bells~
+A string of silver bells is here.~
+unknown~
+armor 0 AL
+A A A 0 0
+10 8 50 P
+#5401
+horseshoe~
+a horseshoe~
+A horseshoe looks like it hasn't been worn yet.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+5 0 50 P
+#5402
+shield bronze~
+a bronze shield~
+A gleaming bronze shield hangs here.~
+unknown~
+armor G AJ
+A A A 0 0
+7 8 35 P
+#5403
+stock~
+a stock~
+There is one open stock here.  Perhaps you would like to rest your arms and neck in it.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+E
+stock~
+A hinged wooden structure is here.  It has two openings just large enough
+for your wrists and one that would fit your neck nicely.  
+~
+#5404
+gallows~
+the gallows~
+The gallows look unpleasant here.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#5405
+corpse poor fellow~
+a corpse~
+The corpse of some poor fellow hangs grotesquely from the noose.~
+unknown~
+trash H A
+0 0 0 0 0
+5 25 5 P
+#5406
+chest~
+a chest~
+A large wooden chest with a heavy iron lock is here.~
+unknown~
+container R 0
+100 ACD 5407 0 0
+0 0 0 P
+#5407
+key tarnished~
+a tarnished key~
+A tarnished key is here.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 50 P
+#5408
+gold~
+a pile of gold~
+A pile of gold is here.~
+unknown~
+money 0 A
+DFGHIJ 0 0 0 0
+0 0 0 P
+#5409
+bench stone~
+a stone bench~
+(no description)~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+E
+bench~
+It is made from a long piece of grey stone which rests on two smaller
+support stones.  One side has been smoothed to provide a surface for
+sitting.  
+~
+E
+stone~
+It is made from a long piece of grey stone which rests on two smaller
+support stones.  One side has been smoothed to provide a surface for
+sitting.  
+~
+#5410
+birdbath magnificent~
+a magnificent birdbath~
+This birdbath is breathtaking in its design.~
+unknown~
+fountain R 0
+1000 1000 'water' 0 0
+0 0 0 P
+E
+birdbath~
+The base is made of three marble swans, each of a different color marble.
+Their heads are supporting a giant marble rose in which the birds bath
+themselves.  
+~
+E
+swan~
+One is made of black marble, one of white and one is a delicate green
+marble.  
+~
+#5411
+bench wooden ornate~
+an ornate wooden bench~
+You can see an ornate wooden bench here.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+E
+bench~
+It has been carved from a single mahogany log.  Into the back of the
+bench is carved a scene of a giant waterfall.  Exotic flowers are carved
+next to the falls.  
+~
+#5412
+orb shimmering~
+a shimmering orb~
+A small orb shimmers here.~
+unknown~
+light 0 AO
+0 0 ABCFGHIJ 0 0
+19 0 600 P
+A
+4 1
+#5413
+gold pile~
+a pile of gold~
+A pile of gold is here~
+unknown~
+money 0 A
+CEFGHI 0 0 0 0
+0 1 0 P
+#5414
+key tiny iron~
+a tiny iron key~
+A tiny iron key hangs from a small chain.~
+unknown~
+key BQ A
+0 0 0 0 0
+0 0 0 P
+#5415
+sacred knife~
+a sacred knife~
+A knife glows with a holy light here.~
+unknown~
+weapon A AN
+bow 6 6 crunch 0
+19 5 95 P
+E
+knife~
+The blade gives off a blinding white light.  It has obviously been
+blessed by some powerful god.  The handle is made from the antler of an elk.
+~
+#5416
+scroll dusty~
+a dusty scroll~
+A dusty scroll appears to have been sitting here for centuries.~
+unknown~
+scroll AG A
+70 'reserved' 'reserved' 'reserved' 'reserved'
+20 5 600 P
+#5417
+orb pulsating~
+a pulsating orb~
+A large orb pulsates in the center of the room.  Above it is a sign.~
+unknown~
+portal 0 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 E 0 0
+0 0 0 P
+E
+sign~
+Enter only ye of brave character and sound body.  
+~
+#5418
+chair overstuffed~
+a overstuffed chair~
+This chair is overstuffed and looks very comfortable.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+E
+chair~
+It looks very comfortable, like you could sink into it.  
+~
+#5419
+bench wooden~
+a wooden bench~
+A long wooden bench is here.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+E
+bench~
+It is made from an exotic purple wood.  
+~
+#5420
+bed~
+a small bed~
+A small bed is here.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#5421
+pillow burgundy~
+a burgundy pillow~
+A pillow made of rich burgundy velvet lies here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+10 1 10 P
+#5422
+mirror full length~
+a full length mirror~
+A full length mirror is here, casting your reflection back to you.~
+unknown~
+portal R 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 BCFGIL 0
+10 0 0 P
+E
+mirror~
+A full length mirror seems to reflect more than the room's surroundings.  
+~
+#5423
+simple gold ring~
+a simple gold ring~
+A simple gold ring catches your eye on the ground here.~
+unknown~
+protect G AB
+B AB B 0 0
+10 0 200 P
+#5424
+bench wooden long~
+a long wooden bench~
+A long wooden bench is here.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#5425
+sofa yellow~
+a yellow sofa~
+A yellow sofa can be seen here.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#5426
+painting swamp~
+a dark painting~
+This dark painting depicts a bleak swampland scene.~
+unknown~
+portal R 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 DEHIJKLO 0
+0 0 0 P
+E
+painting~
+A dark landscape of a swamp is here.  
+~
+#5427
+wardrobe~
+an elegant wardrobe~
+An elegant wardrobe can be seen here.~
+unknown~
+container R 0
+100 0 0 0 0
+0 0 0 P
+E
+wardrobe~
+This elegant wardrobe stands in one corner of the room.  It is heavy and
+ornately carved.  
+~
+#5428
+medallion sparrow~
+a sparrow medallion~
+A medallion with the imprint of a sparrow is here.~
+unknown~
+protect AGI AC
+C C C A 0
+15 2 300 P
+#5429
+Oremnok's sonata~
+oremnok's sonata~
+This is Oremnok's masterpiece.  He worked many years composing the most beautiful sonata in the land.~
+unknown~
+scroll AG A
+30 'reserved' 'reserved' 'reserved' 'reserved'
+30 5 450 P
+#5430
+robe tattered blue~
+a tattered blue robe~
+A pile of tattered blue silk lies here.~
+unknown~
+clothing BEGJM AK
+0 0 0 0 0
+25 9 375 P
+A
+5 -10
+A
+1 -2
+A
+13 -20
+A
+12 5
+E
+robe~
+This was the robe of Balrak's predecessor.  It was damaged in the great
+battle with Norland in which they both perished.  
+~
+#5431
+wardrobe~
+a wardrobe~
+A wardrobe is here.~
+unknown~
+container R 0
+100 0 0 0 0
+0 0 0 P
+E
+wardrobe~
+This was once a beautiful piece of furniture however, it was damaged when
+it was knocked over and the wood is dried from years of neglect.  
+~
+#5432
+chest old bench~
+a strange bench~
+You can see a strange bench here.~
+unknown~
+container R 0
+100 0 0 0 0
+0 0 0 P
+E
+bench~
+It is little more than a wooden box, which is the right height to sit
+upon.  It looks as if it could be opened from the top.  
+~
+E
+chest~
+It is little more than a wooden box, which is the right height to sit
+upon.  It looks as if it could be opened from the top.  
+~
+E
+bench~
+~
+#5433
+candle beeswax~
+a beeswax candle~
+A yellowish candle, made of beeswax, is here.~
+unknown~
+light A AO
+0 0 ABCFGHIJ 0 0
+15 2 300 P
+A
+17 -2
+#5434
+a hoe rusty~
+a rusty hoe~
+An old rusty hoe lies here.~
+unknown~
+weapon G AN
+staff 5 8 lunge 0
+20 0 100 P
+A
+19 1
+#5435
+painting large damaged~
+a large damaged painting~
+This painting is large and damaged beyond recognition.~
+unknown~
+portal R 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 AEHI 0
+0 0 0 P
+E
+painting~
+This was once a detailed landscape.  A large gash in the center of it has
+made it apparently worthless.  
+~
+#5436
+bottle perfume old~
+an old perfume bottle~
+An old perfume bottle holds a drop of thick yellow liquid.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+10 1 150 P
+E
+perfume~
+The remaining perfume has evaporated leaving only the oils whose scent
+has long ago turned putrid.  
+~
+E
+bottle~
+The remaining perfume has evaporated leaving only the oils whose scent
+has long ago turned putrid.  
+~
+E
+liquid~
+The remaining perfume has evaporated leaving only the oils whose scent
+has long ago turned putrid.  
+~
+#5437
+steel shield~
+a steel shield~
+A polished steel shield lies here.~
+unknown~
+armor 0 AJ
+A A A 0 0
+10 10 50 P
+#5439
+leggings steel~
+steel leggings~
+A pair of polished steel leggings is here.~
+unknown~
+armor 0 AF
+A A A 0 0
+10 7 50 P
+A
+18 1
+#5440
+bracer steel~
+a steel bracer~
+A polished steel bracer lies here.~
+unknown~
+armor 0 AM
+A A A 0 0
+10 5 50 P
+#5441
+steel girth~
+a steel girth~
+A large steel girth looks very heavy.~
+unknown~
+armor G AL
+A A A 0 0
+10 10 50 P
+#5442
+steel sword~
+a steel sword~
+A steel sword with an ornate handle is here.~
+unknown~
+weapon G AN
+sword 4 5 lunge 0
+10 9 50 P
+#5443
+copper bracelet~
+a copper bracelet~
+A bracelet has been made by twisting pieces of thick copper.~
+unknown~
+armor G AM
+A A A 0 0
+8 1 40 P
+#5444
+bracelet copper twisted~
+a twisted copper bracelet~
+A bracelet has been made by twisting pieces of thick copper.~
+unknown~
+armor 0 AM
+A A A 0 0
+8 1 40 P
+#5445
+silver bangle bracelet~
+a silver bangle bracelet~
+A bangle bracelet made from a thick hoop of silver is here.~
+unknown~
+treasure G AM
+0 0 0 0 0
+12 0 120 P
+A
+13 10
+#5446
+spade~
+a spade~
+A spade with a long wooden handle is here.~
+unknown~
+weapon G AN
+staff 4 5 blast 0
+10 8 50 P
+#5447
+sword simple~
+a simple sword~
+A simple sword with an heavy handle is here.~
+unknown~
+weapon 0 AN
+sword 5 6 lunge 0
+15 7 75 P
+#5448
+dagger sparrow~
+a dagger with a sparrow-shaped handle~
+A dagger with a handle shaped like a dainty sparrow is here.~
+unknown~
+weapon AGI AN
+bow 6 8 crunch 0
+25 4 125 P
+A
+13 20
+#5449
+mace spiked~
+a spiked mace~
+A long mace with spikes protruding from the head is here.~
+unknown~
+weapon AGK AN
+staff 6 10 blast 0
+30 12 150 P
+A
+19 1
+A
+18 1
+#5450
+leggings supple brown leather~
+supple brown leather leggings~
+A pair of supple brown leather leggings lies on the floor.~
+unknown~
+armor G AF
+A A A 0 0
+10 4 50 P
+#5451
+gauntlets leather supple~
+supple brown leather gauntlets~
+A pair of supple brown leather gauntlets lies here.~
+unknown~
+armor G AH
+A A A 0 0
+10 2 50 P
+A
+12 5
+#5452
+stiletto steel~
+a steel stiletto~
+A small steel stiletto is here.~
+unknown~
+weapon 0 AN
+bow 4 6 crunch 0
+12 2 60 P
+#5453
+boots scuffed leather~
+scuffed leather boots~
+A pair of leather boots have been very scuffed up.~
+unknown~
+armor 0 AG
+A A A 0 0
+8 4 40 P
+A
+13 5
+#5455
+boots fancy laced~
+a pair of fancy laced boots~
+A pair of fancy boots are laced up high here.~
+unknown~
+armor 0 AG
+B B B 0 0
+12 2 60 P
+#5456
+disdain look~
+a look of disdain~
+A look of disdain crosses your face.~
+unknown~
+armor 0 AT
+A A A 0 0
+7 0 35 P
+#5457
+silver key~
+a silver key~
+This key is made of silver and is brandished with "Treble."~
+unknown~
+key W AO
+0 0 0 0 0
+0 0 5 P
+#5458
+tree~
+a large tree~
+A large tree, its branches heavy with different fruit in various stages of ripeness.~
+unknown~
+container GRb 0
+10 0 0 0 0
+0 10000 0 P
+#5496
+mural~
+a mural~
+A large mural made by an artist with a critical eye.~
+unknown~
+portal R 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 D DEHJLMN 0
+0 0 0 P
+E
+mural~
+Painted on the side of the temple is a scene of a heroic battle.  A great
+warrior sits astride his mount, legs outstretched in the stirrups, and a
+bloodied spear in his hand ready to strike.  On the right, a knight in
+ancient glowing armor stands defensively over the fallen bodies of his
+comrades.  
+~
+#5497
+key black~
+a black key~
+A slightly bent black ring is very worn.~
+unknown~
+key 0 AB
+0 0 0 0 0
+0 0 0 P
+#5498
+ivy vines string~
+{Givy{g vines{x~
+A string of ivy is here.~
+unknown~
+armor 0 AD
+B B B 0 0
+15 0 80 P
+#5499
+ivy wreath~
+an {gi{Gv{gy {Gw{gr{Ge{ga{Gt{gh{x~
+A wreath made from ivy has been dropped here.~
+unknown~
+armor 0 AE
+B B B 0 0
+15 0 80 P
+#0
+
+
+
+#ROOMS
+#5300
+Treble~
+You stand in the entranceway of a rather large town.  Much activity is
+going on all around you.  Bards in brightly colored silks wander, singing
+their tales to any who will listen.  Each tries to sing a little louder than
+his fellows.  The cacophony is not unpleasant.  Ladies and gentlemen in fine
+clothing hardly notice the singers as they go about their business.  Peasant
+children run circles around them as they wander through town.  
+~
+0 0 1
+E
+peasant~
+Small children dressed in little more than rags run carefree.  
+~
+E
+children~
+Small children dressed in little more than rags run carefree.  
+~
+D0
+~
+~
+~
+0 0 5313
+D1
+~
+~
+~
+0 0 16050
+D2
+~
+~
+~
+0 0 5332
+D3
+~
+~
+~
+0 0 5301
+M 0 H 0
+S
+#5301
+In the Fair City of Treble~
+The town is not made up of streets as one would expect.  It is really
+one big clearing with buildings randomly arranged throughout.  The only
+order here is in the four corners of the clearing.  Impressive towers stand
+at the corners just inside the forest line.  The town square is full of
+people of all economic classes.  Peasant children respectfully stay out of
+the way of the more well-born.  People here are generally cheerful and there
+is music coming from every direction.  
+~
+0 0 1
+E
+buildings~
+Several rough buildings are scattered throughout the town square.  
+~
+E
+towers~
+Four impressive stone towers stand at the corners of the town square. 
+Each is made of cold grey stone.  
+~
+E
+tower~
+Four impressive stone towers stand at the corners of the town square. 
+Each is made of cold grey stone.  
+~
+D0
+~
+~
+~
+0 0 5312
+D1
+~
+~
+~
+0 0 5300
+D2
+~
+~
+~
+0 0 5331
+D3
+~
+~
+~
+0 0 5302
+M 0 H 0
+S
+#5302
+Treble town square~
+This seems to be a favorite spot for bards.  Unlike the rest of the town,
+where they compete for attention, the bards here take their turns
+entertaining the crowd.  
+~
+0 0 1
+E
+crowd~
+Peasants stand in a group near the stage listening to the lore of the
+bards.  The more well-born stand apart from them.  
+~
+D0
+~
+~
+~
+0 0 5311
+D1
+~
+~
+~
+0 0 5301
+D2
+~
+~
+~
+0 0 5330
+D3
+~
+~
+~
+0 0 5303
+M 0 H 0
+S
+#5303
+Center of town~
+This appears to be near the center of town.  To the north of you is a
+busy, open-air market.  To the south is a tall temple made of rich, dark
+wood.  Looking to the east you see into a beautiful garden and beyond that
+an impressive stone house.  
+~
+0 0 1
+E
+market~
+A busy open-air market lays to the north-west.  
+~
+E
+temple~
+The temple to the south is the largest structure in Treble besides the
+towers.  It looks peaceful.  
+~
+D0
+~
+~
+~
+0 0 5310
+D1
+~
+~
+~
+0 0 5302
+D3
+~
+~
+~
+0 0 5304
+M 0 H 0
+S
+#5304
+In the town of Treble~
+The ground before you is fine dirt which accounts for the fact that many
+of the children you see running around have dirty faces and dirty clothes. 
+A few more finely dressed children seem to watch the others run and play
+with a mixture of pity and jealousy.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 5309
+D1
+~
+~
+~
+0 0 5303
+D2
+~
+~
+~
+0 0 5328
+D3
+~
+~
+~
+0 0 5305
+M 0 H 0
+S
+#5305
+Before the entrance to the Godiva gardens~
+You stand at the entrance to a glorious garden.  The smell of honeysuckle
+floats on the breeze.  To the north of you is an open air market.  Further
+to the north and to the south of you are huge towers.  Through the garden
+you see a large stone house which sits on a small hill.  
+~
+0 4 1
+E
+market~
+A bustling open-air market lies to the north.  
+~
+D0
+~
+~
+~
+0 0 5308
+D1
+~
+~
+~
+0 0 5304
+D2
+~
+~
+~
+0 0 5327
+D3
+~
+~
+~
+0 0 5306
+M 0 H 0
+S
+#5306
+The Godiva Garden~
+You are standing in what is perhaps the most splendid garden that you
+have ever seen.  Hummingbirds of all colors hover over the myriad of
+blossoms.  A stream meanders from pond to pond.  The tinkle of the stream is
+very relaxing.  The path through the garden appears to be made of crushed
+opals.  Marble statues of exotic beauties line the path.  Whoever owns this
+garden appears to be accustomed to spending much gold.  
+~
+0 0 1
+E
+hummingbird~
+Tiny little creatures with long slender beaks flit near the flowers but
+never seem to land.  
+~
+E
+stream~
+A tiny little stream, barely more than a trickle makes a very calming
+sound.  
+~
+E
+stat~
+Several statues carved from rose-colored marble stand on either side of
+the path through the garden.  
+~
+E
+statue~
+Several statues carved from rose-colored marble stand on either side of
+the path through the garden.  
+~
+D0
+~
+~
+~
+0 0 5307
+D1
+~
+~
+~
+0 0 5305
+D2
+~
+~
+~
+0 0 5326
+D3
+~
+~
+~
+0 0 5346
+M 0 H 0
+S
+#5307
+Godiva Gardens~
+Here, in the middle of these glorious gardens is a small well-kept lawn. 
+The grass is a rich green.  Gleaming marble statues and fountains dot the
+landscape.  At the very north end of the garden is a small hut, almost
+camouflaged in the greenery.  
+~
+0 0 1
+E
+hut~
+A small hut is tucked away in the shrubbery.  
+~
+D2
+~
+~
+~
+0 0 5306
+M 0 H 0
+S
+#5308
+The Market Place~
+You stand in the middle of a large square lined on each side with
+baskets, carts, and stands of all shapes and sizes.  The little shops are
+filled with goods sold to the demanding public.  To the west, you can see
+the entrance to the Baron of Bard Towers' mansion.  The mansion itself is
+set back somewhat from the town itself and borders upon the Godiva gardens. 
+Large iron gates have been magically warded to keep all undesirables away
+from the mansion proper.  
+Attached to the front of the gates is a recall glyph with the word "bard"
+inscribed upon it.
+~
+0 0 1
+E
+glyph~
+The glyph is made of a shimmering gold-like material.  It is used as a
+sort of beacon to draw those who have need to magical transportation to this
+place.  Glyphs tend to be insanely expensive and complicated to make.  Most
+take the skills of dozens of high powered magic users to complete.  
+~
+E
+gate~
+The gates are massive iron things.  They crackle with magical energy and
+are strongly warded to prevent anyone from entering.  Attached to the gates
+is a gold recall glyph with the word "bard" inscribed below it.  
+~
+E
+gates~
+The gates are massive iron things.  They crackle with magical energy and
+are strongly warded to prevent anyone from entering.  Attached to the gates
+is a gold recall glyph with the word "bard" inscribed below it.  
+~
+E
+basket~
+Simple woven baskets are heaped high with goods for sale.  
+~
+E
+cart~
+Carts, which are small enough to be pushed by hand, stand on the edge of
+the market holding a variety of goods.  
+~
+D0
+~
+~
+~
+0 0 5319
+D1
+~
+~
+~
+0 0 5309
+D2
+~
+~
+~
+0 0 5305
+D3
+~
+gates~
+~
+4 11402 11400
+M 0 H 0
+S
+#5309
+The market place~
+The market place is buzzing with activity at all hours of the day.  In
+the night the long fruit stands are covered with long linen cloths to keep
+the flies away.  Vendors eye you suspiciously, wondering if your fingers are
+quicker at taking their wares then they are at handing over your gold.  Many
+sorts of wares are sold here besides all kinds of foodstuff.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 5318
+D1
+~
+~
+~
+0 0 5310
+D2
+~
+~
+~
+0 0 5304
+D3
+~
+~
+~
+0 0 5308
+M 0 H 0
+S
+#5310
+The market place~
+This is the eastern end of a long, open air market.  Trinkets, metal
+wares, woven goods and foodstuffs are sold from long wagons here.  Vendors
+on either side of you try to get your attention, hoping that you'll leave
+some of your gold in their well-deserving hands.  
+~
+0 0 1
+E
+wagon~
+Long wagons hold perishable and non-perishable items for sale.  
+~
+D0
+~
+~
+~
+0 0 5317
+D1
+~
+~
+~
+0 0 5311
+D2
+~
+~
+~
+0 0 5303
+D3
+~
+~
+~
+0 0 5309
+M 0 H 0
+S
+#5311
+Near the market~
+You are in the crowded town of Treble.  To the west of you is a busy
+market place.  You hear the sounds associated with that market place,
+vendors trying to attract the attention of buyers and a customer complaining
+about the quality of his purchase.  To the east of you is the punishment
+square.  A few poor souls are locked in stocks.  An occasional groan comes
+from that direction.  Additionally, there is a large number of bards here,
+all practicing their craft.  They wander by in blue, red or yellow silks.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 5316
+D1
+~
+~
+~
+0 0 5312
+D2
+~
+~
+~
+0 0 5302
+D3
+~
+~
+~
+0 0 5310
+M 0 H 0
+S
+#5312
+In the town of Treble~
+The town of Treble is buzzing with activity.  Bards and minstrels keep
+the inhabitants and visitors entertained.  To the west is a public
+punishment area.  Several citizens are locked in stocks, providing
+entertainment for cruel passers-by.  To the north of the stocks you can see
+a gallows.  One poor soul has been left hanging there, his neck obviously
+broken.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 5315
+D1
+~
+~
+~
+0 0 5313
+D2
+~
+~
+~
+0 0 5301
+D3
+~
+~
+~
+0 0 5311
+M 0 H 0
+S
+#5313
+Punishment Square~
+This is where those requiring punishment somewhat less than hanging are
+put on public display.  Several sets of stocks are here, a few of which are
+occupied.  The children of the town can often be found here throwing rotten
+vegetables at those misfortunate enough to be locked here.  Bards
+occasionally wander by, looking for more material for their tales.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 5314
+D2
+~
+~
+~
+0 0 5300
+D3
+~
+~
+~
+0 0 5312
+M 0 H 0
+S
+#5314
+Gallows~
+This is where the townsfolk gather to watch one of their favorite
+spectacles.  None would admit to enjoying the suffering of others but the
+square is always full on hanging day.  A wooden platform stands near the
+edge of the forest.  It has a trap-door underneath a crossbeam.  On the
+crossbeam hangs a long rope at the end of which is a corpse.  His head hangs
+at an odd angle.  
+~
+0 0 1
+E
+trap-door~
+A large wooden board is held to the rest of the gallows by a hinge.  It
+is propped up with a stick until the executioner pulls it away, causing
+whoever is standing on the door to fall and snap his neck.  
+~
+E
+door~
+A large wooden board is held to the rest of the gallows by a hinge.  It
+is propped up with a stick until the executioner pulls it away, causing
+whoever is standing on the door to fall and snap his neck.  
+~
+D2
+~
+~
+~
+0 0 5313
+D3
+~
+~
+~
+0 0 5315
+M 0 H 0
+S
+#5315
+Near the North-East Tower~
+You are standing near one of the towers that define the town of Treble. 
+There is much traffic going to and from the tower.  Bards in various shades
+of red silks scurry in and out.  To the east, you see the town gallows.  A
+corpse dangles on a rope there.  Past the gallows, the town blends into the
+surrounding forest.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 5325
+D1
+~
+~
+~
+0 0 5314
+D2
+~
+~
+~
+0 0 5312
+D3
+~
+~
+~
+0 0 5316
+M 0 H 0
+S
+#5316
+Northern Treble~
+This is a busy part of town.  You are near the end of the market place. 
+A customer can be heard complaining about the quality of the goods that he
+purchased.  To the north of you is a hedge which encircles the Garden of
+Naris.  It is neatly trimmed and stands just tall enough so that the average
+human cannot see over it.  
+~
+0 0 1
+E
+hedge~
+The hedge is emerald green and neatly trimmed.  Not one leaf appears to
+be out of place.  
+~
+D1
+~
+~
+~
+0 0 5315
+D2
+~
+~
+~
+0 0 5311
+D3
+~
+~
+~
+0 0 5317
+M 0 H 0
+S
+#5317
+Before the Treble Gardens~
+To the north of you is an opening in a meticulously trimmed hedge. 
+Looking past the opening you see a glorious garden.  Birds of many types
+flit around in the garden.  Further to the north, on a grassy hill is a
+stately mansion.  To the south of you is the market place.  Vendors try to
+out-shout each other to get the attention of the customers.  
+~
+0 4 1
+E
+hedge~
+The hedge is emerald green and neatly trimmed.  Not one leaf appears to
+be out of place.  
+~
+D0
+~
+~
+~
+0 0 5323
+D1
+~
+~
+~
+0 0 5316
+D2
+~
+~
+~
+0 0 5310
+D3
+~
+~
+~
+0 0 5318
+M 0 H 0
+S
+#5318
+Near the North-West Tower~
+There is much traffic here.  Bards in various shades of yellow silks
+scurry in the direction of the north-west tower.  Citizens of all economic
+classes scurry to the tax collectors office, hoping to make their payment on
+time lest they have to spend time in the stocks at the west side of town. 
+To the north is a well maintained hedge surrounding a peaceful garden.  On a
+hill on the other side of the garden is a stately mansion.  
+~
+0 0 1
+E
+hedge~
+The hedge is emerald green and neatly trimmed.  Not one leaf appears to
+be out of place.  
+~
+D1
+~
+~
+~
+0 0 5317
+D2
+~
+~
+~
+0 0 5309
+D3
+~
+~
+~
+0 0 5319
+M 0 H 0
+S
+#5319
+Outside the tax collector's office~
+You are in a very busy part of town.  To the west is the tax collectors
+office.  People are streaming in and out of there constantly, many with
+tears in their eyes.  The office stands in the shadow of one of the great
+towers of Treble.  To the south-west is an immaculately trimmed hedge.  To
+the direct south is a market place.  Dozens of unplucked chickens are hung
+from a pole.  
+~
+0 8 1
+E
+chick~
+The chickens hang upside down with their broken necks swaying with the
+movement of the town.  
+~
+D0
+~
+~
+~
+0 0 5321
+D1
+~
+~
+~
+0 0 5318
+D2
+~
+~
+~
+0 0 5308
+D3
+~
+~
+~
+1 0 5320
+M 0 H 0
+S
+#5320
+Tax Collectors Office~
+This is the office of the town tax collector.  A simple desk with a
+wooden chair is the only furnishing.  A large chest is here in which the
+taxes are collected.  A small window in the rear of the small office opens
+to the forest to the west.  
+~
+0 8 0
+E
+window~
+A small window is grimy.  This office hasn't been cleaned in awhile. 
+Through the smudges a peaceful forest can be seen.  
+~
+E
+desc~
+~
+E
+desk~
+The desk is really just a table.  The legs have many scuff marks on them.  
+~
+D1
+~
+~
+~
+1 0 5319
+M 0 H 0
+S
+#5321
+Entrance to the North-West Tower~
+You are standing at the base of a tall stone tower.  The stone is rough
+grey and cool to the touch.  An impressive iron door blocks your entrance. 
+On either side of the door are large pillars, on top of which rests a carved
+sparrow.  To the east of you is a hedge which encircles the Gardens of
+Naris.  
+~
+0 8 1
+E
+tower~
+A cold grey stone structure looms over head.  
+~
+E
+stone~
+The stone is rough in most places as far up as you can see.  The grey
+color gives it a cold appearance.  
+~
+E
+door~
+The door is made of heavy iron.  It looks to be very strong.  
+~
+D2
+~
+~
+~
+0 0 5319
+D3
+~
+iron~
+~
+1 0 5363
+M 0 H 0
+S
+#5322
+Treble Gardens~
+Here the garden is ablaze in color.  Reds, pinks and violets scream their
+beauty at you.  Small stone benches line the path on either side.  The air
+if fragrant.  A small pond has been formed by lining a small area with
+brightly colored rocks.  
+~
+0 0 1
+E
+pond~
+It is shallow and irregularly shaped.  The water magnifies the colors of
+the rocks below and catches the color of the garden above.  
+~
+D1
+~
+~
+~
+0 0 5323
+M 0 H 0
+S
+#5323
+Treble Gardens~
+These are the public gardens of the town of Treble.  The gardens are well
+manicured with brightly colored flowers in all stages of bloom.  A
+cobblestone path leads through the garden and out to the south.  To the east
+is a magnificent birdbath.  
+~
+0 4 1
+E
+cobblestone~
+The path is made from large, well worn stones held in place with dried
+clay.  
+~
+E
+path~
+The path is made from large, well worn stones held in place with dried
+clay.  
+~
+E
+path~
+Large cobblestones are held together with some sort of thick, dried clay.  
+~
+E
+cobblestone~
+Large cobblestones are held together with some sort of thick, dried clay.  
+~
+D1
+~
+~
+~
+0 0 5324
+D2
+~
+~
+~
+0 0 5317
+D3
+~
+~
+~
+0 0 5322
+M 0 H 0
+S
+#5324
+Quiet corner in the Treble Gardens~
+You are in a quiet corner of the northern garden.  A large weeping willow
+tree sweeps the ground with it's long limbs.  A rather impressive birdbath
+invites winged visitors of all types.  The birdsong here is glorious. 
+Finches, chickadees, and sparrows create a lovely orchestra.  A small stone
+bench sits just under the weeping willow tree giving whoever sits there a
+nice view of the birdbath and it's occupants.  
+~
+0 0 1
+E
+willow~
+This ancient tree bends with the burden of it's long sweeping branches.  
+~
+D3
+~
+~
+~
+0 0 5323
+M 0 H 0
+S
+#5325
+Entrance to the North-East Tower~
+You are standing at the base of a tall stone tower.  The stone is rough
+grey and cool to the touch.  An impressive iron door blocks your entrance. 
+On either side of the door are large pillars, on top of which rests a carved
+nightingale.  To the west of you is a hedge which encircles the Gardens of
+Naris.  
+~
+0 0 1
+E
+tower~
+The tower looms over you.  It is made from a rough grey stone which gives
+it a cold feeling.  
+~
+E
+door~
+This is a heavy door, the kind that you would expect to find on a
+fortress.  
+~
+E
+pillar~
+Tall marble pillars as big around as a giant's leg stand on either side
+of the door.  
+~
+D1
+~
+~
+~
+1 0 5380
+D2
+~
+~
+~
+0 0 5315
+M 0 H 0
+S
+#5326
+Godiva Gardens~
+Here, the sweet smell of honeysuckle is painted with the more spicy smell
+of lavender.  The path leads to an ornate wooden bench carefully placed to
+get the full effect of the beauty that surrounds it.  A small red maple
+serves as a home for several tiny finches.  
+~
+0 0 1
+E
+maple~
+This little tree is only as tall as a normal sized dwarf.  It is set
+apart from the other things in the garden.  It's red pointy leaves sway in
+the wind.  
+~
+D0
+~
+~
+~
+0 0 5306
+M 0 H 0
+S
+#5327
+Before the Godiva Gardens~
+You are standing outside of a neatly trimmed hedge that holds the
+beautiful and opulent Godiva Gardens.  Few are allowed in to enjoy the
+intense beauty that grows there.  The song of what seems a hundred finches
+fills the air.  To the east you see a large mural of a knight standing guard
+over fallen comrades.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 5305
+D1
+~
+~
+~
+0 0 5328
+D2
+~
+~
+~
+0 0 5334
+M 0 H 0
+S
+#5328
+Behind the temple~
+You find yourself at the backside of a large temple.  There is no
+entrance from this side.  A stunning mural has been painted on the wooden
+siding.  To the north you hear the busy sounds of the market place.  The
+smell of honeysuckle and roses wafts to you from the west.  Several children
+with smudged faces play in the dirt here.  
+~
+0 0 1
+E
+mural~
+Painted on the side of the temple is a scene of a heroic battle.  A great
+warrior sits astride his mount, legs outstretched in the stirrups, and a
+bloodied spear in his hand ready to strike.  On the right, a knight in
+ancient glowing armor stands defensively over the fallen bodies of his
+comrades.  
+~
+E
+warrior~
+A tall human warrior is depicted here wearing full battle gear.  
+~
+D0
+~
+~
+~
+0 0 5304
+D2
+~
+~
+~
+0 0 5335
+D3
+~
+~
+~
+0 0 5327
+M 0 H 0
+S
+#5329
+The temple~
+You are standing in a rather spacious temple in the middle of town.  The
+walls appear to glow from the light of hundreds of candles.  The ceilings
+are very high giving the room a very open feel.  Near the front of the
+temple is a large, stone altar.  Ornate urns adorn each end of the altar.  A
+staircase just behind the altar leads down.  
+~
+0 8 1
+E
+altar~
+The altar is made from the same cold grey stone that was used to erect
+the great towers of Treble.  A silver chalice rests in the middle of the
+altar.  
+~
+E
+chalice~
+It is a wide silver chalice.  The base is decorated with several birds in
+flight.  It holds some drops of a red liquid.  
+~
+E
+urn~
+These clay urns depict scenes of the great battle between two of the
+master bards.  On one, the corpse of the great Norland is carried off by a
+flock of chickadees, while another corpse lays on the ground.  
+~
+D1
+~
+~
+~
+0 0 5330
+D5
+~
+~
+~
+0 0 5345
+M 0 H 0
+S
+#5330
+On the steps of the temple~
+You are standing on the crude wooden steps of a temple.  The temple
+itself lies to the west and is beautifully crafted of a deep rich wood.  The
+steps appear to have been added as an after-thought.  Finely dressed lords
+and ladies mingle near the entrance to the temple.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 5302
+D1
+~
+~
+~
+0 0 5331
+D2
+~
+~
+~
+0 0 5337
+D3
+~
+~
+~
+0 0 5329
+M 0 H 0
+S
+#5331
+Southeastern Treble~
+You find yourself in south-eastern Treble.  To the west of you is the
+steps to a large temple.  People of all economic classes wander about.  To
+the south-east is a rowdy tavern.  You hear the laughter of many patrons
+coming from there.  Bards try to catch your attention with tales of heroism
+and broken hearts.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 5301
+D1
+~
+~
+~
+0 0 5332
+D2
+~
+~
+~
+0 0 5338
+D3
+~
+~
+~
+0 0 5330
+M 0 H 0
+S
+#5332
+At the edge of town~
+Here, the town of Treble meets the forest.  Small forest animals
+sometimes venture here in the hopes of finding a crumb or two.  To the south
+you see a building.  Loud laughter is coming from there.  Looming over that
+building is a high stone tower.  Towers also stand to the north, north-west,
+and south-west.  Bards and minstrels wander throughout the town.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 5300
+D3
+~
+~
+~
+0 0 5331
+M 0 H 0
+S
+#5333
+Peasants House~
+This is the humble home of a peasant family.  The furnishings are few and
+simple.  A single log sits in the crumbling hearth.  A black cast-iron pot
+holds the remains of today's supper.  
+~
+0 8 1
+D1
+~
+~
+~
+0 0 5334
+M 0 H 0
+S
+#5334
+Near The South-West Tower~
+The entrance to the southwest tower is only a short distance off, its ivy
+coverings masking the rough grey of its stone walls.  To the west, an open
+doorway is visible, leading into what appears to be a peasant's home judging
+by few furnishings that are visible.  To the northwest, the meticulously
+carved hedge of Godiva gardens can be discerned while to the southeast a
+less well maintained hedge is visible.  The smell of honeysuckle drifts
+through the air here.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 5327
+D1
+~
+~
+~
+0 0 5335
+D2
+~
+~
+~
+0 0 5340
+D3
+~
+~
+~
+0 0 5333
+M 0 H 0
+S
+#5335
+Outside of an ill-kept hedge.~
+You are standing directly north of a hedge which encircles the Cromwell
+garden.  It hasn't been trimmed in a very long time and it looks more like a
+series of wild bushes then a hedge.  This section of the town is a bit
+quieter than other parts.  Most of the citizens here are dressed in rags.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 5328
+D1
+~
+~
+~
+0 0 5336
+D3
+~
+~
+~
+0 0 5334
+M 0 H 0
+S
+#5336
+Before the Cromwell Gardens~
+You are at the southern end of the town of treble.  Tall towers loom to
+the east and west.  Two more towers can be seen to the north-west and
+north-east.  To the south you see an opening in a hedge through which you
+can see the remains of a once beautiful garden.  To the north is a tall
+wooden temple made of rich dark wood.  
+~
+0 4 1
+D1
+~
+~
+~
+0 0 5337
+D2
+~
+~
+~
+0 0 5342
+D3
+~
+~
+~
+0 0 5335
+M 0 H 0
+S
+#5337
+Outside of an ill-kept hedge.~
+You are standing directly north of a hedge which encircles the Cromwell
+garden.  It hasn't been trimmed in a very long time and it looks more like a
+series of wild bushes then a hedge.  To the north of you are the steps of
+the temple.  Bards in brightly colored silks entertain people on the steps. 
+Lords and ladies in fine clothing pretend not to notice the pauper children
+who play near them.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 5330
+D1
+~
+~
+~
+0 0 5338
+D3
+~
+~
+~
+0 0 5336
+M 0 H 0
+S
+#5338
+Outside of The Bard's Tale~
+You are standing outside of a loud tavern.  The sign above the door
+swings in the wind.  To the south-west you see a hedge.  Looming above the
+tavern is a tall stone tower.  There is much traffic going to and from the
+tower.  Bards in boldly colored silks scurry in and out.  
+~
+0 8 1
+E
+sign~
+"The Bards Tale"
+~
+D0
+~
+~
+~
+0 0 5331
+D1
+~
+~
+~
+0 0 5339
+D2
+~
+~
+~
+0 0 5344
+D3
+~
+~
+~
+0 0 5337
+M 0 H 0
+S
+#5339
+The Bard's Tale~
+This is a raucous tavern full of merry drinkers.  Serving wenches with
+flushed cheeks keep the ale flowing and the customers tipping.  Near the
+back of the room is a large stone fireplace around which are gathered weary
+adventurers.  A smallish bard entertains them with tales of dragon fights
+and race wars.  
+~
+0 8 0
+E
+fireplace~
+Large stones which form the great hearth radiate heat throughout the
+building.  
+~
+E
+fireplace~
+~
+E
+fireplace~
+~
+D3
+~
+~
+~
+0 0 5338
+M 0 H 0
+S
+#5340
+Entrance to the Southwest Tower~
+The ivy shrouded walls of the southwestern tower loom over head with
+small windows plainly visible from this position.  Twin pillars stand to
+either side of the doorway set into the western wall with honeysuckle coils
+around them, casting forth their aroma upon the air and adding an eye
+pleasing splash of color against the green of the ivy.  Crowning both
+pillars are statues of chickadees, each picked out with enamels so to look
+almost life like.  From within the tower, music and song can be heard. 
+Eastwards, a somewhat wild looking hedge can be seen encircling Cromwell
+Gardens.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 5334
+D3
+~
+~
+~
+1 0 5416
+M 0 H 0
+S
+#5341
+Garden of Cromwell~
+This used to be a quiet section of a beautiful garden.  Stone benches sit
+beside a small pond which now only holds stagnant water and pollywogs.  The
+grass beneath the benches is nearly as high as the seat.  White bird
+droppings stain the stone.  An old maple tree is home to a family of crows. 
+~
+0 0 1
+D1
+~
+~
+~
+0 0 5342
+M 0 H 0
+S
+#5342
+Garden of Cromwell~
+You are standing in what was once a beautiful garden.  It has fallen into
+disrepair in recent times.  Weeds are choking out the few roses and dahlia's
+that still struggle to survive.  The cobblestone path is littered with dead
+leaves and slug trails.  To the south stands a once majestic house.  It is
+showing the strain of neglect as well.  
+~
+0 8 1
+D0
+~
+~
+~
+0 0 5336
+D1
+~
+~
+~
+0 0 5343
+D2
+~
+~
+~
+0 0 5433
+D3
+~
+~
+~
+0 0 5341
+M 0 H 0
+S
+#5343
+Garden of Cromwell~
+The weeds are so thick here that it is impossible to go any further to
+the east.  Looking up and to the east you see one of the famous towers of
+Treble looming above you.  
+~
+0 0 1
+D3
+~
+~
+~
+0 0 5342
+M 0 H 0
+S
+#5344
+Entrance to the South-East Tower~
+You are standing at the base of a tall stone tower.  The stone is rough grey 
+and cool to the touch.  An impressive iron door blocks your entrance to the 
+east.  On either side of the door are large pillars, on top of which rests a 
+carved finch.  To the west of you is a hedge which encircles the Cromwell 
+Gardens.  
+~
+0 8 1
+D0
+~
+~
+~
+0 0 5338
+D1
+~
+~
+~
+1 0 5399
+M 0 H 0
+S
+#5345
+Below the altar~
+This room is rather dark.  There is a staircase leading up to what
+appears to be a well-lit room above.  A faint odor of sulfur assaults your
+nostrils.  A large cabinet lines the north wall.  
+~
+0 8 0
+D4
+~
+~
+~
+0 0 5329
+M 0 H 0
+S
+#5346
+Path to the house of Godiva~
+A path, of some material which looks like crushed opals, leads east-west
+from the opulent gardens to the doorway of a grand house.  The house is made
+of smooth grey stone with streaks of some type of red ore running through
+it.  The double doors are made of a dark red wood.  Rings of gold are used
+as handles to open and close them.  A single vine with brilliant red flowers
+grows across the top of the doorway.  
+~
+0 4 1
+E
+house~
+This is a truly grand house.  It is breathtaking in it's beauty.  
+~
+E
+dorr~
+~
+E
+handle~
+Heavy golden rings are attached to the door with a golden spike.  
+~
+E
+vine~
+A fragrant vine with wide green leaves and tiny red flowers drapes over
+the doorway.  It clings to the stone with tiny runners.  
+~
+E
+door~
+The dark red wood of the double doors has been oiled and polished to give
+it a rich shine.  
+~
+D1
+~
+~
+~
+0 0 5306
+D3
+~
+~
+~
+1 0 5348
+M 0 H 0
+S
+#5347
+Gardener's Hut~
+Here is the humble abode of the gardener who tends the Godiva garden. 
+Lord Godiva is not a generous man and doesn't pay his help very well. 
+Although his gardens are opulent and his personal surroundings are filled
+with finery he has no concern for those he considers lowly.  
+~
+0 8 1
+D2
+~
+~
+~
+0 0 5307
+M 0 H 0
+S
+#5348
+Entrance Hall~
+This is the entrance hall to the grand home of the tyrant, Lord Godiva. 
+The polished marble floors are grey with a bluish cast.  Fresh flowers are
+arranged beautifully in gleaming brass vases.  To the east are the double
+entrance doors.  Another set of doors lies to the west.  An archway leads to
+a sitting room to the north.  
+~
+0 12 0
+E
+vase~
+This is a rather large vase made of brass.  It shines brightly from the
+tedious polishing that it receives daily.  
+~
+E
+flowers~
+Lilies, roses, gardenias and cosmos make a huge bouquet here.  
+~
+E
+doors~
+A set of double doors lies to the east.  They are made of a dark, rich
+wood.  
+~
+E
+archway~
+A high curved archway divides this room from the sitting room on the
+north.  
+~
+D0
+~
+~
+~
+0 0 5349
+D1
+~
+~
+~
+1 0 5346
+D3
+~
+~
+~
+1 0 5351
+M 0 H 0
+S
+#5349
+Sitting room~
+This is where Lord and Lady Godiva entertain guests.  A large brick
+fireplace takes up most of the north wall.  Above the mantle is a portrait
+in a golden frame.  A tapestry, which seems to be woven from tiny vines
+hangs on the east wall.  Overstuffed chairs are placed near the hearth
+around a long low table.  To the west is a set of french doors which lead to
+a large porch.  South is the entranceway to this grand home.  
+~
+0 8 0
+E
+fireplace~
+This is a huge, open fireplace where a cheerful fire is often set.  
+~
+E
+portrait~
+A portrait of a beautiful woman with flowing blonde hair is here.  She is
+sitting on a wooden bench in some sort of garden.  Her dress is blue silk
+and highly beaded.  She has kind eyes.  
+~
+E
+tapestry~
+It is woven from the most interesting material.  It almost appears to be
+living.  The scene is of a large meadow with wildlife peacefully grazing.  
+~
+E
+table~
+The legs of this low table are carved into the shape of a lion's foot.  
+~
+D2
+~
+~
+~
+0 0 5348
+D3
+~
+~
+~
+1 0 5350
+M 0 H 0
+S
+#5350
+Porch~
+You find yourself on a large stone porch.  It is made from hundreds of
+large, smooth stones.  Several wooden benches dot the porch.  To the north
+is a small grassy glade where deer graze.  Past the glade and to the west is
+the forest.  There is a pleasant smell of trees in the air.  To the east is
+a set of white french doors, through which you can see a luxurious sitting
+room.  To the south is another set of white french doors leading to a huge
+ballroom.  
+~
+0 128 1
+D1
+~
+~
+~
+1 0 5349
+D2
+~
+~
+~
+1 0 5351
+M 0 H 0
+S
+#5351
+Ballroom~
+This is the grand Godiva ballroom.  Great parties are thrown here
+regularly.  Although few truly like Lord Godiva all are anxious to be
+invited to his great balls.  No expense is too great to impress his guests. 
+High ceilings make the room appear even bigger than it actually is.  Four
+huge chandeliers hang from the ceiling.  Each holds more than 100 candles. 
+To the east is a set of french doors to the porch, where guest sometimes
+take a break from dancing.  To the south is a set of fine wooden doors.  
+~
+0 0 0
+E
+chandelier~
+These are truly amazing chandeliers.  There are four of them in the
+ballroom.  Wrought-iron structures holding 100 candles each are afixed to
+the ceiling with heavy chains.  The remarkable thing is that the candles are
+burning but it's difficult to imagine how anyone was able to light them all.
+~
+D0
+~
+~
+~
+1 0 5350
+D1
+~
+~
+~
+1 0 5348
+D2
+~
+~
+~
+0 0 5352
+D3
+~
+~
+~
+0 0 5354
+M 0 H 0
+S
+#5352
+Ballroom~
+You are in the south-east corner of the grand Godiva Ballroom. 
+Everything here is very luxurious.  Large chandeliers hang from the high
+ceilings.  It's a wonder that the floor isn't covered with candle wax.  In
+the north-west corner of the ballroom is a stately staircase made of deep
+burgundy marble.  
+~
+0 8 0
+E
+chandelier~
+These are truly amazing chandeliers.  There are four of them in the
+ballroom.  Wrought-iron structures holding 100 candles each are afixed to
+the ceiling with heavy chains.  The remarkable thing is that the candles are
+burning but it's difficult to imagine how anyone was able to light them all.
+~
+D0
+~
+~
+~
+0 0 5351
+D3
+~
+~
+~
+0 0 5353
+M 0 H 0
+S
+#5353
+Ballroom~
+This grand ballroom is lit by the flickering light of several hundred
+candles.  They are suspended overhead on four large chandeliers.  To the
+north and east the ballroom continues.  In the north-western corner of the
+ballroom is an impressive staircase.  To the south is a large stone archway
+leading to a dining room.  
+~
+0 8 0
+E
+chandelier~
+These are truly amazing chandeliers.  There are four of them in the
+ballroom.  Wrought-iron structures holding 100 candles each are afixed to
+the ceiling with heavy chains.  The remarkable thing is that the candles are
+burning but it's difficult to imagine how anyone was able to light them all.
+~
+D0
+~
+~
+~
+0 0 5354
+D1
+~
+~
+~
+0 0 5352
+D2
+~
+~
+~
+0 0 5355
+M 0 H 0
+S
+#5354
+At the bottom of the grand staircase~
+You are at the bottom of a grand staircase.  The stairs are very long at
+the bottom with each getting smaller as you get closer to the top.  They are
+made of a deep burgundy marble.  The ornate railings are decorated with gold
+paint.  Above you is a chandelier which holds more than 100 candles.  
+~
+0 0 0
+E
+chandelier~
+These are truly amazing chandeliers.  There are four of them in the
+ballroom.  Wrought-iron structures holding 100 candles each are afixed to
+the ceiling with heavy chains.  The remarkable thing is that the candles are
+burning but it's difficult to imagine how anyone was able to light them all.
+~
+D1
+~
+~
+~
+0 0 5351
+D2
+~
+~
+~
+0 0 5353
+D4
+~
+~
+~
+0 0 5358
+M 0 H 0
+S
+#5355
+Dining Room~
+This is a long, narrow room with windows over the entire length of the
+east wall.  The ceiling is high and slants upwards from the east and west
+walls meeting in a peak that runs the length of the room.  A table, which
+appears to be able to seat several dozen, runs the length of the room.  A
+heavy silver candelabra sits in the middle of the long table.  Two similar
+but smaller ones sit halfway between the larger one and the end of the table
+on each side of the larger one.  A large and cheerful looking fireplace
+covers the south wall.  A portrait in a golden frame is hung over the
+mantle.  A swinging door is to the west.  North is the grand ballroom.  
+~
+0 8 0
+E
+table~
+This table is made of thick oak.  It appears to be very old as the color
+of the oak is fairly dark.  
+~
+E
+candleabra~
+The largest of the three candleabras here holds 13 candles.  The silver
+is ornate and highly polished, as is everything in this house.  
+~
+E
+fireplace~
+This fireplace is made of large rose-colored stones plastered together
+with a grey material.  
+~
+E
+portrait~
+A young Lord Godiva is depicted in this portrait.  He is very stern
+looking.  His eyes are cold.  
+~
+E
+frame~
+It is very thick and heavy looking.  The swirling design is almost gawdy.  
+~
+D0
+~
+~
+~
+0 0 5353
+D3
+~
+~
+~
+1 0 5356
+M 0 H 0
+S
+#5356
+Kitchen~
+This a huge kitchen which is used in the preparation of the many Feasts
+of Godiva.  A large kettle hangs over the fire on the hearth.  Large bowls
+containing fresh vegetable which have been cut and peeled are near the
+hearth.  A butcher block is stained with the blood of the meat that was last
+cut there.  The smell of baking bread wafts from the brick oven near the
+center of the room.  A swinging door to the east leads to the dining hall. 
+A curtained door to the south leads to the maids quarters.  
+~
+0 8 0
+E
+block~
+This is a long piece of thick wood.  The top of it is scored where knives
+have stuck into it during the process of cutting the meat from an animal
+carcass.  
+~
+E
+kettle~
+Is is made from cast-iron and has been seasoned to a heavy black from
+years of use.  A pleasant aroma comes from it.  
+~
+D1
+~
+~
+~
+1 0 5355
+D2
+~
+curtain~
+~
+1 0 5357
+M 0 H 0
+S
+#5357
+Maid's Quarters~
+This is the cramped living space of the Godiva's three maids and a cook. 
+Two small beds line the west wall and two line the east wall.  There are no
+windows and it smells a bit musty in here.  A single table with a washbasin
+and pitcher is located at the south end of the room.  Neatly stacked under
+each bed are the measly belongings of each maid and the cook.  The door to
+the kitchen is to the north.  
+~
+0 8 0
+E
+belongings~
+Each maid has one spare simply dress and a pair of stockings.  
+~
+E
+pitcher~
+It once matched the washbasin although it's design has been worn away
+over the years.  It has been cracked.  Lord Godiva threw it out but one of
+the maids rescued it for their use.  
+~
+E
+washbasin~
+This was once a fine washbasin which belonged to Lord Godiva.  It has
+been chipped from many years of use.  
+~
+E
+bed~
+It is small and looks to be quite hard.  
+~
+D0
+~
+curtain~
+~
+1 0 5356
+M 0 H 0
+S
+#5358
+At the top of the grand staircase~
+You are at the top of a grand staircase made of a deep burgundy marble. 
+Gold paint accents the mahogany railings.  To the east is a short hallway. 
+Torches, which line the walls, provide the light.  To the west is a large
+open window.  Looking out the window, you can see what appears to be an
+endless expanse of forest.  
+~
+0 12 0
+E
+torch~
+Show The handle is made of brass and attached to the wall via a brass
+hook.  The flame is small but bright.  
+~
+E
+torches~
+The handle is made of brass and attached to the wall via a brass hook. 
+The flame is small but bright.  
+~
+E
+railing~
+They are made of thick mahogany and are shined daily.  The refection of
+the light from the torches dances on the surface.  
+~
+E
+railings~
+They are made of thick mahogany and are shined daily.  The refection of
+the light from the torches dances on the surface.  
+~
+E
+window~
+It is a rather large opening.  Tree limbs are close enough to touch.  
+~
+D1
+~
+~
+~
+0 0 5359
+D5
+~
+~
+~
+0 0 5354
+M 0 H 0
+S
+#5359
+Hallway~
+This is a short hallway leading from the stairs to the west.  There are
+doors to the north, east and south.  The hall is lit by several torches that
+are attached to the wall.  The smell of kerosene is strong.  On the floor is
+a rich rug woven of burgundy and gold.  
+~
+0 8 0
+E
+torch~
+The handle is made of brass and attached to the wall via a brass hook. 
+The flame is small but bright.  
+~
+E
+rug~
+The rug is made of thich burgandy and gold yarn.  It has an interesting
+pattern that looks vaguely like ballerinas dancing.  
+~
+D0
+~
+~
+~
+1 0 5360
+D1
+~
+~
+~
+1 0 5361
+D2
+~
+~
+~
+1 0 5362
+D3
+~
+~
+~
+0 0 5358
+M 0 H 0
+S
+#5360
+Lady Godiva's chambers~
+These are the chambers of Lady Godiva.  Lord Godiva makes sure that she
+has the finest of everything.  Her closets are full of the finest silk
+dresses.  Her dressing table holds perfumes and powders from many distant
+lands.  A full length {Wmirror{x framed in an exotic {Mpurple{x wood stands
+in one corner.  The four-poster canopy bed is made from the same purple
+wood.  Sheer white silk makes the canopy.  A white down comforter covers the
+overstuffed mattress.  Pillows in various shades of burgundy are arranged at
+the top of the bed.  
+~
+0 8 0
+E
+closet~
+This free-standing armour is made of a beautiful exotic purple wood.  The
+doors are ornately carved with large unfamiliar flower blossoms.  It must
+have been imported from far away.  
+~
+E
+table~
+This table is made from an exotic purple wood which is used for all of
+the furnishings in the room.  It is a rather simple table but the wood makes
+it very special.  
+~
+E
+bed~
+The four posts are intricately carved to show scenes of swans.  The thick
+matress is over-stuffed and looks very comfortable.  
+~
+D2
+~
+~
+~
+1 0 5359
+M 0 H 0
+S
+#5361
+Master Bedroom~
+The master bedroom is almost gaudy.  Lord Godiva is obsessed with
+material things.  He wants the best and biggest of everything that gold can
+buy.  A statue of a nubile young woman stands in one corner of the room. 
+The pelt of a large animal is positioned in front of a small fireplace.  A
+large bed with pillows of nearly every color of the rainbow is here.  
+~
+0 8 0
+E
+pelt~
+This is a huge pelt of something which has the head of a wolf and the
+body of a bear.  
+~
+E
+statue~
+She stands about 5 feet tall and is naked from the waist up.  She is
+posed as if in some seductive dance.  
+~
+E
+woman~
+She stands about 5 feet tall and is naked from the waist up.  She is
+posed as if in some seductive dance.  
+~
+E
+animal~
+This is a huge pelt of something which has the head of a wolf and the
+body of a bear.  
+~
+D3
+~
+~
+~
+1 5497 5359
+M 0 H 0
+S
+#5362
+Godiva's study~
+This is Lord Godiva's study where he gleefully counts the gold that he
+has collected through his cruel taxes.  The south and west walls are lined
+with shelves holding hundreds of books.  Godiva considers himself a scholar.
+This room has several windows high off the ground.  During the day it is
+very bright in here.  
+~
+0 4194312 0
+E
+window~
+The windows start well above eye level and end at the high ceiling.  
+~
+E
+shelf~
+Wooden bookcases line the walls from floor to the bottom of the bookcases.  
+~
+D0
+~
+~
+~
+1 0 5359
+M 0 H 0
+S
+#5363
+Tower of the Sparrow~
+You have entered the foyer of the huge stone tower at the north-west
+corner of Treble.  The first thing that you notice are the many bards and
+bard apprentices sitting on large pillows.  This is where the bards of the
+Order of the Sparrow come to learn their craft.  The tower is very large at
+it's base.  There are many services available here.  In fact, most
+apprentice bards never leave the tower, once they enter for their training,
+until they graduate to the rank of bard.  
+~
+0 12 0
+E
+pillows~
+Each pillow is the size of a man and could easily be used as a bed.  They
+are made of various shades of yellow silk and velvet.  
+~
+D0
+~
+~
+~
+0 0 5366
+D1
+~
+~
+~
+1 0 5321
+D3
+~
+~
+~
+0 0 5364
+M 0 H 0
+S
+#5364
+Tailor's Corner~
+You move amongst the bards on the ground floor of this tower.  You stand
+out in that you are the only one not dressed in bright yellow silks.  The
+walls are hung with long strips of yellow silk as well.  Yellow is the sign
+of the Order of the Sparrow.  In the corner here, a small tailor's stand has
+been set up.  
+~
+0 8 0
+E
+stand~
+It is little more than a wooden cart with compartments for holding his
+silk and thread.  
+~
+E
+strips~
+Wide strips of yellow silk are draped over the wall.  
+~
+D0
+~
+~
+~
+0 0 5365
+D1
+~
+~
+~
+0 0 5363
+M 0 H 0
+S
+#5365
+Practice Area~
+There is much activity here.  Bard apprentices are practicing their
+craft, hoping to someday achieve the rank of bard.  Groups of apprentices
+gather around instructors eager to learn.  Amazingly, the sounds of the
+flutes, mandolins and pochettes does not create a hideous cacophony.  It is
+as if the walls of the tower absorb them so as to allow for so many sounds
+in one place.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 5366
+D2
+~
+~
+~
+0 0 5364
+M 0 H 0
+S
+#5366
+Eating Area~
+This is where the bards and apprentices eat their meals.  Long tables
+with wooden benches are arranged in rows.  Wooden bowls and spoons are
+stacked at the end of one of the tables.  The ceilings here are very high. 
+A stone staircase leads further up into the tower.  
+~
+0 8 0
+E
+spoon~
+Crude wooden spoons are piled next to the bowls here.  
+~
+E
+bowl~
+The bowls have been cleaned from the last meal and are stacked at one end
+of the table waiting for the next.  
+~
+E
+bench~
+Long simple benches sit on either side of the tables.  
+~
+E
+table~
+These are simple wooden tables that have seen many years of use.  The
+tops are rough and stained.  
+~
+D2
+~
+~
+~
+0 0 5363
+D3
+~
+~
+~
+0 0 5365
+D4
+~
+~
+~
+0 0 5367
+M 0 H 0
+S
+#5367
+On the stone stairs~
+This is a wide set of stone stairs leading from the eating area below to
+a landing above.  Bards and apprentices sit on several of the steps.  Some
+of them are practicing but the majority of them are just chatting.  The
+stone is a cold grey that has been smoothed from years of use.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 5368
+D5
+~
+~
+~
+0 0 5366
+M 0 H 0
+S
+#5368
+On the stone stairs~
+The cold grey staircase spirals up from the ground floor and disappears
+into a wooden floor a ways above your head.  A small, open window looks out
+into the forest surrounding Treble.  Although the stone which forms this
+huge tower is a cold grey, the feeling inside the tower is warm and
+cheerful.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 5367
+D4
+~
+~
+~
+0 0 5369
+M 0 H 0
+S
+#5369
+On the stone stairs~
+The spiral staircase winds from the grey stone floor to the wooden floor
+above.  Below you is much activity, bards and apprentices go about the
+business of living and learning their craft.  A few apprentices appear to be
+waiting in a casual line to go up to the second landing.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 5370
+D5
+~
+~
+~
+0 0 5368
+M 0 H 0
+S
+#5370
+On the stone stairs~
+You are near the top of the grey spiral staircase.  A few bards
+apprentices are standing here, waiting for something.  You notice how
+nervous they look.  Below, you see the line of apprentices curve out of
+sight.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 5369
+D4
+~
+~
+~
+0 0 5371
+M 0 H 0
+S
+#5371
+Second floor of the tower~
+This is the second floor of the tower of the Finch.  The floor is made of
+a dark, hardwood.  It shines with the labor of the apprentices, who must
+earn their keep here.  This floor is much quieter than that below.  Master
+bards in brilliant yellow robes eye you suspiciously.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 5374
+D5
+~
+~
+~
+0 0 5370
+M 0 H 0
+S
+#5372
+Chamber of the grand master~
+This is the study of the grand master of the Order of the Sparrow.  A
+sofa covered in fine yellow silk is the centerpiece of the room.  Near the
+south wall a set of wooden stairs leads up, further into the tower.  Sheets
+of music are spread on a table near the sofa.  This room is used mostly for
+instruction and testing of the apprentice bards.  
+~
+0 8 0
+E
+music~
+Yellowing sheets of paper with musical notes hand written on lines are
+scattered here as if someone was looking through them for a certain one.  
+~
+E
+sheet~
+Yellowing sheets of paper with musical notes hand written on lines are
+scattered here as if someone was looking through them for a certain one.  
+~
+E
+sofa~
+This large, overstuffed sofa looks very comfortable.  The feet are made
+of a polished redwood.  
+~
+D1
+~
+~
+~
+1 0 5373
+D4
+~
+~
+~
+0 0 5375
+M 0 H 0
+S
+#5373
+Before the room of the grand master~
+This is the second floor of the tower of the Sparrow.  This floor is used
+for somber study.  To the south you see many instruments on display.  To the
+north is an open window looking out into the forests that surround Treble. 
+To the west is a heavy wooden door with a picture of a sparrow carved into
+it.  A desk sits just outside the door.  
+~
+0 8 0
+E
+scroll~
+This scroll is for keeping track of the training of the apprentice bards.  
+~
+E
+desk~
+A simple wooden desk has been placed just outside the door to the grand
+master's chambers.  A scroll sits here with the names of all of the bard
+apprentices on it.  Some names have been checked off.  
+~
+D2
+~
+~
+~
+0 0 5374
+D3
+~
+~
+~
+1 0 5372
+M 0 H 0
+S
+#5374
+Second floor of the tower~
+This is the second floor of one of the great towers of Treble.  On this
+floor the apprentices wait in line to get instruction from the masters. 
+Along the wall are hung instruments of every kind.  To the east is the top
+of a set of stairs.  To the north-west is a door.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 5373
+D3
+~
+~
+~
+0 0 5371
+M 0 H 0
+S
+#5375
+Porcelli's personal chambers~
+This is a finely furnished room.  A regal looking chair with a high back
+and yellow upholstery sits facing the door.  To the south is a simple wooden
+door.  On the floor is a beautiful carpet with the picture of a sparrow
+delicately woven from various shades of yellow.  A high window looks out to
+the west over the forest which surrounds the pleasant town of Treble.  A
+dark painting hangs here, looking oddly out of place.  
+~
+0 8 0
+E
+carpet~
+The large area rug has been placed in the center of the room.  It is
+bright and makes the room feel very warm.  
+~
+E
+chair~
+This chair is very regal looking.  The high back has carved sparrows
+meeting in the center.  
+~
+E
+painting~
+This is a dark landscape depicting a swampy area.  
+~
+D2
+~
+~
+~
+1 0 5376
+D5
+~
+~
+~
+0 0 5372
+M 0 H 0
+S
+#5376
+Porcelli's sleeping chambers~
+You have entered someone's sleeping chambers.  A simple bed stands in the
+middle of the room.  Near the bed is a wooden table which holds a yellow
+clay wash basin and pitcher.  A wardrobe stands on the wall on the other
+side of the bed.  Above you is a trap door.  To the north is a door leading
+to what appears to be a sitting room of sorts.  
+~
+0 8 0
+E
+pitcher~
+A large pale yellow pitcher sits here on the table.  It is matches the
+wash basin which sits next to it.  
+~
+E
+basin~
+A large shallow bowl sits here on the table.  It is made of a hard, pale
+yellow material.  
+~
+E
+table~
+The table is small and simple, yet elegant.  The light colored wood
+reflects your image as you look at it.  
+~
+E
+bed~
+The bed is a simple single bed made of a light wood.  
+~
+D0
+~
+~
+~
+1 0 5375
+D4
+~
+~
+~
+1 0 5377
+M 0 H 0
+S
+#5377
+On a wooden ladder~
+You find yourself on an old wooden ladder that extends to the ground
+below you when the trapdoor is opened from that room.  The grey stone walls
+form a circular enclosing around the ladder.  Below, you see the sleeping
+chambers of the grand master.  Above you is an open room from which you hear
+the singing of some kind of songbird.  
+~
+0 8 0
+E
+ladder~
+It is old but very sturdy.  It is attached to the wall with great iron
+hooks.  
+~
+D4
+~
+~
+~
+0 0 5378
+D5
+~
+~
+~
+1 0 5376
+M 0 H 0
+S
+#5378
+Top of the tower~
+You are at the top of one of the four bard towers of Treble.  There are
+windows on all sides of you.  To the south and east you can look out over
+the busy town below you.  To the north and west you see the tranquil forest
+that surrounds the town.  In the center of the room is a huge gilded
+birdcage which holds perhaps a hundred sparrows.  The door to the cage is
+closed and a golden bolt holds it shut.  
+~
+0 8 0
+E
+bolt~
+The door to the cage is held shut by a large sliding bolt.  It appears to
+be made of solid gold.  
+~
+D5
+~
+~
+~
+0 0 5377
+M 0 H 0
+S
+#5379
+Inside the Gilded Cage~
+You find yourself inside a large golden cage.  Sparrows flit past your
+head at a terrible rate.  There are perhaps a hundred in here with you. 
+Some sit on perches singing a glorious song.  A tray of birdseed hangs about
+waist-high.  The ground is littered with finch feces although it appears to
+have been cleaned recently.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 5378
+M 0 H 0
+S
+#5380
+Tower of the Nightingale~
+You have entered the foyer or the huge stone tower at the north-east
+corner of Treble.  The first thing that you notice are the many bards and
+bard apprentices sitting on large pillows.  This is where the bards of the
+Order of the Nightingale come to learn their craft.  The tower is very large
+at it's base.  There are many services available here.  In fact, most
+apprentice bards never leave the tower, once they enter for their training,
+until they graduate to the rank of bard.  
+~
+0 12 0
+D0
+~
+~
+~
+0 0 5383
+D1
+~
+~
+~
+0 0 5381
+D3
+~
+~
+~
+1 0 5325
+M 0 H 0
+S
+#5381
+Tailor's Corner~
+You move amongst the bards on the ground floor of this tower.  You stand
+out in that you are the only one not dressed in bright red silks.  The walls
+are hung with long strips of red silk as well.  Red is the sign of the Order
+of the Nightingale.  In the corner here, a small tailor's stand has been set
+up.  
+~
+0 8 0
+E
+strips~
+Long swags of brilliant red silk cover the cold grey walls giving a bit
+of cheer to the room here.  
+~
+E
+stand~
+This is a small hut type structure which sits inside the giant tower. 
+The sign above the entrance says "Tailor of the Nightengales".  
+~
+D0
+~
+~
+~
+0 0 5382
+D3
+~
+~
+~
+0 0 5380
+M 0 H 0
+S
+#5382
+Practice Area~
+There is much activity here.  Bard apprentices are practicing their
+craft, hoping to someday achieve the rank of bard.  Groups of apprentices
+gather around instructors eager to learn.  Amazingly, the sounds of the
+flutes, mandolins and pochettes does not create a hideous cacophony.  It is
+as if the walls of the tower absorb them so as to allow for so many sounds
+in one place.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 5381
+D3
+~
+~
+~
+0 0 5383
+M 0 H 0
+S
+#5383
+Dining Area~
+This is where the bards and apprentices eat their meals.  Long tables
+with wooden benches are arranged in rows.  Wooden bowls and spoons are
+stacked at the end of one of the tables.  The ceilings here are very high. 
+A stone staircase leads further up into the tower.  
+~
+0 8 0
+E
+spoon~
+Crude wooden spoons are stacked next to the bowls.  
+~
+E
+bowl~
+These bowls have been crudely carved from many different types of wood.  
+~
+E
+bench~
+Who Short benches are lined up near the tables.  Each bench appears to
+hold from four to six persons.  
+~
+E
+table~
+These tables are long and rather uneven shaped.  They are wider at some
+spots than at others.  
+~
+D1
+~
+~
+~
+0 0 5382
+D2
+~
+~
+~
+0 0 5380
+D4
+~
+~
+~
+0 0 5384
+M 0 H 0
+S
+#5384
+On the stone stairs~
+This is a wide set of stone stairs leading from the eating area below to
+a landing above.  Bards and apprentices sit on several of the steps.  Some
+of them are practicing but the majority of them are just chatting.  The
+stone is a cold grey that has been smoothed from years of use.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 5385
+D5
+~
+~
+~
+0 0 5383
+M 0 H 0
+S
+#5385
+On the stone stairs~
+The cold grey staircase spirals up from the ground floor and disappears
+into a wooden floor a ways above your head.  A small, open window looks out
+into the forest surrounding Treble.  Although the stone which forms this
+huge tower is a cold grey, the feeling inside the tower is warm and
+cheerful.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 5384
+D4
+~
+~
+~
+0 0 5386
+M 0 H 0
+S
+#5386
+On the stone stairs~
+The spiral staircase winds from the grey stone floor to the wooden floor
+above.  Below you is much activity, bards and apprentices go about the
+business of living and learning their craft.  A few apprentices appear to be
+waiting in a casual line to go up to the second landing.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 5387
+D5
+~
+~
+~
+0 0 5385
+M 0 H 0
+S
+#5387
+On the stone stairs~
+You are near the top of the grey spiral staircase.  A few bards
+apprentices are standing here, waiting for something.  You notice how
+nervous they look.  Below, you see the line of apprentices curve out of
+sight.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 5386
+D4
+~
+~
+~
+0 0 5388
+M 0 H 0
+S
+#5388
+Second floor of the tower~
+This is the second floor of the tower of the Finch.  The floor is made of
+a dark, hardwood.  It shines with the labor of the apprentices, who must
+earn their keep here.  This floor is much quieter than that below.  Master
+bards in crimson robes eye you suspiciously.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 5391
+D5
+~
+~
+~
+0 0 5387
+M 0 H 0
+S
+#5389
+Chamber of the grand master~
+This is the study of the grand master of the Order of the Nightingale.  A
+sofa covered in fine red silk is the centerpiece of the room.  Near the
+south wall a set of wooden stairs leads up, further into the tower.  Sheets
+of music are spread on a table near the sofa.  This room is used mostly for
+instruction and testing of the apprentice bards.  
+~
+0 8 0
+E
+music~
+Sheets of music are neatly layed out on the table.  The notes are
+hand-written on thick parchment paper.  
+~
+E
+sofa~
+This is a plush red sofa.  The legs are made from a stark-white wood, the
+likes of which you have never seen before.  
+~
+D3
+~
+~
+~
+1 0 5390
+D4
+~
+~
+~
+0 0 5392
+M 0 H 0
+S
+#5390
+Before the room of the grand master~
+This is the second floor of the tower of the Nightingale.  This floor is
+used for somber study.  To the south you see many instruments on display. 
+To the north is an open window looking out into the forests that surround
+Treble.  To the east is a heavy wooden door with a picture of a nightingale
+carved into it.  A desk sits just outside the door.  
+~
+0 8 0
+E
+book~
+In the open book are the names of each of the apprentices of the Order of
+the Nightengale.  Some names have marks by them.  
+~
+E
+desk~
+A small desk is here.  On it is an open book.  
+~
+D1
+~
+~
+~
+1 0 5389
+D2
+~
+~
+~
+0 0 5391
+M 0 H 0
+S
+#5391
+Second floor of the tower~
+This is the second floor of one of the great towers of Treble.  On this
+floor the apprentices wait in line to get instruction from the masters. 
+Along the wall are hung instruments of every kind.  To the east is the top
+of a set of stairs.  To the north-east is a door.  
+~
+0 8 0
+E
+instuments~
+Lutes, pochettes, flutes and mandolins are hung here, presumably for
+instruction.  
+~
+D0
+~
+~
+~
+0 0 5390
+D1
+~
+~
+~
+0 0 5388
+M 0 H 0
+S
+#5392
+Oremnok's personal chambers~
+This is a finely furnished room.  A regal looking chair with a high back
+and red upholstery sits facing the door.  To the south is a simple wooden
+door.  On the floor is a beautiful carpet with the picture of a nightingale
+delicately woven from various shades of red.  A high window looks out to the
+east over the forest which surrounds the pleasant town of Treble.  
+~
+0 8 0
+E
+carpet~
+A likeness of a nightengale has been woven from very fine threads.  
+~
+E
+chair~
+This chair looks like something you would find in the castle of a very
+wealthy king.  Thick red velvet upholstry is accented by the ornately carved
+dark wood of the arms and legs.  
+~
+D2
+~
+~
+~
+1 0 5395
+D5
+~
+~
+~
+0 0 5389
+M 0 H 0
+S
+#5393
+~
+~
+0 4 0
+M 0 H 0
+S
+#5394
+~
+~
+0 4 0
+M 0 H 0
+S
+#5395
+Oremnok's sleeping chambers~
+You have entered someone's sleeping chambers.  A simple bed stands in the
+middle of the room.  Near the bed is a wooden table which holds a red clay
+wash basin and pitcher.  A wardrobe stands on the wall on the other side of
+the bed.  Above you is a trap door.  To the north is a door leading to what
+appears to be a sitting room of sorts.  
+~
+0 8 0
+E
+pitcher~
+The red clay pitcher is half-filled with tepid water.  Tiny golden images
+of birds decorate the side.  
+~
+E
+basin~
+This is a clay vessel used for holding wash water.  Around the top of the
+basin are golden images of tiny birds.  
+~
+D0
+~
+~
+~
+1 0 5392
+D4
+~
+~
+~
+1 0 5396
+M 0 H 0
+S
+#5396
+On a wooden ladder~
+You find yourself on an old wooden ladder that extends to the ground
+below you when the trapdoor is opened from that room.  The grey stone walls
+form a circular enclosing around the ladder.  Below, you see the sleeping
+chambers of the grand master.  Above you is an open room from which you hear
+the singing of some kind of songbird.  
+~
+0 8 0
+D4
+~
+~
+~
+0 0 5397
+D5
+~
+~
+~
+1 0 5395
+M 0 H 0
+S
+#5397
+Top of the tower~
+You are at the top of one of the four bard towers of Treble.  There are
+windows on all sides of you.  To the south and west you can look out over
+the busy town below you.  To the east and north you see the tranquil forest
+that surrounds the town.  In the center of the room is a huge gilded
+birdcage which holds perhaps a hundred nightingales.  The door to the cage
+is closed and a golden bolt holds it shut.  
+~
+0 8 0
+E
+bolt~
+A large bolt keeps the door to the cage secure.  
+~
+E
+cage~
+Golden bars form a huge cage in which a swarm of nightengales reside.  It
+could easily hold a giant.  
+~
+E
+gilded~
+Golden bars form a huge cage in which a swarm of nightengales reside.  It
+could easily hold a giant.  
+~
+E
+birdcage~
+Golden bars form a huge cage in which a swarm of nightengales reside.  It
+could easily hold a giant.  
+~
+D5
+~
+~
+~
+0 0 5396
+M 0 H 0
+S
+#5398
+Inside the Gilded Cage~
+You find yourself inside a large golden cage.  Nightingales flit past
+your head at a terrible rate.  There are perhaps a hundred in here with you.
+Some sit on perches singing a glorious song.  A tray of birdseed hangs about
+waist-high.  The ground is littered with finch feces although it appears to
+have been cleaned recently.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 5397
+M 0 H 0
+S
+#5399
+Tower of the Finch~
+You have entered the foyer or the huge stone tower at the south-east
+corner of Treble.  The first thing that you notice are the many bards and
+bard apprentices sitting on large pillows.  This is where the bards of the
+Order of the Finch come to learn their craft.  The tower is very large at
+it's base.  There are many services available here.  In fact, most
+apprentice bards never leave the tower, once they enter for their training,
+until they graduate to the rank of bard.  
+~
+0 12 0
+E
+pillows~
+These huge pillows could easily double as beds for the many bards who
+temporarily call this home.  
+~
+D1
+~
+~
+~
+0 0 5400
+D2
+~
+~
+~
+0 0 5402
+D3
+~
+~
+~
+1 0 5344
+M 0 H 0
+S
+#5400
+Practice Area~
+There is much activity here.  Bard apprentices are practicing their
+craft, hoping to someday achieve the rank of bard.  Groups of apprentices
+gather around instructors eager to learn.  Amazingly, the sounds of the
+flutes, mandolins and samishins does not create a hideous cacophony.  It is
+as if the walls of the tower absorb them so as to allow for so many sounds
+in one place.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 5401
+D3
+~
+~
+~
+0 0 5399
+M 0 H 0
+S
+#5401
+Tailor's Corner~
+You move amongst the bards on the ground floor of this tower.  You stand
+out in that you are the only one not dressed in bright blue silks.  The
+walls are hung with long strips of blue silk as well.  Blue is the sign of
+the Order of the Finch.  In the corner here, a small tailor's stand has been
+set up.  
+~
+0 8 0
+E
+stand~
+This is little more than a table with a box built over it to act as a
+window.  The tailor sits behind the table and conducts his business.  A row
+of small shelves sits behind him which contain his supplies.  
+~
+E
+strips~
+The walls are brightly decorated with long swags of blue silk.  
+~
+D0
+~
+~
+~
+0 0 5400
+D3
+~
+~
+~
+0 0 5402
+M 0 H 0
+S
+#5402
+Eating Area~
+This is where the bards and apprentices eat their meals.  Long tables
+with wooden benches are arranged in rows.  Wooden bowls and spoons are
+stacked at the end of one of the tables.  The ceilings here are very high. 
+A stone staircase leads further up into the tower.  
+~
+0 8 0
+E
+spoons~
+Wooden and metal spoons are piled next to the stack of bowls here.  
+~
+E
+bowls~
+Bowls carved from several types of wood are neatly stacked here until the
+next meal.  
+~
+E
+benches~
+Long wooden benches are pushed into the tables until the next meal.  
+~
+E
+table~
+These are simple wooden tables which appear to hold as many as 20 diners
+at a time.  
+~
+D0
+~
+~
+~
+0 0 5399
+D1
+~
+~
+~
+0 0 5401
+D4
+~
+~
+~
+0 0 5403
+M 0 H 0
+S
+#5403
+On the stone stairs~
+This is a wide set of stone stairs leading from the eating area below to
+a landing above.  Bards and apprentices sit on several of the steps.  Some
+of them are practicing but the majority of them are just chatting.  The
+stone is a cold grey that has been smoothed from years of use.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 5404
+D5
+~
+~
+~
+0 0 5402
+M 0 H 0
+S
+#5404
+On the stone stairs~
+The cold grey staircase spirals up from the ground floor and disappears
+into a wooden floor a ways above your head.  A small, open window looks out
+into the forest surrounding Treble.  Although the stone which forms this
+huge tower is a cold grey, the feeling inside the tower is warm and
+cheerful.  
+~
+0 0 0
+D3
+~
+~
+~
+0 0 5403
+D4
+~
+~
+~
+0 0 5405
+M 0 H 0
+S
+#5405
+On the stone stairs~
+The spiral staircase winds from the grey stone floor to the wooden floor
+above.  Below you is much activity, bards and apprentices go about the
+business of living and learning their craft.  A few apprentices appear to be
+waiting in a casual line to go up to the second landing.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 5406
+D5
+~
+~
+~
+0 0 5404
+M 0 H 0
+S
+#5406
+On the stone stairs~
+You are near the top of the grey spiral staircase.  A few bards
+apprentices are standing here, waiting for something.  You notice how
+nervous they look.  Below, you see the line of apprentices curve out of
+sight.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 5405
+D4
+~
+~
+~
+0 0 5407
+M 0 H 0
+S
+#5407
+Second floor of the tower~
+This is the second floor of the tower of the Finch.  The floor is made of
+a dark, hardwood.  It shines with the labor of the apprentices, who must
+earn their keep here.  This floor is much quieter than that below.  Master
+bards in midnight blue robes eye you suspiciously.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 5408
+D5
+~
+~
+~
+0 0 5406
+M 0 H 0
+S
+#5408
+Second floor of the tower~
+This is the second floor of one of the great towers of Treble.  On this
+floor the apprentices wait in line to get instruction from the masters. 
+Along the wall are hung instruments of every kind.  To the east is the top
+of a set of stairs.  To the south-east is a door.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 5407
+D2
+~
+~
+~
+0 0 5409
+M 0 H 0
+S
+#5409
+Before the room of the grand master~
+This is the second floor of the tower of the Finch.  This floor is used
+for somber study.  To the north you see many instruments on display.  To the
+south is an open window looking out into the forests that surround Treble. 
+To the east is a heavy wooden door with a picture of a finch carved into it.
+A desk sits just outside the door.  
+~
+0 8 0
+E
+book~
+This book contains the names of all of the apprentices to the Order of
+the Nightengale.  Notations are made by some of the names.  
+~
+E
+desk~
+A heavy wooden desk sits to one side of the door.  On it is a rather
+large book.  
+~
+D0
+~
+~
+~
+0 0 5408
+D1
+~
+~
+~
+1 0 5410
+M 0 H 0
+S
+#5410
+Chamber of the grand master~
+This is the study of the grand master of the Order of the Finch.  A sofa
+covered in fine blue silk is the centerpiece of the room.  Near the south
+wall a set of wooden stairs leads up, further into the tower.  Sheets of
+music are spread on a table near the sofa.  This room is used mostly for
+instruction and testing of the apprentice bards.  
+~
+0 8 0
+E
+music~
+Several scrolls lie opened here.  Musical notes have been inked onto them.  
+~
+E
+sheet~
+Several scrolls lie opened here.  Musical notes have been inked onto them.  
+~
+E
+sofa~
+This would be a rather plain sofa except for the elegant blue silk which
+covers it.  
+~
+D3
+~
+~
+~
+1 0 5409
+D4
+~
+~
+~
+0 0 5411
+M 0 H 0
+S
+#5411
+Balrak's personal chambers~
+This is a finely furnished room.  A regal looking chair with a high back
+and blue upholstery sits facing the door.  To the north is a simple wooden
+door.  On the floor is a beautiful carpet with the picture of a finch
+delicately woven from various shades of blue.  A high window looks out to
+the east over the forest which surrounds the pleasant town of Treble.  
+~
+0 8 0
+E
+carpet~
+This rich carpet has an image of a finch, delicately woven into the
+fabric.  
+~
+E
+chair~
+This is a rather large chair with a high back.  At the top of the back is
+a carved wooden strip which depicts a large tree containing several tiny
+birds.  
+~
+D0
+~
+~
+~
+1 0 5412
+D5
+~
+~
+~
+0 0 5410
+M 0 H 0
+S
+#5412
+Grand master's sleeping chambers~
+You have entered someone's sleeping chambers.  A simple bed stands in
+the middle of the room.  Near the bed is a wooden table which holds a blue
+clay wash basin and pitcher.  A wardrobe stands on the wall on the other
+side of the bed.  Above you is a trap door.  To the south is a door leading
+to what appears to be a sitting room of sorts.  
+~
+0 8 0
+E
+pitcher~
+This pitcher matches the wash basin near it.  The clay which forms the
+pitcher is dark blue on the bottom and gradually lightens to a pale blue
+near the top.  
+~
+E
+basin~
+A blue clay basin is here.  The clay is darker blue at the bottom and
+gradually lightens to a pale blue near the rim.  It is partially filled with
+dirty water.  
+~
+E
+bed~
+This is a simple bed with an overstuffed matress.  It is low to the
+ground.  The bedclothes are crumpled as if someone has been lying on them
+recently.  
+~
+D2
+~
+~
+~
+1 0 5411
+D4
+~
+~
+~
+1 0 5413
+M 0 H 0
+S
+#5413
+On a wooden ladder~
+You find yourself on an old wooden ladder that extends to the ground
+below you when the trapdoor is opened from that room.  The grey stone walls
+form a circular enclosing around the ladder.  Below, you see the sleeping
+chambers of the grand master.  Above you is an open room from which you hear
+the singing of some kind of songbird.  
+~
+0 8 0
+D4
+~
+~
+~
+0 0 5414
+D5
+~
+~
+~
+1 0 5412
+M 0 H 0
+S
+#5414
+Top of the tower~
+You are at the top of one of the four bard towers of Treble.  There are
+windows on all sides of you.  To the north and west you can look out over
+the busy town below you.  To the east and south you see the tranquil forest
+that surrounds the town.  In the center of the room is a huge gilded
+birdcage which holds perhaps a hundred finches.  The door to the cage is
+closed and a golden bolt holds it shut.  
+~
+0 12 0
+E
+gilded~
+It is large enough to cage most giants you know.  Sturdy golden bars meet
+at the top in a grand golden knot.  
+~
+E
+cage~
+It is large enough to cage most giants you know.  Sturdy golden bars meet
+at the top in a grand golden knot.  
+~
+E
+bolt~
+A large golden bolt secures the door.  
+~
+E
+birdcage~
+It is large enough to cage most giants you know.  Sturdy golden bars meet
+at the top in a grand golden knot.  
+~
+D5
+~
+~
+~
+0 0 5413
+M 0 H 0
+S
+#5415
+Inside the Gilded Cage~
+You find yourself inside a large golden cage.  Finches flit past your
+head at a terrible rate.  There are perhaps a hundred in here with you. 
+Some sit on perches singing a glorious song.  A tray of birdseed hangs about
+waist-high.  The ground is littered with finch feces although it appears to
+have been cleaned recently.  
+~
+0 1048576 0
+D1
+~
+~
+~
+0 0 5414
+M 0 H 0
+S
+#5416
+Entrance to the Tower of the Chickadee~
+This appears to be the foyer of the Chickadee, the south-western tower in 
+Treble.  Ivy climbs the walls, creating a living blanket of green over their 
+stone surfaces.  A pot that is easily five feet in diameter has been placed 
+in the center of the room and holds a thorny bush that bears pale blue 
+roses.  Pillows of green and purple material have been scattered around the 
+rest of the available floor, mingling with discarded rose petals.  The iron 
+door that leads out can be seen to the east, its recesses providing homes 
+for small spiny plants that cling to its surface.  
+~
+0 12 0
+E
+pillow~
+They are large enough to double as beds but the stuffing has been hauled
+out of holes in most of them by some type of critter.  
+~
+D1
+~
+~
+~
+1 0 5340
+D2
+~
+~
+~
+0 0 5419
+D3
+~
+~
+~
+0 0 5417
+M 0 H 0
+S
+#5417
+A Glade Like Chamber~
+This chamber looks startlingly like a forest glade, made more so as the 
+occasional brick of the tower is just about visible through the profusion of 
+plants that flourish in this area.  Roses intermix with ivy to clamber up 
+the walls and over the ceiling, sometimes hanging down like pennants.  All 
+the while, grass grows over the soil covered floor, where four large pots 
+have been placed amongst the blades, two to either side of the exits in the 
+east and south walls.  From these planters grow small willow trees which 
+have been trained to form arches around the doorways.  
+~
+0 8 0
+E
+stand~
+What was once a large table has been broken.  One of the legs has been
+snapped off leaving a jagged edge.  A pile of lumber is all that is left of
+top of the stand.  
+~
+D1
+~
+~
+~
+0 0 5416
+D2
+~
+~
+~
+0 0 5418
+M 0 H 0
+S
+#5418
+Practice Area~
+A thick carpet of moss covers the floor and has been trained up the
+walls, the growth having a cushioning effect upon any footfalls that should
+occur, as well as deaden the spread of sounds from this chamber.  Pink
+climbing roses have been trained to grow over the door in the east and north
+walls, leading up to the apex where they are joined by similar plants which
+are sprouting from each of the four corners.  Various instruments lay about
+this chamber, each seems to be new and in good repair from a quick look at
+them.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 5417
+D1
+~
+~
+~
+0 0 5419
+M 0 H 0
+S
+#5419
+Dining Area~
+Grey stones have been removed from then centre of this chamber's floor to
+form a circle, in the middle of which a large tree has been planted.  It
+seems to have strangely flourished within the confines of this tower.  The
+gnarled and convoluted branches of the tree reach from the ceiling and down
+towards the floor around the circumference of room, bearing plump fruits. 
+Archways lead off to the north and west while a set of stone stairs with ivy
+vines growing up its flank lead upward.  A few green pillows have been
+scattered about this chamber's floor.  
+~
+0 8 0
+E
+bench~
+Piles of lumber are all that is left of most of the long benches.  
+~
+E
+table~
+Long tables once held hungry bards.  Now, they are empty expanses of
+dried wood.  
+~
+D0
+~
+~
+~
+0 0 5416
+D3
+~
+~
+~
+0 0 5418
+D4
+~
+~
+~
+0 0 5420
+M 0 H 0
+S
+#5420
+On the Stone Stairs~
+Ivy has been skillfully trained to grow up a set of stones stairs here
+that seems to lead down to a large tree on the floor below.  The hallway as
+been decorated with living rose bushes, each placed in a pot that bears a
+likeness of a chickadee.  These blooms send forth their delicate aroma to
+the corridor as well as pleasant splashes of color to contrast with the
+green of the ivy leaves and the grey of the rock work.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 5421
+D5
+~
+~
+~
+0 0 5419
+M 0 H 0
+S
+#5421
+On The Stone Stairs~
+A spiraling staircase leads up from this ivy and rose bedecked corridor,
+its treads fashioned from a grey stone which can be seen to compose most of
+this building.  Windows set into the wall reveal the true natural beauty of
+the surrounding area: ancient forests that must have stood for more than one
+age.  To the south, the passageway continues on, looking much like it does
+here while the roof above seems to be fashioned from aged wood.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 5420
+D4
+~
+~
+~
+0 0 5422
+M 0 H 0
+S
+#5422
+On the Stone Stairs~
+Dark stained wood forms the floor of this corridor that connects a pair
+of spiraling stone staircases.  The stairs closest to this location lead
+downwards into another hallway that looks to be decorated with ivy vines and
+rose bushes while to the west this passage leads away.  Carvings depicting a
+small bird, most likely a chickadee by the looks of it, to decorate the
+walls along side artfully trained hanging plants that dangle in bronze
+baskets.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 5423
+D5
+~
+~
+~
+0 0 5421
+M 0 H 0
+S
+#5423
+On the Stone Stairs~
+Grey stone stairs spiral up here, reaching to a higher level of this
+tower.  To the east, a hallway decorated with hanging baskets of bronze and
+bird carvings upon its stone walls can be seen.  The floor way both here and
+to the eastern direction is fashioned from stained timber that looks
+hardened with age.  The fragrant aroma from the hanging baskets drifts to
+one's nose, seemingly calculated to be pleasing to one's senses without
+being obtrusive.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 5422
+D4
+~
+~
+~
+0 0 5424
+M 0 H 0
+S
+#5424
+The Second Floor of the Tower~
+Dark stained hard wood which bears a fresh layer of polish forms the
+floor and roof of this corridor that ends to the west in a set of grey stone
+stairs that spiral downwards and in a large chamber to the east.  Wooden
+tubs have been placed at regular intervals along this hallway, each
+containing a small flowering shrub that sends forth its delicate perfume to
+intermix with the next, producing a pleasing fusion of scents overall.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 5425
+D5
+~
+~
+~
+0 0 5423
+M 0 H 0
+S
+#5425
+The Second Floor of the Tower~
+This chamber seems to take up most of this level of the tower.  Windows
+in the eastern and northern wall permit a view of Treble and the surrounding
+countryside.  A small podium that bears a painted image of a chickadee
+stands towards the southern side of the room, close to an archway that is
+placed there and another archway can be seen leading to a corridor through
+the western wall.  Around the edge of this chamber are benches the backs of
+which are fashioned into planters that bears a profusion of flowers. 
+Hanging from the roof and walls of this area are baskets of molded bronze
+which hold even more plants.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 5426
+D3
+~
+~
+~
+0 0 5424
+M 0 H 0
+S
+#5426
+Before The Room Of The Grand Master~
+Three archways lead from this chamber, which has been arranged for somber
+study of the musical arts it would seem.  The northwards exit leads to a
+more spacious room that has been filled with benches and flowers.  The
+eastwards arch leads towards what appears to be a private chamber that
+strangely lacks a door.  To the west, a heavy looking door bearing three
+noticeable things: an image of a chickadee, a sign and, lastly, a very
+strong looking bolt on this side.  One of the desks seems much older than
+the others that have been placed in a commanding position close to the
+window in the southern wall.  
+~
+0 8 0
+E
+chickadee~
+This carving seems to be old and has been fashioned by a skilled hand,
+under the depiction is a small brass name plate with the word: Norland. 
+~
+E
+sign~
+The sign pinned to this door bears but a single missive: Danger do NOT
+enter.
+~
+E
+bolt~
+This bolt is fashioned from steel and looks to be both new and sturdy.  
+~
+E
+desk~
+This desk is one of the few furnishings that have survived the demise of
+the Order of the Chickadee.  It is relatively unscathed, except for a long
+gash in the top of the wood.  Upon the top of the desk is a letter
+explaining that work on the other rooms could not be completed and that two
+of the workmen who where meant to be in those chambers have been found dead
+at the foot of the tower, the hair on their heads bleached white by some
+unknown cause. 
+~
+D0
+~
+~
+~
+0 0 5425
+D1
+~
+~
+~
+0 0 5444
+D3
+~
+~
+~
+1 0 5427
+M 0 H 0
+S
+#5427
+Chamber Of The Grand Master~
+This used to be the study of the grand master of the Order of the
+Chickadee.  A tattered sofa covered in torn purple silk was the centerpiece
+of the room.  Near the south wall a set of wooden stairs leads up further
+into the tower.  A pile of ashes sits near the sofa.  It looks like someone
+has attempted to clear this room of the debris, though it is clear the work
+was interrupted judging by the state it is still in. 
+~
+0 8 0
+E
+ashes~
+The origin of these ashes is not apparent.  
+~
+E
+sofa~
+This was once a beautiful sofa with soft purple silk covering.  The
+fabric now has long tears in it and the wood is dried and faded.  
+~
+D1
+~
+~
+~
+1 0 5426
+D4
+~
+~
+~
+0 0 5428
+M 0 H 0
+S
+#5428
+The Grand Master's Chamber~
+This room has been shredded and ruined though it is still apparent that
+once it must have been beautifully furnished.  A high backed chair of cherry
+wood, upholstered in purple, sits facing the door close to a window that
+gives an encompassing view of the forests around Treble.  A purple carpet
+used to adorn the floor now it remains as a tattered ghost of its former
+self.  An arched doorway stands to the west, the wood showing marks of some
+conflict upon it and a spiraling staircase leads downwards.  
+~
+0 8 0
+E
+carpet~
+The carpet has been shredded into an unrecognizable pile of fabric.  
+~
+E
+chair~
+This was once a beautiful chair with delicate purple upholstry.  It
+appears to have been deliberatly shredded though.  Hanging from the back of
+the chair is a purple robe which still seems intact. 
+~
+D3
+~
+~
+~
+1 0 5429
+D5
+~
+~
+~
+0 0 5427
+M 0 H 0
+S
+#5429
+Grand Master's Sleeping Chamber~
+This must have been someone's sleeping chamber, once.  A simple bed is at
+the center of the room, blood soaked from a very long time ago--perhaps it
+was the occupant's death bed.  Nearby there is a broken wooden table and a
+wardrobe that has fallen on its side at the other end of the bed.  A chain
+attaches to the trap door that is high above.  A glance eastward shows what
+appears to have been a sitting room of sorts, though it is in tatters now. 
+An unnatural chill seems to fill the room, which does not seem to be a
+product of the shattered window that overlooks the forests to the west. 
+~
+0 8 0
+D1
+~
+~
+~
+1 0 5428
+D4
+~
+~
+~
+0 0 5430
+M 0 H 0
+S
+#5430
+On A Wooden Ladder~
+An old ladder leads up from what looks to be a bedroom below to a
+trapdoor set into the roof above, some of the rungs on the ladder have been
+broken, though whether or not it was intentional is a mystery.  The grey
+stone of the walls seems to possess a coldness one would not expect as they
+seem to be attempting to leech all warmth from this area. A faint melody
+echoes through the air, the tune a lament, the likes of which hasn't been
+heard in years.  
+~
+0 8 0
+D4
+~
+trapdoor~
+~
+1 0 5431
+D5
+~
+~
+~
+0 0 5429
+M 0 H 0
+S
+#5431
+Top Of The Tower~
+You are at the top of one of the four bard towers of Treble.  There are
+windows on all sides of you.  To the north and east you can look out over
+the busy town below you.  To the west and south you see the tranquil forest
+that surrounds the town.  In the center of the room is a huge tarnished
+birdcage which holds the carcasses of many small birds.  The door to the
+cage is closed and a bolt holds it shut.  
+~
+0 8 0
+D5
+~
+~
+~
+1 0 5430
+M 0 H 0
+S
+#5432
+Inside the Tarnished Cage~
+You find yourself inside a large beaten cage.  It was once very grand
+with delicate gold work decorating the top and around the base.  The ground
+is littered with the carcasses of nearly a hundred small birds.  Bird feces
+is piled thickly on the ground too.  A tray hangs about waist-high and it is
+empty.  It appears that the poor inhabitants of this cage starved to death. 
+~
+0 8 0
+D3
+~
+~
+~
+0 0 5431
+M 0 H 0
+S
+#5433
+In the ivy-choked arbor~
+You are beneath an ivy-choked arbor that leads from the overgrown gardens
+to the north to the dilapidated house to the south.  The arbor was once a
+source of pride for the Cromwell family who owns this garden and house but
+years of neglect have surrendered it to the ever-voracious ivy.  To the
+south is a small wooden door which barely hangs from it's iron hinges.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 5342
+D2
+~
+~
+~
+0 0 5434
+M 0 H 0
+S
+#5434
+Dusty entrance hall~
+This was once a beautiful, cheerful room.  Now there are holes in the
+carpet and the drapery where the moths have feasted.  A thick layer of dust
+has settled over everything.  The windows to the east and west are covered
+with grime blocking most of the light.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 5433
+D2
+~
+~
+~
+0 0 5435
+M 0 H 0
+S
+#5435
+Sitting Room~
+This was once the sitting room where generations of Cromwells gathered to
+share each other's company.  It was a happy place until the evil Lord Godiva
+forced the family into near poverty with his outrageous taxes.  There is
+only one piece of furniture left here, a small wooden bench which doubles as
+a chest.  It is dull from going years without polishing.  The hearth at the
+south end of the room stands empty.  The rest of the rooms furnishings have
+long ago been sold.  
+~
+0 0 0
+E
+hearth~
+The grey stone of the hearth is stained from the soot of many fires.  It
+stands empty except for a small pile of ashes.  
+~
+E
+chest~
+It is little more than a wooden box which is the right height to sit on. 
+It looks as if it could be opened from the top.  
+~
+E
+bench~
+It is little more than a wooden box which is the right height to sit on. 
+It looks as if it could be opened from the top.  
+~
+D0
+~
+~
+~
+0 0 5434
+D1
+~
+~
+~
+0 0 5439
+D3
+~
+~
+~
+0 0 5436
+M 0 H 0
+S
+#5436
+Dining Room~
+This room can only be identified as the dining room by it's proximity to
+the kitchen.  No furniture is left here.  Even the curtains have been
+removed from the windows in the north and west walls.  A thick layer of dust
+lies over most of the floor.  Footprints lead from the kitchen to the
+sitting room.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 5435
+D2
+~
+~
+~
+0 0 5437
+M 0 H 0
+S
+#5437
+Kitchen~
+This was once a fine kitchen.  A large stone oven still stands in the
+center of the room.  No warmth is coming from it.  Some small animal has
+made their nest in there.  You can hear it scratching around.  The cupboards
+stand open.  Each of them is bare and the shelves are covered in a layer of
+dust.  South of here is a door.  You hear the sound of voices from that
+direction.  
+~
+0 8 0
+E
+cupboards~
+A long row of tall cupboards stands here.  One would have to use a stool
+in order to reach the highest shelf.  They are no longer stocked with any
+foodstuffs.  Even the crumbs have long ago been scavenged by mice or some
+other small animals.  
+~
+E
+oven~
+No aromas of cooking savory foods wafts from this oven anymore.  The door
+is stuck shut from years of unuse.  
+~
+D0
+~
+~
+~
+0 0 5436
+D2
+~
+~
+~
+1 0 5438
+M 0 H 0
+S
+#5438
+Maid's quarters~
+This was the maid's quarters when the Cromwell family was one of the more
+well-to-do families in the town of Treble.  Now, the widow Cromwell stays in
+this room with her young son.  It is easier to heat this small room then it
+would be to heat the larger ones in the house.  The furnishings are sparse. 
+Two thin mattresses lie on the floor covered with moth-eaten quilts.  The
+hearth has a small fire in it giving the room a bit of cheer.  
+~
+0 8 0
+E
+quilt~
+They were once heavy and beautiful.  Lord Cromwell's father had them
+imported from distant lands for his bride many years ago.  They have been
+used for many years and unfortunately, the moths find the silk irrisistable.
+~
+E
+mattress~
+They have been used for a very long time and they look rather hard.  
+~
+D0
+~
+~
+~
+1 0 5437
+M 0 H 0
+S
+#5439
+Hallway~
+This is a long hallway leading north-south.  To the west is what is left
+of the family sitting room.  To the east is a door.  The wood on the door is
+covered with a thick layer of dust.  Curiously, the door handle is clean, as
+if it has been used recently.  The hall continues to the south.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 5440
+D2
+~
+~
+~
+0 0 5441
+D3
+~
+~
+~
+0 0 5435
+M 0 H 0
+S
+#5440
+Library~
+This appears to have been a library at one time.  Tall shelves line the
+walls.  Most are empty and a few volumes are scattered about the floor.  A
+thick layer of dust covers most of the room.  Small footprints can be seen
+in the dust on the ground leading from the door to a large desk.  Leaning
+against one of the walls is a large painting which has been damaged.  
+~
+0 8 0
+E
+footprints~
+They look the right size to be from a human child.  
+~
+E
+volume~
+Several books are scattered about.  Anything of value has been sold long
+ago.  
+~
+E
+shelves~
+The shelves have fallen off their hooks causing thier contents to spill
+to the ground.  
+~
+D3
+~
+~
+~
+1 0 5439
+M 0 H 0
+S
+#5441
+Hallway~
+This is the end of a long north-south hallway.  Doors lie to the east and
+south.  The carpet is layered with thick dust.  Your footprints are the only
+ones that have been here for many years.  On the walls are hooks which were
+used to hold torches that have long ago burned out.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 5439
+D1
+~
+~
+~
+1 0 5442
+D2
+~
+~
+~
+1 0 5443
+M 0 H 0
+S
+#5442
+Bedroom~
+This was once a child's room.  A few broken toys are still scattered in
+the thick dust.  A great sadness has settled in this room, the sadness of a
+child's broken heart.  The high ceilings and all of the corners are covered
+in cobwebs.  
+~
+0 0 0
+E
+cobweb~
+The intricate webs are thick in this room.  
+~
+D3
+~
+~
+~
+1 0 5441
+M 0 H 0
+S
+#5443
+Master Bedroom~
+This was once a lovely bedroom but is now in shambles.  No one has
+stepped foot in here since Godiva's henchmen raided the house for valuables
+soon after the death of Lord Cromwell.  Thick dust covers everything.  A few
+reminders of a more comfortable life are scattered about.  
+~
+0 0 0
+D0
+~
+~
+~
+1 0 5441
+M 0 H 0
+S
+#5444
+The Mistress's Chamber~
+Uncountable plants decorate this chamber though none of the types seem
+recognizable, including roses that slowly fluctuate in color before your
+eyes, daisies of unparalleled sizes and other oddities.  It is almost as if
+some kind of magic has been employed or is still being employed.  Electric
+blue ivy covers the walls in most places though one point seems strangely
+void of plant life.  A large bed of moss sits in the centre of the chamber,
+easily big enough for several people to lay upon, other than that the only
+furniture seems to be a small wooden chest which is placed at the foot of
+the bed.  
+~
+0 8 0
+E
+bed moss~
+A thick covering of moss covers the floor hear about two inches deep at
+its thickest points, a few small pillows also decorate this bed showing that
+is serves for people to sleep upon. 
+~
+E
+chest~
+This chest sits open here, though there is nothing in it.  It has been
+fashioned from walnut and carved with images of small birds, most likely
+chickadees and varnished to a good shine. 
+~
+E
+void strangely wall~
+As you look at this part of the wall the hairs on the back of your neck
+rise then your mind suddenly seems to be gazing down at this chamber but
+everything is different: 
+
+It looks like this abandoned room has been converted into a shrine to the
+God Eris.  The conversion looks to have been fairly recent.  Most of the
+room is bare.  There are simply a few benches to sit on arranged in a
+roughly circular fashion.  The walls are covered in graffiti, from simple
+daubings such as "Order sucks!"  To complex theological arguments as to why
+intelligent beings should lead their own lives.  While there is nothing
+particularly holy about the place, there is a definite sense of presence and
+power here.  You know from common knowledge that the best place to contact a
+God is at their sacred places through prayer.  This would seem to be one of
+those sacred places.  
+
+Then your consciousness returns to the present, you are in a chamber filled
+with strange plants and a moss bed.  The uneasiness that looking at the wall
+instilled in you remains briefly then fades. 
+~
+D3
+~
+~
+~
+0 0 5426
+M 0 H 0
+S
+#5445
+A Comfortable Living Room~
+Darkly stained wood panels cover the walls of this large comfortable
+looking room.  Rich {mpurple{x velvet curtains hang down from brightly
+polished brass curtain poles, set above the glazed windows.  Set into the
+northern wall is a large stone fire place, bronze inset to reflect the
+cherry glow from the fire when set.  A large hard wood table, stained the
+same dark shade as the walls stand with six chairs in the center of the
+room.  A small cooking range stands in the north western corner, the
+utensils for it carefully arranged around it.  A small spiral stair case
+leads upwards from this room.  
+~
+0 1048584 0
+D1
+~
+~
+~
+4 5457 16049
+D4
+~
+~
+~
+0 0 5446
+M 0 H 0
+S
+#5446
+A Comfortable Bedroom~
+The walls of this room have been lovingly and carefully stained a deep
+red, this has been carried though to the velvet curtains and the bedding. 
+Sat against the northern wall is a large, comfortable looking bed.  Feather
+pillows have been piled high near the head board and the mattress looks soft
+and inviting.  A chest, iron bound stands at the foot of the bed for the
+owner of this home to place there belongings before resting here.  Upon the
+walls pictures and lyrics from popular songs of bards towers are set within
+frames, most likely gifts from the people of bards to the guardian.  A
+spiral stair case leads down from here.  
+~
+0 1048584 0
+D5
+~
+~
+~
+0 0 5445
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 5300 spec_cast_mage
+M 5305 spec_cast_mage
+M 5306 spec_cast_cleric
+M 5307 spec_cast_cleric
+M 5309 spec_cast_mage
+M 5316 spec_cast_cleric
+M 5319 spec_breath_any
+M 5320 spec_cast_undead
+M 5321 spec_janitor
+M 5333 spec_fido
+M 5334 spec_cast_adept
+M 5336 spec_cast_cleric
+M 5337 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 5308 3 2
+D 0 5319 3 1
+D 0 5320 1 1
+D 0 5321 3 1
+D 0 5325 1 1
+D 0 5340 3 1
+D 0 5344 1 1
+D 0 5346 3 1
+D 0 5348 1 1
+D 0 5348 3 1
+D 0 5349 3 1
+D 0 5350 1 1
+D 0 5350 2 1
+D 0 5351 0 1
+D 0 5351 1 1
+D 0 5355 3 1
+D 0 5356 1 1
+D 0 5356 2 1
+D 0 5357 0 1
+D 0 5359 0 1
+D 0 5359 1 2
+D 0 5359 2 1
+D 0 5360 2 1
+D 0 5361 3 2
+D 0 5362 0 1
+D 0 5363 1 1
+D 0 5372 1 1
+D 0 5373 3 1
+D 0 5375 2 1
+D 0 5376 0 1
+D 0 5376 4 1
+D 0 5377 5 1
+D 0 5380 3 1
+D 0 5389 3 1
+D 0 5390 1 1
+D 0 5392 2 1
+D 0 5395 0 1
+D 0 5395 4 1
+D 0 5396 5 1
+D 0 5399 3 1
+D 0 5409 1 1
+D 0 5410 3 1
+D 0 5411 0 1
+D 0 5412 2 1
+D 0 5412 4 1
+D 0 5413 5 1
+D 0 5416 1 1
+D 0 5426 3 1
+D 0 5427 1 1
+D 0 5428 3 1
+D 0 5429 1 1
+D 0 5430 4 1
+D 0 5431 5 1
+D 0 5437 2 1
+D 0 5438 0 1
+D 0 5439 1 1
+D 0 5440 3 1
+D 0 5441 1 1
+D 0 5441 2 1
+D 0 5442 3 1
+D 0 5443 0 1
+D 0 5445 1 2
+M 0 5352 4 5301 10
+E 0 5449 0 0
+M 0 5345 4 5301 10
+E 0 5455 0 8
+E 0 5452 0 16
+E 0 5445 0 15
+M 0 5333 5 5301 10
+M 0 5344 4 5303 10
+E 0 5452 0 16
+M 0 5321 5 5303 10
+E 0 5387 0 17
+E 0 5453 0 8
+M 0 5327 5 5303 10
+E 0 5359 0 6
+E 0 5358 0 13
+E 0 5356 0 5
+E 0 5450 0 7
+O 0 5306 0 5307
+O 0 5350 0 5307
+M 0 5352 4 5308 10
+E 0 5449 0 0
+M 0 5321 5 5308 10
+E 0 5453 0 8
+M 0 5314 1 5308 10
+G 0 5444 0
+G 0 5400 0
+G 0 5395 0
+G 0 5396 0
+G 0 5401 0
+M 0 5326 5 5309 10
+E 0 5450 0 7
+E 0 5451 0 9
+E 0 5354 0 6
+M 0 5313 1 5309 10
+G 0 5442 0
+G 0 5441 0
+G 0 5440 0
+G 0 5437 0
+G 0 5397 0
+G 0 5398 0
+G 0 5399 0
+G 0 5402 0
+M 0 5312 1 5310 10
+G 0 5391 0
+G 0 5392 0
+G 0 5393 0
+G 0 5394 0
+M 0 5352 4 5311 10
+E 0 5449 0 0
+M 0 5328 5 5311 10
+E 0 5450 0 7
+E 0 5365 0 3
+E 0 5310 0 17
+O 0 5403 0 5313
+O 0 5404 0 5314
+O 0 5405 0 5314
+M 0 5322 2 5314 10
+E 0 5363 0 13
+E 0 5357 0 6
+E 0 5355 0 5
+M 0 5322 2 5314 10
+E 0 5352 0 6
+E 0 5358 0 13
+M 0 5321 5 5316 10
+E 0 5453 0 8
+M 0 5333 5 5316 10
+M 0 5344 4 5317 10
+E 0 5377 0 16
+M 0 5352 4 5318 10
+E 0 5449 0 0
+M 0 5333 5 5318 10
+M 0 5326 5 5319 10
+E 0 5351 0 5
+E 0 5354 0 6
+E 0 5450 0 7
+E 0 5309 0 17
+M 0 5315 1 5320 10
+E 0 5456 0 24
+E 0 5348 0 17
+E 0 5349 0 16
+G 0 5407 0
+O 0 5406 0 5320
+P 0 5413 0 5406 10
+O 0 5409 0 5322
+O 0 5410 0 5324
+O 0 5409 0 5324
+M 0 5324 1 5324 10
+M 0 5325 1 5324 10
+M 0 5328 5 5325 10
+E 0 5364 0 6
+E 0 5363 0 13
+E 0 5361 0 5
+O 0 5411 0 5326
+M 0 5308 1 5326 10
+E 0 5446 0 16
+G 0 5347 0
+M 0 5334 1 5327 10
+O 0 5496 0 5328
+M 0 5329 1 5328 10
+M 0 5326 5 5328 10
+E 0 5355 0 5
+E 0 5351 0 3
+E 0 5451 0 9
+E 0 5450 0 7
+M 0 5333 5 5328 10
+M 0 5344 4 5329 10
+M 0 5307 1 5329 10
+E 0 5412 0 0
+G 0 5414 0
+M 0 5345 4 5330 10
+E 0 5455 0 8
+E 0 5452 0 16
+M 0 5344 4 5331 10
+E 0 5377 0 16
+E 0 5390 0 9
+M 0 5321 5 5331 10
+E 0 5453 0 8
+M 0 5345 4 5332 10
+M 0 5321 5 5334 10
+E 0 5389 0 16
+M 0 5345 4 5335 10
+E 0 5455 0 8
+E 0 5452 0 16
+E 0 5388 0 3
+M 0 5333 5 5337 10
+M 0 5327 5 5338 10
+E 0 5360 0 3
+E 0 5450 0 7
+E 0 5451 0 9
+E 0 5309 0 17
+M 0 5310 1 5339 10
+M 0 5328 5 5339 10
+E 0 5310 0 17
+E 0 5450 0 7
+E 0 5451 0 9
+M 0 5351 8 5340 10
+E 0 5498 0 0
+M 0 5327 5 5344 10
+E 0 5311 0 17
+O 0 5417 0 5345
+O 0 5308 0 5345
+P 0 5415 0 5308 10
+P 0 5416 0 5308 10
+M 0 5303 2 5346 10
+E 0 5320 0 5
+E 0 5318 0 16
+E 0 5331 0 17
+E 0 5330 0 2
+M 0 5303 2 5346 10
+E 0 5317 0 16
+E 0 5325 0 9
+E 0 5320 0 5
+O 0 5346 0 5347
+O 0 5418 0 5349
+M 0 5301 1 5349 10
+M 0 5300 1 5349 10
+E 0 5344 0 17
+E 0 5345 0 6
+O 0 5419 0 5350
+M 0 5343 1 5350 10
+E 0 5343 0 17
+M 0 5306 2 5354 10
+E 0 5328 0 17
+M 0 5302 3 5355 10
+G 0 5337 0
+M 0 5302 3 5355 10
+E 0 5329 0 13
+M 0 5302 3 5355 10
+E 0 5336 0 17
+M 0 5304 1 5356 10
+E 0 5339 0 16
+E 0 5338 0 5
+O 0 5340 0 5356
+P 0 5341 0 5340 10
+O 0 5420 0 5357
+M 0 5306 2 5357 10
+G 0 5342 0
+O 0 5422 0 5360
+O 0 5421 0 5360
+O 0 5314 0 5360
+P 0 5322 0 5314 10
+P 0 5321 0 5314 10
+P 0 5319 0 5314 10
+P 0 5315 0 5314 10
+M 0 5318 1 5360 10
+E 0 5312 0 16
+G 0 5313 0
+O 0 5323 0 5361
+P 0 5413 0 5323 10
+O 0 5301 0 5362
+P 0 5305 0 5301 10
+P 0 5302 0 5301 10
+O 0 5300 0 5362
+P 0 5326 0 5300 10
+P 0 5304 0 5300 10
+M 0 5305 1 5362 10
+G 0 5316 0
+E 0 5303 0 4
+E 0 5324 0 8
+M 0 5326 5 5363 10
+E 0 5351 0 3
+M 0 5317 3 5364 10
+G 0 5351 0
+G 0 5352 0
+G 0 5353 0
+G 0 5354 0
+G 0 5355 0
+M 0 5331 3 5365 10
+E 0 5453 0 13
+E 0 5447 0 16
+M 0 5326 5 5365 10
+E 0 5423 0 2
+O 0 5424 0 5366
+M 0 5331 3 5367 10
+E 0 5447 0 16
+M 0 5337 2 5371 10
+E 0 5370 0 17
+M 0 5331 3 5371 10
+E 0 5351 0 3
+E 0 5352 0 6
+O 0 5425 0 5372
+M 0 5337 2 5373 10
+E 0 5448 0 16
+E 0 5369 0 13
+M 0 5316 1 5375 10
+E 0 5449 0 16
+E 0 5373 0 12
+G 0 5378 0
+O 0 5427 0 5376
+P 0 5428 0 5427 10
+O 0 5334 0 5378
+M 0 5341 1 5379 10
+M 0 5328 5 5380 10
+M 0 5317 3 5381 10
+G 0 5361 0
+G 0 5362 0
+G 0 5363 0
+G 0 5364 0
+G 0 5365 0
+M 0 5328 5 5382 10
+M 0 5332 3 5383 10
+M 0 5332 3 5386 10
+M 0 5338 2 5388 10
+E 0 5366 0 17
+E 0 5367 0 13
+M 0 5338 2 5390 10
+M 0 5332 3 5391 10
+O 0 5427 0 5395
+P 0 5429 0 5427 10
+M 0 5309 1 5395 10
+E 0 5374 0 12
+E 0 5379 0 17
+O 0 5333 0 5397
+M 0 5340 1 5398 10
+G 0 5380 0
+M 0 5327 5 5399 10
+E 0 5359 0 6
+E 0 5360 0 3
+M 0 5335 4 5400 10
+E 0 5357 0 6
+E 0 5358 0 13
+E 0 5310 0 17
+M 0 5317 3 5401 10
+G 0 5356 0
+G 0 5357 0
+G 0 5358 0
+G 0 5359 0
+G 0 5360 0
+M 0 5327 5 5401 10
+E 0 5356 0 5
+M 0 5335 4 5404 10
+E 0 5360 0 3
+E 0 5357 0 6
+E 0 5311 0 17
+M 0 5335 4 5406 10
+E 0 5447 0 16
+M 0 5336 2 5407 10
+E 0 5371 0 17
+M 0 5335 4 5407 10
+E 0 5447 0 16
+E 0 5357 0 6
+E 0 5356 0 5
+M 0 5336 2 5409 10
+E 0 5368 0 13
+M 0 5319 1 5411 10
+E 0 5372 0 12
+E 0 5375 0 8
+E 0 5376 0 17
+O 0 5427 0 5412
+P 0 5430 0 5427 10
+O 0 5332 0 5414
+M 0 5339 1 5415 10
+G 0 5382 0
+M 0 5350 1 5417 10
+G 0 5499 0
+G 0 5498 0
+M 0 5351 8 5417 10
+E 0 5498 0 0
+M 0 5342 10 5418 10
+M 0 5342 10 5419 10
+O 0 5458 0 5419
+P 0 5391 0 5458 10
+P 0 5392 0 5458 10
+P 0 5393 0 5458 10
+M 0 5351 8 5419 10
+M 0 5342 10 5420 10
+M 0 5351 8 5421 10
+E 0 5498 0 0
+M 0 5351 8 5422 10
+E 0 5498 0 0
+M 0 5342 10 5422 10
+M 0 5342 10 5422 10
+M 0 5351 8 5424 10
+E 0 5498 0 0
+M 0 5351 8 5424 10
+E 0 5498 0 0
+M 0 5342 10 5424 10
+M 0 5351 8 5425 10
+E 0 5498 0 0
+M 0 5342 10 5425 10
+M 0 5342 10 5427 10
+O 0 5383 0 5428
+O 0 5431 0 5429
+M 0 5342 10 5429 10
+M 0 5342 10 5429 10
+M 0 5342 10 5431 10
+M 0 5320 1 5431 10
+E 0 5384 0 16
+O 0 5335 0 5431
+O 0 5385 0 5432
+O 0 5432 0 5435
+P 0 5433 0 5432 10
+M 0 5330 1 5438 10
+M 0 5323 1 5438 10
+O 0 5435 0 5440
+S
+
+
+
+#SHOPS
+5310 17 0 0 0 0 120 90 0 23
+5311 5 17 19 0 0 110 90 6 20
+5312 8 19 0 0 0 110 90 0 23
+5313 5 9 0 15 0 120 80 1 23
+5314 11 9 8 22 1 105 15 0 23
+5317 11 9 0 0 0 130 70 6 22
+5350 9 0 0 0 0 150 50 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

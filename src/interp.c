@@ -423,6 +423,7 @@ const	struct	cmd_type	cmd_table	[] =
     { "wiznet",		do_wiznet,	POS_DEAD,	IM,  LOG_NORMAL, 1 },
     { "immtalk",	do_immtalk,	POS_DEAD,	IM,  LOG_NORMAL, 1 },
     { "imotd",          do_imotd,       POS_DEAD,       IM,  LOG_NORMAL, 1 },
+	{ "import",		do_import,		POS_DEAD,	IM,	LOG_ALWAYS, 1	},
     { ":",		do_immtalk,	POS_DEAD,	IM,  LOG_NORMAL, 0 },
     { "smote",		do_smote,	POS_DEAD,	IM,  LOG_NORMAL, 1 },
     { "prefi",		do_prefi,	POS_DEAD,	IM,  LOG_NORMAL, 0 },

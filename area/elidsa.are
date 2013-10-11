@@ -1,0 +1,3284 @@
+#AREADATA
+Name {25 75} Corco   Elidsa~
+Builders Corco Sansara Kardigan Qud~
+VNUMs 19100 19199
+Security 1
+End
+
+
+
+#MOBILES
+#19100
+Faery black purple winged~
+a black and purple winged faery~
+A faery with black and purple wings flutters in the air, darting back and forth.
+~
+Fluttering black and purple wings carry this faerie through the air,
+keeping her afloat with grace and ease.  Deep purple hair shines like an
+amethyst in sunlight as it spills over this naked faerie's form, almost
+completely covering her torso.  The rest of her lithe body seems to shimmer,
+as pale as the moon.  Glittering green eyes look you over haughtily as she
+flits beyond your reach.  
+~
+Faerie~
+AP CDEFGOPQTVac 500 S
+45 0 10d128+969 45d10+100 5d5+14 17
+-7 -7 -7 -5
+CO B CE MN
+9 9 2 202
+ACGHMV ABCDEFGHIJKOP S unknown
+#19101
+faery white winged~
+a white winged faery~
+A white winged faery, flutters here.
+~
+Deep green robes drape over the small frame of this faery.  Her eyes
+are a deep blue, like the skies at midnight, and sparkle even in the dimmest
+of lights.  The only thing keeping the golden curls that spill in a cloud
+around her shoulders out of her face is an ornate clip decorated with a
+lily.  Her lips and skin themselves seem to sparkle and shine with a light
+of their own.  White wings reminiscent of a butterfly's sprout from this
+faery's back.  Each wing is adorned with powder-blue markings, and shimmers
+in a similar manner to her skin.  
+~
+Faerie~
+AN CDEFGOTVc 0 S
+50 0 10d167+1149 50d10+100 5d6+13 0
+-9 -9 -9 -7
+0 B 0 M
+9 9 2 225
+ACGHMV ABCDEFGHIJKOP M unknown
+#19102
+Satyr~
+a satyr~
+A satyr sits here, playing a lilting tune on a set of pan pipes.
+~
+Well-muscled and trim looking is the uppermost half of the young man
+standing before you, but his legs are those of a brown furred goat.  His
+clear deep brown eyes dart about, seeming to be in search of something. 
+Cloven hooves as black as coal support his form as he leaps and frolics
+around in whatever quest has taken his fancy.  
+~
+Satyr~
+A J 500 S
+30 0 10d60+520 30d10+100 3d6+8 0
+-1 -1 -1 0
+G 0 B M
+7 9 1 135
+ACGHMNV ABCDEFGHIJKLQW S unknown
+#19103
+A swarm of wasps~
+a swarm of wasps~
+A swarm of wasps, fly madly about defending there nest.
+~
+A large swarm of wasp have gathered about the nest protectively.  They
+cover the air as if they where some form of black cloud.  Descending from the
+heavens.  
+~
+Wyvern~
+ABF DFTVa 0 S
+75 20 11d551+2303 75d10+100 5d9+24 26
+-19 -19 -19 -17
+CFGH FL 0 S
+9 9 0 337
+ABDGLZc ACDEFHJKOPUVX M unknown
+#19104
+a giant flying squirrel~
+a giant flying squirrel~
+A giant flying squirrel leaps from branch to branch.
+~
+A large greyish squirrel sits ready to bounce into the air from his high
+vantage point.  Large flaps of skin underneath makes it ready to leap into
+the air.  
+~
+Batling~
+A CDEFGTVZc 0 S
+35 0 10d76+654 35d10+100 4d6+9 10
+-3 -3 -3 -1
+FH 0 0 S
+9 9 0 157
+ACGHMVW ABCDEFGHIJKOPUV M unknown
+#19105
+elf ranger~
+a elven ranger~
+An elf dressed in green leather armor slinks in the background without making a sound.
+~
+A tall elf stands here, with long blonde hair escaping its bonds in
+tendrils.  The thick cloak that surrounds it makes it hard to judge if it
+male or female.  Face painting of elegant designs cover the facial features
+almost make it blend into the background.  
+~
+High Elf~
+A EFJPQ 1000 S
+50 40 10d167+1149 50d10+100 5d6+13 17
+-9 -9 -9 -7
+HK 0 B 0
+9 9 3 225
+AHMV ABCDEFGHIJK M unknown
+#19106
+a small nymph girl~
+a small nymph~
+A small girl dances around a man sitting in the middle of the glen.
+~
+Bright leaf-green eyes peer at you from this heart-shaped face. 
+Straight, darker green hair barely falls past this nymph's ears.  As you
+look her over, you notice her naked form is covered in skin that is faintly
+tinted green.  She studies you curiously.  
+~
+Nymph~
+AB 0 500 S
+30 0 10d60+520 30d10+100 3d6+8 19
+-1 -1 -1 0
+0 0 0 0
+9 9 2 135
+ACGHMV ABCDEFGHIJK M unknown
+#19107
+Beaver Pup~
+a young beaver pup~
+A young playful beaver playfully pounce on everything.
+~
+The slick brown fur of this young creature pounces playfully around not
+paying much head to anything.  The large buck teeth makes the little beaver,
+more menacing it growls playfully at you.  Ready to pounce and begin play
+with their new friend.  
+~
+Fox~
+A VZ 0 S
+4 0 1d10+41 4d10+100 1d2+0 0
+8 8 8 8
+FHU 0 0 0
+9 9 3 18
+AGV ACDEFHJKPUV S unknown
+#19108
+A growing pedestal~
+A growing Pedestal~
+A pedestal sitting in the middle of the room, bringing an abundance of life.
+~
+Life springs forth from this living pedestal, vines and creepers curl around 
+its stem, working upwards and sending forth their pleasant aromas to this 
+area.  
+~
+Shapeshifter~
+AB 0 0 S
+75 0 11d551+2303 75d10+100 5d9+24 13
+-19 -19 -19 -17
+0 B 0 0
+9 9 0 337
+ACGHMV ABCDEFGHIJKMQUV M unknown
+#19109
+statue elf  figure ~
+a statue of an elven figure~
+A statue of an elven figure stands on top of a pedestal in the shape of an oak tree.
+~
+This statue of a tall elf stands in the center of the fountain The water
+bubbling out by the figures bare feet.  A Cloak of Moss has started to grow
+on the visage of the elf.  The Jade coloured eyes of the figure seems to
+watch your every move.  
+~
+unique~
+AB J 1000 S
+75 0 11d551+2303 75d10+100 5d9+24 6
+-19 -19 -19 -17
+C 0 B 0
+9 9 1 337
+ACHMV ABCDEFGHIJK M unknown
+#19110
+Elisdor capitan ranger elf male~
+Elisdor, the ranger captain~
+Elisdor the captain of the rangers gazes in your general direction.
+~
+His long blonde hair flows gently down his back with his pointed ears
+peeking out.  The bangs fall softly in front of his jade-green eyes.  His
+eyes twinkle with amusement as they fall upon you, he flashes a warm smile. 
+His facial features are well defended and the sharp angles of his jaw line
+make him appear more mischievous than he actually is.  His pale skin only
+makes him look as if he is surreal.  Tattoos adorn his arms weaving in and
+out of elegant knot work and another tattoo of a grey raven can be seen on
+his bicep.  A gently wind seems to blow around him not disturbing him.  
+~
+unique~
+ABO JPQ 1000 S
+75 4 11d551+2303 75d10+100 5d9+24 0
+-19 -19 -19 -17
+FHKR 0 B 0
+9 9 1 337
+AHMV ABCDEFGHIJK M unknown
+#19111
+Ashe, a small nymph.~
+Ashe~
+A small nymph stands here, watching her surroundings curiously. 
+~
+Ringlets the colour of ash cascade down this woman's back, well past her
+hips.  Black eyes peer out of the fine-featured face of this female,
+creating a startling contrast between her pale complexion and hair.  Her
+spritely figure is a little over average height.  
+~
+Nymph~
+ABO T 1000 S
+75 2 11d551+2303 75d10+100 5d9+24 0
+-19 -19 -19 -17
+0 0 0 0
+9 9 2 337
+ACGHMV ABCDEFGHIJK M unknown
+#19112
+a unicorn male~
+a unicorn~
+A large male unicorn, stands here proudly.
+~
+A silver horn spirals majestically into the air from this equine's
+forehead, contrasting vividly with its deep blue coat.  Long hairs at the
+base of the legs covering the top of each silver, cloved hoof.  The mane,
+tail, and beard spill in silver splashes around the dark beast.  The eyes of
+the unicorn glimmer like stars in the night sky, drinking in all its
+surroundings readily.  Easily standing fifteen hands in height, he seems to
+be at ease in any setting.  
+~
+Human~
+AEI U 1000 S
+45 3 10d128+969 45d10+100 5d5+14 15
+-7 -7 -7 -5
+G 0 0 0
+9 9 0 202
+AHMV ABCDEFGHIJK L unknown
+#19113
+a unicorn female~
+a unicorn~
+A timid unicorn female is here, her eyes darting about wildly.
+~
+Seven hands in height at the shoulder, this equestrian being stands out
+from the land easily.  A silver horn spirals from its forehead elegantly,
+complimenting its silver hooves, mane and tail.  The coat of this unicorn is
+a rich purple colour, mottled with deep pink.  Like stars in the night *sky,
+her eyes shimmer a silver colour as they dart around nervously.  
+~
+unique~
+AEI JU 1000 S
+45 2 10d128+969 45d10+100 5d5+14 15
+-7 -7 -7 -5
+G 0 B 0
+9 9 2 202
+AHMV ABCDEFGHIJK L unknown
+#19114
+a drunken satyr~
+a drunken satyr~
+A satyr stumbles around looking for a place to nap.
+~
+A mass of jet black curls tumble down the back of the rotund figure
+before you.  Bleary blue eyes stare out of his bearded face as he sways
+around drunkenly.  Legs of a goat seem only just able to support his girth
+as he stumbles forward on his dark cloven hooves.  
+~
+Satyr~
+A 0 1000 S
+30 0 10d60+520 30d10+100 3d6+8 17
+-1 -1 -1 0
+0 0 0 0
+9 9 1 135
+ACGHMNV ABCDEFGHIJKLQW M unknown
+#19115
+toadstool~
+a toadstool~
+A large red and white speckled toadstool sits here.
+~
+Standing little more than a single foot in height is what at first glance
+would appear to be some kind of fungus.  Its large red and white spotted cap
+hides what looks incredibly similar to a pair of dark brown eyes and a
+slight mouth-like marking on the tan body of this strange creature.  
+~
+Myconid~
+A 0 500 S
+30 1 10d60+520 30d10+100 3d6+8 0
+-1 -1 -1 0
+0 J L HS
+9 9 0 135
+ABCGMc ABCDEFGHIJKM M unknown
+#19116
+A small nymph girl~
+a strange girl~
+A strange girl, stands here, watching her surroundings curiously.
+~
+Twin braids of mahogany lay over each shoulder of this nymph, the edges
+brushing against her breasts.  Pale eyes, the same colour as the sky on a
+cloudless day, grace her face, contrasting sharply with the pale tan colour
+of her skin.  She is approximately four and a half feet in height, her
+posture is erect and proper.  
+~
+Nymph~
+A 0 600 S
+50 3 10d167+1149 50d10+100 5d6+13 17
+-9 -9 -9 -7
+0 0 0 0
+9 9 0 225
+ACGHMV ABCDEFGHIJK M unknown
+#19117
+an ent tree man~
+an ent~
+A tree that has taking the shape of a man, stands before you.
+~
+This large man standing before you has skin the colour of greying bark
+and his arms look like branches of a powerful tree.  Leaves sprout out from
+all over and underneath his jaw grows some moss, making a beard for this
+elegant tree being.  He stands proudly, glancing over the forest.  A broad
+set of branches rise from his head making it appear of some kind of crown.  
+~
+unique~
+AN DFHJU 1000 S
+75 4 11d551+2303 75d10+100 5d9+24 0
+-19 -19 -19 -17
+0 J BN GH
+9 9 1 337
+AHMV ABCDEFGHIJK M unknown
+#19118
+Treant tree oak~
+a treant~
+A large oak tree shimmers slightly as you approach.
+~
+As you gaze on this oak tree, you notice a large knot makes up a face and
+two grey bark eyes peer out into the forest.  It moves slowly over the
+ground, moving place to place as it gazes lovingly to the forest.  
+~
+unique~
+A J 700 S
+65 2 11d352+1789 65d10+100 5d8+19 13
+-15 -15 -15 -13
+C I BJ H
+9 9 0 292
+AHMV ABCDEFGHIJK M unknown
+#19119
+A Phase Spider~
+a phase spider~
+A large dull blue spider phases in and out of reality.
+~
+Moving almost noiselessly, a large black arachnid can be seen.  Its
+exoskeleton shines a dull blue in the light, with large hairs growing in
+strategic places to assist it in climbing.  Rows of red eyes turn toward you
+as your presence becomes apparent to the beast.  Its large pincers click
+noisily as they come into view, dripping with a foreign substance.  
+~
+Centipede~
+A UZ -600 S
+45 2 10d128+969 45d10+100 5d5+14 31
+-7 -7 -7 -5
+CG L FI EHN
+9 9 0 202
+ABGO ACFKUX M unknown
+#19124
+Brilgnon Figure~
+Brilgnon~
+Shrouded in robes, a mysterious figure stands before you.
+~
+Covered from head to toe in long flowing robes, very little can be
+determined about this creature.  As though feeling your eyes sweeping over
+him, his own rise to meet yours, a fiery essence can be seen, burning
+within.  Grasped tightly in his right hand, a simple wooden staff with a
+gnarled top is visible.  
+~
+unique~
+ABO HOTUc 0 S
+100 40 12d1397+3920 100d10+100 6d11+29 19
+-52 -52 -52 -21
+AC C D CN
+9 9 1 450
+AHMV ABCDEFGHIJK M unknown
+#19193
+beaver giant brown~
+a giant brown beaver~
+A giant brown beaver, lays haphazardly here.
+~
+Her eyes remain closed not even noticing your arrival, as she bask in the
+warm rays of the sun.  This large creature rest after a busy day of work. 
+Her deep brown fur glisten with moisture.  And her wide leather tail sways
+gentile back and forth.  
+~
+Bear~
+AB b 0 S
+30 0 10d60+520 30d10+100 3d6+8 10
+-9 -9 -9 0
+DO R EI P
+4 9 2 135
+AGV ACDEFHJKPUV L unknown
+#0
+
+
+
+#OBJECTS
+#19100
+faery lance~
+a faery lance~
+A faery's lance sticks out of the ground.~
+unknown~
+5 A AN 0
+AB ABC CD ABD 0
+43 2 215 P
+0 B
+#19101
+a large acorn~
+a large acorn~
+A large acorn dangles from a branch of an oak tree.~
+unknown~
+26 0 AO 0
+20 19 44 0 0
+4 2 120 P
+0 0
+#19102
+rusty portcullis~
+a dangling portcullis~
+A set of portcullises dangle haphazardly above.~
+unknown~
+30 M A 0
+F H CE CE 0
+45 2000 200 P
+E
+!trap!~
+You feel a trip wire give way to your body.
+A rusty porticulous falls upon you!
+~
+0 0
+#19103
+Beech nuts~
+a cluster of beech nuts~
+A cluster of beech nuts sit on the ground.~
+unknown~
+19 0 AO 0
+BD 0 0 0 0
+1 1 2 P
+0 0
+#19104
+Mistletoe twig~
+a twig of mistletoe~
+A twig of mistletoe lays on the ground here.~
+unknown~
+3 0 AO 0
+CDEF AB A 1 0
+60 1 300 P
+0 0
+#19105
+Pan Pipes~
+a set of pan pipes~
+Crafted with great care and skill, a set of reed pan pipes has been left here.~
+unknown~
+3 0 ACO 0
+ADE AB AB 509 0
+30 3 150 P
+0 0
+#19106
+A wreath of wild flowers~
+a wreath of wild flowers~
+This wreath is woven of many deferent wild flowers showing a prismatic array of colours.  ~
+unknown~
+11 G AE 0
+0 0 0 0 0
+25 3 100 P
+A
+13 10
+A
+12 5
+L
+crowning head~
+0 0
+#19107
+A cracked Fissure~
+a fissure through a wall~
+A fissure looks big enough to crawl through.~
+unknown~
+29 0 0 0
+0 0 0 19132 0
+1 0 0 P
+0 0
+#19108
+A Bubbling Brook~
+a bubbling brook~
+A bubbling brook flows over moss covered stones.~
+unknown~
+25 R 0 0
+0 0 0 0 0
+1 0 0 P
+E
+brook~
+This small brook bubble over some moss-covered stones.  The water clarity
+is as the finest crystal.  As you look closer you see leaves hanging in mid
+air on strings of webbing from the strands run every direction, and this
+make shift bridge runs along the rocks.  You notice small balls of light
+twinkling on the spanning leaves.  The brook flows out of the glen to the
+south.  
+~
+0 0
+#19109
+A large fountain~
+a large fountain~
+A statue of an elven figure is placed on this large marble pedestal.~
+unknown~
+25 RS 0 AEL
+0 0 0 0 0
+1 10000 1 P
+0 0
+#19110
+a robe of moss~
+a robe of moss~
+A cloak made of freshly grown moss sits here.~
+unknown~
+15 AM AK AI
+ABDG AC 0 0 0
+75 3 10000 P
+A
+12 70
+0 0
+#19111
+a wooden hawk icon~
+a wooden hawk icon~
+An icon crafted from wood in the form of a hawk rests here.~
+unknown~
+8 0 AC 0
+0 0 0 0 0
+25 0 250 P
+A
+13 10
+A
+12 5
+0 0
+#19113
+a hole in the dam~
+a hole in the dam~
+A small hole in the side of the dam allows entrance into the den.~
+unknown~
+29 0 0 0
+0 0 0 19123 0
+0 0 0 P
+0 0
+#19114
+elven long bow~
+an elven long bow~
+A finely crafted bow made of a silver star tree sits here.~
+unknown~
+3 A AOP 0
+BEF AC AC 270 0
+65 5 325 P
+0 0
+#19115
+an Oaken Staff~
+an oaken staff~
+A small oak tree has been uprooted and polished into a fine staff.~
+unknown~
+5 0 AN 0
+D ABC ABD ABCD 0
+40 4 200 P
+A
+12 30
+0 0
+#19116
+Hemlock bottoms~
+some hemlock bottoms~
+Some hemlock bottoms lead into a small pond.~
+unknown~
+29 M 0 0
+0 0 0 19113 0
+1 20 0 P
+0 0
+#19117
+a small thorn~
+a small black thorn~
+A faint hint of magic glints off a small haw thorn that has been left here.~
+unknown~
+5 AG AN 0
+B D ABC ABD 0
+30 1 150 P
+0 B
+#19118
+a faerie spear~
+a faerie spear~
+A long twig and black thorn form a tiny spear here.~
+unknown~
+5 0 AN 0
+AB ABC CD B 0
+43 0 215 P
+0 B
+#19119
+a reed sword~
+a reed sword~
+A long slender reed sits here, the base bound in spider silk.~
+unknown~
+5 AG AN 0
+A ABD ACD AB 0
+75 2 375 P
+A
+13 20
+A
+18 2
+A
+19 2
+0 B
+#19120
+A large toadstool~
+a large toadstool~
+A large red and white speckled toadstool sits here.~
+unknown~
+12 0 A AELP
+0 0 0 0 0
+1 10 0 P
+E
+toadstool~
+A large toadstool sits here, its red and white spotted surface appearing
+soft and comfortable.  
+~
+0 0
+#19121
+an acorn pot~
+an acorn pot~
+This acorn has been turned upside-down with the top cut away to form a lid.~
+unknown~
+15 0 AO 0
+BD AC 0 0 0
+1 4 0 P
+0 0
+#19122
+a pile of spider silk~
+a pile of spider silk~
+Enchanted spiderweb threads have been woven into a bag.~
+unknown~
+15 AG AH 0
+CFG AC 0 0 0
+25 4 230 P
+0 0
+#19123
+a large black wine skin~
+a large black wine skin~
+A black skin of leather with a strap sits here, tainted by the scent of wine.~
+unknown~
+17 0 AK 0
+BD BD B 0 0
+0 0 1 P
+0 0
+#19124
+Elemental Sphere~
+an elemental sphere~
+This elemental sphere hovers in the air, seeming to throb with a strange energy.~
+unknown~
+15 S AR 0
+DFGHIJ 0 0 0 0
+90 0 0 P
+A
+18 5
+A
+19 5
+A
+12 50
+A
+13 50
+0 0
+#19125
+Orb of Elements~
+an Orb of the Elements~
+Glowing faintly, this orb seems to change colours as it reflects the different elements of the world.~
+unknown~
+1 S A 0
+0 0 999 0 0
+90 0 0 P
+A
+24 -50
+A
+2 4
+A
+19 5
+A
+18 5
+A
+12 100
+A
+13 100
+L
+glowing softly~
+0 0
+#19126
+a hunter's green leather tunic~
+a hunter's green leather tunic~
+A tunic made of stiff leather dyed in a deep green, sits here.~
+unknown~
+9 0 AD 0
+BC BC BC B 0
+40 6 200 P
+0 0
+#19127
+a pair of deep green leather leggings~
+a pair of green leather leggings~
+A pair of leggings made of hunter's green leather sit here.~
+unknown~
+9 0 AF 0
+BC BC BC B 0
+40 6 200 P
+A
+13 35
+A
+17 10
+0 0
+#19128
+Hunter's Green Gauntlets~
+a pair of hunter's green gauntlets~
+A pair of gauntlets made of finely crafted green leather sit here.~
+unknown~
+9 0 AH 0
+BC BC BC B 0
+40 6 200 P
+A
+17 10
+A
+2 2
+0 0
+#19129
+hunter's green boots~
+a pair of hunter's green boots~
+Soft leather boots in a rich hunter's green stand proudly here.~
+unknown~
+9 0 AG 0
+BC BC BC B 0
+40 4 200 P
+A
+13 10
+A
+12 20
+0 0
+#19130
+heath line belt cord~
+a heath line belt~
+A pile of fine silvery cord sits here.~
+unknown~
+9 G AL 0
+BC BC BC B 0
+40 2 200 P
+A
+12 30
+0 0
+#19131
+A Stag bust Icon~
+a stag icon~
+An icon of a stag's head hangs on a silvery cord.~
+unknown~
+8 0 AC 0
+0 0 0 0 0
+30 1 300 P
+A
+13 10
+0 0
+#19132
+The Cloak of Ilorentha~
+the cloak of Ilorentha~
+A cloak of fine cloth blends into its background.~
+unknown~
+9 G AZ 0
+ABC ABC ABC B 0
+45 5 225 P
+A
+18 3
+0 0
+#19133
+An elegant long sword~
+an elegant long sword~
+An elegant elven steel sword glows in a faint blue colour.~
+unknown~
+5 AG AN 0
+A ABC CD AB D
+43 7 215 P
+A
+19 1
+0 0
+#19134
+a fine silver anklet~
+a fine silver anklet~
+A small chain crafted in fine silver knot work sits here.~
+unknown~
+8 0 AU 0
+0 0 0 0 0
+45 1 450 P
+A
+13 40
+A
+17 12
+0 0
+#19135
+An elegant crafted bracer~
+an elegant crafted bracer~
+A bracer, elegantly crafted shows fine knot work and leaves in the shape of stars upon it.~
+unknown~
+9 0 AM 0
+BC BC BC B 0
+40 3 200 P
+A
+13 20
+A
+12 10
+0 0
+#19136
+a falling rock~
+a falling rock~
+Some huge boulders, tumbles down the cliffs wall.~
+unknown~
+30 0 0 0
+A I BD BD 0
+100 10000 0 P
+E
+!trap!~
+The rush of water, knocks some rocks lose.
+They tumble down crashing all around.
+~
+0 0
+#19137
+raven statue ~
+a statue of a raven~
+The ravens large black wings are spread in flight as it sits on the pedestal.~
+unknown~
+8 0 A DHLP
+0 0 0 0 0
+5 500 50 P
+0 0
+#19138
+a raven's long sword sword~
+a raven's long sword~
+This long sword's hilt forms the head of a raven.~
+unknown~
+5 A AN 0
+A ACF AB AB H
+72 4 360 P
+E
+sword~
+The hilt of this elegantly crafted sword comes to form the head of a
+raven.  A woven pattern of knot work gently works it way up the blade coming
+to the point of the sword.  The inscription runs along the each side of the
+sword "corcosilme".  
+~
+E
+raven~
+The hilt of this elegantly crafted sword comes to form the head of a
+raven.  A woven pattern of knot work gently works it way up the blade coming
+to the point of the sword.  The inscription runs along the each side of the
+sword "corcosilme".  
+~
+0 0
+#19139
+A raven icon~
+a raven icon~
+A icon crafted out of wood, that shows the visage of a raven in flight.~
+unknown~
+8 0 AC 0
+0 0 0 0 0
+72 2 720 P
+A
+13 25
+A
+12 40
+0 0
+#19140
+beard moss~
+a beard of moss~
+A pile of moss glows softly.~
+unknown~
+9 AQ AT 0
+CD CD CD AB 0
+75 5 375 P
+A
+13 20
+A
+12 50
+0 0
+#19141
+a wooden hairbrush  brush stick hair~
+a wooden-handled hairbrush~
+Thick bristles from a porcupine protrude from this odd shaped stick.~
+unknown~
+4 0 AO 0
+BCDE AC C 67 0
+30 0 150 P
+0 0
+#19142
+blue moss~
+some luminescent moss~
+Some moss shimmers with a pale blue glow.~
+unknown~
+1 R AK 0
+0 0 600 0 0
+5 1 300 P
+A
+12 19
+0 0
+#19143
+a green bound tome~
+a green bound tome~
+A large tome bound in green and silver can be seen here.~
+unknown~
+13 0 A 0
+0 0 0 0 0
+1 0 1 P
+0 0
+#19144
+UNUSED~
+uNUSED~
+(no description)~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#19145
+A jade leaf pendant~
+a jade leaf pendant~
+A jade pendant in the shape of an oak leaf is here, shining brightly. There's an inscription on the back.~
+unknown~
+27 A AC 0
+CDE CDE CDE BC 0
+100 0 50000 P
+A
+12 40
+A
+13 40
+E
+inscription~
+I walk this earth seeking the one closet to my heart with you, by my side I beleave I can handle almost anything.
+With love and understanding, 
+Wiloe
+~
+0 0
+#19150
+a willow~
+a graceful willow~
+Some moss shimmers with a pale blue glow.~
+unknown~
+29 AMR 0 DHLP
+0 0 0 19150 0
+1 500 100 P
+E
+willow~
+A large willow sits on the edge of a small bubbling brook her limbs reach
+down.  As if drinking from the water's edge.  A soft luminescent glow can be
+seen inside of the hollow of this tree.  There are several small openings
+and a larger one at the base of the trunk.  
+~
+0 0
+#19152
+Elemental Sword~
+an elemental sword~
+An elemental sword hums with power.~
+unknown~
+5 0 AN 0
+A CD E ABE 0
+100 2 500 P
+0 0
+#19153
+swirling disc~
+a disc of swirling colours~
+This disc of swirling colours vibrates with magical energy.~
+unknown~
+29 F AR 0
+4 0 0 19150 0
+25 1 0 P
+A
+12 100
+A
+13 20
+0 0
+#19154
+studded belt~
+a broad, studded belt~
+This broad belt is studded with small metal tabs.~
+unknown~
+9 0 AL 0
+E E E AC 0
+100 0 500 P
+A
+13 30
+A
+12 30
+0 0
+#19155
+a white gold band inlaid with tiger's eye~
+a white gold band inlaid with tiger eye~
+A white gold band inlaid with tiger eye can be found here. There seems to be writing on the inside.~
+unknown~
+27 0 AB 0
+CDE CDE CDE BC 0
+100 0 0 P
+A
+18 2
+A
+19 2
+E
+writing~
+To our fountain of youth.
+~
+E
+inscription~
+To our fountain of youth.
+~
+0 0
+#19156
+a white gold band inlaid with red garnets~
+a white gold band inlaid with red garnets~
+A white gold band inlaid with red garnets has been left here.~
+unknown~
+27 0 AB 0
+CDE CDE CDE BC 0
+100 0 0 P
+A
+18 4
+A
+19 4
+E
+inscription~
+"To thee I pledge all that I am and all that I will be."
+~
+0 0
+#19157
+ruby onxy ring~
+a ruby and onyx ring~
+This onyx ring has been crafted with pieces of ruby imbedded flush into its surface.~
+unknown~
+27 0 AB 0
+ABD ABD ABD B 0
+50 0 10000 P
+A
+12 40
+A
+13 20
+0 0
+#19158
+longsword utopian flaming flame sword~
+a {rf{yl{ra{ym{ri{yn{rg{x longsword~
+The colours of {RU{mtopia{x decorate the hilt of this longsword, the dwarven runes on the blade pulse with {rf{yl{ra{y{rm{ye.{x~
+unknown~
+5 ABEJLPS AN 0
+A CD E AB AF
+100 10 500 P
+A
+19 2
+A
+18 2
+L
+held with a firm grip~
+0 0
+#19159
+Yttle's Mithril spike~
+a shiny mithril spike~
+A mithril spike has been set into a tiny wooden handle, and left here.~
+unknown~
+5 AS AN 0
+B ABCDE AB ABD C
+60 0 300 P
+0 BC
+#19194
+a speckled mushroom~
+a speckled mushroom~
+A purple and white speckled mushroom, sprouts from the ground.~
+unknown~
+26 0 AO 0
+50 38 509 0 0
+30 2 900 P
+0 0
+#19198
+a ring of mushrooms~
+a ring of mushrooms~
+(no description)~
+unknown~
+29 R 0 0
+0 0 0 19194 0
+1 8 0 P
+E
+ring~
+A ring of red and white speckled mushrooms shoot forth from the ground. 
+A clean patch of soil lays in the center of the ring.  
+~
+E
+mushroom~
+A ring of red and white speckled mushrooms shoot forth from the ground. 
+A clean patch of soil lays in the center of the ring.  
+~
+0 0
+#19199
+Pool~
+a tranquil pool~
+(no description)~
+unknown~
+25 MRS 0 BFJP
+-1 -1 0 0 0
+1 0 0 P
+E
+pool~
+Water cascades over a large rock of quartz with sliver threads running
+through its spinning wildly in every direction.  The fall of the water makes
+a soothing sound as it convene with the pool below, in witch it collect a
+few mosses covered rocks jut out of the surface of the water.  
+~
+0 0
+#0
+
+
+
+#ROOMS
+#19100
+A Rainbow Coloured Grove~
+This clearing is dotted with various wild flowers, creating a rainbow-like
+effect in the cropped grass.  Butterflies flutter unhurriedly from blossom
+to blossom on soft butter-yellow wings.  Trees with star-shaped leaves
+encircle the small field, their colours as brilliant as the flowers below. 
+The silver coloured bark of the trees seem to shimmer with a light of their
+own.  In the distance, a large stone structure can be seen.  The weather and
+time have been harsh to this building over the years.  Statues can be seen
+stretching above the canopy of the surrounding trees, covered in moss.  A
+small pond can be seen to the north.
+~
+0 0 2
+D0
+~
+~
+0 0 19165
+D1
+~
+~
+0 0 19101
+D2
+~
+~
+0 0 19192
+D3
+~
+~
+0 0 19122
+S
+#19101
+An Old Street~
+This road is made completely out of cobblestones.  The upkeep of the road
+seems to have been abandoned since small tufts of grass and a few small
+saplings jut out from between them.  There is a building to the south, its
+walls crumbling upon themselves.  Large statues are carved into the walls of
+the structure, covered in a slick green moss.  The road continues to the
+east while a grove of strange looking trees can be seen to the west.  Think
+underbrush bars the way to the north.  
+~
+0 0 0
+D1
+~
+~
+0 0 19140
+D2
+~
+~
+0 0 19102
+D3
+~
+~
+0 0 19100
+S
+#19102
+A Crumbling Gate House~
+~
+0 0 0
+E
+!trap!~
+You feel a trip wire give way to your body.
+A portcullis come crashing down from above you! 
+~
+E
+!trap!~
+You feel a trip wire give way to your body.
+A portcullis come crashing down from above you! 
+~
+D0
+~
+~
+0 0 19101
+D1
+~
+~
+1 0 19132
+D2
+~
+~
+0 0 19103
+D3
+~
+~
+1 0 19133
+S
+#19103
+In a Desolate Court Yard~
+Saplings sprout out of the rich, black soil underneath the displaced
+paving stones.  A fresh blanket of moss clings to an old rusted grate set
+into the ground.  A few slugs leave their slimy trails through the soft
+green moss on their slow journey.  Most of the inner walls of the structure
+have started to collapsed from the growth of new life.  The erosion is
+evident in every direction you turn.  
+~
+0 0 1
+D0
+~
+~
+0 0 19102
+D1
+~
+~
+0 0 19106
+D2
+~
+~
+0 0 19104
+D3
+~
+~
+0 0 19108
+D5
+~
+~
+1 0 19110
+S
+#19104
+An Abandoned Courtyard~
+Some trees grow around a fountain the water still rushes forth in its
+endless bounty.  The trees are growing, lush and green.  They have cracked
+the paving stones in this section of the court yard, spreading to the north
+east and west.  A large ornamental crafted brass door is to the south of
+court yard.  
+~
+0 0 0
+D0
+~
+~
+0 0 19103
+D1
+~
+~
+0 0 19105
+D2
+~
+~
+1 0 19112
+D3
+~
+~
+0 0 19107
+S
+#19105
+The Darkening Corner of the Courtyard~
+The large pieces of the wall's of the structure lean in here, casting a
+deeping shadow over this part of the courtyard.  Some mushrooms have
+sprouted in the darkness, showing that the circle of renewal still exists
+here.  Some glittering shards of glass can be seen, reflecting a small
+amount of light into the area.  
+~
+0 0 0
+D0
+~
+~
+0 0 19106
+D3
+~
+~
+0 0 19104
+S
+#19106
+The Falling wall~
+The ivy clings to the wall as it destroys the mortar holding them
+together.  The moss has worked its way into the cracks, separating the
+joints of the block.  Large stones have fallen, crumbling into smaller ones.
+In a crevice nearby, a large hive has formed.  Its outer honey-comb shape
+reveals it to be a wasp nest.  The erosion seems to have erased all that has
+been.  
+~
+0 0 0
+D2
+~
+~
+0 0 19105
+D3
+~
+~
+0 0 19103
+S
+#19107
+A Large Oak Tree~
+A tree spirals upward, twisting and turning toward the sky.  Its limbs
+spread out widely, casting shade to the ground around it.  Lush grass and
+flowers grow here, mixed together in a pleasing disarray of colour.  Bright
+mushrooms climb up the scarred, brown bark and a spider's web can be seen
+glinting faintly, stretching between two branches.  The trunk has grown into
+the wall, knocking loose some block the resulting fissure seeming to be
+large enough to allow someone to crawl through it.  The flat slate stones
+have been uprooted from the tree's incredible growth.  
+~
+0 0 0
+D0
+~
+~
+0 0 19108
+D1
+~
+~
+0 0 19104
+S
+#19108
+The Crumbling Wall~
+Large statues have fallen on to the ground here their once-majestic mass,
+now nothing more than a bunch of broken bits.  The walls of the structure
+have fallen in on there selves leaving broken shards of glass and wooden
+beams.  Patches of long-bladed grass grows throughout the mounds of rubble,
+bringing a touch of life amongst all the destruction.  
+~
+0 0 0
+D1
+~
+~
+0 0 19103
+D2
+~
+~
+0 0 19107
+S
+#19110
+Beneath the Courtyard~
+The dank smell emanates down here and the slime sticks to the granite
+walls of this place.  There is a walk way on each side of the walls, a
+channel of black water running through the middle of the ledges.  Warn out
+walk ways seem to be curve into the waters edge.  A misplaced step will send
+someone into the dank water below The tunnel continues to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 19111
+D4
+~
+~
+1 0 19103
+S
+#19111
+Pipes~
+Large pipes run every direction, the clay is cracking but still bringing
+forth its bounty of a endless supple of water.  The water drips onto the
+floor creating A black fluidly mass upon the floor.  There is only one way
+out of this room it seem.  Leading to the south.  
+~
+0 8 0
+D2
+~
+~
+0 0 19110
+S
+#19112
+A Vaulted Chamber ~
+Large brass doors lead to the north of this circular chamber the walls
+are lined with tiles.  The white marble is tarnished making it a dull-grey. 
+Large monuments stand erected in a semi-circle surrounding a large
+motionless robed figure.  Each of the statues are carrying the facade of
+elves.  The domed ceiling adorned with its large fresco, as the flakes and
+cracks.  But is image still remaining mostly in tacked.  Closed archways
+lead of the east and west of the Chamber.  
+~
+0 8 0
+E
+fresco~
+A large white Rose has been painted on to the ceiling.  The rose is
+writhed in flame and the back ground looks to be combination of the night
+and day time skies the two moons and sun seem to track across the starry
+sky, this then surrounded by silver and golden knot work.  
+~
+E
+basin~
+Two small channels run to the east and west underneath the arched doors. 
+The basing slowly let water into this miniature canel.  
+~
+E
+statute~
+This large statue is surrounded by fountain the figure looks to have an
+unnatural glow about him his eyes seem to follow you around the room when
+you move.  
+~
+D0
+~
+~
+1 0 19104
+D1
+~
+~
+1 0 19129
+D3
+~
+~
+1 0 19114
+S
+#19113
+A Pond~
+Hemlocks grow in tight bunches to the western edge of this small pond,
+the water lilies grow in lovely cluster sparkling in with fresh water
+droplets the sounds of bull-frogs can be heard, singing there songs of love
+for the murky water below.  The steepness of the eastern bank as the soil
+and ground breaks off into spilling into the water bellow.  Gigantic trees
+loom over the cliff above, making the light filter in shades of greying
+mist.  The sound of falling water can be heard to the north, running over a
+huge beaver's dam.  The rainbows the spread over the glen further bellow
+during the daytime hours and the brilliant glow of the stars seep into the
+gloom of this place.  
+~
+0 0 7
+D0
+~
+~
+0 0 19122
+D2
+~
+~
+0 0 19193
+D3
+~
+~
+0 0 19116
+S
+#19114
+The Archives~
+The aroma of cedar encompasses this large round chamber.  The shelves
+reaching up to the domed ceiling.  That has a large fresco of some trees
+with star-shaped leaves and stags coming out of the underbrush.  The vaulted
+hovels that each row of books are in reach back into the stone with each of
+the cases lined in a rich red wood.  A small desk sits against one of the
+wall in the room, with crumbling bits of scrolls left upon it.  There is a
+small cabinet with elvish runes adorning it many doors.  Two arched doorways
+lead to the east and to the north of this place.  
+~
+0 8 0
+D0
+~
+~
+1 0 19131
+D1
+~
+~
+1 0 19112
+S
+#19115
+Down a Gentle Slope~
+Pebbles skip down the slope leading to a grouping of large beech trees,
+large stone rings can be seen stretching over the circumference of a great
+hill.  The sound of many forest creatures can be heard of into the distant. 
+~
+0 0 0
+D3
+~
+~
+0 0 19167
+D5
+~
+~
+0 0 19116
+S
+#19116
+Edge of a Small Pond~
+The sparkle of water can be seen, glimmering through hemlocks.  Huge
+beach trees tower into the canopy of the surrounding forest.  Beech nuts
+mixing with the white ferns casting a shadow over the nuts on the ground. 
+The sap of the beech trees poor slowly down into the roots making mixing
+with the rain water in this shallow puddle with the roots.  
+~
+0 0 3
+D3
+~
+~
+0 0 19117
+D4
+~
+~
+0 0 19115
+S
+#19117
+Along a Sloping Trail~
+A large maw opens to the north of the trail.  A well worn path can be
+seen running to the south.  Large trees jut out of the top of the cavern
+roof running in obtuse angles, stretching to the canopy.  Huge boulders give
+the appearance of eye protruding below the ridge.  Earthen teeth dangle
+sharply, as the cavern opens to swallow something whole.  A think grove of
+birch can be seen to the north and ground pine blankets the forest floor,
+mixing scents with Mistletoe.  They dangle from an ancient oak that is
+splitting the trail think grove of birch can be seen to the north and ground
+pine blankets the forest floor, mixing scents with Mistletoe.  They dangle
+from an ancient oak that is splitting the old road into two.  Cluttering the
+ground is a mixture of acorn and beach nuts.  To the west a beaten down game
+path meandering its way to the east.  
+~
+0 0 3
+D0
+~
+~
+0 0 19119
+D1
+~
+~
+0 0 19116
+D2
+~
+~
+0 0 19118
+D3
+~
+~
+0 0 19120
+S
+#19118
+In the Maw~
+A red dim light lingers from the south deep with in the cave casting a
+glow over the smooth grey marble walls of this place the path gentle glides
+down in too a large door crusted in rubies blocks your way further south. 
+The cavern open up wide to the north.  Spider webs hang from the dangling
+mounds of earth and a small pile of bones set in the corner of the cavern.  
+~
+0 0 3
+D0
+~
+~
+0 0 19117
+D2
+~
+~
+1 0 19128
+S
+#19119
+Birch Grove~
+Small light grey barks can be seen stretching to the sky during the day,
+a green light filters through the leaves here bright green grass grow as
+large fur blanket died that shade.  Small sapling sprinkle the area as well
+and some thistles growing up between them.  
+~
+0 0 0
+D2
+~
+~
+0 0 19117
+S
+#19120
+A drop off~
+A tiny field is but a small drop down.  The of leaves of the ancient
+trees, casting a prismatic array of light that glancing off the boulders of
+quartz.  The sound of running water can be heard all around this place.  The
+sound is more the sound is louder coming from the east.  The path spreads
+to the east interweaving amongst the variable forest.  
+~
+0 0 3
+D1
+~
+~
+0 0 19117
+D5
+~
+~
+0 0 19121
+S
+#19121
+A Open Field~
+A large field blanketed the area.  With a soft silver-green clover
+peeking out of the cracks of the old cobbles.  A large growth of some kind
+of green plant can be seen to the east and the road travels further on to
+the east .  The forest is push back to create this small field in the middle
+of the thickening woods.  
+~
+0 0 3
+D0
+~
+~
+0 0 3940
+D1
+~
+~
+0 0 19122
+D4
+~
+~
+0 0 19120
+S
+#19122
+A Clear View of a Pond~
+Four stag shaped columns mark the entrances of the bridge, Ivy in light
+green leaves wander there way up the stags, spanning over massive set
+antlers.  They stand on clear sheets of quartz spinning four webs silvery
+weaves of star-shaped leaves.  Water trickles softly over it.  Fish swim
+freely, in the depths of the ice cold springs an illuminating blue glow
+filter from the bottom as the glow dissipates into abyss of the heavens.  White
+flakes give the soft distant glimmer as if it was the night time sky
+captured below the crystalline surface of the bridge.  The water gliding
+over the quartz plates of below.  To the south there is a small pond the
+white lilies blowing gently in the slightest breeze.  
+~
+0 0 3
+D1
+~
+~
+0 0 19100
+D2
+~
+~
+0 0 19113
+D3
+~
+~
+0 0 19121
+S
+#19123
+A Den~
+Soft brown fur covers the imperceptibly wood chip in this small round
+den.  The rush of water can be heard over the head.  Sticks jut out of the
+wall encompassing this small hovel.  There is a small hole leading up out of
+the den 
+~
+0 8 0
+D4
+~
+~
+0 0 19113
+S
+#19124
+Chamber of Spirit~
+Running in each direction out of this diamond encrusted room, four black
+portals of onyx can be seen.  Looking across the room, the inky darkness
+seems to hide the corners in mystery, only beaten back to that point by a
+white glow coming from the center of the area.  
+~
+0 8 0
+D0
+~
+~
+1 0 19128
+D1
+~
+~
+1 0 19127
+D2
+~
+~
+1 0 19125
+D3
+~
+~
+1 0 19126
+S
+#19125
+Chamber of Earth~
+The center of the room contains a huge pillar reaching to the ceiling
+encrusted into the pillar is a mix of deferent gems and metals.  The walls
+are of made granite, with an array of gold and silver veins run richly
+through it.  There is a large jade door leading southwards and to the north
+there is one made of black onyx.  
+~
+0 32776 0
+D0
+~
+~
+1 0 19124
+D2
+~
+~
+1 0 19163
+S
+#19126
+Chamber of Wind~
+A twirling dust devil blows in the center of this chamber it spins with
+the leaves and Diamond dust the derbies that has gathered in the room.  The
+room is made of the purest of crystal.  And it all most translucent enough
+to be seen in to the adorning chambers.  There is a black onyx door to the
+east and empty door way showing it way into a darker cavern.  
+~
+0 32776 0
+D1
+~
+~
+1 0 19124
+D3
+~
+~
+1 0 19166
+S
+#19127
+Chamber of Water~
+In the center of the chamber is a huge deep blue pedestal a large crystal
+basin sits on top of the pillar of blue stone.  A luminescent glow springs
+forth from the center casting it light onto the walls, bouncing of the
+encrusted turquoise stones and the gems of aqua-marine there is a deep-blue
+door to the east and a black onyx door leading to the west.  The occasional
+drop of water falls from the ceiling lading into the water pot below.  
+~
+0 32776 0
+D3
+~
+~
+1 0 19124
+S
+#19128
+Chamber of Fire~
+This round chamber is covered in rubies of fast arrays, a eternal flame
+burns in the center of the chamber make the walls dance with flame.  The
+Northern door is covered by rubies, make the red glittering glow gems even
+more dramatic.  The southern door seem to be the only shadow cast into the
+room it made of black onyx.  
+~
+0 8 0
+D0
+~
+~
+1 0 19118
+D2
+~
+~
+1 0 19124
+S
+#19129
+Archives~
+This rounded chamber is lined with colored glass shelves spanning the
+full circumference of the room.  The walls show many small trinkets of
+wonder and large old tomes that adorns neatly organized.  Many books sit on
+there shelving collecting dust.  Arched Doorways lead to the North and west
+of this room.  
+~
+0 4194312 0
+D0
+~
+~
+1 0 19130
+D3
+~
+~
+1 0 19112
+S
+#19130
+Deeper into the Archives~
+The vaulted ceiling of the passage way seems to linger north and there is
+a closed archway leading to the south.  The dull-grey stone, seeming
+seamless sits in contrast to the cedar bookcases sit all around this room,
+encompassing the outer walls of the room.  Their aroma spreads out into the
+room.  The painted ceiling show a great battle of elves and men fighting
+some unknown foe.  
+~
+0 8 0
+D0
+~
+~
+0 0 19132
+D2
+~
+~
+1 0 19129
+S
+#19131
+Piles of Books~
+The wall has fallen in partial scattering, the many ancient text onto the
+floor.  Statue has fallen through the ceiling running the writhed material
+inside of its once proud shelves.  The is away through the rubble to the
+north and the door to the south remains unbarred.  
+~
+0 8 0
+D0
+~
+~
+0 0 19133
+D2
+~
+~
+1 0 19114
+S
+#19132
+A Vaulted Chamber of Books~
+The vaulted ceiling of the embarks you on a journey of exploration for a
+map is laid out on the ceiling containing what use to be a long forgotten
+land.  The room being made of a dull-grey stone, seeming to be prattle
+seamless An Arched door way leads to the west that is a mix of golden an
+silver leaves adorning the images of a crescent moon crafted on this door. 
+With an emblem of the sun adorns it then surrounding by sapphires repenting
+stars run around the border of the archway .  Old Tomes sit embedded in the
+dust of that upon the book cases.  The hall continues to the south through a
+opened archway.  
+~
+0 8 0
+D2
+~
+~
+0 0 19130
+D3
+~
+~
+1 0 19102
+S
+#19133
+A Vast Room~
+The room being made of a dull-grey stone, seeming to be prattle
+seamless.  An arched door way leads to the east that is a mix of golden an
+silver leaves adorning the images of a crescent moon crafted on this door. 
+With an emblem of the sun adorns it then surrounding by sapphires repositing
+stars run around the border of the archway .  Old Tomes sit embedded in the
+dust of that upon the book cases.  The hall continues to the south through a
+opened archway.  The ceiling shows set of silvery towers sitting in a vast
+forest.  
+~
+0 8 0
+D1
+~
+~
+1 0 19102
+D2
+~
+~
+0 0 19131
+S
+#19140
+A Broken Road~
+Small tufts of grass grow out of the cracks of the paving stones and
+trees spring forth of the edge lingering into the forest.  A tree grows out
+of the roof of a old stone building to the north of the road.  A large
+branch comes out of the place where the door way use to be.  The road
+continues to the east and west A large wall can be seen clear to the south,
+great statues can be seen covered with green moss.  
+~
+0 0 3
+D0
+~
+~
+0 0 19147
+D1
+~
+~
+0 0 19141
+D3
+~
+~
+0 0 19101
+S
+#19141
+A Turn in the Road~
+The Road turns to the east and south following the row of trees and the
+wall of the massive structure to its east.  Sapling have started to push
+there way through the cobble stones of the road.  A rainbow of deferent wild
+flowers grow in and ivy climbs its way up the ancient structure.  The Road
+turns to the south and west.  
+~
+0 0 3
+D2
+~
+~
+0 0 19142
+D3
+~
+~
+0 0 19140
+S
+#19142
+Along an Ivy-covered Wall~
+The Ivy climbs, up the along the wall giving it a mass of green with the
+white-grey stones.  Sparkling bent them.  Further to the south a small stone
+building has be erected made of similar stones of the ones of the wall, the
+stone cobbles are heavily warn with foot going to the south towards the
+cabin.  
+~
+0 0 3
+D0
+~
+~
+0 0 19141
+D2
+~
+~
+0 0 19143
+S
+#19143
+Before a Small Cabin~
+A large oak tree is surrounded by the outer walls of a quaint cottage. 
+The mixing of the stone and wood seem to meld together as the ivy growing
+over the stones, casting the visage of life over them.  They are carved to
+appear as branches coming of the oak.  Garden laden path leads to the front
+of the door in .  The door is also very ornately decorated.  
+~
+0 0 3
+D0
+~
+~
+0 0 19142
+D2
+~
+~
+1 0 19144
+S
+#19144
+A Small Cabin~
+The large hearth stands along the eastern wall it smoke stack leading up
+into the ceiling.  Some well crafted wooden furniture sits around a small
+table, with a game of chess sitting on it.  There is a large loft above the
+main room of this place and a ladder leading to it.  An arched door way can
+be seen to the west of the room and the of freshly cooked food moves out of
+the room there is a large ornately carved door leading to the north of the
+place.  
+~
+0 8 3
+D0
+~
+~
+1 0 19143
+D1
+~
+~
+0 0 19146
+D4
+~
+~
+0 0 19145
+S
+#19145
+A Loft~
+This space has a large tinted glass doors to the south of the room. 
+Several make shift beds have been setup here also hammocks hanging on hooks
+in this room there is a ladder leading down and there are some foot lockers
+at the foot of each finely crafted bed.  A ladder leads it way down into the
+main room of the cabin.  
+~
+0 8 0
+D2
+~
+~
+1 0 19157
+D5
+~
+~
+0 0 19144
+S
+#19146
+A Kitchen~
+The smells of freshly cooked food can is evident, as the armor spreads
+around the whole room.  Large oven can be seen covering the eastern wall
+many pots can be seen hanging on the walls, There is a small wash basin with
+the water running clearly out of it.  And separate one with a small drain
+and a stopper plunged into it.  
+~
+0 8 3
+D3
+~
+~
+0 0 19144
+S
+#19147
+Home Amongst the Oak~
+The ceiling has been pushed out of the way of the growth of the large
+silver oak, tufts of grass grow out of the cracks of the stone walls that
+once were built with great care now a shadow of its former self.  Small
+rafters now sit at the bottom of this great tree.  The only way to leave
+seems to be to the south.  Paintings and ornately crafted wood work can
+still be plainly seen this home must of been a living work of art in its
+day.  
+~
+0 0 3
+D2
+~
+~
+0 0 19140
+S
+#19150
+Inside a Hollow of a Willow~
+A soft luminescent glow radiates form the moss covering the walls and
+floor inside of this tree.  The moss is soft and slightly warm to the touch.
+Some butterflies cocoons can be seen hanging from the inner shell of the
+willow.  Few of these have broken open recently and they have fallen to the
+floor of the tree.  The hollow of the tree open to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 19199
+S
+#19151
+A Trail Through a Forest~
+The Brook travels south along the outside of the Trail moving every
+forth.  Water turning to white as it splashes against the rocks.  Glinting
+in the moon or sun light off of the spider webs moisten with the spray of
+the water.  Small sprigs of mint grow from the rocky bank of this small
+stream.  
+~
+0 0 3
+D0
+~
+~
+0 0 19199
+D2
+~
+~
+0 0 19152
+S
+#19152
+A Bend in the Trail~
+This tree stretches mightily into the air, its limbs spreading widely
+with no symmetry whatsoever.  The star-shaped leaves are a deep purple,
+almost black, colour that contrasts sharply with the silvery bark of this
+tree, which is smooth and pale like skin.  Truffles grow randomly amongst
+the roots that poke their way through the soil.  A small brook babbles
+endlessly along the southern and north path and the trail is split into two
+the offshoot heading to the west.  
+~
+0 0 3
+D0
+~
+~
+0 0 19151
+D2
+~
+~
+0 0 19162
+D3
+~
+~
+0 0 19155
+S
+#19153
+A Gorge~
+The constant pounding of the waterfall above you drowns out any other
+sounds near by.  The white faced rock glints with moisture of the over spray
+The cliff face surrounds you on all sides blocking what seems any way out of
+the gorge the only way out seems to have to do with flight for the sheer
+walls.  
+~
+0 0 7
+D4
+~
+~
+0 0 19191
+S
+#19154
+Over a Waterfall~
+You fall swiftly through the air.  The rush of the water, ponds heavily
+in your ears.  The small pool can be seen far below you.  Large rocks
+stretches out as if griping for you.  
+~
+0 0 9
+D4
+~
+~
+0 0 19162
+D5
+~
+~
+0 0 19191
+S
+#19155
+A Forest Trail~
+Tiny orbs of coloured magical light dot the trees here, none larger that
+the end of a man's thumb, attached by a fine net of spider silk.  Small
+holes carefully cut into the trees have been smoothed down.  They seem to
+lead to some form of dwelling, judging by the faint glow coming from them. 
+Leaves litter the floor, creating a carpet and allowing a profusion of
+bright flowers and toadstools to grow with wild abandon.  The heady scent of
+these wild blossoms mixes pleasantly in the air.  A large oak tree makes the
+trail bend east and north.  The oak also dotted with many small wholes.  
+~
+0 0 0
+D0
+~
+~
+0 0 19156
+D1
+~
+~
+0 0 19152
+S
+#19156
+A Forest Trail~
+The white ferns gather to the side of a stream, running to the westward
+along the trail.  The cluster of pine trees surround each side of the path. 
+Large rock formations can be seen to the north.  Thick Squirrel's nest can
+be plainly seen in the grouping of pines.  And the sound of the water covers
+up all the sounds of wild life.  In the immediate vinosity.  
+~
+0 0 3
+D0
+~
+~
+0 0 19168
+D2
+~
+~
+0 0 19155
+D3
+~
+~
+0 0 19188
+S
+#19157
+A Balcony~
+Large decorated glass doors can bee seen to the south.  The balcony is
+made of finely preserved wood and seems to grow into the balcony to its. 
+tree makes it difficult as to what maybe hidden with in its branches.  A
+garden can be seen at the edge of small brook running from underneath the
+structure.  
+~
+0 0 3
+D0
+~
+~
+1 0 19145
+D4
+~
+~
+7 0 19158
+D5
+~
+~
+0 0 19159
+S
+#19158
+The Talan~
+A nine foot round platform has been sits in the heart of this great oak. 
+From this vantage point one can see all of the of the surrounding area.  To
+the east two waterfalls can bee seen one rushing over a small knoll, the
+other spilling to a great ravine bellow.  Large stone rings sitting on a
+hill can bee seen to the northeast.  A large white domed building can be
+seen further bellow it.  The criss-crossing game trails can be seen clearly
+as well, giving one a great vantage over their adversary.  
+~
+0 0 0
+D5
+~
+~
+7 0 19157
+S
+#19159
+Behind a Cabin~
+Ivy covers the stonework of the this small cabin, The sound of chattering
+creatures can be heard further into the forest.  And vegetables grow in
+abundance here going to the large cliff to the north of it.  The sounds of
+rushing water can be heard as well.  And a mountain range can be seen
+further of into the distance of the large river valley below.  A small white
+rocks path can be see going east heading into the forest.  A small brook
+follows the little trail into the forest.  
+~
+0 0 3
+D1
+~
+~
+0 0 19160
+D4
+~
+~
+0 0 19157
+S
+#19160
+Along a Brook~
+Trees with the bark of moonlight there silvery star-shaped leaves
+glinting above you.  They tower on ether side of the pathway.  A brook
+babbles gently making it way criss-crossing the path at one point, along
+it's journey southward.  A quaint cottage can be seen to your west with it
+sitting a large oak growing almost from the cabin.  A small vegetable grows
+behind the structure.  
+~
+0 0 3
+D2
+~
+~
+0 0 19161
+D3
+~
+~
+0 0 19159
+S
+#19161
+A Brook Runs Through It~
+Tall pines mingle with the silvery star-shaped leaves of the equal tall
+trees.  Bright fern with there snow white leaves cling closely to the trees.
+The sound of running water can be heard all around, mixing with the sound of
+the local wild life.  A large oak gather on the side of the brook and the
+roots have been slowly dug out by the running water.  Letting it flow in
+between its roots on the stream journey eastward.  
+~
+0 0 3
+D0
+~
+~
+0 0 19160
+D1
+~
+~
+0 0 19162
+S
+#19162
+Conjoining Waters~
+Two brooks conjoin, creating a small creek heading down over the edge of
+the cliff spilling into the grotto below.  The white water's fall seem to be
+endlessly.  A few hemlocks mix with the silvery bark of popular trees on the
+rushing edges of the water.  Some sprigs of mint grow on the sides of the
+trail that meanders north and west.  
+~
+0 0 3
+D0
+~
+~
+0 0 19152
+D3
+~
+~
+0 0 19161
+D5
+~
+~
+0 0 19154
+S
+#19163
+An Earthen Pit~
+A large pit has been dug out of the ground the most earth and the hard
+stones that surround you in this dark and dank hole in the ground.  The
+large gem and mineral deposited door to your north seems to be the only
+available exit out of this room occasionally some dirt falls on top of your
+head the earth breaking and scattering her dust through your hair.  
+~
+0 8 0
+D0
+~
+~
+1 0 19125
+D4
+~
+~
+0 0 19189
+S
+#19164
+Before a Rainbow Coloured Grove~
+A tree spirals upward, twisting and turning toward the sky.  Its limbs
+spread out widely, casting shade to the ground around it.  Lush grass and
+flowers grow here, mixed together in a pleasing disarray of colour.  Bright
+mushrooms climb up the scarred, brown bark and a spider's web can be seen
+glinting faintly, stretching between two branches.  The trunk has grown into
+the wall knocking lose some block Seeming to be large enough to allow
+someone to crawl through it.  The flat slate stones have been uprooted from
+the trees incredible growth.  A clearing can be seen to the east it dotted
+wild flower and the flutters of the butterflies make it seem as a living
+rainbow moving in slow waves along the shore of the mighty forest.  
+~
+0 0 3
+D1
+~
+~
+0 0 19199
+D3
+~
+~
+0 0 19165
+S
+#19165
+A Rainbow Coloured Grove~
+This clearing stretches further southwards, being dotted with various
+wild flowers, creating a rainbow-like effect in the cropped grass.  Small
+butterflies flutter in there many hued wings, making the colours shift
+through grove, making the shift colours from greens to blue Then to reds
+making an almost hypnotic before you.  The scent of the sparkling
+wild flowers, give an intoxicating feel to the aura of the place.  The sound
+of running water can be heard to your east.  A small white stones path heads
+in that general directions.  
+~
+0 0 3
+D1
+~
+~
+0 0 19164
+D2
+~
+~
+0 0 19100
+S
+#19166
+A Wind Blown Passage~
+The darken cavern stretches ominously eastwards the silk stone seems to
+suck the light from the room.  A strong wind is sweeps past coming from the
+south and turning when it the wall heading east.  Various bit of debris
+bounces of anyone present in the room encircling them seeming to blow from
+almost every direction A large door encrusted with some sort of white
+crystalline stone can be seen to your east.  
+~
+0 9 0
+D1
+~
+~
+1 0 19126
+D2
+~
+~
+0 0 19168
+S
+#19167
+A Overgrown path~
+Thick grape vines cling to the pines pulling the branches down all around
+you.  There are several fresh grapes grow on the vines, sparkling with fresh
+moisture.  Several large rocks with runes carved in them jut out of the
+forest floor.  Huge stone rings can be seen to the south of the trail, and
+the path continues to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 19115
+D2
+~
+~
+0 0 19178
+S
+#19168
+A Forest Path ~
+White fern gather along the side of the trail, green shocks of leeks can
+be seen, peeking out between the foliage of glimmering whiteness.  Tall
+groupings of ash grow here, mixing with the bottoms of the hemlocks.  
+~
+0 0 3
+D0
+~
+~
+0 0 19166
+D1
+~
+~
+0 0 19169
+D2
+~
+~
+0 0 19156
+S
+#19169
+The First Ring~
+The first and outermost circle in a set of five concentric circles made
+of pale blue stones is evident here, their size comparable to a head.  The
+rings get consistently smaller in diameter the closer they are to the center
+of the hill.  The innermost ring contains five large stones with its axis
+pointed in the general direction of the sunrise, capped in lentil rocks of
+the same type.  
+~
+0 33554432 3
+D0
+~
+~
+0 0 19178
+D1
+~
+~
+0 0 19170
+D2
+~
+~
+0 0 19185
+D3
+~
+~
+0 0 19168
+S
+#19170
+The Second Ring~
+The sarsen stones are grey-blue in pigment, standing about two feet high.
+The growth of wild flowers in the majestic colours of the rainbow sets
+contrast with the snow-white ferns The circumference of the circle stretches
+north and south.  Three concentric ring cam be seen further east.  To the
+west there is a larger ring of smaller stones of the same tint.  
+~
+0 33554432 3
+D0
+~
+~
+0 0 19179
+D1
+~
+~
+0 0 19171
+D2
+~
+~
+0 0 19186
+D3
+~
+~
+0 0 19169
+S
+#19171
+The Third Ring~
+Circles of small obelisks encompass this portion of the mound, reaching
+straight to the skies.  Each stone is embedded with a symbol of the
+elements, light shimmering when it strikes the beveled pictures.  Some rowan
+trees mix with the yews and hemlock that grow from the ground that is
+littered with needles of a variety of shapes.  The patches of bright ferns
+glimmer between light and dark extremes of green.  
+~
+0 33554432 3
+D0
+~
+~
+0 0 19180
+D1
+~
+~
+0 0 19172
+D2
+~
+~
+0 0 19184
+D3
+~
+~
+0 0 19170
+S
+#19172
+The Fourth Ring~
+Saplings of aspen mixed with those of ash and red maple grow together in
+harmony here.  A variety of herbs those including mug wart, mandrake, gypsum
+and others are interspersed with sweet clover in this field.  There are
+large stones of blue-grey plotted in a perfect circle around this area.  The
+Circle lingers north and south, while the path leads to the east and west.  
+~
+0 33554432 3
+D0
+~
+~
+0 0 19181
+D1
+~
+~
+0 0 19182
+D2
+~
+~
+0 0 19183
+D3
+~
+~
+0 0 19171
+S
+#19173
+A Path~
+A stately tree with dark brown bark grows here, its translucent
+almond-shaped leaves growing in several layers.  The roots grow almost
+symmetrically, giving the base of the tree a star shape as they plunge into
+the dark soil surrounding it.  A ring of flowers grows around the base of
+the tree, their petals white that bleeds to purple at the tips.  
+~
+0 0 3
+D1
+~
+~
+0 0 19187
+D3
+~
+~
+0 0 19174
+S
+#19174
+The First Ring~
+The first and outermost circle in a set of five concentric circles made
+of pale blue stones is evident here, their size comparable to a head.  The
+rings get consistently smaller in diameter the closer they are to the center
+of the hill.  The innermost ring contains five large stones with its axis
+pointed in the general direction of the sunrise, capped in lentil rocks of
+the same type 
+~
+0 0 3
+D0
+~
+~
+0 0 19178
+D1
+~
+~
+0 0 19173
+D2
+~
+~
+0 0 19185
+D3
+~
+~
+0 0 19175
+S
+#19175
+The Second Ring~
+The sarsen stones are grey-blue in pigment, stand about two feet high. 
+The growth of wild flowers in the majestic colours of the rainbow sets
+contrast with the snow--white fern The circumference of the circle stretches
+north and south.  Three concentric ring cam be seen further west.  To the
+east there is a larger ring of smaller stones of the same tint.  
+~
+0 0 3
+D0
+~
+~
+0 0 19179
+D1
+~
+~
+0 0 19174
+D2
+~
+~
+0 0 19186
+D3
+~
+~
+0 0 19176
+S
+#19176
+The Third Ring~
+Circles of small obelisks encompass this portion of the mound, reaching
+straight to the skies.  Each stone is embedded with a symbol of the
+elements, light shimmering when it strikes the beveled pictures.  Some rowan
+trees mix with the yew and hemlock that grow from the ground that is
+littered with needles of a variety of shapes.  The patches of bright ferns
+glimmer between light and dark extremes of green.  
+~
+0 33554432 3
+D0
+~
+~
+0 0 19180
+D1
+~
+~
+0 0 19175
+D2
+~
+~
+0 0 19184
+D3
+~
+~
+0 0 19177
+S
+#19177
+The Fourth Ring~
+Saplings of aspen mixed with those of birch, ash and red maple grow
+together in harmony here.  A variety of herbs those including mug wart,
+field.  There are large stones of blue-grey plotted in a perfect circle
+around this area. The circle lingers north and south while the path leads to
+the east and west.  
+~
+0 33554432 3
+D0
+~
+~
+0 0 19181
+D1
+~
+~
+0 0 19176
+D2
+~
+~
+0 0 19183
+D3
+~
+~
+0 0 19182
+S
+#19178
+The First Ring~
+The first and outermost circle in a set of five concentric circles made
+of pale blue stones is evident here, their size comparable to a head.  The
+rings get consistently smaller in diameter the closer they are to the center
+of the hill.  The innermost ring contains five large stones with its axis
+pointed in the general direction of the sunrise, capped in lentil rocks of
+the same type.  
+~
+0 33554432 3
+D0
+~
+~
+0 0 19167
+D1
+~
+~
+0 0 19174
+D2
+~
+~
+0 0 19179
+D3
+~
+~
+0 0 19169
+S
+#19179
+The Second Ring~
+The sarsan stones are grey-blue in pigment, standing about two feet high.
+The growth of wild flowers in the majestic colours of the rainbow sets
+contrast with the snow-white ferns The circumference of the circle stretches
+east and west.  Three concentric ring cam be seen further north.  To the
+south there is a larger ring of smaller stones of the same tint.  
+~
+0 33554432 3
+D0
+~
+~
+0 0 19178
+D1
+~
+~
+0 0 19170
+D2
+~
+~
+0 0 19180
+D3
+~
+~
+0 0 19175
+S
+#19180
+The Third Ring~
+Circles of small obelisks encompass this portion of the mound, reaching
+straight to the skies.  Each stone is embedded with a symbol of the
+elements, light shimmering when it strikes the beveled pictures.  Some rowan
+trees mix with the yew and hemlock that grow from the ground that is
+littered with needles of a variety of shapes.  The patches of bright ferns
+glimmer between light and dark extremes of green 
+~
+0 33554432 3
+D0
+~
+~
+0 0 19179
+D1
+~
+~
+0 0 19171
+D2
+~
+~
+0 0 19181
+D3
+~
+~
+0 0 19176
+S
+#19181
+The Fourth Ring~
+Saplings of aspen mixed with those of birch, ash and red maple grow
+together in harmony here.  A variety of herbs those including mug wart,
+mandrake, gypsum and others are interspersed with sweet clover in this
+field.  There are large stones of blue-grey plotted in a perfect circle
+around this area.  The circle lingers east and west while the path leads to
+the north and south.  
+~
+0 33554432 3
+D0
+~
+~
+0 0 19180
+D1
+~
+~
+0 0 19172
+D2
+~
+~
+0 0 19182
+D3
+~
+~
+0 0 19177
+S
+#19182
+The Fifth Ring~
+Tall, blue-grey stones encircle you, easily overcoming the top of the
+tallest of the trees that grow here and reach high into the air.  The leaves
+of the trees move gently, turning from silver to green in the changing
+light, with sprigs of holly growing between their vast branches.  Deep green
+moss grows in abundance, fresh dew making it twinkle in the dimmest of
+lights.  Slabs of rock that are capped with similar stones in the shape of
+arcane symbols point to the {ga{yl{ct{ra{xr in the very center of the nexus
+of pathways.  The paths lead of in all directions from the large stone block
+~
+0 37748736 3
+E
+altar~
+A large altar sits in the center of the room, runes run along either
+side.  The center of this large block of stone shows four triangles of
+deferent direction with lines going thru them.  These are surrounded by a
+circle of knot work.  
+~
+D0
+~
+~
+0 0 19181
+D1
+~
+~
+0 0 19177
+D2
+~
+~
+0 0 19183
+D3
+~
+~
+0 0 19172
+S
+#19183
+The Fourth Ring~
+Saplings of aspen mixed with those of birch, ash and red maple grow
+together in harmony here.  A variety of herbs those including mug wart,
+mandrake, gypsum and others are interspersed with sweet clover in this
+field.  There are large stones of blue-grey plotted in a perfect circle
+around this area.  The circle lingers east and west while the path leads to
+the north and south.  
+~
+0 33554432 3
+D0
+~
+~
+0 0 19182
+D1
+~
+~
+0 0 19172
+D2
+~
+~
+0 0 19184
+D3
+~
+~
+0 0 19177
+S
+#19184
+The Third Ring~
+Circles of small obelisks encompass this portion of the mound, reaching
+straight to the skies.  Each stone is embedded with a symbol of the
+elements, light shimmering when it strikes the beveled pictures.  Some rowan
+trees mix with the yew and hemlock that grow from the ground that is
+littered with needles of a variety of shapes.  The patches of bright ferns
+glimmer between light and dark extremes of green.  
+~
+0 33554432 3
+D0
+~
+~
+0 0 19183
+D1
+~
+~
+0 0 19176
+D2
+~
+~
+0 0 19186
+D3
+~
+~
+0 0 19171
+S
+#19185
+The First Ring~
+The first outermost circle in a set of five concentric circles made of
+pale blue stones is evident here, their size is comparable to a head.  The
+rings get consistently smaller in the diameter the closer they are to the
+center of the hill.  The innermost ring contain five large stones with its
+axis pointed in the general direction of the sunrise capped in lentil rock
+of the same type.  
+~
+0 33554432 3
+D0
+~
+~
+0 0 19186
+D1
+~
+~
+0 0 19169
+D2
+~
+~
+0 0 19188
+D3
+~
+~
+0 0 19174
+S
+#19186
+The Second Ring~
+The sarsen stones are grey-blue in pigment, standing about two feet high.
+The growth of wild flowers in the majestic colours of the rainbow sets
+contrast with the snow-white fern The circumference of the circle stretches
+east and west.  Three concentric ring cam be seen further north.  To the
+south there is a larger ring of smaller stones of the same tint.  
+~
+0 33554432 3
+D0
+~
+~
+0 0 19184
+D1
+~
+~
+0 0 19175
+D2
+~
+~
+0 0 19185
+D3
+~
+~
+0 0 19170
+S
+#19187
+A Strange Clearing~
+A small wooden block is driven into the ground with strange markings
+burnt into it.  The tree growing to the north of it has pale, silvery bark
+and star-shaped purple leaves hanging majestically from its proud boughs. 
+From one branch dangles a very elaborate set of wind chimes that tinkle
+softly in the air.  Around this clearing stretches away the forest,
+seemingly without end 
+~
+0 0 3
+D2
+~
+~
+0 0 19198
+D3
+~
+~
+0 0 19173
+S
+#19188
+Further Along the Path~
+The white ferns gather to the side of the path here.  The chatter of
+squirrels can be heard in the distance, with a mix of sounds from the song
+birds.  Towering oaks stretch majestically to the sky.  The shimmer of the
+green to silver of their leaves give this place a surreal feeling, drifting
+to a long forgotten part of the forest.  Further to the north is a wide
+clearing inside of the large erected stones in a circular ring.  The path
+continues to the to the east and west.  
+~
+0 0 3
+D0
+~
+~
+0 0 19185
+D1
+~
+~
+0 0 19156
+D3
+~
+~
+0 0 19189
+S
+#19189
+White Ferns~
+White ferns stretch across the path here, interspersed with soft moss
+cover most of the rich brown soil.  Large trees with silver bark stretch
+their limbs overhead, their snowy white leaves and pink blossoms moving
+gently in even the lightest of breezes.  A swing has been constructed of
+wood and rope, tied to one of the sturdy branches of the tallest tree.  
+~
+0 0 3
+D1
+~
+~
+0 0 19188
+D3
+~
+~
+0 0 19199
+D5
+~
+~
+0 0 19163
+S
+#19190
+Falling~
+You fall swiftly through the air.  The rush of the water, ponds heavily
+in your ears.  The small pool can be seen far below you large rocks
+stretches out as if griping for you.  
+~
+0 0 9
+D1
+~
+~
+0 0 19193
+D5
+~
+~
+0 0 19199
+S
+#19191
+Falling ~
+You fall swiftly through the air.  The rush of the water, pounds heavily
+in your ears.  
+~
+0 0 9
+D4
+~
+~
+0 0 19154
+D5
+~
+~
+0 0 19153
+S
+#19192
+A Truly Mighty Tree~
+A tree spirals upward, twisting and turning toward the sky. Its limbs
+spread out widely, casting shade to the ground around it.  Lush grass and
+flowers grow here, mixed together in a pleasing disarray of colour. Bright
+mushrooms climb up the scarred, brown bark and a spider's web can be seen
+glinting faintly, stretching between two branches.
+~
+0 0 0
+D0
+~
+~
+0 0 19100
+D3
+~
+~
+0 0 19193
+S
+#19193
+Beaver Dam~
+A large tree has fallen, creating a dam in the brook and resulting in a
+small pond.  It looks like some beavers have been busy here, as well, with
+their small dens surrounding the once majestic tree.  The water falls gently
+down into the small pool below, soft bubbling sounds filling the air. 
+Clumps of soil make the crossing look dangerous but manageable.  A slip of
+foot here will send you sprawling down into the glen below.  
+~
+0 0 3
+D0
+~
+~
+0 0 19113
+D1
+~
+~
+0 0 19192
+D2
+~
+~
+0 0 19195
+D3
+~
+~
+0 0 19190
+S
+#19194
+Inside a Ring of Mushrooms~
+A countless sea of mushroom spores encompass the area.  Feel the aura of
+sleep fall upon you.  Looking out of this space, you can see the surrounding
+glen.  A green mist surrounding as the light filters through the leaves.  A
+rainbow can be clearly seen in the day, and they stars and distant lights
+flicker in the night 
+~
+0 0 3
+D0
+~
+~
+0 0 19198
+D1
+~
+~
+0 0 19198
+D2
+~
+~
+0 0 19198
+D3
+~
+~
+0 0 19198
+S
+#19195
+A Shimmering Tree~
+This tree stretches mightily into the air, its limbs spreading widely
+with no symmetry whatsoever.  The star-shaped leaves are a deep purple,
+almost black, colour that contrasts sharply with the silvery bark of this
+tree, which is smooth and pale like skin.  Truffles grow randomly amongst
+the roots that poke their way through the soil.  The spray of the waterfall
+changes them into majestic rainbows in the day light hours.  The log spans
+across the brook and the fluid rushes underneath it, spewing it down into
+the glen.  
+~
+0 0 3
+D0
+~
+~
+0 0 19193
+D1
+~
+~
+0 0 19193
+S
+#19196
+Around a Small Knoll~
+The path curves around a little knoll and a strange circular hole seems
+to be dug out there.  A single maple sprouts from the tiny knoll, draping
+its loving branches over this section of the trail.  Two petite buckets hang
+loosely with spickets running into the tree itself .  The animal tracks
+continue around the small hill, spanning to the east and west of the forest.
+~
+0 33554432 3
+D0
+~
+~
+0 0 19195
+D3
+~
+~
+0 0 19197
+S
+#19197
+A Steep Incline~
+This would prove a difficult climb for those who cannot fly due to the
+loose and bare earth covering the incline.  The slope stretching endlessly
+over the bank of the brook, a path has been carved out of the soil.  Running
+east and west there is a small hovel dug out of the dirt which seems to be
+made from some burrowing animal.  There are several types of footprints on
+the ground.  
+~
+0 0 0
+D1
+~
+~
+0 0 19196
+D5
+~
+~
+0 0 19198
+S
+#19198
+Further Into the Glen~
+The sound of cascading water can be heard all around this place.  Large
+hemlocks stretch into the canopy above.  The chirping sounds of birds can be
+heard hidden away in the pines a game trail heads up over the top of a
+ravine.  The east there is a large oak tree stretching above a ring of
+speckled mushrooms.  The path continues north and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 19187
+D2
+~
+~
+0 0 19199
+D4
+~
+~
+0 0 19197
+S
+#19199
+A Glen~
+Most of the trees have been cleared away by nature's grace, except for a
+large willow on the edge of a small babbling brook.  The crystal clarity of
+this small source of water proves to be a marvel as large, moss-covered
+stones peek from beneath its surface.  The sound of falling water can be
+heard, collecting in a pool of water underneath a large expanse of rock wall
+from the gentle cascade of a small waterfall.  The clearing has
+criss-crossing game trails leading in all directions.  
+~
+0 33554432 3
+E
+edit~
+~
+E
+brook~
+This small brook bubble over some moss-covered stones.  The water clarity
+is as the finest crystal.  As you look closer you see leaves hanging in mid
+air on strings of webbing from the strands run every direction, and this
+make shift bridge runs along the rocks.  You notice small balls of light
+twinkling on the spanning leaves.  The brook flows out of the glen to the
+south.  
+~
+D0
+~
+~
+0 0 19198
+D1
+~
+~
+0 0 19189
+D2
+~
+~
+0 0 19151
+D3
+~
+~
+0 0 19164
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 19100 spec_thief Load to: a black and purple winged faery
+M 19101 spec_cast_cleric Load to: a white winged faery
+M 19103 spec_nasty Load to: a swarm of wasps
+M 19109 spec_breath_gas Load to: a statue of an elven figure
+M 19110 spec_cast_adept Load to: Elisdor, the ranger captain
+M 19111 spec_cast_mage Load to: Ashe
+M 19115 spec_fido Load to: a toadstool
+M 19117 spec_cast_cleric Load to: an ent
+M 19119 spec_breath_lightning Load to: a phase spider
+M 19124 spec_cast_mage Load to: Brilgnon
+S
+
+
+
+#RESETS
+D 0 19102 1 0
+D 0 19102 3 0
+D 0 19103 5 0
+D 0 19104 2 0
+D 0 19110 4 0
+D 0 19112 0 0
+D 0 19112 1 0
+D 0 19112 3 0
+D 0 19114 0 0
+D 0 19114 1 0
+D 0 19118 2 0
+D 0 19124 0 0
+D 0 19125 2 0
+D 0 19126 3 0
+D 0 19128 0 0
+D 0 19128 2 0
+D 0 19129 0 0
+D 0 19129 3 0
+D 0 19130 2 0
+D 0 19131 2 0
+D 0 19132 3 0
+D 0 19133 1 0
+D 0 19143 2 0
+D 0 19144 0 0
+D 0 19157 4 0
+D 0 19158 5 0
+D 0 19163 0 0
+D 0 19166 1 0
+M 0 19101 1 19100
+M 0 19118 7 19100
+O 0 19102 0 19102
+O 0 19120 0 19105
+M 0 19103 1 19106
+O 0 19107 0 19107
+M 0 19118 1 19107
+O 0 19109 0 19112
+M 0 19109 1 19112
+E 0 19110 0 12
+O 0 19113 0 19113
+M 0 19115 1 19115
+O 0 19116 0 19116
+M 0 19116 2 19116
+E 0 19122 0 9
+E 0 19117 0 16
+O 0 19103 0 19117
+M 0 19119 1 19118
+M 0 19112 1 19121
+M 0 19113 1 19121
+M 0 19105 5 19122
+E 0 19132 0 12
+E 0 19129 0 8
+E 0 19135 0 15
+E 0 19135 0 14
+G 0 19114 0
+G 0 19101 0
+E 0 19133 0 16
+E 0 19128 0 9
+E 0 19111 0 3
+E 0 19130 0 13
+E 0 19127 0 7
+E 0 19126 0 5
+M 0 19107 4 19123
+O 0 19101 0 19147
+M 0 19104 1 19147
+O 0 19142 0 19150
+O 0 19108 0 19151
+O 0 19108 0 19152
+O 0 19199 0 19153
+O 0 19136 0 19153
+O 0 19101 0 19155
+M 0 19104 3 19156
+O 0 19120 0 19156
+O 0 19137 0 19158
+M 0 19110 1 19158
+E 0 19139 0 3
+E 0 19126 0 5
+E 0 19127 0 7
+E 0 19129 0 8
+E 0 19132 0 27
+E 0 19134 0 23
+E 0 19134 0 25
+E 0 19135 0 14
+E 0 19135 0 15
+E 0 19138 0 16
+O 0 19108 0 19159
+O 0 19120 0 19160
+O 0 19108 0 19160
+O 0 19101 0 19161
+O 0 19108 0 19161
+M 0 19118 1 19161
+O 0 19108 0 19162
+M 0 19111 1 19162
+E 0 19115 0 16
+G 0 19141 0
+E 0 19106 0 6
+E 0 19110 0 5
+M 0 19101 1 19162
+M 0 19119 1 19163
+M 0 19118 3 19164
+M 0 19118 5 19165
+O 0 19119 0 19166
+M 0 19119 1 19166
+M 0 19118 1 19170
+O 0 19101 0 19170
+M 0 19115 3 19171
+M 0 19118 1 19172
+O 0 19101 0 19172
+M 0 19118 1 19175
+O 0 19101 0 19175
+M 0 19115 4 19176
+M 0 19118 1 19177
+O 0 19101 0 19177
+M 0 19118 1 19179
+O 0 19101 0 19179
+M 0 19118 1 19181
+O 0 19101 0 19181
+O 0 19101 0 19182
+M 0 19117 1 19182
+E 0 19140 0 24
+E 0 19115 0 16
+M 0 19118 9 19182
+M 0 19118 3 19183
+O 0 19101 0 19183
+O 0 19120 0 19184
+M 0 19118 4 19186
+O 0 19101 0 19186
+M 0 19114 2 19187
+E 0 19123 0 12
+E 0 19119 0 16
+O 0 19104 0 19188
+M 0 19100 2 19189
+E 0 19100 0 16
+M 0 19105 1 19192
+M 0 19193 1 19193
+M 0 19115 1 19194
+O 0 19120 0 19195
+M 0 19115 4 19195
+M 0 19114 4 19196
+M 0 19101 2 19198
+O 0 19198 0 19198
+O 0 19199 0 19199
+O 0 19150 0 19199
+M 0 19102 1 19199
+E 0 19105 0 3
+E 0 19106 0 6
+M 0 19106 2 19199
+E 0 19106 0 6
+O 0 19108 0 19199
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

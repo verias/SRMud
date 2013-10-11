@@ -1,0 +1,6190 @@
+#AREADATA
+Name { IMM } RODCo   Realm of the Gods~
+Builders Auapia Ethran Evian~
+VNUMs 1200 1550
+Security 1
+End
+
+
+
+#MOBILES
+#1200
+Heimdall~
+Heimdall~
+Heimdall, guardian of Bifrost, stands guard over the Rainbow Bridge.
+~
+~
+Human~
+A CDFJZ 1000 S
+57 30 1d1+19999 1d1+499 5d4+40 8
+-20 -20 -20 -10
+ACDEFHIKLNOT ABP CD 0
+9 9 1 256
+AHMV ABCDEFGHIJK L unknown
+#1201
+Heimdal~
+Heimdal~
+Heimdal, guardian of Bifrost, stands guard over the Rainbow Bridge.
+~
+Standing over 7 feet tall and muscled as only a god can be, Heimdall keeps
+his unsleeping gaze over the Rainbow bridge.  His trusty Gjallor-horn never
+leaves his side, and shall remain unwinded until the dread ship Naglfar sails
+towards Valhalla on the dawn of Ragnarok 
+~
+Human~
+A CDFJZ 1000 S
+99 30 1d1+19999 1d1+499 5d4+40 8
+-20 -20 -20 -10
+ACDEFHIKLNOT ABP CD 0
+9 9 1 445
+AHMV ABCDEFGHIJK L unknown
+#1202
+falcon guard~
+the falcon guard~
+A falcon guard watches the skies for attack.
+~
+A man garbed in a brown feathered cloak patrols the catwalk, watching for
+trouble to arrive by the air.  
+~
+Gargoyle~
+A TZ 200 S
+92 0 12d1064+2679 0d0+0 8d18+21 17
+-40 -40 -40 -15
+EF J LS KS
+9 9 1 414
+ACGHMVXc ABCDEFGHIJKLOPUVW M unknown
+#1203
+slave~
+Nyobe's Guamian love slave~
+A small elflike being is here looking for Nyobe.
+~
+A small elflike goddess is here that looks suspiciously like Lisen, Her name is Liselle and she keeps Nyobe company whilest Lisen is away.
+~
+unique~
+A JPQ -1000 S
+99 0 12d1352+3077 6d599+40 10d19+4 19
+0 0 0 0
+0 0 B Z
+9 9 2 445
+AHMV ABCDEFGHIJK M unknown
+#1204
+Tybalt kitten~
+Tybalt~
+{CTybalt attacks your ankle and then curls up in your lap asleep.
+~
+Tybalt is a fiesty little kitten, fur of whorled grey strips sticking out
+as he gets ready to pounce.  His blue eyes are intent on your shoelaces.
+~
+Cat~
+A PVZ 1000 S
+92 25 12d1064+2679 10d10+10 8d18+21 5
+-50 -50 -50 -20
+FHM 0 IM R
+9 9 1 414
+AGV ACDEFHJKQUV S unknown
+#1205
+warrior skeletal~
+a skeletal warrior~
+A skeletal Warrior is here, guarding Despoth's room.
+~
+The skeleton seems quite grumpy, having to stand around waiting for
+someone to come along.  He is dressed in a loin cloth and a shirt that says
+"All Hail Despoth!"  
+~
+Ghost~
+A DTU -1000 S
+99 0 12d1352+3846 99d10+100 6d11+28 21
+-45 -45 -45 -18
+FGHKO Q AIK CHNS
+9 9 1 445
+CIKLM ABCDEFGHIJKLM M unknown
+#1206
+shopkeeper skeletal~
+a skeletal shopkeeper~
+A Skeletal Shopkeeper stands here, awaiting your order.
+~
+This skeleton looks somewhat happy.  Hey, you have your own shop and a
+bunch of gold, wouldn't you be happy?  
+~
+Ghost~
+A TU -500 S
+99 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 A C
+9 9 0 445
+CIKLM ABCDEFGHIJKLM M unknown
+#1207
+test mount pet~
+A mountable slave~
+A mountable slave is here
+~
+~
+Human~
+A 0 0 S
+10 0 10d10+10 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 0 45
+AHMV ABCDEFGHIJK M unknown
+#1208
+purple flying eater people~
+a flying purple people eater~
+{mA Flying Purple People Eater is here, being purple, flying, and eating people!
+~
+He is a huge, flying, winged creature that eats people.  What else do you
+expect from a {mFlying Purple People Eater{x??  
+~
+Gargoyle~
+A TVZ -750 S
+30 100 10d60+520 10d60+520 0d0+0 29
+40 40 40 15
+CDEFGHIJKMNO ACEHIJN BCDEFGHIJKLMNOPQRS KS
+9 9 0 135
+ACGHMVXc ABCDEFGHIJKLOPUVW G unknown
+#1209
+goo blob~
+a tiny blob of poo~
+A tiny blob of poo runs around the room.
+~
+~
+unique~
+A J 0 S
+25 0 8d48+400 0d0+0 3d5+7 0
+0 0 0 0
+0 0 B 0
+9 9 2 112
+ACGHMV ABCDEFGHIJKMQUV M unknown
+#1210
+figure faceless~
+a faceless guardian~
+A faceless figure made entirely of shadows looms before you.
+~
+The ghostly spectre is totally devoid of life.  He wears only the bare
+steel of a glinting red broadsword and stands perfectly still, prepared. 
+From a faceless head there issues a sibilant hiss, like the sound of
+shifting sands.  
+~
+Ghost~
+A DTU -1000 S
+102 26 12d1397+3920 0d0+0 6d11+29 3
+-40 -40 -40 -15
+0 Q AHIJ CN
+9 9 1 459
+CIKLM ABCDEFGHIJKLM M unknown
+#1211
+horse pet shapeshifter~
+a horse-looking pet~
+You see a pet that currently looks like a horse.
+~
+The pet is a shapeshifter, but currently looks like a horse.  It has
+sharp fangs and looks vicious.  It has the number 000 imprinted on its leg. 
+~
+Shapeshifter~
+A 0 0 S
+103 0 13d1539+4149 103d100+1000 6d11+29 18
+-52 -52 -52 -21
+EFIMNRS ABCHILPQR 0 0
+9 9 3 463
+ACGHMV ABCDEFGHIJKMQUV G unknown
+#1212
+Stinkerpinker~
+the stinkerpinker~
+A stinkerpinker stands, frozen before you, caught off guard by your arrival.
+~
+This stinkerpinker looks at you through a mischievious smile, and you
+realize that the end may be near as she giggles happily.  
+~
+Nymph~
+A BHNPV -50 S
+99 0 12d1352+3846 99d10+100 6d11+28 22
+-51 -51 -51 -20
+CFGILN 0 0 I
+9 9 2 445
+ACGHMV ABCDEFGHIJKMQUV S unknown
+#1213
+minotaur~
+a minotaur~
+A large Minotaur is standing here, with a savage look of hunger in his eyes.
+~
+~
+Bear~
+A 0 -500 S
+99 0 12d1352+3846 99d10+100 6d11+28 0
+-51 -51 -51 -20
+DEO 0 EI 0
+9 9 1 445
+AGV ABCDEFHJKPUV M unknown
+#1214
+kiki monkey~
+Kiki the sad monkey~
+Kiki the sad monkey sits here sobbing in the corner.
+~
+Kiki is a very very sad monkey.  For some reason or another, he's been
+morally crushed and seems to keep pummeling downwards into a spin of
+depression.  He stands here with his head on his little monkey chest, tears
+streaming down his little monkey face.  As Kiki looks up at you, a strong
+rememberance of what has gone on in his life overwhelms him.  He looks
+almost suicidal in this tedious state of mind.  You get a feeling that he
+doesn't like violence, and will do whatever it takes to stop it.  So have no
+fear, Kiki is here.  
+~
+Song Bird~
+A BCDEFHJNOPQTUVZc 0 S
+100 0 12d1397+3920 100d10+100 6d11+29 18
+-52 -52 -52 -21
+BCEFHIJKLMNOP A N M
+9 9 1 450
+AGVW ACDEFHKOP S unknown
+#1215
+mario chef~
+Mario~
+Mario the Chef stands before you, spinning pizza dough in the air.
+~
+~
+Human~
+A 0 0 S
+100 0 12d1397+3920 100d10+100 6d11+29 0
+-52 -52 -52 -21
+0 0 0 0
+9 9 0 450
+AHMV ABCDEFGHIJK M unknown
+#1216
+assassin cloak drow~
+a tall and slender drow assassin~
+This drow assassin is tall and slender, cloaked in black from head to foot.
+~
+Before you stands the tall and willowy form a female drow.  It is heavily
+cloaked in rippling black folds that reveal little beside glowing yellow
+eyes.  The form's figure is dileneated only by the drape of the dark cloth. 
+Ocassionally a flash of teeth or smoothly skinned black limb can be seen.  
+~
+Drow~
+A JOV -500 S
+50 0 10d167+1149 50d10+100 5d6+13 2
+-9 -9 -9 -7
+BEFHIJKN 0 B 0
+9 9 2 225
+AHMV ABCDEFGHIJK M unknown
+#1217
+a priestess~
+A drow priestess~
+A drow priestess dressed in blood red robes stands here.
+~
+This dark skinned elf is dressed solely in a long blood red robe.  Her
+hair is completly white and tied back close to her head.  Around her neck
+hangs a long tailsman with a large sparkling ruby in it.  Her slate gray
+eyes are outlined in a reddish glow to that of her ruby.  She holds a long
+staff with a black glowing symbol set on top of it.  
+~
+Drow~
+A DFJPQZ -1000 S
+50 0 10d167+1149 50d10+100 5d6+13 0
+-9 -9 -9 -7
+0 0 B 0
+9 9 2 225
+AHMV ABCDEFGHIJK M unknown
+#1223
+Dank~
+a guard-dog~
+Dank stare at you with his blood red eyes, and growls.
+~
+A large wolf-dog covered in all black fur.
+His fangs are about the size of a humans arm.
+~
+Wolfen~
+A FJSZ -1000 S
+92 50 10d167+919 1d1+10 5d10+23 5
+-21 -21 -21 -19
+DFH CD I H
+9 9 1 414
+AGHMV ABCDEFGHIJKLPQUV L unknown
+#1224
+Verkcalus~
+Verkcalus the Dragon~
+Verkcalus the dragon is here, pondering.
+~
+You see before you a Large portley being that can best be described as a
+Dragon.  He has red scales with black patchs covering his body, but as you
+look at him the more you notice that his scales are changing colour and
+pattern.  His eyes are large and golden.  You detect a slight wheezing and
+he coughs and splutters occasionally.  But despite what looks like a few
+superfical frailty the feeling of power he gives off makes the hairs on the
+back of your neck stand up.  
+~
+Wyvern~
+A DFT 0 S
+90 55 12d999+2555 20d20+20 8d18+25 19
+-40 -40 -40 -50
+CFHO ABHL CH ES
+6 6 1 405
+ABCGHZc ACDEFHJKOPQUVX H unknown
+#1225
+tremere mage~
+Tremere~
+An Old Mage stands here guarding in the shadows.
+~
+The man seems to be wearing old clothes.  You can simply discern that
+this man is a mage.  He seems to be wearing some old pendent.  
+~
+Shiriff~
+ABTW DEFc -25 S
+10 10 3d8+12 20d6+300 3d5+0 18
+0 0 0 0
+LP ABQ P CN
+9 9 1 45
+AHMV ABCDEFGHIJK L unknown
+#1227
+Y'gael old woman shopkeeper~
+The old woman~
+An old Woman stands behind the counter, waiting to do business with you.
+~
+~
+Human~
+A 0 0 S
+101 0 13d100+600 15d20+0 10d20+30 0
+0 0 0 0
+0 ABCDEFGHIJKLMNOPQS 0 0
+9 9 2 454
+AHMV ABCDEFGHIJKW M unknown
+#1228
+sea elf~
+a simple sea elf~
+A simple sea elf lies here, floating on the sea.
+~
+~
+unique~
+A DJPQb 250 S
+50 50 50d167+919 10d10+100 5d10+25 0
+3 3 3 3
+CFKR IR BS GHZ
+9 9 1 225
+AHMV ABCDEFGHIJK M unknown
+#1229
+Wahaken Soilder~
+wahaken warrior~
+A wahaken warrior is here looking for intruders
+~
+You see a tall warrior standing before you.
+His armor is bright and shiney, his sword is in his hand ready for combat.
+His eyes are black, and his skin is  coverd in brands of what look like magical symbols
+~
+Human~
+A 0 0 S
+20 20 6d39+235 1d1+10 4d5+10 2
+-10 -10 -10 -2
+EFK B G C
+9 9 1 90
+AHMV ABCDEFGHIJK M unknown
+#1230
+gerbil giant space~
+giant space gerbil~
+The evil Giant Space Gerbil is here, growling and foaming at the mouth.
+~
+~
+Cat~
+A VZa -1000 S
+99 100 200d200+200 500d500+500 200d200+200 10
+50 50 50 50
+BDEFGHO 0 0 0
+9 9 0 445
+AGV ACDEFHJKQUV H unknown
+#1234
+watchman nightwatchman~
+Bob the nightwatchman~
+Bob looks at you warily, twirling his nightstick.
+~
+Bob the nightwatchman has the job of protecting the palace and the
+museum.  Bob does his job well.  Don't talk to Bob.  He looks busy.  
+~
+Human~
+A DFPU 0 S
+100 10 99d99+999 1d1+10 1d1+1 13
+-4 -4 -4 3
+0 0 BS J
+9 9 1 450
+AHMV ABCDEFGHIJK M unknown
+#1235
+car mustang~
+a '65 Mustang~
+A '65 Mustang sits here, looking shiny and new.
+~
+~
+Human~
+A S 1000 S
+99 100 0d0+0 600d600+600 1000d1000+1000 20
+50 50 50 50
+0 0 0 0
+9 9 0 445
+AHMV ABCDEFGHIJK L unknown
+#1240
+tressym sylph cat~
+{Ran {yorange{R cat{x~
+{BA cat sits happily on {WGith's{B shoulder.{x
+~
+{BResting on {WGithilintar's{B shoulder is a beautiful {yorange{B cat.  Her
+{Ggreen{B eyes stare out at you, probing you, questioning you.  She stands up
+on {WGith's{B shoulder and jumps up above his head.  Beautiful {yorange{B wings
+unfurl, their {Rblazing{B color changing to {Rdeep red{B as it nears the tips.
+She soars high above, and swoops down, then levels off at head height and
+flies out for a bit, then returns to {WGith's{B shoulder, folding her wings
+under her.  She's turns her head and in perfect common says, {W"{CYou've never
+seen a Tressym before?{W"{x
+~
+Cat~
+A ENTVZ 1000 S
+100 60 10d200+1500 10d100+500 10d10+50 5
+-7 -7 -7 -7
+EFHIM L BQ R
+9 9 2 450
+ACGV ACDEFHJKOQUV S unknown
+#1241
+knight of order~
+a Knight of Order~
+This tall, regal man moves about with a purpose.
+~
+~
+Human~
+A 0 0 S
+101 30 13d1446+3994 101d10+100 6d11+30 0
+-45 -45 -45 -40
+CEFGHIKN ABP CD 0
+9 9 1 454
+AHMV ABCDEFGHIJK M unknown
+#1243
+no name~
+(no short description)~
+(no long description)
+~
+~
+Wolfen~
+A FJZ 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+FH 0 BIQ HSZ
+9 9 0 0
+AGHMV ABCDEFGHIJKLPQUV M unknown
+#1244
+prisoner~
+a prisoner~
+A prisoner growls at you.
+~
+This ghastly figure seems like it was a dwarf before it passed on.  After
+it did die, it never left this place and has stayed here to haunt it.  As
+the ghost moves closer to you, you see his cold, pale face and the area
+around you gets a slight bit colder than it previously was.  
+~
+Ghost~
+A TUZ 1000 S
+99 5 12d1352+3846 99d10+100 6d11+28 13
+-51 -51 -51 -20
+C 0 A C
+5 9 1 445
+CIKLM ABCDEFGHIJKLM S unknown
+#1250
+beast chaos~
+the beast of chaos~
+A fuzzy looking beast of primal chaos.
+~
+This beast is strange looking. You can't quite grasp what you are looking at. It alters form and seems distincly, well, fuzzy.
+~
+Human~
+A H 0 S
+80 10 10d5+5 1d10+10 5d5+20 26
+-20 -19 -21 -1
+E AK 0 0
+9 9 0 360
+AHMV ABCDEFGHIJK H unknown
+#1255
+fox trapped desperate~
+a trapped fox~
+A desperate fox is caught in a trap, vainly attempting to free itself.
+~
+This poor fox managed to stumble on to a hunter's trap, and 
+looks as if he has been stuck here for days.  He appears to 
+be on his last leg and desperate to lash out at anything coming
+his way.
+~
+Fox~
+A Za -225 S
+6 15 2d5+50 1d1+50 3d4+2 10
+7 6 7 8
+FHM P B LQ
+6 9 3 27
+AGV ACDEFHJKPQUV S unknown
+#1258
+matthew raven~
+Matthew the raven~
+Matthew, the Dream King's raven is here, silently looking at you.
+~
+Matthew, the raven of the Dream-king, croaks a low caw, hopping from one
+foot to another, examining you silently with his dark eyes.  
+~
+Song Bird~
+A ET 0 S
+51 0 11d175+1186 51d10+100 5d6+15 23
+0 0 0 0
+FH 0 0 Y
+9 9 1 229
+AGW ACDEFHKOP M unknown
+#1259
+no name~
+(no short description)~
+(no long description)
+~
+~
+Dog~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+H N 0 0
+9 9 1 0
+AGV ACDEFHJKPUV M unknown
+#1260
+Jasmine puppy~
+puppy dog~
+A cute looking puppy named Jasmine is here.
+~
+You see before you a rather large puppy.  She is light brown and her hair
+is not very long.  On her collar is a name tag and it reads "Hello, my name
+is Jasmine."  Her large brown eyes beg for attention.  Her tail wags slowly
+waiting for someone to pet her.  
+~
+Dog~
+A a 0 S
+22 3 7d42+267 22d10+100 4d6+10 10
+-2 -2 -2 3
+CEHR L PQ CK
+5 5 2 99
+ABGV ACDEFHJKPQUV L unknown
+#1261
+cat dinrel~
+a cat~
+A big ball of fur otherwise known as Dinrel, lurks here.
+~
+Dinrel is covered in nothing but fur.  He has long white hair that drags
+on the ground as he walks.  His eyes are green and piercing.  He's got a
+little bit of hair that stands up on the tops of his ears, and he's been
+neatly combed.  
+~
+Cat~
+A PZ 1000 S
+10 1 3d23+96 10d10+100 2d5+5 1
+4 4 4 7
+FH 0 0 E
+9 9 1 45
+AGV ACDEFHJKQUV S unknown
+#1264
+barnabas dog~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 0 0
+AHMV ABCDEFGHIJK M unknown
+#1265
+musician forgotten~
+a forgotten musician~
+A musician stands here, looking for his fellows.
+~
+A young musician wanders around, blindly looking for his lost fellows.
+His eyes are blood shot and streaks of grey shoot through his dark locks,
+which is rather disturbing considering his young age. He tightly clutches
+his lute and stares out into the mist.
+~
+Human~
+A H 300 S
+90 4 3d23+98 3d10+180 3d6+2 13
+4 3 4 5
+CEFI AN C P
+9 9 1 405
+AHMV ABCDEFGHIJK M unknown
+#1267
+old, ugly witch~
+an ugly, old witch~
+You see an ugly, old witch talking to herself.
+~
+The witch is very very ugly.  She appears to be about two hundred years
+old and has many more wrinkles than that.  You can almost see through her.  
+~
+unique~
+A TU -5 S
+40 40 20d20+20 20d20+20 20d20+20 19
+0 2 0 5
+BGN 0 0 CN
+9 9 2 180
+AHMV ABCDEFGHIJK M unknown
+#1272
+road-worn ivory-haired old hierophant aged druid~
+an aged, bedraggled ivory-haired hierophant~
+A road-worn, ivory-haired old hierophant stands here amongst the trees.
+~
+Your gaze passes over the area and focuses in suddenly on a befuddled-
+looking old man. He appears to be a casual observer, though you sense
+something more in his glowing amber eyes. A sort of arcane wisdom seems
+to radiate from him making for a figure that some might call imposing.
+~
+Human~
+A JQ 0 S
+50 0 10d167+900 1000d1+4000 5d6+14 0
+-21 -21 -21 -5
+AF ALQ C P
+9 9 1 225
+AHMV ABCDEFGHIJK M unknown
+#1277
+aribulda barkeeper bartender man~
+Aribulda~
+Aribulda the barkeeper stands here, serving people their drinks.
+~
+Before you stands Aribulda, the barkeeper of A Crease in Time.  Aribulda
+is a strong, well built man, though you expect his skills have been
+artificially enhanced so he can better protect his famous bar.  He appears
+to be human, but not overly so, as there is an air about him that sets him
+apart from the rest of the so called "people" in the bar.  He carries
+himself as a champion, but treats his customers with respect unless they get
+overly roudy.  
+~
+Human~
+A V 0 S
+78 0 11d624+2471 78d10+100 5d10+23 27
+-38 -38 -38 -14
+0 R 0 0
+9 9 1 351
+AHMV ABCDEFGHIJK M unknown
+#1278
+rockets rides executive anelia~
+A Rockets and Rides company executive~
+An executive of the Rockets and Rides company, based in the Terellium system, sits at a table sipping some fine ale.
+~
+Before you sits an executive of the universally famous Rockets and Rides
+company.  Rockets and Rides started out as a very small company, but after
+new developments in the space travel industry, it has become one of the
+leading buisnesses in the field.  The executive himself is in a silver made
+shotteral suit, trimmed with dilennium truoplets that emphasize his forearm
+areas.  He sits alone, trying desperatly to drown his troubles in a sea of
+acidic dorphane.  
+~
+Human~
+A 0 0 S
+54 0 11d205+1304 54d10+100 5d7+15 16
+-23 -23 -23 -6
+0 0 0 0
+7 7 1 243
+AHMV ABCDEFGHIJK M unknown
+#1284
+gray big wolf~
+a big grey wolf~
+A big fearsome grey wolf growls at you.
+~
+A low growl slips the lips of this big wolf as you stare at him.  He
+stands near his master ready to protect him, his marble sharp teeth snaps as
+he suddenly closes his jaw and you can only imagine what that sanp will do
+if it was your hand between those jaws.  He is a big wolf so big that a
+human can ride him.  His {Ksilver grey{x pelt spreads a soft glow around him and
+his {y{Yyellow{x eyes seem a bit to wise for a wolf.  His legs are strong and the
+muscles are easy to spot.  His master says something and he push his legs
+and springs high into the air.  He lands with ease and grace, in his mouth
+he now holds a dead sparrow.  His master says another word and he drops the
+sparrow and lies down.  Even when lying his eyes are in constant search of
+danger.  
+~
+Wolfen~
+A FJNPSVZab 0 S
+100 100 12d1352+3850 100d10+100 6d11+29 5
+-50 -50 -55 -25
+CFHM 0 EI FHY
+9 9 1 450
+AGHMV ABCDEFGHIJKLPQUV L unknown
+#1285
+griffin~
+a proud griffin~
+A proud Griffin, flaps his wings agitatedly.
+~
+A proud creature stands before you.  All its might and glory reflecting
+from his green eyes.  His eagle head on the body of a lion and the white
+feathered wings categorize this creature as a Griffin.  
+~
+unique~
+A T 0 S
+101 100 10d10+10 10d10+50 10d10+10 5
+-10 -10 -10 0
+AEFHILMS I C HL
+9 9 0 454
+ACGHMV ABCDEFGHIJKMOQUV L unknown
+#1286
+girl child small nanshi~
+Nanshi~
+A small girl sits crosslegged in the rays of sunlight.
+~
+A small elven girl rests in the warm sunlight that comes through the
+window.  Her long dark hair flows down to the floor, spread out on the
+carpet, gleaming with a hint of purple in the light.  As you look at her,
+she points to the shelf holding 7 books of the rainbow.  
+~
+unique~
+A J 0 S
+110 0 12d991+3214 90d10+100 5d11+28 0
+-46 -46 -46 -18
+0 0 B 0
+4 4 2 495
+AHMV ABCDEFGHIJK S unknown
+#1287
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 0 0
+AHMV ABCDEFGHIJK M unknown
+#1288
+practice dummy~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 S
+0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+9 9 0 0
+AHMV ABCDEFGHIJK M unknown
+#1294
+shopkeeper~
+a shopkeeper~
+A shopkeeper is here, selling all kinds of underwater merchandise.
+~
+~
+Human~
+A 0 0 S
+13 0 10d10+100 10d10+100 10d10+100 0
+0 0 0 0
+0 ABDER BDE 0
+9 9 2 58
+AHMVb ABCDEFGHIJK L unknown
+#1295
+sea serpent~
+Sea Serpent~
+A Sea Serpant known as, "The Rapture of the Deep," is here.
+~
+~
+unique~
+A 0 -1000 S
+100 0 4d4+4 0d0+0 0d0+0 0
+0 0 0 0
+0 ABCHLR BDL IJKSYZ
+9 9 1 450
+ACGHMVXc ABCDEFGHIJKMQUV G unknown
+#1296
+Morritts~
+desc a small, cute, mangy, red dog~
+A small, cute, mangy, red dog is here.
+~
+~
+Dog~
+A CEFJNPSU 0 S
+102 0 13d1491+4088 102d10+100 6d11+30 31
+-100 -100 -100 -100
+CEGHIJKLMNO BCDEH 0 0
+9 9 1 459
+AGV ACDEFHJKPUV T unknown
+#1297
+angelfish fish~
+A Beautiful Angelfish~
+A Beautiful Angelfish is here, fanning her fins in the gentle current.
+~
+~
+Human~
+A 0 1000 S
+0 2 1d2+0 0d0+0 0d0+0 0
+0 0 0 0
+0 ABR BR FGHJ
+9 9 2 0
+AHMV ABCDEFGHIJK S unknown
+#1299
+Stone Cold~
+Stone Cold~
+The Rock is here, smoking and fuming.
+~
+Supreme, courageous, omniscient, Brysaar, nopurge.  Need more?
+~
+Giant~
+A BCDEFHNPQTUVbc 1000 S
+104 0 1000d20+10000 1000d20+10000 1000d20+10000 20
+-100 -100 -100 -100
+BCEFHIJKNO ABCDEFGHIJKLMNOPQRS HI JP
+9 9 1 468
+AHMV ABCDEFGHIJK G unknown
+#1300
+Shadowy Slave~
+A Shadowy Slave~
+A Shadowy Slave passes by
+~
+This is Shadowman's personal slave of destruction.  It follows his every
+command and never disobeys orders.  It will annihilate whomever it attacks. 
+You can barely even see this figure of mist.  It is a literal shadow.  
+~
+Human~
+A 0 -1000 S
+99 24 12d1352+3846 99d10+100 6d11+28 18
+-51 -51 -51 -20
+0 0 0 0
+9 9 1 445
+AHKMV ABCDEFGHIJK G unknown
+#1301
+skeletal crusader~
+a skeletal crusader~
+A skeletal crusader leaps at you!
+~
+~
+Ghost~
+A TU 0 S
+12 0 4d26+151 12d10+100 2d4+0 0
+2 2 2 6
+0 0 A C
+9 9 0 54
+CIKLM ABCDEFGHIJKLM M unknown
+#1320
+batwinged figure girl~
+a bat-person~
+A tiny batwinged girl darts about.
+~
+This tiny figure seems to be a bat-winged girl that possesses an amazing
+other-worldly beauty her long black hair trails out behind her as she flies
+about, attempting to clean and tidy her surroundings.  She flashes you a
+smile as she spots you looking at her nearly nude body.  Now that her face
+has been clearly seen, you notice that her teeth are pointed and her eyes
+are totally black, lacking both whites and color.  
+~
+Doll~
+A T -1000 S
+20 0 6d39+294 20d10+100 3d5+4 10
+-2 -2 -2 4
+H CQ ES GHJKNO
+9 9 2 90
+EHJMVc ABCGHK T unknown
+#1321
+imposing shadow~
+an imposing shadow~
+An imposing shadow is sitting here.
+~
+Am imposing shadow of a bull headed creature seems to be waiting here for
+some reason.  It seems to be made out of pure darkness lacking any real
+substance.  Long dark claws seem to slice though the air as it moves its
+hands while glancing about with bane filled eyes.  The sight of this creature
+is quite imposing, it might be best just to leave it alone.  
+~
+unique~
+A TU -1000 S
+50 0 10d167+1149 50d10+100 5d6+13 5
+-21 -21 -21 -5
+0 B E CNS
+7 5 0 225
+AHMSV ABCDEFGHIJKU L unknown
+#1357
+nomad~
+A Wandering Nomad~
+A wandering nomad is here, riding on a sandy steed.
+~
+Before you is a nomad who has travelled far to get anywhere he goes.  It
+is evident that he has spent his entire life roaming by the grit in his
+voice and the rand embedded in his skin.  His legs are bowed like none
+other, and you suspect that it is rare that he dismounts.  He gives you an
+icy look as he rides by.  
+~
+Human~
+A 0 0 S
+83 0 11d762+2768 83d10+100 5d10+25 0
+-41 -41 -41 -15
+0 0 0 0
+9 9 0 373
+AHMNV ABCDEFGHIJK M unknown
+#1370
+dragon ice~
+an ice dragon~
+An Ice Dragon is standing here.
+~
+A large Ice Dragon stands before you with large blue wings and gentle eyes
+~
+Gargoyle~
+A STZ 0 S
+20 0 6d39+294 20d10+100 3d5+4 0
+-2 -2 -2 4
+S IJ HIL HKS
+9 9 3 90
+ACGHMVXZc ABCDEFGHIJKLOPUVW L unknown
+#1371
+serpent~
+an ugly serpent~
+A horribly ugly surpent lays on the rocks.
+~
+The ugly surpent lays on the rocks a long forked tounge slithering out of
+its mouth now and again.  Pure black eyes watch your every move.  
+~
+Lizard~
+A 0 0 S
+19 0 6d37+274 19d10+100 2d5+6 0
+-1 -1 -1 4
+0 B LR FI
+9 9 3 85
+AGXc ACDEFHKLPQUVX M unknown
+#1380
+horror ghoul avatar~
+Krass~
+A foul smelling horror is here grinning wickedly at you.
+~
+The knee-buckling gaze of the Undead is the first thing you notice about
+Krass.  He stands haunched on his dead legs.  He is 7 feet tall, with no
+hair what so ever.  His bones stand out beneath his thin dead skin that has
+turned into a color of sickening green.  His nails are long and dirty and
+his teeth are jagged and sharp. And his milky yellow eyes stare directly at
+you.  
+Krass stands before you looking at you as though your his next meal.
+~
+Ghost~
+A TUc -1000 S
+35 10 10d76+654 35d10+100 4d6+9 0
+-12 -12 -12 -1
+EFHL 0 A C
+9 9 1 157
+CIKLM ABCDEFGHIJKLM M unknown
+#1390
+fog demon~
+a fog demon~
+A demon-shaped cloud of fog hovers nearby.
+~
+It would look like any other demon, except that it is made of pure mist.  
+Its lower half is nothing more than a swirling cloud, and the most visible 
+parts of it are the dimly glowing eyes.  
+~
+Demon~
+A BCFJQTVZ 0 S
+50 0 10d167+1149 200d10+100 5d6+13 18
+-9 -9 -9 -7
+DF LQ HM JN
+9 9 0 225
+ACGHIMVZc ACDEFHJKLOPUVW M unknown
+#1391
+rift spirit~
+a rift spirit~
+A rift in space wavers in front of you.
+~
+It looks more like a disturbance in the air than anything else.  No true 
+shape or size, it simply holds its place, constantly turning in upon itself. 
+ 
+~
+Wraith~
+A CDETUVc 0 S
+50 0 10d167+1149 200d10+100 5d6+13 6
+-9 -9 -9 -7
+CE 0 D C
+9 9 0 225
+ACHIKMV ABCDEFGHIJK M unknown
+#1392
+dragon~
+Maelstrom~
+Here stands the mighty dragon Maelstrom.
+~
+Standing here is the might dragon Maelstrom.  Its power and size enough to 
+make any creature scurry out of the way!  Its scales in the light shimmer a 
+brilliant silver.  Its massive claws are 1 foot in length.  Each one big 
+enough to cut anything in half!  
+~
+Dragon~
+A DFOTc 0 S
+90 0 12d991+3214 360d10+100 5d11+28 0
+-25 -25 -25 -23
+0 L 0 0
+9 9 1 405
+ACGHMVZc ACDEFHJKLOPUVX G unknown
+#1393
+adventurer~
+A bulky adventurer~
+Here stands a bulky adventurer
+~
+The bulky adventurer looks like he has been traveling for a long time.  His 
+face is weather worn, his hands are cracked and bleeding.  He looks as if he 
+has been in many battles, and apparently won all of them.  
+~
+Human~
+A 0 0 S
+70 0 11d443+2036 280d10+100 5d8+22 27
+-17 -17 -17 -15
+0 0 0 0
+9 9 0 315
+AHMV ABCDEFGHIJK M unknown
+#1500
+Prisoner~
+a lanky prisoner~
+A gaunt, dirty prisoner is wandering around.
+~
+This sickly-looking man has obviously been here for quite some time.  You see a rusty
+shackle attached to his thin ankle.  He walks around the cells, picking at the dirt
+and eyeing you uneasily, his ragged clothes barely covering his wiry body.  He backs up
+against a broken cell door and peers at you.
+~
+Human~
+A L 0 S
+40 0 10d98+804 40d10+100 4d7+10 17
+-15 -15 -15 -2
+J 0 L E
+9 9 1 180
+AHMV ABCDEFGHIJK M unknown
+#1504
+energy sprite~
+a small energy sprite~
+This small sprite is made of pure energy.
+~
+This small sprite darts from place to place in a blur of magical energy. 
+A faint crackling sound seems to be coming directly from his form, and as
+you draw close, the hair on your body seems to stand on end from the static
+charge.  Perhaps the most unique thing about this sprite is that it is made
+of pure magical energy.  
+~
+Dragon~
+A DFHOTc 0 S
+101 0 13d1446+3994 101d10+100 6d11+30 0
+-45 -45 -45 -40
+0 L 0 0
+9 9 0 454
+ACGHMVZc ABCDEFGHIJKLOPUVX M unknown
+#1505
+nothing~
+nothing~
+Nothing.
+~
+Nothing.  
+~
+Human~
+A 0 0 S
+100 0 12d1397+3920 100d10+100 6d11+29 0
+-52 -52 -52 -21
+0 0 0 0
+9 9 0 450
+AHMV ABCDEFGHIJK M unknown
+#1515
+fencing maniac~
+the fencing maniac~
+The fencing maniac is here.
+~
+He's a fencing maniac.
+~
+Human~
+A 0 500 S
+1 0 12d1397+3920 100d10+100 1d1+0 0
+-52 -52 -52 -21
+CEG B 0 0
+9 9 0 4
+AHMV ABCDEFGHIJK M unknown
+#1531
+berserker skeleton skeletal~
+A Skeletal Berserker~
+A skeletal berserker is here.
+~
+He big, he mean, he ugly
+~
+Human~
+A 0 0 S
+30 0 10d60+520 30d10+100 3d6+8 0
+-9 -9 -9 0
+0 0 0 0
+9 9 0 135
+AHMV ABCDEFGHIJK M unknown
+#1532
+Tea Man~
+A man selling tea~
+A man stands here selling steaming tea to the people.
+~
+A man selling tea.
+~
+Human~
+A 0 0 S
+10 0 3d23+120 10d10+100 2d3+2 0
+4 4 4 7
+0 ABQ 0 0
+9 9 1 45
+AHMV ABCDEFGHIJK M unknown
+#1543
+sands shifter~
+The Shifter of Sands~
+The Shifter of Sands stands here.  He is veiled in a shroud of swirling dust.
+~
+Before you stands the Shifter of the Sands, keeper of the plane of time. 
+The Keeper of the sands is a slim personage.  He holds himself as tall as
+his height will allow him, which is nearly six feet.  The Shifter of the
+Sands is constantly encircled with sands from all corners of the realm. 
+These mystic energies allow him to distort time to his pleasure.  He is a
+fabled and powerful being.  
+~
+Human~
+A 0 0 S
+100 0 12d1397+3920 100d10+100 6d11+29 20
+-52 -52 -52 -21
+0 ABCEGHIJKLMNOPQRS 0 F
+9 9 0 450
+AHMV ABCDEFGHIJK M unknown
+#1544
+dark assassin drow~
+a darkly colored drow~
+This drow is tall and slender, but darkly cloaked from head to toe.
+~
+This figure is sheathed in a long and flowing black cloak.  Very little
+Very little is apparent to the untrained eye, aside from glowing yellow
+eyes.  Black-skinned limbs can be seen flashing from within the confines of
+the dark cloak.  Its movements are graceful and lightning-quick - a blur of
+poetry in motion.
+~
+Drow~
+A J -500 S
+50 0 10d167+1149 50d10+100 5d6+13 0
+-9 -9 -9 -7
+BEJN 0 B 0
+9 9 2 225
+AHMV ABCDEFGHIJK M unknown
+#1545
+tiny werewolf~
+a tiny werewolf~
+This tiny werewolf looks like it has been caught during the day.
+~
+Short scruffy gray fur covers the body of this tiny were-wolf.  Small but
+sharp teeth fill its mouth, and it tries to growl menancingly but makes a
+squeaking noise instead.  
+~
+Werewolf~
+A JPZ -500 S
+25 30 8d48+400 25d10+100 3d5+7 10
+0 0 0 2
+CFHK IQ P NSY
+9 9 1 112
+AGHIMV ABCDEFGHIJKPUV M unknown
+#1546
+massive werewolf black creature~
+a massive werewolf~
+This massive creature is covered in deep black fur and a long whisking tail.
+~
+Before you crouches a massively furred form.  Huge shoulders and lean
+haunches capped with a sharply featured head and a long, whisking tail that
+add up to almost ten feet in length.  The color of his coat is deep black in
+color, and almost seems to suck in all of the available light around him. 
+Long pointed claws extend from the fingers of his hands and the tips of his
+toes, each claw almost four inches long.  Glittering within his mouth is a
+large set of very sharp and bright white teeth, visible even as his lips
+draw back into a snarl and you hear a low growl coming from him.  One
+remarkable thing about this wolf though is his eyes.  They are an odd icy
+blue color, one which serves to hide all inner feelings of this great beast.
+~
+Werewolf~
+A DFHJOVZc -750 S
+101 40 13d1446+3994 101d10+100 6d11+30 10
+-45 -45 -45 -40
+CEFH IQ CDP NSY
+9 9 1 454
+AGHIMV ABCDEFGHIJKPUV M unknown
+#1547
+Eule owl~
+a {Wwhite{x owl~
+A {Wsnowy white{x owl.
+~
+A large owl roosts here, preening occasionally.  {WSnowy-white{x feathers cover 
+it's body, however a speckle of {Klight grey{x can be seen staining the {Wwhite{x 
+visage.  It's head tilts, bobbing slightly from side to side, as it's 
+{cpupil's{x retract and widen, in a attempt to bring you into focus.  It ruffles 
+its feathers at you, dispelling tendrils of {Kvapor{x.  
+~
+Song Bird~
+A DFHOTV 1000 S
+101 0 13d1446+3994 101d10+100 6d11+30 0
+-45 -45 -45 -40
+FH ABP CD 0
+9 9 2 454
+AGW ACDEFHKOP M unknown
+#1548
+flying monkey~
+a flock of flying monkeys~
+This flock of flying monkeys circles the room here.
+~
+This large flock of fur, teeth, and hands flies around near the top of the 
+room, screeching and yelling loudly.  Indeed, this is the infamous flock of 
+flying monkeys that inhabits peoples nightmares and strives to drive them 
+crazy.  As one of the monkeys notices you, it veers in your direction with 
+the entire pack following, screeching loudly.  
+~
+Rabbit~
+A 0 0 S
+102 0 20d2000+6000 408d10+100 20d20+50 0
+-75 -75 -75 -70
+FH ABP 0 0
+9 9 0 459
+AGV ACDEFHJKP M unknown
+#0
+
+
+
+#OBJECTS
+#1200
+talon~
+a talon claw~
+A bird's talon lies forgotten on the ground.~
+unknown~
+5 A AH 0
+0 BC BD AB 0
+92 4 460 P
+0 0
+#1201
+spiked gauntlets~
+some spiked gauntlets~
+These cruel gauntlets fit perfectly over the hands. The knuckles are adorned with sharp looking spikes.~
+unknown~
+5 0 AN 0
+0 CD E BE CD
+100 0 500 P
+A
+19 8
+A
+18 8
+0 0
+#1202
+null~
+a hurricane cloak~
+A raging storm consumes Fury.~
+unknown~
+13 I AD 0
+0 0 0 0 0
+102 0 102 P
+A
+1 8
+A
+2 8
+A
+17 -10
+A
+1 10
+E
+hurricane~
+A cloak which seems to be an ever changing storm rages around Fury's
+shoulders.  
+~
+0 0
+#1203
+gold pile~
+a pile of gold~
+A pile of gold is here~
+unknown~
+20 0 A 0
+EIJKN 0 0 0 0
+0 1 0 P
+0 0
+#1204
+LOL~
+am not!~
+Spellsong is a brat!~
+unknown~
+29 R 0 0
+0 4 0 0 0
+0 0 0 P
+0 0
+#1205
+pentagram~
+a Pentagram~
+A Large Pantagram shaped amulet lays here, it seems to be burning the ground it is on...~
+unknown~
+27 BCEGJN AC 0
+CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0
+102 0 0 P
+A
+12 1000
+A
+13 1000
+A
+1 2
+A
+3 7
+A
+13 1000
+0 0
+#1206
+cloak~
+cloak of the y'Zhar~
+A black cloak lays on the ground here..~
+unknown~
+15 0 AZ 0
+EIJKN A 0 0 0
+102 0 0 P
+A
+13 550
+A
+12 500
+A
+12 200
+0 0
+#1207
+robe~
+a Crimson red robe~
+A Dark Black cloak lays on the ground next to you..~
+unknown~
+9 B AK 0
+CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0
+102 0 510 P
+A
+3 2
+A
+12 300
+A
+13 450
+0 0
+#1208
+band~
+platinum band~
+A glowing tattoo lays here~
+unknown~
+9 C AS 0
+CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0
+102 0 510 P
+A
+12 345
+A
+13 150
+A
+1 1
+A
+2 1
+0 0
+#1209
+Pestilence~
+pestilence~
+A Long Dark Blade lays here..~
+unknown~
+5 ABGJ AN 0
+ACDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz DGH DGH BE ACDE
+102 1 510 P
+0 0
+#1210
+pearl~
+a black pearl~
+A tiny black pearl lies here, invisible to the naked eye.~
+unknown~
+1 F A 0
+0 0 999 0 0
+102 10 1000 P
+A
+13 50
+0 0
+#1211
+drivite ward~
+(Relic)The Drivite Ward~
+One of the two drivite wards hovers here.~
+unknown~
+9 BGIT AS 0
+BEF BEF BEF BEF 0
+1 0 5 P
+A
+13 10000
+A
+1 10
+A
+19 10
+A
+18 10
+A
+13 999
+A
+12 999
+A
+5 10
+A
+4 10
+A
+17 50
+L
+Orbitting Body~
+0 0
+#1212
+scales dragon~
+dragon scales~
+A set of razor sharp claws.~
+unknown~
+9 0 AK 0
+BCDE BCDE BCDE BD 0
+100 1 500 P
+A
+19 11
+A
+18 11
+L
+Covering Body~
+0 0
+#1213
+whiskey tanarian~
+a glass of Tanarian Whiskey~
+A bottle of Tanarian Whiskey is here, just waiting to be drinken.~
+unknown~
+17 0 AR 0
+AB B ACDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0 0
+56 1 168 P
+L
+clutched loosely~
+0 0
+#1214
+katana drivite~
+(Relic)The Drivite Katana~
+The Drivite Katana rests here.~
+unknown~
+9 BGI AL 0
+BEF BEF BEF BEF 0
+1 1 5 P
+A
+17 50
+A
+18 50
+A
+19 50
+A
+4 2
+A
+13 999
+A
+12 1000
+L
+Sheathed~
+0 0
+#1215
+scales dragon~
+dragon scales~
+Some dragon scales lie here.~
+unknown~
+9 0 AD 0
+BEF BEF BEF BEF 0
+100 5 500 P
+A
+17 50
+A
+19 10
+A
+18 10
+A
+13 999
+A
+12 1000
+A
+12 10000
+L
+Covering Body~
+0 0
+#1216
+teeth dragon~
+dragon teeth~
+Some sharp dragon teeth are here.~
+unknown~
+5 0 AN 0
+ACDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz A AC BD ABDHI
+1 5 5 P
+A
+17 50
+A
+18 50
+A
+19 50
+A
+2 4
+A
+13 3
+L
+In Mouth~
+0 0
+#1217
+wings dragon~
+dragon wings~
+Some dragon wings lie here.~
+unknown~
+27 0 AC 0
+BEF BEF BEF BEF 0
+100 0 0 P
+A
+12 999
+A
+13 999
+A
+14 999
+A
+18 50
+A
+19 50
+A
+2 2
+A
+17 50
+A
+14 20000
+L
+Mounted on Back~
+0 0
+#1218
+blade dark~
+a Dark Blade~
+A long glowing dagger of pure evil is here.~
+unknown~
+5 G AN 0
+A AC AC A B
+15 0 75 P
+0 0
+#1219
+hole~
+a hole.~
+A portable hole lies here, better not step on it, it might just swallow you up.~
+unknown~
+15 0 A 0
+INOPQSUVWXYa 0 0 0 0
+100 0 0 P
+0 0
+#1220
+Counter~
+a counter~
+A counter filled with items is here.~
+unknown~
+15 0 0 Q
+CFG 0 0 0 0
+0 0 0 P
+0 0
+#1221
+bed~
+a bed~
+A bed is here looking inviting.~
+unknown~
+12 GI 0 AFJMQ
+0 0 0 0 0
+0 20 0 P
+0 0
+#1222
+pillow~
+a pillow~
+A fluffy pillow is here~
+unknown~
+13 0 A 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#1223
+Lutessa restore token~
+a Lutessa restore token~
+A promisary token from Lutessa lies here.~
+unknown~
+13 B A 0
+0 0 0 0 0
+1 2 1 P
+0 0
+#1224
+spiked glove~
+a spiked silver glove~
+A silver spiked glove with three long prongs is here,lying on the ground~
+unknown~
+5 J AN 0
+0 AC C 0 0
+15 5 75 P
+A
+2 2
+E
+spiked~
+~
+E
+spiked~
+You see before  you
+~
+E
+spiked~
+You see before you a silver spiked glove. There are three claws coming off the back of it which look razor sharp
+There is an embossed eagle stamped on the back of the glove
+It looks like the work of skilled craftsmen.
+~
+E
+spiked~
+~
+E
+spiked~
+You see before you a spiked silver glove. It has three prongs coming off the back of it, each one a foot long and razor sharp. There is an embossed symbol of an eagle stamped in the back. 
+~
+E
+glove~
+You see before you a spiked silver glove.
+It has three prongs coming off the back of it, each one a foot long and razor sh
+arp. There is an embossed symbol of an eagle stamped in the back.
+~
+E
+spiked glove~
+You see before you a spiked silver glove. Three long prongs come off the back
+of it each about a foot long. They are razor sharp. You no
+~
+E
+spiked glove~
+You see before you a spiked silver glove. Three vicious looking spikes about 
+a foot long come off the back of it. The metal is very bright.
+You notice an embossed eagle stamped into the back of it.
+This weapon looks like the work of master craftsmeOCn.
+~
+E
+spiked glove~
+You see before you a spiked silver glove, three vicious looking spikes about a foot long come off the back of it. The metal is very bright and seems to repel the dirt and blood it should be coated in.
+You notice a small picture of an eagle is carved into the back of it,with
+two small gems for eyes. This weapon looks like the work of a skilled craftsman.
+~
+0 0
+#1225
+pendent~
+a pendent~
+A small pendent is here.~
+unknown~
+8 AGP AK 0
+0 0 0 0 0
+20 1 200 P
+0 0
+#1226
+curtain~
+a beaded curtain~
+A beaded curtain shades the back room from your view~
+unknown~
+29 0 0 0
+-1 1 1 1299 0
+0 0 0 P
+0 0
+#1227
+Happy pill prozac~
+a happy pill~
+A happy pill lays here waiting to make your day~
+unknown~
+26 A A 0
+70 0 0 0 0
+25 0 750 P
+E
+pill~
+It's a soothing little blue and grey pill.  Just the thing for a stressed
+out immortal!
+~
+0 0
+#1228
+Wizard Shawl~
+a wizard's shawl~
+A fine looking shawl lies here.  It has the mark of a wizard on it.~
+unknown~
+11 G AC 0
+0 0 0 0 0
+92 1 500 P
+E
+mark~
+You see an intricatly woven symbol stiched in black silk.
+It is a beautiful looking Rose done of the finest quality.
+~
+0 0
+#1229
+bed straw~
+a straw bed~
+A straw bed is sitting here.~
+unknown~
+12 0 0 FJ
+0 0 0 0 0
+0 0 0 P
+0 0
+#1230
+idol glimmering silver ~
+a glimmering, silver elven-crafted idol of the goddess Fury~
+.~
+unknown~
+8 R AO 0
+0 0 0 0 0
+0 4 1 P
+L
+held in awe~
+0 0
+#1231
+Bed~
+a hard wooden bed~
+A small, very uncomfortable wooden bed is here.~
+unknown~
+12 0 0 ABEFIJQ
+0 0 0 0 0
+0 0 0 P
+0 0
+#1232
+cape wrath~
+a black cape~
+A black cape has been left here.~
+unknown~
+27 AB Aa 0
+CFG CFG CFG CFG 0
+99 0 0 P
+0 0
+#1233
+pool~
+a pool~
+A refreshing and cool pool invites you to go for a swim.~
+unknown~
+29 R 0 0
+0 0 0 1285 0
+1 0 0 P
+0 0
+#1234
+nightstick~
+a nightstick~
+A heavy, black nightstick is lying here.~
+unknown~
+5 0 AO 0
+C AC BC ABDE 0
+23 10 115 P
+0 0
+#1235
+assassins dagger~
+an assassins dagger~
+This blade belongs in the hands of an assassin.~
+unknown~
+5 ABHIMPU AN 0
+B CD E ABD DG
+100 0 500 P
+A
+13 50
+0 BC
+#1236
+boots~
+black leather boots~
+A pair of heavy black leather boots lay here~
+unknown~
+9 0 AG 0
+BDEFGH BDEFGH BDEFGH BDEFGH 0
+102 0 510 P
+0 0
+#1237
+black leather pants~
+a pair of pink speedo's.~
+A pair of black leather pants have been left here carelessly~
+unknown~
+9 0 AL 0
+0 0 0 0 0
+102 0 510 P
+0 0
+#1238
+Luck~
+luck~
+A portion of luck floats in the atmosphere.~
+unknown~
+8 BI AR 0
+0 0 0 0 0
+100 0 1000 P
+A
+17 -1000
+0 0
+#1239
+dagger of acsis~
+the dagger of Acsis~
+A beautiful dagger with a magnificent black ruby in its hilt is here, you better look more closely at it.~
+unknown~
+5 HM AN 0
+B BD CE ABD C
+96 10 480 P
+E
+closely~
+A magnificent craftsmanship lies before you. It is an iron dagger with
+an ivory hilt and a breathtaking black ruby is embeded to the very end of
+the hilt. Small and detailed carvings are embeded into the blade creating
+magnificent and complex patterns. The ruby glows softly spreading
+shadows instead of light, the shadows seem to mock you with their wierd and
+misplaced forms. The dagger is so sharp it seems like it will brake with
+first impact but as you feel the blade you are certain it will penetrate
+even the strongest armor. As you hold the dagger a vision of a huge and
+evil man striking down a hopeless child appears before you, he laugh as he
+stabs the kid to death. The vision vanishes and you suddenly know this is
+the dagger of Acsis the cruel, created by the gods of evil themselves to
+serve the forces of evil.
+~
+E
+carving~
+As you examine the carvings closely you can make out some writing between
+all of the patterns.  It reads: He who will wield this dagger will do so for
+life, and he will bring evil to the land.  He of good heart will not be able
+to wield the powers of the gods.  So said the prophecy of Krass.  So shall
+be done 
+~
+0 BC
+#1240
+long stemmed rose~
+{Ga long stemmed {Rrose{x~
+{GA long stemmed {Rrose{G lies {Wpeacefully{G on the ground.{x~
+unknown~
+8 I AO 0
+0 0 0 0 0
+1 1 10 P
+0 0
+#1241
+blue robes~
+{Cflowing {Bblue {Crobes{x~
+{CA cloudly mist settles down to the ground forming beautifully flowing {Bblue{C robes.{x~
+unknown~
+9 AGIK AD 0
+CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0
+100 4 500 P
+0 0
+#1242
+gloves leather~
+{Wcomfortable {yleather gloves{x~
+{WA pair of comfortable looking {yleather gloves{W lies here waiting to be put on.{x~
+unknown~
+9 AGIK AH 0
+CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz CDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0
+100 1 500 P
+0 0
+#1243
+staff Githilintar runed~
+{Wa {Crune-covered{y staff{x~
+{WA long staff, {Ccovered in runes{W, stands upright on the ground.{x~
+unknown~
+4 AGIK AO 0
+CFG BEF BEF 0 0
+100 3 500 P
+E
+rune~
+{WYou look over a long staff {Ccovered in runes{W.  Upon closer inspection,
+you are able to see the entire staff has a myriad of {Crunes {Wetched into
+the length of it.  You have no idea what they mean, but with this many, you
+are sure that this is a powerful magical item.{x
+~
+E
+staff~
+{WYou look over a long staff {Ccovered in runes{W.  Upon closer inspection,
+you are able to see the entire staff has a myriad of {Crunes {Wetched into
+the length of it.  You have no idea what they mean, but with this many, you
+are sure that this is a powerful magical item.{x
+~
+0 0
+#1244
+windfire blade~
+{CWi{RndFi{Cre{x~
+{CA humming short blade rests on the ground {Rflaring{C periodically.{x~
+unknown~
+5 ABGIK AN 0
+0 BD CE AB E
+100 6 500 P
+A
+3 3
+A
+12 200
+A
+13 250
+E
+blade~
+{CWi{RndFi{Cre{W is one of the legendary blades of the time before.  Wielded
+by the previous Keeper of Balance, {CWi{RndFi{Cre{W has great magical powers.
+As you look at it for a bit longer, it {Rflares up{W shooting off colors of
+{mpurple{W, {Bblue{W, {Ggreen{W, and {Yyellow{W.  Along its blade are carved various
+runes, each imbuing the blade with a special power.  Travelling down the
+blade, you reach the ornate hilt that {CWi{RndFi{Cre{W possesses.  Directly
+in the middle of the hilt is a glowing crystal, and radiating out from
+it are various smaller crystals, forming another mystic rune.{x
+~
+E
+windfire~
+{CWi{RndFi{Cre{W is one of the legendary blades of the time before.  Wielded
+by the previous Keeper of Balance, {CWi{RndFi{Cre{W has great magical powers.
+As you look at it for a bit longer, it {Rflares up{W shooting off colors of
+{mpurple{W, {Bblue{W, {Ggreen{W, and {Yyellow{W.  Along its blade are carved various
+runes, each imbuing the blade with a special power.  Travelling down the
+blade, you reach the ornate hilt that {CWi{RndFi{Cre{W possesses.  Directly
+in the middle of the hilt is a glowing crystal, and radiating out from
+it are various smaller crystals, forming another mystic rune.
+~
+0 0
+#1245
+bad luck shit~
+bad luck~
+A portion of bad luck floats in the atmosphere.~
+unknown~
+8 BI AR 0
+0 0 0 0 0
+102 0 1020 P
+A
+17 -1000
+0 0
+#1246
+a halo circlet~
+a halo circlet~
+A shimmering circlet lies here.~
+unknown~
+9 0 AE 0
+CFG CFG CFG CFG 0
+105 0 525 P
+A
+13 1000
+A
+12 1000
+L
+innocently~
+0 0
+#1247
+a diaphanous gown~
+a diaphanous gown~
+A translucent gown is crumpled on the floor.~
+unknown~
+9 0 ADK 0
+CFG CFG CFG CFG 0
+105 0 525 P
+A
+24 -100
+A
+13 1000
+A
+12 1000
+A
+17 -1000
+L
+flowing~
+0 0
+#1248
+The rod of righteousness~
+the Rod of Righteousness~
+A rod of vibrating light shimmers in the air before you.~
+unknown~
+5 ABGHIK ANO 0
+D ABCEH ABCEH BE A
+105 0 525 P
+L
+forcefully~
+0 0
+#1249
+a sapphire anklet~
+a {bsapphire{x anklet~
+A {ygolden{x anklet, encrusted with {bsapphires{x lies here.~
+unknown~
+8 GI AU 0
+0 0 0 0 0
+105 0 1050 P
+A
+17 -1000
+A
+13 1000
+A
+12 1000
+0 0
+#1250
+ball chaos eris~
+a flickering ball~
+A flickering ball of primal chaos.~
+unknown~
+9 CG A 0
+AD BD ABD CD 0
+97 10 485 P
+A
+3 2
+E
+bump~
+It's a bump. On the ball. Oh no!
+~
+0 0
+#1251
+pill~
+an enhancement pill~
+An enhancement pill exists here.~
+unknown~
+26 0 A 0
+100 0 0 0 0
+110 0 3300 P
+0 0
+#1252
+box~
+a pill box~
+An amber pill box hops on your lap.~
+unknown~
+15 0 A 0
+A 0 0 0 0
+0 0 0 P
+0 0
+#1253
+Platinum Bow~
+a Platinum Bow~
+You see an elegant Platinum bow here.~
+unknown~
+5 K AN 0
+ACDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0 0 ACDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz N
+102 10 510 P
+0 0
+#1254
+safe ~
+a huge titanium safe~
+A Huge Titanium Safe rests here.~
+unknown~
+15 0 0 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcde ABCD ABEFGHK 0 0
+0 16959 0 P
+0 0
+#1255
+plate armor brilliant lotex honor righteousness~
+brilliant armor of honor and righteousness~
+Lotex's glorious full body plate has been misplaced here.~
+unknown~
+9 BG AD 0
+CEFGHI CEFGHI CEFGHI CEFGHI 0
+102 10000 510 P
+A
+1 50
+A
+5 50
+A
+4 50
+A
+13 500
+A
+24 -200
+A
+2 50
+A
+3 50
+A
+12 500
+A
+12 -5
+A
+3 1
+0 0
+#1256
+a huge lobster tail~
+a huge lobster tail~
+Here it is, the BIGGEST lobster tail you have ever seen!~
+unknown~
+19 0 A 0
+BD 0 0 0 0
+0 2 1 P
+0 0
+#1257
+a dish of sea weed~
+a dish of sea weed~
+A soggy, moist, delicious plate of sea weed is here.~
+unknown~
+19 0 A 0
+BD 0 0 0 0
+0 2 1 P
+0 0
+#1258
+sofa comfy~
+a comfy-looking sofa~
+A beat up but comfortable-looking sofa lies here.~
+unknown~
+12 0 0 AEIQ
+0 0 0 0 0
+51 200 0 P
+0 0
+#1259
+dream helm~
+the dream helm~
+Morpheus' mask of power, the Dream helm is here.~
+unknown~
+9 CGR AET 0
+CFG CFG CFG CFG 0
+100 0 500 P
+A
+19 100
+A
+18 100
+0 0
+#1260
+Claws~
+a pair of claws~
+A pair of puppy claws is here, waiting to claw something.~
+unknown~
+5 0 AN 0
+0 AC AC AC 0
+20 5 100 P
+E
+claws~
+These claws have cruelly been removed from a cute little puppy.  They
+look like if they could really hurt someone.  You wonder what kinda puppy
+they once belonged too.  
+~
+0 0
+#1261
+gold key~
+gold key~
+A beautiful gold key, lays here in the dirt~
+unknown~
+18 0 AO 0
+0 0 0 0 0
+1 1 0 P
+E
+gold key~
+You see a key that has been dipped into liquid gold.  The gold forming
+perfectly around the key as not to interupt the unlocking or locking
+process.  
+~
+0 0
+#1262
+Lotex stash~
+lotex's stash~
+Lotex's secret stash is here, attempting to be insconspicious.~
+unknown~
+20 0 A 0
+CEFGHJLM 0 0 0 0
+0 0 0 P
+0 0
+#1263
+A towel~
+a towel~
+A towel lies on the floor.~
+unknown~
+11 0 AL 0
+0 0 0 0 0
+102 10 10000 P
+A
+3 10
+A
+4 10
+A
+5 10
+A
+2 10
+A
+1 10
+0 0
+#1264
+A forgive me cake.~
+a forgive me cake.~
+A chocolate fudge cake covered with all your favorate toppings is here. There is some writing on the top.~
+unknown~
+19 0 AO 0
+CFG 0 0 0 0
+102 0 204 P
+E
+writing~
+Forgive me.
+~
+0 0
+#1265
+haunted lute~
+a haunted lute~
+A haunted lute lies here, looking for a musician to play it.~
+unknown~
+5 ABCGI AN 0
+0 BCEH BCEH CE E
+105 15 525 P
+A
+18 20
+A
+19 20
+A
+17 -300
+E
+!history!~
+This great and magical lute was said to be forged out of the very fibers
+of the magical weave by the great spellsong.  It has been said to have
+destroyed countless ancients and gods who have opposed the lord of magic.  
+~
+E
+haunted~
+If you touch this lute, Spellsong will haunt you!
+~
+L
+held in sweet song~
+0 0
+#1266
+heavy black mace~
+a heavy black mace~
+This heavy black mace crackles with power.~
+unknown~
+5 0 AN 0
+C D CD BE CH
+50 0 250 P
+A
+18 11
+A
+19 11
+0 0
+#1267
+key titanium~
+a titanium key~
+A Titanium Key rests here, waiting to be used.~
+unknown~
+18 0 A 0
+0 0 0 0 0
+0 20 0 P
+0 0
+#1268
+kung pow~
+a bowl of kung pow~
+A bowl of kung pow looks very tasty at the moment.~
+unknown~
+26 0 A 0
+99 0 0 0 0
+1 1 30 P
+0 0
+#1269
+'flan pudding'~
+a flan pudding~
+A huge flan pudding is sitting here, looking sticky yet comfortable.~
+unknown~
+12 0 AO 0
+0 0 0 0 0
+92 10 100 P
+A
+2 -4
+0 0
+#1270
+sword~
+a pulsing crystal blade~
+A pulsing crystal sword is here.~
+unknown~
+5 EG AN 0
+A ABCD ABCD BE DEF
+100 0 500 P
+L
+wielded~
+0 0
+#1271
+vest black rubber~
+a black rubber vest~
+A black rubber vest has been dropped here.~
+unknown~
+9 AF AD 0
+BEF BEF BEF BEF 0
+99 200 495 P
+A
+13 999
+A
+12 999
+A
+14 999
+A
+5 2
+A
+1 2
+A
+2 2
+A
+4 2
+A
+3 2
+0 0
+#1272
+facepaint black~
+a bottle of black face-paint~
+A bottle of black face-paint has been left here.~
+unknown~
+9 AGHM AT 0
+BEF BEF BEF BEF 0
+99 0 495 P
+A
+1 2
+A
+3 2
+A
+2 2
+A
+4 2
+A
+5 2
+A
+13 999
+A
+12 999
+A
+14 999
+A
+13 9999
+A
+12 9999
+A
+14 9999
+0 0
+#1273
+cabinet glass~
+a large glass cabinet~
+A large, glass cabinet is resting against the wall here.~
+unknown~
+15 D 0 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcde ACD BDEFGHK 0 0
+0 0 0 P
+0 0
+#1274
+key glass~
+a key made of glass~
+A glass key is here, reflecting rays of light.~
+unknown~
+18 0 A 0
+0 0 0 0 0
+0 1 0 P
+0 0
+#1275
+mask skull evil~
+a bloody skull mask~
+A bloody skull mask lies here, grinning at you.~
+unknown~
+9 EJMS AT 0
+BCDE BCDE BCDE ABC 0
+105 0 525 P
+A
+19 2
+L
+sewn on face~
+0 0
+#1276
+haitorin claw~
+a wild haitorin claw~
+This sharp and dangerous claw came off of a haitorin.~
+unknown~
+5 0 AN 0
+B C D ABD D
+17 0 85 P
+A
+19 8
+A
+18 8
+0 BC
+#1277
+sign~
+a sign~
+Greetings Traveller! You have entered Despoth's shop. It is currently under construction, so check back frequently!~
+unknown~
+12 0 0 0
+0 0 0 0 0
+0 16960 0 P
+0 0
+#1278
+belt black seraph~
+the Belt of the Black Seraph~
+A dark belt is here.~
+unknown~
+9 EGJL AL 0
+BCDEGI BCDEGI BCDEGI DGH 0
+100 0 500 P
+A
+24 -50
+A
+18 70
+A
+19 80
+0 0
+#1279
+rat tattoo~
+a tiny rat tattoo~
+A tiny rat tattoo.~
+unknown~
+27 MU AS AB
+0 0 0 0 0
+76 0 380 P
+A
+1 6
+A
+3 6
+A
+4 4
+A
+5 6
+A
+2 6
+0 0
+#1280
+bearskin rug~
+bearskin rug~
+A furry, comfortable looking bearskin lies on the floor.~
+unknown~
+12 0 0 AEI
+0 0 0 0 0
+0 2000 0 R
+0 0
+#1281
+pill black~
+a black pill~
+A black pill is sitting here, waiting to be swallowed.~
+unknown~
+26 AG A 0
+2 0 0 0 0
+2 1 60 P
+A
+13 10
+A
+12 10
+A
+14 10
+0 0
+#1282
+baggy pants leather~
+baggy black leather pants~
+Dull, black, baggy pants lie in a heap on the floor.~
+unknown~
+9 S AF 0
+BCDE BCDE BCDE ABC 0
+105 1 525 P
+A
+13 9100
+0 0
+#1283
+stone table~
+a stone table~
+(no description)~
+unknown~
+12 ABGIR 0 ACGOP
+0 0 0 0 0
+100 5000 900000 P
+0 0
+#1284
+wings white~
+white satiny wings~
+A pair of beautiful white satiny angel wings~
+unknown~
+27 I C 0
+ABFG ABFG ABFG ABFG 0
+100 2 50 P
+0 0
+#1285
+An obsidian coffe table.~
+an Obsidian coffee table.~
+An Obsidian coffee table stands here.~
+unknown~
+12 0 0 Q
+0 0 0 0 0
+102 1000 10000 P
+0 0
+#1286
+power bracer super~
+a -=super power bracer=-~
+A -=Super Power Bracer=- is here, radiating raw energy.~
+unknown~
+9 ABGIS AM 0
+BCDE BCDE BCDE ABC 0
+105 2 525 P
+A
+14 1000
+A
+12 1000
+A
+13 1000
+0 0
+#1287
+huge rock~
+a HUGE rock~
+This rock is absolutely HUGE.~
+unknown~
+8 0 AO A
+0 0 0 0 0
+0 0 1 P
+0 0
+#1288
+Plati Bow~
+a plati bow~
+You see a platinum bow shimmering in the light.  Its appearance is comforting.~
+unknown~
+5 FIK AN 0
+0 CFG B ABD D
+102 10 510 P
+A
+13 10
+A
+17 10
+0 0
+#1289
+bob~
+bob~
+(no description)~
+unknown~
+13 R A 0
+0 0 0 0 0
+0 2 1 P
+0 0
+#1290
+rosewood cabinet~
+a rosewood cabinet~
+{rA cabinet made of rosewood carved with ivy rests in a corner.{c~
+unknown~
+15 0 0 0
+CEFGHI AC 0 0 0
+0 0 0 P
+0 0
+#1291
+leather body harness~
+black leather body harness~
+A black leather body harness is draped on a cushion.~
+unknown~
+11 0 AD 0
+0 0 0 0 0
+95 1 0 P
+0 0
+#1292
+leather straps~
+tight black leather body straps~
+A set of black leather body straps lay next to the chaps.~
+unknown~
+11 0 AD 0
+0 0 0 0 0
+100 1 0 P
+0 0
+#1293
+leather pants~
+tight black leather chaps~
+A pair of black leather chaps are folded neatly on the bed.~
+unknown~
+11 0 AF 0
+0 0 0 0 0
+100 1 0 P
+0 0
+#1294
+soft bed~
+a soft bed~
+A soft large bed is nestled in the corner.~
+unknown~
+12 AM 0 AFJQ
+0 0 0 0 0
+95 100 0 P
+0 0
+#1295
+sword chaos~
+the Sword of ChAoS~
+A sword is here, this is a sword of what many call "ChAoS."~
+unknown~
+5 ABCI AN 0
+A BD ACD ABE J
+68 15 340 P
+A
+18 5
+A
+19 5
+0 0
+#1296
+Plankton~
+some yummy-looking plankton~
+Some yummy-looking plankton~
+unknown~
+19 N A 0
+BD 0 0 0 0
+0 2 1 P
+0 0
+#1297
+A key to Devin's Dream~
+a key to Devin's Dream~
+Desc Here lies the key to Devin's Dream, use it to unlock his mind...~
+unknown~
+18 ABDFG A 0
+0 0 0 0 0
+92 2 10000 P
+A
+12 500
+A
+5 5
+A
+3 5
+A
+2 5
+A
+4 5
+0 0
+#1298
+flowers~
+a beautiful bouquet of various flowers~
+A bright bouquet of tulips and lilies sits atop a delicate table.~
+unknown~
+12 A 0 0
+0 0 0 0 0
+95 1 0 P
+0 0
+#1299
+freedom rings~
+{Ca set of {Rr{ya{Yi{Gn{Cb{Bo{Mw {Ccolored freedom rings{c~
+{WA {Rrainbow {yof {Yrings {Garches {Cacross {bthe {Broom, {mscreaming {W"{MGAY PRIDE!{W"~
+unknown~
+27 A AC 0
+BD 0 0 0 0
+93 5 0 P
+0 0
+#1300
+werewolf pelt~
+a tiny werewolf pelt~
+This pelt is covered in scruffy gray fur and belonged to a werewolf.~
+unknown~
+27 S AD 0
+0 0 0 0 0
+28 3 140 P
+A
+12 50
+0 0
+#1301
+heavy werewolf pelt~
+a heavy werewolf pelt~
+This heavy pelt has been taken from a werewolf.~
+unknown~
+9 GS AV 0
+E E E AC 0
+100 3 500 P
+A
+12 40
+A
+13 40
+A
+17 -10
+0 0
+#1302
+dragonbane~
+{RDragon{Ybane{x~
+{WA huge {Rcrimson{W broadsword {Kthrobs{W here.{x~
+unknown~
+5 ABR AN 0
+A ABCE CF A E
+103 10 515 P
+A
+2 1
+A
+1 2
+A
+19 100
+A
+18 100
+0 0
+#1303
+bong pipe~
+a large bong~
+This large bong looks like it can hold a lot of {Gw{ge{Ge{gd{x.~
+unknown~
+8 0 AO 0
+0 0 0 0 0
+103 15 1030 P
+0 0
+#1304
+hellplate~
+{CH{Be{Cl{Bl{Cp{Bl{Ca{Bt{Ce{x~
+{WA full suit of plate armor {Cgleams{W with the fires of {Rhell{W.{x~
+unknown~
+9 ABJR AD 0
+DFGHIJ DFGHIJ DFGHIJ DEGJ 0
+103 35 515 P
+A
+18 4
+A
+19 2
+A
+2 1
+A
+1 2
+0 0
+#1305
+actorios ring~
+{WActorios{x~
+{WA ring, inset with the famous Actorios stone, lies here.{x~
+unknown~
+27 ABJR AB 0
+DFGHIJ DFGHIJ DFGHIJ DEGJ 0
+103 1 25000 P
+A
+19 2
+A
+18 1
+A
+4 1
+A
+3 2
+0 0
+#1306
+black prism~
+{Wa{x black {Wprism{x~
+{WA tiny black prism hovers nearby.{x~
+unknown~
+15 ABJR AR 0
+GJOQRST B 0 0 0
+103 0 25000 P
+A
+5 5
+A
+19 2
+A
+18 2
+A
+4 2
+0 0
+#1307
+The Shadow Blade~
+the Shadow Blade~
+You see the handle to a sword lying here.  When you pick it up, you see that it is heavier than it seems.  When you put it into the light, you see the form of a blade~
+unknown~
+5 ABCHI AN 0
+A ABFG ABFG BE ACDJ
+102 10 510 P
+A
+1 1
+A
+19 100
+A
+18 100
+0 0
+#1308
+Shadow Ring~
+a Shadowy Ring~
+You see a bright gold ring with a shadow hovering above it.  There is a pitch black gem in the center of it~
+unknown~
+27 ABH AB 0
+ACDE ACDE ACDE BC 0
+102 0 666 P
+A
+5 1
+A
+4 1
+0 0
+#1309
+Flaming Skull~
+a Flaming Skull Tattoo~
+You see a tattoo of a flaming skull.  It seems like there is smoke coming from the eyes of the skull.  The eyes are bright {Rred {xand the skull is {Wwhite{x~
+unknown~
+9 ABHM AS 0
+ACDE ACDE ACDE BC 0
+102 0 510 P
+A
+3 1
+A
+4 1
+0 0
+#1310
+Shadow Boots~
+a Pair of Shadow Boots~
+You see a pair of boots here.  They are pitch black and very hard to see in the dark~
+unknown~
+9 ABH AG 0
+ACDE ACDE ACDE BC 0
+102 5 510 P
+A
+2 1
+A
+5 1
+0 0
+#1311
+Shadow Stone~
+the Shadow Stone~
+You walk into a room, and whatever you try to do, there is always a shadow in one part of the room.  As you go in to examine the shadow, you see that it is really a stone~
+unknown~
+27 ABH AR 0
+ACDE ACDE ACDE BC 0
+102 5 666 P
+A
+1 2
+0 0
+#1312
+margarita~
+a margarita~
+You see a margarita.~
+unknown~
+10 G AO 0
+1 0 0 0 0
+1 2 30 P
+0 0
+#1313
+Mists of darkness~
+mists of darkness~
+Magical mists of darkness form a semblance of a robe.~
+unknown~
+9 ABE ADK 0
+CDFI CDFI CDFI CDFI 0
+1 0 5 P
+A
+5 10
+A
+4 10
+A
+3 10
+A
+2 10
+L
+shrouding body~
+0 0
+#1314
+Chalice of blood~
+a chalice of blood~
+A chalice full of blood floats here.~
+unknown~
+5 BGI AN 0
+0 BCDE BCDE CE C
+105 0 525 P
+A
+1 10
+A
+2 10
+A
+13 50
+A
+12 50
+L
+floating mysteriously~
+0 0
+#1315
+staff~
+a dangerous staff~
+You see a very dangerous staff with rough-looking wood.~
+unknown~
+4 0 AO 0
+ABCFG ABCDEFGHIJKLMNOPQRSTUVWXYZabcde ABCDEFGHIJKLMNOPQRSTUVWXYZabcde 0 0
+103 40 515 P
+0 0
+#1316
+red circlet~
+a {rred{x circlet~
+This {rred{x circlet fits around the bicep.~
+unknown~
+9 0 AS 0
+D D D B 0
+50 2 250 P
+A
+13 100
+0 0
+#1317
+A closet~
+a closet~
+A closet is built into a corner of the room.~
+unknown~
+15 0 0 0
+DFGHIJ 0 0 0 0
+104 0 0 P
+0 0
+#1318
+gods might~
+the might of the gods~
+The Might of the Godq!~
+unknown~
+27 ABCEFGIST AC 0
+BCDE BCDE BCDE ABC 0
+105 0 0 P
+A
+3 200
+A
+4 200
+A
+5 200
+A
+2 200
+A
+1 200
+A
+17 13825
+A
+19 1000
+A
+18 1000
+A
+12 26222
+A
+13 26142
+L
+worn proudly around neck~
+0 0
+#1319
+black sword greatsword great~
+a masterworks greatsword~
+A pitch-black greatsword rests here.~
+unknown~
+5 0 AN 0
+0 CD E 0 0
+100 0 500 P
+A
+17 27009
+A
+12 5000
+A
+13 13071
+L
+swinging around recklessly~
+0 0
+#1320
+flexible scabbard~
+a flexible scabbard~
+A flexible scabbard is here, made of some flexible material, and perfectly fit to extend or retract as necessary.~
+unknown~
+8 0 AR 0
+0 0 0 0 0
+1 4 10 P
+A
+4 1
+L
+worn on tail~
+0 0
+#1321
+tongue stud ring~
+a tongue stud~
+A tongue stud lies on the ground here.  Do you really want to touch it?~
+unknown~
+9 0 AT 0
+AC AC AC A 0
+20 0 100 P
+L
+worn through tongue~
+0 0
+#1322
+slice pizza pepperoni~
+a slice of pepperoni pizza~
+A slice of pepperoni pizza sits here, just WANTING to be eaten.~
+unknown~
+19 0 A 0
+0 0 0 0 0
+1 0 2 P
+0 0
+#1323
+small crystal wedding ring~
+a small crystal wedding ring~
+A small crystal wedding ring sparkles in the light.~
+unknown~
+11 HM AB 0
+0 0 0 0 0
+15 1 500 P
+E
+ring~
+This perfect piece of crystal looks as though it had grown in a band,
+meant perfectly for a finger.  The smoothness of the surface retains a cool
+feel.  Looking closer at the ring, your eyes get drawn in to see many specks
+of different coloured lights, giving a radient glow to the ring.  Inscribed
+minutely on the inside of the band is "Drekk & Urie Brighthammer".  
+~
+0 0
+#1330
+butt armor~
+some butt armor~
+You see some strange butt armor.~
+unknown~
+9 0 AK 0
+AB B CD BD 0
+2 10 10 P
+L
+butt armor~
+0 0
+#1331
+WetBar~
+a wetbar is here by the wall~
+(no description)~
+unknown~
+13 0 0 P
+0 0 0 0 0
+0 0 1 P
+0 0
+#1332
+tongue stud~
+a tongue stud~
+A silver stud is here.~
+unknown~
+8 0 AT 0
+0 0 0 0 0
+0 0 1 P
+L
+pierced in tongue~
+0 0
+#1333
+a Pina Colada~
+a Pina Colada~
+A pina colada is here tempting your senses~
+unknown~
+25 0 A 0
+BD BD ACDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0 0
+0 0 0 P
+0 0
+#1334
+test dagger~
+a test dagger~
+(no description)~
+unknown~
+5 0 A 0
+0 A D ABD 0
+0 0 1 P
+0 0
+#1335
+tempertantrum~
+a tempertantrum~
+You see a tempertantrum.~
+unknown~
+26 T AO 0
+1 0 0 0 0
+1 3 30 A
+0 0
+#1336
+A Goo Sword~
+a Sword of Goo~
+(no description)~
+unknown~
+5 0 0 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#1337
+birthday cake~
+sighel's Birthday Cake~
+This is Sighel's birthday cake.  There are 23 candles on it that are burning brightly.  That is at least until Sighel blows them out.  ~
+unknown~
+19 0 A 0
+BEF 0 0 0 0
+100 0 200 P
+0 0
+#1338
+non-descriptive sword~
+a sword (how descriptive)~
+You see a sword without description.~
+unknown~
+5 0 AN 0
+A CD E AB 0
+100 13 500 P
+0 0
+#1339
+twisted corpse man~
+a twisted corpse~
+The twisted corpse of what was once a man lies here.~
+unknown~
+8 G B 0
+0 0 0 0 0
+102 1 1020 P
+A
+1 20
+0 0
+#1340
+A big fluffy bed of clouds~
+a bed of clouds~
+A very comfortable, very fluffy bed is here.~
+unknown~
+12 A 0 AEI
+0 0 0 0 0
+1 2 15 P
+0 0
+#1341
+tiptoe shoes~
+a pair of tiptoe shoes~
+A pair of Audrina's shoes is here.~
+unknown~
+9 0 AG 0
+BCD BCD BCD AB 0
+50 2 250 P
+A
+17 -6
+A
+12 40
+E
+shoes~
+Audrina's shoes look comfy.  The soles appear very soft, perfect for
+sneaking around.  
+~
+0 0
+#1342
+silver kris~
+a silver kris~
+An elegant silver kris bears an engraving on the hilt.~
+unknown~
+5 b AN 0
+B ABD BE ABD DI
+100 3 500 P
+A
+19 9
+A
+18 9
+A
+13 150
+E
+engraving hilt~
+Shard,
+
+For all of your gallantry and hard effort in making this Kingdom a
+prosperous and wonderful place to live, I thank you from the bottom of my
+heart.  For always striving for Order and Justice, I again thank you.  May
+your rule here be long and filled with wonder and excitement, yet may you
+always remain safe.  I offer these to you not as a token of war or violence,
+but as an aid to help you maintain the peace.  
+ 
+Good luck and fortune to you in wherever your life will take you, and with
+whoever you choose to travel there with.
+ 
+Your friend,
+Liam
+~
+0 BC
+#1343
+velvet box~
+a large velvet box~
+This large velvet box has two perfectly formed indentions for storing a pair of daggers. A small keyhole is visible in the top.~
+unknown~
+15 0 AO 0
+CE ABCD ACFG 0 0
+100 1 1 P
+0 0
+#1344
+red hair~
+{xfire {Rred {xhair~
+Audrina's fire-like hair is here.~
+unknown~
+8 0 AEK 0
+0 0 0 0 0
+104 3 1040 P
+L
+radiating around head~
+0 0
+#1345
+gown~
+{xa {Ws{xh{Wi{xm{Wm{xe{Wr{xi{Wn{xg gown~
+Audrina's favorite gown is here.~
+unknown~
+8 0 AD 0
+0 0 0 0 0
+104 10 1040 P
+L
+{xdraped over body~
+0 0
+#1350
+eyes~
+{Wbright {xburning stars~
+Audrina's eyes are here. She can't see without those!~
+unknown~
+8 I AT 0
+0 0 0 0 0
+104 3 1040 P
+L
+Audrina's eyes~
+0 0
+#1352
+straw broom~
+a straw broom~
+This straw broom is good for sweeping the floor.~
+unknown~
+8 C AO 0
+0 0 0 0 0
+1 3 10 P
+0 0
+#1353
+look serenity~
+a look of serenity~
+A dreamy look of serenity has been left here.~
+unknown~
+8 E AL 0
+0 0 0 0 0
+104 4 1040 P
+L
+on her face~
+0 0
+#1354
+orbs of light~
+{Rc{Co{Yl{Mo{Br{We{Md {xorbs of light~
+Orbs of tiny light dance here.~
+unknown~
+8 0 AN 0
+0 0 0 0 0
+104 3 1040 P
+L
+dancing around her~
+0 0
+#1355
+Raging hatred~
+an aura of hatred~
+A powerful aura of raging hatred shimmers here.~
+unknown~
+27 ABEG AR 0
+CFG CFG CFG CFG 0
+1 0 0 P
+A
+18 10
+A
+5 10
+A
+1 10
+A
+12 50
+A
+13 50
+L
+emanating from body~
+0 0
+#1356
+crown~
+a polished onyx crown~
+Audrina's crown is here.~
+unknown~
+8 0 AQ 0
+0 0 0 0 0
+104 20 1040 P
+L
+worn on head~
+0 0
+#1357
+Lightning claws~
+a pair of {Yl{yi{Yg{yh{Yt{yn{Yi{yn{Yg{x claws~
+A pair of claws crackles furiously with immense power.~
+unknown~
+5 ABEG AN 0
+0 BCDE BCDE CDE H
+105 0 525 P
+A
+18 20
+A
+17 -10
+A
+1 5
+A
+13 50
+L
+attached to feet~
+0 0
+#1358
+rainbow freedom rings~
+{Ca set of {Rf{yr{Ye{Ge{Cd{Bo{Mm {Ccolored rainbow rings~
+Ha!  These are fake!~
+unknown~
+27 0 ABCEFILMRS 0
+0 0 0 0 0
+0 0 0 P
+L
+All Over Body~
+0 0
+#1359
+a blackened heart~
+a glittering samurai sword~
+A black, pulsating heart on a chain lies here.~
+unknown~
+8 C AC 0
+0 0 0 0 0
+104 1 1040 P
+0 0
+#1360
+fury blessing~
+fury's blessing~
+Fury's blessing shimmers with a golden light.~
+unknown~
+3 0 AO 0
+BEF CFG CFG 0 0
+107 0 535 P
+0 0
+#1361
+fury curse~
+fury's curse~
+Fury's ire smolders here.~
+unknown~
+3 0 AO 0
+ADE CFG CFG 0 0
+107 0 535 P
+0 0
+#1362
+List~
+the List~
+There is a list of something that is lying here~
+unknown~
+13 0 A 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#1363
+cake~
+a slice of cake~
+Raakam's birthday cake~
+unknown~
+19 0 A 0
+A 0 0 0 0
+0 0 1 P
+0 0
+#1370
+an Ice Dagger~
+an ice dagger~
+A jagged Ice Dagger is sitting here.~
+unknown~
+5 A AN 0
+0 AC D ABD 0
+20 1 100 P
+0 0
+#1371
+fountain ubbling~
+a bubbling fountain~
+A bubbling Fountain sits in the middle of the room.~
+unknown~
+25 I 0 0
+0 0 0 0 0
+20 0 0 P
+0 0
+#1375
+puke~
+puke~
+Eww!  there's puke all over the place!!!~
+unknown~
+9 0 AT 0
+0 0 0 0 0
+1 0 5 P
+L
+dripping from mouth~
+0 0
+#1389
+skintight black suit~
+a skintight black suit~
+This skintight black suit fits snugly.~
+unknown~
+9 0 AD 0
+D D D B 0
+50 0 250 P
+A
+17 -20
+0 0
+#1390
+enormous pearl~
+an enormous pearl~
+This white pearl of unbelievable size is quite heavy and gives a slight glow.~
+unknown~
+5 AG AN 0
+0 D CD ABE A
+50 5 250 P
+A
+12 30
+A
+18 2
+L
+held~
+0 0
+#1391
+chest~
+an old chest~
+A chest made of rotting chestnut with rusted hinges sits in the corner, a faint light shining from within.~
+unknown~
+15 R 0 AE
+AC AC 0 0 0
+1 0 0 P
+0 0
+#1392
+sword~
+sword of Malestrom~
+The mighty sword of Maelstrom~
+unknown~
+5 0 AN 0
+0 BCD CD 0 0
+90 0 450 P
+0 C
+#1393
+shield~
+the great shield of Maelstrom~
+Shield of Maelstrom~
+unknown~
+9 0 AJ 0
+ABD ABD ABD AB 0
+70 0 350 P
+0 C
+#1444
+uzi 9mm~
+an Uzi 9mm~
+A dark, dangerous looking Uzi 9mm.~
+unknown~
+5 E AN 0
+A CD E BC 0
+100 1 500 P
+0 0
+#1445
+The Ancient Ones, How they came to cruelty!~
+a history book ~
+A book titled The Ancient Ones, How they came to cruelty! Is here, it is a think book bound by simple leather.~
+unknown~
+13 0 AO 0
+0 0 0 0 0
+0 5 1 P
+E
+the~
+At the beginning the Great Creator created the world and populated it
+with beings called by us humans, "The Ancient Ones".  "The Ancient Ones" as
+we call them are called so, because when the Great Creator created us humans
+and other creatures to populate the world, The Ancient Ones were already
+ancient and wise and they guided us through life when we were still frail
+and sick.  That was a time before evil when all races lived in harmony and
+unison.  But the Great Creator was not happy with the new creatures, humans,
+he created.  They were too dependent and needful.  They could not accomplish
+great things and ivolve, and so he created sleep and with it he created
+Dream Space and The Lord of Dreams.  The Great Creator solution worked. 
+Humand became strong and proud they began questioning the Ancient Ones rule
+upon them.  The Ancient Ones who saw that their control and power was slipping
+away from them, and who were already jealous with the great sansetion of
+sleep that the humans told them about, tried to go to The Great Creator and
+ask for sleep of him, but The Great Creator was already away from the world
+in his eatheral sleep.  So all The Ancients Ones came together to meet in
+what was later known as "The Meeting of The Ancients".  There they decided
+that they wont let the lesser races escape their control and disrupt the
+normal way of life.  They decided to force their will on them, and when and
+when the first Ancient One, who's name was lost in time forced his will upon
+the first elf EVIL came to the world for the first time.  For The Ancient
+ones broke the Creators balance and the result was evil in the world.  As
+evil came the beautiful Ancient Ones, filled themselves with darkness for
+controlling people was far more easy with the darkness inside.  And so they
+became ugly and corrupt, nightmares upon the earth.  In the great war they
+spawned creatures of darkness to help them, and from their unholy unions
+came monsters to the world.  And so they Ancient Ones became corrupt because
+of the jealousy in humans and the need to control.  
+~
+0 0
+#1455
+sorcerers orb~
+a sorcerers orb~
+This flaming ball of magic is known as a sorcerers orb.~
+unknown~
+5 ABGITb AN 0
+0 BD E ABE AC
+83 4 415 P
+A
+19 10
+A
+18 10
+A
+12 150
+L
+floating above hands~
+0 0
+#1500
+halo dark pulsing~
+a dark and pulsing halo~
+A dark and pulsing halo is here.~
+unknown~
+27 CEGJL AR 0
+0 0 0 0 0
+100 0 500 P
+A
+13 600
+A
+12 100
+L
+floating overhead~
+0 0
+#1504
+ring~
+{WRing of Forever{x~
+A beautiful pure golden wedding ring.~
+unknown~
+27 0 AB 0
+D D D B 0
+15 1 0 P
+E
+golden~
+A finely crafted robe that provides for warmth.  
+~
+0 0
+#1505
+Ethereal Blade~
+the Ethereal blade~
+The fabled blade lays here.~
+unknown~
+5 0 AN 0
+0 0 0 0 0
+100 2 500 P
+E
+obj~
+Inscribed in beautifully crafted handwriting are the words "All My Love,
+Forever" 
+~
+E
+obj~
+A shimmering teddy that leaves nothing to the imagination.  
+~
+E
+obj~
+A finely crafted wedding gown.  Light and airy, it clings tightly to her
+body, revieling the all of her curves.  
+~
+E
+loin~
+~
+E
+lion~
+Once pure white, it is now stained with blood from many hunts 
+~
+E
+loin~
+~
+E
+loin~
+Once pure white, it is now stained with blood form many hunts.  
+~
+E
+gown~
+~
+E
+gown~
+~
+E
+gown~
+A simple, yet stunning gown.  You are left breathless.  
+~
+0 0
+#1506
+massive bed~
+a massive bed~
+Here is a massive and inviting bed with layers of silks.~
+unknown~
+12 R 0 AEI
+0 0 0 0 0
+0 0 0 P
+0 0
+#1507
+a glowing silver ring~
+a glowing silver ring~
+This ring seems to glow with a magical aura.~
+unknown~
+27 0 AB 0
+E E E AC 0
+64 0 75 P
+A
+13 40
+H 0
+#1508
+big soft chair~
+a big soft chair~
+Wonderfully comfortable this chair is both big and soft.~
+unknown~
+12 0 0 BF
+0 0 0 0 0
+0 0 0 P
+0 0
+#1511
+golden engagement ring~
+a golden engagement ring~
+A thin golden ring set with a bright green stone rests gently here.~
+unknown~
+27 0 AB 0
+B B B 0 0
+10 1 10000 P
+E
+ring~
+This thin golden ring is set with a delicate green stone.  In tiny
+letters engraved on the inside of the ring is written in glinting script:
+the fire of love.  
+~
+L
+worn on finger~
+0 0
+#1512
+egg dragon~
+the First of the Stolen Drivite Eggs~
+One of the Drivite's stolen dragon eggs!~
+unknown~
+13 0 A 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#1513
+egg dragon~
+the Drivite Egg Number Two~
+The Second of the Drivite's stolen eggs is here.~
+unknown~
+13 0 A 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#1514
+egg dragon~
+the Drivite Dragon Egg Number Three~
+The Third of the Stolen Drivite Dragon Eggs is here.~
+unknown~
+13 0 A 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#1515
+barbeque bbq sauce~
+a bottle of barbeque sauce~
+A bottle of barbeque sauce is here... it says BMQ on the side.~
+unknown~
+10 0 A 0
+110 0 0 0 0
+0 0 1 P
+0 0
+#1516
+dragonscale leggings~
+some {Rd{rr{Ra{rg{Ro{rn{Rs{rc{Ra{rl{Re{x leggings~
+These {Rd{rr{Ra{rg{Ro{rn{Rs{rc{Ra{rl{Re{x leggings shimmer in the light.~
+unknown~
+9 0 AF 0
+E E E AC 0
+100 0 500 P
+A
+19 5
+A
+12 25
+A
+13 25
+0 0
+#1517
+glittering sigil trysteae~
+the glittering sigil of Trysteae~
+This necklace shimmers in the light, shifting through the colors of the rainbow - it is the holy sigil of Trysteae, Goddess of Kantalutha.~
+unknown~
+8 ABI AC 0
+0 0 0 0 0
+30 5 300 P
+A
+13 10
+A
+19 2
+0 0
+#1520
+midnight rose flower~
+a midnight rose~
+A rose as dark as midnight, has been left here.~
+unknown~
+11 GS AQ 0
+0 0 0 0 0
+20 1 200 P
+A
+13 10
+A
+18 1
+L
+tucked behind ear~
+0 0
+#1521
+skull grinning~
+a grinning skull~
+A grinning skull, with glowing red eyes, floats here~
+unknown~
+1 A AR 0
+0 0 999 0 0
+50 1 200 P
+E
+eyes~
+The eyes of this skull glow with a light of there own, bright enough to see by.
+~
+0 0
+#1522
+note seal shimmering~
+a shimmering note~
+A shimmering note baring a strange seal of red wax is here.~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 1 P
+E
+note~
+{cThe note reads:
+   To my old friend Maglos Dakkton, Baron of the kingdom of Discordia.
+Greetings, my friend, it has been long since we last spoke.  Were I
+not held up with urgent duties, I would have come to see you personally,
+but unfortunately my time is a resource these days more than it once
+was.  You may remember me as the ragtag representative of the Guild of
+Magic who came calling on King Tanos' domain so long ago.  I saw great
+promise in your neck of the woods, such as it was.  Unfortunately, it
+would appear that I had left too soon, for all news of the guild in
+your realm has ceased to reach our ears.  You held the rank of Wizard
+once for the organization, and I would ask that you do it again.  I,
+unlike my peers here, still have faith in your abilities.  May fortune
+shine upon you always.
+ 
+Sydro Defarlynn, High Wizard, Guild of Magic{g
+~
+0 0
+#1523
+apple~
+an apple~
+Angord~
+unknown~
+13 0 ADEM 0
+0 0 0 0 0
+0 1 1 P
+L
+Worn on Apple~
+0 0
+#1530
+token gate~
+a gate in the form of a token~
+A gate in the form of a token is here.~
+unknown~
+29 0 A 0
+1 0 0 13000 0
+0 0 0 P
+0 0
+#1531
+long black talons~
+long black talons~
+Pyros's long black talons are here.~
+unknown~
+9 0 AG 0
+E E E AC 0
+100 4 500 P
+A
+12 100
+L
+extending from feet~
+0 0
+#1532
+dragonscale arm wrap~
+a {Rd{rr{Ra{rg{Ro{rn{Rs{rc{Ra{rl{Re{x arm wrap~
+A {Rd{rr{Ra{rg{Ro{rn{Rs{rc{Ra{rl{Re{x arm wrap is here.~
+unknown~
+9 AGIST AS 0
+E E E AC 0
+100 10 500 P
+A
+13 50
+A
+12 50
+L
+tied around bicep~
+0 0
+#1533
+chocolate~
+a tempting bar of chocolate~
+A yummy piece of dark, organic chocolate... MMM.~
+unknown~
+19 0 A 0
+0 0 0 0 0
+1 0 2 P
+0 0
+#1534
+energy blade~
+an energy blade~
+This sharp blade crackles with energy.~
+unknown~
+5 0 AN 0
+B CD E ABD H
+100 0 500 P
+A
+12 30
+0 0
+#1535
+stone tortuguero~
+the Stone of Tortuguero~
+The Stone of Tortuguero lies here.~
+unknown~
+8 0 A 0
+0 0 0 0 0
+1 15 10 P
+E
+!history~
+Before you lies the stone of tortuguero.  The Stone of Tortuguero is an
+heirloom of the royal family of the city.  It originated back when the city
+was first formed, and is a piece of the cornerstone of the first stone
+building constructed.  It is an artifact which represents the beginnings of
+the city, and is held deeply in the hearts of the local residents.  
+~
+0 0
+#1536
+wedding ring~
+{xa {Ygold {xand {Rruby {xwedding band ~
+{xA {Ygold {xand {Rruby {xwedding band has been left here.~
+unknown~
+27 0 AB 0
+0 0 0 0 0
+1 2 0 P
+E
+ring~
+'Inscribed in beatutifully crafted handwriting are the words "My Love
+Always, Forever" 
+~
+E
+ring~
+'Inscribed in beatutifully crafted handwriting are the words "My Love
+Always, Forever" 
+~
+0 0
+#1537
+a gift~
+a finely wrapped gift~
+A finely wrapped gift is here.~
+unknown~
+8 0 AO 0
+0 0 0 0 0
+0 0 1 P
+0 0
+#1538
+deep purple crest~
+{ma deep purple crest{x~
+Meep meep!  Meep!~
+unknown~
+9 0 AE 0
+DGH DGH DGH DGH 0
+110 1 550 P
+A
+17 -250
+L
+adorning head~
+0 0
+#1539
+black armband~
+a black armband~
+This black armband hums with power.~
+unknown~
+9 B AS 0
+E E E AC 0
+100 2 500 P
+A
+19 5
+A
+18 5
+0 0
+#1540
+dark purple scales~
+{mdark purple scales{x~
+Meep Meep... Mrrphh...~
+unknown~
+9 0 AM 0
+ABCDE ABCDE ABCDE ABC 0
+110 0 550 P
+A
+18 100
+0 0
+#1541
+teeth dragon~
+{Wclean white teeth{x~
+Kagkjhgda~
+unknown~
+5 0 AN 0
+B BEF BEF ABD ABCDEGHIJ
+110 0 550 P
+L
+quite long~
+0 BC
+#1542
+magical magic aura~
+{Can aura of magic{x~
+Meep.~
+unknown~
+5 0 AN 0
+0 BEF BEF ABE ABCHI
+110 0 550 P
+L
+glowing~
+0 0
+#1543
+crest commander~
+{xthe commanders crest~
+Adam's commander's crest is here.~
+unknown~
+27 KSV AC 0
+ABDE ABDE ABDE BC 0
+97 1 1 P
+A
+4 1
+A
+2 1
+A
+1 1
+E
+crest~
+This crest is worn by the highest Aristean warrior, appointed only by
+Audrina herself.  On the back is an inscription reading: {WLoyalty, honour,
+bravery and strength.  {x 
+~
+L
+{Wworn regally{x~
+0 0
+#1545
+sword~
+an ancient sword~
+An ancient, battle-worn sword lies here.~
+unknown~
+5 AKR AN 0
+A CD E ACE D
+100 3 500 P
+A
+1 3
+A
+2 3
+A
+5 3
+A
+4 3
+A
+3 3
+A
+18 20
+A
+19 20
+A
+17 -499
+A
+13 10000
+0 0
+#1546
+cape light~
+{xa flowing cape of {Wl{Yi{Wg{Yh{Wt{x~
+A cape floats here mysteriously.~
+unknown~
+9 AS Aa 0
+CDE CDE CDE BC 0
+100 3 500 P
+A
+12 15
+A
+4 1
+A
+1 1
+L
+illuminating~
+0 0
+#1547
+ceremonial boots~
+ceremonial boots~
+A pair of Aristean boots have been left here.~
+unknown~
+9 A AG 0
+CDE CDE CDE BC 0
+100 3 500 P
+A
+12 15
+A
+3 1
+0 0
+#1548
+rose~
+{xa {Ym{Mu{Bl{Gt{Wi{Cc{Ro{Yl{Mo{Br{Ge{Wd{C {xrose~
+A beautiful rose is here, it seems to make a strange, low humming sound.~
+unknown~
+13 B AO 0
+0 0 0 0 0
+1 1 1 P
+0 0
+#1549
+Mace Judgement~
+{xa mace called '{WJudgement'{x~
+A large glowing mace has been left here.~
+unknown~
+5 K AN 0
+C CD E 0 A
+100 4 500 P
+A
+1 1
+A
+18 7
+A
+19 5
+0 0
+#1550
+crystal wedding ring~
+{xa {ccrystal{x wedding ring~
+{xAn wedding ring made entirely of {ccrystal{x is here.~
+unknown~
+27 0 AB 0
+BC BC BC A 0
+23 1 1 P
+A
+1 1
+E
+ring~
+This ring seems almost invisible at times, yet also seems to have
+definite shape and form; a crystalline structure that contains a pale green
+stone.  It nearly escapes notice at times but its color fades in and out. 
+Within the stone is a small inscription that is hard to make out.  
+~
+E
+ring~
+This ring seems almost invisible at times, yet also seems to have
+definite shape and form; a crystalline structure that contains a pale green
+stone.  It nearly escapes notice at times but its color fades in and out. 
+Within the stone is a small inscription that is hard to make out.  In tiny,
+intricate writing it reads: Marry me.  
+~
+0 0
+#0
+
+
+
+#ROOMS
+#1200
+The Temple of the Inane~
+A huge idol towers before you, grinning eerily.
+~
+0 141623818 0
+D2
+Asgard lies to the south.
+~
+~
+0 -1 1213
+S
+#1201
+Moses' Hangout~
+You see here a cozy little room with a fireplace.  You can tell it is
+Moses' room by the two stone tablets and a bible on a small ledge near the
+fireplace.  This room was designed for total relaxation.  You can watch
+television, listen to the stereo, even soak in a hot tub.  There is a bell
+here for the butler.  
+~
+0 1114120 0
+D0
+Asgard lies to the north.
+~
+~
+0 -1 1213
+S
+#1202
+The Center of the Universe~
+You are at the centre of the universe, everything is filled with bright
+light in all colors. You feel time and space no longer exist here.
+Exits fill the room in all 42 dimensions, leading everywhere.
+~
+0 1114632 0
+D1
+Asgard lies to the east.
+~
+~
+0 -1 1213
+S
+#1203
+Valhalla~
+This is the huge Hall of Valhalla, where the Gods rule supreme.  The
+cavernous building stretches infinitely in all directions.  Valhalla 
+continues to the east, and the gods make their homes north and south of
+the halls.  The golden gates are to the west.  You know not what lies 
+upward...
+~
+0 1081352 0
+D0
+Warbird and Thanatos own an office to the north.
+~
+door~
+2 -1 1209
+D1
+Valhalla continues east.
+~
+~
+0 -1 1217
+D2
+A sea cave is south of here.
+~
+door~
+2 -1 1208
+D3
+The entrance to Valhalla is to the west.
+~
+~
+0 -1 1216
+D4
+If you want to know what is up there, you shall have to go look...
+~
+~
+0 -1 1
+S
+#1204
+Priscilla's Pleasure Palace ~
+As you look around you, you see the largest collection of erotic toys
+in the world!!!  On a table in the middle of the room lies a book titled :
+"All You Ever Wanted to Know About Sex..But Were Afraid to Ask"
+There are things here that you never even imagined in your wildest dreams!
+~
+0 1081864 0
+D0
+Valhalla is to the north.
+~
+door~
+2 -1 1218
+S
+#1205
+The Eye of the Hurricane~
+The shrieking winds of a monstrous storm surround you, spinning you around
+in an endless web of fury. But then, in the middle of turmoil, you find a
+strange calm. You find yourself hovering in the calm eye of a hurricane. All
+around you you can see the desruction caused by the powerful storm. White
+hot flashes of lightning flicker from the depths of the hurricane.  But
+everything is strangely peaceful in here, with the sun shining in from above
+and a flock of birds winging across the sky.  You stretch out and relax, this
+storm is going to be here a while.
+~
+0 25094 9
+S
+#1206
+Walking on the Moon~
+The proud and lonely silence of Mare Imbrium surrounds you, as you gaze upon
+the sterile splendor of the moon.  All around is the velvet curtain of night,
+studded with a thousand gleaming jewels.  Below you hangs the beautiful
+fields of Earth, looking fragile and far away, but full of hope.  A sense of
+wistful regret touches you, as you think about what might have been, and what
+will be.
+~
+0 25094 0
+E
+crater mare imbrium~
+A small shipping tag is pinned to the ground with a worn hunting knife.
+Upon it is a dedication to Robert Anson Heinlein, the father of the future.
+~
+S
+#1207
+Tia's Study~
+Books, more books then you can possibly imagine cover every available
+inch of space, save for the small path leading to an antique writting desk
+in the corner.  Books from every time period in history overflow from the
+cluttered bookshelves and into stacks on the floor.  Despite the clutter,
+the room has a cozy feel to it, with a small fire burning in the fireplace
+set flush with the wall.  Looking around, you can see the great deal of
+knowledge and wisdom contained in these volumes, and you wonder what a
+Goddess of deceit would find so interesting.  Then you notice the small
+plaque on the wall.  
+~
+0 16904 0
+E
+desk~
+The desk is old, but looks to be well taken care of.  There are various
+qwill pens, paper, and reference books scattered about the top as if Tia was
+recently looking for something of importance.  
+~
+E
+plaque~
+The plaque is wooden, well worn, and appears to be hand carved.  The
+words of wisdom look back at you: Mans greatness is not found in his armies,
+for all men have armies.  Mans greatness is found in his ability to stop
+war, seek truth, and find courage instead.  
+~
+D2
+Valhalla is to the south.
+~
+door~
+2 -1 1217
+S
+#1208
+A Sea Cave~
+You are in a small cave in the cliff next to a deep green sea.  Fine
+gold and pink sand blanket the floor.  Shells are scattered and strewn
+about.  A blow hole in roof of the cave allows beams of light to stream
+in and illuminate the cave.  The wind blows outside the entrance, but
+you are protected from the weather in your cozy cave.  The foamy surf
+never seems to quite reach your feet.  Several boulders here have been
+worn by time into a shape similar to a comfortable chair.
+~
+0 1081352 0
+D0
+Valhalla lies to the north.
+~
+door~
+2 -1 1203
+S
+#1209
+Office of WarBird/Thanatos (The War Room)~
+This is where WarBird and Thanatos plan strategy. The rooms walls are
+just giant bookcases. Deep comfortable chairs form a half circle round a
+crackling fireplace. Prominantly displayed is a large painting of Thanatos
+because people often forget what the absentee immort looks like. Lastly you
+notice two huge oaken desks strewn with toy cannons, books of military
+history and various battle maps.
+There is a sign on the wall.
+~
+0 1081864 0
+E
+sign~
+The sign says:
+
+And please.
+No smoking.
+~
+D2
+Valhalla lies to the south.
+~
+door~
+2 -1 1203
+S
+#1210
+Bigfoot's Office~
+The first thing you notice about this office is the floor; it
+is a black & white checkerboard pattern, with 8 squares to a side.  The
+south wall is a HUGE picture window that produces a magnificent view of 
+the land.  In front of the window is a large desk.  Completely covering
+the east wall is a bookshelf, that is crammed full.  In the northwest
+corner, you notice a statue.
+~
+0 1081864 0
+E
+desk~
+This desk is much larger than anyone could possibly need.  At one end you 
+notice a large, disorderly mass of papers; it must be all his immortal
+paperwork.  At the other end is a magnificent wooden inlaid board with
+handcrafted ebony and hardwood pieces.
+~
+E
+statue~
+You recognize this as a statue of Robert James Fischer, one of the most 
+creative, if not eccentric, players of all time.  The inscription on the
+base reads, "I like the moment when I crush a man's ego."
+~
+E
+bookshelf~
+This is the most amazing collection of chess books you have ever seen.
+Everything from Damiano's manuscripts, to a complete collection of the
+Encyclopedia of Chess Openings, to the latest Imformants are all here.
+~
+D0
+Valhalla is to the north
+~
+door~
+2 -1 1217
+S
+#1211
+Arena of Judgement~
+The scene lain before you is one that gives you the feeling of being placed
+under a higher authority.  The jury is out.  A statue of Pontius Pilate is
+in the aft of the Arena.  Staring balefully, the statue faces a distant
+hillside where many aged crosses still stand.  The Arena is set in a wide
+pit-like field of trampled bloodstained grass, and is guarded by high walls
+of veinous marble.  A bloodstone seat awaits the true paragon of Romanity.
+~
+0 1081864 0
+E
+statue~
+A statue of Pontius Pilate is here.  On it's face is the expression of some
+age old contemplation.  Standing at the statues bronzy feet is a Blood red
+shield that glimmers like a pool of blood.
+~
+D2
+Valhalla is to the south.
+~
+door~
+2 -1 1218
+S
+#1212
+The Realm of the Dead~
+You are standing on an immense, grey stone floor that stretches as far as you
+can see in all directions.  Rough winds plunging from the dark, starless sky
+tear savagely at your fragile body.
+~
+0 1056776 0
+E
+sky wind winds~
+Cold winds plunge ceaselessly at you from the dark, cloudless sky.
+~
+E
+floor~
+The stone floor is the same shade of grey as the sky and is completely plain
+and unscratched.  It is probably too hard for anything to leave as much as a
+scratch on it.
+~
+D0
+The hard floor seems to go on forever.
+~
+~
+0 -1 1212
+D1
+The hard floor seems to go on forever.
+~
+~
+0 -1 1212
+D2
+The hard floor seems to go on forever.
+~
+~
+0 -1 1212
+D3
+The hard floor seems to go on forever.
+~
+~
+0 -1 1212
+S
+#1213
+Asgard~
+You stand on a huge expanse of glass.  Below you are clouds and the pains
+of mortality.  As you stand in Asgard, home of the bravest of the brave, you
+are frozen in awe of the power held within these walls.  A huge mansion lies
+to the east beyond a set of magnificent golden doors.  
+~
+0 1048576 0
+D0
+The chat room is to the north.
+~
+~
+0 -1 1200
+D1
+The golden doors of Valhalla are to the east
+~
+~
+0 -1 1216
+D2
+Moses' hangout is to the south.
+~
+~
+0 -1 1201
+D3
+The center of the universe is to the west.
+~
+~
+0 -1 1202
+D4
+~
+~
+0 -1 1215
+S
+#1214
+The Room of Lost Souls~
+This is the room full of souls that never made it to Asgard.  They are 
+trapped here eternally, left to wander about in misery.  They were infidels
+and cowards.  Their cries of misery send a shiver down your spine.
+~
+0 1048584 0
+D5
+~
+~
+0 -1 1219
+S
+#1215
+Head of the Rainbow Bridge~
+Standing on the mortal end of the Rainbow Bridge, the bridge arches up 
+before you and seems to disappear into the clouds.  You wonder if it is 
+wise to venture upward into the realm of the gods.  But it seems so calm
+and peaceful here that it would be a shame to leave...
+~
+0 1048576 1
+D4
+The Rainbow Bridge stretches ahead before you.
+~
+~
+0 -1 1220
+D5
+The altar of Midgaard is below you.
+~
+~
+0 -1 3054
+S
+#1216
+The Entrance of Valhalla~
+The huge ornate entrance of Valhalla is before you.  It seems as though
+atleast eight-hundred soldiers could walk abreast of one another through
+these doors. You stare in awe at the sparkling mansion before you.  You
+wonder what secrets are held behind these doors and long to hear the stories
+of bravery and glory that you know are kept within the walls of Valhalla.
+~
+0 1081344 1
+D1
+Valhalla lies to the east.
+~
+~
+0 -1 1203
+D3
+Asgard lies to the west.
+~
+~
+0 -1 1213
+S
+#1217
+Valhalla~
+You are standing in the halls of Valhalla.  Pictures of Odin, Thor, Tyr,
+Loki, Freyr, Feyja, and Balder line the walls.  The cavernous hall extends
+to the east and west.  Rooms belonging to the gods lie to the north and 
+south.  There appears to be an exit above you, but you do not know what is
+up there...
+~
+0 1081344 0
+D0
+Lisa's room is north of here.
+~
+door~
+2 -1 1207
+D1
+Valhalla continues east.
+~
+~
+0 -1 1218
+D2
+Bigfoots' room is south of here.
+~
+door~
+2 -1 1210
+D3
+Valhalla continues west.
+~
+~
+0 -1 1203
+D4
+If you want to know what is up there you shall have to go and look...
+~
+~
+0 -1 1212
+S
+#1218
+Valhalla~
+You are standing in the halls of Valhalla.  Tapestries of the gods line
+the walls.  A statue of Odin is here.  The halls continue to the east and
+west, and there are doors to the north and south of you.  There is some 
+sort of exit above you, but you do not know where it leads...
+~
+0 32768 0
+E
+statue odin~
+The statue of Odin has been exquisitely crafted.  It is of white marble
+with black and gold veins.  It looks to be of magical origin.
+~
+D0
+Pontius' room is north of here.
+~
+door~
+2 -1 1211
+D1
+Valhalla continues east.
+~
+~
+0 -1 1219
+D2
+Priscilla's Pleasure Palace is south of here.
+~
+door~
+2 -1 1204
+D3
+Valhalla continues west.
+~
+~
+0 -1 1217
+D4
+If you want to know what is up there you shall have to go up and see...
+~
+~
+0 -1 2
+S
+#1219
+Valhalla~
+You have reached the end of the halls of Valhalla.  There are heavy doors
+on 3 walls.  They lead into the rooms of the gods.  The hall goes back to
+the west, and there is some sort of an exit above you.  Torches sputter
+softly and the scent of incense is strong here.
+~
+0 1081344 0
+D0
+Melancholys' room is north of here.
+~
+~
+0 -1 1200
+D1
+Kates' room is east of here.
+~
+~
+0 -1 1200
+D2
+The Temple of Stupid is south of here.
+~
+~
+0 -1 1200
+D3
+Valhalla goes back to the west.
+~
+~
+0 -1 1218
+D4
+If you want to know what is up from here, you shall have to go up and see...
+~
+~
+0 -1 1214
+S
+#1220
+On the Rainbow Bridge~
+You have reached the center of the Rainbow Bridge.  Clouds and mist swirl
+around your feet.  The view from here is incredible.  It is little wonder 
+that the heavens were saved for the gods personal pleasures.
+~
+0 1048576 1
+E
+clouds~
+The clouds are beautiful.  There are shades of gray, pink and purple swirled
+into the blue sky.
+~
+D4
+The Rainbow Bridge continues upwards into the heavens.
+~
+~
+0 -1 1221
+D5
+The Rainbow Bridge disappears down into the clouds.
+~
+~
+0 -1 1215
+S
+#1221
+The End of the Rainbow Bridge~
+You have reached the end of the Rainbow Bridge.  Asgard stretches out above 
+you.  Looking around, you search for the legendary guardian of Asgard.  The
+clouds are far below you and a sense of beauty and peacefulness surrounds you. 
+~
+0 1048576 -1
+D4
+Asgard is above you, spread out in all its glory.
+~
+~
+0 -1 1213
+D5
+Bifrost, the Rainbow Bridge leads down to the Temple of Midgaard.
+~
+~
+0 -1 1220
+S
+#1222
+Maddie's Bower~
+A hint of a breeze blows across the room causing candles to flutter and
+cast flickering shadows.  Long lengths of silk float around a sunken pool of
+glistening water while a fountain bubbles in the background.  The scent of
+flowers lingers in the air as the candles melt into pools of molten wax.  
+~
+0 1081358 0
+S
+#1223
+Cannibus's Lair~
+Weapons and armor line the floor.  A strange odor is all over the room.
+There is chair in the far corner, and table.
+~
+0 1081359 0
+S
+#1224
+Ragnors Retreat~
+You are in a small circular room, There is a small plant in the corner of
+the room and a pool in the centre of the room.  The only noise you here is
+the oc casional plop of a fish coming to the surface.  The room is clean and
+light.  You can not tell the source of the light though so it must be
+magical in nature.  A single door leads you to the south.  
+~
+0 1048576 0
+D2
+You see a small circular door with a brass handle in front of you.
+~
+~
+1 0 1229
+S
+#1225
+Terram's Hall~
+As you enter the room, you see that it is made completely of stone and
+black and white marble.  It even the furniture seems to have grown from the
+floor, also being carved of the stone.  You wonder who could live in such a
+place, for a light dust fills the room.  An Immortal couldn't live here but
+yet you see large foot prints on the ground.  As you look at the foot
+prints, you also see a large ward carved into the marble.  Perhaps you
+should take a closer look at it.  
+~
+0 1081358 0
+E
+writing~
+LATIN: BEWARE TO ALL WHO ENTER MY DOMAIN WITHOUT PERMISSION.  FOR I WILL
+KNOW AND WILL EAT YOU ALIVE!  
+~
+E
+ward~
+A ward chizaled from the stone itself seems magical in nature.  Some
+scratched writing appears on it.  TYPE 'LOOK WRITING' 
+~
+E
+foot~
+These large bestial foot prints seem to have tallon markings where toe
+nails should be.  And something else, It seems as thought this creature is
+walking on all fours.  
+~
+S
+#1226
+Museum of Mushiness~
+Ahhhh...  The Museum of mushiness.  Around you are fluffy pillows, bowls
+of oatmeal, jiggling jello...  All numbered and labeled with little tags on
+each one.  You know you're not supposed to touch anything in a museum, but
+those pillows sure look tempting, and that oatmeal sure smells good.  
+~
+0 1048576 0
+D4
+~
+trapdoor~
+1 0 1234
+S
+#1227
+A small Botique~
+As you enter the shop a small hidden bell tinkles, as if to announce your
+prescence.  Along the north wall a glass counter stretches filled with all
+sorts of lovely items, and to the east is a small beaded curtain apparently
+leading to the back room.  
+~
+0 1056781 0
+E
+curtain east~
+As you approach the curtain, you are overcome by a wave of dizziness and
+the room appears to rearrange itself so that you are facing the oppisite
+direction.  
+Somewhere in the distance you hear laughter.
+~
+E
+counter~
+Just your average glass counter, beneath the glass you see all the items
+you could ever want 
+~
+D1
+~
+~
+0 0 1227
+D3
+~
+~
+1 0 1228
+S
+#1228
+Sea of Infinity~
+You find yourself wading in an ocean of pale blue water that seems to go on 
+for as far as the eye can see. The water is calm and clear and you can see down quite deep into the water below your.
+-
+~
+0 1049088 0
+E
+seagull~
+You see a white feathered seagull here, floating above the ocean.
+~
+D1
+~
+wave~
+1 0 1227
+S
+#1229
+Ragnors Lair~
+You are in a dusty, cramped room.  It is litterd with discarded pieces of
+broken equipment.  There is probaly furniture here but it is well hidden
+below piles of junk.  There is a small stone door to the north.  
+~
+0 1048576 0
+E
+junk~
+You can see bits of broken wands, shatterd staffs, smashed up crystal balls and various other dismanteld artifacts that once wielded power
+~
+E
+sign~
+~
+E
+sign~
+Watch out!!
+~
+D0
+You see a small circular stone door with a brass handle in front of you a strange black rune has been corsley painted on the door
+~
+~
+1 0 1224
+S
+#1230
+Despoth's Pizza Parlor/Hideout~
+The air here is damp, moist, and smells odd.  Not bad, in fact, it smells
+quite good.  Off in the corner, a small wood-burning oven has been set into
+the wall, and inside is a large pizza.  In the middle of the room, a large
+table has been set up with a red checkered tablecloth.  A bed lies unmade in
+the opposite corner of the oven, and a large couch sits about 4 feet south
+of it on the wall.  The floor is covered in thick shag carpeting, and random
+posters of Elvis Presley, Marylin Monroe, and others hang on the wall.  The
+area around the bed looks like it was warped into the room.  All of the
+other parts of this room are clean and organized, save for the bed area.  A
+small, round wooden door has been carved in the floor near the bed, and from
+it loud music can be heard.  And above, another round door has been carved,
+and again, loud music is eminating from it.  
+~
+0 1049600 0
+E
+air~
+You can't really see the air, but it seems very thick and it feels cold
+and damp on your face.  
+~
+E
+gravity~
+Gravity?
+~
+D4
+~
+~
+0 0 1252
+D5
+~
+~
+0 0 1240
+S
+#1231
+LySan's Lair~
+Hmm?
+~
+0 1048582 0
+S
+#1232
+The endless pit.~
+You are falling in a darkness that seems darker then dark.
+Air rushes past you whistling in your ears.
+~
+0 1048585 9
+D5
+~
+~
+0 0 1233
+S
+#1233
+The endless pit.~
+You keep falling in darkness that seems darker then dark.
+Air rushes past you whistling in your ears.
+~
+0 1048585 9
+D5
+~
+~
+0 0 1237
+S
+#1234
+The Palace Of Pointy Things~
+Your footsteps echo resoundingly around you as you enter an immense
+marble hall.  All around you are pedestals and display cases filled with a
+vast array of objects, all of them pointy.  From the walls jut huge, jagged,
+and yes, pointy structures.  Everything seems to point at YOU menacingly. 
+Watch YOUR STEP!!!!  
+~
+0 1048576 0
+E
+flan pudding~
+Sitting in the middle of all this is a big, gooey flan.  It looks soft
+and comfortable, if a bit sticky.  
+~
+D5
+~
+trapdoor~
+1 0 1226
+S
+#1235
+The Temple of the Scorpion~
+As you look around the room you see, small carvings of scorpions lining
+the walls and ceiling.  In the front of the temple is a large statue of a
+scorpion, the room is hot and muggy.  
+~
+0 1048582 0
+S
+#1236
+Despoth's Shop~
+This is a small, dimly lit shop, filled with weapons, armor, and a few
+other items.  There is s small counter near the far wall, maintained by
+a....  What looks to be.....  A skeleton.  He too is wearing a shirt that
+says "All Hail Despoth!"  
+~
+0 1049606 0
+S
+#1237
+The endless pit.~
+You keep falling in darkness that seems darker then dark.
+Air rushes past you whistling in your ears.
+~
+0 1048585 9
+D5
+~
+~
+0 0 1233
+S
+#1238
+The pet shop.~
+~
+0 3149838 0
+S
+#1239
+Storage room~
+~
+0 1048582 0
+S
+#1240
+The Battle Arena~
+As you enter the room, you feel time slowly come to a halt.  All around
+you, objects and debris float aimlessly.  Below you, a large floating orb of
+some type of energy pulses softly.  This must be what is causing the unusual
+effects.  
+~
+0 1048576 0
+D4
+~
+~
+0 0 1230
+S
+#1241
+Entro~
+~
+0 1048576 0
+D0
+To the north you see a beautiful doorway decorated with fine materials
+and stones.  
+~
+doorway~
+1 0 1287
+S
+#1242
+Nikorn's Abysmal Chasm~
+The chasm is silent save for a feint dripping noise that seems to come
+from all directions.  Stone walls glow with a dark shade of red, pulsing
+slightly.  The area is otherwise completely bare, and shows no signs of use.
+Overhead, darkness stretches to oblivion.  
+~
+0 1081344 0
+E
+walls~
+The walls throb with a mesmerising pulsation that repeats every few
+seconds.  They are engraved with an exquisite pattern that mind-bendingly
+defies law.  
+~
+D1
+~
+~
+0 0 1243
+S
+#1243
+A Tiny Alcove~
+Almost all of the alcove is deep black, no light is reflected on the
+walls, and from first impressions, the room seems an endless cavern.  At
+what must be judged as the centre of the alcove, there stands a small wooden
+chair, and resting upon the chair is a beautiful golden chest.  
+~
+0 1048576 0
+E
+chest~
+The chest is entirely without fault in construction, made by what appears
+to be solid gold.  Not a single grain of dust dares lie upon its surface. 
+Emblazoned upon the front is a symbol depicting four arrows, shooting from
+the same point of origin and in each of the cardinal direcions.  The design
+is simple, but seems to have some desperate meaning.  
+~
+D3
+~
+~
+0 0 1242
+S
+#1244
+Shadowman's Realm~
+This room is a dark and murky chamber with no escape.  The only source of
+light you see is a window that is really high up and has thick iron bars on
+it.  The stagnant smell makes you gag.
+~
+0 1081358 0
+E
+window~
+There is a window cut from a slab in the wall.  You can not see out of it
+because it is so high up, all that you can see is the light coming in.  
+~
+S
+#1245
+Stragler's Goo Pool~
+Upon entering this room you slip and fall on your bum.  Sitting there you
+notice that everything is make of slime.  The center of the room is nothing
+but a pool filled to the brim with a greenish goo.  Around the edges of the
+room are chairs and couches with the same greenish, gooish texture, yet they
+do look inredibly comfortable.  On the walls you see pictures and immaculate
+paintings of Strags in many differant poses from all his travles and
+adventures.  There is even a wetbar along one wall with bottles of wine,
+whiskey, rum and scotch.  
+~
+0 1081348 7
+E
+painting~
+gig
+This picture of Stragler decked out in a suit of armour is a little crooked.
+ @
+~
+E
+painting~
+This picture of Stragler decked out in a suit of armour is a little crooked.
+~
+E
+painting~
+This picture of Stragler decked out in a suit of armour is a little crooked.
+ . f
+~
+E
+painting~
+This painting of Stragler in a suit of armour is slightly crooked.  
+~
+E
+picture~
+This picture is of Stragler, holding a beautiful sword with one foot on
+the head of a great dragon, with townsfolk in the background, cheering.  
+~
+D5
+~
+~
+0 0 1246
+S
+#1246
+In the Goo Pool~
+You slip into the pool of Goo.
+It oozes and churns all around you.
+There really isn't anything to see here, at least, you can't see anything.
+Hopefully you an remember what diretion is up.
+~
+0 1048576 0
+D4
+~
+~
+0 0 1245
+S
+#1247
+~
+~
+0 6 0
+S
+#1248
+Auapia's Room~
+You seem to be in the source of an underground spring, the rocks drip and
+trickle cool water down every fracture and seam.  Moss and lichen adhere to
+every surface that has been left vacant of water.  The water and mica seem
+to reflect what little light there is.  
+~
+0 14 0
+S
+#1250
+Eris' Room of Discord~
+Amazing huh? This room has no entrances or exits and yet you can goto anywhere
+you like. Obviously when eris is allowed (and learns how) to create links, more interesting things will happen.
+~
+0 1081348 9
+D1
+~
+~
+1 0 1251
+S
+#1251
+The other room!~
+Even better than one room that doesn't go anywhere are two rooms, neither of which go anywhere. Wow!
+~
+0 1048576 0
+D3
+~
+~
+1 0 1250
+S
+#1252
+Despoth's Throne and Treasure Room~
+The walls in this room have been padded, and modelled to look much like a
+room in a mental asylum.  The floors have been covered with plastic and
+inflated, and oddly.  The gravity is much weaker in here.  Random fluffy
+objects float around, along with a large stuffed bear.  
+~
+0 1032 0
+D5
+~
+~
+0 0 1230
+S
+#1255
+Giant Redwood~
+Before you stands an enormous redwood, it's trunk larger in
+diameter than the tallest of giants is tall.  As you look
+skyward, all you can see is the massive trunk reaching for
+the skies, and the unbelievable amount of foliage near the
+top.
+~
+0 1048580 0
+D0
+~
+~
+0 0 1256
+S
+#1256
+Forest Clearing~
+You see a clearing in the forest.  Perhaps when Lotex has
+more time he will finish it's description.
+~
+0 1048576 0
+D2
+~
+~
+0 0 1255
+S
+#1258
+The Sigil room~
+{xAs you enter the room, you notice that everything is strange to your eyes.
+You see seven frames with different {rsigils {xin them, You also see a small
+glass {Cbox {xwith two {Ygold{x-colored fish swimming around, and a big
+bulky sofa.  Along the walls are a few pieces of paper with "paintings" of
+musicians with the words "Pearl Jam" below them.  
+~
+0 1082892 0
+E
+aquarium~
+{xLooking into the water-filled box you see some sort of {gvegetation
+{xaround it, sand covering the bottom with a sunken treasure chest spewing
+bubbles while two small {Ygoldfish {xswim around complacently.  
+~
+D3
+~
+doorway~
+1 0 1259
+S
+#1259
+The portal room~
+~
+0 1082888 0
+D1
+~
+doorway~
+1 0 1258
+S
+#1260
+Antra's play room~
+This is Antra's all purpose play room. It has big fluffy chairs and cushions. It is decorated in three different colors of purple satin and silk.
+~
+0 1048584 0
+D0
+A big white door stand in the way.
+~
+~
+1 1261 1261
+S
+#1261
+Antra's Store Room~
+This is the room that holds all of Antra's junk.  There are clothes and
+various things all over the place.  It looks like it could use a bit of
+cleaning.  
+~
+0 1048576 0
+E
+junk~
+Looking around you see a bunch of junk.  Under your foot is paper with
+etchings and doodles on them.  There are also clothes and books and pappers
+all around.  No where you step would there clean floor.  
+~
+D2
+A big white door stands in the way.
+~
+~
+1 1261 1260
+S
+#1265
+The mists of harmony~
+An ancient tune pierces through the mists, enveloping it in melancholy.
+Faint images form off in the distance, like those in a forgotten dream,
+only to fade away and then reappear in another location. There is no
+breeze here, only the faint pulsating of the music from all directions.
+Several comfortable looking musician stools are scattered about in
+ordered chaos, and instruments of various sizes and shape litter the area
+in a random pattern. It appears as if a symphony orchestra disappeared
+in the middle of a performance.
+~
+0 1081358 4
+E
+stool~
+Comfortable musician stools as scattered about.
+~
+E
+instrument~
+Instruments of various sizes and shapes litter the ground.
+~
+S
+#1269
+Present~
+A large beach stretches out before you.  The sea crashes gently on the
+pier and the rocks.  Seagulls cry in the sky, and laughter of children is
+heard echoing through the air.  Suddenly, everything fades away, like a
+dream.  Only whispers are left, as the world changes before your very eyes. 
+You are now standing on a barren mountain, with no life, no-one.  It is all
+very quiet, and nothing seems to change.  The sky is covered in darkness,
+and yet the heat is hardly bareable.  Yet, a small path leads back home. 
+Perhaps you will take it, perhaps not.  
+~
+0 1081870 0
+S
+#1270
+Githilintar's Study~
+{CAs the wall shimmers and then reforms, the study comes into full view.  The
+room is bathed in a wierd faint blue magelight.  Across the back wall is a
+gigantic bookshelf lined with books.  Hovering near the top of the room is a
+small ball, glowing the same faint color as the rest of the room.  To the
+left is a case, and upon further inspection it is found to be a weapons
+rack.  Upon each item within are a multitude of runes and crawling
+writing, which one might recognize as mage script.  Directly opposite
+of the weapons rack is an open cabinet in which various jars and
+bottles are shelved.  To the side of the cabinet is what looks like a
+workstation.  Various pieces of equipment, mundane and mage, are sorted and
+stocked.  In the middle of the room a mass of swirling, shifting
+clouds hovers a few feet above the ground.{x
+~
+0 1089550 0
+E
+bookshelf~
+Lining the back wall of the room is a huge bookshelf.  Looking over the
+various tomes of knowledge contained within, the sheer number of books is
+outstanding.  You don't see how anyone could have had the time to read all
+of them.
+~
+E
+ball~
+Hovering near the top of the room is a small, bluish glowing ball.  As you
+try to get closer to inspect it better, it glows brighter and even the
+non-mages can feel the magic power in the air.  Approaching this doesn't
+seem to be a good idea.
+~
+E
+cabinet~
+This cabinet also seems to house more than what its size lets on.  As you
+open the door a bit more and peer in, the shelves are lined jars, bottles,
+and pouches containing various things.  This obviously houses
+Githilintar's spell components.
+~
+E
+workstation~
+Sitting on the workstation are various tools used for what you can guess are
+making magical items and such.  There is a work in progress clasped in a 
+vice at one end of the station, but you aren't quite sure what you
+are looking at.  You turn your attention back towards the table in time to
+see the tools animate and start working on the object in the vice.
+~
+E
+cloud~
+Hovering in the middle of the room is a swirling mass of clouds.  Light and
+fluffy, they look so very comfortable and inviting.  As they squeeze over
+each other and move this way and that, you realize that sleeping on that
+must refresh you like no other bed imaginable.
+~
+E
+case~
+This case has an extraordinary amount of weapons cased in it for the size
+that it seems to be.  SHelved and catagorized are various long swords,
+short swords, daggers, staves, wands, halberds, and one battle axe.  one each
+weapon there are two distinct things that you notice that are not normal
+to most weapons.  There are runes written over all of the weapons and on
+a select few there is what looks to be a written language, except for the
+fact that the letters and symbols are crawling around.
+~
+S
+#1272
+The Center of the Grove~
+Trees encircle this space, barren of any vegatation other than a carpet
+of fresh, dense grass.  The sprawling oaks, cedars, and willows that
+surround you appear to be somewhat older than the average trees one might
+encounter, though they are ungnarled and unblighted, you simply have the
+impression of their antiquity.  Your eyes are drawn to an enormous cedar
+stump in the middle of the grove.  
+~
+0 1049606 0
+E
+west~
+To the west, you find nothing but a deep entangled forest of ancient trees.
+~
+E
+south~
+To the south, you find nothing but a deep entangled forest of ancient trees.
+~
+E
+east~
+To the east, you find nothing but a deep entangled forest of ancient trees.
+~
+E
+north~
+To the north, you find nothing but a deep entangled forest of ancient trees.
+~
+E
+stump~
+On closer inspection you find that what you had assumed was a rotting stump
+of a long dead oak is actually an altar of sorts. Candle wax has marred the
+in various places, it even appears that the top is polished by some means. Your eye is drawn to a glimmering idol in the center of the stump.
+~
+S
+#1277
+A Crease in Time~
+You have come to the legendary Crease in Time.  Folks from all worlds,
+realms, dimensions, and timelines come from near and far to gather here and
+associate themselves with their fellow space/time groupies.  The place
+itself is not exactly as most people imagine it.  It pretty much like a pub
+of the future, and since you cannot find anything special about it, you
+decide it must have some kind of advantage in its position: Take a left at
+Vega and head three light years toward Ursa Minor.  The tables are
+positioned so that they float directly between two magnets, but some force
+yet to be discovered by your kind holds them from moving in the four
+cardinal directions.  The chairs are made of a cold metal, and the bar
+hovers a bit above the ground so it may be manipulated to suit the
+atmosphere.  The air smells of a strange ale.  One that is attractive to all
+comers.  
+~
+0 5242892 0
+E
+magnets~
+The magnets are large, though not easily visible.  They protrude only
+slightly from the ceiling and floor, giving them the affect that they are
+simple tiles, and not holding up the tables at which people are sitting. 
+They have systems in them to keep the magnetic field balanced so that the
+tables do not sink when extra weight is applied, but apart from the obvious
+display of technological advance, the magnets also serve as theraputic
+tools, working on the iron in the blood to sooth tense emotions.  
+~
+S
+#1278
+A Vast Ocean~
+Darkness.  Cold.  Overwhelming pressure.
+~
+0 1056781 0
+S
+#1280
+Tessa's Treehouse~
+You see a cosy room furnished in soft leathers and wood and decorated in
+early 4th century druidic.  A bearskin rug, strewn with big goosedown
+pillows fills almost one half of the area of the room.  Weeping tree
+branches form living walls which sway gently in the breeze.  White noise
+surrounds your senses, leaving you feeling drowzy and dazed.
+~
+0 1082376 0
+E
+walls~
+Weeping tree branches sway gently in the wind.
+~
+E
+pillows~
+You see fluffy pillows, covered with uniquely crafted, hand-woven casings.
+~
+D5
+~
+double~
+1 0 1281
+S
+#1281
+A climbing tree~
+You face an ancient tree both wide and tall.  Branches grow out from the
+trunk so evenly, they seem to invite you to take hold and climb.  Lively
+squirrels chatter and skitter amongst the higher branches, and small,
+furrowing creatures scurry about your feet.  
+~
+0 1049600 3
+E
+creature~
+A tiny little mole scurries under a leaf at your feet.
+~
+E
+squirrel~
+A squirrel bounces angrily from branch to branch.
+~
+D4
+~
+~
+1 0 1280
+S
+#1283
+The Immortal Council~
+Streams of power converge in the aether at this very spot. This is the
+center of the universe, a place where all that once was is, and
+what will be is determined. All locations within the universe can be viewed
+with an alarming clarity. A large stone table rest in the center of this
+place, surrounded by stone chairs. In the center of the table is a huge
+tablet, inscribed with the names of all the gods.
+~
+0 1082382 9
+S
+#1284
+The floating oasis.~
+This is the famous Floating Oasis that the god Krass had claimed for
+himself during the time the gods of this realm were being granted their
+powers.  It is a breathtaking place.  The high palm trees, the clear crystal
+lake and the small patch of grass are all a bit strange in a hot desert like
+this.  It is as though time has not dared to enter here.  Outside and
+far below you can see the sands shifting in an uneasy way always moving
+towards a new place.  But here in this floating piece of heaven the soft
+cool breeze whistles through the winds and cools you body as well as your
+feelings.  
+A reminder is floating around beeping so you will notice it.
+~
+0 1081350 10
+E
+lake~
+this is a cool lake.
+~
+E
+[lake]~
+As you look at the lake you can see the fish swiming in peace.
+~
+E
+reminder~
+The meadow's vnums are: 21150-21250
+Also finish directions ed add to Academt.
+~
+S
+#1285
+inside the pool~
+You are swimming inside THE most perfect pool you ever set foot in.  The
+cool sweet water and the rays of sunlight that flickers through the water
+just makes all you muscles relax and your mind to drift.  After this good
+relaxing swim you feel fully refreshed and you are ready to go and take on
+what ever the world will bring.  
+~
+0 1048580 7
+D4
+~
+~
+0 0 1284
+S
+#1286
+Warm Study~
+Among the sheer volume (get it?) of books, one single book catches your eye.
+~
+0 5242894 0
+E
+book~
+Here are recorded the exploits of the Master Magician Akira.
+     Red Book:     Exploits of Creation
+     Orange Book:  Exploits of Time
+     Yellow Book:  Exploits of Counseling
+     Green Book:   Exploits of Light
+     Blue Book:    Exploits of Miscellanies
+     Indigo Book:  Exploits of Magic and Skill
+     Violet Book:  Exploits of Exorcises
+~
+E
+red~
+Herein are written Master Akira's exploits in the realm of creation
+ as recorded by his child Nanshi.
+     1. To have equipment and weapons be seen as worn in a way as deemed by
+         the creator.
+     2. To be able to quickly determine what a lifeform's strengths should
+         be in the eyes of a creator.
+~
+E
+orange~
+Herein are written Master Akira's exploits in the realm of time
+ as recorded by his child Nanshi.
+     1. He taught the world how to measure time in minutes instead of
+         only using hours.
+     2. He took time and slowed it down six fold.
+~
+E
+yellow~
+Herein are written Master Akira's exploits as a counselor to other's work
+ as recorded by his child Nanshi.
+     1. He gave a very slight amount of aid to the great Spellsong
+         in his own exploits of limiting certain objects in the world.
+ 
+~
+E
+green~
+Herein are written Master Akira's exploits in the realm of light, and how
+ and how people perceive eachother as recorded by his child Nanshi.
+     1. He made it so mortals would not see the halo of light from the 
+         heavens if the immortals were in hiding.
+     2. He restored the power to hide and sneak properly to the thieves
+         of the world.
+~
+E
+blue~
+Herein are written the exploits of Master Akira that are either so great, the 
+ encompass part of the universe itself, or are so mystical, that they can not 
+ be described as anything else save for as being miscellaneous deeds, as 
+ recorded by his child Nanshi.
+ 
+(The parchment is blank)
+~
+E
+indigo~
+Herein are written the exploits of Master Akira in the realms of magic and skill as recorded by his child Nanshi.
+     1. He brought the knowledge of how to use an aiding wand without evoking
+         fear in another.
+     2. He taught the people of the land how to properly brew potions, and
+         to properly scribe spells onto parchment, destroying the potions
+         scrolls of the land which had been corrupted by poor magic.
+~
+E
+violet~
+Herein are written the names of the demons which Master Akira sealed,
+ keeping the world safe, as recorded by his child Nanshi.
+     1. The first of his deeds on this world, the sealing of the evil demon,
+         Descriptor, whom had attacked those entering the world.
+     2. The exorcism of the executioner, and sealing of the void creating
+         demon, NullCreation.
+~
+S
+#1287
+Home of Nuln~
+Peace and serenity surround you as your eyes wonder around the room.  Two
+extremly large pillars that seem to be made of some sort of precious stone
+create a beautiful archway above the gate wherein you stand.  Across from
+you is a small hut which represents the humbleness of the owner. 
+Everything, but the hut, seems very lavish.  
+~
+0 1081348 0
+E
+hut~
+A small straw hut that is about eye level with you.
+It looks pretty flimsy, but at the same time mighty!
+~
+E
+pillars~
+There are two beautiful pillars made from precious stone that you've
+never seen before.  You can tell that they are special by the way they
+shimmer in the light.  
+~
+E
+archway~
+The archway looks very beautiful and very delicate.  It must have been
+expensive.  
+~
+D2
+~
+doorway~
+1 0 1241
+S
+#1288
+And end up here!~
+~
+0 1048582 0
+S
+#1289
+Then come here~
+~
+0 1048576 0
+D3
+~
+~
+0 0 1288
+S
+#1290
+Start here~
+~
+0 0 0
+D1
+~
+~
+0 0 1289
+S
+#1291
+Fury's comfy little hole.~
+You've entered someone's comfy little home.  The inhabitant isn't very
+tidy, clothes are strewn everywhere.  
+~
+0 1048576 0
+E
+dirty~
+Several days worth of dirty clothes are laying around.  
+~
+D0
+~
+hole~
+0 0 1200
+S
+#1292
+The Underwater Shop~
+You are now in a small room in Devin's Dream. This is where Devin comes to eat every night during his sleep. It is also the place where all of the ocean creatures come to enjoy a heart-healthy meal.
+Grab a bite to eat, the food is great.
+~
+0 1048576 0
+D1
+~
+~
+0 0 1295
+S
+#1293
+Gamesroom~
+Hope you like the inside of my mind....psychiatrists need not apply.
+~
+0 1048590 0
+S
+#1294
+The Bedroom~
+This room is darker than the main room.  The windows are stained glass
+here as well, though smaller and higher up on the walls, creating the
+splashes of colour over the soft-looking bed.  There are more flowers about
+the room, and the wonderful vanilla smell is a little stronger here, coming
+from a few candles deeply set in the walls.  
+~
+0 1049097 0
+D5
+~
+~
+0 0 1298
+S
+#1295
+Deeper in Devin's Underwater Dream.~
+You are now even deeper in Devin's Underwater World.  The light is very
+dim here, and you need a light to see.  Creatures in this area even carry
+their own light source!  This place is very confusing to you, you are glad
+that you don't have to worry about being this deep all of the time.  You can
+swim up to get to the beautiful light-filled world of Devin's, or you can
+stay here in the darkness.  
+~
+0 1081345 6
+D3
+~
+~
+0 0 1292
+D4
+~
+~
+0 0 1297
+S
+#1296
+{YTryain's Wonderland~
+{WYou are in Tryain's Wonderland, there are millions of things happening and thousands of things to see.  Nothing seems to be staying still, everything is moving, you stand back and are amazed at what you see.
+~
+0 1048582 0
+S
+#1297
+Devin's Underwater Dream~
+As you step into this beautiful dream, you can't help but notice the
+immense tranquility that this room carries.  This is the place where Devin
+takes amazing underwater adventures into the deep of the oceans.  Many sea
+creatures swim around you and as you look up, you see the real world
+hundreds of feet above you.  You want to stay here forever, but you must go
+to the surface for air.  
+~
+0 1081344 6
+D5
+~
+~
+0 0 1295
+S
+#1298
+Sig's Love Shack~
+A dimly lit room with quiet music and a wonderful almost vanilla smell
+wafting through.  High stained glass windows add dapples of colour to the
+plushly carpeted floor.  There are pillows and flowers scattered about the
+room.  
+~
+0 1081349 9
+D4
+~
+~
+0 0 1294
+S
+#1299
+{BLisen's {YF{Ri{Yr{Re{Ys{Ri{Yd{Re{c~
+You enter the cottage and are almost blinded by the contrast to the night
+outside.  As your eyes adjust you notice that this is the oddest "cottage",
+if that is the right word for such a place, that you have ever been in.  The
+light seems at first to come from the walls, but then you notice that it's
+simply reflected from the single fireplace in the far wall by walls that
+seem to be made of pure glass.  No, they seem to be made of crystal, yes,
+pure crystal.  Trapped within the walls and ceiling are veins of silver and
+obsidian, giving the light an almost stellar quality.  The floor seems to be
+the only exception in this 'glass house', being made of pure black marble,
+polished so highly that it reflects the light as well as absorbs all the
+shadows.  Even in the midst of so many odd things, you feel safe from the
+chill night outside, even as a wolf howls in the distance.  
+~
+0 1081358 0
+S
+#1300
+Darkness and Terror!~
+Almost complete darkness shrouds this room of obscurity.  It is hard to
+see much beyond the circle of intricately arranged candles to the walls
+beyond, which is covered with several devious devices of of torture.  The
+room smells of blood, charred flesh, and incense.  What can be seen of the
+walls shows them curving upward in a dome-like fashion.  The ceiling is open
+showing the blood red sky of another world.  Thousands of blazing stars
+shine above constantly changing position.  Hair raising screams can be heard
+from all around...  Alas this is just a tomb resting in the eccho side.  
+~
+0 1056783 0
+E
+candle~
+A blood red candle oozes red down the shaft onto the floor.
+~
+S
+#1301
+A small island~
+~
+0 1048582 0
+S
+#1302
+Audrina's Happy Place.~
+You have entered Audrina's Happy Place.  Never before have you felt such
+inner peace.  As you proceed to investigate your new surroundings you are
+very aware that this room smells of freshly cut grass.  Each of the four
+walls has a large mural painted on it, representing all four seasons.  In
+the corner you see a bed, a closer inspection has revealed Audrina's bed is
+made of white fluffy clouds.  Although the sun is shining brightly through
+the window, curiously, you begin to hear a very gentle rain...  Perhaps you
+should rest here awhile.  
+~
+0 1049100 0
+E
+bed~
+A very large, very fluffy cloud bed occupies the corner of this room.  
+~
+E
+item~
+done
+~
+E
+mural~
+You see four very large murals.  Each one representing a season in
+brilliant detail.  
+~
+D1
+~
+~
+0 0 1303
+S
+#1303
+Audrina's Giant Walk-In Closet~
+This is the biggest closet you have ever seen in your entire life.  Any
+item of clothing you ever imagined is here, and in every color.  The entire
+closet has been arranged from darkest black to purest white.  This is
+certainly a wardrobe to be proud of.  
+~
+0 1048584 0
+D3
+~
+~
+0 0 1302
+S
+#1304
+Between Here and There~
+Are you here?  Are you there?  
+~
+0 1310728 0
+D3
+You glimpse a bed and a large of pile of clothing in the next room.  
+~
+~
+0 0 1305
+S
+#1305
+Ethran's The Dog House~
+Small but cozy, this doghouse has all the comforts of home.  Careful not to 
+step in Ethran's water dish on your way out.  
+~
+0 1048576 0
+E
+socks~
+You see a large pile of sparkling and clean socks which have not been
+worn for a great, great while.  You suddenly realize how Tul has maintained
+his health and become a great diety.  
+~
+D1
+You glimpse into the realm of the mighty Tul.  
+~
+~
+0 0 1304
+S
+#1310
+The Ice Caves~
+This is a large cavern deep underground.  The walls are slick and cold to
+the touch, they appear to be ice.  The floor beneath your feet is also slick
+but slightly clear as well.  There seems to be a constant cold in this
+place.  It has a sense of bad karma and many feel the urge to leave.  
+~
+0 1048580 0
+D5
+~
+~
+0 0 1313
+S
+#1311
+The Grand Courtroom~
+You stand within a large wooden courtroom.
+~
+0 1081356 0
+E
+light~
+The beam of light battles hopelessly with the dark.
+~
+D1
+~
+~
+1 0 1312
+S
+#1312
+The Jury Room~
+~
+0 1048580 5
+D3
+~
+~
+1 0 1311
+S
+#1313
+A lower chamber~
+It seems to grow colder as you decend into this lower chamber.  The walls
+are still of ice but now they appear to have large chunks of rock in them as
+does the floor.  A low whistling sound can be heard from an unknown location
+There is a large crack in the floor running across the north corner of the
+chamber, it may be wide enough to look through.  
+~
+0 1048576 0
+E
+crack~
+You peer through the crack and see someone looking back at you!  On
+closer examination you see it is a man frozen into the floor, a horror
+stricken look upon his face.  
+~
+E
+crack~
+~
+E
+crack~
+You peer through the crack and see someone looking back at you! On
+closer examination you see it is a man frozen into the floor, a
+horror stricken look upon his face.
+~
+D4
+~
+~
+0 0 1310
+S
+#1320
+Relkins Pit~
+As you gaze about this confusing pit you notice that someone seems to be
+living here.  There is a collection of books stacked in north-western corner
+close to a nest like bed, made up of a collection of rags, cloth and furs. 
+Opposite the "bed" is a large grandfather clock the case of which seems to
+be made of walnut and is in good condition.  A collection of old swords,
+maces, spears and whips stand in the south-eastern corner.  A crack runs
+down from the rough stone roof though the northern wall, though this a
+breeze can be felt.  The air is tainted by a strong smell of mixed incense
+which seems to come from an unknown source.  
+~
+0 1048590 0
+E
+books~
+The books seem to cover a wide range of subject, such as "One Hundred and One Things to do When Bored" to "The Sound of One Hand Clapping"
+these seems to have been read often by the condition and heavy ware of them.
+~
+E
+clock~
+This seems to have stopped at twelve o'clock
+~
+E
+books~
+goto 1320
+~
+E
+books~
+This pile of ware books must have been used often due to there condition.
+Subjects seems to range a great deal.  There are books on things from "The
+Sound of One hand Clapping" to "How Best to Cook a Heart".  
+~
+E
+books~
+This pile of worn books must be much loved going by there condition.  The
+subjects range from "How Best to Cook A Human Heart" to "Eye Spy Birds" and
+"The Sound of One Hand Clapping".  The text inside is in a scriped that is
+unkown to you so little more can be gained from them.  
+~
+E
+bed~
+Though disodered it looks comfortable and clean enough.
+~
+E
+nest~
+Though disordered it looks clean and comfortable enough.
+~
+E
+swords~
+These may look real but they are made of a soft substance.
+~
+E
+mace~
+These are to light to be of use.
+~
+E
+spear~
+This spear would be better used to grow beans up than to kill with.
+~
+E
+crack~
+The crack seems to lead outside though the pitted stone walls
+~
+S
+#1321
+A Forest Grove~
+The trees loom over you like giants from another time, dark and powerful
+almost as if they are watching you.  To the south a cliff face can be seen
+though the dense woodland that hems in this clearing.  Small dark shapes
+flit about at the corner of your vision, too quick to get a clear look at. 
+A large stone dominates the middle of the clearing, seeming as movable as a
+mountain, strange markings are scratched into the surface.  There is an
+unnatural quiet about this place, not a single creature can be seen or
+heard.  
+~
+0 1048583 3
+E
+cliff~
+There is a crack large enough to enter and a strange smell coming out of the cliff face.
+~
+E
+tree~
+Menace seems to flow from the trees like rain flows to the sea.  Strong and unstopable.
+~
+E
+small~
+You attempt to see the zipping thing but saddly its to quick!
+~
+E
+shapes~
+You turn your head quickly but ping its gone!
+~
+E
+flitter~
+You manage to make out red eyes and pink skin before the dark shape is gone from your sight.
+~
+E
+stone~
+Upon closer inspection it seems the markings are signs of Ubel and are praising Sighel Goddess of Evil.
+~
+E
+markings~
+These are praising Ubel and the great Goddess of Evil Sighel.
+~
+E
+large~
+To wide for a large man to reach both sides at once.
+~
+S
+#1333
+The Belly of the Great Dragon~
+~
+0 1056774 0
+S
+#1390
+Above an Abyss~
+Passing through the archway leaves you slightly disoriented.  The walls and 
+ceiling here are a shiny obsidian, the floor a transparent material showing 
+an unfathomable abyss below you.  What looks like fire glows in the distance 
+down.  There is a sense of movement in the room, though the source is 
+unseen.  An archway to the east is the only apparent exit.  
+~
+0 8200 0
+D1
+~
+~
+0 0 1391
+S
+#1391
+A Dusty Vault~
+Upon entering, the dust in the air envelops you and threatens to crawl into 
+your lungs.  Three torches flicker on one wall, lending an eerie light that 
+makes the shadows dance around you.  Etched into the floor itself is a 
+pattern that resembles a labrynth and takes up almost the whole room.  
+Broken glass litters the floor in odd places, crunching under your feet with 
+each step.  In the corner is a chest that appears to be made of chestnut, 
+with severely rusted hinges.  A tall archway leads toward the west.  
+~
+0 8 0
+E
+pattern~
+The etching circles and winds all over the room, and the overall pattern 
+wavers as you look at it.  It almost forms a picture, but the picture never 
+fully takes shape.  The grooves are stained a dark color, like the color of 
+dried blood.  
+~
+D3
+~
+~
+0 0 1390
+S
+#1392
+Dragons Lair~
+Upon entering the Dragons Lair an extremely hot wave of heat blast its way 
+toward the entrance.  Its power almost enough to injure any man.  There has 
+been many deaths here, the skeletons on either side of the give proof of 
+that.  The walls are littered with finger nail scratches, some of them deeper 
+than others.  
+ 
+~
+0 0 0
+D0
+~
+~
+0 0 1393
+S
+#1393
+Dragons Lair~
+In the main chamber of the Dragons Lair there are thousands upon thousands 
+of stalactites hanging overhead.  There is a little hole at the top that 
+lets some light in.  The light is sufficient enough to have a look around.  
+The walls in here are bare, nothing must have ever made it past the 
+enterance before.  
+~
+0 0 0
+D2
+~
+~
+0 0 1392
+S
+#1444
+Chamber of Dreams.~
+You stand in a vast chamber of multicoloured substance.  Dreams form and
+act themselves out as swiftly as a thought dying then into that
+multicoloured substance.  As you focus your vision you see an unending
+number of dreams act themselves and then as suddenly as they appeared, you
+find yourself facing your own dream.  The confrontation with your true
+dream, your greatest wish, unnerves you, and you wish you had never stumbled
+into this place.  As you plea to leave all the nightmares that ever chased
+you make themselves visible and alive in the area of the chamber.  
+~
+0 34635782 9
+S
+#1500
+Green Mysts~
+~
+0 1081358 5
+S
+#1503
+Unused~
+The cobbled path stretches away to the north and west for some distance, 
+both sides of the street lined with stone structures.  Some of the buildings 
+have signs hanging in front of their doorways to identify them as shops of 
+various sorts, and that includes the ones that are directly east and west of 
+this point.  A grand citadel blazing in gold can be seen over the western 
+buildings, its smooth walls only disrupted by what might be life-sized 
+carvings of dragons.  
+~
+0 32772 0
+S
+#1504
+Belic's Lair of Solitude~
+You are standing in the middle of a small hut.  Spartan by size and
+design, you see a mat laying on the floor.  Along the east wall, your eyes
+fall upon many mounted trophies taken from battle.  The head of a troll, the
+arm of a giant, and the claw of a dragon are just a few of the many
+trophies.  As your eyes start to drift toward the west, your heart is filled
+with bloodlust as you behold the finest crafted sword in the Realm.  
+~
+0 1048588 0
+E
+sword~
+Crafted in the flames of hell, the blade is almost invisible until the
+light strikes it.  The hilt is brimstone, and still glows with the power of
+its origins.  
+~
+E
+claw~
+Looking at the claw, you realize that it was ripped, not sliced off.
+~
+E
+claw~
+~
+D0
+~
+~
+0 0 1505
+D2
+~
+~
+0 0 1503
+S
+#1505
+{BBelic's Treasure~
+This room is in stark contrast to the one you just left.  Where there had
+been nothing in the chamber to the south, this one is filled of all manner
+of loot taken from around the Realm.  Two large kegs sit in the northern
+corner, ready to relieve you of your thirst.  Piles of gold and precious
+gems fill both the eastern and western walls.  Weapons lay piled neatly in a
+stack in the center of the room.  But the most remarkable thing in this
+room, the one that makes you do a double take, is an axe made of solid gold,
+inlaid with precious gems.  
+~
+0 1048580 0
+E
+axeed~
+This is truely a thing of beauty.  The blades are solid gold, the shaft
+is a blend of mother-of-pearl, emeralds and diamonds.  The axe is lighter
+than air and the blades will never dull.  
+~
+D2
+~
+~
+0 0 1504
+S
+#1506
+A Hidden Chamber~
+Here in the inner belly of the cavern is a dark chamber.  The vaulted
+grotto is large, yet inviting, seeming to draw you into the blanketed
+darkness.  The walls are made of shimmering obsidian, smooth and cool in
+appearance.  The room is full of candles, all casting soft dancing shadows
+onto the glistening walls.  In the center of the room is a massive bed,
+covered in smooth silks.  This room appears to be a comforting haven, made
+for pleasure and rest.  
+~
+0 34619912 0
+D0
+~
+~
+1 0 1507
+S
+#1507
+Underground Cavern~
+This massive room is made of smoothed rock, the walls and ceiling glisten
+in the light of the torches and the few staglatites that hang from the
+ceiling drip water into clear pools on the floor.  The pools appear to have
+grown out of the floor and over time formed flowing streams and fountains
+with the running water.  All over the walls are pictures and glowing
+lettering.  
+~
+0 1065480 0
+D2
+~
+~
+1 0 1506
+S
+#1508
+Ye Ole Chaos Shoppe~
+{kSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+{WThis rickety s{Rhack{W is f{Ru{Wl{Rl{W of posters, sig{Rn{Ws, and stra{Rn{Wge memorabilia {Rpicked{W
+up over the ye{Ra{Wrs.  A p{Rost{Wer on the woode{Rn w{Wall to th{Re n{Worth catches y{Rou{Wr
+eye.  Another {Rone{W on th{Re w{Western wall b{Reside {Ra{W cabine{Rt s{Weems to be out{R o{Wf
+{Wplace here.  A sign hangs just above t{Rh{We entra{Rn{Wce.  A {Rf{Wew odds and {Rends {Ware
+on a small table here.
+~
+0 1048590 0
+E
+table~
+There are a few scattered things on this table.
+ 
+First and foremost, a scrap of paper.
+{RTo do list for Lisken:
+1.  Bother silly mortals--in progress
+2.  Take over the world--pending approval from the Board of Chaos
+3.  Pay bill for chariot--incomplete
+4.  Pay bill for assassin to kill man that sold the chariot--incomplete
+5.  Pay bill for assassin to kill assassin who killed the man that sold the chariot--incomplete
+6.  Find assassin to kill assassin who killed assassin and so forth--in progress
+{W
+The paper is held down by a small paperweight, decorated with a symbol and writing.
+{YCome support us in the annual Chaos event, in which every mortal dies and no one really wins.
+Copyright Discordia City, 551 AW.
+ 
+{W In the center of the table is a small, clear crystal ball.
+Beside it is a small piece of machinery, designed with decorated buttons on it.
+This must be where Lisken watches the world from.
+~
+E
+sign~
+Welcome to Ye Ole Chaos Shoppe.  Look, don't touch.  Take off your shoes at 
+the door.  Lisken likes clean carpets.  
+~
+E
+west~
+This appears to be some sort of strange advertisement poster.
+ 
+{RE-N-T-R-O-P-Y, you ain't got no alibi,
+Go Chaos!  Go!  Go!  Go Chaos!
+ 
+{GE-R-I-S, which imm was our favoritest,
+Go Eris!  Go!  Go!  Go Eris!
+ 
+{BKan-Ta-Luth-A, why can't silly mortals say
+Go Kantaloootha!  Go!  Go!  Go Kantalooootha!
+ 
+{GT-R-Y-S-T-E-A-E, this imm made us feel so free
+Go Trysteae!  Go!  Go!  Go Trysteae!
+ 
+{RS-Y-N-CARTH, our team mascot smells like barf
+Go Syncarth!  Go!  Go!  Go Syncarth!
+ 
+{YL-I-S-K-E-N, if he can't do it no imm can
+Go Lisken!  Go!  Go!  Go Lisken!
+~
+E
+north~
+This poster shows a pair of drawings, apparently depictions of Eris, a God of Chaos.
+One faces forward, the other is a profile picture.  Below the picture is a small caption.
+ 
+{YHave you seen this man?  If so, please report the sighting to Missing Gods, Inc.
+~
+S
+#1510
+unused~
+A pair of single beds have been placed within this chamber covered in floral 
+patterned sheets that compliment the wallpaper that adorns these walls.  A 
+small doorway leads to the east upon which has been painted a stylized 
+design of a chamber pot.  Windows in the northern and southern wall look out 
+into either the street if one looks to the south or into the forest or 
+garden if one should look out of the northern one.  Thick curtains have been 
+placed to either side of the windows hanging from curtain rods so that they 
+may be opened or closed upon a whim.  
+~
+0 1048588 0
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 1208 spec_breath_lightning Load to: a flying purple people eater
+M 1211 spec_fido Load to: a horse-looking pet
+M 1214 spec_janitor Load to: Kiki the sad monkey
+M 1224 spec_cast_mage Load to: Verkcalus the Dragon
+M 1229 spec_guard Load to: wahaken warrior
+M 1234 spec_guard Load to: Bob the nightwatchman
+M 1255 spec_fido Load to: a trapped fox
+M 1260 spec_fido Load to: puppy dog
+M 1261 spec_fido Load to: a cat
+M 1267 spec_cast_undead Load to: an ugly, old witch
+M 1272 spec_cast_cleric Load to: an aged, bedraggled ivory-haired hierophant
+M 1504 spec_breath_lightning Load to: a small energy sprite
+M 1543 spec_cast_mage Load to: The Shifter of Sands
+M 1544 spec_cast_cleric Load to: a darkly colored drow
+S
+
+
+
+#RESETS
+D 0 1224 2 0
+D 0 1226 4 0
+D 0 1227 3 0
+D 0 1228 1 0
+D 0 1229 0 0
+D 0 1234 5 0
+D 0 1241 0 0
+D 0 1250 1 0
+D 0 1251 3 0
+D 0 1258 3 0
+D 0 1259 1 0
+D 0 1287 2 0
+D 0 1311 1 0
+D 0 1312 3 0
+D 0 1506 0 0
+D 0 1507 2 0
+M 0 1202 1 1222
+M 0 1223 1 1223
+M 0 1224 1 1224
+M 0 1225 1 1225
+E 0 1225 0 12
+M 0 1227 1 1227
+G 0 1227 0
+O 0 1226 0 1227
+M 0 1228 1 1228
+E 0 1228 0 3
+M 0 1229 1 1229
+E 0 1224 0 16
+O 0 1267 0 1230
+O 0 1254 0 1230
+M 0 1234 1 1234
+E 0 1234 0 16
+O 0 1269 0 1234
+M 0 1285 1 1239
+M 0 1207 1 1239
+M 0 1241 1 1240
+M 0 1210 1 1243
+E 0 1210 0 17
+M 0 1244 1 1244
+O 0 1231 0 1244
+M 0 1547 1 1248
+O 0 1232 0 1252
+O 0 1274 0 1252
+O 0 1273 0 1252
+O 0 1255 0 1255
+O 0 1258 0 1258
+M 0 1258 1 1259
+E 0 1259 0 3
+M 0 1260 1 1260
+E 0 1260 0 16
+G 0 1261 0
+M 0 1261 1 1261
+O 0 1203 0 1265
+M 0 1265 1 1265
+E 0 1265 0 16
+P 0 1213 0 1
+P 0 1212 0 1
+M 0 1277 1 1277
+M 0 1278 1 1277
+O 0 1280 0 1280
+O 0 1317 0 1280
+P 0 1246 0 1317
+P 0 1248 0 1317
+P 0 1247 0 1317
+O 0 1283 0 1283
+O 0 1239 0 1284
+M 0 1284 1 1284
+O 0 1233 0 1284
+M 0 1286 1 1286
+M 0 1296 1 1287
+E 0 1255 0 5
+O 0 1361 0 1291
+O 0 1360 0 1291
+O 0 1203 0 1291
+M 0 1294 1 1292
+G 0 1296 0
+G 0 1259 0
+G 0 1256 0
+G 0 1258 0
+G 0 1257 0
+O 0 1294 0 1294
+M 0 1295 1 1295
+E 0 1295 0 16
+M 0 1297 1 1297
+O 0 1298 0 1298
+O 0 1290 0 1299
+P 0 1299 0 1290
+M 0 1204 1 1299
+O 0 1340 0 1302
+O 0 1341 0 1303
+M 0 1370 1 1310
+O 0 1370 0 1310
+O 0 1371 0 1313
+M 0 1321 2 1321
+O 0 1506 0 1506
+O 0 1508 0 1508
+S
+
+
+
+#SHOPS
+1224 5 0 0 0 0 75 75 7 20
+1227 8 19 0 0 0 75 105 0 23
+1228 0 5 9 11 19 75 125 0 12
+1277 17 26 0 0 0 98 98 0 23
+1294 0 5 9 8 22 100 100 0 23
+1532 5 17 0 15 19 110 90 3 23
+0
+
+
+
+#$

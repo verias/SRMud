@@ -1,0 +1,231 @@
+#AREADATA
+Name { ALL } Illyian Sacred Battlefield~
+Builders Illyian~
+VNUMs 13693 13703
+Security 5
+End
+
+
+
+#MOBILES
+#13694
+wandering sage~
+a wandering sage~
+This cloaked individual wanders the horrors of this place silently, trying to study how everything went and unlock the past.
+~
+~
+Human~
+AGW H 0 S
+100 0 12d1397+3920 100d10+100 6d11+29 0
+-35 -35 -35 -27
+0 ABQ 0 0
+9 9 1 450
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#13694
+no name~
+(no short description)~
+(no description)~
+unknown~
+2 0 0 0
+0 0 0 0 0
+0 0 0 P
+0
+#0
+
+
+
+#ROOMS
+#13693
+The vista~
+This high-risen mountain ledge hangs over the cliff steadily, strong
+enough to hold a crowd of people on top without breaking.  It is a perfect
+vista view, looking down over the valley below; the once ripe and rich
+grasslands that once lived here all but dead.  From here you can see guess
+that carnage that probably happened here in another time, years and years
+ago from the looks of it.  The grass is removed mostly from the ground, only
+left in small patches where the skirmish didn't get bad.  There are scorched
+marks on the ground, and what were large pillars of rock are now boulders
+strewn across the field.  
+~
+0 0 5
+D5
+~
+~
+0 0 13694
+S
+#13694
+The begining~
+You are standing on the ground above where the mortal generals stood with
+the immortals, waiting for the onslaught of the ancients.  There are no
+signs however, of the struggle reaching this point, perhaps it was a deadly
+game of seeing who makes the first move, and the ancients drew the mortals
+and immortals to them.  The ground here is soft, the hint of magic still
+hanging in the air from so long ago.  There is a cool breeze that constantly
+flows around your body.  
+~
+0 0 2
+D0
+~
+~
+0 0 13695
+D4
+~
+~
+0 0 13693
+S
+#13695
+The war~
+A small gust of wind consistantly drives into your body, sending chills
+through even the hardest of hearts, as the sense of powerful evil still
+lingers.  Weapons from long ago still lay on the ground here, but seem to
+have faded away to nothing but a picture and a memory, allowing those who
+have come to his hallowed ground to see the remnants of the war.  Signs of
+fighting are everywhere, the ground stained a deep red with the blood of
+mortal men and women who gave their life for this world.  A glow can be seen
+from beyond the ridge to the north, filling the rim of the horizon with a
+faint blue.  To the east and west are more signs of the battle, spreading it
+wide over these fields of nothing.  
+~
+0 0 2
+D0
+~
+~
+0 0 13698
+D1
+~
+~
+0 0 13696
+D2
+~
+~
+0 0 13694
+D3
+~
+~
+0 0 13697
+S
+#13696
+The war~
+~
+0 0 2
+D3
+~
+~
+0 0 13695
+S
+#13697
+Heroes live forever~
+Images blare out, only for a few moments, of intense battle.  Creatures
+and mortal heroes appearing as they flicker in and out of memory, battling
+and then fading again only to let more visions endlessly fight for their
+world or the destruction of.  To the north are glowing blue auras, over a
+hill.  To the east looks to be a desolate battlefield that was near the base
+point of the mortal and immortal army.  A chilling wind breezes past you,
+striking to the bone like a powerful spell, forever keeping this land near
+the point of freezing.  
+~
+0 0 0
+D0
+~
+~
+0 0 13699
+D1
+~
+~
+0 0 13695
+S
+#13698
+The Maw of the Beast~
+Sights here would take the stomachs of mortals, minus the hardest of
+heroes and adventurers, and turn them inside out.  Here is the battlefield,
+the true point where the ancients faced the immortals and mortals on the
+ground.  Visions, images of the ancients and the heroes are perfectly
+crystallized in a blue aura, fighting endlessly for the fate of the world. 
+Time and time again creatures and heroes will tear each other apart with
+blades and spells, whilst the immortals and ancients stand behind the line,
+casting huge spells that no longer exist in any spellbooks.  This is truly a
+horribly cursed place.  
+~
+0 0 0
+D0
+~
+~
+0 0 13700
+D2
+~
+~
+0 0 13695
+D3
+~
+~
+0 0 13699
+S
+#13699
+The Maw of the Beast~
+Sights here would take the stomachs of mortals, minus the hardest of
+heroes and adventurers, and turn them inside out.  Here is the battlefield,
+the true point where the ancients faced the immortals and mortals on the
+ground.  Visions, images of the ancients and the heroes are perfectly
+crystallized in a blue aura, fighting endlessly for the fate of the world. 
+Time and time again creatures and heroes will tear each other apart with
+blades and spells, whilst the immortals and ancients stand behind the line,
+casting huge spells that no longer exist in any spellbooks.  This is truly a
+horribly cursed place.  
+~
+0 0 0
+D1
+~
+~
+0 0 13698
+D2
+~
+~
+0 0 13697
+S
+#13700
+Behind enemy lines~
+This is where the ancients plotted their battle strategies.  Huge holes
+have been ripped in the earth, leading into chasms that they spawned their
+horrible army from.  Large stone spikes have been raised from the ground,
+stained with the blood of those who fell too close to the ancients
+themselves.  The air here is dense, heavy with the power that was here,
+plotting the ruin of the world.  There is a huge flat mesa here, glowing
+with a dark aura, which was created for their own sadistic purposes, it's
+flat large enough to act as a torture table.  
+~
+0 0 0
+D2
+~
+~
+0 0 13698
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+13694 0 0 0 0 0 130 60 0 24
+0
+
+
+
+#$

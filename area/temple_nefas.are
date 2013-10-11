@@ -1,0 +1,580 @@
+#AREADATA
+Name {15 99} Kijan   Temple of Nefas~
+Builders Nefas~
+VNUMs 14000 14099
+Credits (null)~
+Security 5
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#14001
+fountain~
+a beautiful fountain~
+A beautiful fountain sits in the center of the room~
+unknown~
+fountain 0 0
+5 500 'water' 0 0
+1 0 0 P
+#14002
+shimmering black platemail~
+a suit of shimmering black platemail~
+This suit of shimmering black platemail does not appear to be solid.~
+unknown~
+armor b AD
+A A A 0 0
+10 2 50 P
+#14050
+broadsword knightmare~
+a dark, sharp broadsword named, 'Knightmare'~
+A beautiful dark broadsword inscribed with ancient runes down its center.~
+unknown~
+weapon ACET AN
+sword 12 16 charge CDF
+100 0 500 P
+#14080
+spaulders~
+a faintly visible pair of spaulders~
+A faintly visible pair of spaulders.~
+unknown~
+armor Gb AV
+E E E AC 0
+100 1 500 P
+A
+19 5
+A
+18 5
+#14081
+anklet~
+a faintly visible anklet~
+A faintly visible anklet.~
+unknown~
+protect Gb AU
+C C C A 0
+100 1 0 P
+A
+19 4
+A
+18 4
+A
+12 20
+#14082
+mask~
+a faintly visible mask~
+A faintly visible mask.~
+unknown~
+armor Gb AT
+E E E AC 0
+100 1 500 P
+A
+13 20
+A
+19 4
+A
+18 4
+#14083
+armband~
+a faintly visible armband~
+A faintly visible armband.~
+unknown~
+armor Gb AS
+E E E AC 0
+100 1 500 P
+A
+12 30
+A
+13 30
+A
+18 2
+A
+19 2
+#14084
+orb prism~
+a faintly visible orb~
+A faintly visible orb.~
+unknown~
+container Gb AR
+300 0 0 0 0
+100 1 0 P
+#14085
+earring~
+a faintly visible earring~
+A faintly visible earring~
+unknown~
+protect Gb AQ
+C C C A 0
+100 1 0 P
+A
+12 10
+A
+13 20
+A
+19 4
+A
+18 3
+#14086
+black flame~
+a faintly visible black flame~
+A black flame hovering in mid air.~
+unknown~
+weapon Gb AN
+exotic 12 16 slap C
+100 1 500 P
+A
+13 100
+#14087
+wrath blade~
+a faintly visible blade of Wrath~
+An evil looking black longsword lies here.~
+unknown~
+weapon Gb AN
+sword 12 16 charge C
+100 0 500 P
+A
+19 5
+A
+18 5
+#14088
+bracelet~
+a faintly visible bracelet~
+A faintly visible bracelet.~
+unknown~
+armor Gb AM
+E E E AC 0
+100 1 500 P
+A
+18 3
+A
+19 3
+A
+13 40
+#14089
+sash~
+a faintly visible sash~
+A faintly visible sash.~
+unknown~
+armor Gb AL
+E E E AC 0
+100 1 500 P
+A
+19 5
+A
+18 5
+#14090
+cloak~
+a faintly visible cloak~
+A faintly visible cloak.~
+unknown~
+armor Gb AZ
+E E E AC 0
+100 1 500 P
+A
+19 3
+A
+18 4
+A
+12 30
+#14091
+sleeves~
+a faintly visible pair of sleeves~
+A faintly visible pair of sleeves.~
+unknown~
+armor Gb AI
+E E E AC 0
+100 1 500 P
+A
+18 3
+A
+19 4
+A
+13 30
+#14092
+gloves~
+a faintly visable pair of gloves~
+A faintly visible pair of gloves~
+unknown~
+armor Gb AH
+E E E AC 0
+100 1 500 P
+A
+19 3
+A
+18 3
+A
+13 40
+#14093
+boots~
+a faintly visable pair of boots~
+A faintly visable pair of boots.~
+unknown~
+armor Gb AG
+E E E AC 0
+100 1 500 P
+A
+19 3
+A
+13 50
+A
+12 20
+#14094
+leggings~
+a faintly visible pair of leggings~
+A faintly visible pair of leggings.~
+unknown~
+armor Gb AF
+E E E AC 0
+100 1 500 P
+A
+18 2
+A
+19 3
+A
+13 50
+#14095
+hood~
+a faintly visible hood~
+A faintly visible hood.~
+unknown~
+armor Gb AE
+E E E AC 0
+100 1 500 P
+A
+19 4
+A
+18 4
+A
+13 20
+A
+12 20
+#14096
+robe~
+a faintly visible robe~
+A faintly visible robe~
+unknown~
+armor Gb AD
+E E E AC 0
+100 1 500 P
+A
+13 20
+A
+12 60
+A
+5 1
+#14097
+amulet~
+a faintly visible amulet~
+A faintly visible amulet.~
+unknown~
+protect Gb AC
+C C C A 0
+100 1 0 P
+A
+12 30
+A
+13 70
+#14098
+ring~
+a faintly visible ring~
+A faintly visible ring.~
+unknown~
+protect Gb AB
+0 0 0 0 0
+100 1 0 P
+A
+18 5
+A
+19 5
+#14099
+orb light~
+a faintly visible orb a light~
+A faintly visible orb of light~
+unknown~
+light Gb AO
+0 0 ABCFGHIJ 0 0
+100 1 0 P
+#0
+
+
+
+#ROOMS
+#14000
+YOUR SHRINE GOES HERE~
+~
+0 4 0
+M 0 H 0
+S
+#14001
+The Hall Of Sins~
+You stand in a beautiful hallway lined with a black carpet down its
+center.  The edges of the black carpet are lined with golden tassels.  You
+can see small doorways to the east and west.  Golden torches hang on the
+wall lighting this dark hallway.  
+~
+0 1048580 0
+D0
+~
+~
+~
+0 0 14002
+D1
+~
+~
+~
+0 0 14003
+D3
+~
+~
+~
+0 0 14004
+M 0 H 0
+S
+#14002
+The Hall Of Sins~
+You stand in a beautiful hallway lined with a black carpet down its
+center.  The edges of the black carpet are lined with golden tassels.  You
+can see small doorways to the east and west.  Golden torches hang on the
+wall lighting this dark hallway.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 14007
+D1
+~
+~
+~
+0 0 14005
+D2
+~
+~
+~
+0 0 14001
+D3
+~
+~
+~
+0 0 14006
+M 0 H 0
+S
+#14003
+Altar Of Gluttony~
+Golden torches hang on the dark stone walls of this room.  Their light
+flickers off a statue sitting on a golden platform.  The statue is of a
+woman eating a large meal.  Beside the figure, there is a large plate of
+food.  She appears to be very robust.  The woman in the statue appears to be
+gorging herself on food to no end.  Standing here and gazing upon the statue
+makes you feel a rumbling in your stomach.  There is a small doorway to the
+west leading back to the hallway.  
+~
+0 1048576 0
+D3
+~
+~
+~
+0 0 14001
+M 0 H 0
+S
+#14004
+Altar Of Sloth~
+Golden torches hang on the dark stone walls of this room.  Their light
+flickers off a statue sitting on a golden platform.  The statue is of a man
+laying around in a grassy field.  The breeze appears to be flowing through
+the tall grass as the man lies there, looking up at the sky.  Across the
+ceiling of this room, a night sky is painted.  Looking up, you can see stars
+and a full moon over head.  It appears almost so real, that you feel like
+you are outside.  Standing in this room and gazing upon the statue in its
+center makes you feel somewhat lazy.  There is a doorway to the east leading
+back to the hallway.  
+~
+0 1048576 0
+D1
+~
+~
+~
+0 0 14001
+M 0 H 0
+S
+#14005
+Altar Of Lust~
+Golden torches hang on the dark stone walls of this room.  There light
+flickers off a statue sitting on a golden platform in the center of the
+room.  The statue depicts two beautiful figures locked in a passionate
+embrace.  They appear to be groping each other heavily.  The woman has her
+hands wrapped around the male figure, her fingers running through his hair. 
+The man has his arms wrapped around the woman's waist, caressing her back
+firmly.  As you sit here and gaze upon the statue, you suddenly feel filled
+with lust and passion.  There is a small doorway to the west leading back to
+the hallway.  
+~
+0 1048576 0
+D3
+~
+~
+~
+0 0 14002
+M 0 H 0
+S
+#14006
+Altar Of Envy~
+Golden torches hang on the dark stone walls of this room.  Their light
+flickers off a statue sitting on a golden platform.  The statue is of the
+world as you know it today.  You can clearly make out the continents of
+Discordia and Utopia.  On top of the globe stands a single figure.  It
+appears that this figure is larger than the world itself.  Standing in this
+room and gazing upon the statue makes you feel very envious of this figure. 
+There is a small doorway to the east leading back to the hallway.  
+~
+0 1048576 0
+D1
+~
+~
+~
+0 0 14002
+M 0 H 0
+S
+#14007
+The Hall Of Sins~
+You stand in a beautiful hallway lined with a black carpet down its
+center.  The edges of the black carpet are lined with golden tassels.  You
+can see small doorways to the east and west.  Golden torches hang on the
+wall lighting this dark hallway.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 14010
+D1
+~
+~
+~
+0 0 14008
+D2
+~
+~
+~
+0 0 14002
+D3
+~
+~
+~
+0 0 14009
+D5
+~
+~
+~
+0 0 14011
+M 0 H 0
+S
+#14008
+Altar Of Pride~
+Golden torches hang on the dark stone walls of this room.  Their light
+flickers off a statue sitting on a golden platform in the center of the
+room.  The statue shows a knight sitting on his horse, surrounded by the
+dead bodies of his foes.  The knight appears to have his chest bowed out in
+glory of his slayings.  The horse stands regally underneath him.  As you
+stand here a gaze upon the statue, you are filled with a sense of pride. 
+There is a small doorway to the west leading back to the hallway.  
+~
+0 1048576 0
+D3
+~
+~
+~
+0 0 14007
+M 0 H 0
+S
+#14009
+Altar Of Greed~
+Golden torches hang on the dark stone walls of this room.  Their light
+flickers off a statue sitting on a golden platform in the center of the
+room.  The statue depicts a man sitting a large pile of gold, tossing it in
+the air around him.  He appears to be cackling evilly as he plays in the
+pile of money.  You notice that not a single piece of gold has fallen from
+the stack that the man in the statue is sitting on.  While standing back and
+gazing upon this statue, you are filled with feelings of greed.  There is a
+small doorway to the east leading back to the hallway.  
+~
+0 1048576 0
+D1
+~
+~
+~
+0 0 14007
+M 0 H 0
+S
+#14010
+Altar Of Wrath~
+Golden torches hang on the dark stone walls of this dark room.  Their
+light flickers off a statue sitting on a golden platform in the center of
+the room.  The statue depicts a man that appears to be filled with anger and
+rage.  He is holding a small child by the neck, choking him.  The small
+child is struggling against the man with all his might as the man's hands
+are wrapped tightly around his throat.  As you stand here, gazing upon this
+beautiful statue, you are filled with an inner wrath that you can not
+explain.  There is a small doorway to the south leading back to the hallway.
+~
+0 1048576 0
+D2
+~
+~
+~
+0 0 14007
+M 0 H 0
+S
+#14011
+A Gathering Chamber~
+You stand in a large circular chamber with a fountain in the center of
+the room.  The fountain appears to be made from solid marble.  The sounds of
+the water trickling into the pool at the bottom of the fountain are
+soothing.  There are several mats on the floor that look comfortable to rest
+on.  Golden torches hang on the wall, their light reflecting off the water
+in the fountain.  There is a small staircase made from stone leading up.  
+~
+0 0 0
+D4
+~
+~
+~
+0 0 14007
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 14001 0 14011
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

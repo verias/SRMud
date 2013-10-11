@@ -1,0 +1,2178 @@
+#AREADATA
+Name { ALL } Belic   Mountains~
+Builders Belic~
+VNUMs 13550 13670
+Credits (null)~
+Security 5
+End
+
+
+
+#MOBILES
+#13555
+ivory billy goat~
+a mountain goat~
+An ivory billy snorts at you in anger.
+~
+One of the few animals that can thrive at this height.  This billy is
+quite disturbed by your presence here.  His thick coat is pure whit and
+shows no signs of an imperfection.  His horns are long and curl tightly
+against his head.  He paws angrily at the ground, circling you slowly.  
+~
+bear~
+A 0 0 0
+20 0 6d39+294 20d10+100 3d5+4 none
+2 2 2 4
+DEO 0 EI 0
+(null) (null) female 90
+AGV ABCDEFHJKPUV medium unknown
+#13557
+rootmot~
+a rootmot~
+A rootmot hides in the shadow to escape the sunlight.
+~
+Looking somewhat like a pig, this creature looks menacing.  It has six
+legs, allowing it to raise up and use its front legs as a weapon.  The front
+paws look razor sharp and gleam slightly.  The creature is foaming at the
+mouth as it chomps its large mouth open and closed.  
+~
+bear~
+A 0 0 0
+20 0 6d39+294 20d10+100 3d5+4 none
+2 2 2 4
+DEFHO 0 EI 0
+(null) (null) either 90
+AGV ABCDEFHJKPUV medium unknown
+#13564
+rootmot~
+a rootmot~
+A rather large rootmot is hunting for food.
+~
+The creature is huge.  Similar in appearance to a pig back on the farm
+but close to the size of a large pony.  Tusk protrude wide from his mouth to
+allow him to slash at his enemy.  His six legs are massive, and each set
+seems large enough to smash your head.  
+~
+bear~
+A 0 0 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+CDEO 0 CEI 0
+(null) (null) female 112
+AGHMV ABCDEFGHJKPUVWY medium unknown
+#13570
+snake~
+a snake~
+A black-backed rattlesnake is curled under a tree.
+~
+One of the more dangerous snakes in the area, the black-backed
+rattlesnake is named correctly.  Golden in color except for the black strip
+down the back of the snake.  Its tail rattles in agitation at you.  
+~
+snake~
+ABF 0 0 0
+22 0 7d42+334 22d10+100 3d5+5 none
+1 1 1 3
+0 0 L I
+(null) (null) male 99
+AGXYc ADEFKLPQVX medium unknown
+#13571
+lizard~
+a lizard~
+A lizard is here sunning himself.
+~
+A copper colored lizard lays on his back, tanning in the sun.  His
+coloring matches that of his surrounding.  Short and stubby, maybe three
+feet in length, he seems to be paying no attention to you.  His tongue is
+lashed out to the side to help control his body temperature.  
+~
+lizard~
+AB Q 0 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+0 0 L I
+(null) (null) female 112
+AGXc ACDEFHKLPQUVX medium unknown
+#13575
+moss lizard~
+a moss lizard~
+A lizard hides among the moss.
+~
+While not an overly large lizard, it is a rather nasty looking creature. 
+Speckled red and green, the scaly body of this creature blends in well with
+the moss that it calls home.  It's black tongue flicks outward, testing the
+air as it hunts.  
+~
+lizard~
+AB Q 0 0
+18 0 6d36+255 18d10+100 2d5+6 none
+3 3 3 5
+0 0 L I
+(null) (null) male 81
+AGXc ACDEFHKLPQUVX medium unknown
+#13579
+rootmot~
+a rootmot~
+A rootmot stands watching you.
+~
+This pig-like creature does not seem to be fully matured.  The eyes seem
+to close together.  The snout not yet grown to its full length.  The
+creature's legs do not seem to be a massive as they could be, but all three
+sets seem to be dangerous.  He is snorting as he eyes you.  
+~
+bear~
+AB 0 0 0
+20 0 6d39+294 20d10+100 3d5+4 none
+2 2 2 4
+DEO 0 EI 0
+(null) (null) female 90
+AGV ABCDEFHJKPUV medium unknown
+#13592
+rock troll~
+a rock troll~
+A rock troll is looking for dwarves.
+~
+A short, stout individual.  This humanoid figure is far different than
+it's distance cousin, the troll.  Skin as hard as the mountain he lives in
+and of the same coloring, he blends into his surroundings.  His compact body
+is muscular.  At first he pays little attention to you, but then grins
+evilly.  
+~
+unique~
+A QZa 0 0
+16 0 5d33+218 16d10+100 2d4+2 none
+3 3 3 6
+0 I F 0
+(null) (null) female 72
+EHM ABCGH medium unknown
+#13595
+mountain goat~
+a mountain goat~
+A mountain goat picks through the mountain vegetation.
+~
+This goat is sickly looking.  Thin and light weight, it is conditioned to
+live in this environment.  The hair of the goat is coarse and matted
+together, making it appears as one solid clump.  Upon seeing you, she has
+already assumed a defensive position.  
+~
+bear~
+A 0 0 0
+15 0 5d31+200 15d10+100 2d4+2 none
+4 4 4 6
+DEO 0 EI 0
+(null) (null) either 67
+AGV ABCDEFHJKPUV medium unknown
+#13597
+mountain goat~
+a young mountain goat~
+A mountain goat locks horns with another mountain goat.
+~
+A young goat.  He is intent on setting himself as the dominate breeder. 
+He is thick bodied with fine hair.  His hind legs are massive compared to
+most goats.  His horns curl and end just behind his long ears.  
+~
+bear~
+A 0 0 0
+14 0 5d30+184 14d10+100 2d4+1 none
+4 4 4 6
+DEO 0 EI 0
+(null) (null) female 63
+AGV ABCDEFHJKPUV medium unknown
+#13600
+rock troll child~
+a young rock troll~
+The small rock troll plays with a stick.
+~
+This young troll is having fun playing with his imagination.  Running
+about wildly, caring little for his surroundings.  His skin is a dark black,
+but visible sections have started to fade to the color of the mountains.  He
+nearly runs into you and blinks when he realizes what he has done.  
+~
+unique~
+A QZa 0 0
+12 0 4d26+151 12d10+100 2d4+0 none
+5 5 5 7
+0 I F 0
+(null) (null) female 54
+EHM ABCGH medium unknown
+#13601
+female rock troll~
+a female rock troll~
+A female checks the meat to see if it is ready.
+~
+Like her mate, she could blend in easily with her surroundings.  Unlike
+her mate, she has black hair growing from her head that has been pulled into
+a ponytail.  Her face is a mask of solid contempt.  She pays no attention to
+you.  
+~
+unique~
+A Za 0 0
+15 0 5d31+200 15d10+100 2d4+2 none
+4 4 4 6
+0 I F 0
+(null) (null) either 67
+EHM ABCGH medium unknown
+#13602
+Rock Troll~
+a rock troll~
+A rock troll waits for his meal.
+~
+Short, stout and heavily muscled, this rock troll almost blends in with
+his surroundings.  His bronze skin is a perfect match for the color of the
+mountain.  His black eyes seem keen, watching your every step.  
+~
+unique~
+A Za 0 0
+16 0 5d33+218 16d10+100 2d4+2 none
+3 3 3 6
+0 I F 0
+(null) (null) female 72
+EHM ABCGH medium unknown
+#13608
+fox~
+a fox~
+A silver fox slinks between the trees.
+~
+Medium length fur in a solid silver color covers this fox's body, only 
+broken at the tip of its tail.  Its eyes are a similar ghostly color, being 
+only a shade or two darker than the coat of this animal.  It runs swiftly to 
+and fro.  
+~
+fox~
+A Z 0 0
+15 0 5d31+200 15d10+100 2d4+2 none
+4 4 4 6
+FH 0 0 0
+(null) (null) female 67
+AGV ACDEFHJKPQUV medium unknown
+#13611
+buck~
+a buck~
+A buck rubs his antlers against a tree.
+~
+He is a large buck.  His rack spreads out wide.  Each rack has seven
+point with one horn having a dropped tine.  His golden body is muscular, his
+hind legs looking very developed.  
+~
+bear~
+A 0 0 0
+12 0 4d26+151 12d10+100 2d4+0 none
+5 5 5 7
+DEO 0 EI 0
+(null) (null) male 54
+AGV ABCDEFHJKPUV medium unknown
+#13613
+snake~
+a snake~
+A snake hangs from the branch.
+~
+The long body of the snake is solid black.  Three copper colored spot
+appear just behind its hood.  It looks similar to a cobra, but does not seem
+to be related to that snake.  
+~
+snake~
+AB 0 0 0
+10 0 3d23+120 10d10+100 2d3+2 none
+6 6 6 6
+0 0 L I
+(null) (null) male 45
+AGXYc ADEFKLPQVX medium unknown
+#13615
+buck~
+a buck~
+A buck drinks from the stream.
+~
+A small buck drinks from the stream.  His long body is a dark shade of
+brown.  His antlers are small and he seems to not have fully grown into his
+potential.  He lifts his head from drinking and stares at you.  
+~
+bear~
+AB 0 0 0
+12 0 4d26+151 12d10+100 2d4+0 none
+5 5 5 7
+DEO 0 EI 0
+(null) (null) female 54
+AGV ABCDEFHJKPUV medium unknown
+#13619
+deer~
+a doe~
+A doe lays hidden in the shade.
+~
+Small in stature, the doe is similar to all the other deer in the
+foothills.  A golden body that shines and a long white tail.  She tries not
+to move, to keep from catching your attention.  
+~
+dog~
+AB 0 0 0
+6 0 1d15+65 6d10+100 1d3+2 none
+7 7 7 8
+H 0 0 0
+(null) (null) either 27
+AGV ACDEFHJKPUV medium unknown
+#13621
+bird~
+a bird~
+A bird is looking for material to build a nest.
+~
+A common sight.  This red breasted black bird just blinks at you.  Small
+twigs can be seen in her little claws as she flies back toward her nest.  
+~
+unique~
+A CDEFGTVZc 0 0
+7 0 2d17+79 7d10+100 1d3+2 none
+7 7 7 7
+FH 0 0 S
+(null) (null) either 31
+ACGHMVW ABCDEFGHIJKOPUV medium unknown
+#13622
+bear cub~
+a bear cub~
+A bear cub plays in the sun.
+~
+A small black bear cub.  His snout is black in color.  His fur a dark
+brown.  Parts of his fur stick together from where he has licked himself. 
+He pays little attention to his surroundings while he chases butterflies.  
+~
+bear~
+A 0 0 0
+6 0 1d15+65 6d10+100 1d3+2 none
+7 7 7 8
+DEO 0 EI 0
+(null) (null) female 27
+AGV ABCDEFHJKPUV medium unknown
+#13624
+rabbit~
+a rabbit~
+A rabbit is hidden in the grass.
+~
+The general, run of the mill rabbit.  His fur is a greyish color.  His
+ears are long and floppy.  His black eyes look directly at you, but he
+doesn't move.  
+~
+rabbit~
+A Z 0 0
+5 0 1d12+53 5d10+100 1d2+1 crush
+7 7 7 8
+FH 0 0 0
+(null) (null) male 22
+AGV ACDEFHJKPUV medium unknown
+#13625
+Cat~
+a cat~
+A small cat glides quietly through the tall grass.
+~
+Slightly larger than a house cat, this yellow cat is missing its tail.  A
+large slash cuts across its face, ending just below the eye.  The cat is on
+a hunt, and hisses at you as you come close.  
+~
+cat~
+A PZ 0 0
+4 0 1d10+41 4d10+100 1d2+0 none
+8 8 8 8
+FH 0 0 0
+(null) (null) either 18
+AGV ACDEFHJKQUV medium unknown
+#13628
+groc~
+a groc~
+A mother groc protects her nest.
+~
+The creature flying at you looks like a cross between a vulture and an
+eagle, only mutated to three times the size of either.  Her head is capped
+in white feathers, her body is black.  Her beak is curved like a vulture. 
+Her razor sharp talons are open and extended.  She lets out a scream that
+sends ice through your bones.  
+~
+water fowl~
+A Tb 0 0
+35 0 10d76+654 35d10+100 4d6+9 none
+-3 -3 -3 -1
+0 R R 0
+(null) (null) either 157
+AGW ACDEFHKOP medium unknown
+#0
+
+
+
+#OBJECTS
+#13550
+portal~
+a portal to the mountain~
+A portal glows here.~
+unknown~
+portal 0 AO
+ABCDIJKN 0 0 BDEFIKMN 0
+0 0 0 P
+#13569
+trap~
+a trap~
+A large boulder.~
+unknown~
+warp_stone RX 0
+A I ABCDHI ABCDHI 0
+0 0 0 P
+E
+!trap!~
+{WThe last thing you see is your body hurtling towards a large boulder...
+Then nothing.  {x 
+~
+#13581
+trap~
+a spike~
+A blood soaked spike.~
+unknown~
+warp_stone RX 0
+A I BCEH BCEH 0
+0 0 0 P
+E
+!trap!~
+{WYou feel the spike sliding through your flesh.  {x 
+~
+#13592
+club~
+a club~
+A large piece of rock chipped into the shape of a club.~
+unknown~
+weapon 0 AN
+staff 4 8 blast 0
+16 5 80 P
+#13601
+knife~
+a knife~
+A sharp piece of rock.~
+unknown~
+weapon 0 AN
+bow 4 7 none 0
+14 3 70 P
+#13615
+cave portal~
+a cave~
+A cave opens under the roots.~
+unknown~
+portal 0 0
+ABCFGHIJ 0 0 CFHLMN 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#13550
+Inside the cave~
+The shallow cave is a warm feeling area.  There is an opening toward the
+back that takes the cave deeper into the mountain.  There seems to be some
+kind of glow coming from that direction.  Maybe this isn't the best place to
+try and get some rest.  
+~
+0 12 0
+D2
+~
+~
+~
+0 0 13551
+M 0 H 0
+S
+#13551
+Outside a Cave~
+The mountain path levels off a little here.  A few small shrubs grow in
+the rocky soil, but not much.  The mouth of a cave opens before you to the
+north.  The path continues up and down the mountain.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 13550
+D4
+~
+~
+~
+0 0 13552
+D5
+~
+~
+~
+0 0 13553
+M 0 H 0
+S
+#13552
+On the Trail~
+The path just seems to continue.  The animals that trod this path can not
+be that large as the path is narrow.  You chance a peak over the edge and
+almost wish that you had decided to keep your eyes focused straight ahead. 
+The top looms not much farther ahead.  
+~
+0 0 5
+D4
+~
+~
+~
+0 0 13554
+D5
+~
+~
+~
+0 0 13551
+M 0 H 0
+S
+#13553
+The Mountain Path~
+The mountain pass spreads out slightly here.  A tree has taken root in
+the loose soil that piled here in some long forgotten storm.  The tree looks
+like it will topple over if it is pushed against it.  Other than the tree,
+nothing seems different about this pass.  
+~
+0 0 5
+D0
+~
+~
+~
+0 0 13556
+D4
+~
+~
+~
+0 0 13551
+M 0 H 0
+S
+#13554
+Nearing the Top of the Mountain~
+You find yourself on a ledge just below the summit of the mountain. 
+There seems to be a few handholds that have been left in the rock that will
+allow you to ascend the last few feet to see all the country below you.  
+~
+0 0 5
+D0
+~
+~
+~
+0 0 13606
+D4
+~
+~
+~
+0 0 13555
+D5
+~
+~
+~
+0 0 13552
+M 0 H 0
+S
+#13555
+On the Summit~
+The top of the mountain.  From here, you can see for miles.  Every now
+and then, the clouds part to let you see a look at the ground far below. 
+You hold out your thumb and pretend to smash the trees from this great
+distance.  
+~
+0 0 0
+D5
+~
+~
+~
+0 0 13554
+M 0 H 0
+S
+#13556
+The Mountain Path~
+The mountain path slips slowly up and down the mountain.  Except for a
+few animal droppings, there seems to be no identification that this path is
+ever used.  A grunting noise can be heard coming from behind a pile of rock
+that have slide down the mountain.  
+~
+0 0 5
+D1
+~
+~
+~
+0 0 13557
+D2
+~
+~
+~
+0 0 13553
+D5
+~
+~
+~
+0 0 13558
+M 0 H 0
+S
+#13557
+Behind the Rock Slide~
+The rock slide forms a small den.  And that is exactly what it is.  The
+smell of animal is thick here.  Piles of dung litter the floor.  Little
+light enters the den, so you can not make out more of the interior.  
+~
+0 0 5
+D3
+~
+~
+~
+0 0 13556
+M 0 H 0
+S
+#13558
+Up the Mountain Slope~
+You have to be careful here.  The path is to steep to travel up without
+trying to get a handhold upon something to keep from tumbling down the
+mountain.  Only a few roots hang down from the upper ledge.  
+~
+0 0 5
+D2
+~
+~
+~
+0 0 13559
+D4
+~
+~
+~
+0 0 13556
+M 0 H 0
+S
+#13559
+Along the Mountain~
+The ledge narrows but is wide enough to support you.  Like any other
+mountain path, little grows here.  You see a few hardy weeds that have been
+able to survive and a few mushrooms growing in the shade of some rocks. 
+There is nothing of interest here.  
+~
+0 0 5
+D0
+~
+~
+~
+0 0 13558
+D5
+~
+~
+~
+0 0 13560
+M 0 H 0
+S
+#13560
+On an Outcropping~
+You stand on an outcropping on the side of the mountain.  Just big enough
+to hold you, there is no where to go but up or down.  
+~
+0 0 5
+D4
+~
+~
+~
+0 0 13559
+D5
+~
+~
+~
+0 0 13561
+M 0 H 0
+S
+#13561
+Against the Face of the Mountain~
+The trail ends here against the face of the mountain.  There seems to be
+small chips in the rock that allow for passage to a ledge above you.  It is
+either that or heading back down the mountain.  
+~
+0 0 5
+D2
+~
+~
+~
+0 0 13562
+D4
+~
+~
+~
+0 0 13560
+M 0 H 0
+S
+#13562
+Somewhere in the Mountains~
+You find yourself way up in the mountains.  You look down and look at the
+top of the clouds.  This has to be the way the world was meant to be viewed,
+if only it didn't seem so deadly to look down.  But where are you?  The
+mountain seems to go straight up to the north and there is just a small
+ledge to the east.  
+~
+0 0 5
+D0
+~
+~
+~
+0 0 13561
+D1
+~
+~
+~
+0 0 13563
+D2
+~
+~
+~
+0 0 13564
+M 0 H 0
+S
+#13563
+On a Ledge~
+Something is wrong.  You hear the cracking of rock as the ledge slides
+away from the rock face.  There is nothing to grab onto to keep you from
+sliding away with the ledge.  
+~
+0 0 9
+D3
+~
+~
+~
+0 0 13562
+D5
+~
+~
+~
+0 0 13565
+M 0 H 0
+S
+#13564
+Lost in the Mountain~
+You are on a wide mountain pass.  Wider than an animal trail actually. 
+Must be a lot of traffic through here.  If you are lost, surely someone will
+be by to discover you.  That only leaves the wild animals to contend with.  
+~
+0 0 5
+D0
+~
+~
+~
+0 0 13562
+M 0 H 0
+S
+#13565
+Falling~
+The fall is so deep that you can not see the ground rushing up toward
+you.  Still nothing to grab onto to stop your fall.  
+~
+0 0 9
+D4
+~
+~
+~
+0 0 13563
+D5
+~
+~
+~
+0 0 13566
+M 0 H 0
+S
+#13566
+Falling~
+For the love of all that is holy, please make it stop.  But your prays
+are unheeded, for you continue to fall at an amazing rate.  
+~
+0 0 9
+D4
+~
+~
+~
+0 0 13565
+D5
+~
+~
+~
+0 0 13567
+M 0 H 0
+S
+#13567
+Falling~
+At least the end will be quick, for you see the rocky ground clearly
+before you know.  The fall wouldn't be so bad if not for the landing. 
+Especially on all those large boulders.  
+~
+0 0 9
+D4
+~
+~
+~
+0 0 13566
+D5
+~
+~
+~
+0 0 13569
+M 0 H 0
+S
+#13568
+~
+~
+0 4 0
+M 0 H 0
+S
+#13569
+The Cold, Hard Ground~
+You land on a large boulder.  The last thing you see before all becomes
+black.  You don't notice the several skeletons that are laying in a
+haphazard manner about the little valley.  
+~
+0 0 5
+D4
+~
+~
+~
+0 0 13567
+M 0 H 0
+S
+#13570
+A Normal Mountain Path~
+The stones have been worn smooth here from travel.  Whether by animal or
+mortal, you can not be sure.  It looks like any other mountain pass you have
+ever been on.  The only difference is a few shrubby trees that grow here.  
+~
+0 0 5
+D0
+~
+~
+~
+0 0 13564
+D2
+~
+~
+~
+0 0 13571
+M 0 H 0
+S
+#13571
+Still higher in the Mountain~
+This is tiring.  You find yourself on another ledge that opens into a
+large path.  The area is free of stones, which you think is unusual.  Maybe
+that is an indication that you have found the right path.  That is when you
+notice the strange markings etched into mountain.  
+~
+0 0 5
+D0
+~
+~
+~
+0 0 13570
+D5
+~
+~
+~
+0 0 13572
+M 0 H 0
+S
+#13572
+Beneath a Ledge~
+You are at the end of a narrow path.  There is a ledge maybe two feet
+over your head that would allow you to explore a new level of the mountain. 
+Surely it will be different from the path you just followed.  
+~
+0 0 5
+D1
+~
+~
+~
+0 0 13573
+D4
+~
+~
+~
+0 0 13571
+M 0 H 0
+S
+#13573
+Another Trail~
+You would think after a while that the scenery would change.  But here in
+the mountains, everything appears the same.  Didn't you see that same rock
+lower down the path?  It is a good thing that you really wanted to come this
+way, because boredom would have killed you otherwise.  
+~
+0 0 5
+D1
+~
+~
+~
+0 0 13574
+D3
+~
+~
+~
+0 0 13572
+M 0 H 0
+S
+#13574
+A Crossing~
+The mountain opens wide here and paths seem to run in several directions.
+The paths in the cardinal directions The paths in the cardinal directions
+seem the only path that you could find your way across.  The other paths
+cross over rugged areas that between boulders, would only allow the passage
+of small animals.  
+~
+0 0 5
+D0
+~
+~
+~
+0 0 13576
+D1
+~
+~
+~
+0 0 13575
+D2
+~
+~
+~
+0 0 13577
+D3
+~
+~
+~
+0 0 13573
+M 0 H 0
+S
+#13575
+A Mountain Pass~
+The path continues between two peaks.  Some type of moss grows along both
+sides of the path you are travelling.  It is a reddish-green color.  Maybe
+you have discovered a new type of plant.  
+~
+0 0 5
+D1
+~
+~
+~
+0 0 13582
+D3
+~
+~
+~
+0 0 13574
+M 0 H 0
+S
+#13576
+The Trap~
+Someone has taking a lot of time to dig the pit you just walked over.  It
+is deep and the rock that was removed to make it is stacked against the
+mountain wall.  Only if you could jump across to the other side and cling to
+those rocks.  
+~
+0 0 9
+D2
+~
+~
+~
+0 0 13574
+D5
+~
+~
+~
+0 0 13580
+M 0 H 0
+S
+#13577
+A Narrowing Path~
+The walls of the mountain begin to squeeze together and tightens up,
+boxing you into this small valley.  Sun dried dung and fresh piles lay upon
+the hung in large heaps.  There is a cave opening toward the back of the
+semi-valley that has grunting coming from it.  
+~
+0 0 5
+D0
+~
+~
+~
+0 0 13574
+D2
+~
+~
+~
+0 0 13578
+M 0 H 0
+S
+#13578
+A Cave~
+It is small.  An odor hangs in the air that makes you long long for fresh
+air.  The floor of the cave is slick with what you can only guess is the
+droppings of the caves owner.  The grunting you heard from outside becomes
+louder as you stand here.  
+~
+0 8 5
+D0
+~
+~
+~
+0 0 13577
+D2
+~
+~
+~
+0 0 13579
+M 0 H 0
+S
+#13579
+The Rootmot Lair~
+This is larger than you expected a lair of an animal to be.  The cave
+opens wide with many small holes leading deeper into the mountain.  A few
+pieces of wood lay scattered about the lair.  Clumps of animal hair and
+small pieces of bone can also be seen on the floor.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 13578
+M 0 H 0
+S
+#13580
+Falling into the Pit~
+The walls of the pit are smooth.  There is nothing that can stop you
+descent.  Only the hope of a soft landing remains to you now.  
+~
+0 0 9
+D4
+~
+~
+~
+0 0 13576
+D5
+~
+~
+~
+0 0 13581
+M 0 H 0
+S
+#13581
+Bottom of the pit~
+Many long, sharp pikes stick out of the ground.  Some are angled, others
+stick straight up.  All of them are covered in blood.  The reek of death is
+strong here.  
+~
+0 0 5
+D4
+~
+~
+~
+0 0 13580
+M 0 H 0
+S
+#13582
+A mountain Pass~
+Like almost any other mountain pass in the world, this one is nothing but
+rocks.  Rocks over here, rocks over there.  Nothing special appears to you
+so you decide to move on.  Either back the way you came or along the path to
+go up the mountain.  
+~
+0 0 5
+D0
+~
+~
+~
+0 0 13583
+D3
+~
+~
+~
+0 0 13575
+M 0 H 0
+S
+#13583
+A Mountain Pass~
+Just your typical mountain path.  There are a few loose stone laying in
+your way that you will have to step over to get further along the path, but
+nothing that will make you work that hard.  You wipe the sweat from your
+eyes and then hug yourself to get warmer.  
+~
+0 0 5
+D0
+~
+~
+~
+0 0 13584
+D2
+~
+~
+~
+0 0 13582
+M 0 H 0
+S
+#13584
+On a Ledge~
+Standing here, you can understand why few people make this trip.  There
+is nothing to see really.  Just a lot of rocks.  Or to be more precise, one
+large rock.  This mountain seems to go on forever.  You have been climbing
+for what seems like hours.  You look and it seems like hours before you get
+to your destination.  
+~
+0 0 5
+D2
+~
+~
+~
+0 0 13583
+D5
+~
+~
+~
+0 0 13585
+M 0 H 0
+S
+#13585
+Below a Ledge~
+The path comes to an end at face of the mountain wall.  Above your head,
+there is a ledge.  It is just out of your reach.  With a small leap, you
+could catch the lip of the ledge.  
+~
+0 0 5
+D0
+~
+~
+~
+0 0 13586
+D4
+~
+~
+~
+0 0 13584
+M 0 H 0
+S
+#13586
+A Narrow Mountain Pass~
+You have to press up against the mountain and walk sideways to get across
+the path.  Beads of sweat pop out on your forehead as you concentrate to get
+across to the larger part of the path.  You lick your lips and slide closer
+to where you need to be.  
+~
+0 4 5
+D0
+~
+~
+~
+0 0 13587
+D2
+~
+~
+~
+0 0 13585
+M 0 H 0
+S
+#13587
+Mountain Pass~
+The mountain drops straight down from here.  Anyone calling this a
+mountain pass had to be joking, it seems nothing could pass along what you
+see up ahead.  You can press on or go back the way you came.  
+~
+0 0 5
+D1
+~
+~
+~
+0 0 13588
+D2
+~
+~
+~
+0 0 13586
+M 0 H 0
+S
+#13588
+Pressed Against the Mountain~
+You have to press against the mountain and side step to get across.  It
+is a slow process.  And one that takes all your concentration.  You realize
+that you are biting your tongue when you taste your own blood in your mouth.
+~
+0 4 5
+D1
+~
+~
+~
+0 0 13589
+D3
+~
+~
+~
+0 0 13587
+M 0 H 0
+S
+#13589
+Top of the Climb~
+The top of the slope.  The traveling has to be easier the rest of the
+way.  There are some markings that have been carved into the walls.  But the
+language is ancient, one that you do not understand.  There is something
+about the writing that makes you think before heading further.  
+~
+0 0 5
+D3
+~
+~
+~
+0 0 13588
+D5
+~
+~
+~
+0 0 13590
+M 0 H 0
+S
+#13590
+On the Slope~
+The slope is deep, but manageable.  You can grab rocks that stick up out
+of the mountain to keep yourself from falling down the mountain.  The view
+is impressive, when you can spare the time to look at the surroundings.  
+~
+0 0 5
+D4
+~
+~
+~
+0 0 13589
+D5
+~
+~
+~
+0 0 13591
+M 0 H 0
+S
+#13591
+The Slope~
+The grade of the slope is slight.  You travel easily over it.  The sound
+of the loose rock crunching beneath your feet brings a smile to your face. 
+If only the entire trip was as easy as this walk right now.  You notice that
+the plant life is thinning, and what life there is looks puny.  
+~
+0 0 5
+D2
+~
+~
+~
+0 0 13592
+D4
+~
+~
+~
+0 0 13590
+M 0 H 0
+S
+#13592
+Above the Clouds~
+You can see through the clouds easily.  But that does not change the fact
+that it is unnerving to be this high above the surface of the ground.  You
+glance up and don't see a bird in the sky, but glancing down, you see many
+off in the distance, far beneath you.  You take a breathe and decide what
+you want to do next.  
+~
+0 0 5
+D0
+~
+~
+~
+0 0 13591
+D2
+~
+~
+~
+0 0 13593
+M 0 H 0
+S
+#13593
+Above the Clouds~
+You have a clear view of the clouds here.  Flowing about your feet, it
+makes you feel like you are walking on air.  Only difference, you can feel
+the mountain beneath you.  A few large rocks lay about, a few in your direct
+path.  
+~
+0 0 5
+D0
+~
+~
+~
+0 0 13592
+D5
+~
+~
+~
+0 0 13594
+M 0 H 0
+S
+#13594
+A Gentle Slope~
+The mountain rises gently here, carrying you higher into the clouds. 
+While the cloud bank you walk through is thick, your vision is not effected
+to badly.  You notice some armor that has been discarded on the side of the
+path.  It is old and rusted, and of little interest to you.  
+~
+0 0 5
+D1
+~
+~
+~
+0 0 13595
+D4
+~
+~
+~
+0 0 13593
+M 0 H 0
+S
+#13595
+High in the Mountain~
+The vegetation has thinned down to be nothing more than a sparse
+collection of weeds.  Signs of use can be seen.  Discarded armor, old tin
+plates, even a few weapons have been left in a haphazard manner.  
+~
+0 0 5
+D3
+~
+~
+~
+0 0 13594
+D5
+~
+~
+~
+0 0 13596
+M 0 H 0
+S
+#13596
+Somewhere in the Mountain~
+The mountain slopes ever so slightly, making it an easy trek.  Grasses
+grow in sporadic bunches, each competing with the other for survival.  The
+air has a slight chill to it.  
+~
+0 0 5
+D4
+~
+~
+~
+0 0 13595
+D5
+~
+~
+~
+0 0 13597
+M 0 H 0
+S
+#13597
+Diverging Paths~
+The mountain path splits off in different directions here.  The area is
+wide and open.  Grasses grow in the soil that somehow found its way this
+high upon the mountain.  A makeshift sign has been put up to give you some
+information.  There is some blood on the sign.  
+~
+0 0 5
+E
+sign~
+The sign reads.  "Beware the rock."  The rest of the sign is covered in
+blood.  
+~
+D1
+~
+~
+~
+0 0 13598
+D2
+~
+~
+~
+0 0 13600
+D3
+~
+~
+~
+0 0 13599
+D4
+~
+~
+~
+0 0 13596
+M 0 H 0
+S
+#13598
+Facing a Corral~
+The opening ends here.  The unusual thing is that this has been turned
+into a holding pin.  Rocks have been positioned so that they encircle a
+group of goats.  One watch one try to jump over the makeshift fence but only
+slide back down.  You think that this is an impressive idea.  
+~
+0 0 5
+D3
+~
+~
+~
+0 0 13597
+M 0 H 0
+S
+#13599
+A Well Used Path~
+You trod along a well used path.  The stone surface of the mountain has
+been worn smooth by continous movement along this path.  You get the feeling
+that you are headed the right way as this path must be the path to the top. 
+~
+0 0 5
+D0
+~
+~
+~
+0 0 13601
+D1
+~
+~
+~
+0 0 13597
+M 0 H 0
+S
+#13600
+Walking in the Mountain~
+Not much of a mountain path, more like steps that do not seem to connect.
+It is as if someone has cut away at the mountain leaving behind these steps.
+The unnatural feel to all of this makes you worry 
+~
+0 0 5
+D0
+~
+~
+~
+0 0 13597
+D5
+~
+~
+~
+0 0 13603
+M 0 H 0
+S
+#13601
+The Mountain Wonder~
+The path leads back into a small type of valley.  The area seems to have
+a high level of upkeep.  There are signs that suggestion that someone or
+several somebodies have spent time here.  Rocks have been piled neatly one
+upon the other to form seats.  
+~
+0 0 5
+D2
+~
+~
+~
+0 0 13599
+D3
+~
+~
+~
+0 0 13602
+M 0 H 0
+S
+#13602
+Rock Troll Encampment~
+You have entered a rock troll camp.  It is not what you would think of a
+camp.  The tents are just slabs of rocks that have been leaned up against
+the rock face.  A small fire burns in the middle of the camp.  A carcass
+rotates on slowly over the fire.  
+~
+0 0 5
+D1
+~
+~
+~
+0 0 13601
+M 0 H 0
+S
+#13603
+Somewhere in the Mountain~
+Loose rocks and gritty dirt comprise most of what you are looking upon. 
+Grass grows in wild bunches here, making it look more like the foothills
+than a mountain.  The air is starting to take on a cold nip.  
+~
+0 0 5
+D1
+~
+~
+~
+0 0 13604
+D4
+~
+~
+~
+0 0 13600
+M 0 H 0
+S
+#13604
+A Mountain Pass~
+This pass is actually just a crack in the mountain.  You can see where
+the rock has torn away from the mountain.  Sharp, jagged edges stab up from
+the rock, leaving a dangerous path to cross.  The rocks are stained with a
+dark liquid.  
+~
+0 0 5
+D1
+~
+~
+~
+0 0 13605
+D3
+~
+~
+~
+0 0 13603
+M 0 H 0
+S
+#13605
+Elephant Horn~
+This part of the mountain is known for the unusual shape it has taken. 
+Two long slabs of the mountain jut out from the mountain in the shape of
+elephant horns.  Worn away by time and weather, this rock formation stands
+the test of time.  As you look at the projection, you think you see writing.
+~
+0 0 5
+E
+projection~
+Morn, the Elephant 
+~
+D3
+~
+~
+~
+0 0 13604
+D5
+~
+~
+~
+0 0 13607
+M 0 H 0
+S
+#13606
+The Mountain Path~
+The path begins to slope downwards off of the mountain.  The path comes
+to an end at a bluff.  You see iron rungs set into the mountain that serve
+as a ladder going downward.  
+~
+0 0 5
+D2
+~
+~
+~
+0 0 13554
+D5
+~
+~
+~
+0 0 13627
+M 0 H 0
+S
+#13607
+Starting into the Mountain~
+You stand below the slope that will take you up into the mountain.  Old
+hiking equipment has been discarded here to make climbing easier.  The junk
+is piled at the side of the trail and is no longer usable.  The breeze is
+slight and brings the smell of pine to your nose.  
+~
+0 0 5
+D2
+~
+~
+~
+0 0 13608
+D4
+~
+~
+~
+0 0 13605
+M 0 H 0
+S
+#13608
+Thinning Pines~
+A few strands of pines stand ruggedly here at the top of the foothills. 
+The smell of nature is all about you, momentarily taking you away from the
+troubles of the world.  To your north is supposedly a sacred mountain, if
+you believed that is to say.  Down the foothill will take you back toward
+civilization.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 13607
+D2
+~
+~
+~
+0 0 13609
+M 0 H 0
+S
+#13609
+Pine Forest~
+The pines are thick and sturdy here.  The trees grow tall, reaching
+toward the sky and tower well over your head.  Pines needles lay in circles
+around the base of each individual tree.  Several large pine cones lay on
+the ground, some have already began to rot.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 13608
+D5
+~
+~
+~
+0 0 13610
+M 0 H 0
+S
+#13610
+Lost Among the Tree~
+You stand in a mixture of pine and hardwood.  Funny how forest seem to be
+elitist.  The pines and the hardwoods compete against each other.  Each has
+strands in different spots, but they never intermingle.  Birds chirp happily
+from the branches as you pass through the woods.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 13611
+D3
+~
+~
+~
+0 0 13612
+D4
+~
+~
+~
+0 0 13609
+D5
+~
+~
+~
+0 0 13613
+M 0 H 0
+S
+#13611
+Along A Hunting Trail~
+The forest darkens.  The branches of the trees overhead blocking alot of
+the light from above.  The carpet of the forest is dead leaves that crackle
+under your feet as you walk over them.  Some of the trunks of the trees have
+scratch marks near the base.  
+~
+0 0 3
+D3
+~
+~
+~
+0 0 13610
+D5
+~
+~
+~
+0 0 13614
+M 0 H 0
+S
+#13612
+Nearing a Hut~
+The forest has been thinned here, not by natural forces but by axes.  The
+trees have been carefully selected to widen the path.  The underbrush is
+thicker here because of the selective cutting, allowing many of the smaller
+plants to thrive in the absence of the large trees.  To the west a cabin has
+been built.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 13610
+D3
+~
+~
+~
+0 0 13616
+M 0 H 0
+S
+#13613
+Small Gulley~
+The look of the forest is all around you.  Thick trees, thin trees.  Tall
+trees and stubby trees.  Some are even intertwined.  Animal trails run in
+every direction.  Moss grows on the few stones that lay on the forest floor.
+The sound of small animals' flight at your arrival brings a chuckle from
+you.  
+~
+0 0 3
+D2
+~
+~
+~
+0 0 13618
+D4
+~
+~
+~
+0 0 13610
+M 0 H 0
+S
+#13614
+Down the Slope~
+You are standing in a clearing of the forest.  The trees grow tall just
+outside the ring, offering shade from the sun in the summertime.  Thick
+grass grows here, flourishing in the light.  The grass is a vivid green,
+just starting to show a hint of yellow bloom.  
+~
+0 0 3
+D4
+~
+~
+~
+0 0 13611
+D5
+~
+~
+~
+0 0 13615
+M 0 H 0
+S
+#13615
+A Stream~
+You stand on the bank of a small stream.  The water seems cool and
+refreshing as it bubbles over the rocks.  The water is clear and you can see
+all the way to the bottom.  Trees grow close to the stream, to the point
+that you can see roots down in the stream.  A cave seems to form just under
+the roots.  
+~
+0 0 3
+D4
+~
+~
+~
+0 0 13614
+M 0 H 0
+S
+#13616
+Outside the Cabin~
+You look at an old hunting shack.  Quaint, but nothing that you would
+want to live in all year.  Furs hang stretched out on the outer wall of the
+cabin.  Many are stiff and ready to be taken down, while a few are fresh and
+need more tanning.  There is a large hole just beneath the roof, making the
+cabin look incomplete.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 13612
+D3
+~
+~
+~
+1 0 13617
+M 0 H 0
+S
+#13617
+Inside the Cabin~
+You are inside the hunting cabin.  The interior is nothing to be desired.
+A stove smokes away in the back, pumping as much smoke into the room as it
+does the chimney.  A lone chair and table stand in the center of the room,
+stacked with dirty dishes and tanned hides.  The rest of the room is filled
+with furs that have been bundled.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 13616
+M 0 H 0
+S
+#13618
+On the Hillside~
+The trees grow at a slant from your point of view.  The trees are mainly
+small hardwoods.  Branches press against each other as they try to reach out
+as far as they can.  They provide a great canopy, keeping the sun off you
+during the day, but not blocking out all the light.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 13613
+D4
+~
+~
+~
+0 0 13619
+M 0 H 0
+S
+#13619
+Top of Deer Hill~
+The knob of the hill is clear of trees.  Tall grass grows in the absence
+of the trees.  Many deer trails lead back and forth across the field. 
+Because of the abundance of deer here, the hill has earned the nickname of
+deer hill.  
+~
+0 0 3
+D2
+~
+~
+~
+0 0 13620
+D5
+~
+~
+~
+0 0 13618
+M 0 H 0
+S
+#13620
+Tip of the Hill~
+You stand in the clearing.  Small trees try to push themselves up high,
+but have thin trunks.  They have grown to fast, tall and straight, but to
+thin to support themselves.  The grass is tall and green.  A few wildflowers
+grow, adding color to the view.  You think to yourself what a great place
+for a picnic.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 13619
+D5
+~
+~
+~
+0 0 13621
+M 0 H 0
+S
+#13621
+Up in the Foothills~
+Looking about you, you see hills rising up into the distance.  You can
+clearly make out the form of the mountain rising up into the air.  The few
+trees provide shade as well as nest for the birds that fly about.  This
+place is perfect for nature lovers.  
+~
+0 0 3
+D4
+~
+~
+~
+0 0 13620
+D5
+~
+~
+~
+0 0 13622
+M 0 H 0
+S
+#13622
+Entering the Foothills~
+The ground begins to slowly rise upwards.  The flatlands have given way
+to hills.  The hills continue as far as the eye can see until they run into
+the mountain.  The view is beautiful, like one of those visions you read
+about in a book.  The trail is easy to follow.  
+~
+0 0 3
+D2
+~
+~
+~
+0 0 13623
+D4
+~
+~
+~
+0 0 13621
+M 0 H 0
+S
+#13623
+A Field~
+You are standing in the middle of the field.  The grass has grown tall
+and is ready to be cut.  You watch the tall grass sway back and forth in the
+wind.  The view is almost the same as the in all directions, except to the
+north.  The landscape starts to become hilly.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 13622
+D2
+~
+~
+~
+0 0 13624
+M 0 H 0
+S
+#13624
+A Field~
+You stand in the middle of a field.  Row upon row of grass grows tall
+here.  The grass looks like a fescue.  This would be a good grazing spot for
+wildlife, perhaps even livestock.  There are animal trails cutting through
+the fields.  The field just seems to continue onward endlessly.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 13623
+D2
+~
+~
+~
+0 0 13625
+M 0 H 0
+S
+#13625
+Near a Fence~
+You stand in a large field near a fencerow.  The grass is tall, waving in
+the wind.  The field continues on in all directions, but the main path leads
+northward.  The path zigzags back and forth, but leads north.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 13624
+D2
+~
+gate~
+~
+1 0 13626
+M 0 H 0
+S
+#13626
+Before the Fence~
+You are walking beside an old country fence.  Grass and weeds grow up
+along the planks and post.  The fence is old and looks like it would fall if
+the wind blew to hard.  The whitewash that once decorated the fence has
+begun to crack and peel.  Large chips of the paint lay in the grass beneath
+the fence.  An old, rickety gate has been placed in the middle of the fence.
+~
+0 0 2
+D0
+~
+gate~
+~
+1 0 13625
+M 0 H 0
+S
+#13627
+The Mountain Ladder~
+The rungs of this ladder are spaced far apart.  You have to stretch to
+reach the next rung.  A soft, steady glow comes from the metal that composes
+the rungs.  The wind whips around you, trying to rip you free of your
+purchase.  
+~
+0 0 5
+D4
+~
+~
+~
+0 0 13606
+D5
+~
+~
+~
+0 0 13628
+M 0 H 0
+S
+#13628
+The Groc Nest~
+The makeshift ladder continues up and down the mountain.  The mountain is
+marked with many cliffs and outcropping.  The closest outcropping has a
+large nest on it.  You can hear the chirping coming from the nest.  You look
+around for the mother and hurriedly continue along the ladder.  
+~
+0 0 5
+D4
+~
+~
+~
+0 0 13627
+D5
+~
+~
+~
+0 0 13629
+M 0 H 0
+S
+#13629
+Foot of a Ladder~
+You stand on a small outcropping.  A few rather large boulders that have
+fallen from above lay against the mountain.  Rungs have been inserted into
+the mountainside to form a crude ladder.  
+~
+0 0 5
+D0
+~
+~
+~
+0 0 13630
+D4
+~
+~
+~
+0 0 13628
+M 0 H 0
+S
+#13630
+Outside a Mountain Cave~
+The mountain yawns open, leaving a wide cavern before you.  The entrance
+is partially blocked by a large boulder.  The lip of the cliff runs to the
+mountainside to the south.  Those are your only options to move.  Unless,
+you believe you can climb straight upward.  
+~
+0 0 5
+D1
+~
+~
+~
+0 0 13631
+D2
+~
+~
+~
+0 0 13629
+M 0 H 0
+S
+#13631
+Inside the Mountain Cave~
+You are standing in a man made tunnel.  The walls have been squared off
+and smoothed.  Pockmarks in the tunnel walls suggest that this was once a
+mining tunnel.  Small minerals glitter in the wall, probably some small
+valued mineral.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 13632
+D3
+~
+~
+~
+0 0 13630
+M 0 H 0
+S
+#13632
+The Tunnel~
+The tunnel widens slightly.  Minerals glitter in the tunnel walls.  Small
+chunks of copper and iron are exposed in the wall.  A few mining tools lay
+on the ground, broken and rusty.  Chunks of rock and metal cover the floor
+of the tunnel.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 13633
+D3
+~
+~
+~
+0 0 13631
+M 0 H 0
+S
+#13633
+The Tunnel~
+The tunnel widens and makes a turn.  The floor is clean except for a few
+pebbles.  A bench like structure has been carved into the wall to allow you
+the workers to rest.  A few tunneling tools are on the bench.  Many of them
+looking very old.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 13634
+D3
+~
+~
+~
+0 0 13632
+M 0 H 0
+S
+#13634
+Cave In~
+The mountain has caved in on the tunnel.  The area is completely blocked
+by large stones. 
+~
+0 9 0
+D2
+~
+~
+~
+0 0 13633
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 13616 3 1
+D 0 13617 1 1
+D 0 13625 2 1
+D 0 13626 0 1
+M 0 13555 1 13555 10
+M 0 13557 1 13557 10
+M 0 13564 1 13564 10
+O 0 13569 0 13569
+M 0 13570 1 13570 10
+M 0 13571 1 13571 10
+M 0 13575 3 13575 10
+M 0 13579 1 13579 10
+M 0 13579 1 13579 10
+M 0 13579 1 13579 10
+O 0 13581 0 13581
+M 0 13592 1 13592 10
+E 0 13592 0 16
+M 0 13595 1 13595 10
+M 0 13597 2 13597 10
+M 0 13602 1 13602 10
+E 0 13592 0 16
+M 0 13601 1 13602 10
+E 0 13601 0 16
+M 0 13611 1 13611 10
+M 0 13613 1 13613 10
+M 0 13615 1 13615 10
+O 0 13615 0 13615
+M 0 13619 4 13619 10
+M 0 13621 5 13621 10
+M 0 13622 1 13622 10
+M 0 13624 3 13624 10
+M 0 13625 1 13625 10
+M 0 13628 1 13628 10
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

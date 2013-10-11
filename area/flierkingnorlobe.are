@@ -1,0 +1,2179 @@
+#AREADATA
+Name {25 40} SanBlyt Flierkingnorlobe~
+Builders Sansara Azusa~
+VNUMs 3541 3599
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#3541
+Herb turtle~
+a giant turtle~
+A large turtle swims through the dark water.
+~
+A turtle of mammoth proportion looms before you.  Its dark green shell is
+almost indistinguishable in the murky waters.  Large, scaly flippers take
+the place of legs, poking out from the shell gracefully.  Its large eyes
+train on you upon your intrusion, looking you over before it continues its
+slow, purposeful movement.  
+~
+lizard~
+AB 0 0 0
+40 0 10d98+804 40d10+100 4d7+10 none
+-5 -5 -5 -3
+0 0 L I
+(null) (null) none 180
+AGXc ACDEFHKLPQUVX medium unknown
+#3542
+malataur~
+a large malataur~
+A malataur stands here, surveying the area.
+~
+A well-defined male human torso resting upon the body of a
+chestnut-colored horse that stands approximately twelve hands on its own,
+creates the creature in front of you.  Large notched horns curl around the
+horse-like ears and his black hair is braided down his back like a mane. 
+Large black eyes peer at you as he stamps one hoofed paw into the ground and
+snarls.  
+~
+unique~
+A JV -750 0
+35 0 10d76+654 35d10+100 4d6+9 none
+-3 -3 -3 -1
+0 0 C R
+(null) (null) female 157
+ACGHNV ABCDEFGHIJKLPQW medium unknown
+#3543
+malataur~
+a snarling malataur~
+A female malataur glares at you.
+~
+A tanned, womanly torso graces the body of a black mare.  Her equestrian
+half is easily ten hands in height alone while her human half is about two
+feet.  Two small braids fall over her shoulders while the rest of her mane
+spills wildly down her back.  A strap crosses horizontally from her shoulder
+to her side, holding a quiver of arrows close by.  As soon as her inhuman
+black eyes spot you, she picks up her bow and trains an arrow on your heart.
+~
+unique~
+A JV -800 0
+35 0 10d76+654 35d10+100 4d6+9 none
+-3 -3 -3 -1
+0 0 C R
+(null) (null) either 157
+ACGHNV ABCDEFGHIJKLPQW medium unknown
+#3544
+brown bat~
+a brown bat~
+A brown fist-sized bat flits silently in the air, waiting for its next meal.
+~
+A small furry bat with brown fur hangs from the ceiling, resting.  Its
+wings are folded neatly, overlapping around its body.  It chirps
+occasionally, moving and readjusting its position on the ceiling.  Its large
+ears look like it can pick up the tiniest of noises.
+~
+unique~
+A CDEFGTVZc 0 0
+20 0 6d39+294 20d10+100 3d5+4 none
+2 2 2 4
+FH 0 0 S
+(null) (null) male 90
+ACGHMVW ABCDEFGHIJKOPUV medium unknown
+#3545
+gnome wife woman~
+a gnome woman~
+A gnome wife works here, getting things ready.
+~
+Shorter and lighter built than a dwarf, this creature is marked as a
+gnome by its bulbous nose and lack of hair on its feet.  Its long brown hair
+has been braided into twin plaits than hang over each slightly pointed ear. 
+Going by the total lack of facial hair and the bosom this must be a female
+gnome.  
+~
+unique~
+A J 900 0
+30 0 10d60+520 30d10+100 3d6+8 beating
+-1 -1 -1 0
+0 0 CLQ R
+(null) (null) either 135
+AMV ABCDEFGHIJK medium unknown
+#3546
+gnome worker male~
+a gnome worker~
+The male gnome here is working hard and with dedication.
+~
+A slight sweat has built upon the skin of this gnome as he works hard
+here.  A long brown beard, has been neatly braided and tied out of the way
+so as not to be damaged while he labors.  Piercing blue eyes look intent
+upon his task, made more apparent by the light red tint to his cheeks.  Just
+visible through the unruly mop of brown hair that crowns his head are a pair
+of very slightly pointed ears.  
+~
+unique~
+A J 900 0
+32 0 10d66+571 32d10+100 4d5+9 digestion
+-2 -2 -2 0
+0 0 CLQ R
+(null) (null) female 144
+AMV ABCDEFGHIJK medium unknown
+#3547
+gnome child~
+a gnome child~
+A gnome child looks around here for some trouble to get into.
+~
+Small, but large enough to look after itself, this child looks around
+with twinkling eyes.  Scuff marks upon the knees of its leggings show that
+it has been playing where its parents would rather it didn't.  Small points
+adorn both of its ears, just visible as they poke from the hair of its head.
+~
+unique~
+A J 1000 0
+25 0 8d48+400 25d10+100 3d5+7 beating
+0 0 0 2
+0 0 CLQ R
+(null) (null) none 112
+AMV ABCDEFGHIJK medium unknown
+#3548
+gnome apprentice~
+a gnome apprentice~
+A gnome apprentice labors here, trying to learn its trade.
+~
+Not yet considered a full adult in the gnomish culture, this young gnome
+works hard to prove itself.  A broad nose and slightly pointed ears mark
+this creature for a gnome.  Its eyes show determination as it labors on,
+filled with hope that soon it will have proven its self well enough to be
+counted as an adult.  
+~
+unique~
+A J 1000 0
+28 0 9d55+470 28d10+100 3d5+9 digestion
+0 0 0 1
+I 0 CLQ R
+(null) (null) none 126
+AMV ABCDEFGHIJK medium unknown
+#3549
+gnome foreman~
+a gnome foreman~
+This gnome acts as foreman to the others issuing orders as he walks here.
+~
+Physically hardened by his labors, this gnome looks like he doesn't mess
+about.  The stern cast to his face is slightly softened by a twinkle to his
+eye, showing that he is only doing his job.  Brown eyes look about to make
+sure everything is going well as he issues his next order to the workers. 
+Slightly pointed ears poke through long dark hair and the bushing beard mark
+his race as gnomish.  
+~
+unique~
+A JV 900 0
+34 0 10d73+626 34d10+100 4d5+10 digestion
+-3 -3 -3 -1
+CE 0 CLQ R
+(null) (null) female 153
+AMV ABCDEFGHIJK medium unknown
+#3550
+gnome elder~
+a gnome elder~
+A gnome elder spends his time here in contemplation.
+~
+Long white hair and beard mark this creature as venerable.  After years of
+hard work and study, he has managed to become one of the tribe's elders. 
+Eyes as blue as the summer sky all but shine from his face as he gazes back
+at you, while a small smile plays over his lips.  Tiny points to his ears
+and a broad nose show him to be a gnome.  
+~
+unique~
+A JOV 1000 0
+36 0 10d80+683 36d10+100 4d6+9 digestion
+-4 -4 -4 -2
+C 0 CLQ R
+(null) (null) female 162
+AMV ABCDEFGHIJK medium unknown
+#3551
+spectral butterfly~
+a spectral butterfly~
+A butterfly flutters here, phasing in and out of existence periodically.
+~
+This delicate butterfly seems to shimmer in any available light, turning
+nearly transparent from time to time.  It is nearly colorless and the only
+visible markings on its white body seem to be silver.  Its antennae sway
+daintily as it moves around, an incorporeal white to match its wings and
+body.  
+~
+unique~
+AEI TU 0 0
+15 0 5d31+200 15d10+100 2d4+2 none
+4 4 4 6
+0 C AES CGHJKNO
+(null) (null) male 67
+ACEHIJKLMV ABCDEFGHIJK medium unknown
+#3552
+chipmunk~
+a chipmunk~
+A small chipmunk scratches at the ground.
+~
+This mouse-sized creature can only be a chipmunk, evidenced by several
+vertical stripes of black and white on its back.  The rest of its fur is a
+tawny color, the hair short and soft.  When left to its own devices, it
+darts around freely with a speed that could be envied.  
+~
+rabbit~
+AI 0 0 0
+17 0 5d34+236 17d10+100 2d5+5 none
+3 3 3 5
+FH 0 0 0
+(null) (null) male 76
+AGV ACDEFHJKP small unknown
+#3553
+raven~
+a raven~
+A large raven perches here, cawing.
+~
+A dark grey beak, coupled with black feathers that shine, marks this bird
+as a raven.  Its eyes peruse the immediate surroundings and when turned on
+you, the bird seems to see right through you.  Every now and then, it
+unsettles and shakes its wings before returning to a relative calm.  
+~
+song bird~
+AI T 0 0
+20 0 6d39+294 20d10+100 3d5+4 none
+2 2 2 4
+FH 0 0 0
+(null) (null) male 90
+AGW ACDEFHKOP small unknown
+#3554
+field mouse~
+a field mouse~
+A small field mouse twitches its nose as it looks around.
+~
+This small grey field mouse has ears that are redolent of felt.  Its
+hands and feet are a black color, fading gradually to the grey of its body. 
+It also has a thin pink tail that seems to move occasionally of its own
+accord.  
+~
+rabbit~
+AI 0 0 0
+22 0 7d42+334 22d10+100 3d5+5 none
+1 1 1 3
+FH 0 0 0
+(null) (null) male 99
+AGV ACDEFHJKP small unknown
+#3555
+Ifkamberistible gnome~
+Ifkamberistible~
+A portly gnome is here, guffawing over his own tales and jokes.
+~
+As soon as he sees you, this gnome starts talking excitedly. 
+Unfortunately, his speech is too fast for most to understand.  He seems
+delighted to see you, nonetheless, and starts pointing at the cages around
+the room at various points during his speech, which ends with a loud guffaw.
+His clothes are well taken care of, even if they expose part of his
+considerable girth and show his belly button.  Though he is greying, he
+still seems to be quite nimble.  
+~
+human~
+ABRW 0 0 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+0 0 0 0
+(null) (null) male 112
+AHMV ABCDEFGHIJK medium unknown
+#3556
+cursed invention~
+a cursed invention~
+A large metal invention with discolorations and rust spots is here.
+~
+This large metal beast-like contraption trains on your every movement. 
+The body of it seems discolored and has a few rust spots that vary in size,
+indicating that it has been abandoned here for quite some time.  Gears and
+cogs seem to turn on by themselves at irregular intervals, creating a harsh
+grinding noise that cuts through all others.  
+~
+unique~
+AB DFJZ 0 0
+40 0 10d98+804 40d10+100 4d7+10 none
+-5 -5 -5 -3
+DFOR A CLQ CR
+(null) (null) male 180
+ABGMV ABCDEFGHIJKPV large unknown
+#3557
+flying device invention~
+a small flying device~
+A small flying device buzzes around the room.
+~
+This small metal ball with holes in the shape of triangles and squares is
+being carried around the room on metallic blades that spin at an amazing
+rate.  The metal has been colored vividly, ranging from bright greens to
+vivid yellows that seem to change as it flies about.  
+~
+unique~
+A JTV 0 0
+38 0 10d89+743 38d10+100 4d6+11 none
+-4 -4 -4 -2
+0 A CLQ R
+(null) (null) male 171
+AMV ABCDEFGHIJK small unknown
+#3558
+steam cart wedge invention~
+a steam cart~
+A wedge-shaped steam cart zips around here.
+~
+Four wheels are aligned upon each corner of this vaguely wedge-shaped
+device, appearing to be driven by the steam boiler that forms most of the
+body.  Cogs and fly-wheels are linked to this boiler by small chains.  If
+this contraption was larger, it might possibly be a useful form of
+transportation.  
+~
+unique~
+A J 0 0
+37 0 10d84+713 37d10+100 4d6+10 none
+-4 -4 -4 -2
+0 A CLQ R
+(null) (null) male 166
+AMV ABCDEFGHIJK small unknown
+#3559
+crazed digging machine invention~
+a crazed digging machine~
+A large machine digs into the wall with lack of rhyme and reason.
+~
+A very large machine is here, cutting into the rock with a steam-powered
+blade.  Pistons, cogs, and gears work with a precision that is astounding as
+the contraption finds another space in the wall to begin digging.  A
+whirring sound is made as the parts move of their own accord, spinning in a
+hypnotic array.  
+~
+unique~
+A J 0 0
+40 0 10d98+804 40d10+100 4d7+10 none
+-5 -5 -5 -3
+ADO A CLQ R
+(null) (null) male 180
+AMV ABCDEFGHIJK large unknown
+#3560
+gnome tinkerer Kimmeriferish Gnooblerisuces~
+Kimmeriferish Gnooblerisuces~
+A gnome with a strange look in his eyes is here, banging on some metal.
+~
+A small mask covers this gnome's face to protect him from his work,
+making the white hair that stands on end more pronounced.  Occasionally he
+uses a magical heat source on the metal to bend it to his will, laughing
+good-naturedly whenever it turns out well and jumping up and down when the
+opposite occurs.  In his overalls, various tools can be seen peeking out of
+his pockets and from his belt.  
+~
+unique~
+AB HJc 1000 0
+35 0 10d76+654 35d10+100 4d6+9 none
+-3 -3 -3 -1
+0 A CLQ R
+(null) (null) female 157
+AMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#3541
+star sapphire~
+a beautiful star sapphire~
+A large and beautiful star sapphire rests here, glinting.~
+unknown~
+treasure R AO
+0 0 0 0 0
+1 2 10 P
+#3542
+spherical puzzle~
+a spherical puzzle~
+A puzzle in the shape of a sphere floats here.~
+unknown~
+container GRST AR
+40 AC 0 0 0
+50 1 0 P
+A
+13 40
+#3543
+small pool~
+a small pool~
+A small pool of water has collected among the tree roots.~
+unknown~
+fountain R 0
+20 20 'water' 0 0
+0 0 0 P
+#3544
+a knot~
+a knot~
+A knot in a large sycamore.~
+unknown~
+container R 0
+0 0 0 0 0
+0 100 0 P
+#3545
+droplets nectar~
+some droplets of nectar~
+Droplets of golden nectar have hardened here.~
+unknown~
+pill 0 AO
+40 'reserved' 'reserved' 'reserved' 'reserved'
+40 1 1200 P
+#3546
+orange mushroom~
+an orange mushroom~
+An orange mushroom can be seen here.~
+unknown~
+pill R AO
+80 'reserved' 'reserved' 'reserved' 'reserved'
+1 1 30 P
+#3547
+grapevine vine~
+a grapevine~
+A grapevine grows between the tree branches here.~
+unknown~
+container R 0
+20 0 0 0 0
+0 0 0 P
+#3548
+bunch grapes~
+a bunch of grapes~
+A bunch of dark purple grapes have been left here.~
+unknown~
+food 0 AO
+CE 0 0 0 0
+1 0 2 P
+#3549
+pile of bones~
+a pile of bones~
+An pile of aging bones is here, the sun bleaching them.~
+unknown~
+container R 0
+40 0 0 0 0
+0 0 0 P
+#3550
+bone flail~
+a bone flail~
+A flail made of bleached bone and metal has been discarded here.~
+unknown~
+weapon 0 AN
+axe 8 7 peck 0
+30 5 150 P
+#3551
+dark mushrooms~
+a few dark mushrooms~
+A few dark mushrooms have been uprooted and left here.~
+unknown~
+food 0 AO
+BD 0 0 0 0
+1 1 2 P
+#3552
+soft turtle egg~
+a large egg~
+A large egg is nestled in a mound of dirt.~
+unknown~
+pill R AO
+35 'reserved' 'reserved' 'reserved' 'reserved'
+1 5 30 P
+#3553
+hard hat~
+a hard hat~
+A hard hat stained a deep orange color has been dropped here.~
+unknown~
+armor 0 AE
+AC AC AC A 0
+35 3 175 P
+#3554
+worn vest~
+a worn vest~
+A vest, nearly threadbare from constant wear, has been left here.~
+unknown~
+armor 0 AD
+BC BC BC A 0
+36 1 180 P
+#3555
+small dress~
+a small dress~
+A small dark dress is here, piled in a heap.~
+unknown~
+armor 0 AD
+AC AC AC A 0
+35 3 175 P
+#3556
+wooden clog shoes~
+wooden shoes~
+A pair of wooden clogs have been left here.~
+unknown~
+armor 0 AG
+AC AC AC A 0
+35 2 175 P
+#3557
+short pants~
+short pants~
+A pair of light-weight short pants has been left here.~
+unknown~
+armor 0 AF
+AC AC AC A 0
+35 1 175 P
+#3558
+pick axe~
+a pick axe~
+A heavy iron pick axe is here, the wooden handle shiny from sweat.~
+unknown~
+weapon 0 AN
+mace 5 14 none 0
+35 10 175 P
+#3559
+blast-proof mask~
+a blast-proof mask~
+A mask with a resilient see-through plate is here.~
+unknown~
+armor IS AT
+AC AC AC A 0
+35 5 175 P
+#3560
+obsidian hammer~
+an obsidian hammer~
+A hammer made of flawless obsidian is here, shining in any light.~
+unknown~
+weapon G AN
+staff 5 14 none H
+35 10 175 P
+#3561
+forging tongs~
+forging tongs~
+A pair of forging tongs made of an unknown material have been placed here.~
+unknown~
+weapon 0 AN
+exotic 5 14 none 0
+35 1 175 P
+#3562
+denim overalls~
+denim overalls~
+A pair of denim overalls have been discarded here.~
+unknown~
+armor 0 AD
+AC AC AC A 0
+35 2 175 P
+#3563
+tool belt~
+a tool belt~
+A hefty tool belt has been dropped here.~
+unknown~
+container S AL
+40 AC 0 0 0
+35 14 0 P
+#3564
+blow torch~
+a blow torch~
+A magical device that produces a flame at the press of the button is here.~
+unknown~
+weapon 0 AN
+exotic 6 9 whip A
+28 1 140 P
+#3565
+wand protection~
+a wand of protection~
+A wand with a label of "Protection" is here.~
+unknown~
+wand 0 AO
+30 3 3 'reserved' 0
+28 1 140 P
+#3566
+small white mushroom~
+a small white mushroom~
+A small white mushroom can be seen in the dark soil.~
+unknown~
+food R AO
+BCDE 0 0 0 0
+0 0 1 P
+#3567
+quartz piece~
+some sparkling quartz~
+Some sparkling quartz crystals grow on the rock face here.~
+unknown~
+treasure R AO
+0 0 0 0 0
+20 2 200 P
+#3568
+emerald dragonfly~
+an emerald dragonfly~
+A dragonfly masterly crafted of emerald and gold wire is here.~
+unknown~
+treasure R AO
+0 0 0 0 0
+20 1 200 P
+#3569
+will o' the wisp light~
+a pinpoint of flickering light~
+The pinpoint of flickering light that weaves here can only be a will o' the wisp.~
+unknown~
+light AR A
+0 0 ABCFGHIJ 0 0
+30 0 0 P
+#3570
+jade ivy leaf~
+a jade ivy leaf~
+An ivy leaf masterfully chiseled from jade is here.~
+unknown~
+treasure R AO
+0 0 0 0 0
+20 1 200 P
+#3571
+ruby red dragon~
+a dragon made of ruby~
+This flawless ruby has been crafted into the image of a dragon.~
+unknown~
+treasure R AO
+0 0 0 0 0
+20 1 200 P
+#3572
+red fur vest~
+red furs~
+Red furs have been assembled to create the vest laying here.~
+unknown~
+armor 0 AD
+AC AC AC A 0
+35 4 175 P
+#3573
+horns of the ram~
+the horns of the ram~
+Horns much like those of a ram have been dropped here.~
+unknown~
+armor EM AE
+AC AC AC A 0
+35 1 175 P
+#3574
+quiver~
+a quiver~
+A large quiver made of leather has been left here.~
+unknown~
+container 0 AC
+20 A 0 0 0
+35 3 30 P
+#3575
+yew bow~
+a bow made of yew~
+A bow made of yew has been discarded here.~
+unknown~
+weapon 0 AN
+exotic 5 14 none 0
+35 2 175 P
+#3576
+topaz acorn~
+a small acorn~
+An acorn made of smoky topaz is here.~
+unknown~
+treasure R AO
+0 0 0 0 0
+20 1 200 P
+#3577
+pillar~
+a pillar~
+A pillar covered in runes is here, part of the room itself.~
+unknown~
+container R 0
+10 0 0 0 0
+0 0 0 P
+#3578
+quartz gnomish rune~
+a gnomish rune~
+A rune made of clear quartz is here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 1 1 P
+#3579
+tiger eye~
+a tiger's eye~
+This rounded stone is made of tiger eye, polished to perfection.~
+unknown~
+treasure R AO
+0 0 0 0 0
+20 1 200 P
+#3580
+stone stump~
+a stone stump~
+A stump carved delicately from rock is positioned in the center of the room.~
+unknown~
+container 0 0
+20 0 0 0 0
+0 0 0 P
+#3581
+blue velvet cape~
+a blue velvet cape~
+A cape constructed of blue velvet has been draped here.~
+unknown~
+armor R Aa
+BC BC BC B 0
+40 2 200 P
+#3582
+feldspar butterfly~
+a feldspar butterfly~
+Light glints off a piece of masterfully crafted feldspar, shaped like a butterfly.~
+unknown~
+treasure R AO
+0 0 0 0 0
+20 3 200 P
+#3592
+root~
+a grasping root~
+A grasping root juts out from the natural steps.~
+unknown~
+warp_stone 0 0
+G I C C 0
+20 0 0 P
+E
+!trap!~
+You trip over a root and fall flat on your face!
+~
+#3593
+jade wedding band~
+a jade wedding band~
+A wedding band crafted of jade is here, twisted into never-ending knots.~
+unknown~
+protect EMSU AB
+DE DE DE AC 0
+85 0 0 P
+#3594
+onyx garnet band~
+an onyx band with garnets~
+Flawless onyx set with garnets of the same quality can be seen here.~
+unknown~
+protect EMRSU AB
+CDE CDE CDE BC 0
+1 0 0 P
+E
+inscription~
+Two hearts endeavoring for one immortal fire is more than divine.
+~
+#0
+
+
+
+#ROOMS
+#3541
+Beneath the Surface~
+The cold water that surrounds you swallows any light present readily. 
+Fish swim by you and the disturbance you create stirs fish bones and debris
+into the water.  When you near the bottom of the lake, you can see that it
+is bowl-shaped and mostly smooth rock.  The exception to the clear floor is
+a mound of dirt near the center of it.  
+~
+0 13 13
+D4
+~
+~
+~
+1 0 3542
+M 0 H 0
+S
+#3542
+Murky Waters~
+A dense formation of stalactites looms above, preventing passage by air.
+The constant dripping from the conical shapes above creates a cool shower of
+water, adding to the already damp chill hanging in the air.  The wall
+southern is concave, sloping gently into the water.  Murky water laps
+hypnotically against a shallow ledge at the south of the cave.  The smell of
+fish and mildew is quite strong in the stagnant air.  Darkness shrouds the
+north and makes the depth of the water impossible to guess at.
+~
+0 9 7
+D0
+~
+~
+~
+0 0 3543
+D5
+~
+~
+~
+1 0 3541
+M 0 H 0
+S
+#3543
+An Underground Lake~
+The depth of the murky water proves unfathomable in the overpowering
+darkness.  A splashing sound can be heard in the distance producing a small
+wave in the water.  Several stalagmites loom within view.  Dampness fills
+the chilled air and the occasional drip from above punctuates the
+ever-present gloom.
+~
+0 9 0
+D0
+~
+~
+~
+0 0 3545
+D2
+~
+~
+~
+0 0 3542
+D4
+~
+~
+~
+0 0 3544
+M 0 H 0
+S
+#3544
+Among the Stalactites~
+Stalactites have formed rather close together here.  Their congestion
+prevents passage by air to the south, as they become impossible to navigate
+around.  Overwhelming darkness surrounds you along with the smell of fish
+and the water trickling down the stalactites.  These rock formations seem to
+leech the heat from the air.  A small cavity is barely visible in the
+darkness shrouding the eastern wall.  
+~
+0 9 9
+D0
+~
+~
+~
+0 0 3546
+D1
+~
+~
+~
+1 0 3552
+D5
+~
+~
+~
+0 0 3543
+M 0 H 0
+S
+#3545
+A Stygian Cavern~
+A thin layer of water pools over the rocky soil, disturbed by your
+trespass.  Stalagmites rise from the ground as if they wished to reach the
+ceiling, stretching like claws upward.  Though the ceiling is not visible,
+the sound of dripping water is prominent and suggests stalactites have
+similarly formed above.  The air is stagnant, filled with foreign smells in
+addition to the smell of fish and decay.  Though you can't see far, the
+water seems to stretch on to the south.  To the north the land seems to
+become dry.  You can't see the walls easily, even with the aid of a light
+source.
+~
+0 9 0
+D0
+~
+~
+~
+0 0 3547
+D2
+~
+~
+~
+0 0 3543
+D4
+~
+~
+~
+0 0 3546
+M 0 H 0
+S
+#3546
+The Cavern Ceiling~
+The air is stagnating around you with the smells of animal life, both
+dead and alive.  Water drips slowly but steadily from each brown conical
+stalactite, but the result of their landing remains unseen.  The ceiling is
+rather smooth and the rock remains cold to the touch, chilling the air.  The
+surrounding darkness is overwhelming, preventing seeing much in any
+direction.
+~
+0 9 9
+D0
+~
+~
+~
+0 0 3548
+D2
+~
+~
+~
+0 0 3544
+D5
+~
+~
+~
+0 0 3545
+M 0 H 0
+S
+#3547
+Further into the Cave~
+The cavern opens up, the ceiling stretching away to darkness.  The ground
+is dotted with guano and several species of mushrooms grow generously in the
+dark soil.  Niches in the walls seem to come alive as light shines on them
+and the unseen creatures scurry into safe hiding.  Water is dripping from
+above, occasionally striking you.  Soft mosses cover much of the rock
+expanse that you happen to catch sight of in the oppressing darkness.  The
+cave continues to the south and to the west.
+~
+0 13 0
+D2
+~
+~
+~
+0 0 3545
+D3
+~
+~
+~
+0 0 3549
+D4
+~
+~
+~
+0 0 3548
+M 0 H 0
+S
+#3548
+The Cave Ceiling~
+Stalactites form from the rock, pointing down from the ceiling toward the
+ground.  Each extension almost identical to the next with water trickling
+over them.  Several bats screech and fly away as you disturb their rest.
+You cannot see very far in any direction, the darkness swallowing any light
+hungrily.  Unpleasant smells waft to the ceiling from below, including
+guano. 
+~
+0 9 9
+D2
+~
+~
+~
+0 0 3546
+D5
+~
+~
+~
+0 0 3547
+M 0 H 0
+S
+#3549
+Inside the Malataur Cave~
+The vines covering the mouth of the cave obstruct much of the light that
+you might expect to find in such a place.  The ground is soft and spongy
+beneath your feet, covered in a layer of rotting leaves and twigs.  A few
+white mushrooms contrast vividly against the black earth, growing close
+against the walls away from the light.  The ceiling is approximately twenty
+feet above, and quite worn.  From what you can see of the walls, the rock is
+smooth--almost as if by design.  Dripping water can be heard faintly coming
+from deeper within the cave.  The cave continues to the west and east.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3551
+D1
+~
+~
+~
+0 0 3547
+D3
+~
+~
+~
+0 0 3550
+M 0 H 0
+S
+#3550
+Corner of the Malataur Cave~
+Light faintly enters from the mouth of the cave to the east, illuminating
+spider webs that stretch across the jagged wall of the chamber, unbroken.  A
+faerie seems to be stuck to it, struggling to break free from the grip.
+Several cocoons dot the humongous web.  The floor is littered with the bones
+of larger animals and stained with blood.  A few pieces of rusting and
+degraded armor poke out of the heap and several mushrooms poke free of the
+black earth.  Surprisingly, the air smells more like mold than decay. 
+~
+0 8 0
+D1
+~
+~
+~
+0 0 3549
+M 0 H 0
+S
+#3551
+Entrance of the Cave~
+A gaping hole yawns from the side of the rock, with dark vines draping
+over it.  There is a ring of stone surrounding a pile of ash, presumably
+placed to contain a fire.  A large spit has been constructed over the ring,
+blood stained and greasy from use.  On the left side of the cave, past the
+clearing, a large mound of bones and skulls have been piled up and left to
+the care of nature.  Excluding some newly fallen leaves and a small pile of
+logs, there is nothing else that catches the eye in the cleared area.
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3590
+D2
+~
+~
+~
+0 0 3549
+M 0 H 0
+S
+#3552
+On a Ledge~
+This flat expanse of ledge is located directly beneath a small hole in
+the western wall.  A path wide enough for passage spirals at a gradual
+decline down into the darkness.  Faint light spills forth from numerous
+openings that are visible along the path, resembling fireflies as the most
+distant come into view.  The shelf continues to the north and south.  
+~
+0 12 0
+D0
+~
+~
+~
+0 0 3553
+D2
+~
+~
+~
+0 0 3554
+D3
+~
+~
+~
+1 0 3544
+M 0 H 0
+S
+#3553
+A Small Basin~
+This depression in the ridge is covered in luminescent moss and overlooks
+a great spiralling decline made of dark rock.  Spots of the same brilliant
+moss can be seen high above, growing along what must be the ceiling of this
+subterranean gallery.  Irregular clusters of quartz crystal jut out from the
+rock, diffracting any light that reaches them.  Soft glowing lights make it
+appear that there are fireflies, or some other similar creature, trapped
+along the cave walls.  Further to the south there is a crawl space set into
+the wall and the outcropping continues.  
+~
+0 520 0
+D2
+~
+~
+~
+0 0 3552
+M 0 H 0
+S
+#3554
+Spiralling Ledge~
+This gradual decline slopes from the darkness to the north and leads into
+the gloom eastward.  Soft, golden light spills forth from a fissure in the
+southern wall, illuminating sparkling blue flecks in the dull grey rock.  A
+glance along the outcropping provides a view of similar hovels with the same
+amber light coming from them.  
+~
+0 12 0
+D0
+~
+~
+~
+0 0 3552
+D1
+~
+~
+~
+0 0 3556
+D2
+~
+~
+~
+0 0 3559
+M 0 H 0
+S
+#3555
+Gnome Home~
+A shallow impression has been dug into the eastern wall, the bottom of it
+flat to serve as a bed to the gnome that lives here.  A small bookshelf has
+been carved above the bed, right into the wall.  Golden lights made of magic
+have been settled into small holes around the room, the faint light glinting
+off the dark polished surface of the rock.  A hole in the northern wall
+seems to be the only exit. 
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3556
+M 0 H 0
+S
+#3556
+Spiralling Ledge~
+A ledge large enough for safe passage wraps from the west to the north,
+the pathway having been carved out of the blue-black stone.  A small gap in
+the southern wall glows with a soft amber hue, illuminating a dwelling of
+some sort.  Further along the ledge, in both directions, are more amber
+lights that resemble fireflies spills out over the rock face, making it
+shine as if polished.
+~
+0 12 0
+D0
+~
+~
+~
+0 0 3557
+D2
+~
+~
+~
+0 0 3555
+D3
+~
+~
+~
+0 0 3554
+M 0 H 0
+S
+#3557
+On A Ledge~
+Golden light comes from the break in the eastern wall, glinting faintly
+on the shiny rock it illuminates.  A projection of rock hugs the wall,
+leading both northward and southward from this point.  Further along the
+shelf are more lighted openings, the soft light resembling fireflies in the
+distance.
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3558
+D1
+~
+~
+~
+0 0 3562
+D2
+~
+~
+~
+0 0 3556
+M 0 H 0
+S
+#3558
+The Spiral Ledge~
+The great spiralling path declines gradually as it curves from south to
+west, a flat extension of the unusually smooth walls.  The orifice that
+serves as an entrance to the north emits a dull amber light that shines on
+the nearby walkway, glinting blue-black off the smooth angles.  Writing, in
+a language that can only be that of the inhabitants, has been engraved
+beside the gap.
+~
+0 8 0
+E
+writing~
+Ancient runes grace this wall, creating a delicate and intricate pattern.  
+~
+D0
+~
+~
+~
+0 0 3563
+D2
+~
+~
+~
+0 0 3557
+D3
+~
+~
+~
+0 0 3560
+M 0 H 0
+S
+#3559
+A Gnomish Home~
+Shelving dug into the walls of this chamber hold various knickknacks made
+of polished stone.  Stone hooks emerge from the walls, presumably to hold
+clothing and tools.  A rounded hole has been made in the northern wall, the
+lip of it looks as if it serves as a resting place for the inhabitant. 
+Magical rocks have been placed in tiny alcoves around the room, shedding
+hazy light.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3554
+M 0 H 0
+S
+#3560
+A Twisted Path~
+The path descends from the eastern direction, spiralling down the
+column-like tunnel.  Light from a rent in the western wall spills onto the
+ground, illuminating the blue-black rock.  More lights can be seen in the
+distance, their amber hue reminiscent of a firefly.
+~
+0 8 0
+D1
+~
+~
+~
+0 0 3558
+D3
+~
+~
+~
+0 0 3565
+D5
+~
+~
+~
+0 0 3561
+M 0 H 0
+S
+#3561
+Along the Ledge~
+A grey-black stone ledge inclines upwards steeply from the south, the
+surface reflecting any light it comes by.  Burrowed into the north most wall
+is a gnome's home with an amber radiance flowing from it, spilling over the
+grey walls and floor here.  More amber lights seem to be embedded into the
+rock, their own glows adding to the one from the burrow.
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3576
+D2
+~
+~
+~
+0 0 3568
+D4
+~
+~
+~
+0 0 3560
+M 0 H 0
+S
+#3562
+Gnome Hovel~
+Embedded into the wall is a small alcove with a flat bottom, creating a
+resting place of sorts.  Small hooks of rock have been carved from the walls
+to hold the belongings of the gnome that lives here.  The walls have been
+smoothed by hard work, hints of blue-black shining from them when the golden
+lights around the room strike them.  A fissure in the wall to the west
+serves as an exit from this strange abode.
+~
+0 8 0
+D3
+~
+~
+~
+0 0 3557
+M 0 H 0
+S
+#3563
+A Gnomish Venue~
+Numerous shelves have been set into the length of the walls, holding odds
+and ends, papers, and the occasional book.  Several cages hang from the
+ceiling, most of which contain an animal of some sort, ranging from the
+exotic to the common.  In the north-eastern corner of the room, there is a
+rocking chair carved from the same blue-black rock of the walls.  Small
+globes of magic shed a soft golden light on the entire room, glinting off
+the walls subtly.  There is a hole in the northern wall, leading to what
+seems to be a bed chamber and a small fissure in the southern wall, where
+the light fails to illuminate more than a path.  
+~
+0 4108 0
+D0
+~
+~
+~
+0 0 3567
+D2
+~
+~
+~
+0 0 3558
+M 0 H 0
+S
+#3564
+Gnomish Pets~
+~
+0 1081348 0
+M 0 H 0
+S
+#3565
+A Small Home~
+A shallow alcove in the wall houses a resting place for the weary, the
+bottom flattened out into a bed of sorts.  A small shelf set into the
+northern wall holds knickknacks carved of polished stone, the colors varying
+from orange to black.  A small circle has been etched into the floor, the
+shape virtually perfect.  A hole in the eastern wall provides a means of
+exiting.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 3560
+D5
+~
+~
+~
+1 0 3566
+M 0 H 0
+S
+#3566
+A Small Pit~
+A small pedestal in the center of the room holds a large star sapphire,
+cut with mastery.  All around the room, markings of ancient runes have been
+etched into the walls, glowing faintly with a silver light.  The rock of the
+dome ceiling has a covering of luminescent moss, shedding a soft light into
+the pit.
+~
+0 8 0
+D4
+~
+~
+~
+1 0 3565
+M 0 H 0
+S
+#3567
+Inside a Gnome's Home~
+Several beds have been carved into the walls, aligned vertically over one
+another.  Ladders fashioned of the same rock as the walls have been propped
+at an angle to allow easy access to each resting place.  Stone hooks cover
+the remainder of the wall space, providing a place for the residents to hang
+their things.  The round hole that serves as an exit to the south seems to
+lead to a common room.
+~
+0 8 0
+D2
+~
+~
+~
+0 0 3563
+M 0 H 0
+S
+#3568
+A Curving Path~
+Soft, warm amber light spills from a round hole bored into the western
+rock face, matched by similar lights glowing from the surrounding rock walls
+and floor.  A ledge of stone works its way from the north to the south,
+smooth and worn by many passing feet.  Here and there against the rock walls
+pale fungi grow, safe from the searing light of the sun. 
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3561
+D2
+~
+~
+~
+0 0 3569
+D3
+~
+~
+~
+0 0 3577
+M 0 H 0
+S
+#3569
+On a Crooked Walkway~
+A rock ledge works its way from the north to the east curving around a
+carving that looks almost life-like.  The wall has been fashioned to look
+like a mighty oak tree, the branches reaching to the roof and flowing over
+it.  Small acorns can be seen amidst its leaves, all carefully chiseled from
+the grey-black rock.  Tiny sparkling amber lights shine from the rocks all
+around here, while a large hole has been cut into the southern rock face,
+acting as a portal to what looks like a dwelling.  From this hole even more
+orange light spills fourth.
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3568
+D1
+~
+~
+~
+0 0 3570
+D2
+~
+~
+~
+0 0 3578
+M 0 H 0
+S
+#3570
+A Downward Spiral~
+A grey-black, amber light-embedded, rock ledge spirals down to the east
+here, winding and curling its way.  To the west, a carved tree can be seen
+decorating a similar path to this one.  The skill of the workmanship looks
+cunning, even from this distance.  Cut into the southern wall is a small
+niche from which a faint amber glow can be seen, the light warm and somehow
+cozy.
+~
+0 8 0
+D1
+~
+~
+~
+0 0 3571
+D2
+~
+~
+~
+0 0 3579
+D3
+~
+~
+~
+0 0 3569
+M 0 H 0
+S
+#3571
+Twisted Shelf~
+The rock ledge here twists wildly, curving and turning to its own
+devices.  It would appear to be purely natural until faint chisel marks
+become apparent upon closer inspection.  Dotted throughout the visible walls
+are numerous tiny pin-pricks of amber light, close in nature to the soft
+glow emitted from a rent carved into the southern wall.
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3572
+D2
+~
+~
+~
+0 0 3580
+D3
+~
+~
+~
+0 0 3570
+M 0 H 0
+S
+#3572
+Curving Pathway~
+The path curves here like the back of some ancient serpent, winding and
+twisting between the mighty grey-black rock walls.  A glow of soft amber
+light floods from an opening to the east, this is mirrored by small lights
+set into the all around.  To the south and north, the pathway continues
+onwards, from what may be seen here.
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3573
+D1
+~
+~
+~
+0 0 3581
+D2
+~
+~
+~
+0 0 3571
+M 0 H 0
+S
+#3573
+Spiralling Into Darkness~
+A spiralling rocky ledge, works from the south to the west here, twisting
+its way about.  About halfway along the ledge here, an opening to the north
+can be seen.  Though small, it is carved smoothly and pours forth a faint
+amber glow that glints on the stone walkway.  Tiny pale mushrooms grow close
+to the walls around this ledge, small but numerous. 
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3582
+D2
+~
+~
+~
+0 0 3572
+D3
+~
+~
+~
+0 0 3574
+M 0 H 0
+S
+#3574
+A Steep Decline~
+The corkscrew stone pathway descends from the east into a pit below. 
+Along the path overhead, lights can be seen at regular intervals.  Those
+lights farthest in the distance resemble amber stars in the night sky.  The
+same golden light spills from a fissure in the rock to the north, beyond
+which a work room of sorts can be seen, adorned with many strange devices. 
+A strange clicking noise can be heard from below at regular intervals,
+followed by whirring, then silence.
+~
+0 12 0
+D0
+~
+~
+~
+0 0 3583
+D1
+~
+~
+~
+0 0 3573
+D5
+~
+~
+~
+0 0 3575
+M 0 H 0
+S
+#3575
+The Bottom of the Spiral~
+Soft amber light spills down from a great spiraling walkway that curves
+around above.  Dots of this amber light look almost like camp fires of some
+distant army, ranging from pin pricks upwards to the size of a bush.  A
+similar radiance comes from orbs of magical light set randomly about this
+area which illuminates the occasional wheel or cog left laying upon the
+floor.  Sitting against the east most wall is what looks greatly like a
+drill only that its crank has been replaced by a series of cogs driven by
+pulleys and wheels in a confused jumble.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3584
+D4
+~
+~
+~
+0 0 3574
+M 0 H 0
+S
+#3576
+A Gnome's Burrow~
+A small chair and table carved of the same stone of the walls sits in the
+middle of the room.  Small alcoves dotting the walls hold small amber lights
+which seem to be of a magical nature.  By this light, hooks of different
+sizes and heights can be seen throughout the chamber, ready for use.  An
+alcove carved into the eastern wall houses what seems to be a bed, the stone
+edges around it decorated with images of flowers.  A fissure in the southern
+wall provides the only visible means of an exit.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 3561
+M 0 H 0
+S
+#3577
+Gnomish Abode~
+Four grey-black rock pillars sit equally spaced about this smooth carved
+chamber.  Each pillar, no wider than an axel, is covered with runic symbols
+to decorate their surfaces.  In between these pillars, a low stone table has
+been carved, its surface smooth and all but shining in the amber glow coming
+from pin pricks of light that dot the walls.  A hole that looks just large
+enough to slip through is carved into the eastern wall, runes in the same
+style as the pillars surround it.  One of four cots sit in each of the
+corners of this area, their sheets clean and neatly left.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 3568
+M 0 H 0
+S
+#3578
+Within a Gnome's Home~
+The walls of this chamber have each been carved to resemble a forest
+clearing, trees and bushes apparent within them.  Tiny motes of orange light
+have been carved around so that they take the place of animals eyes, the
+wings of butterflies or small insects.  In the center of the room, a stone
+table, crafted to resemble an old stump, sits while set into the eastern
+wall is an alcove, half hidden by a green stained leather curtain that
+partially hides a small cot.  The only visible exit is a smooth carved hole
+in the north wall, leading out onto a rock ledge.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3569
+M 0 H 0
+S
+#3579
+A Burrow~
+All around tiny lights shine from the rock walls illuminating this
+chamber, casting forth a gentle amber glow.  Skillfully carved from the rock
+of the west-most wall is a tiny chamber only just large enough to hold the
+bed within, a blue velvet curtain has been left ajar to allow a clear view
+of this sight.  Two small stone tables are set facing each other on the
+middle of the floor, their surfaces carved smooth and left clear.  In the
+north wall, an opening can easily be seen, around this butterflies have been
+carved with significant skill.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3570
+M 0 H 0
+S
+#3580
+A Small Residence~
+Tiny pin pricks of orange light glimmer from the grey-black of the rock
+walls here.  Bored into the western wall is a small alcove containing a
+diminutive bed, the covers of which have been neatly folded.  Hooks and pegs
+have been carved from the other walls, a few holding articles of clothing
+and worn tools.  In the center of the room sits a carve rock table and a
+small bench, placed upon this is what would look to be the start of a wooden
+carving.  To the north, a small hole appears to lead to a rock ledge.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3571
+M 0 H 0
+S
+#3581
+A Domicile~
+A hole carved smooth into the west wall acts as an entrance to this
+chamber, ivy work has been crafted into the rock face around it.  A sizeable
+cot stands against the eastern wall, its bedding folded back and ready for
+an occupant.  Hooks have been fashioned from the rock wall to hold
+equipment, their sizes varying and their height from the floor staggered. 
+From the floor, in the center of this chamber a small table has been
+fashioned.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 3572
+M 0 H 0
+S
+#3582
+Gnome Dwelling~
+Amber spheres of enchanted light give there soft glow to this chamber,
+warm and possibly comforting.  Four small recesses have been tunneled a
+short distance into the north most wall, each filled with a tiny cot and
+bedding.  A table and four stools sits in the center of the chamber, on its
+top has been placed four diminutive plates and cutlery to match.  Hooks
+crafted from the rock of the walls appear to be ready to hold items.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 3573
+M 0 H 0
+S
+#3583
+The Tinkerer's~
+Grey-black stone littered with small dots of amber light makes up the
+walls around you, the glow soft and warm as if fireflies have long ago flown
+into the rock and decided to remain there for eternity.  Benches and tables
+have been carved with great skill from all four walls, the tops of these
+filled with cogs, wheels, springs and tools.  A tiny cot partly hidden under
+countless blueprints has been placed against the north most wall.  A large
+clock stands next to what seems to be half a suit of armor that has been
+filled with mechanisms.  From the ceiling, something that could possibly
+pass as a bird made of metal, has been hung.  Other less obvious looking
+gizmos sit, lay and rest all about, most of their intended uses unclear.  
+~
+0 8 0
+E
+metal bird~
+This contraption only vaguely resembles a bird in its current state.  Too
+many wheels and cogs have been added to its body to pass as such a creature
+now.  If it is really able to fly is unclear and there doesn't seem to be a
+key evident to wind it.
+~
+E
+armor~
+Cogs, gears and wheels fill the bottom half of this armor.  Though
+incomplete it is clear that there intention is to provide locomotive power
+if finished.  
+~
+E
+clock~
+The top of this cloak looks beautiful, fashioned from lead crystal and
+with hands and numbers of finest silver it would surely bring a great price
+in any top class shop.  The effect is ruined by the workings which are
+clearily visible: cogs, weights, pullies and gears are all working madly to
+drive the hands.  
+~
+D2
+~
+~
+~
+0 0 3574
+M 0 H 0
+S
+#3584
+The Inventor's Pit~
+A small hallway leads southward to a well-lit circular room.  The light
+spilling over from the south shows a few pieces of broken glass, a spring,
+and other abandoned mechanical workings.  The large chamber continues to the
+east and west, the spaces only faintly illuminated by light from beyond the
+hall.  The floor darkens toward the north, almost as if it didn't exist
+anymore.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 3586
+D2
+~
+~
+~
+0 0 3575
+D3
+~
+~
+~
+0 0 3587
+D5
+~
+~
+~
+1 0 3585
+M 0 H 0
+S
+#3585
+A Darkened Trench~
+Echoes of clicking and whirring surround you.  Occasionally, a grinding
+sound will cut through all the noises, then fade again.  It is difficult to
+see anything at all from this vantage point, though questing fingers find
+rigid wall hinders movement to the north or south while an incline leading
+up to the east is evident.  
+~
+0 13 0
+D1
+~
+~
+~
+0 0 3588
+D3
+~
+~
+~
+0 0 3589
+D4
+~
+~
+~
+1 0 3584
+M 0 H 0
+S
+#3586
+Along the Eastern Wall~
+Despite the rays of light struggling to illuminate this area, the walls
+are barely discernible in the gloom.  The light does, however, show bright
+white buds of what only can be mushrooms.  The gloom deepens at what must be
+the corners of the room, the lack of light making the clicking and whirring
+sounds that echo off the walls more prominent.  At irregular intervals, a
+very loud grinding sound drowns out all other noise before fading to silence
+again.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 3584
+D5
+~
+~
+~
+1 0 3588
+M 0 H 0
+S
+#3587
+Along the Western Wall~
+Faint light filters in from the west, barely showing that this is the
+western-most side of a large chamber.  Clicking and whirring echoes off the
+walls, amplified by the darkness.  The sound of grinding cuts through all
+the other noises at irregular intervals before the relative quiet returns. 
+The walls are dry and smooth to the touch with the exception of holes the
+size of fists.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 3584
+D5
+~
+~
+~
+1 0 3589
+M 0 H 0
+S
+#3588
+Pure Darkness~
+The floor slopes into a dead end to the east.  In the darkness, it's
+difficult to determine which ways you can leave this void.  The faint sound
+of whirring and clicking can be heard, echoing from every direction.  Once
+every so often, a grinding fills the air before it becomes relatively silent
+again.  The smell of dust and mold hangs in the air.  
+~
+0 13 0
+D3
+~
+~
+~
+0 0 3585
+D4
+~
+~
+~
+1 0 3586
+M 0 H 0
+S
+#3589
+In the Depths~
+Walls can be seen faintly in the blackness, blocking passage in all
+directions but the east, where the darkness seems less definite.  Whirling
+and clanking resounds throughout this deep trench, echoing several times. 
+As the passage continues eastward, the floor descends to the unknown.  There
+are small hand-sized holes covering the walls in a curious design, much like
+pock marks.  
+~
+0 13 0
+D1
+~
+~
+~
+0 0 3585
+D4
+~
+~
+~
+1 0 3587
+M 0 H 0
+S
+#3590
+Approaching a Cave~
+Ancient trees grow to amazing heights, overshadowing the forest floor
+even during the day.  Smaller trees struggle for life amidst the larger
+trees, their leaves catching any sunlight they can.  Vines heavily laden
+with grapes stretch between the trees, smelling ripe and shining with a deep
+purple hue.  The path widens as it winds from north to south, leading to
+what seems like a clearing.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3591
+D2
+~
+~
+~
+0 0 3551
+M 0 H 0
+S
+#3591
+Forest Path~
+Red maple and silver oaks grow together in thick groves, blocking out
+most natural light and leaving the forest floor in shadow.  The sound of a
+woodpecker looking for its next meal resounds in the air, echoing from high
+above.  The trail veers from east to south, where the trees seem to become
+more sparse.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3592
+D2
+~
+~
+~
+0 0 3590
+M 0 H 0
+S
+#3592
+A Root-laden Path~
+A gigantic sycamore forces the trail to veer from north to west here,
+it's roots creating natural steps over a small hill.  Bright orange
+mushrooms climb along the sycamore's bark, seeming to lead to a large knot
+of the great tree.  The other ancient trees seem to be dwarves in comparison
+to the sycamore.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 3593
+D3
+~
+~
+~
+0 0 3591
+M 0 H 0
+S
+#3593
+A Turn in the Trail~
+Low-hanging branches of the smattering of beech trees force the trail
+from the east to the south.  The waxy green leaves dangle in the air, moving
+in the slightest of breezes.  Fallen leaves litter the ground, beginning to
+rot from exposure to water.  A small pool of water has collected around the
+roots of one tree.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3594
+D2
+~
+~
+~
+0 0 3592
+M 0 H 0
+S
+#3594
+A Forgotten Path~
+Aspen and pine mix together to form a living wall, in which a faint trail
+can be seen making its way from east to west.  The sky is blotted out by
+both the forest and moving spots of darkness.  On closer inspection, the
+darkness appears to be from countless bats, their calls piercing the air
+that they fly through.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 10247
+D3
+~
+~
+~
+0 0 3593
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 3550 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 3541 4 1
+D 0 3542 5 1
+D 0 3544 1 1
+D 0 3552 3 1
+D 0 3565 5 1
+D 0 3566 4 1
+D 0 3584 5 1
+D 0 3585 4 1
+D 0 3586 5 1
+D 0 3587 5 1
+D 0 3588 4 1
+D 0 3589 4 1
+O 0 3594 0 3541
+M 0 3541 1 3541 10
+O 0 3552 0 3541
+M 0 3544 3 3544 10
+M 0 3544 1 3546 10
+M 0 3544 1 3548 10
+O 0 3566 0 3549
+O 0 3551 0 3550
+O 0 3549 0 3551
+P 0 3550 0 3549 10
+M 0 3542 1 3551 10
+E 0 3573 0 6
+E 0 3572 0 5
+M 0 3543 1 3551 10
+E 0 3574 0 3
+E 0 3575 0 16
+O 0 3567 0 3553
+O 0 3569 0 3555
+M 0 3545 1 3555 10
+E 0 3556 0 8
+E 0 3555 0 5
+M 0 3547 3 3555 10
+E 0 3554 0 5
+E 0 3556 0 8
+E 0 3557 0 7
+O 0 3571 0 3559
+M 0 3550 3 3559 10
+E 0 3556 0 8
+E 0 3554 0 5
+E 0 3557 0 7
+M 0 3547 3 3559 10
+E 0 3556 0 8
+E 0 3557 0 7
+E 0 3554 0 5
+M 0 3546 2 3560 10
+E 0 3556 0 8
+E 0 3558 0 16
+E 0 3553 0 6
+E 0 3562 0 5
+M 0 3545 2 3562 10
+E 0 3556 0 8
+E 0 3555 0 5
+O 0 3568 0 3563
+M 0 3555 1 3563 10
+M 0 3551 1 3564 10
+M 0 3552 1 3564 10
+M 0 3553 1 3564 10
+M 0 3554 1 3564 10
+M 0 3547 2 3565 10
+E 0 3554 0 5
+E 0 3557 0 7
+E 0 3556 0 8
+M 0 3545 1 3565 10
+E 0 3556 0 8
+E 0 3555 0 5
+O 0 3541 0 3566
+M 0 3546 4 3567 10
+E 0 3554 0 5
+E 0 3557 0 7
+E 0 3558 0 16
+E 0 3556 0 8
+E 0 3553 0 6
+O 0 3576 0 3569
+M 0 3557 1 3575 10
+M 0 3546 2 3576 10
+E 0 3553 0 6
+E 0 3556 0 8
+E 0 3562 0 5
+E 0 3558 0 16
+M 0 3545 1 3576 10
+E 0 3556 0 8
+E 0 3555 0 5
+M 0 3545 8 3577 10
+E 0 3556 0 8
+E 0 3555 0 5
+M 0 3546 10 3577 10
+E 0 3562 0 5
+E 0 3556 0 8
+E 0 3558 0 16
+E 0 3553 0 6
+O 0 3577 0 3577
+P 0 3578 0 3577 10
+O 0 3579 0 3578
+O 0 3580 0 3578
+P 0 3566 0 3580 10
+M 0 3545 7 3578 10
+E 0 3556 0 8
+E 0 3555 0 5
+M 0 3547 8 3578 10
+E 0 3556 0 8
+E 0 3557 0 7
+E 0 3554 0 5
+O 0 3581 0 3579
+O 0 3582 0 3579
+M 0 3546 8 3579 10
+E 0 3558 0 16
+E 0 3553 0 6
+E 0 3562 0 5
+E 0 3556 0 8
+M 0 3549 9 3580 10
+E 0 3562 0 5
+E 0 3558 0 16
+E 0 3556 0 8
+E 0 3553 0 6
+O 0 3570 0 3581
+M 0 3550 1 3581 10
+E 0 3556 0 8
+E 0 3557 0 7
+E 0 3554 0 5
+M 0 3545 5 3582 10
+E 0 3556 0 8
+E 0 3555 0 5
+M 0 3560 1 3583 10
+E 0 3559 0 24
+E 0 3560 0 16
+G 0 3561 0
+E 0 3562 0 5
+E 0 3563 0 13
+E 0 3556 0 8
+M 0 3548 2 3583 10
+E 0 3564 0 16
+E 0 3562 0 5
+E 0 3556 0 8
+G 0 3565 0
+M 0 3558 1 3584 10
+M 0 3558 1 3586 10
+M 0 3557 2 3586 10
+M 0 3558 2 3587 10
+M 0 3559 1 3588 10
+O 0 3542 0 3589
+M 0 3556 1 3589 10
+O 0 3547 0 3590
+P 0 3548 0 3547 10
+O 0 3592 0 3592
+O 0 3544 0 3592
+P 0 3545 0 3544 10
+O 0 3546 0 3592
+O 0 3543 0 3593
+S
+
+
+
+#SHOPS
+3555 0 0 0 0 0 130 60 8 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

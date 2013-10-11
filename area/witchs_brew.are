@@ -1,0 +1,2857 @@
+#AREADATA
+Name {75 99} Sighel  Witch's Brew~
+Builders Sighel~
+VNUMs 6600 6675
+Security 9
+End
+
+
+
+#MOBILES
+#6600
+strangleweed weed~
+flowering strangleweed~
+A flowering strangleweed grows in the rock.
+~
+The beauty of this plant is misleading as its tentacles reach out like
+coral reaching for prey.  The wonderful fragrance from the large pink
+blossoms is very alluring, beckoning you closer.  
+~
+Shambler~
+AB D -250 S
+76 19 11d574+2358 76d10+100 5d9+24 26
+-20 -20 -20 -18
+EGO LP ABL HIMS
+9 9 0 342
+ABCGHMc ABCDEFGHIJKMNQ M unknown
+#6601
+rat king~
+the rat king~
+The Rat King sits here, watching his domain.
+~
+The King oozes royalty, with dark purple robes and a very large and very
+expensive looking crown on his head.  In his left hand is a large mace,
+dripping with jewels.  He looks at you with bored eyes.  
+~
+Human~
+ABF FJZ -750 S
+96 24 12d1223+3628 96d10+100 6d10+29 32
+-31 -31 -31 -26
+FH BL IMP HNS
+6 6 1 432
+AGHMV ABCDEFGHIJKLPQUV L unknown
+#6602
+ratman man~
+a ratman~
+A ratman works on making the tunnels here.
+~
+The ratman is covered with dust from digging in the tunnels.  His
+clothing is slightly torn, and is very dull looking.  Oddly though, he works
+with a whistle, knowing he is doing his king's bidding to once again walk on
+the surface.  
+~
+Vermin~
+AHP FJPVZ -400 S
+88 12 12d921+3083 88d10+100 5d10+27 10
+-25 -25 -25 -22
+FHJM Q ILP HNS
+9 9 1 396
+AGHMV ABCDEFGHIJKLPQUV M unknown
+#6603
+prisoner~
+a prisoner~
+A prisoner is here, chained to the wall.
+~
+Almost naked, this poor prisoner shivers in the damp chill of this
+torture chamber.  He looks up at you with pleading eyes, wanting to be saved
+from this hell he has been put into.  
+~
+Human~
+AB A 750 S
+95 23 12d1182+3558 95d10+100 6d10+29 7
+-30 -30 -30 -25
+IJN 0 0 Z
+6 6 1 427
+AHMV ABCDEFGHIJK M unknown
+#6604
+torturer~
+the torturer~
+The torturer cracks his whip over his captives.
+~
+This monster of a man towers over you, and glares down at you sinisterly.
+He protects himself with heavy black leather, and has a mask covering his
+face to keep his identity private.  He keeps his hands in fists, ready to
+pummel anything that doesn't do what he says.  
+~
+Human~
+ABF Za -500 S
+96 24 12d1223+3628 96d10+100 6d10+29 7
+-31 -31 -31 -26
+0 BI P N
+9 9 1 432
+AHMV ABCDEFGHIJK H unknown
+#6605
+black cat familiar~
+a black cat~
+A slinky black cat wanders slowly down the path.
+~
+Big green eyes stare at you unblinkingly, and you can almost hear a small
+voice inside your head laughing at you.  This small familiar is keeping his
+eyes on you for his owner, who must be down here somewhere.  
+~
+Cat~
+AQ OPVZ -750 S
+99 24 12d1352+3846 99d10+100 6d11+28 32
+-34 -34 -34 -27
+FH B P Y
+9 9 1 445
+AGV ACDEFHJKQUV S unknown
+#6606
+witch~
+the witch~
+The witch watches over what is brewing in her cauldron.
+~
+Though dressed all in black, this woman hardly resembles what one would
+think of as a 'witch'.  She doesn't look like a hag, and is actually a very
+attractive woman.  Bright blue eyes look over at you and examine you
+closely, as if deciding exactly what to do with you.  A large shining
+necklace and pendant catches the firelight and draws your eyes to it.  
+~
+Human~
+ABF DHZ -900 S
+102 25 20d2000+6000 408d10+100 20d20+50 19
+-75 -75 -75 -70
+DEFH BH IP Y
+9 9 2 459
+AHMV ABCDEFGHIJK M unknown
+#6607
+dragon~
+a dragon~
+A dragon stirs and lifts its head to look at you.
+~
+A magnificent beast stands before you, its scales shine in the light you
+bring into its lair.  Unlike the surface counterparts of this dragon, this
+creature has all the colours of the rainbow in its scales.  Sparkling on the
+ears and wrists of the dragon are golden hoops, stacked gracefully on top of
+each other.  
+~
+Dragon~
+AB HTZ -100 S
+98 24 12d1308+3773 98d10+100 6d11+28 19
+-33 -33 -33 -26
+CO H L I
+9 9 3 441
+AGXZc ACDEFHKLPQUVX G unknown
+#6608
+hell bear~
+a hell bear~
+A hell bear sleeps comfortably in its den.
+~
+This hell bear just looks like an oversized bear of the surface, until
+you look into its eyes.  Glowing red, it's almost like this bear has focused
+all its attention on you, and it doesn't like you interrupting its sleep.  
+~
+Bear~
+A J -100 S
+97 24 12d1265+3700 97d10+100 6d11+27 32
+-32 -32 -32 -26
+DEO B EI Z
+4 6 3 436
+AGV ABCDEFHJKPUV L unknown
+#6609
+giant spider~
+a giant spider~
+A giant spider spins a sticky web here.
+~
+Two enormous eyes shine at you, reflecting light at all different angles.
+A long sticky web brushes against you as this hairy beast of a spider slowly
+creeps closer to you.  The pinchers on this spider look more like two arms
+ready to grab hold of you and not let go.  
+~
+Spider~
+A JPZ -250 S
+80 20 11d677+2588 80d10+100 5d10+24 26
+-21 -21 -21 -19
+HOR AB FI E
+9 9 3 360
+ABGOP ACDEFKX H unknown
+#6610
+giant rat~
+a giant rat~
+A giant rat gnaws on a small bone here.
+~
+The size of this rat is overwhelming, as its front teeth are about the
+size of your hand.  Its long tail slithers slowly across the floor and its
+whiskers twitch like crazy, sensing you here.  A bite from this creature
+would definitely be a bad thing.  
+~
+Rat~
+A Z -100 S
+78 19 11d624+2471 78d10+100 5d10+23 10
+-21 -21 -21 -18
+FHR L I S
+9 9 3 351
+AGV ACDEFHJKQUV L unknown
+#6611
+black hell hound~
+a black hell hound~
+A jet black hell hound pants and bounds towards you.
+~
+This beast of a dog growls angrily at you while saliva drips from its
+sharp white teeth.  You can hear the deep breathing of the hound as its hair
+bristles on its neck.  Glowing red eyes stare at you, sizing you up and
+figuring out the best way to attack.  
+~
+Dog~
+A a -500 S
+82 20 11d733+2706 82d10+100 5d10+25 29
+-22 -22 -22 -20
+DHR H IM N
+9 9 0 369
+AGV ACDEFHJKPUV L unknown
+#6612
+red hell hound~
+a red hell hound~
+A red hell hound glares at you angrily before charging in your direction.
+~
+When your light hits this beast, it looks as though it's on fire because
+of its red colour...  Or maybe it is on fire?  Eyes matching the bright red
+of its fur glare at you as the hound snarls and barks a few times, showing
+its large white teeth.  
+~
+Dog~
+A DZa -1000 S
+84 21 12d792+2829 84d10+100 5d10+25 29
+-23 -23 -23 -21
+H H IJ N
+9 9 0 378
+AGV ACDEFHJKPUV L unknown
+#6613
+calm mist spirit~
+a calm mist spirit~
+A calm mist of a spirit fills the room.
+~
+The mist moves slowly in calming waves as it expands to fill the room. 
+It tickles your nose as it surrounds you completely, marring your view of
+the area.  
+~
+Ghost~
+AN PTU 50 S
+86 21 12d855+2954 86d10+100 5d10+26 19
+-24 -24 -24 -22
+GH FQ AI C
+9 9 0 387
+CIKLM ABCDEFGHIJKLM H unknown
+#6614
+angry spirit~
+an angry spirit~
+An angry spirit floats through the room, looking for revenge.
+~
+This spirit, angry for having its soul taken and enslaved down here,
+floats around endlessly looking for another body to have to cast revenge on
+the witch that did this to it.  It almost takes the form of a human, though
+the lower half is melted into one as it hovers above the ground wailing
+mournfully.  
+~
+Ghost~
+AO PTU -300 S
+90 22 12d991+3214 90d10+100 5d11+28 19
+-25 -25 -25 -23
+DGQ FLQ AHI C
+9 9 0 405
+CIKLM ABCDEFGHIJKLM L unknown
+#6615
+common rock golem~
+a common rock golem~
+A common rock golem blends itself into the cave wall.
+~
+Barely distinguishable from the cave walls, the rock golem watches you
+from the corner of its eye, making sure you don't damage anything in its
+home.  It fills pretty much the entire side of the cave, from floor to
+ceiling, and could be even larger, though it's hard to tell in the poor
+lighting.  
+~
+Gargoyle~
+A TZ -350 S
+92 23 12d1064+3349 92d10+100 6d10+27 8
+-26 -26 -26 -24
+CO J L KS
+9 9 3 414
+ACGHLMVXc ABCDEFGHIJKLOPUVW H unknown
+#6616
+warrior rock golem~
+a warrior rock golem~
+A strong warrior rock golem stands here, watching you closely.
+~
+Standing out away from the walls, this warrior doesn't quite block your
+path with its giant size.  Black beady eyes glare down at you, while the
+sound of grinding rocks fills the tunnels loudly as this creature cracks his
+knuckles in preparation for a fight.  
+~
+Gargoyle~
+A TZ -400 S
+94 23 12d1141+3486 94d10+100 6d10+28 27
+-29 -29 -29 -25
+CFO J L KS
+9 9 3 423
+ACGHLMVXc ABCDEFGHIJKLOPUVW H unknown
+#0
+
+
+
+#OBJECTS
+#6600
+tree hole opening~
+a tree full of holes~
+The tree reveals many openings, one of which looks just large enough for a person to fit through.~
+wood~
+29 RS 0 0
+0 8 1 6601 0
+0 0 0 P
+0 0
+#6601
+dull gold ring~
+a dull gold ring~
+A dull gold ring looks about ready to fall off a long-dead captive's finger.~
+gold~
+8 R AB 0
+0 0 0 0 0
+96 0 4800 A
+0 0
+#6602
+long black whip~
+a long black whip~
+A coiled black leather whip is on the table.~
+leather~
+5 ER AN 0
+ABC BCD ACD C 0
+96 1 480 P
+A
+4 -1
+A
+13 10
+A
+19 2
+0 0
+#6603
+black leather mask~
+a black leather mask~
+The black leather mask hides the identity of the torturer.~
+leather~
+9 EM AT 0
+E E E C 0
+96 1 480 P
+A
+1 2
+A
+4 -1
+0 0
+#6604
+bear skin~
+a mangy bear skin~
+A matted bear skin keeps the sleeping bear warm.~
+hide~
+9 S AD 0
+E E E C 0
+97 10 2550 P
+A
+1 2
+0 0
+#6605
+skeleton key~
+a skeleton key~
+The twisted face of a soul in agony tops this skeleton key.~
+bone~
+18 PT A 0
+0 0 0 0 0
+95 1 1900 P
+0 0
+#6606
+black velvet collar~
+a black velvet collar~
+The soft collar can barely be seen in the black fur.~
+cotton~
+27 Ab AC 0
+E E E C 0
+99 1 1500 P
+A
+17 -10
+0 0
+#6607
+jewelled mace~
+a jewelled mace~
+A gold mace, encrusted with jewels, shines brightly.~
+gold~
+5 AT AN 0
+C BCD ACD ABC H
+96 10 480 P
+A
+19 2
+A
+4 1
+0 0
+#6608
+crown~
+a large, expensive crown~
+Light reflects brilliantly off the jewels set in the crown.~
+gold~
+8 G AE 0
+0 0 0 0 0
+96 27 5000 P
+A
+4 1
+0 0
+#6609
+sharp bone~
+a long sharp bone~
+The long bone has been gnawed to a sharp point at one end.~
+bone~
+5 0 AN 0
+B BD ABCD ABD G
+78 0 390 A
+0 BC
+#6610
+black robe~
+a long black robe~
+The heavy black material falls gracefully to the floor.~
+cotton~
+9 AG AK 0
+E E E C 0
+99 2 495 P
+A
+12 10
+A
+1 -1
+0 ABCDE
+#6611
+necklace pendant~
+a large heavy pendant~
+Gold drips as though it was liquid and not a solid necklace.~
+gold~
+27 AGST AC 0
+CDE CDE CDE BC 0
+99 5 4000 P
+A
+12 80
+A
+3 1
+0 0
+#6612
+crystal broadsword sword~
+a crystal broadsword~
+The crystal is perfectly straight and very sharp.~
+crystal~
+5 ABRT ANP 0
+A ACD ACD ABD DF
+91 40 455 P
+A
+1 1
+0 CD
+#6613
+stack hoops bracelet~
+a stack of hoop bracelets~
+A stack of gold hoops reflect light warmly.~
+gold~
+8 G AM 0
+0 0 0 0 0
+98 1 3000 P
+A
+18 1
+A
+5 1
+0 0
+#6614
+multi hoop earring~
+a multi-hooped earring~
+The gold earring glows softly.~
+gold~
+11 AGMb AQ 0
+0 0 0 0 0
+98 1 4900 P
+A
+12 10
+0 0
+#6615
+rainbow scale skirt~
+a rainbow scale skirt~
+All colours in the rainbow shine out from the scales.~
+scales~
+9 S AL 0
+E E E C 0
+98 10 490 P
+0 ABCDE
+#6616
+mist cape~
+a mist cape~
+The mist shapes itself as a cape to wear.~
+nothing~
+9 FG Aa 0
+BCD BCD BCD C 0
+86 0 1290 P
+0 ABCDE
+#6617
+strand mist beads~
+a strand of mist beads~
+The mist joins to form small beads that make a necklace.~
+nothing~
+8 0 AC 0
+0 0 0 0 0
+86 0 1720 P
+A
+5 1
+0 ABCDE
+#6618
+mist bead earring~
+mist bead earring~
+The mist beads together and forms a delicate stud earring.~
+nothing~
+8 0 AQ 0
+0 0 0 0 0
+86 0 2150 P
+A
+2 1
+0 ABCDE
+#6619
+bear tooth anklet~
+a bear tooth anklet~
+The bear's teeth stay joined together and look to fit around an ankle.~
+bone~
+27 M AU 0
+E E E C 0
+97 0 5335 P
+A
+13 10
+A
+18 1
+0 ABCDE
+#6620
+orb~
+a dark scarlet orb~
+A dark scarlet orb pulsates surrounded by mist, almost like a heart.~
+ruby~
+1 0 AR 0
+0 0 500 0 0
+90 0 4500 P
+A
+3 3
+0 ABCDE
+#6621
+web leggings~
+a pair of web leggings~
+Spider web has been woven thickly into the form of leggings.~
+nothing~
+9 C AF 0
+ACD ACD ACD C 0
+80 1 400 P
+A
+17 -3
+0 0
+#6622
+web gloves~
+a pair of web gloves~
+Thick spider web is shaped as a pair of gloves.~
+nothing~
+9 C AH 0
+ACD ACD ACD C 0
+80 1 400 P
+A
+1 1
+0 0
+#6623
+web whip~
+a spider web whip~
+A long, thick strand of web splits at one end into many small whips.~
+nothing~
+5 H AN 0
+ABC ABD BCD C 0
+80 1 400 P
+0 0
+#6624
+ratty shorts~
+a pair of ratty shorts~
+The heavy material is worn at the knees and torn around the ankle.~
+cotton~
+11 0 AF 0
+0 0 0 0 0
+88 1 1320 W
+0 0
+#6625
+worn black boots~
+a pair of worn black boots~
+The black is totally worn off the toes and heels of the boots.~
+leather~
+11 0 AG 0
+0 0 0 0 0
+88 2 1320 W
+0 0
+#6626
+felt hat~
+a crumpled brown felt hat~
+The hat flops oddly from being worn so often.~
+cotton~
+9 0 AE 0
+BCD BCD BCD C 0
+88 1 440 G
+A
+13 10
+0 0
+#6627
+leather armband~
+a black leather armband~
+The leather is soft and carved into it are strange drawings.~
+leather~
+9 M AS 0
+BCD BCD BCD C 0
+88 0 440 P
+A
+18 2
+A
+19 2
+0 ABCDE
+#6628
+mist wand~
+a mist wand~
+The wand is barely solid being formed entirely of mist.~
+nothing~
+3 S AO 0
+BDEG BD C 74 0
+90 1 450 P
+0 0
+#6629
+mist ring~
+a mist ring~
+The mist is barely visible as a small ring.~
+nothing~
+27 CQ AB 0
+ADE ADE ADE BC 0
+90 0 8100 P
+A
+12 40
+0 ABCDE
+#6630
+mist dagger~
+a mist dagger~
+Strong magic makes this mist sharp and solid enough to pierce.~
+nothing~
+5 0 AN 0
+B BCD CD ABD D
+90 1 450 P
+A
+17 -3
+0 BC
+#6631
+vial glowing green potion~
+a glowing eerie green potion~
+The potion glows in the eerie manner of the pond on the surface.~
+glass~
+10 AGR AO 0
+76 3 509 0 0
+76 0 2280 P
+0 0
+#6632
+ring fire flames~
+a ring of black flames~
+The fire is cool to the touch, and the flames glow black.~
+nothing~
+27 AJ AC 0
+ABCE ABCE ABCE AC 0
+82 1 1330 P
+A
+17 -1
+0 BCD
+#6633
+fire shield~
+a fire shield~
+Bright red flames form a solid shield that looks hot to the touch, but isn't.~
+nothing~
+9 AJS AJ 0
+BCD BCD BCD C 0
+84 5 420 P
+A
+17 -1
+0 BCD
+#6634
+chain fire flames black~
+a chain of black flames~
+The fire feels cold to the touch, and forms a circle large enough for a wrist.~
+nothing~
+9 AE AM 0
+ACD ACD ACD C 0
+83 1 415 P
+A
+12 10
+0 BCD
+#6635
+spell book~
+a jewelled spell book~
+The book has strange writing amidst the jewels.~
+hemp~
+2 AHRST AO 0
+99 36 39 0 0
+99 20 12375 P
+A
+12 10
+A
+3 1
+0 0
+#6636
+tattered shirt~
+a tattered shirt~
+The material is threadbare and barely serves any purpose at all.~
+cotton~
+11 P AD 0
+0 0 0 0 0
+95 2 1425 W
+0 BCD
+#6637
+small clear vial~
+a small clear vial~
+A small clear vial is filled with a clear liquid.~
+glass~
+10 0 AO 0
+95 82 72 0 0
+95 1 2850 P
+0 BCD
+#6638
+stone work gloves~
+a pair of stone work gloves~
+Pieces of stone are hinged together to make bendable gloves.~
+stone~
+11 S AH 0
+0 0 0 0 0
+92 25 1840 P
+A
+1 1
+0 CD
+#6639
+stone belt~
+a heavy stone belt~
+Pebbles are hinged intricately to form a long belt.~
+stone~
+11 S AL 0
+0 0 0 0 0
+92 30 1380 P
+A
+1 1
+0 CD
+#6640
+stone yoke collar~
+a stone yoke collar~
+Stone slabs are strung together with leather bindings.~
+stone~
+9 S AV 0
+ABCD ABCD ABCD C 0
+92 45 460 P
+A
+1 1
+A
+18 1
+0 CD
+#6641
+stone bracer~
+a heavy stone bracer~
+Rock is carved into a protector for wrists.~
+stone~
+9 HS AM 0
+ABCD ABCD ABCD C 0
+94 10 470 P
+0 CD
+#6642
+stone shield~
+a thick stone shield~
+A thick stone slab has a leather grasp attached to the back.~
+stone~
+9 S AJ 0
+ABCD ABCD ABCD C 0
+94 45 470 P
+0 CD
+#6643
+stone dagger~
+a sharp stone dagger~
+The edges of the stone has been sharpened razor-sharp.~
+stone~
+5 S AN 0
+B CD ABCD ABD 0
+94 50 470 P
+0 BCD
+#6644
+stone sword~
+a stone sword~
+The long piece of stone is very sharp on both edges.~
+stone~
+5 S AN 0
+A CD ABCD ABD DF
+94 8 470 P
+A
+19 1
+A
+1 1
+0 CD
+#6645
+sighel's whip~
+ubel whip~
+Long black leather is knotted tightly and splits into many silver tipped ends.~
+leather~
+5 BEG AN 0
+ABC E BCD C EGHI
+108 0 540 P
+0 0
+#6646
+flail of the ancients~
+a flail of the Ancient Ones~
+A massive flail glows and hums with the magic of the Ancients.~
+steel~
+5 ABCE AN 0
+BC ACDE AC CDE CH
+85 3 425 P
+L
+brandished viciously~
+0 0
+#6647
+Sighel's dress~
+an almost transparent long flowing black dress~
+A long flowing black dress lets air breeze through from many slits in the skirt.~
+cotton~
+11 CEb AD 0
+0 0 0 0 0
+100 0 0 P
+L
+clinging to body~
+0 BCD
+#6648
+black tribal tattoos~
+many strange black markings~
+Many strange black markings run down the length of her arms.~
+nothing~
+11 0 AI 0
+0 0 0 0 0
+0 0 0 P
+L
+tattooed on arms~
+0 0
+#6670
+mist shape spirit~
+a strange misty shape~
+A strange misty shape hovers high above the ground.
+This strange, barely-there shape continually morphs from one form to
+another, and sometimes into forms that are unknown to this realm.  It gives
+off an aura of calm and serenity as it seems to lull any who gaze at it too
+long to sleep.~
+nothing~
+8 FG A 0
+0 0 0 0 0
+0 1 1 P
+0 0
+#6671
+fire flame~
+a bright flame~
+A bright flame flickers gently in any breeze.~
+nothing~
+8 G A 0
+0 0 0 0 0
+0 1 1 P
+E
+flame~
+This flame burns brightly as it flickers in any amount of breeze passing
+by.  It almost seems like it's been placed here as a marker.  The warm glow
+casts dancing shadows all around you as the steady movement of the fire
+draws you deeper under its spell.  
+~
+0 0
+#6672
+air tornado~
+a miniature tornado~
+A miniature tornado hovers in spinning fury.~
+nothing~
+8 G A 0
+0 0 0 0 0
+0 1 1 P
+E
+tornado~
+This miniature tornado spins uncontrollably as it hovers above the
+ground.  It can barely be seen except for the leaves it has picked up in its
+travels over the land that spin at a dizzying speed.  
+~
+0 0
+#6673
+pile earth dirt~
+a pile of dirt~
+A small pile of dirt makes a blemish on the ground.~
+nothing~
+8 G A 0
+0 0 0 0 0
+0 1 1 P
+E
+pile~
+This small pile of dirt looks as though either a child was trying to
+build a castle, or some burrowing animal left this as a flag to where it dug
+its hole into the ground.  It looks like a perfect cone coming up about four
+inches from the ground.  
+~
+E
+dirt~
+This small pile of dirt looks as though either a child was trying to
+build a castle, or some burrowing animal left this as a flag to where it dug
+its hole into the ground.  It looks like a perfect cone coming up about four
+inches from the ground.  
+~
+E
+earth~
+This small pile of dirt looks as though either a child was trying to
+build a castle, or some burrowing animal left this as a flag to where it dug
+its hole into the ground.  It looks like a perfect cone coming up about four
+inches from the ground.  
+~
+0 0
+#6674
+water puddle~
+a small puddle~
+It almost appears as a mirror has been placed on the ground the water is
+so still.  This small puddle reflects everything around it perfectly, until
+a little insect marks the surface with small rings radiating out from it,
+distorting the reflection.  ~
+water~
+8 G A 0
+0 0 0 0 0
+0 1 1 P
+0 0
+#6675
+Ubel Shrine Throne~
+the Ubel Throne Shrine~
+The rock slabs seem to have grown into this throne shape, as it looks as
+if no tool has ever touched it.  Set deep into the back of the chair is a
+large, rough, dark blue sapphire, that seems to have a spark of light in the
+middle of it.  The base of the throne has small offerings placed around it,
+so when people pray to Sighel, that She might appear to them in the throne.~
+stone~
+12 ACEGJS 0 ACDOPR
+0 0 0 0 0
+1 10000 10000 P
+0 0
+#0
+
+
+
+#ROOMS
+#6600
+The Witch's Brew~
+A large clearing stands before you.  Directly in the middle of it lies a
+perfectly circular pond.  But that's not the only odd thing about it.  The
+colour glows a strange greenish blue, like there is a light below the
+surface though it isn't possible.  Rising high above the pond is an old
+gnarled tree, blackened with age.  Upon closer inspection, it looks like
+there might be holes big enough to enter.  The whole area around the pond
+gives an uneasy, dangerous feel.  It may be best to proceed with caution... 
+~
+0 4 2
+E
+pond~
+The murky waters glow eerily and the greenish-blue colour is intriging. 
+A slight steam rises softly off the water.  
+~
+D3
+~
+~
+0 0 6656
+S
+#6601
+Inside the Tree~
+A chill runs through the musty air in here, and impenetrable darkness
+surrounds you.  A draft can be felt coming up from the floor, indicating
+there must be caverns below here.  Unfortunately, the entrance into the tree
+you took seems to have disappeared.  So that means there's only one way to
+go...  
+~
+0 13 0
+D5
+The darkness seems to move with life.
+~
+~
+0 0 6602
+S
+#6602
+Entrance to the Caves~
+Only able to see what is closest to you, the sound of scratching and
+swishing add an uneasy feel to the air here.  The musty smell has gotten a
+little stronger here, though the blackness surrounding you is just as
+impenetrable as before.  Tunnels lead in all directions from here, though
+you can't see into any to tell which direction you should go.  
+~
+0 13 5
+D0
+A strong wind blows into your face, bringing with it smells of life.
+~
+~
+0 0 6603
+D1
+The soft sound of lapping water can be head, making you think of a
+peaceful lake.  
+~
+~
+0 0 6624
+D2
+A radiating heat warms your face from the blackness before you.  
+~
+~
+0 0 6631
+D3
+The faint sounds of a high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6638
+D4
+The smell of old wood floats gently down.
+~
+~
+0 0 6601
+S
+#6603
+A Windy Tunnel~
+A strong wind rushes through this tunnel, cooling the air and making
+strange noises over the cave walls.  Odd looking plant life clings
+desperately to the rock, while little insects scurry away from your
+approach.  
+~
+0 9 5
+D0
+A strong wind blows into your face, bringing with it smells of life.
+~
+~
+0 0 6604
+D2
+A cavern with tunnels leading in all directions gapes before you.  
+~
+~
+0 0 6602
+S
+#6604
+A Windy Tunnel~
+A strong wind rushes through this tunnel, cooling the air and making
+strange noises over the cave walls.  Odd looking plant life clings
+desperately to the rock, while little insects scurry away from your
+approach.  There is a black gaping opening off to the west here, leading
+into some unknown section of this strange underworld.  
+~
+0 13 5
+D0
+A strong wind blows into your face, bringing with it smells of life.
+~
+~
+0 0 6605
+D2
+A strong wind blows into your face, bringing with it smells of life.
+~
+~
+0 0 6603
+D3
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6647
+S
+#6605
+A Windy Tunnel~
+A strong wind rushes through this tunnel, cooling the air and making
+strange noises over the cave walls.  Odd looking plant life clings
+desperately to the rock, while little insects scurry away from your
+approach.  There is a black gaping opening off to the east here, leading
+into some unknown section of this strange underworld.  
+~
+0 13 5
+D0
+A strong wind blows into your face, bringing with it smells of life.
+~
+~
+0 0 6606
+D1
+The far off sound of dripping water can be heard, but otherwise complete
+silence.   
+~
+~
+0 0 6613
+D2
+A strong wind blows into your face, bringing with it smells of life.
+~
+~
+0 0 6604
+S
+#6606
+A Windy Tunnel~
+A strong wind rushes through this tunnel, cooling the air and making
+strange noises over the cave walls.  Odd looking plant life clings
+desperately to the rock, while little insects scurry away from your
+approach.  There is a black gaping opening off to the west here, leading
+into some unknown section in this strange underworld.  
+~
+0 13 5
+D0
+A strong wind blows into your face, bringing with it the smells of life.
+~
+~
+0 0 6607
+D2
+A strong wind blows into your face, bringing with it the smells of life.
+~
+~
+0 0 6605
+D3
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6649
+S
+#6607
+A Windy Tunnel~
+A strong wind rushes through this tunnel, cooling the air and making
+strange noises over the cave walls.  Odd looking plant life clings
+desperately to the rock, while little insects scurry away from your
+approach.  To the north a heavy wooden door surrounded with cobwebs bars
+your way.  To the east is a black gaping opening leading into some unknown
+section in this strange underworld.  
+~
+0 13 5
+E
+door~
+The wood of this door looks heavy, and it's age can be seen by many
+scratch marks all over it.  A grating in set high in the door, though a
+plate behind it covers any view into the room beyond.  
+~
+D0
+A loud CRACK!  And then a wail of pain can be heard, muffled by the door.  
+~
+~
+1 0 6608
+D1
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6609
+D2
+A strong wind blows into your face, bringing with it the smells of life.
+~
+~
+0 0 6606
+S
+#6608
+The Torture Chamber~
+Water trails coldly down the rock walls, leaving a shining path down to
+bones that litter the floor.  Attached to the walls are thick, rusted
+chains, some supporting a long-dead captive.  Stashed in a corner is a table
+full of various torture devices, one more horrendous than the next.  A large
+iron maiden stands ominously against one wall, gaping open slightly, letting
+the light glint off the spikes inside.  
+~
+0 9 5
+E
+captive~
+Almost mummified, this poor soul must have been tortured to death here
+many years ago.  Ragged dirty shards of clothing still hang from his body,
+and on his one hand is a dull gold ring that looks just about ready to fall
+off.  You might be able to snatch that ring without anyone being the wiser. 
+~
+E
+table~
+Glinting pieces of metal winks at you merrily, despite the fact that
+these devices are meant to deliver great pain.  All seem to be tied down
+except for a black leather whip.  The whip is more wicked than it seems at
+first, as it has silver tips on many pieces of leather.  
+~
+E
+iron~
+Standing tall and dark in the corner, the iron maiden gapes open at you
+like it's wanting to reach out and bring you into its jaws.  The beauty of
+this monstrosity is that it's built for any size or shape of creature one
+could imagine, and still be just as effective.  You decide this is something
+in the room you want to stay far away from.  
+~
+E
+maiden~
+Standing tall and dark in the corner, the iron maiden gapes open at you
+like it's wanting to reach out and bring you into its jaws.  The beauty of
+this monstrosity is that it's built for any size or shape of creature one
+could imagine, and still be just as effective.  You decide this is something
+in the room you want to stay far away from.  
+~
+E
+chains~
+The links on these chains are thick and heavy.  The red colour covering
+the metal doesn't mean the chain is any weaker than when it was first made. 
+Below each chain is a small pile of red dust, where the rust has collected
+over time.  A few of these piles have been dispersed over a small area,
+indicating that someone or something has been using those chains just
+recently.  
+~
+D2
+Wind whistles through the crack under the door loudly.
+~
+~
+1 0 6607
+S
+#6609
+The Caves~
+Initially a tunnel, this passage opens up into a great cavern.  The
+acoustics here are amazing as even the slightest sound or movement from you
+reverberates back ten-fold to you.  Two large natural columns stand side by
+side like immense rock gate keepers to the inner depths of the caves.  Light
+doesn't seem to penetrate past these guardians of the underworld, and this
+causes a small shiver to run down your back.  
+~
+0 13 5
+E
+column~
+The shape of the columns almost appear to take on the form of a great
+gryphon, though somewhat elongated.  A dark glint can be seen where eyes of
+the gryphon would be, and you feel as though your ever movement is being
+watched and judged.  
+~
+D1
+The far off sound of dripping water can heard, but otherwise complete
+silence.  
+~
+~
+0 0 6610
+D3
+A strong wind blows into your face, bringing with it smells of life.  
+~
+~
+0 0 6607
+S
+#6610
+The Caves~
+There is a gentle curve in the tunnel here, easily leading you around the
+bend.  You can make out a definite path below you, almost like it should be
+part of a guided tour, keeping tourists off the delicate rock and crystal
+formations that surround you.  Unfortunately though, there isn't the flood
+lighting like tourist paths normally have, and most of the cavern is
+shrouded in darkness.  Behind you and ahead of you are holes of black.  
+~
+0 9 5
+D2
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6611
+D3
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6609
+S
+#6611
+The Caves~
+The masses of crystals covering the cave walls here astounds you.  The
+true beauty of this area would only be possible if it were above the surface
+to allow in any light from the outside.  Unfortunately though, you are
+reminded that you are deep underground from the dark shadows that surround
+you.  Star-like twinkles surround you as the light you are carrying reflects
+off crystal faces all around you.  
+~
+0 9 5
+D0
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6610
+D1
+A deep, low growling can be heard echoing off the walls.  
+~
+~
+0 0 6614
+D2
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6615
+D3
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6612
+S
+#6612
+The Caves~
+A winding pathway leads through the fallen rocks and stalagmites, guiding
+you on in this underground world.  Surrounding you on all sides are deep
+shadows from crevasses created when the caves were first formed.  The unreal
+state of the rocks and formations makes it seem like no one has seen this
+section of the world in many generations, though the pathway lets you know
+otherwise.  This makes you begin to wonder what exactly moves around down
+here so frequently as to create the path.  
+~
+0 9 5
+D1
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6611
+D2
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6613
+S
+#6613
+The Caves~
+The darkness seems to draw you into the caves further, and not until the
+last minute your light is able to penetrate enough to show you a large rock
+barring your way to the east.  North of you is a large opening, giving you a
+way deeper into the caves to let you explore.  A furry creature zings past
+your head, brushing your cheek, as it goes into the darkness, as if to show
+you there's nothing to be afraid of in there.  
+~
+0 13 5
+D0
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6612
+D3
+A strong wind blows into your face, bringing with it smells of life.  
+~
+~
+0 0 6605
+S
+#6614
+A Bear Den~
+The edges of the room fade into blackness, and from this blackness comes
+a deep, guttural breathing.  A few bones, picked clean by some beast, lay
+scattered across the floor.  There is a strange odor that fills the room,
+though it's not overpowering.  The rock surrounding you is jagged and rough,
+and there seem to be bits of fur caught on a few of the sharpest pieces.  
+~
+0 9 5
+D3
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6611
+S
+#6615
+The Caves~
+The high ceiling is shrouded in darkness and echoes back your movements. 
+A high pitched screech shatters your ears from one of the flying creatures
+zooming about way above your head.  Gypsum roses are scattered across the
+walls, and crystals can be seen catching the glow of the roses, causing a
+dim eerie glow around the room.  The straightness of the cave passage here
+is amazing, since this is all natural formations.  
+~
+0 9 5
+D0
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6611
+D2
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6616
+S
+#6616
+The Caves~
+Another twist in the caves leaves you confused as to what direction is
+what.  Tinkly bubbling alerts you to the small brook running along one wall
+before dropping suddenly in a small black hole leading to further depths of
+the cave system.  Little glowing white patches speckle the walls and ceiling
+from gypsum roses that blossom and beautify the cavern.  A large gaping
+crack runs jaggedly down the wall in front of you, and you can hear wind
+rushing up from somewhere deep in the earth.  The cold wind fills the room
+and causes a strange humming sound through the rocks.  
+~
+0 9 5
+D0
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6615
+D1
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6617
+S
+#6617
+The Caves~
+The room opens up with a highly vaulted ceiling where slender stalactites
+drip gracefully down.  Below each stalactite is a wet companion, stretching
+to join with it's hanging partner.  Into the east wall is sunken a wooden
+door with carvings in the rock surrounding it.  The south and west exits
+only appear as gaping black entrances into unknown territory, where anything
+could be hiding...  
+~
+0 9 5
+E
+door~
+This plain wooden door is darkened with age, and though it looks rather
+weak and flimsy, it's actually very strong, almost as if magic is helping
+it.  Around the door in the rock are the most amazing carvings.  Looking
+closer at them, you see faces twisted in agony, all screaming at you to help
+them out of their hell of captivity.  No matter what angle you look at these
+faces at, all the pleading eyes seem to be focused on you.  A chill runs
+through the room.  
+~
+D1
+Strange cackling is muted by the heavy wooden door.
+~
+~
+1 6605 6618
+D2
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6619
+D3
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6616
+S
+#6618
+The Witch's Lair~
+A warm glow fills the room from the crackling fire in the large stone
+hearth across the room.  Shelves line the walls filled with bottles and jars
+and books, all tossed in a clutter.  Cobwebs hang low from the ceiling, and
+a thick layer of dust covers everything, except for a large wooden table in
+the centre of the room.  This table shines with a high polish, and is not
+covered with anything.  
+~
+0 9 5
+E
+hearth~
+A large cheery fire crackles here and heats a heavy blackened cauldron. 
+The most wonderful smells waft over to you from here, making you think this
+room can't be all that bad to have such good things cooking.  The heat from
+the fire warms you gently, and causes a rosey palour on your face.  
+~
+E
+shelves~
+A thick layer of dust covers everything here, making it difficult to read
+the spines of the books.  If you look closely into some of the jars, you see
+various dead things looking back at you, floating in a fluid to keep them
+moist.  At one point in your examination, you find yourself staring into a
+large bottle full of human eyes, all watching you back.  
+~
+E
+table~
+The beauty of this table is astounding, and you wonder why it's holed up
+here, where the world can't see it.  The legs are carved from a deep
+mahogany wood in the shape of lions legs, and the skirting has scenes from a
+medieval kingdom carved delicately into it.  On the table is a shining book,
+encrusted with jewels.  
+~
+D3
+~
+~
+1 0 6617
+S
+#6619
+The Caves~
+The tunnel winds again and the dirt devils seem to follow you.  The
+breeze feels nice and cooling on your face as it fades away into a whisper. 
+Jagged rocks from the walls and ceiling press into you and a small black
+creature flies quickly by your head.  A strange laughter can be heard as a
+soft echo down the tunnel, and you wonder what direction it is coming from. 
+~
+0 9 5
+D0
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6617
+D3
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6620
+S
+#6620
+The Caves~
+A slight breeze blows through the cave here, causing whirlwinds and small
+dirt devils across the floor.  The bend in the tunnel here causes these
+miniature tornados to be trapped in the far corner, and you can hear the
+small sand grains rubbing against the rock there.  If you look deeply into
+the corner, you can see that the walls have been worn smooth from many long
+years of constant abrasion.  The rest of the tunnel here is rough and rocks
+have fallen along the ground where the remnants of a pathway can be made
+out.  
+~
+0 9 5
+D1
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6619
+D2
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6621
+S
+#6621
+The Caves~
+The cave here is bone dry, not even a drop of moisture seems to be in the
+air.  This fact explains why there is no mineral growth in this room, and it
+seems void of all life and any type of rock formations.  If this spot was on
+the surface, you would almost expect to see sand blowing by and a hot sun
+beating down on your face.  
+~
+0 9 5
+D0
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6620
+D1
+A deep, low growling can be heard echoing off the walls.  
+~
+~
+0 0 6622
+D3
+The soft sound of lapping water can be heard, making you think of a
+peaceful lake.  
+~
+~
+0 0 6623
+S
+#6622
+A Bear Den~
+The edges of the room fade into blackness, and from this blackness comes
+a deep, guttural breathing.  A few bones, picked clean by some beast, lay
+scattered across the floor.  There is a strange odor that fills the room,
+though it's not overpowering.  The rock surrounding you is jagged and rough,
+and there seem to be bits of fur caught on a few of the sharpest pieces.  
+~
+0 9 5
+D3
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6621
+S
+#6623
+The Caves~
+The sound of running water fills your ears as you notice this room is
+partially flooded.  The water isn't too deep here, but deep enough that
+looking down through the crystal clear water reveals all sorts of life.  The
+fish and plant life are all snowy-white and glow softly, making the water
+world look like a fantasy world.  Reaching down from the ceiling are massive
+stalactites, that almost seem too large and heavy to still hang from the
+ceiling.  
+~
+0 9 7
+E
+fish~
+The strangest fish you've ever seen looks back at you unblinkingly.  It
+opens its mouth and out comes a large bubble that floats slowly to the
+surface.  
+~
+D1
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6621
+D2
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6628
+D3
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6624
+S
+#6624
+The Caves~
+A sudden drop in floor level can be seen through the glass-like water. 
+The fish and jelly-creatures glow a soft white as they move gracefully
+through the cold water.  The walls are covered with small gypsum flowers
+that curl and wind intricately.  These creations seem to absorb the light
+from the underwater beings, and then shine it out from within.  The room is
+peace exemplified.  
+~
+0 9 7
+E
+fish~
+The strangest fish you've ever seen looks back at you unblinkingly.  It
+opens its mouth and out comes a large bubble that floats slowly to the
+surface.  
+~
+D0
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6625
+D1
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6623
+D3
+A cavern with tunnels leading in all directions gapes before you.  
+~
+~
+0 0 6602
+S
+#6625
+The Caves~
+The flooded room is dark and calm as you move into it.  The water is
+still and doesn't show any life like the other flooded rooms did.  This
+makes the calm rather eerie as you scan the room.  The walls are barren of
+any interesting rock growth and the ceiling which is well beyond your view
+echoes back even the slightest sounds.  The water gets progressively
+shallower as you move north, and you can see the edge of the water on the
+rock.  
+~
+0 9 7
+D0
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6626
+D2
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6624
+S
+#6626
+The Caves~
+You've entered a part of the caves that is just a tiny passageway with a
+sharp turn in it.  Looking ahead, it almost seems as though you may need to
+crawl through a small opening you can barely see.  Luckily, just to the side
+of this hole is a comparatively larger opening.  Sizing up this opening, you
+figure you can squeeze through to see what might possibly be on the other
+side.  Your other option is to turn around while the area is still large
+enough to turn around in.  
+~
+0 9 5
+D1
+A deep, low growling can be heard echoing off the walls.  
+~
+~
+0 0 6627
+D2
+The soft sound of lapping water can be heard, making you think of a
+peaceful lake.  
+~
+~
+0 0 6625
+S
+#6627
+A Bear Den~
+The edges of the room fade into blackness, and from this blackness comes
+a deep, guttural breathing.  A few bones, picked clean by some beast, lay
+scattered across the floor.  There is a strange odor that fills the room,
+though it's not overpowering.  The rock surrounding you is jagged and rough,
+and there seem to be bits of fur caught on a few of the sharpest pieces.  
+~
+0 9 5
+D3
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6626
+S
+#6628
+The Caves~
+Delicate looking crystals grow over the walls, reflecting what little
+light there is across the room.  Some of these crystals show their ancient
+age in size, ranging from arm length to the height of an average human.  A
+slight breeze can be felt moving through the room, making the crystals hum
+and vibrate slightly.  A great sense of awe of beauty is overwhelming, and
+draws you into looking deeper into the walls.  
+~
+0 9 5
+E
+crystal~
+One crystal has broken off the wall and lays against the wall, still
+humming and glowing softly.  It is perfectly straight, and ends in a very
+sharp point, making it look like the perfect weapon.  You should be able to
+pick it up, though its great size will make it rather heavy, and might
+require two hands to lift it.  
+~
+E
+crystals~
+One crystal has broken off the wall and lays against the wall, still
+humming and glowing softly.  It is perfectly straight, and ends in a very
+sharp point, making it look like the perfect weapon.  You should be able to
+pick it up, though its great size will make it rather heavy, and might
+require two hands to lift it.  
+~
+E
+wall~
+One crystal has broken off the wall and lays against the wall, still
+humming and glowing softly.  It is perfectly straight, and ends in a very
+sharp point, making it look like the perfect weapon.  You should be able to
+pick it up, though its great size will make it rather heavy, and might
+require two hands to lift it.  
+~
+D0
+The soft sound of lapping water can be heard, making you think of a
+peaceful lake.  
+~
+~
+0 0 6623
+D3
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6629
+S
+#6629
+The Caves~
+The great expanse of this cavern dwarves you and you realise just how
+small you really are in this world.  Massive columns surround you making the
+route winding while little bat-like creatures fly over head.  The odd
+creature dips and dives through the air and brushes softly against your
+face.  The far wall from you shines from wetness, and a little puddle has
+formed at it's base.  
+~
+0 9 5
+E
+creatures~
+These small bat-like creatures fly about, catching insects and chattering
+to eachother.  The fur is a dark red, and unlike a true bat, the wings look
+more like those of birds.  They appear to be harmless, cheerful creatures.  
+~
+E
+puddle~
+Water has collected here from trickling down the wall.  The puddle isn't
+all that deep, but it spans the entire wall, and appears to be lifeless.  
+~
+D1
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6628
+D2
+Heat blows into your face while your surroundings tremble slightly.  
+~
+~
+0 0 6630
+D3
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6631
+S
+#6630
+A Dragon's Lair~
+The air is hot and oppressive around you, and you find it hard to
+breathe.  The rock is blackened and scorched, and a heat radiates from all
+around you.  A muffled sound can be heard -- it almost sounds like scales
+sliding against smooth rock.  The ground tremble and shakes from something
+very large moving around in the shadows.  
+~
+0 9 5
+D0
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6629
+S
+#6631
+The Caves~
+The room here feels confining compared to the previous.  It's almost a
+tight squeeze through the rocks.  You can feel that the rocks in this spot
+have been worn smooth by many travelers passing this way, so it's a small
+reassurance you will make it out.  Above you stretches a great expanse of
+height, and you can catch a glance at creatures flying about up there.  
+~
+0 9 5
+E
+creatures~
+These small bat-like creatures fly about, catching insects and chattering
+to each other.  The fur is a dark red, and unlike a true bat, the wings look
+more like those of birds.  They appear to be harmless, cheerful creatures.  
+~
+D0
+A cavern with tunnels leading in all directions gapes before you.  
+~
+~
+0 0 6602
+D1
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6629
+D2
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6632
+S
+#6632
+The Caves~
+You've entered a huge cavern, where the stalactites and stalagmites reach
+for each other, and the ones that have, form massive columns scattered
+about.  All around are natural wonders, unlike anything seen before, and
+each perfect in their structure.  There is no path beaten into the ground
+here, making you feel almost like you are the first person to ever enter
+this area.  A little stream enters from one wall and disappears into
+another, and the bubbling sound of it moving over pebbles echoes cheerily
+around you.  
+~
+0 13 5
+E
+stream~
+The clear cold water rushes over small pebbles, creating that cheerful
+bubbling sound.  Small white fish swim lazily about, some going under the
+wall into an unknown area.  
+~
+E
+columns~
+These tall columns act like guardians to the underworld, protecting the
+wonders that can be found down here.  They appear almost perfectly straight
+and at attention, like big brothers to the stalagmites and stalactites that
+are growing to become columns as well.  
+~
+D0
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6631
+D3
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6633
+S
+#6633
+The Caves~
+The rocks surrounding you have no markings of human, or inhuman, touch. 
+You can hear the scrapings and crawlings of little insects, though none are
+in plain view.  The walls are rough, and stalactites and stalagmites are in
+various stages of growth.  For the large size of the cavern you're in, it's
+oddly warm.  The air has an uneasy feel to it, almost as if telling you to
+go back to the paintings and candles of the other tunnels.  
+~
+0 9 5
+D1
+The far off sound of dripping water can be heard, but otherwise complete
+silence.  
+~
+~
+0 0 6632
+D2
+Heat blasts into your face while your surroundings tremble slightly.  
+~
+~
+0 0 6634
+D3
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6635
+S
+#6634
+A Dragon's Lair~
+The air is hot and oppressive around you, and you find it hard to
+breathe.  The rock is blackened and scorched, and a heat radiates from all
+around you.  A muffled sound can be heard -- it almost sounds like scales
+sliding against smooth rock.  The ground trembles and shakes from something
+very large moving around in the shadows.  
+~
+0 9 5
+D0
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6633
+S
+#6635
+The Carved Tunnels~
+Your movements echo eerily down this passage as the walls and ceiling
+open up into a large tunnel.  The strange little paintings and candles on
+the walls become more and more spaced out as it widens.  The ground,
+although obviously walked over recently, isn't as compact as it was before. 
+As the passage continues to the east, it becomes less groomed and man-made,
+almost becoming a natural stone passage.  
+~
+0 9 5
+D0
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6636
+D1
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6633
+S
+#6636
+The Carved Tunnels~
+The tunnel is continuing it's shrinking trend, but only enough to be
+noticeable, not uncomfortable.  Set against a wall, tucked away in a nook,
+is a small brown box with strange red markings on it.  The room has tunnels
+branching off to the south, east and west, and since it's almost considered
+a crossroads, there are two brightly glowing candles on opposite sides of
+the walls.  
+~
+0 9 5
+E
+box~
+The box is nailed shut, and the markings on the boards are in bright red,
+almost like a warning sign.  A large "x" on the one side of the box really
+makes it appear as though this box is dangerous, telling you to stay away. 
+Since these tunnels are carved, the most reasonable explaination for this
+box is dynamite.  
+~
+D1
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6637
+D2
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6635
+D3
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6639
+S
+#6637
+The Carved Tunnels~
+The tunnel seems to have gotten a little smaller here, though not enough
+to be unmanageable.  The paintings continue down the sides of the tunnel,
+and a few can be seen on the ceiling.  The ground is worn smooth by many
+creatures walking over it for a long time.  There is a constant far-off
+chatter that reverberates through the tunnels.  
+~
+0 9 5
+D0
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6638
+D3
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6636
+S
+#6638
+The Carved Tunnels~
+The tunnel along here looks as though it was carved by humans.  The
+almost smooth walls have strange markings all over them, some which look
+like drawings of battle scenes between various monsters.  Small holes dug
+deep into the rock hold little glowing stubs of candles.  It almost feels
+like something or someone lives in these tunnels...  
+~
+0 13 5
+E
+markings~
+Colourful paintings of battle scenes cover the walls.  The promenant
+creatures appear to be men with heads like rats.  The opponents, which are
+depicted as the weaklings, look like the people of the surface.  
+~
+E
+drawings~
+Colourful paintings of battle scenes cover the walls.  The promenant
+creatures appear to be men with heads like rats.  The opponents, which are
+depicted as the weaklings, look like the people of the surface.  
+~
+E
+walls~
+Colourful paintings of battle scenes cover the walls.  The promenant
+creatures appear to be men with heads like rats.  The opponents, which are
+depicted as the weaklings, look like the people of the surface.  
+~
+D1
+A cavern with tunnels leading in all directions gapes before you.  
+~
+~
+0 0 6602
+D2
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6637
+S
+#6639
+The Carved Tunnels~
+This passage is oddly shaped, as the north and east of it is carved
+nicely and painted on, while to the south, nothing has been touched.  The
+stark contrast of the smoothness and light on one side of the tunnel with
+the dark roughness on the other adds even more intrigue into what made these
+tunnels.  A pathway has been formed over many years that keeps close to the
+far wall between the north and east tunnels.  Whatever is to the south, has
+made the creatures down here keep their distance.  
+~
+0 9 5
+D0
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6641
+D1
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6636
+D2
+Heat blows into your face while your surroundings tremble slightly.  
+~
+~
+0 0 6640
+S
+#6640
+A Dragon's Lair~
+The air is hot and oppressive around you, and you find it hard to
+breathe.  The rock is blackened and scorched, and a heat radiates from all
+around you.  A muffled sound can be heard -- it almost sounds like scales
+sliding against smooth rock.  The ground trembles and shakes from something
+very large moving around in the shadows.  
+~
+0 9 5
+D0
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6639
+S
+#6641
+The Carved Tunnels~
+Coming upon this twist in the tunnels, you almost need to pause and
+wonder if you have been in this one before.  The candles cast poor lighting
+and create shadows that make either exit look even more dark and sinister
+than normal.  An odd touch to this section of the tunnels is that there are
+no pictures on the walls, and it looks as though this section is just newly
+dug.  
+~
+0 9 5
+D1
+The faint sounds of high-pitched chatter echoes down the tunnel.
+~
+~
+0 0 6642
+D2
+The faint sounds of high-pitched chatter echoes down the tunnel.
+~
+~
+0 0 6639
+S
+#6642
+The Carved Tunnels~
+The passage is perfectly straight with smooth walls curving above your
+head to join to form the ceiling.  Two large wooden barrels are propped
+against one wall.  There are some faded red markings on each of them.  The
+strange paintings only line one wall, opposite to the barrels, and they are
+evenly spaced with dim candles set between each image.  Compact dirt marking
+the pathway is centred in the tunnel, and looks exactly the same either
+direction you look.  
+~
+0 9 5
+E
+barrels~
+The wooden barrels are in rather good condition compared to most other
+things in these tunnels.  The only sign of aging on them is the steel
+bindings being more rust that steel now.  Red streaks run down from the
+bindings covering any warning signs that might be on the wood.  
+~
+D1
+The faint sounds of high-pitched chatter echoes down the tunnel.
+~
+~
+0 0 6643
+D3
+The faint sounds of high-pitched chatter echoes down the tunnel.
+~
+~
+0 0 6641
+S
+#6643
+The Carved Tunnels~
+Another bend in the tunnel that looks exactly like the other bends.  It's
+almost enough to make you wonder if you have been here before or not.  The
+same strange drawings are on the walls, and as always, a few stubby candles
+are set into the walls.  Before you and behind you is only darkness, and the
+pathway below you gives no indication as to which way is forward and which
+is back.  
+~
+0 9 5
+D0
+The faint sounds of high-pitched chatter echoes down the tunnel.
+~
+~
+0 0 6644
+D3
+The faint sounds of high-pitched chatter echoes down the tunnel.
+~
+~
+0 0 6642
+S
+#6644
+The Carved Tunnels~
+You've reached a great crossroads.  Exits lead in all directions from
+here, though all are dark and give you no help in choosing which way to go. 
+Pictures are scattered across the walls, and a few boxes, some broken, lay
+helter-skelter around the edges of the tunnel.  There is a little puddle in
+the middle of the passage, and a constant dripping comes from the ceiling.  
+~
+0 9 5
+E
+puddle~
+A little puddle ripples each time a drop of water hits it.  It's far too
+shallow for anything to live in, and doesn't take up much of the room
+itself.  
+~
+E
+boxes~
+These wooden board boxes look to have been laying here for ages, as they
+show spots of rotting and some boards are split.  Faded red lettering is
+painted on the sides of the boxes, though you can't understand any of it.  A
+large red 'x' on one side of the boxes indicates that it's probably
+something dangerous.  
+~
+D0
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6646
+D1
+A deep, low growling can be heard echoing off the walls.  
+~
+~
+0 0 6645
+D2
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6643
+D3
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6654
+S
+#6645
+A Bear Den~
+The edges of the room fade into blackness, and from this blackness comes
+a deep, guttural breathing.  A few bones, picked clean by some beast, lay
+scattered across the floor.  There is a strange odor that fills the room,
+though it's not overpowering.  The rock surrounding you is jagged and rough,
+and there seem to be bits of fur caught on a few of the sharpest pieces.  
+~
+0 9 5
+D3
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6644
+S
+#6646
+The Carved Tunnels~
+The tunnel twists sharply here.  All the angles of the passage are muted
+and dulled by shadows, making it appear much smaller than it actually is. 
+Your movements echo softly off the walls, making it sound like there's more
+than just you moving around down here.  Maybe there is though...  
+~
+0 9 5
+D1
+The faint sounds of high-pitched chatter echoes down the tunnel.
+~
+~
+0 0 6647
+D2
+The faint sounds of high-pitched chatter echoes down the tunnel.
+~
+~
+0 0 6644
+S
+#6647
+The Carved Tunnels~
+The tunnel along here looks as though it was carved by humans.  The
+almost smooth walls have strange markings all over them, some which look
+like drawings of battle scenes between various monsters.  Small holes dug
+deep into the rock hold little glowing stubs of candles.  It almost feels
+like something or someone lives in these tunnels...  
+~
+0 13 5
+E
+drawings~
+Many battles scenes fill your eyes, all in a horrific manner.  The people
+of the surface are shown being killed by the masses by a strange race of
+rat-like men.  Anger is the feeling behind these images, and with each
+painting, the anger is fuelled more.  
+~
+E
+markings~
+Many battles scenes fill your eyes, all in a horrific manner.  The people
+of the surface are shown being killed by the masses by a strange race of
+rat-like men.  Anger is the feeling behind these images, and with each
+painting, the anger is fuelled more.  
+~
+D0
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6648
+D1
+A strong wind blows into your face, bringing with it smells of life.  
+~
+~
+0 0 6604
+D3
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6646
+S
+#6648
+The Carved Tunnels~
+This section of tunnel is almost perfectly circular, the only flaw being
+a large crack down one side.  A few rocks have fallen and scattered across
+the ground.  Some wooden beams that look as though they will break from
+rotting at any moment are propped against the rock wall on either side of
+the gouge.  The pathway through the twisting passage brushes up against the
+far wall away from the crack.  
+~
+0 9 5
+E
+crack~
+A deep gash leading deeper into the earth opens here, emitting a foul
+smell of sulphur.  It looks as though someone had tried long ago to keep
+this crack from opening with the wood beams placed on either side of it. 
+The wood didn't do much good, and the gouge has just become a fact of life
+in these tunnels.  
+~
+D0
+The faint sounds of high-pitched chatter echoes down the tunnel.
+~
+~
+0 0 6649
+D2
+The faint sounds of high-pitched chatter echoes down the tunnel.
+~
+~
+0 0 6647
+D3
+The faint sounds of high-pitched chatter echoes down the tunnel.
+~
+~
+0 0 6650
+S
+#6649
+The Carved Tunnels~
+The tunnel along here as though it was carved by humans.  The almost
+smooth walls have strange markings all over them, some of which look like
+drawings of battle scenes between various monsters.  Small holes dug deep
+into the rock hold little glowing stubs of candles.  It almost feels like
+something or someone lives in these tunnels...  
+~
+0 13 5
+E
+markings~
+The battle scenes on the walls depict a war between a ratmen-like race
+and the various creatures that live on the surface.  Memories of this war of
+a time long passed are impressioned here, and keep a spirit alive in these
+tunnels.  
+~
+E
+walls~
+The battle scenes on the walls depict a war between a ratmen-like race
+and the various creatures that live on the surface.  Memories of this war of
+a time long passed are impressioned here, and keep a spirit alive in these
+tunnels.  
+~
+D1
+A strong with blows into your face, bringing with it smells of life.  
+~
+~
+0 0 6606
+D2
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6648
+S
+#6650
+The Carved Tunnels~
+It looks like part of the tunnel has caved-in recently here, though most
+of the rocks have been cleared away.  What appears to be a tombstone is
+nestled among some of the fallen rocks, and a few white bones can be seen. 
+The fallen wall has not been touched in any way, so this section of
+passage-way is slightly darker than the previous.  
+~
+0 9 5
+E
+tombstone~
+A small grave is placed here.  There is strange writing carved on the
+stone, in some unknown language.  A few white bones poke out from under the
+rocks that almost look human, but are slightly disfigured.  The air here has
+a soft, solemn feel to it.  
+~
+E
+bones~
+Disfigured white bones are visible between fallen rocks.  One of these
+bones appears to be a skull, only not a human skull.  It appears to be a
+large rat skull.  It looks like a rat, only it's the size of a human head. 
+Only a few teeth remain attached to it, and a long tail of hair is also
+still attached.  
+~
+D1
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6648
+D3
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6651
+S
+#6651
+The Carved Tunnels~
+The tunnels with lighting bend sharply here, giving you the choice to
+follow the lights and paintings, or to go into total darkness.  The
+high-pitched chatter continues to surround you, making you wonder what
+exactly lives down in these tunnels.  Paintings cover the walls thickly,
+overlapping each other and running onto the ceiling and floor.  
+~
+0 9 5
+D1
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6650
+D2
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6653
+D3
+A deep, low growling can be heard echoing off the walls.  
+~
+~
+0 0 6652
+S
+#6652
+A Bear Den~
+The edges of the room fade into blackness, and from this blackness comes
+a deep, guttural breathing.  A few bones, picked clean by some beast, lay
+scattered across the floor.  There is a strange odor that fills the room,
+though it's not overpowering.  The rock surrounding you is jagged and rough,
+and there seem to be bits of fur caught on a few of the sharpest pieces.  
+~
+0 9 5
+D1
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6651
+S
+#6653
+The Carved Tunnels~
+The paintings seem to have reached a crescendo here, and a soft glow
+comes from the many candles in the walls.  There is a small nook in one
+wall, carved more in the shape of a large chair than as a room.  The ground
+here has scratch marks in even strokes, looking like a rough broom has swept
+through here recently.  Something special must happen here, or someone
+special comes here for this small part of the maze of tunnels to be so well
+taken care of.  
+~
+0 9 5
+E
+paintings~
+The walls are so thickly covered with paintings, most of which overlap, it's hard to tell one scene from another.
+The far corners show older, faded paintings, and the centre of the walls show the most recent.
+~
+E
+chair~
+Ornate carvings in the rock show it to be a resting spot for someone very
+powerful.  No padding is added though, as one would expect for someone of
+importance.  Arm rests are set widely apart and also carved with vines and
+leaves and other strange plants.  The seat is worn smooth from this chair
+being used many times before, and probably for many generations as well.  
+~
+E
+nook~
+The form of a chair is carved as the nook, and the ornate carvings in the
+rock show it to be a resting spot for someone very powerful.  No padding is
+added though, as one would expect for someone of importance.  Arm rests are
+set widely apart and also carved with vines and leaves and other strange
+plants.  
+~
+D0
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6651
+D2
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6654
+S
+#6654
+The Carved Tunnels~
+The perfectly vertical walls here are bare except for one large painting.
+Dimly burning candles frame this picture, one on either side of it, while
+only one of these candles are on the opposite wall, making the shadows
+filling the room even larger than normal.  A sharp edge of the rock shows
+where the tunnel turns, but it casts darkness onto that section, making it
+impossible to see what's ahead.  
+~
+0 9 5
+E
+painting~
+Depicted here is a tall, strong man.  Looking closer though, something
+seems wrong with this man.  He has a long tail and his face looks like that
+of a rats.  On his head is a crown that has jewels in it, forced into the
+wall, that twinkle in the dim lighting.  A mace in this kings left hand is
+also made from jewels stuck into the wall.  He faces to the north, almost as
+though pointing to where you can actually see him in all his royal glory.  
+~
+D0
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6653
+D1
+The faint sounds of high-pitched chatter echoes down the tunnel.  
+~
+~
+0 0 6644
+S
+#6655
+A Misty Path~
+The ground firms up into a pathway, though most of the area around you is
+still a bog.  Patches of firm ground can be seen more frequently though, and
+these are covered with a long grass that blows in the slightest of breezes. 
+More birch trees grow along here, joined with some pine trees as well. 
+Birds chirp, hidden by branches and the mist, and even though the atmosphere
+seems chilly and harsh, the birds add a touch of cheeriness.  
+~
+0 5 3
+D1
+The land looks completely dry and a visible pathway can be seen amidst
+the trees.  
+~
+~
+0 0 6656
+D3
+~
+~
+0 0 3983
+S
+#6656
+A Forest Path~
+The marshes are left behind you as the path continues into a light
+forest.  Small bushes cluster together on the ground, shadowed by the tall
+trees around them.  Birds fly over head, and off to the south, you can hear
+quite a racket from squabbling animals.  A tall tree grows next to the path,
+and looking around the forest, you can spot out other extremely tall trees. 
+~
+0 4 3
+E
+tree~
+These massive trees have been here a long time, and have seen many
+things.  Growing on the bark of the tall tree closest to you, you can see
+mushrooms growing in clumps and small insects crawling over the rough bark. 
+At the base a brightly coloured mushrooms.  
+~
+D1
+You can spot a clearing through the trees.  Something glints brightly
+over there as well, flashing at you as if beckoning you on.  
+~
+~
+0 0 6600
+D3
+The lighting darkens slightly looking this way, and a mist trickles out
+slowly from the trees.  
+~
+~
+0 0 6655
+S
+#6672
+Unsured~
+Torches along the wall that glow with an eternal blue light cast soft
+lighting around the room.  The natural cave walls glisten in a few spots
+where water seeps through small cracks in the walls.  The floor has been
+levelled with soft sand, and even though one sinks slightly into it, no foot
+prints appear.  The magic filling this rooms seems to centre on a large
+rock-slab throne, which acts as the shrine to pray to Sighel.  
+~
+0 8 5
+D3
+The damp earthy smell of the forest gently blows in through the cave
+opening.  
+~
+~
+0 0 6673
+S
+#6673
+Unsured~
+Directly to the north where the path should continue is a large gnarled
+tree.  No path can be made out going around the tree at all, and it almost
+looks as though the only place to go is to the south.  One of the trees dead
+branches seems to be more like a pointer, as it stretches out to the east. 
+Looking in that direction through the heavy bushes and tree stumps, a small
+cave opening can be seen.  The possibility of this being a bear den isn't
+likely, as a soft glow of light comes from within the cave.  
+~
+0 0 3
+D1
+Barely visible through the dense brush is a cave opening with the soft,
+flickering glow of fire coming from within it.  
+~
+~
+0 0 6672
+D2
+A faint path travels south towards the main road.  
+~
+~
+0 0 6674
+S
+#6674
+Unsured~
+The small path continues as the trees and darkness push in around any
+traveller.  Looking up, the sky can't be seen through the foliage above, and
+this heavy canopy mutes out any sounds.  The air is damp and the ground
+sponges slightly below ones feet.  The sense of awe and holiness felt
+slightly before becomes stronger with each move north along the path.  
+~
+0 0 3
+D0
+The faint path continues deeper into the forest.  
+~
+~
+0 0 6673
+D2
+The faint path heads towards the main road.  
+~
+~
+0 0 6675
+S
+#6675
+Unsured~
+Having found the small path into the darkness of the forest, a sense of
+the trees leaning down to smother any creature walking beneath overwhelms
+you.  Ferns and mushrooms grow out into the leaf covered path, making it
+hard to tell if anyone else has travelled through here.  A sense of awe and
+holiness fills the air, though the surrounding woods are eerily quiet.  
+~
+0 0 3
+D0
+The faint path continues deeper into the forest.  
+~
+~
+0 0 6674
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 6600 spec_poison Load to: flowering strangleweed
+M 6601 spec_poison Load to: the rat king
+M 6602 spec_nasty Load to: a ratman
+M 6606 spec_cast_mage Load to: the witch
+M 6607 spec_breath_fire Load to: a dragon
+M 6610 spec_poison Load to: a giant rat
+M 6613 spec_cast_cleric Load to: a calm mist spirit
+M 6614 spec_cast_mage Load to: an angry spirit
+M 6615 spec_janitor Load to: a common rock golem
+S
+
+
+
+#RESETS
+D 0 6607 0 0
+D 0 6608 2 0
+D 0 6617 1 1
+D 0 6618 3 1
+O 0 6600 0 6600
+O 0 8021 0 6600
+M 0 6600 11 6603
+M 0 6615 9 6603
+E 0 6639 0 13
+M 0 6600 11 6604
+M 0 6614 10 6604
+E 0 6620 0 21
+M 0 6600 11 6605
+G 0 6631 0
+M 0 6600 11 6605
+M 0 6600 11 6606
+M 0 6613 9 6606
+G 0 6616 0
+M 0 6616 9 6606
+E 0 6641 0 14
+M 0 6600 11 6607
+G 0 6631 0
+M 0 6615 9 6607
+E 0 6638 0 9
+M 0 6603 1 6608
+E 0 6636 0 5
+G 0 6637 0
+M 0 6604 1 6608
+E 0 6603 0 24
+O 0 6601 0 6608
+O 0 6602 0 6608
+M 0 6600 11 6609
+M 0 6614 10 6609
+E 0 6628 0 17
+M 0 6609 14 6610
+G 0 6622 0
+M 0 6612 6 6610
+M 0 6610 10 6611
+G 0 6609 0
+M 0 6613 9 6611
+G 0 6617 0
+M 0 6616 9 6611
+E 0 6643 0 16
+M 0 6609 14 6612
+G 0 6621 0
+M 0 6614 10 6612
+E 0 6629 0 2
+M 0 6610 10 6613
+M 0 6611 6 6613
+E 0 6632 0 3
+M 0 6608 5 6614
+E 0 6604 0 5
+M 0 6616 9 6614
+E 0 6642 0 11
+M 0 6609 14 6615
+G 0 6622 0
+M 0 6615 9 6615
+E 0 6639 0 13
+M 0 6610 10 6616
+G 0 6609 0
+M 0 6612 6 6616
+G 0 6633 0
+M 0 6609 14 6617
+G 0 6621 0
+M 0 6614 10 6617
+E 0 6628 0 17
+M 0 6606 1 6618
+E 0 6610 0 5
+E 0 6611 0 3
+E 0 6647 0 0
+O 0 6635 0 6618
+M 0 6610 10 6619
+G 0 6609 0
+G 0 6616 0
+M 0 6613 9 6619
+M 0 6611 6 6620
+G 0 6634 0
+M 0 6616 9 6620
+E 0 6641 0 15
+O 0 8025 0 6620
+M 0 6609 14 6621
+G 0 6621 0
+M 0 6612 6 6621
+M 0 6608 5 6622
+E 0 6604 0 5
+M 0 6610 10 6623
+G 0 6609 0
+M 0 6614 10 6623
+E 0 6629 0 1
+M 0 6600 11 6624
+G 0 6631 0
+M 0 6613 9 6624
+G 0 6617 0
+M 0 6605 2 6625
+E 0 6606 0 3
+M 0 6609 14 6625
+G 0 6622 0
+M 0 6615 9 6625
+E 0 6638 0 9
+M 0 6611 6 6626
+M 0 6616 9 6626
+E 0 6644 0 16
+M 0 6608 5 6627
+E 0 6604 0 5
+G 0 6619 0
+M 0 6609 14 6628
+G 0 6621 0
+M 0 6614 10 6628
+E 0 6620 0 21
+O 0 6612 0 6628
+M 0 6610 10 6629
+G 0 6609 0
+M 0 6613 9 6629
+G 0 6618 0
+M 0 6607 3 6630
+E 0 6613 0 14
+G 0 6615 0
+M 0 6600 11 6631
+M 0 6610 10 6632
+G 0 6609 0
+M 0 6613 9 6632
+G 0 6617 0
+M 0 6616 9 6632
+E 0 6642 0 11
+M 0 6610 10 6633
+G 0 6609 0
+M 0 6612 6 6633
+M 0 6607 3 6634
+E 0 6614 0 19
+G 0 6615 0
+M 0 6614 10 6634
+M 0 6609 14 6635
+G 0 6623 0
+M 0 6615 9 6635
+E 0 6640 0 12
+M 0 6602 13 6635
+E 0 6624 0 7
+E 0 6625 0 8
+M 0 6610 10 6636
+G 0 6609 0
+M 0 6611 6 6636
+M 0 6602 13 6637
+E 0 6624 0 7
+E 0 6626 0 6
+M 0 6602 13 6637
+E 0 6624 0 7
+E 0 6627 0 22
+M 0 6615 9 6637
+E 0 6638 0 9
+M 0 6605 2 6638
+E 0 6606 0 3
+G 0 6605 0
+M 0 6609 14 6638
+G 0 6622 0
+M 0 6613 9 6638
+G 0 6616 0
+M 0 6602 13 6639
+E 0 6624 0 7
+E 0 6625 0 8
+M 0 6612 6 6639
+G 0 6633 0
+M 0 6607 3 6640
+E 0 6613 0 15
+G 0 6615 0
+M 0 6614 10 6640
+E 0 6629 0 2
+M 0 6616 9 6640
+E 0 6641 0 14
+M 0 6602 13 6641
+E 0 6624 0 7
+E 0 6625 0 8
+M 0 6602 13 6641
+E 0 6624 0 7
+E 0 6626 0 6
+M 0 6609 14 6642
+G 0 6621 0
+M 0 6614 10 6642
+E 0 6628 0 17
+M 0 6615 9 6642
+E 0 6639 0 13
+M 0 6602 13 6643
+E 0 6624 0 7
+E 0 6626 0 6
+M 0 6612 6 6643
+M 0 6610 10 6644
+G 0 6609 0
+M 0 6611 6 6644
+E 0 6632 0 3
+M 0 6608 5 6645
+E 0 6604 0 5
+M 0 6613 9 6645
+G 0 6617 0
+M 0 6616 9 6645
+E 0 6643 0 16
+M 0 6602 13 6646
+E 0 6624 0 7
+E 0 6625 0 8
+M 0 6609 14 6646
+G 0 6621 0
+M 0 6615 9 6646
+E 0 6638 0 9
+M 0 6600 11 6647
+M 0 6602 13 6648
+E 0 6624 0 7
+E 0 6626 0 6
+M 0 6609 14 6648
+G 0 6622 0
+M 0 6600 11 6649
+M 0 6602 13 6650
+E 0 6624 0 7
+E 0 6625 0 8
+M 0 6602 13 6650
+E 0 6624 0 7
+E 0 6627 0 23
+M 0 6609 14 6650
+G 0 6621 0
+M 0 6602 13 6651
+E 0 6624 0 7
+E 0 6626 0 6
+M 0 6611 6 6651
+G 0 6634 0
+M 0 6616 9 6651
+E 0 6641 0 15
+M 0 6608 5 6652
+E 0 6604 0 5
+M 0 6613 9 6652
+G 0 6616 0
+M 0 6615 9 6652
+E 0 6639 0 13
+M 0 6601 1 6653
+E 0 6607 0 16
+E 0 6608 0 6
+M 0 6602 13 6653
+E 0 6624 0 7
+E 0 6625 0 8
+O 0 6631 0 6654
+M 0 6609 14 6654
+G 0 6621 0
+M 0 6614 10 6654
+E 0 6620 0 21
+O 0 6675 0 6672
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

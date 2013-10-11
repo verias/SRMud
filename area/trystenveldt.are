@@ -1,0 +1,5737 @@
+#AREADATA
+Name { 5 35} Lutessa TrystenVeldt~
+Builders None~
+VNUMs 15000 15150
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#15000
+Eternal warrior~
+a ghostly warrior~
+An eternal warrior scans the area, bracing for attack.
+~
+A surreal spectre appears before you, dressed in archaic battle gear. 
+His grim face is smeared with the blood, grit and dirt of a long forgotten
+battle.  The eternal warrior looks past you with unseeing eyes, scanning the
+horizon for an unknown enemy.  
+~
+unique~
+A BTU -500 0
+20 0 6d39+294 20d10+100 3d5+4 digestion
+2 2 2 4
+U Q AI C
+(null) (null) female 90
+ACHIKLMV ABCDEFGHIJKLM large unknown
+#15001
+An eternal commander~
+An eternal commander~
+An eternal commander barks orders to his troops.
+~
+The commander is an impressive figure of great stature and bearing, violent in demeanor in his full battle gear.  He appears to fade in and out of existence or rather, in and out of this time frame. 
+~
+unique~
+A BTU -500 0
+30 3 10d60+520 30d10+100 3d6+8 wrath
+-1 -1 -1 0
+DEFJN BHQ AKL C
+(null) (null) female 135
+ACHIKLMV ABCDEFGHIJKLM large unknown
+#15002
+An eternal courier~
+a courier~
+A ghostly courier fades in and out of existence.
+~
+A pale young man looks through you, his grey eyes strained and
+prematurely old.  He is dressed in lightweight gear and is clutching a
+sealed envelope, most likely battle orders for the troops.  
+~
+human~
+A BV 0 0
+15 0 5d31+200 15d10+100 2d4+2 digestion
+4 4 4 6
+D Q I CP
+rest (null) female 67
+AHMV ABCDEFGHIJK medium unknown
+#15003
+Branson man~
+Branson~
+A young man is sitting at the table, carving a large and juicy roast.
+~
+The son of Bran is tall and fair complexioned.  His eyes glitter in the
+firelight as he expertly wields a sharp carving knife.  He is surprised by
+your intrusion and waves the knife threateningly at you.  
+~
+human~
+A V 1000 0
+25 0 8d48+400 25d10+100 3d5+7 slice
+0 0 0 2
+CEFQ 0 0 0
+sit (null) female 112
+AHMV ABCDEFGHIJK medium unknown
+#15004
+a small rodent squirrel~
+a small rodent~
+A forest rodent chatters angrily at you
+~
+A forest rodent sits nearby, chattering angrily at you.
+~
+unique~
+A 0 0 0
+3 0 1d7+30 3d10+100 1d2+0 crush
+9 9 9 9
+FH 0 0 0
+sit (null) male 13
+AGV ACDEFHJKP small unknown
+#15005
+Meg woman~
+Meg~
+A young woman is at work in the kitchen.
+~
+Meg, wife of Branson, is young and rosy of cheek.  Her long blonde hair
+is tied in a careful but loose bun at the back, revealing graceful white
+shoulders and an ample bosom.  A clean white apron is tied tightly about her
+narrow waist and a half dozen petticoats bounce about her ankles as she
+moves busily about the kitchen.  
+~
+human~
+A 0 1000 0
+20 0 6d39+294 80d10+100 3d5+4 digestion
+2 2 2 4
+0 0 0 0
+(null) (null) either 90
+AHMV ABCDEFGHIJK medium unknown
+#15006
+Hugo man~
+Hugo~
+A man is sitting by the fire.
+~
+Hugo is a middle-aged, stocky man of moderate height.  His hair is
+cropped short to reveal small protruding ears, a thick, hard neck, and the
+broad shoulders of a man accustomed to hard work.  
+~
+human~
+A 0 750 0
+22 0 7d42+334 22d10+100 3d5+5 digestion
+1 1 1 3
+0 0 0 0
+sit (null) female 99
+AHMV ABCDEFGHIJK medium unknown
+#15007
+Mason man~
+Mason~
+A man is thinking about his next move.
+~
+Mason is broad of neck and stocky of build.  His brown hair is short and
+curly, and his dark eyes glisten as he stares intently at the table.  
+~
+human~
+AB 0 750 0
+25 0 8d48+400 25d10+100 3d5+7 digestion
+0 0 0 2
+0 0 0 0
+rest rest female 112
+AHMV ABCDEFGHIJK medium unknown
+#15008
+A serf~
+A serf~
+A heavily burdened serf has his eyes to the ground as he walks by.
+~
+The serf stoops as he walks, partly from his burden, and partly to avoid
+eye contact, such is his shame and humility.  His clothing is torn and
+dirty, and his feet are bare.  His arms and neck are suntanned and thick,
+evidence of time spent outdoors, performing heavy labour.  
+~
+human~
+A 0 800 0
+18 0 6d36+255 18d10+100 2d5+6 digestion
+3 3 3 5
+IU 0 0 0
+(null) (null) female 81
+AHMV ABCDEFGHIJK medium unknown
+#15009
+man Dyrnwyn~
+Dyrnwyn~
+An angry looking man brushes past you.
+~
+Dyrnwyn is a large brooding man of medium height and stocky build.  His
+face is hidden by a poorly trimmed, bushy beard which is at least two shades
+darker than his light brown hair.  Dyrnwyn's thoughts constantly turn to
+Meg, the wife of his brother Bran.  His soul is tainted by thoughts of hate
+and jealousy towards both.  
+~
+human~
+AH 0 -300 0
+28 8 9d55+470 28d10+100 3d5+9 digestion
+0 0 0 1
+0 0 0 0
+(null) (null) female 126
+AHMV ABCDEFGHIJK medium unknown
+#15010
+Imbolg leader~
+Imbolg~
+An eternal leader rages in defeat.
+~
+Imbolg's shade towers over you.  His fierce red-tinged eyes stare wildly
+and his teeth gnash in eternal rage over his defeat at the hand of Rhyygen
+Ydd.  Emblazoned upon his glowing chestplate, you see an intricately layered
+labyrinthine cross.  He glares viciously at an unseen enemy.  
+~
+unique~
+AB BTUc -1000 0
+35 4 10d76+654 35d10+100 4d6+9 charge
+-3 -3 -3 -1
+ADEFJKO BIQ AL C
+(null) (null) female 157
+ACHIKLMV ABCDEFGHIJKLM huge unknown
+#15011
+blue jay bird~
+a blue jay~
+A blue jay flutters from branch to branch, annoyed at your intrusion.
+~
+A noisy {bblue jay{x flutters from branch to branch, annoyed at your
+intrusion.  
+~
+song bird~
+A T 0 0
+3 0 1d7+30 3d10+100 1d2+0 divine
+9 9 9 9
+FH 0 0 I
+(null) (null) male 13
+AGW ACDEFHKOP small unknown
+#15012
+the governess~
+the governess~
+The children's governess is sitting at her bed.
+~
+The governess is young, but her manner is severe and serious, as if she
+is attempting to be more authoritarian than she actually feels.  Her hair is
+drawn back in a chignon, and around her neck, she as a small silver chain
+and pendant.  Her simple, grey silk gown balloons out from her waist like a
+giant umbrella.  
+~
+human~
+AB 0 400 0
+26 0 8d50+423 26d10+100 3d5+8 beating
+0 0 0 2
+0 0 0 0
+(null) (null) either 117
+AHMV ABCDEFGHIJK medium unknown
+#15013
+fox kit~
+a fox kit~
+A fox kit wanders through the brush.
+~
+A tiny fox kit appears to have wandered away from it's mother's side.
+~
+fox~
+AV Z 0 0
+4 0 1d10+41 4d10+100 1d2+0 crush
+8 8 8 8
+FH 0 0 0
+(null) (null) male 18
+AGV ACDEFHJKPQUV small unknown
+#15014
+a fox~
+a fox~
+A fox slinks through the undergrowth.
+~
+A full-grown fox with a beautiful white tipped tail slinks through the
+undergrowth, unaware as yet, of your presence.  
+~
+fox~
+AV Z 0 0
+5 0 1d12+53 5d10+100 1d2+1 crush
+8 8 8 8
+FH 0 0 0
+(null) (null) either 22
+AGV ACDEFHJKPQUV medium unknown
+#15015
+city rat~
+a city rat~
+A rather nasty looking rat scurries by.
+~
+A rat runs furtively by, sniffing for food along the ground as he goes.
+~
+unique~
+A 0 -500 0
+1 0 1d2+8 1d10+100 1d1+0 crush
+9 9 9 10
+FH 0 0 0
+(null) (null) female 4
+AGV ACDEFHJKP medium unknown
+#15016
+wolverine~
+a wolverine~
+A vicious looking wolverine stares at you through the undergrowth.
+~
+A wolverine, black with white markings, crouches in the shadows of the forest growth.
+~
+unique~
+ABF FJZ -250 0
+8 0 2d19+93 8d10+100 2d3+1 crush
+7 7 7 7
+FH 0 I H
+sit (null) male 36
+AGHMV ABCDEFGHIJKLPQUV medium unknown
+#15017
+shepherd man~
+a shepherd~
+A shepherd guides his sheep to market.
+~
+The shepherd is young and spritely.  His hat is jauntily tilted upon his
+brow and he is playing a familiar folk tune on a set of panpipes.  
+~
+human~
+A 0 750 0
+12 0 4d26+151 12d10+100 2d4+0 digestion
+5 5 5 7
+IJ 0 0 0
+(null) (null) female 54
+AHMV ABCDEFGHIJK medium unknown
+#15018
+sheep~
+a wooly sheep~
+A sheep ready for shearing, is heading to market.
+~
+A lovely black sheep, thick with wool and well-fed by appearance,
+meanders along the road.  
+~
+unique~
+AH 0 0 0
+8 0 2d19+93 8d10+100 2d3+1 suction
+7 7 7 7
+C 0 0 0
+(null) (null) male 36
+AGV ACDEFHJKP medium unknown
+#15019
+Brigid~
+Brigid~
+Brigid, a sturdy housefrau, brushes hair from her eyes as she looks your way.
+~
+Brigid is a sturdy, strong-looking woman of middle years.  Although plump, her youth has not left her entirely.  However, her expression is stern, as if she is accustomed to demanding obedience from her two fluttery daughters.
+~
+human~
+AB 0 750 0
+30 0 10d60+520 30d10+100 3d6+8 bite
+-1 -1 -1 0
+I 0 0 0
+(null) (null) either 135
+AHMV ABCDEFGHIJK medium unknown
+#15020
+Rayna~
+Rayna~
+Brigid's eldest daughter, Rayna, is brushing her long, flowing hair.
+~
+Rayna has lovely blonde, waist length hair, shiny and straight as corn
+silk.  Her blue eyes are doe-like in size and depth of colour.  She is
+humming a folk tune to herself, and has not yet become aware of your
+presence.  
+~
+human~
+AB 0 1000 0
+22 0 7d42+334 22d10+100 3d5+5 none
+1 1 1 3
+N 0 0 0
+sit (null) either 99
+AHMV ABCDEFGHIJK medium unknown
+#15021
+Myria~
+Myria~
+Myria is sitting here, working on her needlepoint.
+~
+Myria is the younger daughter of Brigid.  She has light brown hair and a
+mischievous smile.  She seems to be concentrating on her work, but every
+once in a while, her gaze drifts to the fire, and she seems to daydream.  
+~
+human~
+AB 0 1000 0
+18 0 6d36+255 18d10+100 2d5+6 magic
+3 3 3 5
+I 0 0 0
+sit (null) either 81
+AHMV ABCDEFGHIJK medium unknown
+#15022
+guardian warrior~
+a guardian warrior~
+A nameless guardian stands at attention at the tomb of Rhyggen Ydd.
+~
+The guardian warrior has no face, no eyes and yet you know he is aware
+you are in the room.  He follows your movements with one fluid motion and
+stands in defense of the tomb.  
+~
+human~
+ABO BVa 1000 0
+35 0 10d76+654 35d10+100 4d6+9 charge
+-3 -3 -3 -1
+CDEHJN AHK Q 0
+(null) (null) female 157
+AHMV ABCDEFGHIJK medium unknown
+#15023
+A busy merchant~
+a busy merchant~
+A busy merchant eyes you as he rushes by.
+~
+The merchant is richly dressed.  His jacket is newly tailored in the
+finest wool, and his vest is stitched with gold thread.  There is a bulge
+across his middle, which might be either evidence of a heavy money belt, or
+a recent meal.  
+~
+human~
+A 0 -400 0
+26 0 8d50+423 26d10+100 3d5+8 digestion
+0 0 0 2
+EN 0 0 0
+(null) (null) female 117
+AHMV ABCDEFGHIJK medium unknown
+#15024
+man sneak Wyndred~
+a sneaking thief~
+From the shadows, a sneaking thief pounces on you!
+~
+Wyndred is a vagabond with a tattered hat, unkempt hair and a nasty habit
+of backstabbing unsuspecting victims as they walk by.  His lip curls in
+derision as he jumps you from behind.  
+~
+human~
+A QV -900 0
+8 0 2d19+93 8d10+100 2d3+1 stab
+7 7 7 7
+BEJ 0 0 0
+(null) (null) female 36
+AHMV ABCDEFGHIJK small unknown
+#15025
+man son of Hugo Hamish~
+Hamish~
+A young man in uniform briskly walks by.
+~
+Hamish, son of Hugo, is a young soldier, heading home on leave.  He is
+fair of skin, and as yet, has no whiskers to speak of.  His blue eyes are
+clear as he gazes fixedly at you.  His soldiering has left him with a ramrod
+straight posture, a hard skin, and a strong sense of being in the right.  
+~
+human~
+A c 1000 0
+27 4 9d52+446 27d10+100 3d5+8 sunder
+0 0 0 1
+CEH 0 0 0
+(null) (null) male 121
+AHMV ABCDEFGHIJK medium unknown
+#15026
+woman elven elf gypsy~
+a wandering gypsy~
+An exotic, dark-skinned elven woman takes a long look at you.
+~
+A beautiful elven woman with large brown eyes, black hair and pencilled
+eyebrows sways her hips gracefully as she walks.  She wears her shawl around
+her waist like a skirt, and she has large gold hoop earrings in her ears.  
+~
+elf~
+AH J -250 0
+8 0 2d19+93 8d10+100 2d3+1 beating
+7 7 7 7
+H 0 B Z
+(null) (null) either 36
+AHMV ABCDEFGHIJK medium unknown
+#15027
+gyspy woman elven elf~
+a wandering gypsy~
+An exotic, dark-skinned elven woman takes a long look at you.
+~
+A beautiful elven woman with large brown eyes, black hair and pencilled
+eyebrows sways her hips gracefully as she walks.  She wears her shawl around
+her waist like a skirt, and she has large gold hoop earrings in her ears.  
+~
+elf~
+A J -250 0
+8 0 2d19+93 8d10+100 2d3+1 beating
+7 7 7 7
+H 0 B Z
+(null) (null) either 36
+AHMV ABCDEFGHIJK medium unknown
+#15028
+gentle man~
+a gentleman~
+This country gentle man strolls along with a carefree tune on his lips.
+~
+This middle aged gentleman is dressed up in a fine suit to display his 
+status clearly to all.  He is wearing the latest fashion in the way of a fur 
+lined leather cape and a stiffly starched cap.  He wears a powdered wig and 
+has a mole on his upper lip, though whether it is fake or not is not for 
+certain.  He seems to be a bit of a dandy.  He seems to be whistling a 
+gentle tune that is familiar but not quite placeable.  
+~
+human~
+AH 0 200 0
+11 0 3d23+120 40d10+100 2d3+2 none
+6 6 6 6
+0 0 0 0
+(null) (null) female 49
+AHMV ABCDEFGHIJK medium unknown
+#15029
+gentle woman~
+a gentlewoman~
+A gentlewoman wearing fine silks can be seen here.
+~
+This woman wears silks and jewelry like they are common commodities.  She 
+turns her nose up at your appearance and mutters about filthy commoners.  
+She holds her skirts to the side as she walks while in her other hand, there 
+is a parasol made of fancy silk and lace.  She's not very attractive, but by 
+her actions, she must think she's the world.  
+~
+human~
+AH 0 0 0
+10 0 3d23+120 40d10+100 2d3+2 none
+6 6 6 6
+0 0 0 0
+(null) (null) either 45
+AHMV ABCDEFGHIJK medium unknown
+#15030
+Beothor alchemist assistant~
+an alchemist's assistant~
+An alchemist's assistant growls at you, intruder!
+~
+The alchemist's assistant, Beothor, is a crusty old dwarf who has spent
+too many years in the cellar, sniffing chemicals in their pots.  He has
+become quite demented as a result.  
+~
+dwarf~
+A DJ -1000 0
+35 0 10d76+654 35d10+100 4d6+9 crush
+-3 -3 -3 -1
+E 0 CLQ R
+(null) (null) female 157
+AHMV ABCDEFGHIJK small unknown
+#15031
+valet~
+a valet~
+The valet sits here, awaiting his master.
+~
+The valet is sitting quietly in his chair, almost dozing in boredom.  His
+attire is however, in perfect order, from his pristine white gloves down to
+his well-polished boots.  
+~
+human~
+AB D -400 0
+32 0 10d66+571 32d10+100 4d5+9 digestion
+-2 -2 -2 0
+N 0 0 0
+rest rest female 144
+AHMV ABCDEFGHIJK medium unknown
+#15032
+scullery maid~
+a scullery maid~
+A scullery maid is scrubbing pots.
+~
+The scullery maid is red of face and hands from the exertion of scrubbing pots, and from the lye soap she is using.  Her filthy hair falls across her face as she bends over the dirty tub of hot water.
+~
+human~
+AB 0 -400 0
+30 0 10d60+520 30d10+100 3d6+8 beating
+-1 -1 -1 0
+I 0 0 0
+(null) (null) either 135
+AHMV ABCDEFGHIJK medium unknown
+#15033
+a winged rat~
+a winged rat~
+A winged rat swoops down from above.
+~
+A long toothed winged rat, it's tail whipping the air and claws drawn,
+swoops and veers through the air.  
+~
+unique~
+A CDEFGJTVZc -300 0
+9 0 2d21+106 9d10+100 2d3+2 jab
+6 6 6 6
+FHMU 0 0 S
+(null) (null) either 40
+ACGHMVW ABCDEFGHIJKOPUV small unknown
+#15034
+Millicent middle aged woman~
+Millicent~
+A middle aged woman keeps a careful eye on the oven here.
+~
+Pure blonde hair gives Millicent a look of youth, sadly the crow's feet at 
+the corners of her eyes show the lie to this illusion.  Her hair is tied 
+back from her face in a bun so as not to get in the way while she works.  
+Upon noticing your entrance she frowns and looks about for something to 
+protect herself with.  
+~
+human~
+AB 0 750 0
+19 0 6d37+274 76d10+100 2d5+6 beating
+2 2 2 4
+E 0 B 0
+(null) (null) either 85
+AHMV ABCDEFGHIJK medium unknown
+#15035
+Randaulf man painter~
+Randaulf~
+A man sits here, looking out of the window and painting upon a canvas.
+~
+This man seems to be a skilled painter, if all the work around him is his 
+own.  He uses his paint brush like a surgeon uses a knife.  Short cropped 
+brown hair adorns his head, thinning a little at the front so that a widow's 
+peak has formed occasionally he looks out at of the window before returning 
+to his painting.  
+~
+human~
+AB 0 750 0
+22 0 7d42+334 88d10+100 3d5+5 digestion
+1 1 1 3
+FI 0 0 0
+stand stand female 99
+AHMV ABCDEFGHIJK medium unknown
+#15036
+Deardre young nymph~
+Deardre~
+A young nymph entwines herself around another woman here.
+~
+If she was standing you doubt she would be over five and a half feet tall, 
+as it is guessing her height is more complicated due to the way she is 
+wrapped around the other female in the bed.  Girlish giggles and squeaks 
+come from her throat.  Her form is attractive enough like most of her kind, 
+possessing long blonde hair, an ample bosom and a narrow waist the skin 
+which can be seen bears a very faint greenish tint.  
+~
+unique~
+AB O 0 0
+24 0 8d46+378 96d10+100 3d5+5 crush
+0 0 0 2
+CHR 0 0 0
+rest rest either 108
+ACGHMV ABCDEFGHIJK medium unknown
+#15037
+Ussoria woman~
+Ussoria~
+A woman squirms and giggles to the attentions of a nymph here.
+~
+This woman would seem plain if it wasn't for her startling blue eyes that 
+seem to glint in any light like sapphires.  At the moment her moderately 
+tanned flesh is very visible due to the total lack of clothing as she 
+giggles and squirms to her companion's actions.  Her figure is firm enough 
+showing that she must labor or work out normally, though somewhat on the 
+petite side.  
+~
+unique~
+AB 0 0 0
+25 0 8d48+400 100d10+100 3d5+7 beating
+0 0 0 2
+INR 0 0 0
+rest rest either 112
+ACGHMV ABCDEFGHIJK medium unknown
+#15038
+large guard dog~
+a large guard dog~
+A very large guard dog stands here, looking to bite you!
+~
+This dog is massive, most likely it is the offspring of a wolf-dog cross.  
+It certainly doesn't appear pleased to see you, snapping its powerful jaws 
+and drooling as it leaps at your throat!  
+~
+fido~
+ABF V 0 0
+18 0 6d36+255 72d10+100 2d5+6 crush
+3 3 3 5
+FHR 0 I CH
+(null) (null) female 81
+ABGHMV ABCDEFGHIJKLPQV medium unknown
+#15039
+nymph hayzel~
+Hayzel~
+A small green nymph stands here, tending the bar.
+~
+The nymph before you goes by the name Hayzel.  Her form is well rounded even 
+for a nymph and a soft green color which compliments her long green hair 
+excellently.  No clothing has been worn to conceal her nymphly charms as she 
+works as bartender here, only her swaying hair periodically masks her 
+feminine beauty for all who wish to see.  Large brown eyes give her a 
+soulful look which is broken when she flashes a pleased smile at your 
+approach.  
+~
+unique~
+ABRW 0 0 0
+70 0 11d443+2036 280d10+100 5d8+22 digestion
+-17 -17 -17 -15
+0 ABQ 0 0
+(null) (null) either 315
+ACGHMV ABCDEFGHIJK medium unknown
+#15040
+relaxed patron~
+a patron~
+A patron relaxes here, looking content.
+~
+This young gentleman looks most content as he sits here, sipping his ale.  
+Blonde hair has been skillfully tied back from his features into a long 
+plait that dangles down his back.  He occasionally stares at Hayzel, but 
+makes no effort to start a conversation.  
+~
+human~
+AB 0 0 0
+19 0 6d37+274 76d10+100 2d5+6 digestion
+2 2 2 4
+CI 0 0 0
+rest rest female 85
+AHMV ABCDEFGHIJK medium unknown
+#15041
+the butler~
+the butler~
+The butler glares at you in surprise.
+~
+The butler has worked for the master of the house for many years, and is fiercely loyal.  He is also seriously addicted to the master's potions of haste.
+~
+human~
+ABF JV -700 0
+33 0 10d69+599 33d10+100 4d5+9 blast
+-2 -2 -2 0
+0 0 CLQ R
+(null) (null) male 148
+AHMV ABCDEFGHIJK medium unknown
+#15042
+Telesphore man~
+Telesphore~
+A man rises from his chair, an outraged expression upon his face.
+~
+Telesphore is a wealthy gentleman, having recently retired from his
+business of supplying potions to all of Discordia.  He is youthful in
+appearance, no doubt artificially induced by potions and incantations of
+youth.  
+~
+human~
+ABF DF -700 0
+32 0 10d66+571 32d10+100 4d5+9 bite
+-2 -2 -2 0
+EIN 0 0 0
+sit (null) female 144
+AHMV ABCDEFGHIJK medium unknown
+#15043
+snake~
+a diamond backed snake~
+A snake with diamond-shaped markings slithers towards you.
+~
+The snake is enormous in length and thick in girth.  Diamond markings
+grace it's back.  The snake's tongue flicks menacingly as it slithers
+towards you.  
+~
+snake~
+A 0 -500 0
+8 0 2d19+93 8d10+100 2d3+1 magic
+7 7 7 7
+0 0 L I
+(null) (null) male 36
+AGRXYc ADEFKLPQVX medium unknown
+#15044
+A giant centipede~
+a centipede~
+A very large, evil looking centipede crawls towards you.
+~
+The centipede's multiprism beady eyes glare hungrily at you as it crawls
+towards you.  
+~
+centipede~
+AF Z -300 0
+7 0 2d17+79 7d10+100 1d3+2 pierce
+7 7 7 7
+0 0 FI E
+(null) (null) male 31
+ABGO ACFKX medium unknown
+#15045
+A hairy spider~
+a hairy spider~
+A big hairy spider climbs down the wall.
+~
+A nasty hairy spider crawls down the wall and along the floor beside you.
+It's huge!  
+~
+unique~
+A Z -300 0
+7 0 2d17+79 7d10+100 1d3+2 crush
+7 7 7 7
+H 0 FI E
+(null) (null) male 31
+AGOP ACFKX medium unknown
+#15046
+Pilot dog~
+Pilot~
+Pilot teases his master with a tug-of-war game.
+~
+Pilot, the guard dog of the household, is fiercely loyal to his owners and 
+defends their property with his life.  He is also a playful pup, and has 
+claimed ownership over his master's shoehorn.  
+~
+fido~
+AB FJZ 900 0
+23 0 7d44+355 23d10+100 3d5+5 crush
+1 1 1 3
+CFHQR 0 I CH
+(null) (null) female 103
+ABGHMV ABCDEFGHIJKLPQUV medium unknown
+#15047
+halfling Braiste~
+A Halfling~
+A Halfling awakens suddenly from his sleep.
+~
+Braiste is a strong looking halfling in his prime of life.  His bright
+eyes blink in surprise at your intrusion, as he rises from his chair.  His
+blonde, wavy hair flies as he turns to confront you.  
+~
+unique~
+A V 450 0
+26 0 8d50+423 26d10+100 3d5+8 digestion
+0 0 0 2
+0 0 L C
+(null) (null) female 117
+AHMV ABCDEFGHIJK small unknown
+#15048
+a myconid guardian~
+a myconid guardian~
+A myconid tunnel guardian shuffles along the hallway, sending spores across its wake.
+~
+The myconid guardian's features are hidden by its cowl, which covers it
+from head to toe.  Spores float about its dusty shoulders as it shuffles
+through the underground corridors.  
+~
+unique~
+A 0 1000 0
+30 0 10d60+520 30d10+100 3d6+8 grep
+-1 -1 -1 0
+U 0 L HS
+(null) (null) male 135
+ABCGHMc ABCDEFGHIJKMN small unknown
+#15049
+a flitting bat~
+a flitting bat~
+A bat dives and scoops through the air above your head.
+~
+The bat seems intent on attacking your hair, perhaps thinking it's a bird's nest.
+~
+unique~
+AB CDEFGTVZc -200 0
+3 0 1d7+30 3d10+100 1d2+0 magic
+9 9 9 9
+FH 0 0 S
+(null) (null) male 13
+ACGHMVW ABCDEFGHIJKOPUV medium unknown
+#15050
+A guest~
+a guest~
+A startled guest turns towards you.
+~
+A man in a night shirt and cap, has a dazed look on his face, as if he
+has just awakened from a disturbed sleep.  He does not look too pleased to
+see you in his room.  
+~
+human~
+A 0 0 0
+32 0 10d66+571 32d10+100 4d5+9 digestion
+-2 -2 -2 0
+0 0 0 0
+(null) (null) male 144
+AHMV ABCDEFGHIJK medium unknown
+#15051
+Beothar~
+Beothar~
+Beothar is startled at your intrusion.
+~
+Beothar is an elderly man, and is master of the house you have invaded. 
+His grizzled beard and watery eyes belie his relatively good health and
+strength.  
+~
+human~
+AB 0 500 0
+33 3 10d69+599 33d10+100 4d5+9 bite
+-2 -2 -2 0
+0 0 0 0
+(null) (null) female 148
+AHMV ABCDEFGHIJK medium unknown
+#15052
+a stone lion~
+a stone lion~
+A lion, carved from stone, guards the entrance.
+~
+The stone lion sits upon a pedestal, grimacing rather than roaring.  His
+mane flows behind and around his ears, and his eyes seem to follow your
+movements.  
+~
+unique~
+AB TZ -750 0
+28 0 9d55+470 28d10+100 3d5+9 crush
+0 0 0 1
+U J L KS
+sit (null) female 126
+ACGHMVXc ABCDEFGHIJKLOPUVW medium unknown
+#15053
+an eternal lieutenant~
+an eternal lieutenant~
+An eternal lieutenant engages an unseen enemy.
+~
+His eyes are red and bulging, insanity has crept into his soul.  He
+lunges and thrusts his sabre, swinging his arms wildly at the same time. 
+His wild manner is bone chilling.  This spectre has a blood-thirst that will
+never be quenched.  
+~
+unique~
+A BTU -750 0
+25 8 8d48+400 25d10+100 3d5+7 suction
+0 0 0 2
+CDEH 0 A C
+(null) (null) female 112
+CIKLM ABCDEFGHIJKLM medium unknown
+#15054
+Stafan man~
+Stafan~
+Stafan stands here, laughing heartily.
+~
+Stafan is a simple man, though prosperous.  His clothes are freshly
+laundered and ironed, and he smells of lye soap and herbal remedies for
+stomach ailments.  While he works in town, his wife Brigid keeps close tabs
+on family expenses.  
+~
+human~
+AB 0 900 0
+30 0 10d60+520 30d10+100 3d6+8 none
+-1 -1 -1 0
+IQ 0 0 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#15055
+brown rat~
+a brown rat~
+A nasty brown rat is here.
+~
+This small brown rodent scampers about, seemingly unconcerned about you.  It 
+has short brown fur and a long pink tail that trails behind its self as it 
+moves.  
+~
+unique~
+A 0 0 0
+3 0 1d7+30 3d10+100 1d2+0 crush
+9 9 9 9
+FH 0 0 0
+(null) (null) male 13
+AGHMV ABCDEFGHIJKP medium unknown
+#15056
+elven ranger~
+an elven ranger~
+This elven ranger has been hired by the Monarchy to keep an eye out for the mysterious creatures.
+~
+Long silver hair has been pulled back into a ponytail on this tall elven
+male.  He is garbed in simple but dark green clothing which covers his
+figure with ease and helps him blend in with his surroundings.  
+~
+elf~
+A JOPVc 750 0
+65 30 11d352+1789 65d10+100 5d8+19 crunch
+-15 -15 -15 -13
+0 0 B Z
+(null) (null) female 292
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#15000
+cane scabbard~
+a cane~
+This cane proves itself to be a home to a sharp-looking sword.~
+wood~
+none 0 AO
+0 0 0 0 0
+11 0 0 P
+#15001
+cane sword~
+a cane sword~
+This sword is usually sheathed within a cane.~
+wood~
+weapon 0 0
+sword 3 8 lunge 0
+11 0 0 P
+#15002
+upper cupboard~
+upper cupboard~
+The cupboard doors have finely crafted lead glass panes.~
+wood~
+container DR 0
+0 ACD 15082 0 0
+1 1000 0 P
+#15003
+lower cupboard~
+a cupboard~
+The lower cupboard doors are of solid wood.~
+wood~
+container R 0
+500 ACD 15082 0 0
+1 1000 0 P
+#15004
+A drawer~
+a drawer~
+The drawer has two hinged brass handles.~
+wood~
+container DR 0
+0 ACD 15082 0 0
+0 1000 0 P
+#15005
+A carved chair~
+chair~
+It's a heavy, carved wooden chair with a caned seat.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 1000 0 P
+#15006
+four poster bed~
+a four poster~
+A big comfortable looking fourposter stands here.~
+Wood~
+furniture 0 0
+0 0 0 0 0
+0 1000 0 P
+#15007
+A child's cot~
+a cot~
+A cat looks up inquisitively from under the cot.~
+cotton~
+container R 0
+50 0 0 0 0
+1 30 0 P
+#15008
+sofa settee~
+sofa~
+A settee with floral upholstery is a bit too grand for the room.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 1000 0 P
+#15009
+sabre~
+a jeweled sabre~
+A jeweled sabre glistens in the light.~
+silver~
+weapon FR AN
+sword 6 8 lunge D
+25 15 125 P
+A
+1 1
+A
+13 10
+A
+24 -1
+#15010
+downy mattress~
+a downy mattress~
+A comfortable downy mattress is here.
+Two pillows lie at the head of the bed and a fluffy duvet is tucked in
+around the sides.  ~
+feathers~
+furniture 0 0
+0 0 0 0 0
+0 1000 0 P
+#15011
+a little doll~
+a little doll~
+The doll is handmade and well-loved, tenderly preserved with carefully sewn repairs.~
+cotton~
+treasure R AO
+0 0 0 0 0
+2 1 20 P
+A
+24 -1
+#15012
+icy blade~
+an icy blade~
+Frost rises slowly from the frozen blade.~
+mist~
+weapon AFJR ANO
+sword 8 7 wrath B
+30 10 150 R
+#15013
+cold shortsword~
+a cold shortsword~
+Smoke rises eerily from the blade of the shortsword.~
+silver~
+weapon AR ANO
+sword 5 8 sting B
+20 0 100 P
+#15014
+fallen log~
+a fallen log~
+A wide mossy log lies on the ground by the forest pool.~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 1000 0 P
+#15015
+An arm chair~
+an armchair~
+The leather is thick and well-oiled, the seat is wide and overstuffed, and the legs of the chair appear to be sturdy.  Overall, a chair anyone could enjoy!~
+leather~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#15016
+lightweight sandals~
+leather sandals~
+Soft, well-travelled leather sandals lie here.~
+leather~
+armor F AG
+B B B 0 0
+15 1 75 P
+A
+2 1
+#15017
+A carving knife~
+a knife~
+A sharp carving knife lies here.~
+iron~
+weapon 0 AN
+bow 6 7 stab D
+22 1 110 P
+#15018
+roast beef rib prime~
+a roast of beef~
+You see a juicy prime rib roast ready for carving.~
+meat~
+food R A
+EF 0 0 0 0
+0 2 1 P
+#15019
+Queen chess piece~
+the white queen~
+The carved ivory queen appears to glare disapprovingly at you.~
+ivory~
+treasure I AO
+0 0 0 0 0
+20 0 200 P
+A
+4 1
+A
+14 30
+#15020
+ruby eye~
+a ruby eye~
+It is a translucent blood red jewel, cut in the shape of an avian eye.~
+ruby~
+treasure R AO
+0 0 0 0 0
+10 0 100 P
+#15021
+A cold breastplate~
+a cold breastplate~
+Frost rises from the surface of a cold breastplate.~
+mist~
+armor FR AD
+AB AB AB A 0
+20 0 100 P
+A
+17 2
+A
+24 -4
+#15022
+Archaic chainmail~
+archaic chainmail~
+It is strange looking chainmail of archaic design.~
+gold~
+armor ACFb ADL
+AC AC AC A 0
+30 35 150 P
+A
+12 20
+A
+1 1
+#15023
+A smoking jacket~
+a smoking jacket~
+A red smoking jacket lies discarded on the floor.~
+cotton~
+armor 0 AK
+C C C A 0
+25 0 125 P
+A
+24 -4
+A
+13 20
+#15024
+An archaic helm~
+an archaic helm~
+A helm of archaic design glows and smokes.~
+gold~
+armor AR AE
+AC AC AC A 0
+30 3 150 P
+A
+13 10
+A
+14 20
+#15025
+a quarterstaff~
+a quarterstaff~
+A sturdy quarterstaff lies on the ground.~
+wood~
+weapon 0 ANO
+whip 5 7 stab F
+18 4 90 P
+A
+19 2
+#15026
+burlap sack~
+a plain sack~
+A bulky burlap sack lies here.~
+cotton~
+container 0 A
+50 0 0 0 0
+5 1 75 P
+#15027
+A bundle of sticks~
+a bundle of sticks~
+Sticks, bundled for sale as firewood, lie here.~
+wood~
+weapon 0 ANO
+exotic 4 5 claw 0
+10 10 50 P
+#15028
+An ebony hilted dagger~
+an ebony hilted dagger~
+A black handled dagger lies here.~
+ebony~
+weapon E ANO
+bow 6 9 crunch 0
+28 1 140 P
+A
+18 1
+A
+2 1
+A
+17 -2
+#15029
+paper weight~
+a paper weight~
+A paper weight of polished blue marble lies here.~
+glass~
+treasure R AO
+0 0 0 0 0
+12 5 120 P
+A
+12 -10
+A
+3 1
+#15030
+A hinged mirror~
+a hinged mirror~
+You find a looking glass with a nice wood frame.  Something shiny has slipped off it.~
+glass~
+treasure R AO
+0 0 0 0 0
+5 0 50 P
+A
+4 -1
+#15031
+child's doll~
+a doll~
+A rag doll has been lovingly stitched and shows numerous repairs.~
+cotton~
+treasure 0 AO
+0 0 0 0 0
+1 1 10 P
+A
+17 -2
+#15032
+chestplate of Imbolg~
+an emblazoned chestplate~
+A glowing chestplate lies discarded on the ground.
+The chestplate of Imbolg, as the name implies, was worn by the infamous
+warlord, Imbolg, of ancient times.  All of Imbolg's armor and weapons are
+lost, as his body was never found after the war of TrystenVeldt.  ~
+mist~
+armor ACFJM AD
+BD AD AD B 0
+34 30 170 P
+A
+19 4
+#15033
+dark gold coronet~
+a dark coronet~
+A glowing coronet of dark gold has fallen to the ground.
+The dark coronet was worn by the infamous Imbolg, of ancient times.  It
+has never been recovered, since Imbolg disappeared after the battle of
+TrystenVeldt.~
+gold~
+armor ACFIJ AE
+AD AD AD B 0
+34 20 170 P
+A
+18 4
+#15034
+dolorous spear~
+a dolorous spear~
+A wicked-looking spear, long and sharp of point, lies discarded upon the ground.~
+wood~
+weapon ACFJ ANO
+dagger 9 7 charge B
+34 20 170 P
+A
+17 -6
+A
+19 2
+#15035
+fox tail~
+a fox tail~
+A white tipped foxtail lies upon the ground.~
+fur~
+clothing Q AL
+0 0 0 0 0
+5 0 50 P
+A
+17 -2
+#15036
+brimmed hat~
+a wide-brimmed hat~
+A wide-brimmed hat has fallen to the ground.~
+cotton~
+clothing 0 AE
+0 0 0 0 0
+12 1 100 P
+A
+14 10
+A
+24 -3
+#15037
+Shepherd's rod~
+a shepherd's rod~
+A long, straight pole lies discarded on the ground.~
+wood~
+weapon 0 ANO
+whip 4 6 slice 0
+12 5 60 P
+A
+19 2
+#15038
+panpipes panpipe pipe pan~
+panpipes~
+A small set of handcrafted hollowed wood panpipes have fallen here.~
+wood~
+wand 0 AO
+27 4 4 'reserved' 0
+11 0 55 P
+#15039
+chess board~
+a chessboard~
+An ordinary looking chessboard lies open.~
+wood~
+treasure R AO
+0 0 0 0 0
+12 0 120 P
+A
+17 -6
+#15040
+bowl of fruit~
+a bowl of fruit~
+A large bowl of delicious looking fruit is here.~
+fruit~
+food 0 A
+DFGHIJ 0 0 0 0
+1 0 2 P
+#15041
+an armoire~
+an armoire~
+A beautifully carved armoire stands in the corner of the room.~
+wood~
+container 0 0
+100 AC 0 0 0
+1 0 0 P
+#15042
+shoes~
+a pair of shoes~
+A pair of shoes are neatly placed here.~
+leather~
+clothing 0 AG
+0 0 0 0 0
+3 1 30 P
+A
+17 -2
+#15043
+a silver handled hairbrush~
+a silver-handled hairbrush~
+A silver-handled hairbrush, intricate in design, lies on the table.~
+silver~
+wand 0 AO
+29 4 4 'reserved' 0
+22 2 110 P
+#15044
+sewing needle~
+a sewing needle~
+A sewing needle, suited for needlepoint, lies here.~
+silver~
+wand 0 AO
+32 4 4 'reserved' 0
+18 0 90 P
+#15045
+card deck~
+a deck of playing cards~
+A deck of cards of fanciful design, look unused.~
+paper~
+scroll 0 A
+22 'reserved' 'reserved' 'reserved' 'reserved'
+11 0 500 P
+#15046
+nail file~
+a nail file~
+A small nail file, encrusted with diamond dust, sparkles in the light.~
+diamond~
+weapon R AO
+bow 5 5 stab 0
+13 0 75 P
+#15047
+a cook book~
+a cook book~
+A very heavy cookbook, filled with delicious recipes, lies open here.~
+hemp~
+wand 0 AO
+30 15 15 'reserved' 0
+15 5 75 P
+#15048
+wine decanter~
+a wine decanter~
+Shimmering red wine, in a crystal wine decanter, looks very tasty.~
+crystal~
+drink 0 A
+3 1 '(null)' 0 0
+9 3 27 P
+#15049
+A pool~
+a clear pool~
+The pool is small and crystal clear, fed by a bubbling forest stream.~
+water~
+fountain R 0
+-1 -1 'water' 0 0
+1 0 0 P
+#15050
+bed portal~
+a bed~
+There is a painted summer scene, of a happy family grouped under a tree, having a picnic.  From behind the tree however, a grinning demon spies.~
+wood~
+portal R 0
+A 0 C ACFGHJLMN 0
+3 0 0 P
+#15051
+wrathful glaive~
+a wrathful glaive~
+A mithril glaive stands against the wall.~
+mithril~
+weapon FIK ANO
+whip 6 11 charge A
+34 20 170 P
+A
+2 1
+A
+1 1
+A
+17 -2
+#15052
+a tomb~
+a tomb~
+The tomb of Rhyggen Ydd stands at the centre of the cavern.~
+stone~
+container 0 0
+1000 ABCD 15053 0 0
+40 100 0 P
+#15053
+an icon~
+an icon~
+A strange icon, intricate and mystical in design glints in the dim light.~
+nothing~
+key 0 A
+0 0 0 0 0
+35 0 0 P
+#15054
+Ydd targe~
+the Targe of Ydd~
+An engraved shield of shiny mithril lies here.
+This shield was used by the famous Rhyggen Ydd during the battle of
+TrystenVeldt.  Rhyggen Ydd is said to have been buried with it and other
+precious artifacts, in a guarded tomb.~
+mithril~
+armor AGI AJ
+BD BD BD B 0
+35 10 175 P
+A
+13 50
+A
+4 1
+#15055
+helm of Rhyggen Ydd~
+the helm of Rhyggen Ydd~
+A mithril helm with a jeweled circlet glows on the ground.
+The Helm of Rhyggen Ydd was lost to this world long ago.  It is said to
+have been buried with the body of the great warrior Ydd, in a hidden,
+guarded tomb. 
+
+This helm was worn in battle by Rhyggen Ydd, the great hero of olden times.
+Rhyggen Ydd was buried with his helm and other precious artefacts in a secret tomb guarded, it is said, by holy warriors.~
+mithril~
+armor AGI AE
+AC AC AC A 0
+35 5 175 P
+A
+12 50
+A
+5 1
+#15056
+a stiletto~
+a stiletto~
+A wickedly thin stiletto has dropped to the ground.~
+silver~
+weapon 0 ANO
+bow 4 4 crunch 0
+8 1 40 P
+A
+18 1
+#15057
+reinforced short coat~
+a reinforced short coat~
+A short coat has been cleverly lined with thin interlinked chainmail.~
+leather~
+armor 0 AD
+A A A 0 0
+8 0 40 P
+#15058
+a pigskin bracer~
+a pigskin bracer~
+A bracer made of tough pigskin lies on the ground.~
+hide~
+armor 0 AM
+A A A 0 0
+8 1 40 P
+A
+19 1
+#15059
+a clansmen ring~
+a clansmen ring~
+A white gold ring with a strange insignia has an evil look to it.~
+gold~
+treasure C AB
+0 0 0 0 0
+8 0 80 P
+A
+17 -2
+#15060
+troopers chestplate~
+a trooper's chest plate~
+A polished chestplate lies on the ground.~
+steel~
+armor I AD
+D D ABC A 0
+27 12 135 P
+A
+5 1
+A
+1 1
+#15061
+a key on a ring~
+a key on a ring~
+A house key is linked to a large ring.~
+iron~
+key 0 A
+0 0 0 0 0
+27 0 0 P
+#15062
+a soldiers blade~
+a soldier's blade~
+A plain soldier's sword rests against the wall.~
+steel~
+weapon 0 ANO
+sword 7 7 slice D
+27 0 135 P
+A
+1 1
+A
+18 1
+#15063
+chainmail leggings~
+chainmail leggings~
+Good quality, soldier's leggings lie in a clump on the ground.~
+steel~
+armor GI AF
+C C C A 0
+27 4 135 P
+A
+5 1
+#15064
+a tattered hat~
+a tattered hat~
+A tattered hat has been trampled on the ground.~
+cotton~
+armor 0 AE
+A A A 0 0
+8 0 40 P
+A
+24 -2
+#15065
+hoop earring~
+a gold hoop earring~
+An earring hoop has fallen.~
+gold~
+treasure 0 AQ
+0 0 0 0 0
+8 0 80 P
+A
+12 3
+#15066
+a gypsy shawl~
+a gypsy shawl~
+A gloriously coloured shawl seems to have been discarded.~
+silk~
+clothing B AL
+0 0 0 0 0
+8 0 100 P
+A
+24 -2
+#15067
+a bench~
+a bench~
+The bench has a high back, and elaborately carved armrests.  Examining it more closely, you notice the seat appears to have a hinge.~
+wood~
+container R 0
+400 AC 0 0 0
+1 100 0 P
+#15068
+umbrella~
+a gentleman's umbrella~
+A fine-looking black umbrella is here.~
+cotton~
+staff A AN
+40 5 5 'reserved' 0
+30 10 150 P
+#15069
+ball of wool~
+a ball of wool~
+A tangled ball of wool has fallen from a basket.~
+wool~
+trash 0 0
+0 0 0 0 0
+1 0 1 P
+#15070
+a muddy potion~
+a muddy potion~
+A muddy brown potion is here.~
+glass~
+potion A A
+35 'reserved' 'reserved' 'reserved' 'reserved'
+30 0 900 P
+#15071
+an apothecary's cabinet~
+an apothecary's cabinet~
+An apothecary's cabinet is full of glimmering and glowing potions.~
+wood~
+container R 0
+1000 ACD 15074 0 0
+0 0 0 P
+#15072
+a ruby red potion~
+a ruby red potion~
+A ruby red potion glows on the shelf.~
+glass~
+potion 0 A
+40 'reserved' 'reserved' 'reserved' 'reserved'
+30 0 900 P
+#15073
+a clear shimmering potion~
+a clear shimmering potion~
+A shimmering potion is here.~
+glass~
+potion 0 A
+40 'reserved' 'reserved' 'reserved' 'reserved'
+20 0 600 P
+#15074
+a small brass key~
+a small brass key~
+A small key has fallen to the ground.~
+brass~
+key 0 A
+0 0 0 0 0
+30 0 0 P
+#15075
+an oaken desk~
+an oak desk~
+A massive oaken desk is loaded with papers and manuscripts.~
+wood~
+container R 0
+1000 ACD 0 0 0
+1 0 0 P
+#15076
+a scrolled manuscript~
+a manuscript~
+A scrolled manuscript lies here.~
+hemp~
+scroll 0 AO
+40 'reserved' 'reserved' 'reserved' 'reserved'
+30 0 2250 P
+#15077
+a pot~
+a pot~
+A well-scrubbed heavy iron pot is here.~
+iron~
+weapon 0 AN
+staff 3 5 claw 0
+30 6 150 P
+#15078
+A bookcase~
+bookcase~
+The bookcase is of simple yet sturdy construction.~
+wood~
+container R 0
+1000 ABCD 15080 0 0
+0 0 0 P
+#15079
+a pile of coins~
+a pile of gold coins~
+A pile of gold coins lie here.~
+gold~
+money 0 A
+DFGHIJ 0 0 0 0
+0 0 0 P
+#15080
+shoehorn~
+a shoehorn~
+A silver-tipped shoehorn lies here.~
+silver~
+key 0 AO
+0 0 0 0 0
+30 0 0 P
+A
+2 2
+#15081
+crystal sphere~
+a crystal sphere~
+A crystal sphere glows and shimmers.~
+crystal~
+light AR AOR
+0 0 DGH 0 0
+30 2 200 P
+A
+12 50
+#15082
+a pendant~
+a shiny pendant~
+A tiny key-shaped pendant hangs from a shiny silver chain.~
+silver~
+key R AC
+0 0 0 0 0
+12 0 0 P
+#15083
+rat tail whip~
+a rat tail~
+A sharp scaled rat tail lies here.~
+hide~
+weapon EQ ANO
+flail 2 10 jab 0
+9 0 45 P
+A
+18 1
+#15084
+pitcher~
+a pitcher~
+An old cracked pitcher is here.~
+glass~
+drink R A
+12 12 'water' 0 0
+1 0 3 P
+#15085
+a small flail~
+a small flail~
+A sturdy, compact flail lies here on the ground.~
+iron~
+weapon K ANO
+axe 7 7 blast 0
+26 5 130 P
+#15086
+a myconid cowl~
+a dusty cowl~
+A dusty myconid cowl lies here~
+cotton~
+armor 0 ADEV
+AC AC AC A 0
+30 2 150 P
+A
+13 10
+A
+17 -3
+A
+12 40
+#15087
+myconid spores~
+a cloud of spores~
+A dusty cloud of myconid spores float about you.~
+nothing~
+protect 0 AR
+0 0 0 0 0
+30 0 300 P
+A
+24 -3
+A
+12 40
+#15088
+a woodsman axe~
+a woodsman's axe~
+A sturdy woodsman axe lies here.~
+iron~
+weapon 0 ANO
+mace 4 8 lunge F
+16 5 80 P
+#15089
+Berries~
+berries~
+Delicious red berries grow here.~
+berries~
+pill R A
+7 'reserved' 'reserved' 'reserved' 'reserved'
+4 0 120 P
+#15090
+A pile of gold~
+a pile of gold~
+A pile of gold coins is here.~
+gold~
+money 0 A
+EIJKN 0 0 0 0
+1 0 0 P
+#15091
+a night cap~
+a night cap~
+A crumpled pile of cotton lies here.~
+cotton~
+clothing 0 AE
+0 0 0 0 0
+30 0 75 P
+A
+12 80
+#15092
+a night shirt~
+a night shirt~
+A crumpled pile of cotton lies here.~
+cotton~
+clothing 0 AD
+0 0 0 0 0
+30 0 75 P
+#15093
+a rocking horse~
+a rocking horse~
+A child's wooden rocking horse looks forlorn without a rider.~
+wood~
+furniture R 0
+0 0 0 0 0
+3 0 0 P
+#15094
+grey silk gown~
+a grey silk gown~
+Some clothing lies crumpled on the floor~
+silk~
+clothing 0 AD
+0 0 0 0 0
+24 0 300 P
+A
+12 50
+#15095
+a fine quill pen~
+a fine quill pen~
+A fine-looking, sharp, quill pen lies here.~
+feathers~
+weapon R AN
+bow 9 5 stab 0
+24 0 120 P
+A
+19 2
+A
+18 1
+#15096
+a dusty tome~
+a dusty tome~
+A dusty tome is here.~
+hemp~
+scroll 0 A
+35 'reserved' 'reserved' 'reserved' 'reserved'
+24 0 0 P
+#15097
+a silver pendant~
+a silver pendant~
+A silver pendant is here.~
+silver~
+treasure 0 AC
+0 0 0 0 0
+24 0 240 P
+A
+24 2
+A
+5 1
+A
+3 1
+#15098
+a set of china~
+a set of china~
+A set of bone china is here.~
+bone~
+treasure R A
+0 0 0 0 0
+10 10 100 P
+#15099
+a tarnished key~
+a tarnished key~
+An old tarnished key is here.~
+copper~
+key G AO
+0 0 0 0 0
+35 0 0 P
+#15100
+archaic chainmail~
+archaic chainmail~
+A pile of glowing armour lies on the ground.
+The archaic chainmail of Rhyggen Ydd was buried with his corpse in a
+hidden tomb, fabled to be guarded by an enchanted warrior.~
+gold~
+armor AFI ADF
+AC AC AC A 0
+33 0 165 P
+A
+1 2
+A
+12 20
+#15101
+a silver-tipped key~
+a silver-tipped key~
+A silver-tipped key lies here.~
+silver~
+key 0 AO
+0 0 0 0 0
+30 0 0 P
+#15102
+a white apron~
+a white apron~
+A clean white apron lies folded on the ground.~
+cotton~
+armor L AL
+AB AB AB A 0
+20 0 100 P
+A
+2 1
+#15103
+a dusty mace~
+a dusty mace~
+A dusty flail lies on the ground.~
+steel~
+weapon 0 AN
+staff 7 8 peck 0
+29 3 145 P
+#15104
+a dusty catela~
+a dusty catela~
+A catela lies in the dust.~
+steel~
+weapon 0 AN
+dagger 7 8 crunch 0
+29 10 145 P
+#15105
+a pile of gold coins~
+a pile of gold coins~
+A pile of coins lie here~
+gold~
+money 0 A
+CDEGHIK 0 0 0 0
+0 0 0 P
+#15106
+Catela Ydd~
+catela Ydd~
+Ydd's catela is here.
+Catela Ydd was the spear used by Rhyggen Ydd in the battle of
+TrystenVeldt.  It is said to be buried with Rhyggen Ydd in his hidden tomb. ~
+steel~
+weapon AKT ANO
+dagger 5 14 crunch A
+35 5 175 P
+A
+13 30
+#15107
+traptomb~
+traptomb~
+A trapped tomb is here.
+The tomb begins to open, but suddenly, arcs of lightning shoot out from
+within! ~
+nothing~
+warp_stone R 0
+HI E ADFG A 0
+35 0 0 P
+#15108
+standing stone~
+a standing stone~
+A pair of standing stones have fallen towards each other, forming the shape of a doorway.~
+stone~
+portal R 0
+A 0 E 0 ACIJLMN
+30 0 0 P
+#15109
+A broken spear~
+a broken spear~
+A broken spear, with a rusted point, lies upon the ground.~
+wood~
+weapon 0 AN
+dagger 3 5 stab 0
+7 0 3 P
+#15110
+sealed envelope~
+a sealed envelope~
+A sealed envelope is here.~
+paper~
+scroll 0 A
+30 'reserved' 'reserved' 'reserved' 'reserved'
+15 0 0 P
+#15111
+elven blade~
+an elven blade~
+This long blade has been engraved with elven runes.~
+mithril~
+weapon G AN
+sword 9 14 slice D
+65 4 325 P
+#15112
+umbrella lace silk parasol~
+a lace and silk parasol~
+This umbrella-like item is more fanciful than useful.~
+cotton~
+weapon 0 0
+exotic 4 5 bite 0
+10 0 300 P
+#15113
+fur lined cape leather~
+a fur lined leather cape~
+This leather cape is lined with luxurious rabbit fur.~
+leather~
+armor 0 Aa
+A A A 0 0
+11 0 0 P
+#15114
+a marble bath~
+a marble bath~
+This marble bath is the epitomy of luxury, being as large and nearly as deep as a swimming pool.~
+marble~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#15115
+black oak cabinet~
+a black oak cabinet~
+This oak cabinet is as black as night.~
+wood~
+container R 0
+200 AC 0 0 0
+0 0 0 P
+#15116
+hexagonal bed~
+a hexagonal bed~
+This hexagonal bed holds up a trellis full of flowers.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#15117
+hexagonal key~
+a hexagonal key~
+This key has a hexagon for the handle~
+silver~
+key 0 AM
+0 0 0 0 0
+0 0 0 P
+#15118
+bubbling fountain~
+a bubbling fountain~
+A masterly crafted bubbling fountain has been placed in the centre of this room.~
+stone~
+fountain R 0
+20 20 'water' 0 0
+0 0 0 P
+#15119
+table chairs~
+a set of tables and chairs~
+A set of tables and chairs, enough for six people easily.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#15120
+leather tankard~
+a leather tankard~
+A large tankard made of leather has been discarded here.~
+leather~
+drink 0 AO
+2 2 'ale' 0 0
+0 3 5 P
+#15121
+hot steak sandwich~
+a hot steak sandwich~
+A massive hot steak sandwich has been left here, smelling delicious.~
+meat~
+food 0 AO
+CE 0 0 0 0
+0 1 5 P
+#15122
+pickled egg~
+a pickled egg~
+An egg which smells as if it has been pickled was dropped here.~
+eggs~
+food 0 AO
+AC 0 0 0 0
+0 0 1 P
+#0
+
+
+
+#ROOMS
+#15000
+The Victory Arch~
+A magnificent marble archway spans the roadway before you.  Upon each
+side, a grand scene of an epic battle is carved.  On the left, a great
+{gwarrior{x sits astride his mount, legs outstretched in the stirrups, and a
+{rbloodied{x spear in his hand ready to strike.  On the right, a {rknight{x
+in ancient glowing armor stands defensively over the fallen bodies of his
+comrades.  The roadway continues north and south.  There is a small alley to
+the west.  Adventurer's Lane begins to the east.  
+~
+0 16777216 1
+E
+warrior~
+The warrior sits triumphant upon a great warhorse.
+~
+E
+knight~
+The knight's stance is that of one cornered, desperately making a last stand.
+~
+D0
+The road leads northwards under the grand arch.
+~
+~
+~
+0 0 15001
+D1
+Adventurer's Lane is east.
+~
+~
+~
+0 0 3055
+D2
+~
+~
+~
+0 0 20081
+D3
+A small alleyway runs eastwards along the ruined wall.
+~
+~
+~
+0 0 20198
+M 0 H 0
+S
+#15001
+Under the arch~
+You stand, an insignificant figure, under the great and ancient
+monument.  No sound can be heard and no light can be seen from the shadows
+cast by the dark seamless {bwalls{x.  Bats eerily flit and scoop in the air
+about you, sending a sudden cool breeze across your face.  
+The road continues north and south.
+~
+0 16777225 1
+E
+walls~
+The walls of the monument are obsidium black, cold as night to the touch.
+~
+D0
+Looking north, you see a boulevard going in an east to west direction.
+~
+~
+~
+0 0 15002
+D2
+Looking south, you see Dockers' road, and the town of Discordia.  
+~
+~
+~
+0 0 15000
+M 0 H 0
+S
+#15002
+Boulevard of the Arch~
+Before you to the south, stands a colossal {cmonument{x rising high above the
+horizon.  The boulevard, which is wide and evenly paved, is busy with the
+traffic of travellers and local residents.  Your senses are overwhelmed with
+the life and activity of this prosperous neighbourhood.  To the north you
+see a light forest and a path leading into it.  The boulevard continues to
+the east and west.  
+~
+0 4 1
+E
+forest~
+Near its boundaries, the forest is light with new growth, but in the distance, the branches of ancient trees rise into the sky.
+~
+E
+monument~
+The monument is a grand archway, spanning the road to the south.
+~
+D0
+There is a trail leading into a forest to the north.
+~
+~
+~
+0 0 15011
+D1
+A boulevard runs east.
+~
+~
+~
+0 0 15029
+D2
+A huge monument stands over the roadway to the south.
+~
+~
+~
+0 0 15001
+D3
+A boulevard runs west.
+~
+~
+~
+0 0 15003
+M 0 H 0
+S
+#15003
+Along the boulevard~
+Ornamental trees line the Boulevard of the Arch in an orderly fashion, each 
+of them can be identified as oak and seem to be hundreds of years old.  Rows 
+of town houses can be seen to both the north and south, though in the former 
+direction the evidence of a thick forest can be detected via more ancient 
+trees.  The homes seem to be of a similar design denoting that the same 
+architect designed them, all of which hold their own rustic charm.  The 
+homes to the south are built against an ancient stone wall, the immediate 
+one bearing a brightly painted doorway.  
+~
+0 0 1
+D0
+~
+~
+~
+1 0 15108
+D1
+The boulevard continues east.
+~
+~
+~
+0 0 15002
+D2
+There is a neat little townhouse to the south.
+~
+doorway~
+~
+1 0 15030
+D3
+~
+~
+~
+0 0 15004
+M 0 H 0
+S
+#15004
+TrystenVeldt Avenue~
+TrystenVeldt Avenue begins here.  You stand before a well built, two
+storey dwelling of stucco and stone.  The wood trimmed shuttered windows are
+brightly painted {gforest green{x.  To the south, beyond the tree-lined
+boulevard, you see the remnants of an ancient wall.  The boulevard turns to
+the north and east.  You see an entrance to the west.  
+~
+0 0 1
+E
+south~
+Looking south, you see an alleyway, filled with rubble from the remnants of an ancient wall. 
+~
+D0
+A wide road heads north from here.
+~
+~
+~
+0 0 15007
+D1
+The boulevard heads east from here.
+~
+~
+~
+0 0 15003
+D2
+~
+~
+~
+0 0 15089
+D3
+There is a townhouse to the west.
+~
+doorway~
+~
+1 0 15005
+M 0 H 0
+S
+#15005
+A cosy living room~
+The interior is a multifunctional room, consisting of salon, dining room
+and kitchen.  A huge {rfireplace{x is built into the south wall, which is
+clearly of ancient construction.  A large cauldron hangs from the well-swept
+hearth which is lined with copper cooking tools.  A heavy wooden table
+stands near the back of the room, around which are set 4 handsomely carved
+chairs with cane seats.  Stairs lead up along the north wall.  
+~
+0 8 0
+E
+wall~
+The bottom half of the south wall appears to be much older in construction than the house built around it.
+~
+E
+south~
+The bottom half of the south wall appears to be much older in construction than the house built around it.
+~
+E
+tool~
+The cooking tools, which are mounted over the hearth, are made of copper with wooden handles.
+~
+E
+table~
+The table is set for a meal.
+~
+E
+couldron~
+The couldron is empty.
+~
+E
+fire~
+A warm and crackling fire burns brightly in the fireplace.
+~
+D1
+~
+doorway~
+~
+1 0 15004
+D4
+~
+~
+~
+0 0 15006
+M 0 H 0
+S
+#15006
+A coved loft~
+The second storey of this home is a coved loft.  The ceiling is high in
+the center of the room and curves towards the gabled windows.  The walls are
+white washed stucco and the thick planks of the hardwood floors glisten from
+beeswax polish.  The master's bed stands against the east wall, comfortably
+set between the wood-framed windows.  A child's cot occupies the west wall.
+~
+0 8 0
+E
+window~
+The windows are wide and shuttered.
+~
+D5
+~
+~
+~
+0 0 15005
+M 0 H 0
+S
+#15007
+TrystenVeldt Avenue~
+The cobblestone avenue is wide and straight, which is fortunate, given
+the amount of traffic you see along its length.  To the {ceast{x is a thick,
+verdant forest, and to the west, a two storey townhouse.  The avenue
+continues north and south.  There is an entranceway to the west.  
+~
+0 0 1
+E
+east~
+A forest lies to the east.
+~
+D0
+There is an intersection in the road ahead.
+~
+~
+~
+0 0 15024
+D2
+TrystenVeldt Avenue continues south from here.
+~
+~
+~
+0 0 15004
+D3
+There is a home to the west.
+~
+doorway~
+~
+1 15061 15008
+M 0 H 0
+S
+#15008
+A cosy living room~
+A fire is blazing away in the {rfireplace{x, and the delicious aroma of beef
+stew is wafting from the cauldron hanging to the side.  A pair of sofas
+and a small {gtable{x are well placed to catch some of the heat of the hearth. 
+The stairwell leading to the second storey is on the north side of the room.
+The way out is east.  
+~
+0 8 0
+E
+fireplace~
+Over the fireplace, you see a jewel encrusted sabre on a bronze mount.
+~
+E
+table~
+A chess game is in progress.
+~
+D1
+~
+doorway~
+~
+1 0 15007
+D4
+~
+~
+~
+0 0 15009
+M 0 H 0
+S
+#15009
+The master bedroom~
+An aged, enclosed {c{cbed{x{x stands on the north wall of the room.  The facing
+wall of the bed has a set of doors upon which is carved a summer scene.  You
+imagine that the remaining three walls of the bed are similarly engraved
+with spring, winter and fall.  You are drawn to the bed, it's strange
+looking door and what lies within.  
+~
+0 8 0
+E
+bed~
+The summer scene shows a merry family group, picnicking in a sunny grove.
+The face of the sun smiles lovingly at them, while a snarling horned demon watches them from behind a tree.
+~
+D0
+~
+bed~
+~
+1 0 15010
+D5
+~
+~
+~
+0 0 15008
+M 0 H 0
+S
+#15010
+Inside the bed~
+As you climb inside the bed, you sink into a goose-down filled mattress. 
+Underneath, pressed into the mattress, are the body prints of generations of
+occupants of the bed, pressure points from their heels, their backsides and
+their heads.  You wonder if you can sleep comfortably, without nightmares,
+in such a bed.  
+~
+0 1 0
+E
+mattress~
+Two large pillows lie at the head of the bed.  A douvet is tucked into the bed corners.
+~
+D2
+~
+bed~
+~
+1 0 15009
+M 0 H 0
+S
+#15011
+TrystenVeldt Forest~
+The overgrown path upon which you stand was once a broad roadway, perhaps
+a main thoroughfare leading directly to the victory arch to the south. 
+However, the old roadway narrows to nothing more than a pebbly path a few
+hundred feet to the north.  Young forest growth flanks the boulevard and the
+path, while further into the forest, branches of ancient gnarly trees reach
+longingly into the sky.  The path continues north and south.  
+~
+0 16777220 3
+D0
+A trail through the forest continues to the north.
+~
+~
+~
+0 0 15012
+D2
+The Boulevard of the Arch is south.
+~
+~
+~
+0 0 15002
+M 0 H 0
+S
+#15012
+A forest trail~
+The trail is flanked on both sides by youngish trees and low, straggling
+growth.  Fragrant {mwildflowers{x have found sufficient breaks in the shade
+to take root and blossom.  The birds and insects seem to be battling for
+noise supremacy, while small animals scurry underfoot.  A narrow trail
+disappears into the young trees to the east, while the path itself continues
+to the west and south.  
+~
+0 0 3
+E
+corpse cross wooden~
+The dead corpse of a female drow can be seen stretched out on this cross.
+It has been pinned to the wooden structure by her own daggers, thrust
+directly through the shoulders.  
+ 
+A warning beneath the corpse reads:
+"Any who dare to attack this City be warned. We will not give in. We will
+not lay down and die. We will fight, and we will WIN."
+~
+E
+animal~
+A pair of forest rodents chase one another haphazardly across a fallen log and chitter past you.
+~
+E
+wildflower~
+Clusters of wildflowers crowd together in the scattered sunlight.
+~
+D0
+There is a small clearing to the north.
+~
+~
+~
+0 0 15075
+D1
+~
+~
+~
+0 0 8501
+D2
+The forest trail heads south towards a road.
+~
+~
+~
+0 0 15011
+D3
+Looking west, you see trees and undergrowth.
+~
+~
+~
+0 0 15013
+M 0 H 0
+S
+#15013
+A darkening path~
+The forest edges towards the path, and you begin to feel the shadows
+enclose about you.  The wildlife is suddenly muted, and you become conscious
+of a strange, distant whirring noise that seems to be coming from all
+directions.  The path continues north and east.  
+~
+0 0 3
+D0
+There is a pond in a clearing to the north.
+~
+~
+~
+0 0 15014
+D1
+The trail continues to wind through the forest to the east.  
+~
+~
+~
+0 0 15012
+M 0 H 0
+S
+#15014
+A reflective pool~
+The path gradually opens upon a cold reflective {bpool{x.  A recently fallen
+log looks like a comfortable chair to the weary traveller.  Within the deep
+clear waters of the pool, you watch small {cfish{x quietly seek nourishment. 
+Multicoloured {mpebbles{x appear to bob and float, beckoning you to reach down
+and pick them up.  
+~
+0 0 3
+E
+envelope~
+The envelope and message are muddy and illegible.
+~
+E
+pebble~
+The pebbles are mottled with colours and appear to bob and move around the bottom.
+~
+E
+fish~
+A school of minnows dart to the left and right, just below the surface.
+~
+D0
+Northwards, you see an open meadow.
+~
+~
+~
+0 0 15015
+D2
+The forest trail winds its way through the forest.
+~
+~
+~
+0 0 15013
+M 0 H 0
+S
+#15015
+An open meadow~
+A wide open meadow is flanked on all sides by the forest.  Your entry has
+startled a {ydoe{x which, looking up, bounds away before you have a chance to
+exchange even a glance.  The grass is high and fragrant here, and the
+path continues through to the east, courtesy of the larger animals.  
+~
+0 0 3
+E
+doe~
+Too late! She's already bolted.
+~
+D1
+There is an ancient stone ring to your east.
+~
+~
+~
+0 0 15017
+D2
+A trail in the forest, and a pool of water are south.
+~
+~
+~
+0 0 15014
+D3
+A deer trail is west.
+~
+~
+~
+0 0 15016
+M 0 H 0
+S
+#15016
+A brambly trail~
+The deer trail is bounded on each side by wild berry bushes and brambles.
+The sky peaks through the tree branches above and you feel a light breeze on
+your brow.  
+~
+0 0 3
+E
+bramble~
+Brambles have overgrown the path, blocking your progress.
+~
+D1
+There is an open meadow to the east.
+~
+~
+~
+0 0 15015
+D3
+~
+~
+~
+0 0 920
+M 0 H 0
+S
+#15017
+A stone ring~
+Ancient standing {ystones{x rise out of the meadow, looking ominous and
+forsaken.  The stones are large and unnaturally regular in shape, some
+standing straight and high, and others lying on their sides as if knocked
+over by some powerful force.  
+~
+0 0 3
+D0
+There is an ancient ruined battlement to the north.
+~
+~
+~
+0 0 15018
+D3
+Looking west, you see a clearing.
+~
+~
+~
+0 0 15015
+M 0 H 0
+S
+#15018
+A ruined battlement~
+These walls have only barely stood the test of time.  They appear to be
+the remnant of a battlement, constructed perhaps 500 years ago.  In some
+places they are whole, others broken and falling down.  The battlement forms
+a boundary against which the path diverges.  
+~
+0 0 3
+D0
+There is a break in the battlement wall to the north.
+~
+~
+~
+0 0 15019
+D1
+~
+~
+~
+0 0 15020
+D2
+An ancient stone ring stands in a meadow to the south.
+~
+~
+~
+0 0 15017
+D3
+A trail runs along the south side of the ruined wall. ~
+~
+~
+0 0 15021
+M 0 H 0
+S
+#15019
+Across the battlement~
+A break in the battlement wall has allowed your entry into the clearing
+beyond.  Little seems to grow in this spot, and an eerie feeling creeps over
+you, one of dread and death.  Horrible images flood past your eyes, of
+howling grim-faced creatures wielding exotic weapons of unknown power.  Your
+skin crawls as you experience this strange illusion of death and
+destruction.  
+~
+0 0 3
+D0
+Looking north, you see a large, rocky mound.
+~
+~
+~
+0 0 15022
+D2
+There is a passage through the ruined battlement, towards an open meadow.  
+~
+~
+~
+0 0 15018
+M 0 H 0
+S
+#15020
+Along the ruined battlement~
+The path runs along the battlement, bounded on the north by the ancient
+rock wall and on the south by forest growth.  Forest creatures skitter about
+in the underbrush of the forest, and along the battlements.  There is a
+sense of quiet watchfulness surrounding you.  
+~
+0 0 3
+D3
+The path continues west.
+~
+~
+~
+0 0 15018
+M 0 H 0
+S
+#15021
+Along the ruined battlement~
+You follow the broken path along the ruined battlement.  Stones have
+fallen onto the trail, and you must take care not to trip and fall.  
+~
+0 0 3
+D1
+Looking east, you see the path open upon a meadow and the ruined battlement.
+~
+~
+~
+0 0 15018
+D3
+The path runs along the south side of the ruined battlement.
+~
+~
+~
+0 0 15023
+M 0 H 0
+S
+#15022
+A rocky mound~
+You stand upon a weathered mound, rising gradually to a height above the
+battlement.  The ground is littered with rocks and boulders, half buried in
+the barren mound.  From this vantage point, you can see southwards, beyond
+the battlement walls, a meadow, and a strange stone standing ring.  
+~
+0 0 3
+D2
+Beyond the battlement, you see a stone ring within a clearing in the
+forest.  
+~
+~
+~
+0 0 15019
+D5
+There is a large loose stone at your feet.
+~
+hole~
+~
+1 0 15085
+M 0 H 0
+S
+#15023
+Along the battlement~
+The path along the battlement is blocked by fallen trees and piles of
+rocky rubble.  There appears to be no option but to turn back.  The air is
+thick with the smells of the forest.  There is a watchful feeling about the
+place.  
+~
+0 0 3
+D1
+The path runs along the south side of the ruined battlement.
+~
+~
+~
+0 0 15021
+M 0 H 0
+S
+#15024
+An intersection~
+A narrow lane meanders from the west and ends at this intersection. 
+Thick {gforest{x growth to the east appears to forbid encroachment of
+civilization beyond its mangled borders.  Traffic along the boulevard is
+quite heavy to the south, but appears to thin out to the north.  
+~
+0 0 1
+E
+forest~
+The forest is thick with undergrowth, and darkly shadowed.
+~
+D0
+The road narrows to the north.
+~
+~
+~
+0 0 15026
+D2
+TrystenVeldt Avenue continues to the south.
+~
+~
+~
+0 0 15007
+D3
+A narrow lane heads west from here.
+~
+~
+~
+0 0 15025
+M 0 H 0
+S
+#15025
+Brek'Sol Lane~
+Brek'Sol Lane is narrow but well constructed with smooth, even
+cobblestones and bordered on each side by orderly softwood trees.  A
+grandiose residence, of recent construction is prominent to the north.  To
+the south, in an attractive garden setting, you see a modest home.
+~
+0 16777216 1
+D0
+A large home with an elaborate entrance is north.
+~
+~
+~
+0 0 15039
+D1
+There is an intersection to the east.
+~
+~
+~
+0 0 15024
+D2
+A home of moderate size is south.
+~
+doorway~
+~
+1 0 15031
+D3
+Brek'Sol Lane continues westward.
+~
+~
+~
+0 0 15072
+M 0 H 0
+S
+#15026
+A country road~
+Although unpaved, the road is smooth and wide, and leads into a broad
+thoroughfare to the south.  An old growth forest looms to the east, and to
+the west, you see a shaded, narrow laneway.  There is a sense of watchful
+waiting about you.  
+~
+0 4 1
+D0
+~
+~
+~
+0 0 15068
+D2
+~
+~
+~
+0 0 15024
+D3
+The lane to the west looks decidedly enclosed and rather dodgy.
+
+~
+~
+~
+0 0 15069
+M 0 H 0
+S
+#15027
+The second floor~
+A double and two single beds occupy the second story of the home.  An old
+oak washstand occupies a space between the smaller beds.  Beside the double
+bed, you see a small {mvanity{x table.  
+~
+0 8 0
+E
+pitcher~
+The pitcher and bowl are plain and cracked.
+~
+E
+washstand~
+The washstand holds a pitcher and bowl.
+~
+E
+vanity~
+The vanity table is delicately constructed, with thin, curving legs and has a small hinged mirror.
+~
+E
+bed~
+The beds are currently unoccupied.
+~
+E
+mirror~
+After admiring yourself for a trifle too long, you notice something shiney hanging from the hinged mirror.
+~
+E
+shiney~
+The shiney object appears to be a pendant of some kind.
+~
+D5
+~
+~
+~
+0 0 15028
+M 0 H 0
+S
+#15028
+A Townhouse~
+The living area of the home is small but clean.  Hugging the west wall,
+you see a narrow set of stairs leading up to the second floor.  At the back
+of the room, you see a solidly built table and chairs.  The table top is
+thick and round, and is supported by a single pedestal stand.  There is a
+large sideboard next to the table.  It has a large drawer, upper and lower
+cupboards and a marble top on which food is cut and prepared.  
+The way out is north.
+~
+0 12 0
+E
+sideboard~
+The sideboard has a pair of lead glass cupboard drawers and a rather large drawer.
+~
+E
+table~
+The tabletop is thick and round and is supported by a single pedestal stand.
+There are a few crumbs on the table, but no food!
+~
+E
+stairs~
+The stairs are simple in construction, and lead through to the second floor.
+~
+D0
+~
+doorway~
+~
+1 0 15029
+D4
+~
+~
+~
+0 0 15027
+M 0 H 0
+S
+#15029
+Along the Boulevard~
+The Boulevard of the Arch is a pleasant, tree-lined road bounded on the 
+south and north by attractive residences.  Over the tops of the northern 
+homes, a light forest can be discerned.  This roadway bustles with activity, 
+as country peasants carry their sacks across bent backs and the gentlefolk 
+proudly strut about in their finery.  You see a doorway to the south and 
+north both flanked by curtained windows.  
+~
+0 0 1
+E
+residence~
+The homes along this street are attached to one another in groups of two's and threes.
+~
+E
+forest~
+To the northwest, you can just make out a clearing, and what looks like an entrance to the woodland.
+~
+D0
+~
+~
+~
+1 0 15095
+D1
+The boulevard continues east.
+~
+~
+~
+0 0 15032
+D2
+You see a townhouse to the south.
+~
+doorway~
+~
+1 0 15028
+D3
+The boulevard continues west.
+The boulevard continues west.
+~
+~
+~
+0 0 15002
+M 0 H 0
+S
+#15030
+A Townhouse~
+You have entered upon the main living area of the home.  By the window,
+which looks out upon the street, there is a wide leather armchair.  A fire
+is blazing away in the fireplace, which appears also to serve as the kitchen
+area of the home.  A steep ladder leads to the second story loft and there
+are doors to the north and to the west.  
+~
+0 8 0
+E
+ladder~
+The ladder is narrow, but sturdy.  It appears to be hooked to a bar at the top to prevent an accident.
+~
+E
+fire~
+The glowing embers in the fireplace cast a pleasant glow upon the room.
+~
+D0
+~
+doorway~
+~
+1 0 15003
+D3
+~
+~
+~
+1 0 15050
+D4
+~
+~
+~
+0 0 15049
+M 0 H 0
+S
+#15031
+A small foyer~
+The foyer opens to a central staircase.  The staircase, which has a
+wafflewood banister and painted posts, leads upwards to the second floor. 
+At the base of the stairs there is a circular carpet of woven silk.  A hall
+table stand is situated on the wall opposite the stairs and holds randomly
+dropped items left by the occupants of the home.  The sitting room is to the
+west, and the dining room and kitchen are to the east.  The door out to the
+street is north.  
+~
+0 8 0
+E
+carpet~
+The carpet is delicately woven in fine multicoloured silk that appears to change in colour and texture as you walk by it.
+~
+D0
+~
+doorway~
+~
+1 0 15025
+D1
+~
+~
+~
+0 0 15041
+D2
+~
+~
+~
+0 0 15046
+D3
+~
+~
+~
+0 0 15040
+D4
+~
+~
+~
+0 0 15042
+M 0 H 0
+S
+#15032
+Along the boulevard~
+Trees separate the wide lane that runs both east and west here, their 
+fruit-laden branches hanging low over the cobbled way.  Houses can be seen 
+on either side of the orderly path, standing tall and showing luxuries only 
+affordable by the middle and upper classes.  The trees become notably thick 
+behind the northern homestead, signifying the wilderness located behind it.  
+The road is busy with orderly traffic consisting of residents, merchants, 
+and travellers.  
+~
+0 0 1
+E
+entrance~
+The entranceway belongs to a an attached home, backing onto an ancient crumbling wall.
+~
+D0
+~
+~
+~
+4 15117 15101
+D1
+~
+~
+~
+0 0 15076
+D2
+A modest town house stands on the south side of the boulevard.  
+~
+doorway~
+~
+1 0 15033
+D3
+~
+~
+~
+0 0 15029
+M 0 H 0
+S
+#15033
+A brightly lit hallway~
+The hallway is lit by an oil lamp resting on a wide table next to the
+door.  The walls are hung with simple tapestries, most likely the handiwork
+of the housefrau and her daughters.  At the centre of the hallway, a
+staircase leads up to the second story and you notice rooms to the east and
+west.  The door out to the street is north.  
+~
+0 12 0
+E
+tapestries~
+The tapestries are rather amateurish in design and execution.
+~
+E
+lamp~
+The lamp brightens up the windowless hallway.
+~
+E
+table~
+The hall table holds an oil lamp of no special attraction.
+~
+D0
+~
+doorway~
+~
+1 0 15032
+D1
+~
+~
+~
+0 0 15035
+D3
+~
+~
+~
+0 0 15034
+D4
+~
+~
+~
+0 0 15036
+M 0 H 0
+S
+#15034
+The salon~
+This home is clearly dominated by a strong female hand.  Not a trace or
+speck of dust is visible anywhere.  The furnishings are finely crafted for
+such a modest home, and it's very possible the homeowner has gone into debt
+to please his wife and daughter's expensive tastes.  A settee upholstered in
+a flagrant floral pattern occupies one corner of the room.  Across from it,
+there is a small table-stand that holds a brass lamp and a marble paper
+weight.  A double-wide armchair, suitable for cosy snuggling stands on the
+other side.  There is a merry fire in the fireplace.  
+ 
+~
+0 8 0
+E
+settee~
+An upholstered sofa looks quite comfortable.
+~
+D1
+~
+~
+~
+0 0 15033
+M 0 H 0
+S
+#15035
+The kitchen~
+The kitchen is bright, clean and well swept.  The pedestal dining table
+is covered with a lace tablecloth and holds a fine bowl of fresh fruit.  The
+shelves are stocked with goods, and you can even catch a waft of freshly
+baking bread in the brick oven at the back of the room.  
+ 
+~
+0 8 0
+D3
+~
+~
+~
+0 0 15033
+M 0 H 0
+S
+#15036
+The upstairs hallway~
+The hallway is relatively narrow, and leads in each direction but south
+to a doorway.  The walls are whitewashed stucco, and decorated with
+colourful crewel hangings.  The stairs lead down to the main hallway.  
+~
+0 8 0
+E
+south~
+A round porthole window lets light into the upstairs hallway.
+~
+E
+crewel~
+The crewel work is attractive and brightly coloured.  However, closer inspection reveals a few loose and unravelled ends.
+~
+D0
+~
+~
+~
+1 0 15048
+D1
+~
+~
+~
+1 0 15038
+D3
+~
+doorway~
+~
+1 0 15037
+D5
+~
+~
+~
+0 0 15033
+M 0 H 0
+S
+#15037
+The master bedroom~
+By it's size, it is clear that this is the master bedroom.  However, the
+decor is that of the lady of the house.  The overstuffed bed is covered with
+a bright, floral duvet, that seems to intentionally match cut flowers
+sitting in vases on each side of the bed.  The head and footboard of the bed
+are of a light coloured hardwood, polished and shining from beeswax and
+shoulder grease.  A large armoire occupies a corner of the room.  
+~
+0 8 0
+E
+bed~
+The bed actually looks too perfect to disturb.
+~
+D1
+~
+doorway~
+~
+1 0 15036
+M 0 H 0
+S
+#15038
+The study~
+This room appears to be the retreat of the much harried master of the
+house.  Stale pipe smoke permeates the air.  A bookcase, stocked with
+leather bound tomes almost entirely covers one wall.  You see a heavy
+writing desk, covered with bills and paperwork, against the opposite wall. 
+A small window allows daylight to stream into the room, and upon darkness, a
+candlestick stands ready to be lit.  
+~
+0 4194312 0
+E
+bookcase~
+The bookcase is of simple yet sturdy construction.  The books are leatherbound and neatly ordered on the shelves, in contrast to the total disorder of the writing desk.
+~
+D3
+~
+doorway~
+~
+1 0 15036
+M 0 H 0
+S
+#15039
+An elaborate entrance~
+The doorway is flanked on each side by pillars and two roaring lions. 
+The door knob, knocker and kick plate are made of polished brass.  By all
+appearances, the owners of this home have come into a great deal of wealth
+recently.  
+~
+0 4 1
+E
+lions~
+The lions are constructed from heavy cast iron.
+~
+E
+door~
+The thick wooden door is ornately carved, and trimmed with gold-flecked
+paint.  
+~
+D0
+You see the massive door to the home.
+~
+doorway~
+~
+2 15101 15047
+D2
+Brek'Sol Lane is south.
+~
+~
+~
+0 0 15025
+D3
+There is a small dirt path through the garden to the west.
+~
+~
+~
+0 0 15065
+M 0 H 0
+S
+#15040
+The sitting room~
+The room is spacious and bright.  A large bay window overlooks Brek Sol
+lane to the north.  The west wall has as focal point, a {rfireplace{x{x that is
+both decorative and functional.  Fired clay tile, brightly painted and
+glazed is laid across the front of the hearth, protecting the hardwood
+flooring of the room from the spray of sparks from the fire.  The
+{mmantelpiece{x is of waxed wafflewood, a rarity in this part of the world. 
+Hung above the mantelpiece, you observe a decorative {Ywood carving{x,
+apparently scavenged from an old piece of furniture, most likely.  You
+notice similar scavenged carvings hung about the room, and realize the owner
+must have an interest in ancient carvings.  A sofa, upholstered in
+tapestry-like fabric is placed across from the fireplace.  There is a small
+end table on each side of the sofa.  Two high backed chairs, separated by a
+small table, sit across from the sofa.  
+~
+0 8 0
+E
+end~
+The endtables are small and low.
+~
+E
+carving~
+The carving appears to be derived from the handpiece of an old wooden throne.  It is shaped like the head of a bird of prey.
+~
+E
+bird~
+The bird's eye appears to be a jewel.
+~
+E
+window~
+Looking out the window, the laneway appears peaceful and relatively traffic free.
+~
+E
+mantel~
+The mantelpiece is beautifully grained.
+~
+E
+head~
+The head of the bird has a beautiful jewel placed in it's eye.
+~
+D1
+~
+~
+~
+0 0 15031
+M 0 H 0
+S
+#15041
+Dining Room~
+A rectangular dining table occupies most of the room.  It is large,
+capable of seating at least 12, however only 6 chairs are set.  The
+centrepiece of the table is a large bowl of fresh fruit, apples, bananas and
+pears.  A matching sideboard occupies the south wall of the dining room. 
+The shelves are filled with pressed glass goblets and everyday china.  
+~
+0 8 0
+E
+sideboard~
+The sideboard contains everyday china, and pressed glass goblets.
+~
+D3
+~
+~
+~
+0 0 15031
+M 0 H 0
+S
+#15042
+The upstairs hallway~
+You stand in a wide hallway above the main floor.  An area rug with an
+exotic, foreign design, covers the wooden floor.  There are doors on the
+east, west and south walls.  A large oval window on the north wall allows
+light and fresh air into the house.  
+~
+0 8 0
+E
+rug~
+The intricately designed rug is beautifully handcrafted in multi-coloured
+silk.  
+~
+D1
+The entrance to the master bedroom is open.
+~
+~
+~
+0 0 15043
+D2
+There is a door to the south, into another room.
+~
+doorway~
+~
+1 0 15045
+D3
+The entrance to the study is open.
+~
+~
+~
+0 0 15044
+D5
+The ground level foyer is down.
+~
+~
+~
+0 0 15031
+M 0 H 0
+S
+#15043
+The master bedroom~
+The bedroom is a typical master suite, with an enormous bed, large
+armoire and luxurious bedding.  However, the furnishings are rather simple
+in design, meant to be comfortable than than to impress.  
+In addition to the bed, an armchair looks inviting to you.
+~
+0 8 0
+D3
+Beyond the open doorway, you see the upstairs hallway.
+~
+~
+~
+0 0 15042
+M 0 H 0
+S
+#15044
+The study~
+The study serves as an office as well as library for the household. 
+Books, records and manuscripts are held in the bookcase that stands against
+the west wall.  A functional looking desk and chair are situated to take
+advantage of the natural light provided by a south-facing dormer window.  
+~
+0 8 0
+E
+desk~
+The desk is somewhat cluttered with papers, and writing tools.  A fine looking quill pen is there.
+~
+E
+desk~
+The desk is large, but not too big for the considerable size of the room.  
+~
+D1
+~
+~
+~
+0 0 15042
+M 0 H 0
+S
+#15045
+The nursery~
+The nursery contains several small cots and a crib, all of which line the
+west wall of the room.  The governess's bed is in the northeast corner,
+along with an armoire, small desk and night table.  Opposite this, you see
+scholar's desks and a small blackboard, used for teaching the children their
+letters.  A few toys lie scattered on the floor.  
+~
+0 8 0
+E
+blackboard~
+The blackboard, which is attached firmly to the wall, has been wiped
+clean with a damp cloth.  
+~
+E
+crib~
+The crib is small, with a tiny down mattress and douvet.
+~
+D0
+The nursery door is there.
+~
+doorway~
+~
+1 0 15042
+M 0 H 0
+S
+#15046
+The kitchen~
+The scullery consists of a large, rough hewn table used for preparing
+meals, and also apparently used by the servants to eat at.  A hearth at the
+back of the scullery is large enough to walk into, and has a spit suitable
+for roasting pigs and even a small calf.  A cauldron, which is currently
+empty, hangs to the side.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 15031
+M 0 H 0
+S
+#15047
+A grand foyer~
+The ceiling is high and airy and the room is lit with a number of gold
+chandeliers.  The floor is expertly laid with clay tiles, and elaborately
+woven carpets are scattered across it.  Each wall is hung with beautiful
+tapestries containing strange mystical scenes.  An ornate, high-backed bench
+stands majestically against the entranceway wall.  The armrests are
+dramatically carved in the shape of reclining beasts with heads for
+handrests and tails entwined along the length of the back.  The foyer leads
+into a hallway to the north, and there are rooms to the east and west.  The
+door out is to the south.  
+~
+0 8 0
+E
+bench~
+~
+E
+tapestry~
+The tapestries contain scenes of mythical beasts tramping on verdant fields and through a forest trail.  In the distance, deep within the forest, a tower rises.
+~
+D0
+~
+~
+~
+0 0 15052
+D1
+~
+~
+~
+0 0 15053
+D2
+~
+doorway~
+~
+2 15101 15039
+D3
+~
+~
+~
+0 0 15054
+D4
+~
+~
+~
+0 0 15051
+M 0 H 0
+S
+#15048
+A second bedroom~
+This bedroom belongs to Rayna and Myria, the giddy daughters of Brigid.
+The decor is simple and elegant.  A white curtain billows gently in
+the breeze from an open window.  Twin beds, identical in design, are
+separated by an oak washstand.  The walls are paneled with wood, and painted
+village scenes decorate the walls between panels.  Twin vanities sit side by
+side in the room, each with its own set of brushes, combs and mirrors.  
+ 
+~
+0 8 0
+E
+vanities~
+There is a shiney strange looking object on one of the vanities.
+~
+E
+object~
+On close inspection, the object appears to be nothing more than a nail file.
+~
+D2
+~
+doorway~
+~
+1 0 15036
+M 0 H 0
+S
+#15049
+A child's loft~
+The room is small with a narrow, coved ceiling and whitewashed walls. 
+The furnishings are sparse and simple in design, and appear to be built for
+a child or halfling.  A fresh breeze blows lightly into the room from a
+single, shuttered window.  A plain washstand holds a child-sized pitcher and
+basin.  A feather mattress rests on a simple frame in one corner of the
+room.  
+~
+0 8 0
+E
+mattress~
+The mattress is too small to lie on.
+~
+E
+washstand~
+The washstand is low and wide, and holds a painted pitcher and basin.
+~
+E
+window~
+The shutters are slightly open, allowing a fresh breeze to enter the room.
+~
+E
+pitcher~
+The pitcher is old and cracked, as is the basin, but both appear to be servicable.
+~
+D5
+~
+~
+~
+0 0 15030
+M 0 H 0
+S
+#15050
+A bedroom~
+A large bed occupies a corner of the room.  The bed's frame is
+attractively curved at the head and foot, giving it the appearance of a
+sleigh.  In the opposite corner of the room, you see a glass-encased
+bookcase, filled on every shelf with leather bound books, manuscripts and
+scrolls.  An open book rests on a small lamp table, beside which you see an
+old leather armchair and ottoman.  There is a door to the east.  
+~
+0 8 0
+D1
+~
+doorway~
+~
+1 0 15030
+M 0 H 0
+S
+#15051
+Upstairs hallway~
+A grand staircase, wide enough for four abreast, leads up to the second
+floor.  The banister wraps around the hallway, and from this vantage, you
+can look down upon the foyer below.  There is a double door to the west, and
+a single door to the east.  The hallway continues north and south.  
+~
+0 8 0
+E
+down~
+Looking down, you can see the entire entrance foyer.
+~
+D0
+~
+~
+~
+0 0 15059
+D1
+~
+doorway~
+~
+1 0 15061
+D2
+~
+~
+~
+0 0 15062
+D3
+~
+double~
+~
+1 0 15060
+D5
+~
+~
+~
+0 0 15047
+M 0 H 0
+S
+#15052
+A brightly lit hallway~
+The hallway is wide, though far less wide than the foyer to the south. 
+It appears to lead to the servants' quarters.  A narrow servants' staircase
+leads upstairs.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 15047
+D3
+~
+~
+~
+0 0 15058
+D4
+~
+~
+~
+0 0 15059
+M 0 H 0
+S
+#15053
+The salon~
+The salon is long and broad in dimensions, and appears to be used for
+entertaining guests.  The main area of the room is clear of furnishings and
+rugs, and the scuff marks on the wooden floor indicate that a ball has been
+held here recently.  High-backed upholstered chairs line the walls, which
+are paneled and painted with delicate scenes of knight errantry.  A large
+musical instrument of beautiful construction and curious appearance stands
+at the near end of the room.  The dining area is to the north.  
+~
+0 8 0
+E
+music~
+The instrument stands on three legs and is constructed of gracefully curved wood.
+~
+E
+instrument~
+The instrument stands on three legs and is constructed of gracefully curved wood.
+~
+E
+panel~
+The panelled wall is beautifully decorated with painted scenes.
+~
+D0
+~
+~
+~
+0 0 15055
+D3
+~
+~
+~
+0 0 15047
+M 0 H 0
+S
+#15054
+The alchemist's study~
+This room appears to double as a library.  One wall is entirely covered
+with shelves filled with tomes of every size and description.  The books are
+not at all organized, and appear to be purposefully misplaced in their
+arrangements.  
+~
+0 8 0
+E
+shelf~
+The bookshelves are badly organized, with books lying open and books lying atop books in uneven and tottery stacks.
+~
+E
+book~
+The bookshelves are badly organized, with books lying open and books lying atop books in uneven and tottery stacks.
+~
+D1
+~
+~
+~
+0 0 15047
+M 0 H 0
+S
+#15055
+The dining hall~
+A huge dining table occupies the entire length of the room.  Counting
+chairs, you realize it seats at least 50 guests without crowding.  A huge
+centrepiece of dried flowers graces the middle of the table, and tapered
+candles in gold candlesticks are placed evenly along the length.  A swinging
+door opens to the kitchen to the north.  
+~
+0 8 0
+E
+centrepiece~
+The dried flowers are painted in grotesquely unatural colours.
+~
+E
+table~
+The table is long and wide enought for a quadrad of folkdancers to prance on without falling.
+~
+D0
+~
+swinging~
+~
+1 0 15056
+D2
+~
+~
+~
+0 0 15053
+M 0 H 0
+S
+#15056
+The kitchen~
+The scullery is spacious and spotless.  Jars, boxes and pots are neatly
+stored in rows on wooden shelves.  A huge barrel with a stoppered spigot
+sits on a stand at one end of the room, and stains from the joints indicate
+red wine rather than beer.  There is a door to the east leading to the
+pantry, and a swinging door opens to the dining area to the south.  
+~
+0 8 0
+D1
+~
+doorway~
+~
+1 0 15057
+D2
+~
+swinging~
+~
+1 0 15055
+M 0 H 0
+S
+#15057
+The pantry~
+The pantry is cool and fresh smelling.  The shelves are stocked with
+jars, boxes and foodstuffs of every description.  Crates on the floor
+contain apples, pears and other fruits for winter storage.  
+~
+0 0 0
+D3
+~
+doorway~
+~
+1 0 15056
+M 0 H 0
+S
+#15058
+The servants' quarters~
+This room is quite plain and lacking in warmth or decorative features of
+any kind.  A workbench in one corner of the room appears to be used for
+general repairs, candle making, filling lamps and the like.  Tools for the
+bench are hung neatly on nails on the wall.  Under the bench, you see
+baskets full of wool, presumably used by the staff for making wool string on
+the spinning wheel.  
+~
+0 8 0
+E
+baskets~
+The baskets are loaded with bleached wool, ready for spinning.
+~
+E
+tools~
+The tools are old and rusty.
+~
+E
+bench~
+The workbench is made of roughly cut wood and has many notches from years of use.
+~
+E
+work~
+The workbench is made of roughly cut wood and has many notches from years of use.
+~
+E
+bench~
+~
+E
+work~
+~
+D1
+~
+~
+~
+0 0 15052
+D5
+~
+hatch~
+~
+1 15099 15073
+M 0 H 0
+S
+#15059
+The back hallway~
+As you walk along the back hallway, the lighting dims and you must watch
+your step.  You come upon an alcove where servants sit, waiting to respond
+to the master's call.  Small portraits line the paneled walls but you fail
+to discern the painted faces other than as darkened shades and shadows.  A
+narrow stairwell leads down from the back hallway and to the south you can
+see the main upstairs hall.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 15084
+D2
+~
+~
+~
+0 0 15051
+D5
+~
+~
+~
+0 0 15052
+M 0 H 0
+S
+#15060
+The master suite~
+The master's bedroom is the largest room you have seen in this house.  A
+huge master bed, tallboy dresser, desk and chair are all crafted in solid
+oak.  The massive furnishings barely take a third of the floor space.  
+~
+0 8 0
+E
+dresser~
+The dresser is tall, much like an armoir.
+~
+D1
+The door to the master bedroom is here.
+~
+~
+~
+1 0 15051
+D3
+There is a window along the west wall of the room.
+~
+window~
+~
+1 0 15067
+M 0 H 0
+S
+#15061
+A lady's suite~
+The suite clearly belongs to the lady of the house.  The windows are wide
+and high, and covered with gently billowing floral drapes.  A canopied bed
+occupies the south facing wall and is covered with a thick and luxurious
+duvet.  A full sized mirror stands alone in one corner of the room, and a
+double wide armoire occupies the alternate corner.  
+~
+0 8 0
+E
+armoire~
+The armoire is basically a large wardrobe.  There is nothing interesting
+contained within.  
+~
+E
+mirror~
+You are not too surprised to see yourself grinning back at you.
+~
+E
+canop~
+The canopied bed has four posts and is beautifully set.
+~
+D3
+~
+doorway~
+~
+1 0 15051
+M 0 H 0
+S
+#15062
+The upstairs hallway~
+The corridor is broad and bright, and opens to the guest rooms at this end.
+The floor is of oaken planks and is polished with care.
+~
+0 8 0
+D0
+~
+~
+~
+0 0 15051
+D1
+~
+~
+~
+0 0 15064
+D3
+~
+~
+~
+0 0 15063
+M 0 H 0
+S
+#15063
+A guest room~
+The guest room is simple and elegant, with clean white linens and finely
+crafted furnishings.  There is a large fireplace at one end of the room.  
+~
+0 8 0
+E
+fireplace~
+A fire is burning in the fireplace, warming the room nicely.
+~
+D1
+~
+~
+~
+0 0 15062
+M 0 H 0
+S
+#15064
+A guest room~
+The guest room is simple and elegant.  The linens are clean and white,
+and the furnishings are finely crafted.  There is a writing desk and chair
+in one corner of the room, and a large fireplace is on the opposite wall.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 15062
+M 0 H 0
+S
+#15065
+A garden path~
+The path meanders through the garden, roughly following the wall of the
+mansion to the north.  Ornamental topiary trees, cleverly carved in animal
+shapes are surrounded by plantings of colourful domestic flowers.  
+~
+0 0 3
+D0
+Standing at the southwest corner of the mansion, and looking north, you
+can see at least one upper level window.  
+~
+~
+~
+0 0 15066
+D1
+An elaborate entranceway to the mansion is just east of here.
+~
+~
+~
+0 0 15039
+M 0 H 0
+S
+#15066
+A path~
+The garden path ends here, as a stone wall and a locked iron gate block
+further progress north.  The ornamental trees surround the path to the west
+and south.  
+~
+0 0 0
+D2
+You see the garden path running southwards along the west side of the
+house.  
+~
+~
+~
+0 0 15065
+D4
+You can see a window ledge above you.
+~
+~
+~
+0 0 15067
+M 0 H 0
+S
+#15067
+A window ledge~
+The window ledge overlooks the west garden of the home.  Below you, the
+garden path winds around the west wall of the house.  To the south, you can
+see beyond the locked gate at the back of the house.  There, you can see a
+number of well-tended herb gardens.  
+~
+0 0 9
+E
+window~
+Peering through the window, you can see a large bedroom with rich
+furnishings.  
+~
+D1
+Looking through the window, you can see what looks like a master bedroom.  
+~
+window~
+~
+1 15101 15060
+D5
+~
+~
+~
+0 0 15066
+M 0 H 0
+S
+#15068
+A country road~
+The wide country road continues uneventfully, north and southwards.  The
+traffic is thin, and passersby are few and far between.  Ancient moss
+encrusted trees stand forbiddingly to the east.  To the west, a valley, with
+prosperous farms and well-tilled fields can be seen, and in the distance, a
+river glistens brightly.  
+~
+0 0 1
+E
+west~
+There is a high wall of stone and mortar to the west, preventing progress in that direction.
+~
+D0
+~
+~
+~
+0 0 15071
+D2
+~
+~
+~
+0 0 15026
+M 0 H 0
+S
+#15069
+A narrow laneway~
+The laneway abruptly ends at a locked gate.  Beyond the gate to the west,
+you can see a mansion situated on a moderately sized estate.  The front of
+the mansion appears to face south.  
+~
+0 0 1
+E
+mansion~
+~
+E
+gate~
+The gate is securely locked and sharp spikes atop the gate deter any attempt to climb over.
+~
+D1
+~
+~
+~
+0 0 15026
+M 0 H 0
+S
+#15070
+A deep hole~
+You have climbed down into a dank and musty hole.  The walls are stone
+and mortar, similar to the battlement walls.  Spiders crawl across the
+ceiling of the hole, and your skin crawls as one drops in front of you. 
+Scattered across the floor are rusty shards of armour and weaponry.  
+~
+0 8 0
+E
+wall~
+The wall is crawling with insects.
+~
+D4
+~
+hole~
+~
+1 0 15088
+M 0 H 0
+S
+#15071
+A country road~
+The road follows a pleasantly meandering path.  To the west, in the
+distance, you can see the well-tended fields of the prosperous landsmen and
+their tenants.  To the east there spreads a thick and darksome forest.  The
+road continues north and south.  
+~
+0 0 0
+E
+north~
+Rising to the north, you can see the snow-tipped peaks of a mountain range.
+~
+E
+forest~
+The forest is dark and brooding.  Brambles run across the edge of the road, preventing you from entering here.
+~
+D0
+~
+~
+~
+0 0 16000
+D2
+~
+~
+~
+0 0 15068
+M 0 H 0
+S
+#15072
+Brek'Sol Lane~
+The lane upon which you travel is a narrow cobblestone road, flanked to the 
+north by a fallow meadowland over which ancient forests and further off 
+snowcapped mountains are visible.  To the south stands a tasteful marble 
+building which looks much like a temple behind a thin covering of trees that 
+seem to add to its mystique.  To the east, fine residences line the road and 
+directly west, a bridge crosses the West Discordia River.  
+~
+0 0 0
+E
+north~
+To the north are several walled homes, locked tight against uninvited entry.
+~
+E
+south~
+~
+D1
+Brek'Sol Lane continues east.
+~
+~
+~
+0 0 15025
+D2
+~
+~
+~
+1 0 15112
+D3
+There is a bridge to the west.
+~
+~
+~
+0 0 16075
+M 0 H 0
+S
+#15073
+basement landing~
+The basement is dank and dark with dirt floors and walls supported by
+rough-hewn logs.  You can barely make out an oaken doorway laid in the east
+wall.  
+~
+0 9 0
+D1
+~
+oaken~
+~
+1 15099 15074
+D4
+~
+~
+~
+1 0 15058
+M 0 H 0
+S
+#15074
+A laboratory~
+Upon entering, the stench of the room is almost overpowering.  The odour
+of miscellaneous herbs, animal entrails and chemicals of unknown origins
+assail your nostrils and burn your tonsils leaving a bitter aftertaste on
+the back of your tongue.  Solid work benches run along the walls and jut out
+forming islands of chemical mayhem.  Potions, vials and manuscripts are
+stored in disordered order in the cabinets above the benches and along the
+walls.  The only exit from the laboratory is to the west.  
+~
+0 9 0
+D3
+~
+oaken~
+~
+1 0 15073
+M 0 H 0
+S
+#15075
+A small clearing~
+You have wandered off the forest trail, into a small clearing.  The
+ground is soft and boggy with short mossy grass growing under your feet. 
+The forest looms about you, and the most accessible exit is the way you
+came.  A small path leads to the east, disappearing in the mist.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 15300
+D2
+~
+~
+~
+0 0 15012
+M 0 H 0
+S
+#15076
+Along the boulevard~
+The road broadens here to accommodate increasing traffic of farmers,
+merchants and peasants bringing their goods to market.  The rooftops of
+residential homes line the south side of the road and on the north side, a
+{gforest{x looms.  The swift East Discordia River flows under an old stone
+bridge just east of here.  
+~
+0 0 1
+E
+forest~
+The forest is ancient, and has a haunted look to it.
+~
+E
+south~
+The rooftops of the city are visible to the south.
+~
+D1
+A bridge crosses the East Discordia River here.
+~
+~
+~
+0 0 16077
+D3
+The boulevard continues west.
+A wide boulevard is west from the bridge.
+~
+~
+~
+0 0 15032
+M 0 H 0
+S
+#15077
+A strange tunnel~
+You are in a tunnel of carved sandstone blocks.  The ceiling is low, and
+the walls and floor are undecorated.  The tunnel walls glow with a strange,
+ethereal light.  The air of the tunnel has a faint musty odour, and as you
+walk, you kick up a fine dust that has a sneeze-inducing effect on your
+airways.  A passageway leads east.  
+~
+0 8 0
+E
+walls~
+The walls are constructed of smooth sandstone.  They seem to pulse with a
+{yglowing{x light.  
+~
+D1
+~
+~
+~
+0 0 15078
+M 0 H 0
+S
+#15078
+A narrow passageway~
+The floors and walls appear to be evenly laid with sandstone, however,
+they glow with an eerie light.  Progress through the passageway is slow
+due to little headroom.  The tunnel leads west and north.  
+~
+0 8 0
+E
+walls~
+The sandstone walls {yglow{x however you cannot find the light source.
+~
+D0
+~
+~
+~
+0 0 15079
+D3
+~
+~
+~
+0 0 15077
+M 0 H 0
+S
+#15079
+A narrow passageway~
+The passageway is narrow, with very low headroom.  The walls glow eerily,
+and seem to pulse with an ethereal power.  The source of the power seems to
+be coming from the east.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 15080
+D2
+~
+~
+~
+0 0 15078
+M 0 H 0
+S
+#15080
+A narrow passageway~
+You must bend at the waist to continue further through the tunnel.  As
+the walls and ceiling close in about you, their pulsating, ethereal energy
+crackles and sends your hair rising along the back of your neck.  The
+passageway continues north and west.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 15081
+D3
+~
+~
+~
+0 0 15079
+M 0 H 0
+S
+#15081
+A narrow passageway~
+The passage walls crowd you on each side.  Your shoulders rub against
+them as you walk, and you find them strangely warm to the touch.  A strange
+power emanates from the west.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 15080
+D3
+~
+~
+~
+0 0 15082
+M 0 H 0
+S
+#15082
+A narrow passageway~
+The tunnel is narrow, and evenly laid with hand-hewn sandstone.  The
+ceiling and walls {yshimmer{x with a surreal light.  A pulsating power, just
+beyond the reach of your physical senses, emanates from the west.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 15081
+D3
+~
+~
+~
+0 0 15083
+M 0 H 0
+S
+#15083
+A Narrow Passage~
+The passageway opens upon a natural cavern of enormous dimensions.  Its
+walls glimmer strangely with streaming water and veins of gold.  At the
+centre of the cavern, you see a tomb, its cover built in the shape of a
+resting warrior.  The warrior's arms are crossed over his chest and at his
+feet are his shield and helm.  You slowly realize that this must be the lost
+tomb of Rhyygen Ydd.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 15082
+M 0 H 0
+S
+#15084
+An alcove~
+The walls of the hallway curve into an arched alcove.  It is unlit, small
+and bare, with no more in furnishings than a simple chair.  
+~
+0 9 0
+D3
+~
+~
+~
+0 0 15059
+M 0 H 0
+S
+#15085
+A rubble strewn cave~
+The dankness of the hole is almost overpowering.  The ground is unstable
+with rubble from the ruined battlements above.  Each movement you make
+brings clouds of dust from the ceiling.  There is a narrow passageway to the east.
+~
+0 9 0
+D1
+~
+~
+~
+0 0 15086
+D2
+~
+~
+~
+0 0 15090
+D4
+~
+hole~
+~
+1 0 15022
+M 0 H 0
+S
+#15086
+A rubble strewn cave~
+The dankness of the hole is almost overpowering.  The ground is unstable
+with rubble from the ruined battlements above.  Each movement you make
+brings clouds of dust from above.  The passage continues north and west.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 15087
+D3
+~
+~
+~
+0 0 15085
+M 0 H 0
+S
+#15087
+A rubble strewn cave~
+The dankness of the hole is almost overpowering.  The ground is unstable
+with rubble from the ruined battlements above.  Each movement you make
+brings clouds of dust from above.  The passage continues east and south.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 15088
+D2
+~
+~
+~
+0 0 15086
+M 0 H 0
+S
+#15088
+A rubble strewn cave~
+The dankness of the cavern is almost overpowering.  The ground is
+unstable with rubble from the ruined battlements above.  Each movement you
+make brings clouds of dust from above.  The passage seems to end here.  
+~
+0 9 0
+E
+ground~
+There seems to be an opening in the ground.  
+~
+D3
+~
+~
+~
+0 0 15087
+D5
+~
+hole~
+~
+1 0 15070
+M 0 H 0
+S
+#15089
+A Rubble-Filled Alley~
+The alley ends abruptly at an ancient, ruined wall.  Stone rubble has
+fallen from the wall, littering the ground underfoot.  {mWildflowers{x and
+weeds have grown up through the {cstones{x, and vines wind their way up the
+ruined wall.  The windowless walls of the town houses rise to the west and
+east.  The only apparent exit is back the way you came.  
+~
+0 0 0
+E
+walls~
+The mortared stone walls are barely standing the test of time.
+~
+E
+stone~
+You notice a large, loose rock leaning against the ruined wall.
+~
+D0
+~
+~
+~
+0 0 15004
+D5
+~
+rock~
+~
+1 0 15094
+M 0 H 0
+S
+#15090
+A narrow passageway~
+The passageway is dark and narrow.  The rock walls are slimy with oily
+water from some underground spring.  You are aware of a low ceiling that
+rises and falls unevenly above your head.  The passage continues south and
+north.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 15085
+D2
+~
+~
+~
+0 0 15091
+M 0 H 0
+S
+#15091
+A narrow passageway~
+The darkness of the passageway closes in on you like a shroud.  But for
+the echoing of your footfall, there is silence.  The narrow passage leads
+west and north.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 15090
+D3
+~
+~
+~
+0 0 15092
+M 0 H 0
+S
+#15092
+A narrow passageway~
+It is easy to lose your footing in the dark narrow passageway.  A few
+rocks have fallen to the floor, slowing your pace.  The walls and ceiling
+seem to close in upon you.  The passageway continues to the east and south. 
+~
+0 9 0
+D1
+~
+~
+~
+0 0 15091
+D2
+~
+~
+~
+0 0 15093
+M 0 H 0
+S
+#15093
+A narrow passageway~
+The passageway is very narrow here, barely room to pass through without
+turning sideways.  The walls are slick with oily water, and the passage
+reeks of sulphur.  The passage continues north and south.  
+~
+0 1 0
+D0
+~
+~
+~
+0 0 15092
+D2
+~
+~
+~
+0 0 15094
+M 0 H 0
+S
+#15094
+A narrow passageway~
+An underground passageway ends here in a large, natural cavern.  From a
+distance above you, you can hear muted sounds of the city.  The walls and
+floors are slippery from oily water leaking through from an underground
+spring.  The passageway leads north.  
+~
+0 5 0
+D0
+~
+~
+~
+0 0 15093
+D4
+~
+rock~
+~
+1 0 15089
+M 0 H 0
+S
+#15095
+A Hallway~
+A bustling boulevard can be seen to the south through narrow windows placed 
+to either side of a stout doorway in that direction.  To the east, a scent 
+very similar in nature to that produced by baking can be detected, while to 
+the west what appears to be a sitting room is evident.  Northwards, a set of 
+sturdy stairs are plainly visible, leading upwards.  The narrow red carpet 
+upon them is held in place by finely crafted brass rods.  Water color 
+pictures of a forest decorate the walls, the delicate colors of them and the 
+skilled artistry making this area seem much more serene.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 15096
+D2
+~
+~
+~
+1 0 15029
+D3
+~
+~
+~
+0 0 15097
+D4
+~
+~
+~
+0 0 15098
+M 0 H 0
+S
+#15096
+A Spacious Kitchen~
+A spacious kitchen has been crafted here with an archway leading to what 
+appears to be a hallway in the west most wall.  Racking has been placed 
+about this kitchen in easily accessible locations while in the centre of the 
+chamber a large table which could function for both food preparation and for 
+eating has been left.  Against the east most wall, a large iron stove and 
+range has been placed from which the aromas of baking bread waft out and 
+fill this area.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 15095
+M 0 H 0
+S
+#15097
+A Living Room~
+An elegant fireplace has been crafted from rough hewn stone and set against 
+the northern wall, its mantelpiece decorated with small figurines.  Well 
+stuffed arm chairs and couches have been placed about this chamber to enjoy 
+the warmth given by the fire and also so that the occupants can talk in 
+comfort if they should so wish.  A doorway in the eastern wall appears to 
+lead to a hall, past which a kitchen is visible.  Watercolor paintings have 
+been placed around the wooden paneled walls of this chamber, each of them 
+seemingly crafted by the same hand, judging by the style.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 15095
+M 0 H 0
+S
+#15098
+A Landing~
+A short hallway terminates to the south here in a set of stairs that lead 
+down to a corridor below.  Plain doors of a darkly stained wood are set into 
+the eastern and western walls while the corridor ends at a large window 
+looking over a busy street to the south.  Past the street, a home that 
+appears slightly smaller than this one can be perceived.  The walls of this 
+area have been decorated with artful watercolor pictures, all of which 
+appear to have been created by the same person.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 15099
+D3
+~
+~
+~
+1 0 15100
+D5
+~
+~
+~
+0 0 15095
+M 0 H 0
+S
+#15099
+The Master Bedroom~
+Windows set into the north and south walls of this chamber permit an 
+unobstructed view of the outside world, should one desire such.  Curtains of 
+a pastel green have been hung upon brass poles to either side of the 
+windows, ready to be drawn or opened at the whim of the owner.  Against the 
+eastern wall is a large, carved four-poster bed thick drape of green velvet 
+hanging from its structure.  To either side of the bed are nightstands upon 
+which candles, jugs and bowls are placed.  The only exit appears to be a 
+dark wooden door set in the western wall.  
+~
+0 8 0
+D3
+~
+~
+~
+1 0 15098
+M 0 H 0
+S
+#15100
+A Studio~
+Canvases lean against the walls of this room, some showing completed 
+watercolors while others are still in the process of construction.  An easel 
+stands close to the northern window with a stool and a small table close by. 
+Upon the table's top, small slabs of dried paint can be seen along with 
+water and brushes for this craft.  A door of dark stained wood in the 
+eastern wall appears to be the only exit from this chamber.  The scent of 
+the forest seems to fill this room, seeming to hint that the window is 
+normally left ajar while the artist is at work.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 15098
+M 0 H 0
+S
+#15101
+A Tasteful Hall~
+This hallway is very orderly and is decorated in shades of grey.  The floor 
+has been laid with hexagonal tiles that vary between white and black marble 
+like a chess board.  Each tile shows ribbons of its opposite color that look 
+rather intriguing.  The archways leading to the east, west, and north are 
+outlined in black wood that fails to reflect the light of the various 
+candelabras and chandelier that have been tastefully placed to illuminate 
+most nooks and crannies with a gentle ambience.  An elegant and sturdy table 
+made of the same black wood found on the archways and the door leading out 
+at the south is here, decorated with a small vase and a single white rose.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 15104
+D1
+~
+~
+~
+0 0 15102
+D2
+~
+~
+~
+4 15117 15032
+D3
+~
+~
+~
+0 0 15103
+M 0 H 0
+S
+#15102
+An Artful Dining Kitchen~
+Finely crafted cupboards of black oak line the northern wall and part of the 
+eastern and southern walls, their crystalline handles glistening slightly in 
+the light.  The northern half has been converted into a preparation pit for 
+food and sports its own little island that is inset with drawers.  A 
+fireplace has been crammed in amongst all the other useful contraptions 
+designed for functionality in the kitchenette, above which is an iron box 
+used as an oven.  A large table made of the same wood is flanked by half a 
+dozen chairs, their surfaces carved with elegant curves and scrollwork.  
+Each chair is padded with black leather that shines dully in the light 
+thrown by the candelabras upon the table.  The centerpiece is adorned with 
+at least a dozen white roses that surround a single blood red flower of the 
+same type.  
+~
+0 1048584 0
+D3
+~
+~
+~
+0 0 15101
+M 0 H 0
+S
+#15103
+In the Parlor~
+A square plush rug made of a myriad of greys is at the center of this 
+spacious chamber.  Arranged in a square around the middle are several chairs 
+and couches which are made of black velvet with white silk rope as trim.  
+The very center of this arrangement is completed by a black wooden table 
+that sits low and is perfect for resting drinks, packages, and feet upon.  
+At the center of the table is a well-attended bouquet of blood red roses.  A 
+large fireplace has been built into the west wall with a window stretching 
+away above it.  A rope that is coiled up and attached to the same wall is 
+used to draw the heavy black velvet curtains open and closed.  The walls and 
+floor are made of the same classy black wood as the decorative table, the 
+surfaces left unpolished and failing to reflect light.  A few candelabras 
+full of candles send forth a flickering light to compensate whenever 
+necessary.  A black oak archway leads away to the east.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 15101
+M 0 H 0
+S
+#15104
+A Tasteful Hall~
+Black and white marble tiles have been laid in a checkerboard pattern over 
+the floor, their hexagonal cut fitting perfectly with the slates surrounding 
+them.  A double set of doors lead away to the north, the black oak wood set 
+with multiple pains of beveled glass that are not at all hidden by the gauzy 
+white curtains draped over them.  An archway with well-fitted doors of the 
+same dark wood are set in the eastern wall, the double doors one indicator 
+of the grandeur of whatever lies beyond.  Settled in the corner near the 
+archway that leads to more hall at the south is a small table that holds a 
+crystalline statue.  
+~
+0 1048584 0
+E
+statue~
+Inscribed along the base of the pegasus statue are the words:
+The masters of this home should know their hearts well
+For any cracks in resolve the west wall will tell.
+~
+D0
+~
+~
+~
+1 0 15107
+D1
+~
+~
+~
+1 0 15106
+D2
+~
+~
+~
+0 0 15101
+D3
+~
+~
+~
+1 0 15105
+M 0 H 0
+S
+#15105
+A Luxurious Bath~
+Hexagonal tiles have been placed in a chess board pattern over the floor, 
+their white and black marbled surfaces veined in their inverse.  The bath is 
+made of the lighter marble that makes up the decor of this room, the inside 
+of which has a few steps to provide seating at the side of this pool-sized 
+structure.  A few round stool-shaped slabs of marble can be seen towards the 
+middle of the bath as well, presumably to provide additional resting places. 
+The water within the tub steams slightly in this chilly chamber, the moist 
+heat giving off a pleasant scent akin to the smell of lavender.  Stone rails 
+have been attached to the wall, their close parallelism perfect for keeping 
+the fluffy white and black towels that are currently resting upon them.  The 
+walls are mirrored, casting romantacised reflections with the aid of the 
+candle-laden chandelier.  A small line in the eastern wall shows where the 
+way out can be found.  
+~
+0 1048584 0
+D1
+~
+~
+~
+1 0 15104
+M 0 H 0
+S
+#15106
+A Bedroom of Great Luxury~
+A thick carpet made with a curious mixture of greys graces the floor here, 
+keeping it pleasant to walk upon even on the coldest of nights.  A grate 
+covers the fireplace set into the eastern wall, preventing hot embers from 
+coming in contact with the plush rug.  A bed in the shape of a hexagon 
+dominates the center of this chamber, its black oakwood edges inset with 
+poles that hold up a velvet-swathed trellis.  Cords are attached to the 
+bannisters to allow for the black curtains to be pulled back and expose the 
+richly decorated mattresses within, including the silks, velvets, and a few 
+dozen throw pillows.  Flowers mingled with very dim lights have been woven 
+through the trelliswork supported by the bedframe, providing the recumbant 
+inhabitants something of moderate interest to look at.  A three-pane mirror 
+set up to form half of a hexagon can be seen toward the southern wall, an 
+oriental-style screen made of black oak wood finishing the shape elegantly.  
+Two blackened doors lead away to the west.  
+~
+0 1048584 0
+E
+oriental-style screen~
+White rice paper has been attached to the hollowed panels of this screen.  
+The wood has been carved with flowing curves and scrollwork of great 
+meticulousness while the rice papers have black lotus flower shapes 
+decorating their stark whiteness.  This pretty screen provides excellent 
+protection from any would-be perverts that would watch the master or 
+mistress dress.  
+~
+D3
+~
+~
+~
+1 0 15104
+M 0 H 0
+S
+#15107
+A Large Garden~
+Small flagstone paths lead around this large garden, weaving around small 
+mounds of bright flowers and a raised marble fountain dais, its basin 
+looking large enough to be used as a swimming pool.  The scent of the 
+flowers that are in one stage of bloom or another mixes to form a pleasant 
+aroma that hangs in the air here.  Thick groves of trees mark the boundaries 
+of this garden, the small communities of trees dominated by both apple and 
+cherry laden sentinels.  Ivy climbs several trellises that arch over the 
+flagstone paths at regular intervals, their star shaped leaves a mix of blue 
+and green.  Neatly kept rose bushes mix in with these creeping plants, their 
+red and white roses seeming to be perfect blooms that are usually spotted 
+with dew.  Statues of tree stumps with chipmunks and squirrels on and around 
+them fill out the small courtyards that the concourses make when they 
+converge.  Two doors full of small beveled windows lead into the sizely 
+estate to the south.  
+~
+0 1048576 0
+D2
+~
+~
+~
+1 0 15104
+M 0 H 0
+S
+#15108
+A Floral Chamber~
+A doorway to the south opens directly into this reasonably sized living room 
+which has been decorated with a flower patterned paper and chairs bearing 
+the same floral design.  Windows set into the south wall show a busy roadway 
+over which another residence is plainly visible.  The window in the north 
+most wall shows a small garden behind which is a dense forest.  Stairs lead 
+upwards from this chamber, set into the northwestern wall so as not to get 
+in the way, while a door in the eastern wall appears to lead to a second 
+room.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 15109
+D2
+~
+~
+~
+1 0 15003
+D4
+~
+~
+~
+0 0 15110
+M 0 H 0
+S
+#15109
+A Cozy Kitchen~
+Paper depicting various herbs has been placed about this chamber, adding to 
+the feel that this is a kitchen, a feeling that is firmly supported by a 
+large stove and the various implements needed to prepare or eat a meal.  A 
+window in the southern wall looks over a small garden which terminates in a 
+forest.  Under this window a sink has been placed so that anyone doing the 
+washing up has a pleasing view.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 15108
+M 0 H 0
+S
+#15110
+A Floral Bedroom~
+A pair of single beds has been placed within this chamber covered in floral 
+patterned sheets that compliment the wallpaper that adorns these walls.  A 
+small doorway leads to the east, upon which has been painted a stylized 
+design of a chamber pot.  Windows in the northern and southern wall look out 
+into either the street if one looks to the south or into the forest or 
+garden if one should look out of the northern one.  Thick curtains have been 
+placed to either side of the windows, hanging from curtain rods so that they 
+may be opened or closed upon a whim.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 15111
+D5
+~
+~
+~
+0 0 15108
+M 0 H 0
+S
+#15111
+A Cozy Bathroom~
+A small bathroom has been fashioned here including a sink, bath and water 
+closet, the latter must presumably empty outside into some concealed 
+cesspit.  The bath is far from large, most likely no greater in length that 
+five feet, but it does appear to be comfortable enough and there is 
+certainly plenty of fresh linen and towels for any who should exit the 
+contraption.  The scent of rosemary fills the air, most likely a product of 
+the various soaps, lotions and balms that have been scattered about this 
+chamber.  A doorway to the west appears to be the only method of egress for 
+a person.  
+~
+0 8 0
+D3
+~
+~
+~
+1 0 15110
+M 0 H 0
+S
+#15112
+A Welcoming Hallway~
+Fluted pillars of blue veined marble stretch up to the high ceiling of this 
+chamber having been placed in each corner of this spacious room.  Hanging 
+from the center of the painted ceiling is a masterly crafted chandelier 
+which refracts light into a shimmering rainbow of colors upon the floor.  
+Twin stain glass windows set into the northern wall either side of a set of 
+ivy carved double doors send pools of light over the marble floor and 
+towards the fountain that bubbles in the center of the room.  In the 
+southern wall a brass-bound pair, of wooden doors have been set within an 
+archway.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 15072
+D2
+~
+~
+~
+1 0 15113
+M 0 H 0
+S
+#15113
+A Comfortable Bar~
+Polished walnut panels cover the floor and walls of this room, the rich, 
+warm luster seeming to add to the warmth of the atmosphere here.  Crafted 
+into the south-western corner of the room is a small stage, crystal covered 
+lighting set into so as to subtly illuminate the performers.  In the 
+north-eastern corner a low bar stands, the counter crafted from the same 
+material as the floor and walls.  Three groups of tables and chairs sit 
+around the center of the room large enough to accommodate six people a 
+piece.  Slowly spinning orbs of magical fire dangle from the roof within 
+prisons of beveled glass, giving there radiance to this chamber.  Double 
+doors stand to the south and north while a wrought iron spiraling staircase 
+leads upwards to the second floor.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 15112
+D2
+~
+~
+~
+1 0 15114
+M 0 H 0
+S
+#15114
+A Hallway~
+Four doors lead from this chamber each crafted elegantly and fitted snugly 
+between the racking that bedecks the walls.  The floor of this room is 
+crafted from polished walnut, buffed to a fine luster, while the ceiling has 
+been artfully painted.  Racking upon the walls holds countless, fluffy, 
+towels in all colors and a pair of small covered bins stand against the 
+northern wall waiting for used towels to be placed within.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 15113
+D1
+~
+~
+~
+1 0 15115
+D2
+~
+~
+~
+1 0 15117
+D3
+~
+~
+~
+1 0 15116
+D4
+~
+~
+~
+0 0 15118
+M 0 H 0
+S
+#15115
+A Steam Room~
+At first sight little can readily be seen of this chamber due to the 
+billowing clouds of steam rising steadily from a bed of coals set into the 
+southern wall of the room.  A low trough runs down the center of the room 
+holding ladles and water while all four walls are bedecked with slatted 
+benches for the occupants to rest comfortably upon.  Warmth fills this 
+chamber like a drowsy fog making most movement seem like too much effort.  
+To the west a pine door has been set.  
+~
+0 8 0
+D3
+~
+~
+~
+1 0 15114
+M 0 H 0
+S
+#15116
+A Steam Room~
+A low trough runs down the center of the room holding ladles and water while 
+all four walls are bedecked with slatted benches for the occupants to rest 
+comfortably upon.  At first sight little else can readily be seen of this 
+chamber due to the billowing clouds of steam rising steadily from a bed of 
+coals set into the southern wall of the room.  Warmth fills this chamber 
+like a drowsy fog making most movement seem like too much effort.  To the 
+east a pine door has been set.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 15114
+M 0 H 0
+S
+#15117
+A Steaming Pool~
+A curving marble path from the south leads to a gently steaming pool set 
+into the center of a spacious garden.  The pools clear waters reflect the 
+sky above obscured only by the occasional wafting cloud of steam that drifts 
+sedately upwards.  Set upon the soft moss covered floor are a few ornately 
+crafted hard wooden benches.  Lush green trees form a natural barrier about 
+this clearing protecting it from the elements, beneath which bright 
+flowering blossoms grow in abundance.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 15114
+M 0 H 0
+S
+#15118
+A Walnut Hall~
+A long hall fashioned from walnut paneling upon the walls and brightly 
+polished flooring of the same lustrous wood stretches to east-west here.  
+Set upon the walls are paintings in gilded frames, these have been placed to 
+either side of the arched doorways in the north and south walls.  A spirally 
+staircase leads down from this end of the hall while the rest of the hall 
+can be seen stretching off to the east.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 15120
+D1
+~
+~
+~
+0 0 15121
+D2
+~
+~
+~
+1 0 15119
+D5
+~
+~
+~
+0 0 15114
+M 0 H 0
+S
+#15119
+A Forest Chamber~
+A two inch deep, grass-green carpet covers the floor of this chamber, 
+illuminated by a skillfully fashioned light in the roof that looks like the 
+moon, coupled with this are smaller lighted depicting the stars.  The walls 
+are carved to form mighty trees of the forest their limbs stretching up to 
+the night time sky painted above.  A large bolster sits in the center of 
+this room with a sheet of green satin upon it as the only furnishings.  To 
+the north a single door, crafted to look like a knot in a tree has been 
+placed.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 15118
+M 0 H 0
+S
+#15120
+A Games Room~
+This room is packed with various games of chance, from card tables against 
+the northern wall to a roulette wheel and a wheel of fortune.  Each gamed 
+crewed by a smiling member of staff ready to take your money.  Lighting is 
+supplied by various candle stands scattered about the chamber, illuminating 
+the tables well and the wooden walls poorly.  To the south a single door 
+stands, its brass knob glinting dully in the candle light.  
+~
+0 8 0
+D2
+~
+~
+~
+1 0 15118
+M 0 H 0
+S
+#15121
+A Halls End~
+The burnished walnut of the floor glints in any available light here 
+shinning upwards.  The walls to the north and south bear twin doors facing 
+each other, placed artfully upon the walls either side of these doors are 
+pictures, their color adding subtly to this wall.  Upon the eastern wall a 
+fresco has been fashioned, illuminated softly by concealed lighting.  To the 
+west the hallway stretches onwards ending at a set of spiraling stairs.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 15122
+D2
+~
+~
+~
+0 0 15123
+D3
+~
+~
+~
+0 0 15118
+M 0 H 0
+S
+#15122
+A Forest like Chamber~
+This chamber has been fashioned from bog oak and carved by a skillful hand 
+and an artful mind.  Ivy leaves appear to leap from the rafters and walls, 
+climbing their way around the room, from within these mock plants small 
+animals and the occasional sprite can be seen, peeking into the boudoir.  
+Standing in the center of the room is a large four-poster bed, the curtains 
+and silken sheeting fashioned from burgundy fabric.  Soft lightly pools 
+about this area from a delicate quartz fitting set into the high ceiling, 
+the light throwing rainbows onto the walls and floor.  To the south a 
+paneled door is set.  
+~
+0 8 0
+D2
+~
+~
+~
+1 0 15121
+M 0 H 0
+S
+#15123
+A Fire Lit Chamber~
+Fire light flows from the great hearth set into the southern wall over which 
+an ornately carved mantle has been placed.  Set upon the flush, polished, 
+boards of the floor before the fireplace is a thick, silky pelt of some 
+black and white striped beast its natural luster shimmering in the light 
+from the fire.  The only furnishings within this chamber are a low fur 
+covered bed and a couched of deep blue velvet.  Carvings upon the wall when 
+coupled with the fire light give this chamber an almost cave like feel to 
+it, this is added to when the northern door way is considered which, from 
+this side, looks like the mouth of a cave.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 15121
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 15001 spec_cast_undead
+M 15008 spec_janitor
+M 15010 spec_cast_undead
+M 15022 spec_cast_mage
+M 15024 spec_nasty
+M 15032 spec_janitor
+M 15042 spec_cast_mage
+M 15043 spec_poison
+M 15044 spec_poison
+M 15045 spec_poison
+M 15048 spec_breath_gas
+S
+
+
+
+#RESETS
+D 0 15003 0 1
+D 0 15003 2 1
+D 0 15004 3 1
+D 0 15005 1 1
+D 0 15007 3 2
+D 0 15008 1 2
+D 0 15009 0 1
+D 0 15010 2 1
+D 0 15022 5 1
+D 0 15025 2 1
+D 0 15028 0 1
+D 0 15029 0 1
+D 0 15029 2 1
+D 0 15030 0 1
+D 0 15030 3 1
+D 0 15031 0 1
+D 0 15032 0 2
+D 0 15032 2 1
+D 0 15033 0 1
+D 0 15036 0 1
+D 0 15036 1 1
+D 0 15036 3 1
+D 0 15037 1 1
+D 0 15038 3 1
+D 0 15039 0 2
+D 0 15042 2 1
+D 0 15045 0 1
+D 0 15047 2 2
+D 0 15048 2 1
+D 0 15050 1 1
+D 0 15051 1 1
+D 0 15051 3 1
+D 0 15055 0 1
+D 0 15056 1 1
+D 0 15056 2 1
+D 0 15057 3 1
+D 0 15058 5 2
+D 0 15060 1 1
+D 0 15060 3 2
+D 0 15061 3 1
+D 0 15067 1 2
+D 0 15070 4 1
+D 0 15072 2 1
+D 0 15073 1 2
+D 0 15073 4 2
+D 0 15074 3 2
+D 0 15085 4 1
+D 0 15088 5 1
+D 0 15089 5 1
+D 0 15094 4 1
+D 0 15095 2 1
+D 0 15098 1 1
+D 0 15098 3 1
+D 0 15099 3 1
+D 0 15100 1 1
+D 0 15101 2 2
+D 0 15104 0 1
+D 0 15104 1 1
+D 0 15104 3 1
+D 0 15105 1 1
+D 0 15106 3 1
+D 0 15107 2 1
+D 0 15108 2 1
+D 0 15110 1 1
+D 0 15111 3 1
+D 0 15112 0 1
+D 0 15112 2 1
+D 0 15113 0 1
+D 0 15113 2 1
+D 0 15114 0 1
+D 0 15114 1 1
+D 0 15114 2 1
+D 0 15114 3 1
+D 0 15115 3 1
+D 0 15116 1 1
+D 0 15117 0 1
+D 0 15118 0 1
+D 0 15118 2 1
+D 0 15119 0 1
+D 0 15120 2 1
+D 0 15121 0 1
+D 0 15122 2 1
+M 0 15049 1 15001 10
+M 0 15008 3 15001 10
+E 0 15025 0 16
+G 0 15026 0
+P 0 15088 0 15026 10
+P 0 15027 0 15026 10
+M 0 11601 3 15002 10
+E 0 11601 0 16
+M 0 15008 3 15003 10
+G 0 15026 0
+P 0 15027 0 15026 10
+M 0 15056 3 15004 10
+E 0 15111 0 16
+M 0 15005 1 15005 10
+E 0 15102 0 13
+G 0 15047 0
+O 0 15018 0 15005
+M 0 15003 1 15005 10
+E 0 15017 0 16
+O 0 15005 0 15005
+O 0 15005 0 15005
+O 0 15005 0 15005
+O 0 15005 0 15005
+O 0 15006 0 15006
+O 0 15007 0 15006
+P 0 15031 0 15007 10
+M 0 15025 1 15007 10
+E 0 15063 0 7
+E 0 15062 0 16
+G 0 15061 0
+E 0 15060 0 5
+M 0 15009 1 15007 10
+E 0 15028 0 16
+O 0 15039 0 15008
+M 0 15007 1 15008 10
+E 0 15023 0 12
+M 0 15006 1 15008 10
+G 0 15019 0
+O 0 15009 0 15008
+O 0 15008 0 15008
+O 0 15008 0 15008
+O 0 15050 0 15009
+M 0 15011 3 15012 10
+M 0 15013 1 15012 10
+M 0 15004 2 15012 10
+M 0 15004 2 15012 10
+M 0 15016 3 15014 10
+O 0 15049 0 15014
+M 0 15002 1 15014 10
+G 0 15110 0
+E 0 15016 0 8
+O 0 15014 0 15014
+M 0 15011 3 15015 10
+M 0 15055 1 15015 10
+O 0 15089 0 15016
+M 0 15000 8 15017 10
+E 0 15013 0 16
+M 0 15000 8 15017 10
+E 0 15013 0 16
+M 0 15000 8 15017 10
+E 0 15021 0 5
+E 0 15013 0 16
+O 0 15108 0 15017
+M 0 15053 1 15018 10
+G 0 15109 0
+E 0 15009 0 16
+E 0 15021 0 5
+M 0 15014 4 15018 10
+E 0 15035 0 5
+M 0 15014 4 15019 10
+M 0 15001 1 15019 10
+E 0 15024 0 6
+E 0 15022 0 5
+E 0 15012 0 16
+M 0 15016 3 15020 10
+M 0 15000 8 15024 10
+E 0 15013 0 16
+M 0 15000 8 15024 10
+E 0 15013 0 16
+M 0 15000 8 15024 10
+E 0 15021 0 5
+E 0 15013 0 16
+M 0 15008 3 15026 10
+O 0 15084 0 15027
+O 0 15082 0 15027
+O 0 15030 0 15027
+O 0 15002 0 15028
+P 0 15048 0 15002 10
+O 0 15004 0 15028
+P 0 15047 0 15004 10
+O 0 15003 0 15028
+P 0 15045 0 15003 10
+M 0 15028 4 15029 10
+E 0 15000 0 0
+P 0 15001 0 15000 10
+E 0 15113 0 0
+M 0 15047 1 15030 10
+E 0 15085 0 16
+O 0 15015 0 15030
+M 0 15018 3 15032 10
+M 0 15015 3 15032 10
+M 0 15021 1 15034 10
+G 0 15044 0
+O 0 15029 0 15034
+O 0 15008 0 15034
+O 0 15015 0 15034
+M 0 15019 1 15035 10
+O 0 15040 0 15035
+O 0 15041 0 15037
+P 0 15042 0 15041 10
+M 0 15054 1 15038 10
+E 0 15092 0 5
+M 0 15046 1 15038 10
+G 0 15080 0
+O 0 15078 0 15038
+P 0 15079 0 15078 10
+M 0 15052 2 15039 10
+M 0 15052 2 15039 10
+G 0 15101 0
+O 0 15005 0 15040
+O 0 15005 0 15040
+O 0 15020 0 15040
+O 0 15005 0 15041
+O 0 15005 0 15041
+O 0 15040 0 15041
+O 0 15098 0 15041
+M 0 15051 1 15043 10
+G 0 15048 0
+O 0 15006 0 15043
+O 0 15015 0 15043
+O 0 15050 0 15043
+O 0 15041 0 15043
+P 0 15080 0 15041 10
+O 0 15095 0 15044
+O 0 15078 0 15044
+P 0 15096 0 15078 10
+P 0 15096 0 15078 10
+M 0 15012 1 15045 10
+E 0 15097 0 3
+O 0 15093 0 15045
+O 0 15007 0 15045
+O 0 15041 0 15045
+O 0 15006 0 15045
+P 0 15092 0 15041 10
+P 0 15091 0 15041 10
+M 0 15032 2 15046 10
+O 0 15067 0 15047
+P 0 15068 0 15067 10
+O 0 15046 0 15048
+M 0 15020 1 15048 10
+E 0 15043 0 16
+O 0 15084 0 15049
+M 0 15041 1 15053 10
+O 0 15005 0 15053
+O 0 15005 0 15053
+O 0 15005 0 15053
+O 0 15005 0 15053
+O 0 15005 0 15053
+M 0 15042 1 15054 10
+G 0 15099 0
+G 0 15073 0
+M 0 15032 2 15056 10
+E 0 15077 0 16
+O 0 15069 0 15058
+O 0 15081 0 15060
+O 0 15005 0 15060
+O 0 15075 0 15060
+P 0 15090 0 15075 10
+P 0 15076 0 15075 10
+O 0 15006 0 15060
+O 0 15006 0 15061
+M 0 15050 2 15063 10
+E 0 15091 0 6
+E 0 15092 0 5
+M 0 15050 2 15064 10
+E 0 15091 0 6
+E 0 15092 0 5
+M 0 15027 1 15068 10
+E 0 15066 0 13
+E 0 15065 0 20
+E 0 15065 0 19
+M 0 15024 1 15069 10
+E 0 15064 0 6
+E 0 15056 0 16
+E 0 15057 0 5
+E 0 15058 0 15
+E 0 15058 0 14
+E 0 15059 0 2
+M 0 15010 1 15070 10
+E 0 15032 0 5
+E 0 15033 0 6
+E 0 15034 0 16
+M 0 15030 1 15074 10
+G 0 15074 0
+O 0 15071 0 15074
+P 0 15073 0 15071 10
+P 0 15070 0 15071 10
+P 0 15072 0 15071 10
+M 0 15018 3 15076 10
+M 0 15017 2 15076 10
+E 0 15038 0 17
+E 0 15036 0 6
+E 0 15037 0 16
+M 0 15048 6 15078 10
+E 0 15104 0 16
+E 0 15086 0 5
+M 0 15048 6 15078 10
+E 0 15086 0 5
+M 0 15048 6 15081 10
+E 0 15103 0 16
+E 0 15087 0 21
+E 0 15086 0 5
+M 0 15022 1 15083 10
+E 0 15100 0 5
+G 0 15053 0
+E 0 15051 0 16
+O 0 15052 0 15083
+P 0 15105 0 15052 10
+P 0 15106 0 15052 10
+P 0 15055 0 15052 10
+P 0 15054 0 15052 10
+O 0 15107 0 15083
+M 0 15031 1 15084 10
+M 0 15045 6 15085 10
+M 0 15045 6 15085 10
+M 0 15045 6 15086 10
+M 0 15045 6 15086 10
+M 0 15044 3 15087 10
+M 0 15045 6 15088 10
+M 0 15045 6 15090 10
+M 0 15033 4 15091 10
+E 0 15083 0 16
+M 0 15033 4 15094 10
+E 0 15083 0 13
+M 0 15034 1 15096 10
+O 0 15050 0 15099
+M 0 15035 1 15100 10
+O 0 15115 0 15102
+P 0 15040 0 15115 10
+P 0 15018 0 15115 10
+P 0 15048 0 15115 10
+P 0 15089 0 15115 10
+O 0 15114 0 15105
+O 0 15116 0 15106
+O 0 15117 0 15106
+O 0 15117 0 15106
+O 0 15117 0 15106
+M 0 15038 1 15108 10
+M 0 15036 1 15110 10
+M 0 15037 1 15110 10
+O 0 15118 0 15112
+O 0 15119 0 15113
+M 0 15039 1 15113 10
+G 0 15120 0
+G 0 15121 0
+G 0 15122 0
+M 0 15040 2 15113 10
+E 0 15120 0 0
+M 0 15040 2 15113 10
+E 0 15120 0 0
+S
+
+
+
+#SHOPS
+15039 17 19 0 0 0 130 80 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

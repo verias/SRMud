@@ -120,6 +120,7 @@ typedef struct	event_data			EVENT_DATA;
 typedef struct  organization_type	ORGANIZATION;
 typedef struct prog_pause_data	PROG_PAUSE_DATA;
 typedef	struct clan_type		CLAN_DATA;
+typedef struct raffect_type		RAFFECT_DATA;
 
 
 
@@ -1309,17 +1310,17 @@ struct	kill_data
 
 #define OBJ_VNUM_SCHOOL_MACE	   3700
 #define OBJ_VNUM_SCHOOL_DAGGER	   3701
-#define OBJ_VNUM_SCHOOL_SWORD	   709
+#define OBJ_VNUM_SCHOOL_SWORD	   3702
 #define OBJ_VNUM_SCHOOL_SPEAR	   3717
 #define OBJ_VNUM_SCHOOL_STAFF	   3718
-#define OBJ_VNUM_SCHOOL_AXE	   3719
+#define OBJ_VNUM_SCHOOL_AXE		   3719
 #define OBJ_VNUM_SCHOOL_FLAIL	   3720
 #define OBJ_VNUM_SCHOOL_WHIP	   3721
 #define OBJ_VNUM_SCHOOL_POLEARM    3722
 
-#define OBJ_VNUM_SCHOOL_VEST	   702
+#define OBJ_VNUM_SCHOOL_VEST	   3703
 #define OBJ_VNUM_SCHOOL_SHIELD	   3704
-#define OBJ_VNUM_SCHOOL_BANNER     705
+#define OBJ_VNUM_SCHOOL_BANNER     3716
 #define OBJ_VNUM_MAP		   3162
 
 #define OBJ_VNUM_WHISTLE	   2116
@@ -1527,7 +1528,7 @@ struct	kill_data
 #define ROOM_VNUM_CHAT		   1200
 #define ROOM_VNUM_TEMPLE	   3001
 #define ROOM_VNUM_ALTAR		   3054
-#define ROOM_VNUM_SCHOOL	   3700
+#define ROOM_VNUM_SCHOOL	   3767
 #define ROOM_VNUM_BALANCE	   4500
 #define ROOM_VNUM_CIRCLE	   4400
 #define ROOM_VNUM_DEMISE	   4201
@@ -1592,6 +1593,7 @@ struct	kill_data
 #define EX_INFURIATING		      (J)
 #define EX_NOCLOSE		      (K)
 #define EX_NOLOCK		      (L)
+#define EX_HIDDEN			  (M)
 
 
 
@@ -2171,6 +2173,7 @@ struct	obj_index_data
     sh_int		item_type;
     int			extra_flags;
     int			wear_flags;
+	int			furn_flags;
     sh_int		level;
     sh_int 		condition;
     sh_int		count;
@@ -2328,9 +2331,22 @@ struct	room_index_data
     long		rprog_flags;
     sh_int		rprog_delay;
 	DELAY		* actions;
+	RAFFECT_DATA	*raffect;
 };
 
-
+struct raffect_type
+{
+	RAFFECT_DATA *prev;
+	RAFFECT_DATA *next;
+	int	type;
+	char	*dam_name;
+	char	*room_message;
+	char	*vict_message;
+	int		timer;
+	int		val0;
+	int		val1;
+	int		val2;
+};
 
 /*
  * Types of attacks.
@@ -2980,6 +2996,7 @@ void	log_string	args( ( const char *str ) );
 void	tail_chain	args( ( void ) );
 void	load_classes	args( (void) );
 void     free_runbuf     args( ( DESCRIPTOR_DATA *d ) );
+void	import			args( ( void ));
 
 /* effect.c */
 void	acid_effect	args( (void *vo, int level, int dam, int target) );

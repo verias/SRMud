@@ -1,0 +1,1257 @@
+#AREADATA
+Name {15 99} Aidan   Temple of Seekers~
+Builders Aidan~
+VNUMs 13400 13499
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#13404
+wisp of magic~
+a wisp of magic~
+This wisp of magic floats lazily in the air.
+~
+This shimmering apparition floats lazily in the air.  Seeming to be made
+of pure energy, its entire form glows with a magical power.  The only
+characteristic about it, is the light blue glow that seems to surround it.  
+~
+unique~
+A HOTUVc 0 0
+30 0 10d60+520 30d10+100 3d6+8 slap
+-1 -1 -1 0
+AG LQ DM CN
+(null) (null) female 135
+ACGHIMVZc ABCDEFGHIJKLOPUVW medium unknown
+#13405
+wild haitorin~
+a wild haitorin~
+This wild haitorin hisses at you angrily.
+~
+This haitorin is covered in dirty auburn and black fur.  His muscles
+ripple with an undetermined strength, and as his eyes fall upon you, he
+hisses loudly.  
+~
+unique~
+A OVZ -1000 0
+25 4 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+HK AP P H
+(null) (null) female 112
+ACGHMV ABCDEFGHIJKUV medium unknown
+#13407
+commoner~
+a commoner~
+A commoner of Discordia.
+~
+This commoner is dressed in plain garb.  She stands about five feet high
+and has long brown hair.  Her blue eyes peer back at you from a thick veil
+of lashes.  As she notices your gaze she gives you a brief smile before
+going on about her business.  
+~
+human~
+A HOc 1000 0
+101 0 13d1446+3994 101d10+100 6d11+30 punch
+-45 -45 -45 -40
+0 ABDNPS 0 0
+(null) (null) either 454
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#13400
+rogues blade~
+a rogues blade~
+This long and vicious blade is serrated on one side and sharp on the other.~
+unknown~
+weapon 0 AN
+bow 6 8 crunch DJ
+25 0 125 P
+A
+13 40
+#13401
+black jumpsuit~
+a black jumpsuit~
+This black jumpsuit hugs the body tightly.~
+unknown~
+armor 0 AD
+C C C A 0
+25 0 125 P
+A
+19 4
+A
+18 4
+#13402
+thin journal~
+a thin journal~
+This thin journal looks to be old and well worn. The writing inside is faded but still legible.~
+unknown~
+treasure S AO
+0 0 0 0 0
+1 6 10 P
+E
+writing~
+Five hundred and fifty years after the great War of the Ancients, and one
+would have thought that the world had learned a lesson.  The work that went
+into rebuilding the entire world from the cataclysm surely had more purpose
+than to just send it careening once again to a cataclysmic event similar to
+the first.
+
+Oh, but you know this already, do you not?  Possibly not.  The state that
+our records are currently in is deplorable.  That is why I am here, to tell
+the story of what happened, to keep it from occuring again.  I must prevent
+ignorance from entering the hearts of the people.
+
+---------------------------------------------------------------------------
+
+There were more people around then.  Two entire Kingdoms' worth of mostly
+good-natured people.  A lot of magic-users, yes--they were in the open,
+practicing magic.  Hard to believe?  Magic was a commonplace thing.  Realms
+were protected by it and attacked by it.  Life was simple.
+
+I said there were two kingdoms, and I do not lie, they still exist with
+some of the same qualities.  The Kingdom of Utopia and the Kingdom of
+Discordia.  Discordia, the Monarchy ruled by a Ring.  Utopia...  The
+Monarchy ruled by power of another sort, and a ring of another sort as well.
+These two realms disagreed more often than not, but kept their trade
+agreements in place at most times.  Minor conflicts were everyday occurences
+between them. 
+
+Conflicts like these always lead up to a massive buildup on both sides. 
+Troops, magical resources, information...  Each side sought to outbid the
+other for power in any area.  Not that either would have actually declared
+war, no...  But they were close at times.  Perhaps the leaders were shrewd
+enough to keep the threat of war at bay themselves.  Maybe they never sought
+war but just sought their own personal gains outside of war.  
+The invokers...  Magic-users.  You may have heard of them.  They weave
+magic not with the words of their mouths, but the movements of their hands. 
+The difference?  None, except you may not hear an invoker using the magic
+that kills you. 
+
+Magic, in any form...deceptive.  Dangerous.
+
+These invokers mostly sided with the Kingdom of Discordia.  Their
+exploits were commendable at the time, perhaps, but despised by the leader
+of Utopia.  What was his name?  But that is something only we bards
+could dream of coming across.  I digress in my storytelling, I think.  The
+invokers sought a new power that would give them complete control over the
+elements.  As far as the magic world went then, I am pretty sure that was a
+bad thing.  Most were against so much power in such a small area of
+concentration.
+
+Too much power in a small area?  The dissidents were correct.  There were
+no words to describe what happened next, not accurately at least.  Huge
+waves crashed onto the beaches of Utopia and Tortuguero, swamping the towns.
+Earthquakes rent the streets.  Firestorms, lightning...  The images that
+were left to us were terrible.
+
+More terrible, perhaps, was the development soon after--the fact that the
+plane of magic had been torn asunder, had done more than it was supposed to
+by giving invokers power.  It had sent Gods from their prisons, letting them
+free to affect the world directly.  More importantly, but less obvious... 
+The tear in the plane of magic had set free the Ancients.
+The Ancients were not yet aware of their freedom.  Fortunately for the
+world, there were a few years of peace while the people adjusted to this
+new, awkward reality.  These years of peace came to a sudden end when the
+Ancients flexed their newfound power.  The people were unprepared
+completely.  Distracted by the affairs of politics, the affairs of their own
+religions, none had foreseen what would happen save a select few whose
+voices were overlooked.
+
+I would wish to say that a valiant effort to defeat the Ancients took
+place.  There were a few instances here and there of scattered fighting
+between Ancient and mortal or a mixture of Gods and mortals attempting to
+quell the Ancient uprising.  I could not tell you more than that
+here--perhaps a hidden book holds the truth.  What I do know is that the
+Gods and mortals did not hold out very long.  Within weeks, the Gods and the
+more powerful mortals had been destroyed.  While the last Gods were being
+hunted down by their Ancient pursuers, they managed to use their own power
+to send the still-sleeping Gods to the Dreamscapes, hidden temporarily from
+the Ancients.
+
+After the Ancients were finished with their duties, they disappeared and
+the new Gods appeared.  Maybe the new Gods destroyed them or got rid of them
+somehow.  Maybe the Ancients are still out somewhere, just waiting...
+Magic is disuseful.  Disgusting.  Abhorrent.  May the mistakes of the
+past never again be repeated.
+~
+#13405
+energy orb~
+an orb of energy~
+This orb of energy appears to be thin and wispy.~
+unknown~
+container 0 AR
+50 0 0 0 0
+15 0 200 P
+A
+12 50
+#13406
+wolf ear visor~
+life-like wolf ears~
+These life-like wolf ears seem almost to twitch at the different sounds.~
+unknown~
+armor HMS AE
+ABC ABC ABC ABC 0
+43 0 215 P
+A
+13 40
+A
+24 -10
+#13407
+small cot~
+a small cot~
+A small comfortable looking cot~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#13408
+brilliant armor~
+brilliant plate armor~
+This brilliant plate armor glows with magic.~
+unknown~
+armor AS AD
+CDE CDE CDE BC 0
+3 0 15 P
+A
+12 200
+A
+13 200
+#13409
+slay sword~
+a sword of slaying~
+Aidans sword of slaying lies here. Better not touch it.~
+unknown~
+weapon 0 AN
+sword 1 2000 slice CDHJ
+110 0 550 P
+#13410
+crackling ball energy light~
+a crackling ball of energy~
+This crackling ball of energy causes bright white light to wash over the room.~
+unknown~
+light 0 A
+0 0 ABCFGHIJ 0 0
+1 0 0 P
+A
+17 -25
+A
+19 5
+A
+18 5
+A
+24 -15
+#13411
+long wooden staff~
+a long, wooden staff~
+A long piece of wood shaped as a cylinder~
+unknown~
+weapon B AN
+whip 3 2 claw F
+2 2 10 P
+#13412
+brilliant mace~
+a brilliant mace~
+A brilliant mace has been left here.~
+unknown~
+weapon 0 AN
+staff 4 4 claw H
+8 1 40 P
+A
+19 5
+A
+18 5
+A
+18 5
+#13413
+dragon flail~
+a coiled dragon flail~
+This coiled dragons flail looks to be very dangerous.~
+unknown~
+weapon 0 AN
+axe 12 16 none 0
+100 0 500 P
+#13414
+dragon armor~
+some dragonscale armor~
+Some dragonscale armor is here.~
+unknown~
+armor 0 AD
+CDE CDE CDE BC 0
+100 0 500 P
+A
+13 2500
+A
+12 2500
+A
+17 -250
+#13415
+mysterious orb~
+a mysterious orb~
+This mysterious orb glows brightly.~
+unknown~
+light A A
+0 0 ABCFGHIJ 0 0
+100 0 0 P
+A
+19 50
+A
+18 50
+#13416
+dragon belt~
+a dragonscale belt~
+This dragonscale belt has been left here.~
+unknown~
+armor 0 AL
+CDE CDE CDE BC 0
+100 0 500 P
+A
+1 10
+A
+3 10
+A
+4 10
+A
+2 10
+A
+5 10
+#13417
+dragon leggings~
+some dragonscale leggings~
+Some dragonscale leggings have been left here.~
+unknown~
+armor 0 AF
+CDE CDE CDE BC 0
+100 0 500 P
+A
+17 -1300
+#13418
+dragon boots~
+a pair of dragonscale boots~
+A pair of dragonscale boots has been left here.~
+unknown~
+armor 0 AG
+CDE CDE CDE BC 0
+100 0 500 P
+A
+18 50
+A
+19 50
+#13419
+dragon orb~
+a dragonscale orb~
+This dragonscale orb floats off of the floor.~
+unknown~
+container S AR
+10000 0 0 0 0
+100 0 0 P
+A
+13 500
+A
+12 500
+A
+24 -150
+#13420
+brilliantly polished boots~
+a pair of brilliant boots~
+These boots have been polished to a brilliant shine.~
+unknown~
+armor 0 AG
+ABC ABC ABC A 0
+26 0 130 P
+A
+12 60
+#13421
+a heavy mace~
+a heavy mace~
+This heavy mace looks very dangerous.~
+unknown~
+weapon 0 AN
+staff 4 16 charge C
+32 0 160 P
+A
+18 12
+A
+19 12
+#13422
+snakeskin anklet~
+a snakeskin anklet~
+This flaking snakeskin has been made into a type of anklet.~
+unknown~
+treasure MSU AU
+0 0 0 0 0
+1 0 10 P
+A
+24 -2
+#13423
+wicked dagger~
+a wicked dagger~
+This dagger has a wicked blade.~
+unknown~
+weapon 0 AN
+bow 31 3 crunch CD
+60 0 300 P
+A
+19 10
+A
+18 10
+A
+13 50
+#13424
+massive throne~
+a massive throne~
+This massive throne has been constructed out of rune covered gray stone.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#13425
+pillow~
+a fluffy pillow~
+This fluffy pillow looks like a comfortable place to sit.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#13426
+silk hankerchief~
+a pale blue silk hankerchief~
+This pale blue silk hankerchief is soft to the touch and made of ext~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+1 0 10 P
+#13427
+a silver ring~
+a silver ring~
+This beautiful silver ring has been left here.~
+unknown~
+treasure IS AB
+0 0 0 0 0
+25 0 250 P
+A
+12 50
+A
+13 50
+E
+silver ring~
+Tiny strands of pure silver have been worked carefully together to form
+this ring.  Looking closely at the ring, faint hints of gold can be seen
+mixed within the strands.  
+~
+#13428
+black velvet box~
+a black velvet box~
+This black velvet box has been designed to hold a single ring.~
+unknown~
+container 0 AO
+1 AC 0 0 0
+0 0 0 P
+#13429
+red rose~
+a beautiful {Rr{re{Rd {rr{Ro{rs{Re{x~
+This beautiful {Rr{re{Rd {rr{Ro{rs{Re{x is here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+1 0 10 P
+#13430
+sapphire engagement ring~
+a {bsapphire{x engagement ring~
+This silver ring is adorned with small {bblue{x sapphires.~
+unknown~
+protect S AB
+ABCD ABCD ABCD C 0
+69 0 150 P
+A
+13 50
+#13431
+glowing cloak~
+a glowing cloak~
+This glowing cloak is made out of some sort of heavy material.~
+unknown~
+protect 0 AZ
+0 0 0 0 0
+6 6 1200 P
+A
+24 -5
+A
+13 40
+#13432
+staff order~
+a staff named 'Order'~
+A staff known as 'Order' is here.~
+unknown~
+weapon b AN
+polearm 10 27 punch CDFI
+96 1 480 P
+A
+19 22
+A
+18 22
+#13433
+ornately carved onyx box~
+an ornately carved onyx box~
+This ornately carved onyx box has been carefully crafted.~
+unknown~
+container HU A
+200 AC 0 0 0
+30 0 0 P
+#13434
+silver engagement ring~
+a {Wsilver{x {We{xn{Wg{xa{Wg{xe{Wm{xe{Wn{xt ring~
+This {Wsilver{x {We{xn{Wg{xa{Wg{xe{Wm{xe{Wn{xt ring bears an inscription.~
+unknown~
+protect 0 AB
+0 0 0 0 0
+38 0 0 P
+A
+12 50
+A
+13 100
+E
+inscription~
+I will love you always.  May this ring offer you a promise of my love for
+you, to hold forever true.  
+ 
+Yours always,
+Liam
+~
+#13435
+velvet box~
+a black velvet box~
+This black velvet box is just big enough to hold a ring.~
+unknown~
+container 0 AO
+10 AC 0 0 0
+0 0 0 P
+#13436
+speaking stone~
+a speaking stone~
+This speaking stone hums with a magical energy.~
+unknown~
+treasure BG AO
+0 0 0 0 0
+1 0 10 P
+#13437
+shimmering mace~
+a shimmering mace~
+This shimmering mace seems to glow with power.~
+unknown~
+weapon AIS AN
+staff 13 13 punch C
+91 0 455 P
+A
+19 11
+A
+18 11
+#13438
+golden bow~
+a {Ygolden{x bow~
+This light weight bow is made of solid {Ygold{x.~
+unknown~
+weapon 0 AN
+exotic 0 0 crunch FN
+48 0 240 P
+A
+19 25
+A
+18 25
+#13439
+a quiver~
+a leather quiver~
+This leather quiver has been made to withstand hard abuse.~
+unknown~
+container S AV
+60 0 0 0 0
+48 0 0 P
+#13440
+red lightning bolt~
+a tiny {Rred{x bolt of lightning~
+A tiny {Rred{x bolt of lightning is here.~
+unknown~
+protect 0 AR
+0 0 0 0 0
+1 0 0 P
+A
+12 75
+#13441
+blue lightning bolt~
+a tiny {Bblue{x bolt of lightning~
+A tiny {Bblue{x bolt of lightning is here.~
+unknown~
+protect 0 AR
+0 0 0 0 0
+0 0 0 P
+A
+13 75
+#13442
+green lightning bolt~
+a tiny {Ggreen{x bolt of lightning~
+A tiny {Ggreen{x bolt of lightning is here.~
+unknown~
+protect 0 AR
+0 0 0 0 0
+0 0 0 P
+A
+12 50
+A
+13 50
+#13443
+multicolored lightning bolt~
+a tiny {Rm{bu{Cl{Yt{gi{Kc{ro{Bl{yo{Mr{Ge{md{x bolt of lightning~
+A tiny {Rm{bu{Cl{Yt{gi{Kc{ro{Bl{yo{Mr{Ge{md{x bolt of lightning is here.~
+unknown~
+protect 0 AR
+0 0 0 0 0
+0 0 0 P
+A
+12 25
+A
+13 75
+#13444
+lightning pendant~
+a lightning pendant~
+This lightning pendant is fitted on a silver chain.~
+unknown~
+protect 0 AC
+0 0 0 0 0
+0 0 0 P
+A
+17 -15
+#13445
+orb of power~
+an Orb of Power~
+This swirling orb is known as the Orb of Power.~
+unknown~
+weapon 0 AN
+exotic 8 9 punch C
+38 0 190 P
+A
+13 50
+A
+18 7
+A
+19 4
+#13446
+pure silver sword~
+a sword made of pure silver~
+This sword has been crafted of pure silver and glows faintly.~
+unknown~
+weapon AG AN
+sword 12 19 lunge DL
+100 4 500 P
+A
+19 20
+A
+18 20
+#13447
+carpet square~
+a square of carpet~
+This square of carpet looks like a comfortable place to sit.~
+unknown~
+furniture S A
+0 0 0 0 0
+1 1 100 P
+#13448
+red silver bracer~
+a {rred{x and {Wsilver{x bracer~
+This {rred{x and {Wsilver{x bracer bears a small inscription.~
+unknown~
+armor 0 AM
+ACD ACD ACD C 0
+81 2 405 P
+A
+19 5
+A
+18 5
+E
+inscpription~
+"Shard, May my love forever keep you safe. -Padmakshi"
+~
+#13449
+silver-gray cloak~
+a {Wsilver{x-{Kgray{x cloak with a deep {rred{x lining~
+A {Wsilver{x-{Kgray{x cloak with a deep {rred{x lining.~
+unknown~
+armor AS AZ
+BCD BCD BCD C 0
+85 0 425 P
+A
+13 100
+A
+12 100
+#13450
+rose ruby diamond engagement ring~
+a {Rruby{x and {Wdiamond{x engagement ring~
+The rubies and diamonds on this ring form a small rose. {W--'--,--{{R@{x~
+unknown~
+protect 0 AB
+0 0 0 0 0
+77 0 0 P
+A
+12 75
+#13451
+wooden dagger~
+a small wooden dagger~
+You see a small wooden dagger of great but cheap craftsmanship. Imprinted on the side is the insignia of the Training Academy.~
+unknown~
+weapon 0 AN
+bow 4 12 crunch D
+24 0 120 P
+A
+18 6
+A
+19 6
+#13452
+bowl milk~
+a bowl of milk~
+This bowl of delicious looking milk is here.~
+unknown~
+drink 0 A
+20 20 'milk' 0 0
+0 0 0 P
+#13453
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 1 P
+#13454
+blackened ring~
+{Ka blackened ring{x~
+{KA blackened ring is here.{x~
+unknown~
+protect 0 AB
+0 0 0 0 0
+1 2 1200 P
+A
+19 3
+A
+18 3
+#13455
+leather sheath~
+a heavy leather sheath~
+This heavy leather sheath has been designed to fit a massive sword.~
+unknown~
+container S AR
+500 0 0 0 0
+100 0 0 P
+A
+13 100
+#13456
+golden gown~
+a form fitting golden gown~
+An exquisite form fitting golden gown is here.~
+unknown~
+clothing S AD
+0 0 0 0 0
+100 1 1500 P
+E
+gown~
+A form fitting golden gown trimmed with garnets has been folded and left
+here.  Delicate black silk, embroidery has been worked onto the fabric
+enhancing the figure of the wearer and the beauty of the jewels adorning the
+gown itself.  
+~
+#13457
+slim leather book~
+a slim, cracked leather book~
+This slim leather book is cracked with age.~
+unknown~
+treasure S AO
+0 0 0 0 0
+30 1 300 P
+#13458
+long flowing robe~
+a long flowing robe~
+A long close fitting robe.~
+unknown~
+armor 0 AK
+D D D B 0
+50 0 250 P
+A
+13 50
+#13459
+simple gold ring~
+a gold ring~
+This simple ring is made of the purest gold.~
+unknown~
+protect S AB
+0 0 0 0 0
+100 0 0 P
+#13498
+perfect blue orchid~
+a perfect {Cblue{x orchid~
+This perfect {Cblue{x orchid is here.~
+unknown~
+treasure R AQ
+0 0 0 0 0
+40 0 400 P
+A
+13 25
+#13499
+light black armor~
+{Klight black armor{x~
+{KThis suit of light black armor has been made for a custom fit.{x~
+unknown~
+armor STZb AD
+ADE ADE ADE ADE 0
+100 3 500 P
+A
+19 15
+A
+18 15
+A
+17 -25
+A
+12 200
+A
+13 200
+#0
+
+
+
+#ROOMS
+#13400
+A Small Shrine~
+An overwhelming sense of calm envelopes your body upon entering this
+massive chamber.  Where the walls and ceilings should be is instead a
+swirling vortex of energy.  A single platform of stone is all that makes up
+the floor here.  The center of the platform is dominated by a large
+pedestal, above of which floats a crackling ball of pure energy.  Large gray
+stones lead back to the trodden path to the south. 
+~
+0 12 0
+M 0 H 0
+S
+#13401
+Temple of Meyok~
+Ancient stone pillars flank the four corners of this massive room.  Each
+in place to provide support for the heavy stone ceiling above.  The gray
+stone walls appear drab and bare, though on closer inspection, a distinctive
+series of runes can be seen etched into their surface.  Massive archways
+have been built to the north and south.  A long stone hallway is visible to
+the north, while the surface between the archway to the south seems to
+shimmer with a magical aura.  
+~
+0 33554440 0
+D0
+~
+~
+~
+0 0 13402
+D2
+~
+~
+~
+0 0 3001
+M 0 H 0
+S
+#13402
+A Stone Hallway~
+The walls, ceiling, and floor of this massive hallway are made from great
+slabs of gray stone.  Each piece is held in place by large pillars which
+line the eastern and western sides of the corridor.  Flickering shadows
+dance across the surface of the rock, cast there by the large torches set
+into brackets on the wall.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 13403
+D2
+~
+~
+~
+0 0 13401
+M 0 H 0
+S
+#13403
+The Central Chamber~
+Ancient slabs of gray stone make up the walls, ceiling, and floor of this
+chamber.  A spiraling staircase winds its way lazily up the walls, leading
+towards a doorway at the top.  A large wooden table made of dark brown wood
+has been placed in the center of the chamber, with enough room to seat two
+dozen people. 
+~
+0 8 0
+D1
+~
+~
+~
+0 0 13404
+D2
+~
+~
+~
+0 0 13402
+D3
+~
+~
+~
+0 0 13410
+D4
+~
+~
+~
+0 0 13416
+D5
+~
+~
+~
+0 0 13420
+M 0 H 0
+S
+#13404
+~
+~
+0 0 0
+D1
+~
+~
+~
+0 0 13412
+D3
+~
+~
+~
+0 0 13403
+M 0 H 0
+S
+#13405
+A brightly lit hallway~
+~
+0 0 0
+D0
+~
+~
+~
+0 0 13406
+M 0 H 0
+S
+#13406
+~
+~
+0 0 0
+D2
+~
+~
+~
+0 0 13405
+M 0 H 0
+S
+#13407
+A Wisdom's Cottage~
+Smooth wood which has lost its shine lines the floors of this small
+cottage.  A fire burns in the creek-rock fireplace, with a few bubbling pots
+suspended above the flames.  There are many shelves, most of which look as
+if they need replacing.  They hold verious jars and vials filled with oils
+and herbs, as well as preserved fruits and vegitables.  A small table rests
+near the fireplace, a large washtub placed next to it.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 13408
+D1
+~
+~
+~
+0 0 13409
+M 0 H 0
+S
+#13408
+A Small Room~
+A vase with various flowers in it rests atop a small nightstand which is
+placed next to a comfortable looking cot.  The room is small and would
+appear to serve no other purpose other than sleeping.  There is also a small
+wardrobe in the corner of the room, and a the wisdoms herb garden can be
+seen through a small window.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 13407
+M 0 H 0
+S
+#13409
+A Small Greenhouse~
+The small greenhouse is lined with several shelves, and hanging planters
+containing many different plant species.  There are also many different
+species of insects flying about the room who seem to thrive from the warm
+humid enviroment.  Several windows are set into the ceiling and eastern
+wall, allowing a good flow of sunlight into the room during the day.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 13407
+M 0 H 0
+S
+#13410
+~
+~
+0 0 0
+D1
+~
+~
+~
+0 0 13403
+D3
+~
+~
+~
+0 0 13413
+M 0 H 0
+S
+#13411
+~
+~
+0 0 0
+D0
+~
+~
+~
+0 0 13418
+M 0 H 0
+S
+#13412
+~
+~
+0 0 0
+D3
+~
+~
+~
+0 0 13404
+M 0 H 0
+S
+#13413
+~
+~
+0 0 0
+D1
+~
+~
+~
+0 0 13410
+M 0 H 0
+S
+#13414
+~
+~
+0 4 0
+M 0 H 0
+S
+#13415
+~
+~
+0 4 0
+M 0 H 0
+S
+#13416
+A Spiraling Staircase~
+Save Ancient stone blocks make up the staircase that winds around this
+wall leading up.  Far below you, the round central chamber of the temple can
+be seen, while above you, an entranceway shrouded in darkness can be seen.  
+~
+0 0 0
+D4
+~
+~
+~
+0 0 13417
+D5
+~
+~
+~
+0 0 13403
+M 0 H 0
+S
+#13417
+Aidan's Chamber~
+Great slabs of gray stone have been engraved with thousands of tiny
+glowing runic symbols.  These slabs make up the floor, walls, and ceiling of
+this massive chamber.  Small candles have been setup around the room in
+various places, almost seeming like random.  In the center of the room, a
+massive throne made up of the same glowing stone has been constructed. 
+There are no other decorations or furniture, except a small pillow which has
+been placed on the floor in front of the throne.  A wide staircase leads
+down to the lower levels.  
+~
+0 8 0
+D5
+~
+~
+~
+0 0 13416
+M 0 H 0
+S
+#13418
+~
+~
+0 0 0
+D2
+~
+~
+~
+0 0 13411
+M 0 H 0
+S
+#13419
+~
+~
+0 4 0
+M 0 H 0
+S
+#13420
+Below The Temple~
+Walking along this soft path, there is a gentle breeze blowing across the
+immaculately tended beds of roses.  The sweet fragrance from the crimson
+buds circles around you, seeming to bless you with its serene perfection. 
+There are short twisting trees that are populated among the blanket of
+silken blooms, setting pockets of shade and light in a picturesque spread. 
+The path gently curves on, into the rest of the garden to the south.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 13421
+D4
+~
+~
+~
+0 0 13403
+M 0 H 0
+S
+#13421
+A Gardan Path~
+A brilliant palate of colors welcomes you as you walk along the path, the
+shining faces of the wildflowers greet you, shaking and bobbing in the
+ripple of a breeze that seems to follow you along the way.  Every color of
+the rainbow is represented in a colorful mix, there are even some blooms of
+blue and aqua-green.  The curving path continues to the north and south with
+a faint trail to the east.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 13420
+D1
+~
+~
+~
+0 0 13423
+D2
+~
+~
+~
+0 0 13422
+M 0 H 0
+S
+#13422
+A Gardan Path~
+The crowned heads of orchids dangle delicately from their fragile stems,
+quivering in the breeze.  The movement seems to almost bring with it the
+sound of a small bell, twinkling.  The proud blooms boast their pure colors
+or their mixed beauty.  The swirling breeze seems to ease you along the
+path, giving you the option of going to the east or north.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 13421
+D1
+~
+~
+~
+0 0 13424
+M 0 H 0
+S
+#13423
+A Small Clearing~
+~
+0 0 0
+D2
+~
+~
+~
+0 0 13424
+D3
+~
+~
+~
+0 0 13421
+M 0 H 0
+S
+#13424
+A Gardan Path~
+~
+0 0 0
+D0
+~
+~
+~
+0 0 13423
+D3
+~
+~
+~
+0 0 13422
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 13404 spec_cast_mage
+S
+
+
+
+#RESETS
+O 0 13407 0 13408
+O 0 13424 0 13417
+O 0 13425 0 13417
+O 0 13498 0 13422
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

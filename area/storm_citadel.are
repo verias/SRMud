@@ -1,0 +1,3674 @@
+#AREADATA
+Name {40 50} Fury    Storm Citadel~
+Builders None~
+VNUMs 12750 12874
+Security 1
+End
+
+
+
+#MOBILES
+#12750
+knight wind~
+a {cwind knight{x~
+{xA legendary {cwind knight{x stands solemn guard over the Storm Citadel.
+~
+No trace of emotion is evident on his weathered face.  He is a giant of
+mystical proportions with deep set eyes and bulging forearms.  He guards his
+post with an unflinching single-mindedness, watching the storms as they spin
+off over the realm.  
+~
+Giant~
+A 0 0 S
+40 0 10d98+804 40d10+100 4d7+10 17
+-5 -5 -5 -3
+E AB HI CJP
+9 9 1 180
+AHMV ABCDEFGHIJK M unknown
+#12751
+lightning monk~
+a {Ylightning{x monk~
+One of the many {Ylightning{x monks shuffles by with a charged orb.
+~
+A silent monk shuffles purposefully, carrying the lightening strands
+between the source and the storm brewing room.  He takes his work very
+seriously and barely notices you as he shuffles past with his precious
+responsibility.  
+~
+Human~
+A 0 0 S
+42 0 10d109+868 42d10+100 4d7+11 17
+-6 -6 -6 -4
+0 J O 0
+9 9 0 189
+AHMV ABCDEFGHIJK M unknown
+#12752
+nymph sea~
+a {gs{ce{ga {cn{gy{cm{gp{ch{x~
+A {gs{ce{ga {cn{gy{cm{gp{ch{x dances lithely along the tops of the churning waves.
+~
+A small, lithe creature with long flowing strands of seaweed as hair
+cavorts on the stormy sea.  She is naked, with the exception of the seaweed,
+which hangs to her feet.  She is glistening and water drips from her nose
+and fingertips, as if she has just emerged from the depths.  She laughs at
+you as she taunts you into playing her deadly games.  
+~
+Nymph~
+AH b -750 S
+38 0 10d89+743 38d10+100 4d6+11 16
+-4 -4 -4 -2
+BFU R HL C
+9 9 2 171
+ACGHMV ABCDEFGHIJKMQUV M unknown
+#12753
+sea hag~
+a sea hag~
+A weathered sea {Rhag{x emerges from the stormy depths with an evil cackle.
+~
+{xA wrinkled nymph with broken teeth rises from the ocean to block your
+way.  Her skin looks leathery from eons of exposure to saltwater and wind. 
+She is completely naked and her skin sags in all the wrong places.  Her
+breath is revolting when she laughs in your face as she tears at your skin. 
+~
+Nymph~
+ABFO 0 -900 S
+40 0 10d98+804 40d10+100 4d7+10 31
+-5 -5 -5 -3
+0 0 0 H
+9 9 2 180
+ACGHMV ABCDEFGHIJKMQUV M unknown
+#12754
+griffin golden~
+a {ygolden griffin{x~
+A {ygolden griffin{x ruffles it's wings and watches for intruders.
+~
+A fabulous beast with the head and wings of an eagle and the body of a
+lion watches over the storm citadel.  His head and wings are coated with
+metallic gold which ripples as he moves.  
+~
+unique~
+AB T 0 S
+40 0 10d98+804 40d10+100 4d7+10 23
+-5 -5 -5 -3
+E 0 I L
+9 9 0 180
+ACGHMV ABCDEFGHIJKMOPQUV M unknown
+#12755
+storm mother Tempista~
+Tempista~
+{xThe {WStorm Mother{x brews the storms which torment and heal the realm.
+~
+{xTempista{x was chosen by {GTa'ula{x to be {WStorm Mother{x when she was
+just a toddler in her village.  She is a small, dark-skinned elf from
+Tortuguero with large eyes which are reminiscent of opals.  Her long flowing
+black hair seems to sparkle in the light as if covered with jewels or tiny
+drops of dew.  It is her duty to brew the storms which wander the realm
+bringing destruction and healing rain.  She collects her storm ingredients
+from the monks who bring her the {Ylightning strands{x, the {Mpressure
+wands{x and the {Crain seeds{x.  She answers directly to {GTa'ula{x and
+takes her direction solely from him.  
+~
+unique~
+ABFO Jc 0 S
+70 0 11d443+2036 70d10+100 5d8+22 18
+-17 -17 -17 -15
+AF A BHJ 0
+9 9 2 315
+AHMV ABCDEFGHIJK M unknown
+#12756
+storm scribe Eloaran~
+Eloaran~
+The Storm Scribe keeps track of the progress of all the storms which ravish the realm.
+~
+Eloaran keeps track of all of the storms brewed by the Storm Mother.  He
+is a fierce looking haitorin with deep green eyes and a tail that quivers as
+he watches the progress of each cloud with great interest.  
+~
+Haitorin~
+AB VZ 0 S
+50 0 10d167+1149 50d10+100 5d6+13 16
+-9 -9 -9 -7
+H 0 P HIK
+9 9 1 225
+ACGHMV ABCDEFGHIJKMQUV M unknown
+#12757
+monk rain~
+a {Crain{x monk~
+One of the many {Crain{x monks carries his crystal vial tenderly.
+~
+{xA silent monk shuffles purposefully, carrying the small crystal vials
+which hold the {Crain seeds{x between the rain chamber and the storm brewing
+room.  He takes his work very seriously and barely notices you as he
+shuffles past with his precious responsibility.  
+~
+Drow~
+A JZ 0 S
+44 0 10d121+934 44d10+100 4d7+12 30
+-7 -7 -7 -5
+0 P B SZ
+9 9 1 198
+AHMV ABCDEFGHIJK M unknown
+#12758
+wind monk~
+a {Cwind{x monk~
+One of the many {Mwind{x monks shuffles by with a pulsating wand.
+~
+{xA silent monk shuffles purposefully, carrying the pulsating wands which
+hold the {Mpressure differentials{x between the wind chamber and the storm
+brewing room.  He takes his work very seriously and barely notices you as he
+shuffles past with his precious responsibility.  
+~
+Human~
+A 0 0 S
+46 0 10d135+1003 46d10+100 5d5+15 17
+-8 -8 -8 -6
+0 0 0 L
+9 9 0 207
+AHMV ABCDEFGHIJK M unknown
+#12759
+Arin lightning master~
+Arin~
+Arin, the {Ylightning{x master carefully calculates the right conditions for his strands.
+~
+Arin is a tervadi with beady eyes and a rather frightening looking beak. 
+His shoulders are slightly bent and he is usually found wrapped in a silver
+afghan.  He often complains of being cold.  He has been {YLightening{x
+master here for only a short time.  His only duty is to keep the plasma orb
+in the chamber to the north at the right conditions to produce powerful
+strands of {Ylightening{x.  
+~
+unique~
+ABN T 750 S
+50 0 10d167+1149 50d10+100 5d6+13 28
+-9 -9 -9 -7
+0 0 0 L
+9 9 1 225
+ACGHMV ABCDEFGHIJKMOQUV M unknown
+#12760
+wind master Severan~
+Severan~
+Severan watches what appears to be empty space very intently.
+~
+Severan is a tiny elven figure with cropped brown hair and large blue
+eyes.  He has a habit of crinkling his nose when he is deep in thought.  It
+sometimes appears as if it has a life of it's own.  He carefully adjusts the
+pressure gradient in the vast chamber to the north keeping it constant.  
+~
+unique~
+ABO J 0 S
+50 0 10d167+1149 50d10+100 5d6+13 0
+-9 -9 -9 -7
+0 0 B 0
+9 9 0 225
+AHMV ABCDEFGHIJK M unknown
+#12761
+Ruban rain master~
+Ruban~
+Ruban watches the velocity of his swirling pool and tunes it to create optimum rain seeds.
+~
+Ruban is a muscular human with piercing green eyes and curly blond hair. 
+He has a long curly beard, which he is constantly stroking as he watches the
+formation of the {Crain seeds{x.  He is at times gruff, his monks avoid him
+whenever possible.  It is rumored that he plots a way to take Tempista's
+position from her.  
+~
+Human~
+ABQ 0 -750 S
+50 0 10d167+1149 50d10+100 5d6+13 17
+-9 -9 -9 -7
+0 0 0 0
+9 9 1 225
+AHMV ABCDEFGHIJK M unknown
+#12762
+knight wind~
+a {cwind knight{x~
+A legendary {cwind knight{x walks the halls waiting for his duty call.
+~
+No trace of emotion is evident on his weathered face.  He is a giant of
+mystical proportions with deep set eyes and bulging forearms.  When called
+upon, he guards his post with an unflinching single-mindedness.  
+~
+Giant~
+A H 0 S
+40 0 10d98+804 40d10+100 4d7+10 3
+-5 -5 -5 -3
+EJ AB HI JP
+9 9 1 180
+AHMV ABCDEFGHIJK M unknown
+#12763
+captain gygax~
+Captain Gygax~
+Captain Gygax is dressed in formidable armor.
+~
+Captain Gygax has cold grey eyes that pierce the souls of the men who
+displease him.  He is a giant among giants with broad shoulders and bulging
+thigh muscles.  His hair is pulled back into a long ponytail which swishes
+when he walks.  
+~
+Giant~
+ABQ N 200 S
+48 4 10d150+1075 48d10+100 5d6+13 17
+-8 -8 -8 -6
+EF 0 HI JP
+9 9 1 216
+AHMV ABCDEFGHIJK L unknown
+#12764
+Lieutenant Morkista~
+Lieutenant Morkista~
+Lieutenant Morkista ensures that the required posts are always filled.
+~
+{xHe paces easily near the {Wmirror portal{x through which he directs the
+knights to their assigned posts.  Each knight coming through from the
+citadel reports to him.  He is a brawny human with broad shoulders and a
+trim waist.  One thing that everyone who meets him notices are the size of
+his feet.  They look as if they've been removed from the legs of a giant and
+attached to normal human legs.  
+~
+Human~
+ABQ N 250 S
+43 0 10d115+900 43d10+100 4d7+12 17
+-6 -6 -6 -4
+0 0 0 GP
+9 9 1 193
+AHMV ABCDEFGHIJK M unknown
+#12765
+Lieutenant Worfeld~
+Lieutenant Worfeld~
+Lieutenant Worfeld reads a large book when not on duty.
+~
+He reclines on his bed propped with a course linen pillow.  He didn't
+even bother to take his armor off before snatching up his book and immersing
+himself into it.  He is a voracious reader and keeps stacks of books beneath
+his bed in neat piles.  His flaming red hair is unmanageable and he is often
+chastised for the way it sticks out from under his helmet.  
+~
+Human~
+ABQ N 400 S
+45 5 10d128+969 45d10+100 5d5+14 17
+-7 -7 -7 -5
+0 0 0 HL
+5 9 1 202
+AHMV ABCDEFGHIJK M unknown
+#12766
+Commander Tirg~
+Commander Tirg~
+Commander Tirg strips the bark from a piece of dark hardwood.
+~
+Commander Tirg is a steel-eyed haitorin with long incisors and powerful
+forearms.  He spends his free time carving intricate wooden boxes with
+scenes of natural splendor.  His sharp claws are often employed to manage
+the detail that can't be achieved with his knife.  He has been Commander of
+the Wind Knights for many years, few remember when there was another.  He is
+fiercely fair and is generally respected by his men.  
+~
+Haitorin~
+ABQ NVZ 500 S
+50 6 10d167+1149 50d10+100 5d6+13 17
+-9 -9 -9 -7
+EFH 0 P FH
+9 9 1 225
+ACGHMV ABCDEFGHIJKMQUV M unknown
+#0
+
+
+
+#OBJECTS
+#12750
+key iron heavy~
+a heavy iron key~
+A heavy iron key with a lightening bolt scratched in the side lies here.~
+unknown~
+18 0 A 0
+0 0 0 0 0
+1 2 10 P
+0 0
+#12751
+wind spetum~
+a wind spetum~
+A heavy spetum a triple blade at the end looks very dangerous.~
+unknown~
+5 0 AN 0
+D ABC ABD 0 F
+40 11 200 P
+E
+spetum~
+It consists of a broad blade sharpened on two sides with smaller blades
+protruding from the left and right of the center blade.  
+~
+0 CD
+#12752
+wind heaume~
+a wind heaume~
+Small holes have been cut into the front of this heaume, apparently for breathing.~
+unknown~
+9 G AE 0
+BC BC BC B 0
+40 20 200 P
+A
+17 -2
+A
+13 15
+0 0
+#12753
+wind boots~
+a pair of wind boots~
+Three curved lines are burned into the leather of these dull grey boots.~
+unknown~
+9 0 AG 0
+AC AC AC A 0
+35 6 175 P
+A
+12 15
+0 0
+#12754
+whip seaweed kelp~
+a piece of wet kelp~
+A long brown length of {yseaweed{x glistens with the kiss of the saltwater.~
+unknown~
+5 G AN 0
+ABC D AD 0 I
+38 6 190 P
+0 BCD
+#12755
+coral dagger~
+a {mcoral{x dagger~
+A coral dagger with a jagged blade appears to be very sharp.~
+unknown~
+5 G AN 0
+B ABC ABD ABD D
+40 4 200 P
+0 BC
+#12756
+egg emerald green portal~
+{xa shimmering {Ggreen{x egg-shaped portal~
+{xA shimmering {Ggreen{x egg-shaped mass floats in the center of the room.~
+unknown~
+29 AG 0 0
+-1 5 1 13200 12757
+0 0 0 P
+E
+mass~
+It is {Gemerald green{x and shimmers with a magical aura.  It is
+egg-shaped, with the small part of the egg on the bottom.  It looks large
+enough to hold a man easily.  The surface is smooth and cool to the touch. 
+A tiny {gkeyhole{x is near the widest part of the egg.  
+~
+E
+egg~
+{xIt is {Gemerald{x green and shimmers with a magical aura.  It is
+egg-shaped, with the small part of the egg on the bottom.  It looks large
+enough to hold a man easily.  The surface is smooth and cool to the touch. 
+A tiny {gkeyhole{x is near the widest part of the egg.  
+~
+0 0
+#12757
+key emerald~
+an {Gemerald{x key~
+A tiny key seems to be formed from {Gemerald{x.~
+unknown~
+18 AGQT A 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#12758
+cloak hurricane~
+a hurricane cloak~
+A miniature storm seems to hold the shape of a cloak.~
+unknown~
+9 BIS AZ 0
+ABD ABD ABD AB 0
+70 0 350 P
+A
+24 -2
+A
+13 40
+0 ABCDE
+#12759
+portal mirror wind~
+a {Wmirror portal{x~
+A {Wmirror portal{x emits a cooling breeze.~
+unknown~
+29 R 0 0
+-1 0 0 12786 0
+0 0 0 P
+E
+mirror~
+A wide rectangular mirror surface appears to be some sort of portal.  A
+slight, cool breeze emits from the face of it.  Occasionally, an opening
+appears and a {Cwind knight{x emerges.  
+~
+E
+portal~
+A wide rectangular mirror surface appears to be some sort of portal.  A
+slight, cool breeze emits from the face of it.  Occasionally, an opening
+appears and a {Cwind knight{x emerges.  
+~
+0 0
+#12760
+portal mirror wind~
+a mirror portal~
+A mirror portal is here.~
+unknown~
+29 R 0 0
+-1 0 0 12779 0
+0 0 0 P
+E
+portal~
+A wide rectangular mirror surface appears to be some sort of portal.  A
+slight, cool breeze emits from the face of it.  Occasionally, an opening
+appears and a {Cwind knight{x emerges.  
+~
+E
+mirror~
+A wide rectangular mirror surface appears to be some sort of portal.  A
+slight, cool breeze emits from the face of it.  Occasionally, an opening
+appears and a {Cwind knight{x emerges.  
+~
+0 0
+#12761
+tempest kris~
+a kris named "Tempest"~
+The blade of this strange looking kris is shaped like a bolt of {Ylightning{x.~
+unknown~
+5 AGHI AN 0
+B AD ABCD B D
+70 1 350 P
+A
+12 30
+A
+4 1
+E
+kris~
+The blade is made of nearly blinding white metal and is shaped like a
+lightening bolt.  The handle is the darkest black material that you have
+every seen.  
+~
+0 BC
+#12762
+beret linen cap~
+a {Cblue{x linen beret~
+A round, soft, brimless cap looks like it would fit most heads snugly.~
+unknown~
+9 G AE 0
+D D D B 0
+50 0 250 P
+A
+3 1
+A
+12 25
+0 BC
+#12763
+pen quill peacock~
+a peacock quill pen~
+A peacock quill pen looks too fancy to be very useful.~
+unknown~
+27 AGI AO 0
+0 0 0 0 0
+50 0 750 P
+A
+4 2
+0 ABCDE
+#12764
+pressure wand~
+a {Mpressure wand{x~
+A short wand pulsates with a strange energy.~
+unknown~
+3 AG AO 0
+BEF BD BD 5 0
+46 2 1200 P
+0 BCD
+#12765
+earring golden lightning~
+a golden {Ylightning{x earring~
+A tiny earring in the shape of a {Ylightning{x bolt is made of pure gold.~
+unknown~
+27 AG AQ 0
+0 0 0 0 0
+42 0 630 P
+A
+12 40
+0 BCD
+#12766
+robe glowing yellow~
+a glowing {Yyellow{x robe~
+A pile of glowing {Yyellow{x material lies here.~
+unknown~
+9 AG AK 0
+ABC ABC ABC B 0
+42 4 210 P
+A
+17 -4
+0 ABCDE
+#12767
+lightning orb~
+a {Ylightning{x orb~
+A head-sized orb with strands of brilliant {Ylightning{x hums quietly.~
+unknown~
+5 BG AN 0
+0 D BD ABCD 0
+42 0 210 P
+A
+17 -4
+0 ABCDE
+#12768
+robe flowing transparent~
+a transparent flowing robe~
+A sheer piece of transparent material lies here.~
+unknown~
+9 G AV 0
+ABC ABC ABC B 0
+46 0 230 P
+A
+3 1
+A
+24 -2
+0 ABCDE
+#12769
+robe droplet~
+a droplet robe~
+Tiny droplets of water are held magically in the form of a robe without coalescing into a single puddle.~
+unknown~
+9 AG AV 0
+ABC ABC ABC B 0
+44 3 220 P
+A
+17 -4
+0 ABCDE
+#12770
+flask vial rain seed seeds~
+a flask of {Crain seeds{x~
+A small crystal flask contains tiny individual droplets.~
+unknown~
+10 AI A 0
+55 19 36 0 0
+44 0 1320 P
+0 0
+#12771
+rain stick~
+a rain stick~
+A wide rod, made of some type of unique wood makes the sound of rain when it is moved.~
+unknown~
+5 BG AN 0
+C ABCE AB ABDE 0
+44 0 220 P
+A
+18 2
+A
+19 2
+0 ABCDE
+#12772
+Tempista blessing symbol~
+tempista's blessing~
+A strange symbol lies on the floor.~
+unknown~
+27 AGMS AS 0
+0 0 0 0 0
+42 0 630 P
+A
+19 1
+A
+18 1
+A
+12 15
+A
+5 1
+0 ABCDE
+#12773
+desk ornate rich~
+a very ornate desk~
+An ornate desk looks very rich~
+unknown~
+15 R 0 0
+ADE ABCD BCFGHIMN 0 0
+0 0 0 P
+E
+desk~
+This is a grand, very ornate and rich looking desk with an extremely
+large working area.  
+~
+0 0
+#12774
+key brass small~
+a small brass key~
+A small brass key hangs on a piece of blue felt.~
+unknown~
+18 0 A 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#12775
+spectacles~
+a pair of well worn spectacles~
+A pair of well worn spectacles look as if they've been bent back into shape several times.~
+unknown~
+27 0 AT 0
+0 0 0 0 0
+50 0 1500 P
+A
+3 2
+0 BC
+#12776
+afghan silver~
+a silver afghan~
+An afghan made from tiny silver threads is surprisingly warm.~
+unknown~
+27 GS AV 0
+0 0 0 0 0
+50 5 750 P
+A
+12 20
+A
+13 30
+0 ABCDE
+#12777
+wind whip~
+the wind whip~
+The wind whip slithers with purpose under the control of it's master.~
+unknown~
+5 G AN 0
+ABC D CD AB 0
+50 6 250 P
+A
+2 2
+A
+18 1
+0 ABCDE
+#12778
+ring wind master~
+wind Master's ring~
+A heavy platinum ring with sweeping etch marks has been discarded here~
+unknown~
+27 GJK AB 0
+BCD BCD BCD AB 0
+50 0 1000 P
+0 C
+#12779
+ring rain master~
+rain Master's ring~
+A heavy platinum ring with a symbol of a droplet has been discarded here~
+unknown~
+27 GJL AB 0
+BCD BCD BCD AB 0
+50 0 1000 P
+0 0
+#12780
+ring lightning master~
+lightning Master's ring~
+A heavy platinum ring with a symbol of a lightning bolt has been discarded here~
+unknown~
+27 GKL AB 0
+BCD BCD BCD AB 0
+50 0 1000 P
+0 0
+#12781
+book thin red~
+a thin {rred{x book~
+A thin {rred{x book lies open on the table.  It has some kind of strange calculation in it.~
+unknown~
+2 G A 0
+50 273 207 65 0
+50 0 2000 P
+0 0
+#12782
+wand black silver~
+a black wand with silver inlaid markings~
+A black wand has tiny silver inlaid markings along it's length.~
+unknown~
+3 G AO 0
+BEF AC AC 17 0
+50 2 1000 P
+0 0
+#12783
+mace crystal~
+a crystal mace~
+A mace with a crystalline head appears to be made of ice.~
+unknown~
+5 G AN 0
+C D CD ABDE 0
+50 9 250 P
+A
+13 50
+A
+1 1
+0 0
+#12784
+sword lightning~
+a lightning sword~
+A sword with a brilliant jagged blade in the shape of a lightening bolt is here.~
+unknown~
+5 G AN 0
+A D CD AB 0
+50 9 250 P
+A
+19 2
+A
+18 2
+0 0
+#12785
+key slim silver~
+a slim silver key~
+A slim silver key hangs from a sturdy chain.~
+unknown~
+18 0 A 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#12786
+key thin~
+a thin key~
+A thin key hangs on a small chain.~
+unknown~
+18 0 A 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#12787
+key W~
+a key inscribed with a "W"~
+A key has been inscribed with the letter "W"~
+unknown~
+18 0 A 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#12788
+key white~
+a white key~
+A white key hangs on an iron ring.~
+unknown~
+18 0 A 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#12789
+locker~
+a locker~
+A simple wooden locker with a large iron lock is here.~
+unknown~
+15 R 0 0
+BEF ACD AEFGHIMN 0 0
+0 0 0 P
+E
+locker~
+It is just a simple metal box with an iron rings attached to the top and
+bottom through with a sizeable padlock has been threaded.  
+~
+0 0
+#12790
+a locker~
+a locker~
+A simple wooden locker with a large iron lock is here.~
+unknown~
+15 R 0 0
+BEF ACD BEFGHIMN 0 0
+0 0 0 P
+E
+locker~
+It is just a simple metal box with an iron rings attached to the top and
+bottom through with a sizeable padlock has been threaded.  
+~
+0 0
+#12791
+locker~
+a locker~
+A simple wooden locker with a large iron lock is here.~
+unknown~
+15 R 0 0
+BEF ACD ABEFGHIMN 0 0
+0 0 0 P
+E
+locker~
+It is just a simple metal box with an iron rings attached to the top and
+bottom through with a sizeable padlock has been threaded.  
+~
+0 0
+#12792
+locker~
+a locker~
+A simple wooden locker with a large iron lock is here.~
+unknown~
+15 R 0 0
+BEF ACD CEFGHIMN 0 0
+0 0 0 P
+E
+locker~
+It is just a simple metal box with an iron rings attached to the top and
+bottom through with a sizeable padlock has been threaded.  
+~
+0 0
+#12793
+torch heavy resin~
+a heavy resin torch~
+A heavy torch, dipped in resin burns brightly but strangely gives off no odor.~
+unknown~
+1 ART A 0
+0 0 300 0 0
+40 0 600 P
+A
+3 1
+A
+4 1
+0 ABCDE
+#12794
+wind shield~
+a wind shield~
+A heavy shield with three curved lines etched in the front lies here.~
+unknown~
+9 S AJ 0
+BC BC BC B 0
+40 13 200 P
+A
+1 1
+0 ABCDE
+#12795
+leggings thin grey~
+thin grey leggings~
+A pair of grey leggings made of thin, but very strong material lies here.~
+unknown~
+9 0 AF 0
+BC BC BC B 0
+40 5 200 P
+A
+13 20
+A
+24 -2
+0 0
+#12796
+sleeves thin grey~
+a pair of thin grey sleeves~
+A pair of sleeves made from a thin but very strong grey material is here.~
+unknown~
+9 0 AI 0
+BC BC BC B 0
+40 0 200 P
+A
+12 15
+A
+19 1
+0 0
+#12797
+tattoo wind knight~
+a wind knight's tattoo~
+An almost intangible outline of a knight in full armor lies here.~
+unknown~
+27 GIMS AS 0
+0 0 0 0 0
+40 0 900 P
+A
+19 1
+A
+18 1
+0 ABCDE
+#12798
+wind gauntlets~
+wind gauntlets~
+A pair of thick leather gauntlets have three curved lines burned into them.~
+unknown~
+9 G AH 0
+BC BC BC B 0
+40 4 200 P
+A
+24 -5
+0 0
+#12799
+chainmail grey light thin glowing~
+thin grey chainmail~
+This chainmail is made from a very light chain material and is quite thin but magically strong.~
+unknown~
+9 AGIS AD 0
+BC BC BC B 0
+40 1 200 P
+A
+13 30
+0 0
+#12800
+chainmail grey light thin~
+thin grey chainmail~
+Some chainmail made from a very light chain material is very thin, but magically strong.~
+unknown~
+9 GIS AD 0
+BC BC BC B 0
+40 1 200 P
+A
+13 30
+0 0
+#12801
+wind shortsword~
+a wind shortsword~
+A shortsword with three curved lines etched into the blade lies here.~
+unknown~
+5 0 AN 0
+A ABC ABD AB 0
+40 10 200 P
+0 0
+#12802
+mace wind~
+a wind mace~
+A mace with a heavy metal handle has three curved lines carved into it.~
+unknown~
+5 0 AN 0
+C ABC ABD ABDE 0
+40 14 200 P
+0 0
+#12803
+broadsword wind knight~
+wind knight's broadsword~
+A broadsword has a jeweled hilt etched with three curved lines.~
+unknown~
+5 G AN 0
+A ABC CD AB 0
+43 15 215 P
+A
+19 2
+0 0
+#12804
+mask thin grey~
+a thin grey mask~
+A mask is made from a magically strong thin grey material.~
+unknown~
+9 GI AT 0
+ABC ABC ABC B 0
+43 1 780 P
+A
+13 40
+0 0
+#12805
+wind girth~
+a wind girth~
+A wide metal girth has been etched with three curved lines.~
+unknown~
+9 GI AL 0
+ABC ABC ABC B 0
+43 8 215 P
+A
+17 -4
+0 0
+#12806
+morgenstern~
+a morgenstern~
+A ball and chain flail has razor sharp spikes on the ball.~
+unknown~
+5 G AN 0
+BC ABE C D 0
+45 8 225 P
+A
+19 2
+A
+5 1
+A
+18 -1
+0 CD
+#12807
+gorget steel~
+a steel gorget~
+A steel gorget has a few dents from combat but looks to provide good protection.~
+unknown~
+27 0 AC 0
+CD ACD CD AB 0
+45 5 675 P
+A
+13 15
+A
+5 1
+0 0
+#12808
+hauberk chain battered~
+a battered chain hauberk~
+A chain hauberk has been marred by many battles.~
+unknown~
+9 GI AD 0
+ABC ABC ABC B 0
+45 12 225 P
+A
+13 20
+A
+12 25
+0 CD
+#12809
+spaulders steel~
+steel spaulders~
+A pair of steel spaulders are kept buffed to a shine.~
+unknown~
+9 GI AV 0
+D D D B 0
+48 7 240 P
+A
+17 -10
+0 BCD
+#12810
+talwar sword curved~
+a talwar~
+A long sword with an intricately carved, curved blade lies here.~
+unknown~
+5 AGI ANP 0
+A BC ABCD AB E
+48 10 240 P
+0 CD
+#12811
+solleret steel~
+a pair of steel sollerets~
+A pair of steel sollerets have been discarded here.~
+unknown~
+9 I AG 0
+D D D B 0
+48 6 240 P
+0 0
+#12812
+teardrop shield~
+a teardrop shield~
+A teardrop shaped shield would cover from the shoulder to the knees.~
+unknown~
+9 I AJ 0
+D D D B 0
+50 12 250 P
+A
+1 2
+0 CD
+#12813
+flamberge blue steel~
+a blue steel flamberge~
+A long-handled sword has a blue steel wavy blade shaped somewhat like a flame.~
+unknown~
+5 GI ANP 0
+A D CD A J
+50 9 250 P
+A
+18 2
+0 CD
+#12814
+ring wind knight commander~
+a commander's ring~
+A heavy gold band with the mark of the Wind Knights is here.~
+unknown~
+27 G AB 0
+0 0 0 0 0
+50 0 750 P
+A
+13 30
+A
+19 2
+0 BCD
+#12815
+surcoat quilted~
+a quilted surcoat~
+A quilted surcoat has heraldic war symbols embroidered on the front and back.~
+unknown~
+9 GT AV 0
+BC BC BC B 0
+40 6 200 P
+A
+19 2
+A
+2 1
+E
+!history!~
+This quilted surcoat has been in the Landor family for several
+generations.  It was quilted using tiny stitches of thin, strong sinew.  On
+the front is an intricate scene of a knight in full armor, mounted on a
+{Rfire{x tineer.  
+~
+E
+war~
+On the front is an intricate scene of a knight in full armor, mounted on
+a {Rfire{x tineer.  
+~
+E
+symbols~
+On the front is an intricate scene of a knight in full armor, mounted on
+a {Rfire{x tineer.  
+~
+L
+protecting the armor~
+0 0
+#12816
+knight saving~
+a knight's savings~
+A pile of gold has been carefully locked up here.~
+unknown~
+20 0 A 0
+EFGHJL 0 0 0 0
+1 0 0 P
+0 0
+#12817
+bracer sapphire inlaid~
+a {bsapphire{x-studded bracer~
+{xA bracer studded with magnificent {bsapphires{x lays here.~
+unknown~
+9 GT AM 0
+BC BC BC B 0
+40 2 200 P
+A
+1 1
+A
+13 20
+E
+!history!~
+This bracer was once owned by one of the many heroes who lost his life
+during the War of the Ancients.  He wore it in the battle in which the
+Amulet of the Elements was recovered.  
+~
+0 BC
+#12818
+worn journal~
+a worn journal~
+A worn journal has some strange symbols written on the last page.~
+unknown~
+2 G A 0
+40 12 80 0 0
+40 2 1000 P
+0 BCD
+#12819
+bed comfortable~
+a comfortable bed~
+A bed is neatly made and looks to be quite comfortable.~
+unknown~
+12 R 0 AEI
+0 0 0 0 0
+0 0 0 P
+0 0
+#12820
+bed twin~
+a twin bed~
+A twin bed has been pushed up against the wall.~
+unknown~
+12 R 0 AEIQ
+0 0 0 0 0
+0 0 0 P
+0 0
+#12821
+cubby hole~
+a cubby hole~
+A series of tiny shelves, little more than cubby holes are here.~
+unknown~
+15 R 0 0
+BD 0 0 0 0
+0 0 0 P
+0 0
+#12822
+glove maiden fair~
+the glove of a fair maiden~
+A thin glove, embroidered with pearls has been gently folded here.~
+unknown~
+27 GT AO 0
+0 0 0 0 0
+40 0 600 P
+A
+1 -1
+A
+3 1
+A
+4 1
+E
+!history!~
+This is the glove of the woman that the great Knight Worfeld gave his
+heart to.  Her death was quite a blow to him.  
+~
+0 BC
+#12823
+chair~
+a wide chair made of heavy dark wood~
+A wide chair made of heavy dark wood is pushed up against a large desk.~
+unknown~
+12 R 0 AB
+0 0 0 0 0
+0 0 0 P
+0 0
+#12824
+desk wide~
+a wide desk~
+A wide desk with whorled dark-wood top is here.~
+unknown~
+15 R 0 0
+BD ACD BDEJMN 0 0
+0 0 0 P
+0 0
+#12825
+bodkin carving~
+a carving bodkin~
+A small blade with a needle-like tip has a worn wooden handle.~
+unknown~
+5 0 AN 0
+B BC ABC ABD 0
+22 3 110 P
+A
+18 1
+0 BC
+#12826
+key small~
+a small key~
+A small key has been tossed here.~
+unknown~
+18 0 A 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#12827
+shelf shelves~
+a wooden shelf~
+A series of wooden shelves line the eastern wall.~
+unknown~
+15 R 0 0
+CFG 0 0 0 0
+0 0 0 P
+0 0
+#12828
+scroll supernatural~
+ta'ula's scroll~
+A scroll fairly glows with a supernatural energy.~
+unknown~
+2 AG A 0
+65 36 509 0 0
+50 3 2500 P
+0 BCD
+#0
+
+
+
+#ROOMS
+#12750
+Edge of the gathering storm~
+The sea to the south is white-capped and the swell is gathering momentum.
+Wind whips wetly, seemingly from all directions.  Each gust carries droplets
+of salty water which sting when they find their way to your skin.  To the
+north the skies over the open sea are clear.  On the horizon, you can see
+lofty cliffs.  Overhead, low-lying grey stratus clouds hang drearily.  Dark
+nimbus clouds threaten from the south.  
+~
+0 0 7
+E
+swell~
+Long waves on the surface of the sea move continuously without breaking. 
+Deep troughs between the crests make navigation treacherous.  
+~
+E
+stratus~
+Low lying.  Darkening grey clouds appear to be layered.  They threaten
+stormy weather ahead.  
+~
+E
+clouds~
+Low lying.  Darkening grey clouds appear to be layered.  They threaten
+stormy weather ahead.  
+~
+E
+nimbus~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+D0
+You see a gathering storm.  
+~
+~
+0 0 12751
+D1
+You see a gathering storm.  
+~
+~
+0 0 12751
+D2
+You see a gathering storm.  
+~
+~
+0 0 12782
+D3
+You see a gathering storm.  
+~
+~
+0 0 12782
+S
+#12751
+Edge of the gathering storm~
+The sea to the south is white-capped and the swell is gathering momentum.
+Wind whips wetly, seemingly from all directions.  Each gust carries droplets
+of salty water which sting when they find their way to your skin.  To the
+north the skies over the open sea are clear.  On the horizon, you can see
+lofty cliffs.  Overhead, low-lying grey stratus clouds hang drearily.  Heavy
+nimbus clouds threaten from the south.  
+~
+0 0 7
+E
+swell~
+Long waves on the surface of the sea move continuously without breaking. 
+Deep troughs between the crests make navigation treacherous.  
+~
+E
+stratus~
+Low lying.  Darkening grey clouds appear to be layered.  They threaten
+stormy weather ahead.  
+~
+E
+clouds~
+Low lying.  Darkening grey clouds appear to be layered.  They threaten
+stormy weather ahead.  
+~
+E
+nimbus~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+D0
+The Sea of Discordia stretches out to reach the horizon.  
+~
+~
+0 0 16022
+D1
+You see a gathering storm.  
+~
+~
+0 0 12782
+D2
+You see a gathering storm.  
+~
+~
+0 0 12750
+D3
+You see a gathering storm.  
+~
+~
+0 0 12750
+S
+#12752
+Tossed in the raging winds~
+{xBlack nimbus clouds threaten to overwhelm everything in their path. 
+Flashes of brilliant {Ylightning{x pulse through the blackness.  The seas
+are tremendously high, each wave capped in white as the wind sheers the top
+from it.  The winds rage, seeming to swirl from all directions.  Rain pelts
+you with large, driving drops.  
+~
+0 1 0
+E
+nimbus~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+E
+clouds~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+D0
+You see a gathering storm.  
+~
+~
+0 0 12782
+D1
+The winds rage, seeming to swirl from all directions.  
+~
+~
+0 0 12752
+D2
+The winds rage, seeming to swirl from all directions.  
+~
+~
+0 0 12785
+D3
+The winds rage, seeming to swirl from all directions.  
+~
+~
+0 0 12752
+S
+#12753
+On the storm churned ocean~
+{xThe crushing winds whirl swiftly over the tops of the monstrous swell
+sheering the tops from the crests of the waves.  Flotsam of various origins
+bobs violently on the irregular surface of the sea.  Black nimbus clouds
+threaten to overwhelm everything in their path.  Flashes of brilliant
+{Ylightning{x pulse through the blackness, illuminating what appears to be a
+solid castle-like structure high in the dark clouds, deep within the storm. 
+~
+0 1 0
+E
+swell~
+Long waves on the surface of the sea move continuously without breaking. 
+The deep troughs are now so large that even the largest ship couldn't be
+seen were it in the bottom of it.  
+~
+E
+nimbus~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+E
+clouds~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+E
+flotsam~
+The wreckage and cargo left from ages of shipwrecks betrays the history
+and dangers of the sea.  
+~
+E
+castle~
+Fantastically, a large castle with two towers is camouflaged within the
+dark storm clouds.  Perhaps it is an optical illusion.  
+~
+E
+structure~
+Fantastically, a large castle with two towers is camouflaged within the
+dark storm clouds.  Perhaps it is an optical illusion.  
+~
+D0
+The winds rage, seeming to swirl from all directions.  
+~
+~
+0 0 12780
+D1
+You see the ocean, whipped up into a raging froth.  
+~
+~
+0 0 12753
+D2
+You see the ocean, whipped up into a raging froth.  
+~
+~
+0 0 12784
+D3
+You see the ocean, whipped up into a raging froth.  
+~
+~
+0 0 12753
+S
+#12754
+In the swirling storm~
+The tempest rages violently as flotsam from many sources is tossed
+carelessly about the surface of the boiling seas.  The sky is dark and thick
+nimbus clouds coat everything with their stormy venom.  The normal howl of
+the wind is overshadowed by an eerie sound unlike any you've ever heard
+before coming from the south.  Water, wind and debris rise violently from
+the sea's surface, disappearing into the hungry clouds above.  The air
+crackles with electrical pulses and {Ylightning{x illuminates what appears
+to be a solid structure high in the blackest clouds.  
+~
+0 1 0
+E
+structure~
+Fantastically, a large castle with two towers is camouflaged within the
+dark storm clouds.  Perhaps it is an optical illusion.  
+~
+E
+flotsam~
+The wreckage and cargo left from ages of shipwrecks betrays the history
+and dangers of the sea.  
+~
+E
+nimbus~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+E
+clouds~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+D0
+You see the ocean, whipped up into a raging froth.  
+~
+~
+0 0 12783
+D2
+You see a swirling wall of water and debris.  
+~
+~
+0 0 12755
+S
+#12755
+Swept up by a water spout~
+A tremendous wall of water swirls ferociously counterclockwise gathering
+up everything in it's path and tossing it into the waiting nimbus clouds. 
+Flotsam from shipwrecks throughout the years along with sea animals are
+carried violently within the violent wall of water.  
+~
+0 8197 0
+E
+nimbus~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+E
+clouds~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+E
+flotsom~
+The wreckage and cargo left from ages of shipwrecks betrays the history
+and dangers of the sea.  
+~
+D4
+A gigantic, swirling wall of water carries everything in it's path up to
+the hungry clouds.  
+~
+~
+0 0 12756
+S
+#12756
+Carried by a waterspout~
+A tremendous wall of water swirls ferociously counterclockwise gathering
+up everything in it's path and tossing it into the waiting nimbus clouds. 
+Flotsam from shipwrecks throughout the years along with sea animals are
+carried violently within the violent wall of water.  Even giant behemoths
+can't be safe from the clutches of the waterspout.  
+~
+0 5 0
+E
+flotsom~
+The wreckage and cargo left from ages of shipwrecks betrays the history
+and dangers of the sea.  
+~
+E
+nimbus~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+E
+clouds~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+E
+behemoth~
+This ancient sea creature is thought by some to be a figment of the
+imagination of sailors who have been out to sea too long.  Occasionally,
+expeditions go in search of these great animals.  It looks a bit like a
+giant mannatee and at first glance might appear to be clumsy.  It has a
+massive tail that it is able to whip around with lightening speed.  
+~
+D4
+A gigantic, swirling wall of water carries everything in it's path up to
+the hungry clouds.  
+~
+~
+0 0 12757
+S
+#12757
+High in the raging storm~
+The waterspout swirls below, gathering all the treasures acquired by the
+sea with the help of the storms.  Flotsam bounces across the top of the
+spout until it is finally tossed out, where it can fall back to the surface,
+only to be caught up again in an endless cycle.  Astonishingly, a grey stone
+bridge crosses the top of the waterspout, which encircles a gigantic castle
+like a moat.  On the outsides of the moat dark nimbus clouds float to their
+destinations, carrying their havoc deep inside their blackness.  
+~
+0 1 0
+E
+flotsam~
+The wreckage and cargo left from ages of shipwrecks betrays the history
+and dangers of the sea.  
+~
+E
+bridge~
+A wide bridge with no rails along the sides spans a wide whirling tempest
+of wind and water at the top of the waterspout.  It is probably best to stay
+near the center of the bridge.  
+~
+E
+castle~
+It is a large stone castle with two towers that are visible from this
+side.  It sits in the eye of a raging waterspout.  Storm clouds seem to be
+accumulated around it.  
+~
+E
+nimbus~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+E
+clouds~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+D1
+You see a drawbridge of sorts over a moat of wind.  
+~
+~
+0 0 12758
+S
+#12758
+Over the wind moat~
+{xA wide, grey-stone bridge hangs miraculously in the air covering the
+wind moat.  The wind and water of the water spout encircles a dark castle,
+hidden within a ferocious storm cloud.  Pulses of {Ylightning {xbetray the
+presence of that castle behind the concealment of the clouds.  Towering
+stoney double-doors are set in the side of the castle.  
+~
+0 0 0
+E
+bridge~
+A wide bridge with no rails along the sides spans a wide whirling tempest
+of wind and water at the top of the waterspout.  It is probably best to stay
+near the center of the bridge.  
+~
+E
+castle~
+It is a large stone castle with two towers that are visible from this
+side.  It sits in the eye of a raging waterspout.  Storm clouds seem to be
+accumulated around it.  
+~
+E
+doors~
+They appear to be extremely heavy, being made of pale grey stone.  It is
+doubtful that a mere mortal could open them without magical help.  The
+hinges hum slightly.  
+~
+D1
+{xWhen the {Ylightening{x flashes, what appears to be a huge nimbus cloud
+is revealed as a dark castle.  
+~
+stoney~
+1 12750 12759
+D3
+Black nimbus clouds carry fierce storms to distant destinations.  
+~
+~
+0 0 12757
+S
+#12759
+In an icy corridor~
+The walls of this lengthy corridor are made of pale silvery-blue ice. 
+Each wall rises in an arc, meeting at a sharp angle at the top.  The apex is
+perfectly straight with seemingly no imperfections.  The shape and length of
+the hall give the illusion of great distance between the stoney doors to the
+west and a chamber to the east.  Perhaps it isn't an illusion after all.  
+~
+0 0 0
+E
+doors~
+They appear to be extremely heavy, being made of pale grey stone.  It is
+doubtful that a mere mortal could open them without magical help.  The
+hinges hum slightly.  
+~
+D1
+You see a set of icy doors.
+~
+icy~
+0 0 12760
+D3
+You see a gigantic set of stoney doors.  
+~
+stoney~
+1 0 12758
+S
+#12760
+Before the icy doors~
+A set of icy doors look to be incredibly thick.  When closed, they are
+nearly translucent, transmitting small amounts of light but causing
+sufficient diffusion to prevent perception of distinct images on the other
+side.  To the east, a set of stoney doors sit at the end of a seemingly
+endless icy corridor.  
+~
+0 0 0
+D1
+You see a set of large stone doors.  
+~
+~
+1 0 12761
+D3
+You see what looks like a an endless corridor made of silvery blue ice.  
+~
+~
+0 0 12759
+S
+#12761
+Circular chamber~
+{xEach sound that you make echoes strangely off the circular chamber
+walls.  Looking up, it appears that there is no ceiling or that thick dark
+clouds hang below it.  The walls are perhaps 100 meters high, maybe even
+more.  The floor is dark grey stone with streaks of {Wluminescent{x marble,
+which gives the appearance of lightning bolts.  Four arched exits are set
+into the circular walls, one in each of the cardinal directions.  
+~
+0 0 0
+E
+cloud~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+D0
+You see a stone platform above a vast chamber.  
+~
+~
+0 0 12762
+D1
+You see a stone platform above a vast chamber.  
+~
+~
+0 0 12764
+D2
+You see a stone platform above a vast chamber.  
+~
+~
+0 0 12763
+D3
+You see a set of icy doors.  
+~
+~
+1 0 12760
+S
+#12762
+Above the Lightning Chamber~
+A large stone platform looks out over a vast chamber below, in the center
+of which is a gigantic pulsating orb.  Fingers of electrical energy dance
+within the plasma, which is held magically inside the orb.  Robed figures
+shuffle along the chamber floor.  To the south, a stone archway leads out of
+the chamber.  A thin metal ladder leads down.  
+~
+0 0 0
+E
+figures~
+{xRobed {Ylightning{x monks walk purposefully up to the pulsating plasma
+orb in the center of the room.  Oddly, just before reaching the orb they
+raise their hoods.  Each carries a dull blue head-sized orb.  Upon reaching
+the plasma orb the monk raises his uncharged orb above his head and touches
+it to the surface.  A brilliant strike of white lightening emits from the
+center of the plasma orb directly to the point on it's surface where the
+smaller or touches.  The monk appears to receive a jolt and his orb begins
+to glow brightly.  
+~
+E
+orb~
+It is a thin spherical film inside of which strands of electrical energy
+form in constant motion from the center to the surface.  
+~
+E
+ladder~
+The rungs are thin and hung on a metal chain.  They are attached to the
+platform via thick iron bolts and hang down to the ground below.  
+~
+D2
+You see a circular chamber through an arched doorway.  
+~
+~
+0 0 12761
+D5
+A metal ladder leads down into a vast chamber.  
+~
+~
+0 0 12765
+S
+#12763
+Above the Wind Chamber~
+A large stone platform looks out over a vast, seemingly empty chamber
+below.  The air pressure seems to change gradually when you move from east
+to west across the platform.  Powerful magic must be at play here which
+keeps the air pressure differential from equilibrating.  Robed figures
+shuffle along the chamber floor.  To the north, a large pair of doors leads
+out of the chamber.  A thin metal ladder leads down.  
+~
+0 0 0
+E
+ladder~
+The rungs are thin and hung on a metal chain.  They are attached to the
+platform via thick iron bolts and hang down to the ground below.  
+~
+E
+figures~
+{xRobed {Mmonks{x stand nearly motionless in a line in the center or the
+room.  Above their heads they hold a seemingly ordinary stick, parallel to
+the platform and the pressure gradient.  Eventually, the sticks begin to
+glow, at which point the monk who is holding it, lowers the wand, raises his
+hood and climbs the ladder to the platform.  
+~
+E
+robed~
+{xRobed {Mmonks{x stand nearly motionless in a line in the center or the
+room.  Above their heads they hold a seemingly ordinary stick, parallel to
+the platform and the pressure gradient.  Eventually, the sticks begin to
+glow, at which point the monk who is holding it, lowers the wand, raises his
+hood and climbs the ladder to the platform.  
+~
+E
+figure~
+{xRobed {Mmonks{x stand nearly motionless in a line in the center or the
+room.  Above their heads they hold a seemingly ordinary stick, parallel to
+the platform and the pressure gradient.  Eventually, the sticks begin to
+glow, at which point the monk who is holding it, lowers the wand, raises his
+hood and climbs the ladder to the platform.  
+~
+D0
+You see a circular chamber through an arched doorway.  
+~
+~
+0 0 12761
+D5
+A metal ladder leads down into a seemingly empty chamber.  
+~
+~
+0 0 12766
+S
+#12764
+Above the Rain Chamber~
+A large stone platform looks out over a vast chamber below.  A swirling
+pool containing a liquid which appears to be water takes up the center of
+the chamber.  Oddly, the pool is suspended above the floor and no physical
+barrier provides surfaces to hold the shape of the pool.  Small robed
+figures shuffle along the outsides of the chamber below.  A series of small
+white clouds form a loose spiral staircase leading up.  
+~
+0 0 0
+E
+fluffy~
+Separate, fluffy white cloud are held together magically into the
+formation of a spiral staircase, which leads up to a vast chamber.  
+~
+E
+clouds~
+Separate, fluffy white cloud are held together magically into the
+formation of a spiral staircase, which leads up to a vast chamber.  
+~
+E
+spiral~
+Separate, fluffy white cloud are held together magically into the
+formation of a spiral staircase, which leads up to a vast chamber.  
+~
+E
+staircase~
+Separate, fluffy white cloud are held together magically into the
+formation of a spiral staircase, which leads up to a vast chamber.  
+~
+E
+pool~
+A mass of water floats magically above the ground.  No physical barriers
+keep it from running all over the floor.  The water whirls madly throwing
+minuscule droplets into the air.  
+~
+E
+water~
+A mass of water floats magically above the ground.  No physical barriers
+keep it from running all over the floor.  The water whirls madly throwing
+minuscule droplets into the air.  
+~
+E
+figure~
+{xRobed {Crain{x monks wander along the outside of the chamber carrying
+their open flasks.  When they have shuffled completely around the chamber
+once the raise thier hoods and carefully place the cap on their flask and
+climb the ladder to the platform.  
+~
+E
+robed~
+{xRobed {Crain{x monks wander along the outside of the chamber carrying
+their open flasks.  When they have shuffled completely around the chamber
+once the raise thier hoods and carefully place the cap on their flask and
+climb the ladder to the platform.  
+~
+D3
+You see a circular chamber through an arched doorway.  
+~
+~
+0 0 12761
+D4
+A spiral staircase, seemingly made of fluffy white clouds leads up.  
+~
+~
+0 0 12768
+D5
+A metal ladder leads down to a vast chamber containing a swirling pool of
+water.  
+~
+~
+0 0 12767
+S
+#12765
+The Lightning Chamber~
+The air crackles with electrical energy.  Powerful magic is at play here,
+allowing manipulation of the awesome power of lightening.  A gigantic orb
+takes up the center of the room.  Bolts of energy are barely contained
+within.  The vast eastern wall is transparent.  Through it, the progress of
+the storms spun off from the citadel can be followed.  
+~
+0 0 0
+E
+orb~
+It is a thin spherical film inside of which strands of electrical energy
+form in constant motion from the center to the surface.  
+~
+D3
+You see small room full of scrolls and books.  
+~
+~
+0 0 12769
+D4
+You see a high stone platform.  Access to the platform can be gained via
+the metal ladder leading up to it.  
+~
+~
+0 0 12762
+S
+#12766
+The Wind Chamber~
+This vast chamber appears to be empty except for the robed figures
+shuffling along the dark grey floor.  The air pressure is noticeably
+different as you move from the eastern end of the chamber, where it is
+difficult to gather any oxygen from the near vacuum, to the western end,
+where the weight of the atmosphere is nearly crushing.  No physical barrier
+keeps the air from rushing to equilibrium.  There must be powerful magic at
+play.  
+~
+0 0 0
+D3
+You see small room full of scrolls and books.  
+~
+~
+0 0 12770
+D4
+You see a metal ladder leading up to a stone platform.  
+~
+~
+0 0 12763
+S
+#12767
+Rain Chamber~
+A vast chamber with transparent walls is suspended in a raging storm.  In
+the middle of the chamber is a gigantic, swirling pool of some liquid, which
+appears to be water.  Near the center of the pool it whirls madly, throwing
+miniscule droplets of water into the air.  The droplets, instead of falling
+back into the pool, seem to be channelled magically towards the outside of
+the chamber, where they remain suspended.  
+~
+0 0 0
+E
+water~
+A mass of water floats magically above the ground.  No physical barriers
+keep it from running all over the floor.  The water whirls madly throwing
+minuscule droplets into the air.  
+~
+E
+liquid~
+A mass of water floats magically above the ground.  No physical barriers
+keep it from running all over the floor.  The water whirls madly throwing
+minuscule droplets into the air.  
+~
+E
+pool~
+A mass of water floats magically above the ground.  No physical barriers
+keep it from running all over the floor.  The water whirls madly throwing
+minuscule droplets into the air.  
+~
+D3
+You see small room full of scrolls and books.  
+~
+~
+0 0 12771
+D4
+You see a large stone platform suspended in the air.  
+~
+~
+0 0 12764
+S
+#12768
+Storm Brewing Chamber~
+This is a chamber of mountainous proportions.  Overhead, it appears that
+there is no ceiling enclosing it, leaving the stormy sky visible.  In the
+center of the room is a large trihedral made of a solid black material. 
+Where each of the faces of the trihedral meets another, a line of robed
+figures has formed.  Each monk, in turn, approaches the trihedral and places
+his charge at the bottom.  On one side, head-sized orbs release the
+{Ylightning strands {x, on another, {Mpressure wands{x create the pressure
+differentials required for the formation of wind.  On the third side, small
+crystal vials release the {Crain seeds{x.  Each of these storm ingredients
+travels magically up their individual side of the trihedral in some
+predetermined ratio.  At the apex a small storm cloud is born containing all
+the properties required to go out and propagate it's wrath across Discordia.
+When the {WStorm Mother{x is satisfied with the potential power of her
+creation it is released from the apex and leaves the citadel via the opening
+at the top of this chamber.  
+~
+0 0 0
+E
+trihedrom~
+It is a solid structure formed by three planes meeting at a single point.
+The angles are equal where two planes meet and each side is the same as the
+others.  The base is much broader than the sides.  
+~
+E
+monk~
+Robed figures carrying charged orbs, wands or crystal flasks wait in
+lines at each side of the trihedron.  
+~
+E
+apex~
+It is the point at which the three planes of the trihedron intersect. 
+The storm ingredients are mixed there.  
+~
+E
+cloud~
+A small cloud is born white and slowly darkens and grows as the storm
+ingredients are mixed.  
+~
+D0
+You see a wide alcove in which monks seem to be cleaning and sorting
+things.  
+~
+~
+0 0 12772
+D1
+You see an arched doorway into what appears to be an ordinary study from
+here.  
+~
+~
+0 0 12773
+D2
+You see a wide alcove with a large relief map.  
+~
+~
+0 0 12774
+D5
+A set of fluffy white clouds form a spiral staircase leading down.  
+~
+~
+0 0 12764
+S
+#12769
+Study of the Lightning Master~
+This room is exceedingly bright, a column of blinding white light, about
+three inches diameter runs from the ceiling to the floor in the northwest
+corner of the room.  In the center of the room, positioned so that the
+occupant can see all of the activity in the chamber to the east is an
+extremely large desk.  On the northern wall are a series of what appear to
+be mathematical equations and magical symbols.  
+~
+0 4194304 0
+D1
+You see a vast chamber and robed figures.  
+~
+~
+0 0 12765
+S
+#12770
+Study of the Wind Master~
+A heavy, over-stuffed chair has been placed carefully so that it's
+occupant can view all of the activity in the vast chamber to the east.  On
+the wall to the north of the door is a drawing of a circle which is
+dissected into uneven pieces by lines running through it.  On the wall to
+the south is a three-dimensional representation of a solid cone with the
+base at the top.  Along the west wall are a series of shelves on which books
+have been placed rather haphazardly.  
+~
+0 4194304 0
+D1
+You see a vast chamber and robed figures.  
+~
+~
+0 0 12766
+S
+#12771
+Study of the Rain Master~
+In the center of this room is a rather amazing fountain.  It appears to
+have no physical boundaries yet does not spill out onto the floor.  The
+likeness of a tiny cloud rains constantly and with varying degrees of
+ferocity.  A small likeness of a lake collects the miniature rain.  On the
+walls are shelves containing books.  Oddly, they are all the same width,
+height and color.  A chair is set facing the vast chamber to the north.  In
+front of the chair is a wide table.  
+~
+0 4194304 0
+E
+chair~
+This is a simple chair with the exception of the runes which are carved
+into the arm rests and along the back rest.  It is positioned to give the
+occupant maximum view of the rain chamber.  
+~
+D1
+You see a vast chamber and robed figures.  
+~
+~
+0 0 12767
+S
+#12772
+Recycling Alcove~
+In this room are three large bins.  In the first are the spent orbs,
+which were used to carry the {Ylightning{x strands.  The second is full of
+plain brown rods, which were used to carry the {Mpressure{x differentials
+and the crystal flasks, which carried to {Crain{x seeds.  Each container is
+being carefully cleaned and inspected before being put back into service in
+the chambers below.  
+~
+0 0 0
+E
+flask~
+They are smaller at the top and broaden at the base.  
+~
+E
+rods~
+They are just plain pieces of ordinary wood.  The only thing remarkable
+about them is that the ends seem to be planed to be exactly parallel.  
+~
+E
+orbs~
+They are the size of a human's head and are dull-blue in their spent form.  
+~
+E
+bins~
+These are ordinary wooden bins about 5 feet long and 3 feet wide.  When
+the monk delivers his charge he brings his spent container and deposits it
+into the recycle bin.  He then waits for a cleaned and blessed container of
+the appropriate type to be give too him so that he may start the process all
+over again.  
+~
+D2
+You see a massive room, in the center of which is a jet-black trihedral. 
+Several robed monks stand in lines.  
+~
+~
+0 0 12768
+D3
+You see a set of wide stone stairs.  
+~
+~
+0 0 12776
+S
+#12773
+Storm Mother's Study~
+This appears to be a normal study with a large wooden desk and
+bookshelves on the north and south walls.  Heavy ancient-looking books fill
+the bookshelves and several parchment scrolls are unrolled on the desk top. 
+A curved stone archway leads to the west into the storm brewing chamber.  A
+comfortable looking chair has been placed strategically so that it's
+occupant can see the activity through the archway.  To the east, an open
+doorway leads into a room with transparent walls.  
+~
+0 4194304 0
+E
+key~
+{xIt is {Gemerald{x green and shimmers with a magical aura.  It is
+egg-shaped, with the small part of the egg on the bottom.  It looks large
+enough to hold a man easily.  The surface is smooth and cool to the touch. 
+A tiny {gkeyhole{x is near the widest part of the egg.  
+~
+E
+mass~
+{xIt is {Gemerald{x green and shimmers with a magical aura.  It is
+egg-shaped, with the small part of the egg on the bottom.  It looks large
+enough to hold a man easily.  The surface is smooth and cool to the touch. 
+A tiny {gkeyhole{x is near the widest part of the egg.  
+~
+D1
+You see into a room with transparent walls from which you can watch the
+storms.  
+~
+~
+0 0 12775
+D3
+You see a vast chamber with a trihedral in the center.  
+~
+~
+0 0 12768
+S
+#12774
+Map Alcove~
+This spacious room contains a fantastical relief map.  Upon closer
+inspection it appears to be a likeness of the entire realm.  A tall ridge of
+mountains defines the northern border.  Several rivers run south from the
+mountain range, meeting to form two larger rivers.  In the crotch where the
+two western river forks meet is the largest of the several miniature
+villages which are spaced throughout the map.  That river cuts through a
+vast canyon and finally dumps into a sparkling blue sea.  The eastern rivers
+are flooded near the mountain and eventually find their way to the same sea.
+A miniature volcano rises from a toy-sized jungle on the western shore and
+puffs an acrid smelling smoke at regular intervals.  Above the map, tiny
+storms and wispy clouds wander over the landscape.  
+~
+0 0 0
+E
+map~
+It is a three dimensional representation of the realm.  It is very
+realistic, in fact, it looks as if miniature trees are really growing along
+the shoreline where tiny waves crash on glistening sand.  It hovers about
+two feet off the ground.  
+~
+D0
+You see a massive room, in the center of which is a jet-black trihedral. 
+Several robed monks stand in lines.  
+~
+~
+0 0 12768
+D3
+You see a set of wide stone stairs.  
+~
+~
+0 0 12777
+S
+#12775
+Viewing Room~
+This room is barely a room in the traditional sense.  It has no ceiling,
+no floor nor walls except the one to the west.  Although there doesn't
+appear to be a physical barrier there is certainly something that keeps the
+occupants from feeling the force of the raging storms that surround it or
+from succumbing to the will of gravity.  From this vantage point, one can
+watch the progress of the infant storms as they gather strength and wander
+off to show their terrible forces.  
+~
+0 0 0
+D3
+A wide doorway opens into what appears to be an ordinary study, except
+for the glowing egg-shaped portal in the middle of it.  
+~
+~
+0 0 12773
+S
+#12776
+Cold Stone Staircase~
+A wide staircase, carved of cold grey stone bends ever-so-slightly to the
+south near the top.  The steps are smooth and regularly shaped.  The walls
+on either side of the stairs are made of the same cold grey stone but the
+surface is unpolished and rough.  At the top of the steps is a doorway.  
+~
+0 0 0
+E
+up~
+You see a rather plain looking room.  
+~
+D1
+You see three bins containing objects that are being cleaned by monks.  
+~
+~
+0 0 12772
+D4
+~
+~
+0 0 12779
+S
+#12777
+Cold Stone Staircase~
+A wide staircase, carved of cold grey stone bends ever-so-slightly to the
+north near the top.  The steps are smooth and regularly shaped.  The walls
+on either side of the stairs are made of the same cold grey stone but the
+surface is unpolished and rough.  At the top of the steps is a doorway.  
+~
+0 0 0
+D1
+You see an alcove containing a large relief map.  
+~
+~
+0 0 12774
+D4
+You see a study of some sort, with thousands of tightly-rolled scrolls.  
+~
+~
+0 0 12778
+S
+#12778
+Storm Scribe's Study~
+Long shelves containing thousands of tightly-rolled scrolls line every
+inch of wall space.  Small brass plaques are fastened to the front of the
+shelves at equal intervals.  On the floor, near a large mahogany desk is a
+pile of scrolls.  It looks as if someone is behind on their filing.  One
+scroll is open and looks to be in progress.  It seems to be tracking the
+progress of some storms.  
+~
+0 4194308 0
+E
+pile~
+It looks like at least a years worth of daily scrolls.  Someone is behind
+on their filing.  
+~
+E
+shelves~
+They are deep enough to hold the long tightly-rolled scrolls which track
+the history of storms in the realm.  They give the illusion of being well
+organized.  
+~
+E
+plaque~
+This one says "Year of the Bard".  
+~
+D5
+~
+~
+0 0 12777
+S
+#12779
+Reporting Room~
+This plain low-ceilinged room has no windows.  The walls are rough grey
+stone.  In the corner is a {Wmirror portal{x from which a strange, cool
+breeze flows.  On the eastern wall is a large slate tablet with a list of
+names written in some type of chalk.  A doorway leads down a short set of
+stairs.  
+~
+0 0 0
+E
+portal~
+A wide rectangular mirror surface appears to be some sort of portal.  A
+slight, cool breeze emits from the face of it.  Occasionally, an opening
+appears and a {Cwind knight{x emerges.  
+~
+E
+mirror~
+A wide rectangular mirror surface appears to be some sort of portal.  A
+slight, cool breeze emits from the face of it.  Occasionally, an opening
+appears and a {Cwind knight{x emerges.  
+~
+D5
+You see a wide set of stone stairs.  
+~
+~
+0 0 12776
+S
+#12780
+Tossed in the raging winds~
+Black nimbus clouds threaten to overwhelm everything in their path. 
+Flashes of brilliant {Ylightning{x pulse through the blackness.  The seas
+are tremendously high, each wave capped in white as the wind sheers the top
+from it.  The winds rage, seeming to swirl from all directions.  Rain pelts
+you with large, driving drops.  
+~
+0 0 0
+E
+nimbus~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+E
+cloud~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+D0
+The winds rage, seeming to swirl from all directions.  
+~
+~
+0 0 12781
+D1
+The winds rage, seeming to swirl from all directions.  
+~
+~
+0 0 12785
+D2
+You see the ocean, whipped up into a raging froth.  
+~
+~
+0 0 12753
+D3
+The winds rage, seeming to swirl from all directions.  
+~
+~
+0 0 12781
+S
+#12781
+Tossed in the raging winds~
+Black nimbus clouds threaten to overwhelm everything in their path. 
+Flashes of brilliant {Ylightning{x pulse through the blackness.  The seas
+are tremendously high, each wave capped in white as the wind sheers the top
+from it.  The winds rage, seeming to swirl from all directions.  Rain pelts
+you with large, driving drops.  
+~
+0 8 7
+E
+nimbus~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+E
+clouds~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+D0
+The winds rage, seeming to swirl from all directions.  
+~
+~
+0 0 12785
+D1
+The winds rage, seeming to swirl from all directions.  
+~
+~
+0 0 12780
+D2
+The winds rage, seeming to swirl from all directions.  
+~
+~
+0 0 12780
+D3
+The winds rage, seeming to swirl from all directions.  
+~
+~
+0 0 12785
+S
+#12782
+Edge of the gathering storm~
+The sea to the south is white-capped and the swell is gathering momentum.
+Wind whips wetly, seemingly from all directions.  Each gust carries droplets
+of salty water which sting when they find their way to your skin.  To the
+north the skies over the open sea are clear.  On the horizon, you can see
+lofty cliffs.  Overhead, low-lying grey stratus clouds hang drearily.  Dark
+nimbus clouds threaten from the south.  
+~
+0 0 0
+E
+swell~
+Long waves on the surface of the sea move continuously without breaking. 
+Deep troughs between the crests make navigation treacherous.  
+~
+E
+stratus~
+Low lying.  Darkening grey clouds appear to be layered.  They threaten
+stormy weather ahead.  
+~
+E
+clouds~
+Low lying.  Darkening grey clouds appear to be layered.  They threaten
+stormy weather ahead.  
+~
+E
+numbus~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+D0
+You see a gathering storm.  
+~
+~
+0 0 12750
+D1
+You see a gathering storm.  
+~
+~
+0 0 12750
+D2
+The winds rage, seeming to swirl from all directions.  
+~
+~
+0 0 12752
+D3
+You see a gathering storm.  
+~
+~
+0 0 12751
+S
+#12783
+On the storm churned ocean~
+The crushing winds whirl swiftly over the tops of the monstrous swell
+sheering the tops from the crests of the waves.  Flotsam of various origins
+bobs violently on the irregular surface of the sea.  Black nimbus clouds
+threaten to overwhelm everything in their path.  Flashes of brilliant
+{Ylightning{x pulse through the blackness, illuminating what appears to be a
+solid castle-like structure high in the dark clouds, deep within the storm. 
+~
+0 0 0
+E
+swell~
+Long waves on the surface of the sea move continuously without breaking. 
+The deep troughs are now so large that even the largest ship couldn't be
+seen were it in the bottom of it.  
+~
+E
+nimbus~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+E
+clouds~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+E
+flotsam~
+The wreckage and cargo left from ages of shipwrecks betrays the history
+and dangers of the sea.  
+~
+E
+castle~
+Fantastically, a large castle with two towers is camouflaged within the
+dark storm clouds.  Perhaps it is an optical illusion.  
+~
+E
+structure~
+Fantastically, a large castle with two towers is camouflaged within the
+dark storm clouds.  Perhaps it is an optical illusion.  
+~
+D0
+You see the ocean, whipped up into a raging froth.  
+~
+~
+0 0 12784
+D1
+You see the ocean, whipped up into a raging froth.  
+~
+~
+0 0 12784
+D2
+You see a raging storm.  
+~
+~
+0 0 12754
+D3
+You see the ocean, whipped up into a raging froth.  
+~
+~
+0 0 12784
+S
+#12784
+On the storm churned ocean~
+The crushing winds whirl swiftly over the tops of the monstrous swell
+sheering the tops from the crests of the waves.  Flotsam of various origins
+bobs violently on the irregular surface of the sea.  Black nimbus clouds
+threaten to overwhelm everything in their path.  Flashes of brilliant
+{Ylightning{x pulse through the blackness, illuminating what appears to be a
+solid castle-like structure high in the dark clouds, deep within the storm. 
+~
+0 0 0
+E
+swell~
+Long waves on the surface of the sea move continuously without breaking. 
+The deep troughs are now so large that even the largest ship couldn't be
+seen were it in the bottom of it.  
+~
+E
+nimbus~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+E
+clouds~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+E
+flotsam~
+The wreckage and cargo left from ages of shipwrecks betrays the history
+and dangers of the sea.  
+~
+E
+castle~
+Fantastically, a large castle with two towers is camouflaged within the
+dark storm clouds.  Perhaps it is an optical illusion.  
+~
+E
+structure~
+Fantastically, a large castle with two towers is camouflaged within the
+dark storm clouds.  Perhaps it is an optical illusion.  
+~
+D0
+You see the ocean, whipped up into a raging froth.  
+~
+~
+0 0 12753
+D1
+You see the ocean, whipped up into a raging froth.  
+~
+~
+0 0 12783
+D2
+You see the ocean, whipped up into a raging froth.  
+~
+~
+0 0 12783
+D3
+You see the ocean, whipped up into a raging froth.  
+~
+~
+0 0 12783
+S
+#12785
+Tossed in the raging winds~
+Black nimbus clouds threaten to overwhelm everything in their path. 
+Flashes of brilliant {Ylightning{x pulse through the blackness.  The seas
+are tremendously high, each wave capped in white as the wind sheers the top
+from it.  The winds rage, seeming to swirl from all directions.  Rain pelts
+you with large, driving drops.  
+~
+0 8 7
+E
+nimbus~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+E
+clouds~
+Black clouds, like gooey gobs of tar threaten to release their
+lightening, rain and wind on the defenseless realm.  
+~
+D0
+The winds rage, seeming to swirl from all directions.  
+~
+~
+0 0 12752
+D1
+The winds rage, seeming to swirl from all directions.  
+~
+~
+0 0 12781
+D2
+The winds rage, seeming to swirl from all directions.  
+~
+~
+0 0 12781
+D3
+The winds rage, seeming to swirl from all directions.  
+~
+~
+0 0 12780
+S
+#12786
+Wind Knights Headquarters~
+This is where the legendary Wind Knights, those brave men called upon by
+{GNature{x to defend his realm, are headquartered.  Solemn looking knights
+in full armor wander these halls when they are not on active duty.  In the
+center of this room, which is barely more than a wide spot in a long
+east-west corridor, is a large {Wmirror portal{x from which a strange, cool
+breeze flows.  The floors and walls are smooth marble and the footsteps of
+the knights echo throughout.  A large, circular skylight overhead provides
+adequate lighting.  The marble hallways lead to the east and west.  
+~
+0 0 0
+E
+skylight~
+A large, perfectly circular opening has been carved out of the marble in
+the ceiling.  A thin strip of dark {ggreen{x marble, much darker than the
+rest creates a sort of frame for the sky above.  
+~
+E
+marble~
+It is cold and smooth.  The shading is even with nearly no imperfections.  
+~
+D1
+A wide hall made of green marble is lit with a series of torches.  
+~
+~
+0 0 12787
+D3
+A wide hall made of green marble is lit with a series of torches.  
+~
+~
+0 0 12799
+S
+#12787
+East Wing~
+{xA long {ggreen{x marble hallway, wide enough for several knights to
+walk abreast runs east-west.  A smaller hallway, made of a brighter shade of
+{mrose-colored{x marble, intersects it here, running north-south.  Slanted
+holes have been bored into the marble walls into which torches have been
+placed at even intervals along the lengths of both corridors.  Along the
+floor is an intricate design made from inlaid pieces of marble various
+shades of green.  
+~
+0 8 0
+E
+marble~
+The marble is cold and smooth.  It is the color of birch leaves with
+seemingly no imperfections.  
+~
+E
+hole~
+Holes, as big around as a dwarven fist have been bored very smoothly into
+the walls at even intervals about six feet off the ground.  The recesses
+slant downwards at a gentle angle, easily holding the heavy resin torches
+which light the corridor.  
+~
+E
+torch~
+Thick bundles of dried reeds have been dipped in a heavy resin on one
+end.  The resin end provides a steady and bright flame.  
+~
+E
+design~
+Various shades of marble have been pieced together like a perfectly
+fitting puzzle.  They make an intricate scene of a field of wildflowers.  
+~
+D0
+You see a narrow rose-colored marble hallway lit with a series of torches.  
+~
+~
+0 0 12793
+D1
+A wide hall made of green marble is lit with a series of torches.  
+~
+~
+0 0 12788
+D2
+You see a narrow rose-colored marble hallway lit with a series of torches.  
+~
+~
+0 0 12796
+D3
+You see a wide alcove in the corridor.  
+~
+~
+0 0 12786
+S
+#12788
+East Wing~
+Heavy footsteps echo throughout the long corridor.  Few voices mingle
+with those sounds.  It is almost as if the knights who reside here are too
+solemn and serious to waste time with idle chat.  Torches have been placed
+in slanted holes which line the hall.  They burn brightly and provide plenty
+of lighting.  The reflection of the flames dance off the polished marble of
+the floor and walls.  The corridor continues west and east.  At the end of
+the hall to the east is a dark brown, possibly wooden, door.  
+~
+0 8 0
+E
+hole~
+Holes, as big around as a dwarven fist have been bored very smoothly into
+the walls at even intervals about six feet off the ground.  The recesses
+slant downwards at a gentle angle, easily holding the heavy resin torches
+which light the corridor.  
+~
+E
+torch~
+Thick bundles of dried reeds have been dipped in a heavy resin on one
+end.  The resin end provides a steady and bright flame.  
+~
+D1
+A wide hall made of green marble is lit with a series of torches.  
+~
+~
+0 0 12789
+D3
+A wide hall made of green marble is lit with a series of torches.  
+~
+~
+0 0 12787
+S
+#12789
+East Wing~
+The reflection of the flames from the torches which line the corridor
+create dancing patterns on the polished marble.  They look a bit like
+fairies frolicking wildly, darting and dancing with abandon.  To the east is
+a wide, dark wooden door with a curved top.  The corridor stretches out for
+quite a long ways to the west.  
+~
+0 8 0
+E
+marble~
+The marble is cold and smooth.  It is the color of birch leaves with
+seemingly no imperfections.  
+~
+E
+torch~
+Thick bundles of dried reeds have been dipped in a heavy resin on one
+end.  The resin end provides a steady and bright flame.  
+~
+D1
+You see a heavy wooden door.  
+~
+~
+1 0 12790
+D3
+A wide hall made of green marble is lit with a series of torches.  
+~
+~
+0 0 12788
+S
+#12790
+Between the Barracks~
+A narrow aisle runs between two rooms of barracks where the wind knights
+are bunked.  Rows and rows of cots, some neatly made, some in use by large
+men, are to the north and south.  Overhead, a row of small skylights lets in
+the daylight or moonshine.  On the eastern wall of the barracks is a
+gigantic mural painted with brilliant colors.  
+~
+0 8 0
+D0
+You see rows and rows of cots.  
+~
+~
+0 0 12791
+D2
+You see rows and rows of cots.  
+~
+~
+0 0 12792
+D3
+A wide hall made of green marble is lit with a series of torches.  
+~
+~
+1 0 12789
+S
+#12791
+Barracks~
+Rows of simple wooden cots fill this small dark room.  Each is made
+perfectly with a thin woolen blanket.  Beneath each cot, a {glocker{x is
+neatly tucked.  There are no windows in this room and the only light comes
+from oil lanterns resting on small wooden tables next to each cot.  No other
+personal affects are obvious in this stark room.  
+~
+0 9 0
+E
+locker~
+It is just a simple metal box with an iron rings attached to the top and
+bottom through with a sizeable padlock has been threaded.  
+~
+E
+cot~
+A thin matress on a sturdy wooden frame is fairly wide as cots go.  It is
+low to the ground, allowing just enough room for the locker hidden stored
+it.  
+~
+D2
+~
+~
+0 0 12790
+S
+#12792
+Barracks~
+Rows of simple wooden cots fill this small dark room.  Each is made
+perfectly with a thin woolen blanket.  Beneath each cot, a {glocker{x is
+neatly tucked.  There are no windows in this room and the only light comes
+from oil lanterns resting on small wooden tables next to each cot.  No other
+personal affects are obvious in this stark room.  
+~
+0 9 0
+E
+locker~
+It is just a simple metal box with an iron rings attached to the top and
+bottom through with a sizeable padlock has been threaded.  
+~
+E
+cot~
+A thin matress on a sturdy wooden frame is fairly wide as cots go.  It is
+low to the ground, allowing just enough room for the locker hidden stored
+it.  
+~
+D0
+~
+~
+0 0 12790
+S
+#12793
+Rose Corridor~
+A small hallway runs north from the wide {ggreen{x corridor which runs
+through the Wind Knights Headquarters.  The walls, floor and ceiling are
+made from a lustrous {mrose-colored{x marble with almost no discolorations
+or imperfections.  Along the wall are several smallish torches, each held in
+a slanted hole bored into the marble walls.  Along the floor of this an
+intricate pattern formed of inlaid pieces of various shades of marble.  At
+the far north end of this hall is a full suit of armor.  
+~
+0 8 0
+E
+pattern~
+Small pieces of marble of various shades have been cut and inlaid into
+the floor to form an intricate pattern.  
+~
+E
+hole~
+Holes, as big around as a dwarven fist have been bored very smoothly into
+the walls at even intervals about six feet off the ground.  The recesses
+slant downwards at a gentle angle, easily holding the heavy resin torches
+which light the corridor.  
+~
+E
+torch~
+Thick bundles of dried reeds have been dipped in a heavy resin on one
+end.  The resin end provides a steady and bright flame.  
+~
+D0
+You see a narrow rose-colored marble hallway lit with a series of torches.  
+~
+~
+0 0 12794
+D2
+You see a narrow rose-colored marble hallway lit with a series of torches.  
+~
+~
+0 0 12787
+S
+#12794
+Rose Corridor~
+The walls in this hall are made of smooth {mrose-colored{x marble
+containing almost no discolorations or imperfections.  At the north end of
+the wall is a full suit of armor, complete with closed visor and heavy
+halberd.  It looks to be proportioned for a very large knight.  On the floor
+is a beautiful pattern which is slightly reminiscent of a glowing flame. 
+There is an open doorway to the east.  
+~
+0 8 0
+E
+pattern~
+Small pieces of marble of various shades have been cut and inlaid into
+the floor to form an intricate pattern.  
+~
+E
+suit~
+Armor to cover from head to toe stands, as if a sentry at the end of the
+hallway.  The helm is brightly polished and has a row of spikes running
+along the top from forhead to neck.  A jeweled gorget rests on top a set of
+full plate armor.  In the guantlet a heavy polearm rests, as if being held
+by an invisible grip.  
+~
+E
+armor~
+Armor to cover from head to toe stands, as if a sentry at the end of the
+hallway.  The helm is brightly polished and has a row of spikes running
+along the top from forhead to neck.  A jeweled gorget rests on top a set of
+full plate armor.  In the guantlet a heavy polearm rests, as if being held
+by an invisible grip.  
+~
+D1
+You see a room with two beds.  
+~
+~
+0 0 12795
+D2
+You see a narrow rose-colored marble hallway lit with a series of torches.  
+~
+~
+0 0 12793
+S
+#12795
+Lieutenants Quarters~
+Two beds, slightly more comfortable looking that the cots in the general
+barracks are pushed up against the north and south walls of this smallish
+room.  Overhead, two hand-sized skylights reveal the weather outside and
+provide adequate lighting during the day.  Two large oil lanterns rest on
+the floor, next to each bed.  The headboard of each bed contains perhaps
+twenty or so cubby holes, some containing small items.  A doorway with an
+arch at the top leads out to the west into a rose-colored hallway past a
+large suit of armor.  
+~
+0 8 0
+E
+lantern~
+Thick yellowish oil half-fills the lower chamber in show this fairly
+large, hurricane lamp.  A flat, white wick soaks the oil from below and
+burned in the upper chamber.  The upper glass is lined with soot, reducing
+slightly the amount of light which escapes.  
+~
+E
+skylight~
+It is the size of a human hand and oval in shape.  It has been carved
+perfectly from the marble ceiling.  
+~
+D3
+You see a narrow rose-colored marble hallway lit with a series of torches.  
+~
+~
+0 0 12794
+S
+#12796
+Rose Corridor~
+A small hallway runs south from the wide {ggreen{x corridor which runs
+through the Wind Knights Headquarters.  The walls, floor and ceiling are
+made from a lustrous {mrose-colored{x marble with almost no discolorations
+or imperfections.  Along the wall are several smallish torches, each held in
+a slanted hole bored into the marble walls.  Along the floor of this an
+intricate pattern formed of inlaid pieces of various shades of marble.  At
+the far south end of this hall is a full suit of armor.  
+~
+0 0 0
+E
+pattern~
+Small pieces of marble of various shades have been cut and inlaid into
+the floor to form an intricate pattern.  
+~
+E
+hole~
+Holes, as big around as a dwarven fist have been bored very smoothly into
+the walls at even intervals about six feet off the ground.  The recesses
+slant downwards at a gentle angle, easily holding the heavy resin torches
+which light the corridor.  
+~
+E
+torch~
+Thick bundles of dried reeds have been dipped in a heavy resin on one
+end.  The resin end provides a steady and bright flame.  
+~
+D0
+You see a narrow rose-colored marble hallway lit with a series of torches.  
+~
+~
+0 0 12787
+D2
+You see a narrow rose-colored marble hallway lit with a series of torches.  
+~
+~
+0 0 12797
+S
+#12797
+Rose Corridor~
+The walls in this hall are made of smooth {mrose-colored{x marble
+containing almost no discolorations or imperfections.  At the south end of
+the wall is a full suit of armor, complete with closed visor and heavy
+halberd.  It looks to be proportioned for a very large knight.  On the floor
+is an beautiful pattern which is slightly reminiscent of a glowing flame. 
+There is an open doorway to the east.  
+~
+0 0 0
+E
+pattern~
+Small pieces of marble of various shades have been cut and inlaid into
+the floor to form an intricate pattern.  
+~
+E
+armor~
+Armor to cover from head to toe stands, as if a sentry at the end of the
+hallway.  The helm is brightly polished and has a row of spikes running
+along the top from forhead to neck.  A jeweled gorget rests on top a set of
+full plate armor.  In the guantlet a heavy polearm rests, as if being held
+by an invisible grip.  
+~
+E
+suit~
+Armor to cover from head to toe stands, as if a sentry at the end of the
+hallway.  The helm is brightly polished and has a row of spikes running
+along the top from forhead to neck.  A jeweled gorget rests on top a set of
+full plate armor.  In the guantlet a heavy polearm rests, as if being held
+by an invisible grip.  
+~
+D0
+You see a narrow rose-colored marble hallway lit with a series of torches.  
+~
+~
+0 0 12796
+D1
+You see a spacious room with lavish adornments.  
+~
+~
+0 0 12798
+S
+#12798
+Commanders Quarters~
+{xThe doorway opens into a spacious room with lavish adornments.  Near
+the southern wall is a large bed, which is enclosed in a gold trimmed
+{ggreen{x velvet curtain.  In the center of the room is a wide desk on which
+several books have been carefully stacked.  A chair, made of a dark
+hardwood, has been pushed close to the desk, although the wide armrests
+preclude it from sliding neatly underneath.  Along the eastern wall are a
+series of shelves, many containing ornately carved wooden boxes.  A small,
+sharp knife with a carved handle rests on the lowest shelf.  
+~
+0 8 0
+E
+curtain~
+It is made of heavy green velvet and has gold trim along the top.  The
+bottom is hung with long gold tassles.  
+~
+D3
+You see a narrow rose-colored marble hallway lit with a series of torches.  
+~
+~
+0 0 12797
+S
+#12799
+West Wing~
+A long {ggreen{x marble hallway, wide enough for several knights to walk
+abreast runs east-west.  A smaller hallway, made of a brighter shade of
+{K{Cblue{x{x marble, intersects it here, running north-south.  Slanted holes
+have been bored into the marble walls into which torches have been placed at
+even intervals along the length of both corridors.  Along the floor is an
+intricate design made from inlaid pieces of marble various shades of green. 
+~
+0 8 0
+E
+marble~
+The marble is cold and smooth.  It is the color of birch leaves with
+seemingly no imperfections.  
+~
+E
+hole~
+Holes, as big around as a dwarven fist have been bored very smoothly into
+the walls at even intervals about six feet off the ground.  The recesses
+slant downwards at a gentle angle, easily holding the heavy resin torches
+which light the corridor.  
+~
+E
+torch~
+Thick bundles of dried reeds have been dipped in a heavy resin on one
+end.  The resin end provides a steady and bright flame.  
+~
+E
+pattern~
+Various shades of marble have been pieced together like a perfectly
+fitting puzzle.  An incredibly detailed likeness of an intimidating tiger
+stares back at you.  
+~
+E
+design~
+Various shades of marble have been pieced together like a perfectly
+fitting puzzle.  An incredibly detailed likeness of an intimidating tiger
+stares back at you.  
+~
+D0
+You see a narrow blue marble hallway lit with a series of torches.  
+~
+~
+0 0 12805
+D1
+You see a wide alcove in the corridor.  
+~
+~
+0 0 12786
+D2
+You see a narrow blue marble hallway lit with a series of torches.  
+~
+~
+0 0 12808
+D3
+A wide hall made of green marble is lit with a series of torches.  
+~
+~
+0 0 12800
+S
+#12800
+West Wing~
+Torches provide adequate light in this wide east-west corridor.  The
+walls and floor are made of polished marble which reflects the light of the
+torch flame.  Heavy footsteps echo throughout uninterrupted by few voices. 
+The corridor continues west and east.  At the end of the hall to the west is
+a dark brown, possibly wooden, door.  
+~
+0 8 0
+E
+marble~
+The marble is cold and smooth.  It is the color of birch leaves with
+seemingly no imperfections.  
+~
+E
+torch~
+Thick bundles of dried reeds have been dipped in a heavy resin on one
+end.  The resin end provides a steady and bright flame.  
+~
+D1
+A wide hall made of green marble is lit with a series of torches.  
+~
+~
+0 0 12799
+D3
+A wide hall made of green marble is lit with a series of torches.  
+~
+~
+0 0 12801
+S
+#12801
+West Wing~
+The intricate marble-inlaid pattern on the floor of the corridor is
+brightly illuminated by the many torches which line the corridor in slanted
+holes bored into the marble walls.  To the west is a wide, dark wooden door
+with a curved top.  The corridor stretches out for quite a long ways to the
+east.  
+~
+0 8 0
+E
+torch~
+Thick bundles of dried reeds have been dipped in a heavy resin on one
+end.  The resin end provides a steady and bright flame.  
+~
+D1
+A wide hall made of green marble is lit with a series of torches.  
+~
+~
+0 0 12800
+D3
+You see a heavy wooden door.  
+~
+~
+1 0 12802
+S
+#12802
+Between the Barracks~
+A narrow aisle runs between two rooms of barracks where the wind knights
+are bunked.  Rows and rows of cots, some neatly made, some in use by large
+men, are to the north and south.  Overhead, a row of small skylights lets in
+the daylight or moonshine.  On the western wall of the barracks is a
+gigantic mural painted with brilliant colors.  
+~
+0 8 0
+D0
+You see rows and rows of cots.  
+~
+~
+0 0 12803
+D1
+A wide hall made of green marble is lit with a series of torches.  
+~
+~
+1 0 12801
+D2
+You see rows and rows of cots.  
+~
+~
+0 0 12804
+S
+#12803
+Barracks~
+Rows of simple wooden cots fill this small dark room.  Each is made
+perfectly with a thin woolen blanket.  Beneath each cot, a {glocker{x is
+neatly tucked.  There are no windows in this room and the only light comes
+from oil lanterns resting on small wooden tables next to each cot.  No other
+personal affects are obvious in this stark room.  
+~
+0 9 0
+E
+cot~
+A thin matress on a sturdy wooden frame is fairly wide as cots go.  It is
+low to the ground, allowing just enough room for the locker hidden stored
+it.  
+~
+D2
+~
+~
+0 0 12802
+S
+#12804
+Barracks~
+Rows of simple wooden cots fill this small dark room.  Each is made
+perfectly with a thin woolen blanket.  Beneath each cot, a {glocker{x is
+neatly tucked.  There are no windows in this room and the only light comes
+from oil lanterns resting on small wooden tables next to each cot.  No other
+personal affects are obvious in this stark room.  
+~
+0 9 0
+E
+cot~
+A thin matress on a sturdy wooden frame is fairly wide as cots go.  It is
+low to the ground, allowing just enough room for the locker hidden stored
+it.  
+~
+D0
+~
+~
+0 0 12802
+S
+#12805
+Blue Corridor~
+A small hallway runs north from the wide {ggreen{x corridor which runs
+through the Wind Knights Headquarters.  The walls, floor and ceiling are
+made from a lustrous {Cblue{x marble with almost no discolorations or
+imperfections.  Along the wall are several smallish torches, each held in a
+slanted hole bored into the marble walls.  Along the floor of this an
+intricate pattern formed of inlaid pieces of various shades of marble.  At
+the far north end of this hall is a full suit of armor.  
+~
+0 8 0
+E
+pattern~
+Small pieces of marble of various shades have been cut and inlaid into
+the floor to form an intricate pattern.  
+~
+E
+hole~
+Holes, as big around as a dwarven fist have been bored very smoothly into
+the walls at even intervals about six feet off the ground.  The recesses
+slant downwards at a gentle angle, easily holding the heavy resin torches
+which light the corridor.  
+~
+E
+torch~
+Thick bundles of dried reeds have been dipped in a heavy resin on one
+end.  The resin end provides a steady and bright flame.  
+~
+D0
+You see a narrow blue marble hallway lit with a series of torches.  
+~
+~
+0 0 12806
+D2
+You see a narrow blue marble hallway lit with a series of torches.  
+~
+~
+0 0 12799
+S
+#12806
+Blue Corridor~
+The walls in this hall are made of smooth {Cblue{x marble containing
+almost no discolorations or imperfections.  At the north end of the wall is
+a full suit of armor, complete with closed visor and heavy halberd.  It
+looks to be proportioned for a very large knight.  On the floor is an
+beautiful pattern which is slightly reminiscent of a glowing flame.  There
+is an open doorway to the west, leading to a comfortable looking room.  
+~
+0 8 0
+E
+pattern~
+Small pieces of marble of various shades have been cut and inlaid into
+the floor to form an intricate pattern.  
+~
+E
+armor~
+Armor to cover from head to toe stands, as if a sentry at the end of the
+hallway.  The helm is brightly polished and has a row of spikes running
+along the top from forhead to neck.  A jeweled gorget rests on top a set of
+full plate armor.  In the guantlet a heavy polearm rests, as if being held
+by an invisible grip.  
+~
+E
+suit~
+Armor to cover from head to toe stands, as if a sentry at the end of the
+hallway.  The helm is brightly polished and has a row of spikes running
+along the top from forhead to neck.  A jeweled gorget rests on top a set of
+full plate armor.  In the guantlet a heavy polearm rests, as if being held
+by an invisible grip.  
+~
+D2
+You see a narrow blue marble hallway lit with a series of torches.  
+~
+~
+0 0 12805
+D3
+You see a small room with a comfortable looking bed.  
+~
+~
+0 0 12807
+S
+#12807
+Captain's Quarters~
+Low light is afforded in this windowless room by an oil lamp on a desk
+near the door.  A single hand-sized skylight adds to the light during the
+day.  A neatly made bed is pushed up against the wall opposite the doorway
+with a heavy blue quilt.  It looks quite comfortable.  Everything is
+proportioned for a giant.  The doorway leads out to the east.  There is no
+door separating this room from the hallway, only a long {Cblue{x curtain
+made of a rich material.  
+~
+0 8 0
+E
+curtain~
+A long blue cloth hangs from an iron rod.  It can be pulled across the
+doorway to afford a bit of privacy.  
+~
+E
+quilt~
+It is thick and looks to be quite warm.  The top is made of rich {Bblue{x
+velvet.  The stitching was done in the pattern of a great knight in full
+armor.  
+~
+E
+skylight~
+It is a small oval opening in the ceiling, about the size of a human hand.  
+~
+E
+lamp~
+Thick yellowish oil half-fills the lower chamber in show this fairly
+large, hurricane lamp.  A flat, white wick soaks the oil from below and
+burned in the upper chamber.  The upper glass is lined with soot, reducing
+slightly the amount of light which escapes.  
+~
+D1
+You see a narrow blue marble hallway lit with a series of torches.  
+~
+~
+0 0 12806
+S
+#12808
+Blue Corridor~
+A small hallway runs south from the wide {ggreen{x corridor which runs
+through the Wind Knights Headquarters.  The walls, floor and ceiling are
+made from a lustrous {Cblue{x marble with almost no discolorations or
+imperfections.  Along the wall are several smallish torches, each held in a
+slanted hole bored into the marble walls.  Along the floor of this an
+intricate pattern formed of inlaid pieces of various shades of marble.  At
+the far south end of this hall is a full suit of armor.  
+~
+0 8 0
+E
+pattern~
+Small pieces of marble of various shades have been cut and inlaid into
+the floor to form an intricate pattern.  
+~
+E
+hole~
+Holes, as big around as a dwarven fist have been bored very smoothly into
+the walls at even intervals about six feet off the ground.  The recesses
+slant downwards at a gentle angle, easily holding the heavy resin torches
+which light the corridor.  
+~
+E
+torch~
+Thick bundles of dried reeds have been dipped in a heavy resin on one
+end.  The resin end provides a steady and bright flame.  
+~
+D0
+You see a narrow blue marble hallway lit with a series of torches.  
+~
+~
+0 0 12799
+D2
+You see a narrow blue marble hallway lit with a series of torches.  
+~
+~
+0 0 12809
+S
+#12809
+Blue Corridor~
+The walls in this hall are made of smooth {Cblue{x marble containing
+almost no discolorations or imperfections.  At the south end of the wall is
+a full suit of armor, complete with closed visor and heavy halberd.  It
+looks to be proportioned for a very large knight.  On the floor is an
+beautiful pattern which is slightly reminiscent of a glowing flame.  There
+is an open doorway to the east, leading to what appears to be a mess hall.  
+~
+0 8 0
+E
+pattern~
+Small pieces of marble of various shades have been cut and inlaid into
+the floor to form an intricate pattern.  
+~
+E
+armor~
+Armor to cover from head to toe stands, as if a sentry at the end of the
+hallway.  The helm is brightly polished and has a row of spikes running
+along the top from forhead to neck.  A jeweled gorget rests on top a set of
+full plate armor.  In the guantlet a heavy polearm rests, as if being held
+by an invisible grip.  
+~
+E
+suit~
+Armor to cover from head to toe stands, as if a sentry at the end of the
+hallway.  The helm is brightly polished and has a row of spikes running
+along the top from forhead to neck.  A jeweled gorget rests on top a set of
+full plate armor.  In the guantlet a heavy polearm rests, as if being held
+by an invisible grip.  
+~
+D0
+You see a narrow blue marble hallway lit with a series of torches.  
+~
+~
+0 0 12808
+D3
+There are random benches and low tables at which knights sit, eating and
+chatting.  
+~
+~
+0 0 12810
+S
+#12810
+Mess~
+The smell of some savory meal wafts from all corners in the wide room. 
+Long benches are placed seemingly randomly, along with low tables. 
+Dispersed about the room are several knights, most only in partial armor eat
+can chat humorously.  It's as if this is the only room in the headquarters
+which they feel free to let down their guard.  A door leads out to the east.
+~
+0 8 0
+D1
+You see a narrow blue marble hallway lit with a series of torches.  
+~
+~
+0 0 12809
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 12751 spec_breath_lightning Load to: a {Ylightning{x monk
+M 12753 spec_cast_mage Load to: a sea hag
+M 12755 spec_cast_mage Load to: Tempista
+M 12757 spec_breath_frost Load to: a {Crain{x monk
+M 12758 spec_breath_gas Load to: a {Cwind{x monk
+M 12759 spec_cast_cleric Load to: Arin
+M 12760 spec_cast_mage Load to: Severan
+S
+
+
+
+#RESETS
+D 0 12758 1 1
+D 0 12759 3 1
+D 0 12760 1 0
+D 0 12761 3 0
+D 0 12789 1 0
+D 0 12790 3 0
+D 0 12801 3 0
+D 0 12802 1 0
+M 0 12752 4 12753
+E 0 12754 0 16
+M 0 12753 1 12754
+E 0 12755 0 16
+M 0 12754 1 12758
+G 0 12750 0
+M 0 12750 5 12759
+E 0 12751 0 16
+E 0 12797 0 22
+E 0 12752 0 6
+M 0 12751 2 12761
+E 0 12766 0 12
+E 0 12767 0 16
+E 0 12772 0 22
+M 0 12750 5 12762
+E 0 12801 0 16
+E 0 12797 0 22
+E 0 12753 0 8
+M 0 12750 5 12763
+E 0 12802 0 16
+E 0 12797 0 22
+M 0 12757 2 12764
+E 0 12771 0 16
+E 0 12769 0 27
+E 0 12772 0 22
+G 0 12770 0
+M 0 12750 5 12764
+G 0 12786 0
+E 0 12797 0 22
+E 0 12751 0 16
+E 0 12794 0 11
+M 0 12751 2 12765
+E 0 12765 0 19
+E 0 12767 0 16
+E 0 12772 0 22
+E 0 12766 0 12
+M 0 12758 2 12766
+E 0 12764 0 17
+E 0 12768 0 12
+E 0 12772 0 22
+M 0 12757 2 12767
+E 0 12771 0 16
+E 0 12769 0 27
+E 0 12772 0 22
+G 0 12770 0
+M 0 12750 5 12768
+G 0 12785 0
+E 0 12797 0 22
+E 0 12801 0 16
+E 0 12795 0 7
+M 0 12759 1 12769
+E 0 12776 0 27
+E 0 12780 0 2
+E 0 12784 0 16
+M 0 12760 1 12770
+E 0 12777 0 16
+E 0 12782 0 17
+E 0 12778 0 1
+O 0 12781 0 12771
+M 0 12761 1 12771
+E 0 12783 0 16
+E 0 12779 0 1
+M 0 12758 2 12772
+E 0 12764 0 17
+E 0 12768 0 12
+E 0 12772 0 22
+M 0 12755 1 12773
+E 0 12758 0 12
+E 0 12761 0 16
+O 0 12773 0 12778
+P 0 12775 0 12773
+M 0 12756 1 12778
+E 0 12762 0 6
+E 0 12763 0 17
+G 0 12774 0
+O 0 12759 0 12779
+M 0 12752 4 12781
+E 0 12754 0 16
+M 0 12752 4 12782
+E 0 12754 0 16
+M 0 12752 4 12784
+E 0 12754 0 16
+O 0 12760 0 12786
+M 0 12764 1 12786
+E 0 12803 0 16
+E 0 12804 0 24
+E 0 12805 0 13
+O 0 12793 0 12788
+M 0 12762 8 12789
+E 0 12802 0 16
+E 0 12800 0 5
+E 0 12797 0 22
+E 0 12796 0 10
+O 0 12791 0 12791
+P 0 12815 0 12791
+O 0 12792 0 12792
+P 0 12816 0 12792
+M 0 12762 8 12792
+E 0 12751 0 16
+E 0 12797 0 22
+E 0 12798 0 9
+M 0 12762 8 12793
+G 0 12787 0
+E 0 12797 0 22
+E 0 12802 0 16
+E 0 12795 0 7
+O 0 12821 0 12795
+P 0 12822 0 12821
+O 0 12820 0 12795
+M 0 12765 1 12795
+E 0 12806 0 16
+E 0 12807 0 4
+E 0 12808 0 5
+M 0 12762 8 12796
+E 0 12751 0 16
+E 0 12797 0 22
+E 0 12796 0 10
+O 0 12827 0 12798
+P 0 12825 0 12827
+O 0 12824 0 12798
+P 0 12828 0 12824
+O 0 12823 0 12798
+O 0 12819 0 12798
+M 0 12766 1 12798
+E 0 12812 0 11
+E 0 12814 0 1
+E 0 12813 0 16
+G 0 12826 0
+M 0 12762 8 12799
+E 0 12801 0 16
+E 0 12797 0 22
+E 0 12800 0 5
+M 0 12762 8 12801
+E 0 12802 0 16
+E 0 12797 0 22
+E 0 12752 0 6
+O 0 12790 0 12803
+P 0 12817 0 12790
+O 0 12789 0 12804
+P 0 12818 0 12789
+M 0 12762 8 12804
+E 0 12797 0 22
+G 0 12788 0
+E 0 12751 0 16
+E 0 12753 0 8
+O 0 12819 0 12807
+M 0 12763 1 12807
+E 0 12809 0 27
+E 0 12811 0 8
+E 0 12810 0 16
+M 0 12762 8 12808
+E 0 12801 0 16
+E 0 12797 0 22
+E 0 12794 0 11
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

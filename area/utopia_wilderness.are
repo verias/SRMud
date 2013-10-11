@@ -1,0 +1,2768 @@
+#AREADATA
+Name { ALL } Sansara The Utopian Wilderness~
+Builders Sansara  Lisken Vale~
+VNUMs 3921 4050
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#3921
+wounded bear~
+a wounded bear~
+A wounded bear rages here, insane with pain.
+~
+This large furry brown creature is clearly a bear.  Its long claws and
+mean looking teeth show it is far from friendly.  Upon one shoulder a long
+wound can be seen.  Most likely the reason for its disagreeable mood at the
+moment.  
+~
+bear~
+AB Ma 0 0
+7 0 2d17+79 7d10+100 1d3+2 none
+7 7 7 7
+DEO 0 EI 0
+(null) (null) male 31
+AGV ABCDEFHJKPUV medium unknown
+#3922
+orange red salamander amphibian~
+a salamander~
+A small red-orange amphibian crawls over the ground.
+~
+This small lizard-like being has bright orange skin and bright red
+splotches.  It crawls at a greater speed than would be expected on its
+tiny-fingered hands, its tail writhing at the slightest touch.  Occasionally
+it stops to look around, its black eyes standing out eerily from its bright
+coloring.  
+~
+lizard~
+AG 0 0 0
+4 0 1d10+41 4d10+100 1d2+0 none
+8 8 8 8
+0 0 L I
+(null) (null) male 18
+AGXc ACDEFHKLPQUVX medium unknown
+#3923
+firebelly newt green amphibian~
+a firebelly newt~
+A small dusky green amphibian with a fiery red belly crawls through the grass.
+~
+This small dark green creature moves through the grass, nearly
+undetectable.  It crawls about on miniature hands, curling its prehensile
+tail occasionally whenever it bumps into something.  When it pauses, it
+moves its head from side to side, presumably to survey the area.  If it
+chances on a cricket, or other insect, it swallows it whole.  
+~
+lizard~
+AG 0 0 0
+3 0 1d7+30 3d10+100 1d2+0 none
+9 9 9 9
+0 0 L I
+(null) (null) male 13
+AGHMVXc ABCDEFGHIJKQV medium unknown
+#3924
+baby warthog~
+a baby warthog~
+A baby warthog with red eyes paces around the nest.
+~
+A young warthog is here.  The short, stiff fur covering its body is an
+odd grey color.  It twitches its tail and snorts at you, red eyes glinting
+over two ferocious tusks.  
+~
+pig~
+AB 0 0 0
+15 0 5d31+200 60d10+100 2d4+2 none
+4 4 4 6
+0 0 0 0
+(null) (null) male 67
+AGV ACDEFHJKP medium unknown
+#3925
+mommy warthog~
+a gigantic warthog~
+This ferocious warthog will protect her young at all costs.
+~
+Yellowed tusks coupled with beady red eyes stare at you from the face of
+this beast.  Short, dull grey hair covers its body thoroughly.  Black hair
+sprouts from her tail end in a small puff, moving as she paws the ground in
+impatience. 
+~
+pig~
+ABF 0 0 0
+20 0 6d39+294 80d10+100 3d5+4 none
+2 2 2 4
+0 0 0 0
+(null) (null) either 90
+AGV ACDEFHJKP medium unknown
+#3926
+Lakothian warrior~
+a Lakothian warrior~
+A large Lakothian warrior is here.
+~
+Dark green scales cover this large lizard-like being.  A solid body
+supports a long tail and heavily muscled limbs.  Black eyes look at you from
+a rather blank, unintelligent-looking face as the warrior flicks his tongue
+in the air.
+~
+unique~
+A 0 0 0
+70 0 11d443+2036 280d10+100 5d8+22 slash
+-17 -17 -17 -15
+0 L L 0
+(null) (null) male 315
+AMXc ABCDEFGIKLQUVX medium unknown
+#3927
+lakoth shaman~
+the Lakoth shaman~
+This white Lakoth shaman appears to be blind.
+~
+This Lakoth is covered in white scales that seem rather clean for a swamp
+animal.  He wears a plain black robe around his stocky frame that is easily
+seven feet in height.  His eyes have the blue discoloring that comes with
+cataracts, making his slow, marked movements more understandable as one can
+guess--he is indeed blind.  His tongue flicks out at the air to taste it
+quite often. 
+~
+unique~
+ABO 0 0 0
+73 0 11d505+2194 292d10+100 5d9+22 slash
+-19 -19 -19 -16
+0 L L 0
+(null) (null) female 328
+AMXc ABCDEFGIKLQUVX medium unknown
+#3928
+the Lakoth chieftan~
+the Lakoth chieftan~
+This powerful-looking lizard must be the Lakoth chieftan.
+~
+Markings in coal and mud cover the lithe amber scaled body of this
+chieftan, helping to camouflage him when he is out hunting in the swamp.  He
+wears a black black and brown robe, the colors mottled to help hide him
+further with the land. 
+~
+unique~
+ABFQ 0 0 0
+75 0 11d551+2303 300d10+100 5d9+24 slash
+-19 -19 -19 -17
+CDEFIKMO L L 0
+(null) (null) female 337
+AMXc ABCDEFGIKLQUVX medium unknown
+#3929
+lakoth female~
+a Lakoth female~
+This Lakoth female carries a spear to poke the cooking food.
+~
+Fine dull brown scales cover this creature's stocky body from head to
+talon.  She wears a loose robe that is a mixture of black and brown to help
+hide her within the bogs.  She scents the air and glares at you for
+disturbing her. 
+~
+unique~
+A 0 0 0
+69 0 11d424+1985 276d10+100 5d8+22 slash
+-17 -17 -17 -15
+0 L L 0
+(null) (null) either 310
+AMXc ABCDEFGIKLQUVX medium unknown
+#3930
+lakoth elder~
+a Lakoth elder~
+This aged Lakoth must be one of the elders.
+~
+This Lokath has dull green and brown scales covering its aging form. He
+is clothed in a plain green robe that is only dirty at the very edges from
+swamp muck, pointing to the possibility that he rarely leaves his hut. 
+~
+unique~
+AB 0 0 0
+65 0 11d352+1789 260d10+100 5d8+19 none
+-15 -15 -15 -13
+0 L L 0
+(null) (null) female 292
+AMXc ABCDEFGIKLQUVX medium unknown
+#3931
+lakothian child~
+a Lakoth child~
+A young Lakothian is here, playing a strange game with a sharp bone.
+~
+This child runs around with a wickedly sharp-looking bone.  It is covered
+in scales that have been dulled with dirt to help it keep cover in the
+wilds. It is impossible whether to say this energetic creature is male or
+female. 
+~
+unique~
+A 0 0 0
+67 0 11d387+1885 268d10+100 5d8+20 none
+-16 -16 -16 -14
+0 L L 0
+(null) (null) none 301
+AMXc ABCDEFGIKLQUVX medium unknown
+#0
+
+
+
+#OBJECTS
+#3921
+natural rock spring~
+a natural rock spring~
+Water trickles from this rock into a natural basin.~
+stone~
+fountain R 0
+0 0 'water' 0 0
+0 0 0 P
+#3922
+wild apple~
+a wild apple~
+A small wild apple has fallen here, its skin green mottled with red.~
+apples~
+food R A
+BEF 0 0 0 0
+1 1 2 P
+#3923
+raspberry bush~
+a raspberry bush~
+A raspberry bush flourishes about the base of the trees here.~
+berries~
+container R 0
+10 0 0 0 0
+0 10000 0 P
+#3924
+raspberry~
+a handful of raspberries~
+A handful of raspberries lie here, scattered over the floor.~
+berries~
+food 0 AO
+CE 0 0 0 0
+1 0 2 P
+#3925
+small cot~
+a small cot~
+This small cot looks barely functional.~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#3926
+eagle wolf key~
+an engraved key~
+This small key boasts an engraving of a wolf with an eagle perched on its back.~
+silver~
+key SW AO
+0 0 0 0 0
+0 0 0 P
+#3927
+blue tulip~
+a blue tulip~
+This blue tulip bears no marks, no matter how abused it is.~
+flowers~
+treasure 0 AD
+0 0 0 0 0
+1 0 0 P
+#3928
+slim spear~
+a slim spear~
+This spear is slim and lightweight.~
+wood~
+weapon 0 AO
+dagger 11 12 crunch 0
+69 0 0 P
+#3929
+black brown robe~
+a black and brown robe~
+This robe is splotched black and brown.~
+cotton~
+armor 0 AD
+ABD ABD ABD AB 0
+67 0 0 P
+#3930
+green robe~
+a green robe~
+This long green robe looks like it'd fit a giant.~
+cotton~
+armor 0 AD
+BD BD BD AB 0
+65 0 0 P
+A
+17 -5
+#3931
+sharp bone~
+a sharp bone~
+A sharp piece of bone has been dropped here.~
+bone~
+weapon 0 AO
+bow 11 11 lunge D
+64 0 0 P
+A
+13 30
+#3932
+sleep spear~
+a sleek spear~
+This spear is sleek and looks like it could be deadly, if wielding correctly.~
+wood~
+weapon 0 AO
+dagger 9 15 crunch 0
+70 0 0 P
+#0
+
+
+
+#ROOMS
+#3921
+Stone Road~
+Grass and small wildflowers grow in the gaps between the flat, grey
+stones that interlock, forming a road that leads southward.  Ancient
+sassafras trees loom on either side of the wide road, the occasional leaf
+falling from them.  Those, combined with brambles and brush, block any
+travel east or west from this point.  The stones of the path are broken in
+places either from disrepair or recent damage.  
+~
+0 4 3
+D0
+~
+~
+~
+0 0 19400
+D2
+~
+~
+~
+0 0 3922
+M 0 H 0
+S
+#3922
+The Stone Road~
+Smooth and flat grey stones have been laid out in an intricate pattern
+that creates a road leading both north and south, the continuity of its
+surface broken by brightly blooming clover.  Mighty trees with waxy green
+leaves tower overhead to the west.  Some branches are scattered on the
+ground, broken into small pieces.  Leaves are scattered everywhere.  A
+rather large tree has toppled to the east, affording a glimpse of a dirt
+trail leading into the wilderness.  
+~
+0 4 3
+D0
+~
+~
+~
+0 0 3921
+D1
+~
+~
+~
+0 0 3928
+D2
+~
+~
+~
+0 0 3923
+M 0 H 0
+S
+#3923
+A Road of Grey Stone~
+Smoothly hewn stones of a slate grey color have been lain here, creating
+a road leading to the north.  The rock is cut into irregular shapes, fitted
+together poorly enough to allow wild grass and flowers to grow in the gaps
+between each.  A wide dirt road leads westward from this point, surrounded
+on both sides by the tall trees.  
+~
+0 4 3
+D0
+~
+~
+~
+0 0 3922
+D2
+~
+~
+~
+0 0 3941
+D3
+~
+~
+~
+0 0 3924
+M 0 H 0
+S
+#3924
+A Wide Dirt Road~
+The trees stand tall and proud to the north and south, casting large
+shadows to the ground.  Logs from the trees that must have once covered the
+area that is now dirt have been piled high on both the northern and southern
+sides of the pathway, making passage in those directions too difficult. 
+Eastward, a road made of grey stones can be seen, with wildflowers and grass
+growing between them.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3923
+D3
+~
+~
+~
+0 0 3925
+M 0 H 0
+S
+#3925
+A Rutted Dirt Road~
+Ruts filled with water line the dirt thoroughfare, fallen leaves floating
+along the surface.  An apple tree hangs over the earthen track from the
+south, dropping ripe fruit on the road and wild grasses beneath its
+branches.  The packed dirt pathway continues to the east, while a black iron
+gate can be seen to the west.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3924
+D3
+~
+~
+~
+0 0 3926
+M 0 H 0
+S
+#3926
+An Iron Gate~
+A dirt track works its was from the east to a large four-bar iron gate
+standing to the west.  The metal of this gate shows rust through the
+chipped, black paint of this construct.  To the north and south, ancient
+forest looms tall and proud as it flanks this trail, the mighty branches of
+the trees reach over the roadway to attempt to embrace like lost lovers. 
+From the edge of this forest giant hogweed can be seen, intermixed with
+briar and brambles making progress through the forest look less than
+appealing.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3925
+D3
+~
+~
+~
+0 0 3927
+M 0 H 0
+S
+#3927
+Overgrowth~
+Grass interspersed with colorful and fragrant wildflowers mix together
+with the fallen leaves.  A large oval-shaped rock is embedded in the ground
+to the north, water trickling into a natural basin at the bottom of the
+stone.  Woodland animals call to each other from the surrounding wilderness
+and the brush rustles occasionally as they pass by.  Trees grow closely
+together with brush and bramble, preventing travel in any direction other
+than eastward, where there is a gate and a dirt road.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3926
+M 0 H 0
+S
+#3928
+Wild Wood~
+The undergrowth is a bit bothersome amongst these young cherry, apple,
+and peach trees.  A few deer tracks are in the mud here and there, carefully
+working their way between the raspberry bushes that impede movement.  The
+light filters through the canopy, striking the red, gold, and orange leaves
+scattered over the ground.  Grass struggles to grow though the thick
+covering of discarded leaves.  What seems to be a dear trail winds from east
+to west.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3929
+D3
+~
+~
+~
+0 0 3922
+M 0 H 0
+S
+#3929
+A Faint Trail~
+The great iron oak and sycamore trees tower above you, blocking out most
+of either sunlight or starlight and leaving the air cool with their shade. 
+The stirring of even the slightest wind rustles through the leaves of these
+great trees, resulting in almost constant sound.  The ground is soft and
+dark, covered in a thick carpet of rotting leaves.  To the north, there
+seems to be a clearing.  Faint paths lead to the east and west from here.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3930
+D1
+~
+~
+~
+0 0 3931
+D3
+~
+~
+~
+0 0 3928
+M 0 H 0
+S
+#3930
+Small Clearing~
+The long grasses growing in this spacious clearing are broken by
+long-stemmed wildflowers.  Tall trees surround the perimeter of the meadow,
+their long branches reaching down like gnarled fingers of some aged crone,
+darkness cloaking the areas beneath their limbs.  An unusual quiet hangs in
+the air, only broken by the muted whisper of leaves when the wind blows.  A
+thin pathway is evident, leading to the south.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 3929
+M 0 H 0
+S
+#3931
+Within an Ancient Grove~
+There are fir, yew, and pine trees dispersed amongst the deciduous growth
+here.  The needles stick to anything they come in contact with due to the
+sap that covers them.  Scattered cones lay on the ground, some of them
+broken open.  The ground is firm, though covered in decaying matter.  Small
+patches of fungi grow upon the odd fallen branch, their bright caps
+contrasting strongly with the surroundings.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 14210
+D1
+~
+~
+~
+0 0 3934
+D2
+~
+~
+~
+0 0 3932
+D3
+~
+~
+~
+0 0 3929
+M 0 H 0
+S
+#3932
+In Deep Woods~
+The ground here is quite soft and spongy from the leaves rotting and
+forming a slippery mass underfoot.  Sassafras and maple trees loom overhead,
+blocking a majority of the sky from view.  Maple seeds have spread over the
+ground indiscriminately and have turned a deep red color.  The seeds are
+embedded into the ground, most likely due to the passage of some unseen
+creature.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3931
+D1
+~
+~
+~
+0 0 3933
+M 0 H 0
+S
+#3933
+Aged Forest~
+Numerous birch trees surround this area.  Gypsum and may apple grow in
+abundance here, and you can see a few leeks peeking from the ground in
+various locations.  The majestic trees keep most of the light from reaching
+the forest floor.  The ground seems damp, as if it has rained recently. 
+From deep within the woods the sounds of animals reaches your ears, their
+lives remaining hidden from your view.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3934
+D1
+~
+~
+~
+0 0 3950
+D3
+~
+~
+~
+0 0 3932
+M 0 H 0
+S
+#3934
+A Fallen Tree~
+A fallen tree is laying on its side here, its roots exposed to the air. 
+Mushrooms and moss cover the bark of this grey tree, contrasting with the
+smooth bark.  The other trees in the area still stand tall and majestic,
+their branches stretching skywards like the arms of man in prayer.  Birds
+are singing gaily from the canopy and a chipmunk scurries into its shelter
+within the arms of these mighty giants.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3935
+D2
+~
+~
+~
+0 0 3933
+D3
+~
+~
+~
+0 0 3931
+M 0 H 0
+S
+#3935
+Fern-covered Pathway~
+Ferns cover the forest floor, making it a little difficult to walk with
+ease.  The roots of the trees here are gnarled and partially uncovered due
+to some kind of erosion.  Willow trees are here, their branches bowing to
+the ground like defeated beings.  A few Walnut and Hazelnut trees are also
+present, standing tall and blocking natural light.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3936
+D2
+~
+~
+~
+0 0 3934
+M 0 H 0
+S
+#3936
+Amidst Giant Hollys~
+Holly and mistletoe trees grow in this spot of the great forest in
+abundance.  Berry bushes make the passing very difficult here, flourishing
+to ten feet tall in some places.  The bushes may be growing on rocks or
+fallen trees, long since covered with dirt, contributing to the heights of
+the plants.  The passing of deer is evident in the deep hoof impressions in
+the muddy ground, along side which is the odd paw print.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3937
+D1
+~
+~
+~
+0 0 3939
+D3
+~
+~
+~
+0 0 3935
+M 0 H 0
+S
+#3937
+Inside a Hollow Thicket~
+Weeds grow abundantly in this small clearing inside the forest,
+approximately four feet in height and mixed with cat tails and tall grass. 
+The edges of the clearing are surrounded by briars, Birch and Aspen trees. 
+Animals can be heard all around, talking to each other.  Over head the sky
+looms open and clear, while even in the brightest of sunny days you would
+imagine the depths of the woodland would remain overcast.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3938
+D2
+~
+~
+~
+0 0 3936
+D3
+~
+~
+~
+4 3926 3949
+M 0 H 0
+S
+#3938
+Sprawling Woods~
+Animal tracks streak the soft ground, leading in every direction
+possible.  A few large rocks are embedded into the earth and offer a resting
+spot for a weary traveler.  Several trees with black bark are here.  Their
+branches are intricate and impressive, spanning yards for each tree.  Small
+ferns attempt to live out there lives in the shelter offered by these wooden
+sentinels.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 3939
+D3
+~
+~
+~
+0 0 3937
+M 0 H 0
+S
+#3939
+A Trail in the Woods~
+A wavering path works its winds and curves its way between ancient trees
+of all types, each competing with its with those closest to its self as they
+strive ever upwards towards the sky, almost like an attempt to prove their
+own magnificence over the next.  The soft odor of rotting leaves drifts
+lightly in the air here, mixing the the scent from the odd blooming wild
+flower.  Barely visible between the vines draped over the limbs of two of
+these large sentinels of living wood, a rather strange stone can be seen to
+the south, surrounded by trees that seem, somehow, out of place.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3938
+D2
+~
+~
+~
+0 0 3940
+D3
+~
+~
+~
+0 0 3936
+M 0 H 0
+S
+#3940
+The Natural Stone Platform~
+This large grey rock appears to be some sort of natural platform: four
+feet in height and nearly square-shaped, the surface worn smooth by weather
+and time.  Wild growth flourishes along the base of this rock, sheltered
+from the elements and largely undisturbed by the woodland creatures. 
+Strange trees with black bark and silver-green leaves grow around the dais,
+which must be approximately twenty feet in length for each side.  The
+occasional sound of a bird or other hidden beast shatters the silence that
+hangs in the air.  
+~
+0 4 0
+D0
+~
+~
+~
+0 0 3939
+M 0 H 0
+S
+#3941
+A Long Road~
+Maple and oak trees grow tall and straight here, silent sentinels
+flanking the roadway.  The road itself is made of grey stones that were cut
+to lock together naturally.  Few leaves are on the road itself, even though
+it is obvious this road is not well-traveled by the blades of grass poking
+up between the stones.  The road leads both north and south.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 3923
+D2
+~
+~
+~
+0 0 3942
+M 0 H 0
+S
+#3942
+Grey Stone Road~
+The roots from the trees of the forest surrounding this road have
+corrupted the passage southward by upturning some of the stones that create
+the road.  Beyond the broken road, several trees have fallen on their sides,
+creating a barrier.  A pathway of the same grey stones of this large road
+leads to the west, slightly narrower though well crafted.  The trees that
+are still rooted into the ground have been bent into an arch over the road,
+sheltering it almost entirely from the elements.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 3941
+D2
+~
+~
+~
+0 0 4016
+D3
+~
+~
+~
+0 0 3943
+M 0 H 0
+S
+#3943
+A Stone Road~
+Ancient ash and hollies surround the neatly lain pathway that leads
+east-west here.  Poppies and sweet pea line the roadside, their sweet
+fragrances hanging gently in the air when there is no breeze to displace it.
+To the east, there is a change in road direction to lead to the north and
+south.  To the west, the road stretches onward, continuing between the
+archway of trees.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 3942
+D3
+~
+~
+~
+0 0 3944
+M 0 H 0
+S
+#3944
+Grey Stone Road~
+Growing around the majestic poplars to the north is a large bush bearing
+large red berries, ripe and juicy despite their life in the shade.  Ferns
+interspersed with lupines grow in abundance around the trees to the south,
+looking quite soft and pliable.  A road of grey flagstone runs in a gentle
+curve to the south and east through this grove of trees, cut and lain to
+interlock in their positions.  Blades of grass jut out from between the
+small crevices left in the road, attesting to the fact that it is not often
+traveled.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 3943
+D2
+~
+~
+~
+0 0 4000
+M 0 H 0
+S
+#3945
+Stone Road~
+Water sprinkles down occasionally from above, apparently transpiration of
+the tree leaves overhead.  Though the trees to the north and south create a
+near-canopy overhead, flowers and long grass grow unhindered to the road's
+edge.  The grey stones of the road have been cut in intricate designs and
+locked together when they were lain.  The road continues to the east and
+west.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 4011
+D3
+~
+~
+~
+0 0 3946
+M 0 H 0
+S
+#3946
+The Stone Road~
+The branches of the tree growth that flanks the grey stone road here have
+locked overhead, sheltering this pathway from some of the milder weather. 
+Despite the shaded area around the ash and hollies here, golden yellow and
+deep blue wildflowers grow alongside tall grasses.  The flagstones continue
+east and west from this point, their apparent end off in the distance.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3945
+D3
+~
+~
+~
+0 0 3947
+M 0 H 0
+S
+#3947
+Flagstone Road~
+The road seems to stop here, with a tightly-knit grove of trees to the
+west, in lieu of a pathway leading north.  Colorful wildflowers grow in a
+disarray around the roots of the trees, their sweet fragrance drifting along
+the slightest breeze.  The large road leads in a straight path to the east
+from here, the grey stones cut to fit in an odd pattern.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3948
+D1
+~
+~
+~
+0 0 3946
+M 0 H 0
+S
+#3948
+A Path Off the Road~
+Colorful wildflowers mingle with the tall wildgrass that flanks the
+walkway here, their scents hanging in the air over the walkway that travels
+north-south.  At a short distance to the north, there is a large mahogany
+tree that seems to be the focus within a clearing.  To the south, a grey
+road made of interlocked stones can be viewed.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3458
+D2
+~
+~
+~
+0 0 3947
+M 0 H 0
+S
+#3949
+Kenar's Shack~
+The interior of this shack is made up of but a single room.  The walls
+and floor are built of thick aspen boards.  A single metal fireplace along
+the south wall of the room serves to heat this small space and provide a
+functional place to cook.  The northern wall boasts a single pane of glass
+in a small window that offers a tranquil view of the forest beyond.  The
+roof of this structure has been made from birch branches which have been
+interwoven with dried vines, providing a waterproof ceiling.  A single rough
+hewn door to the east is the only available exit.  
+~
+0 34603016 0
+D1
+~
+~
+~
+4 3926 3937
+M 0 H 0
+S
+#3950
+Clearing of the Swamp~
+The forest has turned to swamplands, though it is still surrounded by a
+thick stand of trees.  A few large creatures must come through here on a
+regular basis, as evidenced by several smaller sapplings that have been
+pushed over.  In the distance, you hear the beating of drums and a rumbling
+noise somewhere from within the swamp.  Eerily enough, all the birds have
+ceased to sing their songs along with the noise of the other wildlife. 
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3951
+D3
+~
+~
+~
+0 0 3933
+M 0 H 0
+S
+#3951
+An Opening and a Path~
+You see a small path to the east that looks well travelled.  It appears
+that several large creatures moved through here not long ago, though the
+path is rather narrow, almost as if they traveled single file so there
+wouldn't be a large path left behind.  Drums sound in the distance, but it
+is difficult to determine the direction that is the source.  There seem to
+be two options to any who find themselves here: move on to the east where
+the path narrows, or go to the west into more swampy much.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3952
+D3
+~
+~
+~
+0 0 3950
+M 0 H 0
+S
+#3952
+An Old Abandoned Camp~
+The remnants of a long forgotten encampment are visible from where you
+stand.  It seems as that a group has ventured here before you and there are
+no signs of them as of now.  The ground is scarred from a battle, though the
+skirmish appears to have been rather small, bearing only a few blade marks
+and shallow holes.  Any equipment you see on the ground is rusted and
+overgrown with moss and ivy.  You can continue to the west or to the east. 
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3953
+D3
+~
+~
+~
+0 0 3951
+M 0 H 0
+S
+#3953
+A Small Clearing~
+Here is a clearing that seems to be the resting place for a large animal,
+which is further evidenced by the mud-packed grasses and logs that make a
+strange construction. The trees seclude this small bit of marshland, making
+it the perfect haven for the young beasts fostered here.  Muted sounds of
+wildlife reach your ears here, but the immediate surroundings are overcome
+with an eerie hush. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3954
+D3
+~
+~
+~
+0 0 3952
+M 0 H 0
+S
+#3954
+A Small Clearing~
+You find yourself in a small swampy grove full of blackened trees and
+moats of still water.  Not far into the distance off to the north, fires and
+large huts can be seen clearly.  There are strange footprints in the ground,
+left in the sponge-like mud.  Little evidence of any other passage through
+the area can be seen except for the occasional croak from some unseen frog
+or rustle from within the undergrowth.  
+~
+0 4 0
+E
+footprints~
+There is a three-toed footprint in the mud.
+~
+D0
+~
+~
+~
+0 0 3955
+D2
+~
+~
+~
+0 0 3953
+M 0 H 0
+S
+#3955
+A Marshy Stand of Trees~
+The wind rustles around you briskly with an almost unnatural cold,
+whipping easily through the skeletons of trees.  There are no audible or
+visible signs of wildlife in this area but there are some huts and fires can
+be seen.  The ground itself is overgrown with weeds and tall grass in the
+water-logged soil.  An eerie quiet hangs in the air, broken only by your own
+movements, whether due to some unknown magical effect or nature it is
+unknown.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3956
+D2
+~
+~
+~
+0 0 3954
+M 0 H 0
+S
+#3956
+In the Village of Lakoth~
+Fires and huts alike can be found in any direction you choose to look in,
+attesting to the prosperity of this community. Smoke drifts hazily from the
+nearest pit of unattended flames, the fire itself nearly nonexistent.  There
+are no other signs of those that inhabit the area, though their is food on
+the fires, left there to cook.  A strange quietness fills the air almost as
+if something is watching, waiting. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3957
+D1
+~
+~
+~
+0 0 3968
+D2
+~
+~
+~
+0 0 3955
+D3
+~
+~
+~
+0 0 3969
+M 0 H 0
+S
+#3957
+Outside the Chieftain's Hut~
+To the north stands what looks to be largest hut in the establishment,
+towering at over seventeen feet in height, made of bamboo packed with mud
+and grass and there are bones hanging from the cords attached to the roof
+supports.  The ground in front of the hut has a mat of woven reeds placed
+over it.  To the you see south, east, and west you see the rest of the
+village. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3958
+D1
+~
+~
+~
+0 0 3962
+D2
+~
+~
+~
+0 0 3956
+D3
+~
+~
+~
+0 0 3959
+M 0 H 0
+S
+#3958
+Inside the Chieftain's Hut~
+There is a small fire in the center of the hut, giving off a steady
+trickle of smoke.  A small hole in the roof allows it to curl its way
+upwards and out of the hut.  A bed is nestled against the back of the hut,
+made from dried vegetation and mud.  A large stump sits off to the side,
+littered with bones.  The stump's flat surface suggests that it is used for
+a table if the need arises.  A strange acrid smell fills the air here, its
+source not apparent.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 3957
+M 0 H 0
+S
+#3959
+Among the Huts~
+A few huts stand here near the trees, their doors easily reaching ten
+feet in height and possibly higher still.  They are made of the sturdiest
+materials at hand and have dried grasses mixed with mud to form a reliable
+roof.  Footprints litter the ground, having trampled the grasses down into
+the soft mud long ago, though there are no other signs of the inhabitants of
+this village.
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3960
+D1
+~
+~
+~
+0 0 3957
+D2
+~
+~
+~
+0 0 3961
+D3
+~
+~
+~
+0 0 3973
+M 0 H 0
+S
+#3960
+A Hut~
+Moss, decaying foliage, and mud are packed into a large, level mound near
+the back of this hut.  Grasses held together by vines cover the doorway to
+offer protection from the elements.  A fire burns brightly, snapping as a
+few ashes fly into the air.  As the fire gives off substantial warmth, smoke
+works its way upwards and out through a hole in the roof above the fire.  A
+small tree stump is located near the mound, covered in blood, bones, and
+scars.  The door is to the south.
+~
+0 8 0
+D2
+~
+~
+~
+0 0 3959
+M 0 H 0
+S
+#3961
+A Lokath Hut~
+Smoke fills the air of the small dwelling, smelling faintly of cypress. 
+The source, a small, rock lined fire pit, glows in the center of the room
+with just enough light to provide illumination.  Several crocodile skins and
+furs from unrecognizable animals line the hard mud-caked floor, obviously
+bedding material.  Through a small hole cut into the mud packed ceiling,
+smoke gently filters out of the hut. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3959
+M 0 H 0
+S
+#3962
+The Village of Lakoth~
+Several huts of sturdy construction are visible within close proximity. 
+The roofs are made of grass and mud, with smoke rising from holes cut into
+them for that purpose.  Numerous fires are scattered around the clearing in
+front of the huts.  The plaintive song of some unseen bird carries on the
+air from off to the west, shrill and piercing. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3963
+D1
+~
+~
+~
+0 0 3966
+D2
+~
+~
+~
+0 0 3964
+D3
+~
+~
+~
+0 0 3957
+M 0 H 0
+S
+#3963
+A Hut~
+Moss, decaying foliage, and mud are packed into a large, level mound near
+the back of this hut.  Grasses held together by vines cover the doorway to
+offer protection from the elements.  A fire burns brightly, snapping as a
+few ashes fly into the air.  As the fire gives off substantial warmth, smoke
+works its way upwards and out through a hole in the roof above it.  A small
+tree stump is located near the mound, covered in blood, bones, and scars.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 3962
+M 0 H 0
+S
+#3964
+A Lakothian Hut~
+The small dwelling is very hot due to the hot coals burning in its center
+inside a small, stone lined fire pit.  Assorted furs and skins are scattered
+about, obviously bedding of some sort to the dwelling's inhabitants.  Smoke
+is gently forced from the room through a small opening in the center of the
+mud packed ceiling.  The mud floor within this dwelling is dry and hard,
+probably due to long hours of baking in the heat. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3962
+M 0 H 0
+S
+#3966
+In Front of the Shaman Hut~
+Bird feathers are woven into the vines that hold together the grasses
+covering this door.  A head, impaled upon a stake, can be found within a
+yard of the entrance of this hut.  The ground is a red color, presumably
+from bloodshed.  Over the top of this dwelling, smoke can be seen curling up
+from a small hole in its roof.  The shaman's hut is to the east and the
+village to the west. 
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3967
+D3
+~
+~
+~
+0 0 3962
+M 0 H 0
+S
+#3967
+The Lakothian Shaman's Hut~
+A large tree stump rests in the middle of this room.  Feathers, skulls,
+and bleached bones are separated into piles upon the stump's surface.  A
+great mound of leaves, mud, and moss can be detected near the rear of the
+dwelling.  A roaring fire is to the left, with a speared arm cooking over
+it.  The scent of cooking flesh wafts on the air, mixing with the wood smoke
+from the blaze.  You can leave the hut by going west.
+~
+0 8 0
+D3
+~
+~
+~
+0 0 3966
+M 0 H 0
+S
+#3968
+A Bog Clearing~
+The trees sway readily in the presence of any wind.  The ground is muddy,
+studded with rocks.  The mud sucks at you whenever you chance contact with
+it and the slime-covered rocks fail to supply surer footage.  Several barren
+shrubs grow here, their leafless branches like reaching fingers.  The sweet
+smell of decay and rot rises on the air from all around. 
+~
+0 0 0
+D3
+~
+~
+~
+0 0 3956
+M 0 H 0
+S
+#3969
+The Bogs~
+Tall grasses poke out of the spongy earth, not quite covering the
+evidence of deer and other wildlife passing scattered across the ground. 
+The tracks seem to be quite old, judging from the way grass grows from them
+and moss settles in the hollows.  Trees towering overhead block out a good
+deal of any natural light, lending an eerie feel to the surroundings.  The
+scent of some wild flower drifts upwards here, almost out of place.
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3956
+D3
+~
+~
+~
+0 0 3970
+M 0 H 0
+S
+#3970
+In the Marsh~
+The air is chilled, making the once-spongy mud a little easier to cross. 
+Grasses and wild plant life grow here, though not in abundance.  Several
+large rocks can be seen easily, some of which are covered in moss, poking
+there way from the earth.  A similar growth appears on the bark of several
+of the closest surrounding trees. 
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3969
+D3
+~
+~
+~
+0 0 3971
+M 0 H 0
+S
+#3971
+Marsh Land~
+The marshy ground gives way readily beneath the slightest of treads,
+sucking and grabbing at everything it comes in contact with.  Numerous
+withered trees rise out of the muck, stretching their finger-like branches
+to the sky.  A rank stench of rotting matter fills the air, rising from the
+sodden ground, the occasional pop of gas breaking the surface of the
+otherwise still waters, an indication of the decomposition of some unseen
+matter deep below. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3972
+D1
+~
+~
+~
+0 0 3970
+M 0 H 0
+S
+#3972
+Fallen Tree~
+A large tree has fallen in the path, hollowed by time into a log of
+immense proportion.  Bright orange fungus grows on the bark around a sizable
+hole in the side of it.  Frogs call to each other, hidden within the mud and
+plants that make up the unstable ground.  Here and there some large stable
+looking rocks break the surface.  They look safe to stand on, at least for a
+short time. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3973
+D2
+~
+~
+~
+0 0 3971
+M 0 H 0
+S
+#3973
+Swamp Trail~
+A narrow trail weaves its way though the foul murk of the water-logged
+earth.  Enchanter's nightshade grows in clumps in the rich soil, its bright
+purple blooms brightening the dark ground.  Off to the east a collection of
+wooden huts can be seen smoke curling its way from holes cut into there
+roofs. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3974
+D1
+~
+~
+~
+0 0 3959
+D2
+~
+~
+~
+0 0 3972
+M 0 H 0
+S
+#3974
+Marsh Land~
+Long grasses poke their blade like fronds up from murky waters to the
+east, occasionally swaying to the wind.  Westward a mud and bracken village
+can be seen, smoke rising from the buildings delicately.  Now and then an
+odd plopping sound of something entering the waters can be heard, breaking
+the silence.
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3975
+D2
+~
+~
+~
+0 0 3973
+M 0 H 0
+S
+#3975
+In the Bogs~
+Tall grasses poke out of the spongy earth, not quite covering the
+evidence of deer and other wildlife passing scattered across the ground. 
+The tracks seem to be quite old, judging from the way grass grows from them
+and moss settles in the hollows.  Trees towering overhead block out a good
+deal of any natural light, lending an eerie feel to the surroundings.  The
+scent of some wild flower drifts upwards here, almost out of place. 
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3976
+D2
+~
+~
+~
+0 0 3974
+M 0 H 0
+S
+#3976
+Trees in the Marsh~
+The wind rustles around you briskly with an almost unnatural cold.  There
+are no audible or visible signs of wildlife in this area.  The ground itself
+is overgrown with weeds and tall grass in the soft soil.  An eerie quiet
+hangs in the air broken only by your own movements, whether due to some
+unknown magical effect or nature.
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3977
+D3
+~
+~
+~
+0 0 3975
+M 0 H 0
+S
+#3977
+A Bog Clearing~
+The trees sway readily in the presence of any wind.  The ground is muddy,
+studded with rocks.  The mud sucks at you whenever you chance contact with
+it and the slime-covered rocks fail to supply surer footage.  Several barren
+shrubs grow here, their leafless branches like reaching fingers.  The sweet
+smell of decay and rot rises on the air from all around.
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3978
+D3
+~
+~
+~
+0 0 3976
+M 0 H 0
+S
+#3978
+Marsh Land~
+The marshy ground gives way readily beneath the slightest of treads,
+sucking and grabbing at everything it comes in contact with.  Numerous
+withered trees rise out of the muck, stretching their finger-like branches
+to the sky.  A rank stench of rotting matter fills the air, rising from the
+sodden ground, the occasional pop of gas breaking the surface of the
+otherwise still waters, an indication of the decomposition of some unseen
+matter deep below. 
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3979
+D3
+~
+~
+~
+0 0 3977
+M 0 H 0
+S
+#3979
+In the Marsh~
+The air is chilled, making the once-spongy mud a little easier to cross. 
+Grasses and wild plant life grow here, though not in abundance.  Several
+large rocks can be seen easily, some of which are covered in moss, poking
+there way from the earth.  A similar growth appears on the bark of several
+of the closest surrounding trees.
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3980
+D3
+~
+~
+~
+0 0 3978
+M 0 H 0
+S
+#3980
+A Fallen Tree~
+A large tree has fallen in the path, hollowed by time into a log of
+immense proportion.  Bright orange fungus grows on the bark around a sizable
+hole in the side of it.  Frogs call to each other, hidden within the mud and
+plants that make up the unstable ground.  Here and there some large stable
+looking rocks break the surface.  They look safe to stand on, at least for a
+short time.
+~
+0 0 0
+D2
+~
+~
+~
+0 0 3981
+D3
+~
+~
+~
+0 0 3979
+M 0 H 0
+S
+#3981
+The Bogs~
+Tall grasses poke out of the spongy earth, not quite covering the
+evidence of deer and other wildlife passing scattered across the ground. 
+The tracks seem to be quite old, judging from the way grass grows from them
+and moss settles in the hollows.  Trees towering overhead block out a good
+deal of any natural light, lending an eerie feel to the surroundings.  The
+scent of some wild flower drifts upwards here, almost out of place.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3980
+D1
+~
+~
+~
+0 0 3982
+M 0 H 0
+S
+#3982
+Swamp Land~
+A fallen tree rises from the sticky mud, from which blackened vines hang
+over the water in curtains.  Along the trunk are several types of fungus
+growing like a staircase for miniature people, ranging from bright orange to
+yellow in color.  Grey stones emerge, as if placed precariously, from the
+water, creating a ring of teeth-like granite.  To the south you can barely
+discern the broad side of a hut.  You can continue to the east and west.
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3983
+D3
+~
+~
+~
+0 0 3981
+M 0 H 0
+S
+#3983
+From the Swamp~
+The water is knee-deep here and bone-chillingly cold.  The ground seems
+to be dryer to the east as it slopes out of the water, turning from mire to
+dark vegetation.  The trees loom above, keeping most natural light from
+reaching the ground and making the region gloomy.  The stench of decay
+bubbles up from below the water, tiny pockets of gas sprawing from the swamp
+water.
+~
+0 0 0
+D3
+~
+~
+~
+0 0 3982
+M 0 H 0
+S
+#3984
+A Grey Road~
+A highway that runs east and west joins with this southern-bound
+concourse to the north, their neatly fitted flag stones making it easy for
+cart travel.  Ash and poplar mix together with various conifers to hem the
+roadside, the seam stitched with multi-colored wildflowers that grow in the
+small ditches on either side of the pathway. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 4011
+D2
+~
+~
+~
+0 0 3985
+M 0 H 0
+S
+#3985
+An Interlocking Road of Stone~
+Forest comprised of mainly ash, poplar, and pine crowd the grey path to
+the east and west, each of them fighting for a position at the roadside as
+the branches of the deciduous trees gnarl and interlock around those of the
+conifers.  Further to the north, this concourse meets with another one that
+is perpendicular and to the south, it seems to turn to the west. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3984
+D2
+~
+~
+~
+0 0 3986
+M 0 H 0
+S
+#3986
+Grey Stone Road~
+This road moves at a ninety degree angle, turning from a north-south path
+to one that travels west.  A rock that is more than twelve feet in height
+can be seen directly to the south, and is most likely the reason for the
+change of course.  To the west, the cut stones fade into a wide dirt track,
+and a tree-covered mountainside comes into view.  Poplar and ash surround
+the tamed path eagerly, their roots disrupting the flat lay slightly. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3985
+D3
+~
+~
+~
+0 0 3987
+M 0 H 0
+S
+#3987
+A Neat Earthen Pass~
+The grey stone turns to a dirt track here, which is slightly disheveled
+from the tree roots that have been exposed due to erosion.  Leaves that have
+begun to rot cover the ground, fallen from the ash and poplar at the side of
+the road long ago.  This dirt trail seems to lead toward the forest-shrouded
+mountain that is off to the west from one direction, and back onto a grey
+stone path to the east for the other.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3986
+D3
+~
+~
+~
+0 0 3988
+M 0 H 0
+S
+#3988
+A Winding Dirt Path~
+This dirt trail winds and twists through the stones and trees that make
+themselves obstacles to easy travelling.  It is becoming steadily narrower
+and less kept as it moves east, and to the west it eventually meets a grey
+stone road.  Ash and poplar line the track side, littering the forest floor
+with their dead leaves. 
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3987
+D3
+~
+~
+~
+0 0 3989
+M 0 H 0
+S
+#3989
+A Climbing Dirt Trail~
+The path seems to dwindle down to a deer trail as it climbs the
+mountainside here, whereas it opens to a wider track to the east.  Young and
+ancient ash and poplar alike grow in thick groves to either side of the
+passway, resulting in their branches locking together and creating a thick
+canopy overhead.  The foliage prevents direct natural light from striking
+the path, and instead dapples it. 
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3988
+D4
+~
+~
+~
+0 0 3990
+M 0 H 0
+S
+#3990
+On the Side of the Mountain~
+Quite surprisingly, the gaping maw of a tunnel can be seen directly to
+the west.  It looks to be long but has light at its distant end.  A deer
+trail leads down the mountainside to a dirt path that eventually turns to
+slate road.  From this vantage point, a city to the northeast is just
+visible, its buildings giving off ribbons of smoke most times of the day. 
+Ash and poplar trees crowd around the winding path to shelter this mountain
+pass from plain view below. 
+~
+0 0 0
+D3
+~
+~
+~
+0 0 3991
+D5
+~
+~
+~
+0 0 3989
+M 0 H 0
+S
+#3991
+The End of a Tunnel~
+This tunnel opens up into the natural world to the east.  Through its
+well-shaped hole, one can see the tops of many trees as well as the trunks,
+indicating somewhat that it is elevated.  The corridor continues through the
+rock to the west, the end of it being illuminated by natural light on the
+other side.  As your light catches the rock, speckles of impurities can be
+seen, glinting almost like gems in the surface. 
+~
+0 8 0
+D1
+~
+~
+~
+0 0 3990
+D3
+~
+~
+~
+0 0 3992
+M 0 H 0
+S
+#3992
+A Cool Corridor~
+This hall is spartan and the width of it seems to be no more than what is
+needed.  It affords some room on either side of you as you pass to the east
+or west.  You seem to be about equal distance from either end of the tunnel,
+if that's what the illumination found there truly marks.  The walls glitter
+with flecks of different colors as soon as your light catches them, but none
+of the veins seem large enough to bother trying to determine their make up. 
+~
+0 8 0
+D1
+~
+~
+~
+0 0 3991
+D3
+~
+~
+~
+0 0 3993
+M 0 H 0
+S
+#3993
+A Gaping Maw~
+The corridor dug into the stone of this mountain opens up directly to the
+west here, showing a very sparsely vegetated landscape.  The straight hall
+continues to the east, where a faint glow at the end seems to mark the other
+opening.  The cavern is freckled with rocks of various colors, all of which
+glint under the presence of your light source. 
+~
+0 8 0
+D1
+~
+~
+~
+0 0 3992
+D3
+~
+~
+~
+0 0 3994
+M 0 H 0
+S
+#3994
+An Outcropping~
+A tunnel mouth can be seen in the rock face to the east, while to the
+west a golden ocean is evident.  Barely anything manages to grow in this
+wasteland of sand, making the plants that do survive stand out all the more.
+Sand covers the rock path that leads down into the desert proper from here,
+making a gritting sound whenever treaded upon. 
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3993
+D5
+~
+~
+~
+0 0 3995
+M 0 H 0
+S
+#3995
+On the Golden Sea~
+Yellow sand stretches away in all directions from this point, though
+nothing of real interest seems to lie to the west.  Towns or cities--it is
+difficult to tell which they are from this distance--are in plain view to
+both the north and south.  The heat of the sand makes their images shimmer
+and waver, though, so maybe they are mirages. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3996
+D2
+~
+~
+~
+0 0 4018
+D4
+~
+~
+~
+0 0 3994
+M 0 H 0
+S
+#3996
+A Sandy Pass~
+This pass weaves about slightly around large boulders that have fallen
+from the mountainside and come to rest in the sand, the uneven winding
+carrying its travellers further from the mountainside but still closer to
+somewhere else.  Cities can be seen to both the north and south, but the one
+in the former direction seems a bit closer. The air around the establishment
+shimmers from the heat, unless it really is just a trick of the eye. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3997
+D2
+~
+~
+~
+0 0 3995
+M 0 H 0
+S
+#3997
+In the Golden Desert~
+Few plants grow, let alone thrive, in this sandy waste.  A few cacti jut
+from the ground and bend at odd angles, their needles glistening as if wet,
+proving to be about the most virulent of all the plants that do survive
+here.  But, for the most part, it seems this is all golden sand scattered
+with boulders that have fallen from the mountainside to the east.  A
+glimmering city can be seen to the north, but whether it is truly there or
+just a play on the desert-warped brain, it is difficult to say.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3998
+D2
+~
+~
+~
+0 0 3996
+M 0 H 0
+S
+#3998
+Nearing a City in the Sand~
+A city looms to the north, surrounded with an air that shimmers from the
+waves of heat radiated through the golden sand that is all around.  A
+mountain chain can be seen looming to the east, its end nowhere in sight to
+either the north or south.  A few cacti grow from the golden ocean that
+expands to the east, but nothing really looks all that eye-catching out that
+way. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3999
+D2
+~
+~
+~
+0 0 3997
+M 0 H 0
+S
+#3999
+In Front of Mar Narev~
+Smooth black rock emerges from the sand here and leads northward into a
+strange city that shimmers with the waves of heat that rise from the sand. 
+A sea of golden sand stretches away to the south and west of this point,
+only occasionally dotted by the green of a cactus.  To the east, a mountain
+chain rises into the air, its tips touching the sky.  A small blur of
+darkness can be seen on the horizon to the south.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 2075
+D2
+~
+~
+~
+0 0 3998
+M 0 H 0
+S
+#4000
+On a Grey Road~
+A road of carefully laid flagstones cleaves this forest in two as it
+stretches away to the north and south. Some flowers are scattered between
+the edge of the wood and the slate, intermixed with wild flowers that seem
+to thrive in the dappled light. The ash and poplars grow thickly here,
+creating a dense blanket of greenery overhead. 
+~
+0 4 3
+D0
+~
+~
+~
+0 0 3944
+D2
+~
+~
+~
+0 0 4001
+M 0 H 0
+S
+#4001
+A Turn in the Road~
+The forest thins here, resulting in the canopy having patched through
+which the sky can be seen. The road turns from the north to the west here
+and the bend is surrounded by muddy wheel ruts at the roadside. To the
+south, a deer can be seen darting along one of its trails just before it is
+obscured behind the undergrowth. 
+~
+0 0 3
+D0
+~
+~
+~
+0 0 4000
+D3
+~
+~
+~
+0 0 4002
+M 0 H 0
+S
+#4002
+In a Clearing~
+There is a clearing that stretches into the forest at either side of the
+path here.  The flag stones are worn and have holes here and there, due to
+the wear and tear of wagons traveling over its surface, in addition to the
+rage of the elements.  The interlocking flagstones continue east to where a
+bend in the concourse can be noted, and to the west, deeper into the
+encroaching forest. 
+~
+0 0 3
+D1
+~
+~
+~
+0 0 4001
+D3
+~
+~
+~
+0 0 4003
+M 0 H 0
+S
+#4003
+A Stone Road~
+Bluebells and foxglove are scattered on the forest floor, clustered in
+little bunches as if scattered by the winds, the blues and purples
+contrasting against the dark brown and green of the surrounding forest.  The
+road here narrows slightly, its flagstones being partially overgrown by the
+grass of the forest floor.  To the east the road continues out of sight and
+to the west it dives southwards into the mass of greenery.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 4002
+D3
+~
+~
+~
+0 0 4004
+M 0 H 0
+S
+#4004
+A Turn in the Road~
+The ash, juniper, and pine crowd together here to form a somewhat
+menacing wall along the edges of this path. The road itself becomes
+narrower, allowing the passage of only one cart at a time, due to roots
+breaking through its surface and forming crevices within the stone. It
+almost seems as if the forest is trying to crush the life from the man-made
+path and halt its progress into its depths. However, the road seems to widen
+to the east and south as the forest becomes slightly less dess and the trees
+are more widely spaced. 
+~
+0 0 3
+D1
+~
+~
+~
+0 0 4003
+D2
+~
+~
+~
+0 0 4005
+M 0 H 0
+S
+#4005
+A Ford~
+A small babbling brook crosses the road at this point, creating a ford,
+albeit a very shallow one.  The musical sound of the water cascading over
+rocks to the west fills your ears and to the east you see the shallow stream
+wanders off down hill into the forest.  To the north of the ford, the
+flagstone road continues its winding way through the trees, and to the south
+it turns westward to climb gently uphill.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 4004
+D2
+~
+~
+~
+0 0 4006
+M 0 H 0
+S
+#4006
+A Flagstone Pathway~
+A road fashioned from grey stone cleaves through an ancient forest here,
+the mighty boughs of trees stretching towards each other over its flagstone
+covered surface to create a dense canopy that filters natural light.  The
+occasional paving stone is missing and from within these rents, grasses and
+brightly colored flowers flourish.  The concourse continues to the north and
+to the west, winding its way through the woodland. 
+~
+0 0 3
+D0
+~
+~
+~
+0 0 4005
+D3
+~
+~
+~
+0 0 4007
+M 0 H 0
+S
+#4007
+A Trail Through the Forest~
+Ancient trees stand at either side of this winding roadway, leaves from
+which cover the path in places, hiding holes in the poorly maintained
+surface.  The sounds of wild animals can be heard drifting across this
+man-made trail though the sources of these sounds remain safely hidden from
+view.  The aroma of the forest rises from all around, reeking of decomposing
+leaf matter and damp earth.  The highway continues to the east and south
+seeming from this point to be without end.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 4006
+D2
+~
+~
+~
+0 0 4008
+M 0 H 0
+S
+#4008
+Where Slate Meets Dirt~
+A gruesome sight mars this section of the forest highway: hanging from
+one of the trees is a corpse, or the remains of one-- it looks like the
+carrion birds have been feasting upon it.  Around the unfortunates neck
+hangs a sign as well as the noose.  Other than this macabre spectacle the
+concourse looks fairly normal as it works its way through the dense
+surrounding forest, the grey flagstones being evenly laid for the most part
+and only the occasional ones missing.  A trail of some sort can be seen
+heading into the woods to the south, most likely created by the passage of
+animals.  
+~
+0 0 0
+E
+corpse sign~
+So will be the fate of all brigands, bandits, highwaymen and robbers by
+the decree of the Utopian government.  Other than this sign the corpse
+doesn't seem to posses anything, including its eyes or a discernable gender
+any longer. 
+~
+D0
+~
+~
+~
+0 0 4007
+D2
+~
+~
+~
+0 0 4012
+D3
+~
+~
+~
+0 0 4009
+M 0 H 0
+S
+#4009
+A Forest Highway~
+The highway here lacks some of its surface and in other places the
+flagstones have become split.  From these mars upon it, grasses flourish
+with their roots safely protected by the remainder of the road.  Ancient
+trees lean over the path like fathers peering into their children's cotes to
+check upon them.  Under these plants, dense shrubs and wildflowers grow in
+profusion lending a delicate fragrance to the scents of the woodland.  This
+concourse continues to the west and east, winding between the trees.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 4008
+D3
+~
+~
+~
+0 0 4010
+M 0 H 0
+S
+#4010
+A Grey Stone Roadway~
+Grass pokes through the grey paved surface of this roadway, the lush
+green stems being in bright contrast with the dull grey that it springs
+from.  Standing either side of the road is a dense forest, briar and bracken
+competing with each other in the shelter of the trees while bright red
+poppies seem to peer up at the far distant sky, like city ladies in bright
+hats checking for rain.  The highway continues to both the east and west,
+working its way between the tree trunks, while to the north a small clearing
+can be spied.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 4015
+D1
+~
+~
+~
+0 0 4009
+D3
+~
+~
+~
+0 0 4011
+M 0 H 0
+S
+#4011
+A Forest Road~
+Great trees of significant size line this highway, appearing somewhat
+like soldiers awaiting their liege's passing, each with boughs raised in
+salute.  The road continues to make its way from the east to the west,
+working steadily upon its course.  From within the shielded depths of the
+trees, an occasional sound drifts upon the air, most likely the product of
+some not so stealthy denizen of the forest.  A new road tiles neatly into
+this one, leading away to the south. 
+~
+0 0 0
+D1
+~
+~
+~
+0 0 4010
+D2
+~
+~
+~
+0 0 3984
+D3
+~
+~
+~
+0 0 3945
+M 0 H 0
+S
+#4012
+An Animal Trail~
+Juniper and willows mingle in thick groves at either side of this very
+faint north-south path.  The imprints of deer hooves and paw prints can be
+seen in the caked mud, testament of all the wildlife that ventures forth
+through here.  White and green ferns grow side by side beneath the trees,
+their large fronds covering most of the fallen trees and the fungi that
+thrives upon them.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 4008
+D2
+~
+~
+~
+0 0 4013
+M 0 H 0
+S
+#4013
+A Turn in The Trail~
+A smattering of animal tracks have cut into the earth here, where the
+grasses have been walked off, most of which seem to be hooves while a few
+are definitely those of a predator.  The smells of the wild hang heavily in
+the air here, consisting of decomposing leaf matter and rotting wood mixing
+with wild blooms.  Upon the surface of some of the trees, fungus can be seen
+flourishing, though none seems to be of an edible variety judging by their
+bright colors that seem to be a warning.  The track continues to the north
+and east.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 4012
+D1
+~
+~
+~
+0 0 4014
+M 0 H 0
+S
+#4014
+The Trails End~
+Eight oval stones of white are arranged in a circle here, the grass
+growing neatly around their bases.  Each stone seems to be veined with
+various other colors and stands well over six feet in height.  The middle of
+the rocks is left free of anything but well-kept grass and a single flower
+growing at its center.  The small clearing is surrounded by white ferns that
+look like creations of snow and ice more than living plants.  The juniper
+and ash trees crowd this ring of rocks closely, shielding it from the
+elements.  
+~
+0 0 0
+E
+stones rocks oval eight vein~
+The surface of these pale white stones is veined with clear crystalline
+that sparkles, a black rock that shines almost ominously, and a green
+deposit that seems to have a calming effect that makes the black less
+poignant.  Water trickles over the rocks, making their wet, sleek surfaces
+shimmer brilliantly in the sunlight. 
+~
+E
+flower~
+A blue tulip grows at the center of this grove, varying from a dark color
+near the start of the petal and fading toward the edges. 
+~
+D3
+~
+~
+~
+0 0 4013
+M 0 H 0
+S
+#4015
+A Narrow Track~
+Nettles and milkweed intermingle at the bases of the tightly-knit tree
+trunks that surround this clearing, making travel anywhere but the open way
+that is found southward a bit undesirable.  The small meadow is populated
+with various wildflowers that compete with the foot tall grass for the sun's
+rays.  Some of the wild growth is damaged, as if beasts of considerable size
+had lain there to rest for a time.  The only obvious way to travel is to the
+south, where there is a neat path made up of grey stones. 
+~
+0 0 0
+D2
+~
+~
+~
+0 0 4010
+M 0 H 0
+S
+#4016
+A Road of Grey Stone~
+Grey stones are laid in an intricate pattern to create a road running from 
+the north to south, its surface smooth from the passage of feet over it.  
+Clover and sweet grass grow together to fill gaps and pits in the road's 
+body.  It appears that great effort went into claiming this pass from the 
+forest, if the formidable size of the trees is considered alongside the 
+stubborn brush and plant life.  These factors combine to prevent wanderers 
+from seeing into the heart of the wood, much less travel there.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3942
+D2
+~
+~
+~
+0 0 4017
+M 0 H 0
+S
+#4017
+Grey Stone Road~
+Dust covers the flagstones that lock together to form this grey road, 
+tracked over the road by traveller and forest dwellers alike.  Oaks and 
+pines combine around this path that leads away to the north and east from 
+here, their ancient forms towering over the walkway.  Thick brush grows 
+around the trunks of these sentinels, making wandering deeper into the wild 
+wood very difficult indeed.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 4016
+D1
+~
+~
+~
+0 0 4401
+M 0 H 0
+S
+#4018
+Upon the Golden Sea~
+A mountain chain looms to the east, its source and end not visible from
+this particular vantage point.  The only thing to stop it from melting into
+the desert and the sky far along the horizon are two cities, one to the
+north and one to the south. The latter establishment seems to be notably
+closer than the former, though it shimmers with the heat waves cast by the
+sand. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3995
+D2
+~
+~
+~
+0 0 4019
+M 0 H 0
+S
+#4019
+Amongst Boulders and Sand~
+Boulders force the casual traveller from a straight path to the
+shimmering city to the south, making them skirt out into the arid dessert
+that stretches indefinitely to the west.  Nothing out that direction looks
+remotely intriguing, unlike the shining city to the south.  It is difficult
+to tell whether the glimmer is from the heat or if it is really a mirage.  A
+mountain chain can be found directly east, separating this world from the
+next. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 4018
+D2
+~
+~
+~
+0 0 4020
+M 0 H 0
+S
+#4020
+In the Golden Sea~
+The continuity of the sand could fool anyone that spends enough time in
+the desert without water into believing it is actually a golden sea.  It
+continues to the west indefinitely, its surface calm and only marred by the
+occasional dune.  Nothing in that direction looks remotely like anything of
+interest, though something very different can be said about travelling
+south.  A city that shimmers from the heat rising can be seen, the wavering
+image almost like a mind trick for the deprived. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 4019
+D2
+~
+~
+~
+0 0 4021
+M 0 H 0
+S
+#4021
+In a Barren Wasteland~
+Very little seems to be able to survive the harsh conditions of the
+desert; a few cacti can be noted all around but that is nearly it.  A lack
+of rain is not the sole problem for this vegetation--the fact that the
+temperature rises to an inferno during the day and then chills dramatically
+at night plays a part, as well.  To the west, the desert extends for as far
+as one can see, possibly imagine, while to the south there is a city with a
+shimmering aura. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 4020
+D2
+~
+~
+~
+0 0 4022
+M 0 H 0
+S
+#4022
+Outside of Taj-Al-Jahiz~
+Stone walls surround the city directly to the south, still shimmering
+from the heat but no longer seeming to be a trick of the mind.  Dark oak
+gates stretch between the rock to allow entry into Taj-Al-Jahiz.  Golden
+sand stretches away to the north and west, mostly barren but showing small
+spurts of green where cacti have taken root.  To the west, a mountain looms
+in the distance, its peaks piercing the sky. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 4021
+D2
+~
+~
+~
+0 0 4200
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 3927 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 3937 3 2
+D 0 3949 1 2
+O 0 3922 0 3925
+M 0 3923 6 3926 10
+M 0 3923 4 3927 10
+O 0 3921 0 3927
+M 0 3921 1 3930 10
+M 0 3922 3 3932 10
+M 0 3922 5 3935 10
+M 0 3922 7 3938 10
+O 0 3923 0 3944
+P 0 3924 0 3923 10
+O 0 3925 0 3949
+M 0 3925 1 3953 10
+M 0 3924 3 3953 10
+M 0 3926 18 3954 10
+E 0 3929 0 0
+E 0 3932 0 0
+M 0 3926 18 3955 10
+E 0 3929 0 0
+E 0 3932 0 0
+M 0 3926 18 3957 10
+E 0 3929 0 0
+E 0 3932 0 0
+M 0 3929 8 3957 10
+E 0 3929 0 0
+E 0 3928 0 0
+M 0 3928 1 3958 10
+E 0 3929 0 0
+M 0 3929 8 3959 10
+E 0 3929 0 0
+E 0 3928 0 0
+M 0 3930 6 3960 10
+E 0 3930 0 0
+M 0 3930 6 3961 10
+E 0 3930 0 0
+M 0 3929 8 3962 10
+E 0 3929 0 0
+E 0 3928 0 0
+M 0 3930 6 3963 10
+E 0 3930 0 0
+M 0 3930 6 3964 10
+E 0 3930 0 0
+M 0 3929 8 3966 10
+E 0 3929 0 0
+E 0 3928 0 0
+M 0 3927 1 3967 10
+M 0 3926 18 3968 10
+E 0 3929 0 0
+E 0 3932 0 0
+M 0 3926 18 3969 10
+E 0 3929 0 0
+E 0 3932 0 0
+M 0 3926 18 3970 10
+E 0 3929 0 0
+E 0 3932 0 0
+M 0 3926 18 3971 10
+E 0 3929 0 0
+E 0 3932 0 0
+M 0 3931 8 3971 10
+E 0 3931 0 0
+E 0 3929 0 0
+M 0 3926 18 3972 10
+E 0 3929 0 0
+E 0 3932 0 0
+M 0 3931 8 3972 10
+E 0 3931 0 0
+E 0 3929 0 0
+M 0 3926 18 3973 10
+E 0 3929 0 0
+E 0 3932 0 0
+M 0 3931 8 3973 10
+E 0 3931 0 0
+E 0 3929 0 0
+M 0 3929 8 3973 10
+E 0 3929 0 0
+E 0 3928 0 0
+M 0 3926 18 3974 10
+E 0 3929 0 0
+E 0 3932 0 0
+M 0 3931 8 3974 10
+E 0 3931 0 0
+E 0 3929 0 0
+M 0 3926 18 3975 10
+E 0 3929 0 0
+E 0 3932 0 0
+M 0 3931 8 3975 10
+E 0 3931 0 0
+E 0 3929 0 0
+M 0 3926 18 3976 10
+E 0 3929 0 0
+E 0 3932 0 0
+M 0 3926 18 3977 10
+E 0 3929 0 0
+E 0 3932 0 0
+M 0 3926 18 3978 10
+E 0 3929 0 0
+E 0 3932 0 0
+M 0 3926 18 3979 10
+E 0 3929 0 0
+E 0 3932 0 0
+M 0 3926 18 3980 10
+E 0 3929 0 0
+E 0 3932 0 0
+M 0 3926 18 3981 10
+E 0 3929 0 0
+E 0 3932 0 0
+M 0 3926 18 3982 10
+E 0 3929 0 0
+E 0 3932 0 0
+M 0 3926 18 3983 10
+E 0 3929 0 0
+E 0 3932 0 0
+O 0 3927 0 4014
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

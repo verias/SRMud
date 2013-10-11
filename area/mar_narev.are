@@ -1,0 +1,4169 @@
+#AREADATA
+Name { ALL } Sighel  Mar Narev~
+Builders Sighel~
+VNUMs 2001 2100
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#2001
+najee healer~
+Najee the healer~
+Najee sits on the edge of the fountain, running her fingers in the water.
+~
+A beautiful woman, Najee looks at you serenely, as though she is in
+another plane of existence, where everything is perfect.  Clothed simply in
+a white robe, her pale reddish skin looks a little darker than it normally
+should.  Bright brown eyes look at you through thick black lashes as her
+long hair tumbles freely around her face and shoulders.  
+~
+unique~
+ABTW CDEFTZ 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 ABQ L 0
+(null) (null) either 450
+ACGHLMV ABCDEFGHIJK medium unknown
+#2002
+cerberus~
+a vicious cerberus~
+A vicious cerberus bares its fangs and drools as it growls at you, itching to fight.
+~
+Three heads all watch you keenly, eyeing you like a meal as each head
+drools and bares its fangs at you.  Matted brown and black fur bristles up
+over its shoulders, as one of its front paws claws and scratches at the
+ground, leaving huge marks.  
+~
+unique~
+AI FJZa -750 0
+34 0 10d73+626 34d10+100 4d5+10 chop
+-3 -3 -3 -1
+FH H I HN
+(null) (null) male 153
+AGHMV ABCDEFGHIJKLPQUV large unknown
+#2003
+Faridah~
+Faridah~
+Faridah wanders through her shop adjusting the clothing on display.
+~
+Dressed magnificently in one of her own creations, Faridah's smooth
+yellowish skin is enhanced by the dark blue satin of her flowing dress.  Her
+long black hair is knotted and braided over her head and decorated with
+pearls and small golden flowers.  Deep cleavage shows in the low cut of her
+dress, and wrapped around her neck and cascading over her cleavage and bosom
+are sparkling black stones.  
+~
+unique~
+ABRW CDEFTZ 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 0 L 0
+(null) (null) either 450
+ACGHLMV ABCDEFGHIJK medium unknown
+#2004
+male efreet slave~
+a male Efreet slave~
+A male Efreet slave follows his Master, showing how well-trained he is.
+~
+Eyes always looking down, this male Efreet slave has been trained well to
+do whatever his Master's bidding is.  He wears only simple loose cloth pants
+in a dark green, which contrasts sharply with his flaming orange skin.  His
+head has been shaved almost completely, leaving a small patch of black hair
+at the top of his head which is tied and braided back.  He is extremely well
+condition and has an amazing physique.  
+~
+unique~
+AI CDEFTVZ -800 0
+56 0 11d227+1386 56d10+100 5d7+16 chop
+-12 -12 -12 -10
+EIJN H L N
+(null) (null) female 252
+ACGHLMV ABCDEFGHIJK medium unknown
+#2005
+Hotri~
+Hotri the armorer~
+Hotri sits next to a fire, making small metal rings for his armor.
+~
+Dark red skin matches the colour of the metal that is preparing in the
+flames of the large fire near him.  He wears only a pair of loose cloth
+pants that are rather worn looking and a heavy leather apron.  Sweat
+glistens over his body and bald head, making him sparkle magically as he
+works.  He grunts a greeting to you, and watches you as you look over his
+wares.  
+~
+unique~
+ABRW CDEFTZ 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 ABQ L 0
+(null) (null) female 450
+ACGHLMV ABCDEFGHIJK medium unknown
+#2006
+female efreet slave~
+a female Efreet slave~
+A beautiful female Efreet slave follows her Master completely.
+~
+Perfect in every way, this beautiful Efreet woman holds her eyes
+downcast, showing her submission to her Master.  She wears only a long
+flowing dark green skirt, which contrasts sharply with her pale yellow skin,
+making her appear to glow.  Her long black hair is tied at the top of her
+head, and falls loosely down her back.  She is ready and willing to serve
+her Master however they may wish, and has been trained properly in all areas
+to please them.  
+~
+unique~
+AI CDEFTVZ -863 0
+89 0 12d955+3148 89d10+100 5d11+28 chop
+-25 -25 -25 -23
+EFHIJ H L N
+(null) (null) either 400
+ACGHLMV ABCDEFGHIJK medium unknown
+#2007
+Nawfal~
+Nawfal~
+Nawfal stands over a grindstone sharpening a blade to a point.
+~
+Wearing only light cloth pants and a leather apron, Nawfal glistens with
+a sheen of sweat from working.  His orange skin is like the fire which is
+next to him, and this fire reflects in his eyes giving him a more menacing
+look.  He manages to keep one eye on the blade in front of him and the other
+on you as you look over his wares.  
+~
+unique~
+ABRW CDEFTZ 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 ABQ L 0
+(null) (null) female 450
+ACGHLMV ABCDEFGHIJK medium unknown
+#2008
+FireMaster~
+the FireMaster~
+Two glowing red eyes look more like small fires as they float through the room.
+~
+There is really no body or form to this creature, just the eyes you have
+already noticed.  It is enshrouded in completely blackness, and seems to
+fill the entire room, as you can feel it all around you.  
+~
+unique~
+AFQ BCDEFPQTZa -1000 0
+92 20 12d1064+3349 92d10+100 6d10+27 chop
+-26 -26 -26 -24
+DEFH HJ L P
+(null) (null) male 414
+ACGHLMV ABCDEFGHIJK medium unknown
+#2009
+Saaim~
+Saaim~
+Saaim runs between watching the cooking meat and cutting up more fresh meat.
+~
+Saaim's yellow skin blends into the whites of his clothing other than for
+the fact that his clothing is splattered with dark and bright red blood
+stains.  Most of his head is shaved, save for a small top knot of braided
+black hair that occasionally swings into his face.  He looks over to you and
+smiles cheerily, his large belly jiggling with merriment as he sings quite
+loudly while he works.  
+~
+unique~
+ABRW CDEFTZ 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 ABQ L 0
+(null) (null) female 450
+ACGHLMV ABCDEFGHIJK medium unknown
+#2010
+Order of Fire monk assassin~
+an Order of Fire monk assassin~
+A monk completely draped in robes hovers slowly through the room.
+~
+You cannot make out the figure beneath the hooded robe to tell whether
+the being beneath it is male or female.  The hood of the robe completely
+covers the face and eyes of this monk, and he or she keeps his or her head
+down.  Their hands are crossed in front of them and tucked inside the
+opposite sleeve.  You can catch the glimpse of metal tucked inside each
+sleeve as well.  
+~
+unique~
+AFP CDEFTVZ -1000 0
+85 0 12d823+2891 85d10+100 5d10+25 chop
+-23 -23 -23 -21
+EIN H L 0
+(null) (null) none 382
+ACGHLMV ABCDEFGHIJK medium unknown
+#2011
+Afya~
+Afya~
+Afya stands behind her counter, brewing a strange smelling potion.
+~
+Afya's yellow skin is set off by the dark colours of blues, reds, purples
+and greens she wears.  A long kerchief skirt jingles with bells and hangs
+off her hips, accentuating her tiny waist.  A small black velvet top is
+sequined with small gold bells as well.  Her long black hair hangs around
+her petite face in many braids which have gold threads woven into them. 
+Thick lashes hide her eyes from view, though you can see the sparkle
+underneath them.  
+~
+unique~
+ABRW CDEFTZ 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 ABQ L 0
+(null) (null) either 450
+ACGHLMV ABCDEFGHIJK medium unknown
+#2012
+male efreet peasant~
+a male Efreet peasant~
+A male Efreet peasant carries his rake, ready to go to the fields.
+~
+Poor, but happy, this Efreet smiles and greets you cheerfully.  He wear
+very simple clothing that has been patched many times, but keeps everything
+about himself as clean as he can.  His black hair is cut short and kept tied
+back off his darkened red skin.  
+~
+unique~
+A CDEFTZ -350 0
+15 0 5d31+200 15d10+100 2d4+2 digestion
+4 4 4 6
+F 0 L 0
+(null) (null) female 67
+ACGHLMV ABCDEFGHIJK medium unknown
+#2013
+Raja~
+Raja~
+Raja stands solidly behind the bar, a scowl permanently on her face.
+~
+Raja is dressed in a simple black dress, which matches her long hair and
+flashing angry eyes.  She would be a lovely woman, if it weren't for the
+large scowl on her face that she directs to anyone and everyone.  You see
+the reason for her anger at the world by looking closer at her face. 
+Running down the side of her face from temple to neck is a long red scar,
+like a tear in her soft orange skin.  
+~
+unique~
+ABRW CDEFTZ 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 ABQ L 0
+(null) (null) either 450
+ACGHLMV ABCDEFGHIJK medium unknown
+#2014
+female efreet peasant~
+a female Efreet peasant~
+This Efreet woman wears simple clothes, but greets you with a smile.
+~
+Turning to look at you, this woman smiles and nods, welcoming you to her
+home.  She is dressed plainly in a patched brownish-coloured dress, but
+doesn't seem bothered by her outfit.  Her hair is neatly tied back from her
+face and braided to keep it out of the way.  
+~
+unique~
+A CDEFTZ -250 0
+12 0 4d26+151 12d10+100 2d4+0 magic
+5 5 5 7
+0 0 L 0
+(null) (null) either 54
+ACGHLMV ABCDEFGHIJK medium unknown
+#2015
+Ettra~
+Ettra~
+Ettra keeps herself busy training slaves and tossing them bits of food.
+~
+Floating tall and regal, this woman exudes an air of dominance and
+authority over the room.  Her long black hair is harshly pulled back from
+her face and hangs in a single tight braid down her back.  Arched eyebrows
+give her eyes a look of disgust as she looks you over.  She is dressed in a
+tight black leather dress, that is so binding, her legs cannot move
+separately.  In her one hand is a long slender crop, while in the other are
+a few leashes.  
+~
+unique~
+ABRW CDEFTZ 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 ABQ L 0
+(null) (null) either 450
+ACGHLMV ABCDEFGHIJK medium unknown
+#2016
+efreet peasant child~
+a small Efreet peasant child~
+A small child in patched clothing runs around playing.
+~
+Small for its age, this child shouts loudly and runs around, never
+standing still.  It's dress very sparsely, and what it does wear has been
+patched so many times, it's almost like a new item.  Dirty hands and face
+indicate that this child has been out playing on the streets recently.  
+~
+unique~
+AH CDEFTZ -100 0
+8 0 2d19+93 8d10+100 2d3+1 crush
+7 7 7 7
+I 0 L 0
+(null) (null) none 36
+ACGHLMV ABCDEFGHIJK medium unknown
+#2017
+Efreet maid~
+an Efreet maid~
+This woman screams "neat" just by looking at her and the house she keeps clean.
+~
+Not quite as young as she once used to be, this woman moves a little
+slower than most, but you can still see a great beauty in her.  She smiles
+serenely as she softly sings old Efreeti songs while she cleans the house. 
+Her clothing is kept absolutely spotless and neat, and you can tell she
+takes pride in her work.  
+~
+unique~
+A CDEFTZ -765 0
+31 0 10d63+545 31d10+100 4d5+8 none
+-2 -2 -2 0
+0 0 L 0
+(null) (null) either 139
+ACGHLMV ABCDEFGHIJK medium unknown
+#2018
+Efreet butler~
+an Efreet butler~
+Standing with his nose in the air, the butler waits patiently for orders.
+~
+Feeling as though he is on par with his employers, this man looks down
+his nose at anyone in the room with him.  He is well groomed and has a
+shaved head, which acts like a red mirror to the lights in the area.  He
+wears a proper black suit with a silver vest, and you can see a pocket watch
+chain at his stomach.  
+~
+unique~
+AB CDEFTZ -500 0
+36 0 10d80+683 36d10+100 4d6+9 digestion
+-4 -4 -4 -2
+EFI 0 L 0
+(null) (null) female 162
+ACGHLMV ABCDEFGHIJK medium unknown
+#2019
+Radd rich Efreet man~
+Radd~
+Radd paces his study, smoking a pipe.
+~
+Obviously well-to-do, Radd dresses as his status dictates.  His hard
+yellow skin looks bright against the dark scarlet satin wine jacket he
+wears, but also looks pale against the white ruffle collar around his neck. 
+He keeps his hair short and slicked back with a gel that makes it even
+shinier.  His dark eyes don't even flash your way because you are
+unimportant to him.  
+~
+unique~
+AQ CDEFTZ -900 0
+56 0 11d227+1386 56d10+100 5d7+16 claw
+-12 -12 -12 -10
+EFIN 0 L 0
+(null) (null) female 252
+ACGHLMV ABCDEFGHIJK medium unknown
+#2020
+Haala rich Efreet woman~
+Haala~
+Haala sits quietly, working on an embroidery.
+~
+Haala is a beautiful woman, with pale orange skin that is flawless and
+long shining black hair that falls loosely down around her in curls.  She
+sits with her back perfectly straight, like she was groomed for her position
+in life.  A satin white dress spreads out around her and is embroidered with
+silver flowers.  She lifts her eyes to you slowly when you enter the room
+and smiles sadly at you.  
+~
+unique~
+AO CDEFTZ -900 0
+52 0 11d185+1225 52d10+100 5d6+16 charge
+-10 -10 -10 -8
+FIN 0 L 0
+stand stand either 234
+ACGHLMV ABCDEFGHIJK medium unknown
+#2021
+male Efreet commoner~
+a male Efreet commoner~
+A simply-dressed man flies around running errands.
+~
+Though this man's clothing is simple, it was well kept and neat.  The
+greens and blues of his outfit contrast with his orange skin, making him
+look like he almost glows.  His black hair is cut short and held back with a
+simple leather tie.  His hands look calloused like he has worked a long, and
+his physique shows him to be in excellent conditioning.  
+~
+unique~
+A CDEFTVZ -460 0
+25 0 8d48+400 25d10+100 3d5+7 claw
+0 0 0 2
+FIJ 0 L 0
+(null) (null) female 112
+ACGHLMV ABCDEFGHIJK medium unknown
+#2022
+female Efreet commoner~
+a female Efreet commoner~
+An Efreet woman flies about town doing her chores.
+~
+Dressed simply, but neatly, this woman takes great lengths to make
+herself look good for her status in life.  Her long black hair is clean and
+tied back at the top of her head, the rest spilling around her body in waves
+and curls.  She has recently been out picking wildflowers and wears one of
+them in her hair, enhancing her simple beauty.  Her pale red skin is a
+little darker over her cheeks, which gets the most sun while she's out doing
+her chores.  
+~
+unique~
+A CDEFTZ -450 0
+23 0 7d44+355 23d10+100 3d5+5 beating
+1 1 1 3
+FI 0 L 0
+(null) (null) either 103
+ACGHLMV ABCDEFGHIJK medium unknown
+#2023
+homeless child~
+a homeless child~
+Dressed in rags, this homeless child begs for money.
+~
+Dirty and obviously cold, this small child looks malnourished and
+miserable.  Their skin has a pallor about it, making the red look sickly. 
+Black hair is matted and knotted, and has small leaves and grasses stuck to
+it.  
+~
+unique~
+AP CDEFTZ 0 0
+5 0 1d12+53 5d10+100 1d2+1 crush
+8 8 8 8
+0 0 L 0
+(null) (null) none 22
+ACGHLMV ABCDEFGHIJK medium unknown
+#2024
+male Efreet noble~
+a male Efreet nobleman~
+Looking down his nose as he flies by haughtily, this male nobleman shows his class well.
+~
+Dressed to suit his status in life well, this nobleman flies through the
+streets carefully, making sure to not dirty his outfit.  He has powdered his
+face pale and wears his short-cut black hair back slickly.  He only looks at
+people he feels is worthy enough for his attentions, and this usually only
+encompasses the other males and females of the nobility.  
+~
+unique~
+A CDEFTVZ -950 0
+45 0 10d128+969 45d10+100 5d5+14 chop
+-7 -7 -7 -5
+EFKN 0 L 0
+(null) (null) female 202
+ACGHLMV ABCDEFGHIJK medium unknown
+#2025
+female Efreet noble~
+a female Efreet noblewoman~
+Dressed in all her best finery, this noblewoman flies through the streets visiting friends.
+~
+Wearing silks and satins in whites and creams, this female Efreet is
+everything her status in life dictates.  She keeps her face sheltered from
+the sun with a white lace parasol, keeping her yellow skin pale.  Her long
+black hair is decorated with braids and pearls.  
+~
+unique~
+A CDEFTZ -950 0
+42 0 10d109+868 42d10+100 4d7+11 slap
+-6 -6 -6 -4
+0 0 L 0
+(null) (null) either 189
+ACGHLMV ABCDEFGHIJK medium unknown
+#2026
+Mayor Tamas~
+Mayor Tamas~
+Mayor Tamas sits behind his desk with a big grin on his face.
+~
+A large Efreet, Mayor Tamas has fattened himself up well over the years
+with the money he gets from the town.  His bright yellow skin constantly
+shines with a thin misting of sweat, even if he is doing nothing but sitting
+behind his desk, which is pretty much all he does.  His eyes are glued to
+his secretary, as he shamelessly watches her every move and constantly
+propositions her.  
+~
+unique~
+ABO CDEFTZ -500 0
+72 0 11d484+2141 72d10+100 5d9+22 chop
+-18 -18 -18 -16
+EFIN 0 L 0
+stand stand female 324
+ACGHLMV ABCDEFGHIJK medium unknown
+#2027
+secretary Zaafire~
+Zaafire, the Mayor's secretary~
+Zaafire sits suggestively on the Mayor's desk, flirting with him.
+~
+All curves and feminity, Zaafire attracts attention where ever she goes. 
+Her soft reddish skin makes it looks like she is constantly flushed, and she
+plays this up with wearing a dark red lipstick on her pouty lips.  She sits
+rather inappropriately in front of Mayor Tamas' chair, making sure he would
+have a good view of everything she has to offer.  Her clothing would be
+professional if it didn't look like a child's outfit and hardly covered her
+body.  
+~
+unique~
+ABQ CDEFTZ -500 0
+69 0 11d424+1985 69d10+100 5d8+22 magic
+-17 -17 -17 -15
+0 0 L 0
+stand stand either 310
+ACGHLMV ABCDEFGHIJK medium unknown
+#2028
+Efreet business person~
+an Efreet business person~
+An Efreet business person works tirelessly over something that must be important.
+~
+Dressed in dull greys and drab greens, this Efreet is all about business,
+and nothing else.  Barely raising their eyes to look at you, they return to
+deeply focus on what they were doing.  Black hair is pulled back tightly
+from their face and kept out of the way with braids and ties.  
+~
+unique~
+AB CDEFTZ -643 0
+63 0 11d321+1694 63d10+100 5d8+18 digestion
+-15 -15 -15 -12
+EFI 0 L 0
+stand stand none 283
+ACGHLMV ABCDEFGHIJK medium unknown
+#2029
+Yaz ~
+Yaz the grocer~
+Yaz hovers between crates of fruits cleaning them.
+~
+This simple Efreet woman has even orange-tinted skin beneath long shiny
+black hair.  Her black eyes sparkle cheerfully at you as she greets you with
+a smile and "Hello".  She wears simple clothing in a few shades of purple,
+which all blend together neatly.  
+~
+unique~
+ABRW CDEFTZ 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 ABQ L 0
+(null) (null) either 450
+ACGHLMV ABCDEFGHIJK medium unknown
+#2030
+drunk rogue~
+a drunken rogue~
+A drunken rogue sits at his table alone, ogling and touching the wenches.
+~
+Covered in a thin layer of dirt, the dark red of this rogue's skin is
+more dull than it normally would be.  He is mostly covered with a hood and
+cape, but you can plainly see the daggers he carries with himself.  He looks
+you over and sizes you up before returning his attention to the wenches
+around him, giving them lewd gestures and comments.  
+~
+unique~
+ABP CDEFTZ -980 0
+49 0 10d158+1111 49d10+100 5d6+13 slice
+-9 -9 -9 -7
+BEN 0 L 0
+stand stand female 220
+ACGHLMV ABCDEFGHIJK medium unknown
+#2031
+bar wench~
+a bar wench~
+A bar wench sways and dances enticingly, trying to attract your affections.
+~
+This young lady is in perfect form for her age, and you can't understand
+why she would be in this bar until you see the whip marks over her back and
+arms.  She wears very little, just some jewelry and her barely-there skirt. 
+She tries to keep her appearances up, hoping to find someone to take her
+away from this place, so there are only a few dirt marks on her breasts
+where the other patrons of this bar have groped her.  Her brightly coloured
+skirt is slit many times up to her waist, barely covering her lower half as
+she dances about.  
+~
+unique~
+AB CDEFTZ -450 0
+28 0 9d55+470 28d10+100 3d5+9 magic
+0 0 0 1
+EFI 0 L 0
+(null) (null) either 126
+ACGHLMV ABCDEFGHIJK medium unknown
+#2032
+Mar Narev guard~
+a Mar Narev guard~
+A Mar Narev guard floats through town, looking for trouble.
+~
+Black hair is tugged back harshly off the face of this Efreet, giving
+them a more stern and vicious look.  Arm muscles bulge a hard orange colour,
+as one hand is gripped tightly around a sword, and the other holds a massive
+shield.  Golden armor seems to glow with a magical protective fire around
+them, as they are constantly on the prowl for trouble-makers.  
+~
+unique~
+A CDEFTZ -789 0
+33 0 10d69+599 33d10+100 4d5+9 claw
+-2 -2 -2 0
+0 0 L 0
+(null) (null) none 148
+ACGHLMV ABCDEFGHIJK medium unknown
+#2033
+Mar Narev Efreet elite guard~
+an elite Mar Narev guard~
+An elite Mar Narev guard floats through town, keeping an eye out for trouble.
+~
+Glowing in gold surrounded by flames, the yellow skin of this Efreet
+looks like it is flaming as well.  Hovering a little higher than the rest of
+the people floating through the town, this Efreet makes themself well known
+that they are present.  The Efreet's hair is cut short and braided back
+intricately to keep it out of the way in battle.  
+~
+unique~
+AQ CDEFTVZ -1000 0
+60 0 11d277+1559 60d10+100 5d7+19 chop
+-13 -13 -13 -11
+CH 0 L 0
+(null) (null) none 270
+ACGHLMV ABCDEFGHIJK medium unknown
+#2034
+slave jinn male~
+a Jinn slave~
+A Jinn male slave skulks here, in fear of his owner.
+~
+Long welt from a crop line the back of this naked jinn showing signs of
+punishment over a long period of time.  His dark hair hangs down while his
+glowing yellow eyes stare hopelessly at the floor.  Scuffed red marks on
+both wrists and ankles hint that he hasn't long been unchained.  
+~
+unique~
+A CDEFTZ 1000 0
+15 0 5d31+200 15d10+100 2d4+2 digestion
+4 4 4 6
+0 0 L 0
+(null) (null) female 67
+ACGHLMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#2001
+fountain~
+a sparkling fountain~
+A strikingly white carved fountain splashes cool water here.~
+unknown~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 P
+E
+fountain~
+The whiteness of this stone fountain is a sharp contrast to its
+surroundings.  Many faucets pour cool water down into the large carved
+basin, sending a cheerful bubbling sound into the air.  The entire piece is
+intricately carved with a floral design.  
+~
+#2002
+mango~
+a ripe mango~
+A ripe mango looks ready to burst with juice.~
+unknown~
+food 0 AO
+D 0 0 0 0
+1 1 2 P
+#2003
+prickly pear~
+a prickly pear~
+A prickly pear looks like a challenge to eat, but very tempting.~
+unknown~
+food 0 AO
+CD 0 0 0 0
+1 1 2 P
+#2004
+star fruit~
+a star fruit~
+A star fruit glistens brightly, enhancing the juicy yellow colour.~
+unknown~
+food 0 AO
+ABCD 0 0 0 0
+1 1 2 P
+#2005
+velvet pants~
+a pair of black velvet pants~
+Soft black velvet forms the perfect fitting pants.~
+unknown~
+clothing 0 AF
+0 0 0 0 0
+85 5 1275 P
+#2006
+velvet skirt~
+a long black velvet skirt~
+Soft black velvet swirls about in a beautiful skirt.~
+unknown~
+clothing 0 AF
+0 0 0 0 0
+85 5 1275 P
+#2007
+cotton shirt~
+a loose white cotton shirt~
+Though made of cotton, this shirt is embroidered beautifully and flows easily.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+1 2 1020 P
+#2008
+satin belt~
+a dark scarlet satin belt~
+A long strand of shiny dark scarlet satin accentuates any waist.~
+unknown~
+clothing 0 AL
+0 0 0 0 0
+1 1 705 P
+#2009
+chainmail tunic~
+a heavy chainmail tunic~
+A heavy chainmail tunic should protect the wearer well.~
+unknown~
+armor 0 AD
+ABCD ABCD ABCD C 0
+91 14 455 P
+#2010
+chainmail girth~
+a chainmail girth~
+A wide band of chainmail fits perfectly around your waist and will protect well.~
+unknown~
+armor 0 AL
+AD AD AD B 0
+59 5 295 P
+#2011
+chainmail boots~
+a pair of chainmail boots~
+Thick leather soles and chainmail are excellent protection for feet, though heavy.~
+unknown~
+armor 0 AG
+AC AC AC A 0
+33 6 165 P
+#2012
+flaming mace~
+a flaming mace~
+A large heavy mace flames with a strange magic.~
+unknown~
+weapon 0 AN
+staff 11 14 peck A
+80 9 400 P
+#2013
+flaming polearm~
+a flaming polearm~
+A slender polearm flames with a strange magic.~
+unknown~
+weapon 0 AN
+whip 11 14 scratch A
+80 6 400 P
+#2014
+flaming spear~
+a flaming spear~
+A long slender spear's sharp point is encompassed by magical flames.~
+unknown~
+weapon 0 ANP
+dagger 14 12 stab AF
+90 5 450 P
+#2015
+flaming flail~
+a flaming flail~
+Three heavy, spiked metal balls of the flail each burn with a magical fire.~
+unknown~
+weapon 0 AN
+axe 29 5 peck A
+85 5 425 P
+#2016
+flaming axe~
+a flaming axe~
+The long sharp blade of this heavy axe burns with a magical flame.~
+unknown~
+weapon 0 AN
+mace 29 5 wrath A
+85 7 425 P
+#2017
+steak stick~
+steak on a stick~
+A thin piece of wood holds together many large juicy sizzling pieces of steak.~
+unknown~
+food 0 AO
+ABCD 0 0 0 0
+1 1 2 P
+#2018
+chicken stick~
+chicken on a stick~
+Large chunks of herbed and marinaded chicken are held together by a thin piece of wood.~
+unknown~
+food 0 AO
+ABCD 0 0 0 0
+1 1 2 P
+#2019
+turkey leg~
+a large turkey leg~
+A large turkey leg has a crunchy herb-flavoured skin and smells mouth-watering.~
+unknown~
+food 0 AO
+ABCD 0 0 0 0
+1 1 2 P
+#2020
+swirling red vial~
+a vial with swirling red liquid~
+A clear crystal vial holds a swirling red liquid.~
+unknown~
+potion A AO
+17 'reserved' 'reserved' 'reserved' 'reserved'
+17 1 510 P
+#2021
+sparkling blue vial~
+a clear vial with sparkling blue liquid~
+A clear crystal vial contains a bright blue liquid which sparkles like diamonds.~
+unknown~
+potion A AO
+24 'reserved' 'reserved' 'reserved' 'reserved'
+24 1 720 P
+#2022
+green cookie~
+a strange smelling green cookie~
+This cookie would be normal if it wasn't green and emitted a strange smell.~
+unknown~
+pill A AO
+41 'reserved' 'reserved' 'reserved' 'reserved'
+41 1 1230 P
+#2023
+vial of mist~
+a clear vial filled with mist~
+A clear crystal vial contains a glowing, swirling pinkish mist.~
+unknown~
+potion A AO
+73 'reserved' 'reserved' 'reserved' 'reserved'
+73 1 2190 P
+#2024
+beer nuts~
+some beer nuts~
+These candy-coated nuts are the perfect compliment to alcoholic drinks.~
+unknown~
+food 0 AO
+B 0 0 0 0
+1 1 2 P
+#2025
+pretzels~
+some pretzels~
+These salty treats will definitely make you thirsty for more to drink.~
+unknown~
+food 0 AO
+B 0 0 0 0
+1 1 2 P
+#2026
+firebreath~
+a shot of firebreath~
+A small shot glass is filled to the brim with a glowing red liquid which burns with a small flame.~
+unknown~
+drink A AO
+1 1 'whisky' 0 0
+1 1 3 P
+#2027
+liquid death~
+a shot of liquid death~
+A small shot glass is filled to the brim with a thick greenish-black liquid.~
+unknown~
+drink 0 AO
+1 1 'firebreather' 0 0
+1 1 3 P
+#2028
+slave collar~
+a black leather slave collar~
+Shiny black leather looks like it will barely fit around anyone's neck.~
+unknown~
+clothing HMSU AC
+0 0 0 0 0
+15 2 225 P
+#2029
+black crop~
+a slender black crop~
+A slender black crop is the perfect tool for punishing bad behaviours.~
+unknown~
+weapon 0 AN
+flail 5 6 scratch 0
+15 2 75 P
+#2030
+pendant of the Order of Fire~
+the pendant of the Order of Fire~
+A heavy gold chain and round plain pendant are lit with a magical flame.~
+unknown~
+protect T AC
+0 0 0 0 0
+92 4 1840 P
+A
+17 -5
+A
+13 40
+#2031
+ring of the Order of Fire~
+the ring of the Order of Fire~
+A thick plain gold band is lit with a magical fire.~
+unknown~
+protect T AB
+ABCD ABCD ABCD C 0
+92 2 1656 P
+#2032
+black hooded robe~
+a long black hooded robe~
+Thick black material looks like it would protect the wearer well.~
+unknown~
+armor 0 AD
+BCD BCD BCD C 0
+85 6 425 P
+#2033
+sandals~
+black leather sandals~
+Simple black leather sandals look like comfortable footwear.~
+unknown~
+clothing 0 AG
+0 0 0 0 0
+85 3 1020 P
+#2034
+fire dagger~
+a fire dagger~
+The silver blade of this dagger burns with a magical flame.~
+unknown~
+weapon 0 AN
+bow 29 5 crunch 0
+85 2 425 P
+#2035
+black cloth cape~
+a black cloth cape~
+This heap of black material is made of a good, thick, protective material.~
+unknown~
+armor 0 Aa
+D D D B 0
+49 4 245 P
+#2036
+simple dagger~
+a simple dagger~
+This simple dagger has been kept in almost perfect condition, though it looks well-used.~
+unknown~
+weapon 0 AN
+bow 6 16 crunch 0
+49 2 245 P
+#2037
+black cloth hood~
+a black cloth hood~
+The black cloth of this hood is thick and warm, and covers one's head well.~
+unknown~
+clothing 0 AE
+0 0 0 0 0
+49 4 689 P
+#2038
+kerchief skirt~
+a slit and barely-there kerchief skirt~
+Each panel of material is a different coloured kerchief banded together at the waist.~
+unknown~
+clothing 0 AF
+0 0 0 0 0
+1 1 252 P
+#2039
+thin gold chain anklet~
+a simple gold chain anklet~
+A thin gold chain glows with some magic.~
+unknown~
+protect A AU
+0 0 0 0 0
+28 1 644 P
+A
+24 -1
+#2040
+Mayor of Mar Narev cloak~
+the Mayor of Mar Narev's cloak~
+Heavy dark blue velvet is embroidered richly with the crest of Mar Narev in gold and silver.~
+unknown~
+clothing ST AZ
+0 0 0 0 0
+72 4 1520 P
+A
+24 2
+A
+2 -1
+A
+1 -2
+A
+19 1
+A
+18 1
+#2041
+floating fire~
+a flame that floats magically~
+This small fire burns brightly as it hovers in the air magically.~
+unknown~
+light AS AR
+0 0 ABCFGHIJ 0 0
+72 0 1440 P
+A
+12 25
+#2042
+fancy pen~
+a fancy black pen~
+This pen is high quality and looks like it cost more than a pen should.~
+unknown~
+wand T AO
+69 2 1 'reserved' 0
+69 1 345 P
+#2043
+gold arm band~
+a gold arm band~
+This thick gold arm band is intricately detailed with strange designs.~
+unknown~
+treasure A AS
+0 0 0 0 0
+69 1 690 P
+A
+17 -5
+A
+5 1
+#2044
+wire frame glasses~
+wire frame glasses~
+Simple wire has been bent around glass lenses.~
+unknown~
+clothing G AT
+0 0 0 0 0
+63 1 1008 P
+A
+3 1
+A
+4 1
+#2045
+important papers~
+some important papers~
+These important papers have some strange writing on them.~
+unknown~
+scroll 0 AO
+63 'reserved' 'reserved' 'reserved' 'reserved'
+63 1 1575 P
+#2046
+wood rake~
+a wood rake~
+The wood of this rake has been latched together with leather ties.~
+unknown~
+weapon 0 AN
+exotic 5 6 sunder 0
+15 2 75 P
+#2047
+patched trousers~
+patched trousers~
+Though these trousers have been patched many times over, they still serve their purpose.~
+unknown~
+armor 0 AF
+B B B 0 0
+15 2 75 P
+#2048
+brownish patched dress~
+a brownish-coloured patched dress~
+What was once a deep brown colour, this dress is now faded and patched.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+1 4 14 P
+#2049
+head kerchief~
+a patterned kerchief~
+This brightly patterned kerchief works to protect the wearer from sun.~
+unknown~
+protect 0 AE
+0 0 0 0 0
+12 1 4 P
+A
+17 -1
+#2050
+skipping rope~
+a long rope for skipping~
+A long length of hemp rope is used for children to play jump-rope with.~
+unknown~
+weapon 0 AN
+flail 4 4 jab 0
+8 1 40 P
+#2051
+starched white apron~
+a starched white apron~
+This bright white and spotless apron has been starched stiff.~
+unknown~
+armor 0 AL
+AC AC AC A 0
+31 2 155 P
+#2052
+feather duster~
+a grey feather duster~
+Soft grey feathers are bound together making an effective duster.~
+unknown~
+trash 0 AO
+0 0 0 0 0
+31 1 31 P
+A
+17 -2
+#2053
+stiff silver vest~
+a silver vest~
+This silver vest has been starched stiff.~
+unknown~
+armor 0 AD
+BC BC BC A 0
+36 2 180 P
+#2054
+pocket watch~
+a gold pocket watch~
+Polished gold sparkles and surrounds a watch face richly.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+36 1 360 P
+A
+13 15
+#2055
+white ruffle collar~
+a white ruffle collar~
+Many layers of white ruffles make a thick and rich collar.~
+unknown~
+clothing 0 AC
+0 0 0 0 0
+56 3 952 P
+A
+5 2
+#2056
+star black fake mole~
+a black star-shaped fake mole~
+A tiny black star has a sticky back to it.~
+unknown~
+treasure T AT
+0 0 0 0 0
+56 0 560 P
+A
+17 -2
+A
+4 -1
+A
+5 1
+#2057
+dandling diamond earring~
+a diamond earring~
+A single large diamond sparkles and refracts light amazingly.~
+unknown~
+treasure AT AQ
+0 0 0 0 0
+52 1 520 P
+A
+24 1
+A
+17 -5
+#2058
+diamond bracelet~
+a diamond bracelet~
+A strand of diamonds drips like liquid metal as it sparkles light everywhere.~
+unknown~
+treasure AT AM
+0 0 0 0 0
+52 1 520 P
+A
+5 1
+#2059
+torn shorts~
+dirty and torn shorts~
+These shorts look like poor protection since they are torn and dirty.~
+unknown~
+clothing 0 AF
+0 0 0 0 0
+1 1 5 P
+#2060
+slim rapier~
+a slim rapier~
+Steel has been reformed out to a long point and sharpened down both sides of this rapier.~
+unknown~
+weapon 0 AN
+sword 19 4 lunge D
+45 3 225 P
+#2061
+fine deerskin gloves~
+a pair of fine deerskin gloves~
+The finest, softest deerskin has been sewn carefully together to make these gloves.~
+unknown~
+clothing 0 AH
+0 0 0 0 0
+45 1 720 P
+A
+14 25
+A
+24 1
+#2062
+lace parasol~
+a lace parasol~
+This lace parasol has a rather sharp point on the end.~
+unknown~
+weapon 0 AN
+exotic 8 10 none 0
+42 3 210 P
+A
+18 1
+#2063
+doe skin purse~
+a doeskin purse~
+A soft doeskin purse has been embellished with silver embroidery and pearls.~
+unknown~
+container 0 AO
+10 0 0 0 0
+42 1 672 P
+#2064
+Mar Narev shield~
+a large flaming shield~
+A heavy shield bears the Mar Narev crest behind a protective shield of flames.~
+unknown~
+protect 0 AJ
+0 0 0 0 0
+33 9 528 P
+A
+19 2
+#2065
+Mar Narev guard sword~
+a large flaming sword~
+A large sword has a brilliant flame from it's blade, which has the Mar Narev crest etched on it.~
+unknown~
+weapon 0 AN
+sword 7 9 slice A
+33 5 165 P
+#2066
+flaming Mar Narev guard breast plate~
+a flaming Mar Narev guard breastplate~
+Made of gold, this breastplate carries the crest of Mar Narev beneath its protective flames.~
+unknown~
+armor 0 AD
+AC AC AC A 0
+33 4 165 P
+#2067
+elite guard spear~
+an elite Mar Narev guard spear~
+This long spear is completely made of gold, and the tip burns with a bright fire.~
+unknown~
+weapon 0 ANP
+dagger 31 3 suction AF
+60 6 300 P
+#2068
+elite Mar Narev guard helmet~
+an elite Mar Narev guard helmet~
+Made of hammered gold, this large helmet carries the crest of Mar Narev.~
+unknown~
+armor 0 AE
+BD BD BD AB 0
+60 3 300 P
+A
+19 1
+#2069
+elite Mar Narev guard breast plate~
+an elite Mar Narev guard breastplate~
+Heavy hammered gold is emblazoned with the Mar Narev crest beneath a protective flame.~
+unknown~
+armor 0 AD
+BD BD BD AB 0
+60 7 300 P
+A
+1 1
+#2070
+leather bracer~
+a brown leather bracer~
+Thick leather is rounded to fit a wrist and give added support and protection.~
+unknown~
+armor 0 AM
+C C C A 0
+25 1 125 P
+#2071
+leather collar~
+a brown leather collar~
+Thick brown leather is moulded to cover and protect ones shoulders.~
+unknown~
+protect 0 AC
+C C C A 0
+25 4 375 P
+A
+17 -2
+#2072
+flower~
+bright purple wildflowers~
+Bright purple wildflowers look as beautiful as they smell.~
+unknown~
+protect 0 AE
+0 0 0 0 0
+23 1 0 P
+A
+19 1
+A
+18 1
+#2073
+bright red cape~
+a bright red cape~
+This bright red cape is made from a thick, warm felt.~
+unknown~
+armor 0 Aa
+AB AB AB A 0
+23 4 115 P
+#2074
+plain iron key~
+a plain iron key~
+A plain key made of iron lies here.~
+unknown~
+key W A
+0 0 0 0 0
+0 0 0 P
+#2075
+golden amethyst ring~
+a glittering {ma{bm{me{bt{mh{by{ms{bt{x ring~
+A delicate loop of gold to which a lustrous amethyst is embed lies here, glittering richly.~
+unknown~
+protect GS AB
+0 0 0 0 0
+80 0 1000 P
+A
+13 50
+#2076
+silver key~
+a silver key~
+A delicate key of silver glitters faintly at this place.~
+unknown~
+key FW A
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#2048
+Back Alley~
+The dirt path leads through crumbling buildings, running north and south.
+A strange haze fills the pathway in either direction, not giving you much
+insight into what lays in either direction.  Rats squeal at you loudly as
+you move past them, angry at your intrusion into their territory.  A glow of
+light comes out of an open doorway to the east here, breaking part of the
+haze, almost beckoning you in.  
+~
+0 1048577 1
+D0
+~
+~
+~
+0 0 2047
+D1
+~
+~
+~
+0 0 2053
+D2
+~
+~
+~
+0 0 2049
+M 0 H 0
+S
+#2049
+Back Alley~
+A strange haze fills the air here, not letting you see far down the path
+to either the north or the west.  Even more strange, is that the haze gets
+thicker to the west, and glows with a strange white light.  You can hear
+nothing in this area, and the path seems void of any other life but
+yourself.  
+~
+0 1048577 1
+D0
+~
+~
+~
+0 0 2048
+D3
+~
+~
+~
+0 0 2050
+M 0 H 0
+S
+#2050
+Back Alley~
+Surrounded by a deadening haze, you can barely see two inches in front of
+your nose.  A strange pulsating white light illuminates the haze brightly to
+the south here, while everywhere else stays a dismal dark grey.  No sound
+can be heard, regardless of how much you strain your ears, giving you an
+unsettled and on-edge feeling.  A door painting an ungodly shade of red
+blocks your way to the light to the south here.  
+~
+0 1048577 1
+D1
+~
+~
+~
+0 0 2049
+D2
+~
+~
+~
+1 0 2055
+D3
+~
+~
+~
+0 0 2051
+M 0 H 0
+S
+#2051
+Back Alley~
+You find yourself in a tight corner, surrounded on all sides but to the
+east with crumbling buildings, garbage and tree stumps.  A thick layer of
+grime covers every surface here, making everything grey and dingy.  A
+strange haze that pulsates a white light like a heart beat emanates from the
+east, which is the only way out of this corner.  
+~
+0 1048577 1
+D1
+~
+~
+~
+0 0 2050
+M 0 H 0
+S
+#2052
+The Cages Tavern~
+Dimly lit, and for good reason, this tavern is barely above a cesspit.  A
+strange smell fills the room, which could either be the dirty and sweaty
+patrons of this bar, strange food being cooked, food rotting, or a mixture
+of all of the above.  Glints of metal can be seen in the candle light at
+each table, and you feel a steady gaze of all the patrons on you as the room
+quiets with your entry.  The room has no windows and the walls are covered
+in grime and old blood stains.  There seems to be only two types of alcohol
+lined up in many bottles behind the bar.  They alternate between a dark
+liquid and a glowing red liquid.  
+~
+0 1048585 0
+D1
+~
+~
+~
+0 0 2047
+M 0 H 0
+S
+#2053
+Birthing Pools Slave Shop~
+An eerie silence surrounds you as you stand in the middle of a strange
+room.  Along the northern wall, a row of rusted steel cages act as a
+punishment for any pet or slave that isn't behaving as it should.  You can
+hear a pathetic whimpering coming from one of the cages, and looking closer,
+you can see a petite Efreet girl curled up inside it, looking at you with
+sad eyes.  Tied up by their necks along the southern wall are male and
+female Efreeti, hands kept behind their backs, but eyes begging at you to
+take them.  Sitting next to a grungy desk, looking more like a statue than a
+living creature, is a vicious looking cerberus.  
+~
+0 1052680 0
+D3
+~
+~
+~
+0 0 2048
+M 0 H 0
+S
+#2054
+Birthing Pools~
+~
+0 1089548 0
+M 0 H 0
+S
+#2055
+Order of Fire~
+This front hall of the building is strangely lit with a white glowing orb
+floating just below the ceiling that pulsates its light out like a strobe
+into the darkness.  The walls to the east and west of you are close
+together, making a narrow passage leading either south, deeper into the
+building, or north to a door leading to the road.  These walls are painted
+an unappealing shade of red, as is the floor and ceiling.  You can hear a
+strange chanting coming from within the bowels of the building.  
+~
+0 1048588 0
+D0
+~
+~
+~
+1 0 2050
+D2
+~
+~
+~
+0 0 2057
+M 0 H 0
+S
+#2056
+Order of Fire~
+This alcove you find yourself in leads out to the east as part of a long
+hall that makes up the main part of the building.  There are no windows
+here, or anywhere else you notice, and everything is painted in a terrible
+shade of red - even the floor and ceiling.  The western wall is completely
+covered with scribblings and mad writing in many different languages, none
+of which you can make out.  Some of the scribblings even look to be written
+in blood, or else the wall is bleeding from the scratching in of the words. 
+A small kneeling stool is set up facing this strange wall.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 2057
+M 0 H 0
+S
+#2057
+Order of Fire~
+This room is more of a long hall, stretching to the east and the west,
+with a small, narrow hallway reaching to the north.  All along the base of
+the southern wall is a flame which emits no heat and burns nothing, but
+seems to continue to grow larger with each passing moment.  Behind the fire
+you can see a ghastly red wall that seems to move and breathe on its own. 
+If you look closer, you occasionally see a face form in the wall, screaming
+out for help before being forced back into it.  All around you a strange
+chanting can be heard.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 2055
+D1
+~
+~
+~
+0 0 2058
+D3
+~
+~
+~
+0 0 2056
+M 0 H 0
+S
+#2058
+Order of Fire~
+This alcove you find yourself in leads out to the west as part of a long
+hall that makes up the main part of the building.  There are no windows
+here, or anywhere else you notice, and everything is painted in a terrible
+shade of red - even the floor and ceiling.  The eastern wall is completely
+covered with scribblings and mad writing in many different languages, none
+of which you can make out.  Some of the scribblings even look to be written
+in blood, or else the wall is bleeding from the scratching in of the words. 
+A small kneeling stool is set up facing this strange wall, and a rope ladder
+hangs from the ceiling in the southern corner.  
+~
+0 1048584 0
+D3
+~
+~
+~
+0 0 2057
+D4
+~
+~
+~
+0 0 2059
+M 0 H 0
+S
+#2059
+Order of Fire~
+You are surrounded by impermeable darkness.  Your light does not make a
+dent in the blackness.  What sounds like a heart beating fills your head as
+you can not tell what direction it comes from.  If you reach out to touch
+the walls, your hand seems get get grabbed on to and pulled into the wall by
+an unseen force.  Two little red orbs glow side by side, floating around the
+entire room, acting like eyes watching you, sizing you up, planning the
+attack...  
+~
+0 1048584 0
+D5
+~
+~
+~
+0 0 2058
+M 0 H 0
+S
+#2060
+On a Dock Before Fire Lake~
+This wooden dock creaks and groans under any small amount of weight, you
+wonder it doesn't collapse.  Making you wonder even more, how does the dock
+not burn up from the lake of fire it stands in?  The heat of the tonnes of
+burning magma this lake is made from presses in around you, making you feel
+heavy and tired.  Far off in the distance to the north, west and south you
+can see the faint edges of the crater this lake of fire fills.  To the east,
+you can see a tall building rising above a city.  
+~
+0 1048580 1
+D1
+~
+~
+~
+0 0 2031
+D3
+~
+~
+~
+0 0 2062
+M 0 H 0
+S
+#2061
+Fire Lake~
+You are completely surrounded by unmoving burning magma.  Occasionally a
+large bubble of fire escapes from the magma, casting itself high into the
+air.  Heat from the flames press in around you, making you feel heavy and
+drowsy, but the flame does not burn, and is almost cool to the touch.  All
+around you is more of the lake, though you can see the edges of the crater
+off in the distance all around you, except to the east, where you can see a
+city rising from the flames.  
+~
+0 1048576 7
+D0
+~
+~
+~
+0 0 2063
+D2
+~
+~
+~
+0 0 2062
+D3
+~
+~
+~
+0 0 2064
+M 0 H 0
+S
+#2062
+Fire Lake~
+You are completely surrounded by unmoving burning magma.  Occasionally a
+large bubble of fire escapes from the magma, casting itself high into the
+air.  Heat from the flames press in around you, making you feel heavy and
+drowsy, but the flame does not burn, and is almost cool to the touch.  All
+around you is more of the lake, though you can see the edges of the crater
+off in the distance all around you, except to the east, where you can see a
+city rising from the flames.  
+~
+0 1048576 7
+D0
+~
+~
+~
+0 0 2061
+D1
+~
+~
+~
+0 0 2060
+D2
+~
+~
+~
+0 0 2063
+D3
+~
+~
+~
+0 0 2065
+M 0 H 0
+S
+#2063
+Fire Lake~
+You are completely surrounded by unmoving burning magma.  Occasionally a
+large bubble of fire escapes from the magma, casting itself high into the
+air.  Heat from the flames press in around you, making you feel heavy and
+drowsy, but the flame does not burn, and is almost cool to the touch.  All
+around you is more of the lake, though you can see the edges of the crater
+off in the distance all around you, except to the east, where you can see a
+city rising from the flames.  
+~
+0 1048576 7
+D0
+~
+~
+~
+0 0 2062
+D2
+~
+~
+~
+0 0 2061
+D3
+~
+~
+~
+0 0 2066
+M 0 H 0
+S
+#2064
+Fire Lake~
+You are completely surrounded by unmoving burning magma.  Occasionally a
+large bubble of fire escapes from the magma, casting itself high into the
+air.  Heat from the flames press in around you, making you feel heavy and
+drowsy, but the flame does not burn, and is almost cool to the touch.  All
+around you is more of the lake, though you can see the edges of the crater
+off in the distance all around you, except to the east, where you can see a
+city rising from the flames.  
+~
+0 1048576 7
+D0
+~
+~
+~
+0 0 2066
+D1
+~
+~
+~
+0 0 2061
+D2
+~
+~
+~
+0 0 2065
+D3
+~
+~
+~
+0 0 2067
+M 0 H 0
+S
+#2065
+Fire Lake~
+You are completely surrounded by unmoving burning magma.  Occasionally a
+large bubble of fire escapes from the magma, casting itself high into the
+air.  Heat from the flames press in around you, making you feel heavy and
+drowsy, but the flame does not burn, and is almost cool to the touch.  All
+around you is more of the lake, though you can see the edges of the crater
+off in the distance all around you, except to the east, where you can see a
+city rising from the flames.  
+~
+0 1048576 7
+D0
+~
+~
+~
+0 0 2064
+D1
+~
+~
+~
+0 0 2062
+D2
+~
+~
+~
+0 0 2066
+D3
+~
+~
+~
+0 0 2068
+M 0 H 0
+S
+#2066
+Fire Lake~
+You are completely surrounded by unmoving burning magma.  Occasionally a
+large bubble of fire escapes from the magma, casting itself high into the
+air.  Heat from the flames press in around you, making you feel heavy and
+drowsy, but the flame does not burn, and is almost cool to the touch.  All
+around you is more of the lake, though you can see the edges of the crater
+off in the distance all around you, except to the east, where you can see a
+city rising from the flames.  
+~
+0 1048576 7
+D0
+~
+~
+~
+0 0 2065
+D1
+~
+~
+~
+0 0 2063
+D2
+~
+~
+~
+0 0 2064
+D3
+~
+~
+~
+0 0 2069
+M 0 H 0
+S
+#2067
+Fire Lake~
+You are completely surrounded by unmoving burning magma.  Occasionally a
+large bubble of fire escapes from the magma, casting itself high into the
+air.  Heat from the flames press in around you, making you feel heavy and
+drowsy, but the flame does not burn, and is almost cool to the touch.  A
+small cliff of sand edges the crater which prevents you from docking here
+and contains the lake of fire.  Looking around you, the north and south only
+lead to more vast extents of fiery lake, and off in the distance to the east
+you can see a city rising behind the flames.  
+~
+0 1048576 7
+D1
+~
+~
+~
+0 0 2064
+D2
+~
+~
+~
+0 0 2068
+M 0 H 0
+S
+#2068
+Fire Lake~
+You are completely surrounded by unmoving burning magma.  Occasionally a
+large bubble of fire escapes from the magma, casting itself high into the
+air.  Heat from the flames press in around you, making you feel heavy and
+drowsy, but the flame does not burn, and is almost cool to the touch.  A
+small cliff of sand edges the crater which prevents you from docking here
+and contains the lake of fire.  Looking around you, the north and south only
+lead to more vast extents of fiery lake, and off in the distance to the east
+you can see a city rising behind the flames.  
+~
+0 1048576 7
+D0
+~
+~
+~
+0 0 2067
+D1
+~
+~
+~
+0 0 2065
+D2
+~
+~
+~
+0 0 2069
+M 0 H 0
+S
+#2069
+Fire Lake~
+You are completely surrounded by unmoving burning magma.  Occasionally a
+large bubble of fire escapes from the magma, casting itself high into the
+air.  Heat from the flames press in around you, making you feel heavy and
+drowsy, but the flame does not burn, and is almost cool to the touch.  All
+around you is more of the lake, though you can see the edges of the crater
+off in the distance all around you, except to the east, where you can see a
+city rising from the flames.  A small outcropping of a beach butts up
+against the lake of fire here, acting as a natural dock.  South of here, the
+beginning of a barren wasteland are visible.  
+~
+0 1048576 7
+D0
+~
+~
+~
+0 0 2068
+D1
+~
+~
+~
+0 0 2066
+D2
+~
+~
+~
+0 0 5600
+M 0 H 0
+S
+#2070
+Daza Crescent~
+A narrow road of smoothed blackened rock leads you through a residential
+area of Mar Narev.  The sounds of the city fade away into the distance as
+houses around you block out the noises from the City Hall and Market areas
+of town.  Simple but neat houses surround you on the north and south sides
+of the road as the street leads you in an east-west direction.  Peeking in
+the windows of the houses, you can see women cooking in the kitchens while
+children fly around and play.  Sometimes you can even see an Efreet man
+sitting at a table, smoking a pipe while deep in thought.  A door leads into
+one of these houses to the north, while only windows line the back of a
+house to the south.  
+~
+0 1048576 1
+D0
+~
+~
+~
+1 0 2077
+D1
+~
+~
+~
+0 0 2071
+D3
+~
+~
+~
+0 0 2021
+M 0 H 0
+S
+#2071
+Daza Crescent~
+A narrow road of smoothed blackened rock leads you through a residential
+area of Mar Narev.  The sounds of the city fade away into the distance as
+houses around you block out the noises from the City Hall and Market areas
+of town.  Simple but neat houses surround you on the north and south sides
+of the road as the street leads you in an east-west direction.  Peeking in
+the windows of the houses, you can see women cooking in the kitchens while
+children fly around and play.  Sometimes you can even see an Efreet man
+sitting at a table, smoking a pipe while deep in thought.  Simple sturdy
+wooden doors are framed by tiny windows into the houses to the north and
+south.  
+~
+0 1048576 1
+D0
+~
+~
+~
+1 0 2078
+D1
+~
+~
+~
+0 0 2072
+D2
+~
+~
+~
+1 0 2085
+D3
+~
+~
+~
+0 0 2070
+M 0 H 0
+S
+#2072
+Daza Crescent~
+A narrow road of smoothed blackened rock leads you through a residential
+area of Mar Narev.  The sounds of the city fade away into the distance as
+houses around you block out the noises from the City Hall and Market areas
+of town.  You can see the simple houses of the common Efreet of the city to
+the west, while a tall fence blocks most of your view to the east.  Behind
+the fence you can see tall spires of a grand white house, and around this is
+a shocking sight for the city - the green of trees.  Daza Crescent bends
+here in a west-south direction, leading you around to more residences.  
+~
+0 1048576 1
+D2
+~
+~
+~
+0 0 2073
+D3
+~
+~
+~
+0 0 2071
+M 0 H 0
+S
+#2073
+Daza Crescent~
+A narrow road of smoothed blackened rock leads you through a residential
+area of Mar Narev.  The sounds of the city fade away into the distance as
+houses around you block out the noises from the City Hall and Market areas
+of town.  You can see the simple houses of the common Efreet of the city to
+the west, while a tall fence blocks most of your view to the east.  Behind
+the fence you can see tall spires of a grand white house, and around this is
+a shocking sight for the city - the green of trees.  Tall iron gates to the
+east let you see deeper into the property, showing a grand white mansion and
+the many palm trees that line the perimeter of the house.  The Crescent
+continues to the north and south here.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2072
+D1
+~
+~
+~
+1 0 2080
+D2
+~
+~
+~
+0 0 2074
+M 0 H 0
+S
+#2074
+Daza Crescent~
+A narrow road of smoothed blackened rock leads you through a residential
+area of Mar Narev.  The sounds of the city fade away into the distance as
+houses around you block out the noises from the City Hall and Market areas
+of town.  You can see the simple houses of the common Efreet of the city to
+the west, while a tall fence blocks most of your view to the east.  Behind
+the fence you can see tall spires of a grand white house, and around this is
+a shocking sight for the city - the green of trees.  Daza Crescent bends
+here in a west-north direction, leading you around to more residences.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2073
+D3
+~
+~
+~
+0 0 2075
+M 0 H 0
+S
+#2075
+Daza Crescent~
+A narrow road of smoothed blackened rock leads you through a residential
+area of Mar Narev.  The sounds of the city fade away into the distance as
+houses around you block out the noises from the City Hall and Market areas
+of town.  Simple but neat houses surround you on the north and south sides
+of the road as the street leads you in an east-west direction.  Peeking in
+the windows of the houses, you can see women cooking in the kitchens while
+children fly around and play.  Sometimes you can even see an Efreet man
+sitting at a table, smoking a pipe while deep in thought.  A door leads into
+one of these houses to the north. A road leading to the desert is to the
+south. 
+~
+0 1048576 1
+D0
+~
+~
+~
+1 0 2082
+D1
+~
+~
+~
+0 0 2074
+D2
+~
+~
+~
+0 0 3999
+D3
+~
+~
+~
+0 0 2076
+M 0 H 0
+S
+#2076
+Daza Crescent~
+A narrow road of smoothed blackened rock leads you through a residential
+area of Mar Narev.  The sounds of the city fade away into the distance as
+houses around you block out the noises from the City Hall and Market areas
+of town.  Simple but neat houses surround you on the north and south sides
+of the road as the street leads you in an east-west direction.  Peeking in
+the windows of the houses, you can see women cooking in the kitchens while
+children fly around and play.  Sometimes you can even see an Efreet man
+sitting at a table, smoking a pipe while deep in thought.  Simple sturdy
+wooden doors are framed by tiny windows into the houses to the north and
+south.  
+~
+0 1048576 1
+D0
+~
+~
+~
+1 0 2084
+D1
+~
+~
+~
+0 0 2075
+D2
+~
+~
+~
+1 0 2083
+D3
+~
+~
+~
+0 0 2023
+M 0 H 0
+S
+#2077
+A Simple House~
+This small house by no means looks as though the poor live here.  Though
+it is a single room, everything is kept in its place and kept extremely
+clean.  You can see a small child's toy laying in the corner next to a bed
+that seems extremely large for the size of the room.  Opposite the room from
+the bed is a large fire place that has a huge cooking pot boiling some
+delicious-smelling food.  A large table separates the two main features of
+the room, only this table has short legs, so no chairs are needed to use it.
+The walls are a clean white, void of all decorations, though there are two
+small windows beside the door to the south, and another three small windows
+in the northern wall.  
+~
+0 1048584 0
+D2
+~
+~
+~
+1 0 2070
+M 0 H 0
+S
+#2078
+A Simple House~
+A large room seems to be the entirety of the house, but everything inside
+it seems to fit and have its place.  Set in the north-east corner of the
+room is a large fire place, where a fire blazes beneath a large cooking pot.
+Butting up against the eastern wall next to the fire place is a narrow table
+with two chairs facing the wall.  Opposite the fire on the western wall is a
+crisply-made bed, which has pillows set up along it to make it act like a
+couch as well.  A single window brings in light from the northern wall,
+competing with the small windows framing the door to the south.  
+~
+0 1048584 0
+D2
+~
+~
+~
+1 0 2071
+M 0 H 0
+S
+#2079
+The Parlor of a Grand Mansion~
+The first thing you notice in this room is the large crystal chandelier
+that hangs like diamonds of water falling from the heavens.  Light emitted
+from inside the crystals somewhere casts star-like impressions on the floors
+and walls of the room, highlighting little features which exemplify the
+richness of the owner of the house.  All the furniture is a deep-coloured
+wood, overstuffed, and upholstered with patterned silks in bright colours. 
+The floor is lined with many rugs, each in different shades and patterns,
+but the over all effect looks like planned disorganization.  
+~
+0 1048584 0
+D2
+~
+~
+~
+0 0 2080
+M 0 H 0
+S
+#2080
+A Grand Mansion~
+You find yourself in the cool whiteness of a large mansion.  Sparkling
+white stone is polished to a high shine on the floor, while it is left
+unpolished for the walls.  Tall wide windows line the eastern wall, and
+frame the door to the west.  The windows are curtained by an almost totally
+sheer gauze-like material, also in white, which seem to move in an unfelt
+breeze.  Between the windows are large paintings or beautiful tapestries
+depicting times of glory and power of the Efreet people.  Large reddish wood
+double doors fill most of the northern and southern walls, of which the
+northern doors are left wide open.  Set next to these doors on either side
+of them are tall, bushy green tropical plants.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 2079
+D2
+~
+~
+~
+1 0 2081
+D3
+~
+~
+~
+1 0 2073
+M 0 H 0
+S
+#2081
+The Study of a Grand Mansion~
+You find yourself in a room which seems to have a constant hush about it.
+Rich wooden desks, chairs, sofas and bookcases fill the room with a
+reddish-golden hue, almost like a glow.  This study looks well lived-in, as
+books lay open on almost all surfaces, and papers with writings are
+scattered about, some pieces fallen to the ground.  A single large window
+fills the southern wall, curtained with a heavy indigo velvet, which accents
+the greens and reds of the rugs laid out on the polished white stone floor. 
+Dark paintings are framed in heavy gold gild depicting battle scenes of
+great creatures.  
+~
+0 1048584 0
+D0
+~
+~
+~
+1 0 2080
+M 0 H 0
+S
+#2082
+A Simple House~
+This simple house seems to be in a state of disorder, and not from
+children, as there is no indication of child's toys anywhere in the mess. 
+Dirty dishes fill the small table tucked in the north-west corner of the
+room beneath a tiny window in the southern wall next to the door.  A small
+mattress is a mess of sheets and clothing in the south-eastern corner of the
+room, and a trail of clothing leads one from the door to this area.  The
+large stones that form the fire place on the other side of the door are
+covered with soot and blackened.  There is no roaring fire or cooking food
+there, just an empty coldness.  
+~
+0 1048584 0
+D2
+~
+~
+~
+1 0 2075
+M 0 H 0
+S
+#2083
+A Simple House~
+This tiny cottage of a house is in a state of disrepair.  A broken and
+dusty wooden table sprawls in the centre of the room, while cobwebs fill the
+corners of the ceiling, so thickly it's almost like there are no sharp
+corners.  Pieces of stone lay on the floor around the fire place, and
+crumpled pieces of paper are tossed inside the hearth and are covered with
+black soot.  The single window in the southern wall is cracked, and a piece
+of the glass is missing.  No one could possibly live here with the house in
+the state it's in.  
+~
+0 1048584 0
+D0
+~
+~
+~
+1 0 2076
+M 0 H 0
+S
+#2084
+A Simple House~
+A small house, it is kept very clean, and is almost completely sparse of
+furniture.  Small windows, about the size of a Jinn's face line evenly along
+the north and west walls, and frame the door in the south wall.  A large
+flagstone fire place is centred in the eastern wall, and almost fills it
+completely.  There is a cheerful fire crackling away, and two bowls of soup
+on the hearth to warm.  Nestled in the north-west corner is a bed which is
+raised high off the ground.  
+~
+0 1048584 0
+D2
+~
+~
+~
+1 0 2076
+M 0 H 0
+S
+#2085
+A Simple House~
+You seem to be in the front room of a house, which acts as a living area,
+kitchen, and play area for the children.  A door is set in the southern
+wall, but when you try it, it seems to be stuck.  You can only assume that
+behind this door is the bedroom.  A row of small windows lines the eastern
+wall, beneath which is the clutter of children's toys and books.  Just west
+of the door in the northern wall, is a massive stone fire place, which has
+the beginnings of a blazing fire in it.  Next to this, near the western wall
+is a long table with many chairs around it, and it's currently covered with
+an array of vegetables that look to be the preparations of an upcoming meal.
+~
+0 1048584 0
+D0
+~
+~
+~
+1 0 2071
+M 0 H 0
+S
+#2086
+Beach Outcrop~
+This narrow strip of beach runs in a seemingly endless stretch north and
+south of here, though it is broken by small streams of lava, making it
+impossible to move in either direction.  White sand pools out beneath you,
+and you can feel intense heat radiating up from the ground.  Looking to the
+east from this vantage point, you can see a city far off in the distance
+rising out of a lake of fire.  A worn sandy path leads you to the west
+through burnt and dried vegetation, away from the intense heat of the lake
+next to you.  
+~
+0 1048580 2
+M 0 H 0
+S
+#2087
+Path Through Burnt Vegetation~
+A white sandy path twists and winds it way east and west through dried
+and burnt vegetation.  Large blackened stumps of trees jut up from brown
+long grass like gangrenous limbs from an almost dead land.  The wind
+whistles through the vegetation, sounding more like a lost soul howling in
+its pain.  You can see the glow of a large fire to the east and looking west
+you can see life coming to the land.  
+~
+0 1048576 2
+D3
+~
+~
+~
+0 0 2088
+M 0 H 0
+S
+#2088
+Sandy Path~
+Beautiful white sand sparkles in the light, almost like you are passing
+over diamonds.  You are surrounded to the north and south by rough and dried
+vegetation, occasionally spotting a blackened stump of a tree through the
+brown brambles and thorns.  Immediately next to the path and a little in to
+the dead flora, you are cheered by the sight of small sprigs of new bright
+green grass and small flowers.  The sand path leads to an orange glow off to
+the east, and into more of the dried vegetation to the west.  
+~
+0 1048576 2
+D1
+~
+~
+~
+0 0 2087
+D3
+~
+~
+~
+0 0 2090
+M 0 H 0
+S
+#2089
+Before Kurat's Hideout~
+The forest unwillingly opens to form a miniature clearing, which is, in
+fact, nearly too small to be considered a clearing.  The trees curve
+overhead to more or less block the sunlight at day, and even the ground is
+not entirely free of bushes.  Nearly invisible amidst the wild foliage is
+what seems to be a metal door, strategically situated at the center of the
+clearing by a large rock and a bush.  The door leans strongly towards the
+ground and probably leads to some underground area.  
+~
+0 0 2
+D2
+~
+bush~
+~
+1 0 2097
+D5
+~
+~
+~
+4 2074 2091
+M 0 H 0
+S
+#2090
+A Sandy Path~
+Sparkling white sand forms a path beneath you that bends around a large
+dune that is to the south-east of you.  You can hear a swishing sound that
+comes from the steady breeze moving through the long dried grasses around
+you.  In the distance to the east you can see waves of heat blocking your
+view of anything else out there.  The path continues to the south, gradually
+turning from sand to dirt.  Peeking though the brown grasses along the edge
+of the path, you can see small green sprouts of new grasses.  
+~
+0 1048576 2
+D1
+~
+~
+~
+0 0 2088
+D2
+~
+~
+~
+0 0 2094
+M 0 H 0
+S
+#2091
+The Entrance Chamber~
+A few stairs lead you underground and into Kurat's very hideout.  The
+first chamber seems very much bare, containing a few means with which the
+guards observe the outside, as well as some miserable chairs in case the
+guards are in need of rest.  A pile of thin blankets serve as a sleeping
+area, while westwards, a reinforced wooden door can be seen.  Quite
+strangely, the slot in which a key-hole would normally be is dominated by a
+ring-shaped marking.  
+~
+0 1048584 0
+D3
+~
+~
+~
+4 2075 2092
+D4
+~
+~
+~
+4 2074 2089
+M 0 H 0
+S
+#2092
+The Living Room~
+The living room of Kurat's hideout is reserved to his most trusted
+underlings.  The room itself is quite richly decorated and even cozily
+designed, a fireplace dominating the southern wall and a dark red carpet
+stretching from wall to wall.  No less than a brown leather couch rests by
+the fireplace, and even pictures adorn the walls.  Undoubtedly out of place
+is a large oaken closet stuck at the southwestern corner, its shelves
+bustling with books.  
+~
+0 8 0
+E
+closet~
+A glittering book of gold sticks out from the closet in nearly an
+unnatural fashion.  Might be worth a closer look.  
+~
+D1
+~
+~
+~
+4 2075 2091
+D3
+~
+~
+~
+4 2076 2093
+M 0 H 0
+S
+#2093
+Kurat's Abode~
+Finally, you have arrived to the secret abode of Kurat Bloodmist, leader
+of the red operations within the structure of his mercenary guild.  The
+chamber is perfectly round and displays no less than royal decorations which
+succesfully maintain good taste and design.  A large wooden desk dominates
+the very center of the chamber, surrounded by several armchairs of the
+finest leather.  A thin red veil conceals a large bed to the west, while
+otherwise the only exit is back east.  
+~
+0 8 0
+D1
+~
+~
+~
+4 2076 2092
+M 0 H 0
+S
+#2094
+A Grassy Field~
+The grasses covering this field look to be slightly dried out and sparse.
+You can spot the burned and blackened stumps of what once used to be immense
+trees standing above the grasses.  A worn dirt path below you leads you
+around the large dune that is to the east, winding through the grasses in a
+general north-south route.  Looking along the path more to the north, you
+can see the dirt gradually start to change into a white sand.  
+~
+0 1048576 2
+D0
+~
+~
+~
+0 0 2090
+D2
+~
+~
+~
+0 0 2095
+M 0 H 0
+S
+#2095
+A Grassy Field~
+Long grasses sway in a gentle breeze that seems to be a constant feature
+here.  Looking along a small worn dirt path to the west, you can see a dark
+forest rising from the grasses of the field.  Off in the distance to the
+east, you can see waves of heat blurring the landscape and any idea at what
+could be beyond the large dune that also blocks your vision.  The dirt path
+you are over now also leads to the north around the large dune.  
+~
+0 1048576 2
+D0
+~
+~
+~
+0 0 2094
+D3
+~
+~
+~
+0 0 2096
+M 0 H 0
+S
+#2096
+The Edge of an Eerie Forest~
+Ancient trees are sparse in number as you are on the edge of an eerie
+forest.  A small footpath winds its way between the massive trunks of the
+trees in a generally east-west direction.  Looking east, you can see an open
+field with small rolling hills and long grasses.  To the west lies only a
+silent darkness.  Around you you can hear what sounds like a person howling
+and moaning as though they have lost something terribly important to them. 
+It seems to be originating from the forest.  
+~
+0 1048576 3
+D1
+~
+~
+~
+0 0 2095
+D3
+~
+~
+~
+0 0 2097
+M 0 H 0
+S
+#2097
+An Eerie Forest~
+Coolness descends upon you like a sheet of ice, and you suddenly feel
+shivers running up your spine.  Massive trees reach to the heavens, their
+branches far above your head, and their trunks making the east-west footpath
+you can see, wind.  Not a sound can be heard of any life here, so a strange
+creaking and moaning sound that seems to be coming from all around you is
+amplified.  A strange darkness fills the spaces between the trees to the
+north and south, giving you the feeling that staying on the small path
+beneath you is the best plan.  
+~
+0 1048576 3
+D0
+~
+~
+~
+1 0 2089
+D1
+~
+~
+~
+0 0 2096
+D3
+~
+~
+~
+0 0 2098
+M 0 H 0
+S
+#2098
+The Edge of a Large Field~
+The long grasses of the field gradually decrease as a sudden line of
+trees grows and blocks most of the sunlight on the ground.  A cool breeze
+seems to be coming out from between the trees to the east, and looking
+further in that direction, you can't see very far into the forest.  The
+cheery sounds of birds and crickets that come from the large field to the
+west are quieting down, and the eerie silence of the forest seems to prevail
+here.  
+~
+0 1048576 2
+D1
+~
+~
+~
+0 0 2097
+D3
+~
+~
+~
+0 0 2099
+M 0 H 0
+S
+#2099
+A Large Field~
+Long grasses brush past your legs as you move along the path that has
+been created by them being bent to the sides.  The chatter of crickets and
+birds fills the air around you, making this experience more like spending a
+day in a park than moving to a destination.  You can see a magnificent
+castle in the distance to the south west, and the grasses part in a path to
+the west to lead you to this place.  However, the grasses also part in a
+path to the east, leading towards a dark forest.  The entrance to a small
+town is visible to the north, accessible from the path leading in the same
+direction.  
+~
+0 1048576 2
+D1
+~
+~
+~
+0 0 2098
+M 0 H 0
+S
+#2001
+Stairs Around the City Hall~
+Wide steps make an inclined path between the road and the City Hall of
+Mar Narev.  You stand about mid-way up the steps, and looking the rest of
+the way up, you can see the impressive stone City Hall building.  Huge
+blocks of a reddish stone make up these steps, and they are for the most
+part in good condition.  There is an odd deep crack running jaggedly from
+the bottom up a few flights that steam and a yellowish glow seem to escape
+from.  Looking back down the steps, you can see the blackened stone road
+that leads you around the city.  
+~
+0 1048576 4
+E
+crack~
+Looking closer at the crack through the stone steps, you can see down to
+a flowing river of magma that runs beneath the city.  
+~
+D0
+~
+~
+~
+0 0 2016
+D1
+~
+~
+~
+0 0 2002
+D2
+~
+~
+~
+0 0 2005
+D3
+~
+~
+~
+0 0 2032
+M 0 H 0
+S
+#2002
+Stairs Around the City Hall~
+Wide steps make an inclined path between the road and the City Hall of
+Mar Narev.  You stand about mid-way up the steps, and looking the rest of
+the way up, you can see the impressive stone City Hall building.  Huge
+blocks of a reddish stone make up these steps, and they are for the most
+part in good condition.  Looking back down the steps, you can see the
+blackened stone road that leads you around the city.  
+~
+0 1048580 4
+D0
+~
+~
+~
+0 0 2017
+D1
+~
+~
+~
+0 0 2003
+D2
+~
+~
+~
+0 0 2011
+D3
+~
+~
+~
+0 0 2001
+M 0 H 0
+S
+#2003
+Stairs Around the City Hall~
+Wide steps make an inclined path between the road and the City Hall of
+Mar Narev.  You stand about mid-way up the steps, and looking the rest of
+the way up, you can see the impressive stone City Hall building.  Huge
+blocks of a reddish stone make up these steps, and they are for the most
+part in good condition.  Looking back down the steps, you can see the
+blackened stone road that leads you around the city.  
+~
+0 1048576 4
+D0
+~
+~
+~
+0 0 2018
+D1
+~
+~
+~
+0 0 2004
+D3
+~
+~
+~
+0 0 2002
+M 0 H 0
+S
+#2004
+Stairs Around the City Hall~
+Wide steps make an inclined path between the road and the City Hall of
+Mar Narev.  You stand about mid-way up the steps, and looking the rest of
+the way up, you can see the impressive stone City Hall building.  Huge
+blocks of a reddish stone make up these steps, and they are for the most
+part in good condition.  There is an odd deep crack running jaggedly from
+the bottom up a few flights that steam and a yellowish glow seem to escape
+from.  Looking back down the steps, you can see the blackened stone road
+that leads you around the city.  
+~
+0 1048576 4
+E
+crack~
+Looking closer at the crack through the stone steps, you can see down to
+a flowing river of magma that runs beneath the city.  
+~
+D0
+~
+~
+~
+0 0 2019
+D1
+~
+~
+~
+0 0 2021
+D2
+~
+~
+~
+0 0 2006
+D3
+~
+~
+~
+0 0 2003
+M 0 H 0
+S
+#2005
+Stairs Around the City Hall~
+Wide steps make an inclined path between the road and the City Hall of
+Mar Narev.  You stand about mid-way up the steps, and looking the rest of
+the way up, you can see the impressive stone City Hall building.  Huge
+blocks of a reddish stone make up these steps, and they are for the most
+part in good condition.  Looking back down the steps, you can see the
+blackened stone road that leads you around the city.  
+~
+0 1048576 4
+D0
+~
+~
+~
+0 0 2001
+D2
+~
+~
+~
+0 0 2007
+D3
+~
+~
+~
+0 0 2031
+M 0 H 0
+S
+#2006
+Stairs Around the City Hall~
+Wide steps make an inclined path between the road and the City Hall of
+Mar Narev.  You stand about mid-way up the steps, and looking the rest of
+the way up, you can see the impressive stone City Hall building.  Huge
+blocks of a reddish stone make up these steps, and they are for the most
+part in good condition.  There is an odd deep crack running jaggedly from
+the bottom up a few flights that steam and a yellowish glow seem to escape
+from.  Looking back down the steps, you can see the blackened stone road
+that leads you around the city.  
+~
+0 1048576 4
+E
+crack~
+Looking closer at the crack through the stone steps, you can see down to
+a flowing river of magma that runs beneath the city.  
+~
+D0
+~
+~
+~
+0 0 2004
+D1
+~
+~
+~
+0 0 2022
+D2
+~
+~
+~
+0 0 2010
+M 0 H 0
+S
+#2007
+Stairs Around the City Hall~
+Wide steps make an inclined path between the road and the City Hall of
+Mar Narev.  You stand about mid-way up the steps, and looking the rest of
+the way up, you can see the impressive stone City Hall building.  Huge
+blocks of a reddish stone make up these steps, and they are for the most
+part in good condition.  There is an odd deep crack running jaggedly from
+the bottom up a few flights that steam and a yellowish glow seem to escape
+from.  Looking back down the steps, you can see the blackened stone road
+that leads you around the city.  
+~
+0 1048576 4
+E
+crack~
+Looking closer at the crack through the stone steps, you can see down to
+a flowing river of magma that runs beneath the city.  
+~
+D0
+~
+~
+~
+0 0 2005
+D1
+~
+~
+~
+0 0 2008
+D2
+~
+~
+~
+0 0 2028
+D3
+~
+~
+~
+0 0 2030
+M 0 H 0
+S
+#2008
+Stairs Around the City Hall~
+Wide steps make an inclined path between the road and the City Hall of
+Mar Narev.  You stand about mid-way up the steps, and looking the rest of
+the way up, you can see the impressive stone City Hall building.  Huge
+blocks of a reddish stone make up these steps, and they are for the most
+part in good condition.  Looking back down the steps, you can see the
+blackened stone road that leads you around the city.  
+~
+0 1048576 4
+D1
+~
+~
+~
+0 0 2009
+D2
+~
+~
+~
+0 0 2027
+D3
+~
+~
+~
+0 0 2007
+M 0 H 0
+S
+#2009
+Stairs Around the City Hall~
+Wide steps make an inclined path between the road and the City Hall of
+Mar Narev.  You stand about mid-way up the steps, and looking the rest of
+the way up, you can see the impressive stone City Hall building.  Huge
+blocks of a reddish stone make up these steps, and they are for the most
+part in good condition.  There is an odd deep crack running jaggedly from
+the bottom up a few flights that steam and a yellowish glow seem to escape
+from.  Looking back down the steps, you can see the blackened stone road
+that leads you around the city.  
+~
+0 1048576 4
+E
+crack~
+Looking closer at the crack through the stone steps, you can see down to
+a flowing river of magma that runs beneath the city.  
+~
+D1
+~
+~
+~
+0 0 2010
+D2
+~
+~
+~
+0 0 2026
+D3
+~
+~
+~
+0 0 2008
+M 0 H 0
+S
+#2010
+Stairs Around the City Hall~
+Wide steps make an inclined path between the road and the City Hall of
+Mar Narev.  You stand about mid-way up the steps, and looking the rest of
+the way up, you can see the impressive stone City Hall building.  Huge
+blocks of a reddish stone make up these steps, and they are for the most
+part in good condition.  Looking back down the steps, you can see the
+blackened stone road that leads you around the city.  
+~
+0 1048576 4
+D0
+~
+~
+~
+0 0 2006
+D1
+~
+~
+~
+0 0 2023
+D2
+~
+~
+~
+0 0 2025
+D3
+~
+~
+~
+0 0 2009
+M 0 H 0
+S
+#2011
+Mar Narev City Hall~
+Cool white stones stand around you solidly, forming thick walls that seem
+to keep the warm air outside this building.  The floor is polished to a high
+shine, so the black surface reflects your image back to you almost
+perfectly.  All around you something seems to be going on, whether it's
+small legal disputes or just groups of people socializing with each other. 
+Tall windows stand from floor to ceiling, and are uncurtained, giving you a
+good vantage point over the entire city.  These windows are separated by
+small alcoves that contain statues and busts of important Mar Narev citizens
+throughout history.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 2002
+D1
+~
+~
+~
+0 0 2012
+M 0 H 0
+S
+#2012
+Mar Narev City Hall~
+Cool white stones stand around you solidly, forming thick walls that seem
+to keep the warm air outside this building.  The floor is polished to a high
+shine, so the black surface reflects your image back to you almost
+perfectly.  All around you something seems to be going on, whether it's
+small legal disputes or just groups of people socializing with each other. 
+Tall windows stand from floor to ceiling, and are uncurtained, giving you a
+good vantage point over the entire city.  These windows are separated by
+small alcoves that contain statues and busts of important Mar Narev citizens
+throughout history.  A spiral staircase fills the south eastern corner of
+the room, leading to another level of the City Hall.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 2011
+D4
+~
+~
+~
+0 0 2014
+M 0 H 0
+S
+#2013
+The Mayor's Office~
+A spacious room, this office is decorated for someone of great importance
+in the city.  Glancing about the room, you see only one large window set in
+the western wall, which is almost the entire wall in itself.  Sprawled
+across the polished floor is a thick detailed rug in deep rich colours that
+matches with the large tapestries that hang from the northern and southern
+walls.  Placed prominently in front of the window is a large, intricately
+carved desk, behind which a leather chair sits.  This room just oozes
+wealth.  
+~
+0 8 0
+E
+desk~
+Beautiful carvings wind their way down the legs of the desk, as well as
+around the table top.  Neatly placed on top are a few pens and a couple pads
+of paper, but no sign of any caring father, or personal touches at all.  
+~
+D1
+~
+~
+~
+1 0 2014
+M 0 H 0
+S
+#2014
+Mar Narev City Hall~
+Cool white stones stand around you solidly, forming thick walls that seem
+to keep the warm air outside this building.  The floor is polished to a high
+shine, so the black surface reflects your image back to you almost
+perfectly.  Tall windows stand from floor to ceiling, and are uncurtained,
+giving you a high vantage point over the entire city.  Placed in an ordered
+fashion around you are many wooden desks, where Efreet business people sit
+and quietly work.  A reddish wood door is centred in the western wall, and a
+shiny brass plaque on it reads "Mayor".  
+~
+0 8 0
+D3
+~
+reddish wood door~
+~
+1 0 2013
+D5
+~
+~
+~
+0 0 2012
+M 0 H 0
+S
+#2015
+Faris Road~
+Hard blackened stones seem to have been pounded down to form this almost
+perfectly smooth road.  Small holes have formed along the edges of the road,
+and you can tell where some of these holes have been patched over.  Looking
+out from the city, you can see a large lake of fire that surrounds it, and
+further off in the distance you can make out the edge of the crater that
+this city is centred in.  The road bends here, in an east-south direction,
+and directly to the south east, you can see a large set of reddish stone
+stairs leading up to an important looking building.  
+~
+0 1048576 1
+D1
+~
+~
+~
+0 0 2016
+D2
+~
+~
+~
+0 0 2032
+M 0 H 0
+S
+#2016
+Faris Road~
+Hard blackened stones seem to have been pounded down to form this almost
+perfectly smooth road.  Small holes have formed along the edges of the road,
+and you can tell where some of these holes have been patched over.  Looking
+out from the city, you can see a large lake of fire that surrounds it, and
+further off in the distance you can make out the edge of the crater that
+this city is centred in.  The road runs perfectly east-west here, and
+directly to your south is a set of large reddish stone stairs that lead up
+to an important looking building.  
+~
+0 1048576 1
+D1
+~
+~
+~
+0 0 2017
+D2
+~
+~
+~
+0 0 2001
+D3
+~
+~
+~
+0 0 2015
+M 0 H 0
+S
+#2017
+Faris Road~
+Hard blackened stones seem to have been pounded down to form this almost
+perfectly smooth road.  Small holes have formed along the edges of the road,
+and you can tell where some of these holes have been patched over.  Looking
+out from the city, you can see a large lake of fire that surrounds it, and
+further off in the distance you can make out the edge of the crater that
+this city is centred in.  The road runs perfectly east-west here, and
+directly to your south is a set of large reddish stone stairs that lead up
+to an important looking building.  
+~
+0 1048576 1
+D1
+~
+~
+~
+0 0 2018
+D2
+~
+~
+~
+0 0 2002
+D3
+~
+~
+~
+0 0 2016
+M 0 H 0
+S
+#2018
+Faris Road~
+Hard blackened stones seem to have been pounded down to form this almost
+perfectly smooth road.  Small holes have formed along the edges of the road,
+and you can tell where some of these holes have been patched over.  Looking
+out from the city, you can see a large lake of fire that surrounds it, and
+further off in the distance you can make out the edge of the crater that
+this city is centred in.  The road runs perfectly east-west here, and
+directly to your south is a set of large reddish stone stairs that lead up
+to an important looking building.  
+~
+0 1048576 1
+D1
+~
+~
+~
+0 0 2019
+D2
+~
+~
+~
+0 0 2003
+D3
+~
+~
+~
+0 0 2017
+M 0 H 0
+S
+#2019
+Faris Road~
+Hard blackened stones seem to have been pounded down to form this almost
+perfectly smooth road.  Small holes have formed along the edges of the road,
+and you can tell where some of these holes have been patched over.  Looking
+out from the city, you can see a large lake of fire that surrounds it, and
+further off in the distance you can make out the edge of the crater that
+this city is centred in.  The road runs perfectly east-west here, and
+directly to your south is a set of large reddish stone stairs that lead up
+to an important looking building.  
+~
+0 1048576 1
+D1
+~
+~
+~
+0 0 2020
+D2
+~
+~
+~
+0 0 2004
+D3
+~
+~
+~
+0 0 2018
+M 0 H 0
+S
+#2020
+Faris Road~
+Hard blackened stones seem to have been pounded down to form this almost
+perfectly smooth road.  Small holes have formed along the edges of the road,
+and you can tell where some of these holes have been patched over.  Looking
+to the east, you can see the residential part of the city, and between the
+buildings, you can make out the lake of fire that surrounds Mar Narev.  The
+road bends here, in a west-south direction, and directly to the south west,
+you can see a large set of reddish stone stairs leading up to an important
+looking building.  
+~
+0 1048576 1
+D2
+~
+~
+~
+0 0 2021
+D3
+~
+~
+~
+0 0 2019
+M 0 H 0
+S
+#2021
+Faris Road~
+Hard blackened stones seem to have been pounded down to form this almost
+perfectly smooth road.  Small holes have formed along the edges of the road,
+and you can tell where some of these holes have been patched over.  Looking
+to the east, you can see the residential part of the city, and between the
+buildings, you can make out the lake of fire that surrounds Mar Narev.  The
+road runs perfectly north-south here, and directly to your west is a set of
+large reddish stone stairs that lead up to an important looking building.  A
+road runs into the residential section to the east.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2020
+D1
+~
+~
+~
+0 0 2070
+D2
+~
+~
+~
+0 0 2022
+D3
+~
+~
+~
+0 0 2004
+M 0 H 0
+S
+#2022
+Faris Road~
+Hard blackened stones seem to have been pounded down to form this almost
+perfectly smooth road.  Small holes have formed along the edges of the road,
+and you can tell where some of these holes have been patched over.  Looking
+to the east, you can see the residential part of the city, and between the
+buildings, you can make out the lake of fire that surrounds Mar Narev.  The
+road runs perfectly north-south here, and directly to your west is a set of
+large reddish stone stairs that lead up to an important looking building.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2021
+D2
+~
+~
+~
+0 0 2023
+D3
+~
+~
+~
+0 0 2006
+M 0 H 0
+S
+#2023
+Faris Road~
+Hard blackened stones seem to have been pounded down to form this almost
+perfectly smooth road.  Small holes have formed along the edges of the road,
+and you can tell where some of these holes have been patched over.  Looking
+to the east, you can see the residential part of the city, and between the
+buildings, you can make out the lake of fire that surrounds Mar Narev.  The
+road runs perfectly north-south here, and directly to your west is a set of
+large reddish stone stairs that lead up to an important looking building.  A
+road runs into the residential section to the east.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2022
+D1
+~
+~
+~
+0 0 2076
+D2
+~
+~
+~
+0 0 2024
+D3
+~
+~
+~
+0 0 2010
+M 0 H 0
+S
+#2024
+Faris Road~
+Hard blackened stones seem to have been pounded down to form this almost
+perfectly smooth road.  Small holes have formed along the edges of the road,
+and you can tell where some of these holes have been patched over.  Looking
+to the east, you can see the residential part of the city, and between the
+buildings, you can make out the lake of fire that surrounds Mar Narev. 
+While looking to the south you can see the market area of the city.  The
+road bends here, in a west-north direction, and directly to the north west,
+you can see a large set of reddish stone stairs leading up to an important
+looking building.  
+~
+0 34603008 1
+D0
+~
+~
+~
+0 0 2023
+D3
+~
+~
+~
+0 0 2025
+M 0 H 0
+S
+#2025
+Faris Road~
+Hard blackened stones seem to have been pounded down to form this almost
+perfectly smooth road.  Small holes have formed along the edges of the road,
+and you can tell where some of these holes have been patched over.  Looking
+to the south, you can see the market place of the city, and in the distance
+between the buildings, you can make out the lake of fire that surrounds Mar
+Narev.  The road runs perfectly east-west here, and directly to your north
+is a set of large reddish stone stairs that lead up to an important looking
+building.  Another road intersects to the south here, leading into the
+market place.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2010
+D1
+~
+~
+~
+0 0 2024
+D2
+~
+~
+~
+0 0 2040
+D3
+~
+~
+~
+0 0 2026
+M 0 H 0
+S
+#2026
+Faris Road~
+Hard blackened stones seem to have been pounded down to form this almost
+perfectly smooth road.  Small holes have formed along the edges of the road,
+and you can tell where some of these holes have been patched over.  Looking
+to the south, you can see the market place of the city, and in the distance
+between the buildings, you can make out the lake of fire that surrounds Mar
+Narev.  The road runs perfectly east-west here, and directly to your north
+is a set of large reddish stone stairs that lead up to an important looking
+building.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2009
+D1
+~
+~
+~
+0 0 2025
+D3
+~
+~
+~
+0 0 2027
+M 0 H 0
+S
+#2027
+Faris Road~
+Hard blackened stones seem to have been pounded down to form this almost
+perfectly smooth road.  Small holes have formed along the edges of the road,
+and you can tell where some of these holes have been patched over.  Looking
+to the south, you can see the market place of the city, and in the distance
+between the buildings, you can make out the lake of fire that surrounds Mar
+Narev.  The road runs perfectly east-west here, and directly to your north
+is a set of large reddish stone stairs that lead up to an important looking
+building.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2008
+D1
+~
+~
+~
+0 0 2026
+D3
+~
+~
+~
+0 0 2028
+M 0 H 0
+S
+#2028
+Faris Road~
+Hard blackened stones seem to have been pounded down to form this almost
+perfectly smooth road.  Small holes have formed along the edges of the road,
+and you can tell where some of these holes have been patched over.  Looking
+to the south, you can see the market place of the city, and in the distance
+between the buildings, you can make out the lake of fire that surrounds Mar
+Narev.  The road runs perfectly east-west here, and directly to your north
+is a set of large reddish stone stairs that lead up to an important looking
+building.  Another road intersects to the south here, leading into the
+market place.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2007
+D1
+~
+~
+~
+0 0 2027
+D2
+~
+~
+~
+0 0 2033
+D3
+~
+~
+~
+0 0 2029
+M 0 H 0
+S
+#2029
+Faris Road~
+Hard blackened stones seem to have been pounded down to form this almost
+perfectly smooth road.  Small holes have formed along the edges of the road,
+and you can tell where some of these holes have been patched over.  Looking
+to the south, you can see the market place of the city, and in the distance
+between the buildings, you can make out the lake of fire that surrounds Mar
+Narev.  While looking to the west, all you can see for miles is a large lake
+of fire that seems endless.  The road bends here, in an east-north
+direction, and directly to the north east, you can see a large set of
+reddish stone stairs leading up to an important looking building.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2030
+D1
+~
+~
+~
+0 0 2028
+M 0 H 0
+S
+#2030
+Faris Road~
+Hard blackened stones seem to have been pounded down to form this almost
+perfectly smooth road.  Small holes have formed along the edges of the road,
+and you can tell where some of these holes have been patched over.  Looking
+to the west, all you can see for miles is a large lake of fire that seems
+endless, which surrounds the city of Mar Narev.  The road runs perfectly
+north-south here, and directly to your east is a set of large reddish stone
+stairs that lead up to an important looking building.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2031
+D1
+~
+~
+~
+0 0 2007
+D2
+~
+~
+~
+0 0 2029
+M 0 H 0
+S
+#2031
+Faris Road~
+Hard blackened stones seem to have been pounded down to form this almost
+perfectly smooth road.  Small holes have formed along the edges of the road,
+and you can tell where some of these holes have been patched over.  Looking
+to the west, all you can see for miles is a large lake of fire that seems
+endless, which surrounds the city of Mar Narev.  The road runs perfectly
+north-south here, and directly to your east is a set of large reddish stone
+stairs that lead up to an important looking building.  A short road which
+looks to act more like a dock protrudes out to the west here.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2032
+D1
+~
+~
+~
+0 0 2005
+D2
+~
+~
+~
+0 0 2030
+D3
+~
+~
+~
+0 0 2060
+M 0 H 0
+S
+#2032
+Faris Road~
+Hard blackened stones seem to have been pounded down to form this almost
+perfectly smooth road.  Small holes have formed along the edges of the road,
+and you can tell where some of these holes have been patched over.  Looking
+to the west, all you can see for miles is a large lake of fire that seems
+endless, which surrounds the city of Mar Narev.  The road runs perfectly
+north-south here, and directly to your east is a set of large reddish stone
+stairs that lead up to an important looking building.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2015
+D1
+~
+~
+~
+0 0 2001
+D2
+~
+~
+~
+0 0 2031
+M 0 H 0
+S
+#2033
+Mahtar Street~
+You stand on a sturdy stone bridge.  Beneath you is a fast flowing stream
+of lava, bursting the occasional flame high into the sky around you.  The
+bridge is perfectly aligned with a north-south axis, where north leads you
+towards the city hall, and south takes you to the markets.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2028
+D2
+~
+~
+~
+0 0 2034
+M 0 H 0
+S
+#2034
+Mahtar Street~
+The narrow street you find yourself on has been roughened by carts and
+many feet travelling over its surface for many years.  Two troughs run down
+the narrow lane from cart wheels, and now they are used for Efreeti children
+to chase each other along.  The din of people haggling over goods surrounds
+you as you enter into the market place of Mar Narev.  Crowds of Efreet of
+all ages push in around you, trying to get their errands run as quickly as
+possible before going about other business.  The rutted road leads you
+deeper into the market place to the south, and away from the crowds to the
+north.  A sign above the open door to the west depicts some vegetables and
+fruits in bright colours.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2033
+D2
+~
+~
+~
+0 0 2035
+D3
+~
+~
+~
+0 0 2041
+M 0 H 0
+S
+#2035
+Mahtar Street~
+Two troughs run down the narrow lane from cart wheels, and now they are
+used for Efreeti children to chase each other along.  A dull roar of Efreeti
+conversations surround you as you find yourself deep within the market place
+of Mar Narev.  Crowds of Efreet of all ages push in around you, trying to
+get their errands run as quickly as possible before going about other
+business.  The rutted road bends around a corner leading you deeper into the
+market place to the east, and to the fringes of the market to the north.  An
+open door to the west lets you see mannequins modelling beautiful outfits
+inside the store, while the sign above the door indicates that this is
+'Faridah's Fineries'.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2034
+D1
+~
+~
+~
+0 0 2036
+D3
+~
+~
+~
+0 0 2042
+M 0 H 0
+S
+#2036
+Mahtar Street~
+You find yourself in the depths of Mar Narev's market place, surrounded
+by a dull roar of Efreeti conversations.  Crowds of Efreet of all ages push
+in around you, trying to get their errands run as quickly as possible before
+going about other business.  Children wind their way through the crowds,
+chasing each other down the cart troughs left in the narrow road.  The
+rutted lane leads you to more stores both to the east and the west.  An open
+doorway to the north gives you a glance inside at vast amounts of armor
+laying about, while a fence blocks off what looks like was another road to
+the south here.  
+~
+0 1048576 1
+E
+fence~
+A few boards of the fence look loose, and moving these aside, you can see
+a dark and dingy alley.  
+~
+D0
+~
+~
+~
+0 0 2043
+D1
+~
+~
+~
+0 0 2037
+D2
+~
+fence~
+~
+1 0 2047
+D3
+~
+~
+~
+0 0 2035
+M 0 H 0
+S
+#2037
+Mahtar Street~
+You find yourself in the depths of Mar Narev's market place, surrounded
+by a dull roar of Efreeti conversations.  Crowds of Efreet of all ages push
+in around you, trying to get their errands run as quickly as possible before
+going about other business.  Children wind their way through the crowds,
+chasing each other down the cart troughs left in the narrow road.  The
+rutted lane leads you to more stores both to the east and the west.  A loud
+clanging of metal on metal can be heard echoing from the open door to the
+north.  Above the door is a sign with a crossed sword and mace on it.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2044
+D1
+~
+~
+~
+0 0 2038
+D3
+~
+~
+~
+0 0 2036
+M 0 H 0
+S
+#2038
+Mahtar Street~
+Two troughs run down the narrow lane from cart wheels, and now they are
+used for Efreeti children to chase each other along.  A dull roar of Efreeti
+conversations surround you as you find yourself deep within the market place
+of Mar Narev.  Crowds of Efreet of all ages push in around you, trying to
+get their errands run as quickly as possible before going about other
+business.  The rutted road bends around a corner leading you deeper into the
+market place to the west, and to the fringes of the market to the north.  A
+closed door to the south has some strange symbols drawn over it, and you
+can't see what's inside because curtains are pulled shut across the windows.
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2039
+D2
+~
+symbolled door~
+~
+1 0 2046
+D3
+~
+~
+~
+0 0 2037
+M 0 H 0
+S
+#2039
+Mahtar Street~
+The narrow street you find yourself on has been roughened by carts and
+many feet travelling over its surface for many years.  Two troughs run down
+the narrow lane from cart wheels, and now they are used for Efreeti children
+to chase each other along.  The din of people haggling over goods surrounds
+you as you enter into the market place of Mar Narev.  Crowds of Efreet of
+all ages push in around you, trying to get their errands run as quickly as
+possible before going about other business.  The rutted road leads you
+deeper into the market place to the south, and away from the crowds to the
+north.  A sign above the open door to the east has a rough drawing of thigh
+bone with fresh meat on it.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2040
+D1
+~
+~
+~
+0 0 2045
+D2
+~
+~
+~
+0 0 2038
+M 0 H 0
+S
+#2040
+Mahtar Street~
+You stand on a sturdy stone bridge.  Beneath you is a fast flowing stream
+of lava, bursting the occasional flame high into the sky around you.  The
+bridge is perfectly aligned with a north-south axis, where north leads you
+towards the city hall, and south takes you to the markets.  
+~
+0 1048576 1
+D0
+~
+~
+~
+0 0 2025
+D2
+~
+~
+~
+0 0 2039
+M 0 H 0
+S
+#2041
+Fresh Produce~
+This large bright room is filled with all sorts of fruits and vegetables,
+all of which look perfectly ripe and juicy.  Rough wooden bins are set up
+around the room with no sense of order.  These are filled to over flowing
+with the various produce that are for sale here.  Above each bin, you can
+see a small mist hovering, which occasionally drifts down to cover the
+fruits and vegetables to clean them and give them a high sheen making them
+more desirable.  The lighting in the room comes from the ceiling, which is
+filled with sky lights, and in between these are white glowing orbs.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 2034
+M 0 H 0
+S
+#2042
+Faridah's Fineries~
+Statuesque mannequins stand clothed in richness about the shop, posed to
+look as though they are customers.  The walls are lined with rolls of
+colourful material in all types.  Satins glow with a soft sheen while
+velvets drape heavily in soft folds.  Most of the store is filled with male
+and female clothing, while a small back corner is filled with accessories
+ranging from shoes to gloves to jewelry.  The constant hum of a sewing
+machine drones in the background, while a small wind chime, which hangs in
+the open door to the east, sends beautiful chimes throughout the store.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 2035
+M 0 H 0
+S
+#2043
+Hotri's Armors~
+Armor of all types set out on tables surrounds you in the coolness of
+this store.  The smell of leather in the air is tinged with a slight
+metallic scent as well.  Along the walls of the shop, a few Efreet workers
+are sewing thick pieces of leather together or linking rings together into a
+tight weave.  The armor on display ranges from simple thick leather pieces
+to chain mail to heavy solid steel.  The shop looks well stocked with many
+items, and you feel sure you can find exactly what you need here.  
+~
+0 1048584 0
+D2
+~
+~
+~
+0 0 2036
+M 0 H 0
+S
+#2044
+The Weaponry~
+The loud clang of metal on metal deafens you as it echoes around the hazy
+room.  A large fire burns hotly in the north eastern corner of the room, and
+you can see long bands of metal sticking out of it as they wait to turn
+red-hot.  Though there is the massive fire in the room, it is still somehow
+kept cool in the rest of the shop.  Through the smoke haze, you can see all
+sorts of gleaming weapons hanging from the walls, and standing tall in
+barrels.  Everything seems to be in an organized mess, as you look around
+and shop for the perfectly forged weapon you desire.  
+~
+0 1048584 0
+D2
+~
+~
+~
+0 0 2037
+M 0 H 0
+S
+#2045
+Saaim's Butchery~
+The butchery is fairly bare of furnishings, making the room look much
+larger than it probably is.  A cooling breeze seems to be flowing in a
+circle around the room, but you cannot detect any source for this.  Set up
+along the back wall to the east is a long heavy wooden table that has been
+stained a dark reddish-brown over the years.  Hanging from meat hooks behind
+the table are various slaughtered animals which are missing chunks of their
+body.  Another table fills the southern wall, but this looks like a large
+grill, and the wonderful smell of cooking meats fills your nostrils.  
+~
+0 1048584 0
+D3
+~
+~
+~
+0 0 2039
+M 0 H 0
+S
+#2046
+The Potion Shop~
+This small and cramped store is kept dimly lit with red glowing orbs that
+float above some small tables filled with potions.  A strange smell of
+exotic incense fills your head and gives you a strange feeling as your head
+spins slightly, giving you a hard time to focus on any one thing in front of
+you.  Sectioning off the back southern part of the room is a glowing gate
+that blocks your path from getting close to the masses of glasswares that
+are bubbling strange brews in an array of bright colours.  The air in the
+room is crackling with a magical energy, guiding you to your purchase as
+though it knows exactly what it is you came here for.  A door partly covered
+by curtains leads out to the market place to the north.  
+~
+0 1048584 0
+D0
+~
+curtained door~
+~
+1 0 2038
+M 0 H 0
+S
+#2047
+Back Alley~
+What appears to be almost a dirt foot path begins (or ends) suddenly at a
+rickety wooden fence.  The area around you looks to be the oldest part of
+the town, and is quite run down.  It's no wonder why the citizens of Mar
+Narev chose to close this section behind a fence.  Everything is in shades
+of greys and blacks, even the dirt beneath you and the sky above you.  Rats
+scurry from holes in the bases of the buildings on either side of you, and
+strange howling sounds can be heard coming from all around you.  A loud
+raucous can be heard erupting from a dimly-lit building to the west, where a
+crude painting of a cage can barely be made out next to the open door.  
+~
+0 1048577 1
+D0
+~
+fence~
+~
+1 0 2036
+D2
+~
+~
+~
+0 0 2048
+D3
+~
+~
+~
+0 0 2052
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 2001 spec_cast_adept
+M 2004 spec_cast_mage
+M 2006 spec_cast_mage
+M 2008 spec_breath_fire
+M 2020 spec_cast_mage
+M 2025 spec_cast_mage
+M 2026 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 2050 2 1
+D 0 2055 0 1
+D 0 2070 0 1
+D 0 2071 0 1
+D 0 2071 2 1
+D 0 2073 1 1
+D 0 2075 0 1
+D 0 2076 0 1
+D 0 2076 2 1
+D 0 2077 2 1
+D 0 2078 2 1
+D 0 2080 2 1
+D 0 2080 3 1
+D 0 2081 0 1
+D 0 2082 2 1
+D 0 2083 0 1
+D 0 2084 2 1
+D 0 2085 0 1
+D 0 2089 2 1
+D 0 2089 5 2
+D 0 2091 3 2
+D 0 2091 4 2
+D 0 2092 1 2
+D 0 2092 3 2
+D 0 2093 1 2
+D 0 2097 0 1
+D 0 2013 1 1
+D 0 2014 3 1
+D 0 2036 2 1
+D 0 2038 2 1
+D 0 2046 0 1
+D 0 2047 0 1
+M 0 2023 2 2048 10
+E 0 2059 0 7
+M 0 2023 2 2051 10
+E 0 2059 0 7
+M 0 2013 1 2052 10
+G 0 2024 0
+G 0 2025 0
+G 0 2026 0
+G 0 2027 0
+M 0 2030 2 2052 10
+E 0 2035 0 27
+E 0 2036 0 16
+M 0 2030 2 2052 10
+E 0 2036 0 16
+E 0 2037 0 6
+M 0 2031 3 2052 10
+E 0 2038 0 7
+M 0 2031 3 2052 10
+E 0 2038 0 7
+E 0 2039 0 25
+M 0 2015 1 2053 10
+G 0 2028 0
+G 0 2029 0
+M 0 2002 1 2054 10
+M 0 2004 1 2054 10
+M 0 2006 1 2054 10
+M 0 2010 3 2056 10
+E 0 2032 0 5
+E 0 2033 0 8
+E 0 2034 0 16
+M 0 2010 3 2057 10
+E 0 2032 0 5
+E 0 2033 0 8
+E 0 2034 0 16
+M 0 2010 3 2058 10
+E 0 2032 0 5
+E 0 2033 0 8
+E 0 2034 0 16
+M 0 2008 1 2059 10
+E 0 2030 0 3
+E 0 2031 0 2
+M 0 2025 3 2070 10
+E 0 2062 0 16
+M 0 2034 1 2071 10
+E 0 2028 0 3
+M 0 2022 5 2072 10
+E 0 2072 0 6
+G 0 2029 0
+M 0 2021 5 2073 10
+E 0 2070 0 15
+M 0 2024 3 2074 10
+E 0 2061 0 9
+M 0 2033 4 2076 10
+E 0 2069 0 5
+E 0 2068 0 6
+E 0 2067 0 16
+M 0 2014 3 2077 10
+E 0 2048 0 5
+M 0 2016 5 2077 10
+M 0 2012 3 2078 10
+E 0 2046 0 16
+E 0 2047 0 7
+M 0 2020 1 2079 10
+E 0 2057 0 19
+E 0 2058 0 14
+M 0 2018 1 2080 10
+E 0 2053 0 5
+G 0 2054 0
+M 0 2017 1 2081 10
+E 0 2051 0 13
+E 0 2052 0 17
+M 0 2019 1 2081 10
+E 0 2055 0 3
+E 0 2056 0 24
+M 0 2012 3 2082 10
+E 0 2046 0 16
+E 0 2047 0 7
+M 0 2012 3 2084 10
+E 0 2047 0 7
+M 0 2014 3 2084 10
+E 0 2048 0 5
+M 0 2016 5 2084 10
+M 0 2014 3 2085 10
+E 0 2048 0 5
+E 0 2049 0 6
+M 0 2016 5 2085 10
+G 0 2050 0
+M 0 2016 5 2085 10
+M 0 2024 3 2002 10
+E 0 2060 0 16
+M 0 2025 3 2004 10
+E 0 2063 0 17
+M 0 2025 3 2005 10
+E 0 2063 0 17
+M 0 2032 4 2007 10
+E 0 2066 0 5
+E 0 2064 0 11
+M 0 2033 4 2008 10
+E 0 2069 0 5
+E 0 2067 0 16
+M 0 2024 3 2010 10
+E 0 2060 0 16
+M 0 2026 1 2013 10
+E 0 2040 0 12
+E 0 2041 0 21
+M 0 2027 1 2013 10
+G 0 2042 0
+E 0 2043 0 23
+M 0 2028 2 2014 10
+E 0 2044 0 24
+M 0 2028 2 2014 10
+E 0 2044 0 24
+G 0 2045 0
+M 0 2021 5 2015 10
+E 0 2070 0 14
+M 0 2032 4 2016 10
+E 0 2066 0 5
+E 0 2064 0 11
+M 0 2033 4 2017 10
+E 0 2069 0 5
+E 0 2067 0 16
+M 0 2022 5 2018 10
+E 0 2073 0 12
+M 0 2021 5 2019 10
+E 0 2071 0 6
+M 0 2032 4 2021 10
+E 0 2066 0 5
+E 0 2065 0 16
+M 0 2022 5 2023 10
+E 0 2073 0 12
+O 0 2001 0 2024
+M 0 2001 1 2024 10
+M 0 2021 5 2025 10
+E 0 2070 0 14
+M 0 2032 4 2026 10
+E 0 2066 0 5
+E 0 2065 0 16
+M 0 2022 5 2028 10
+E 0 2073 0 12
+M 0 2021 5 2028 10
+E 0 2071 0 6
+M 0 2033 4 2031 10
+E 0 2069 0 5
+E 0 2067 0 16
+E 0 2068 0 6
+M 0 2022 5 2032 10
+E 0 2073 0 12
+M 0 2029 1 2041 10
+G 0 2002 0
+G 0 2003 0
+G 0 2004 0
+M 0 2003 1 2042 10
+G 0 2005 0
+G 0 2006 0
+G 0 2007 0
+G 0 2008 0
+M 0 2005 1 2043 10
+G 0 2009 0
+G 0 2010 0
+G 0 2011 0
+M 0 2007 1 2044 10
+G 0 2012 0
+G 0 2013 0
+G 0 2014 0
+G 0 2015 0
+G 0 2016 0
+M 0 2009 1 2045 10
+G 0 2017 0
+G 0 2018 0
+G 0 2019 0
+M 0 2011 1 2046 10
+G 0 2020 0
+G 0 2021 0
+G 0 2022 0
+G 0 2023 0
+S
+
+
+
+#SHOPS
+2003 11 0 0 0 0 140 65 9 16
+2005 9 0 0 0 0 185 76 9 17
+2007 5 0 0 0 0 190 50 10 16
+2009 19 0 0 0 0 130 80 8 20
+2011 10 26 0 0 0 130 80 10 16
+2013 17 19 0 0 0 150 60 11 24
+2015 11 5 0 0 0 130 80 10 16
+2029 19 0 0 0 0 130 80 8 15
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

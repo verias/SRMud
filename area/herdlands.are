@@ -1,0 +1,4491 @@
+#AREADATA
+Name {40 65) Blyte   Herdlands~
+Builders Blyte Sansara~
+VNUMs 4051 4199
+Security 1
+End
+
+
+
+#MOBILES
+#4051
+rabbit~
+a fat rabbit~
+A well rounded rabbit sits here nervously chewing on some grass.
+~
+Soft looking brown and grey fur covers the body of this well fed rabbit. 
+A white fluffy tail can be seen and dark eyes look around nervously while
+its little nose twitches scenting the air.  
+~
+Rabbit~
+A 0 0 S
+1 0 1d2+8 1d10+100 1d1+0 22
+9 9 9 10
+FH 0 0 0
+9 9 3 4
+AGV ACDEFHJKP M unknown
+#4052
+hare~
+a quick brown hare~
+A brown hare tries to hide here, its long ears up and alert.
+~
+Larger than a rabbit and with longer ears this can only be a hare.  Its
+brown fluffy body is kept close to the ground in an attempt to hide.  
+~
+Rabbit~
+A Q 0 S
+3 0 1d7+30 3d10+100 1d2+0 22
+9 9 9 9
+FH 0 0 0
+9 9 3 13
+AGV ACDEFHJKP M unknown
+#4053
+sparrow hawk~
+a sparrow hawk~
+Flying high over the plains is what appears to be a sparrow hawk.
+~
+Small and fast this sparrow hawk keeps its eyes open for prey.  Hovering
+on the wing to drop on an unsuspecting rabbit or small bird.  
+~
+Water Fowl~
+A Tb 0 S
+5 0 1d12+53 5d10+100 1d2+1 5
+8 8 8 8
+FH R 0 0
+9 9 0 22
+AGW ACDEFHKOP S unknown
+#4054
+centaur foal~
+a centaur foal~
+A frolicking about, a happy looking centaur foal is here.
+~
+Young still and happy-looking, this centaur foal frolics about merrily. 
+Its well groomed brown horse's hide all but shines while its lightly tanned
+skin seems to glow with health.  Its manner and movements show the carefree
+attitude of youth.  
+~
+Centaur~
+A JV 1000 S
+40 0 10d98+804 160d10+100 4d7+10 16
+-5 -5 -5 -3
+0 0 C R
+9 9 3 180
+ACGHNV ABCDEFGHIJKLPQW S unknown
+#4055
+young centaur filly~
+a young centaur filly~
+Cantering here is a young centaur filly, a smile on her face.
+~
+Budding into what will one day be her true beauty, this centaur filly
+canters in happiness, smiling in pleasure at the world.  Small wild flowers
+adorn the braids of her hair, seemingly done more for fun than any other
+reason.  
+~
+Centaur~
+A JV 999 S
+43 0 10d115+900 172d10+100 4d7+12 16
+-6 -6 -6 -4
+0 0 C R
+9 9 2 193
+ACGHNV ABCDEFGHIJKLPQW M unknown
+#4057
+young centaur colt~
+a young centaur colt~
+A young centaur colt races here merrily.
+~
+Though not yet up to his full strength, this young colt seems to be
+attempting to test himself as he runs here.  Long hair tumbles down his back
+and trails out behind him as he moves with speed.  
+~
+Centaur~
+A JV 999 S
+45 0 10d128+969 180d10+100 5d5+14 17
+-7 -7 -7 -5
+I 0 C R
+9 9 1 202
+ACGHNV ABCDEFGHIJKLPQW M unknown
+#4058
+centaur mare~
+a centaur mare~
+A centaur mare nods a greetings to you as she trots about here.
+~
+The tan horse hide of this centaur woman shines from the grooming it has
+received, as do the hooves.  Long hair tumbles down her back, left free to
+fly out behind her if she should bolt.  A noble visage graces her face as
+she looks at you and nods in greeting.  
+~
+Centaur~
+A JV 700 S
+47 0 10d142+1039 188d10+100 5d5+15 16
+-8 -8 -8 -6
+I 0 C R
+9 9 2 211
+ACGHNV ABCDEFGHIJKLPQW M unknown
+#4059
+centaur stallion~
+a centaur stallion~
+A tall male centaur canters here, keeping his eyes open.
+~
+Broad shoulders and a toned chest help to compliment the looks of this
+male centaur.  His long dark hair hangs down, clasped into a pony tail by a
+small bronze clip, swaying back and fourth to the movements of the owner.  A
+white, faintly spotted, coat covers the horse-like lower half of this
+centaur.  It gleams slightly from the care that has gone into it.  
+~
+Centaur~
+A JV 999 S
+50 0 10d167+1149 200d10+100 5d6+13 17
+-9 -9 -9 -7
+I 0 C R
+9 9 1 225
+ACGHNV ABCDEFGHIJKLPQW M unknown
+#4060
+centaur guardian~
+a centaur guardian~
+A large centaur wanders here, keeping an eye out for trouble.
+~
+Small scars dot the body of this weathered centaur talking of the fights
+it has seen in the past.  It keeps its eyes open and on the look out for any
+signs of trouble and slowly makes its patrol of the area.  
+~
+Centaur~
+A JV 600 S
+55 0 11d216+1345 220d10+100 5d7+16 9
+-11 -11 -11 -9
+CI 0 C R
+9 9 3 247
+ACGHNV ABCDEFGHIJKLPQW M unknown
+#4061
+centaur defender~
+a centaur defender~
+Well trained and keeping a keen eye open, this centaur stands ready.
+~
+This centaur has become fairly well trained by taking part in numerous
+conflicts in the defense of its people, which is its duty presently. 
+Powerful legs and strong muscled arms give an impression of strength to this
+creature as it stands here looking for possible trouble.  
+~
+Centaur~
+A JOV 999 S
+57 0 11d239+1429 228d10+100 5d7+17 17
+-12 -12 -12 -10
+CI 0 C R
+9 9 3 256
+ACGHNV ABCDEFGHIJKLPQW M unknown
+#4062
+centaur mage~
+a centaur mage~
+A young centaur mage, waits here in contemplation.
+~
+A male centaur stands here lost in thought.  The blue tattoo that glows
+upon its chest marks him as a mage.  Bone and wooden beads have been braided
+into his hair, the small tokens clattering as he shifts.  Over all, a sense
+of inner peace seems to flow from his being, almost as if mortal concerns
+are not his.  
+~
+Centaur~
+ABO JV 999 S
+59 0 11d264+1514 236d10+100 5d7+18 16
+-13 -13 -13 -11
+I 0 C R
+9 9 1 265
+ACGHNV ABCDEFGHIJKLPQW M unknown
+#4063
+pious centaur~
+a pious centaur~
+A centaur trots here with a pious look upon his face.
+~
+Pale blonde hair crowns the head of this centaur as he walks slowly here,
+with a pious look upon his face.  His pale horse-like hide appears to almost
+glow from within, whether this is some magical effect or just excellent
+grooming, you would have to ask to know.  An amulet hangs around his neck
+marking his devotion to his deity.  
+~
+Centaur~
+ACV JV 1000 S
+60 0 10d98+804 40d10+100 4d7+10 17
+-5 -5 -5 -3
+I 0 C R
+9 9 1 270
+ACGHNV ABCDEFGHIJKLPQW M unknown
+#4064
+knight centaur~
+a centaur knight~
+A noble looking centaur stands here.
+~
+Battle hardened and very skillful looking is the centaur before your
+gaze.  A gleaming black glossy coat covers its body as it looks about, with
+deep set eyes.  Something in its manner shouts out courage and nobility,
+maybe its the cast of its head or the stance.  Its long hair as been tied
+back into a single long braid that reaches to its lower horse like half, so
+as not to get in the way should combat be needed.  
+~
+Centaur~
+A JOV 999 S
+63 0 11d321+1694 252d10+100 5d8+18 17
+-15 -15 -15 -12
+CFI 0 C R
+9 9 3 283
+ACGHNV ABCDEFGHIJKLPQW M unknown
+#4065
+herd lord chayden~
+Chayden the Herd Lord~
+Aged but mighty looking, Chayden the Herd Lord waits here.
+~
+Past his prime yet still possessing great strength and skill, this is
+Chayden.  Proclaimed Herd Lord years ago, he still holds office more due to
+his great wisdom than need for combat skill.  Short-cropped salt and pepper
+hair covers his head.  Sky blue eyes gaze out of a strong but fair looking
+face, showing both learning and compassion.  Looking at his body, numerous
+scars can be seen, standing out pale against his sun-tanned skin, a living
+testament to the fights he has seen and won.  A light tan hide covers his
+lower equine half looking unremarkable except for its shine.  The hooves of
+his feet have been buffed and polished so they all but glimmer.  
+~
+Centaur~
+AB HJOV 1000 S
+65 0 11d352+1789 260d10+100 5d8+19 17
+-15 -15 -15 -13
+CEFHIKR 0 C R
+9 9 1 292
+ACGHNV ABCDEFGHIJKLPQW M unknown
+#4066
+Cyndia the Mare Mother~
+Cyndia~
+Cyndia the Mare Mother waits here, looking content.
+~
+Brimming with life and vitality, the centaur mare here holds the rank of
+mare mother.  Twin braids of long brown hair hang down her chest past her
+exposed breasts, occasionally being tossed back over her shoulders only to
+work there way around once more.  Her features have a fair cast to them
+having, deep peaceful-looking, brown eyes and pouty lips.  A white hide
+graces her lower half, dappled softly with patches of grey, this has been
+brushed so that it appears to glow from within.  
+~
+Centaur~
+AB JOV 700 S
+60 0 11d277+1559 240d10+100 5d7+19 17
+-13 -13 -13 -11
+CEHIR 0 C R
+9 9 2 270
+ACGHNV ABCDEFGHIJKLPQW M unknown
+#4067
+laine centaur mare~
+Laine the centaur~
+Laine waits here, polishing a spear tip.
+~
+The centaur has made it her occupation to produce high quality weapons, a
+task she possesses more than a little skill at.  Her long red hair is held
+back in a simple pony tail behind her head so as not to get scorched while
+working at the forge, small burns and the muscles of her arms speak of the
+hours of work she must put in.  As she notices your approach a smile plays
+over her lips in greeting.  
+~
+Centaur~
+ABRW JV 1000 S
+50 0 10d167+1149 50d10+100 5d6+13 16
+-9 -9 -9 -7
+0 ABQ C R
+9 9 2 225
+ACGHNV ABCDEFGHIJKLPQW M unknown
+#4068
+kire clothier~
+Kire the clothier~
+Kire, an elderly centaur stands here, shears in hand.
+~
+This elderly centaur eyes you up and down upon entering and mumbles
+something about your size to himself.  Long, grey hair has been tightly
+pulled back from his face and held in place with a silk ribbon behind his
+head.  A grey waistcoat covers most of his torso, the pockets filled with
+pins, measures and shears.  
+~
+Centaur~
+ABRW JV 0 S
+50 0 10d167+1149 50d10+100 5d6+13 0
+-9 -9 -9 -7
+0 ABQ C R
+9 9 1 225
+ACGHNV ABCDEFGHIJKLPQW M unknown
+#4069
+paer centaur~
+Paer the centaur~
+Paer a middle-aged centaur stands here, trading in instruments.
+~
+Middle-aged, this centaur makes and sells instruments.  His aesthetic
+features show both wisdom and understanding.  Long, black hair, shot through
+with some grey at the temples, flows down his back like a wave.  A dappled
+brown and white hide covers his lower horse-half, clean and shining from the
+attention lavished upon it.  
+~
+Centaur~
+ABRW JV 0 S
+50 0 10d167+1149 50d10+100 5d6+13 0
+-9 -9 -9 -7
+0 ABQ C R
+9 9 1 225
+ACGHNV ABCDEFGHIJKLPQW M unknown
+#4070
+paga centaur~
+Paga the chef~
+A well-rounded centaur greets you. He is Paga, renowned for his pies.
+~
+Being fond of his own work as well as the occasional (or more) drink,
+Paga has turned slightly plump around the mid-section.  Flour covers the
+apron over his stomach and a light dusting of this powder has made its way
+into his beard.  Looking good-natured and willing to help most people, he
+greets you with a smile.  
+~
+Centaur~
+ABRW JV 0 S
+40 0 10d98+804 40d10+100 4d7+10 0
+-5 -5 -5 -3
+0 ABQ C R
+9 9 1 180
+ACGHNV ABCDEFGHIJKLPQW M unknown
+#4071
+nix elf elven~
+Nix the elf~
+A thin person of elven descent stands here, tending the store.
+~
+Short cropped blonde hair crowns the sharp-featured face of the figure
+before you.  Pointed tips to his ears mark him as having some elven blood. 
+A loose-fitting velvet shirt and trousers dyed in a dark green make up is
+apparel.  His manners are impeccable, being both politely spoken and
+courteous to any that enter his place of business.  
+~
+unique~
+ABRW J 0 S
+50 0 10d167+1149 50d10+100 5d6+13 0
+-9 -9 -9 -7
+0 ABQ B 0
+9 9 1 225
+AHMV ABCDEFGHIJK M unknown
+#4072
+centaur cladon~
+Cladon the centaur~
+The centaur Cladon stands behind the counter ready to take your order.
+~
+A bulky centaur going by the name of Cladon works in this tavern.  His
+skin has a deep tan and a weathered look about it, showing that he is used
+to the outside world.  A long pipe juts from the left hand corner of his
+expressive mouth, almost constantly casting forth clouds of smoke.  
+~
+Centaur~
+ABRW JV 0 S
+50 0 10d167+1149 50d10+100 5d6+13 0
+-9 -9 -9 -7
+0 ABQ C R
+9 9 1 225
+ACGHNV ABCDEFGHIJKLPQW M unknown
+#4073
+large frog~
+a large green frog~
+A large green frog sits here, looking for flies.
+~
+This large frog sits here, gazing about for a fly to eat.  Its webbed
+toes make it easy for it to swim through the waters if need be.  A slight
+darker coloration on its back offers some chance at concealment.  
+~
+Lizard~
+A 0 0 S
+3 0 1d7+30 3d10+100 1d2+0 12
+9 9 9 9
+0 0 L I
+9 9 3 13
+AGXc ACDEFHKLPUX S unknown
+#4074
+ghostly guardian~
+a ghostly guardian~
+A ghostly guardian floats here ever watchful.
+~
+This figure looks like a ghostly centaur, it lacks any real substance yet
+still its presence has some form of power.  The image changes and twists
+within your mind so that nothing much can truly be seen of it.  
+~
+Spiritfolk~
+AB TU 1000 S
+42 0 10d109+868 42d10+100 4d7+11 30
+-6 -6 -6 -4
+CI BIL D CN
+9 9 0 189
+AHMV ABCDEFGHIJK M unknown
+#4075
+mighty guardian spirit~
+a mighty guardian spirit~
+A mighty guardian spirit floats here silently.
+~
+A mighty guardian spirit has been summoned here.  Its form looks somewhat
+like a centaurs only not distinct.  Markings of power glow from its
+transparent skin as it floats here.  
+~
+Spiritfolk~
+AB HOTU 1000 S
+48 0 10d150+1075 48d10+100 5d6+13 30
+-8 -8 -8 -6
+CH BI D CN
+9 9 0 216
+AHMV ABCDEFGHIJK M unknown
+#4076
+leaf beast bush animal~
+a leaf beast~
+A bush sits here looking very much like an animal by shape.
+~
+Formed by ancient magic this creature is an animated plant, known as a
+leaf beast.  Long thorns form sharp fangs within its mouth while twisted
+blanches and roots his limbs and toes.  It looks about with tiny, almost
+hidden, orbs of green light.  
+~
+Shapeshifter~
+A PQ 0 S
+20 0 6d39+294 20d10+100 3d5+4 2
+2 2 2 4
+0 BLQ 0 H
+9 9 0 90
+ACGHMV ABCDEFGHIJKMQUV M unknown
+#0
+
+
+
+#OBJECTS
+#4051
+light club~
+a light club~
+A small fire-hardened wooden club has been left here.~
+unknown~
+5 0 AN 0
+C B AC ABC 0
+4 0 20 P
+0 0
+#4052
+light javelin spear~
+a light javelin~
+A small light looking spear rests here.~
+unknown~
+5 0 AN 0
+AB ABE C ABD 0
+45 3 75 P
+A
+1 1
+0 0
+#4053
+broad spear~
+a broad bladed spear~
+A spear possessing a very broad blade has been discarded here.~
+unknown~
+5 0 AN 0
+AB AC D B 0
+20 10 100 P
+A
+13 10
+0 0
+#4054
+staff stave quarter~
+an iron bound stave~
+A staff bound in iron has been left here.~
+unknown~
+5 G AN 0
+D C CD ABDE 0
+24 12 120 P
+A
+4 1
+0 0
+#4055
+horse mans flail~
+a horse-mans flail~
+A light looking flail rests here, it appears to be a horse-mans.~
+unknown~
+5 0 AN 0
+BC D ABC ABC 0
+30 8 150 P
+A
+19 1
+A
+1 1
+0 0
+#4056
+runic lightning saber~
+a runic saber~
+A saber sits here upon its blade runes of lightning have been etched.~
+unknown~
+5 AG AN 0
+A ADF B CDE H
+59 9 175 P
+0 0
+#4057
+grey tent~
+a light grey tent~
+A light grey tent has been pitched here.~
+unknown~
+29 0 0 0
+0 0 0 4122 0
+0 10000 0 P
+0 0
+#4058
+red blue tent~
+a red and blue tent~
+A red and blue striped tent has been pitched here.~
+unknown~
+29 0 0 0
+0 0 0 4123 0
+0 10000 0 P
+0 0
+#4059
+water barrel~
+a barrel~
+A small wooden barrel has been left here.~
+unknown~
+17 R A 0
+CE BE 0 0 0
+1 40 3 P
+0 0
+#4060
+vegetables~
+a handful of sliced vegetables~
+A handful of sliced vegetables have been left here.~
+unknown~
+19 R AO 0
+CD 0 0 0 0
+1 1 2 P
+E
+table~
+This table seems to be used for almost every thing, its last task appears
+to have been the cutting of some vegetables.  
+~
+0 0
+#4061
+thin leather vest~
+a thin leather vest~
+A thin looking brown leather vest has been discarded here.~
+unknown~
+9 0 AD 0
+ABC ABC ABC B 0
+47 5 60 P
+0 0
+#4062
+loose velvet shirt~
+a loose velvet shirt~
+A baggy looking velvet shirt has been left here.~
+unknown~
+11 0 AD 0
+0 0 0 0 0
+14 2 150 P
+A
+4 1
+0 0
+#4063
+leather bracer~
+a thick leather bracer~
+Polished to a gleam this thick leather bracer has been left here.~
+unknown~
+9 0 AM 0
+AD AD AD B 0
+55 1 110 P
+A
+13 5
+0 0
+#4064
+wide leather belt~
+a wide leather belt~
+A wide leather belt with delicate scroll work covering it, has been coiled here.~
+unknown~
+9 0 AL 0
+C C C A 0
+26 4 130 P
+A
+1 1
+A
+19 1
+A
+18 -1
+0 0
+#4065
+ribbon decorated feathers~
+a ribbon decorated with feathers~
+A ribbon decorated with feathers and beads has been left here.~
+unknown~
+11 0 AE 0
+0 0 0 0 0
+30 0 450 P
+A
+12 20
+0 0
+#4066
+soft leather basque~
+a soft leather basque~
+A soft leather basque, polished to a shine, has been left here.~
+unknown~
+11 0 AD 0
+0 0 0 0 0
+10 1 300 P
+A
+2 -1
+A
+13 10
+L
+fitting form~
+0 0
+#4067
+weapon harness scabbard~
+a weapons harness~
+Consisting of numerous buckles and straps a weapons harness has been left piled here.~
+unknown~
+41 0 AY 0
+0 0 0 0 0
+40 4 200 P
+A
+13 20
+0 0
+#4068
+velvet bag~
+a blue velvet bag~
+A blue velvet bag with beads hanging off the bottom has been left here.~
+unknown~
+15 0 AO 0
+BC 0 0 0 0
+1 0 40 P
+0 0
+#4069
+tent scarlet~
+a scarlet tent~
+A scarlet tent has been set here upon the glassy plain.~
+unknown~
+29 0 0 0
+0 0 0 4124 0
+0 10000 0 P
+0 0
+#4070
+black berry bush~
+a black berry bush~
+A black berry bush grows here, its runners heavy with fruit.~
+unknown~
+15 R 0 0
+AC 0 0 0 0
+0 0 0 P
+0 0
+#4071
+black berries~
+some black berries~
+Quiet a few black berries have been left here, they look edible.~
+unknown~
+19 0 AO 0
+CDFI 0 0 0 0
+0 2 1 P
+0 0
+#4072
+dusty scroll~
+a dusty scroll~
+A dusty scroll sits here, words in an old tongue scribed upon it.~
+unknown~
+8 R AO 0
+0 0 0 0 0
+1 0 10 P
+E
+scroll~
+Long before the War of the Ancients, it was believed a people existed
+that were both horse and man, not a mix of the two races as we seem to be. 
+These people, if the Myth of Dyanosus can be believed, had the ability to
+change between the two forms at will.  This they sacrificed, so as to become
+the greatest knights within the realm, able to combat the growing evils that
+infested these lands at that time.  Their four-fold deity granted them this
+and thus were the centaurs born, man and horse as one, able to withstand the
+evil magics that could be thrown at them, yet able to wield fair power in
+return.  
+~
+0 0
+#4073
+large harp~
+a large gilded harp~
+A masterly crafted harp rests here upon a gilded stand.~
+unknown~
+4 R AO 0
+BEF A A 223 0
+50 30 250 P
+0 0
+#4074
+tent green~
+a woodland green tent~
+A woodland green tent has been set up carefully here.~
+unknown~
+29 0 0 0
+0 0 0 4125 0
+0 10000 0 P
+0 0
+#4075
+purple tent royal~
+a royal purple tent~
+Standing close to a large wooden building is a royal purple tent.~
+unknown~
+29 0 0 0
+0 0 0 4126 0
+0 10000 0 P
+0 0
+#4076
+sky blue tent~
+a sky blue tent~
+A sky blue tent has been pitched here, with care.~
+unknown~
+29 0 0 0
+0 0 0 4127 0
+0 10000 0 P
+0 0
+#4077
+lemon tent~
+a lemon tent~
+A lemon tent sits here close to a large stone building.~
+unknown~
+29 0 0 0
+0 0 0 4128 0
+0 10000 0 P
+0 0
+#4079
+indigo tent~
+an indigo tent~
+An indigo tent has been pitched inside a bed of wildflowers.~
+unknown~
+29 0 0 0
+0 0 0 4129 0
+0 10000 0 P
+0 0
+#4080
+yellow tent~
+a yellow tent~
+A bright yellow tent, decked out with small banners sits here.~
+unknown~
+29 0 0 0
+0 0 0 4130 0
+0 10000 0 P
+0 0
+#4081
+azure tent~
+an azure tent~
+An azure tent shelters close to the building here.~
+unknown~
+29 0 0 0
+0 0 0 4131 0
+0 10000 0 P
+0 0
+#4082
+vermillion tent~
+a vermillion tent~
+A vermillion tent stands in the long grass here.~
+unknown~
+29 0 0 0
+0 0 0 4132 0
+0 10000 0 P
+0 0
+#4083
+mauve tent~
+a mauve tent~
+Standing in the long grass is a mauve tent.~
+unknown~
+29 0 0 0
+0 0 0 4133 0
+0 10000 0 P
+0 0
+#4084
+red tent~
+a red tent~
+Pitched with great skill, a red tent looms here.~
+unknown~
+29 0 0 0
+0 0 0 4134 0
+0 10000 0 P
+0 0
+#4085
+small green tent~
+a small green tent~
+A small green tent stands next to a stream here.~
+unknown~
+29 0 0 0
+0 0 0 4135 0
+0 0 0 P
+0 0
+#4086
+large tent~
+a very large tent~
+A very large tent has been pitched here, decked in banners.~
+unknown~
+29 0 0 0
+0 0 0 4138 0
+0 10000 0 P
+0 0
+#4087
+lilac tent~
+a lilac tent flap~
+A lilac tent has been pitched here, small flags fluttering from it.~
+unknown~
+29 0 0 0
+0 0 0 4136 0
+0 10000 0 P
+0 0
+#4088
+mustard yellow tent~
+a mustard yellow tent flap~
+A mustard yellow tent has been pitched here.~
+unknown~
+29 0 0 0
+0 0 0 4137 0
+0 10000 0 P
+0 0
+#4089
+reed pipes~
+a set of reed pipes~
+Fashioned from reeds and polished are this set of pipes.~
+unknown~
+4 G AO 0
+ADE A A 509 0
+25 1 125 P
+0 0
+#4090
+ocarina~
+an ocarina~
+An ocarina sits here, being an oval-shaped instrument lined with holes to produce the sounds.~
+unknown~
+4 0 AO 0
+CFG AB AB 74 0
+30 1 150 P
+0 0
+#4091
+clarinet~
+a shiny black clarinet~
+The instrument here is one of the wood wind family, being a clarinet.~
+unknown~
+3 0 AO 0
+DF AC C 215 0
+40 4 200 P
+0 0
+#4092
+delicate crystal wind chimes~
+delicate crystal wind chimes~
+A set of very delicate crystal wind chimes have been left here.~
+unknown~
+1 0 A 0
+0 0 999 0 0
+25 1 200 P
+A
+12 15
+L
+glowing softly~
+0 0
+#4093
+forest fruit pie~
+a forest fruit pie~
+A large pie with fruit carved on its crust rests here.~
+unknown~
+19 0 AO 0
+BCDE 0 0 0 0
+0 2 1 P
+0 0
+#4094
+pork pie~
+a pork pie~
+A thick pork pie sits here, its crust marked with a pig.~
+unknown~
+19 0 AO 0
+BCDE 0 0 0 0
+0 1 1 P
+0 0
+#4095
+apple pastry~
+an apple pastry~
+A well filled apple pastry sits here, flaking slightly.~
+unknown~
+19 0 AO 0
+ABCD 0 0 0 0
+0 0 1 P
+0 0
+#4096
+huge meat pie~
+a huge meat pie~
+A huge pie of "meat" sits here steaming.~
+unknown~
+19 0 AO 0
+DF 0 0 0 0
+0 2 1 P
+0 0
+#4097
+glittering dust~
+glittering dust~
+A thin coatings worth of glittering dust has been left here.~
+unknown~
+8 G AT 0
+0 0 0 0 0
+10 0 100 P
+L
+enhancing features~
+0 0
+#4098
+black pearl~
+a black pearl~
+A black pearl glints in any light as it rests here.~
+unknown~
+8 0 AO 0
+0 0 0 0 0
+1 0 10 P
+A
+3 1
+0 0
+#4099
+garnet ring~
+a garnet ring~
+A large dark-red garnet graces a golden band to for a ring here.~
+unknown~
+11 0 AB 0
+0 0 0 0 0
+1 0 500 P
+0 0
+#4100
+feathered pendant~
+a feathered pendant~
+An ornate and expensive looking feathered pendant sits here.~
+unknown~
+11 G AC 0
+0 0 0 0 0
+1 0 300 P
+E
+pendant~
+Made from oddly glowing feathers and gold this pendant looks like it is
+worth a great deal.  Examining the feathers closely they appear to have come
+from a thunder birds wing.  
+~
+0 0
+#4101
+nose ring~
+a nose ring~
+A small ring, looking very much like one you could place through a nostril sits here.~
+unknown~
+8 0 AT 0
+0 0 0 0 0
+15 0 200 P
+A
+13 10
+L
+piecing nostril~
+0 0
+#4102
+beer tankard~
+a beer tankard~
+A large tankard sits here, beer sods having stained its sides.~
+unknown~
+17 0 AO 0
+C C A 0 0
+1 2 3 P
+0 0
+#4103
+bowl wine~
+a wine bowl~
+A wine bowl, crafted from wood has been left here.~
+unknown~
+17 0 AO 0
+B B B 0 0
+0 1 1 P
+0 0
+#4104
+flask tea green~
+a flask of tea~
+A flask made from polished leather fits here, it smells faintly of green tea.~
+unknown~
+17 0 AO 0
+BC BC ABE 0 0
+0 3 1 P
+0 0
+#4105
+wild flowers~
+some wild flowers~
+A chain of wild flowers have been carefully arranged here.~
+unknown~
+9 0 AE 0
+ABC ABC ABC B 0
+43 0 45 P
+A
+13 40
+0 0
+#4106
+wooden javelin~
+a wooden javelin~
+A length of wood has been fashioned into a javelin and left here.~
+unknown~
+5 0 AN 0
+AB ABE C B 0
+45 1 55 P
+0 0
+#4107
+stout stave staff~
+a stout stave~
+A stout looking length of wood has been left here, it would have a good staff.~
+unknown~
+5 0 AN 0
+D D CD ABDE 0
+50 4 100 P
+0 0
+#4108
+heavy cosh~
+a heavy cosh~
+A heavy wooden cosh has been left here.~
+unknown~
+5 0 AN 0
+C BC BE ABC 0
+55 3 125 P
+A
+18 5
+0 0
+#4109
+large pillow~
+a fluffy pillow~
+A large, fluffy pillow lies invitingly on the floor.~
+unknown~
+12 0 A AEIMQ
+0 0 0 0 0
+1 4 0 P
+0 0
+#4110
+great lance~
+a great lance~
+A long length of wood tipped with steel fors a large lance here.~
+unknown~
+5 0 AN 0
+D BD CD B 0
+63 6 225 P
+A
+19 3
+A
+18 3
+0 0
+#4111
+fearsome axe~
+a fearsome axe~
+An axe hafted with ebony and possessing a fearsome looking head rests here.~
+unknown~
+5 G AN 0
+AC AD BCD A B
+65 6 250 P
+0 0
+#4112
+mantle office ermine~
+an ermine mantle~
+This ermine mantle shows the importance of the office of its bearer. Odd that it is left here.~
+unknown~
+9 0 AK 0
+BD BD BD AB 0
+65 4 250 P
+A
+2 2
+0 0
+#4113
+enchanted bow~
+an enchanted bow~
+A bow shimmering with enchantment and arcane runes rests here, lacking a string.~
+unknown~
+5 ABG AN 0
+0 BC ABCD ABE D
+48 3 240 P
+0 0
+#4114
+tomb~
+a stone tomb~
+A large stone tomb is here, covered in dust.~
+unknown~
+15 R 0 AEI
+CFG AC 0 0 0
+10 10000 0 P
+E
+tomb~
+Carved into the lid of this tomb is the legend "Uniran nymph friend lays
+here, may his work with the forest kin always be rembered".  Upon closer
+examination you notice that the lid of the tomb has at sometime been moved,
+then replaced.  
+~
+0 0
+#4115
+dusty pipe~
+a large dusty pipe~
+Crafted from stone this large dusty pipe lays here.~
+unknown~
+3 0 AO 0
+BEF A A 73 0
+50 1 250 P
+0 0
+#4116
+large tomb~
+a large stone tomb~
+A very large stone tomb is here, covered in dust.~
+unknown~
+15 R 0 AEI
+CFG AC 0 0 0
+0 0 0 P
+E
+tomb~
+Large by most peoples standards, this tomb has the words "Aze wi vitous
+maz tye bes wi deth".  The style and workings of the script seeming old. 
+Upon closer examination it seems like the tomb has not been sealed.  
+~
+0 0
+#4117
+ring herd~
+a ring of the herd~
+A gleaming ring of gold is here, the legend "for the herd" written upon it.~
+unknown~
+27 0 AB 0
+BCD BCD BCD AB 0
+50 1 400 P
+A
+13 15
+A
+4 1
+0 0
+#4118
+winged helm~
+a winged helm~
+A shinning winged helm has been left here.~
+unknown~
+9 G AE 0
+D D D B 0
+50 2 250 P
+A
+12 20
+0 0
+#0
+
+
+
+#ROOMS
+#4096
+Upon A Plain~
+Long grasses move like waves in the slightest breeze and flatten low in
+stronger winds.  Here and there, small bushes grow, more than likely from
+seed spread from the forest that stands to the east.  To both the north and
+south, the plains seem to stretch away without change, while to the west,
+the plain is dotted with brightly colored tents.  
+~
+0 0 2
+D0
+~
+~
+0 0 4095
+D2
+~
+~
+0 0 4113
+D3
+~
+~
+0 0 4097
+S
+#4097
+At A Mauve Tent~
+To the north a large wooden shed like building has been constructed,
+though no entrance is visible from here.  Pitched happy in the long grass of
+the plain a mauve tent stands, small red pennants affixed to its roof
+flutter given the slightest chance.  West the plain is dotted with brightly
+colored tents, while to the east the plain looks empty in comparison.  Over
+the eastern plain a forest can be seen.  Southwards, another large wooden
+building can be seen some distance off.  
+~
+0 0 2
+D1
+~
+~
+0 0 4096
+D2
+~
+~
+0 0 4112
+D3
+~
+~
+0 0 4098
+S
+#4098
+Trampled Grasses~
+The grasses here have been trampled down to bare earth in places, mainly
+heading north wards towards the large shed like building that stands to the
+northeast of here.  Off to the northwest, a large stone building can be seen
+looking some what like a temple to some unknown god.  All around brightly
+colored tents have been pitched.  Far off to the east a dark forest grows.  
+~
+0 0 2
+D0
+~
+~
+0 0 4093
+D1
+~
+~
+0 0 4097
+D3
+~
+~
+0 0 4099
+S
+#4099
+At An Azure Tent~
+Long grasses surround an azure tent that has been pitched in the shelter
+of a large temple like building that stands to the northwest of the tent. 
+Running towards the tent, a path has been carefully made through the grasses
+in an attempt to cause as little damage as possible.  To the south and east,
+open plains dotted with more bright tents can be clearly seen and over the
+tops a forest of some sort stands, seeming as old as time.  
+~
+0 0 2
+D1
+~
+~
+0 0 4098
+D2
+~
+~
+0 0 4110
+S
+#4100
+A Vaulted Entrance~
+A deep sense of harmony fills the air of this arched hall.  Great care
+and skill must have been used in the creation of this structure going by the
+way the carving has been accomplished.  Images of horse, humans and centaurs
+seeming happy in there aspects cover the walls.  To the north a large
+chamber can seen, while to the south the wide world is visible.  
+~
+0 8 0
+D0
+~
+~
+0 0 4091
+D2
+~
+~
+0 0 4109
+S
+#4101
+At A Vermillion Tent~
+Smartly pitched close to a temple like building that blocks vision to the
+north and east is a cheery vermillion tent.  The long grass here is somewhat
+trampled in places, laying flat against the earth.  South and west, more gay
+colored tents litter the grass lands.  Over the tops of these tents at some
+distance an ancient forest stands tall and proud.  
+~
+0 4 2
+D2
+~
+~
+0 0 4108
+D3
+~
+~
+0 0 4102
+S
+#4102
+Trample Grasses~
+The grass here has been trampled by many hoofed feet.  To the northeast,
+a large stone like building that is more than likely a temple stands, while
+to the north west a shed like wooden structure has been placed.  All around,
+brightly colored tents have been placed upon the plain looking over the tops
+of the a forest can be seen hemming in the plain.  
+~
+0 4 2
+D0
+~
+~
+0 0 4089
+D1
+~
+~
+0 0 4101
+D3
+~
+~
+0 0 4103
+S
+#4103
+At A Buttercup Yellow Tent~
+A large bright yellow tent has been pitched here small silk banners
+flutter from the top of it even in the slightest breeze.  The grass leading
+to the entrance flap of the tent lays flat against the earth, as if it has
+been walked upon many times.  North of the tent a large wooden building
+stands but no door is visible in this wall.  To the west ancient forest
+grows some distance off over more grass lands while to the south and east
+the tent village seems to stretch outwards.  
+~
+0 4 2
+D1
+~
+~
+0 0 4102
+D2
+~
+~
+0 0 4106
+D3
+~
+~
+0 0 4104
+S
+#4104
+Upon A Plain~
+A small stream runs through the the grassy plains here from the north to
+the south.  To the west a great forest grows tall and proud, while to the
+east numerous tents dot the open grassy plain.  The sounds of small animals
+living out there lives can be clearly heard coming from all around,
+complimented by the chirping of insects.  
+~
+0 4 2
+D0
+~
+~
+0 0 4087
+D1
+~
+~
+0 0 4103
+D2
+~
+~
+0 0 4105
+S
+#4105
+Upon A Plain~
+A small stream winds its way from north to east through tall grasses that
+grow here.  To the west, an ancient woodland grows tall and proud.  To the
+east what must be at least a tent village stretches away.  South and north
+the grasses seems to flow and waft like small waves upon a pond in the
+smallest breeze.  
+~
+0 4 2
+D0
+~
+~
+0 0 4104
+D1
+~
+~
+0 0 4106
+D2
+~
+~
+0 0 4142
+S
+#4106
+Trampled Grasses~
+The grasses here have been worn down to the dirt by the passage of many
+hoofed feet.  To the north, a tent can be seen pitched upon the plain in
+front of a large, shed-like building.  South, another shed like building
+stands on the plain.  East of here more tents can be seen, while west,wards
+the grasslands open out.  Behind the plain to the west a great woodland can
+be seen.  A stream flows from the west to the east here bubbling gently.  
+~
+0 4 2
+D0
+~
+~
+0 0 4103
+D1
+~
+~
+0 0 4107
+D3
+~
+~
+0 0 4105
+S
+#4107
+Before A Small Green Tent~
+A small green tent has been pitched close to a bubbling stream that flows
+from the east to the south here.  To the southeast, a large wooden building
+stands, while tents dot the earth at some distance all around the plain. 
+Over the tops of these tents looms an ancient forest that seems to have been
+growing here since the dawn of time.  
+~
+0 4 2
+D1
+~
+~
+0 0 4108
+D2
+~
+~
+0 0 4120
+D3
+~
+~
+0 0 4106
+S
+#4108
+Flattened Grasses~
+Brown earth can be clearly seen through the flattened grasses, by the
+looks of it the grass has been run clear by the passage of many hooves.  To
+the northeast, a large stone building, temple like in structure, stands
+proud over the plains.  To all other directions, numerous brightly colored
+tents can be seen dotting the landscape, like petals from some giant flower.
+~
+0 4 2
+D0
+~
+~
+0 0 4101
+D1
+~
+~
+0 0 4109
+D3
+~
+~
+0 0 4107
+S
+#4109
+South of the Temple~
+To the north, a large arched doorway has been set into a ornately carved
+stone building.  Some thing about the construction seems to infer that it is
+sacred to someone.  The carvings seem to depict horses, humans and centaurs
+living out blissful lives together.  Off in all other directions brightly
+colored tents have been placed, forming something like a small village. 
+Over the tops of these an ancient wood can be clearly seen.  
+~
+0 4 2
+D0
+~
+~
+0 0 4100
+D1
+~
+~
+0 0 4110
+D2
+~
+~
+0 0 4118
+D3
+~
+~
+0 0 4108
+S
+#4110
+Crossing Of Paths~
+The earth here is cleared of grass in places, making a web of paths
+leading off in all directions.  Brightly colored tents can be seen to the
+east and south.  To the northwest, a great curved stone building stands,
+possibly a temple to some unknown god or goddess.  Over the tops of the gay
+tents, a large and old looking forest can be seen stretch off into the
+distance.  Now and then, the sound of some small animal living in the
+grasses nearby can be heard.  
+~
+0 4 2
+D0
+~
+~
+0 0 4099
+D1
+~
+~
+0 0 4111
+D3
+~
+~
+0 0 4109
+S
+#4111
+At A Red Tent~
+A bright red tent has been pitched here with enough skill that it could
+easily withstand any storm.  Off in all directions, other bright tents stand
+upon the plains that stretch away.  The sounds of some unseen creatures can
+be heard going about their own business.  At some distance to the southeast,
+a large wooden building stands, it seems to be some kind of shop.  Hemming
+in these grasslands is an ancient wood, standing tall.  
+~
+0 0 2
+D1
+~
+~
+0 0 4112
+D2
+~
+~
+0 0 4116
+D3
+~
+~
+0 0 4110
+S
+#4112
+Upon A Plain~
+Long green grass grows all around, moving to the gentlest of breezes.  A
+small distance off to the south, a large barn like building can be clearly
+seen, its wooden walls not showing a single point of entrance from this
+direction.  Off to the east, over more lush grasses a dense wood of ancient
+trees can be seen, while to the north and west the plains are dotted with
+numerous brightly colored tents.  
+~
+0 4 2
+D0
+~
+~
+0 0 4097
+D1
+~
+~
+0 0 4113
+D3
+~
+~
+0 0 4111
+S
+#4113
+Upon A grassy Plain~
+Wild grasses grow here, covering the wild flower dotted earth.  From deep
+within the depth of the greenery, sounds rise indicating the presence of
+small animals.  Directly to the north and south, empty grasslands stretch
+away, unaffected by sentient life.  Looming high over the plains to the east
+a forest, seeming as old as time, stands tall and dark.  Westward, the
+plains are covered in what appears to be a village of brightly dyed tents.  
+~
+0 4 2
+D0
+~
+~
+0 0 4096
+D2
+~
+~
+0 0 4114
+D3
+~
+~
+0 0 4112
+S
+#4114
+Open Grasses~
+Fragrant grasses grow all around, swaying in the slightest breeze or
+dancing wildly in a stronger wind.  Eastward there is a forest, old and
+gnarled, standing tall and proud over the surrounding grasses.  Plains
+stretch off in all other directions.  Westwards, tents have been planted,
+adding bright color to the plains.  Standing straight to the west is a large
+wooden structure, no door or window is visible from this direction.  
+~
+0 4 2
+D0
+~
+~
+0 0 4113
+D2
+~
+~
+0 0 4151
+S
+#4115
+The Horn of Ages~
+Inside this large barn like building, small glass oil lamps have been
+hung from the beams illuminating a massive wooden bar set against the
+eastern wall.  Long hard wood tables are set around the room, lacking any
+form of seating.  To the west a curtain of oiled leather covers a large
+opening to the outside world.  The air is heavily scented with the pungent
+odour of pipe smoke and a slight tang of stale ale.  Over the back of the
+bar a horn well over three feet in length has been cleaned and hung.  
+~
+0 8 0
+E
+horn~
+This horn does not looks at all like that of any "normal" creature, it is
+spiraled and a dark blue in color.  
+~
+D3
+~
+~
+1 0 4116
+S
+#4116
+Well-Trampled Grasses~
+The ground here has been churned to bare earth and mud.  Numerous hoof
+prints seem to lead a steady line towards the curtain,ed wooden barn
+building stand, close by to the east.  Over this curtain a free swinging
+sign with a horn painted on it and the words "The Horn of Ages" painted
+below.  To the south, open grasslands stand while to the west and north
+tents have been pitched.  Surrounding this expansive plain, an ancient
+forest grows tall and proud.  
+~
+0 4 2
+D0
+~
+~
+0 0 4111
+D1
+~
+~
+1 0 4115
+D2
+~
+~
+0 0 4149
+D3
+~
+~
+0 0 4117
+S
+#4117
+Before a Mustard Yellow Tent~
+The grasses here have become short, chewed off by goats judging from the
+rank odour coming to your nose.  A mustard yellow tent has been pitched
+here, as far from the smelly earth as possible.  Patches of different colors
+have been used to repair damage to this tent.  To the north a large stone
+building can be seen off in the distance while to the south some way off an
+ancient forest grows.  Both west and east the plains stretch away dotted
+with tents.  
+~
+0 4 2
+D1
+~
+~
+0 0 4116
+D2
+~
+~
+0 0 4148
+D3
+~
+~
+0 0 4118
+S
+#4118
+A Stone Well~
+A ring of stones form the outside of a well dug into the fields here. 
+The wooden bucket, still attached to the well by a length of rope, lays dry
+upon the earth.  The grass has grown long beside the well, as if it has not
+been approached in some time.  Off in the all directions, plains spread out,
+dotted with brightly colored tents.  Far off over the tops of these tents a
+great forest can be seen growing, now and then a flight of birds takes to
+the air from it.  
+~
+0 4 2
+D0
+~
+~
+0 0 4109
+D1
+~
+~
+0 0 4117
+D2
+~
+~
+0 0 4147
+D3
+~
+~
+0 0 4119
+S
+#4119
+Outside A Lilac Tent~
+Pitched neatly upon the grass covered earth a lilac tent stands, small
+flags flutter in the least breeze.  Grass covered plains stretch off in all
+directions, dotted by more tents or differing colors.  Over the tops of
+these tents an ancient wood can be seen.  Off a distance to the northeast is
+a large stone building.  
+~
+0 4 2
+D1
+~
+~
+0 0 4118
+D2
+~
+~
+0 0 4146
+D3
+~
+~
+0 0 4120
+S
+#4120
+A Stream Upon a Plain~
+A stream bubbles gently over some smooth rocks as it curls its way though
+the long grasses of the plains here.  To the west, a large wooden door is
+set into a sizeable shed like building, which has green paint flaking off
+its outside a little but is in over all in good repair.  A small sign swings
+free over the door of this building, painted upon it is the legend "Nix
+Nacks".  The grasslands stretch off in all directions, while to the west and
+south an old looking forest grows.  
+~
+0 4 2
+D0
+~
+~
+0 0 4107
+D1
+~
+~
+0 0 4119
+D2
+~
+~
+0 0 4145
+D3
+~
+~
+1 0 4121
+S
+#4121
+Inside Nix Nack's~
+A rug woven from dried grasses covers the earthen floor here, dyed
+brightly.  A large hardwood counter blocks the western side of the store,
+preventing movement past it.  Over the top of which, a large door can be seen
+even if not reached.  Jewelry of differing types have been arranged about
+the place so as to be viewed with ease.  The exit from the store appears to
+be a large door set into the eastern wall.  
+~
+0 8 0
+D1
+~
+~
+1 0 4120
+S
+#4122
+Inside A Grey Tent~
+Light grey fabric makes the walls of this tent, blocking some of the
+light from filtering in during the day and providing cover from the
+elements.  A folding table stands against the northern wall, with many small
+items set out upon it.  A stone fire pit has been constructed in the center
+of the tent, a flap in the roof allowing the smoke to exit.  
+~
+0 8 0
+E
+table~
+These look to be a deck of cards and a few worn dice, you doubt they have
+any value passed being a simple form of entertainment.  
+~
+E
+items~
+These look to be a deck of cards and a few worn dice, you doubt they have
+any value passed being a simple form of entertainment.  
+~
+D2
+~
+~
+0 0 4065
+S
+#4123
+In A Red And Blue Tent~
+Diffused light can just filter through the thick red and blue striped
+fabric of the walls.  Next to the fire pit, set under a flap in the roof,
+there is a small folding table standing in the northern most corner.  A few
+sliced vegetable can be seen upon its top.  A barrel stand in the southern
+corner, over which hang some damp-looking rags.  
+~
+0 8 0
+D2
+~
+~
+0 0 4063
+S
+#4124
+In A Scarlet Tent~
+Any light that filters in from outside is tinted red due to the scarlet
+fabric of this tent's walls.  Standing in the center of this room is a
+folding table, set upon its top are all manner of scrolls and books, each
+stacked neatly.  Next to this table two brass candle stands have been
+placed, ivy carved into the metal of there uprights.  A smell of pipe smoke
+taints the air here.  
+~
+0 12 0
+E
+table~
+Through many scrolls can be found upon here only one really stands out as
+of possible interest.  
+~
+D2
+~
+~
+0 0 4071
+S
+#4125
+In A Green Tent~
+The green of the enfolding tent walls seem to send forth an almost
+calming feeling into this enclosed area.  A large harp stands in the center
+of this room, set upon a gilded stand.  Off to the left of the harp is a
+small writing table, quill and ink set neatly next to a parchment on its
+top.  A lantern hangs from a small hook dangling from the roof.  
+~
+0 12 0
+D2
+~
+~
+0 0 4075
+S
+#4126
+Inside A Purple Tent~
+Rich purple fabric lines the walls of this tent.  Wooden crates stand
+around the walls of the tent, scrolls and maps can be seen poking from the
+open tops.  A small pot-bellied iron brazier sits in one corner, safely away
+from the crates, the scent of apple wood burning rising from it.  Overall,
+the inside of this tent seems warm and comfortable.  
+~
+0 12 0
+E
+scrolls~
+These crates are filled with numerous scrolls and maps, mostly in ancient
+tongues.  It would take an age to work out what is useful.  
+~
+E
+maps~
+These crates are filled with numerous scrolls and maps, mostly in ancient
+tongues.  It would take an age to work out what is useful.  
+~
+E
+crates~
+These crates are filled with numerous scrolls and maps, mostly in ancient
+tongues.  It would take an age to work out what is useful.  
+~
+D2
+~
+~
+0 0 4085
+S
+#4127
+In a Sky-blue Tent~
+Hanging from the roof of this sky-blue tent are plumes of cloth in a
+slightly lighter shade, wafting freely in a manner that is not obstructive. 
+The scent of roses float up from bowls of water containing the red and
+yellow petals of these flowers.  Small orbs of glowing blue light have been
+skillfully stitched to the tops of these curtains, the faint light from them
+giving a soft edge to the room.  
+~
+0 12 0
+D2
+~
+~
+0 0 4083
+S
+#4128
+In A Lemon Tent~
+A sense of peace seems to fill the air here, soft lighting from magical
+orbs of a yellow color similar to the tent walls heightening the feeling.  A
+desk standing close to the west most wall holds what looks to be a selection
+of penny whistles, the wood of them polished and stained.  Sheets of what
+seem to be music sit next to these instruments.  
+~
+0 8 0
+D2
+~
+~
+0 0 4081
+S
+#4129
+Inside An Indigo Tent~
+Bunches of wild flowers hang down from the roof of this indigo tent,
+there scent heavy in the air.  An easel has been set up in one corner facing
+a bunch of fresh flowers, small pots and jars of paint sit on the floor with
+brushes next to them.  On a tiny folding table, a book has been left open
+with what seems to be for the use of pressing these flowers.  Every thing
+seems somehow cosy here.  
+~
+0 12 0
+E
+easel~
+The start of a picture is upon the paper here, showing skill.  The
+picture seems to be of some flowers.  
+~
+D2
+~
+~
+0 0 4079
+S
+#4130
+Inside a Yellow Tent~
+Bright orbs of magical light glow within this yellow tent, giving a warm
+atmosphere.  Three old and much used books rest upon the floor before a few
+plush plumped cushions made from a darker yellow fabric than the tent.  A
+small table sits in one corner, attached by small vices to this is a slate
+with chalk markings upon it.  
+~
+0 12 0
+E
+slate~
+The markings look to be advanced mathematics, through the equation has
+been mostly erased.  This looks very much like it might have been used for
+teaching.  
+~
+E
+books~
+These three book are all of childrens stories, there titles being "The
+Boy Who Ran Fastest", "Gweniths New Cloak" and "Mathews Big Fall".  
+~
+D2
+~
+~
+0 0 4103
+S
+#4131
+Inside An Azure Tent~
+Pots and pans sit close to a small stone fire pit that is under a flap in
+the roof.  Candles stand in holders spaced around the room sitting on the
+rug covered floor.  The scent of pipe smoke hangs heavily in the air, not
+unpleasant if one likes that sort of thing.  At the edges of the tent, grass
+and flowers can be seen, growing despite the lack of light due to the tent
+walls.  
+~
+0 12 0
+D2
+~
+~
+0 0 4099
+S
+#4132
+In A Vermillion Tent~
+Cheery vermillion fabric walls close out the outside world.  A wooden
+stand, most likely designed to hold weapons and armor, sits close to a small
+folding writing desk in this almost otherwise empty tent.  The sound of the
+wind buffeting the sides of tent reaches your ears, along with distant
+sounds of people moving.  
+~
+0 12 0
+D2
+~
+~
+0 0 4101
+S
+#4133
+Inside A Mauve Tent~
+Candles set into tall holders stand around the inside of this mauve tent,
+giving a pleasant clean light.  Placed carefully on the floor of dirt and
+grass is a set of pan pipes, the wood polished to a gleaming degree. 
+Incense burns from a small brazier placed upon a flat stone in the center of
+the tent.  A square flap has been set into the ceiling of the tent, able to
+be opened for ventilation purposes or simply to allow more light in.  
+~
+0 12 0
+E
+pipes~
+These reed pipes look to be well cared for, having been skillfully cut
+and crafted, a thick coating of varnish covers them.  Through well made the
+chances are only a musican would consider them of worth.  
+~
+D2
+~
+~
+0 0 4097
+S
+#4134
+Inside A Red Tent~
+The red of the fabric walls of this tent tints any light that drifts in
+from outside.  A stone fire pit has been set up under a flap in the roof so
+that smoke can escape, when lit.  Placed neatly close to this pit are the
+implements used to cook.  The scent of roasted rabbit still hangs in the
+air.  
+~
+0 12 0
+D2
+~
+~
+0 0 4111
+S
+#4135
+In A Cosy Green Tent~
+Little free room is available inside this tent.  There seems just enough
+space for someone to lay down and the small table that stands in the west
+most corner.  Upon this table, a candle has been set next to parchment and
+ink.  The scent of pipe smoke hangs in the air here, still fresh.  Natural
+light filters in from outside, through the walls and flap, adding to the
+magical globes strung across the top of the tent.  
+~
+0 12 0
+D2
+~
+~
+0 0 4107
+S
+#4136
+Inside A Lilac Tent~
+The scent of freshly cut flowers hangs in the air here, brushing against
+your nose from there places in long necked vases scattered about.  Three
+large area's of floor are left clear within this tent most of the rest of
+the floor is covered by the vases and flowers.  A flap is set into the roof
+of this tent, able to be opened or closed by means of a cord, this allows
+some of the flowers odour to drift out.  
+~
+0 12 0
+D2
+~
+~
+0 0 4119
+S
+#4137
+In A Mustard Yellow Tent~
+Mustard yellow fabric make up the walls of this enclosure, illuminated by
+glowing orbs of magical light.  A surface of tree has been rolled into here
+to work as a make shift desk, upon which a partly crafted string of beads
+lays.  Simple tools for working wood also sit close to the wooden round. 
+Patches of odd colors have been sewn to cover tears in the tent's cloth.  
+~
+0 12 0
+D2
+~
+~
+0 0 4117
+S
+#4138
+A Grand Entrance In A Tent~
+Bright orbs of magical light glow here, illuminating this section of the
+huge tent.  Banners hang from the fabric walls, giving a bright and pleasing
+splash of color to this area.  To the north a large flap seems to lead to
+yet another area of this tent.  Pennants of fine silk hang down from the
+tent roof high above, fluttering to any movement.  
+~
+0 8 0
+D0
+~
+flap~
+1 0 4139
+D2
+~
+~
+0 0 4064
+S
+#4139
+A Reception Inside A Tent~
+A long folding wooden table as been set close to the curving north wall
+of the tent here.  Hanging from hooks stitched to the fabric of the tent are
+frameless paintings depicting scenes of planes and woodlands.  It seems as
+if the host has attempted to make any time spent waiting here as pleasant
+and restful as possible.  A large flap leads off to the south and to the
+west a curtain stands.  
+~
+0 8 0
+D2
+~
+flap~
+1 0 4138
+D3
+~
+curtain~
+1 0 4140
+S
+#4140
+Meeting Room In A Tent~
+A large wooden plinth has been set up against the curving wall of the
+tent, facing this the area.  Set a small way from the fabric tent walls are
+branched candle stands, though orbs of light close to the roof most likely
+are used most often as a light source, by the looks of it.  In between these
+stands are banners showing the designs of the different tribes.  A curtain
+in the tent to the east seems to be one exit from this room while a flap to
+the south seems to be the other.  
+~
+0 8 0
+D1
+~
+curtain~
+1 0 4139
+D2
+~
+flap~
+1 0 4141
+S
+#4141
+A Restful Area~
+A vent in the roof of the tent here can be opened so that the sky may be
+seen if needed or desired.  Large cushions, huge by most peoples standards
+are piled around the room.  A harp, golden-edged and gleaming, stands close
+to the curtain to the north.  A few small chests lay about, closest to one
+of the cushions, scrolls and other written works seem to be there contents. 
+~
+0 8 0
+D0
+~
+curtain~
+1 0 4140
+S
+#4142
+Upon A Grassy Plain~
+Directly to the east stand a large shed like building upon the open
+grasslands.  To the north and south, open grasslands stretch out swaying in
+the slightest wind like the sea.  Off to the west, an ancient woodland
+grows, looking tall and powerful compared to the grasses all around.  From
+the deep growth, the sounds of small animals can be heard living their lives
+from deep within there depths.  
+~
+0 4 2
+D0
+~
+~
+0 0 4105
+D2
+~
+~
+0 0 4143
+S
+#4143
+In the Southwest Corner of a Plain~
+Deep ancient woodlands grow dense and thick to the south and west,
+towering over the plains.  To the northeast, a large wooden building looking
+somewhat like a massive shed stands on a large open grassy plain.  Past this
+wooden construct, numerous brightly colored tents can be seen on the plain. 
+Open grass land stretches to the north and east.  
+~
+0 4 2
+D0
+~
+~
+0 0 4142
+D1
+~
+~
+0 0 4144
+S
+#4144
+Upon A Grassy Plain~
+Long, tall grasses move like waves in the smallest breeze and lash almost
+flat in a greater wind.  Not far off to the north a large wooden building
+stands, no exits or entrances can be seen from this direction.  South of
+this area of grassland, stands a large dense and tall forest.  East and west
+the plains stretch out, surrounded by dense forest comprised of old, gnarled
+trees.  
+~
+0 4 2
+D1
+~
+~
+0 0 4145
+D3
+~
+~
+0 0 4143
+S
+#4145
+Upon A Grassy Plain~
+Flowing from the north to the south, a bubbling stream runs pure and
+true.  Southward, a tall, dark and formidable forest stands.  North, the
+plains seem dotted with tents of differing colors.  East and west the plains
+stretch outwards, the grasses blowing from side to side in the slightest of
+breezes.  Deep in the grasslands, small creatures can be heard.  
+~
+0 0 2
+D0
+~
+~
+0 0 4120
+D1
+~
+~
+0 0 4146
+D3
+~
+~
+0 0 4144
+S
+#4146
+Upon A Grassy Plain~
+Small creatures can be heard from deep within the flower-spotted long
+grasses that flow around this area.  To the south a forest, seemingly as old
+as time, stands as it must have always have.  The plains stretch away to the
+west, east and north.  To the north numerous bright tents have been pitched,
+their bright colors contrasting highly with the grassland.  
+~
+0 0 2
+D0
+~
+~
+0 0 4119
+D1
+~
+~
+0 0 4147
+D3
+~
+~
+0 0 4145
+S
+#4147
+Upon A Grassy Plain~
+High overhead, a dot in the sky marks the sight of a bird hunting over
+the grasslands.  Here and there, wild growing fox gloves poke there bright
+heads over the grasses.  To the south, an ancient wood grows, deep shadows
+cling under its canopy.  West and east, the grass lands stretch away almost
+endlessly, apart from the trees that can be made out far off in the
+distance.  A glance northward shows numerous tents in gay colors that stand
+upon the plain.  
+~
+0 0 2
+D0
+~
+~
+0 0 4118
+D1
+~
+~
+0 0 4148
+D3
+~
+~
+0 0 4146
+S
+#4148
+A Fallen Tree On The Plain~
+A mighty tree has fallen from the ancient woodland that looms to the
+south, crashing down long ago into the grasses here.  From within the long,
+lush grasses around the sounds of small animals living out there lives
+drifts upwards to your ear.  Northward, tents stand upon the plain, their
+bright colors making them easily seen, while to the east and west more
+grassland stretches away.  
+~
+0 0 2
+D0
+~
+~
+0 0 4117
+D1
+~
+~
+0 0 4149
+D2
+~
+~
+0 0 4162
+D3
+~
+~
+0 0 4147
+S
+#4149
+Upon A Grassy Plain~
+Long grasses grow all around, mixed in with them are small cheerfully
+colored flowers.  Off to the south a large wood stands, the trees reaching
+up towards the sky almost like nature's sentinels.  Looking to the west,
+east and north, more grassy plains stretch away.  Some way off to the north
+east a wooden building can be seen.  
+~
+0 0 2
+D0
+~
+~
+0 0 4116
+D1
+~
+~
+0 0 4150
+D3
+~
+~
+0 0 4148
+S
+#4150
+Upon A Grassy Plain~
+Long grasses grow all around carpeting the floor with their lush green
+stems.  To the north, a large wooden building can clearly be seen, while to
+the south a great forest looms dark and imposing.  Off to the west and east,
+more open plains covered in grasses spread into the distance.  From all
+around you, the sounds of small creatures reach up to your ears.  
+~
+0 0 2
+D1
+~
+~
+0 0 4151
+D3
+~
+~
+0 0 4149
+S
+#4151
+Upon A Grassy Plain~
+To the south and east a massive forest grows old and proud, darkness
+cloaking under its ancient branches.  Gazing to the north and west open
+grass lands stretch away.  Looking around the grassy area at your feet
+numerous wild flowers grow, the bright blooms of them contrasting
+wonderfully with the lush green of the grass.  
+~
+0 0 2
+D0
+~
+~
+0 0 4114
+D3
+~
+~
+0 0 4150
+S
+#4152
+On A Stone Ramp~
+Dust covered and hemmed in by rough stone walls, the ramp here slopes
+slowly down into the darkness to the east.  A heavy looking stone forms a
+door above your head, hard but not impossible to move.  A strange silence
+seems to fill the dark, almost as if something is waiting.  As light strikes
+the walls you notices that the roughness is due to a complex swirl of
+designs.  
+~
+0 8 0
+D1
+~
+~
+0 0 4153
+D4
+~
+~
+7 0 4091
+S
+#4153
+A Ramps End~
+Swirling designs cover the cold stone of the walls, the intricacy making
+them rough.  Gently the ramp curves from the west to the south, giving a
+gradual firm path beneath your feet.  Dust and darkness seems to cloak
+everything around you.  No sounds but those made by you seem to be apparent,
+almost as if the darkness is waiting and watching.  South a large archway
+can just be made out.  
+~
+0 8 0
+D2
+~
+~
+0 0 4154
+D3
+~
+~
+0 0 4152
+S
+#4154
+Under An Archway~
+Great stone arches line the hallway here, carved with skill and care long
+ago, by the looks of them.  Set in between these arches are carvings of what
+look like noble centaurs, easily twice the size of the real things.  To the
+north, through the haze of dust and darkness, a stone ramp can just be seen
+curving upward.  South, the chamber seems to open out, like a nexus of sorts
+has been fashioned.  
+~
+0 8 0
+D0
+~
+~
+0 0 4153
+D2
+~
+~
+0 0 4155
+S
+#4155
+A Hall Between Tombs~
+Four archways lead from this squared chamber in each of the cardinal
+directions.  To the east and west, what appears to be massive tomb can be
+seen shrouded in dust, while to the north and south the hallway seems to
+stretch onwards.  It seems almost as if your being watched or judged here,
+with an unnatural quiet hanging in the air.  
+~
+0 8 0
+D0
+~
+~
+0 0 4154
+D1
+~
+~
+0 0 4159
+D2
+~
+~
+0 0 4156
+D3
+~
+~
+0 0 4158
+S
+#4156
+Chamber's End~
+Motes of dust dance in the air here getting at your nose.  To the east
+and west, tombs appear looming large through the darkness, while to the
+north the hall stretches through a set of arches away.  South, the chamber
+ends in a painted wall, the colors though dimmed by time still visible.  A
+quiet hangs in the air, seemingly no sounds but those made by you have
+entered here in a long time.  
+~
+0 8 0
+E
+paint~
+The painting shows open fields and centaurs running happily over them. 
+As you look closer you notice something seems wrong with the picture, a thin
+line follows what could almost be a door.  Pushing slightly on this area
+seems to cause it to move a little.  
+~
+E
+south~
+The painting shows open fields and centaurs running happily over them. 
+As you look closer you notice something seems wrong with the picture, a thin
+line follows what could almost be a door.  Pushing slightly on this area
+seems to cause it to move a little.  
+~
+D0
+~
+~
+0 0 4155
+D1
+~
+~
+0 0 4160
+D2
+~
+~
+7 0 4161
+D3
+~
+~
+0 0 4157
+S
+#4157
+A Tomb~
+A large impressive looking tomb surrounded by four armored statues of
+centaurs has been positioned here, dust coated and undisturbed for an age. 
+Etched into the stone walls are complex designs depicting a great battle
+between the centaur people and some kind of man-beasts.  To the east a wide
+passage leads to what looks like another chamber.  
+~
+0 8 0
+E
+tomb~
+Unadorned apart from the inscription "Here lays the mortal remains of
+Anainse who in life lead us to victory, may in death he find peace at last".
+The lid of the tomb is sealed tight and does not seem likely to be moved.  
+~
+E
+statues~
+Each of the four statues is slightly different.  Two are female and two
+male, one of each gender has black painted eyes and the other two white.  In
+the hand of one female is a book, the other a harp.  The male fingures hold
+weapons of war, one the lance and the other a mightly looking club.  
+~
+D1
+~
+~
+0 0 4156
+S
+#4158
+A Tomb~
+A stillness hangs in the air here, enfolding the tomb.  Two statues of
+noble looking centaurs stand either side of a carved stone tomb, one female
+and the other male.  Painted upon the west most wall of the chamber is what
+appears to be a depiction of a proud and noble centaur talking to a crowd of
+wood nymphs that gaze up at the centaur with adoration.  
+~
+0 8 0
+E
+statues~
+The female statue smiles softly, her face showing peace and trust in its
+stone features as she clasps her hands as if in prayer.  The male statue
+seems to be gazing off into some distant vision his face firm and noble, the
+strong line of his jaw set.  In the hands of the male is what looks to be a
+stone war spear.  
+~
+E
+tomb~
+Carved into the lid of this tomb is the legend "Uniran nymph friend lays
+here, may his work with the forest kin always be rembered".  Upon closer
+examination you notice that the lid of the tomb has at sometime been moved,
+then replaced.  
+~
+D1
+~
+~
+0 0 4155
+S
+#4159
+A Tomb~
+A stone tomb sits in the center of this chamber, behind which stands a
+statue of a female centaur.  Thick dust covers the paved stones of the
+floor, tomb and statue, hinting that nothing has come this way in ages upon
+ages.  To the west along a short hallway, a large room can be seen looking
+as dusty as this one.  
+~
+0 8 0
+E
+tomb~
+Sealed tight this tomb has the legend "Gwenith in life she out shined the
+very stars, my her deeds burn as bright in our mines now she has passed
+over".  
+~
+E
+statue~
+This statue has crafted into its base the name "Gwenith" in an artistic
+scriped.  The statue its self shows a beautiful centaur maiden that in life
+must have really been something to see.  Long hair though lacking color now
+crafted in stone flows down the back of the statue, while a halter top shows
+her breasts off nicely.  
+~
+D3
+~
+~
+0 0 4155
+S
+#4160
+Tomb~
+A long tomb fills this room, dust covered and seemingly undisturbed in
+ages.  Standing to the right of the tomb a statue has been placed, its
+features those of a centaur.  Shelf like slabs in the wall stand to the
+north, south and east.  These seem once to have held candles, as is
+evidenced by the irregular covering of wax.  To the west another chamber can
+be seen down a short hallway.  
+~
+0 8 0
+E
+statue~
+Twice the size of a real centaur this statue depicts a male his face care
+worn and lined.  In his mighty looking hands are gripped a great war lance
+and a horsemans flail.  Upon his head sits a carved stone circlet.  At his
+hooved feet the word "Jannax" have been carved in a flowing script.  
+~
+E
+tomb~
+This is a large and heavy sealed tomb.  It looks like you would need many
+men and tools to even think about opening the stone lid.  Carved into the
+lid in a flowing script are the words "Enteral peace for you Jannax, may it
+bring you the happiness you require".  
+~
+D3
+~
+~
+0 0 4156
+S
+#4161
+A Shining Tomb~
+Though dust covered, the gilded walls of this room gleam from the
+radiance of orbs of soft magical light.  In the center of the room a giant
+tomb crafted from the finest marble has been set, to either side of which
+statues of the same marble stand.  A strange quiet hangs in the air here
+seemingly unbroken for an age before your entrance.  To the north an archway
+leads to what must be a concealed door, going by the cunning works visible
+from here.  
+~
+0 8 0
+E
+statues~
+Four mighty looking statues stand around the tomb.  In the hands of the
+first a male is griped a scroll, the wording on which lost in the mists of
+time.  The second a female holds what looks for all the world like a burning
+whip, the lash of which coils around Her hooved feet.  The other two, one
+male and one female seem in aspects of prayer, there hands clasped before
+them and there noble looking heads bowed.  
+~
+E
+tomb~
+Large by most peoples standards, this tomb has the words "Aze wi vitous
+maz tye bes wi deth".  The style and workings of the script seeming old. 
+Upon closer examination it seems like the tomb has not been sealed.  
+~
+D0
+~
+~
+7 0 4156
+S
+#4162
+A Forest Trail~
+A small trail curves and winds its way between ancient trees, flanked on
+either side by brightly colored flowers.  The soft scent of these drifts
+upon the air here, mixing with the odour of rotting leaves.  To the north a
+wide open glass plain can be made out, past the trees.  Now and then a
+rustling sound comes from the undergrowth, showing the passage of some
+unseen creature.  The trail continues to the east and north.  
+~
+0 4 3
+D0
+~
+~
+0 0 4148
+D1
+~
+~
+0 0 4163
+S
+#4163
+Approaching A Lake~
+Mighty trees link branches high overhead, forming a natural archway here.
+Small mushrooms grow upon a fallen log, their caps a bright red contrasting
+with the pale white of there flesh.  Off to the east, a lake can be seen,
+while the path continues into what looks like more woodland to the west. 
+Every now and then the sound of some creature moving unseen through the
+forest can be heard, if not seen.  
+~
+0 0 3
+D1
+~
+~
+0 0 4164
+D3
+~
+~
+0 0 4162
+S
+#4164
+A Lake Bank~
+Soft green moss runs from the edge of a dense and aged looking forest
+that extends to the west, right up to the edge of the waters.  The lake
+stretches away to the north, south and east.  Great green lily pads float
+serenely upon the surface, bobbing to the slightest ripple, while the pure
+white flowers give their heady scent to the air.  From deep within the woods
+a few faint sounds of animal life can be heard.  
+~
+0 0 0
+D0
+~
+~
+0 0 4165
+D1
+~
+~
+0 0 4168
+D2
+~
+~
+0 0 4166
+D3
+~
+~
+0 0 4163
+S
+#4165
+A Lake Bank~
+A lake bank curves softly away to the south and east of here, the waters
+of the lake looking pure and clear.  White lilies grow in abundance upon the
+surface of the lake, floating about gently amidst their pads.  To the north
+and west a dense forest looms high into the air, the branches of these
+mighty trees intertwining high above the forest floor.  
+~
+0 0 0
+D1
+~
+~
+0 0 4167
+D2
+~
+~
+0 0 4164
+S
+#4166
+At A Lake Edge~
+Clear waters lap softly against the lake's bank, caressing the lush green
+reeds, that grow there.  A soft croaking sound comes from the reeds, filling
+the air with its own melody.  To the north and east the lake spreads away,
+like some great mirror fashioned by a forgotten god.  To the south and west
+there are dark, ancient wood lands stand like giants of another age, their
+limbs stretching up to the heavens.  
+~
+0 0 0
+D0
+~
+~
+0 0 4164
+D1
+~
+~
+0 0 4169
+S
+#4167
+Upon A Lake Bank~
+Long blade-like reeds grow away from the bank of the lake that stretches
+away to the south from here.  From deep within the reed bed, a soft buzzing
+sound can be heard, most likely the product of some insect.  Lilies as white
+as fresh snow float gracefully between there own dark green pads.  East and
+west the lake bank continues on, curving slightly around, while to the north
+an ancient looking forest stands tall and proud.  
+~
+0 0 0
+D1
+~
+~
+0 0 4170
+D2
+~
+~
+0 0 4168
+D3
+~
+~
+0 0 4165
+S
+#4168
+On A Lake~
+White lily flowers bob upon the surface of the waters, their large, flat
+green pads home to the occasional croaking frog.  Looking out over the
+still, peaceful, clear waters in any direction the banks of this body of
+fluid can be seen.  Standing past the lake is an ancient and mighty looking
+forest, the trees tall and gnarled-looking with age, clearly visible from
+this distance.  The soft scent of lilies taints the air, wafting gently.  
+~
+0 0 7
+D0
+~
+~
+0 0 4167
+D1
+~
+~
+0 0 4171
+D2
+~
+~
+0 0 4169
+D3
+~
+~
+0 0 4164
+S
+#4169
+On A Lake Bank~
+To the north, east and west, clear waters shimmer in any available light.
+Dotting the surface pure white lilies can readily be seen.  To the south a
+small trail leads into the dense forest that stands tall and ancient in its
+magnificence.  From this the lilting song of some unseen bird drifts to your
+ears.  If you would happen to glance at the lake, you notice the waters are
+so clear you can see the bottom.  
+~
+0 0 0
+D0
+~
+~
+0 0 4168
+D1
+~
+~
+0 0 4172
+D2
+~
+~
+0 0 4173
+D3
+~
+~
+0 0 4166
+S
+#4170
+A Lake Bank~
+A sparkling lake stretches away to the west, the waters dotted with green
+lily pads and bright white flowers.  To the north and south more of the same
+body of water can be seen, lapping against the bank.  To the east a dark
+forest looms, the mighty trees creating gloom laden paths even on the
+brightest of days.  
+~
+0 0 0
+D2
+~
+~
+0 0 4171
+D3
+~
+~
+0 0 4167
+S
+#4171
+A Lake Bank~
+Numerous animal tracks dot the earth here.  Running from the dense
+woodland that stands to the east to the edge of the clear lake to the west. 
+White lily flowers bob pleasantly on the surface of this pond, there scents
+drifting over the waters to this bank.  North and south the lakes bank
+stretches away, curving gently.  
+~
+0 0 0
+D0
+~
+~
+0 0 4170
+D2
+~
+~
+0 0 4172
+D3
+~
+~
+0 0 4168
+S
+#4172
+Edge Of A Lake~
+Massive trees line the bank of a crystal clear lake here.  The waters
+stretch away to the west and north, sparkling in any light that may fall
+upon them.  Standing tall and proud to the east and south a mighty forest
+seemingly without end, can be seen.  Which the sounds of small animals and
+birds can be heard occasionally, from within the trees.  The delicate scent
+of lily blossom hovers in the air here, coming from the blooms of the same
+flower that occasionally dots the waters.  Over these, waters the sky is
+plainly visible.  
+~
+0 0 0
+D0
+~
+~
+0 0 4171
+D3
+~
+~
+0 0 4169
+S
+#4173
+A Faint Trail~
+Twisting and turning its way between massive trees, this faint trail works
+its way to the north and south.  Ivy grows thickly around the trunks and
+lower branches, of these trees, slowly working its way towards the hidden
+sky.  The smell of decaying leaves drift up from the damp earth, mixing with
+the scents coming from a tiny bed of wild poppies.  
+~
+0 0 3
+D0
+~
+~
+0 0 4169
+D2
+~
+~
+0 0 4174
+S
+#4174
+A Winding Path~
+The branches of blackberry bushes thrust themselves over the barely
+visible path that winds from the north to the west.  Colorful, decaying
+leaves litter the soft, dark soil.  Several tracks can be clearly seen in
+the earth, testimony to the passage of woodland creatures.  The trees
+stretch above mightily, preventing a large portion of natural light from
+reaching the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 4173
+D3
+~
+~
+0 0 4175
+S
+#4175
+A Strange Grove of Trees~
+A strange grove of trees with smooth bark grow here, their trunks
+intertwining and nestled closely to one another.  The smooth bark forms an
+oddly flat panel that is covered irregularly with moss.  Flowers and grasses
+grow up to the very base of the strange trees, untamed and fragrant in all
+their glory.  A faint trail leads eastward into the ancient forest
+surroundings.  
+~
+0 0 0
+D1
+~
+~
+0 0 4174
+D3
+~
+panel~
+7 0 2951
+S
+#4176
+A Wide Forest Trail~
+Might trees flank either side of a curving track here, that works its way
+north and east.  To the north the trail continues to make its way through
+thick woodland while to the east it opens out into a grassy plain, brightly
+colored tents just visible from this distance.  Thick under bush grows in an
+abundance between the trees, intertwining like ardent lovers.  The odour of
+rotting plant matter permeates the air here, rising from all around.  
+~
+0 0 3
+D0
+~
+~
+0 0 4177
+D1
+~
+~
+0 0 4069
+S
+#4177
+A Winding Forest Trail~
+Curving and winding its way like the spine of some massive serpent the
+trail makes its way between ancient trees.  Gnarled by the passage of time,
+these great trees stand like guardians from some bygone age, branches
+reaching up to the sky above.  Now and then rustles come from somewhere deep
+within the surrounding undergrowth, signs of some unseen creatures passage. 
+~
+0 0 3
+D0
+~
+~
+0 0 4178
+D2
+~
+~
+0 0 4176
+S
+#4178
+A Curving Path~
+Twin banks of bright wildflowers line either side of the meandering
+forest path here, there scents rises up and filling the air here.  To the
+north and south the path makes its unhurried way, twisting and turning
+around the trunks of mighty trees.  The earth here has been scored by hoofed
+feet and the grasses laid flat as if some creature has rested upon it.  
+~
+0 0 3
+D0
+~
+~
+0 0 4179
+D2
+~
+~
+0 0 4177
+S
+#4179
+A Dividing Path~
+A forest trail splits three ways here, workings its way to the west, east
+and south.  Each of these three routes works its way deep into an ancient
+looks forest, while the ground here is relatively open.  Small flowering
+plants litter the forests floor, adding bright splashes of color to the area
+and gentle fragrances.  The earth has been traveled by many hoofed feet,
+there tracks leading off in all three directions.  
+~
+0 0 0
+D1
+~
+~
+0 0 4181
+D2
+~
+~
+0 0 4178
+D3
+~
+~
+0 0 4180
+S
+#4180
+A Small Clearing~
+A trail from the east opens out here to form an open clearing.  Numerous
+flowers spring fourth from a thick carpet of lush green grasses, there
+scents wafting about on the air.  To the north several trees grow close
+together forming an inter-linking, vine-covered archway, the inside hidden
+by the foliage.  Occasionally sounds of animal life drift into this clearing
+from the surrounding forest.  
+~
+0 0 3
+E
+foliage~
+This foliage seems to have been intentionally placed to form a door of
+vines, small flowers add a dash of color to the dark greens of the leaves. 
+Behind this what looks very much like a chamber can be seen.  
+~
+D0
+~
+vines~
+7 0 4182
+D1
+~
+~
+0 0 4179
+S
+#4181
+A Forest Path~
+A path gently curves its way from the north to the west here, winding
+between ancient trees.  Wild black berries grow between the trees here,
+there vines inter-locking and forming a natural barrier to movement.  Every
+now and then a faint chirping can be heard from within these plants, most
+likely some small bird calling to its mother.  
+~
+0 0 3
+D0
+~
+~
+0 0 4183
+D3
+~
+~
+0 0 4179
+S
+#4182
+A Forest Bower~
+The limbs of trees have been skillfully intertwined to form a living roof
+and walls here.  Flowering vines drape down to form a doorway of sorts to
+the south and add brightness to the rest of the construction.  Small bright
+plants have been grown all around the outer edge adding more color to this
+area, while soft ferns have been placed in the center.  
+~
+0 8 0
+D2
+~
+vines~
+7 0 4180
+S
+#4183
+A Narrowing Path~
+Ancient and mighty trees flank with side of a path here, that narrows to
+the north.  Over head a dense canopy of branches form almost a roof against
+the sky, tree limbs from either side reaching inwards and entwining.  Dead
+nettles grow in deep banks to both sides of this path, there white flowers
+sending fourth a soft odour to the air.  The track works its winding way to
+the south and north here.  
+~
+0 0 3
+D0
+~
+~
+0 0 4184
+D2
+~
+~
+0 0 4181
+S
+#4184
+A Narrow Path~
+A narrow tunnel winds its way south and east here, between massive trees.
+Ancient gnarled trunks lean in all but touching each other, as they hem in
+this trail, there branches competing with one another to reach up to the
+sky.  A strong odour of rotting vegetation rises from the earth and small
+fungi grow in the cover of these aged trees safe, even on the brightest of
+days, from sun.  
+~
+0 0 3
+E
+fungi~
+Small pale and not at all interesting to look at, these mushrooms look
+useless.  
+~
+D1
+~
+~
+0 0 4185
+D2
+~
+~
+0 0 4183
+S
+#4185
+A Faint Path~
+A light mist shrouds a curving and winding trail that works its unsteady
+course to the north and west.  Fenced in by dense forest that appears to be
+all but impenetrable, this path is the only practical way to move here. 
+Small clumps of wildflowers spring fourth from leaf covered ground to add
+there color to this land, there fragrance mixing with that of the rotting
+leaves.  Just visible, over the forest, far off to the north is a mountain
+range.  
+~
+0 0 3
+D0
+~
+~
+0 0 4186
+D3
+~
+~
+0 0 4184
+S
+#4186
+A Side Trail~
+Large trees surround what is little more than a deer trail here, there
+branches stretching skywards and there trunks wrapped in ivy vines.  Off to
+the north through the trees a wagon can just be seen, through it seems not
+to be moving, over the top of this an impressive mountain range stands out
+against the sky.  South the path continues on, heading deeper into the
+forest.  A light mist clings to the ground here, twisting and dancing to the
+winds whimsy.  
+~
+0 0 3
+D0
+~
+~
+0 0 16052
+D2
+~
+~
+0 0 4185
+S
+#4051
+Upon A Grassy Plain~
+The grass land moves like a ripping sea in the slightest breeze and
+stretches away, seeming to not to have an end, to both the east and south of
+you.  Some distance off to the southeast, a large wooden building can be
+seen and, beyond this, a profusion of tents dot the landscape.  To both the
+north and west, ancient woodland stretches.  From some of the tents to the
+southeast, smoke can be seen rising up, more than likely from cooking fires
+or for heating, you would guess.  
+~
+0 1048580 2
+D1
+~
+~
+0 0 4052
+D2
+~
+~
+0 0 4068
+S
+#4052
+Upon A Plain~
+Wild poppies dot the dense growth here, adding a slash of bright color to
+the greens of the grasses.  To the south, a large wooden building can be
+seen, around which numerous vividly colored tents have been pitched.  No
+doors or windows are visible in the wooded structure from this distance, so
+it could be surmised that they must be set into another of its walls.  The
+flat open grassland stretches to both the east and west, while to the north a
+dark forest looms.  
+~
+0 0 2
+D1
+~
+~
+0 0 4053
+D3
+~
+~
+0 0 4051
+S
+#4053
+Upon a Grassy Plain~
+High over the plain a single hawk can just be seen hunting for its next
+meal in the long grasses.  Looking closely at the earth you can see signs
+that rabbits or some other burrow dwelling creature's must dwell here by the
+number of holes in the earth.  Now and then in the woods to the north the
+glint of some forest-dwelling creatures eye can be seen, or is it just a
+trick of the light?  To the south numerous tents have been pitched forming a
+sort of village or town going by the numbers, while to the east and west the
+open plains stretch away.  
+~
+0 0 2
+D1
+~
+~
+0 0 4054
+D2
+~
+~
+0 0 4066
+D3
+~
+~
+0 0 4052
+S
+#4054
+Trampled Grasses~
+The grasses here seem to have been trampled by many horses or some other
+hoofed creatures, going by the tracks left in the earth.  To the south many
+tents have been pitched, mixed in with these a few large shed like wooden
+buildings can be seen.  Far off to the south a stone building set on a
+slight rise of land can be seen, but at this distance the details can not be
+made out.  To the north an ancient wood grows while to both the east and
+west more open fields stretch out.  
+~
+0 0 2
+D1
+~
+~
+0 0 4055
+D2
+~
+~
+0 0 4065
+D3
+~
+~
+0 0 4053
+S
+#4055
+Close To A Large Tent~
+To the south a tent at least twice the size of most of the others you can
+see has been pitched, bright colored flags and banners decorate it
+fluttering in the slightest breeze.  To the north a forest grows densely
+while the grass lands stretch out to both the east and west seeming without
+end.  Every now and then a burst of movement may be seen from the grasses
+that grow all around hinting at the lives of the creatures that must dwell
+there.  
+~
+0 0 2
+D1
+~
+~
+0 0 4056
+D2
+~
+~
+0 0 4064
+D3
+~
+~
+0 0 4054
+S
+#4056
+Upon A Large Plain~
+Long grass flows like waves to even the smallest breeze all around you. 
+Bird song can be heard coming from the forest that stands tall and proud to
+the north.  While to the south a multitude of gay colored tents have been
+pitched.  It seems to both the east and south the plains stretch out to a
+pattern set by nature long ago.  
+~
+0 0 2
+D1
+~
+~
+0 0 4057
+D2
+~
+~
+0 0 4063
+D3
+~
+~
+0 0 4055
+S
+#4057
+Upon A Large Plain~
+Tall grasses grow all around, flattened here and there by some kind of
+large hoofed creature, judging by the tracks.  The songs of birds can be
+heard coming from the forest that stands to the north.  To the south, a
+village or town of tents sit upon the plain, smoke rising from them in an
+obvious show that someone must be living there.  The grassy plain extends to
+the east and south following its own course.  
+~
+0 0 2
+D1
+~
+~
+0 0 4058
+D2
+~
+~
+0 0 4062
+D3
+~
+~
+0 0 4056
+S
+#4058
+A Grassy Knoll~
+A rounded grassy hillock rises from the plains, its surface is dotted
+with red and blue wild flowers.  To the south, a large white wooden building
+can be seen, around which many tents have been pitched.  To the north, an
+old forest full of trees that are gnarled and twisted with age is clearly
+visible while to the east and west the plains seem to stretch away.  
+~
+0 0 2
+D1
+~
+~
+0 0 4059
+D3
+~
+~
+0 0 4057
+S
+#4059
+At The Forest's Edge~
+To both the north and east a great forest blocks movement, ancient trees
+stretch there limbs up towards the heavens while upon the forest floor
+brambles and briar grow densely.  To the south and west, grass covered
+plains stretch away rolling out into the distance.  To the south-west
+numerous tents and pavilions have been pitched.  Mixed in with these is the
+odd wooden building can be seen, one of which is only a short distance off. 
+All around you, the sounds of insects and other small creatures reach up to
+your ears.  
+~
+0 4 2
+D2
+~
+~
+0 0 4060
+D3
+~
+~
+0 0 4058
+S
+#4060
+Upon A Plain~
+Wild flowers dot the grass land here adding a pleasant splash of color to
+the greens of the grasses.  To the east an ancient wood grows tall and
+proud, the trees packed closely together.  West a multitude of brightly
+colored tents have been set up, smoke cant be seen curling gently from some
+of them upwards to the sky.  To the south the grass land stretches onwards
+with out break or change.  Close to the west, a large wooden building blocks
+movement that way.  
+~
+0 0 2
+D0
+~
+~
+0 0 4059
+D2
+~
+~
+0 0 4077
+S
+#4061
+Inside Kire's Clothing~
+Bolts of different cloths and fabric line the walls, most dyed
+interesting, bright colors.  A large loom stands against the north-most
+wall, the fabric upon it as yet finished, but from what can be seen of it,
+it should be very attractive when complete.  A wooden counter takes up part
+of the eastern wall of the shed-like building and a long table stands close
+to the western wall upon which a partly made suit of leather armor rests,
+waiting for the rest of it to be cut out.  A large wooden door set in to the
+southern wall seems to be the only exit unless there's another hiding behind
+a pile of fabric.  
+~
+0 12 0
+D2
+~
+~
+1 0 4076
+S
+#4062
+Trampled Grasses~
+The grass here has been trampled by many hooves, some of the prints are
+small while others are quite big.  A large patch of lavender grow here
+totally untouched by hoof or seeming by hand, bees and butterflies flit from
+stem to stem going about their business.  A short distance to the east, a
+fair sized wooden shed like building can be seen while to both the south and
+west large tents have been pitched.  Northwards, an open plain can be seen
+and beyond this a ancient forest grows.  
+~
+0 4 2
+D0
+~
+~
+0 0 4057
+D2
+~
+~
+0 0 4075
+D3
+~
+~
+0 0 4063
+S
+#4063
+At A Red And Blue Tent~
+The ground here has been trampled to bare earth in places by the passage
+of numerous unshod hooves.  Close to the bright red and blue tent that's
+pitched here a small area of ground has been fenced off using string and
+stakes, the earth inside has been carefully turned and broken.  Off to the
+east is a large wooden building, shed like in structure, can be seen while
+to the west a very large tent has been place, somewhat apart from the
+others.  To the south more tents and a large stone building can also be
+seen.  
+~
+0 4 2
+E
+earth~
+The ground inside has been turned and broken with great care, planted
+here there look to be someones carrots and sweet potatos.  They dont look
+quite ready for eating yet but should be soon.  
+~
+E
+turned~
+The ground inside has been turned and broken with great care, planted
+here there look to be someones carrots and sweet potatos.  They dont look
+quite ready for eating yet but should be soon.  
+~
+D0
+~
+~
+0 0 4056
+D1
+~
+~
+0 0 4062
+D2
+~
+~
+0 0 4074
+D3
+~
+~
+0 0 4064
+S
+#4064
+Before A Very Large Tent~
+A huge tent is pitched here with a great deal of space left around it. 
+At a distance of about two or three meters from the tent the earth is
+totally bare from the passage of numerous unshod hooves.  Banners and flags
+can be seen, decorating the tent and fluttering in the slightest breeze
+there colors bright and gay.  To the south a large stone building can be
+seen, the only stone building that appears to be on this plain.  North an
+ancient forest looms tall and dark against the sky while more tents seem to
+have been pitched east and west.  
+~
+0 4 2
+D0
+~
+~
+0 0 4138
+D1
+~
+~
+0 0 4063
+D2
+~
+~
+0 0 4073
+D3
+~
+~
+0 0 4065
+S
+#4065
+Before A Light Grey Tent~
+A large grey tent has been pitched here its entrance faces a massive tent
+to the east.  A single banner hangs down from the side of the light-colored
+structure, gently fluttering in any wind.  To the north open grass land
+stretches out and past that a dark forest can be seen, to the south and west
+more brightly colored tents have been pitched.  The ground here is worn down
+to bare earth in places by the passage of many hooves.  
+~
+0 4 2
+E
+banner~
+Skillfully painted upon the banner is a design showing a lance or spear
+rising from a pool of yellow flames.  The lance has a red haft.  
+~
+D0
+~
+~
+0 0 4122
+D1
+~
+~
+0 0 4064
+D2
+~
+~
+0 0 4072
+D3
+~
+~
+0 0 4066
+S
+#4066
+An Earthen Court~
+The earth here has been carefully marked out.  A large rectangle of bare
+earth has been divided down the center via a length of rope that is held
+into the air by two tall wooden stakes.  Each of the small rectangles has in
+turn been marked into smaller areas by grooves being dug in the earth. 
+Around this bare earthen court the grass is somewhat worn and trampled.  To
+the north an open plain can be seen and past this a dense wood.  To the
+south and east numerous tents have been pitched, giving the impression of a
+village or maybe a town.  To the west a large wooden building stands looking
+a little out of place with all the tents around here.  
+~
+0 0 2
+D0
+~
+~
+0 0 4053
+D1
+~
+~
+0 0 4065
+D2
+~
+~
+0 0 4071
+S
+#4067
+Laine's Hunting Goods~
+A forge stands against the eastern wall of this building.  Although it's
+cold at this time, the wear upon it seems to indicate that it has in the
+past seem much use.  Locked racking holds numerous different kinds of
+weapons, manly spears.  Boxes, crates and chests cover most of the floor but
+clear and well ordered paths seem to have been left for a large creature to
+move about with ease.  A long wooden counter stretching from the east wall
+to the west prevents easy movement to the back of the shop as it faces the
+door set into the southern wall.  
+~
+0 8 0
+D2
+~
+~
+1 0 4070
+S
+#4068
+Upon A Grassy Plain~
+Long grasses stretch away to the north and south, rippling like waves in
+the winds.  To the west an ancient forest looms tall above the grasses while
+to the east a large wooden building stands proud, although no doors can be
+seen from here.  Past this, numerous tents have been pitched.  The sounds of
+animal life reaches up to your ears from the long grasses and the dense
+woods.  
+~
+0 4 2
+D0
+~
+~
+0 0 4051
+D2
+~
+~
+0 0 4069
+S
+#4069
+Upon A Grassy Plain~
+Ripping grass stretches away to the south and north of this open plain,
+here and there the earth shows signs of the passage of some large hoofed
+creature.  The songs of birds can be heard from the forest to the west,
+almost making merry music between them.  To the northeast, a shed like
+wooden building has been constructed the large wooden door facing out. 
+Directly east a multitude of tents have been pitched forming a small town.  
+~
+0 0 2
+D0
+~
+~
+0 0 4068
+D1
+~
+~
+0 0 4070
+D2
+~
+~
+0 0 4086
+D3
+~
+~
+0 0 4176
+S
+#4070
+Before A Large Wooden Building~
+To the north a large wooden door has been set into the wooden walls of a
+large shed like building.  Above the door a sign has been set swinging free
+in the air.  The earth here has been walked down to mud in places by what
+looks to be many hoofed feet.  To both the south and east large tents can be
+clearly seen upon the plain, while to the west a clear area of grass land
+stands open past this a forest grows.  
+~
+0 0 2
+E
+sign~
+The sign has "Laines Hunting Goods" writen upon it in a well defined
+scriped.  
+~
+D0
+~
+~
+1 0 4067
+D1
+~
+~
+0 0 4071
+D2
+~
+~
+0 0 4085
+D3
+~
+~
+0 0 4069
+S
+#4071
+Before A Scarlet Tent~
+A bright scarlet tent has been pitched close to a blackberry bush that
+grows here, its runners seem to be heavy with fruit.  The earth has been
+walked down to dirt in places as if by the passage of many hoofed feet.  To
+the northwest, a large wooden building stands while to the southeast a stone
+building reaches up towards the sky.  All around tents have been set up
+forming a village or small town, above these to both the north and west a
+large forest grows.  
+~
+0 0 2
+D0
+~
+~
+0 0 4124
+D1
+~
+~
+0 0 4072
+D2
+~
+~
+0 0 4084
+D3
+~
+~
+0 0 4070
+S
+#4072
+The Tilting Grounds~
+A wooden divide runs from west to east here forming a very long run. 
+Either side of the divides the ground has been run to bare earth, compacted
+like rock, by countless hooves.  Some distance from the tilt ropes have been
+placed on wooden stakes to create a safe place for spectators to watch from.
+To the south east a large stone building stands, while to the north east a
+tent far larger than the others has been pitched.  All around here, other
+tents have been pitched.  
+~
+0 0 2
+D0
+~
+~
+0 0 4065
+D1
+~
+~
+0 0 4073
+D2
+~
+~
+0 0 4083
+D3
+~
+~
+0 0 4071
+S
+#4073
+North Of The Temple~
+To the south a large arched doorway has been set into an ornately carved
+stone building, something about the construction seems to infer that it is
+sacred to someone.  The carvings seem to depict horses, humans and centaurs
+all living happily.  To the north a path of polished stones has been laid
+running towards a very large tent, it stops some distance from it though it
+obviously leads there.  East and west of you grass covered plains stretch
+out hemmed in by woodlands.  
+~
+0 0 2
+D0
+~
+~
+0 0 4064
+D1
+~
+~
+0 0 4074
+D2
+~
+~
+0 0 4082
+D3
+~
+~
+0 0 4072
+S
+#4074
+A Large Wheel-Shaped Stone~
+A large stone shaped like a wheel sits here, dark stains upon its
+surface.  The grass around this stone does not seem to have been touched or
+walked upon in some time.  The tents pitched closest to this area seem to
+have tried to keep some distance from it still.  The tent to the south seems
+to almost be hiding in the lee of the stone building that stands there.  Far
+to the north, east and west a forest can be seen over the tops of more
+brightly colored tents.  
+~
+0 0 2
+E
+stone~
+This stone must have been carried some distance as it does not appear
+like any you have seen close to here.  It has been carved with skill so that
+it looks to be perfectly round and its top and bottom flat.  Cut deeply into
+the stone, from the center, a groove about one inch in depth runs to the
+outer edge.  The grey of the stone has become stained a dark redish brown in
+places, and the goove seems to have even more of this stain in it.  You get
+the impression that this may have been either used for blood sacrifice or
+executions.  
+~
+E
+stains~
+These stains upon the wheel shaped stone look a lot like dried blood,
+going by the redish brown color.  
+~
+D0
+~
+~
+0 0 4063
+D1
+~
+~
+0 0 4075
+D2
+~
+~
+0 0 4081
+D3
+~
+~
+0 0 4073
+S
+#4075
+At a Green Woodland Tent~
+A tent the same colors as the forest has been pitched here with great
+skill.  The ground has become slightly worn as if by the passage of many
+hoofed feet, going by the marks left behind.  To the northeast a building
+made of wood stands while to the southwest another building, this time made
+of stone, is present.  To all other directions more tents can be seen, over
+the tops of these a dense forest is clearly visible.  
+~
+0 0 2
+D0
+~
+~
+0 0 4125
+D1
+~
+~
+0 0 4076
+D2
+~
+~
+0 0 4080
+D3
+~
+~
+0 0 4074
+S
+#4076
+Outside Kire's Clothing~
+To the north a large wooden building stands upon the grassy plain.  A
+sign over the door proclaims the building to be Kire's Clothing.  To the
+east an open plain can be seen while to the west and south brightly colored
+tents have been pitched.  The grass is trampled here and the earth is
+spotted by hoof prints.  High over head a small dot must be some kind of
+bird.  
+~
+0 0 2
+D0
+~
+~
+1 0 4061
+D1
+~
+~
+0 0 4077
+D2
+~
+~
+0 0 4079
+D3
+~
+~
+0 0 4075
+S
+#4077
+Upon A Plain~
+Wild flowers grow happily mixed in with the tall grasses all around. 
+Here and there some of the grass has been flattened by some large creature. 
+To the east a dense looking forest stands, the tree stretching there arms up
+towards the heavens.  To the south, north and west the plain continues, west
+wards many tents have been set up for forming a village or town.  
+~
+0 0 2
+D0
+~
+~
+0 0 4060
+D2
+~
+~
+0 0 4078
+D3
+~
+~
+0 0 4076
+S
+#4078
+Upon A Plain~
+The long grasses move like waves in the slightest breeze.  Every now and
+then, a squeaking sound can be heard coming from all around, most likely
+caused by numerous mice.  Westward, a multitude of brightly colored tents
+have been pitched, forming a village or small town by the look of it.  To
+both the north and south, open plains stretch away, while to the east a dark
+forest looms tall and ancient.  
+~
+0 0 2
+D0
+~
+~
+0 0 4077
+D2
+~
+~
+0 0 4095
+D3
+~
+~
+0 0 4079
+S
+#4079
+At An Indigo Tent~
+A round indigo color tent has been placed here with great care, quite
+close to a large wooden building that stand to the south.  Wild flowers grow
+close to the tent, presumably why the tent has been place just where it has.
+To the east an open plain stretches out and over this a old looking woodland
+can be seen.  To both the north and west the plain seems dotted with many
+gay colored tents.  
+~
+0 0 2
+D0
+~
+~
+0 0 4129
+D1
+~
+~
+0 0 4078
+D3
+~
+~
+0 0 4080
+S
+#4080
+Open Plain~
+All around tents have been pitched, the grass here has become worn as if
+by the passage of many hoofed feet.  Some small way off to the southeast, a
+shed-like, wooden building stands.  To the southwest, a large stone building
+has been built long ago.  Far to the east an ancient forest grows proud over
+the grassy plain.  
+~
+0 0 2
+D0
+~
+~
+0 0 4075
+D1
+~
+~
+0 0 4079
+D2
+~
+~
+0 0 4093
+D3
+~
+~
+0 0 4081
+S
+#4081
+In The Shelter Of A Temple~
+Placed in the cover of a large temple like building, a lemon tent
+resides.  Passage to both the west and south is blocked by the strong
+looking stone walls of the building.  East and northwards, more tents have
+been placed and over the tops of these a few wooden building and a large
+looking forest can be seen.  A small pennant on the top of the lemon tent
+hangs limply out of the wind.  The stone building has been carved with much
+care and great skill, the carving show centaurs humans and horse living in
+harmony.  
+~
+0 0 2
+D0
+~
+~
+0 0 4128
+D1
+~
+~
+0 0 4080
+S
+#4082
+A Vaulted Entrance~
+Great arches have been carved into the stone walls of this hall.  To the
+north an open archway leads to a tent dotted plain, while to the south a
+large chamber stands open.  Skillful carvings line the walls to the east and
+west, each seems to have been done with great care and love.  Strangely the
+outside of the temple seems larger that it looks to be from the inside.  The
+whole of this place seems strangely calm and relaxing, almost as if
+something is watching over it.  
+~
+0 8 0
+D0
+~
+~
+0 0 4073
+D2
+~
+~
+0 0 4091
+S
+#4083
+A Sky-blue Tent Close to a Temple~
+Both south and east, high stone walls seem to make part of a temple,
+blocking movement in those directions.  Carved into the walls are images
+that look like centaurs, horses and humans living in bliss.  Set at the base
+of the wall, a sky blue tent has been placed seemingly so that it is out of
+the wind.  To the north and west numerous other tents stand upon the grass
+lands.  
+~
+0 0 2
+D0
+~
+~
+0 0 4127
+D3
+~
+~
+0 0 4084
+S
+#4084
+A Fire Pit~
+A large area of grass has been cleared in the plain, well away from the
+tents, the ground is blackened by fire.  Off to one side, the equipment
+needed to set up some spits has been left, stacked in a tidy manner.  To the
+southeast a large temple like building made of stone stands upon the plain,
+while to the southwest a wooden shed like structure has been constructed. 
+All around, brightly colored tents have been placed, dotting the landscape. 
+At a distance off to the west a forest, the trees old and gnarled grows as
+it seems to have always done.  
+~
+0 0 2
+D0
+~
+~
+0 0 4071
+D1
+~
+~
+0 0 4083
+D2
+~
+~
+0 0 4089
+D3
+~
+~
+0 0 4085
+S
+#4085
+Outside a Royal Purple Tent~
+Pitched close to a large wooden building, a royal purple tent stands upon
+the grassy plain.  From a small hole or vent in the top of it, smoke can be
+seen curling up to the sky above.  The wooden shed like building has no
+entrance visible on its clearly-visible northern wall.  Off to the west over
+more grassland, a forest seeming as old as time stands tall and proud, great
+trees stretch there limbs up sky wards.  More tents can be seen pitched to
+the east, north and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 4126
+D1
+~
+~
+0 0 4084
+D3
+~
+~
+0 0 4086
+S
+#4086
+Upon A Plain~
+A small stream curls its way from the ancient woodland that stands tall
+and proud to the west heading southwards.  Long grasses move like waves in
+the gentlest of any breeze and the sounds of small animals can be heard
+living out there lives from the dark depths of the grass.  To the east what
+appears to be a village or small town composed from numerous tents can be
+seen, while slightly to the southwest a large wooden building stands.  The
+plains continue with out a clear end to the north and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 4069
+D1
+~
+~
+0 0 4085
+D2
+~
+~
+0 0 4087
+S
+#4087
+Upon A Plain~
+Tall grasses almost hide a gentle stream that curls its way through here
+running from the north to the south.  To the west a dark forest grows, now
+and then the movement of some small animal can be seen deep within its
+depths.  To the east a large wooden structure stands, no entrance can be
+seen from here.  The plains seem to continue without change to the north and
+south.  
+~
+0 0 2
+D0
+~
+~
+0 0 4086
+D2
+~
+~
+0 0 4104
+S
+#4088
+Inside Paer's Instruments~
+A polished wooden counter faces the doorway set into the eastern wall. 
+Wind chimes hang from the roof, constructed from bone, brass and crystal
+each supplying a merry tune when the wind blows through the window set above
+the door.  Placed with great care, stringed instruments of all types have
+been placed in cases.  A rug woven from grasses and dyed a bright red color
+hides most of the packed earth floor.  
+~
+0 8 0
+D1
+~
+~
+1 0 4089
+S
+#4089
+Outside Paer's Instruments~
+A door is set into the wooden building to the west, over this a sign
+proclaiming it to be Paer's Instruments hangs.  Over this door a small
+window is open, a tinkling sound can be heard from it.  To the east a large
+arched entrance way, to what seems to be an ornately curved temple can
+clearly be seen.  The carvings upon the temple depicted horses, humans and
+centaurs living together happily.  To the north and south brightly colored
+tents have been pitched upon the plain.  
+~
+0 0 2
+D0
+~
+~
+0 0 4084
+D1
+~
+~
+0 0 4090
+D2
+~
+~
+0 0 4102
+D3
+~
+~
+1 0 4088
+S
+#4090
+A Vaulted Entrance~
+Great carved arches line the walls upon which skillfully wrought images
+of humans, horses and centaurs have been crafted.  To the west a large arch
+leads out to the open grass land, while to the east a large chamber can be
+seen.  A calming almost relaxing atmosphere fills this hall almost as if
+some unseen power watches over it.  You can't be quite sure but it is almost
+as if this hall is strangely small.  
+~
+0 8 0
+D1
+~
+~
+0 0 4091
+D3
+~
+~
+0 0 4089
+S
+#4091
+A Sacred Chamber~
+Four statues of two of horses and two of humans stand facing each other
+in the center of this room.  Set into each of the cardinal walls is a large
+arched hallway.  The roof seems almost lost high above, painted upon this is
+a scene showing humans and horse living in harmony.  A sense of great peace
+fills the air here, a calm that goes straight to the mind, not really
+registering on any of the senses.  In the space in between the four statues
+a large stone has been set, carved smooth.  
+~
+0 8 0
+E
+stone~
+This flat stone seems to be a door of some kind, faint scratches upon the
+floor shows how it has been moved.  
+~
+D0
+~
+~
+0 0 4082
+D1
+~
+~
+0 0 4092
+D2
+~
+~
+0 0 4100
+D3
+~
+~
+0 0 4090
+D5
+~
+~
+7 0 4152
+S
+#4092
+A Vaulted Entrance~
+Great and skillfully carved arches line this hall.  Cut into the stone
+are images of centaurs, humans and horses have been created in aspects of
+happiness.  Eastwards, the hall leads to the outside world, while to the
+west it seems to open out into a large chamber.  The air seems very restful,
+almost as if some unseen force is watching over you and protecting you.  
+~
+0 8 0
+D1
+~
+~
+0 0 4093
+D3
+~
+~
+0 0 4091
+S
+#4093
+Out Side Paga's Foods~
+The ground here has been trampled down to bare earth in places,
+especially leading to the door of a wooden building set off to the east.  To
+the west a large carved stone building stands upon the plain, an arched
+entrance to it can be clearly seen.  Both north wards and south wards the
+grassy plain stretches away, brightly colored tents dot it here and there. 
+Over the tops of the tents an ancient looking forest can been seen.  
+~
+0 0 2
+D0
+~
+~
+0 0 4080
+D1
+~
+~
+1 0 4094
+D2
+~
+~
+0 0 4098
+D3
+~
+~
+0 0 4092
+S
+#4094
+Inside Paga's Foods~
+Pies, pastries, and other tasty-looking food stuffs have been placed on
+the dark wooden counter that faces the door set into the western wall. 
+Beyond the counter, to the east, are two great ovens.  Baking trays, pots,
+and various pans have been left leaning against the stoves.  The smells of
+the food mingle together pleasantly, enough to make any hungry creature
+salivate.  
+~
+0 8 0
+D3
+~
+~
+1 0 4093
+S
+#4095
+Upon A Plain~
+Wild grasses grow all around.  The sounds of small creatures living out
+there lives reaches up to your ears from the dark depths of plain.  Here and
+there a dash of color is given by a wild flower.  To the east a dark forest
+seeming as old as time stands, now and then the movement of some creature
+deep within its depths can be seen.  To both the north and south the grass
+lands continues seeming without break.  West of here a large wooden building
+stands, but no entrance is visible from here.  Past this wooden building
+countless brightly colored tents can be seen.  
+~
+0 0 2
+D0
+~
+~
+0 0 4078
+D2
+~
+~
+0 0 4096
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 4062 spec_cast_mage Load to: a centaur mage
+M 4063 spec_cast_cleric Load to: a pious centaur
+M 4075 spec_cast_mage Load to: a mighty guardian spirit
+S
+
+
+
+#RESETS
+D 0 4115 3 0
+D 0 4116 1 0
+D 0 4120 3 0
+D 0 4121 1 0
+D 0 4138 0 0
+D 0 4139 2 0
+D 0 4139 3 0
+D 0 4140 1 0
+D 0 4140 2 0
+D 0 4141 0 0
+D 0 4152 4 0
+D 0 4156 2 0
+D 0 4161 0 0
+D 0 4175 3 0
+D 0 4180 0 0
+D 0 4182 2 0
+D 0 4061 2 0
+D 0 4067 2 0
+D 0 4070 0 0
+D 0 4076 0 0
+D 0 4088 1 0
+D 0 4089 3 0
+D 0 4091 5 0
+D 0 4093 1 0
+D 0 4094 3 0
+M 0 4059 10 4096
+E 0 4107 0 16
+E 0 4062 0 5
+O 0 4083 0 4097
+M 0 4055 10 4097
+M 0 4060 8 4097
+E 0 4108 0 16
+M 0 4059 10 4098
+E 0 4107 0 16
+E 0 4062 0 5
+O 0 4081 0 4099
+M 0 4054 15 4099
+O 0 4082 0 4101
+M 0 4053 20 4101
+M 0 4052 20 4102
+M 0 4057 10 4102
+E 0 4106 0 16
+O 0 4080 0 4103
+M 0 4057 10 4103
+E 0 4106 0 16
+M 0 4051 30 4105
+M 0 4053 20 4106
+M 0 4055 10 4106
+E 0 4105 0 6
+M 0 4059 10 4106
+E 0 4107 0 16
+E 0 4062 0 5
+O 0 4085 0 4107
+M 0 4051 30 4107
+M 0 4064 4 4107
+E 0 4110 0 16
+M 0 4052 20 4108
+M 0 4053 20 4108
+M 0 4051 30 4109
+M 0 4055 10 4109
+E 0 4105 0 6
+M 0 4060 8 4109
+E 0 4108 0 16
+E 0 4063 0 14
+M 0 4053 20 4110
+M 0 4062 3 4110
+E 0 4056 0 16
+O 0 4084 0 4111
+M 0 4051 30 4111
+M 0 4064 4 4111
+E 0 4110 0 16
+M 0 4053 20 4112
+M 0 4051 30 4113
+M 0 4072 1 4115
+G 0 4102 0
+G 0 4103 0
+G 0 4104 0
+G 0 4094 0
+M 0 4059 10 4115
+E 0 4107 0 16
+E 0 4062 0 5
+O 0 4088 0 4117
+M 0 4054 15 4117
+G 0 4104 0
+M 0 4057 10 4118
+E 0 4106 0 16
+O 0 4087 0 4119
+M 0 4054 15 4120
+G 0 4099 0
+M 0 4071 1 4121
+G 0 4097 0
+G 0 4098 0
+G 0 4099 0
+G 0 4100 0
+G 0 4101 0
+M 0 4060 8 4122
+E 0 4108 0 16
+E 0 4063 0 14
+M 0 4060 8 4122
+E 0 4108 0 16
+E 0 4063 0 14
+O 0 4059 0 4123
+O 0 4060 0 4123
+M 0 4054 15 4123
+M 0 4058 10 4123
+O 0 4072 0 4124
+O 0 4073 0 4125
+M 0 4058 10 4125
+M 0 4057 10 4126
+E 0 4106 0 16
+M 0 4059 10 4129
+E 0 4107 0 16
+E 0 4062 0 5
+M 0 4058 10 4130
+E 0 4061 0 5
+E 0 4052 0 16
+M 0 4058 10 4131
+M 0 4058 10 4132
+E 0 4052 0 16
+M 0 4058 10 4133
+M 0 4058 10 4134
+M 0 4058 10 4135
+E 0 4052 0 16
+G 0 4089 0
+M 0 4058 10 4136
+M 0 4057 10 4137
+E 0 4106 0 16
+M 0 4058 10 4137
+G 0 4100 0
+M 0 4062 3 4138
+E 0 4056 0 16
+M 0 4063 2 4139
+G 0 4104 0
+G 0 4090 0
+M 0 4065 1 4140
+E 0 4111 0 16
+E 0 4112 0 12
+G 0 4090 0
+M 0 4066 1 4140
+E 0 4113 0 16
+E 0 4097 0 24
+M 0 4051 30 4143
+M 0 4055 10 4143
+M 0 4053 20 4144
+M 0 4051 30 4145
+M 0 4053 20 4146
+M 0 4051 30 4147
+M 0 4053 20 4148
+M 0 4059 10 4148
+E 0 4107 0 16
+G 0 4089 0
+M 0 4051 30 4149
+M 0 4059 10 4149
+E 0 4062 0 5
+E 0 4107 0 16
+M 0 4053 20 4150
+M 0 4051 30 4151
+M 0 4055 10 4151
+E 0 4105 0 6
+G 0 4099 0
+M 0 4074 5 4154
+M 0 4074 5 4157
+M 0 4074 5 4158
+O 0 4114 0 4158
+P 0 4115 0 4114
+M 0 4074 5 4159
+M 0 4074 5 4160
+O 0 4116 0 4161
+P 0 4117 0 4116
+P 0 4118 0 4116
+M 0 4075 1 4161
+M 0 4073 1 4164
+M 0 4073 1 4165
+M 0 4073 1 4166
+M 0 4073 1 4167
+M 0 4073 1 4169
+M 0 4073 2 4170
+M 0 4073 1 4171
+M 0 4073 1 4172
+O 0 4070 0 4174
+P 0 4071 0 4070
+M 0 4076 5 4176
+M 0 4076 5 4177
+M 0 4076 5 4180
+M 0 4076 5 4181
+O 0 4070 0 4181
+P 0 4071 0 4070
+M 0 4076 5 4183
+M 0 4051 30 4051
+M 0 4052 20 4052
+M 0 4051 30 4053
+M 0 4055 10 4053
+M 0 4051 30 4055
+M 0 4053 20 4055
+M 0 4051 30 4057
+M 0 4052 20 4058
+M 0 4051 30 4059
+M 0 4068 1 4061
+G 0 4061 0
+G 0 4062 0
+G 0 4063 0
+G 0 4064 0
+G 0 4065 0
+G 0 4066 0
+G 0 4067 0
+G 0 4068 0
+M 0 4052 20 4062
+M 0 4052 20 4062
+M 0 4055 10 4062
+O 0 4058 0 4063
+M 0 4057 10 4063
+E 0 4106 0 16
+M 0 4060 8 4064
+E 0 4108 0 16
+E 0 4063 0 14
+O 0 4086 0 4064
+O 0 4057 0 4065
+M 0 4054 15 4066
+M 0 4067 1 4067
+G 0 4051 0
+G 0 4052 0
+G 0 4053 0
+G 0 4054 0
+G 0 4055 0
+G 0 4056 0
+M 0 4062 3 4067
+E 0 4056 0 16
+M 0 4052 20 4068
+M 0 4052 20 4068
+M 0 4051 30 4069
+M 0 4060 8 4069
+E 0 4108 0 16
+E 0 4063 0 14
+O 0 4069 0 4071
+M 0 4051 30 4071
+O 0 4070 0 4071
+P 0 4071 0 4070
+M 0 4052 20 4072
+M 0 4057 10 4072
+E 0 4106 0 16
+M 0 4051 30 4073
+M 0 4054 15 4074
+O 0 4074 0 4075
+M 0 4051 30 4075
+M 0 4060 8 4075
+E 0 4108 0 16
+M 0 4051 30 4077
+M 0 4052 20 4078
+M 0 4059 10 4078
+E 0 4062 0 5
+E 0 4107 0 16
+O 0 4079 0 4079
+M 0 4064 4 4080
+E 0 4110 0 16
+O 0 4077 0 4081
+M 0 4053 20 4081
+M 0 4052 20 4082
+O 0 4076 0 4083
+M 0 4064 4 4084
+E 0 4110 0 16
+O 0 4075 0 4085
+M 0 4055 10 4085
+E 0 4105 0 6
+M 0 4051 30 4087
+M 0 4069 1 4088
+G 0 4089 0
+G 0 4090 0
+G 0 4091 0
+G 0 4092 0
+M 0 4051 30 4089
+M 0 4052 20 4089
+M 0 4054 15 4089
+M 0 4063 2 4091
+G 0 4098 0
+M 0 4051 30 4093
+M 0 4070 1 4094
+G 0 4093 0
+G 0 4094 0
+G 0 4095 0
+G 0 4096 0
+M 0 4051 30 4095
+M 0 4057 10 4095
+E 0 4106 0 16
+S
+
+
+
+#SHOPS
+4067 5 9 0 0 0 120 80 6 20
+4068 9 11 15 0 0 130 60 6 20
+4069 3 4 1 0 0 150 80 6 20
+4070 19 0 0 0 0 120 80 10 22
+4071 8 0 0 0 0 130 60 6 20
+4072 19 17 0 0 0 150 50 12 4
+0
+
+
+
+#$

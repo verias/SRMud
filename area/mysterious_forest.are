@@ -1,0 +1,1753 @@
+#AREADATA
+Name {15 99} Akira   *Mysterious Forest~
+Builders Akira~
+VNUMs 15300 15400
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#15300
+sprite myst~
+a myst sprite~
+A myst sprite meditates in the mysts, should you need any help.
+~
+A green sprite of translucent form floats here, eyes closed in deep meditation.
+She has chosen to stay in this small enclosure of myst to teach any followers
+of Akira, should they have any need.
+~
+unique~
+A DFTU 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 ABCDEFGHIJKLMNOPQRS D CN
+(null) (null) either 450
+ACGHMV ABCDEFGHIJKMQUV small unknown
+#15301
+myst sprite~
+a myst sprite~
+A myst sprite floats here with arms extended.
+~
+She floats in a cylinder of light, with swirls of myst at her feet. She is here
+to offer a healing hand to those of Akira's followers that should need it.
+~
+unique~
+A DFHTU 0 0
+101 0 13d1446+3994 101d10+100 6d11+30 none
+-45 -45 -45 -40
+0 0 D CN
+(null) (null) either 454
+AHMV ABCDEFGHIJK small unknown
+#15302
+myst sprite bartender~
+a myst sprite bartender~
+A cute myst sprite acts as a bartender here.
+~
+She is exceedingly beautiful, that which you can see of course.  She has
+a tendency to blend in the the myst background, keeping her stunning green
+eyes and long golden hair hidden from view most of the time.  She has a
+small white apron tied around her back to keep her clothes clean while she
+dispenses drinks.  
+~
+unique~
+A HOTUV 0 0
+101 100 13d1446+3994 101d10+100 6d11+30 none
+-45 -45 -45 -40
+C 0 CDN C
+(null) (null) either 454
+AHMV ABCDEFGHIJK small unknown
+#15303
+demon shadow~
+a shadow demon~
+A shadow demon is here.
+~
+...
+~
+human~
+A BQ 0 0
+30 0 10d60+520 30d10+100 3d6+8 none
+-1 -1 -1 0
+0 0 0 0
+(null) (null) male 135
+AHMV ABCDEFGHIJK medium unknown
+#15360
+*123~
+the nameless myst sprite~
+A nameless myst sprite floats here, tending to Kaneko's abode.
+~
+She is a slender women of exceeding beauty, which is common of her race. 
+She is a myst sprite, a being from the Myst Realm.  Slightly translucent,
+her skin is a slightly pale and calm green, matching her small emerald eyes.
+She tends to unspoken duties around Kaneko's home, a sparkle of magic is
+seen as she moves about.  She is nameless, keeping her name a great secret,
+in order to keep others from gaining power over her.  
+~
+unique~
+A TU 0 0
+1 0 1d2+8 1d10+100 1d1+0 none
+9 9 9 9
+0 0 D CN
+(null) (null) either 4
+AHMV ABCDEFGHIJK medium unknown
+#15398
+ccc chaos minion~
+a chaos minion~
+A chaos minion is here under orders, spreading destruction.
+~
+Clothed in a black cloak, he unpassionately moves about under orders from
+his leader, who must be somewhere in the area.  
+~
+unique~
+A HJOTUVZa 0 0
+108 0 1d1+30000 100d10+100 8d15+40 charge
+-70 -70 -70 -70
+0 J DFLM KS
+(null) (null) female 486
+ACGHIMVXZc ABCDEFGHIJKLOPUVW medium unknown
+#15399
+mysterious black cat mist~
+a mysterious black cat~
+A mysterious black cat watches you silently.
+~
+A mysterious black cat watches you silently.  Its fur is sleek and fine,
+black like the darkest shadows.  Faint wisps of fog surround its feet and
+circle its slowly moving tail.  Its slitted feline eyes slowly trace the
+room and watch the people around it.  
+~
+cat~
+A DFHJOTVZ 0 0
+110 0 1d1+29999 100d10+100 20d20+50 slap
+-100 -100 -100 -100
+AFGHKU ABCDFL ACDFLMP 0
+(null) (null) either 495
+ACGHIKLMVXZc ABCDEFGHIJKLOPQUVW small unknown
+#0
+
+
+
+#OBJECTS
+#15300
+myst portal divine~
+a divine myst portal~
+A myst portal of divinity has been created here.~
+unknown~
+portal 0 0
+AB 0 A AEFIKMNO 0
+0 0 0 P
+#15301
+cloak myst~
+a cloak of myst~
+A cloak of myst lies here.~
+unknown~
+armor P AZ
+ADE ADE ADE CE 0
+42 0 210 P
+A
+1 3
+#15302
+stream water~
+a quiet stream~
+A quiet stream flows through the garden.~
+unknown~
+fountain 0 0
+-1 -1 'water' 0 0
+0 1 0 P
+#15303
+myst essence~
+the essence of pure myst~
+This seems to be the pure essence of myst itself.~
+unknown~
+potion A AB
+100 'pass door' 'frenzy' 'bless' 'reserved'
+23 0 690 P
+#15304
+mysterious tree~
+a mysterious tree~
+A mysterious tree bears different fruits for you to take.~
+unknown~
+container 0 0
+1000 0 0 0 0
+0 500 0 P
+#15305
+apricot~
+an apricot~
+An apricot has fallen from a tree here.~
+unknown~
+food 0 AO
+DF 0 0 0 0
+15 10 30 P
+#15306
+sceptre evil~
+the sceptre of evil~
+The sceptre of evil glows here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+30 10 300 P
+#15308
+myst portal~
+a myst portal~
+A portal in the mysts leads back to the rest of the world.~
+unknown~
+portal 0 0
+0 0 0 BCDGHIJLMN 0
+0 0 0 P
+#15309
+myst portal~
+a myst portal~
+A myst portal floats here, beckoning to you.~
+unknown~
+portal 0 A
+A 0 0 BCFKLMN 0
+0 0 0 P
+#15310
+myst glass wine~
+a glass of myst wine~
+A glass of fine myst wine sits here.~
+unknown~
+drink 0 A
+1 1 'red wine' 0 0
+0 1 1 P
+#15311
+myst brew~
+a mug of myst brew~
+A mug of myst brew sits here.~
+unknown~
+drink 0 A
+1 1 'dark ale' 0 0
+0 1 1 P
+#15312
+myst twist glass~
+a small glass of "myst twist"~
+A small glass of "myst twist" is here.~
+unknown~
+drink 0 A
+1 1 'local specialty' 0 0
+0 1 1 P
+#15313
+cup myst tea~
+a cup of myst tea~
+A cup of myst tea sits here.~
+unknown~
+drink 0 A
+1 1 'champagne' 0 0
+0 1 1 P
+#15314
+goblet fire myst~
+a goblet of fire myst~
+A goblet of fire myst sits here.~
+unknown~
+drink A A
+1 1 'firebreather' 0 0
+0 0 1 P
+#15320
+queue cleaning~
+a cleaning queue~
+A queue for cleaning glasses is here to take your dishes when you are done.~
+unknown~
+container 0 0
+10000 0 0 0 0
+0 3000 0 P
+#15321
+green myst key~
+a green myst key~
+This key is made of green mysts.~
+unknown~
+key SW AM
+0 0 0 0 0
+0 0 0 P
+#15330
+bard anklet~
+a bard's anklet~
+A bard's anklet lies on the ground, discarded here.~
+unknown~
+protect 0 AU
+BCD BCD BCD AB 0
+90 0 0 P
+A
+3 3
+A
+13 50
+A
+2 1
+#15331
+crisp myst lemonade~
+a crisp myst~
+This crisp myst smells faintly of lemon.~
+unknown~
+drink 0 A
+1 1 'lemonade' 0 0
+0 0 1 P
+#15333
+hardened droplets myst~
+hardened droplets of myst~
+These droplets of myst have been hardened somehow to become a sweet treat.~
+unknown~
+food R A
+CE 0 0 0 0
+0 0 1 P
+#15350
+red book dragon lore~
+a red book of dragon lore~
+A red book lies on the ground here.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 10 1 P
+E
+page6~
+Ralogue the Enchanter
+   In the very early days, there was a human enchanter by the
+name of Ralogue. He was a man of great power, but even greater
+knowledge and wisdom. He befriended dragons, and learned of their
+history and powers. He found them so beautiful, we wanted to
+become a dragon himself.
+   Normally, this would be nothing more than a foolish wish, but
+Ralogue had collected entire libraries, filled with information on
+dragon lore, almost rivaling the libraries of the circle. Legends
+hold that he found a way to become a dragon through items of great
+power and several magical rituals. Such a feat has never occurred
+since, as never has one so infatuated with dragons been in such
+as position to find such power and such knowledge.
+~
+E
+page5~
+The Master's Pet
+   This is more of a rumor within the circle than a myth or
+legend, but it is still worth being recorded. The elders speculate
+based on little tidbits they have collected over the years, that
+Master once kept with him an ice dragon. The Master supposably
+made an ice cave in the Realm for the blue dragon to reside in.
+   The dragon itself was extremely intelligent, possibly even
+one of the circle. It was also very adapt at magic, being capable
+of casting great spells, to the equal of the Elders of old. This
+combined with its natural ability to form ice crystals and spout
+a breath of frost made it a force to be reckoned with.
+   Supposedly, the Ancients even began to fear its power. Not
+only was it part of the circle, but it also lived outside of their
+reach, and had the protection of the Master. However, as the world
+began to heat up, and turn towards warmer temperatures, the dragon
+would venture back less and less often, opting instead to stay in
+the ice cave in the other Realm. Rumor has it, it still resides
+there today, and our Master goes to visit to speak of times past.
+~
+E
+page4~
+The Nature Dragon Qonla
+   Legend tells that Fury, the young Goddess of Nature, had a dragon
+she kept as a pet. Inside her gardens, she and her dragon, Qonla,
+would spend days watching the flowers blossom, the sun rise and set,
+and staring at the stars at night.
+   The Ancients however, were jealous of Fury, thinking that only
+they should have a dragon as a pet. This posed some problems of course.
+Dragons don't take too well to being forcibly tied down, Fury wasn't
+about to let them take her pet, and Qonla didn't want to be taken.
+   The Ancients tried to forcibly take Qonla, but something happened.
+Rumor within the circle holds that Master intervened and took Qonla
+into his Realm for safety. He then predicted that Fury would join
+Qonla thousands of years in the future. None of this has been
+confirmed, but Qonla supposedly left Fury in one way or another.
+~
+E
+page3~
+The Legend of Yzzera the Warrior
+   Yzzera the warrior, was a human of great skill. He had, in his
+lifetime gained the respect of all those under the control of the
+Ancients. As the Ancients did not concern themselves with the needs
+of their slaves, the people of the lands turned to Yzzera when
+a beast terrorized the villages or preyed on the weaker peoples.
+   One day in the late 14th century of the Great Creator, a group
+of humans who had tended sheep in the valleys asked for Yzzera's
+assistance. A great red fire dragon had flown over the valley
+several times in recent days, and they were worried for their
+safety, and the safety of their flock.
+   Yzzera sought out the dragon, and challenged it to a
+fight. The fight lasted 3 days, and at the end, both were exhausted.
+Yzerra could not defeat the dragon, but the dragon could not defeat
+Yzerra. Both were impressed by the other's powers and skill, and
+they became great friends.
+   Yzerra stopped his deeds, and disappeared with the dragon. There
+were however, stories of Yzerra being seen, flying over the skies
+on the back of a red dragon, scotching the horizon with flames.
+~
+E
+page2~
+Preface
+   It should be known that all contained in this particular volume
+has not been confirmed, nor most likely will any of it ever be so.
+There are several established facts about dragons, including a full
+history of their origin, their purpose, and of their interactions
+with other races. For these materials, please reference the other
+volumes of Dragon Lore.
+   This volume contains Myths and Legends, nothing more. Most likely
+some of these are no more than stories. However, as time has shown
+us, some stories are all too real. Our Master has failed to comment
+on the contents of this volume, and will not tell us whether any
+of them hold a shard of truth. This may be because they are nothing
+but gibberish, this may be because they are true and he wishes us to
+be protected from such knowledge.
+~
+E
+book~
+It is a faded old red book, the cover reads "Dragon Lore".
+~
+E
+page1 cover title~
+Dragon Lore, Volume IV
+ History of Humans: Rumors, Myths and Legends
+ 
+Compiled Year 2363 of the Great Creator
+ by Master Thomas, White Librarian of the Mysts
+~
+#15351
+blue book~
+a blue book~
+A blue book is here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+E
+book~
+In Ancient times, magic was much more prevalent and powerful.  Despite
+the tyrannical rule of the Ancients, those rogue mages, enchanters and
+others who branched off and hid found great powers in different places,
+divination, elements, spirits, and others.  One of the greatest sources of
+power they had, and one reason why magic of this day pales in comparison is
+because magic uses of old often relied upon relics, or objects of great
+power.  This gave them great abilities to perform great magics that are only
+spoke of in legends.  
+~
+#15352
+parchment notes~
+a parchment with some old notes scribbled on it~
+Some notes are scribbled on a piece of parchment here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 1 1 P
+E
+notes parchment~
+Lailyx's transformation research notes:
+Month of the Shadows, 505 AW
+ 
+Required: ancient dragon rod, Spirit of the Dragon
+ 
+Find an appropriate setting with standard magic runes inscribed, or
+failing such a setting, create the runes with standard materials.
+Dragon aspirer should stand in the center of the runes, at the focal
+point of the energy.  No others should stand within the runes lest
+the energies become unfocused and harm come to those in the room.
+ 
+Invoker should stand at the bottom of the runes, with the Spirit
+of the dragon standing at the top, opposite the Invoker. Others
+may be present, and should be divided equally around the runes.
+Aspirer should face the Invoker at all times.
+ 
+Invoker should focus his/her energies into the held rod, and strike
+the bottom of the rod three times against the bottom of the runes.
+The runes should flare to life, do not proceed if such is not
+observed.
+ 
+Spirit of the Dragon should ritually question the Aspirer, asking
+if they are prepared and wanting. Aspirer must consent, while still
+facing Invoker. At which point, Invoker should speak the following
+ 
+"Kami-sama, kono hito wa Duragon ni naritai desu."
+"Sorede, ima Duragon ni shiteimasu!"
+ 
+Following these words, Invoker should brandish the rod, and
+transformation should commence.
+ 
+Failing this, consult the original texts to search for error.
+ 
+---
+Compiled by Lailyx
+References used:
+Dragon Lore Volumes I, II, and VI
+Arcane Magics and Runes
+Historical Objects: Truths and Myths
+ 
+Thanks to the Wanderers for allowing this research.
+~
+#15353
+green book invoker lore~
+a green book of invoker lore~
+A green book lies neatly on the ground.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 1 P
+E
+green book invoker lore~
+It is a faded green book. The cover reads "Invoker Lore".
+~
+E
+page1 cover~
+Foretold Prophecy: Volume VII
+ Invoker Lore and their Return
+ 
+Compiled year 507 after the War of the Ancients
+ by Master Lailyx, Holy Dragon, Seer and Dreamer
+~
+E
+page2~
+Preface
+     This volume contains a brief history of the invokers, of
+who they were, and about how they disappeared. It also contains my
+foretelling of their return.
+     I did not plan to write this down, but as it seems I have
+also foreseen my unfortunate exile from this realm, I have little
+choice. I wish to say when my sister reads this, I wish her my love,
+even if she can not recognize me, and give her my best wishes for her
+blessed children.
+ 
+Lailyx the Seer
+    507 AW
+~
+E
+page3~
+The Invokers
+     The invokers were a community of sages, dating back to the 23rd Century
+of the Great Creator. They were known to be wise and knowledgeable in
+many arcane areas.
+     Of a more detailed note, an invoker was able to control the elements
+and could draw from their power. Using different callers to draw upon these
+elements would lead to a desired effect. The invokers were a powerful
+group, and few dared to approach them.
+     It was standard for the invoker arts to remain exclusively in the family.
+An invoker usually learned his arts from his parents and siblings, and from
+others in their community.
+~
+E
+page4~
+Their Whereabouts
+     While documentation holds that invokers were alive and practicing as
+early as year 2312 of the Great Creator, they obviously are not as apparent
+or perhaps even existing today.
+     The last known records come from before the Great War, and indications
+suggest that the invokers were killed in the war, and their art was lost.
+~
+E
+page5~
+The Prophecy
+     However, though the invokers have been lost, I have foreseen that there
+are those who can train and regain the lost art. There are, unfortunately,
+many requirements to be met.
+     They must have predestined control over the elements. Usually this can be
+found as a birthmark, or as a sign that appears on their body over time. There
+have been several recorded incidents of such individuals, however, having this
+predestined control is meaningless without proper instruction.
+     As no invoker exists to train, no new invokers can come into being.
+However, those of my brethren have powers to learn from the sources. If one
+of my brethren could find a predestined one, they could teach, and the invoker
+art could be returned.
+~
+E
+page6~
+Seer Family Tree
+ 
+I have listed my family tree here, in hopes that the invokers could be brought
+back and my sis
+>>>>>>>>>>>>>>>>>
+But the rest of the page has been burned away.
+~
+#15360
+birthmark symbols of the elements patch skin~
+symbols of the elements~
+A strange patch of skin bearing a birthmark with strange symbols is here.~
+unknown~
+armor GHIMSUV AS
+BD BD BD AB 0
+60 1 100 P
+A
+4 3
+A
+3 3
+#15361
+tiny sword~
+a tiny sword~
+This sword is too tiny for a human to wield.~
+unknown~
+weapon 0 AN
+sword 12 16 crunch G
+100 1 500 P
+#15362
+tiny ring~
+a tiny ring of metal~
+This ring looks too small to be worn on a human's pinky.~
+unknown~
+protect G AB
+CDE CDE CDE BC 0
+100 0 300 P
+#15377
+green blanket~
+a soft green blanket~
+A soft green blanket lies on the ground, shimmering slightly.~
+unknown~
+treasure 0 AK
+0 0 0 0 0
+0 0 1 P
+#15379
+fae-sized polearm~
+a fae-sized polearm~
+This fae-sized polearm is made of a long straight stick and a sharpened rock.~
+unknown~
+weapon 0 AN
+whip 12 16 slice 0
+100 1 400 P
+A
+18 5
+A
+19 5
+#15380
+elemental saber fire~
+an elemental saber of fire~
+An elemental saber of fire is here.~
+unknown~
+weapon A AN
+sword 11 13 lunge A
+75 0 195 P
+A
+18 2
+A
+19 5
+#15382
+brass knuckles chunk~
+spikey brass knuckles~
+A small chunk of brass can be seen on the ground, riddled with holes.~
+unknown~
+weapon 0 AN
+exotic 19 4 crunch D
+45 1 1000 P
+A
+19 2
+A
+1 2
+#15384
+brass knuckles metal~
+brass knuckles~
+A lump of brassy metal full of holes.~
+unknown~
+weapon 0 AN
+exotic 5 8 claw 0
+20 1 300 P
+A
+19 2
+A
+18 1
+#15385
+dragon rod mace~
+a dragon rod~
+A rod topped with a metal sculpture of a dragon is here.~
+unknown~
+weapon G AN
+staff 5 6 claw 0
+15 2 300 P
+E
+dragon rod~
+It is a fine, yet ancient rod, whose body is made up of smooth marble. 
+Upon it's grey background, intricate black carvings of dragons in flight
+spiral up its cylindrical face.  A gold cap protects the bottom of the rod
+from breaking should it be struck against the ground.  A stone statue of a
+dragon, wings extended, is mounted on the top of the rod, with two tiny
+emeralds marking its eyes.  The rod itself has a powerful, yet mysterious
+aura, and at times you think you notice the dragon carvings slowly animated
+in flight.  
+~
+#15387
+magic staff~
+a magic staff~
+(no description)~
+unknown~
+weapon GHIMRSU AN
+staff 15 14 slap C
+95 3 475 P
+E
+!history!~
+This powerful staff is said to have been formed from abstract matter, and
+to be wielded by a powerful seer.  
+~
+#15388
+elemental ring ice~
+an elemental ring of ice~
+An elemental ring of ice.~
+unknown~
+protect 0 AB
+BCD BCD BCD AB 0
+30 0 0 P
+A
+13 50
+A
+2 1
+#15389
+water ring~
+unused~
+A ring of water lies here.~
+unknown~
+protect 0 AB
+CDE CDE CDE BC 0
+100 0 0 P
+A
+18 5
+#15390
+elemental saber lightning~
+unused~
+An elemental saber of lightning lies here.~
+unknown~
+weapon A AN
+sword 23 3 lunge H
+36 0 180 P
+A
+2 1
+#15391
+musical note~
+a musical note~
+A musical note lies on the ground, with a small pin in one side.~
+unknown~
+protect S AQ
+BD BD BD BD 0
+8 1 0 P
+A
+3 1
+A
+4 1
+A
+13 50
+A
+12 50
+#15392
+mysterious green silk pouch~
+a mysterious green pouch of silk~
+.~
+unknown~
+container GRS AL
+10000 ABCD 15321 0 0
+65 1 0 P
+#15393
+myst ring~
+a ghostly ring of myst~
+A ghostly ring of myst floats through the air.~
+unknown~
+protect IS AB
+CDE CDE CDE CDE 0
+100 1 0 P
+A
+13 100
+A
+17 -20
+A
+19 5
+A
+4 1
+#15394
+jade dagger~
+a jade dagger~
+A small dagger made of jade glimmers on the ground.~
+unknown~
+weapon GIS AN
+bow 19 4 crunch D
+45 1 225 P
+E
+jade dagger~
+A beautifully crafted dagger with an ivory hilt and a jade blade.  While
+simple in design, the jade blade is finely sharp, with swirling designs
+inheirant from its jade structure.  The ivory hilt is shaped to conform to a
+female hand.  Carved into the side of the hilt is the name 'Keldar'.  
+~
+#15395
+worn traveller clothes~
+well worn traveller's clothes~
+Some well worn traveller's clothes blend into the ground.~
+unknown~
+armor 0 AD
+ADE ADE ADE BC 0
+99 3 495 P
+#15396
+hat simple travel~
+a simple traveller's hat~
+A simple traveller's hat lies in the dust.~
+unknown~
+armor 0 AE
+CDE CDE CDE BC 0
+99 2 495 P
+#15397
+backpack pack~
+a well worn backpack~
+Keldar's backpack lies on the ground here.~
+unknown~
+container 0 AK
+99999 0 0 0 0
+0 0 0 P
+#15398
+star sword~
+the star sword~
+Thrust into the ground, the star sword glows softly.~
+unknown~
+weapon AGIMSU ANP
+sword 20 20 punch DF
+100 1 500 P
+A
+18 24
+A
+19 24
+E
+star sword~
+This magnificent sword is large enough that it requires two hands to
+handle, but is light enough that it can be used with deadly accuracy.  The
+blade itself is superbly crafted, made out of a glowing translucent material
+of unmatched toughness, and forged to an extreme sharpness.  The blade has
+several arcane symbols etched into the blade, which radiate with a soft
+inner light.  The hilt seems to be made of ivory, but has a hardness
+uncommonly seen, keeping it resistant to chips or scratches.  Embedded into
+the hilt are a few small jewels, centered around a sparkling star jewel.  
+ 
+Etched into the side of the hilt is the name 'Keldar'.
+~
+#15399
+star blade~
+the star blade~
+The star blade floats in the air here, glowing softly.~
+unknown~
+weapon AGIST AN
+sword 12 19 lunge D
+100 0 500 P
+E
+star blade~
+This thin blade is extremely sharp, yet quite light and flexible, making
+it extremely accurate.  The blade itself is superbly crafted, made out of a
+glowing translucent material of unmatched toughness, forged to an extreme
+sharpness.  The blade has several arcane symbols etched into the blade,
+which radiate with a soft inner light.  The hilt seems to be made of ivory,
+but has a hardness uncommonly seen, keeping it resistant to chips or
+scratches.  Embedded into the hilt are a few small gems, centered around a
+sparkling star jewel.  
+ 
+Etched into the side of the hilt is the name 'Keldar'.
+~
+#0
+
+
+
+#ROOMS
+#15300
+Misty Path~
+The forest has changed significantly from the atmosphere of the
+TrystenVeldt Forest.  The trees are less defined as the air is filled with a
+pale green mist that weaves slowly between the trees.  While there is no
+trace of light from the sky, the mist is lighted by some untraceable source.
+The path leads back into white mist leading back into the small clearing in
+the TrystenVeldt Forest.  
+~
+0 4 0
+D1
+The green mist moves along the path.
+~
+~
+~
+0 0 15301
+D3
+~
+~
+~
+0 0 15012
+M 0 H 0
+S
+#15301
+Misty Path~
+The pale green mist hides the faint path almost to imperceptibility.  The
+path winds between nebulous sets of trees, leading to some unknown final
+destination.  The mist flows along the trail, harboring a cool and obscure
+feeling.  The mysterious light that accompanies the green mist gives you the
+strange impression that you are being observed by intrigued eyes.  
+~
+0 0 0
+D1
+The green mist moves along the path.
+~
+~
+~
+0 0 15302
+D3
+The path lading to TrystenVeldt Forest is faintly outlined in the mist.
+~
+~
+~
+0 0 15300
+M 0 H 0
+S
+#15302
+Misty Path~
+The pale green mist hides the faint path almost to imperceptibility.  The
+path winds between nebulous sets of trees, leading to some unknown final
+destination.  The mist flows along the trail, harboring a cool and obscure
+feeling.  The mysterious light that accompanies the green mist gives you the
+strange impression that you are being observed by intrigued eyes.  
+~
+0 0 0
+D0
+The green mist moves along the path.
+~
+~
+~
+0 0 15303
+D3
+The path lading to TrystenVeldt Forest is faintly outlined in the mist.
+~
+~
+~
+0 0 15301
+M 0 H 0
+S
+#15303
+Misty Path~
+The pale green mist hides the faint path almost to imperceptibility.  The
+path winds between nebulous sets of trees, leading to some unknown final
+destination.  The mist flows along the trail, harboring a cool and obscure
+feeling.  The mysterious light that accompanies the green mist gives you the
+strange impression that you are being observed by intrigued eyes.  
+~
+0 0 0
+D1
+The green mist moves along the path.
+~
+~
+~
+0 0 15304
+D2
+The path lading to TrystenVeldt Forest is faintly outlined in the mist.
+~
+~
+~
+0 0 15302
+M 0 H 0
+S
+#15304
+Misty Path~
+The pale green mist hides the faint path almost to imperceptibility.  The
+path winds between nebulous sets of trees, leading to some unknown final
+destination.  The mist flows along the trail, harboring a cool and obscure
+feeling.  The mysterious light that accompanies the green mist gives you the
+strange impression that you are being observed by intrigued eyes.  
+~
+0 0 0
+D1
+The green mist moves along the path.
+~
+~
+~
+0 0 15305
+D3
+The path lading to TrystenVeldt Forest is faintly outlined in the mist.
+~
+~
+~
+0 0 15303
+M 0 H 0
+S
+#15305
+Misty Path~
+The faint path bends off to the south, but the green mist splits off in
+direction, also moving slowly to the north, off the path.  Although no path
+exists to the north, the trees are parted, channeling the mist between them.
+The mysterious light seems to emanate from deeper within the forest to the
+north, and while the forest does not seem threatening, there is a hint of
+caution in the air.  
+~
+0 0 0
+D0
+The mist flows deeper into the forest.
+~
+~
+~
+0 0 15306
+D2
+The green mist moves along the path.
+~
+~
+~
+0 0 15311
+D3
+The path lading to TrystenVeldt Forest is faintly outlined in the mist.
+~
+~
+~
+0 0 15304
+M 0 H 0
+S
+#15306
+Misty Forest~
+The green mist moves quickly now, racing through the trees with a
+purposeful destination calling it forward.  The mysterious light is growing
+slowly but steadily brighter as you move deeper into the forest.  The air
+seems less cold as before, though perhaps that might just be because your
+skin is starting to feel slightly numb.  The mists urge you on.  
+~
+0 0 0
+D0
+The mist flows deeper into the forest.
+~
+~
+~
+0 0 15307
+D2
+~
+~
+~
+0 0 15305
+M 0 H 0
+S
+#15307
+Misty Forest~
+The green mist moves quickly now, racing through the trees with a
+purposeful destination calling it forward.  The mysterious light is growing
+slowly but steadily brighter as you move deeper into the forest.  The air
+seems less cold as before, though perhaps that might just be because your
+skin is starting to feel slightly numb.  The mists urge you on.  
+~
+0 0 0
+D0
+The mist flows deeper into the forest.
+~
+~
+~
+0 0 15308
+D2
+~
+~
+~
+0 0 15306
+M 0 H 0
+S
+#15308
+Misty Forest~
+The green mist moves quickly now, racing through the trees with a
+purposeful destination calling it forward.  The mysterious light is growing
+slowly but steadily brighter as you move deeper into the forest.  The air
+seems less cold as before, though perhaps that might just be because your
+skin is starting to feel slightly numb.  The mists urge you on.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 15307
+D3
+The mist flows deeper into the forest.
+~
+~
+~
+0 0 15309
+M 0 H 0
+S
+#15309
+Misty Forest~
+The green mist moves quickly now, racing through the trees with a
+purposeful destination calling it forward.  The mysterious light is growing
+slowly but steadily brighter as you move deeper into the forest.  The air
+seems less cold as before, though perhaps that might just be because your
+skin is starting to feel slightly numb.  The mists urge you on.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 15308
+D3
+To the west the mist seems to be congregating in a circle.
+~
+~
+~
+0 0 15310
+M 0 H 0
+S
+#15310
+A Clearing in the Misty Forest~
+The green mists circulate around a small clearing in the middle of the
+forest.  The mists quickly stir around the clearing, hiding view of the
+surrounding trees.  Above the center of the clearing pulses a dull green
+light.  Under the light are marked upon the ground arcane markings,
+inscribed by some mystical means around a circle perfectly sized for one
+person to kneel in.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 15309
+M 0 H 0
+S
+#15311
+Misty Path~
+The pale green mist hides the faint path almost to imperceptibility.  The
+path winds between nebulous sets of trees, leading to some unknown final
+destination.  The mist flows along the trail, harboring a cool and obscure
+feeling.  The mysterious light that accompanies the green mist gives you the
+strange impression that you are being observed by intrigued eyes.  
+~
+0 0 0
+D0
+The path lading to TrystenVeldt Forest is faintly outlined in the mist.
+~
+~
+~
+0 0 15305
+D2
+The green mist moves along the path.
+~
+~
+~
+0 0 15312
+M 0 H 0
+S
+#15312
+Misty Path~
+The pale green mist hides the faint path almost to imperceptibility.  The
+path winds between nebulous sets of trees, leading to some unknown final
+destination.  The mist flows along the trail, harboring a cool and obscure
+feeling.  The mysterious light that accompanies the green mist gives you the
+strange impression that you are being observed by intrigued eyes.  
+~
+0 0 0
+D0
+The path lading to TrystenVeldt Forest is faintly outlined in the mist.
+~
+~
+~
+0 0 15311
+D1
+The green mist moves along the path.
+~
+~
+~
+0 0 15313
+M 0 H 0
+S
+#15313
+A Stone Arch~
+The green mists continue to flow to the east through a small stone arch. 
+Upon the arch are emblazoned several unrecognizable characters in a foreign
+lettering.  The symbols glow dully with a deep blue light that shines over
+the mists that pass underneath it.  An invisible but powerful aura radiates
+out from the archway.  The view through the archway is obscured by the now
+thickening mists.  
+~
+0 4 0
+D1
+The mist flows below the stone arch.
+~
+~
+~
+0 0 15314
+D3
+The path lading to TrystenVeldt Forest is faintly outlined in the mist.
+~
+~
+~
+0 0 15312
+M 0 H 0
+S
+#15314
+Entering the Deep Mysts~
+Through the archway, you find yourself lost in a deep myst.  There seems
+to be very little difference in the directions, and turning around, you soon
+find yourself lost.  Remembering that the mysts are there for your
+protection in this place, you close your eyes and rely on Akira to guide you
+through the pure myst.  You feel the flow of the myst pushing to what you
+believe to be the east, and you feel Akira orienting you so if you need you
+could return to the archway to the west.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 15315
+D3
+The stone arch is outlined in the mist.
+~
+~
+~
+0 0 15313
+M 0 H 0
+S
+#15315
+In the Deep Mysts~
+A deep and thick myst parts around your body, and the cool caress they
+offer brings you comfort for reasons that most would not be able to
+understand.  As you ponder this, small voices whisper from the mysts,
+"because he is protecting you."  The deep mysts flow slowly to the east,
+diffusing to the north and south at points into lighter, thinner strands. 
+Your eyes can not penetrate the deep mysts, but you reign in your curiosity,
+remembering the mysts are there for a reason.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 15319
+D1
+~
+~
+~
+0 0 15322
+D2
+~
+~
+~
+0 0 15316
+D3
+~
+~
+~
+0 0 15314
+M 0 H 0
+S
+#15316
+In the Light Mysts~
+The mysts are thinner here than before, with a lighter shade of green
+illuminating the area.  The mysts calmly flow around both to the north and
+south, laying out a particular path for you to follow, and discouraging you
+from traveling to the east or the west.  To the south, you see lighter
+shades of mysts hiding something from your view, while to the north you see
+the darker deep mysts flowing to the east.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 15315
+D2
+~
+~
+~
+0 0 15317
+M 0 H 0
+S
+#15317
+In the Light Mysts~
+The mysts are thinner here than before, with a lighter shade of green
+illuminating the area.  The mysts calmly flow around both to the north and
+south, laying out a particular path for you to follow, and discouraging you
+from traveling to the east or the west.  To the south, you see lighter
+shades of mysts hiding something from your view, while to the north you see
+the darker deep mysts flowing to the east.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 15316
+D2
+~
+~
+~
+0 0 15318
+M 0 H 0
+S
+#15318
+The Library~
+The mysts swirl about, enclosing about an area filled with books,
+scrolls, and other records.  Bookshelves line the inside of the circling
+mysts, filled with texts on every topic imaginable.  Some books radiate
+magical auras, while others are written in languages long dead and
+forgotten.  A lone desk in the center of the area is set out, with neatly
+scattered papers and books around the edge.  A glowing light illuminates the
+area, so that those who wish to do research can read the texts at ease.  
+~
+0 5242888 0
+D0
+~
+~
+~
+0 0 15317
+M 0 H 0
+S
+#15319
+In the Light Mysts~
+The mysts are thinner here than before, with a lighter shade of green
+illuminating the area.  The mysts calmly flow around both to the north and
+south, laying out a particular path for you to follow, and discouraging you
+from traveling to the east or the west.  To the north, you hear the faint
+mummer of flowing water, and see lighter shades of myst, while to the south
+you see the darker deep mysts flowing to the east.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 15320
+D2
+~
+~
+~
+0 0 15315
+M 0 H 0
+S
+#15320
+In the Light Mysts~
+The mysts are thinner here than before, with a lighter shade of green
+illuminating the area.  The mysts calmly flow around both to the north and
+south, laying out a particular path for you to follow, and discouraging you
+from traveling to the east or the west.  To the north, you hear the faint
+mummer of flowing water, and see lighter shades of myst, while to the south
+you see the darker deep mysts flowing to the east.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 15321
+D2
+~
+~
+~
+0 0 15319
+M 0 H 0
+S
+#15321
+The Garden~
+A colorful garden appears from out of the mysts.  Beautiful though the
+garden is, it seems slightly out of place along the green mysts.  The mysts
+slide between thriving trees and flow between their branches, giving the
+place an eerie beauty.  The peaceful sound of a flowing water fills your
+ears, and you notice a mysterious stream passing through the mysty garden,
+with colorful flowers and green grass growing along side of it.  
+~
+0 1048584 0
+D2
+~
+~
+~
+0 0 15320
+M 0 H 0
+S
+#15322
+In the Deep Mysts~
+A deep and thick myst parts around your body, and the cool caress they
+offer brings you comfort for reasons that most would not be able to
+understand.  As you ponder this, small voices whisper from the mysts,
+"because he is protecting you."  The deep mysts flow slowly to the east,
+diffusing to the north and south at points into lighter, thinner strands. 
+Your eyes can not penetrate the deep mysts, but you reign in your curiosity,
+remembering the mysts are there for a reason.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 15323
+D3
+~
+~
+~
+0 0 15315
+M 0 H 0
+S
+#15323
+In the Deep Mysts~
+A deep and thick myst parts around your body, and the cool caress they
+offer brings you comfort for reasons that most would not be able to
+understand.  As you ponder this, small voices whisper from the mysts,
+"because he is protecting you."  The deep mysts flow slowly to the east,
+diffusing to the north and south at points into lighter, thinner strands. 
+Your eyes can not penetrate the deep mysts, but you reign in your curiosity,
+remembering the mysts are there for a reason.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 15327
+D1
+~
+~
+~
+0 0 15340
+D2
+~
+~
+~
+0 0 15324
+D3
+~
+~
+~
+0 0 15322
+M 0 H 0
+S
+#15324
+In the Light Mysts~
+The mysts are thinner here than before, with a lighter shade of green
+illuminating the area.  The mysts calmly flow around both to the north and
+south, laying out a particular path for you to follow, and discouraging you
+from traveling to the east or the west.  To the south, you see lighter
+shades of mysts hiding something from your view, while to the north you see
+the darker deep mysts flowing to the east.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 15323
+D2
+~
+~
+~
+0 0 15325
+M 0 H 0
+S
+#15325
+In the Light Mysts~
+The mysts are thinner here than before, with a lighter shade of green
+illuminating the area.  The mysts calmly flow around both to the north and
+south, laying out a particular path for you to follow, and discouraging you
+from traveling to the east or the west.  To the south, you see lighter
+shades of mysts hiding something from your view, while to the north you see
+the darker deep mysts flowing to the east.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 15324
+D2
+~
+~
+~
+0 0 15326
+M 0 H 0
+S
+#15326
+The Meditation Mysts~
+Light green mysts slowly move around the area, causing no sound.  While
+the void of the familiar soft noise caused by the moving mysts is strikingly
+noticeable and unnatural, the absolute quiet leaves you alone with your
+thoughts to be able to contemplate the world, your duties, and the mysteries
+that the mysts hold.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 15325
+M 0 H 0
+S
+#15327
+In the Light Mysts~
+The mysts are thinner here than before, with a lighter shade of green
+illuminating the area.  The mysts calmly flow around both to the north and
+south, laying out a particular path for you to follow, and discouraging you
+from traveling to the east or the west.  To the north, you see lighter
+shades of mysts, and a small, cylindrical cone of light, while to the south
+you see the darker deep mysts flowing to the east.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 15328
+D2
+~
+~
+~
+0 0 15323
+M 0 H 0
+S
+#15328
+In the Light Mysts~
+The mysts are thinner here than before, with a lighter shade of green
+illuminating the area.  The mysts calmly flow around both to the north and
+south, laying out a particular path for you to follow, and discouraging you
+from traveling to the east or the west.  To the north, you see lighter
+shades of mysts, and a small, cylindrical cone of light, while to the south
+you see the darker deep mysts flowing to the east.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 15329
+D2
+~
+~
+~
+0 0 15327
+M 0 H 0
+S
+#15329
+The Warm Mysts~
+Green mysts swirl about, creating the comfortable illusion of an enclosed
+area.  The mysts are abnormally warm and swirl by, gently caressing your
+skin and lifting your spirits.  Small sparkles flow through the mysts,
+slowly swirling around you, slowly healing your wounds and replenishing your
+strength.  In the center of this area is a cylindrical cone of light, in
+which floats a myst sprite.  
+~
+0 34603016 0
+D2
+~
+~
+~
+0 0 15328
+M 0 H 0
+S
+#15340
+In the Deep Mysts~
+The deep mysts start to move at a more rapid pace, rushing quickly to
+the east, much like how the mists in the forests before were quickening to
+the green light.  The mysts urge you on forward, as if they wish to show you
+something or bring you to someone.  The voices are silent now, and the only
+sound you hear are the swirling mysts rushing by your ears, creating a soft
+roar of an arcane wind.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 15341
+D3
+~
+~
+~
+0 0 15323
+M 0 H 0
+S
+#15341
+In the Deep Mysts~
+The deep mysts start to move at a more rapid pace, rushing quickly to
+the east, much like how the mists in the forests before were quickening to
+the green light.  The mysts urge you on forward, as if they wish to show you
+something or bring you to someone.  The voices are silent now, and the only
+sound you hear are the swirling mysts rushing by your ears, creating a soft
+roar of an arcane wind.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 15342
+D3
+~
+~
+~
+0 0 15340
+M 0 H 0
+S
+#15342
+A Mysty Spiral~
+The deep mysts continue to move, at an ever-quickening pace.  The mysts
+circle about in front of you to form a spiraling slope, allowing you to
+ascend to where the mysts are congregating above.  A magical aura emanates
+from above, which you quickly identify as being fed by the mysts swirling up
+the in a spiral.  You are reluctant to go deeper into the mysts, and
+restrict yourself to climbing the spiral or heading west back to the deep
+mysts.  
+~
+0 1048584 0
+D3
+~
+~
+~
+0 0 15341
+D4
+~
+~
+~
+0 0 15343
+M 0 H 0
+S
+#15343
+Before a Myst-Formed Rune~
+Deep myst surrounds you on all sides.  The mysts spiral up from below,
+allowing a path down to the deep mysts, but more intriguing are the mysts
+swirling about a magical rune.  The rune is circular in design, with several
+ancient and arcane markings that you can't decipher.  Three orbs surround
+the rune, radiating great power while glowing quietly.  
+~
+0 1048584 0
+D5
+~
+~
+~
+0 0 15342
+M 0 H 0
+S
+#15344
+With the Master~
+You are in an enclosed area, with the mysts violently swirling about,
+preventing you from leaving the area.  Arcane runes line the floor, and
+mysterious lights surround you past the mysts.  A circle of swirling mysts
+outlines a powerful rune, which encases a shaft of pale green light,
+reserved for the Master's presence.  You feel a deep sense of awe, and are
+very conscious of being watched and judged, knowing that every motion you
+make and every word that passes your lips is being noted.  
+~
+0 1048588 0
+M 0 H 0
+S
+#15350
+Amidst Bookshelves~
+You find yourself in a room filled with books, scrolls, and other
+records.  Bookshelves line the inside of the circling mysts, filled with
+texts on every topic imaginable.  Some books radiate magical auras, while
+others are written in languages long dead and forgotten.  A lone desk in the
+center of the area is set out, with neatly scattered papers and books around
+the edge.  A glowing light illuminates the area, so that those who wish to
+do research can read the texts at ease.  
+ 
+~
+0 37748748 0
+M 0 H 0
+S
+#15360
+A Garden~
+A colorful garden appears from out of the mysts.  Beautiful though the
+garden is, it seems slightly out of place along the green mysts.  The mysts
+slide between thriving trees and flow between their branches, giving the
+place an eerie beauty.  The peaceful sound of a flowing water fills your
+ears, and you notice a mysterious stream passing through the mysty garden,
+with colorful flowers and green grass growing along side of it.  To the
+north, there is a structure that fades away into the mysts, but a door
+marked with icons of the elements stands on the pathway.  
+~
+0 37748744 0
+D0
+~
+~
+~
+1 0 15361
+M 0 H 0
+S
+#15361
+Deep Within the Mysts~
+Dark green myst flows everywhere around you.  Your sense of direction is
+ultimately lost in the flowing rivers of air.  Strange sounds and smells
+assault your senses, making you feel ill equipped to comprehend what you
+feel.  Every moment or so, a sharp flash momentarily blinds you, leaving a
+faint green aura around you as something nearby disappates into the mysts.  
+~
+0 34603016 0
+D2
+~
+~
+~
+1 0 15360
+M 0 H 0
+S
+#15397
+Inside Your Mind~
+In a dreary-dream like state, you find yourself inside your own mind.  
+~
+0 1056780 0
+M 0 H 0
+S
+#15398
+The Myst Bar~
+A strange myst softens the edges of all the furniture in the room. 
+Round, thick glass tables stand delicately on polished silver legs that
+curve and twist like vines growing up from somewhere below the layer of
+myst.  Standing off in the distance slightly is a long shimmering bar, made
+of the same thick glass the tables are crafted from.  There is a small space
+between two panes of glass barely big enough for use by the petite bar
+runner.  Different colored lights change the hue of the mysts in slow, even,
+calming patterns, making it impossible to see behind the bar.  Behind the
+amazing bar is a wall of bottles, each shining out with their own colors -
+deep amber...dark red...crystal clear.
+~
+0 1048588 0
+M 0 H 0
+S
+#15399
+The Epitome of Mystery~
+Mysterious isn't it?
+~
+0 1048588 0
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 15360 0 1
+D 0 15361 2 1
+O 0 15302 0 15321
+O 0 15304 0 15321
+P 0 15305 0 15304 10
+P 0 15305 0 15304 10
+P 0 15305 0 15304 10
+P 0 15305 0 15304 10
+P 0 15305 0 15304 10
+P 0 15305 0 15304 10
+O 0 15309 0 15326
+O 0 15309 0 15326
+O 0 15309 0 15326
+O 0 15309 0 15326
+O 0 15309 0 15326
+O 0 15309 0 15326
+O 0 15309 0 15326
+M 0 15300 1 15326 10
+M 0 15301 1 15329 10
+O 0 15304 0 15360
+P 0 15305 0 15304 10
+O 0 15302 0 15360
+M 0 15360 1 15360 10
+O 0 15394 0 15361
+O 0 15397 0 15397
+O 0 15396 0 15397
+O 0 15395 0 15397
+O 0 15320 0 15398
+O 0 15308 0 15398
+M 0 15302 1 15398 10
+G 0 15310 0
+G 0 15311 0
+G 0 15313 0
+G 0 15312 0
+G 0 15333 0
+G 0 15314 0
+G 0 15331 0
+S
+
+
+
+#SHOPS
+15302 17 0 0 0 0 100 100 0 24
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

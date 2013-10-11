@@ -1,0 +1,1769 @@
+#AREADATA
+Name {10 20} Splsong The Monolith~
+Builders None~
+VNUMs 20376 20425
+Security 1
+End
+
+
+
+#MOBILES
+#20376
+lacerti guard~
+a lacerti guard~
+A lacerti maintains a watchful eye over the monolith.
+~
+{GGreen{x scales cover the body of this half-lizard, half-man. Its sharp claws
+and pointy fangs create an appearance of sheer animosity. It hisses as it
+sees you and deftly moves to cut off your approach to the monolith.
+~
+unique~
+AB 0 -1000 S
+14 0 5d30+184 14d10+100 2d4+1 5
+4 4 4 6
+0 L L I
+9 9 0 63
+ACGHMVXc ABCDEFGHIJKLMPQUVX M unknown
+#20389
+demi lich skull mist~
+a demi-lich~
+An {Wivory{x skull surrounded by a hazy mist is here.
+~
+Mist plays around this skull in an almost hypnotic pattern. Suddenly, the
+eyes of the skull begin glow a deep, menacing {Rred{x. The mist begins to
+quickly swirl around the skull as it rises from the ground. As the mist
+swirls and coalesces, you notice a vague, humanoid form beginning to
+materialize. Before you stands a demi-lich!
+~
+Ghost~
+ABO TU -500 S
+20 0 6d39+294 20d10+100 3d5+4 18
+2 2 2 4
+FG Q AILM CN
+9 9 0 90
+CIKLM ABCDEFGHIJKLM M unknown
+#20393
+crocodile~
+a hungry crocodile~
+A hungry crocodile surfaces near you.
+~
+This large reptile is covered head to tail with large, {Ggreen{x scales. From its
+gaping maw, numerous pointy teeth can be seen protruding as various angles.
+It slowly begins to swim towards you.
+~
+unique~
+ABF Qb 0 S
+18 2 6d36+255 18d10+100 2d5+6 32
+3 3 3 5
+MO L L I
+9 9 0 81
+ACGHMVXc ABCDEFGHIJKLMPQUVX L unknown
+#20394
+alligator~
+a hungry alligator~
+A large alligator swims nearby.
+~
+This large alligator swims around the swamp looking for prey. By its sheer
+size and the number of sharp, pointy fangs within its mouth, it is obvious
+that you would not want it to bite you.
+~
+unique~
+ABF b 0 S
+14 0 5d30+184 14d10+100 2d4+1 32
+4 4 4 6
+MO L L I
+9 9 0 63
+ACGHMVXc ABCDEFGHIJKLMPQUVX L unknown
+#20400
+patrolling lacerti~
+a patrolling lacerti~
+A lacerti patrols through the swamp.
+~
+This bipedal, humanoid figure has the head and body of a lizard. Dark {Ggreen{x,
+large scales cover its well toned body. Its beady eyes and sharp fangs give
+it the appearance of being one with its swampy environment. It hisses as it
+sees you.
+~
+unique~
+A 0 -1000 S
+12 0 4d26+151 12d10+100 2d4+0 5
+5 5 5 7
+0 L L I
+9 9 3 54
+ACGHMVXc ABCDEFGHIJKLMPQUVX M unknown
+#20404
+lacerti~
+a lacerti~
+A lacerti lounges by the fire pit.
+~
+The bipedal, humanoid lizard is covered head to tail in large, {Ggreen{x scales.
+Rippling muscles and sharp claws give it the appearance of being quite
+attuned to the harsh swampy environment and quite deadly. It hisses as it
+sees you.
+~
+unique~
+A 0 -1000 S
+15 0 5d31+200 15d10+100 2d4+2 5
+4 4 4 6
+FR L L I
+9 9 0 67
+ACGHMVXc ABCDEFGHIJKLMPQUVX M unknown
+#20406
+shambling mound~
+a shambling mound~
+A shambling mound rises from the refuse!
+~
+A living pile of refuse, this shambling mound been a resident of the
+mound for many years.  Having enough intelligence to recognize the lacerti
+as its source of ample food, it has learned to leave them alone.  It is
+unfortunate that you are not a lacerti!  
+~
+Myconid~
+ABF c 0 S
+17 0 5d34+236 17d10+100 2d5+5 14
+3 3 3 5
+AO Q EHL HIKS
+9 9 0 76
+ABCDGHMc ABCDEFGHIJKMN H unknown
+#20407
+lacerti bodyguard~
+a lacerti bodyguard~
+A lacerti bodyguard hisses at your arrival.
+~
+This lacerti is far larger than any you have yet to see.  Powerful,
+rippling muscles abound underneath his scaled hide, and he looks as if he
+can rend you from limb to limb quite easily.  
+~
+unique~
+AB 0 -1000 S
+18 5 6d36+255 18d10+100 2d5+6 5
+3 3 3 5
+HLR L L I
+9 9 0 81
+ACGHMVXc ABCDEFGHIJKLMPQUVX M unknown
+#20408
+lacerti shaman~
+the lacerti shaman~
+A tattoo-covered lacerti is resting by a blood covered shrine.
+~
+This lacerti is covered from head to toe in tattoos.  From all
+appearances, although difficult to those of his race, he seems old and
+wizened.  Various tribal markings cover his hide, between his various
+tattoos.  He seems to be someone of major importance in the tribe.  
+~
+unique~
+ABN 0 -1000 S
+23 4 7d44+355 23d10+100 3d5+5 5
+1 1 1 3
+FHR L L I
+9 6 1 103
+ACGHMVXc ABCDEFGHIJKLMPQUVX M unknown
+#20409
+frozen crewman man~
+a frozen crewman~
+A seemingly frozen man begins to stir.
+~
+Almost statue like, this man seems frozen in place.  It is almost as if
+some magical spell has been cast on him to prevent him from moving.  As you
+watch, his chest begins to slowly move in a slow rhythm.  Then he blinks and
+begins to peer around the room, obviously quite confused.  Whatever caused
+his condition, your mere presence has stopped it.  
+~
+Human~
+A 0 1000 S
+18 0 6d36+255 18d10+100 2d5+6 13
+3 3 3 5
+CFR 0 0 0
+5 9 1 81
+AHMV ABCDEFGHIJK M unknown
+#20415
+mud man~
+a mud man~
+A humanoid form rises from the muck.
+~
+This creature is roughly the height of a large human with the same girth of
+a dwarf. It is made entirely of mud and looks quite angry at your intrusion.
+~
+Ghost~
+ABF TU -1000 S
+16 0 5d33+218 16d10+100 2d4+2 12
+3 3 3 6
+GR ER AD CHI
+9 9 0 72
+CIKLM ABCDEFGHIJKLM L unknown
+#20417
+coral snake~
+a coral snake~
+A small {Rred{x, {Yyellow{x, and black striped snake slithers nearby.
+~
+This small snake in a pattern of alternating pattern of {Rred{x, {Yyellow{x, and black
+stripes. Although harmless in appearance, you notice massive quantities of
+{Gvenom{x dripping from its small fangs.
+~
+Snake~
+A b 0 S
+12 0 4d26+151 12d10+100 2d4+0 10
+5 5 5 7
+0 0 L I
+9 9 0 54
+AGRXYc ADEFKLPQVX S unknown
+#20418
+banana spider~
+a banana spider~
+A {Yyellow{x and black spider hangs from a web.
+~
+This smooth black and {Yyellow{x spider it roughly the size of a human head. It
+has two long, pointy fangs that drip with a {Ggreen{x substance. It looks at
+you balefully through all eight of its eyes.
+~
+Centipede~
+A Zb 0 S
+10 0 3d23+120 10d10+100 2d3+2 10
+6 6 6 6
+H L FI E
+9 9 0 45
+ABGHOP ACFKVX S unknown
+#20421
+black panther~
+a black panther~
+A large, black panther quietly pads through the swamp.
+~
+Sleek muscles ripple underneath the smooth, black fur of this large feline.
+From the way it moves through the swamp without making a noise, it is
+apparent that this panther is a very skilled hunter. It looks at you through
+almond shaped eyes and lets out a deep, guttural growl.
+~
+Cat~
+AV Zb 200 S
+14 3 5d30+184 14d10+100 2d4+1 5
+4 4 4 6
+FH 0 0 0
+9 9 2 63
+AGV ACDEFHJKQUV M unknown
+#20424
+lonely hermit elf~
+a lonely hermit~
+A dirty, badly disfigured elf is busy harvesting mushrooms.
+~
+Cypress shavings and moss cover the disheveled clothing of this wizened elf.
+From all appearances and his stench, it is apparent that he has not bathed
+in a very long time. When he notices you, his eyes brighten and a smile
+creeps across his badly disfigured face.
+~
+unique~
+ABO HJV 1000 S
+20 0 6d39+294 20d10+100 3d5+4 13
+2 2 2 4
+FJ 0 B Z
+9 9 1 90
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#20376
+rag pine bed~
+a bed of rags and pine boughs~
+This bed of rags and pine boughs is here.~
+unknown~
+12 R 0 AEI
+0 0 0 0 0
+0 0 0 P
+0 0
+#20377
+map lemrox atelier~
+a map to Lemrox's Atelier~
+A parchment with scribbles on it lies here.~
+unknown~
+28 0 A 0
+0 0 0 0 0
+5 2 1000 P
+E
+map~
+~
+E
+lemrox~
+{WThank you for choosing {YGeoff's Explorations{W for your directional needs!  
+From Geoff's: Leave {Reast{W along {YDocker's Road{W.  Turn {Rsouth {Walong {YDocker's 
+Road {Wuntil you reach {YDiscordia Road{W.  Head due {Rwest{W from this intersection 
+past the farms of Discordia until you reach the foothills; the road will 
+begin to curve to the {Rnorth{W.  You will pass a road on the left leading to 
+the city of {YXian{W.  After treading {Rnorth{W through the foothills, you will find 
+yourself at the gate of {YLemrox's Atelier{W.  
+~
+0 0
+#20378
+map xian city~
+a map to the City of Xian~
+A parchment with scribbles on it lies here.~
+unknown~
+28 0 A 0
+0 0 0 0 0
+0 2 500 P
+E
+map~
+~
+0 0
+#20389
+cloak stars~
+the cloak of the stars~
+A black cloak is here. Small {Wwhite{x stars are stitched into its fabric.~
+unknown~
+9 AG AZ 0
+AB AB AB A 0
+20 1 100 P
+A
+13 5
+A
+2 1
+E
+!history!~
+You find a vague reference to an ancient and forgotten race that was said
+to travel the stars. You glean that this cloak was somehow tied in with the
+ability. No other information can be found.
+~
+L
+twinkling about~
+0 BCD
+#20390
+prism crystal icon~
+a crystal prism~
+Light, striking the crystal, splits into vibrant colours of the rainbow.~
+unknown~
+18 AT A 0
+0 0 0 0 0
+15 0 100 P
+0 0
+#20395
+totem pole~
+a totem pole~
+A totem pole with tribal markings juts from the ground.~
+unknown~
+8 0 A 0
+0 0 0 0 0
+1 60 10 P
+E
+markings~
+These tribal markings depict various gods of the lizard man race. Near the
+very top, a conical symbol is carved into its smooth, cypress face.
+~
+0 0
+#20397
+smelly fur~
+smelly furs~
+These furs smell of unwashed bodies and are ridden with louse.~
+unknown~
+12 R 0 AEIMQR
+0 0 0 0 0
+1 5 0 P
+0 0
+#20400
+human skull~
+a caved-in human {Wskull{x~
+A human {Wskull{x lies here with part of its right side caved in.~
+unknown~
+5 0 AN 0
+0 A AC 0 0
+1 2 5 P
+0 BCDE
+#20401
+rotting carcass~
+a rotting carcass~
+A rotting carcass of some unknown animal fills the air with a foul stench.~
+unknown~
+19 0 AO 0
+BC 0 0 A 0
+1 12 2 P
+0 CD
+#20402
+odd shaped bone~
+an oddly shaped {Wbone{x~
+This {Wbone{x is shaped much like a small knife or dagger.~
+unknown~
+5 GH AN 0
+B AC AC ABD 0
+13 3 65 P
+A
+17 1
+A
+18 2
+0 BC
+#20403
+bone key~
+a small {Wbone{x key~
+A key made of polished {Wbone{x is here.~
+unknown~
+18 0 AO 0
+0 0 0 0 0
+1 1 3 P
+0 0
+#20404
+bunk bed~
+a bunk bed~
+The bunk bed seems quite comfortable.~
+unknown~
+12 R 0 AEIPQR
+0 0 0 0 0
+0 0 0 P
+0 0
+#20405
+blast armor~
+a suit of blast armor~
+This full body suit seems wells designed to withstand extreme pressures.~
+unknown~
+9 B AD 0
+AB AB AB 0 0
+18 2 90 P
+A
+17 -1
+A
+13 10
+E
+!history!~
+You find a vague reference to an ancient race that was said to live in
+the sky.  It was said that these beings held great power and control over the
+elements.  It was also said that they wore magical suits of extremely
+powerful armor that fits the description of this item.  
+~
+0 0
+#20406
+refuse mound~
+a refuse mound~
+Foul smelling fluids and plant and animal matter populates this mound.~
+unknown~
+15 R 0 ADEMPQR
+CEFGHI 0 0 0 0
+1 1000 0 P
+0 0
+#20407
+rotten chest~
+a rotten chest~
+This rotten chest seems as if it will fall apart at your touch.~
+unknown~
+15 R 0 0
+ABCD AC 0 0 0
+0 10 0 P
+0 0
+#20408
+shelves shelf cypress~
+a cypress shelf~
+These shelves are made from cypress and have several clay containers on them.~
+unknown~
+15 R 0 0
+CFG 0 0 0 0
+1 0 0 P
+0 0
+#20409
+clay jar~
+a clay jar~
+A jar made of clay is here.~
+unknown~
+15 0 AO 0
+AC AC 0 0 0
+12 2 10 P
+0 BCD
+#20410
+alligator eyes~
+a set of alligator eyes~
+{RBloody{x alligator eyes are looking at you.~
+unknown~
+13 0 AR 0
+0 0 0 0 0
+5 1 5 P
+A
+18 1
+0 ABCDE
+#20411
+clay pot~
+a clay pot~
+A pot made of clay is here.~
+unknown~
+17 0 AO 0
+AC AC ACD A 0
+15 3 45 P
+0 BCD
+#20412
+clay vial~
+a clay vial~
+A clay vial is here, collecting dust.~
+unknown~
+10 G A 0
+18 0 0 0 0
+18 2 540 P
+0 0
+#20413
+bloody shrine~
+a {Rbloody{x shrine~
+This {Rbloody{x shrine is covered with congealed {Rblood{x. On closer examination it    appears as if it is actually oozing the {Rblood{x.~
+unknown~
+25 R 0 DHL
+0 0 ACD 0 0
+0 0 0 P
+0 0
+#20414
+shaman's feathers~
+the shaman's feathers~
+The ornate head piece is made of feathers from various swamp dwelling birds.~
+unknown~
+9 AG AE 0
+AB AB AB A 0
+23 4 115 P
+A
+4 1
+A
+17 -1
+L
+worn proudly~
+0 BCD
+#20415
+bench~
+a large bench~
+This large bench of more of the picnic variety, having a table surface on top.~
+unknown~
+12 R 0 AEMQR
+0 0 0 0 0
+0 0 0 P
+0 0
+#20416
+hatch~
+a hatch~
+It would be extremely wise not to even attempt to open this hatch. The result   of your doing so would cause thousands of tons of mud to fill this chamber,     most likely crushing you to death.~
+unknown~
+30 R 0 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#20419
+cypress trunk hole~
+a hole~
+This hole is barely large enough for you to enter.~
+unknown~
+29 R 0 0
+0 0 0 20424 0
+0 0 0 P
+0 0
+#20421
+cypress knee~
+a cypress knee~
+An ancient cypress knee juts from the murky swamp water.~
+unknown~
+12 R 0 AEM
+0 0 0 0 0
+1 400 0 P
+0 0
+#20423
+purple mushroom~
+a {Mpurple{x mushroom~
+A small, {Mpurple{x mushroom rises from the ground.~
+unknown~
+26 0 AO 0
+20 0 0 0 0
+12 1 360 P
+0 0
+#20424
+cypress sword~
+a cypress sword~
+A wooden sword carved from a cypress tree is here.~
+unknown~
+5 GI AN 0
+A AC D AB 0
+20 9 100 P
+A
+19 1
+0 BCD
+#20425
+datrap~
+a trap~
+A carefully concealed trap is here.~
+unknown~
+30 R 0 0
+E H BD AC 0
+20 0 0 P
+E
+!trap!~
+You hear the faint snap of a taught wire.
+A spear flies out of the darkness!
+~
+0 0
+#0
+
+
+
+#ROOMS
+#20376
+The Stone Monolith~
+Reflecting through the tops of the cypress trees, a large shape can
+barely be seen through the twisted branches.  The mud beneath the murky
+waters pulls and strains to hold your feet captive in its slimy embrace.  As
+you slowly make your approach, you see a large conical monolith jutting out
+from the swamp.  Even beneath the shadowy umbrella of the cypress trees, its
+black, glassy surface reflects enough light to make it difficult to look at
+directly.  It seems as if the swamp has shied away from this intruder,
+creating a small, dry clearing in a three meter diameter around its base. 
+The swamp surrounds the clearing, except for a path to the east, and a
+narrow trail to the west.  
+~
+0 4 12
+E
+monolith~
+Light reflects of the surface of this shiny, black monolith. On closer
+examination, you notice that one small area of the monolith is not reflecting
+light at all. As you peer at this spot, you notice extremely faint lines
+running along its perimeter. The lines form a hexagonal shape and appear to
+be some sort of hidden hatch to the north.
+~
+D0
+The monolith juts out from the wet surface of the swamp. Behind that, the
+swamp thickens, blocking all vision and movement.
+~
+hatch~
+3 0 20377
+D1
+You see the swamp deepening and growing thicker.
+~
+~
+0 0 20390
+D3
+~
+~
+0 0 16111
+S
+#20377
+The cramped passage~
+Dust, from the thickly coated floor and walls, fill the air as you crawl
+through' this narrow passage. From the sheer amount of dust and due to the
+extreme staleness of the air, it is apparent that this passage has not been
+in use for ages. The passage continues on to the north into darkness and ends
+to the south before a hatch.
+~
+0 9 0
+D0
+Not much can be made out in the intense darkness before you.
+~
+~
+0 0 20378
+D2
+You see a hatch leading outside.
+~
+hatch~
+3 0 20376
+S
+#20378
+Descent into darkness~
+You find yourself kneeling before a large hole at the end of a cramped
+passage that runs to the south. An iron ladder has been bolted along its
+eastern wall, providing what appears to be safe descent into the darkness
+below.
+~
+0 9 0
+D2
+You see a cramped passage leading into darkness.
+~
+~
+0 0 20377
+D5
+You see a iron ladder descending into darkness.
+~
+~
+0 0 20379
+S
+#20379
+On the iron ladder~
+You are climbing upon an iron ladder that has been securely bolted to the
+eastern wall of this narrow shaft. The walls are made of iron and every few
+feet you can see the tell tale marks of rivets holding the pieces together.
+The shaft goes both up and down from here.
+~
+0 9 0
+D4
+You see the iron ladder ascending into a small chamber.
+~
+~
+0 0 20378
+D5
+You see a ladder continuing its descent into the darkness below.
+~
+~
+0 0 20380
+S
+#20380
+Midway on the ladder~
+You are on the midpoint of an iron ladder that continues both up and down
+this narrow shaft. To the west, a narrow crawlway has been cut into the
+smooth, iron walls. From this vantage point, you can see a thick layer
+of undisturbed dust covering the floor of the crawlway.
+~
+0 9 0
+D3
+You see a dust covered crawlspace.
+~
+~
+0 0 20383
+D4
+You see an iron ladder ascending into the darkness above.
+~
+~
+0 0 20379
+D5
+You see an iron ladder descending into darkness.
+~
+~
+0 0 20381
+S
+#20381
+Near the bottom of the ladder~
+You are near the base of the ladder that continues both up and down this
+narrow shaft. The ladder has been fastened securely to the iron shaft by
+large, steel bolts. Above you, you can see the ladder ascending into darkness
+, and beneath you, the ladder ends at an iron floor.
+~
+0 9 0
+D4
+You see an iron ladder ascending into darkness.
+~
+~
+0 0 20380
+D5
+You see the ladder descending into a darkened room.
+~
+~
+0 0 20382
+S
+#20382
+The base of the ladder~
+You find yourself within a small alcove.  To the south, the alcove opens
+up into a large chamber.  Above you, an iron ladder leads up through a small
+shaft into darkness.  The ladder is firmly bolted to the iron wall of the
+shaft, and seems quite secure.  
+~
+0 9 0
+D2
+You see a darkened square room.
+~
+~
+0 0 20409
+D4
+You see an iron ladder ascending into darkness.
+~
+~
+0 0 20381
+S
+#20383
+The narrow crawl space~
+Thick dust fills the air, causing your eyes to tear up and making your nose
+wrinkle in irritation, as you crawl through this narrow space. To the
+west, the crawlspace widens into a small alcove. To the east, the rungs
+of a ladder can be seen within a narrow shaft.
+~
+0 9 0
+D1
+You see an iron ladder running both up and down a narrow shaft.
+~
+~
+0 0 20380
+D3
+You see a small, dust covered alcove.
+~
+~
+0 0 20384
+S
+#20384
+The small alcove~
+Thick dust covers the walls and floor of this small alcove.  For all
+appearances, this alcove has not seen use in ages.  Remarkably, the southern
+wall is free and clear of dust, almost as if a barrier were preventing its
+collection.  The alcove narrows to a small crawlspace to the east.  
+~
+0 9 0
+D1
+You see a slightly disturbed, dust covered crawlspace.
+~
+~
+0 0 20383
+D2
+Something is odd about this metal wall.
+~
+wall~
+7 0 20385
+S
+#20385
+Charts of the stars~
+This semicircular chamber is completely free of dust and the air is clear
+and fresh.  On the circular portion of the wall there is a large mural that
+almost seems three dimensional.  It depicts a stunningly detailed picture of
+the {Wstars{x and constellations of Discordia.  As you look, you can see
+features on it slightly move from time to time.  {CPlanets{x slowly spin as
+they creep along their orbit around {Wstars{x and other such heavenly
+bodies.  {YComets{x and asteroids slowly move across the black background,
+giving you the impression that you are actually high above the universe,
+looking down upon it.  The rest of the chamber is fairly unremarkable,
+although an iron ladder leads up into the darkness near the center of the
+room.  
+~
+0 4194313 0
+D0
+Something is faintly odd about this wall.
+~
+wall~
+7 0 20384
+D4
+An iron ladder ascends into darkness.
+~
+~
+0 0 20386
+S
+#20386
+An inclined ladder~
+You are on an iron ladder that is securely bolted to the iron wall within
+this narrow shaft. You notice that the shaft gradually curves inwards as does
+the ladder. It continues upwards into the dark.
+~
+0 9 0
+D4
+The ladder ascends into darkness.
+~
+~
+0 0 20387
+D5
+You see a small, semi-circular room.
+~
+~
+0 0 20385
+S
+#20387
+Along the inclined ladder~
+You are midway up on the iron ladder. It continues to gradually curve inwards
+as it continues up into the darkness. The air here is slightly cool.
+~
+0 9 0
+D4
+You see the end of the ladder.
+~
+~
+0 0 20388
+D5
+The ladder descends into darkness.
+~
+~
+0 0 20386
+S
+#20388
+Before the hatch~
+You find yourself at the end of the slanting shaft. Above you, a small iron
+hatch leads to parts unknown while beneath you, the ladder descends into
+darkness. The air here is oddly cold and you notice your frosty breath
+clouding the air. Even the walls of the iron shaft are near freezing.
+~
+0 9 0
+D4
+You see an iron hatch leading to parts unknown.
+~
+hatch~
+1 0 20389
+D5
+The ladder descends into darkness.
+~
+~
+0 0 20387
+S
+#20389
+The viewing chamber~
+You are on an iron platform high above the murky waters of the swamp, about
+level with the billowing tops of the cypress trees. The air is extremely
+frigid, so cold in fact, that every breath you take clouds the air with
+frost. Nearby, to the east, you can make out a bunch of small structures
+jutting out from the swamp. To the north of them, a large mound can be seen
+rising above the ground. The faint glow of a {Rfire{x and a small stream of
+smoke rising into the air can be seen coming from the center of the
+structures. As you peer out across the swamp you notice several small, {Wwhite{x
+objects hanging suspended in the air near the edge of the platform.
+~
+0 8 0
+E
+objects~
+You move to examine the {Wwhite{x objects. From all appearances, they look
+exactly like bird droppings. When you move to touch them, your hand meets
+resistance about an inch away. Something solid, very solid, is preventing
+you from touching the objects. You move your hands about the barrier and
+come to the conclusion that it is an invisible wall.
+~
+E
+wall~
+You examine the invisible walls and find that they completely enclose this
+platform, making it in fact a room. You test this theory by jumping into
+the air and having your fingers meet with the invisible ceiling.
+~
+D5
+A trapdoor covered by an iron hatch leads down into darkness.
+~
+hatch~
+1 0 20388
+S
+#20390
+The deep swamp~
+The murky waters of the swamp rise to about neck high here, causing you
+to directly breath in the stench of the stagnant water.  The cypress trees
+are thin here, giving you a glimpse of the sky above.  Oddly, the typical
+insect sounds common to this swamp are absent.  To the west, the cypress
+trees begin to re-thicken as the swamp gets shallower.  
+~
+0 0 12
+D2
+You see a channel through the swamp.
+~
+~
+0 0 20391
+D3
+You see a large clearing.
+~
+~
+0 0 20376
+S
+#20391
+The deepening swamp~
+Shadows, cast by the thick cypress canopy above, play across the murky
+swamp water in an almost hypnotic pattern.  In between the thick branches
+and dangling moss, large spiderwebs are strung.  The shrill chirping of
+insects echo across the swamp, being answered by others, far off in the
+distance.  To both the north and south, the water deepens, while getting
+quite shallower to the east.  
+~
+0 0 12
+D0
+You see the swamp depending in this direction.
+~
+~
+0 0 20390
+D1
+You see the vast expanse of the swamp before you.
+~
+~
+0 0 20393
+D2
+You see a murky pool.
+~
+~
+0 0 20392
+S
+#20392
+The murky pool~
+The murky swamp waters deepen here into a large, stagnant pool that fills
+the air with the smell of decay and mildew.  On the still surface waters,
+numerous types of insect larvae swim lazily about.  The water is far to deep
+here for you to touch.  Occasionally you can feel something warm and slimy
+brush against your legs.  
+~
+0 0 12
+D0
+The swamp deepens in this direction.
+~
+~
+0 0 20391
+S
+#20393
+The swamp~
+Created by the thick cypress umbrella above, shadows play across the
+ankle deep, still waters of the swamp.  The mud is thick here and clings
+hungrily to your feet.  To the east, a muddy path can be seen leading to
+some slightly higher ground.  The swamp continues to the south and west.  
+~
+0 0 12
+E
+path~
+Numerous three toed footprints can be seen in the thick mud along the path.
+The seem to be both coming and going.
+~
+D1
+You see a muddy trail.
+~
+~
+0 0 20395
+D2
+You see the vast expanse of the swamp.
+~
+~
+0 0 20394
+D3
+You see the swamp deepening in this direction.
+~
+~
+0 0 20391
+S
+#20394
+The swamp~
+Spider webs are thick in abundance here, their elaborate weaves
+stretching from branch to branch within the cypress trees in hope of
+catching some of the chirping insects populating the swamp.  The waist high
+murky water is quite stagnant and numerous small insect larvae can be seen
+swimming about on its surface.  Several cypress knees jut from the murky
+depths.  A huge ancient cypress tree stands tall and proud here, and looks
+to have carvings on its surface.  
+~
+0 0 12
+E
+carvings~
+The carvings almost look like small windows in the huge tree, and you can
+vaguely make out the shape of a door in the bark.  
+~
+D0
+You see the vast expanse of the swamp.
+~
+~
+0 0 20393
+D1
+You see the vast expanse of the swamp.
+~
+~
+0 0 20417
+D2
+You see the vast expanse of the swamp.
+~
+~
+0 0 20417
+D3
+~
+~
+7 0 16269
+S
+#20395
+The swampy path~
+The murky waters fade away into a muddy trail through the ever abundant
+cypress trees. Numerous three toed footprints can be seen going both
+directions along the trail. Spider webs hang in the canopy above, hoping
+to catch the ever present insect life. To the north a strange structure
+can be seen jutting out of the mud and the swamp continues to the west.
+~
+0 4 12
+D0
+You see a swampy dwelling a bit to the north.
+~
+~
+0 0 20396
+D3
+You see the vast expanse of the swamp before you. You think you can make out
+a large structure far to the west through the thin cypress branches here.
+~
+~
+0 0 20393
+S
+#20396
+Before a swampy dwelling~
+You stand before a small dwelling made of bound cypress limbs with mud
+packed to provide insulation.  Numerous footprints abound around this
+structure, especially before the area of what appears to be some sort of
+door.  To the east, further along the trail and through the cypress trees,
+similar structures can be seen jutting out of the mud.  
+~
+0 0 12
+D0
+~
+doorway~
+1 0 20397
+D1
+You see the faint {Rglow{x of a {Rfire{x far to the east.
+~
+~
+0 0 20398
+D2
+You see a muddy path.
+~
+~
+0 0 20395
+S
+#20397
+Inside a dwelling~
+The small dwelling is very hot due to the hot {Rcoals{x burning in its
+center inside a small, stone lined fire pit.  Assorted furs and skins are
+scattered about, obviously bedding of some sort to the dwelling's
+inhabitants.  Smoke is gently forced from the room through a small opening
+in the center of the mud packed ceiling.  The mud floor within this dwelling
+is dry and hard, probably due to long hours of baking in the heat.  
+~
+0 8 12
+D2
+~
+doorway~
+1 0 20396
+S
+#20398
+Between two dwellings~
+You stand between small dwellings made of twined cypress and packed with
+mud for insulation.  The smell of cooking meat permeates the air, flowing in
+from the east on an almost unnoticeable breeze.  The footprint covered path
+continues to both the east and west from this point.  
+~
+0 0 12
+D0
+~
+doorway~
+1 0 20399
+D1
+You see the faint {Rglow{x of a {Rfire{x off in the near distance.
+~
+~
+0 0 20401
+D2
+~
+doorway~
+1 0 20400
+D3
+You see a muddy path.
+~
+~
+0 0 20396
+S
+#20399
+Inside a dwelling~
+The scent of smoldering cypress permeates the air within this small
+dwelling.  It seems to be coming from a small, stone lined fire pit lying in
+the center between several furs and skins that are obviously used as bedding
+by the dwelling's inhabitants.  The coals within the fire pit are almost
+completely extinguished, as if the inhabitants of this dwelling have not
+been around recently to tend to it.  
+~
+0 9 12
+D2
+~
+doorway~
+1 0 20398
+S
+#20400
+Inside a dwelling~
+Smoke fills the air of the small dwelling, smelling faintly of cypress. The
+source, a small, rock lined fire pit, {Rglows{x in the center of the room with
+just enough light to provide illumination. Several crocodile skins and furs
+from unrecognizable animals line the hard mud-caked floor, obviously bedding
+material. Through a small hole cut into the mud packed ceiling, smoke
+gently filters out of the dwelling.
+~
+0 8 12
+D0
+~
+doorway~
+1 0 20398
+S
+#20401
+The fire pit~
+Waves of heat wash over your body as you come across a large, stone lined
+pit filled with {Rglowing{x coals. The scent of burning flesh and cypress fills
+the air creating an appealing smell. Roasting on a spit over the burning
+coals, a large crocodile can be seen cooking. Past the pit and to the east,
+a large dwelling can be seen, jutting out of the mud. The muddy path
+continues to the west and north.
+~
+0 0 12
+D0
+You see a large mound rising from the swamps surface.
+~
+~
+0 0 20403
+D1
+You see a large dwelling nearby.
+~
+~
+0 0 20402
+D3
+You see a muddy path crossing between two swampy dwellings.
+~
+~
+0 0 20398
+S
+#20402
+Before a large dwelling~
+You stand before a large dwelling made of whole cypress trunks bound together
+with vine and packed with mud for insulation. A small set of double doors,
+covered with animal skins and marked with strange writings, lead into the
+structure to the east. To the west, the dim {Rglow{x of a {Rfire{x can be seen.
+~
+0 0 12
+D1
+~
+double~
+1 0 20407
+D3
+You see the {Rglow{x from a {Rfire{x close by.
+~
+~
+0 0 20401
+S
+#20403
+Near the mound~
+The stench of refuse wafts in from the north where the ground slightly
+inclines to what appears to be a mound of some sort. Swampy dwellings made
+of cypress limbs bound with vine and insulated with dried mud, lie to both
+the east and west. The dim {Rglow{x of a {Rfire{x can be seen to the south.
+~
+0 0 12
+D0
+You see a large mound rising from the surface of the swamp.
+~
+~
+0 0 20406
+D1
+~
+doorway~
+1 0 20405
+D2
+You see the {Rglow{x of a {Rfire{x.
+~
+~
+0 0 20401
+D3
+~
+doorway~
+1 0 20404
+S
+#20404
+A swampy dwelling~
+Heat assaults you as you enter this swampy dwelling. Lying around a stone
+lined fire pit that has been dug into the center of the chamber, are several
+tattered skins and pelts. From the louse moving about on their surfaces,
+it is apparent that it has been used as bedding by very unclean occupants.
+Smoke gently wafts from the {Rglowing coals{x through a small hole cut into the
+center of the roof.
+~
+0 9 12
+D1
+~
+~
+1 0 20403
+S
+#20405
+A swampy dwelling~
+The scent of smoldering cypress permeates the air within this swampy
+dwelling.  A nearly extinguished fire smolders within a small, stone lined
+fire pit lying in the center of the floor.  Several pelts and skins of
+various animals can be seen scattered about the room, possibly bedding of
+some sort.  Although it has look look of recent use, this dwelling seems to
+been left unattended for a while.  
+~
+0 9 12
+D3
+~
+~
+1 0 20403
+S
+#20406
+The refuse mound~
+This is the place where the lacerti tribe dump all their refuse. The stench
+here is unimaginable and made much worse due to the already stagnant air
+of the swamp. By the size of the mound, it is apparent that the tribe has
+inhabited this area for a long, long time. Tossed about this mound, broken
+pottery and half-rotten corpses of unrecognizable beasts, lie intermingled
+with fecal matter and other unrecognizable substances.
+~
+0 8 12
+D2
+You see a muddy path running between to dwellings. A bit past that, the faint
+glow of a fire can be made out.
+~
+~
+0 0 20403
+S
+#20407
+The clan hall~
+The faint haze of smoke slightly obscures your vision and irritates you eyes
+as you enter this large room. From the amount of tribal decorations lining
+the walls and furs covering the floor, it is obvious that this is a place
+of major importance. A large fire pit has been dug into the center of the
+chamber. It has been lined with stone to prevent its hot {Rcoals{x from reaching
+the surroundings. Smoke slowly filters out of the chamber through a small hole
+cut into the ceiling. A set of double doors leads out of the structure to the
+west and a fur covers the exit to the east.
+~
+0 8 12
+D1
+~
+fur~
+1 20403 20408
+D3
+~
+double~
+1 0 20402
+S
+#20408
+The shaman's quarters~
+The floor of this room is covered thick in cypress leaves to provide padding
+and warmth to its occupant. A large stack of flea ridden furs rest in the
+center of the room, obviously bedding of some sort. The walls are lined with
+several shelves, and numerous clay containers containing foul fluids can
+be seen resting upon them. In the far corner of the room, a shrine, covered
+with congealed {Rblood{x, can be seen paying homage to some devious god.
+~
+0 4194312 12
+D3
+~
+fur~
+1 0 20407
+S
+#20409
+The common chamber~
+This iron walled chamber is roughly fifteen meters square. Hatches can be
+seen leading in all directions save that of the north, which leads back to
+the iron ladder. In the center of the room, an iron rung of a trapdoor can
+be seen rising a few inches above the floor. Two large benches predominate
+the furnishings of this room, otherwise it is bare.
+~
+0 9 0
+D0
+You see a darkened alcove.
+~
+~
+0 0 20382
+D1
+~
+hatch~
+1 0 20412
+D2
+~
+hatch~
+1 0 20410
+D3
+~
+hatch~
+1 0 20411
+D5
+You see a dust covered trapdoor leading to unknown parts.
+~
+trapdoor~
+1 0 20413
+S
+#20410
+The living quarters~
+Tattered and {Gmoldy{x carpet covers the iron floor of this small chamber. Two
+large bunk beds are securely bolted to southern wall. Oddly enough, it seems
+as if their sheets and blankets have been immune to the passing of time and
+the elements because they seem to be both crisp and fresh. A small, rotten
+chest is lying forgotten in the corner.
+~
+0 9 0
+D0
+~
+hatch~
+1 0 20409
+S
+#20411
+The living quarters~
+The floor of this small chamber is plushly covered by a thick, velvet
+rug.  Well at least it used to be, because now the carpet is tattered and
+worn and has several large {Gmold{x stains on its surface.  Two large bunk
+beds are securely fastened to the western wall, they seem to have seen
+recent use.  Oddly, their sheets and blankets look fresh and new, almost as
+if they are immune to the passing of time.  
+~
+0 9 0
+D1
+~
+hatch~
+1 0 20409
+S
+#20412
+The living quarters~
+The floor of this small, iron chamber was once plushly carpeted. Its seems
+as though both time and the elements have forced it to succumb to their
+will, because now the carpet is tattered and {Gmoldy{x. Firmly bolted to the
+northern wall, two small bunk beds can be seen. Amazingly, it seems as if
+they have been untouched by elements, either that, or, they have recently
+been made. The sheets are {Wwhite{x and fresh smelling and the woolen blankets
+are full and warm appearing. A small hatch leads out of the room to the west.
+~
+0 9 0
+D3
+~
+hatch~
+1 0 20409
+S
+#20413
+On a ladder~
+Once again you find yourself in a narrow shaft on an iron ladder. Like the
+rest, it has been securely bolted to the wall. The ladder ends above you
+at a small hatch and descends below you into darkness.
+~
+0 9 0
+D4
+You see an iron trapdoor.
+~
+trapdoor~
+1 0 20409
+D5
+An iron ladder descends into darkness.
+~
+~
+0 0 20414
+S
+#20414
+The storage room~
+This large chamber is cluttered with rotten boxes and crates. At one time,
+it appears as if this chamber was used as a storage chamber for food, water
+and weaponry. Several rotten grain sacks are spilling out of an overturned
+crate, and nearby, several rusted and unuseable swords can be seen poking
+from an open box. Archways exit the room to both the north and south.
+~
+0 9 0
+D0
+You see an archway leading into a mud filled chamber. You think you notice 
+some movement within the chamber.
+~
+~
+0 0 20415
+D2
+You see an archway leading into a small chamber.
+~
+~
+0 0 20416
+D4
+You see an iron ladder ascending into darkness.
+~
+~
+0 0 20413
+S
+#20415
+The mud filled chamber~
+You cross through the archway and find yourself in what used to be a large
+chamber. It appears as if the iron walls of this chamber breached at some
+point because most of the chamber is filled with thick mud. The stench of
+mold and muck is overwhelming, causing you to retch and nearly drives you
+from the room. The only escape from the foul smell is back to the south.
+~
+0 9 0
+D2
+~
+~
+0 0 20414
+S
+#20416
+Inside a turret~
+A large ballistae takes up much of the space within this small chamber. Its
+wooden timbers and wenches, amazingly, are free from rot and decay. Resting
+to the side of the ballistae is a large barrel containing several large,
+very sharp bolts. They look as if the would rip you in half if they were
+fired at you. As you examine your surroundings, you notice that the walls
+of this room seem to be made of glass. Through them, you can make out the
+muck and mud of the swamp. Cut into one of the walls, near the end of the
+ballistae, is a hatch. This is probably what was opened to allow the ballistae
+to fire out. 
+~
+0 9 0
+E
+hatch~
+It would be extremely wise to not even attempt to open this hatch.  The
+result of you doing so would cause thousands of tons of mud to fill this
+chamber, crushing you to death.  
+~
+D0
+~
+~
+0 0 20414
+S
+#20417
+The swamp~
+Shadows, created by the thick cypress umbrella overhead, play across the
+murky, knee high water.  Thick mud is constantly tugging at your feet,
+trying to entrap you in its slimy embrace.  Insects and frogs fill the air
+with their loud, resonant chirping and croaking.  Nearby, you hear the faint
+splash of something entering the water.  
+~
+0 0 12
+D1
+You see the vast expanse of the swamp.
+~
+~
+0 0 20420
+D3
+You see the vast expanse of the swamp.
+~
+~
+0 0 20394
+S
+#20418
+The swamp~
+Cypress trees predominate this murky swamp, their billowing branches
+blocking out the sky above.  Numerous insect sounds fill the air along with
+the bass droning of frogs looking for mates.  Elaborately woven spider webs,
+complete with large, black and yellow spiders can be seen hanging suspended
+in between both branches and tree trunks.  
+~
+0 0 12
+D0
+You see the vast expanse of the swamp.
+~
+~
+0 0 20417
+D1
+You see the gigantic burnt stump of an old cypress.
+~
+~
+0 0 20419
+D2
+You see the vast expanse of the swamp.
+~
+~
+0 0 20420
+S
+#20419
+The burnt cypress~
+Impaling the murky water of the swamp like a thorn, a large, charred cypress
+trunk rises above you. Although broken off at a height of a few meters, the
+girth of its trunk makes it quite apparent that this tree was far larger
+than any you have yet to see within the swamp. The water here is knee deep
+and extremely muddy and stagnant. In fact, numerous types of insect larvae
+can be seen flitting about on its still surface.
+~
+0 0 12
+E
+trunk~
+By the charred appearance of this ancient cypress, it is apparent that it
+fell prey to some major calamity. On closer examination, you notice that
+the trunk appears hollow and can be through a hole near its top.
+~
+D1
+~
+~
+0 0 20422
+D2
+You see a small clearing in the swamp.
+~
+~
+0 0 20421
+D3
+You see the vast expanse of the swamp.
+~
+~
+0 0 20418
+S
+#20420
+Into the swamp~
+The abundant cypress trees obscure the sky above, causing shadows to play
+across the knee deep murky water.  The sounds of crickets and cicadas fill
+the air with startling volume.  Several spider webs can be seen stretching
+their sticky weave from branch to branch within the cypress.  Occasionally
+the soft splash of an animal or insect can be heard nearby.  
+~
+0 0 12
+D0
+You see the vast expanse of the swamp before you.
+~
+~
+0 0 20418
+D1
+You see a small clearing in the swamp.
+~
+~
+0 0 20421
+D3
+You see the vast expanse of the swamp.
+~
+~
+0 0 20417
+S
+#20421
+The cypress graveyard~
+The ever present cypress trees rapidly fade out into a small clearing. From
+within the clearing, numerous cypress knees, arranged in a perfect circle,
+can be seen jutting out a few feet from the murky, ankle deep water. Unlike
+most of the swamp, the shrill chirp of the crickets nor the bass call of
+the frogs can be heard. It is unnervingly quiet, almost as if the creatures
+of the swamp revere or fear this place.
+~
+0 0 12
+D0
+You see the burnt stump of a giant cypress.
+~
+~
+0 0 20419
+D3
+You see the vast expanse of the swamp before you.
+~
+~
+0 0 20420
+S
+#20422
+The edge of the swamp~
+The forested area gradually begins to turn into swamp.  As you wander
+along the muddy trail, the ground becomes damper as the oak and pine trees
+are gradually replaced by cypress trees and saw palmettos.  Eventually the
+mud turns into murky water and the last remnants of the forest fade away. 
+Before you lies the vast expanse of a swamp.  
+~
+0 0 12
+D1
+~
+~
+0 0 20423
+D3
+~
+~
+0 0 20419
+S
+#20423
+The muddy path~
+The shrill sound of mocking birds pierces the air.  You see several of
+them flitting from tree to tree, eating various berries and gathering
+nesting materials.  The ground oozes with swamp mud beneath your feet, but
+to the east, you see a muddy path heading towards the shore.  
+~
+0 4 3
+E
+path~
+This path is quite muddy. From the appearance of several three toed footprints
+,it is apparent tham some kind of creature frequents this locale.
+~
+D1
+~
+~
+0 0 16110
+D3
+~
+~
+0 0 20422
+S
+#20424
+The cypress hollow~
+The rough, damp walls of this cypress hollow smell faintly of smoke and
+mildew. Numerous insects crawl about the walls, avidly attempting to avoid
+the silken death traps laid out on the uneven surface by hungry spiders. A
+faint light can be seen coming from the west, where it seems as if the
+hollow opens into a wider space.
+~
+0 9 12
+D3
+You see a small den in the cypress.
+~
+~
+0 0 20425
+D4
+You see the exit from the cypress hollow.
+~
+~
+0 0 20419
+S
+#20425
+The cypress den~
+Faintly glowing fungus lines the walls of this cypress den, filling the room
+with luminescent light. The smell of charred wood and thick mold permeates
+the air, causing your eyes to water slightly with irritation. Rich, dark soil
+covers the floor and many small mushrooms can be seen rising from its surface.
+~
+0 8 12
+D1
+You see the cypress hollow.
+~
+~
+0 0 20424
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 20389 spec_cast_undead Load to: a demi-lich
+M 20408 spec_cast_cleric Load to: the lacerti shaman
+M 20417 spec_poison Load to: a coral snake
+M 20418 spec_poison Load to: a banana spider
+M 20421 spec_fido Load to: a black panther
+M 20424 spec_cast_mage Load to: a lonely hermit
+S
+
+
+
+#RESETS
+D 0 20376 0 0
+D 0 20377 2 0
+D 0 20384 2 0
+D 0 20385 0 0
+D 0 20388 4 0
+D 0 20389 5 0
+D 0 20394 3 1
+D 0 20396 0 0
+D 0 20397 2 0
+D 0 20398 0 0
+D 0 20398 2 0
+D 0 20399 2 0
+D 0 20400 0 0
+D 0 20402 1 0
+D 0 20403 1 0
+D 0 20403 3 0
+D 0 20404 1 0
+D 0 20405 3 0
+D 0 20407 1 1
+D 0 20407 3 0
+D 0 20408 3 1
+D 0 20409 1 0
+D 0 20409 2 0
+D 0 20409 3 0
+D 0 20409 5 0
+D 0 20410 0 0
+D 0 20411 1 0
+D 0 20412 3 0
+D 0 20413 4 0
+M 0 20376 2 20376
+M 0 20389 1 20389
+E 0 20389 0 5
+G 0 20390 0
+M 0 20393 1 20392
+O 0 8000 0 20392
+M 0 20400 2 20393
+M 0 20418 2 20394
+O 0 20395 0 20395
+O 0 20397 0 20397
+M 0 20404 6 20397
+O 0 20397 0 20399
+O 0 20397 0 20400
+M 0 20404 6 20400
+O 0 20397 0 20404
+M 0 20404 6 20404
+O 0 20397 0 20405
+O 0 20406 0 20406
+P 0 20400 0 20406
+P 0 20401 0 20406
+P 0 20402 0 20406
+M 0 20406 1 20406
+O 0 20397 0 20407
+M 0 20407 2 20407
+G 0 20403 0
+O 0 20413 0 20408
+O 0 20408 0 20408
+P 0 20409 0 20408
+P 0 20410 0 20409
+P 0 20411 0 20408
+M 0 20408 1 20408
+E 0 20414 0 6
+P 0 20412 0 20408
+O 0 20397 0 20408
+O 0 20415 0 20409
+M 0 20409 3 20410
+O 0 20404 0 20410
+O 0 20407 0 20410
+P 0 20405 0 20407
+M 0 20409 3 20411
+O 0 20404 0 20411
+M 0 20409 3 20412
+O 0 20404 0 20412
+M 0 20415 2 20415
+M 0 20417 2 20417
+M 0 20394 2 20417
+M 0 20400 2 20417
+M 0 20418 2 20418
+M 0 20417 2 20419
+O 0 20419 0 20419
+O 0 20421 0 20421
+M 0 20421 1 20421
+O 0 20425 0 20424
+M 0 20424 1 20425
+E 0 20424 0 16
+O 0 20423 0 20425
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

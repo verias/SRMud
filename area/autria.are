@@ -1,0 +1,1472 @@
+#AREADATA
+Name {60 75} Audrina Autria~
+Builders Audrina~
+VNUMs 1000 1049
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#1000
+gate guard~
+an Autrian Guard~
+An Autrian Guard is here, patrolling the city.
+~
+This Autrian guard appears to be very powerful.  His upper torso is very
+well defined.  His large white wings are spread a bit making him look even
+larger than he actually is.  At his waist he takes on the shape of a fish. 
+You can tell by the size of his tail he can glide through the water with
+great ease.  The mighty Autrian guard watches you with cautious eyes.  
+~
+unique~
+AQ T 500 0
+65 0 11d352+1789 65d10+100 5d8+19 digestion
+-15 -15 -15 -13
+ET HR HR L
+(null) (null) female 292
+ACGHMV ABCDEFGHIJKMOQUV large unknown
+#1002
+a soul~
+a lost soul~
+A lost Autrian soul wanders here.
+~
+This lost soul is an Autrian that has passed on.  It wanders the city
+protecting it's beloved people.  It's fluid motion makes the spirit appear
+as if it is a part of the water around you.  
+~
+unique~
+A BTVab 750 0
+68 0 11d405+1935 68d10+100 5d8+21 digestion
+-17 -17 -17 -14
+CFIMNO HR HR L
+(null) (null) male 306
+ACGHMV ABCDEFGHIJKMOQUV large unknown
+#1004
+Autrian citizen~
+a citizen~
+An Autrian citizen is here.
+~
+A citizen is here, shooting a big grin your way.  Although the citizen
+appears to be busy swimming around town, an Autrian will always have time to
+stop for a chat.  
+~
+unique~
+A TVb 600 0
+63 0 11d321+1694 63d10+100 5d8+18 digestion
+-15 -15 -15 -12
+CFIK HR HR L
+(null) (null) none 283
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#1006
+Ian ~
+Ian~
+Ian, a skilled craftsman, is working here.
+~
+Ian is a very talented and widely known Autrian.  He is working on a
+piece of dark cherry wood that appears to be taking the shape of a table. 
+He is concentrating so much that he is not even aware of your arrival to his
+home.  As his back is turned your direction you can see his white wings
+protruding from his shoulder blades.  Ian's wings reach all the way to the
+ground and if spread would have an enormous span.  
+~
+unique~
+ABQ NTVb 600 0
+65 0 11d352+1789 65d10+100 5d8+19 digestion
+-15 -15 -15 -13
+CEM HR HR L
+(null) (null) female 292
+ACGHMV ABCDEFGHIJKMOQUV large unknown
+#1008
+lily shopkeeper~
+a shopkeeper~
+Lily is here, humming a sweet melody.
+~
+Lily is an elderly Autrian who devotes much of her time creating
+beautiful rugs for the residents of Autria.  Her white wings are tucked
+behind her.  Lily's long tail is curled around to the side as she sews on a
+dark green rug.  She is humming a soft sweet melody.  Suddenly, she looks up
+at you with the kindest eyes.  
+~
+unique~
+ABO Tb 650 0
+67 0 11d387+1885 67d10+100 5d8+20 digestion
+-16 -16 -16 -14
+M HR HR L
+(null) (null) either 301
+ACGHMV ABCDEFGHIJKMOQUV small unknown
+#1010
+jasper chef~
+a chef~
+Chef Jasper is here, feverishly preparing a meal.
+~
+Jasper is darting around the kitchen in a frenzy.  His wings are open
+halfway and his tail is flipping back and forth very quickly.  Jasper has a
+very muscular upper torso and very large biceps.  As he darts around the
+kitchen he does not even notice your arrival.  
+~
+unique~
+ABQ Tb 600 0
+67 0 11d387+1885 67d10+100 5d8+20 digestion
+-16 -16 -16 -14
+CDEM HR HR L
+(null) (null) female 301
+ACGHMV ABCDEFGHIJKMOQUV large unknown
+#1011
+nanny lina~
+a nanny~
+Lina the nanny is here, going about her duties.
+~
+Lina appears to be a bit disheveled.  Her hair is which was once pulled
+up neatly is now hanging down in her face.  Her wings are drooping and she
+is swimming rather slowly.  The circles under her eyes tell you it has been
+a long day.  
+~
+unique~
+ABO Tb 550 0
+70 0 11d443+2036 70d10+100 5d8+22 none
+-17 -17 -17 -15
+CEKN HR HR L
+(null) (null) either 315
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#1012
+Lazra~
+a healer~
+Lazra is here, offering her healing services.
+~
+Lazra is a very mysterious healer whom is highly revered in Autria.  Her
+wings are pale pink, not white like the other Autrians you have seen. 
+Lazra's hands are folded neatly in her lap.  She slowly turns her head and
+looks directly into your eyes.  You feel as if she can see inside you, down
+to where your very soul begins.  You are suddenly overwhelmed with the
+feeling you have known Lazra your whole life.  
+~
+unique~
+ABTW T 1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 ABCQR R L
+(null) (null) either 450
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#1013
+sasha teacher~
+a teacher~
+Miss Sasha, the school teacher, is here correcting papers.
+~
+Miss Sasha is a very pretty Autrian.  Her shiny golden hair has been tied
+up showing off her long neck.  Her tail has many different colored scales
+giving it the appearance of a rainbow.  Her white wings are very long.  As
+she is seated at her desk they drag a along on the sandy ground.  Her eyes
+look a bit tired as she pours over the students papers.  
+~
+unique~
+AB NTVb 700 0
+68 0 11d405+1935 68d10+100 5d8+21 none
+-17 -17 -17 -14
+IMO HR HR L
+(null) (null) either 306
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#1019
+oscar guard huge~
+a huge guard~
+Oscar, a really HUGE Autrian guard, is here.
+~
+Oscar is the head of the guards in Autria.  He is absolutely enormous. 
+Oscar has huge bulging muscles over his entire torso.  His wings are spread
+open making him appear even larger.  His thick tail is covered in dark green
+scales and looks as thought it could propel him through that water with
+ease.  As Oscar turns his blue emotionless eyes your direction, you can't
+help but feel a bit intimidated.  
+~
+dragon~
+ABQ DFJOTbc 750 0
+73 0 11d505+2194 73d10+100 5d9+22 digestion
+-19 -19 -19 -16
+EFM HLR BEHR FIL
+(null) (null) female 328
+ACGHMVZc ABCDEFGHIJKLMOPQUVX huge unknown
+#1024
+servant~
+a servant~
+A servant of the queen is happily going about her duties.
+~
+This servant of the queen is happily going about her duties.  She hums a
+little tune as she swims about the castle.  
+~
+unique~
+AV NTVab 500 0
+60 0 11d277+1559 60d10+100 5d7+19 beating
+-13 -13 -13 -11
+CEGMN HR HR L
+(null) (null) either 270
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#1028
+macy ~
+Macy~
+Macy the queen's handmaiden is here, eager to assist her queen.
+~
+Macy is a very pretty and petite female Autrian.  Her golden hair is tied
+up with a dark blue ribbon.  Her green eyes look full of joy as she waits
+for the next request from her beloved queen.  Macy has dark green scales on
+her tail that match the color of her eyes.  Her wings are settled neatly
+behind her.  She notices you looking at her and gives you a coy smile.  
+~
+unique~
+ABQ Tab 750 0
+73 0 11d505+2194 73d10+100 5d9+22 beating
+-19 -19 -19 -16
+CFMR HR HR L
+(null) (null) either 328
+ACGHMV ABCDEFGHIJKMOQUV small unknown
+#1030
+queen karina~
+Queen Karina~
+Queen Karina is here, in all of her glory.
+~
+She is the most beautiful creature you have ever seen.  As the queen
+turns her head your way you see she has the bluest, kindest eyes you have
+ever looked into.  Her hair and wings are the purest white.  The scales on
+the tail of the queen are a glowing silver.  Her head tilts to the side a
+bit as she begins to smile at you.  She opens her wings and urges you to
+come a little closer.  She stretches her hands out to welcome you into her
+throne room.  A glow radiates all around her.  
+~
+unique~
+ABN HTVb 1000 0
+75 0 11d551+2303 75d10+100 5d9+24 digestion
+-19 -19 -19 -17
+EFM HR HR L
+(null) (null) either 337
+ACGHMV ABCDEFGHIJKMOQUV medium unknown
+#0
+
+
+
+#OBJECTS
+#1000
+Autrian sword~
+an Autrian sword~
+A polished Autrian longsword has been left here.~
+mithril~
+weapon AI AN
+sword 9 14 slice D
+65 10 325 P
+A
+1 1
+E
+sword~
+The Autrian longsword has been recently polished.  The blade appears
+extremely sharp.  
+~
+#1001
+a halo~
+a halo~
+A golden halo is here.~
+mist~
+armor FGK AE
+ABD ABD ABD AB 0
+68 1 340 P
+A
+12 30
+A
+13 30
+E
+halo~
+This mysterious golden halo appears to be absolutely flawless.  
+~
+#1002
+spiked silver dagger~
+a spiked silver dagger~
+This silver dagger has small sharp spikes extending from the blade on either side.~
+silver~
+weapon 0 AN
+bow 8 7 crunch J
+30 4 150 P
+A
+18 1
+A
+19 1
+#1003
+eagle talon pendant~
+an eagle talon pendant~
+A platinum pendant has been left here.~
+platinum~
+protect AGI AC
+CD CD CD AB 0
+73 3 600 P
+A
+13 25
+A
+12 25
+A
+3 1
+A
+2 1
+E
+pendant~
+This pendant is given to the head of the Autrian guards.  It is a great
+honor to be able to wear this eagle talon.  
+~
+#1004
+jellyfish~
+a jellyfish~
+A completely transparent jellyfish sits here, motionless.~
+meat~
+food F A
+CE 0 0 A 0
+60 0 120 P
+E
+jellyfish~
+This tiny motionless jellyfish is small enough to pop in your mouth like
+candy.  It appears harmless enough.
+~
+#1005
+pearl earring~
+a pearl earring~
+A magical flawless pearl earring has been left here.~
+gem~
+protect FG AQ
+ABE ABE ABE C 0
+68 2 1200 P
+A
+12 35
+A
+13 30
+#1006
+chisel dagger~
+a chisel~
+A well used chisel has been left here.~
+iron~
+weapon 0 AN
+bow 9 14 crunch D
+65 1 325 P
+A
+19 3
+A
+18 3
+E
+chisel~
+This chisel has been well used.  You can tell by the numerous scratches
+it has all over it.  It appears to be made from steel.  
+~
+#1007
+platinum ring~
+a platinum ring~
+A delicate looking platinum ring is here.~
+platinum~
+protect B AB
+ABE ABE ABE C 0
+67 2 500 P
+A
+13 30
+A
+12 35
+A
+5 1
+E
+ring~
+This platinum ring is very small and delicate.  It looks rather expensive.  
+~
+#1009
+A Silver Spoon~
+a silver spoon~
+A polished silver spoon has been left here.~
+silver~
+wand AG AO
+67 7 7 'reserved' 0
+67 3 335 P
+E
+spoon~
+This silver spoon looks very expensive.  It seems to be emitting a
+strange glow.  Kind of makes you wonder if it is spoon at all.  
+~
+#1010
+silver dagger spiked~
+a spiked silver dagger~
+This silver dagger has spiked barbs protruding from its razor sharp edges.~
+silver~
+protect 0 AE
+0 0 0 0 0
+0 0 0 P
+#1012
+blue ribbon~
+a {B blue {x ribbon~
+A {B blue {x ribbon that has been tied into a large bow has been left here.~
+silk~
+armor ABGHMU AE
+CD CD CD AB 0
+73 3 365 P
+A
+3 -2
+#1013
+red pen~
+{xa {Rred {xpen~
+{xA {Rred {xpen, the kind a teacher uses, is here.~
+steel~
+trash H AO
+0 0 0 0 0
+68 3 68 P
+E
+pen~
+This looks like the kind of pen a teacher uses to correct a students
+work.  
+~
+#1014
+blue pillow cushion~
+a royal blue pillow~
+This pillow is made of royal blue material and seems to be beckoning you to rest upon it.~
+silk~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#1016
+golden starfish crown~
+a gold starfish crown~
+A beautiful gold starfish crown is here.~
+gold~
+armor A AE
+CD CD CD AB 0
+75 5 375 P
+A
+13 40
+A
+2 2
+A
+1 1
+E
+crown~
+This flawless crown has been made from gold.  It resembles a starfish.  
+~
+#1017
+silver glasses~
+a pair of silver framed glasses~
+A pair of silver framed glasses with thick lenses have been left here.~
+silver~
+armor GI AT
+ABD ABD ABD AB 0
+70 3 350 P
+A
+2 1
+A
+12 50
+E
+glasses~
+These silver framed glasses have very thick lenses.  The kind grandma use
+to wear.  
+~
+#1018
+gold box~
+a heavy gold box~
+This heavy gold box appears to be very expensive.~
+gold~
+container R 0
+100 AC 0 0 0
+60 20 0 P
+E
+box~
+This gold box looks very heavy and expensive.  
+~
+#1019
+Autrian Blade~
+an Autrian blade~
+An Autrian blade has been left here.~
+mithril~
+weapon BI AN
+bow 10 14 slice J
+73 10 365 P
+A
+19 4
+A
+18 4
+E
+blade~
+This blade has been polished until it shines.  It looks very sharp.  
+~
+#1021
+gold coins~
+a pile of gold coins~
+A pile of gold coins.~
+gold~
+money 0 A
+CHIJ 0 0 0 0
+1 1 0 P
+E
+coins~
+A pile of gold coins.
+~
+#1024
+piece coral~
+a piece of coral~
+A piece of {g green {x coral has been left here.~
+bone~
+pill G A
+60 'reserved' 'reserved' 'reserved' 'reserved'
+60 1 1800 P
+E
+coral~
+~
+#1026
+dash sea salt~
+a dash of sea salt~
+The perfect amount of sea salt to season your meal has been left here.~
+nothing~
+pill G A
+60 'reserved' 'reserved' 'reserved' 'reserved'
+60 0 1800 P
+#1027
+eagle talon tattoo~
+an eagle talon tattoo~
+A tattoo of an eagles talon has been left here.~
+nothing~
+armor GHM AS
+CD CD CD AB 0
+75 1 375 P
+A
+17 -12
+#1028
+a souvenir rock~
+a souvenir rock~
+A shiny souvenir rock lies here.~
+sandstone~
+trash AHM A
+0 0 0 0 0
+1 5 1 P
+E
+rock~
+This polished rock is a small souvenir you may keep with you to remember
+your journey to the grand castle of Autria.  
+~
+#1029
+a rock pool~
+a rock pool~
+A round rock pool is here.~
+sandstone~
+container 0 0
+100 0 0 0 0
+0 100 0 P
+E
+pool~
+This rock pool is made from many large smooth rocks.  There are several
+smaller rocks inside.  It looks as though someone has spent many hours
+polishing and stacking.  
+~
+#1030
+tiny hurricane~
+a tiny hurricane~
+A tiny raging hurricane lies on the ground.~
+mist~
+protect BG AR
+CD CD CD AB 0
+75 3 750 P
+A
+12 75
+E
+tiny~
+A tiny raging hurricane is small enough to hold in your hand.  
+~
+#0
+
+
+
+#ROOMS
+#1000
+Grand Gates of Autria~
+Before you are giant platinum gates.  They reach so high you can barely
+see the top.  Every inch of the gates has been carefully etched.  On each
+side of the gates are gold and silver statues of Queen Karina; it is obvious
+that someone has poured over every detail.  The gates have been left open a
+bit, just enough for you to squeeze through.  
+
+~
+0 8 0
+E
+statue~
+The staues of the queen are truly impressive.  Her tail and wings are
+made from gold, the attention to detail is extraordinary.  The torso of the
+statues is made from the purest silver, as is her long hair which reaches
+her waist.  Her arms are open and look inviting.  In the eye sockets of each
+statue brilliant, perfect sapphires have been fastened.  They are truly
+works of art.  
+~
+E
+stat~
+The statues of the queen are truly impresive.  Her tail and wings are
+made from gold, the attention to detail is extraordinary.  The torse of the
+statues is the purest silver, as is her long hair which reaches her waist. 
+Her arms are open and look inviting In the eye sockets of each statue
+brilliant, perfect sapphires have been fastended.  They are truly works of
+art.  
+~
+E
+statue~
+The statues of the queen are truly impressive.  Her tail and wings are
+made from gold, the attention to detail is extraordinary.  The torso of the
+queen is the purest silver, as is her long hair which reaches her waist. 
+Her arms are open and look inviting.  In the eye sockets of each statue
+brilliant, perfect {B sapphires {x has been fastened.  They are truly works
+of art.  
+~
+D0
+~
+~
+~
+0 0 1001
+D4
+~
+~
+~
+0 0 16115
+M 0 H 0
+S
+#1001
+Inside the gates~
+In the water around you are several schools of brightly colored fish. 
+The white sand that covers the ocean floor is full of tiny lurking
+creatures.  To the east is a large, highly polished pot.  It appears to be
+made of black pearl and is boiling over with a variety of plant life.  As
+you move closer to further inspect the beauty of the large pot you notice an
+opening to a hidden cave behind it.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 1002
+D2
+~
+~
+~
+0 0 1000
+M 0 H 0
+S
+#1002
+A Small Cave~
+There is nothing special about this cave.  As you run your hand along the
+wall, you are surprised to find it is absolutely smooth.  To the north there
+are beams of light coming from another cave.  Suddenly, ever so faintly, you
+hear what you think is the sound of violin music.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 1003
+D3
+~
+~
+~
+0 0 1001
+M 0 H 0
+S
+#1003
+A Large Cave~
+It is so brightly lit here you can't help but squint your eyes.  The room
+is full of beautiful violin music.  This cave has been lavishly decorated
+with furniture made from intricately carved cherry wood and burgundy
+cushions.  On the west wall is a large picture housed in a gold frame of
+human children playing under a willow tree.  The east wall displays another
+gold framed picture of Autrian children swimming with a school of bright
+yellow and blue fish.  There is a sign over the archway north.  
+~
+0 8 0
+E
+sign~
+Welcome to Autria.  Visitors are embraced.  Those whom are troublous
+shall be delt with accordingly.  
+~
+E
+room~
+The sign reads: Welcome to Autria.  Visitors are embraced.  Those whom
+are troublous shall be dealt with accordingly.  
+~
+E
+room~
+~
+E
+sign~
+~
+E
+sign~
+The sign reads: Welcome to Autria.  Visitors are embraced.  Those whom
+are troublous shall be dealt with accordingly.  
+~
+D0
+~
+~
+~
+0 0 1004
+D2
+~
+~
+~
+0 0 1002
+M 0 H 0
+S
+#1004
+Main Avenue~
+You are standing at the beginning of Main Avenue.  The street is full of
+busy residents going about their daily business.  Everyone if full of warm
+smiles and overwhelming kindness.  The water that surrounds you is unusually
+warm and clear.  You notice the white sand on the ground never seems to get
+disturbed.  There are caves to the east and west.  Both appear to be the
+entrance to somebody's home.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 1007
+D1
+~
+~
+~
+0 0 1006
+D2
+~
+~
+~
+0 0 1003
+D3
+~
+~
+~
+0 0 1005
+M 0 H 0
+S
+#1005
+Inside the Residence~
+The inside of this cave has been turned into a cozy home.  There is a
+large braided, plum colored rug in the middle of the room.  To the north is
+a large white table.  Strips of kelp have been laid out on the table,
+apparently for dinner.  The furniture is made of dark cherry wood with plum
+colored cushions.  To the west is a small table.  Enclosed in a glass dome
+on top of the table is a gold statue of Karina.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 1004
+M 0 H 0
+S
+#1006
+Inside the Residence.~
+This is the residence of a very skilled furniture maker.  The cave is
+cluttered with large pieces of wood that will soon take the shape of a chair
+or table.  There are large bolts of very richly colored cloth along the
+north wall.  There is a table in the middle of the room that has been made
+from mother-of-pearl.  On top of the table there are several different types
+of chisels, drills, hammers and other various tools.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 1004
+M 0 H 0
+S
+#1007
+Main Avenue~
+As you continue down Main Avenue there is a sense of electricity in the
+water around you; there is something magical about this city.  As school of
+small silver fish pass over your head you notice some Autrian children to
+your north.  They are flipping their fins at one another and appear to be
+engaged in a game of tag.  To the west is a small shop.  To the east you can
+hear the sound of pots clanging together.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 1011
+D1
+~
+~
+~
+0 0 1009
+D2
+~
+~
+~
+0 0 1004
+D3
+~
+~
+~
+0 0 1008
+M 0 H 0
+S
+#1008
+Lily's Rug Shop~
+As you pass through the entrance to this shop you can't help but look
+around in amazement.  Large ornate braided rugs cover every inch of the cave.
+All of them are very rich in color and have been sewn together with heavy
+gold thread.  To the south is a small silver and brass table with a basket
+full of gold thread on top.  Next to the basket is a sign.  
+~
+0 8 0
+E
+sign~
+The sign reads: Thank you for visiting.  Please come again.  All hail
+Queen Karina.  
+~
+E
+room~
+~
+E
+sign~
+The sign reads: Thank you for visiting.  Please come again.  All hail
+Quenn Karina.  
+~
+E
+sign~
+~
+E
+sing~
+~
+E
+sign~
+The sign reads: Thank you for visiting.  Please come again.  All hail
+Queen Karina.  
+~
+D1
+~
+~
+~
+0 0 1007
+M 0 H 0
+S
+#1009
+The Gathering Place~
+It appears this room is being prepared for a grand party.  Four long
+tables have been set with delicate china plates and polished silverware.  In
+the center of each table is a gold vase.  Each vase if full of flowers that,
+in all of your travels, you have never seen before.  A beautiful grand
+chandelier hangs down from the center of the ceiling, more for the point of
+being ostentatious than useful.  To the north is a pedestal that has been
+carved out of stone.  On top is an elaborate statue, also carved from stone,
+in the likeness of Karina.  The clanging sound is louder now and coming from
+the east.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 1010
+D3
+~
+~
+~
+0 0 1007
+M 0 H 0
+S
+#1010
+A Kitchen~
+As you enter the kitchen you quickly realize preparations are being made
+for a dinner party.  The loud clanging sound now fills your ears.  Large
+cabinets line the north wall, one of them has been left ajar.  The contents
+of the cupboard are spilling out littering the counter below with measuring
+cups and sauce pans.  In the center of the room is a large chopping block. 
+The large bowl of kelp on top of the chopping block has been spilled and
+will soon find it's way to the floor if not tended to soon.  The only exit
+from the kitchen is west.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 1009
+M 0 H 0
+S
+#1011
+Main Avenue~
+The water around you is pulsating with electricity.  As you move down the
+avenue you realize tiny specs of light can be seen, for a moment, in your
+path.  A brightly lit cave can be seen to your west.  To the east there
+appears to be a school.  
+~
+0 12 0
+D0
+~
+~
+~
+0 0 1014
+D1
+~
+~
+~
+0 0 1013
+D2
+~
+~
+~
+0 0 1007
+D3
+~
+~
+~
+0 0 1012
+M 0 H 0
+S
+#1012
+Lazra's Home~
+Upon entering this cave you are very aware that it is full of magic.  The
+feeling of electricity now penetrates your bones.  This cave is decorated in
+large pillows of various color, no furniture.  In the center of the room is
+Lazra, a very mysterious healer.  She is seated on a large royal blue
+pillow.  You notice a sign over the exit east.  
+~
+0 33555464 0
+E
+sign~
+The sign reads: Please rest as long as you like.  May your travels bring
+you good fortune.  
+~
+E
+sign~
+The sign reads: Please rest as long as you like.  May your travels bring
+you good fortune.  
+done
+~
+E
+sign~
+The sign reads: Please rest as long as you like.  May your travels bring
+you good fortune.  
+~
+D1
+~
+~
+~
+0 0 1011
+M 0 H 0
+S
+#1013
+The School.~
+This cave has been turned into a school for the Autrian children. 
+Although there are no students here the evidence of them is everywhere. 
+Many desks line the perimeter of the cave creating a large square.  In the
+center is a large desk where the teacher, Miss Sasha, conducts class.  The
+north wall is completely covered by a large bookshelf.  From the condition
+of the books it is evident they were hastily put away.  The east wall is
+decorated with many drawings created by the children.  To the south you see
+a large calendar containing the events for that day.  Each child's name has
+been written on a list next to the calendar marking their attendance for
+that particular day.  The only exit is west.  
+~
+0 8 0
+E
+cal~
+The calendar marks the attendance of the children whom attend this
+school.  The calendar read: Absent today, Jade, Justice, Taylor.  
+~
+E
+calender~
+The calender marks the students asbsent this day.  It reads: Absent
+today, Jade, Justice, Taylor.  
+~
+E
+cal~
+~
+E
+calendar~
+The calendar marks the attendance for the children whom attend this
+school.  The calender reads: Absent today; Jade, Justice, Taylor.  
+~
+E
+cal~
+~
+E
+calendar~
+,c The calendar marks the attendance of the children whom attend this
+school.  The calendar reads: Absent today; Jade, Justice, Taylor.  
+~
+E
+calendar~
+The calendar marks the attendance of the children whom attend this
+school.  The calendar reads: Absent today; Jade, Justice, Taylor.  
+~
+D3
+~
+~
+~
+0 0 1011
+M 0 H 0
+S
+#1014
+Main Avenue~
+Looking around you notice a small gathering of bright orange starfish in
+the sand to your north.  Overhead is a large school of blue and yellow fish
+swimming in unison.  They dart back and forth so quickly it is hard to keep
+track of them.  To the east and west you notice entrances to caves which
+appear to be homes.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 1018
+D1
+~
+~
+~
+0 0 1016
+D2
+~
+~
+~
+0 0 1011
+D3
+~
+~
+~
+0 0 1015
+M 0 H 0
+S
+#1015
+Inside the Residence.~
+This is the home of a typical Autrian family.  To the west is a beautiful
+chair made from cherry wood which has been covered with a deep blue
+material.  The feet of the chair have been carefully chiseled into eagle
+talons.  To the north is a table that has been carved into the likeness of a
+large sea turtle.  On top of the table is an expensive gold box.  South you
+notice a picture in a beautiful silver frame.  It appears to be a family
+portrait.  The only exit is east.  
+~
+0 8 0
+E
+table~
+The table has been carved into an enormous sea turtle.  The detail is
+perfect.  On top of the table is a large gold box.  
+~
+D1
+~
+~
+~
+0 0 1014
+M 0 H 0
+S
+#1016
+Inside the Residence.~
+The residents of this home are obviously the parents of a newborn Autrian
+child.  To the north is a partially assembled bassinet.  Bits and pieces of
+the bassinet-to-be are scattered around the room.  To the east is a table
+that is piled high with thick books which refer to various stages of
+childhood.  Glancing south you see a beautifully carved highchair. 
+Everything here seems to be a little unorganized.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 1017
+D3
+~
+~
+~
+0 0 1014
+M 0 H 0
+S
+#1017
+The Nursery.~
+The most obvious thing about this nursery are the bright orange and
+yellow fish that have been somehow painted on the walls and ceiling of the
+cave.  There is a large bookshelf north.  It contains every children's story
+you could possibly think of.  All of the books have been neatly put away in
+alphabetical order.  There is a heavy looking crib to the south.  Over the
+crib is a mobile with various colored starfish dangling from it.  Curiously,
+you notice there are no toys in this nursery.  There is a small silver
+plaque over the exit east.  
+~
+0 8 0
+E
+plaque~
+The plaque reads: All of Autria welcomes the new addition to your family.  
+~
+D3
+~
+~
+~
+0 0 1016
+M 0 H 0
+S
+#1018
+The End of Main Avenue~
+You have reached the end of Main Avenue.  To your north are enormous
+platinum gates.  Every inch of the gates has been carefully etched.  To the
+west is a large platinum statue of an eagle with it's wings spread.  To the
+east is another impressive platinum statue of a large fish.  Large smooth
+pearls have been placed in it's eye sockets.  The amount of detail that has
+been poured into each statue makes them appear lifelike.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 1020
+D2
+~
+~
+~
+0 0 1014
+D3
+~
+~
+~
+0 0 1019
+M 0 H 0
+S
+#1019
+The Guards Quarters.~
+You have now entered the royal guards quarters.  The Autrians who live
+here have dedicated their lives to protect and serve their queen.  To the
+north there are many sturdy looking beds lined up neatly.  There is exactly
+the same amount of distance between each bed.  An enormous dark green rug
+covers almost the entire floor.  A large oval table is to your west.  It
+appears to be made from the same sturdy wood as the beds.  As you turn your
+eyes south you are very impressed with a large collection of swords hanging
+on the wall.  Each one has been thoroughly cleaned and polished.  It is very
+obvious that these weapons have been manufactured with the specific intent
+to dichotomize an enemy with ease.  There is a large gold statue of the
+queen next to the exit east.  At the bottom of the statue is an inscription.
+~
+0 8 0
+E
+statue~
+The inscription reads: My loyal guards, I give you my thanks.  Your
+bravery in the line of duty is truly admirable.  {Y -Queen Karina 
+~
+D1
+~
+~
+~
+0 0 1018
+M 0 H 0
+S
+#1020
+Entrance to Queen Karina's Castle~
+The doors to Queen Karina's castle are truly impressive.  Each door is
+made from solid gold.  They have been polished so much that they emit a
+glow.  In the center of each door is a large knocker in the shape of an
+eagle's talon.  To the north and south are several bronze statues of Autrian
+children.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 1021
+D2
+~
+~
+~
+0 0 1018
+M 0 H 0
+S
+#1021
+The Foyer~
+This is the room where visitors are welcomed to the castle.  The ceiling
+here is unusually high.  There are several large chairs the the south.  To
+the north is a long mother-of-pearl table.  There are many large gold
+platters and bowls on top of the table full of various hors d{oeuvres. 
+There is a large gold framed picture of the queen to the east.  
+~
+0 12 0
+D1
+~
+~
+~
+0 0 1022
+D3
+~
+~
+~
+0 0 1020
+M 0 H 0
+S
+#1022
+A Golden Hallway~
+The floor is made from beautiful marble.  The walls and ceiling are
+golden and appear to be glowing.  There is a pulsating electricity in the
+water that surrounds you.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 1024
+D1
+~
+~
+~
+0 0 1023
+D3
+~
+~
+~
+0 0 1021
+M 0 H 0
+S
+#1023
+The Art Gallery~
+The art gallery is where the queen conducts much of her business.  The
+serenity if this rooms makes for the perfect gathering place.  The sweet
+melody of violin music mysteriously fills the water around you.  The north
+and south walls are covered with large gold and platinum framed paintings of
+various scenes.  Each painting has been done with such exquisite detail you
+cant help but want a closer look.  A bright red rug runs down the middle of
+the room to the east and ends at several high-back chairs arranged in a
+large circle.  The east wall has one single painting, a life size portrait
+of Karina.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 1022
+M 0 H 0
+S
+#1024
+A Golden Hallway~
+As you move through the castle you can hear the sound of violin music
+somewhere in the distance.  To the north and west are delicate statues of
+large flowing angel fish.  The statues appear to be carved from ivory and
+have been placed on top of marble pedestals.  The golden hallway continues
+east and south 
+~
+0 8 0
+D1
+~
+~
+~
+0 0 1025
+D2
+~
+~
+~
+0 0 1022
+M 0 H 0
+S
+#1025
+A Golden Hallway~
+The structure of the castle is absolutely amazing.  The walls and ceiling
+are made entirely of gold.  You cannot find a single blemish in the
+craftsmanship.  The marble floor is the smoothest surface you have ever
+felt.  The brightly lit hall continues east and west.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 1026
+D3
+~
+~
+~
+0 0 1024
+M 0 H 0
+S
+#1026
+A Golden Hallway~
+As you venture through the hall a school of tiny silver fish invade your
+space leaving a trail of tiny bubbles in their wake.  The only sound you
+hear are the fish disturbing the water.  The hallway continues east and
+west.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 1027
+D3
+~
+~
+~
+0 0 1025
+M 0 H 0
+S
+#1027
+A Turn in the Hallway~
+You have come to a turn in the hallway.  To the north is a painting of an
+Autrian woman holding a small human child.  The hallway continues south and
+west.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 1028
+D3
+~
+~
+~
+0 0 1026
+M 0 H 0
+S
+#1028
+The Souvenir Room~
+In the center of the room several large smooth polished rocks have been
+stacked on top of each other to create a round pool.  Inside of the rock
+enclosure are hundreds of smaller polished rocks.  Visitors to the castle
+are encouraged to take one of the rocks with them as a small souvenir of
+their trip to the grand castle of Autria.  The only exits are north and
+south.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 1027
+D2
+~
+~
+~
+0 0 1029
+M 0 H 0
+S
+#1029
+A Round Room~
+Lining the perimeter of the room are seahorse statues made from platinum
+and sitting on top of gold pedestals.  The entire floor of the round room is
+covered by a very bright red rug.  The golden ceiling is in the shape of a
+dome.  Hundreds of different fish and other sea creatures have been
+carefully etched into the dome.  There is a sign over two enormous platinum
+doors to the east.  
+~
+0 8 0
+E
+sign~
+The sign reads: Welcome all.  
+~
+D0
+~
+~
+~
+0 0 1028
+D1
+~
+~
+~
+0 0 1030
+M 0 H 0
+S
+#1030
+The Throne Room~
+A red velvet looking rug runs down the center of the room to the east
+ending at marble stairs that lead up to a platform where the queen's throne
+is located.  Her grand throne is made from dark smooth cherry wood with a
+bright red cushion.  The feet have been carved into eagles talons.  There is
+a glow that comes from somewhere behind the throne of the queen.  You can
+feel this room is full of magic.  There is a sign over the exit west.  
+~
+0 8 0
+E
+sign~
+The sign reads: Our beloved queen.  
+~
+D3
+~
+~
+~
+0 0 1029
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 1002 spec_poison
+M 1004 spec_janitor
+M 1006 spec_janitor
+M 1008 spec_cast_mage
+M 1010 spec_poison
+M 1011 spec_cast_mage
+M 1013 spec_poison
+M 1019 spec_breath_acid
+M 1024 spec_poison
+M 1028 spec_poison
+M 1030 spec_cast_cleric
+S
+
+
+
+#RESETS
+M 0 1000 2 1000 10
+E 0 1000 0 16
+M 0 1000 2 1001 10
+E 0 1000 0 16
+M 0 1004 2 1004 10
+M 0 1006 1 1006 10
+E 0 1006 0 16
+M 0 1008 1 1008 10
+E 0 1007 0 1
+M 0 1002 1 1009 10
+E 0 1001 0 6
+M 0 1010 1 1010 10
+G 0 1026 0
+E 0 1009 0 17
+O 0 1004 0 1011
+O 0 1014 0 1012
+M 0 1012 1 1012 10
+M 0 1013 1 1013 10
+E 0 1005 0 19
+G 0 1013 0
+O 0 1018 0 1015
+P 0 1021 0 1018 10
+M 0 1011 1 1017 10
+E 0 1017 0 24
+M 0 1000 4 1018 10
+E 0 1000 0 16
+M 0 1019 1 1019 10
+E 0 1019 0 16
+E 0 1003 0 4
+M 0 1000 2 1020 10
+E 0 1000 0 16
+M 0 1024 4 1024 10
+G 0 1024 0
+O 0 1029 0 1028
+P 0 1028 0 1029 10
+M 0 1030 1 1030 10
+E 0 1030 0 21
+E 0 1027 0 23
+E 0 1016 0 6
+M 0 1028 1 1030 10
+E 0 1012 0 6
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

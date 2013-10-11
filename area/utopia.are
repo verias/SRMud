@@ -1,0 +1,5872 @@
+#AREADATA
+Name { ALL } Brysaar Utopia~
+Builders Brysaar~
+VNUMs 19331 19549
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#19331
+durik bartender~
+Durik~
+A bartender stands behind a bar here, awaiting your order.
+~
+Before you stands Durik, bartender to the Seventh Circle.  Durik is an
+experienced bartender, and very good at what he does.  He whirls bottles
+through the air skillfully, making each drink look like every penny its
+worth.  
+~
+human~
+ABRW 0 0 0
+40 0 10d98+804 40d10+100 4d7+10 none
+-5 -5 -5 -3
+0 0 0 0
+(null) (null) male 180
+AHMV ABCDEFGHIJK medium unknown
+#19332
+utopian citizen~
+a utopian citizen~
+A utopian citizen sits here, enjoying a drink.
+~
+This man looks as if he frequents the Seventh Circle.  He sits here
+speaking with anyone who will listen.  It is not overly hard to tell that he
+is slightly drunk.  
+~
+human~
+AB 0 700 0
+30 0 10d60+520 30d10+100 3d6+8 digestion
+-1 -1 -1 0
+FKN 0 0 0
+stand stand female 135
+AHMV ABCDEFGHIJK medium unknown
+#19333
+doriah tailor~
+Doriah~
+The tailor of the town is here, sewing a waistcoat.
+~
+This is Doriah, tailor of Utopia.  Doriah was named after the mythical
+princess of the world from which the shop too got its name.  The woman
+stands fairly short, at a height of around an even five feet.  She is by no
+means a fair princess, but her tailoring is definitely fit for the upper
+class.  
+~
+human~
+ABRW 0 0 0
+10 0 3d23+120 10d10+100 2d3+2 none
+6 6 6 6
+0 0 0 0
+(null) (null) male 45
+AHMV ABCDEFGHIJK medium unknown
+#19334
+citizen utopian wandering~
+a utopian citizen~
+A utopian citizen wanders the streets amiably here.
+~
+This person appears to be happy with their city, and happy with their
+life.  They wander the streets, enjoying the view and the fresh air that the
+city allows.  
+~
+human~
+AV 0 700 0
+23 0 7d44+355 23d10+100 3d5+5 digestion
+1 1 1 3
+FIJ 0 0 0
+(null) (null) none 103
+AHMV ABCDEFGHIJK medium unknown
+#19335
+peddler~
+a peddler~
+A peddler has set up a booth in the street here.
+~
+This determined peddler has decided to sell what he has even if he can't
+afford a shop.  He stands here now in front of a shaded booth, displaying
+his good for anyone who passes by to see.  
+~
+human~
+ABRW 0 500 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+0 0 0 0
+(null) (null) female 112
+AHMV ABCDEFGHIJK medium unknown
+#19336
+young wizard zarellan~
+Zarellan~
+A young wizard stands behind a long counter here.
+~
+Zarellan may be young, but he knows quite a bit about magic.  He is famed
+throughout Utopia for his aid in the rapid construction of the city.  He
+smiles at you as you look at him.  You can tell that his shop is doing very
+well.  
+~
+human~
+ABRW H 500 0
+35 0 10d76+654 35d10+100 4d6+9 none
+-3 -3 -3 -1
+0 0 0 0
+(null) (null) female 157
+AHMV ABCDEFGHIJK medium unknown
+#19337
+village trainer man~
+the village trainer~
+A wise young man stands here, helping all in whatever way he can.
+~
+This man is the village trainer.  More than anything, this title is
+symbolic, for it has been long since the city of Utopia has been referred to
+as a village.  He looks young and strong.  Well suited for teaching all you
+need to know.  
+~
+human~
+ABJ 0 600 0
+50 0 10d167+1149 50d10+100 5d6+13 digestion
+-9 -9 -9 -7
+0 0 0 0
+(null) (null) female 225
+AHMV ABCDEFGHIJK medium unknown
+#19338
+poshank healer man~
+Poshank~
+A healer stands here, willing to heal for a few gold coins.
+~
+The healer of the city of Utopia stands before you, Poshank Galynn. 
+Poshank is a tall thin man with neat black hair and a bored look about him. 
+He stands with an air of boredom about him, but doesn't fail to heal less
+experienced adventurers, or those who have the coin to pay for the service. 
+~
+human~
+ABRW 0 0 0
+75 0 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+0 0 0 0
+(null) (null) female 337
+AHMV ABCDEFGHIJK medium unknown
+#19339
+young cleric~
+a young cleric~
+A young cleric welcomes you as you enter the temple of Utopia.
+~
+This bright-eyed young man seems content to stand and greet all those who
+choose to enter the temple of Utopia.  Be it for prayer to the gods of the
+southern continent, for the healing services of the resident healer, or to
+visit the master of skills on the eastern side of the temple, all are
+welcome in this place.  
+~
+human~
+AB 0 0 0
+15 0 5d31+200 15d10+100 2d4+2 claw
+4 4 4 6
+0 0 N 0
+(null) (null) female 67
+AHMV ABCDEFGHIJK medium unknown
+#19340
+blacksmith smith man~
+a blacksmith~
+A burly looking blacksmith stands here.
+~
+The city blacksmith stands before you.  He is a tall and well built man,
+both upper and lower body.  He is known to be of good quality as far as most
+of his objects are concerned, it is rumored, however, that his wares
+concerning armor leave a bit something to be desired.  The blacksmith greets
+all who enter his shop openly and cheerfully, with hammer in hand.  
+~
+human~
+ABRW 0 0 0
+35 0 10d76+654 35d10+100 4d6+9 peck
+-3 -3 -3 -1
+0 ABQ 0 0
+(null) (null) female 157
+AHMV ABCDEFGHIJK medium unknown
+#19341
+grocer~
+the city grocer~
+A squat little grocer is here, restocking his shelves.
+~
+This little man is full of mirth.  Though short, and a bit overweight,
+the grocer still seems happy with the way life is going for him.  Creases
+made from constant expressions of mirth adorn his large rosy cheeks, and he
+has a glitter in his eye that only comes from contentment with life.  
+~
+human~
+ABRW 0 0 0
+10 0 3d23+120 10d10+100 2d3+2 none
+6 6 6 6
+0 ABQ 0 0
+(null) (null) female 45
+AHMV ABCDEFGHIJK medium unknown
+#19342
+innkeeper keeper~
+the innkeeper~
+An innkeeper stands here, personally taking orders for drinks and meals.
+~
+The innkeeper of the Traveler's Rest, known as Frederick Chaston to his
+friends, has been running the inn for years.  He comes out frequently to do
+business and sell drinks personally.  He is a tall man who always boasts a
+smile, and truly sees the good in people.  Most people, anyway.  He is quite
+capable of defending his home with a good bit of tenacity.  
+~
+human~
+ABRW 0 0 0
+35 0 10d76+654 35d10+100 4d6+9 none
+-3 -3 -3 -1
+0 ABQ 0 0
+(null) (null) female 157
+AHMV ABCDEFGHIJK medium unknown
+#19343
+server woman~
+a server~
+A woman stands here with a hot plate of food.
+~
+This server seems to typically enjoy her job.  Apart from the occasional
+tough customer or the overly friendly stranger, she gets along well at the
+inn.  Servers at the Traveler's Rest are generally attractive, but they keep
+themselves moderately clad.  
+~
+human~
+AB 0 200 0
+25 0 8d48+400 25d10+100 3d5+7 beating
+0 0 0 2
+FI 0 0 0
+(null) (null) either 112
+AHMV ABCDEFGHIJK medium unknown
+#19344
+cook~
+a cook~
+A cook is here, putting together a freshly cooked meal.
+~
+This man is an expert at cooking and arranging the many meals served at
+this establishment.  The cook is small but quick, adept at staying out of
+the way of his associates and still able to dart from oven to oven to pull a
+dish out before it is burned.  His clothes fit, his hat is snug, and his
+shoes are made for long hours on his feet.  
+~
+human~
+AB 0 100 0
+30 0 10d60+520 30d10+100 3d6+8 claw
+-1 -1 -1 0
+CH 0 H 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#19345
+utopian citizen~
+A utopian citizen~
+A utopian citizen wanders the streets, keeping his eyes downcast.
+~
+This citizen does not appear to be as content as the average passerby. 
+Though the young human offers no complaint, the general expression and body
+language of the individual hint at an unsatisfied nature.  
+~
+human~
+A 0 -300 0
+27 0 9d52+446 27d10+100 3d5+8 digestion
+0 0 0 1
+I 0 0 0
+(null) (null) none 121
+AHMV ABCDEFGHIJK medium unknown
+#19346
+peacekeeper guard keeper man~
+a peacekeeper~
+A large peacekeeper stands here, watching for public disturbances.
+~
+Before you is a peacekeeper of Utopia.  Those assigned to guard the city
+streets, peacekeepers have a tendency to look the other way when it comes to
+all but the most violent crimes.  The large man has seen few such conflicts,
+but is by no means inexperienced, as only seasoned warriors are accepted
+into the ranks of the Utopian guard.  These guards come from various
+backgrounds, however, including crusaders, city guards, mercenaries, and
+bandits.  
+~
+human~
+Ae 0 0 0
+43 0 10d115+900 43d10+100 4d7+12 lunge
+-6 -6 -6 -4
+CFIK 0 0 0
+(null) (null) female 193
+AHMV ABCDEFGHIJK medium unknown
+#19347
+poor field hand~
+a field hand~
+A poor field hand returns home from a hard day's work.
+~
+This man is wearing almost everything he owns.  The ragged shirt and
+tattered jeans were his personal sacrifice made in order to put his family
+into even a primitive shelter.  The worn hoe he holds in hands now succumbs
+to the purpose of walking stick as he walks exhausted to what little rest he
+does get.
+~
+human~
+A 0 400 0
+30 0 10d60+520 30d10+100 3d6+8 bite
+-1 -1 -1 0
+E 0 0 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#19348
+miscreant figure dark~
+a wandering miscreant~
+A dark figure travels stealthily through the streets.
+~
+This individual is obviously up to no good.  The miscreant does not
+choose to walk, but to sneak through the streets, always careful to remain
+unnoticed.  The figure sneaks along the road with ease coming from years of
+experience.  
+~
+human~
+AP PQ -500 0
+28 0 9d55+470 28d10+100 3d5+9 crunch
+0 0 0 1
+FHN 0 0 0
+(null) (null) none 126
+AHMV ABCDEFGHIJK medium unknown
+#19349
+rat~
+a large rat~
+A large rat crawls around here.
+~
+This rat is large and most definitely ugly.  Fur has been torn out of its
+hide in large blotches, leaving pink scars that appear huge when held in
+relation to the rat itself.  The beady eyes of the rodent are not very
+alert, but its nose always twitches.  It has a sharp tone to its movement,
+and a sharper edge to its teeth.  
+~
+unique~
+A Z -100 0
+8 0 2d19+93 8d10+100 2d3+1 crush
+7 7 7 7
+FH 0 LQ 0
+(null) (null) none 36
+AGV ACDEFHJKUV medium unknown
+#19350
+homeless unfortunates man~
+one of the city's unfortunates~
+A homeless man wanders aimlessly, looking for something for dinner.
+~
+This man was dubbed by the overseers too weak to work the fields. 
+Unmarried and cast from his job, it was not long before the unfortunate
+individual was unable to afford his home any longer, and hence he has ended
+up homeless, living in the sewers, where at least it is most times dry.  He
+smells of rats and sewage, his clothes are burnt, tattered, and dirty, and
+there is grime covering his face.  
+~
+human~
+A 0 200 0
+12 0 4d26+151 12d10+100 2d4+0 bite
+5 5 5 7
+C 0 L Q
+(null) (null) female 54
+AHMV ABCDEFGHIJK medium unknown
+#19351
+snake gray~
+a gray snake~
+A short gray snake slithers through the water.
+~
+This short snake roams the sewers looking for rats to feed off upon.  The
+snake is an average swimmer, and moves almost as rapidly on land.  Though
+not poisonous, the short snake is suffocating the smaller rats through
+constriction, and repeated puncture wounds from serrated fangs.  
+~
+snake~
+A 0 0 0
+14 0 5d30+184 14d10+100 2d4+1 crush
+4 4 4 6
+0 0 L I
+(null) (null) male 63
+AGXYc ADEFKLPQVX medium unknown
+#19352
+woman~
+a well dressed woman ~
+A well dressed woman roams here, spending her husband's money.
+~
+This tall woman walks about with an air of superiority.  She holds her
+head up high, proud of the fact that she has the money to do with what she
+pleases.  The woman has a long stride, and walks quickly as if she knows
+where she's going and has little time to get there.  
+~
+human~
+AV 0 100 0
+22 0 7d42+334 22d10+100 3d5+5 beating
+1 1 1 3
+0 0 0 0
+(null) (null) either 99
+AHMV ABCDEFGHIJK medium unknown
+#19353
+child kid~
+a child~
+A child seems content to play in the street.
+~
+Small, happy, and very loud.  The child is set on being an adventurer, as
+is evident by his repeated challenges to passerbys.  He wears a few assorted
+pieces of clothing and plays with a wooden toy sword.  
+~
+human~
+A 0 700 0
+13 0 4d28+168 13d10+100 2d4+0 lunge
+5 5 5 7
+K 0 M 0
+(null) (null) female 58
+AHMV ABCDEFGHIJK small unknown
+#19354
+burly peacekeeper~
+a burly peacekeeper~
+This burly peacekeeper stands here, watching for public disturbances.
+~
+Before you is a rather burly peacekeeper of Utopia.  Those assigned to
+guard the city streets, peacekeepers have a tendency to look the other way
+when it comes to all but the most violent crimes.  The large man has seen
+few such conflicts, but is by no means inexperienced, as only seasoned
+warriors are accepted into the ranks of the Utopian guard.  These guards
+come from various backgrounds, however, including crusaders, city guards,
+mercenaries, and bandits.  
+~
+human~
+AQe HOVc 0 0
+85 0 12d823+2891 85d10+100 5d10+25 bite
+-23 -23 -23 -21
+0 0 0 0
+(null) (null) female 382
+AHMV ABCDEFGHIJK medium unknown
+#19355
+group of peacekeepers~
+a large group of peacekeepers~
+This large group of peackeepers patrols the streets.
+~
+A large mass of bodies, armor, and swords make up this group of
+peacekeepers.  They move about, talking amongst themselves and not really
+paying attention to whats going on around themselves.  
+~
+human~
+Ae HOVc 0 0
+101 40 13d1446+3994 101d10+100 6d11+30 slice
+-45 -45 -45 -40
+0 0 0 0
+(null) (null) male 454
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#19331
+belgarions key~
+belgarion's house key~
+Belgarion's house key rests here.~
+silver~
+key W AO
+0 0 0 0 0
+1 1 0 P
+#19332
+fountain~
+a large fountain~
+A large fountain provides cool water to passing adventurers.~
+stone~
+fountain R 0
+-1 -1 'water' 0 0
+0 0 0 P
+#19333
+utopian whisky~
+a utopian whisky~
+This purplish liquid looks like a potent drink.~
+glass~
+drink 0 A
+2 2 'whisky' 0 0
+15 2 100 P
+#19334
+blue flute wine~
+a blue wine flute~
+This blue wine looks extremely succulent.~
+glass~
+drink 0 A
+1 1 'red wine' 0 0
+15 1 110 P
+#19335
+tart mixture~
+a tart mixture~
+This tart mixture will tingle the tastebuds.~
+glass~
+potion 0 A
+40 'reserved' 'reserved' 'reserved' 'reserved'
+15 1 1400 P
+#19336
+table~
+a table~
+A table rests here.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#19337
+black pants~
+a pair of nice black pants~
+A long pair of nice pants lie here.~
+cotton~
+clothing 0 AF
+0 0 0 0 0
+10 1 1000 P
+A
+2 1
+#19338
+dress shirt~
+a dress shirt~
+A dress shirt rests here, folded quite nicely.~
+cotton~
+clothing 0 AI
+0 0 0 0 0
+15 1 850 P
+A
+3 1
+#19339
+dress long~
+a long dress~
+A fancy long dress lies here.~
+cotton~
+clothing 0 ADFI
+0 0 0 0 0
+13 1 1300 P
+A
+3 1
+#19340
+rough map~
+a roughly made map of Utopia~
+A roughly made map of the city of Utopia has been scrawled on this piece of parchment.  It looks sloppy.
+{M          O-O-O-O-O
+          |       |
+          O       O
+          |       |
+          O       O
+          |       |
+          O-O-O-O-O
+{K              |
+              O
+              |
+              O
+              |
+{G            O-{KO{G-O
+            |   |
+            O   O
+            |   |
+            O   O
+            |   |
+{G            O-{KO{G-O{K
+              |  ~
+hemp~
+map 0 A
+0 0 0 0 0
+1 1 50 P
+#19341
+fancy sword~
+a fancy sword~
+This fancy sword looks pretty, but would have little practical use.~
+bronze~
+weapon 0 AN
+sword 4 4 slice 0
+8 1 40 P
+#19342
+shiny wand~
+a shiny wand~
+A shiny wand sparkles in the sunlight here.~
+crystal~
+weapon b AN
+staff 2 6 beating 0
+5 1 25 P
+A
+4 1
+#19343
+peacock feather~
+a bright peacock feather~
+A bright peacock feather looks quite soft.~
+feathers~
+wand 0 AO
+15 4 3 'reserved' 0
+10 1 50 P
+#19344
+key~
+ashgaul's house key~
+The key to a Utopia home lies here.~
+copper~
+key W A
+0 0 0 0 0
+1 1 4000 P
+#19345
+portal utopia~
+a portal to Utopia~
+A portal to the city of Utopia is here.~
+nothing~
+portal 0 A
+A 0 0 CDHIJLO 0
+5 1 500 P
+#19346
+potion azure~
+an azure potion~
+An azure potion bubbles slightly here.~
+glass~
+potion 0 A
+40 'reserved' 'reserved' 'reserved' 'reserved'
+10 1 800 P
+#19347
+red wand~
+a red wand~
+A red wand rests here~
+ruby~
+wand 0 AO
+30 5 5 'reserved' 0
+30 0 1500 P
+#19348
+white wand~
+a white wand~
+A white wand rests here.~
+ivory~
+wand 0 AO
+30 4 4 'reserved' 0
+30 1 1500 P
+#19349
+chairs~
+a comfortable chair~
+A set of comfortable looking chairs sits here.~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 9 0 P
+#19350
+long table~
+a long table~
+An elegant table sits in the center of the room here.~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#19351
+bed large~
+a large bed~
+A large bed rests here, looking quite comfortable.~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#19352
+bench~
+a carved marble bench~
+A carved marble bench looks like it would make a comfortable seat.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 150 0 P
+#19353
+horseshoe~
+a horseshoe~
+A horseshoe rests here.~
+iron~
+treasure 0 AO
+0 0 0 0 0
+0 11 1 P
+#19354
+iron skillet pan~
+an iron skillet~
+The skillet is certainly large, and heavy, and the iron is well made. 
+The wooden handle, however, is not the strongest of things, and would not
+hold up to the abuse that repeated bashings over the head would give it. ~
+unknown~
+weapon 0 AO
+staff 2 6 blast 0
+5 12 5 P
+#19355
+helmet~
+a helmet~
+A slightly battered helmet is here.~
+wood~
+armor 0 AE
+A A A 0 0
+5 12 25 P
+#19356
+spear point~
+a spear point~
+A spear point sits here.~
+steel~
+weapon 0 AN
+bow 3 5 crunch 0
+7 6 35 P
+#19357
+short blade~
+a short blade~
+A small blade, looking a lot like a short sword, lies here.~
+steel~
+weapon 0 AN
+sword 4 5 sunder 0
+10 9 50 P
+#19358
+large hammer~
+a large hammer~
+A large hammer sits here.~
+steel~
+weapon 0 AN
+staff 5 5 peck 0
+13 19 65 P
+#19359
+bracer~
+a stout iron bracer~
+A stout iron bracer sits here.~
+iron~
+armor 0 AM
+B B B 0 0
+17 20 85 P
+A
+18 1
+#19360
+kite shield~
+a kite shield~
+A battered kite shield is here.~
+iron~
+armor 0 AJ
+AB AB AB A 0
+20 40 100 P
+A
+19 1
+#19361
+large axe~
+a large axe~
+A large axe designed for more than the chopping of trees is here.~
+iron~
+weapon 0 AN
+mace 6 8 wrath D
+25 15 125 P
+#19362
+apple~
+an apple~
+An apple rests here.~
+apples~
+food 0 AO
+BCD 0 0 0 0
+0 1 1 P
+#19363
+banana~
+a banana~
+A banana sits here.~
+fruit~
+food 0 AO
+BCD 0 0 0 0
+0 1 1 P
+#19364
+coffee bean~
+some coffee beans~
+A small pouch of coffee beans sit here.~
+coffeebeans~
+food 0 AO
+A 0 0 0 0
+0 1 1 P
+#19365
+dark chocolate~
+a piece of dark chocolate~
+A dark piece of chocolate sits here.~
+cocoa~
+food 0 AO
+A 0 0 0 0
+0 1 1 P
+#19366
+strip dried meat~
+a narrow strip of dried meat~
+A narrow strip of dried meat site here.~
+meat~
+food 0 AO
+E 0 0 0 0
+0 1 1 P
+#19367
+sticky danish~
+a sticky danish~
+A sticky looking danish sits here.~
+bread~
+food 0 AO
+AC 0 0 0 0
+0 1 1 P
+#19368
+cake~
+a small cake~
+A small cake sits here.~
+bread~
+food 0 AO
+C 0 0 0 0
+0 1 1 P
+#19369
+steak~
+a thick steak~
+A thick steak rests here.~
+meat~
+food 0 AO
+ABCD 0 0 0 0
+0 2 1 P
+#19370
+piano~
+a piano~
+A piano rests here.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 450 0 P
+#19371
+common room key~
+a key to the common room~
+A small key sits here.~
+iron~
+key 0 A
+0 0 0 0 0
+1 1 100 P
+#19372
+honey ham~
+a honey glazed ham~
+A large honey glazed ham has been left here.~
+meat~
+food 0 AO
+CE 0 0 0 0
+0 3 1 P
+#19373
+salad~
+a salad~
+A crisp looking salad sits here.~
+greens~
+food 0 A
+ABC 0 0 0 0
+0 3 1 P
+#19374
+tall ale~
+a tall ale~
+A tall glass of ale has been placed here.~
+glass~
+drink 0 A
+2 2 'ale' 0 0
+0 2 1 P
+#19375
+cot~
+a cot~
+A cot is here.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 80 0 P
+#19376
+broadsword sword wide~
+a wide broadsword~
+A wide broadsword rests here.~
+steel~
+weapon 0 AN
+sword 7 11 slice 0
+40 8 200 P
+#19377
+bracelet silver gold~
+a silver and gold bracelet~
+A silver and gold bracelet is here.
+A small engraving reads, 'My love for you will be everlasting.'~
+gold~
+treasure S AM
+0 0 0 0 0
+30 1 300 P
+A
+13 30
+#19378
+house key~
+aza and nilla's house key~
+A small house key rests here.~
+silver~
+key W A
+0 0 0 0 0
+5 1 10000 P
+#19379
+house key~
+a house key~
+A house key is here.~
+silver~
+key W A
+0 0 0 0 0
+1 1 500 P
+#19380
+belt utopia seal~
+a belt depicting Utopian leadership~
+A belt with a large golden Seal of Utopia is here.~
+leather~
+armor G AL
+ABC ABC ABC B 0
+44 3 220 P
+A
+13 35
+A
+12 15
+A
+17 -2
+#19381
+A Mithril Key~
+a mithril key~
+A mithril key sits here~
+mithril~
+key W AO
+0 0 0 0 0
+1 0 0 P
+#19382
+Well Made Bed~
+a well made bed~
+This bed is covered in thick green blankets and appears to be very inviting.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#19383
+Large Sofa~
+a large sofa~
+This large sofa is made of a white leather and looks very comfortable.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#19384
+Four Poster Bed~
+a large four poster bed~
+This large four poster bed is covered in deep green blankets and pillows, appearing very comfortable.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#19385
+Circle Table~
+a circular table~
+This circular table can easily seat five people.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#19386
+cedar desk~
+a cedar desk~
+This cedar desk makes a good place for reading.~
+wood~
+container R 0
+1000 AC 0 0 0
+0 0 0 P
+#19387
+Plush Chair~
+a plush chair~
+This plush chair looks extremely comfortable.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#19388
+corpse of Durith~
+the corpse of durith~
+The corpse of Durith has been placed on the altar. The colors of Utopia draped around him.~
+meat~
+treasure 0 0
+0 0 0 0 0
+0 0 1 P
+#19389
+official poster~
+an official poster~
+An offical looking poster has been placed here.~
+hemp~
+trash R 0
+0 0 0 0 0
+0 400 1 P
+E
+poster~
+{RA message from Royal Maglos:
+ 
+The haitorin known as Keiran is charged with murder, intent to murder,
+threats against the Utopian populace to that end, and threats of theft
+towards the Utopian people.  I will not let this stand.  The haughty
+thief believes he can challenge a whole Realm and expect us all to
+give in.  I say no--I say that if you all unite firmly behind me, we
+can rid ourselves of this plague of theft and murder forever.
+ 
+{WI shall not desert my people to a petty haitorin.
+ 
+If he is declaring war by himself against Utopia, then I declare war on
+him, with all of the forces of Utopia.  I ask that you, the people,
+join me against this rabble-rouser and we shall be forever rid of
+future problems in our nation.  Have I not provided security for you?
+Are we not prospering as a nation?
+ 
+We can end this for good.
+ 
+Maglos Nefriti
+Lord of {RU{mtopia{x
+~
+E
+official~
+{RA message from Royal Maglos:
+ 
+The haitorin known as Keiran is charged with murder, intent to murder,
+threats against the Utopian populace to that end, and threats of theft
+towards the Utopian people.  I will not let this stand.  The haughty
+thief believes he can challenge a whole Realm and expect us all to
+give in.  I say no--I say that if you all unite firmly behind me, we
+can rid ourselves of this plague of theft and murder forever.
+ 
+{WI shall not desert my people to a petty haitorin.
+ 
+If he is declaring war by himself against Utopia, then I declare war on
+him, with all of the forces of Utopia.  I ask that you, the people,
+join me against this rabble-rouser and we shall be forever rid of
+future problems in our nation.  Have I not provided security for you?
+Are we not prospering as a nation?
+ 
+We can end this for good.
+ 
+Maglos Nefriti
+Lord of {RU{mtopia{x
+~
+#19390
+bread crumb~
+a bread crumb~
+A bread crumb lies cast aside here.~
+bread~
+food 0 A
+A 0 0 0 0
+0 0 1 P
+#19391
+simple scabbard~
+a simple scabbard~
+Fashioned from plain leather this scabbard looks like it could hold most weapons.~
+leather~
+none 0 AY
+0 0 0 0 0
+10 2 30 P
+A
+17 -1
+#0
+
+
+
+#ROOMS
+#19331
+Doriah's Tailor~
+This shop was named after the legendary utopian princess Doriah, who was
+allegedly the fairest maiden to walk the southern continent.  Though perhaps
+a bit outclassed, the resident tailor tries her best to live up to the
+legend.  Here it is possible to order hand made coats and dresses.  In fact,
+she even cobbles.  
+~
+0 36 0
+D2
+~
+~
+~
+0 0 19351
+M 0 H 0
+S
+#19332
+A Quiet Entrance~
+You have entered a quiet room in this large house.  This entrance is not
+grand, but it is quaint, and very acceptably found in this sort of house. 
+The room is well decorated.  On the floor is a nice carpet, and the walls
+are smooth and well crafted.  Two other rooms can be found on opposite
+walls.  
+~
+0 36 0
+D0
+~
+~
+~
+1 0 19333
+D1
+~
+~
+~
+4 0 19344
+D2
+~
+~
+~
+0 0 19389
+M 0 H 0
+S
+#19333
+A Bedroom~
+This cozy bedroom looks like it would be a comfortable place to sleep. 
+The room is dim, but light enough to see by remains.  A bed lies on the
+northern wall of the room.  Its not fancy, but it looks like it would do its
+task well.  
+~
+0 36 0
+D2
+~
+~
+~
+1 0 19332
+M 0 H 0
+S
+#19334
+Near the Shore~
+The water here is shallow.  Should you choose to submerge yourself it
+rises up to your neck.  To the south can be seen a sliver of land which
+stretches from horizon to horizon.  This new continent is still very far
+away, but you can tell by the color of the water that the depth remains the
+same up until you reach the shore.  This is convenient for you, but it makes
+for impossible sailing for larger vessels.  
+~
+0 32 0
+D0
+~
+~
+~
+0 0 16310
+D2
+~
+~
+~
+0 0 19335
+M 0 H 0
+S
+#19335
+The Northern Shoreline~
+You have come to the northern shore of this southern continent.  The
+beaches here are clean and sandy, the water shallow and warm.  Small
+idealistic waves constantly lap at the shore, almost all are identical to
+the one before.  In the distance to the south can be seen a small dirt road.
+The seas stretch on to the north.  
+~
+0 32 12
+D0
+~
+~
+~
+0 0 19334
+D2
+~
+~
+~
+0 0 19336
+M 0 H 0
+S
+#19336
+The Beach~
+You are standing now on a large beach at the northern most tip of the
+southern continent.  The beach stretches on to the southwest and southeast,
+wide and calm.  Directly south of here can be seen a small road which trails
+off to the south.  
+~
+0 32 10
+D0
+~
+~
+~
+0 0 19335
+D2
+~
+~
+~
+0 0 19337
+M 0 H 0
+S
+#19337
+A Dirt Road~
+This dirt road leads north and south.  On the northern end of the road is
+a large beach on the end of a peninsula which encircles the area quite well.
+You cannot yet determine where the road ends on the southern side, but it
+leads for quite a ways yet.  Far to the west can be seen a range of large
+mountains, but they are a great distance away yet.  
+~
+0 32 1
+D0
+~
+~
+~
+0 0 19336
+D2
+~
+~
+~
+0 0 19338
+M 0 H 0
+S
+#19338
+The Road to Utopia~
+You have come to a wide road in the plains.  This road stretches on north
+to the sea, and south to some sort of large gate.  The road is wide and
+strait, never straying from its designated path.  On the west side of the
+road can be seen a nice view of a large mountain range which stretches north
+and south.  
+~
+0 32 1
+D0
+~
+~
+~
+0 0 19337
+D2
+~
+~
+~
+0 0 19339
+M 0 H 0
+S
+#19339
+The Gateway to Utopia~
+You have come to the famed Gateway of Utopia.  This structure looks grand
+and expensive.  The gateway has been constructed out of large pieces of
+steel, or some sort of similar metal, and has been built in the shape of a
+large circle.  It stands in the center of the large wall which encircles the
+city.  The road on which you now travel will take you wither into the city
+to the south, or to the sea to the north.  
+~
+0 32 1
+D0
+~
+~
+~
+0 0 19338
+D2
+~
+gateway~
+~
+1 0 19340
+M 0 H 0
+S
+#19340
+{RU{Mtopia Circle~
+This is the entrance to the city of Utopia.  This is the part of town
+where the buildings are largest.  They eclipse the smaller dwellings in the
+rest of the city.  Directly south of here lies the royal abode, where the
+king of this continent hangs his hat.  To the east and west Utopia Circle
+continues.  Two large fountains can be seen on the north side of the street
+by the gateway.  The water looks cool and crisp.  
+~
+0 32 1
+D0
+~
+~
+~
+1 0 19339
+D1
+~
+~
+~
+0 0 19351
+D2
+~
+~
+~
+0 0 19535
+D3
+~
+~
+~
+0 0 19341
+M 0 H 0
+S
+#19341
+{RU{Mtopia Circle~
+Utopia Circle stretches forth east and west here.  On the north and south
+sides of the road are large decorated buildings.  These homes and shops are
+all made out of a white stone with a texture similar to granite.  The
+streets are seldom crowded, but one or two people can almost always be seen
+wandering upon them.
+~
+0 32 1
+D0
+~
+~
+~
+0 0 19388
+D1
+~
+~
+~
+0 0 19340
+D2
+~
+~
+~
+4 19331 19352
+D3
+~
+~
+~
+0 0 19342
+M 0 H 0
+S
+#19342
+{RU{Mtopia Circle~
+On this northwest corner of Utopia Circle lie several large houses. 
+These houses are very similar to those on the rest of the circle, large and
+chalky white.  You can tell that to the south the buildings get a bit
+smaller than the grand estates along the northern most part of the city. 
+They are, however, still quite large.  
+~
+0 32 1
+D0
+~
+~
+~
+1 0 19353
+D1
+~
+~
+~
+0 0 19341
+D2
+~
+~
+~
+0 0 19343
+D3
+~
+~
+~
+4 19344 19354
+M 0 H 0
+S
+#19343
+{RU{Mtopia Circle~
+You are now on the western end of Utopia Circle.  This segment of the
+road is in between the larger and smaller scaled homes.  Instead of houses,
+several shops line the eastern and western sides of the street.  Only two or
+three look interesting though, the others sell mainly novelties and
+souvenirs to Discordian visitors.  One such peddler seems to have taken up a
+home in the street here.  
+~
+0 32 1
+D0
+~
+~
+~
+0 19378 19342
+D2
+~
+~
+~
+0 0 19344
+D3
+~
+~
+~
+1 0 18001
+M 0 H 0
+S
+#19344
+{RU{Mtopia Circle~
+You are now in the southeastern corner of the Utopia circle.  While the
+buildings may be smaller on the south side of the circle, the town is much
+more populated.  People are constantly traversing up and down the circle,
+back and forth from their homes to their workplace.  The buildings are still
+moderately large, but you can tell that they are much cheaper, as they are
+mostly made of thick wood or light bricks.  The circle continues north and
+east.  
+~
+0 32 1
+D0
+~
+~
+~
+0 0 19343
+D1
+~
+~
+~
+0 0 19345
+D2
+~
+~
+~
+4 19378 19390
+D3
+~
+~
+~
+4 0 19332
+M 0 H 0
+S
+#19345
+{RU{Mtopia Circle~
+You are now deep within the middle class section of the city of Utopia. 
+The streets here are clean and there are always people traversing from one
+point to the next.  Houses border the road on all sides, though a lone shop
+can be seen to the north.  The road continues east and west.  
+~
+0 32 1
+D0
+~
+~
+~
+4 19381 19538
+D1
+~
+~
+~
+0 0 19346
+D3
+~
+~
+~
+0 0 19344
+M 0 H 0
+S
+#19346
+{YC{Krusader Street~
+This is where Utopia Circle meets the larger Crusader Street.  On the
+northern side of the road here is a large building made out of a white
+marble.  Further inspection reveals it to be a large temple where many of
+the people of Utopia seem to be going.  Gazing down Crusader Street, you can
+see more small homes in the distance.  Utopia Circle continues east and
+west.  
+~
+0 32 1
+D0
+~
+~
+~
+0 0 19412
+D1
+~
+~
+~
+0 0 19347
+D2
+~
+~
+~
+0 0 19393
+D3
+~
+~
+~
+0 0 19345
+M 0 H 0
+S
+#19347
+{RU{Mtopia Circle~
+You are now in the middle class segment of the town of Utopia.  This
+place is dappled with many reasonably sized homes and several shops.  One
+particular shop catches your eye to the north.  It seems to be an emporium
+of mystical materials.  Utopia Circle continues to the east and to the west.
+~
+0 32 1
+D0
+~
+~
+~
+0 0 19405
+D1
+~
+~
+~
+0 0 19348
+D3
+~
+~
+~
+0 0 19346
+M 0 H 0
+S
+#19348
+{RU{Mtopia Circle~
+You have come to what appears to be a less wealthy part of town.  The
+buildings here are considerably smaller than those to the north, but they
+are by no means run down.  The populace though seems to enjoy wandering the
+streets here much more than their upper class counterparts.  You may travel
+north or west on the circle from here.  
+~
+0 32 1
+D0
+~
+~
+~
+0 0 19349
+D3
+~
+~
+~
+0 0 19347
+M 0 H 0
+S
+#19349
+{RU{Mtopia Circle~
+This portion of Utopia Circle lies between the upper class and the middle
+class regions of the city.  The street here is not commonly frequented by
+the locals, though every once in a while one will wander by.  Mostly this
+place is used to shop, as strips of small shops line the east and west sides
+of the road.  You may continue north and south.  
+~
+0 32 1
+D0
+~
+~
+~
+0 0 19350
+D2
+~
+~
+~
+0 0 19348
+M 0 H 0
+S
+#19350
+{RU{Mtopia Circle~
+Utopia Circle, being divided as it is into the upper and middle class of
+the city of Utopia, is here on the verge of turning from one to the next. 
+West of here lie the homes of the wealthy, while to the south the scenery
+changes to a more moderate style of living.  In the mean time, the houses
+here are still huge and elegant.  The circle continues west and south from
+here.
+~
+0 32 1
+D0
+~
+~
+~
+1 0 19356
+D1
+~
+~
+~
+1 19379 19357
+D2
+~
+~
+~
+0 0 19349
+D3
+~
+~
+~
+0 0 19351
+M 0 H 0
+S
+#19351
+{RU{Mtopia Circle~
+The entrance to this town seems to be dedicated to the upper crust. 
+Bordering this street are several extremely nice homes and shops.  It seems
+that the people in this part of the town for the most part keep to
+themselves.  A maximum of two or three can be seen traversing the streets. 
+Utopia Circle continues east and west from here.  
+~
+0 150994976 1
+D0
+~
+~
+~
+0 0 19331
+D1
+~
+~
+~
+0 0 19350
+D2
+~
+~
+~
+1 0 19355
+D3
+~
+~
+~
+0 0 19340
+M 0 H 0
+S
+#19352
+The Foyer~
+You have now entered a grand foyer in a large, beautifully built mansion.
+This room, meant to host large receptions, is wide and spacious.  The
+ceiling is high.  In the middle of it hangs a large chandelier, which
+sparkles as tiny beams of light refract off of it.  On the east and west
+walls, two large staircases crawl up to a large balcony above.  Underneath
+these sets of stairs are two doors, and another lies on the southern wall. 
+The front door of this great building is to the north.  
+~
+0 32 0
+D0
+~
+~
+~
+4 19331 19341
+D1
+~
+~
+~
+1 0 19364
+D2
+~
+~
+~
+1 0 19358
+D3
+~
+~
+~
+1 0 19370
+D4
+~
+~
+~
+0 0 19376
+M 0 H 0
+S
+#19353
+The Foyer~
+This room, meant to host large receptions, is wide and spacious.  The
+ceiling is high.  In the middle of it hangs a large chandelier, which
+sparkles as tiny beams of light refract off of it.  On the east and west
+walls, two large staircases crawl up to a large balcony above.  Underneath
+these sets of stairs are two doors, and another lies on the northern wall. 
+The front door of this great building is to the south.
+~
+0 32 0
+D0
+~
+~
+~
+1 0 19359
+D1
+~
+~
+~
+1 0 19371
+D2
+~
+~
+~
+1 0 19342
+D3
+~
+~
+~
+1 0 19365
+D4
+~
+~
+~
+0 0 19377
+M 0 H 0
+S
+#19354
+The Foyer~
+This room, meant to host large receptions, is wide and spacious.  The
+ceiling is high.  In the middle of it hangs a large chandelier, which
+sparkles as tiny beams of light refract off of it.  On the north and south
+walls, two large staircases crawl up to a large balcony above.  Underneath
+these sets of stairs are two doors, and another lies on the western wall. 
+The front door of this great building is to the east.
+~
+0 32 0
+D0
+~
+~
+~
+1 0 19372
+D1
+~
+~
+~
+4 19344 19342
+D2
+~
+~
+~
+0 0 19366
+D3
+~
+~
+~
+0 0 19360
+D4
+~
+~
+~
+0 0 19378
+M 0 H 0
+S
+#19355
+The Foyer~
+You have now entered a grand foyer in a large, beautifully built mansion.
+This room, meant to host large receptions, is wide and spacious.  The
+ceiling is high.  In the middle of it hangs a large chandelier, which
+sparkles as tiny beams of light refract off of it.  On the east and west
+walls, two large staircases crawl up to a large balcony above.  Underneath
+these sets of stairs are two doors, and another lies on the southern wall. 
+The front door of this great building is to the north.  
+~
+0 32 0
+D0
+~
+~
+~
+1 0 19351
+D1
+~
+~
+~
+1 0 19373
+D2
+~
+~
+~
+1 0 19361
+D3
+~
+~
+~
+1 0 19367
+D4
+~
+~
+~
+0 0 19379
+M 0 H 0
+S
+#19356
+The Foyer~
+You have now entered a grand foyer in a large, beautifully built mansion.
+This room, meant to host large receptions, is wide and spacious.  The
+ceiling is high.  In the middle of it hangs a large chandelier, which
+sparkles as tiny beams of light refract off of it.  On the east and west
+walls, two large staircases crawl up to a large balcony above.  Underneath
+these sets of stairs are two doors, and another lies on the northern wall. 
+The front door of this great building is to the south.  
+~
+0 32 0
+D0
+~
+~
+~
+1 0 19362
+D1
+~
+~
+~
+1 0 19374
+D2
+~
+~
+~
+1 0 19350
+D3
+~
+~
+~
+1 0 19368
+D4
+~
+~
+~
+0 0 19380
+M 0 H 0
+S
+#19357
+The Foyer~
+You have now entered a grand foyer in a large, beautifully built mansion.
+This room, meant to host large receptions, is wide and spacious.  The
+ceiling is high.  In the middle of it hangs a large chandelier, which
+sparkles as tiny beams of light refract off of it.  On the north and south
+walls, two large staircases crawl up to a large balcony above.  Underneath
+these sets of stairs are two doors, and another lies on the eastern wall. 
+The front door of this great building is to the west.  
+~
+0 32 0
+D0
+~
+~
+~
+1 0 19369
+D1
+~
+~
+~
+1 0 19363
+D2
+~
+~
+~
+1 0 19375
+D3
+~
+~
+~
+1 19379 19350
+D4
+~
+~
+~
+0 0 19381
+M 0 H 0
+S
+#19358
+The Dining Room~
+Before you now rests a long table meant for the purpose of eating upon. 
+The table appears to be able to seat a good twenty or so people.  On the
+walls hang portraits of the owner's family, dating back to great
+grandfathers and such.  A large door lies on the northern wall.  
+~
+0 32 0
+D0
+~
+~
+~
+1 0 19352
+M 0 H 0
+S
+#19359
+The Dining Room~
+Before you now rests a long table meant for the purpose of eating upon. 
+The table appears to be able to seat a good twenty or so people.  On the
+walls hang portraits of the owner's family, dating back to great
+grandfathers and such.  A large door lies on the wall.
+~
+0 32 0
+D2
+~
+~
+~
+1 0 19353
+M 0 H 0
+S
+#19360
+The Dining Room~
+Before you now rests a long table meant for the purpose of eating upon. 
+The table appears to be able to seat a good twenty or so people.  On the
+walls hang portraits of the owner's family, dating back to great
+grandfathers and such.  A large door lies on the wall.
+~
+0 32 0
+D1
+~
+~
+~
+0 0 19354
+M 0 H 0
+S
+#19361
+The Dining Room~
+Before you now rests a long table meant for the purpose of eating upon. 
+The table appears to be able to seat a good twenty or so people.  On the
+walls hang portraits of the owner's family, dating back to great
+grandfathers and such.  A large door lies on the wall.
+~
+0 32 0
+D0
+~
+~
+~
+1 0 19355
+M 0 H 0
+S
+#19362
+The Dining Room~
+Before you now rests a long table meant for the purpose of eating upon. 
+The table appears to be able to seat a good twenty or so people.  On the
+walls hang portraits of the owner's family, dating back to great
+grandfathers and such.  A large door lies on the wall.
+~
+0 32 0
+D2
+~
+~
+~
+1 0 19356
+M 0 H 0
+S
+#19363
+The Dining Room~
+Taking up the center of the room is an ornately crafted table, able to
+seat perhaps twenty to thirty people comfortably.  Carved wooden chairs are
+in place about the table in order to serve that purpose.  Upon the walls are
+large lanterns, hung from iron fixtures that complement the decor of the
+room.  Between the lanterns are several paintings of landscapes.  
+~
+0 32 0
+D3
+~
+~
+~
+1 0 19357
+M 0 H 0
+S
+#19364
+The Kitchen~
+The mansion kitchen is well equipped to handle whatever load may be
+placed upon it.  On one wall alone there lie three stoves, fully prepared
+to pump out bread, cakes, or pastries.  In the center of the room is a large
+table made out of a hard wood.  Upon it can be seen many scars where the
+knife has come to meet the table surface.  
+~
+0 32 0
+D3
+~
+~
+~
+1 0 19352
+M 0 H 0
+S
+#19365
+The Kitchen~
+The mansion kitchen is well equipped to handle whatever load may be
+placed upon it.  On one wall alone there lie three stoves, fully prepared to
+pump out bread, cakes, or pastries.  In the center of the room is a large
+table made out of a hard wood.  Upon it can be seen many scars where the
+knife has come to meet the table surface.  
+~
+0 32 0
+D1
+~
+~
+~
+1 0 19353
+M 0 H 0
+S
+#19366
+The Kitchen~
+The mansion kitchen is well equipped to handle whatever load may be
+placed upon it.  On one wall alone there lie three stoves, fully prepared to
+pump out bread, cakes, or pastries.  In the center of the room is a large
+table made out of a hard wood.  Upon it can be seen many scars where the
+knife has come to meet the table surface.  
+~
+0 36 0
+D0
+~
+~
+~
+0 0 19354
+M 0 H 0
+S
+#19367
+The Kitchen~
+The mansion kitchen is well equipped to handle whatever load may be
+placed upon it.  On one wall alone there lie three stoves, fully prepared to
+pump out bread, cakes, or pastries.  In the center of the room is a large
+table made out of a hard wood.  Upon it can be seen many scars where the
+knife has come to meet the table surface.  
+~
+0 32 0
+D1
+~
+~
+~
+1 0 19355
+M 0 H 0
+S
+#19368
+The Kitchen~
+The mansion kitchen is well equipped to handle whatever load may be
+placed upon it.  On one wall alone there lie three stoves, fully prepared to
+pump out bread, cakes, or pastries.  In the center of the room is a large
+table made out of a hard wood.  Upon it can be seen many scars where the
+knife has come to meet the table surface.  
+~
+0 32 0
+D1
+~
+~
+~
+1 0 19356
+M 0 H 0
+S
+#19369
+The Kitchen~
+The mansion kitchen is well equipped to handle whatever load may be
+placed upon it.  On one wall alone there lie three stoves, fully prepared to
+pump out bread, cakes, or pastries.  In the center of the room is a large
+table made out of a hard wood.  Upon it can be seen many scars where the
+knife has come to meet the table surface.  
+~
+0 32 0
+D2
+~
+~
+~
+1 0 19357
+M 0 H 0
+S
+#19370
+The Den~
+You sit now in the large mansion den.  Whoever it was who built this
+place decided to stick with the theme and make the den a grand one.  There
+is not one fireplace, but two fireplaces situated on the walls perpendicular
+with the entrance to the room.  A set of three couches rest in the center of
+the room, each facing another so that they form a vague triangle.  The
+fourth wall, which would be bare if not for this feature, boasts a large
+painting of a great white mountain.  The only exit to this room is the way
+you came in.  
+~
+0 32 0
+D1
+~
+~
+~
+1 0 19352
+M 0 H 0
+S
+#19371
+The Den~
+Whoever it was who built this place decided to stick with the theme and
+make the den a grand one.  There is not one fireplace, but two fireplaces
+situated on the walls perpendicular with the entrance to the room.  A set of
+three couches rest in the center of the room, each facing another so that
+they form a vague triangle.  The fourth wall, which would be bare if not for
+this feature, boasts a large painting of a great white mountain.  The only
+exit to this room is the way you came in.  
+~
+0 40 0
+D3
+~
+~
+~
+1 0 19353
+M 0 H 0
+S
+#19372
+The Den~
+You sit now in the large mansion den.  Whoever it was who built this
+place decided to stick with the theme and make the den a grand one.  There
+is not one fireplace, but two fireplaces situated on the walls perpendicular
+with the entrance to the room.  A set of three couches rest in the center of
+the room, each facing another so that they form a vague triangle.  The
+fourth wall, which would be bare if not for this feature, boasts a large
+painting of a great white mountain.  The only exit to this room is the way
+you came in.  
+~
+0 32 0
+D2
+~
+~
+~
+1 0 19354
+M 0 H 0
+S
+#19373
+The Den~
+You sit now in the large mansion den.  Whoever it was who built this
+place decided to stick with the theme and make the den a grand one.  There
+is not one fireplace, but two fireplaces situated on the walls perpendicular
+with the entrance to the room.  A set of three couches rest in the center of
+the room, each facing another so that they form a vague triangle.  The
+fourth wall, which would be bare if not for this feature, boasts a large
+painting of a great white mountain.  The only exit to this room is the way
+you came in.  
+~
+0 32 0
+D3
+~
+~
+~
+1 0 19355
+M 0 H 0
+S
+#19374
+The Den~
+You sit now in the large mansion den.  Whoever it was who built this
+place decided to stick with the theme and make the den a grand one.  There
+is not one fireplace, but two fireplaces situated on the walls perpendicular
+with the entrance to the room.  A set of three couches rest in the center of
+the room, each facing another so that they form a vague triangle.  The
+fourth wall, which would be bare if not for this feature, boasts a large
+painting of a great white mountain.  The only exit to this room is the way
+you came in.  
+~
+0 32 0
+D3
+~
+~
+~
+1 0 19356
+M 0 H 0
+S
+#19375
+The Den~
+This room is unique and set apart from the rest of the mansion by a small
+hallway.  Set into the walls are bookshelves, crammed to the edges with old
+tomes, tattered books, and scrolls.  A large desk occupies one corner of the
+room, opposite a behemoth fireplace.  Upon the desk is a crystal orb
+hovering over a metal disc.  A comfortable distance from the fireplace are a
+trio of elaborate couches with large cushions on them, and a few chairs are
+spread out between them.  
+~
+0 4194336 0
+D0
+~
+~
+~
+1 0 19357
+M 0 H 0
+S
+#19376
+The Balcony~
+This high angle view of the foyer makes the place appear even more
+splendid than it did before.  The set of double doors which provide an
+entrance to this place can be seen quite clearly from here, their engraved
+wood set masterfully onto the frames.  The ground floor of the mansion
+spreads out below you, making this an ideal place to address any sort of
+assembly.  On the wall opposite the entrance lies a small hall, at the end
+of which is a small door.  
+~
+0 32 0
+D2
+~
+~
+~
+1 0 19382
+D5
+~
+~
+~
+0 0 19352
+M 0 H 0
+S
+#19377
+The Balcony~
+This high angle view of the foyer makes the place appear even more
+splendid than it did before.  The set of double doors which provide an
+entrance to this place can be seen quite clearly from here, their engraved
+wood set masterfully onto the frames.  The ground floor of the mansion
+spreads out below you, making this an ideal place to address any sort of
+assembly.  On the wall opposite the entrance lies a small hall, at the end
+of which is a small door.  
+~
+0 32 0
+D0
+~
+~
+~
+1 0 19383
+D5
+~
+~
+~
+0 0 19353
+M 0 H 0
+S
+#19378
+The Balcony~
+This high angle view of the foyer makes the place appear even more
+splendid than it did before.  The set of double doors which provide an
+entrance to this place can be seen quite clearly from here, their engraved
+wood set masterfully onto the frames.  The ground floor of the mansion
+spreads out below you, making this an ideal place to address any sort of
+assembly.  On the wall opposite the entrance lies a small hall, at the end
+of which is a small door.  
+~
+0 32 0
+D3
+~
+~
+~
+1 0 19384
+D5
+~
+~
+~
+0 0 19354
+M 0 H 0
+S
+#19379
+The Balcony~
+This high angle view of the foyer makes the place appear even more
+splendid than it did vefore.  The set of double doors which provide an
+entrance to this place can be seen quite clearly from here, their engraved
+wood set masterfully onto the frames.  The ground floor of the mansion
+spreads out below you, making this an ideal place to address any sort of
+assembly.  On the wall opposite the entrance lies a small hall, at the end
+of which is a small door.  
+~
+0 32 0
+D2
+~
+~
+~
+1 0 19385
+D5
+~
+~
+~
+0 0 19355
+M 0 H 0
+S
+#19380
+The Balcony~
+This high angle view of the foyer makes the place appear even more
+splendid than it did before.  The set of double doors which provide an
+entrance to this place can be seen quite clearly from here, their engraved
+wood set masterfully onto the frames.  The ground floor of the mansion
+spreads out below you, making this an ideal place to address any sort of
+assembly.  On the wall opposite the entrance lies a small hall, at the end
+of which is a small door.  
+~
+0 32 0
+D0
+~
+~
+~
+1 0 19386
+D5
+~
+~
+~
+0 0 19356
+M 0 H 0
+S
+#19381
+The Balcony~
+This high angle view of the foyer makes the place appear even more
+splendid than it did before.  The set of double doors which provide an
+entrance to this place can be seen quite clearly from here, their engraved
+wood set masterfully onto the frames.  The ground floor of the mansion
+spreads out below you, making this an ideal place to address any sort of
+assembly.  On the wall opposite the entrance lies a small hall, at the end
+of which is a small door.  
+~
+0 32 0
+D1
+~
+~
+~
+1 0 19387
+D5
+~
+~
+~
+0 0 19357
+M 0 H 0
+S
+#19382
+The Bedroom~
+This bedroom belongs to the owner of the mansion.  It is smaller than you
+would expect.  Rather modest, actually.  In the center of the room lies a
+canopy bed draped with heavy blue blankets.  Apart from that, the only decor
+is a finely crafted lantern mounted on a pole.  A small privy hole also lies
+in the back of the room, but you can tell that it hasn't been used for some
+time.  
+~
+0 32 0
+D0
+~
+~
+~
+1 0 19376
+M 0 H 0
+S
+#19383
+The Bedroom~
+This bedroom belongs to the owner of the mansion.  It is smaller than you
+would expect.  Rather modest, actually.  In the center of the room lies a
+canopy bed draped with heavy blue blankets.  Apart from that, the only decor
+is a finely crafted lantern mounted on a pole.  A small privy hole also lies
+in the back of the room, but you can tell that it hasn't been used for some
+time.  
+~
+0 32 0
+D2
+~
+~
+~
+1 0 19377
+M 0 H 0
+S
+#19384
+The Bedroom~
+This bedroom belongs to the owner of the mansion.  It is smaller than you
+would expect.  Rather modest, actually.  In the center of the room lies a
+canopy bed draped with heavy blue blankets.  Apart from that, the only decor
+is a finely crafted lantern mounted on a pole.  A small privy hole also lies
+in the back of the room, but you can tell that it hasn't been used for some
+time.  
+~
+0 32 0
+D1
+~
+~
+~
+1 0 19378
+M 0 H 0
+S
+#19385
+The Bedroom~
+This bedroom belongs to the owner of the mansion.  It is smaller than you
+would expect.  Rather modest, actually.  In the center of the room lies a
+canopy bed draped with heavy blue blankets.  Apart from that, the only decor
+is a finely crafted lantern mounted on a pole.  A small privy hole also lies
+in the back of the room, but you can tell that it hasn't been used for some
+time.  
+~
+0 32 0
+D0
+~
+~
+~
+1 0 19379
+M 0 H 0
+S
+#19386
+The Bedroom~
+This bedroom belongs to the owner of the mansion.  It is smaller than you
+would expect.  Rather modest, actually.  In the center of the room lies a
+canopy bed draped with heavy blue blankets.  Apart from that, the only decor
+is a finely crafted lantern mounted on a pole.  A small privy hole also lies
+in the back of the room, but you can tell that it hasn't been used for some
+time.  
+~
+0 32 0
+D2
+~
+~
+~
+1 0 19380
+M 0 H 0
+S
+#19387
+The Bedroom~
+Soft, angle-deep scarlet carpet stretches across the room to meet a
+massive bed set against the northern wall of the room.  The headboard of the
+bed reaches up nearly to the ceiling, and drapes hang down from the ceiling
+around the bed, a deep scarlet color that matches the rest of the room.  Two
+small end tables are on either side of the bed, each which have a curious
+metal disc in their center.  
+~
+0 32 0
+D3
+~
+~
+~
+1 0 19381
+M 0 H 0
+S
+#19388
+The Seventh Circle~
+You stand now within the large, well decorated bar that is the Seventh
+Circle.  This high quality pub is where many of the rich people of the city
+choose to spend their time, and indeed it is only they who can afford the
+prices.  There are several tables about the room, and a large bar lines the
+northern wall.  The exit is south of here.  
+~
+0 44 0
+D2
+~
+~
+~
+0 0 19341
+M 0 H 0
+S
+#19389
+The Living Room~
+This room is meant for the purpose of entertaining.  Along the walls of
+the room rest three large chairs, in the middle of which rests a small
+table.  Additionally, by each chair is a small stool which serves as an
+excellent place to set a drink.  
+~
+0 32 0
+D0
+~
+~
+~
+0 0 19332
+M 0 H 0
+S
+#19390
+A Quiet Entrance~
+Arriving in this quiet room, it is evident from its design and decor that
+this is a very nice home.  The thickly carpeted floor is a deep hunter green
+in color, matching perfectly with the walls.  Dark wood runs from the floor,
+ending about three feet up the wall where it continues, painted a brilliant
+white, to the ceiling.  Entraceways lead south to a large dining room, and
+east to a well furnished living room.  A sturdy looking door to the north
+leads back out to town, while to the west, a door is visible, leading to the
+bedroom.  Spiraling upwards in the center of the room, a black iron
+staircase has been placed.  A small library is plainly visible from your
+vantage point.  
+~
+0 1048616 0
+D0
+~
+~
+~
+4 19378 19344
+D1
+~
+~
+~
+0 0 19392
+D2
+~
+~
+~
+0 0 19540
+D3
+~
+~
+~
+1 0 19391
+D4
+~
+~
+~
+0 0 19539
+M 0 H 0
+S
+#19391
+A Cozy Bedroom~
+This cozy bedroom appears to be a very comfortable place to sleep.  The
+floor is covered in dark green carpeting which matches perfectly with the
+walls.  Dark wood runs from the floor to about three feet up the wall,
+continuing to the ceiling in a brilliant white.  A well made bed has been
+placed against the northern wall, while a large window to the west lets
+light filter in during the day.  A single door to the east is the only exit.
+~
+0 1048616 0
+D1
+~
+~
+~
+1 0 19390
+M 0 H 0
+S
+#19392
+The Living Room~
+Designed for the purpose of entertaining guests and family, this living
+room appears to be comfortably furnished.  Deep green carpeting runs from
+wall to wall, broken only by a large sofa on the eastern wall, and the
+fireplace to the north.  A door to the south leads the way into the master
+bedroom, and the entrance to the house is visible to the east.  The walls
+are dark wood from the floor to about waist height, proceeding from there to
+the ceiling with a brilliant coating of white paint.  The fireplace has been
+built of gray stones, the chimney leading the way upwards.  
+~
+0 1048616 0
+D2
+~
+~
+~
+1 0 19541
+D3
+~
+~
+~
+0 0 19390
+M 0 H 0
+S
+#19393
+{YC{Krusader Street~
+At this point in Crusader Street another road can be seen running through
+this bigger throughfare.  This second road stretches east and west to expand
+the city even further.  The larger Crusader Street travels southward into
+the residential areas for the lower class citizens of the city.  Many people
+travel through here.  
+~
+0 32 1
+D0
+~
+~
+~
+0 0 19346
+D1
+~
+~
+~
+0 0 19409
+D2
+~
+~
+~
+0 0 19394
+D3
+~
+~
+~
+0 0 19406
+M 0 H 0
+S
+#19394
+{YC{Krusader Street~
+This wide road travels north and south, connecting Utopia Circle and the
+twin eagle roads.  This is probably the largest road in the town, as all of
+the lower class commute upon it to get to their workplaces every day.  While
+the occasional tourist may be seen wandering up and down the road, they
+typically stick to the northern side of town, and are seldom seen this far
+into the muck of things.  You may travel north and south from here.  
+~
+0 32 1
+D0
+~
+~
+~
+0 0 19393
+D2
+~
+~
+~
+0 0 19395
+M 0 H 0
+S
+#19395
+{ML{ciberty Square~
+Liberty square is a center for activity in the city of Utopia.  The plaza
+is a bustle of people coming from one way or another, going about their
+business be it shopping, or just commuting to the fields.  In the center of
+the square is a large marble overhang.  Decorating the monument are four
+ornately carved pillars, boasting a large dome at their highest point. 
+Under this construct are several benches and a large white fountain which
+has cool water running in large quantities.  The crowded Crusader Street
+continues to the north and south.  There is also a primitive manhole in the
+ground.  
+~
+0 44 1
+D0
+~
+~
+~
+0 0 19394
+D1
+~
+~
+~
+0 0 19404
+D2
+~
+~
+~
+0 0 19416
+D3
+~
+~
+~
+0 0 19396
+D5
+~
+~
+~
+1 0 19435
+M 0 H 0
+S
+#19396
+{BW{Gest Eagle Street~
+While not quite to the point of a slum, West Eagle Street isn't the
+proudest neighborhood in the world.  The houses here are small one room
+clunkers which would, if not for the loving care of those who live within
+them, look like boxes with fancy tops.  As it is though, the people keep
+their houses quite nice.  Even on their scant salaries, they somehow manage
+to keep them well kept.  
+~
+0 32 0
+D1
+~
+~
+~
+0 0 19395
+D2
+~
+~
+~
+0 0 19397
+M 0 H 0
+S
+#19397
+{BW{Gest Eagle Street~
+As West Eagle Street continues, the conditions stay very similar to each
+other.  The blocks are packed to capacity with small homes, and a couple
+even seem to lie behind the first row of houses.  If the houses were any
+closer together, they would look more like townhouses than individual
+dwellings.  West Eagle Street continues north and south here.  
+~
+0 32 0
+D0
+~
+~
+~
+0 0 19396
+D2
+~
+~
+~
+0 0 19398
+M 0 H 0
+S
+#19398
+{BW{Gest Eagle Street~
+On this small street, citizens come and go, enjoying what little personal
+space they have outside of their cramped facilities.  The air at least is
+clean, and the streets are free of trash.  You may travel north and south on
+this street.  
+~
+0 32 0
+D0
+~
+~
+~
+0 0 19397
+D2
+~
+~
+~
+0 0 19399
+M 0 H 0
+S
+#19399
+{BW{Gest Eagle Street~
+You have come to the corner of West Eagle Street.  The street here turns
+sharply, but the houses seem to go on a bit sloppily before realizing that
+they no longer border a decent road.  On the southern and western walls of
+this street are several doorways that lead into small one room homes. 
+Unless you intend to duck into one of these, you may travel only east and
+north.  
+~
+0 32 0
+D0
+~
+~
+~
+0 0 19398
+D1
+~
+~
+~
+0 0 19400
+M 0 H 0
+S
+#19400
+The Southern Gate~
+You have come to the southern gate of the city of Utopia.  This gate
+leads out into the rest of the southern continent.  Who can tell what the
+world holds save for those who have explored it?  A large gate made of
+wrought iron is located to the north, leading the way to a magnificent arena
+which is accessible through a large tunnel in the wall.  The gate itself
+connects to a large wall that you barely even noticed before.  The wall
+stretches east and west, hugging the southern side of the city right up to
+the mountain ranges on either side.  The safety of the city, of course, lies
+still east and west.  
+~
+0 32 0
+D0
+~
+gate~
+~
+4 18009 18011
+D1
+~
+~
+~
+0 0 19401
+D2
+~
+~
+~
+0 0 3921
+D3
+~
+~
+~
+0 0 19399
+M 0 H 0
+S
+#19401
+{BE{Gast Eagle Street~
+You have come to the southern point of East Eagle Street.  Here the wall
+of houses stops suddenly and turns to form an acute angle with the long row
+of houses situated north of here.  It appears as if the houses stop to the
+west before gradually starting back up again into their repeating cycle. 
+You may travel north and west from here.  
+~
+0 32 0
+D0
+~
+~
+~
+0 0 19402
+D3
+~
+~
+~
+0 0 19400
+M 0 H 0
+S
+#19402
+{BE{Gast Eagle Street~
+This street may be small, but the amount of houses that have been crammed
+onto it is enormous.  You estimate that around seventy homes have been
+stuffed into this short area of road.  On both sides of the road houses pack
+all empty spaces, creating a nearly perfect wall, impossible to pass.  You
+can continue north and south from this point.  
+~
+0 32 0
+D0
+~
+~
+~
+0 0 19403
+D2
+~
+~
+~
+0 0 19401
+M 0 H 0
+S
+#19403
+{BE{Gast Eagle Street~
+The houses on either side of this street are so compact that it appears
+almost as if you are travelling on the top of a great castle's wall.  This
+image of a virtual tunnel is promptly shattered, however, as several doors
+located further down the road open and shut several times.  East Eagle
+Street continues north and south from here.  
+~
+0 32 0
+D0
+~
+~
+~
+0 0 19404
+D2
+~
+~
+~
+0 0 19402
+M 0 H 0
+S
+#19404
+{BE{Gast Eagle Street~
+This is the lower class portion of the city of Utopia.  The so named
+perfect society seems to have left this part out of its perfect plans.  The
+houses here look small and cramped, though their appearance is still quite
+nice.  There are a few on the northern side of the street, but for the most
+part the homes stretch onwards to the south.  
+~
+0 32 0
+D2
+~
+~
+~
+0 0 19403
+D3
+~
+~
+~
+0 0 19395
+M 0 H 0
+S
+#19405
+The Magic Hut~
+Though this shop appears like a hut from the outside, here within it is a
+completely different environment.  The room is quite large, in fact.  You
+can only guess how they crammed all this space into that little house
+visible from Utopia Circle.  Maybe they magically enhanced the room, or
+perhaps the door was a portal.  The room is decorated with magical tools and
+toys.  Most of the objects, however, are not for sale.  
+~
+0 40 0
+D2
+~
+~
+~
+0 0 19347
+M 0 H 0
+S
+#19406
+{CS{Wtave Lane~
+You stand now on Stave Lane, a road used for the purpose of transporting
+the citizens of Utopia to where they work in the fields.  This road is not
+as large as Crusader Street, but it is a good deal longer.  It travels east
+and west the entire breadth of the valley in which Utopia sits.  An ominous
+tower looms to the north.  
+~
+0 32 0
+D1
+~
+~
+~
+0 0 19393
+D3
+~
+~
+~
+0 0 19407
+M 0 H 0
+S
+#19407
+{CS{Wtave Lane~
+At first the mountains look completely inhospitable, but further
+inspection shows that there are some homes higher up within them.  In any
+case, this road's only purpose is to take you to the fields, which lie still
+west of here.  
+~
+0 32 0
+D1
+~
+~
+~
+0 0 19406
+D3
+~
+~
+~
+0 0 19408
+M 0 H 0
+S
+#19408
+{CS{Wtave Lane~
+At the end of Stave Lane lies the fields, and they are now directly north
+and south from here.  From here it is possible to see many people working
+with the animals.  Also, a trail can be seen heading up the mountains in the
+west to the village on the cliffs.  Stave Lane continues east.  
+~
+0 32 0
+D1
+~
+~
+~
+0 0 19407
+M 0 H 0
+S
+#19409
+{CS{Wtave Lane~
+Stave Lane may not be as wide or well used as Crusader Street, but it is
+a great deal longer.  The road travels east and west with the purpose of
+getting people from Crusader Street to their jobs in the fields, and you can
+tell by the worn surface of the road that it does this job very well.  In
+the distance to the east and west can be seen large sets of fields where the
+Utopian people work, herding animals to make some meagre earnings.  Crusader
+street lies directly west of here.  
+~
+0 32 0
+D1
+~
+~
+~
+0 0 19410
+D3
+~
+~
+~
+0 0 19393
+M 0 H 0
+S
+#19410
+{CS{Wtave Lane~
+From this point in Stave Lane, the mountains on the eastern side of this
+valley are especially visible.  These mountains mark the ending point of the
+fields beyond this road, but the road itself ends long before the fields
+begin.  Crusader Street is now a good distance away to the west.  
+~
+0 32 0
+D1
+~
+~
+~
+0 0 19411
+D3
+~
+~
+~
+0 0 19409
+M 0 H 0
+S
+#19411
+{CS{Wtave Lane~
+At this point in Stave lane the road ends, and the fields begin.  The
+fields stretch out north, south, and east from here.  In the distance you
+can see many herd animals grazing on the cool sweet grass of the lush
+fields, and many shepherds and herders are also visible, doing their jobs
+tending to the animals.  Stave Lane continues back to the west, where it
+eventually meets up with Crusader Street and then more fields.  
+~
+0 32 0
+D3
+~
+~
+~
+0 0 19410
+M 0 H 0
+S
+#19412
+The Temple of Utopia~
+You stand now within the temple of Utopia.  This temple was erected long
+ago so the native people of the land could serve their ancient god of
+creation.  The entrance to the temple is made up of a large archway that
+leads into a room with a high ceiling.  From this point in the temple, you
+can choose to go one of three ways.  To the north lies the altar, while two
+other archways lie east and west.  
+~
+0 44 0
+D0
+~
+~
+~
+0 0 19413
+D1
+~
+~
+~
+0 0 19415
+D2
+~
+~
+~
+0 0 19346
+D3
+~
+~
+~
+0 0 19414
+M 0 H 0
+S
+#19413
+Within the Utopian Temple~
+You stand now before the altar of the temple built for the Utopians.  The
+altar itself is made up of a large clam shell set on a pedestal and bordered
+on either by what look like two golden wedges.  The room is spacious, but
+very much enclosed.  The exit of the temple can be seen to the south.  There
+is also a small grate on the floor.  
+~
+0 33554472 0
+D2
+~
+~
+~
+0 0 19412
+D5
+~
+~
+~
+1 0 19507
+M 0 H 0
+S
+#19414
+The Prayer Room~
+This room has been dictated a prayer room for those needing help with
+their animals or loved ones.  People come from all over the city to pray in
+this place, as it is known to be one of the holiest around.  The room itself
+is quite small.  The doorway was large, but now a low ceiling prevents
+unrestricted movement.  The rest of the temple lies to the east.  
+~
+0 40 0
+D1
+~
+~
+~
+0 0 19412
+M 0 H 0
+S
+#19415
+The Training Room~
+This particular room is frequently used for the purpose of educating the
+people of Utopia in various fields.  Usually this training comes in the form
+of animal care, and first aid, but there is little that the masters aren't
+familiar with.  The rest of the temple lies to the west.  
+~
+0 40 0
+D3
+~
+~
+~
+0 0 19412
+M 0 H 0
+S
+#19416
+{YC{Krusader Street~
+This is the end of Crusader Street.  The wide road ends in a marketplace
+of sorts.  Though there are no significant vendors selling their wares in
+the street, several shops can be seen lining the east and west sides of the
+road.  Crowning the southern side of the street is a large wooden building,
+most likely an inn or a tavern, which stands a good two floors up.  The rest
+of Crusader Street lies still to the north.  
+~
+0 32 1
+D0
+~
+~
+~
+0 0 19395
+D1
+~
+~
+~
+0 0 19418
+D2
+~
+~
+~
+0 0 19419
+D3
+~
+~
+~
+0 0 19417
+M 0 H 0
+S
+#19417
+A Large Shop~
+This shop proves to be an emporium of tastes.  The grocer has gone above
+and beyond the call of the typical food supplier and stocks dozens of exotic
+fruits, thirteen kinds of bread, and much more.  Rows of food are lined up
+in the store, and none know them better than the merchant himself.  
+~
+0 32 0
+D1
+~
+~
+~
+0 0 19416
+M 0 H 0
+S
+#19418
+A Large Shop~
+The shop you have entered proves to be a smithy.  The metal smith has
+decided to use every inch available, which is clearly visible from the
+counter, of course, to display his wares.  Everything from pans to
+horseshoes and hammers decorate the area.  The only exit to the shop lies
+west.  
+~
+0 32 0
+D3
+~
+~
+~
+0 0 19416
+M 0 H 0
+S
+#19419
+The Traveler's Rest Inn~
+This place is a safehaven for adventurers, and a place of rest for the
+weary.  Tables and chairs are set up for casual conversation and a bit of
+casual dining.  The Traveler's Rest Inn is famed throughout Utopia for being
+the best place to get a strong drink and a good night's sleep.  Upon
+entering the inn, travellers are confronted with a menagerie of sights as
+sounds.  On the western wall is the entrance to the kitchen, while a piano
+is situated on the eastern wall which is used occasionally to provide
+limited entertainment, or perhaps to cover up some of the more important
+conversations which take place within these walls.  Travelling south will
+bring you to a small staircase which leads up to the second floor of the
+inn, where rooms can be purchased by the more regular customers.  The door
+to Crusader Street lies once again to the north.  It is always open.  
+~
+0 33555496 0
+D0
+~
+~
+~
+0 0 19416
+D2
+~
+~
+~
+1 0 19421
+D3
+~
+~
+~
+1 0 19420
+M 0 H 0
+S
+#19420
+The Kitchen~
+You stand now in the kitchen of the Traveler's Rest Inn.  The kitchen is
+not so impressive as what goes on within.  Several cooks can usually be
+found working diligently baking and cooking various dishes, while servers
+try to collect warm meals to serve to the crowds of customers.  The kitchen
+contains several ovens and other exhibits of cooking equipment.  
+~
+0 40 0
+D1
+~
+~
+~
+1 0 19419
+M 0 H 0
+S
+#19421
+A Small Stairway~
+In relation to the rest of this boisterous building, this small hallway
+and the adjacent rooms are typically found to be a very quiet habitat.  The
+second level of the inn is dedicated mostly to the permanent housing of inn
+staff and the occasional adventurer keen on settling down.  On the wall of
+the corridor is a small notice.  The hallway stretches forth to the north
+back to the bustle of the main room.  
+~
+0 44 0
+E
+notice~
+{xA notice on the wall states the following:
+ 
+ 
+{W       Remaining free rooms at the Traveler's Rest have been sold
+{W       to the Utopian Council.  Those interested in obtaining a                    
+{W       room should contact Mawpine.
+ 
+{W                                   Thank You,
+{W                                      The Traveler's Rest
+~
+E
+stairway~
+Close inspection of the bottom of the stairs reveals a small door that
+leads down.  It is uncertain what lies beyond the door.  
+~
+D0
+~
+~
+~
+1 0 19419
+D4
+~
+~
+~
+0 0 19422
+D5
+~
+~
+~
+1 0 19483
+M 0 H 0
+S
+#19422
+A Hallway in the Inn~
+This hallway runs through the entire upper level of the inn, connecting
+the series of rooms which house the inn staff and weary adventurers.  Many
+of the rooms are privately owned as well as rented out to the general
+populace.  The hallway travels north and south.  
+~
+0 40 0
+D0
+~
+~
+~
+0 0 19423
+D1
+~
+~
+~
+4 19371 19428
+D3
+~
+~
+~
+4 19371 19427
+D5
+~
+~
+~
+0 0 19421
+M 0 H 0
+S
+#19423
+A Hallway in the Inn~
+You are now in the middle section of a short hallway which runs north and
+south through the second story of the Traveler's Rest Inn.  The smooth wood
+floors and simple doors do nothing but enhance the atmosphere of a peaceful
+place.  The hallway runs north and south.  
+~
+0 40 0
+D0
+~
+~
+~
+0 0 19424
+D1
+~
+~
+~
+4 101 19430
+D2
+~
+~
+~
+0 0 19422
+D3
+~
+~
+~
+4 101 19429
+M 0 H 0
+S
+#19424
+A Hallway in the Inn~
+This is a quiet hallway in the Traveler's Rest Inn.  On both sides of the
+hall are doors that lead into moderately sized rooms.  Some of these rooms
+house the inn employees, and others the trivial tired adventurer.  The
+hallway stretches on north and south.  
+~
+0 40 0
+D0
+~
+~
+~
+0 0 19425
+D1
+~
+~
+~
+4 0 19432
+D2
+~
+~
+~
+0 0 19423
+D3
+~
+~
+~
+4 0 19431
+M 0 H 0
+S
+#19425
+The End of the Hallway~
+You have come to the end of the upper level hallway in the Traveler's
+Rest Inn.  There are three doors at this point in the hall, one each on the
+east and west walls, and one on the northern.  On the northern door there is
+a small sign.  The hall continues to the south.  
+~
+0 40 0
+E
+sign~
+The sign reads as follows:
+ 
+ 
+{W     The Common Room-
+{W  Keys to this room can be purchased below for a reasonable price.  Feel free
+{W  to use this room as all do, as a place to relax in relative privacy.
+~
+D0
+~
+~
+~
+4 19371 19426
+D1
+~
+~
+~
+4 0 19434
+D2
+~
+~
+~
+0 0 19424
+D3
+~
+~
+~
+4 0 19433
+M 0 H 0
+S
+#19426
+The Common Room~
+Apart from the main room, this is the largest room in the inn.  On the
+floor has been put a carpet, two tables stand in the center of the room, and
+six cots sit along the walls for the comfort of those who choose to spend
+time here.  The common room of the inn was designed to be a place where
+multiple adventurers could spend their time, discuss their travels, and take
+the heavy load off of their feet.  
+~
+0 40 0
+D2
+~
+~
+~
+4 19371 19425
+M 0 H 0
+S
+#19427
+A Room in the Inn~
+~
+0 32 0
+D1
+~
+~
+~
+4 0 19422
+M 0 H 0
+S
+#19428
+A Room in the Inn~
+~
+0 32 0
+D3
+~
+~
+~
+4 0 19422
+M 0 H 0
+S
+#19429
+A Room in the Inn~
+~
+0 32 0
+D1
+~
+~
+~
+4 0 19423
+M 0 H 0
+S
+#19430
+A Room in the Inn~
+~
+0 32 0
+D3
+~
+~
+~
+4 0 19423
+M 0 H 0
+S
+#19431
+A Room in the Inn~
+~
+0 32 0
+D1
+~
+~
+~
+4 0 19424
+M 0 H 0
+S
+#19432
+A Room in the Inn~
+~
+0 32 0
+D3
+~
+~
+~
+4 0 19424
+M 0 H 0
+S
+#19433
+A Room in the Inn~
+~
+0 32 0
+D1
+~
+~
+~
+4 0 19425
+M 0 H 0
+S
+#19434
+A Room in the Inn~
+~
+0 32 0
+D3
+~
+~
+~
+4 0 19425
+M 0 H 0
+S
+#19435
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19445
+D1
+~
+~
+~
+0 0 19444
+D2
+~
+~
+~
+0 0 19465
+D3
+~
+~
+~
+0 0 19436
+D4
+~
+manhole~
+~
+0 0 19395
+M 0 H 0
+S
+#19436
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here. 
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19470
+D1
+~
+~
+~
+0 0 19435
+D2
+~
+~
+~
+0 0 19437
+D3
+~
+~
+~
+0 0 19471
+M 0 H 0
+S
+#19437
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19436
+D1
+~
+~
+~
+0 0 19475
+D2
+~
+~
+~
+0 0 19438
+D3
+~
+~
+~
+0 0 19472
+M 0 H 0
+S
+#19438
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here. 
+~
+0 32 0
+D0
+~
+~
+~
+0 0 19437
+D1
+~
+~
+~
+0 0 19476
+D2
+~
+~
+~
+0 0 19439
+D3
+~
+~
+~
+0 0 19473
+M 0 H 0
+S
+#19439
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19438
+D1
+~
+~
+~
+0 0 19440
+D2
+~
+~
+~
+0 0 19477
+D3
+~
+~
+~
+0 0 19474
+M 0 H 0
+S
+#19440
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19466
+D1
+~
+~
+~
+0 0 19441
+D2
+~
+~
+~
+0 0 19478
+D3
+~
+~
+~
+0 0 19439
+M 0 H 0
+S
+#19441
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19442
+D1
+~
+~
+~
+0 0 19480
+D2
+~
+~
+~
+0 0 19479
+D3
+~
+~
+~
+0 0 19440
+M 0 H 0
+S
+#19442
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19443
+D1
+~
+~
+~
+0 0 19484
+D2
+~
+~
+~
+0 0 19441
+D3
+~
+~
+~
+0 0 19487
+M 0 H 0
+S
+#19443
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19444
+D1
+~
+~
+~
+0 0 19485
+D2
+~
+~
+~
+0 0 19442
+D3
+~
+~
+~
+0 0 19488
+M 0 H 0
+S
+#19444
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here. 
+~
+0 32 0
+D0
+~
+~
+~
+0 0 19491
+D1
+~
+~
+~
+0 0 19486
+D2
+~
+~
+~
+0 0 19443
+D3
+~
+~
+~
+0 0 19435
+M 0 H 0
+S
+#19445
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19446
+D1
+~
+~
+~
+0 0 19490
+D2
+~
+~
+~
+0 0 19435
+D3
+~
+~
+~
+0 0 19489
+M 0 H 0
+S
+#19446
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19447
+D1
+~
+~
+~
+0 0 19462
+D2
+~
+~
+~
+0 0 19445
+D3
+~
+~
+~
+0 0 19459
+M 0 H 0
+S
+#19447
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19506
+D1
+~
+~
+~
+0 0 19458
+D2
+~
+~
+~
+0 0 19446
+D3
+~
+~
+~
+0 0 19448
+M 0 H 0
+S
+#19448
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19510
+D1
+~
+~
+~
+0 0 19447
+D2
+~
+~
+~
+0 0 19511
+D3
+~
+~
+~
+0 0 19449
+M 0 H 0
+S
+#19449
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19450
+D1
+~
+~
+~
+0 0 19448
+D2
+~
+~
+~
+0 0 19512
+D3
+~
+~
+~
+0 0 19513
+M 0 H 0
+S
+#19450
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19451
+D1
+~
+~
+~
+0 0 19518
+D2
+~
+~
+~
+0 0 19449
+D3
+~
+~
+~
+0 0 19519
+M 0 H 0
+S
+#19451
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19521
+D1
+~
+~
+~
+0 0 19452
+D2
+~
+~
+~
+0 0 19450
+D3
+~
+~
+~
+0 0 19520
+M 0 H 0
+S
+#19452
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19522
+D1
+~
+~
+~
+0 0 19453
+D2
+~
+~
+~
+0 0 19526
+D3
+~
+~
+~
+0 0 19451
+M 0 H 0
+S
+#19453
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19523
+D1
+~
+~
+~
+0 0 19454
+D2
+~
+~
+~
+0 0 19527
+D3
+~
+~
+~
+0 0 19452
+M 0 H 0
+S
+#19454
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here. 
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19524
+D1
+~
+~
+~
+0 0 19455
+D2
+~
+~
+~
+0 0 19528
+D3
+~
+~
+~
+0 0 19453
+M 0 H 0
+S
+#19455
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19525
+D1
+~
+~
+~
+0 0 19529
+D2
+~
+~
+~
+0 0 19456
+D3
+~
+~
+~
+0 0 19454
+M 0 H 0
+S
+#19456
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19455
+D1
+~
+~
+~
+0 0 19530
+D2
+~
+~
+~
+0 0 19457
+D3
+~
+~
+~
+0 0 19531
+M 0 H 0
+S
+#19457
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19456
+D1
+~
+~
+~
+0 0 19516
+D2
+~
+~
+~
+0 0 19515
+D3
+~
+~
+~
+0 0 19458
+M 0 H 0
+S
+#19458
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19517
+D1
+~
+~
+~
+0 0 19457
+D2
+~
+~
+~
+0 0 19514
+D3
+~
+~
+~
+0 0 19447
+M 0 H 0
+S
+#19459
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19492
+D1
+~
+~
+~
+0 0 19446
+D2
+~
+~
+~
+0 0 19498
+D3
+~
+~
+~
+0 0 19460
+M 0 H 0
+S
+#19460
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19493
+D1
+~
+~
+~
+0 0 19459
+D2
+~
+~
+~
+0 0 19497
+D3
+~
+~
+~
+0 0 19461
+M 0 H 0
+S
+#19461
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19494
+D1
+~
+~
+~
+0 0 19460
+D2
+~
+~
+~
+0 0 19496
+D3
+~
+~
+~
+0 0 19495
+M 0 H 0
+S
+#19462
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19505
+D1
+~
+~
+~
+0 0 19463
+D2
+~
+~
+~
+0 0 19499
+D3
+~
+~
+~
+0 0 19446
+M 0 H 0
+S
+#19463
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19504
+D1
+~
+~
+~
+0 0 19464
+D2
+~
+~
+~
+0 0 19500
+D3
+~
+~
+~
+0 0 19462
+M 0 H 0
+S
+#19464
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19503
+D1
+~
+~
+~
+0 0 19502
+D2
+~
+~
+~
+0 0 19501
+D3
+~
+~
+~
+0 0 19463
+M 0 H 0
+S
+#19465
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19435
+D1
+~
+~
+~
+0 0 19467
+D2
+~
+~
+~
+0 0 19469
+D3
+~
+~
+~
+0 0 19468
+M 0 H 0
+S
+#19466
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19483
+D1
+~
+~
+~
+0 0 19481
+D2
+~
+~
+~
+0 0 19440
+D3
+~
+~
+~
+0 0 19482
+M 0 H 0
+S
+#19467
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D3
+~
+~
+~
+0 0 19465
+M 0 H 0
+S
+#19468
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D1
+~
+~
+~
+0 0 19465
+M 0 H 0
+S
+#19469
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19465
+M 0 H 0
+S
+#19470
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D2
+~
+~
+~
+0 0 19436
+M 0 H 0
+S
+#19471
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D1
+~
+~
+~
+0 0 19436
+M 0 H 0
+S
+#19472
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D1
+~
+~
+~
+0 0 19437
+M 0 H 0
+S
+#19473
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D1
+~
+~
+~
+0 0 19438
+M 0 H 0
+S
+#19474
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D1
+~
+~
+~
+0 0 19439
+M 0 H 0
+S
+#19475
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D3
+~
+~
+~
+0 0 19437
+M 0 H 0
+S
+#19476
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D3
+~
+~
+~
+0 0 19438
+M 0 H 0
+S
+#19477
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19439
+M 0 H 0
+S
+#19478
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19440
+M 0 H 0
+S
+#19479
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19441
+M 0 H 0
+S
+#19480
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D3
+~
+~
+~
+0 0 19441
+M 0 H 0
+S
+#19481
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D3
+~
+~
+~
+0 0 19466
+M 0 H 0
+S
+#19482
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D1
+~
+~
+~
+0 0 19466
+M 0 H 0
+S
+#19483
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+E
+slabs~
+Inspecting the shale slabs here closer, you find a narrow gap just big
+enough to fit through.  A small piece of shale colored wood covers it.  The
+hole leads upwards.  
+~
+D2
+~
+~
+~
+0 0 19466
+D4
+~
+~
+~
+1 0 19421
+M 0 H 0
+S
+#19484
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D3
+~
+~
+~
+0 0 19442
+M 0 H 0
+S
+#19485
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D3
+~
+~
+~
+0 0 19443
+M 0 H 0
+S
+#19486
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D3
+~
+~
+~
+0 0 19444
+M 0 H 0
+S
+#19487
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D1
+~
+~
+~
+0 0 19442
+M 0 H 0
+S
+#19488
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D1
+~
+~
+~
+0 0 19443
+M 0 H 0
+S
+#19489
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D1
+~
+~
+~
+0 0 19445
+M 0 H 0
+S
+#19490
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D3
+~
+~
+~
+0 0 19445
+M 0 H 0
+S
+#19491
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D2
+~
+~
+~
+0 0 19444
+M 0 H 0
+S
+#19492
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D2
+~
+~
+~
+0 0 19459
+M 0 H 0
+S
+#19493
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D2
+~
+~
+~
+0 0 19460
+M 0 H 0
+S
+#19494
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D2
+~
+~
+~
+0 0 19461
+M 0 H 0
+S
+#19495
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D1
+~
+~
+~
+0 0 19461
+M 0 H 0
+S
+#19496
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19461
+M 0 H 0
+S
+#19497
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19460
+M 0 H 0
+S
+#19498
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19459
+M 0 H 0
+S
+#19499
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19462
+M 0 H 0
+S
+#19500
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19463
+M 0 H 0
+S
+#19501
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19464
+M 0 H 0
+S
+#19502
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D3
+~
+~
+~
+0 0 19464
+M 0 H 0
+S
+#19503
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D2
+~
+~
+~
+0 0 19464
+M 0 H 0
+S
+#19504
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D2
+~
+~
+~
+0 0 19463
+M 0 H 0
+S
+#19505
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D2
+~
+~
+~
+0 0 19462
+M 0 H 0
+S
+#19506
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19507
+D1
+~
+~
+~
+0 0 19508
+D2
+~
+~
+~
+0 0 19447
+D3
+~
+~
+~
+0 0 19509
+M 0 H 0
+S
+#19507
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  A
+small trickle of water runs out of a grate above you.  
+~
+0 41 0
+D2
+~
+~
+~
+0 0 19506
+D4
+~
+grate~
+~
+1 0 19413
+M 0 H 0
+S
+#19508
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here. 
+~
+0 32 0
+D3
+~
+~
+~
+0 0 19506
+M 0 H 0
+S
+#19509
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+~
+0 41 0
+D1
+~
+~
+~
+0 0 19506
+M 0 H 0
+S
+#19510
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 32 0
+D2
+~
+~
+~
+0 0 19448
+M 0 H 0
+S
+#19511
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19448
+M 0 H 0
+S
+#19512
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19449
+M 0 H 0
+S
+#19513
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D1
+~
+~
+~
+0 0 19449
+M 0 H 0
+S
+#19514
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19458
+M 0 H 0
+S
+#19515
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19457
+M 0 H 0
+S
+#19516
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D3
+~
+~
+~
+0 0 19457
+M 0 H 0
+S
+#19517
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D2
+~
+~
+~
+0 0 19458
+M 0 H 0
+S
+#19518
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D3
+~
+~
+~
+0 0 19450
+M 0 H 0
+S
+#19519
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  A crumbling pile of rubble which once appears
+to have been a statue of a rat lies in the corner here.  There is a deep
+hole in the sewer floor here.  
+~
+0 41 9
+E
+rat~
+What remains of a tiny statue is in a pile in one corner here.  The only
+piece remaining in tact is a half of the tiny trinket's head.  
+~
+E
+statue~
+What remains of a tiny statue is in a pile in one corner here.  The only
+piece remaining in tact is a half of the tiny trinket's head.  
+~
+E
+rubble~
+What remains of a tiny statue is in a pile in one corner here.  The only
+piece remaining in tact is a half of the tiny trinket's head.  
+~
+D1
+~
+~
+~
+0 0 19450
+D5
+~
+~
+~
+0 0 19544
+M 0 H 0
+S
+#19520
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here. 
+~
+0 32 0
+D1
+~
+~
+~
+0 0 19451
+M 0 H 0
+S
+#19521
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D2
+~
+~
+~
+0 0 19451
+M 0 H 0
+S
+#19522
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D2
+~
+~
+~
+0 0 19452
+M 0 H 0
+S
+#19523
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D2
+~
+~
+~
+0 0 19453
+M 0 H 0
+S
+#19524
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D2
+~
+~
+~
+0 0 19454
+M 0 H 0
+S
+#19525
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D2
+~
+~
+~
+0 0 19455
+M 0 H 0
+S
+#19526
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19452
+M 0 H 0
+S
+#19527
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19453
+D1
+~
+~
+~
+0 0 19533
+D2
+~
+~
+~
+0 0 19534
+D3
+~
+~
+~
+0 0 19532
+M 0 H 0
+S
+#19528
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19454
+M 0 H 0
+S
+#19529
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D3
+~
+~
+~
+0 0 19455
+M 0 H 0
+S
+#19530
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D3
+~
+~
+~
+0 0 19456
+M 0 H 0
+S
+#19531
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D1
+~
+~
+~
+0 0 19456
+M 0 H 0
+S
+#19532
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D1
+~
+~
+~
+0 0 19527
+M 0 H 0
+S
+#19533
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D3
+~
+~
+~
+0 0 19527
+M 0 H 0
+S
+#19534
+The Utopian Sewers~
+The sewers of Utopia are made up entirely of shale slabs brought up from
+the quarry.  The smell is bad, but could be worse, as iron grates were put
+into the design plan to provide limited ventilation into the soil above. 
+The sewers are dark and cold.  There's no telling what lives around here.  
+~
+0 41 0
+D0
+~
+~
+~
+0 0 19527
+M 0 H 0
+S
+#19535
+{GP{Yalace Road~
+The larger homes of Utopia Circle open up here to reveal the city palace.
+The enormous building is new in relation to others of its kind, the size of
+the building being the truly impressive part.  The palace is almost as big
+as a castle.  The road itself stretches only a small ways to the palace. 
+The building lies directly south.  
+~
+0 32 0
+D0
+~
+~
+~
+0 0 19340
+D2
+~
+~
+~
+0 0 19536
+M 0 H 0
+S
+#19536
+Before the Palace of Utopia~
+You stand now Before the Palace of Utopia.  Though the huge doors usually
+stand closed, most are typically welcomed into the forward rooms of the
+palace.  From closer up the palace looks a small bit less impressive than it
+did at a distance, but it is still a titanic structure.  Palace Road leads
+back to the north.  
+~
+0 32 0
+D0
+~
+~
+~
+0 0 19535
+M 0 H 0
+S
+#19537
+A Narrow Tunnel~
+~
+0 1048621 0
+M 0 H 0
+S
+#19538
+Endio's Custom Metalworking~
+This metalworking shop is large and airy.  The high ceiling is vented to
+allow the hot air wafting up from the forge to escape outside.  The stone
+walls are decorated with many different types of weapons and armor, each
+unique in its own way.  A large counter with a single wooden stool behind it
+blocks your progress into the rear of the store, behind it long metal
+counters run along each wall for working on the many different types of
+metal.  Taking up the majority of the rear space, a large stone forge has
+been constructed, the raging fire inside giving off a breathtaking heat. 
+Along the northern wall, a single door leads outside, the busy streets of
+Utopia visible beyond it.  
+~
+0 1068 0
+D2
+~
+~
+~
+4 19381 19345
+M 0 H 0
+S
+#19539
+A Small Library~
+The first thing you notice when you arrive is the aroma of cider that
+permeates the air.  Looking around, you notice that this entire room is
+lined with shelves made from that wood, indicating the source of the
+wonderful smell.  Magical lights float gently above your head on the
+ceiling, gently illuminating the entire area.  The only break in the
+shelving is on the wall to the south, allowing for a large picture window. 
+The view out the window is of the city, spreading over the canvass made of
+glass in a beautiful display.  The cider shelves are packed full with books
+of various size and age, though all appear to be well preserved and cared
+for.  The middle of the floor is broken only by a desk, made from the same
+material as the shelves, that is arranged facing away from the window. 
+Plush chairs are set facing each other in front of the desk and a small
+table resides in between them.  A small iron staircase spirals the way down,
+back to the main part of the house.  
+~
+0 5242920 0
+D5
+~
+~
+~
+0 0 19390
+M 0 H 0
+S
+#19540
+A Small Dining Room~
+This small room has been decorated as a dining room.  Dominating the
+center of the area, a round table large enough to seat five people has been
+placed.  Covering the floor is a thick green carpeting, stretching from wall
+to wall.  The walls are made of wood from the floor to about three feet up,
+proceeding from there to the ceiling and painted a brilliant white.  A door
+to the north leads to a small foyer, while the kitchen is visible to the
+west.  
+~
+0 1048616 0
+D0
+~
+~
+~
+0 0 19390
+D3
+~
+~
+~
+0 0 19542
+M 0 H 0
+S
+#19541
+A Large Bedroom~
+This large bedroom appears to be a very comfortable place to sleep.  The
+floor is covered in dark green carpeting which matches perfectly with the
+walls.  Dark wood runs from the floor to about three feet up the wall,
+continuing to the ceiling in a brilliant white.  A large four poster bed has
+been placed against the southern wall, appearing to be very comfortable. 
+The eastern wall is home to a large window, allowing a view outside of the
+house.  A door to the north leads to the living room, while a doorway to the
+west leads to the bath.  
+~
+0 1048616 0
+D0
+~
+~
+~
+1 0 19392
+D3
+~
+~
+~
+0 0 19543
+M 0 H 0
+S
+#19542
+A Living Kitchen~
+This room has been designed and setup as a kitchen.  Spacious and roomy,
+the floors are covered in dark green tiles and run from wall to wall.  Dark
+green tiles climb the walls, about half-way up before turning into a
+brilliant white surface, and continuing to the ceiling.  A large window on
+the southern wall allows a view of a patch of wildflowers which seem to
+always be in bloom.  Under the window, a large sink has been placed with a
+faucet, allowing running water to come directly in.  Pushed up against the
+western wall is a stove, big enough to easily cook for four.  Pots and pans
+line the wall to either side of it, hanging on hooks.  A single doorway
+leads the way to the east, back to the dining room.  
+~
+0 1048616 0
+D1
+~
+~
+~
+0 0 19540
+M 0 H 0
+S
+#19543
+A Large Bathroom~
+This bathroom is covered in alternating white and green tiles that cover
+the floor and walls.  A lavish tub has been built into the western wall,
+occupying nearly half of the space in the room.  The bath itself is large
+enough to comfortably hold three people, with room for a fourth.  A ledge
+has been built around the sides, as though to make a place for you to sit,
+submerged.  A sink on the northern wall provides a place for you to wash
+your hands and face, and is a pale green color.  A doorway to the east leads
+the way back to the bedroom.  
+~
+0 1048616 0
+D1
+~
+~
+~
+0 0 19541
+M 0 H 0
+S
+#19544
+An Open Cavern~
+A vast open cavern seems to have been made out of a bubble of volcanic
+rock.  The round black ceiling and walls are very hard and thin, and just
+barely breakable.  The cold rock floor is coated with a dark slime.  
+~
+0 32 0
+D4
+~
+~
+~
+0 0 19519
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 19334 spec_janitor
+M 19348 spec_thief
+M 19351 spec_poison
+S
+
+
+
+#RESETS
+D 0 19332 0 1
+D 0 19332 1 2
+D 0 19333 2 1
+D 0 19339 2 1
+D 0 19340 0 1
+D 0 19341 2 2
+D 0 19342 0 2
+D 0 19342 3 2
+D 0 19343 3 1
+D 0 19344 2 2
+D 0 19344 3 2
+D 0 19345 0 2
+D 0 19350 0 2
+D 0 19350 1 2
+D 0 19351 2 2
+D 0 19352 0 2
+D 0 19352 1 1
+D 0 19352 2 1
+D 0 19352 3 1
+D 0 19353 0 1
+D 0 19353 1 1
+D 0 19353 2 2
+D 0 19353 3 1
+D 0 19354 0 1
+D 0 19354 1 2
+D 0 19355 0 2
+D 0 19355 1 1
+D 0 19355 2 1
+D 0 19355 3 1
+D 0 19356 0 1
+D 0 19356 1 1
+D 0 19356 2 2
+D 0 19356 3 1
+D 0 19357 0 1
+D 0 19357 1 1
+D 0 19357 2 1
+D 0 19357 3 2
+D 0 19358 0 1
+D 0 19359 2 1
+D 0 19361 0 1
+D 0 19362 2 1
+D 0 19363 3 1
+D 0 19364 3 1
+D 0 19365 1 1
+D 0 19367 1 1
+D 0 19368 1 1
+D 0 19369 2 1
+D 0 19370 1 1
+D 0 19371 3 1
+D 0 19372 2 1
+D 0 19373 3 1
+D 0 19374 3 1
+D 0 19375 0 1
+D 0 19376 2 1
+D 0 19377 0 1
+D 0 19378 3 1
+D 0 19379 2 1
+D 0 19380 0 1
+D 0 19381 1 1
+D 0 19382 0 1
+D 0 19383 2 1
+D 0 19384 1 1
+D 0 19385 0 1
+D 0 19386 2 1
+D 0 19387 3 1
+D 0 19390 0 2
+D 0 19390 3 1
+D 0 19391 1 1
+D 0 19392 2 1
+D 0 19395 5 1
+D 0 19400 0 2
+D 0 19413 5 1
+D 0 19419 2 1
+D 0 19419 3 1
+D 0 19420 1 1
+D 0 19421 0 1
+D 0 19421 5 1
+D 0 19422 1 2
+D 0 19422 3 2
+D 0 19423 1 2
+D 0 19423 3 2
+D 0 19424 1 2
+D 0 19424 3 2
+D 0 19425 0 2
+D 0 19425 1 2
+D 0 19425 3 2
+D 0 19426 2 2
+D 0 19427 1 2
+D 0 19428 3 2
+D 0 19429 1 2
+D 0 19430 3 2
+D 0 19431 1 2
+D 0 19432 3 2
+D 0 19433 1 2
+D 0 19434 3 2
+D 0 19483 4 1
+D 0 19507 4 1
+D 0 19538 2 2
+D 0 19541 0 1
+M 0 19333 1 19331 10
+G 0 19337 0
+G 0 19338 0
+G 0 19339 0
+M 0 19346 8 19340 10
+E 0 19376 0 16
+M 0 19346 8 19340 10
+E 0 19376 0 16
+O 0 19332 0 19340
+M 0 19352 3 19343 10
+M 0 19335 1 19343 10
+G 0 19342 0
+G 0 19343 0
+G 0 19341 0
+G 0 19340 0
+G 0 19391 0
+M 0 19334 7 19343 10
+M 0 19346 8 19344 10
+E 0 19376 0 16
+M 0 19334 6 19345 10
+M 0 19334 6 19346 10
+M 0 19334 6 19347 10
+M 0 19346 8 19348 10
+E 0 19376 0 16
+M 0 19334 7 19349 10
+M 0 19352 3 19350 10
+O 0 19350 0 19360
+O 0 19349 0 19372
+O 0 19351 0 19384
+O 0 19336 0 19388
+M 0 19331 1 19388 10
+G 0 19334 0
+G 0 19333 0
+G 0 19335 0
+M 0 19332 2 19388 10
+M 0 19332 2 19388 10
+O 0 19382 0 19391
+O 0 19383 0 19392
+M 0 19348 2 19394 10
+O 0 19352 0 19395
+O 0 19332 0 19395
+M 0 19353 4 19397 10
+M 0 19345 4 19397 10
+M 0 19347 4 19398 10
+M 0 19353 4 19399 10
+M 0 19347 4 19399 10
+M 0 19353 4 19400 10
+M 0 19346 8 19400 10
+E 0 19376 0 16
+M 0 19346 8 19400 10
+E 0 19376 0 16
+M 0 19347 4 19401 10
+M 0 19345 4 19402 10
+M 0 19347 4 19403 10
+M 0 19353 4 19404 10
+M 0 19336 1 19405 10
+G 0 19348 0
+G 0 19347 0
+G 0 19346 0
+M 0 19346 8 19408 10
+E 0 19376 0 16
+M 0 19348 2 19410 10
+M 0 19346 8 19411 10
+E 0 19376 0 16
+M 0 19345 4 19411 10
+M 0 19339 1 19412 10
+M 0 19338 1 19413 10
+M 0 19337 1 19415 10
+M 0 19345 4 19416 10
+M 0 19341 1 19417 10
+G 0 19362 0
+G 0 19363 0
+G 0 19364 0
+G 0 19365 0
+G 0 19366 0
+G 0 19367 0
+G 0 19368 0
+G 0 19369 0
+M 0 19340 1 19418 10
+G 0 19353 0
+G 0 19354 0
+G 0 19355 0
+G 0 19356 0
+G 0 19357 0
+G 0 19358 0
+G 0 19359 0
+G 0 19360 0
+G 0 19361 0
+M 0 19343 1 19419 10
+O 0 19336 0 19419
+O 0 19370 0 19419
+M 0 19342 1 19419 10
+G 0 19371 0
+G 0 19372 0
+G 0 19373 0
+G 0 19374 0
+M 0 19343 4 19420 10
+M 0 19343 4 19420 10
+M 0 19343 4 19420 10
+M 0 19344 2 19420 10
+M 0 19344 2 19420 10
+O 0 19336 0 19426
+O 0 19375 0 19426
+M 0 19350 6 19444 10
+M 0 19349 21 19445 10
+M 0 19348 6 19446 10
+M 0 19349 21 19450 10
+M 0 19351 10 19452 10
+M 0 19349 21 19455 10
+M 0 19349 21 19460 10
+M 0 19351 10 19462 10
+M 0 19348 6 19463 10
+M 0 19350 6 19464 10
+M 0 19349 21 19465 10
+M 0 19349 21 19470 10
+M 0 19351 10 19472 10
+M 0 19349 21 19475 10
+M 0 19348 6 19480 10
+M 0 19349 21 19480 10
+M 0 19348 6 19482 10
+M 0 19351 10 19482 10
+M 0 19350 6 19484 10
+M 0 19349 21 19485 10
+M 0 19349 21 19490 10
+M 0 19351 10 19492 10
+M 0 19349 21 19495 10
+M 0 19349 21 19500 10
+M 0 19351 10 19502 10
+M 0 19350 6 19504 10
+M 0 19349 21 19505 10
+M 0 19348 6 19508 10
+M 0 19349 21 19510 10
+M 0 19351 10 19512 10
+M 0 19349 21 19515 10
+M 0 19349 21 19520 10
+M 0 19351 10 19522 10
+M 0 19350 6 19524 10
+M 0 19349 21 19525 10
+M 0 19349 21 19530 10
+M 0 19351 10 19532 10
+M 0 19350 6 19532 10
+M 0 19349 21 19534 10
+M 0 19352 3 19535 10
+O 0 19386 0 19539
+P 0 19378 0 19386 10
+O 0 19387 0 19539
+O 0 19385 0 19540
+O 0 19384 0 19541
+S
+
+
+
+#SHOPS
+19331 0 17 0 0 0 200 60 0 23
+19333 0 0 0 0 0 200 60 0 23
+19335 0 8 5 3 28 130 60 0 23
+19336 0 3 26 29 10 130 60 0 23
+19340 0 5 9 8 13 130 60 5 20
+19341 0 0 0 0 0 130 60 5 20
+19342 0 0 0 0 0 130 60 1 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

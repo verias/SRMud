@@ -1,0 +1,3469 @@
+#AREADATA
+Name { ALL } XeryAsa Schlangegrube~
+Builders Xeryna~
+VNUMs 12650 12749
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#12650
+drow ghost adept pain~
+a ghostly Adept of Pain~
+A drow ghost dressed in translucent red robes is here.
+~
+Translucent red robes cover what once might have been a supple, attractive 
+body.  Now, this drow is an apparition of what it once was and is on the 
+translucent side herself.  Long, straight hair that is faintly tinted white 
+hangs to her waist, the unadorned strands moving slightly as if blown by a 
+breeze.  Fine eyebrows arch over misty violet eyes, her dark face still 
+holding some of the comeliness that must have been present during life.  
+~
+unique~
+A BPTUZ 0 0
+55 0 11d216+1345 220d10+100 5d7+16 none
+-11 -11 -11 -9
+0 0 AD C
+(null) (null) either 247
+ACHIKLMV ABCDEFGHIJK medium unknown
+#12651
+head priestess lufu drow ghost woman beautiful apparition~
+the head priestess of Lufu~
+The apparition of a beautiful woman is here, her fingers caressing a whip.
+~
+This translucent figure of what once was a female drow is adorned in what 
+must have been rich ceremonial silks.  The black robe draping over her 
+orb-like breasts hugs her narrow waist and fills out once more around her 
+thighs, the very ends tattered and hanging past her feet.  A scarf checked 
+in blue, purple, and red hangs around her neck, the ends dangling past her 
+knees.  Strange black markings that look very much like burns can be found 
+on the backs of her hands, meaningless to the casual observer, though they 
+seem to somehow match her tall hat.  The hat resembles a spade from the 
+standard deck of cards, made of black translucence that's stitched in blue, 
+purple, and red.  
+~
+unique~
+AB BPTU 0 0
+57 0 11d239+1429 228d10+100 5d7+17 none
+-12 -12 -12 -10
+0 0 AB C
+(null) (null) either 256
+ACHIKLMV ABCDEFGHIJK medium unknown
+#12652
+adept passion drow ghost~
+a ghostly Adept of Passion~
+Purple robes shroud the drow ghost that can be found here.
+~
+The drow here is strangely immaterial, her entire being see-through to some 
+extent.  Purple robes that match her violet eyes drape over her hourglass 
+figure, accentuating her feminine curves her body must have had in the past. 
+ Long white hair flows freely, the strands dancing about as if forever 
+tormented by a wind.  Even in this form, the ghostly dark elf seems to be 
+rather attractive with a fine-featured face topping her scintillating body.  
+
+~
+unique~
+A BPTU 0 0
+50 0 10d167+1149 200d10+100 5d6+13 none
+-9 -9 -9 -7
+0 0 A C
+(null) (null) either 225
+CIKLM ABCDEFGHIJK medium unknown
+#12653
+adept sorrow drow ghost~
+a ghostly Adept of Sorrow~
+The drow apparition here is covered in deep blue robes.
+~
+Slanted eyes housing orbs of translucent violet stare ahead, the being 
+floating here completely silent.  Elven ears poke out of her long white 
+hair, the mass reaching to about her waist and always stirring as if toyed 
+with by some unseen wind.  Her face is fine featured and her skin dark, 
+these trademarks of the drow making it impossible to mistake her as the 
+ghost of anything else.  Her gentle hourglass figure is swathed in robes of 
+deep blue, holding the same translucence as the rest of her being.  
+~
+unique~
+A BPTU 0 0
+45 0 10d128+969 180d10+100 5d5+14 none
+-7 -7 -7 -5
+0 0 A C
+(null) (null) either 202
+CIKLM ABCDEFGHIJK medium unknown
+#12654
+female drow ghost supplicant~
+a ghostly supplicant~
+A drow woman in white robes is here, eyes unfocused.
+~
+Snowy white robes that match her flowing hair stir as if blown by a breeze, 
+even when the air is still.  This stark white contrasts sharply with her 
+dark skin, which, when taking her violet eyes and tapered ears, make it 
+obvious she is one of the drow.  She is completely translucent, a clear sign 
+that she is no longer amongst the living.  
+~
+unique~
+A BJP 0 0
+40 0 10d98+804 160d10+100 4d7+10 none
+-5 -5 -5 -3
+0 0 B 0
+(null) (null) either 180
+AHMV ABCDEFGHIJK medium unknown
+#12655
+peacock bird~
+a proud peacock~
+{xThe bird here with {bb{gr{yi{gg{bh{yt{x tail feathers can be no other than a peacock.
+~
+This fowl has gayly colored feathers sprouting from its body and it fans 
+them out whenever it nears a pea hen.  It stands approximately a foot and a 
+half tall and has a tendency to be picking at the wild vegetation when it is 
+looking for food.  
+~
+water fowl~
+A Tb 0 0
+6 0 1d12+53 20d10+100 1d2+1 none
+8 8 8 8
+0 R R 0
+(null) (null) female 27
+AGW ACDEFHKOP medium unknown
+#12656
+pea hen bird~
+a drab pea hen~
+This drab bird resembles a peacock, minus the colorful tail feathers.
+~
+This bird seems to be about a foot and a half in height and is covered in 
+drab tan and bran feathers.  It looks around curiously from time to time 
+before letting out an extremely annoying mating call.  She does good at 
+looking unimpressed with any male advances from her kind, though.  
+~
+water fowl~
+A Tb 0 0
+6 0 1d12+53 20d10+100 1d2+1 none
+8 8 8 8
+0 R R 0
+(null) (null) male 27
+AGW ACDEFHKOP medium unknown
+#12657
+skunk~
+a medium sized skunk~
+This skunk is about the size of a medium cat.
+~
+This cat-sized creature has sleek fur on its body and a wide, fluffy tail.  
+Twin stripes of white start right between its small triangular ears and work 
+themselves to a joined point at the tip of its tail.  It tries to run into 
+the forest as soon as it detects you.  
+~
+cat~
+A Z 0 0
+10 0 1d12+53 20d10+100 1d2+1 none
+8 8 8 8
+FH 0 0 0
+(null) (null) male 45
+AGV ACDEFHJKQUV small unknown
+#12658
+black rabbit~
+a black rabbit~
+This rabbit is covered in black fur.
+~
+This small furred beast has a pair of long carrot-shaped ears growing from 
+its head, angling backwards slightly.  Its fur is black and makes it a bit 
+difficult to see it against the dark earth.  Its eyes are large and seem to 
+be windows directly into its timid soul.  
+~
+rabbit~
+A 0 0 0
+5 0 1d12+53 20d10+100 1d2+1 none
+8 8 8 8
+FH 0 0 0
+(null) (null) male 22
+AGV ACDEFHJKP medium unknown
+#12659
+fox mother~
+a large red fox~
+A fox mother is here, guarding its kits and teaching them how to hunt.
+~
+Dirt covers the coat of this dog-like creature, but not enough to disguise 
+that it is a red fox.  The very tip of its tail is a snowy white color while 
+its ears and long snout are black.  She seems to be teaching her young how 
+to hunt by pouncing an any rabbits that come near.  
+~
+fox~
+AB Z 0 0
+10 0 3d23+120 40d10+100 2d3+2 none
+6 6 6 6
+FHR 0 0 0
+(null) (null) either 45
+AGV ACDEFHJKPQUV medium unknown
+#12660
+fox kit~
+a playful fox kit~
+A fox kit is here, baring its teeth before pouncing playfully at its brethren.
+~
+This kit is roughly the size of a month old puppy.  It has red fur and 
+darkened ears and snout while at the tip of its tail, there is a shock of 
+white.  Its small paws appear to be white, as well.  
+~
+fox~
+A Z 0 0
+7 0 2d17+79 28d10+100 1d3+2 none
+7 7 7 7
+FH 0 0 0
+(null) (null) male 31
+AGV ACDEFHJKPQUV medium unknown
+#12661
+firefly fireflies~
+some fireflies~
+Some fireflies fly lazily through the air here.
+~
+These fireflies swirl around, their bodies lit up with a soft amber light.  
+They are constantly shifting and either in flight or resting within the 
+vegetation available.  Combined with the soft twinkling sound that fills the 
+air, they seem to very peaceful.  
+~
+unique~
+ABW CDEFTU 0 0
+0 0 1d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 LQ CD 0
+(null) (null) male 0
+AHM ABCDEFGHIJK tiny unknown
+#12662
+chipmunk~
+a chipmunk~
+A chipmunk can be seen darting about nearby.
+~
+This mouse-sized creature can only be a chipmunk, evidenced by several 
+vertical stripes of black and white on its back.  The rest of its fur is a 
+tawny color, the hair short and soft.  When left to its own devices, it 
+darts around freely with a speed that could be envied.  
+~
+rabbit~
+A 0 0 0
+5 0 1d12+53 20d10+100 1d2+1 none
+8 8 8 8
+FH 0 0 0
+(null) (null) male 22
+AGV ACDEFHJKP medium unknown
+#12682
+stone naga creature humanoid snake~
+a stone naga~
+A creature that is half humanoid and half snake is here.
+~
+This creature seems to be humanoid for its upper half and the rest is like 
+that of a giant snake.  It seems to be female, possessing a generous bust 
+and a narrowed waist, but the face alone would not indicate such: it is 
+smooth and somewhat snakelike, coming to a soft point near the mouth.  It 
+lacks ears completely, though there are gentle ridges where the ears would 
+be on a humanoid.  Its soft grey scales display a glossy shine in the dim 
+light.  
+~
+unique~
+AF 0 0 0
+19 0 6d37+274 76d10+100 2d5+6 none
+2 2 2 4
+H L L 0
+(null) (null) either 85
+AMXc ABCDEFGIKLQUVX medium unknown
+#12683
+stone naga creature humanoid snake~
+a stone naga~
+A creature that is half humanoid and half snake is here.
+~
+This creatures appears to be an odd mixture of snake and man: its head comes 
+to a smooth, snakelike point and lacks ears of any sort.  The body is well 
+muscled and wide, joining perfectly to a thick snake tail, all of which is 
+covered in shiny grey scales.  Its eyes are yellow with black slits for 
+pupils and it bares its fangs as it hisses at you.  
+~
+unique~
+AF 0 0 0
+23 0 7d44+355 92d10+100 3d5+5 none
+1 1 1 3
+0 L L 0
+(null) (null) female 103
+AMXc ABCDEFGIKLQUVX medium unknown
+#12684
+stone naga creature humanoid snake~
+a stone naga~
+A creature that is half humanoid and half snake is here.
+~
+What at first glance seems to be a voluptuous woman waiting here turns out 
+to be something more sinister.  The face is perfectly smooth and seems to 
+hold an inhuman beauty.  It is only upon closer examination that other 
+features become more apparent--such as from the waist down, there are a 
+serpent's coils, inky black in hue and constantly in motion.  The creature's 
+chest also belies the fact that it is female by possessing only a single 
+breast.  Upon the other side of its chest is a strange runic symbol that 
+seems to coil about under scrutiny.  
+~
+unique~
+AF 0 0 0
+15 0 5d31+200 60d10+100 2d4+2 none
+4 4 4 6
+0 L L 0
+(null) (null) male 67
+AMXc ABCDEFGIKLQUVX medium unknown
+#12685
+badger~
+a badger~
+A white and black badger is here, snuffling around for food.
+~
+This small omnivore is white stripes running from its muzzle and ends at its 
+ears, the rest of its body is covered in short black fur.  The only 
+exception is the white coat that lines its underbelly, starkly contrasting 
+with the dominant black of the backside.  Its four short legs end in 
+powerful-looking paws that are tipped with long, sharp claws.  As it 
+snuffles and noses around, its jaws part to reveal sharp-looking teeth.  
+~
+fox~
+A Z 0 0
+13 0 4d28+168 52d10+100 2d4+0 none
+5 5 5 7
+FH 0 0 0
+(null) (null) male 58
+AGV ACDEFHJKPQUV medium unknown
+#12686
+timber wolf~
+a timber wolf~
+A grey timber wolf pads along here.
+~
+This creature might be mistaken as a dog at a distance, but when observed 
+closely one can see that its body is built very differently.  Medium grey 
+fur covers its delicate-looking from, darkening around the perky ears and 
+the muzzle.  It is silent in its wanders through its territory, aside from 
+the occasional baying.  
+~
+unique~
+A FJZ 0 0
+17 0 5d34+236 68d10+100 2d5+5 none
+3 3 3 5
+FH 0 I H
+(null) (null) male 76
+AGHMV ABCDEFGHIJKLPQUV medium unknown
+#0
+
+
+
+#OBJECTS
+#12650
+fountain of tears~
+the fountain of tears~
+A large fountain with a statue of two weeping lovers can be seen here.~
+unknown~
+fountain R 0
+30 30 'water' 0 0
+110 0 0 P
+#12651
+fountain passion~
+the fountain of passion~
+A statue of two humanoids in the act of lovemaking is here.~
+unknown~
+fountain R 0
+30 30 'water' 0 0
+110 0 0 P
+#12652
+fountain pain~
+the fountain of pain~
+The statue of the fountain bleeds from all its wounds, creating the fountain of pain.~
+unknown~
+fountain R 0
+30 30 'water' 0 0
+110 0 0 P
+#12653
+corner fountain small~
+a small fountain~
+A small fountain can be found in each of the corners.~
+unknown~
+fountain R 0
+30 30 'water' 0 0
+110 0 0 P
+#12654
+lavish fountain~
+a lavish fountain~
+This fountain has water streaming from an ornately carved bouquet of flowers.~
+unknown~
+fountain R 0
+30 30 'water' 0 0
+110 0 0 P
+#12655
+naga egg stone~
+a smooth stone-like egg~
+This egg-shaped stone is the same white that moonstones are.~
+unknown~
+pill Rb AO
+25 'reserved' 'reserved' 'reserved' 'reserved'
+1 1 0 P
+#12656
+naga egg stone~
+a smooth stone-like egg~
+This egg-shaped stone is the same white that moonstones are.~
+unknown~
+pill R AO
+25 'reserved' 'reserved' 'reserved' 'reserved'
+1 0 0 P
+#12657
+naga egg stone~
+a smooth stone-like egg~
+This egg-shaped stone is the same white that moonstones are.~
+unknown~
+pill R AO
+15 'reserved' 'reserved' 'reserved' 'reserved'
+1 0 0 P
+#12658
+stone naga spear~
+a stone naga spear~
+This spear is made completely of stone and appears to be hafted from a stalactite.~
+unknown~
+weapon 0 AN
+dagger 6 6 none 0
+19 3 95 P
+A
+13 10
+#12659
+stone naga spear~
+a mica-embedded stone spear~
+This stone spear appears to be made from a mica-flecked stalagmite.~
+unknown~
+weapon 0 AN
+dagger 5 9 none J
+23 5 115 P
+#12660
+wildflowers flower~
+a bunch of {yw{ri{xl{md{gf{cl{yo{mw{ce{rr{ys{x~
+Some {mw{ri{xl{md{yf{cl{yo{mw{ce{rr{ys{x have been left here for the taking.~
+unknown~
+treasure Rb AO
+0 0 0 0 0
+0 0 1 P
+#12661
+peacock feather~
+{xa {bb{gr{yi{gg{bh{yt{x feather~
+This feather could not have once belonged to anything but a peacock.~
+unknown~
+wand Rb AO
+15 5 2 'reserved' 0
+10 0 0 P
+#12662
+orange mushroom~
+an orange mushroom~
+An orange mushroom can be seen here.~
+unknown~
+pill R AO
+20 'reserved' 'reserved' 'reserved' 'reserved'
+1 1 0 P
+#12663
+white mushroom~
+a white mushroom~
+A small white mushroom is here, looking clean and edible.~
+unknown~
+food R AO
+BEF 0 0 0 0
+0 0 0 P
+#12664
+stone chair~
+a stone chair~
+This rock looks suspiciously like a chair made from stone.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#12665
+stone table~
+a stone table~
+This rock surface is even, almost as if it was fashioned to be a table.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#12666
+bluebells flowers bunch~
+a bunch of {cbluebells{x~
+{xA bunch of {cbluebells{x can be seen here.~
+unknown~
+treasure R AO
+0 0 0 0 0
+0 0 1 P
+#12667
+willow leaves~
+some willow leaves~
+Some willow leaves have fallen from their life-giving trees.~
+unknown~
+pill Rb AO
+50 'reserved' 'reserved' 'reserved' 'reserved'
+1 0 0 P
+#12668
+bed moss~
+a bed of moss~
+The soft moss bed here looks cozy and inviting for the weary traveller.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#12669
+stones~
+an arrangement of stones~
+Some stones have been arranged strangely here.~
+unknown~
+portal R 0
+BD 0 E 0 0
+0 0 0 P
+#12670
+sycamore tree~
+a giant sycamore~
+A huge sycamore spreads its branches out over this small canyon.~
+unknown~
+portal 0 0
+0 0 A DEFGHJLO 0
+0 0 0 P
+#12671
+bed flowers~
+a bed of {yf{ml{xo{rw{be{cr{ms{x~
+A tangled mass of {yf{ml{xo{rw{be{cr{ms{x and grass can be seen here.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#12672
+grapes~
+a handful of grapes~
+Juicy, plump purple grapes can be spied here.~
+unknown~
+food R AO
+AB 0 0 0 0
+0 0 0 P
+#12673
+stone face rock~
+an eerie stone face~
+An eerie glow that resembles a mouth, nose, and eyes is here.~
+unknown~
+portal R 0
+0 0 0 ADEFHIJL 0
+0 0 0 P
+#12674
+amulet tears~
+an amulet of tears~
+A small amulet in the shape of a tear drop is here.~
+unknown~
+potion b AC
+45 'reserved' 'reserved' 'reserved' 'reserved'
+45 0 400 P
+A
+17 -7
+E
+tear~
+The tear drop shaped amulet appears to be a vial full of transparent salty 
+liquid.  
+~
+#12675
+amulet passion~
+an amulet of passion~
+A small amulet in the shape of a star is here.~
+unknown~
+potion b AC
+50 'reserved' 'reserved' 'reserved' 'reserved'
+50 0 500 P
+A
+17 -8
+E
+passion~
+This small vial is in the shape of a star and holds milky fluid with a 
+semi-bitter taste.  
+~
+#12676
+amulet pain~
+an amulet of pain~
+A small amulet in the shape of a blade is here.~
+unknown~
+potion b AC
+55 'reserved' 'reserved' 'reserved' 'reserved'
+55 0 600 P
+A
+17 -9
+E
+pain~
+This small star shaped vial appears to be full of blood red liquid that's 
+slightly metallic in taste.  
+~
+#12677
+black translucent robe silk cloth~
+a translucent black robe~
+A heap of gauzy black silk lays here.~
+unknown~
+armor 0 AD
+AD AD AD B 0
+57 0 285 P
+A
+3 2
+#12678
+scarf checked blue purple red~
+a long, long scarf~
+A pile of silk is here, checkered in blue, purple, and red.~
+unknown~
+protect b AC
+AD AD AD B 0
+57 0 700 P
+A
+18 4
+#12679
+exotic marking burn~
+exotic symbols~
+Some strange exotic symbols have been discarded here.~
+unknown~
+armor b AH
+0 0 0 0 0
+57 0 285 P
+A
+19 4
+#12680
+spade hat heart cap~
+a spade shaped hat~
+This hat is much like an inverted heart sitting upon a small cap.~
+unknown~
+armor b AE
+AD AD AD B 0
+57 0 285 P
+A
+4 2
+#12681
+snake skin whip~
+a snake skin whip~
+A whip of fine snake skin is coiled up here.~
+unknown~
+weapon b AN
+flail 7 16 none D
+57 0 285 P
+E
+!history!~
+During the feast of lust and pain, the head priestess of Lufu would push the 
+handle of this very whip into her, making sure that the length of the whip 
+pressed against her bud as she pulled it up her body to loop it around her 
+ample breasts, and then her neck.  When she danced before the bound male 
+slaves, each of the priestess's movements would cause the whip to torment 
+the sensitive parts of her body that were touched or bound.  As a slave 
+became aroused she would tug the whip from inside herself, mount his rampant 
+member and ride him before placing the whip inside herself again.  This 
+would carry on until all the slaves where milked, then she would smear the 
+whip with their juices and lash each one to death.  
+~
+E
+whip~
+This whip is on the long side and is thin, its design making it a useful 
+giver of pain.  It appears to be made of extremely flexible and fine snake 
+skin that proves to be very soft to the touch.  The silver handle flairs 
+before rounding gently at the base and is inlaid with archaic runes.  A very 
+small ring of silver surrounds the supple whip near its end and is covered 
+in small, dangerous-looking spikes.  
+~
+#12682
+black leather boots~
+racy black leather boots~
+A pair of black leather boots with open lacing on the sides can be seen here.~
+unknown~
+armor 0 AG
+AD AD AD B 0
+57 0 285 P
+#0
+
+
+
+#ROOMS
+#12650
+The Statue of Tears~
+A statue of a man and a woman is here, twined together in a desperate
+embrace, their lips locked together as tears flow from their eyes into the
+basin below.  The room is spartan apart from the fountain found at its
+center and everything seems to be blue one shade or another: the floor is
+tiled in a checkered pattern of deep blue-black and midnight, the walls are
+a soft but sallow blue, and the statue itself is comprised of several shades
+to make it more dramatic.  A door leads away to the west, created of a
+strange blue wood with a black handle.  
+~
+0 1048584 0
+D3
+~
+~
+~
+1 0 12651
+M 0 H 0
+S
+#12651
+A Spartan Corridor~
+The walls are made of carefully crafted slate, chipped very slightly by
+the pilgrimage of others in the past.  The dull grey colouring of the stone
+coupled with the still, stale air makes this windowless passage all the
+gloomier.  It is barren of all decoration, each extremity being flat and
+lacking any luxury that might make it seem more welcoming.  To the east lies
+a door fashioned of the same rock while the hallway stretches on quite a
+ways to the west.  
+~
+0 1048584 0
+D1
+~
+~
+~
+1 0 12650
+D3
+~
+~
+~
+0 0 12652
+M 0 H 0
+S
+#12652
+A Slate Corridor~
+Dull grey slate comprises the walls, the rock designed to fit at sharp
+right-angles and devoid of any and all decoration.  The air is still and
+doesn't seem to carry the slightest sound, giving the passage a gloomy feel
+when the natural darkness of the windowless pass is considered.  Some light
+penetrates the hall from a chamber the west, barely reaching far enough to
+illuminate the door far to the east.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 12651
+D3
+~
+~
+~
+0 0 12653
+M 0 H 0
+S
+#12653
+The Heart of the Temple~
+The room pulsates gently with red light that originates from a chandelier 
+hanging high in the domed chamber.  The floor has etchings of the same 
+arcane symbols that repeat themselves, spiralling into nothingness at the 
+center point of the floor, engraved at least an inch deep.  Corridors 
+stretch away in each of the cardinal directions and the bloody light 
+penetrates their darkness well enough to show doors at the end of each.  
+Fountains have been crafted into the corners, elegant and created from fine 
+red veined white marble.  
+~
+0 1048584 0
+E
+chandelier~
+This ornate piece is centered with a giant crystalline heart, surrounded
+by diamonds, crescents, and tear-drop shaped pieces of beveled crystal. 
+They glow with an internal light that pulses like that of a heartbeat,
+steadily waxing and waning to flooding the room with red light in either
+case.  The pieces sway gently with an unfelt breeze, tinkling very softly in
+an attractive manner.  
+~
+E
+spiral~
+A highly decorative scrawl curls and spirals in an ever-tightening
+corkscrew to the center of the room, ending in a multi-facted gem that
+pulsates with the same light as the chandelier.  
+~
+D0
+~
+~
+~
+0 0 12654
+D1
+~
+~
+~
+0 0 12652
+D2
+~
+~
+~
+0 0 12660
+D3
+~
+~
+~
+0 0 12657
+M 0 H 0
+S
+#12654
+A Utilitarian Hall~
+Runic carved walls support a roof of similar styling, these arcane sigils 
+reflecting any light that should happen to strike them.  The complexity of 
+the symbols are staggering, each crafted with both great care and skill, 
+though the meanings seem to have long been lost to the realm of man.  To the 
+south a faintly glowing chamber can just be discerned while northwards the 
+corridor continues towards a door, bearing a striking resemblance to this 
+one.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 12655
+D2
+~
+~
+~
+0 0 12653
+M 0 H 0
+S
+#12655
+A Utilitarian Hall~
+The walls shine purple even through the dim red light that reaches all the 
+way to the door leading northward here, the strongest of it only faintly 
+illuminating it.  The passage is decorated with carved symbols that look 
+senseless to the normal traveller, but have been carved with painstaking 
+clarity.  The runes seem to reflect whatever light catches them, glowing a 
+soft purple.  The light seems to be filtering in from an opening at the 
+southern end of this corridor.  
+~
+0 1048584 0
+D0
+~
+~
+~
+1 0 12656
+D2
+~
+~
+~
+0 0 12654
+M 0 H 0
+S
+#12656
+The Statue of Passion~
+This statue depicts a man and woman in the act of love making, their bodies 
+closely twined together.  Her breasts are depicted flattened against his 
+chest as she hugs herself closely to his neck and his arms are sculpted to 
+look as if they are wrapped around her lower back.  Everything in this 
+chamber is one shade of purple or another, the statue being several in and 
+of itself.  Liquid flows from no discernable holes in the statue into the 
+fount basin carved around the figures.  A purple wooden door leads 
+southward, the handle shining a soft lavender.  
+~
+0 8 0
+D2
+~
+~
+~
+1 0 12655
+M 0 H 0
+S
+#12657
+An Elongated Passageway~
+The stone comprising this corridor appear to be slightly rough and a deep
+red that glistens like blood.  The hall is rectangular in shape and looks
+less severe due to the uneven rock face.  The floor has been smoothed out to
+create a path through the middle, whether it was through the passage of feet
+over time or through design is unknown.  The light penetrating from the
+central chamber found to the east pierces the gloom of the windowless
+passage to expose a heavy metal door at the end.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 12653
+D3
+~
+~
+~
+0 0 12658
+M 0 H 0
+S
+#12658
+An Elongated Passageway~
+A metal door leads to a western exit here, the surface covered in
+elongated spikes to make it appear formidable.  A small path of stone
+flatter than the rest of that which the hall was made from leads through the
+very center of the floor, possibly shaped by design or by the passage of
+people in the past.  The corridor has no light of its own but is instead
+illuminated very dimly with a pulsating red glow that filters in through the
+western end of the hall.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 12657
+D3
+~
+~
+~
+1 0 12659
+M 0 H 0
+S
+#12659
+The Statue of Pain~
+The likeness of a man is here, his wrists shackled together and secured
+over his head to the ceiling.  A bloody red liquid seeps from slashes that
+spread over his back, as if he was whipped cruelly.  His head hangs as he
+dangles from the chains, long slightly curled hair carved to hang over his
+face and obscure it.  His legs connect to a pedestal that is surrounded by a
+basin that houses all the liquid emerging from the fountain.  The walls have
+been covered in iron spikes that come to razor sharp points, forming row
+upon formidable row over the surfaces.  A similarly decorated door leads
+eastward from this shrine of pain.  
+~
+0 1048584 0
+D1
+~
+~
+~
+1 0 12658
+M 0 H 0
+S
+#12660
+A Lavish Hall~
+This hall is decorated with fine crystal objects set directly into the wall, 
+reflecting the pulsating red light that floods into the corridor from the 
+north.  An open way leads southward to a large chamber full of cushions, 
+illuminated with its own pale white light that doesn't seem to enter this 
+corridor.  The floor has hearts and other shapes carved into the tiles, 
+creating a unique pattern that shimmers under the red glow.  The passage is 
+quite wide and the walls never seem to become closer no matter how far one 
+walks towards either side.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 12653
+D2
+~
+~
+~
+0 0 12661
+M 0 H 0
+S
+#12661
+A Grand Reception~
+No luxury had been forgotten when it came to the construction of this 
+chamber.  Overstuffed pillows and cushions have been scattered around the 
+room in a colorful disarray of red, purple, and blue.  Some of the seating 
+has been arranged around the fountain and looks even more lavish than the 
+rest, presumably to seat more important guests.  The fountain is made of a 
+colorful bouquet of flowers that spout a sweet-smelling liquid.  An ornately 
+carved double door of stone stands to the south, its surface tooled under 
+countless hours to give it scroll work and knots that never end.  An open 
+hallways leads northward.  
+~
+0 34603016 0
+D0
+~
+~
+~
+0 0 12660
+D2
+~
+~
+~
+3 0 12662
+M 0 H 0
+S
+#12662
+A Dead End~
+To the east, a roughly cut tunnel extends, the walls becoming less narrow as 
+it travels further from this point.  More evidence of the workers being 
+hurried can be found at the walls: the mica-specked rocks become even more 
+jagged and make the smooth northern wall look a little out of place.  A 
+large symbol has been carved into the smoother rock, the beveled surface 
+reflecting any light it comes in contact with in a strange manner.  The 
+faint echo of water dripping can be heard, though its origin is unknown.  
+~
+0 9 0
+D0
+~
+~
+~
+3 0 12661
+D1
+~
+~
+~
+0 0 12663
+M 0 H 0
+S
+#12663
+A Dark Tunnel~
+A curving tunnel has been crafted from the living rock of this mountain, 
+stretching away both to the north and to the west dark grey and flecked with 
+mica that reflects the faintest light back into the passageway and creates 
+an effect that is comparable to stars in the night sky.  The roughness of 
+the rock hints that whoever crafted this corridor was either in a hurry or 
+did not care about the look of the end result.  A chill fills the air, 
+whether due to the colossal mass of stone all around or due to some unseen 
+effect it is unclear.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12664
+D3
+~
+~
+~
+0 0 12662
+M 0 H 0
+S
+#12664
+A Dark Tunnel~
+This underground chamber serves as a small nexus that branches off in each 
+of the cardinal directions, the walls made of rough rock that marks that 
+either unskilled or very hurried work went into making this hole in the 
+ground.  Any stray light reflects on the mica and sparkles a bit like faery 
+dust.  The walls are unpolished and the room is only slightly larger than 
+the tunnels leading into it.  A draft filters through a tunnel that happens 
+to lead upwards in addition to the ones the east, west, north, and south.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12668
+D1
+~
+~
+~
+0 0 12671
+D2
+~
+~
+~
+0 0 12663
+D3
+~
+~
+~
+0 0 12665
+D4
+~
+~
+~
+3 0 12674
+M 0 H 0
+S
+#12665
+A Dark Tunnel~
+Gloom and darkness flows around this passageway like a tangible thing, 
+carrying a chill with it as it that drains the heat from one's bones.  Dark 
+grey rock composes the tunnel, roughly worked and freckled with chips of 
+mica that sparkle under any light that should happen to strike it.  Faint 
+sounds resonate about the hallway, too soft to be heard clearly or for the 
+distance to be judged with any degree of accuracy.  The hole can be barely 
+seen continuing east and north.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12666
+D1
+~
+~
+~
+0 0 12664
+M 0 H 0
+S
+#12666
+A Dark Tunnel~
+Glinting mica shimmers to the slightest touch of any light from within the 
+rough hewn grey stone of the tunnels walls.  Echoing sounds sporadically 
+fill the air, coming from some indeterminable distance either ahead or 
+behind, sometimes sounding eerily like voices while at other times sounding 
+like nothing more than the movements of some unseen subterranean creature as 
+it goes about its business.  The chill from the narrow rock passages robs 
+one of all feelings of warmth.  The tunnel narrows further to the east and 
+opens up slightly to the south.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 12667
+D2
+~
+~
+~
+0 0 12665
+M 0 H 0
+S
+#12667
+A Dead End~
+A chill fills the air of this mica freckled tunnel, cutting through one's 
+clothing like an icy knife to seep out and warmth within.  The chips of mica 
+within the walls glint back into the passage if even the slightest light 
+strikes it, looking strangely like animal eyes glinting in the darkness.  
+All around grey rock surrounds, the surfaces cut swiftly going by the rough 
+nature of the construction, as if the builders were in great haste.  The 
+northern wall is smooth and bears a strange symbol, the only indication that 
+anyone has ever looked twice at this small cubby.  
+~
+0 9 0
+D3
+~
+~
+~
+0 0 12666
+M 0 H 0
+S
+#12668
+A Dark Tunnel~
+Chipped and chiselled surfaces compose the solid rock of this rough tunnel, 
+mica implanted within the ancient dark grey stone, their flecks glinting in 
+the slightest light.  The air here bears a chill cold enough to mist one's 
+breath as it escapes and is most likely the product of the massive weight of 
+stone that demolishes any chance of the sun's warmth penetrating this 
+deeply.  Every so often, a faint echo reaches the ears as it bounces off the 
+rough hewn rock, the direction for its source remaining a mystery.  There 
+seems to be room to travel east or south.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 12669
+D2
+~
+~
+~
+0 0 12664
+M 0 H 0
+S
+#12669
+A Dark Tunnel~
+Rough cut rock makes up the surfaces of this corridor, looking like whoever 
+constructed it cared little for the ascetics of the end result but more for 
+the speed with which it could be crafted.  A chill fills the air, cool but 
+not too unpleasant seeming to seep from the rock faces.  Faint sounds drift 
+through the stygian night, sometimes sounding like the chink of metal 
+against metal, sometimes something more akin to scales against scales and 
+sometimes something closest described to the breathing of a massive beast.  
+The constrictive hole seems to continue south and west.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 12670
+D3
+~
+~
+~
+0 0 12668
+M 0 H 0
+S
+#12670
+A Dead End~
+Mica-flecked rock litters the floor of this collapsed tunnel, chunks of 
+stone lay scattered about, ranging in size from tiny pebbles to some about 
+twice the size of a human's head.  Judging by the devastation, whatever 
+caused this cave-in must have been powerful indeed: claw marks score the 
+existing tunnel walls while the roof has been smashed by the destructive 
+force.  A chill fills the air, seeming to coming from the solid stone all 
+around.  The only apparent exit would be to the north.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12669
+M 0 H 0
+S
+#12671
+A Dark Tunnel~
+Rough hewn stone, dark and oppressive forms a simple tunnel here.  Small 
+slivers of mica are exposed from within the rock faces, reflecting any light 
+that should happen to strike it back towards the source.  Coldness fills the 
+air of the area, most likely a product of the weight of stone all about and 
+resulting in a slight fogging of breath within the air.  From some unknown 
+and unknowable distance off, noises drift out of the darkness sounding 
+sometimes like the clink of armour against armour.  The corridor continues 
+to make its way to the south and the west, seemingly without end.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 12672
+D3
+~
+~
+~
+0 0 12664
+M 0 H 0
+S
+#12672
+A Dark Tunnel~
+Dark grey rock forms solid walls of this dismal corridor, cold seeping from 
+the walls to leech all warmth back into there mica freckled surface.  Any 
+light that happens to trickle across the rock glints off the glistening mica 
+embedded there, being reflected back so that an illusion reminiscent of a 
+night sky is conjured into one's mind.  Every so often a soft sound, 
+something akin to hissing, can be heard and found coming to one's senses 
+though the direction and location of its source is masked by the enclosing 
+darkness.  It looks like you may be able to continue to the north or east.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12671
+D1
+~
+~
+~
+0 0 12673
+M 0 H 0
+S
+#12673
+A Dead End~
+Air seems to whisper through the rocks, a cool breeze coming in from 
+somewhere close by.  Echoes of water dripping and creatures scampering in 
+the darkness, their distance a mystery as the sounds bounce off the jagged 
+walls endlessly.  The darkness seems to swallow all light, seeming slightly 
+unnatural with its intensity.  One of the walls proves to be smooth and 
+grooved, the beveled lines depicting some ancient symbol with lost meaning.  
+The rest of the stone way is jagged and rough, the work of someone or 
+something that was not concerned with the appearance of the end product.  
+The only way out seems to be westward.  
+~
+0 9 0
+D3
+~
+~
+~
+0 0 12672
+M 0 H 0
+S
+#12674
+A Dark Tunnel~
+The smell of mold is overwhelming in the air here.  The rock seems to be 
+covered in glistening yellow-green slime, only small patches of the original 
+rock face showing its dark grey mica-flecked surface.  The darkness makes it 
+difficult to see far, but the diseased walls to the north and east make it 
+easy to ascertain there is open space to explore in other directions.  A 
+toppled stalagmite is here, its mica-flecked surface strangely free of 
+fungal growth.  
+~
+0 9 0
+E
+stalagmite~
+Upon closer examination, it would seem that the stalagmite may be movable.  
+A faint draft flows from under it, hinting at some unseen place that may 
+exist beyond.  This is further supported by strange dark patches near the 
+fallen stone's tapering mass.  
+~
+D2
+~
+~
+~
+0 0 12675
+D3
+~
+~
+~
+0 0 12677
+D5
+~
+stalagmite~
+~
+3 0 12664
+M 0 H 0
+S
+#12675
+A Dark Tunnel~
+A constant slow dripping noise echoes through the dark cavern, its source 
+unidentifiable.  Stalagmites rise from the ground, covered in a shiny 
+wet-looking mold that reveals a yellow-green color under the presence of 
+light.  The air is chilled, most likely a by-product of the warmth-stealing 
+stone that this tomb is made of.  Walls seem to block travel to the south 
+and east, their mica-swathed mass stealing warmth from the already chilled 
+air.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12674
+D3
+~
+~
+~
+0 0 12676
+M 0 H 0
+S
+#12676
+A Dark Tunnel~
+Damp, cold air fills this small cavern, carrying echoes of dripping water 
+and the occasional scratching sound or clink that one would expect from 
+armor.  An outcropping along the southern wall projects outward and seems to 
+be protecting something.  The walls are dark and glisten with clean 
+moisture.  The darkness makes it difficult to see as it drinks your light, 
+but the walls to the west and south assure that you cannot pass there.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12677
+D1
+~
+~
+~
+0 0 12675
+M 0 H 0
+S
+#12677
+A Dark Tunnel~
+Northward, a small chute seems to lead away from this large hole.  Odors of 
+mildew and something foreign are strong in the still air.  Stalagmites reach 
+toward the ceiling, their surfaces glistening with both water and slime when 
+light chances to pierce the hungry darkness and strike them, though their 
+efforts are blind.  The strange quality of the fetid air here seems to 
+magnify the chill of the mountain's depths, causing breath to poof out like 
+smoke and being unpleasant enough to bring a shiver to all but the most 
+hardened creature's spine.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12678
+D1
+~
+~
+~
+0 0 12674
+D2
+~
+~
+~
+0 0 12676
+M 0 H 0
+S
+#12678
+A Dark Tunnel~
+Echoes of the unseen bounce from the walls: soft hissing sounds, the 
+dripping of water, the occasional claw on rock, and much more.  The air is 
+otherwise still, bearing the pungent odor of mildew and something else that 
+is unfamiliar.  The tunnel seems to allow passage to the south and east 
+through jagged holes.  Glinting freckles of mica shine like stars from the 
+dark grey stone of the rock face, sending back the light that strikes it but 
+failing to add anything in the manner of true illumination.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 12679
+D2
+~
+~
+~
+0 0 12677
+M 0 H 0
+S
+#12679
+A Dark Tunnel~
+This small pit is surrounded with ragged teeth of mica-speckled rock, the 
+stone mass working to remove any semblance of warmth from the already frigid 
+air.  The air is still and carries a foul odor, betraying this tomb with its 
+stench of decay and slime.  It appears that this rugged passage continues on 
+to the east and west, but what exactly it leads to is shrouded in darkness 
+and mystery.  In the center of the pit, some smooth, round stones have been 
+arranged closely together.  A whispering sound seems to fill the air here, 
+coming from all directions at once so that its true source cannot be 
+determined.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 12680
+D3
+~
+~
+~
+0 0 12678
+M 0 H 0
+S
+#12680
+A Dark Tunnel~
+A sharp right angle moving from east to south has been crafted with either 
+little skill or little time, leaving the connecting passage with sharp 
+fingers of rock.  A few loose stones litter the floor, seeming to be the 
+same type as that which the entire mountain consists of.  The air has become 
+musty and bears strange, unpleasant smells.  A chill fills this chamber and 
+seeps all about with its invisible fingers, like some unseen spectre 
+measuring you in regards to the tomb with its ethereal claws.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 12681
+D3
+~
+~
+~
+0 0 12679
+M 0 H 0
+S
+#12681
+A Dark Tunnel~
+The tunnel is rather wide here.  The walls are not quite smooth but do not 
+carry the same uneveness that can be found further to the north and south.  
+Phosphorescent lichen grow over the high ceiling, their proffered glow 
+barely reaching the ground level.  A smooth pit has been sunk into the 
+middle of the floor and has a half dozen smooth oval stones arranged close 
+together within.  The mica checked rock all around seems to steal warmth, 
+creating a chill to the air.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 12680
+D2
+~
+~
+~
+0 0 12682
+M 0 H 0
+S
+#12682
+A Dark Tunnel~
+Passages leading east and north meet here at a sharp right-angle.  The hole 
+is roughly cut, but whether it was due to lack of skill or time is unknown.  
+The tunnels seem to widen slightly after they meet but leave the corner a 
+tight, possibly painful, squeeze for most beings.  Sounds of movement and 
+water echo off the harsh rock, magnifying slightly at this point.  From the 
+mica dotted walls an eerie chill permeates the air, seemingly able to lessen 
+the illumination of one's light while causing a slight frosting to one's 
+breath.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12681
+D1
+~
+~
+~
+0 0 12683
+M 0 H 0
+S
+#12683
+A Dark Tunnel~
+After a brief widening in the western direction, this tunnel nearly closes 
+as it banks northward.  There is an angle to the floor, sloping upward 
+toward the north and downward, snaking further into the ground to the south. 
+A strange mossy substance grows in the crags of the rock, cushioning 
+against the constriction very slightly.  The wild growth does nothing to 
+comfort from the chill that seeps into the air, however, as the freckled 
+walls drink away the warmth.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12684
+D3
+~
+~
+~
+0 0 12682
+M 0 H 0
+S
+#12684
+A Dark Tunnel~
+As the worming hole rises northwards, it becomes slightly wider.  Southward, 
+however, is another story--its descent marks the tunnel narrowing, which is 
+obvious even in the lack of light.  Water drips from overhead like a 
+constant icy rain, coating the jags of the floor and making the chilled air 
+even more poignant.  The water creates an echo with its slow, constant fall. 
+Faintly discernable over the monotony of the falling water is a gentle 
+hissing sound, something akin to what could be expected from a serpent, 
+though the direction of its source remains lost in the surrounding 
+blackness.  Any illumination that escapes the grips of the oppressive 
+darkness strikes the slick mica-speckled rock face, making it glisten in the 
+light.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 12685
+D2
+~
+~
+~
+0 0 12683
+M 0 H 0
+S
+#12685
+A Dark Tunnel~
+An open T-shaped intersection becomes apparent here, each tunnel branching 
+from it outlined with glowing lichen in patterns that vaguely resemble an 
+order of some kind.  The tunnels seem to narrow as they lead away to the 
+east, north, and south.  The sound of claws on stone echoes through the 
+still, pungent air.  The burrowed stone is mica embedded, causing the rock 
+face to glint faintly as light strikes its surface, reflecting back at you 
+from the grey rock faces like animal eyes within a forest, the great mass 
+leeching warmth from the air like a vampire stealing life.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 12686
+D1
+~
+~
+~
+0 0 12701
+D2
+~
+~
+~
+0 0 12684
+M 0 H 0
+S
+#12686
+A Dark Tunnel~
+The walls are roughly cut, either by someone unskilled or in a hurry, each 
+crag bearing shining flecks of mica that reflect the light you bring with 
+you.  As the tunnel slopes higher to the north, the constrictive walls only 
+get closer together.  It appears that the southern exit leads to an 
+illuminated intersection.  From the stygian blackness, a cold seeps into the 
+air, spreading out like some unseen blanket from this oppressive darkness.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12687
+D2
+~
+~
+~
+0 0 12685
+M 0 H 0
+S
+#12687
+A Dark Tunnel~
+Moisture drips from the ceiling in patterns much like rain, their noisy 
+impact causing echoes of their descent to resound throughout the hollowed 
+stone.  The restrictive rock walls are rather narrow, the rough cut of the 
+stone being of no practical aid to any passerby.  The passage seems to 
+continue in a north-south direction on a slop that deepens at the latter 
+side.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12688
+D2
+~
+~
+~
+0 0 12686
+M 0 H 0
+S
+#12688
+A Dark Tunnel~
+The craggy walls have sharp fingers of stone that reach toward all those 
+that pass, trying to tear at clothing any loose hair that come near, almost 
+as if possessing a mind of its own.  The cool air is suddenly filled with 
+the din of scraping, grinding, the clash of metal on metal, and unnatural 
+shrieks of either pain, rage, or both.  The tunnel banks sharply to the west 
+and south, the walls narrowing to the point of making travel almost 
+impossible.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 12687
+D3
+~
+~
+~
+0 0 12689
+M 0 H 0
+S
+#12689
+A Dark Tunnel~
+The tunnel winds and banks upward as it moves westward, the sharp curves and 
+steep slope combining with the darkness to hide whatever may be lying in 
+wait to the east or west.  The sounds of battle, shrieks, and the scraping 
+of claws over rock combine and echo off the walls in the disorienting roar.  
+A leeching chill fills the air, emanating from the rock that the tunnel is 
+carved from.  Mica speckles the stone face, glinting in whatever light 
+strikes it, like thousands of eyes glaring at the intrusion of their 
+subterranean lair.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 12688
+D3
+~
+~
+~
+0 0 12690
+M 0 H 0
+S
+#12690
+A Dark Tunnel~
+There is a severe veering from south to west, the turn almost doubling back 
+upon itself.  The sharp angle serves to lock in the echoing racket of 
+shrieks and other unnatural hair-raising noises that are bouncing off the 
+walls continuously.  The rocks are jagged and jut from the stone face like 
+ominous, hungry teeth.  A coldness fills the air, seeming to originate from 
+the rock face and working its way through clothing and to the bone, like icy 
+fingers of dread--inescapable and ever present.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 12689
+D2
+~
+~
+~
+0 0 12691
+M 0 H 0
+S
+#12691
+A Dark Tunnel~
+A large cavern opens up, yawning lazily as it stretches away to the east, 
+west, and south.  Stalagmites rise from the ground and come to threatening 
+points, their bodies glistening with mineral water.  The air is damp and 
+slightly chilled due to the mountain face enclosing the pocket of earth.  A 
+small hole leads away to the north, the walls jagged and appearing to be a 
+snug fit for any traveller.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12690
+D1
+~
+~
+~
+0 0 12692
+D2
+~
+~
+~
+0 0 12695
+D3
+~
+~
+~
+0 0 12697
+M 0 H 0
+S
+#12692
+A Dark Tunnel~
+A graceful curve marks the end of travel to the west, redirecting it to the 
+south smoothly.  Stalagmites crowd the floor, their tapered bodies coming to 
+a wicked-looking point.  The close proximity of these miniature monoliths 
+makes it difficult to see far, especially when coupled with a blackness that 
+seems to devour all light.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 12693
+D3
+~
+~
+~
+0 0 12691
+M 0 H 0
+S
+#12693
+A Dark Tunnel~
+Stalagmites stretch their way toward the estranged ceiling, their bodies 
+tapering to fine glistening points.  The presence of these silent sentinels, 
+their steadiness, contrasts starkly with the chaotic din that echoes within 
+the enclosed space, reverberating almost endlessly.  The darkness hungrily 
+consumes any light that attempts to penetrate it.  The southern wall can be 
+found to be broken and irregular, when inspected closer.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12692
+D2
+~
+~
+~
+0 0 12694
+D3
+~
+~
+~
+0 0 12695
+M 0 H 0
+S
+#12694
+A Dead End~
+This shelf rounds out into a dead end.  The surface of it is smooth and 
+hollowed slightly to house a mass of egg-shaped stones that are nestled 
+together neatly.  Water runs down the mica-flecked walls, making them 
+sparkle in the lucky light that escapes the hungry maws of darkness.  The 
+crawl space gets smaller as it stretches to the south, opening up to a 
+reasonable hole to the north.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12693
+M 0 H 0
+S
+#12695
+A Dark Tunnel~
+Elongated rocks stretch toward the ceiling, blind in their attempt to 
+reunite with the stalactites they mirror.  Mica flecks reflect any light 
+that glances upon them through the hungry darkness, the entire formation 
+glistening with the mineral water that created it over the years.  Noise 
+bounces off the cavern walls, carrying sounds of unnatural screams, the 
+scampering of claws on stone, as well as into the echoes.  The only 
+direction you cannot proceed in is the southerly, being blocked by a roughly 
+hewn wall.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12691
+D1
+~
+~
+~
+0 0 12693
+D3
+~
+~
+~
+0 0 12696
+M 0 H 0
+S
+#12696
+A Dark Tunnel~
+A shallow shelf can be seen lining the southwestern corner of this pocket in 
+the mountain, bearing a collection of smooth stones arranged neatly.  The 
+army of stalagmites block most travellers from quick or direct passage, 
+being staggered so they must be woven through.  A cacophony of sound echoes 
+through the cavern, carrying vestiges of shrieks, howls, the sound of 
+scampering over rock, and dripping water.  The cavern seems to continue 
+north and east.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12697
+D1
+~
+~
+~
+0 0 12695
+D2
+~
+~
+~
+0 0 12698
+M 0 H 0
+S
+#12697
+A Dark Tunnel~
+Shelves have been carved into the northern and western walls, their surfaces 
+carved into bowl shapes that contain allotments of oval stones, all 
+meticulously stacked against each other.  Stalagmites rise forth from the 
+ground, their appearances staggered so it is difficult to travel in a direct 
+path or get anywhere too quickly.  The pointed rocks glisten with the 
+moisture dripping off their unseen brethren, the stalactites hidden by 
+darkness that loom above.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12699
+D1
+~
+~
+~
+0 0 12691
+D2
+~
+~
+~
+0 0 12696
+D3
+~
+~
+~
+0 0 12700
+M 0 H 0
+S
+#12698
+A Dead End~
+A layered shelf has been dug into the wall here, narrowing to widths 
+impossible to travel beyond.  The rock shines with the mica embedded within 
+it when light penetrates the dismal darkness, reflecting the rays off the 
+jagged edges of the walls faintly.  A pile of stones, all smooth and oval 
+shaped, has been arranged neatly in the basin of this alcove.  To the north, 
+a large chamber can be seen, echoes of shrieks and scraping entering from 
+the opening.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12696
+M 0 H 0
+S
+#12699
+A Dead End~
+This shallow outcropping is a home for a large pile of oval stones that have 
+been nestled together with care.  Mosses grow over the roughly hewn rock, 
+cushioning some of the brutally sharp edges.  The alcove becomes too narrow 
+and shallow a few feet beyond the ledge for any further travel into the 
+hole.  Clamoring fills the air, carrying unnatural shrieks, a hair-raising 
+scraping sound, and much more.  A hole exiting the shelf leads south.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 12697
+M 0 H 0
+S
+#12700
+A Dead End~
+Roughly carved grey stone composes several distinct steps here, each large 
+enough for several people to stand upon comfortably even though each is no 
+more than one or two feet in depth.  The air is rent by an awful racket, the 
+sounds echoing back madly from the far side of this small alcove as the 
+cacophony strikes the other walls and cascades back to this point.  An odd, 
+dry smell fills the air and is mixed with a faint odour of decay, though no 
+evidence of a cadaver is apparent.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 12697
+M 0 H 0
+S
+#12701
+A Dark Tunnel~
+Moisture dribbles from the ceiling, much like drool from a toothless crone's 
+mouth, pooling in places upon the rough, grey stone of the floor.  Lichen 
+and moss make seeing the walls and roof that lay underneath difficult at 
+best and impossible at worst, these uncomplicated plants possessing a sickly 
+{ggreen{x or {yyellow{x hue that make them seem more brilliant in the deep darkness 
+whenever the light reaches them.  A faint and sporadic sound similar to 
+metal striking metal softly resonates from some unseen and point in the 
+distance, though the location and direction of origin is impossible to 
+deduce.  Exits wind to the east and west both, the gaping hole at the east 
+seeming larger than the other.  
+~
+0 13 0
+D1
+~
+~
+~
+0 0 12702
+D3
+~
+~
+~
+0 0 12685
+M 0 H 0
+S
+#12702
+A Dark Tunnel~
+This intersection branches off in three directions, making a T shape.  
+Tunnels lead off to the north, west, and south, each of their entrances 
+marked with a splattering of phosphorescent lichen, their chaotic growth 
+almost seeming to create a pattern over the dark rock face that has become 
+their home.  The exposed stones are covered in flecks of mica that shine 
+whenever any light penetrates the perpetual dark that hangs in the air.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12703
+D2
+~
+~
+~
+0 0 12706
+D3
+~
+~
+~
+0 0 12701
+M 0 H 0
+S
+#12703
+A Dark Tunnel~
+The weight of the mountain seems to press in from all around here as the 
+walls of the tunnel narrow, rough stone seems to have been left either in 
+haste or due to the carelessness of the builders of this stone passageway.  
+Some parts of the corridor come to almost blade-like points due to the 
+finish or lack thereof, while others are naught but gouges left in the rock 
+face.  Moisture seeps over the irregular surfaces of this place, at some 
+points forming miniature stalagmites and at other times simply tumbling to 
+the floor.  Due to this fluid, damp mosses have flourished, deceiving the 
+careless into thinking the walls are soft and safe.  
+ 
+~
+0 9 0
+D1
+~
+~
+~
+0 0 12704
+D2
+~
+~
+~
+0 0 12702
+M 0 H 0
+S
+#12704
+A Dark Tunnel~
+Rough hewn stone composes the fabric of this underground concourse, the work 
+seemingly done in either haste or by an untutored hand.  Moisture collects 
+upon all of the surfaces, making them slick and treacherous to the unwary.  
+Light is reflected off these fluid coated surfaces, along with the glint of 
+mica, which gives the tunnel an eerie quality.  The silences of this passage 
+are pierced by the occasional sound, too indistinct to be recognised or for 
+its location to be determined within the ever-present gloom.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 12705
+D3
+~
+~
+~
+0 0 12703
+M 0 H 0
+S
+#12705
+A Dead End~
+The tunnel cut to the west comes to a rather abrupt dead end here.  Claw 
+marks score the eastern wall over the nearly-flat surface, gouging deep and 
+looking like they were made from a very deadly pair of hands or paws.  The 
+rest of the hollowed space is surrounded with roughly cut slime-plastered 
+walls that have become a sickly green color, observable whenever your light 
+seeps through the dank stygian darkness.  
+~
+0 9 0
+D3
+~
+~
+~
+0 0 12704
+M 0 H 0
+S
+#12706
+A Dark Tunnel~
+A gentle splash, splash, splash fills the air as moisture drips steadily 
+from a large stalactite into a pool under it, the tip of this ancient 
+construction almost touching the tiny lake below its perch.  Light reflects 
+from the mica embedded rough stone of the walls, glinting like animal's eyes 
+in a midnight forest.  The surrounding darkness is disturbed by the 
+occasional scraping sound, much like that produced by a rasp being worked 
+over an oaken log.  Patches of mildly luminescent mould clings to the uneven 
+stone work in an attempt to survive, this light making the tapering 
+stalactite that houses it all the more magical seeming.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12702
+D1
+~
+~
+~
+0 0 12707
+M 0 H 0
+S
+#12707
+A Dark Tunnel~
+Twisting like a great serpent, this tunnel leads from east to west in an 
+uneven path, banking and rising as it worms its way through the 
+mountainside.  The rock is rough and unfinished, the scars over the surface 
+infested with slime and moss, flashing an unsettling green whenever 
+illumination pierces the hungry darkness instead of being devoured.  The 
+sedate echoes of a constant slow dripping are interrupted by scrapes and 
+clattering every so often, their origin unidentifiable.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 12708
+D3
+~
+~
+~
+0 0 12706
+M 0 H 0
+S
+#12708
+A Dark Tunnel~
+Mica flecked walls of roughly cut grey rock form a passageway of sorts, the 
+stone covered with patches of diseased-looking mold and moss in places that 
+helps to give this area an unhealthy feel.  This feeling is supported by 
+some slivers of white material lying around that look suspiciously like 
+bones have cracked open and left splintered upon the floor.  A chill seeps 
+from the rock faces, insidiously filling the air and caressing one's flesh 
+with its unavoidable grasp.  The only obvious exits are north and west.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 12709
+D3
+~
+~
+~
+0 0 12707
+M 0 H 0
+S
+#12709
+A Dark Tunnel~
+A small chamber has formed here, caused by the southern and western passages 
+having hit upon a small natural cavern within the mountainous body.  Rubble 
+is left from what once must have been stalagmites and stalactites, their 
+tapered bodies now smashed and scattered across the rough stone of this 
+chamber's floor.  The roof of this area seems to hold a faint resemblance to 
+a person's face; an eerie glow that comes from the mouth, nose and eyes of 
+the carving to back up this strange semblance.  
+~
+0 9 0
+E
+glow carving face~
+The rock has been hacked and carved here to form what looks like a person's 
+face, though the nose is little more than a slit and the eyes are very 
+slanted.  Green moss that has luminous properties fills these crevices, 
+while it would appear someone or something has cleaned this plant away from 
+the other parts of the carving.  
+~
+D2
+~
+~
+~
+0 0 12708
+D3
+~
+~
+~
+0 0 12710
+M 0 H 0
+S
+#12710
+A Dark Cave~
+This hole in the ground seems completely dark, but with the introduction of 
+your light, it comes alive: stalagmites and stalactites mirror each other to 
+create a gaping maw, ready to devour you.  Droplets of water roll down the 
+stone, coating the mica flecks found therein to make the stone glisten and 
+reflect any light that chances upon the surface.  There is a strange absence 
+of noise, including that which you would expect to make.  A series of ridges 
+work their way into the stygian darkness, each one curved and smooth, 
+further supporting the feeling that this might be the throat of some fell 
+beast.  
+~
+0 13 0
+D1
+~
+~
+~
+0 0 12709
+D4
+~
+~
+~
+0 0 12711
+M 0 H 0
+S
+#12711
+Before A Rock Face~
+Mountainous rock cleaves the forest here, stopping its rampant growth 
+abruptly.  A perfect circle of stones is arranged in the middle of a tiny 
+clearing, looking very much out of place when the wild nature of the 
+surroundings is considered.  Around the trunks of the maples and oaks to the 
+west, large vines and bushes laden with oversized fruit make it nigh 
+impossible to travel in that direction.  
+~
+0 0 4
+D1
+~
+~
+~
+0 0 12712
+D2
+~
+~
+~
+0 0 12724
+D5
+~
+~
+~
+0 0 12710
+M 0 H 0
+S
+#12712
+A Forest Clearing~
+A few leaves are scattered throughout the tall grasses, their colors still 
+{Yv{Mi{Cv{Gi{Rd{x and seem to be right at home with the bright {cw{yi{rl{xd{gf{bl{co{yw{xe{gr{ys{x that dot the 
+emerald meadow.  Any hope of travel to the north is shattered by the looming 
+mountains, their snow-capped peaks dwarfing the ancient trees that enclose 
+the clearing far to the east, west, and south.  
+~
+0 0 4
+E
+wildflowers~
+Tiny blossoms grow here, their fragile petals seeming to be almost too 
+fragile to survive yet here they flourish in a myriad selection of colours.  
+From within the flower, a soft, delicate scent drifts forth to one's nose as 
+the flower is examined.  
+~
+D1
+~
+~
+~
+0 0 12713
+D2
+~
+~
+~
+0 0 12723
+D3
+~
+~
+~
+0 0 12711
+M 0 H 0
+S
+#12713
+In the Shadow of the Mountains~
+{WSnow{x-tipped peaks try to pierce the sky from the mountain range to the 
+north, the austere rock mass cutting the grassland short from the rest of 
+the rolling expanse.  Trees hem in the richly dotted greenery, their ancient 
+twisted heights being scoffed at by the mountains.  {mW{yi{cl{xd{cf{ml{yo{mw{ce{yr{cs{x are tangled 
+in with freshly fallen leaves and tall blades of grass, their colors seeming 
+bright and new.  
+~
+0 0 4
+E
+wildflowers~
+Tiny blossoms grow here, their fragile petals seeming to be almost too 
+fragile to survive yet here they flourish in a myriad selection of colours.  
+From within the flower, a soft, delicate scent drifts forth to one's nose as 
+the flower is examined.  
+~
+D1
+~
+~
+~
+0 0 12714
+D2
+~
+~
+~
+0 0 12720
+D3
+~
+~
+~
+0 0 12712
+M 0 H 0
+S
+#12714
+In the Arms of the Mountain~
+Travel to the north and east is blocked by steep mountainside.  The grandeur 
+of the rock body makes the aged trees that inhabit this grove less awe 
+inspiring, despite their own impressive heights.  The vibrant {cw{yi{ml{bd{rf{xl{co{bw{me{yr{cs{x 
+and grasses create a picturesque field to the south and west, the stillness 
+only disturbed by the wildlife that continue on with their lives, hidden 
+from plain view.  
+~
+0 0 4
+D2
+~
+~
+~
+0 0 12715
+D3
+~
+~
+~
+0 0 12713
+M 0 H 0
+S
+#12715
+A Tranquil Glen~
+Grasses in lengths excess of four feet stand tall and straight like peacock 
+feathers, gayly dotted by sprays of {ywil{mdfl{cowers{x and the occasional fallen 
+leaf.  Mountains tower over the peaceful glen, their snowy zeniths half lost 
+within the clouds.  The rest of the meadow's boundaries are comprised of 
+trees tightly knit together, their trunks hugged closely by thick, sharp 
+bramble.  A tiny round canyon can be found to the east while the grassland 
+continues in all other directions.  
+~
+0 0 4
+E
+wildflowers~
+Tiny blossoms grow here, their fragile petals seeming to be almost too 
+fragile to survive yet here they flourish in a myriad selection of colours.  
+From within the flower, a soft, delicate scent drifts forth to one's nose as 
+the flower is examined.  
+~
+D0
+~
+~
+~
+0 0 12714
+D1
+~
+~
+~
+0 0 12716
+D3
+~
+~
+~
+0 0 12720
+M 0 H 0
+S
+#12716
+Underneath the Sycamore~
+This space seems to be a circular canyon, a small relief in the mountainside 
+that houses a gigantic sycamore tree.  The leaves of the tree leave a good 
+percentage of this small sanctuary in a state of evershade.  A Perfectly 
+round ring of white mushrooms surrounds the huge, twisted tree, almost as if 
+they were intended to do so.  Orange mushrooms spiral around the great tree 
+trunk like a miniature staircase, stepped perfectly for imagining tiny 
+creatures marching up the growth.  A gentle tinkling fills the air as 
+fireflies float around aimlessly.  
+~
+0 0 4
+D1
+~
+~
+~
+0 0 12717
+D2
+~
+~
+~
+0 0 12719
+D3
+~
+~
+~
+0 0 12715
+M 0 H 0
+S
+#12717
+Under the Sycamore~
+Stones shaped like chairs and tables are scattered around, almost as if 
+waiting to be set for a tea party.  A great sycamore spreads its arms 
+overhead, each branch bearing a profuse amount of healthy spring green 
+leaves.  Along the trunk of the sentinel, orange mushrooms grow in an odd 
+pattern that looks like a stairway for tiny people rather than a fungi 
+infection on the bark.  A perfect circle of mushrooms can be seen growing 
+around the tree.  
+~
+0 0 4
+D2
+~
+~
+~
+0 0 12718
+D3
+~
+~
+~
+0 0 12716
+M 0 H 0
+S
+#12718
+Under the Sycamore~
+What appears to be the den of a small creature can be seen leading under the 
+rock face here, the hole barely big enough for a fox, if that.  Bright moss 
+grows around it, outlining it to even the most careless of passerbys.  A 
+gentle tinkling sound floats on the air, accompanied by dozens of fireflies 
+that seem to be circling the great sycamore that dominates this canyon.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 12717
+D3
+~
+~
+~
+0 0 12719
+M 0 H 0
+S
+#12719
+Under the Sycamore~
+Fireflies float through the air like slow drifting snowflakes, their amber 
+lights making them more visible under the shade of the giant sycamore 
+growing in the middle of the canyon.  The branches of the wonder stretch out 
+proudly, bearing spring green leaves that appear to be healthy.  A fungal 
+infection of orange mushrooms spirals up the trunk, looking much more like a 
+staircase than a parasite.  Not one leaf litters the ground and the grass is 
+kept immaculately, allowing the ring of white mushrooms to show plainly 
+around the base of the sycamore.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 12716
+D1
+~
+~
+~
+0 0 12718
+D3
+~
+~
+~
+0 0 12721
+M 0 H 0
+S
+#12720
+In a Clearing~
+Mountains of considerable size box in this clearing far to the north and 
+east, while the other half of the meadow is hemmed in by dense woodland 
+growth.  In a circular canyon to the east, a sycamore of mammoth proportions 
+can be seen.  Grasses in excess of four feet in height grow in abundance 
+here, the monotony of their emerald shine broken with bright {gf{yl{xo{mw{re{br{cs{x and 
+weeds.  When the wind stirs, the grasses ripple gently like waves from the 
+sea.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 12713
+D1
+~
+~
+~
+0 0 12715
+D2
+~
+~
+~
+0 0 12721
+D3
+~
+~
+~
+0 0 12723
+M 0 H 0
+S
+#12721
+In Tall Grasses~
+Weeds and flowers alike grow within the dense grasses, their scents 
+combining into a strong but not entirely unpleasant odor.  A remarkable 
+sycamore grows to the east, its branches stretching more than a hundred feet 
+into the air and dominating the circular canyon it grows within.  The 
+mountains creating that canyon curve to the north, providing an end to that 
+direction of the meadow at some distance.  Dense forest encloses the 
+remaining ragged edges of the clearing.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 12720
+D1
+~
+~
+~
+0 0 12719
+D3
+~
+~
+~
+0 0 12722
+M 0 H 0
+S
+#12722
+Within a Grass Sea~
+The scent of {msweet pea{x and {ytiger lily{x blossoms can be detected long before 
+their bearers can be found, their buds hidden amongst the tall grasses 
+despite their gay colorings.  Mountains loom over the tiny clearing to the 
+north and east, their peaks nearly lost with the cloud covering.  The rest 
+of the meadow is enclosed with thickets of ancient, gnarled trees, their 
+trunks overgrown at the bases with brush and bramble.  
+~
+0 0 4
+E
+wildflowers~
+Tiny blossoms grow here, their fragile petals seeming to be almost too 
+fragile to survive yet here they flourish in a myriad selection of colours.  
+From within the flower, a soft, delicate scent drifts forth to one's nose as 
+the flower is examined.  
+~
+D0
+~
+~
+~
+0 0 12723
+D1
+~
+~
+~
+0 0 12721
+D2
+~
+~
+~
+0 0 12729
+D3
+~
+~
+~
+0 0 12725
+M 0 H 0
+S
+#12723
+A Small Meadow~
+Tall blades of emerald grow profusely within the clearing, stretching 
+between the edge of the woodland far to the south and a craggy mountain 
+chain to the north.  {cF{ml{yo{rw{be{cr{ms{x of every color imaginable dot the greenery 
+haphazardly, their petals brilliant, almost as if they had just opened for 
+the first time to nature's light.  The meadow continues on in all of the 
+cardinal directions.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 12712
+D1
+~
+~
+~
+0 0 12720
+D2
+~
+~
+~
+0 0 12722
+D3
+~
+~
+~
+0 0 12724
+M 0 H 0
+S
+#12724
+A Hole in the Ground~
+A hole can barely be seen through the grasses here, about a foot in diameter 
+and located within the swell of a small hill.  A few carcasses and bleached 
+bones have been left around the tiny opening, but the smell of rotting flesh 
+is strangely absent and is replaced by the light perfume of the wildflowers 
+that thrive alongside the emerald grasses.  Mountains tall enough to touch 
+the sky, or at least the clouds that high up, loom to the north and east, 
+their peaks half-hidden and very much snow covered.  The rest of this 
+clearing is boxed in by wild forest land some distance off to the west and 
+south.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 12711
+D1
+~
+~
+~
+0 0 12723
+D2
+~
+~
+~
+0 0 12725
+D3
+~
+~
+~
+0 0 12726
+M 0 H 0
+S
+#12725
+In a Meadow~
+The terrain becomes less than flat here, broken by a small hill rise and 
+some pumpkin-sized rocks arranged in a perfect circle.  The miniature 
+boulders look utterly smooth and perpetually wet, almost as if they were 
+really glass instead of stone.  A ring of {mflowers{x grows inside the strangely 
+arranged rocks, mirroring their perfect curve.  Mountains seem to cut the 
+grassland off to the east and north at some distance, though the exact point 
+is difficult to determine when amongst the tall grasses.  Dense woodland 
+springs up far to the south and west to border the grassland, creating an 
+impassable barrier.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 12724
+D1
+~
+~
+~
+0 0 12722
+D2
+~
+~
+~
+0 0 12728
+D3
+~
+~
+~
+0 0 12727
+M 0 H 0
+S
+#12726
+A Small Meadow~
+Movement to the immediate north and west is blocked by brambles and brush 
+growing too thickly to allow travel to any but the most skilled of woodland 
+creatures--or the smallest, perhaps.  Dark grey mountains can be seen 
+through the wooded area to the north, their steep masses looming almost 
+ominously.  Grassland dotted with brilliant flowers stretches away to the 
+east and south, their heights of four feet and more making it difficult to 
+see too much.  
+~
+0 0 4
+D1
+~
+~
+~
+0 0 12724
+D2
+~
+~
+~
+0 0 12727
+M 0 H 0
+S
+#12727
+In Tall Grasses~
+Mountains can be seen over and through the treetops that at the northern end 
+of this meadow some distance to the north, their steep sides looking near 
+impossible to scale without climbing tools.  To the immediate west and 
+south, bramble and gorse intertwine to create a thick barricade as they 
+weave between the tree trunks, only navigable by the most nimble of 
+creatures.  The tall grasses and wildflowers ripple in the wind, the meadow 
+they create extending to the west with no definite end in sight.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 12726
+D1
+~
+~
+~
+0 0 12725
+M 0 H 0
+S
+#12728
+A Path~
+This cleared space has shorter grass than the meadow to the north and 
+appears to be a passage made by something other than nature, considering the 
+short, kempt grass and lack of wildflowers and weeds, although the edges are 
+ragged from the uneven tree line and further barricaded with bramble and 
+bushes.  The lane appears to become narrower to the south while at the north 
+it opens into a field that is stunted via the mountains far to the north and 
+east, and the encroaching woodland along the rest of the perimeter of the 
+open space.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 12725
+D1
+~
+~
+~
+0 0 12729
+D2
+~
+~
+~
+0 0 12730
+M 0 H 0
+S
+#12729
+A Path~
+This wide lane gives way to tall grasses northwards, where a mountain can be 
+seen beyond, cutting the meadow short.  Wildflowers of every color of the 
+rainbow dot the rich vegetation, adding variety to the shining emerald 
+blades.  This cleared space has shorter grass and appears to be a passage 
+made by sentient design, not just a formation of nature, though the edges 
+are ragged from the cluttering of bramble that weaves through the majestic 
+trees.  It appears to become narrower to the south.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 12722
+D2
+~
+~
+~
+0 0 12731
+D3
+~
+~
+~
+0 0 12728
+M 0 H 0
+S
+#12730
+A Path~
+This trail veers to the east, becoming abruptly more narrow due to a tree at 
+least six feet in diameter spiraling toward the sky, the wood being's body 
+twisted and gnarled in its old age.  Mountains can be seen to the distant 
+north, their snow-capped peaks breaking the high clouds.  Trees grow tall 
+and proud on either side of the peaceful concourse, entrenched with prickly 
+bushes and hardy plants that combine to prove unsurpassable.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 12728
+D1
+~
+~
+~
+0 0 12731
+M 0 H 0
+S
+#12731
+A Path~
+A thin trail leads away to the south between ancient rows of wood, their 
+trunks combining with bushes and other wild vegetation to create a compact 
+barrier.  Rising above the forest to the north and east, a mountain range 
+tall enough to have peaks laden with snow all year round can be seen, the 
+steep sides seeming to be dangerous even to the serious climber.  A soft 
+tinkling sound fills the air, the source unseen and seemingly to some 
+distance.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 12729
+D2
+~
+~
+~
+0 0 12732
+D3
+~
+~
+~
+0 0 12730
+M 0 H 0
+S
+#12732
+A Path~
+A very faint parting of bush and bramble can be detected moving eastward 
+while the main thruway continues to the north and south, the grassy path 
+devoid of flowers and weeds.  The occasional mushroom grows here and there, 
+dotting the emerald grasses with bright white.  The chatter from the 
+residents of this wood fills the air during the daylight hours, a mixture of 
+rodents, birds, and the rustling of larger creatures.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 12731
+D1
+~
+~
+~
+0 0 12733
+D2
+~
+~
+~
+0 0 12739
+M 0 H 0
+S
+#12733
+A Path~
+The ground is covered in ferns here, their soft green fronds spilling over 
+each other as they thrive on the forest floor.  Majestic trees stand tall 
+over these plants, as well as their brethren that have fallen due to age, 
+disease, or winds.  Fungus climbs the bark of the trees here and there, the 
+bright orange contrasting sharply with the muted greens and browns.  
+Movement to the east and west is free, a faint trail showing in the 
+wilderness.  
+~
+0 0 4
+D1
+~
+~
+~
+0 0 12734
+D3
+~
+~
+~
+0 0 12732
+M 0 H 0
+S
+#12734
+A Path~
+The small path available seems stable while the rest of the ground turns 
+into a thick sludge, the mud sucking at everything that comes in contact 
+with it.  Puddles of water form where the ground fails to absorb any more of 
+the fluid, dead matter and leaves floating within and clouding the moisture 
+whenever disturbed.  Passage to the east is blocked by a collection of 
+boulders and rubble, including the trees that were knocked over when the 
+stones crashed into the valley.  Ferns grow along the more stable trail that 
+leads south and west from this point.  
+~
+0 0 4
+D2
+~
+~
+~
+0 0 12735
+D3
+~
+~
+~
+0 0 12733
+M 0 H 0
+S
+#12735
+A Path~
+Boulders and trees stand between the trail and the mountainside to the east, 
+all of which have gathered a fine covering of dry moss.  An arrangement of 
+stones is clearly defined here, forming a triangle enclosed within a perfect 
+circle, all of which are embedded within the soft ground.  At the very 
+center of all this, a very strange stone of variegated greens and blues can 
+be see, smooth and round, almost like a giant marble.  Ferns grow at either 
+side of the path amongst the fallen trees, as well as those still standing.  
+The trail leads through the destruction to both the north and south.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 12734
+D2
+~
+~
+~
+0 0 12736
+M 0 H 0
+S
+#12736
+A Path~
+The mountains to the east seem to have been the culprit of the clutter of 
+boulders here, the large stones of all shapes and sizes.  The same rocks 
+make any travel further south nigh impossible, their sheer faces flecked 
+with mica and directing the flow of a waterfall at least thirty feet in 
+height to the south.  Ferns grow in abundance around the pools of water, 
+flourishing from the rich soil and never-ending source of water.  The mud is 
+thick around the moss-strewn trail that leads away to the north and west, 
+trying to capture anything to comes in contact with it.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 12735
+D3
+~
+~
+~
+0 0 12737
+M 0 H 0
+S
+#12737
+A Path~
+Ancient gnarled trees stand to either side of a winding pathway that works 
+its way east and west here between massive rocks that jut out of the earth.  
+Moss covers the otherwise bare earth, striving for life in the shade 
+produced by the surrounding foliage and mica-flecked bulk of the scattered 
+boulders.  An occasional sound rings over this thoroughfare, though the 
+source is masked by the dense undergrowth of the forest.  Mushrooms compete 
+with the moss under the gorse and briar, each being of an unhealthy pale 
+shade for colour and looking most inedible.  
+~
+0 0 4
+D1
+~
+~
+~
+0 0 12736
+D3
+~
+~
+~
+0 0 12738
+M 0 H 0
+S
+#12738
+A Path~
+An intersection of sorts is here: two small paths that wind through the 
+uneven, boulder-littered forest floor conjoin.  Some of the huge stones jut 
+out of the ground while others appear to have fallen there, though whether 
+that was recently or not is a mystery.  Willow trees grow on top of some of 
+the large, flat stones, their weeping boughs hanging overhead and shedding 
+yellowy-green leaves from time to time.  The stones that surround the path 
+are rough and irregular, cut by some long-forgotten force.  Within the tiny 
+holes, deep green moss can be seen, teeming with insects.  
+~
+0 4 4
+D0
+~
+~
+~
+0 0 12739
+D1
+~
+~
+~
+0 0 12737
+D3
+~
+~
+~
+0 0 12740
+M 0 H 0
+S
+#12739
+A Path~
+Mica-marked boulders thrust from the grass covered earth, the dark grey of 
+the stone worn by the elements so that they appear polished.  A simple 
+north-south pathway works between these rocks and the massive trees that can 
+be seen here, its course dictated by these obstructions, which explains the 
+irregular winding flow.  Wildflowers strive for life within the safety of 
+the forest's embrace, their bright colours looking somewhat out of place in 
+this world of green, brown, and grey.  Delicate scents waft about from these 
+flowering plants, drifting over the trail in an attempt to draw insects to 
+their source.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 12732
+D2
+~
+~
+~
+0 0 12738
+M 0 H 0
+S
+#12740
+A Path~
+Tall trees spread their leafy boughs over a snaking path here, each plant 
+attempting to compete with its neighbour for the distant sun's favour.  
+Vines and creepers each struggle to fell there chosen home, crawling up from 
+the grass covered earth and over the rough bark of their hosts, intertwining 
+with the branches as they, too, seek sol's blessings.  An occasional boulder 
+lays about this path, its surfaces flecked with mica and worn smooth by a 
+combination of wind and time.  In crevices that have been neglected by the 
+elements, lichen of a dark green shade is evident.  The path curves 
+irregularly through the rocky pass to the east and south.  
+~
+0 0 4
+D1
+~
+~
+~
+0 0 12738
+D2
+~
+~
+~
+0 0 12741
+M 0 H 0
+S
+#12741
+A Path~
+A great log lays over the pathway here, one end resting upon a mica studded 
+boulder.  Judging by the damage wrought, it must have been one of the 
+massive limbs of the surrounding trees.  Fungus climbs up the fallen branch, 
+its scalloped caps forming tiny steps up to the top of the boulder that 
+towers over the path at the eastern edge, almost as if the growth was 
+designed that way by some unseen hand.  Tiny bunches of {yw{ri{xl{cd{rf{bl{co{yw{me{br{rs{x shelter 
+in the shadow of this log, flourishing in the long grasses that also grow 
+there.  From these blooms a dainty scent wafts forth, slave to the wind's 
+every whim.  All around this winding path the forest looms, tall and proud 
+in its ancient existence.  
+~
+0 0 4
+E
+wildflowers~
+Tiny blossoms grow here, their fragile petals seeming to be almost too 
+fragile to survive yet here they flourish in a myriad selection of colours.  
+From within the flower, a soft, delicate scent drifts forth to one's nose as 
+the flower is examined.  
+~
+D0
+~
+~
+~
+0 0 12740
+D2
+~
+~
+~
+0 0 12742
+M 0 H 0
+S
+#12742
+A Path~
+A massive stone monolith stands in the centre of this path, its mica 
+freckled surface carved with intricate designs.  The trail curves around 
+both sides of the stone working past ancient gnarled trees that strive for 
+life within the shallow soil of this rocky concourse.  Tiny clumps of 
+{cbluebells{x dot about this area, their tiny trumpets releasing a pleasant and 
+soft aroma around this area, mixing and mingling with the other scents of 
+the forest.  Rustling sounds come from the dense underbrush that flourishes 
+beneath the surrounding trees, affirmation of the hidden animals living out 
+their lives.  The path seems to wind its way from east to north, or perhaps 
+it is vice versa.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 12741
+D1
+~
+~
+~
+0 0 12743
+M 0 H 0
+S
+#12743
+A Path~
+A dwarf of a tree grows in the middle of this throughway, its branches laden 
+with ornaments of some sort.  Every time a breeze travels through, bells 
+chime, the sound apparently originating from the tiny tree.  The passway 
+slinks between ancient trees that are at least six feet in diameter, moving 
+deftly between the grasping bramble and brush to wind about to the south and 
+west.  Through the few available spaces within the barricade of brush and 
+the tree trunks, rocks and boulders can be seen littering the ground within 
+the dense woodland.  
+~
+0 0 4
+D2
+~
+~
+~
+0 0 12744
+D3
+~
+~
+~
+0 0 12742
+M 0 H 0
+S
+#12744
+A Path~
+Ancient forest presses close around a winding trail here, the mighty 
+branches enclosing the pathway so that only the brightest of sunlight has 
+any hope of reaching the dark floor.  Leaves rot and fungus flourish in this 
+covered world, the odours of their decomposition strong upon the air.  Under 
+the cover of these ancient woodland giants, blackberry and other creepers 
+have managed to grow, surviving in the shade that is forced by the canopy 
+above the concourse.  From within the dense plants of the forest, animal 
+noises can be heard irregularly, sometimes seemingly to come from just 
+beside of the track and at other times from a much greater distance.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 12743
+D3
+~
+~
+~
+0 0 12745
+M 0 H 0
+S
+#12745
+A Path~
+Gnarled boughs twist from the rough bark-covered trunks of the ancient trees 
+surrounding this narrow east-west trail, each of these plants striving to 
+outdo those that surround them in their quest for sunlight.  Every so often, 
+a large grey rock can be seen from the trail, poking its mica covered 
+surface out from under wild ivy that thrives within the shelter of these 
+massive trees.  The air bears the scents of rotting leaves and decomposing 
+branches, plant matter being rendered back down to the soil that once gave 
+it life.  
+~
+0 0 4
+D1
+~
+~
+~
+0 0 12744
+D3
+~
+~
+~
+0 0 12746
+M 0 H 0
+S
+#12746
+A Path~
+The bones of the mountain are revealed here, poking though the grass covered 
+soil as if attempting to escape there graves.  Speckled within the surface 
+of these mighty grey rocks are tiny pieces of mica, shining whenever light 
+happens to catch them.  Trees, clearly ancient judging by their size as well 
+as their gnarled and rugged appearance, stand all about the serpentine 
+pathway, their roots sometimes crossing the path as they seek nourishment 
+within the shallow soil.  Ivy vines crawl up the trunks of the forest 
+citizens, striving to reach the far and distant sunlight.  
+~
+0 0 4
+D1
+~
+~
+~
+0 0 12745
+D3
+~
+~
+~
+0 0 12747
+M 0 H 0
+S
+#12747
+A Path~
+A very faint path winds through the underbrush and ancient trees, leading to 
+the east and west.  The bushes and weeds grow so thickly and closely 
+together that they catch on any clothing that comes into contact with them, 
+not to mention fur or skin.  Vines covered in flowers are draped between the 
+tree limbs, swinging low enough for some passerbys to bump into them, the 
+snake-like plants bearing translucent flowers that give off a heady, exotic 
+perfume.  
+~
+0 0 4
+D1
+~
+~
+~
+0 0 12746
+D3
+~
+~
+~
+0 0 12748
+M 0 H 0
+S
+#12748
+A Path~
+Ancient trees stand here, tall and proud like royal guards upon parade 
+before their monarch, their twisted limbs reaching towards the sky in silent 
+salute.  A curving path winds under these mighty sentinels, its surface 
+covered by a lush carpet of grass that is speckled in places with brightly 
+coloured wildflowers.  The air here holds the aromas of blooms and the odor 
+of rotting leaf matter, the two clashing as they mingle under the wind's 
+command.  From within the woodland, sounds of birds and other creatures 
+reach the trail, sometimes gentle and sometimes surprisingly loud.  
+~
+0 134217728 4
+D1
+~
+~
+~
+0 0 12747
+D2
+~
+~
+~
+0 0 12749
+M 0 H 0
+S
+#12749
+A Path~
+The path ascends to the north here and becomes notably more rocky outside of 
+the trail.  The trees fight for space alongside the moss-laced boulders, 
+making it difficult to pass east or west to go further into nature's garden. 
+A very pungent and strange smell lingers in the air here, no matter how 
+often the wind whistles through the rocks and the leaves rustle and dance at 
+the same command.  The animals of the forest make their presence known by 
+shaking and disrupting the brush occasionally as they live out their lives.  
+~
+0 0 4
+D0
+~
+~
+~
+0 0 12748
+D2
+~
+~
+~
+0 0 11660
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 12650 3 1
+D 0 12651 1 1
+D 0 12655 0 1
+D 0 12656 2 1
+D 0 12658 3 1
+D 0 12659 1 1
+D 0 12661 2 1
+D 0 12662 0 1
+D 0 12664 4 1
+D 0 12674 5 1
+O 0 12650 0 12650
+M 0 12650 12 12651 10
+E 0 12676 0 3
+M 0 12651 1 12653 10
+E 0 12682 0 8
+E 0 12681 0 16
+E 0 12680 0 6
+E 0 12679 0 9
+E 0 12678 0 3
+E 0 12677 0 5
+O 0 12653 0 12653
+M 0 12650 12 12655 10
+O 0 12651 0 12656
+M 0 12650 12 12658 10
+O 0 12652 0 12659
+M 0 12650 12 12661 10
+O 0 12654 0 12661
+M 0 12652 15 12662 10
+M 0 12652 15 12663 10
+M 0 12652 15 12664 10
+M 0 12652 15 12665 10
+M 0 12652 15 12666 10
+M 0 12652 15 12667 10
+E 0 12675 0 3
+M 0 12652 15 12668 10
+M 0 12652 15 12669 10
+M 0 12652 15 12670 10
+M 0 12652 15 12671 10
+M 0 12652 15 12672 10
+M 0 12652 15 12673 10
+M 0 12682 15 12674 10
+E 0 12658 0 16
+M 0 12653 30 12674 10
+M 0 12653 30 12675 10
+M 0 12653 30 12676 10
+M 0 12653 30 12677 10
+M 0 12683 10 12678 10
+E 0 12659 0 16
+M 0 12653 30 12678 10
+O 0 12655 0 12679
+O 0 12657 0 12679
+O 0 12656 0 12679
+M 0 12653 30 12679 10
+M 0 12653 30 12680 10
+O 0 12655 0 12681
+O 0 12657 0 12681
+O 0 12656 0 12681
+M 0 12653 30 12681 10
+M 0 12653 30 12682 10
+M 0 12684 10 12683 10
+M 0 12653 30 12683 10
+M 0 12684 10 12684 10
+M 0 12653 30 12684 10
+M 0 12684 10 12685 10
+M 0 12653 30 12685 10
+M 0 12684 10 12686 10
+M 0 12653 30 12686 10
+M 0 12684 10 12687 10
+M 0 12653 30 12687 10
+M 0 12684 10 12688 10
+M 0 12653 30 12688 10
+M 0 12653 30 12689 10
+M 0 12653 30 12690 10
+M 0 12653 30 12691 10
+M 0 12653 30 12692 10
+M 0 12653 30 12693 10
+E 0 12674 0 3
+O 0 12655 0 12694
+O 0 12657 0 12694
+O 0 12656 0 12694
+M 0 12653 30 12694 10
+M 0 12683 10 12695 10
+E 0 12659 0 16
+M 0 12682 15 12695 10
+E 0 12658 0 16
+M 0 12653 30 12695 10
+M 0 12653 30 12696 10
+M 0 12653 30 12697 10
+O 0 12655 0 12698
+O 0 12657 0 12698
+O 0 12656 0 12698
+M 0 12653 30 12698 10
+O 0 12655 0 12699
+O 0 12657 0 12699
+O 0 12656 0 12699
+M 0 12653 30 12699 10
+O 0 12655 0 12700
+O 0 12657 0 12700
+O 0 12656 0 12700
+M 0 12653 30 12700 10
+M 0 12653 30 12701 10
+M 0 12653 30 12702 10
+M 0 12653 30 12703 10
+E 0 12674 0 3
+M 0 12653 30 12704 10
+M 0 12653 30 12705 10
+M 0 12653 30 12706 10
+M 0 12653 30 12707 10
+M 0 12653 30 12708 10
+O 0 12673 0 12709
+M 0 12653 30 12709 10
+O 0 12672 0 12711
+M 0 12662 15 12711 10
+M 0 12658 10 12711 10
+M 0 12654 40 12711 10
+M 0 12662 15 12712 10
+M 0 12658 10 12712 10
+O 0 12660 0 12712
+M 0 12654 40 12712 10
+O 0 12671 0 12713
+M 0 12662 15 12713 10
+M 0 12654 40 12713 10
+O 0 12660 0 12714
+M 0 12654 40 12714 10
+M 0 12658 10 12715 10
+O 0 12660 0 12715
+M 0 12655 2 12715 10
+G 0 12661 0
+M 0 12654 40 12715 10
+O 0 12670 0 12716
+M 0 12662 15 12716 10
+M 0 12661 5 12716 10
+O 0 12663 0 12716
+O 0 12662 0 12716
+M 0 12658 10 12716 10
+M 0 12656 5 12716 10
+M 0 12654 40 12716 10
+M 0 12662 15 12717 10
+M 0 12661 5 12717 10
+O 0 12664 0 12717
+O 0 12665 0 12717
+M 0 12656 5 12717 10
+M 0 12654 40 12717 10
+M 0 12662 15 12718 10
+M 0 12661 5 12718 10
+M 0 12656 5 12718 10
+M 0 12654 40 12718 10
+M 0 12662 15 12719 10
+O 0 12662 0 12719
+O 0 12663 0 12719
+M 0 12661 5 12719 10
+M 0 12658 10 12719 10
+M 0 12656 5 12719 10
+M 0 12654 40 12719 10
+M 0 12662 15 12720 10
+O 0 12660 0 12720
+M 0 12658 10 12720 10
+M 0 12654 40 12720 10
+M 0 12662 15 12721 10
+M 0 12658 10 12721 10
+M 0 12654 40 12721 10
+M 0 12654 40 12721 10
+M 0 12662 15 12722 10
+M 0 12658 10 12722 10
+O 0 12660 0 12722
+M 0 12654 40 12722 10
+M 0 12662 15 12723 10
+O 0 12660 0 12723
+M 0 12658 10 12723 10
+M 0 12654 40 12723 10
+M 0 12662 15 12724 10
+M 0 12660 4 12724 10
+M 0 12659 1 12724 10
+M 0 12658 10 12724 10
+M 0 12654 40 12724 10
+M 0 12662 15 12725 10
+M 0 12658 10 12725 10
+M 0 12654 40 12725 10
+M 0 12662 15 12726 10
+M 0 12658 10 12726 10
+M 0 12654 40 12726 10
+M 0 12662 15 12727 10
+M 0 12658 10 12727 10
+M 0 12654 40 12727 10
+M 0 12654 40 12728 10
+M 0 12662 15 12729 10
+M 0 12654 40 12729 10
+M 0 12654 40 12730 10
+M 0 12662 15 12731 10
+M 0 12654 40 12731 10
+O 0 12663 0 12732
+M 0 12662 15 12732 10
+M 0 12654 40 12732 10
+O 0 12662 0 12733
+M 0 12662 15 12733 10
+M 0 12654 40 12733 10
+M 0 12662 15 12734 10
+M 0 12658 10 12734 10
+M 0 12654 40 12734 10
+M 0 12686 1 12735 10
+M 0 12685 3 12735 10
+O 0 12669 0 12735
+M 0 12662 15 12735 10
+M 0 12654 40 12735 10
+M 0 12685 3 12736 10
+O 0 12668 0 12736
+M 0 12662 15 12736 10
+M 0 12654 40 12736 10
+M 0 12662 15 12737 10
+M 0 12654 40 12737 10
+M 0 12685 3 12738 10
+O 0 12667 0 12738
+M 0 12662 15 12738 10
+M 0 12654 40 12738 10
+M 0 12662 15 12739 10
+M 0 12654 40 12739 10
+M 0 12662 15 12740 10
+O 0 12660 0 12741
+M 0 12685 3 12742 10
+O 0 12666 0 12742
+M 0 12685 3 12743 10
+M 0 12658 10 12744 10
+M 0 12685 3 12745 10
+M 0 12662 15 12746 10
+M 0 12662 15 12747 10
+M 0 12658 10 12747 10
+M 0 12657 2 12747 10
+M 0 12662 15 12748 10
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

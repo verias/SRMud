@@ -1,0 +1,1415 @@
+#AREADATA
+Name {30 35} Fury    Kortaga Caves~
+Builders None~
+VNUMs 2900 2950
+Security 1
+End
+
+
+
+#MOBILES
+#2900
+Kortaga sentry~
+a Kortaga sentry~
+A Kortaga sentry guards the tunnel entranceway.
+~
+{xHis race once closely resembled that of humans.  After ages of being
+banished to the darkness of the caves, and exposure to {Wluminescent{c blue
+gindar{x he is hardly recognizable as humanoid.  Thick, course ridges
+encircle his head and huge folds of leathery skin gather at his neck.  Any
+skin pigmentation that originally belonged to the Kortaga is gone.  His skin
+is {Wpale white{x.  His pupils are the same color as the {cgindar{x which
+runs through his cave prison.  His job is to protect his people, who live
+further down in the caves from intruders.  
+~
+Human~
+AB 0 -750 S
+30 0 10d60+520 30d10+100 3d6+8 0
+-1 -1 -1 0
+EJ 0 0 0
+9 9 1 135
+AHMV ABCDEFGHIJK M unknown
+#2901
+Sjanda kortaga smith~
+Sjanda~
+Sjanda works feverishly with dark blue {bgindain{x.
+~
+Years of nearly constant contact with highly {Wluminescent {bgindian{x
+have caused the ridges encircling his head to glow slightly.  His {cgindar
+colored{x eyes are nearly hidden in thick folds of skin around his eyes.  He
+has short, thick arms which move in a swift pounding rhythm as he works on
+what appears to be a sword.  
+~
+Human~
+AB NU -500 S
+32 0 10d66+571 32d10+100 4d5+9 0
+-2 -2 -2 0
+DEI 0 E 0
+9 9 1 144
+AHMV ABCDEFGHIJK M unknown
+#2902
+Kortaga worker smelter~
+a Kortaga worker~
+A Kortaga worker shovels {cgindar{x ore into the furnace.
+~
+A Kortaga works diligently to separate the priceless {bgindian{x metal
+from the useless salts in the {cgindar{x ore which is found only in these
+caves.  
+~
+Human~
+AB 0 -500 S
+31 0 10d63+545 31d10+100 4d5+8 0
+-2 -2 -2 0
+EU 0 H 0
+9 9 1 139
+AHMV ABCDEFGHIJK M unknown
+#2903
+Kortaga~
+a Kortaga~
+A Kortaga shuffles across the canyon floor.
+~
+Although once closely resembling humans the Kortaga have mutated into
+this being which shuffles on legs which are oddly webbed to the knee.  Long
+exposure to {Wluminescent{c blue gindar{x has caused his people to develop
+thick, course ridges which encircle his head and huge folds of leathery skin
+which gather at his neck.  Any skin pigmentation that originally belonged to
+the Kortaga is gone.  His skin is pale white.  His pupils are the same color
+as the gindar which runs through his cave prison.  
+~
+Human~
+A 0 -500 S
+33 0 10d69+599 33d10+100 4d5+9 0
+-2 -2 -2 0
+EU 0 0 H
+9 9 1 148
+AHMV ABCDEFGHIJK M unknown
+#2904
+Anazu mage kortaga~
+Anazu, the Kortaga high mage~
+Anazu, the Kortaga high mage plots the revenge of her people.
+~
+Anazu is the Kortaga high mage.  She is the result of controlled breeding
+of generations of Kortaga for the specific result of creating a powerful
+mage.  There are many of the Kortaga who hope to defeat the spell of Fury by
+magic rather than by repentance.  Anazu {Wglows{x the color of {cgindar{x. 
+Her thick neck folds sag down around her shoulders.  
+~
+Human~
+ABO JUb -1000 S
+35 0 10d76+654 35d10+100 4d6+9 18
+-3 -3 -3 -1
+0 0 BG 0
+9 9 2 157
+AHMV ABCDEFGHIJK M unknown
+#2905
+kortaga cleric paangu~
+Paangu, the council cleric~
+The Kortaga council cleric works on ways to counter the magic which keeps his people trapped.
+~
+He is a small Kortaga with barely any ridges around his head.  His beady
+eyes miss no details of his surroundings.  As a young Kortaga he was often
+found, staring out through the barrier.  Perhaps more than any Kortaga he
+feels the weight of the banishment.  Realizing that no Kortaga will ever be
+born pure of heart he is constantly planning ways to release his people.  
+~
+Human~
+ABN 0 -500 S
+31 0 10d63+545 31d10+100 4d5+8 0
+-2 -2 -2 0
+0 0 0 D
+9 9 1 139
+AHMV ABCDEFGHIJK M unknown
+#2906
+Lakora warrior kortaga~
+Lakora, head warrior~
+The head Kortaga warrior prepares for revenge should they escape the caves.
+~
+Lakora is tall for a female Kortaga.  She is light on her feet despite
+the webbing that joins her legs to the knees.  Her eyes are wide and deep
+set.  The {cblue{x pupils seems to glow, especially when she is practicing
+battle with the Kortaga trainees.  
+~
+Human~
+AB 0 -400 S
+32 0 10d66+571 32d10+100 4d5+9 0
+-2 -2 -2 0
+ER 0 0 0
+9 9 2 144
+AHMV ABCDEFGHIJK M unknown
+#2907
+Faklo thief kortaga~
+Faklo, head thief~
+The Kortaga thief councilman is well respected.
+~
+Faklo is a direct descendent of the original Kortaga thief, who
+successfully stole the Amulet of the Elements.  At first, when Fury banished
+the Kortaga his family was shunned.  Eventually though, as the hate damned
+the Kortaga even more the family Faklo gained respect in the community. 
+Now, children whisper in awe when the great thief Faklo passes by.  
+~
+Human~
+AB 0 -1000 S
+35 0 10d76+654 35d10+100 4d6+9 0
+-3 -3 -3 -1
+BJ 0 0 0
+9 9 1 157
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#2900
+barrier wall shimmering magical~
+a magical shimmering barrier~
+A translucent wall of magic shimmers and nearly cackles with magical energy.~
+unknown~
+29 R 0 0
+-1 0 0 2903 0
+0 0 0 P
+E
+shimmering~
+This must be the infamous magical barrier that was created to banish the
+Kortaga to live in the depths of the earth.  As the story goes, they were
+being punished for aiding the Ancients in the theft of the Amulet of the
+Elements during the War of the Ancients.  
+~
+E
+barrier~
+This must be the infamous magical barrier that was created to banish the
+Kortaga to live in the depths of the earth.  As the story goes, they were
+being punished for aiding the Ancients in the theft of the Amulet of the
+Elements during the War of the Ancients.  
+~
+0 0
+#2901
+gindian sword~
+a {bgindian{x sword~
+A sword made of dark blue {bgindian{x luminesces brightly.~
+unknown~
+5 AGJ AN 0
+A D ABC 0 0
+30 8 150 P
+A
+19 1
+A
+18 1
+0 0
+#2902
+gindian mace~
+a {bgindian{x mace~
+A mace made of dark blue {bgindian{x luminesces brightly.~
+unknown~
+5 AGJ AN 0
+C D ABC D 0
+30 10 150 P
+A
+18 1
+A
+19 1
+0 0
+#2903
+gindian visor~
+a {bgindian{x visor~
+A dark blue {bgindian{x visor luminesces here.~
+unknown~
+9 AGJ AT 0
+AC AC AC A 0
+30 6 150 P
+A
+24 -2
+0 0
+#2904
+gindian chainmail~
+some {bgindian{x chainmail~
+Some dark blue {bgindian{x chainmail luminesces brightly.~
+unknown~
+9 AJ AD 0
+AC AC AC A 0
+30 12 150 P
+A
+2 1
+A
+12 10
+0 0
+#2905
+gindian sollerets~
+a pair of {bgindian{x sollerets~
+A pair of dark blue {bgindian{x sollerets luminesces brightly.~
+unknown~
+9 AGJ AG 0
+AC AC AC A 0
+30 6 150 P
+A
+13 25
+0 0
+#2906
+sword gindian partially finished~
+a partially finished {bgindian{x sword~
+A long, crude blade is in the process of being hammered into a deadly fighting weapon.~
+unknown~
+5 R AN 0
+A AB B AB 0
+2 15 10 P
+0 0
+#2907
+hammer huge~
+a huge hammer~
+A huge hammer has gotten so much use that an imprint of a three-fingered hand has been worn in the handle.~
+unknown~
+5 A AN 0
+C C E ABC 0
+32 10 160 P
+A
+19 1
+A
+18 1
+0 0
+#2908
+gloves leather thick tattered~
+a pair of tattered thick leather gloves~
+A pair of tattered thick leather gloves have several burn marks.~
+unknown~
+9 0 AH 0
+AC AC AC A 0
+32 2 160 P
+0 0
+#2910
+shovel heavy~
+a heavy shovel~
+A heavy shovel is covered with a thin dusting of pale blue {Wluminescent{x material.~
+unknown~
+5 J AN 0
+C BC BD D 0
+31 13 155 P
+A
+19 2
+0 CD
+#2911
+sleeves thick leather~
+a pair of thick leather sleeves~
+A pair of thick leather sleeves with numerous burn marks are here.~
+unknown~
+9 0 AI 0
+AC AC AC A 0
+31 4 155 P
+A
+13 10
+0 0
+#2912
+gindar ore chunk~
+a chunk of {cgindar{x~
+A chunk of {cgindar{x is {Wluminescent{x.~
+unknown~
+1 A AO 0
+0 0 999 0 0
+25 2 375 P
+A
+24 -1
+0 0
+#2913
+stone tablet~
+the covenant of {GFury{x~
+{xA massive stone tablet rests on a glowing {cblue{x stone in the middle of the cavern.~
+unknown~
+13 A 0 0
+0 0 0 0 0
+0 0 1 P
+E
+tablet~
+I, {GFury{x, banish ye, the thieving Kortaga, to live in these caves
+as punishment for your treachery.  The magical barrier which stands 
+at the entrance to this cave will not allow any of Kortaga blood to 
+pass through.
+                            {RREPENT{x
+Each millennium, those of your race will be tested.  When you manage
+to produce a progeny who is pure of heart the barrier will turn in
+on itself and ye shall be free.
+~
+E
+covenant~
+I, {GFury{x, banish ye, the thieving Kortaga, to live in these caves
+as punishment for your treachery.  The magical barrier which stands 
+at the entrance to this cave will not allow any of Kortaga blood to 
+pass through.
+                            {RREPENT{x
+Each millennium, those of your race will be tested.  When you manage
+to produce a progeny who is pure of heart the barrier will turn in
+on itself and ye shall be free.
+~
+0 0
+#2914
+gindian rod~
+a {bgindian{x rod~
+A rod made of {Wluminescent{b gindian{x hums almost imperceptibly.~
+unknown~
+5 ABEFJ AN 0
+0 ABC AD BC H
+33 4 165 P
+0 0
+#2915
+anklet gindian~
+a {bgindian{x anklet~
+A thin chain made of a {Wluminescent{x blue material is here.~
+unknown~
+27 G AU 0
+0 0 0 0 0
+33 0 495 P
+A
+17 -2
+A
+5 1
+0 0
+#2916
+gindian chain~
+a {bgindian{x chain~
+A thin braided chain of {bgindian{x lies here.~
+unknown~
+27 AJ AC 0
+0 0 0 0 0
+33 1 495 P
+A
+24 -3
+0 0
+#2917
+cowl Kortaga~
+a Kortaga cowl~
+A cowl made of thick folds of leathery skin lies here.~
+unknown~
+27 AJT AC 0
+BD BD BD B 0
+35 4 525 P
+A
+24 -2
+0 0
+#2918
+gindian orb~
+a {bgindian{x orb~
+A {bgindian{x orb hums almost imperceptibly.~
+unknown~
+5 AB AN 0
+0 AC BCD BC C
+35 0 175 P
+0 0
+#2919
+mushroom blue pale~
+a pale {cblue mushroom{x~
+A {cpale blue mushroom{x {Wluminesces{x subtly.~
+unknown~
+19 A A 0
+ADE 0 0 A 0
+1 0 2 P
+0 0
+#2920
+mushroom dark blue~
+a {bdark blue mushroom{x~
+A {bdark blue mushroom{x {Wluminesces{x brightly.~
+unknown~
+26 A A 0
+35 507 0 0 0
+10 0 300 P
+0 0
+#2921
+staff gindar polished~
+a staff of polished {cgindar{x~
+A staff made of polished gindar glows faintly.~
+unknown~
+4 AGQ AO 0
+BEF BC BC 81 0
+35 4 175 P
+0 0
+#2922
+jewelled gindian sword~
+a jewelled {bgindian{x sword~
+A {cgindian{x sword with a jewel encrusted handle {Wglows{x brightly.~
+unknown~
+5 AG AN 0
+A C E AB J
+32 7 160 P
+0 0
+#2923
+jewelled gindian dagger~
+a jewelled {bgindian{x dagger~
+A jewelled dagger with a sharp {bgindian{x blade glows brightly.~
+unknown~
+5 AGJ AN 0
+B AC BCD ABD G
+35 2 175 P
+0 BC
+#2924
+forked gindian rod~
+a forked {bgindian{x rod~
+A forked rod made of {Wluminescent{x {bgindian{x metal hums quietly.~
+unknown~
+3 ABG AO 0
+ACDF BC BC 245 0
+31 1 155 P
+0 BCD
+#2925
+gindian arm band~
+a {bgindian{x armband~
+A {bgindian{x armband glows brightly.~
+unknown~
+9 A AS 0
+AC AC AC A 0
+35 0 175 P
+0 0
+#2926
+gindian amulet~
+a {bgindian{x amulet~
+An elongated amulet made of bright {bgindian{x metal hangs on a leather thong.~
+unknown~
+27 ABEGJ AC 0
+D AD D B 0
+30 1 450 P
+A
+12 25
+0 0
+#2927
+chest stone~
+a heavy stone container~
+A heavy stone container is tucked neatly under a large stone chair.~
+unknown~
+15 R 0 0
+BEF ACD EFGIJL 0 0
+0 0 0 P
+0 0
+#2928
+key blue metal~
+a {bblue{x metal key~
+A {bblue{x metal key is here.~
+unknown~
+18 0 A 0
+0 0 0 0 0
+0 0 0 P
+0 0
+#2929
+gold pile~
+a pile of gold~
+A pile of old gold coins.~
+unknown~
+20 0 A 0
+DHIJM 0 0 0 0
+0 0 0 P
+0 0
+#2930
+pool luminescent~
+a luminescent pool~
+A pool of gently {Wluminescent{x water ripples constantly due to random droplets of water from above.~
+unknown~
+25 R 0 0
+0 0 0 0 0
+0 0 0 P
+E
+pool~
+A pool of gently {Wluminescent{x water ripples constantly due to random
+droplets of water from above.  
+~
+0 0
+#2940
+flaming test dagger~
+a flaming test dagger~
+A flaming test weapon~
+unknown~
+5 0 AN 0
+B D ABC ABD A
+30 0 150 P
+0 BC
+#2941
+dagger test serrated~
+a serrated test dagger~
+(no description)~
+unknown~
+5 0 AN 0
+0 A AC ABD J
+0 0 1 P
+0 0
+#0
+
+
+
+#ROOMS
+#2900
+On the cliff face~
+The stark {rred{x clay cliff rises nearly vertically out the magnificent
+river below.  A gaping black cave hole is situated high up in the cliff
+face.  Climbing up can be accomplished at some peril via a long jagged
+fissure.  One missed step or crumbled finger hold means a quick trip to the
+raging waters below.  The top of the cliff is far above the cave opening.  
+~
+0 4 5
+D4
+You see a slight ledge in front of a gaping cave hole.  
+~
+~
+0 0 2901
+D5
+Below, the majestic Great Discordia rushes to sea.  
+~
+~
+0 0 16030
+S
+#2901
+On a ledge high above the Great Discordia~
+A long ledge provides an impressive view of the Great Discordia canyon. 
+The sound of the rushing water echoes loudly off the canyon walls.  To the
+east, the ledge leads into a gaping dark hole.  The air seems to shimmer in
+that direction, as if some powerful magic is at work.  Through the magical
+barrier you see an eerie blue glow.  
+~
+0 0 4
+D1
+~
+~
+0 0 2902
+D3
+You see air.  
+~
+~
+0 0 2904
+S
+#2902
+Before a shimmering magical barrier~
+A {Wshimmering magical barrier{x stands here between the blue glow to the
+east and the ledge in the Canyon Wall.  Light from the west filters in
+through a gaping cave mouth.  The sound of the Great Discordia river echoes
+loudly in this chamber.  To the east, an eerie darkness lies behind the
+translucent shimmering barrier.  Oddly, you see several large beetles go
+into and coming out of the barrier.  
+~
+0 13 0
+E
+barrier~
+This must be the infamous magical barrier, created by Fury, goddess of
+Ta'ula under guidance from Spellsong, god of magic, when she banished the
+Kortaga to live in the depths of the earth.  As the story goes, she was
+punishing them for aiding the Ancients in the theft of the {YAmulet of the
+Elements{x during the War of the Ancients.  
+~
+D3
+The cave opens to reveal a great canyon.  
+~
+~
+0 0 2901
+S
+#2903
+Immense Cavern~
+A cavern of gigantic proportions looks as if it was carved out of the
+surrounding rock, relatively recently in geological terms.  To the east, the
+air shimmers with a powerful magical energy creating a barrier between the
+caves here and the rest of the world.  Around the edges of the barrier,
+where the shimmering magic is fused with the rock walls, are thousands of
+pick marks where someone has tried to claw their way out of here.  The walls
+are streaked with veins of a {cpale blue{x {Wluminescent{c ore{x.  The glowing walls
+provide enough light to see tunnels leading to the north and east.  
+~
+0 12 0
+E
+cavern~
+The walls and ceiling are fairly smooth: stalagtite and stalagmite
+formation are yet to begin.  
+~
+E
+barrier~
+This must be the infamous magical barrier, created by Fury, goddess of
+Ta'ula under guidance from Spellsong, god of magic, when she banished the
+Kortaga to live in the depths of the earth.  As the story goes, she was
+punishing them for aiding the Ancients in the theft of the {YAmulet of the
+Elements{x during the War of the Ancients.  
+~
+D0
+You see a man-sized tunnel leading further into the caves.  
+~
+~
+0 0 2905
+D1
+You see a man-sized tunnel leading further into the caves.  
+~
+~
+0 0 2906
+D3
+You see a shimmering magical barrier between this cave and the rest of
+the world.  
+~
+~
+0 0 2902
+S
+#2904
+Stepping off the ledge~
+As you step off the relative safety of the high ledge in front of the
+Kortaga Caves and descend to the river below.  
+~
+0 8 0
+D5
+~
+~
+0 0 16029
+S
+#2905
+Smooth tunnel~
+The walls of this tunnel have been carefully smoothed and polished.  Thin
+spidery veins of pale blue {cgindar{x weave all along the floor, walls and
+perfectly curved ceiling.  A hot, metallic smell wafts from the north and
+the air is uncomfortably warm.  The sound of metal clanging on metal
+reverberates from deeper in the cave.  
+~
+0 8 0
+E
+vein~
+A pale {cblue{x ore runs through the rock of this cliff face.  It
+{Wluminesces{x elegantly.  
+~
+E
+gindar~
+A pale {cblue{x ore runs through the rock of this cliff face.  It
+{Wluminesces{x elegantly.  
+~
+D0
+You see a nearly spherical room with veins of pale blue gindar running
+through it.  
+~
+~
+0 0 2907
+D2
+You see an immense cavern.  
+~
+~
+0 0 2903
+S
+#2906
+Wide tunnel~
+A wide tunnel has been carved into the rock leading deeper into the
+cliff-side.  The walls and curved ceiling are all smoothly polished.  It
+travels in a general east-west direction although it doesn't not lie in a
+straight line.  Rather, it seems to follow a rather wide vein of
+{Wluminescent {cgindar{x as it bores through the rock which makes up the
+Canyon wall.  
+~
+0 8 0
+E
+vein~
+A pale {cblue{x ore runs through the rock of this cliff face.  It
+{Wluminesces{x elegantly.  
+~
+E
+gindar~
+A pale {cblue{x ore runs through the rock of this cliff face.  It
+{Wluminesces{x elegantly.  
+~
+E
+tunnel~
+It is wide enough for several men to walk abreast comfortably.  The stone
+has been polished to a high shine.  
+~
+D1
+The tunnel comes to an end in that direction.  It looks as if it might
+branch off to the north and south though.  
+~
+~
+0 0 2909
+D3
+You see an immense cavern.  
+~
+~
+0 0 2903
+S
+#2907
+Round Room~
+Except for the planar floor a perfectly spherical room has been carved
+out of the surrounding rock.  Pale blue {cgindar{x provides a natural light.
+Long, multi-branching veins of the ore {Wluminesce{x brightly.  A strong
+metallic smell blasts, along with an intense heat from the north.  To the
+east, the sound of metal clanging on metal resounds.  
+~
+0 8 0
+E
+room~
+It is a perfect sphere cut across the bottom with a plane.  The walls
+initially curve up and then back in at the largest diameter point.  
+~
+E
+gindar~
+A pale {cblue{x ore runs through the rock of this cliff face.  It
+{Wluminesces{x elegantly.  
+~
+D0
+You can see the air shimmering from the heat that blasts from that
+direction.  
+~
+~
+0 0 2908
+D1
+You see a room containing dark {Bblue{x metal pieces in various stages of
+being shaped into useful objects.  
+~
+~
+0 0 2910
+D2
+You see a man-sized tunnel with an arched ceiling.  
+~
+~
+0 0 2905
+S
+#2908
+Smelter~
+The {Rheat{x here is so intense that it is nearly visible.  Heat waves
+radiate off a gargantuan stone furnace which sits in the northwestern corner
+of this ample room.  A large pile of {cpale blue gindar{x has been left on
+the floor near an opening in the furnace.  A long stone trough leads from an
+opening at the other side of the furnace.  {bDeep blue gindian{x in a molten
+state flows down the trough into a eastern wall.  Oddly, the molten metal
+does not {Wluminesce{x in this form as it does in both the {cgindar{x ore
+and solid {bgindian{x metal.  
+~
+0 8 0
+E
+waves~
+The air shimmers as the heat rises.  
+~
+E
+gindar~
+A pale {cblue{x ore {Wluminesces{x elegantly.  
+~
+E
+furnace~
+It is a huge stone structure with four openings.  One on top acts as a
+chimney, partially diverting the heat waves up.  One near the floor acts as
+a receptical for the fuel which produces the required heat.  {cGindar{x is
+shovelled into another opening.  A long stone trough comes out of the last
+opening to collect the brightly {Wluminescent {bgindian{x after it is
+recovered from the {cgindar{x.  
+~
+E
+gindian~
+Molten {bblue{x metal flows fluidly from the mouth of the furnace, along
+a long stone trough, into a hole in the eastern wall.  
+~
+D2
+You see a nearly spherical room with veins of pale blue {cgindar{x
+running through it.  
+~
+~
+0 0 2907
+S
+#2909
+T-intersection~
+Three wide tunnels meet in this spot.  Each appears to follow a vein of
+{cgindar{x, as if someone has been mining this {Wluminescent{x ore.  The
+stone of the western and southern tunnels are polished to a high shine.  The
+northern tunnel is in a more primitive condition, as if someone had begun to
+continue the tunnel system in that direction but changed their mind.  
+~
+0 8 0
+E
+ore~
+A pale {cblue{x ore runs through the rock of this cliff face.  It
+{Wluminesces{x elegantly.  
+~
+E
+vein~
+A pale {cblue{x ore runs through the rock of this cliff face.  It
+{Wluminesces{x elegantly.  
+~
+E
+gindar~
+A pale {cblue{x ore runs through the rock of this cliff face.  It
+{Wluminesces{x elegantly.  
+~
+D0
+You see an interrupted tunnel with rough walls.  
+~
+~
+0 0 2911
+D2
+You see a tunnel which appears to lead further into the depths of these
+caves.  
+~
+~
+0 0 2912
+D3
+You see wide tunnel which appears to follow a wide vein of {cgindar{x.  
+~
+~
+0 0 2906
+S
+#2910
+Smithy~
+Molten {bgindian{x streams from a large hole in the northern wall onto
+great stone slabs.  As it flows towards the edges of the slabs it cools into
+the solid form which is highly {Wluminescent{x.  A blast furnace takes up
+most of the eastern wall.  Several flat-topped anvils are placed throughout
+the room.  Near each anvil there are hammers of various sizes.  Pieces of
+{bgindian{x metal in varying stages of formation rest on each anvil.  
+~
+0 8 0
+E
+molten~
+A thick stream of fluid {bdark blue metal{x flows from a hole in the wall.  
+~
+E
+slab~
+Rectangular stone slabs have been polished to give a nearly flat surface.
+The molten metal flows evenly over the surface where it cools to a brightly
+{Wluminescent{x solid.  
+~
+E
+anvil~
+A heavy block of hard metal has a smooth, flat top on which metals are
+shaped by hammering.  
+~
+D3
+You see a nearly spherical room with veins of pale blue {cgindar{x
+running through it.  
+~
+~
+0 0 2907
+S
+#2911
+Dead-End~
+The tunnel ends abruptly here.  Someone has carved it out of the rock but
+the walls are rough and unpolished, unlike the other tunnels in this area. 
+Thick rich veins of {cgindar{x run randomly along the floor, ceiling and
+walls.  This opening is fairly wide.  Above your head is a {Bhole{x which is
+just large enough for one man to crawl into.  To the south is a long tunnel
+with polished stone walls.  
+~
+0 8 0
+E
+hole~
+A smallish hole has been dug into the ceiling.  Looking up, it appears to
+end without accomplishment.  
+~
+E
+veins~
+A pale {cblue{x ore runs through the rock of this cliff face.  It
+{Wluminesces{x elegantly.  
+~
+E
+gindar~
+A pale {cblue{x ore runs through the rock of this cliff face.  It
+{Wluminesces{x elegantly.  
+~
+D2
+To the south is a long tunnel with polished stone walls, leading into the
+depths of these caves.  
+~
+~
+0 0 2909
+D4
+~
+~
+0 0 2913
+S
+#2912
+Curved tunnel~
+A long tunnel twists and turns as it follows a particularly wide vein of
+{cgindar{x deeper into the rock.  The wide opening has a high, curved
+ceiling.  Every inch of the walls, floor and ceiling are polished stone. 
+The {cgindar{x provides enough luminescence to light the corridor with an
+eerie glow.  The corridor winds basically north-south at this point.  
+~
+0 8 0
+E
+gindar~
+A pale {cblue{x ore runs through the rock of this cliff face.  It
+{Wluminesces{x elegantly.  
+~
+E
+vein~
+A pale {cblue{x ore runs through the rock of this cliff face.  It
+{Wluminesces{x elegantly.  
+~
+D0
+You see an intersection of tunnels in that direction.  
+~
+~
+0 0 2909
+D1
+The tunnel slopes gently downward.  
+~
+~
+0 0 2914
+S
+#2913
+Nearly vertical tunnel~
+This is a small tunnel which is barely large enough for someone to worm
+their way through.  The walls are rough and pieces of armor are easily stuck
+on bumps in the walls.  It appears as if someone was trying to dig their way
+their way out of the caves at one point.  Perhaps because they could not get
+through the barrier at the entrance to the caves.  Progress ends abruptly,
+just as the surrounding rock changed to a deep auburn color.  It is almost
+as if no more distance could be dug out of the hard rocky lid.  
+~
+0 8 0
+D5
+You see a larger opening below you when you can maneuver to look down.  
+~
+~
+0 0 2911
+S
+#2914
+Gently sloping tunnel~
+The tunnel gently slopes downward to the south.  It twists and turns as
+it follows a wide vein of {Wluminescent{x {cgindar{x which provides an eerie
+light.  The rock through which this corridor has been dug is highly
+polished.  The ceiling is high overhead and curved.  To the south, stairs
+have been chiselled out of the stone and lead downward.  
+~
+0 8 0
+E
+stairs~
+They are wide and smoothly polished.  They lead down into a gaping cavern.  
+~
+E
+gindar~
+A pale {cblue{x ore runs through the rock of this cliff face.  It
+{Wluminesces{x elegantly.  
+~
+E
+vein~
+A pale {cblue{x ore runs through the rock of this cliff face.  It
+{Wluminesces{x elegantly.  
+~
+D2
+Stairs lead down into the depths of the caves.  
+~
+~
+0 0 2915
+D3
+The tunnel slopes gently upward.  
+~
+~
+0 0 2912
+S
+#2915
+Stairs in the tunnel~
+Someone has chiseled a set of perfectly spaced stairs into the rock that
+surrounds these tunnels.  The vein of {cgindar{x runs along either side of
+the stairs providing light.  Near the bottom of the steps the walls of the
+tunnel are open revealing an extremely large cavern.  The sound of voices
+drift to the stairs.  The air is cool and there appears to be a source of
+water near as the air is damp.  
+~
+0 12 0
+E
+cavern~
+A vast cavern is hidden here within the rock.  The floor is smoothly
+polished and reflects the light from large balls of {bgindian{x.  Up the
+sides of the cavern are hundreds of cave openings.  
+~
+E
+gindar~
+A pale {cblue{x ore runs through the rock of this cliff face.  It
+{Wluminesces{x elegantly.  
+~
+E
+vein~
+A pale {cblue{x ore runs through the rock of this cliff face.  It
+{Wluminesces{x elegantly.  
+~
+E
+stairs~
+They are wide and smoothly polished.  They lead down into a gaping cavern.  
+~
+D0
+The tunnel slopes gently upwards.  
+~
+~
+0 0 2914
+D5
+Stairs lead down surrounded by tunnel walls.  
+~
+~
+0 0 2916
+S
+#2916
+At the bottom of the stone stairs~
+A cavern of immense proportion opens up at the bottom of the stairs which
+lead up to the north.  The floor of the cavern is flat and smoothly
+polished.  Luminescent veins of {cgindar{x streak across it forming pathways
+of sorts.  The top of the cavern is so far above you that it almost seems
+like a night sky, with pieces of the luminescent pale blue ore embedded in
+it.  Immense columns of polished stone, speckled with {cgindar{x are evenly
+spaced around the cavern floor.  On the top of each is a perfect sphere of
+{bgindian{x providing plenty of light for the inhabitants of the cavern. 
+Hundreds of small cave openings can be seen all along the cavern walls.  
+~
+0 8 0
+E
+gindian~
+{bGindian{x is the metal that is derived from the ore that is native to this rock.  It is a {bdark blue{x and {Wluminesces{x brightly.
+~
+E
+columns~
+They stand about ten feet high and hold large balls of {Wluminescent{x
+{cgindian{x.  They are made of the same stone as that surrounded the caves
+with small veins of {cgindar{x running randomly through them.  
+~
+E
+veins~
+A pale {cblue{x ore runs through the rock of this cliff face.  It
+{Wluminesces{x elegantly.  
+~
+E
+gindar~
+A pale {cblue{x ore runs through the rock of this cliff face.  It
+{Wluminesces{x elegantly.  
+~
+E
+cavern~
+A vast cavern is hidden here within the rock.  The floor is smoothly
+polished and reflects the light from large balls of {bgindian{x.  Up the
+sides of the cavern are hundreds of cave openings.  
+~
+D1
+You see a vast cavern lit by glowing metal balls atop stone pillars.  
+~
+~
+0 0 2919
+D2
+You see a vast cavern lit by glowing metal balls atop stone pillars.  
+~
+~
+0 0 2917
+D3
+You see a vast cavern lit by glowing metal balls atop stone pillars.  
+~
+~
+0 0 2918
+D4
+A set of stairs leads up into the rock above.  
+~
+~
+0 0 2915
+S
+#2917
+Cavern Floor~
+An immense cavern stretches out to the north.  Adequate lighting is
+provided by {cgindar{x ore columns with spheres of {bgindian{x atop them. 
+The cavern walls are speckled with cave mouths.  It is difficult to estimate
+the number of these cave homes due to the vastness of the cavern.  At the
+other side of the cavern, to the north, a set of wide stairs leads up and
+disappears into the cavern wall.  
+~
+0 8 0
+E
+gindar~
+Wide veins of the luminescent {cblue{x ore swirl along the cavern floor
+and spider up the walls of the cavern.  
+~
+E
+cavern~
+A vast cavern is hidden here within the rock.  The floor is smoothly
+polished and reflects the light from large balls of gindian.  Up the sides
+of the cavern are hundreds of cave openings.  
+~
+D0
+You see a vast cavern lit by glowing metal balls atop stone pillars.  
+~
+~
+0 0 2916
+D1
+You see a vast cavern lit by glowing metal balls atop stone pillars.  
+~
+~
+0 0 2921
+D3
+You see a vast cavern lit by glowing metal balls atop stone pillars.  
+~
+~
+0 0 2920
+S
+#2918
+Cavern Floor~
+{cGindar{x provides a lighted pathway along the cavern floor.  It snakes
+between the pillars which are evenly spaced throughout the cavern.  Looking
+up, the cavern wall is covered with hundreds of cave holes.  Kortaga have
+set up residence there, a few are visible, sitting at the entrances of their
+caves.  A system of steps cut into the side of the cavern walls providing
+pathways between the homes and the cavern floor.  To the east is a larger
+set of stairs leading up to the north and disappearing into the cavern wall.
+~
+0 8 0
+E
+gindar~
+Wide veins of the luminescent {cblue{x ore swirl along the cavern floor
+and spider up the walls of the cavern.  
+~
+E
+pillars~
+Wide cylinders of highly polished stone are spaced evenly around the
+cavern floor.  Each holds a sphere of luminescent {bgindian{x on the top.  
+~
+E
+cavern~
+A vast cavern is hidden here within the rock.  The floor is smoothly
+polished and reflects the light from large balls of gindian.  Up the sides
+of the cavern are hundreds of cave openings.  
+~
+D1
+You see a vast cavern lit by glowing metal balls atop stone pillars.  
+~
+~
+0 0 2916
+D2
+You see a vast cavern lit by glowing metal balls atop stone pillars.  
+~
+~
+0 0 2920
+S
+#2919
+Cavern Floor~
+{cGindar{x provides a lighted pathway along the cavern floor.  It snakes
+between the pillars which are evenly spaced throughout the cavern.  Looking
+up, the cavern wall is covered with hundreds of cave holes.  Kortaga have
+set up residence there, a few are visible, sitting at the entrances of their
+caves.  A system of steps cut into the side of the cavern walls providing
+pathways between the homes and the cavern floor.  To the west is a larger
+set of stairs leading up to the north and disappearing into the cavern wall.
+~
+0 8 0
+E
+gindar~
+Wide veins of the luminescent {cblue{x ore swirl along the cavern floor
+and spider up the walls of the cavern.  
+~
+E
+cavern~
+A vast cavern is hidden here within the rock.  The floor is smoothly
+polished and reflects the light from large balls of gindian.  Up the sides
+of the cavern are hundreds of cave openings.  
+~
+D2
+You see a vast cavern lit by glowing metal balls atop stone pillars.  
+~
+~
+0 0 2921
+D3
+You see a vast cavern lit by glowing metal balls atop stone pillars.  
+~
+~
+0 0 2916
+S
+#2920
+Cavern Floor~
+An immense cavern stretches out to the north and east.  Adequate lighting
+is provided by {cgindar{x ore columns with spheres of {bgindian{x atop them.
+The cavern walls are speckled with cave mouths.  It is difficult to estimate
+the number of these cave homes due to the vastness of the cavern.  To the
+east a curved archway leads into a brightly lit room which appears to be
+round.  
+~
+0 8 0
+E
+cavern~
+A vast cavern is hidden here within the rock.  The floor is smoothly
+polished and reflects the light from large balls of gindian.  Up the sides
+of the cavern are hundreds of cave openings.  
+~
+E
+gindar~
+Wide veins of the luminescent {cblue{x ore swirl along the cavern floor
+and spider up the walls of the cavern.  
+~
+D0
+You see a vast cavern lit by glowing metal balls atop stone pillars.  
+~
+~
+0 0 2918
+D1
+You see a vast cavern lit by glowing metal balls atop stone pillars.  
+~
+~
+0 0 2917
+D3
+Through a curved stone archway you see a round room with walls that glow
+with an eerie light.  
+~
+~
+0 0 2922
+S
+#2921
+Cavern Floor~
+An immense cavern stretches out to the north.  Adequate lighting is
+provided by gindar ore columns with spheres of gindian atop them.  The
+cavern walls are speckled with cave mouths.  It is difficult to estimate the
+number of these cave homes due to the vastness of the cavern.  A set of
+stairs spirals down to the south.  The sound of dripping water echoes from
+that direction.  
+~
+0 8 0
+E
+cavern~
+A vast cavern is hidden here within the rock.  The floor is smoothly
+polished and reflects the light from large balls of gindian.  Up the sides
+of the cavern are hundreds of cave openings.  
+~
+E
+gindar~
+Wide veins of the luminescent {cblue{x ore swirl along the cavern floor
+and spider up the walls of the cavern.  
+~
+E
+column~
+Wide cylinders of highly polished stone are spaced evenly around the
+cavern floor.  Each holds a sphere of luminescent {bgindian{x on the top.  
+~
+D0
+You see a vast cavern lit by glowing metal balls atop stone pillars.  
+~
+~
+0 0 2919
+D3
+You see a vast cavern lit by glowing metal balls atop stone pillars.  
+~
+~
+0 0 2917
+D5
+~
+~
+0 0 2923
+S
+#2922
+Kortaga Council~
+A round room has been dug out of the surrounding rock.  The ceiling is
+quite high, although not as high as the cavern to the east.  The walls and
+floor are polished to a smooth shine.  Along the round walls a continuous
+scene of a humanoid peoples in a great battle has been painted.  Upon closer
+inspection, the people in the mural appear to be related in some way to the
+Kortaga that inhabit these caves.  A round stone table sits in the middle of
+the room.  Four huge stone chairs, with high backs are placed equidistant
+from each other around the table.  A heavy stone chest is tucked under one
+of the chairs.  
+~
+0 12 0
+E
+mural~
+It's a painting of a humaniod peoples in a great battle.  It appears to
+be of the Kortaga, before the mutations brought about by constant exposure
+to {cgindar{x.  
+~
+D1
+You see the immense cavern floor through an arched entranceway.  
+~
+~
+0 0 2920
+S
+#2923
+Wet Grotto~
+A narrow set of stairs spirals down from a hole near the top of this damp
+cave.  The steady drip drip of water droplets falling a significant distance
+into a pond echoes in this smallish chamber.  Along the southern wall a
+steady trickle of water runs down the course stone walls.  The path is
+traced by a layer of {Wluminescent{b blue gindian{x that has been deposited
+over the ages from the water that runs past it.  The pond at the bottom of
+the grotto glows with a pale {cblue{x color, probably from the {cgindar{x
+that it leached out of the rock as it made it's way to this collection
+point.  
+~
+0 8 0
+E
+stairs~
+They are evenly spaced and nicely polished.  They begin at the top at the
+north of the grotto and wind down along the side of the room.  
+~
+D1
+You see glowing {cblue{x mushrooms growing along the side of a
+{Wluminescent{x pond.  
+~
+~
+0 0 2924
+D4
+A wide set of stairs have been chiselled out of the rock.  
+~
+~
+0 0 2921
+S
+#2924
+Mushroom cave~
+A {Wluminescent{c blue{x pond ends at a gently sloped stone which looks
+to be rich in {cgindar{x.  Along the pond's edge and up the slope grow
+hand-sized mushrooms.  The mushrooms are tinted various shades of
+{cb{bl{cu{be{x and each {Wluminesces{x gently.  The sound of dripping water
+comes from the west.  
+~
+0 8 0
+D3
+You see a {Wluminescent {cblue{x pond.  
+~
+~
+0 0 2923
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 2904 spec_cast_mage Load to: Anazu, the Kortaga high mage
+M 2905 spec_cast_cleric Load to: Paangu, the council cleric
+S
+
+
+
+#RESETS
+O 0 2900 0 2902
+O 0 2913 0 2903
+M 0 2900 2 2903
+E 0 2905 0 8
+E 0 2901 0 16
+E 0 2903 0 24
+E 0 2904 0 5
+M 0 2900 2 2903
+E 0 2902 0 16
+E 0 2905 0 8
+E 0 2903 0 24
+E 0 2904 0 5
+M 0 2902 1 2908
+E 0 2912 0 0
+E 0 2911 0 10
+E 0 2910 0 16
+O 0 2906 0 2910
+M 0 2901 1 2910
+E 0 2907 0 16
+E 0 2908 0 9
+M 0 2903 3 2916
+E 0 2914 0 16
+E 0 2916 0 3
+M 0 2903 3 2919
+E 0 2914 0 16
+E 0 2915 0 25
+M 0 2903 3 2921
+E 0 2914 0 16
+O 0 2927 0 2922
+P 0 2929 0 2927
+M 0 2907 1 2922
+G 0 2928 0
+E 0 2925 0 22
+E 0 2923 0 16
+M 0 2906 1 2922
+E 0 2904 0 5
+E 0 2922 0 16
+M 0 2905 1 2922
+E 0 2924 0 17
+E 0 2926 0 3
+O 0 2930 0 2923
+M 0 2904 1 2923
+E 0 2921 0 17
+E 0 2918 0 16
+E 0 2917 0 4
+O 0 2930 0 2924
+O 0 2920 0 2924
+O 0 2919 0 2924
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

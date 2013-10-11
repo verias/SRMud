@@ -1,0 +1,701 @@
+#AREADATA
+Name {40 60} XeryAsa *The Serpent's Fang~
+Builders Xeryna~
+VNUMs 15181 15299
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#15181
+trapped faerie~
+a trapped faerie~
+A faerie has been chained to the round platform here.
+~
+This faerie has pale skin, possibly from being chained here.  A shock of
+silvery white hair falls in spiralling curls around her form, failing to add
+extra protection to her scantily clad form from the chilled air.  Her black
+eyes are startling in contrast with her fair complexion, following your
+movements to the best of their ability.  Moth-like wings sprout from her
+back, shimmering unscathed.  
+~
+unique~
+A 0 0 0
+50 0 10d167+1149 200d10+100 5d6+13 none
+-9 -9 -9 -7
+0 B 0 M
+(null) (null) male 225
+ACGHMV ABCDEFGHIJKO medium unknown
+#15182
+lovely demoness~
+a lovely demoness~
+A demoness is here, waiting to train you in the arts of pain.
+~
+A tall, pale woman with leathery wings stands before you.  Her hair is
+the color of the night sky, a deep blue-black that flows wildly and accents
+her short horns, and her eyes a soulless black.  She wears an assortment of
+revealing clothing, along with a blood red cloak that flows from her
+shoulders.  Covering her shoulders are spaulders with very long iron spikes
+attached, connected with three silver chains that cross over both her chest
+and over her back.  Her bare breasts are adorned with medium-sized silver
+rings and her skin glimmers faintly with faerie dust.  
+~
+unique~
+A CJTVZ -1000 0
+100 0 12d1397+3920 400d10+100 6d11+29 none
+-35 -35 -35 -27
+0 LQ M N
+(null) (null) male 450
+ACGHIMVZc ACDEFHJKLOPUVW medium unknown
+#0
+
+
+
+#OBJECTS
+#15181
+shimmering black goo portal~
+a shimmering pool of blackness~
+A shimmering black goo has formed a pool here.~
+unknown~
+portal 0 0
+A 0 0 ABCDGIJLMN 0
+0 0 0 P
+#15182
+mirror portal~
+the dark mirror~
+A dark mirror has been constructed and placed here.~
+unknown~
+portal R 0
+0 0 E 0 0
+0 0 0 P
+E
+mirror~
+Your reflection is distorted by shadows swirling below what seems to be
+the surface of the mirror.  The face is like water, and ripples occasionally
+as images float by, some of them disturbing and others alarmingly normal.  
+~
+#15183
+fountain~
+an obsidian fountain~
+An obsidian fountain is here, spouting both blood and water.~
+unknown~
+fountain R 0
+0 0 'water' 0 0
+0 0 0 P
+E
+obsidian fountain~
+This fountain has two different basins made of obsidian: blood trickles
+from skulls placed ornately at the very top of the axis of the fountain to a
+smaller basin that's supported by a cone-shaped center.  Around the basin
+collecting blood, more skulls have been placed.  It is from these that the
+water pools into the larger basin, which is carved directly from the floor. 
+~
+#15184
+black throne~
+the black throne~
+A large, black throne dominates the chamber.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+E
+black throne~
+This dark throne is made of a black material that seems to drink in light
+instead of reflect it.  A trio of carved serpents twine around each other to
+create each arm rest, their heads holding a human skull in place.  More
+snakes have been sculpted to hold a skull in place of each corner for its
+tall back.  The rest of the thrones is, for the most part, smooth, aside
+from the strange clawed feet that cap each leg.  They appear to be bone,
+coming from some unidentifiable animal.  The chair is lined with red satin
+that appears to be quite comfortable.  
+~
+#0
+
+
+
+#ROOMS
+#15181
+Somewhere Underground~
+The floor is tiled with smooth black marble with red veins, fitted
+seemlessly together.  Scattered over the floor are large, comfortable
+pillows made of red and black satin.  Three concentric platforms have been
+placed in the center of this chamber, topped with the grand black throne. 
+Draped from the vaulted ceiling, curtains of black satin hang, gathered
+decoratively by serpents carved of silver that have been embedded into the
+walls.  The walls themselves are smooth and black but do not reflect the
+light of the black and red candles that emerge from the candelabras carved
+to resemble three-headed snakes.  Black curtains have been drawn over the
+exit that lies to the north.  
+~
+0 1056776 0
+D0
+~
+curtain~
+~
+1 0 15182
+D5
+~
+trapdoor~
+~
+1 0 15192
+M 0 H 0
+S
+#15182
+Somewhere Underground~
+This long hallway has been hewn of black marble veined with scarlet, the
+surfaces of it polished to a shine.  Any sounds made here seem to echo
+through the vaulted hall, eventually dying back down to an eerie quietness. 
+Columns have been carved into the walls of the passageway, depicting snakes
+twining around each other.  To the north, a chamber that appears to be
+spherical in shape can be seen while to the south there is a large black
+satin curtain.  
+~
+0 1056776 0
+D0
+~
+~
+~
+0 0 15183
+D2
+~
+curtain~
+~
+1 0 15181
+M 0 H 0
+S
+#15183
+Somewhere Underground~
+A large black fountain has been placed in the center of this spherical
+chamber.  Large pillows have been arranged around the fountain in a disarray
+of red and black satin.  Suspended directly over the fountain is a
+chandelier made of black and red jewels, glinting faintly in the light that
+is cast by the candles found in tiny alcoves.  These red and black candles
+never seem to go out, constantly illuminating the sphere-shaped room.  Steps
+lead up the sides of the smooth walls, providing means to leave in any of
+the cardinal directions, if one desired.  
+~
+0 1056776 0
+D0
+~
+~
+~
+0 0 15186
+D1
+~
+~
+~
+0 0 15184
+D2
+~
+~
+~
+0 0 15182
+D3
+~
+~
+~
+0 0 15185
+D4
+~
+~
+~
+0 0 15194
+M 0 H 0
+S
+#15184
+Somewhere Underground~
+This long hallway has been hewn of black marble veined with scarlet, the
+surfaces of it polished to a shine.  Any sounds made here seem to echo
+through the vaulted hall, eventually dying back down to an eerie quietness. 
+Carved into the northern wall, several rectangular alcoves can be found,
+each of which holds a statue.  To the west, a chamber that appears to be
+spherical in shape can be seen while to the east is a chamber with a steel
+grate for the floor.  
+~
+0 1056776 0
+E
+statue alcove~
+The center shelf space bears a statue that is easily three feet in
+height.  This statue is made of glittering white stone and shows an
+attractive woman with fangs and small horns sprouting from her forehead.  In
+the smaller niches that flank this, there are figures of snakes coiling
+around skulls that seem to be those of demons, if the fangs and horns are
+anything to go by.  
+~
+D1
+~
+~
+~
+0 0 15190
+D3
+~
+~
+~
+0 0 15183
+M 0 H 0
+S
+#15185
+Somewhere Underground~
+This long hallway has been hewn of black marble veined with scarlet, the
+surfaces of it polished to a shine.  Any sounds made here seem to echo
+through the vaulted hall, eventually dying back down to an eerie quietness. 
+Carved into the northern wall, several rectangular alcoves can be found,
+each of which holds a statue.  To the east, a chamber that appears to be
+spherical in shape can be seen while to the west is a chamber with a steel
+grate for the floor.  
+~
+0 1056776 0
+E
+statue alcove~
+Presented proudly from the center crevice is a statue crafted from white
+stone that glitters.  The three-foot figure displays a male demon with
+spiked elbows and heels.  His horns sweep back from his forehead, followed
+by a mane ofhair, and the smile on his sculptured face clearly shows a pair
+of fangs.  Flanking this are two identical statues of serpents coiled around
+skulls with fangs and horns, presumably those of demons.  
+~
+D1
+~
+~
+~
+0 0 15183
+D3
+~
+~
+~
+0 0 15191
+M 0 H 0
+S
+#15186
+Somewhere Underground~
+A slight depression in the center of the room houses a bubbling pool,
+around which sigils inlaid with silver have been inscribed.  Rising from the
+spring, smoke that smells like myrrh curls into the air and creates a haze
+strong enough to make the eyes water.  Silver columns have been placed
+irregularly around the chamber, stretching from the polished marble of solid
+black up toward the ceiling in the form of snakes with glowing onyx eyes. 
+What little light there is seems to be coming from these eyes, which train
+on your presence no matter where you go.  A faint slithering sound seems to
+be coming from all around, the source undefined.  The ceiling itself is
+cloaked in shadows that seem to have a life of their own.  Large satin
+pillows made of blood-red silk are scattered around the pool.  
+~
+0 1056776 0
+D0
+~
+~
+~
+0 0 15187
+D2
+~
+~
+~
+0 0 15183
+M 0 H 0
+S
+#15187
+Somewhere Underground~
+An arched corridor runs north south here.  The walls crafted from some
+form of strange black substance, eerie in that it appears to absorb light
+yet possesses a strange sheen like fluid.  Seeming to grow from the wall are
+skulls of varying sizes, their rictus grins and eyeless sockets staring
+endlessly.  The floor is composed of a black metal grating, shimmering like
+razor blades upon the horizontal axis.  Below this grill stirs something
+dark, moving to its own devices.  
+~
+0 1056776 0
+E
+skulls walls~
+The walls glint moistly, like oil.  From out of this, skulls gaze forth,
+their sightless eyes appearing to judge all who pass before them.  Some of
+these death heads are as small as a mouse's, others larger than a giant's. 
+All of the skulls are afixed or grown from the walls by some unearthly
+power.  
+~
+E
+floor dark moving~
+Looking through the razor grating, you can see dark forms, like worms or
+serpents squirming over each other, the numbers uncountable.  Now and then
+one opens its mouth and emits a soft hissing sound before returning to its
+brethren.  
+~
+D0
+~
+~
+~
+0 0 15188
+D2
+~
+~
+~
+0 0 15186
+M 0 H 0
+S
+#15188
+Somewhere Underground~
+The walls are made of bricks of dull yellow-brown rock, stacked in neat
+layers.  Both the ceiling and floor are made of steel grating.  Shackles
+dangle from the ceiling grate near the walls, one of which has a skeleton
+secured in the cuffs.  Past the blood-stained grating that passes as the
+floor, a mass of oozing black liquid can be seen, seeming to move of its own
+accord.  The grating leads off to the north and south.  
+~
+0 1056776 0
+D0
+~
+~
+~
+0 0 15189
+D2
+~
+~
+~
+0 0 15187
+M 0 H 0
+S
+#15189
+Somewhere Underground~
+A mirror spans the northern wall, two snakes made out of metal form an
+oval frame around its reflective surface, their mouths grasping each other's
+tails.  This mirror is attached at the sides to columns of obsidian with
+snakes winding around them, their black eyes eerie and seeming to train on
+you.  A large symbol has been inscribed into the floor, depicting a triangle
+inside a circle with a diameter of at least five feet.  The sandstone
+chamber turns into hall with grated floors to the south.  
+~
+0 1056776 0
+E
+triangle circle symbol~
+Within the circle that is five feet in diameter, a triangle has been
+engraved with a single point that zeroes in on the mirror at the north of
+the chamber.  In between the perimeter of the triangle and the circumference
+of the circle, runes or words in a language beyond your comprehension have
+been inscribed, shimmering faintly.  
+~
+D2
+~
+~
+~
+0 0 15188
+D4
+~
+~
+~
+4 0 15199
+M 0 H 0
+S
+#15190
+Somewhere Underground~
+Corpses are suspended from the ceiling from blood-blackened chains.  The
+smell of decay stiffens the air in the room, making it difficult to breathe.
+This dreadful chamber seems to stir a chill into your bones as echoes of
+pain form in your mind.  Bones jut out of the walls, seeming to grasp at
+your clothing as you near.  The tables in the center of the room hold the
+remains of some gruesome experiment and pools of drying blood have collected
+under the table.  
+~
+0 1056776 0
+E
+remains table experiment~
+The grimaces of pain have been frozen on this cadaver's face.  While
+sprawled out on the table, a faint trickle of blood rolls down his chin,
+dripping to the puddle on the floor.  Jars with various organs have been
+placed in neat rows next to the body.  A set of large surgical instruments,
+set on a small tray next to the corpse, are still covered in blood and gore.
+~
+D3
+~
+~
+~
+0 0 15184
+D5
+~
+~
+~
+0 0 15196
+M 0 H 0
+S
+#15191
+Somewhere Underground~
+The sense of vastness is overcoming when you gaze about this room. 
+Thousands of steps climb the walls and cover the ceiling and floor, leading
+in an endless maze.  In the center of this enormous chamber, a plateau
+bearing a dead tree stands.  Though the tree is black with death and lacks
+leaves, spheres grow from the branches that stretch into the air like
+fingers.  The orbs seem to be all the same size, small enough to hold
+easily, and twinkle with a light of their own.  Several of these small balls
+have fallen amongst the great roots of the tree.  
+~
+0 1056776 0
+D1
+~
+~
+~
+0 0 15185
+M 0 H 0
+S
+#15192
+Somewhere Underground~
+The chamber walls seem to be cut out of solid blackness.  The surface of
+the walls are smooth and fail to reflect any light.  There is a black altar
+in the center of the room, the scripted words upon it 'Altar Demonica'
+commanding attention.  Silver candelabras that have been crafted to resemble
+three-headed snakes hold black and red candles that glow faintly.  The light
+casts enough light to show the dried blood on the surface of the altar,
+though the candles flicker from a draft that gives this place an unnatural
+chill.  A staircase has been carved into the walls, leading upward.  
+~
+0 1056776 0
+E
+sacrificial dagger silk~
+A black dagger with a curved blade rests neatly on this fold of red silk.
+Along the blade, runes glow faintly, the light pulsating like a heartbeat. 
+The handle of the dagger is silver entwined with obsidian, the pommel of it
+clasping a flawless blood-red jewel.  
+~
+E
+altar~
+The altar seems to be hewn from a single block of black marble with veins
+of blood red showing on the surface.  There is a small pool of drying blood
+in the center, thick and immobile.  A sacrificial dagger is placed neatly
+upon red silk located at the head of this stone.  
+~
+D0
+~
+~
+~
+0 0 15193
+D4
+~
+trapdoor~
+~
+1 0 15181
+M 0 H 0
+S
+#15193
+Somewhere Underground~
+Runes glow faintly along the perimeter of the walkway, made of strange
+black material stretching from the southern archway, and around the large
+platform that seems to float in the air, marking the boundary that leads
+into the oblivion beyond.  A pedestal has been erected in the dead center of
+the circular rostrum, looking like a hand stretching forth to hold a large
+bowl full of a mysterious dark liquid.  Large mirrors of irregular shape and
+jagged edges hover in the air around the platform, failing to reflect
+anything in the room.  The shadows seem to writhe and dance on their own.  
+~
+0 1056776 0
+E
+shadows~
+The shadows dance with a life of their own, swirling and eddying around
+the physical things that exist in this void.  Faces of demons form
+temporarily within the darkness, grinning wickedly at you when you glimpse
+them.  
+~
+E
+mirror~
+The mirrors cast into the air, encircling the dais, resemble shards of a
+much larger mirror.  Their surface does not reflect anything in the room and
+is a dark silvery color most of the time.  They hang in place, immobile
+despite the shadows moving over them.  
+~
+E
+pedestal~
+The pedestal is a straight column of pure blackness.  Skulls have been
+fused with the blackness in a disarray that does not detract from the
+individual pieces.  At the top of the stand, a very lifelike hand has been
+carved.  Resting on its palm is a bowl full of murky liquid that seems to
+crawl and ooze without provocation at times.  
+~
+D2
+~
+~
+~
+0 0 15192
+M 0 H 0
+S
+#15194
+Somewhere Underground~
+This chamber seems to be a void; there is nothing to indicate that this
+place has any structure like walls or a floor.  Pinpricks of starlight in
+different colors can be seen, some peeking out from swirling nebulae.  The
+intensity of their light varies, making some seem farther than others.  No
+movement stirs the air here, neither draft or motion.  The tempature is
+oddly cool, causing breath to appear as steam once it leaves the body.  It
+is almost as if this area is somehow frozen within its own time, uneffected
+by the passing or years or events.  
+~
+0 1056776 0
+D5
+~
+~
+~
+0 0 15195
+M 0 H 0
+S
+#15195
+Somewhere Underground~
+Pillars of obsidian loom up into the darkness of this spacious chamber,
+each column covered in runes, pulsing with a silvery light on their
+spiralling descent to the floor.  Tiles of black onyx have been fit together
+to create a smooth floor surface, inlaid with crushed rubies that draw lines
+to form a pentacal, each point touching a corresponding pillar.  A faint red
+light comes from the large symbol and whispers come from the shadows, mixed
+with echoes of pain.  
+~
+0 1056776 0
+D4
+~
+~
+~
+0 0 15194
+M 0 H 0
+S
+#15196
+Somewhere Underground~
+Twin arches lead from this chamber to the east and west, where long
+corridors can be seen.  Surrounding both are visages of screaming agony,
+their gaping mouths forming the openings, bedecked with teeth.  The eyes
+staring across the hall at each other speak of volumes of pain and anguish,
+carved directly from the walls.  The walls and floor shine as if wet, though
+their blackness fails to reflect any light whatsoever.  
+~
+0 1056776 0
+D1
+~
+~
+~
+0 0 15197
+D3
+~
+~
+~
+0 0 15198
+D4
+~
+~
+~
+0 0 15190
+M 0 H 0
+S
+#15197
+Somewhere Underground~
+Each of the four curving walls and the roof have oil-like colors swirling
+over there surfaces, the patterns constantly swirling and changing as if
+they were alive.  The impression of life is backed up by a constant thumping
+beat, steady with its rhythm like the beating of a massive heart.  A table
+of some black substance appears to have grown from the floor, which seems to
+be made of the same material.  No chairs or other furnishings are present
+within this room.  A single arched passage way leads off to the west.  
+~
+0 1056776 0
+E
+table~
+This table links seamlessly to the floor, where no visible gape can be
+discerned.  Upon the table a series of long grooves have been carved, each
+leading to a single basin within the structure.  A dark red-brown substance
+has collected in these basins and is now dry and flaky.  
+~
+D3
+~
+~
+~
+0 0 15196
+M 0 H 0
+S
+#15198
+Somewhere Underground~
+Columns with elegant snakes sculpted to twine around them rise from the
+floor into the blackness above.  The snakes look real and the only
+contribution to prove they are constructs is that they are made of metal. 
+Several of the pillars have snake heads jutting out, the mouths open and
+fangs bared.  The walls seem to move of their own accord, the shadows
+dancing and flickering.  Chained in the center of the room is a faerie,
+placed upon a small scaffold that makes her easy to see from any vantage
+point within the chamber.  
+~
+0 1056776 0
+D1
+~
+~
+~
+0 0 15196
+M 0 H 0
+S
+#15199
+Somewhere Underground~
+The shadows of this chamber shroud the walls, seeming to dance and writhe
+with a life of their own.  Rough sandy stones have been fitted together in
+an odd pattern to form the majority of the floor.  In the center of the
+floor, there is a dais of sorts that seems to be made out of silver-colored
+metal.  Four large serpentine statues made of the same metal look at each
+other over this dais from each corner of the room.  The eyes of the snakes
+are made of a black stone of some kind that does not reflect light or
+images.  In fact, the eyes seem to be watching.  
+~
+0 1056776 0
+E
+dais~
+The dais is a circular piece of metal inscribed with words in a language
+beyond your comprehension.  Around the circumference, two snakes have been
+sculpted, rising from the platform itself, grasping each other's tails with
+their mouths.  The serpents have an incredible amount of detail and look
+like they've been trapped in the metal rather than designed from it.  
+~
+E
+serpentine snake statue~
+These metallic statues stand tall, facing each other over the ornate
+platform in the middle of the room.  Their poise makes them look as if they
+are about to strike, with their necks curved like a swan's as they rise into
+the air.  The serpents have been spared no detail: from individual scales to
+sharp fangs and a questing tongue, they look as if they were turned from
+flesh to metal.  
+~
+D5
+~
+~
+~
+4 0 15189
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 15181 0 1
+D 0 15181 5 1
+D 0 15182 2 1
+D 0 15189 4 2
+D 0 15192 4 1
+D 0 15199 5 2
+O 0 15184 0 15181
+O 0 15183 0 15183
+O 0 15182 0 15189
+M 0 15181 1 15198 10
+M 0 15182 1 15198 10
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

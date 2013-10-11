@@ -1,0 +1,1725 @@
+#AREADATA
+Name {70 90} Belic   Fortress of Order~
+Builders Belic~
+VNUMs 1751 1800
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#1752
+A knight~
+a knight trainee~
+A young knight goes quietly about his business.
+~
+He is a tall, lean young man.  He stands rigid in his armor.  He handles
+his weapon with purpose, but without confidence.  His suit of armor is a
+bright green and highly polished.  The plume on his helmet is a brightly
+shining gold.  
+~
+human~
+AQ 0 0 0
+70 0 11d443+2036 70d10+100 5d8+22 none
+-17 -17 -17 -15
+DH 0 H K
+(null) (null) female 315
+AHMV ABCDEFGHIJK medium unknown
+#1753
+knight~
+a knight~
+A knight helps out the trainee.
+~
+He appears to be confident.  He stands straight and tall.  His red armor
+glows brightly.  His visor is raised and shows keen eyes.  He looks at you
+and then returns his duty.  
+~
+human~
+AQ 0 0 0
+75 0 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+DH 0 F C
+(null) (null) female 337
+AHMV ABCDEFGHIJK medium unknown
+#1754
+sarah~
+Sarah~
+Sarah smiles happily as she waits for her students.
+~
+She is a tall, elegant woman.  Her beauty radiates from her face and her
+smile puts you at ease.  She has a small tattoo just over her wrist.  The
+tattoo is written in a fine script in a language that you cannot understand.
+She sees your look and pulls her glove back up to cover the mark.  
+~
+human~
+ABN 0 0 0
+72 0 11d484+2141 72d10+100 5d9+22 punch
+-18 -18 -18 -16
+0 0 0 0
+(null) (null) either 324
+AHMV ABCDEFGHIJK medium unknown
+#1755
+student~
+a student~
+A student prepares for the coming class.
+~
+He is a small, young looking fellow.  He appears to be in his late teens.
+He is wiry and lacks alot of muscular development.  He has a small sign of a
+bread trying to grow out oh his face.  He seems more interested in his books
+than in you.  
+~
+human~
+A 0 0 0
+72 0 11d484+2141 72d10+100 5d9+22 none
+-18 -18 -18 -16
+H 0 0 0
+(null) (null) female 324
+AHMV ABCDEFGHIJK medium unknown
+#1756
+guard~
+a guard~
+A guard watches quietly.
+~
+He is an intimidating figure.  He is tall and heavily built.  His armor
+emcompasses his entire body.  His armor shows no signs of dents or
+scratches.  He stands proud and waits for any trouble that may come.  
+~
+human~
+AQ 0 0 0
+76 0 11d574+2358 76d10+100 5d9+24 lunge
+-20 -20 -20 -18
+0 0 0 0
+(null) (null) female 342
+AHMV ABCDEFGHIJK medium unknown
+#1757
+guard~
+a guard~
+A guard watches the horizon.
+~
+He is an intimidating figure.  He is tall and heavily built.  His armor
+emcompasses his entire body.  His armor shows no signs of dents or
+scratches.  He stands proud and waits for any trouble that may come.  
+~
+human~
+AQ 0 0 0
+77 0 11d599+2414 77d10+100 5d9+25 lunge
+-20 -20 -20 -18
+0 0 0 0
+(null) (null) female 346
+AHMV ABCDEFGHIJK medium unknown
+#1758
+student~
+a student~
+A student studies his notes carefully.
+~
+He is adorned in simple robes.  His head is shaved, as is the rest of his
+body.  His face is plain and very pale.  He looks back and forth between his
+notes, making small notations occasionally on the page.  
+~
+human~
+A 0 0 0
+74 0 11d528+2248 74d10+100 5d9+23 digestion
+-19 -19 -19 -17
+H 0 0 0
+(null) (null) female 333
+AHMV ABCDEFGHIJK medium unknown
+#1759
+laris tower watchman~
+Laris~
+Laris watches his surroundings carefully.
+~
+He is a short, stout man.  His body armor seems to cover his body
+tightly.  His golden armor gleams brightly.  He is in full armor, keeping
+himself completely concealed from you.  
+~
+human~
+ABQ 0 0 0
+80 0 11d677+2588 80d10+100 5d10+24 peck
+-21 -21 -21 -19
+CHI 0 0 0
+(null) (null) male 360
+AHMV ABCDEFGHIJK medium unknown
+#1760
+teacher wilcort~
+Wilcort~
+Wilcort stands teaching his pupils.
+~
+He is youthful looking for an elderly man.  His hair is grey around the
+temples.  His flowing red robe gives him the appearance of wisdom unspoken. 
+He waits patiently for his students to provide answers.  
+~
+human~
+ABN 0 0 0
+75 0 11d551+2303 75d10+100 5d9+24 punch
+-19 -19 -19 -17
+DH 0 0 0
+(null) (null) female 337
+AHMV ABCDEFGHIJK medium unknown
+#1761
+Carlia~
+Carlia~
+Carlia awaits her next session.
+~
+She is a tall, young lady.  Her long, flowing blonde hair is pulled up
+into a tight ponytail.  Her clothing is simple and leaves little to be
+envious about.  She taps her cheek thoughtfully as she returns to the board.
+~
+human~
+ABN 0 0 0
+85 0 12d823+2891 85d10+100 5d10+25 punch
+-23 -23 -23 -21
+0 0 0 0
+(null) (null) either 382
+AHMV ABCDEFGHIJK medium unknown
+#1762
+Zalthanas~
+Zalthanas~
+Zalthanas searches the mountainside.
+~
+He is a tall, lean man.  His armor is form fitting and seems to be
+clinging to his body.  His golden armor gleams brightly.  He is in full
+armor and pays no attention to your entrance.  
+~
+human~
+AQ 0 0 0
+86 0 12d855+2954 86d10+100 5d10+26 digestion
+-24 -24 -24 -22
+DEH 0 0 0
+(null) (null) male 387
+AHMV ABCDEFGHIJK medium unknown
+#1763
+Lestra~
+Lestra~
+Lestra watches over her class.
+~
+She is a short, older woman.  Her hair is silver and her face is plain. 
+Thick glasses cover her face and give her a look of extreme intelligence. 
+She is dressed in simple robes.  She looks at you and smiles.  
+~
+human~
+ABN 0 0 0
+88 0 12d921+3083 88d10+100 5d10+27 punch
+-25 -25 -25 -22
+0 0 0 0
+(null) (null) either 396
+AHMV ABCDEFGHIJK medium unknown
+#1764
+Nicole~
+Nicole~
+Nicole awaits the arrival of her class.
+~
+She is a blonde beauty.  Her hair cascades down over her shoulders.  She
+moves gracefully through the classroom and put things back in place.  Her
+robe hangs loosely and she hums a happy melody.  
+~
+human~
+ABN 0 0 0
+89 0 12d955+3148 89d10+100 5d11+28 punch
+-25 -25 -25 -23
+0 0 0 0
+(null) (null) either 400
+AHMV ABCDEFGHIJK medium unknown
+#1765
+Morrell~
+Morrell~
+Morrell watches for attackers.
+~
+He is a very large man.  He wears a small amount of armor to protect his
+body.  Unlike the other tower watchmen, he refuses to wear a helm.  You can
+see the scars that crisscross his face.  His bald head gives him a comical
+look, but the look in his eyes makes you think twice about laughing.  
+~
+human~
+AQ 0 0 0
+85 0 12d823+2891 85d10+100 5d10+25 digestion
+-23 -23 -23 -21
+CEH 0 0 0
+(null) (null) female 382
+AHMV ABCDEFGHIJK medium unknown
+#1766
+Larsa~
+Larsa~
+Larsa studies the horizon.
+~
+Decked in full armor, he is an imposing figure.  He is tall and appears
+to be extremely stout.  His armor shines brightly, almost to the point that
+your reflection is not distorted at all.  He reaches for his weapon as you
+enter.  
+~
+human~
+AQ 0 0 0
+88 0 12d921+3083 88d10+100 5d10+27 digestion
+-25 -25 -25 -22
+DH 0 0 0
+(null) (null) female 396
+AHMV ABCDEFGHIJK medium unknown
+#1767
+Gilum~
+Gilum~
+Gilum stands guard.
+~
+A tall, thin man stands guard here.  He is heavily armored from head to
+toe.  He does not appear to be strong, or look all that imposing.  Unlike
+the other watchmen, his armor has a dull color to it.  You hear a muffled
+laugh when he looks at you.  
+~
+human~
+AQ V 0 0
+90 0 12d991+3214 90d10+100 5d11+28 digestion
+-25 -25 -25 -23
+H 0 0 0
+(null) (null) female 405
+AHMV ABCDEFGHIJK medium unknown
+#1768
+guard~
+guard~
+The guard walks the wall.
+~
+Clad in full armor this guard patrols, keeping an eye on the walls and the 
+surrounding mountains.  Judging by the look of his equipment, he is skilled. 
+ 
+~
+human~
+AQ 0 0 0
+80 0 11d677+2588 80d10+100 5d10+24 none
+-21 -21 -21 -19
+DH 0 0 0
+(null) (null) female 360
+AHMV ABCDEFGHIJK medium unknown
+#1769
+student~
+student~
+A student is deep in concentration.
+~
+She is dressed in a simple hooded robe.  The robe is pulled up to conceal
+her looks from you.  The color of her hands suggest that she seldom gets out
+into the sun.  She is deep in concentration and does not notice your
+entrance.  
+~
+human~
+ABQ 0 0 0
+80 0 11d677+2588 80d10+100 5d10+24 digestion
+-21 -21 -21 -19
+H 0 0 0
+(null) (null) either 360
+AHMV ABCDEFGHIJK medium unknown
+#1770
+student~
+student~
+A student sits here quietly.
+~
+He wears a simple robe.  The hood is pulled down to reveal a perfectly
+shaved head.  His hands are folded across his chest and his hands are hidden
+within the sleeves.  His head is lower and he hums lightly.  
+~
+human~
+ABQ 0 0 0
+82 0 11d733+2706 82d10+100 5d10+25 digestion
+-22 -22 -22 -20
+EH 0 0 0
+(null) (null) female 369
+AHMV ABCDEFGHIJK medium unknown
+#1771
+guard~
+guard~
+A guard walks the wall.
+~
+He stands quietly watching over the wall.  He seems a little worried that
+something may happen.  His pace is a little to fast and his eyes dart back
+and forth.  He immediately snaps to attention on your approach.  
+~
+human~
+AQ 0 0 0
+77 0 11d599+2414 77d10+100 5d9+25 digestion
+-20 -20 -20 -18
+DH 0 0 0
+(null) (null) female 346
+AHMV ABCDEFGHIJK medium unknown
+#1787
+guard~
+a warrior~
+A guard watches silently from his post.
+~
+A young, spry warrior walks along the wall, scanning out into the
+distance.  His yellow armor reflects the light from the sun and makes it
+hard for you to look directly at him.  He carries his helm under his arm and
+you can determine that his head has been shaved clean.  He nods at you
+slightly and returns to watching the horizon.  
+~
+human~
+ABQ 0 0 0
+74 0 11d528+2248 74d10+100 5d9+23 digestion
+-36 -36 -36 -13
+0 0 0 0
+(null) (null) female 333
+AHMV ABCDEFGHIJK medium unknown
+#1788
+warrior~
+a warrior~
+The warrior watches over the fortress wall.
+~
+A young, spry warrior walks along the wall, scanning out into the
+distance.  His yellow armor reflects the light from the sun and makes it
+hard for you to look directly at him.  He carries his helm under his arm and
+you can determine that his head has been shaved clean.  He nods at you
+slightly and returns to watching the horizon.  
+~
+human~
+ABQ 0 0 0
+75 0 11d551+2303 75d10+100 5d9+24 digestion
+-37 -37 -37 -13
+0 0 0 0
+(null) (null) female 337
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#1751
+mace~
+a green mace~
+A perfectly formed mace lays here.~
+unknown~
+weapon 0 AN
+staff 9 15 peck 0
+70 3 350 P
+#1752
+suit of armor~
+a suit of green armor~
+A suit of green armor has been polished to a shine.~
+unknown~
+armor 0 AD
+ABD ABD ABD AB 0
+70 5 350 P
+#1753
+red armor~
+a suit of red armor~
+A suit of shiny red armor.~
+unknown~
+armor 0 AD
+CD CD CD AB 0
+75 8 375 P
+#1754
+flail~
+a flail~
+A red flail looks dangerous.~
+unknown~
+weapon 0 AN
+axe 11 13 scratch 0
+75 5 375 P
+#1755
+green robe~
+a green robe~
+A green robe hangs neatly here.~
+unknown~
+armor 0 AV
+CD CD CD AB 0
+75 0 375 P
+#1756
+book~
+book~
+A book lays here.~
+unknown~
+treasure 0 0
+0 0 0 0 0
+0 1 700 P
+E
+book~
+I heard first-hand the tale of Sunrise, and of her task. The priests
+have begun to talk of prophecies come true, and the return of true
+monarchy.
+ 
+I did not believe them. Until I ventured into the heart of Cameria. I
+was attacked by some Daemic priests who fled during battle. I chased
+them down to the bowels of the destroyed city where I was, in turn,
+cornered. The ensuing battle was something of personal legend, and I
+dispatched them all to their Gods.
+ 
+I recovered there for many days, hiding in the depths of their lair.
+These strange creatures, described by Davis, were everywhere, unlike 
+anything I had seen before. Occasionally I would see a human-type
+walking with them. He had the air of authority, and the creatures
+obeyed him.
+ 
+When I was rested, and in the dead of night, when these creatures were
+wandering Cameria, I followed the human creature. I found his lair, and
+with the aid of my professional skills, I killed him in his sleep, along
+with his servant. These were the creatures Sunrise and Davis talked
+about, and to prove it, I found the body of their friend Justin.
+I have the Ring of Order.
+ 
+I prised it from the finger of the corpse of the human creature. From my
+many nights there, I believe he was amassing an army, to what end I do
+not know, but the numbers were growing and all were compelled to do his
+bidding.
+ 
+The priests have foretold this, the Gods have orchestrated it, and now
+I must complete it.  I feel I have been chosen to be King, and with this
+Ring I can restore order to the land.
+ 
+Tanos.
+~
+#1757
+golden armor~
+golden armor~
+Golden armor shines brightly.~
+unknown~
+armor 0 AD
+ABCD ABCD ABCD C 0
+90 0 450 P
+#1758
+grappler mace~
+grappler~
+A wicked looking mace-like object is laying here.~
+unknown~
+weapon 0 AN
+staff 14 12 claw 0
+90 0 450 P
+#1759
+notes~
+notes~
+Carefully scribed notes lay here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+80 0 800 P
+#1760
+red robe~
+a red robe~
+A finely stitched robe hangs here.~
+unknown~
+armor 0 AV
+CD CD CD AB 0
+75 5 375 P
+#1761
+noisemaker whip~
+noiseMaker~
+A nasty looking whip.~
+unknown~
+weapon 0 AN
+flail 14 12 scratch 0
+90 0 450 P
+#1762
+spear~
+a spear~
+A blue spear lays here.~
+unknown~
+weapon 0 0
+dagger 11 13 crunch 0
+75 0 375 P
+#1763
+ribsplitter axe large~
+ribSplitter~
+A large and deadly axe with the word "RibSplitter" crafted on the blade sits here.~
+unknown~
+weapon 0 AN
+mace 14 12 lunge 0
+90 0 450 P
+#1764
+yellow robe~
+yellow robe~
+A yellow robe is folded neatly.~
+unknown~
+armor 0 AV
+BCD BCD BCD C 0
+85 0 425 P
+#1765
+dull armor~
+dull colored armor~
+A well worn suit of armor.~
+unknown~
+armor 0 AD
+ABCD ABCD ABCD C 0
+90 0 450 P
+#1766
+redmist flail~
+redMist~
+A wicked looking flail.~
+unknown~
+weapon 0 AN
+axe 14 12 crush 0
+90 0 450 P
+#1767
+dark red robe~
+dark red robe~
+A dark red robe hangs neatly here.~
+unknown~
+armor 0 AV
+ACD ACD ACD C 0
+82 0 410 P
+#1768
+Deathbringer~
+deathbringer~
+A nasty looking weapon.~
+unknown~
+weapon ACJT AN
+exotic 14 12 slap 0
+90 0 450 P
+#1770
+star dagger~
+a star dagger~
+A star has been shaped into the form of a dagger.~
+unknown~
+weapon ABG AN
+bow 12 16 crunch DJ
+100 1 500 P
+A
+18 10
+A
+19 10
+A
+13 35
+#1788
+blue armor~
+blue armor~
+A suit of blue armor hangs here.~
+unknown~
+armor 0 AD
+CD CD CD AB 0
+74 0 370 P
+#1799
+bathtub~
+double axe~
+A heavy axe~
+unknown~
+portal 0 AO
+0 0 0 0 0
+100 0 0 P
+#0
+
+
+
+#ROOMS
+#1751
+Before the Main Gate~
+You stand before the massive gates of a large fortress.  Symbols are
+carved into the walls in an ancient language.  The carvings are delicate and
+artful.  You find it hard to move your eyes away from the words on the wall.
+A feeling of order seems to sweep through the mountain valley up to the
+gates.  You finally tear your eyes away from the wall and look at your
+surroundings.  You can track back up the mountain path or try to gain entry
+through the gate before you.  
+~
+0 262144 2
+D0
+~
+gate~
+~
+1 0 1752
+D4
+~
+~
+~
+0 0 1797
+M 0 H 0
+S
+#1752
+Inside the Courtyard~
+You are now standing in a large courtyard just beyond the gates.  The
+yard is in seemingly perfect condition.  Small trees stand in the center of
+the yard, ringed by small circles of stones.  The small branches of the
+trees hang over benches to provide shade when in use.  The walls of the
+fortress are decorated with banners that hang down from the top of the
+walls.  Each banner hangs over an individual hall and has different colors
+and symbols on them.  You can venture to one of the halls to the west or
+east, travel further into the courtyard to the north or back out the gate to
+the south.  
+~
+0 262144 0
+D0
+~
+~
+~
+0 0 1754
+D1
+~
+~
+~
+0 0 1753
+D2
+~
+~
+~
+1 0 1751
+D3
+~
+~
+~
+0 0 1755
+M 0 H 0
+S
+#1753
+Hallway of Courage~
+You slip easily into the fortress wall through the tunnel entrance.  The
+wall is a light green color that has a bronze bull painted to the center of
+the floor.  A silver plaque has been set into the hall wall just at the
+entrance.  The hall continues to the east and the courtyard is to the west. 
+~
+0 262144 0
+E
+plaque~
+Courage is the strength to stand alone when times require.  
+~
+D1
+~
+~
+~
+0 0 1756
+D3
+~
+~
+~
+0 0 1752
+M 0 H 0
+S
+#1754
+The Courtyard~
+You find yourself in the heart of the fortress.  A large tree grows in
+the very center of the courtyard.  The yard is well groomed and the paths
+leading to the tree are extensive stonework.  The tree offers a great amount
+of shade, but no benches or tables surround the tree.  The stone paths lead
+in each of the cardinal directions.  
+~
+0 262144 0
+D0
+~
+~
+~
+0 0 1765
+D1
+~
+~
+~
+0 0 1763
+D2
+~
+~
+~
+0 0 1752
+D3
+~
+~
+~
+0 0 1764
+M 0 H 0
+S
+#1755
+Hallway of Faith~
+You slip easily into the wall of the fortress through the tunnel
+entrance.  The wall is a light blue color that has a golden lion painted to
+the center of the floor.  A golden plaque has been set into the hall wall
+near the entrance.  The hall continues to the west while the courtyard waits
+to the east.  
+~
+0 262152 0
+E
+plaque~
+Let those with Faith lead the way.  
+~
+D1
+~
+~
+~
+0 0 1752
+D3
+~
+~
+~
+0 0 1760
+M 0 H 0
+S
+#1756
+Along the Hallway of Courage~
+The stones of the hallway glow with a dark green color.  The hallway
+feels cool, as if a wind sweeps through the hallway upon your entrance.  The
+glow is brighter to the east, near a classroom.  The hallway returns toward
+the courtyard to the west.  
+~
+0 262152 0
+D1
+~
+~
+~
+0 0 1757
+D3
+~
+~
+~
+0 0 1753
+M 0 H 0
+S
+#1757
+Classroom of Courage~
+The walls are a deep green that seem to be illuminated by an interior
+source.  The walls provide enough light that lanterns are not needed.  One
+person benches are stacked near the black granite slate that serves as a
+chalk board.  Black rungs have been placed into the wall leading upward. 
+The only other way out is to the west.  
+~
+0 262152 0
+D3
+~
+~
+~
+0 0 1756
+D4
+~
+~
+~
+0 0 1758
+M 0 H 0
+S
+#1758
+Tower of Courage~
+This part of the tower provides access to all of the upper level of the
+fortress.  The tower opens to walkways to the north and west.  Arches have
+been cut into the walls of the tower in the western and southern walls. 
+Blank metal rungs are embedded into the wall, leading up and down.  
+~
+0 262156 0
+D0
+~
+~
+~
+0 0 1789
+D3
+~
+~
+~
+0 0 1783
+D4
+~
+~
+~
+0 0 1781
+D5
+~
+~
+~
+0 0 1757
+M 0 H 0
+S
+#1759
+~
+~
+0 4 0
+M 0 H 0
+S
+#1760
+Along the Hallway of Faith~
+The hallway glows with a faint light from an unknown source.  The glow
+brings to life the pale blue of the walls.  The color seems to swirl about
+the wall, moving as if clouds in the sky.  The movements on the wall seem to
+be trying to form a message, one that seems to be just beyond your
+understanding.  A small classroom seems to be to the west.  
+~
+0 262152 0
+D1
+~
+~
+~
+0 0 1755
+D3
+~
+~
+~
+0 0 1761
+M 0 H 0
+S
+#1761
+Classroom of Faith~
+The western corner of the fortress is a large classroom.  Benches face
+the far wall in a semi circular shape.  Each bench is spaced the exact same
+distance from the one beside it, behind it and before it.  A slate hangs
+upon the wall with writing upon it.  Almost hidden in the southern corner is
+a stairwell that disappears into the the fortress wall that leads upwards.  
+~
+0 262152 0
+D1
+~
+~
+~
+0 0 1760
+D4
+~
+~
+~
+0 0 1762
+M 0 H 0
+S
+#1762
+Tower of Faith~
+The tower seems to be an interchange.  The tower has openings to the
+north and east that leads out to the top of the walls.  A rack of weapons
+are stacked neatly against the western wall.  A wooden staircase leads up to
+the rafters while a stone staircase leads down.  
+~
+0 262156 0
+D0
+~
+~
+~
+0 0 1792
+D1
+~
+~
+~
+0 0 1788
+D4
+~
+~
+~
+0 0 1782
+D5
+~
+~
+~
+0 0 1761
+M 0 H 0
+S
+#1763
+Fountain Beside the Wall~
+This part of the courtyard is cool and shaded.  The grass is soft and
+plush, offering a comfortable place to rest.  A fountain stands close to the
+water.  The water bubbles and splashes, producing a soothing sound.  The
+pathway leads you back to the west and the tree.  
+~
+0 262144 0
+D3
+~
+~
+~
+0 0 1754
+M 0 H 0
+S
+#1764
+Beside the Wall~
+A training area has been set up here to allow the students to train in
+the art of war.  Realistic dummies line the wall in various different
+fighting stances.  The dummies at the end are set upon turnable tables,
+allowing them to swing as if in attack.  The only exit is east back to the
+tree.  
+~
+0 262144 0
+D1
+~
+~
+~
+0 0 1754
+M 0 H 0
+S
+#1765
+The Courtyard~
+The courtyard is neatly kept.  The stones are laid intricately in a
+crisscross pattern.  Hallways open up into the fortress to the north, east
+and west of your current location.  South leads back to a larger section of
+the courtyard.  
+~
+0 262144 0
+D0
+~
+~
+~
+0 0 1768
+D1
+~
+~
+~
+0 0 1766
+D2
+~
+~
+~
+0 0 1754
+D3
+~
+~
+~
+0 0 1767
+M 0 H 0
+S
+#1766
+Hallway of Obedience~
+The walls of the hallway is a faint yellow in color.  Itched deeply in
+the center of the hall floor is a platinum horse.  A golden plaque has been
+position at the entrance to the hallway.  A soft glow comes from the end of
+the hallway to the east.  A simple lantern glows from the west, showing the
+way back to the courtyard.  
+~
+0 262152 0
+E
+plaque~
+Obedience leads the heart strong.  
+~
+D1
+~
+~
+~
+0 0 1769
+D3
+~
+~
+~
+0 0 1765
+M 0 H 0
+S
+#1767
+Hallway of Duty~
+You enter a cool hallway that is faintly red in color.  It seems as if
+the walls are whispering something to you.  You search the stones for an
+opening that may be hiding someone but find nothing.  As you step back from
+the wall, you see an ivory eagle carved and placed neatly in the center of
+the floor.  A golden plaque hangs the southern wall of the hall entrance. 
+The hallway continue to the west and out to the courtyard to the east.  
+~
+0 262152 0
+E
+plaque~
+Duty will never lead you astray.  
+~
+D1
+~
+~
+~
+0 0 1765
+D3
+~
+~
+~
+0 0 1772
+M 0 H 0
+S
+#1768
+Hallway of Order~
+You are standing in a wide, golden colored hallway.  A platinum plaque
+hangs at the beginning of the hall on each wall.  The hall way gives off a
+special vibe, a feeling that you are standing in a powerful place.  A place
+of importance.  The hallway continues north.  
+~
+0 262152 0
+E
+plaque~
+One simple word:
+Order
+~
+D0
+~
+~
+~
+0 0 1775
+D2
+~
+~
+~
+0 0 1765
+M 0 H 0
+S
+#1769
+Along the Hallway of Obedience~
+The walls glow a deep golden yellow.  A fine script appears to be
+carefully etched into the stones.  Your eyes seem to be glued to a light
+that glows brightly from the east.  You feel that you need to continue to
+head to the classroom to the east rather than going west.  
+~
+0 262152 0
+D1
+~
+~
+~
+0 0 1770
+D3
+~
+~
+~
+0 0 1766
+M 0 H 0
+S
+#1770
+Classroom of Obedience~
+You enter a small classroom.  There are no tables nor chairs, just mats
+that lay in neat rows upon the floor.  The eastern wall has a small alter
+carved into it.  A large oval gem shines brightly upon the alter.  A stone
+staircase carved into the northern wall leads to an upper level.  
+~
+0 262152 0
+D3
+~
+~
+~
+0 0 1769
+D4
+~
+~
+~
+0 0 1771
+M 0 H 0
+S
+#1771
+Tower of Obedience~
+The tower opens into a walkway on the top of the walls of the fortress. 
+The stones are well worn, suggesting that may have traveled this way.  A
+staircase to the west leads upward, while the staircase near the south wall
+leads down.  
+~
+0 262156 0
+D1
+~
+~
+~
+0 0 1796
+D2
+~
+~
+~
+0 0 1791
+D4
+~
+~
+~
+0 0 1779
+D5
+~
+~
+~
+0 0 1770
+M 0 H 0
+S
+#1772
+Along the Hallway of Duty~
+The walls glow a deep, dark red.  The hallway seems to be illuminated by
+the very stones of the wall.  Even the stones beneath your feet glow with a
+soft light.  The glow from the west is so bright than you need to shield
+your eyes.  You can continue down the hall to the west and the light or
+venture east to escape.  
+~
+0 262152 0
+D1
+~
+~
+~
+0 0 1767
+D3
+~
+~
+~
+0 0 1773
+M 0 H 0
+S
+#1773
+Classroom of Duty~
+The classroom is very small.  It is just a small squared room without any
+furnishings.  A simple flame burns in the far wall, casting a bright glow
+throughout the room.  Small nooks have been carved into the wall in the
+shape of a ladder that leads to the upper level.  The only other way out is
+back down the hallway.  
+~
+0 262152 0
+D1
+~
+~
+~
+0 0 1772
+D4
+~
+~
+~
+0 0 1774
+M 0 H 0
+S
+#1774
+Tower of Duty~
+The tower serves as a staging area for defense of the fortress.  The
+tower opens to the south and to the west, for easy access to the walls.  A
+ladder that has been carved into the wall goes both up an down.  
+~
+0 262156 0
+D2
+~
+~
+~
+0 0 1790
+D3
+~
+~
+~
+0 0 1793
+D4
+~
+~
+~
+0 0 1780
+D5
+~
+~
+~
+0 0 1773
+M 0 H 0
+S
+#1775
+Along the Hallway of Order~
+The golden colored walls shine brightly.  They seem to glow with an
+energy that you can actually feel radiating from the surface of the smooth
+stone.  A brilliant glow comes from the north.  From this point, you can
+travel north and south.  
+~
+0 262152 0
+D0
+~
+~
+~
+0 0 1776
+D2
+~
+~
+~
+0 0 1768
+M 0 H 0
+S
+#1776
+Classroom of Order~
+The room is very large.  The walls are made polished in gold.  The leaves
+of gold are fitted together seamlessly.  Along the northern wall is a
+lifesize statues of six beings.  Each represents a different race.  A stone
+stone staircase has been carved into the eastern wall.  
+~
+0 262152 0
+D2
+~
+~
+~
+0 0 1775
+D4
+~
+~
+~
+0 0 1777
+M 0 H 0
+S
+#1777
+Tower of Order~
+The tower rises straight up into the air.  The bright glow of the gold on
+the wall illuminates your steps.  The stairway continues up to the top of
+the tower and back down to a brightly lit chamber.  
+~
+0 262152 0
+D4
+~
+~
+~
+0 0 1778
+D5
+~
+~
+~
+0 0 1776
+M 0 H 0
+S
+#1778
+Top of the Tower of Order~
+You are at the top of the tower.  The tower offers a view in every
+direction.  From your vantage point, you can see the other four towers of
+the fortress, the courtyard and all the lands outside the tower wall.  An
+open trap door offers the only way down.  
+~
+0 262144 0
+D5
+~
+~
+~
+0 0 1777
+M 0 H 0
+S
+#1779
+Top of the Tower of Obedience~
+The top of the tower offers a commanding view of the surrounding area.  A
+square box has been up ended and placed as a seat in the center of the
+tower.  A silver bell hangs from the ceiling, waiting to be rung.  
+~
+0 262152 0
+D5
+~
+~
+~
+0 0 1771
+M 0 H 0
+S
+#1780
+Top of the Tower of Duty~
+The top of the tower offers a commanding view of the surrounding area. 
+Small handles have been mounted in the tower wall to provide leverage.  A
+small silver bell hangs from the ceiling, waiting to be rung.  
+~
+0 262152 0
+D5
+~
+~
+~
+0 0 1774
+M 0 H 0
+S
+#1781
+Top of the Tower of courage~
+The top of the tower offers a grand view in every direction.  A metal bar
+protrudes out from the wall in each of the four corners.  A silver bell is
+hung from the ceiling, waiting to be rung if any sign of danger appears.  
+~
+0 262152 0
+D5
+~
+~
+~
+0 0 1758
+M 0 H 0
+S
+#1782
+Top of the Tower of Faith~
+Wind whips through the top of the tower at a maddening pace.  The stones
+have been smoothed by the force of the wind over the years.  A guard post
+stands near the center of the tower, offering a commanding view of the
+surrounding area.  A small silver bell hangs from the ceiling, waiting to be
+rung.  The quickest way down is out one of the arches, the safest is down
+the stairs.  
+~
+0 262152 0
+D5
+~
+~
+~
+0 0 1762
+M 0 H 0
+S
+#1783
+On the Wall~
+This part of the wall seems to be heavily fortified.  The entrance to a
+tower is to the east and the heavy stones that make up the tower serve as
+part of the stones that make up the wall here.  Many weapons lay stacked
+neatly in a wooden case closed to the tower entrance.  
+~
+0 262144 0
+D1
+~
+~
+~
+0 0 1758
+D3
+~
+~
+~
+0 0 1784
+M 0 H 0
+S
+#1784
+On the Wall~
+The walkway continues on the top of the fortress wall.  A pile of boards
+are stacked neatly next to the fortress wall.  A few stones seem to be
+missing from the wall close to the base in well chosen spots.  The path on
+the wall continues to the east and west.  
+~
+0 262144 0
+D1
+~
+~
+~
+0 0 1783
+D3
+~
+~
+~
+0 0 1785
+M 0 H 0
+S
+#1785
+On the Wall~
+The wall is higher than normal here.  The walkway has a downward slope to
+it from the highest point on the wall.  The few grooves in the wall are cut
+completely through the fortress wall.  A lance is wedged into one of the
+grooves.  
+~
+0 262144 0
+D1
+~
+~
+~
+0 0 1784
+D3
+~
+~
+~
+0 0 1786
+M 0 H 0
+S
+#1786
+On the Wall~
+The wall seems to be higher than normal here.  The walkway on the wall
+slopes upward slightly.  Small grooves have been carved completely through
+the stones, offering the defender to fire through the wall without every
+being exposed.  Scratches appear on the wall beside the grooves, serving as
+a symbol to some unknown event.  
+~
+0 262144 0
+D1
+~
+~
+~
+0 0 1785
+D3
+~
+~
+~
+0 0 1787
+M 0 H 0
+S
+#1787
+On the Wall~
+The wall offers protection to the defender.  Many well worn stones show
+where many a defender has stood watching over the fortress.  A few stones
+are chipped and even more have dried blood covering them.  A stone has been
+positioned near the wall in a crude form of a seat.  The wall continues to
+the east and the west.  
+~
+0 262144 0
+D1
+~
+~
+~
+0 0 1786
+D3
+~
+~
+~
+0 0 1788
+M 0 H 0
+S
+#1788
+On the Wall~
+The top of the wall serves as an easily defended point.  The walls are
+high enough to give protection to the defender.  Long pikes lay next to the
+wall to push any ladders away that are laid against the wall in an invasion.
+There is a black kettle with a thick substance hanging just next to the
+entrance to the tower.  
+~
+0 262144 0
+D1
+~
+~
+~
+0 0 1787
+D3
+~
+~
+~
+0 0 1762
+M 0 H 0
+S
+#1789
+On the Wall~
+The outer wall raises about three feet above the walkway.  Small spikes
+appear in regular intervals along the top of the outer wall.  A few of the
+spikes have dried blood on them.  The inner wall is only about a foot high. 
+You see a training area below the inner wall.  The walkway continues to the
+north and back into a tower to the south.  
+~
+0 262144 0
+D0
+~
+~
+~
+0 0 1790
+D2
+~
+~
+~
+0 0 1758
+M 0 H 0
+S
+#1790
+On the Wall~
+The outer wall raises about three feet above the walkway.  Small spikes
+appear in regular intervals along the top of the outer wall.  A few of the
+spikes have dried blood on them.  The inner wall is only about a foot high. 
+You see a training area below the inner wall.  The walkway continues to the
+south and back into a tower to the north.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 1774
+D2
+~
+~
+~
+0 0 1789
+M 0 H 0
+S
+#1791
+On the Wall~
+The outer wall raises about three feet above the walkway.  Small spikes
+appear in regular intervals along the top of the outer wall.  The inner wall
+is only about a foot high.  You can see a fountain below the inner wall. 
+The walkway continues to the south and back into a tower to the north.  
+~
+0 262144 0
+D0
+~
+~
+~
+0 0 1771
+D2
+~
+~
+~
+0 0 1792
+M 0 H 0
+S
+#1792
+On the Wall~
+The outer wall raises about three feet above the walkway.  Small spikes
+appear in regular intervals along the top of the outer wall.  A few of the
+spikes have dried blood on them.  The inner wall is only about a foot high. 
+You can see a fountain below the inner wall.  The walkway continues to the
+north and back into a tower to the south.  
+~
+0 262144 0
+D0
+~
+~
+~
+0 0 1791
+D2
+~
+~
+~
+0 0 1762
+M 0 H 0
+S
+#1793
+On the Wall~
+This is a short walkway connecting the tower to the east to the giant
+tower to the west.  The outer wall is high and offers complete protection
+from the outside.  The inner wall is slightly over a foot in height and
+comes to an abrupt end just short of the giant tower.  
+~
+0 262144 0
+D1
+~
+~
+~
+0 0 1774
+D3
+~
+~
+~
+0 0 1794
+M 0 H 0
+S
+#1794
+On the Wall~
+The wall continues behind the giant tower.  Nothing can be seen because
+of the tower itself, but provides complete protection.  Wooden weapon racks
+stand next to the tower wall.  Every weapon type is available here.  
+~
+0 262144 0
+D1
+~
+~
+~
+0 0 1793
+D3
+~
+~
+~
+0 0 1795
+M 0 H 0
+S
+#1795
+On the Wall~
+The wall continues behind the giant tower.  Nothing can be seen because
+of the tower itself, but provides complete protection.  Wooden weapon racks
+stand next to the tower wall.  Every weapon type is available here.  
+~
+0 262144 0
+D1
+~
+~
+~
+0 0 1794
+D3
+~
+~
+~
+0 0 1796
+M 0 H 0
+S
+#1796
+On the Wall~
+This is a short walkway connecting the tower to the west to the giant
+tower to the east.  The outer wall is high and offers complete protection
+from the outside.  The inner wall is slightly over a foot in height and
+comes to an abrupt end just short of the giant tower.  
+~
+0 262144 0
+D1
+~
+~
+~
+0 0 1795
+D3
+~
+~
+~
+0 0 1771
+M 0 H 0
+S
+#1797
+Edge of the Cliff~
+You stand on the edge of the cliff overlooking a fortress.  A pathway to
+the east gradually descends to the valley below.  The pathway leads back
+into the mountains to the south.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 1798
+D5
+~
+~
+~
+0 0 1751
+M 0 H 0
+S
+#1798
+Mountain Pass~
+The mountain pass cuts continues to the north.  It is a small path,
+littered with thorns and large rocks that make the travel difficult.  A few
+pieces of rusted iron lay discarded along the path in the tall weeds.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 1797
+D2
+~
+~
+~
+0 0 1799
+M 0 H 0
+S
+#1799
+Mountain Pass~
+A small path travels off toward the north through the mountain.  The path
+is overgrown, covered in moss and littered with rusted pieces of metal,
+broken shields and worthless equipment.  A faint trail runs north-south
+here.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 1798
+D2
+~
+~
+~
+0 0 11780
+M 0 H 0
+S
+#1800
+~
+~
+0 4 0
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 1754 spec_cast_cleric
+M 1760 spec_cast_cleric
+M 1761 spec_cast_cleric
+M 1763 spec_cast_cleric
+M 1764 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 1751 0 1
+D 0 1752 2 1
+M 0 1752 1 1752 10
+E 0 1752 0 5
+E 0 1751 0 16
+M 0 1753 1 1752 10
+E 0 1753 0 5
+E 0 1754 0 16
+M 0 1754 1 1757 10
+E 0 1755 0 27
+M 0 1755 3 1757 10
+G 0 1756 0
+M 0 1760 1 1761 10
+E 0 1760 0 27
+M 0 1758 4 1761 10
+G 0 1759 0
+M 0 1761 1 1770 10
+E 0 1764 0 27
+M 0 1769 2 1770 10
+M 0 1763 1 1773 10
+E 0 1767 0 5
+M 0 1770 3 1773 10
+M 0 1765 1 1778 10
+E 0 1757 0 5
+E 0 1768 0 16
+M 0 1766 1 1779 10
+E 0 1757 0 5
+E 0 1763 0 16
+M 0 1767 1 1780 10
+E 0 1765 0 5
+E 0 1766 0 16
+M 0 1759 1 1781 10
+E 0 1757 0 5
+E 0 1758 0 16
+M 0 1762 1 1782 10
+E 0 1757 0 5
+E 0 1761 0 16
+M 0 1787 2 1787 10
+E 0 1788 0 5
+E 0 1762 0 16
+M 0 1788 3 1788 10
+E 0 1788 0 5
+E 0 1762 0 16
+M 0 1771 3 1790 10
+E 0 1762 0 16
+M 0 1756 4 1792 10
+E 0 1762 0 16
+M 0 1768 3 1793 10
+E 0 1762 0 16
+M 0 1757 4 1796 10
+E 0 1762 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

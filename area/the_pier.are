@@ -1,0 +1,1393 @@
+#AREADATA
+Name { 5 15} Raakam  The Pier~
+Builders None~
+VNUMs 15500 15550
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#15500
+bat~
+a small bat~
+A small, ugly bat is here, resting on the ceiling.
+~
+It is quite small and ugly.  The little beast is covering itself with its
+grey wings.  Its little {R red {x eyes glint with a mischievous light,
+telling of a certain intelligence.  
+~
+unique~
+A CDEFGJTVZc 0 0
+5 0 1d12+53 5d10+100 1d2+1 crush
+8 8 8 8
+FH 0 PQ DS
+(null) rest male 22
+ACGHMVW ABCDEFGHIJKOPUV small unknown
+#15501
+white bat~
+a white bat~
+A royal {Wwhite{x bat is resting here.
+~
+It is quite large for a bat.  It has a big head, and its long {Yfangs
+{xseem sharp as a dagger.  Its white fur is streaked with red, making its
+species easy to recognize.  
+~
+unique~
+A ACDEFGJTVZac 0 0
+8 0 2d19+93 8d10+100 2d3+1 crush
+7 7 7 7
+DEFHO 0 BPS DS
+rest (null) none 36
+ACGHMVW ABCDEFGHIJKOPUV medium unknown
+#15502
+frothing bat~
+a frothing bat~
+A fierce, black bat is here, foaming at the mouth.
+~
+It is small, and is frothing.  The eyes are glazed, and its shrieks tell
+of a desire to kill.  
+~
+unique~
+A CDEFGJTVZac -300 0
+9 0 2d21+106 9d10+100 2d3+2 grep
+6 6 6 6
+FHRU 0 QS S
+(null) (null) none 40
+ACGHMOVW ABCDEFGHIJKOPUV small unknown
+#15503
+A giant bat~
+a giant bat~
+A giant creature stands here, snarling at those who get close.
+~
+It is incredibly large for a bat, and it is very upset at the fact that
+you have bothered it.  It has gems and other stones encrusted in its thick
+hide, making for an even tougher skin.  The fangs of the beast are dripping
+a {Ggreenish {xooze, the smell of which reeks like that of a corpse.  
+~
+unique~
+A CDEFGJTVZc 0 0
+14 0 5d30+184 14d10+100 2d4+1 crush
+4 4 4 6
+FHM 0 HLQ S
+(null) (null) male 63
+ACGHMVW ABCDEFGHIJKOPUV small unknown
+#15504
+burbot~
+a large burbot~
+A burbot is here, swimming in a shallow pool of water.
+~
+It has a long brownish body, a small chin barbel, and its fins glitter
+like gold.  It is hard to see as it is moving very quickly at the bottom of
+the water.  It suddenly jumps out, grabs a mosquito, and dives back down,
+becoming once more a shadow underwater.  
+~
+water fowl~
+A JTZb 100 0
+5 0 1d12+53 5d10+100 1d2+1 crush
+8 8 8 8
+EKM R LQR H
+(null) (null) none 22
+AGHVW ACDEFHJKOP medium unknown
+#15505
+thief sailor spectre~
+a sailor specter~
+The specter of a young sailor roams aimlessly.
+~
+It is the spectre of a young sailor, wearing a tattoo on his arm, and
+looking mean and angry.  From it emanates a freezing chill.  
+~
+unique~
+A DJTUZ -600 0
+13 0 4d28+168 13d10+100 2d4+0 sting
+5 5 5 7
+EIR 0 ABHIMPQ CNY
+(null) (null) female 58
+CHIKLMV ABCDEFGHIJKLM medium unknown
+#15506
+a phantom parrot~
+a phantom parrot~
+A phantom parrot is here, croaking at no-one.
+~
+It has a bright orange beak, and blood red wings.  Its claws are long and
+curved.  It is incredibly large for a bird.  A small key is hanging from its
+feet.  
+~
+song bird~
+A TU -200 0
+10 0 3d23+120 10d10+100 2d3+2 crush
+6 6 6 6
+FH 0 RS H
+(null) (null) male 45
+AGW ACDEFHKOP medium unknown
+#15508
+Captain Specter~
+a captain specter~
+The specter of a captain stands here, ranting about his ship.
+~
+The spectre is that of a man, looking extremely mad.  He is roaring about
+his ship and how his sailors are incompetents.  
+~
+unique~
+A BJTUZ -700 0
+15 0 5d31+200 15d10+100 2d4+2 peckb
+4 4 4 6
+EIR 0 ABIMQ CNY
+(null) (null) female 67
+CHIKLMV ABCDEFGHIJKLM large unknown
+#15509
+Drunken Keeper~
+the drunken keeper~
+The drunken keeper is sitting here, grinning a toothless smile.
+~
+He is an old, dirty man.  He has obviously been drinking, as he blabbers,
+and rambles about nothing.  He is singing with a raucous voice, and vomits
+about.  
+~
+human~
+A Z -700 0
+15 0 5d31+200 15d10+100 2d4+2 digestion
+4 4 4 6
+EIJ A ABL IQ
+sit (null) female 67
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#15500
+trickle of water~
+a trickle of water~
+A small trickle of {C sparkling water {x meanders by.~
+unknown~
+fountain R 0
+999 999 'water' 0 0
+0 999 25000 R
+#15501
+mushroom~
+a white mushroom~
+A small, {Wwhite {xmushroom grows here, in the {Kshade{x.~
+unknown~
+food 0 AO
+ABCD 0 0 0 0
+1 1 2 P
+#15502
+The Great Discordia~
+the great discordia~
+The Great Discordia river flows here.~
+unknown~
+fountain R 0
+999 999 'water' 0 0
+0 999 0 P
+#15503
+A Pool~
+a small pool~
+This pool is the home of a few burbots.~
+unknown~
+container R 0
+30 0 0 0 0
+0 0 0 P
+#15504
+red Ruby~
+a large {Rred {xruby~
+A big and shiny stone of red can be seen here.~
+unknown~
+treasure AR AO
+0 0 0 0 0
+1 12 10 P
+#15505
+cascade~
+a cascade~
+Water tumbles down from some height here.~
+unknown~
+fountain R 0
+999 999 'water' 0 0
+0 999 0 P
+#15506
+Closet~
+a small closet~
+A small, brown closet, half eaten away.~
+unknown~
+container R 0
+999 AC 0 0 0
+0 999 0 P
+#15507
+Pillow~
+an old pillow~
+An old, worn pillow lays here.~
+unknown~
+furniture R AO
+0 0 0 0 0
+0 2 0 D
+#15508
+A wooden chair~
+a wooden chair~
+An old wooden chair stands here, its frame broken.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 999 1 D
+#15509
+A Bed~
+a small bed~
+The bed is hard, cold and very uncomfortable. The pillow is old and dusty.~
+unknown~
+furniture R 0
+0 0 0 0 0
+1 999 0 W
+#15510
+rusty key~
+a rusted key~
+A small, metal key.~
+unknown~
+key 0 AO
+0 0 0 0 0
+10 2 0 W
+#15511
+tiara~
+a golden tiara~
+A golden tiara lies here, glowing mysteriously.~
+unknown~
+armor AG AE
+A A A 0 0
+9 3 45 P
+A
+12 15
+#15540
+amethyst necklace~
+an amethyst necklace~
+A beautiful amethyst necklace lies here, pulsing mysteriously.~
+unknown~
+protect AG AC
+BC BC BC A 0
+36 2 600 P
+A
+3 2
+A
+12 10
+A
+4 2
+#15548
+Raakam's Butt~
+raakam's butt~
+The {GB{Ru{CT{Yt {xof Raakam lies here, lonely and sad.~
+unknown~
+armor 0 AL
+A A A 0 0
+10 3 50 P
+#15549
+statue of tarl~
+a statue of Tarl~
+A statue of a handsome man stands here, glowing mysteriously.~
+unknown~
+treasure ABR AR
+0 0 0 0 0
+1 0 10 P
+A
+5 1
+A
+3 1
+A
+4 1
+E
+statue~
+The man is well built, and uncannily handsome.  Your twisted little mind
+makes you look "there", and you are NOT disappointed.  
+~
+#15550
+Blond Wig~
+a blond wig~
+A blond wig is here, gloating in its beauty.~
+unknown~
+armor AB AEN
+AE AE AE AC 0
+103 3 515 P
+#0
+
+
+
+#ROOMS
+#15500
+Entrance~
+A small, ugly hole opens in the jagged wall here.  Gently flowing from
+the cavern mouth is a small trickle of spring water.  Beneath the blueish
+stalagmites, the wind can be heard caressing the inner walls, playing a
+soft, whistling tune.  A refreshing breeze gives the place a scent of
+enticing sweetness.  
+~
+0 12 5
+E
+stalagmite~
+They are about a foot long, and are smooth to the touch.
+~
+E
+stalagmite~
+About a foot long, these {b stalagmites {x make for an jagged ceiling, as
+if they were the cave's teeth.  
+~
+E
+stalagmite~
+~
+D0
+You see a long hall before you.  It is hard to make anything out, as it
+is shrouded in darkness.  
+~
+~
+~
+0 0 15501
+D2
+A small ledge of the cliff is there.  
+~
+~
+~
+0 0 15516
+M 0 H 0
+S
+#15501
+Inside the cavern~
+The ceiling is here quite high, and is barely distinguishable.  Ore and
+different {Ysparkling {xrocks are set in the walls, giving the cave its own
+night sky.  The cave forms an uneven corridor that leads in the depths of
+the rock formation.  On the ground, you see some guano, telling of creatures
+that live here.  A small trickle of water flows through the cave, its sound
+echoing on the walls, and reflecting light, giving a {Bblueish {xcast to
+everything.  
+~
+0 9 0
+E
+ceiling~
+Many {Ygems {xare in the ceiling.  Nature has done marvels, as they look
+like constellations.  
+~
+E
+rock~
+There are some {Rgems {xand diverse {Yprecious stones {xbut they are so
+encrusted in the wall that it is impossible to get them out.  
+~
+D0
+The way continues north, strewn with rocks and pebbles.  
+~
+~
+~
+0 0 15502
+D2
+You see light pouring in from the exit.  
+~
+~
+~
+0 0 15500
+M 0 H 0
+S
+#15502
+Along the cave~
+The corridor gains width, and the many stalactites makes progression
+difficult.  Little {Rred {xeyes glint in the dark, and little scratching
+noises can be heard above the soft music of the flowing water.  The
+gemstones are now more numerous, and are encrusted in the ceiling, forming
+entire constellations.  Darkness envelops the north, making it difficult to
+see ahead.  The cave also goes on south, back towards the entrance.  
+~
+0 9 0
+D0
+You can see red glinting eyes, and hear some flapping coming from ahead.  
+~
+~
+~
+0 0 15503
+D2
+There is nothing noticeable.  The way continues south, and a dim light
+can be seen.  
+~
+~
+~
+0 0 15501
+M 0 H 0
+S
+#15503
+Bat nest~
+This part of the cave is slightly bigger.  The room is strewn with
+stalactites and stalagmites, forming rocky pillars, making progression
+difficult.  Some strange chirping noises and soft scratching can be heard,
+from all around.  Hundreds of red glinting eyes can be seen on the ceiling,
+shining with malevolent intent.  The smell is of reeking filth, and the odor
+of sweet decay fills the cave.  Even the flowing water cannot seem to
+cleanse the room.  The cave continues north and south.  
+~
+0 9 0
+D0
+A small passage is seen, leading off to the north.  
+~
+~
+~
+0 0 15504
+D2
+The path continues south, and is enveloped in darkness.  
+~
+~
+~
+0 0 15502
+M 0 H 0
+S
+#15504
+Tight Passage~
+The corridor suddenly shrinks to a small passage.  It is about three feet
+wide, and man-high.  A deep grumble can be heard coming from ahead.  It is
+the sound of rushing water.  In that small corridor, the trickle of water is
+slightly larger, and there is no dry spot.  On the walls of the passage,
+there are many hundreds of {Bsparkling jewels{x, {Yreflecting light{x in
+very complex ways.  The way goes on north, towards the source of the noise. 
+The passage also goes on south, leading into a larger portion of the cave.  
+~
+0 9 0
+E
+jewel~
+They seems to sparkle with life.  The light they hold withing gives a
+soft glow.  But they are deeply incrusted in the wall.  
+~
+D0
+The tight passage continues, and water seems to be coming n larger
+amounts.  
+~
+~
+~
+0 0 15505
+D2
+Large amounts of furry creatures litter the ceiling, and hide in the dark.  
+~
+~
+~
+0 0 15503
+M 0 H 0
+S
+#15505
+Through the Corridor~
+The sound of the rushing water is very close, and is coming from ahead. 
+The passage has gotten tighter, making for a difficult progression.  {CIcy
+water {xcovers the ground, giving the place a fresh scent.  Ore and other
+stones glitter like fire, shining in the darkness.  The smooth walls, and
+even ground make for an easy progression.  
+~
+0 13 0
+E
+wall~
+They are smooth and cool to the touch.  
+~
+D0
+Rushing waters and turmoiling currents lie ahead.  
+~
+~
+~
+0 0 15506
+D2
+The passage seems to get wider south.  
+~
+~
+~
+0 0 15504
+M 0 H 0
+S
+#15506
+Rushing Waters~
+Wild, rushing waters flow through the heart of the cave.  The currents
+are strong, and dangerous.  Rock pillars stand everywhere in the room,
+dwarfing everything with their thickness, and their very presence.  The
+Discordia river continues in darkness to the west, making it hard to
+distinguish its final destination.  The multitude of stalagmites make it
+difficult to see where the water is originating from in the east.  A cave
+walls is standing north, leaving space for only a small wet shore.  
+~
+0 9 0
+E
+river~
+The turnoiling and raging {Cwaters {xof the river flow through here.  It
+is quite cool and has a sweet taste.  Its sparkling foam and awesome grumble
+make it quite a sight to behold.  
+~
+D1
+The raging river is to the east, flowing with strong current.  
+~
+~
+~
+0 0 15513
+D2
+A small passage lies south and away from the river.  
+~
+~
+~
+0 0 15505
+D3
+The river disappears in a hole.  
+~
+~
+~
+0 0 15507
+M 0 H 0
+S
+#15507
+Hole~
+The cave abruptly ends, making it impossible to continue west.  A dark
+gash opens in the ground, and with a deafening roar, the river plunges in
+the deep recesses of this deep abyss.  A fresh {Cbreeze {xcan be felt coming
+from down below.  All the splashing and foaming of the river makes it quite
+difficult to see what lies in the darkness.  The walls are smooth, and
+hardly provide any holds.  
+~
+0 13 0
+E
+river~
+The turnoiling and raging waters of the river flow through here.  It is
+quite cool and has a sweet taste.  Its sparkling foam and awesome grumble
+make it quite a sight to behold.  
+~
+D1
+The river and the way continue east.  
+~
+~
+~
+0 0 15506
+D5
+The hole is shrouded in darkness, and looks like a bottomless pit.  
+~
+~
+~
+0 0 15508
+M 0 H 0
+S
+#15508
+Waterfall~
+The hole keeps on going down.  The river falls from above with an awesome
+driving strength, and the smooth and wet walls have no holds to grab on. 
+Gems and sparkling rocks litter the walls, glittering like intelligent eyes.
+~
+0 9 9
+E
+gems~
+They sparkle with renewed fire, and are bigger than the ones you have
+seen before.  The walls they stand on are soaked wet, thus making them very
+hard to grab.  Through the years of erosion, they have taken perfectly
+rounded forms, and cannot be held onto.  
+~
+D5
+The way continues down, leading to a small ledge.  
+~
+~
+~
+0 0 15509
+M 0 H 0
+S
+#15509
+Waterfall~
+The river falls from above, cascading in a splendid waterfall.  The cave
+still goes down, and as darkness envelops the abyss, it is hard to
+distinguish where the floor is.  There is a small opening in west, maybe
+wide enough for you to squeeze through.  
+~
+0 13 9
+E
+opening~
+It is quite small, and sharp stalacmites partially block the way.  A soft
+glow seems to emanate from inside, soothing to the eye and vaguely similar
+to the light at dawn.  
+~
+E
+waterfall~
+An unexpectedly beautiful, and transparent icy wall of {Cwater {xfalls
+here.  It is cool, and rejuvintes the soul.  The water is crystal clear, and
+its sweetness is a natural elixir to your being.  
+~
+D3
+A tiny passage goes west in the rocky wall.  
+~
+~
+~
+0 0 15510
+D5
+The way continues down unto a small ledge.  
+~
+~
+~
+0 0 15512
+M 0 H 0
+S
+#15510
+Small Passage~
+The rocky passage is quite small and tight.  The walls are jagged, and
+the sticking stalagmites are as sharp as daggers.  There are hundreds of
+gems, shining with a soft, hypnotizing glow.  There is a small hole in the
+east which seems to open in a chasm.  A now stronger glow emanates from the
+west.  
+~
+0 9 5
+D1
+A large hole lies to the east.  
+~
+~
+~
+0 0 15509
+D3
+A room full of rare stones is to the west.  
+~
+~
+~
+0 0 15511
+M 0 H 0
+S
+#15511
+Gem Room~
+This is a room of dreams.  The walls are covered with gems.  A strong glow 
+emanates from the stones and enlightens the room with a {cm{gu{rl{Wt{bi{Cc{Go{Rl{Bo{cr{re{Wd {xaura.  
+However a nauseating smell lingers about.  The smell cannot get out as the 
+air barely makes it to this part, thus making the stink stick to everything. 
+ The only way is to the east, in a small hole which is enveloped in 
+darkness, and from which the sound of water can be heard.  In one corner of 
+the room is the largest ruby you have ever seen, sparkling as if it were 
+aware of its own beauty.  
+~
+0 8 0
+E
+ruby~
+A perfectly formed ruby stands here, bathing in its own magnificent aura.
+The light is reflected from its many intact facets, making it sparkled like
+fire.  
+~
+D1
+A small, dim passage lies to the east.  
+~
+~
+~
+0 0 15510
+M 0 H 0
+S
+#15512
+Ledge~
+A small wet ledge sticks from the side, providing a safe place to stand. 
+The river crashes here from above, forming a furious pool of water.  Strong
+underwater currents and splashing water make it difficult to see how deep it
+is.  Light comes from the water, and comes through the pond, reflecting blue
+light on the walls.  The southern wall is a bit strange, and reeking air
+seems to be coming from under it.  
+~
+0 13 0
+E
+pool~
+A whirling pool of churning waters stand before you.  It is very hard to
+see how deep it goes, but you can see some shadows swimming down there.  
+~
+E
+wall~
+It is not a real wall.  After a few minutes of closer examination a small
+mechanism can be felt.  It is a secret passage.  
+~
+D2
+~
+secret~
+~
+1 0 15528
+M 0 H 0
+S
+#15513
+Along the river~
+The shore has gotten slightly larger, but it is very slippery.  The
+churning waters roar by, heading west with great fury.  A few shapes can be
+seen in the water , little shadows swimming about.  A great roaring sound
+comes from the east.  It looks like a waterfall from where you are.  Great
+stalactites cover the ceiling, menacing to crush you.  
+~
+0 8 0
+D1
+A large pond is seen there.  
+~
+~
+~
+0 0 15514
+D3
+The river continues flowing to the west.  
+~
+~
+~
+0 0 15506
+M 0 H 0
+S
+#15514
+Pool~
+A large pool of water stand before you.  There is a great waterfall on
+the eastern wall, coming from a hole high above the ground.  The water is
+crystal clear, and various aquatic creatures can be seen swimming.  The
+ceiling is very high, and is littered with ore and {Yglittering {xrocks. 
+The walls are smooth, and cool to the touch.  The air is very refreshing and
+clean.  
+~
+0 9 0
+E
+creature~
+Some burbots are seen swimming deep under the surface.  Little
+needlefishes are swim in little swarms, feeding off of the burbot eggs. 
+There is a myriad of little creatures in the pond, and everyone of them
+mindless of the world that surrounds them.  
+~
+D1
+A large waterfall is seen east, crashing with great strength.  
+~
+~
+~
+0 0 15515
+D3
+The cave continues, the river in its bed going west.  
+~
+~
+~
+0 0 15513
+M 0 H 0
+S
+#15515
+A Waterfall~
+The river of Discordia is spewing in from a large hole high above, versing 
+itself down into a large pool.  The water comes in a forceful spray and 
+creates a cool mist within this smooth-walled cavern.  There is something 
+glittering within the body of water, darting about quickly.  
+~
+0 9 0
+E
+waterfall~
+It is refreshing and strong, forming a wall of clear water.  
+~
+D3
+The river flows west, driven by great underwater currents.  
+~
+~
+~
+0 0 15514
+M 0 H 0
+S
+#15516
+A Ledge~
+The climb has led you to a grassy ledge on a large cliff.  In the
+distance, seagulls dive into the water, aiming for prey just below the
+surface.  Beyond two boulders just north of you, you notice a fissure in the
+rock wall of the cliff.  It looks just wide enough to squeeze through. 
+Below you, there is an old lighthouse overlooking the East River.  
+~
+0 0 5
+D0
+The entrance to a cave lies there.  
+~
+~
+~
+0 0 15500
+D3
+The path leading back to Phar Point.  
+~
+~
+~
+0 0 20043
+D5
+The pier is there, and the beach can be seen below that.  
+~
+~
+~
+0 0 15517
+M 0 H 0
+S
+#15517
+The Pier~
+The ledge extends to the south, overlooking the river.  It is strewn with
+large stones, forming a breakwater.  On each side, the river collides with
+the boulders, thus making the large path slightly wet.  On the end of the
+pier a lighthouse has been built.  From afar it seems empty and abandoned,
+but it is hard to clearly make out.  The East River washes on the shore
+below, where an old boat wreckage can be seen.  
+~
+0 0 5
+D2
+The pier continues, leading to the lighthouse.  
+~
+~
+~
+0 0 15518
+D4
+A small ledge lies up there.  
+~
+~
+~
+0 0 15516
+D5
+~
+~
+~
+0 0 20045
+M 0 H 0
+S
+#15518
+Along the Pier~
+The path is wide and pebbly.  It is even, but some bushes have grown on
+the sides showing a lack of maintenance.  The river crashes against the
+breakwater, sending small waves of water sparkling onto the way.  The
+lighthouse is still a bit ahead.  A small bridge links the pier to the
+little piece of earth on which the lighthouse rests.  
+~
+0 0 5
+D0
+It leads back towards the cliff and the ledge.  
+~
+~
+~
+0 0 15517
+D2
+The bridge stands there, old and worn.  
+~
+~
+~
+0 0 15519
+M 0 H 0
+S
+#15519
+An old Bridge~
+An old, wooden bridge stands here.  It is worn, and the water has eaten
+through it after many years.  The wood is soaked in water, and seems very
+unsecure.  It waves with a sickening motion from left to right as the wind
+blows it from side to side.  Beyond it is the lighthouse.  From here you see
+that it is indeed worn and abandoned.  North is the towering cliff beneath
+Phar Point.  
+~
+0 0 5
+E
+bridge~
+It is old and worn.  It sways with the wind, as it has been attached with
+a few ropes to some big boulders.  The rope that hold it, however, seem
+quite new.  
+~
+D0
+The pier continues north, and goes towards the cliff.  
+~
+~
+~
+0 0 15518
+D2
+A wooden bridge stands there, old and wavering.  
+~
+~
+~
+0 0 15520
+M 0 H 0
+S
+#15520
+On the Bridge~
+The bridge is old, and sags with age.  It sways noticeably, and is very
+poorly done.  The Great Discordia River is just below, its cold waters
+rushing with strong currents.  The wood-planks creak as the wind and the
+splashing water mercilessly assault the poor construction.  It is very
+slippery, and the wood has been eaten away, exposing dull shards.  
+~
+0 4 5
+D0
+North is the pier leading to the cliff beneath Phar Point.  
+~
+~
+~
+0 0 15519
+D2
+The old lighthouse stands a few steps away.  
+~
+~
+~
+0 0 15521
+M 0 H 0
+S
+#15521
+Before the Lighthouse~
+The old lighthouse stands before you.  The door is weather-beaten, and
+does not stand on its hinges anymore.  The structure is made of brownish
+rock, and is a little chiseled away.  There are a few windows, but no light
+or life seems to emanate from this place.  All that can be heard are the
+waters crashing against the pier, and the old bridge rocking from side to
+side.  An inscription has been made on the wall above the door.  
+~
+0 0 5
+E
+inscription~
+Dedicated to life, on behalf of those who sail the seas.  
+~
+D0
+An old bridge links the lighthouse to the pier.  
+~
+~
+~
+0 0 15520
+D2
+The main hall of the lighthouse is there.  
+~
+~
+~
+1 15510 15522
+M 0 H 0
+S
+#15522
+A Small Hall~
+The room is dark, and dusty.  The walls are covered with cobwebs, and a
+few paintings can be seen beneath the thick layer of dust.  The tiled floor
+is broken and dirty.  The lanterns and torches are not lit.  A spiral
+staircase leads up to the upper level of the structure.  A door leads to
+another room west of the hall.  A small hall extends to the east, leading to
+another part of the building.  There is a large door north leading outside
+of the lighthouse.  
+~
+0 8 0
+E
+painting~
+It depicts a forest of dead trees.  An old man is seen sitting against a
+few logs, seemingly breathing heavily.  Shadows in the painting are
+attacking the man, and seem alive.  
+~
+E
+door~
+It is made of rotten wood, and barely stands on its hinges.  
+~
+D0
+~
+~
+~
+1 0 15521
+D1
+~
+~
+~
+0 0 15524
+D3
+A small bedroom lies west.  
+~
+~
+~
+1 0 15523
+D4
+The spiral staircase leads towards the top of the lighthouse.  
+~
+~
+~
+0 0 15529
+M 0 H 0
+S
+#15523
+A Bedroom~
+The room is quite small, and has been left unused for quite some time. 
+There is a small, soft bed in the middle of the room.  A brown closet is in
+the corner, and a lantern is sitting on a night table by the bed.  The
+shutters are closed, and the windows are covered with a heavy layer of dust.
+~
+0 8 0
+E
+windows~
+The two windows are covered with a black layer of ooze.  They are tighly
+locked, and the glass will not break.  
+~
+D1
+The main hall of the lighthouse stands east.  
+~
+~
+~
+1 0 15522
+M 0 H 0
+S
+#15524
+Small Corridor~
+A small dark corridor goes on west.  Cobwebs litter the floor, and broken
+tiles are covered in dust.  It is quite cold, and the room reeks of vomit
+and sweat.  At the end of the corridor, there is a small trapdoor leading to
+a cellar.  A torch is set on the wall, flickering erratically as if a gust
+of wind was blowing at it.  Yet, there is not a whisper of a breeze.  To the
+left, there is the main hall of the lighthouse.  
+~
+0 8 0
+E
+torch~
+It is set firmly in the wall.  The {Rflame {xis bright and flickers like
+a demon.  
+~
+E
+trapdoor~
+It is made of jet black metal.  Its outline is covered in dust, and has
+not been opened in quite a long time.  
+~
+E
+painting~
+It depicts a small house resting on a hill.  It is surrounded by a black
+lake, from which spirits are awakening.  
+~
+D3
+It leads to the main hall of the lighthouse.  
+~
+~
+~
+0 0 15522
+D5
+A ladder leading deep down in the darkness.  
+~
+trapdoor~
+~
+1 0 15526
+M 0 H 0
+S
+#15525
+A rocky passage~
+An uneven, rocky path leads north into the cave.  Stalagmites and sharp
+stones litter the floor, making progression slow and difficult.  Drops of
+water fall from the ceiling, making a little echoing noise as they shatter
+on the floor.  A noise of rushing water seems to be coming from ahead.  
+~
+0 8 0
+D0
+A dark path continues north.  
+~
+~
+~
+0 0 15527
+D4
+A rusty ladder leads up to a building.  
+~
+~
+~
+0 0 15526
+M 0 H 0
+S
+#15526
+Rusty Ladder~
+The rusted ladder is going down deep in a dark hole.  It goes through a
+corridor of dirt.  It is set in the wall, but a single shove makes it shake
+violently, and showers of dust fall down.  The metal is cold to the touch,
+and the air is damp indicating that no-one has used this passage in quite
+some time.  
+~
+0 12 0
+D4
+The ladder leads up to the lighthouse.  
+~
+trapdoor~
+~
+1 0 15524
+D5
+A small rocky corridor.  
+~
+~
+~
+0 0 15525
+M 0 H 0
+S
+#15527
+A Passage~
+The passage is tight and damp.  Cobwebs cover the ceiling, and the
+unnatural coolness gives this place an eerie feeling.  The path continues
+north, going back towards Phar Point.  South the cave leads back to the
+lighthouse.  The sound of rushing water is getting closer, and little
+trickles of water run through the floor.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 15528
+D2
+The cave comes to an abrupt end.  
+~
+~
+~
+0 0 15525
+M 0 H 0
+S
+#15528
+Dead-end~
+You have reached the end of the tunnel.  A wall stands ahead, impending
+any further progression.  However, a small rivulet of water seems to be
+seeping from under the wall into the cave.  The cave goes south, leading
+further in the secret passage.  
+~
+0 8204 0
+E
+wall~
+It is not a real wall.  After a few minutes of researching, a mechanism
+is found.  It is a secret door.  
+~
+D0
+~
+secret~
+~
+1 0 15512
+D2
+The passage continues south, shrouded in darkness.  
+~
+~
+~
+0 0 15527
+M 0 H 0
+S
+#15529
+Spiral Staircase~
+The spiral stairs are made of iron grate, and are firmly set in the
+stone.  They are covered in a thick layer of dust, and creak mysteriously by
+themselves.  A fresh breeze comes from a window on the east, cleansing and
+refreshing.  The spiral stairs lead back down to the main hall of the
+lighthouse.  It is difficult to see what is upstairs.  
+~
+0 8 0
+E
+window~
+It faces north, towards the cliff and Phar Point.  A little hole in the
+wall can be seen, and the way leading back to the city.  
+~
+D4
+The top of the lighthouse is there.  
+~
+~
+~
+0 0 15530
+D5
+The main hall of the lighthouse is there.  
+~
+~
+~
+0 0 15522
+M 0 H 0
+S
+#15530
+Top of the Lighthouse~
+It is a large circular room, with large windows.  The windows are covered
+with grime and slimy ooze.  In the middle lie two cracked mirrors, shards
+everywhere, and covered in a thick layer of dust.  A large basin half full
+of oil is used to burn the guiding fire.  However, the oil has thickened and
+turned into a thick substance, as it has not been lighted in years.  In one
+corner of the room there is a small wooden chair, and bottles of alcohol are
+scattered around it.  
+~
+0 9 0
+E
+window~
+They are covered in grime and it is impossible to see beyond them, let
+alone light go through.  
+~
+E
+basin~
+It is full of thick, black oil.  In it dirt and vomit floats around giving
+the room an odor of filth, and unbelievable reek.  
+~
+E
+bottle~
+They are empty and scattered around the chair.  They smell of strong
+alcohol.  
+~
+D5
+The spiral staircase is there, leading back to the main floor.  
+~
+~
+~
+0 0 15529
+M 0 H 0
+S
+#15531
+unused~
+~
+0 32772 0
+M 0 H 0
+S
+#15532
+unused~
+~
+0 32780 0
+M 0 H 0
+S
+#15533
+Unused~
+~
+0 32780 0
+M 0 H 0
+S
+#15534
+Unused~
+~
+0 32780 0
+M 0 H 0
+S
+#15535
+Unused~
+~
+0 32780 0
+M 0 H 0
+S
+#15536
+~
+~
+0 32780 0
+M 0 H 0
+S
+#15537
+~
+~
+0 32780 0
+M 0 H 0
+S
+#15538
+~
+~
+0 32780 0
+M 0 H 0
+S
+#15539
+~
+~
+0 32780 0
+M 0 H 0
+S
+#15540
+~
+~
+0 32780 0
+M 0 H 0
+S
+#15541
+~
+~
+0 32780 0
+M 0 H 0
+S
+#15542
+~
+~
+0 32780 0
+M 0 H 0
+S
+#15543
+~
+~
+0 32780 0
+M 0 H 0
+S
+#15544
+~
+~
+0 32780 0
+M 0 H 0
+S
+#15545
+~
+~
+0 32780 0
+M 0 H 0
+S
+#15546
+~
+~
+0 32780 0
+M 0 H 0
+S
+#15547
+~
+~
+0 32780 0
+M 0 H 0
+S
+#15548
+~
+~
+0 32780 0
+M 0 H 0
+S
+#15549
+~
+~
+0 32780 0
+M 0 H 0
+S
+#15550
+~
+~
+0 32780 0
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 15502 spec_nasty
+M 15503 spec_poison
+M 15505 spec_breath_frost
+M 15508 spec_breath_frost
+S
+
+
+
+#RESETS
+D 0 15512 2 1
+D 0 15521 2 2
+D 0 15522 0 2
+D 0 15522 3 1
+D 0 15523 1 1
+D 0 15524 5 1
+D 0 15526 4 1
+D 0 15528 0 1
+O 0 15500 0 15500
+O 0 15500 0 15501
+M 0 15500 7 15501 10
+O 0 15500 0 15502
+M 0 15500 7 15502 10
+O 0 15500 0 15503
+M 0 15501 2 15503 10
+M 0 15500 7 15503 10
+O 0 15500 0 15504
+O 0 15501 0 15504
+O 0 15500 0 15505
+O 0 15502 0 15506
+M 0 15502 3 15506 10
+M 0 15500 7 15506 10
+O 0 15502 0 15507
+O 0 15549 0 15511
+M 0 15503 1 15511 10
+O 0 15504 0 15511
+O 0 15502 0 15512
+M 0 15504 5 15512 10
+O 0 15502 0 15513
+M 0 15500 7 15513 10
+M 0 15502 3 15513 10
+M 0 15504 3 15513 10
+O 0 15502 0 15514
+M 0 15500 7 15514 10
+M 0 15502 3 15514 10
+M 0 15504 5 15514 10
+O 0 15503 0 15515
+P 0 15540 0 15503 10
+P 0 15511 0 15503 10
+O 0 15505 0 15515
+M 0 15504 5 15515 10
+M 0 15506 1 15521 10
+E 0 15510 0 8
+M 0 15505 4 15522 10
+O 0 15507 0 15523
+O 0 15506 0 15523
+O 0 15509 0 15523
+M 0 15505 4 15523 10
+M 0 15505 4 15524 10
+O 0 15500 0 15527
+M 0 15505 4 15527 10
+O 0 15500 0 15528
+O 0 15508 0 15530
+M 0 15509 1 15530 10
+M 0 15508 1 15530 10
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

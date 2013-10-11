@@ -1,0 +1,1586 @@
+#AREADATA
+Name { IMM } Eris    Plane of Magic~
+Builders Angord~
+VNUMs 8000 8500
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#8000
+animated iron suit armor~
+An animated suit of armor~
+An animated suit of armor made of iron floats towards you threateningly as you enter the room!
+~
+The impressive suit of armor is undoubtedly made of iron and has
+obviously been created ages ago.  The suit itself is designed in a simple,
+callous manner and offers about the same size of a human, perhaps slightly
+larger.  Finally and unfortunately, it would appear that someone or
+something has managed to disturb it from its long rest, and judging by the
+way it floats towards you, it is hardly pleased about it.  
+~
+human~
+A 0 0 0
+101 0 13d1446+3994 101d10+100 6d11+30 blast
+-45 -45 -45 -40
+CDEFHKO E CFO 0
+(null) (null) male 454
+AHMV ABCDEFGHIJK medium unknown
+#8001
+Tarodan man~
+Tarodan~
+A large man of brutish appearance stands here, darkly glancing about.
+~
+Tarodan is a man of stocky build and rather large proportions, suggesting
+a profession related to the battle field.  His hair is shaven close to his
+scalp, revealing a nasty scar running down his head, way past his forehead
+and onto his fat nose.  His brown eyes tell of a simple mind whose main
+interests are violence, money and women.  Nonetheless, at this particular
+moment he does not seems quite as loudly confident as he must usually be.  
+~
+human~
+A 0 0 0
+60 0 11d277+1559 60d10+100 5d7+19 none
+-13 -13 -13 -11
+0 0 0 0
+(null) (null) male 270
+AHMV ABCDEFGHIJK medium unknown
+#8002
+red-corded mercenary black clad hooded~
+a red-corded mercenary~
+A well-built man clad in pitch black stands here, a {rred{x strip of cloth tied around his wrist.
+~
+The well built man is completely dressed in black and even his face is
+veiled, yet his lethal skills are beyond doubt, whatever they may be.  A
+{rdark red{x cord is tied around his wrist, suggesting a certain
+classification.  
+~
+human~
+A QZ -800 0
+80 0 11d677+2588 80d10+100 5d10+24 none
+-21 -21 -21 -19
+BCEFHKU 0 0 0
+(null) (null) female 360
+AHMV ABCDEFGHIJK medium unknown
+#8003
+elite red-corded mercenary black clad sorcerer~
+a red-corded sorcerer~
+A pair of thin stripes of {rdark red{x cloth emphasise the pitch black uniform of this elite mercenary.
+~
+The man is completely dressed in black and his face is veiled to prevent
+any possible identification.  The way he carries himself leaves no doubts as
+to his haughty nature and combat finesse.  Tied around his right wrist are a
+pair of {rdark red{x strips of cloth.  
+~
+human~
+A DFHOTV -800 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+FH 0 0 0
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#8004
+old acolyte order thariar~
+Thariar~
+Thariar the acolyte of Order stands here, seeming utterly troubled and worried.
+~
+Thariar offers impressive looks for a man of his age, which is
+undoubtedly high.  He is sternly built, a fact very much reflected in his
+stance and demeanor - both confident and intent.  His bald head is crowned
+by a few patches of white hair, the hue of which is naturally identical to
+that of his long beard.  The most distinguishable features about him,
+however, must be his deep blue eyes, closely overtaking his kind, knowing
+smile.  
+~
+human~
+A 0 0 0
+40 0 10d98+804 40d10+100 4d7+10 none
+-5 -5 -5 -3
+0 0 0 0
+(null) (null) female 180
+AHMV ABCDEFGHIJK medium unknown
+#8005
+spy acolyte order Noarak~
+Noarak~
+Noarak, a lesser acolyte of Order, stands here, gazing darkly and discontently at his surroundings.
+~
+The man before you suggests a human origin and seems to be of moderate
+age.  He has dark black hair, very thinly streaked with the white signs of
+aging.  Heavily built and even quite scarred, he seems to be more of a
+fighter than anything else.  His dark eyes are buried deeply beneath his
+brows, portraying a very strong character whose nature might be far from
+innocent.  
+~
+human~
+A 0 -800 0
+80 0 11d677+2588 80d10+100 5d10+24 none
+-21 -21 -21 -19
+0 0 0 0
+(null) (null) female 360
+AHMV ABCDEFGHIJK medium unknown
+#8006
+injured red-corded mercenary~
+an injured red-corded mercenary~
+A lethally injured red-corded mercenary lies here on an improvised bed.
+~
+The unfortunate mercenary appears to be dying, no less, before your eyes.
+His pitch black uniformed is soaked with his own blood, the color of which
+is quite close to that of the {rdark red{x strip of cloth tied around his
+wrist.  
+~
+human~
+A 0 -800 0
+20 0 6d39+294 20d10+100 3d5+4 none
+2 2 2 4
+0 0 0 0
+(null) (null) female 90
+AHMV ABCDEFGHIJK medium unknown
+#8007
+blue-corded deputy mercenary~
+a blue-corded mercenary~
+A mercenary dressed in pitch black stands here, a {bdark blue{x strip of cloth tied around his wrist.
+~
+Heavily bulged muscles are evident through the black uniform of this
+particularly impressive mercenary.  He is completely covered, toes to head,
+and a {bdark blue{x strip of cloth is tied around his wrist.  
+~
+human~
+A D -500 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 0 0 0
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#8008
+Kurat Bloodmist~
+Kurat Bloodmist~
+Kurat Bloodmist stands here, conversing haughtily with his underlings.
+~
+The huge man before you offers quite the intriguing looks, consisting of
+a huge body seemingly toned to perfection, side by side with a face telling
+of great charisma and influence.  Kurat's bright red hair is tied at the
+back of his neck, flowing gallantly to his shoulder-blades and offsetting
+his black uniform.  His bright green eyes tell of rare determinition as he
+appraises his current subject of interest.  A prominent leader to his pack
+of mercenaries, Kurat boasts two foreboding pairs of {rblood red{x strips of
+cloth, each tied around each of his wrists.  
+~
+human~
+A DFHJOV -1000 0
+101 0 13d1446+3994 101d10+100 6d11+30 none
+-45 -45 -45 -40
+ABCDEFHK 0 0 0
+(null) (null) female 454
+AHMV ABCDEFGHIJK medium unknown
+#8009
+red-corded deputy~
+a red-corded deputy~
+An eminently powerful man of dark appearance stands here, three {rblood red{x cords of cloth adorning his wrist.
+~
+The mercenary offers very few distinguishable features, perfectly
+sheltered underneath a long hooded robe of pitch black.  Nonetheless, the
+man carries himself with threatening confidence and worse yet, anyone with
+even the most lacking of observation would not mistake his great power and
+ill intentions.  Finally, no less than three {rblood red{x cords of cloth
+adorn his right wrist, serving as evidence to his high rank within his
+guild.  
+~
+human~
+A DFHO -1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 0 0 0
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#8010
+Niorajah~
+Niorajah~
+An ever powerful presence in the form of a rather noble, dark seeming human dominates the cavern.
+~
+The man has a prominently queer appearance in more than one way.  A
+rather thin figure of unmistakable noble nature, side by side with an
+entirely gross expression upon a sunken face.  Crackling dark red eyes
+offset the deathly pallor of his face, suggesting much willpower and
+energies on one hand, yet a simple lack of life on another--a combination
+regularly reserved to the undead.  
+~
+human~
+A DFHJOTVc -900 0
+100 5 12d1397+3920 100d10+100 6d11+29 slap
+-35 -35 -35 -27
+ACEFGHK BILQ DN N
+(null) (null) female 450
+AHIMV ABCDEFGHIJK medium unknown
+#8011
+hezrou guard demon~
+a hezrou guard~
+A gigantic, toad-like humanoid of demonic appearance stands here.
+~
+The hezrou seems much like an oversized toad, having large, muscular arms
+rather than forelegs.  He has an absolutely decadent air to him and his
+features, and his flaring eyes suggest perfect evil.  
+~
+human~
+A OV 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 slash
+-35 -35 -35 -27
+ACDEFHKO L M N
+(null) (null) female 450
+ACGHIMVZc ABCDEFGHIJKLOPUVW medium unknown
+#8012
+marilith demon~
+a marilith~
+A grotesque cross between a beautiful, six-armed lady and a snake stands here.
+~
+While below the waist, this demon offers a rather grotesque, large,
+green-scaled tail of a snake, above it is the torso of a pale, maliciously
+flawless female.  The most striking feature in her would be the six bare
+arms jutting from her torso, each suggesting a threat in its own right.  Her
+eyes glimmer with terrible vileness as she alertly surveys her surroundings.
+~
+human~
+A DFHJOV -1000 0
+100 5 12d1397+3920 100d10+100 6d11+29 slash
+-35 -35 -35 -27
+ACEFHK BLQ CEHIJKM N
+(null) (null) either 450
+ACHMVY ABCDEFGHIJKLPUVX medium unknown
+#8015
+wyvern undead~
+A large decaying wyvern~
+A large, decaying wyvern with exposed bones and rotting flesh
+~
+Massive black scales cover the body of this monsterous wyvern.  Various
+patches of his body seem to be decaying, with bare spots revealing the
+bones.  A putrid aura surrounds this creature filling your nostrils.  Its
+long neck is topped by a fierce head with sharp features.  Its eyes are very
+sharp, and as black as night itself.  Two large horns that appear worn and
+rotting jet out of its head towards the sky.  Razor sharp fangs that drip
+with some sort of fluid can be seen in its gaping jaws.  Atop its back sits
+a black leather saddle with intricate runes on it.  You also notice two
+chains fastened to the saddle like large reigns.  A long, barbed tail flows
+from the rear of the creature that appears very strong, and sharp.  Its
+short legs are met by sharp talons at their end.  Upon closer inspection,
+you notice fotting flesh and blood on its claws.  Its long wings have no
+scales at all hardly, and are comprised of a bone skeleton structure. 
+Something about this beast radiates an aura of putrid death.  
+~
+wyvern~
+A DFOTV -1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 smash
+-35 -35 -35 -27
+CFHM L C S
+(null) (null) female 450
+ABGZc ACDEFHJKOPQUVX medium unknown
+#8030
+skeleton~
+a skeleton~
+A skeleton stands here.
+~
+~
+unique~
+A LTU -1000 0
+15 0 5d31+200 15d10+100 2d4+2 slash
+4 4 4 6
+R BL M NS
+(null) (null) male 67
+ACHIKLMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#8000
+firelily~
+a firelily~
+A single firelily grows here.~
+unknown~
+treasure A AO
+0 0 0 0 0
+0 0 1 P
+E
+firelily~
+The firelily is a yellowish-red waterflower, most commonly found in
+swamps.  It is prized by sorcerers as it aids in the formation of powerful
+fireballs.  
+~
+E
+firelilly~
+The firelilly is a yellowish red waterflower.  It is prized by sorcerers
+as it aids in the formation of powerful fireballs.  
+~
+#8001
+Thornplant Thorn Plant~
+a Thornplant~
+A single Thornplant grows here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 1 P
+E
+thornplant~
+A Thornplant is an ugly grey-brown plant, covered in small thorns.  It's
+flowers are small and ugly.  It tends to grow around wooded areas and is
+especially prized by Templars for it's ability to enhance the bruise spell. 
+~
+#8002
+Woundweed Wound Weed~
+some woundweed~
+A bunch of Woundweed grows here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 1 P
+E
+woundweed~
+Woundweed is a rare "weed" that used to clog up forests but is not only
+spotted in the deepest wooded areas.  It is dark green with a thin red
+stripe along the edge of it's leaves.  The leaves are sharp and can cut skin
+easily if they meet a careless leg or arm.  Woundweed is especially prized
+by Templars for it gives strength to their "Wound" spell.  
+~
+#8003
+open~
+open~
+A sharp wooden stake looks like a good piercing weapon.~
+unknown~
+weapon 0 AN
+bow 1 5 crunch 0
+1 1 5 P
+#8006
+Lightningseed Lightning Seed~
+a lightining seed~
+A lightning seed lies here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 1 1 P
+E
+lightning~
+A lightning seed is a grey pebble-sized rock.  They tend to be found in
+hight mountain areas and are apparently the result of lightning hitting
+solid rock.  They are prized by sorcerers as they enhance the power of the
+"Lightning Bolt" spell.  
+~
+E
+seed~
+A lightning seed is a grey pebble-sized rock.  They tend to be found in
+hight mountain areas and are apparently the result of lightning hitting
+solid rock.  They are prized by sorcerers as they enhance the power of the
+"Lightning Bolt" spell.  
+~
+#8007
+stone pain crystal blood~
+a stone of pain~
+A blood red crystal rests here, bleeding slowly.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 1 P
+E
+stone~
+This crystal is a deep red and your hand aches as you think about holding
+it.  The crystal itself seems to bleed, but you realize it is only the light
+as you look closer.  The stones of pain, though rare, and valuable to
+sorcerers for their ability to enhance the Shatter spell.  
+~
+E
+pain~
+This crystal is a deep red and your hand aches as you think about holding
+it.  The crystal itself seems to bleed, but you realize it is only the light
+as you look closer.  The stones of pain, though rare, and valuable to
+sorcerers for their ability to enhance the Shatter spell.
+~
+#8009
+small silver key~
+a small silver key~
+A small silver key sits here~
+unknown~
+key W AO
+0 0 0 0 0
+0 1 0 P
+#8010
+silver box~
+a small silver box~
+A small silver box sits here.~
+unknown~
+container W AO
+5 AC 0 0 0
+0 0 0 P
+#8011
+pearled silver loop tongue~
+a {Wpearled{x loop of {Ws{xi{Kl{xv{We{xr{Ky{x~
+A miniature loop of silvery baring a flawless, glittering pearl prominently rests at this place.~
+unknown~
+armor ACS AT
+BD BD BD B 0
+35 0 175 P
+A
+13 15
+A
+18 1
+A
+19 1
+#8012
+large demonic horns~
+large, demonic horns~
+A large pair of foreboding, malicious horns rest here.~
+unknown~
+armor CEHMU AE
+CDE CDE CDE BC 0
+100 0 500 P
+A
+18 5
+A
+19 5
+A
+13 80
+#8019
+Earthroot~
+some earthroot~
+A bunch of earthroot grows here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 1 P
+E
+earthroot~
+Earthroot looks similar to ginger.  It is dark grey and knobbly.  It
+tends to grow in places near rocks and dirt, away from water and is only
+just visible above ground by short tufts that protrude just out of the
+surface.  Earthroot is difficult to find and tastes terrible but it is
+highly prized by mystics and sorcerers who wish to cast the "Earthquake"
+spell.  
+~
+#8020
+pile of sulphur~
+a pile of sulphur~
+A small pile of sulphur is here.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 0 1 P
+E
+!history!~
+Sulpher was used by magic users in the past to increase the power of
+their Flame Burst spells.  
+~
+E
+sulpher~
+You can see a small pile of yellowish sulphur before you.  It smells
+something like bad eggs.  
+~
+E
+pile~
+You can see a small pile of yellowish sulphur before you.  It smells
+something like bad eggs.  
+~
+E
+sulphur~
+You can see a small pile of yellowish sulphur before you.  It smells
+something like bad eggs.  
+~
+#8021
+maelstroms crown mushroom grey~
+a grey mushroom~
+You can see an odd grey mushroom on the ground.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 0 1 P
+E
+!history!~
+Legend has it that this fungi is formed when the spirit of the tree is
+entrapped by a blast of lightening striking its home.  This fungi is
+commonly used by magic users to help enhance the powerful chain lightning
+spell.  
+~
+E
+mushroom~
+You see a large, angry, grey mushroom.  Shocking blue veins radiate out
+from the centre of the of the frilled cap.  A strong smell like that of
+burning cabbage comes from this fungi.  The strangest thing is that it makes
+your skin tingle when touched.  
+~
+E
+grey~
+You see a large, angry, grey mushroom.  Shocking blue veins radiate out
+from the centre of the of the frilled cap.  A strong smell like that of
+burning cabbage comes from this fungi.  The strangest thing is that it makes
+your skin tingle when touched.  
+~
+#8022
+gwenith's tongue plant tall~
+a tall plant~
+You can see a tall red-green plant growing on the ground.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 0 1 P
+E
+!history!~
+The plant seems to have been named after a semi-mythical woman known as
+Gwenith Crowsdale.  You faintly recall a tale of her abrasive nature and
+sharp tongue.  So cutting were her comments that her husband was driven to
+suicide.  The plant is more commonly known as Gwenith's Tongue after this
+woman.  It should also be noted that spellcasters value this plant for its
+usefulness in strengthening the Corrosion spell.  
+~
+E
+tall~
+Serrated leaves jut out at irregular intervals from this tall variegated
+red and green plant.  A single beautiful orange flower with five petals
+springs fourth from a slender stem that grows up from the middle of this
+otherwise unattractive plant.  
+~
+E
+plant~
+Serrated leaves jut out at irregular intervals from this tall variegated
+red and green plant.  A single beautiful orange flower with five petals
+springs fourth from a slender stem that grows up from the middle of this
+otherwise unattractive plant.  
+~
+#8023
+moss patch~
+some bad smelling moss~
+A patch of foul-smelling moss grows here.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 0 1 P
+E
+patch~
+A foul looking and pungent smelling moss.  Tiny crinkled bluish black
+flowers grow all over this plants mottled green and brown surface.  The
+odour smells like a three week old corpse.  The only positive thing to be
+said about it is that it doesn't stick to your boots.  Much.  
+~
+E
+moss~
+A foul looking and pungent smelling moss.  Tiny crinkled bluish black
+flowers grow all over this plants mottled green and brown surface.  The
+odour smells like a three week old corpse.  The only positive thing to be
+said about it is that it doesn't stick to your boots.  Much.  
+~
+E
+!history!~
+While this moss does indeed stink, the tiny flowers on its surface are
+known to increase the power of the Mar spell.  This makes this otherwise
+useless item rather prized by spellcasters.  
+~
+#8024
+essence myst~
+the essence of myst~
+The essence of myst swirls about.~
+unknown~
+treasure HU AO
+0 0 0 0 0
+0 0 1 P
+#8025
+gateroot~
+some gateroot~
+A patch of gateroot grows here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 1 P
+E
+gateroot~
+Gateroot is an unremarkable-looking greenish-grey root.  It is highly
+prized by sorcerers however as it is an essential component to get the
+powerful Gate spell working.  
+~
+#8050
+mares sweat~
+mares sweat~
+Small vial labeled "the sweat of a mare" had been left here. ~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 1 P
+#8051
+mandrake ~
+a mandrake root~
+A root shaped strangely like a man lays here bearing a label.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 1 P
+E
+label~
+The label reads: Mandrake Root, a little can prolong the act of love. 
+Too much will bring madness and death.  Use wisely.  
+~
+#8052
+vial quick silver~
+a vial of quick silver~
+A small vial of silver liquid bearing a label rests here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 1 P
+E
+label~
+The label reads: Quick silver, dangerous by inhalation and contact with
+the skin.  
+~
+#8053
+envelope ground black sapphire~
+an envelope of ground black sapphire~
+A envelope with the words "Ground Black Sapphire" written upon it sits here. ~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 1 P
+E
+envelope~
+The paper container holds small flakes of shiny black dust.
+~
+#8054
+fly amber~
+a fly trapped in amber~
+Small piece of amber containing an entire fly rests here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 1 P
+#8055
+grated demon scales jar~
+a jar of grated demon scales~
+Thin slivers of a blue-black substance reside within a tiny labeled jar here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 1 P
+E
+label~
+The label reads: Finely grated demon scale. For external use only.
+~
+#8056
+hand of glory candle~
+a hand of glory~
+A hand shaped candle rests here, each of the five digits bearing a wick.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 1 P
+E
+!history!~
+To fashion a "hand of glory" one must cut the hand from a hung felon at
+midnight upon the winter solace.  This must then be dunked into tar and left
+to dry only by the light of the moon.  
+~
+#8057
+unicorn hair~
+a unicorn hair~
+A silvery unicorn hair has been left here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 1 P
+E
+label~
+The label reads: Warning "Dymphna's" solution, do not allow contact with
+hair.  
+~
+#8058
+bottle vampyre tears~
+a bottle of Vampypre tears~
+A tiny bottle containing a red liquid and bearing the label "Vampyre" Tears sits here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 1 P
+#8059
+phoenix feather golden~
+a phoenix feather~
+A golden birds feather that seems to shimmer as if on fire lays here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 1 P
+#8100
+solid stone table~
+a solid stone table~
+A massive block of solid stone rests at the very center of the chamber, undoubtedly serving as a table.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+E
+table~
+Adorning the surface of the table is a single engraving of simply
+masterful craftsmanship, depicting no less than a sharply chiselled skull. 
+The skull offers a stern expression worthy of a nobleman, its hollowed eyes
+staring emptily at the ceiling.  Finally, the hollow mouth of the gloomy
+depiction is gaping widely open, as if expecting a spoonful of food, or any
+other object, for the matter.  
+~
+E
+table~
+Adorning the surface ot the large thing is a single engraving of simple
+yet masterly craftsmanship, depicting a sharply chiselled skull.  As
+peculiar as it may seem, the skull appears to be quite noble and sullen with
+his hollow, thin features.  A pair of deep, utterly black holes glance at
+you unblinkingly, demanding an even closer inspection.  Meanwhile, his mouth
+poses an even larger gaping hole, seemingly expecting a spoonful of food, or
+perhaps some other object.  
+~
+#8101
+document pages~
+an ancient document~
+A number of evidently ancient pages rest here, seemingly torn out of a larger book.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 0 1 P
+E
+document~
+The document gradually emanates a faint glow as you inspect it more
+closely, as if to ease your efforts.  The page itself displays
+unquestionable signs of extreme age but nonetheless a good condition, and
+seems to be dyed a peculiar grey.  The many letters are rather elegantly
+shaped--a creation of a highly skilled but somewhat hasty writer.  
+ 
+"Indeed, the Great War swept the realm, sparing none at all. A glorious 
+alliance of Immortals and Mortals alike, the armies confronted a power 
+unequalled throughout the realm. Heroes rose and fell, tales of victory 
+and death were as countless as the stars above, and artifacts of untold 
+power were crafted to assist the battling forces.
+ 
+Tomes found within the darkest, most secure cellars of the City of Mar 
+Narev suggest that the Blade of Order came to be at these times. A burst 
+of magical energy manipulated by the hands of a God, into an earthly 
+cage by the form of an immense golden sword, most sources claim.
+Further specifications were found within an undoubtedly ancient tome of 
+unknown origin, speaking of a terrible pressure the blade was unable to 
+contain, thus melting into an ethereal "ghost". Whether or not the latter 
+is indeed true, the blade is nowadays referred to as the "Ethereal Blade".
+ 
+With the ending of the Great War and the victory of the forces of 
+freedom, the blade has vanished, leaving no traces whatsoever. Rumours 
+claim that the commandant of the Orderly Arms wielded the fearsome 
+artifact during the war, although none of the trustworthy records of these 
+ancient times specify so.
+ 
+Quite expectedly, tales and rumours of the blade, its fate and location 
+spread through the realm, most of which made little sense, if at all. The 
+blade has suffered greatly from the retreat of its creator, significantly 
+reducing in power and, some say, similarly retreating and concealing 
+itself from the realm. Indeed, the blade was bereft of the essence which 
+created it, straying towards the boundaries between the different planes.
+ 
+Among the numerous rumours and hints concerning the location of the 
+blade, few stand out as the most peculiar and seemingly most original. 
+Zhairal, the grand sorcerer and master of lore, eloquently lists the known 
+noteworthy rumours in his renowned works. Most are of little interest to 
+me in this tome, although a notable particular shall hereby be mentioned."
+~
+E
+clue~
+"You who harbours a sense of Order within, yet seeks the Worldly one 
+throughout.
+ 
+You, brother, shalt heed my whimsical guidance, for truth I speak, for 
+knowledge I master.
+ 
+             The Orderly hand wields the Craftsman's Pin.
+             The Craftsman's Pin strikes the Jewel of Balance.
+             The Jewel of Balance merges Two to One, blesses
+             One with the Prowess of Order.
+ 
+             The fragment resurrected, Order by Order wielded.
+             Now, may the Lords know naught but Triumph and Glory!"
+ 
+Efreet Adventurers retrieved the above from a ruined shrine to the east,
+one containing symbols of the Faith of Order. An original rhyme,
+supposedly, aging back to the war, written by one of the priests. The
+vague rhyme was part of an engraving embed to the altar, depicting a
+large golden sword, readily wielded by two gauntletted hands.
+|                                                                         |
+|                                                                         |
+|     ,_.*;                . _,--.,         .-''***''-.       '           |
+-.,,/      |_.,;''-._,---=\       ' \,,,.:"            "--.'\,*;,_';._,._./
+~
+#8102
+A pearl-headed mithril chisel~
+a pearl-headed mithril chisel~
+{xA large {Wm{xi{Kt{xh{Wr{xi{Kl{x chisel of nearly unmatched craftsmanship rests here, a spectacular {xa{Ks{xh{Ky{x pearl embed to its head.~
+unknown~
+weapon 0 AO
+exotic 1 5 stab 0
+0 0 1 P
+#8103
+thin spiky slightly tail demon dark~
+a thin, spiky tail~
+A rather thin scaly tail bearing slight spikes rests here.~
+unknown~
+armor EHMU AL
+CDE CDE CDE BC 0
+100 0 500 P
+A
+17 -20
+A
+13 60
+A
+18 5
+A
+12 20
+A
+3 3
+A
+14 20
+#8104
+no name~
+some vicious claws~
+Some absolutely vicious set of seven inch long claws rest here.~
+unknown~
+trash 0 AH
+0 0 0 0 0
+0 0 1 P
+#8110
+quill labelling~
+a labelling quill~
+A labelling quill has been left here on the ground.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 1 1 P
+#8111
+blank label~
+a blank label~
+A blank label has been left on the ground.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 1 1 P
+#8200
+rotting chest~
+a rotting chest~
+An unquestionably ancient chest of rotting oak and remains of silver decorations rests nearly completely hidden underneath rubble and dirt.~
+unknown~
+container 0 0
+100 ABCD 8201 0 0
+0 0 0 P
+E
+chest~
+Be forewarned! Only in Order's name may you pull the lid open!
+~
+#8201
+batch of tax reports~
+a batch of tax reports~
+A few documents of apparent official nature lie at this place, clipped together.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+E
+reports~
+This few tax reports have been gathered together and arranged by date. 
+The reports specify the amount of monies received for certain dates, as well
+as their respective source.  Apparently, there are all in all ten reports in
+here, but strangely the last five offer the very same date as the first
+five, when the sixth equals the first, the seventh equals the second and so
+on and so forth.  Worse yet, the last five appear to list significantly less
+monies received.  
+~
+#8202
+a simple, handmade map~
+allidin's weekly report~
+A small letter bearing an even small, official seal of the monarchy guards rests here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+E
+map~
+The map has been drawn by a very unskilled hand, apparently, and it
+actually consists of a single line, running more or less from west to east. 
+~
+#8203
+hastily scribbled letter~
+a hastily scribbled letter~
+A small envelope bearing the official seal of the monarchy guards rests here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+E
+letter~
+Greetings, Allidin.
+ 
+You must conceal the findings within the empty store. Hurry. Your
+life is in danger. You were uncovered. I will meet you at Celeteste's.
+ 
+The letter is sealed with the monarchy guard's official seal.
+~
+#8204
+Maglos corpse~
+the corpse of Maglos~
+The robed corpse of a human male lies here, a stake driven into it at the general location of the heart.~
+unknown~
+container B A
+100 0 0 0 0
+0 100 0 P
+E
+corpse~
+{gThe striking, sunken eyes of the dead man quite simply demand
+attention, their {ydark golden hue{g flickering faintly in a manner
+resembling embers or coals.  {KBlack{g hair with {xgrey {gstreaks can be
+seen at the edges of a handsome face, complete with a trimmed goatee.  He is
+a slightly imposing figure that probably stands at six feet, perhaps a
+little taller.  Upon the right side of his neck is a small circle with the
+bottom half filled.  The filled portion is set in a {Bdark blue{g, while the
+upper half is simply outlined in a {Rbright red{g.  Emblazoned on the left
+side of his neck is a small, strange symbol: {K<|N|> 
+ 
+{gHair to shoes, the whole corpse nearly seems to quiver faintly, as if some 
+magical energies are at all times flowing within and through it.
+ 
+Finally and quite prominently situated, a wooden stake is buried within
+the heart of the poor man, sticking out to tell of a death that was
+a result to violence and murder.
+~
+#8205
+large golden hilt~
+a large {Ygolden{x hilt~
+A visibly ancient hilt of immense proportions and absolutely perfect craftsmanship rests here.~
+unknown~
+weapon A AN
+exotic 0 0 none 0
+0 0 1 P
+#8206
+ancient golden blade~
+an ancient {Ygolden{x blade~
+A beautifully curved and decorated sword's blade of awesome craftsmanship and undoubted age rests here.~
+unknown~
+weapon AG AN
+sword 14 14 slice D
+100 6 500 P
+#8207
+magnificent egg-shaped jewel~
+a magnificent, egg-shaped {bj{Be{bw{Be{bl{x~
+The rather raw power of the spectacularly twinkling, egg-shaped pommel jewel laying here is great beyond doubt.~
+unknown~
+light A AR
+0 0 ABCFGHIJ 0 0
+100 1 0 P
+A
+17 -60
+A
+24 -15
+A
+12 250
+#8208
+large golden sword silhouette victory~
+a silhouette of "{YV{yi{Yc{yt{Yo{yr{Yy{x"~
+A rather immense two-handed sword of exceptional beauty rests here, its blade a mere, twinkling silhouette.~
+unknown~
+weapon AGIX AN
+sword 20 13 punch DF
+100 20 500 P
+#8209
+holed lump malachite~
+a holed lump of {Gm{ga{cl{Ga{gc{ch{Gi{gt{ce{x~
+A small, richly-hued, holed lump of visibly unworked {Gm{ga{cl{Ga{gc{ch{Gi{gt{ce{x rests here.~
+unknown~
+treasure S AB
+0 0 0 0 0
+95 0 950 P
+A
+13 60
+A
+17 -30
+A
+24 -5
+#8210
+some malicious eyeballs~
+some malicious {Re{ry{Re{rb{Ra{rl{Rl{rs{x~
+A rather mischievous, terribly evil couple of fiery eyeballs dart about the air at this place.~
+unknown~
+light AEHJU AR
+0 0 ABCFGHIJ 0 0
+100 0 0 P
+A
+24 -10
+A
+12 50
+A
+19 7
+A
+18 7
+#8211
+thin thread of blaze~
+a thin thread of {Rb{rl{Ra{rz{Re{x~
+An amazingly thin thread of what seems to be fire crackles and twinkles softly at this place.~
+unknown~
+weapon A AN
+flail 9 22 slice AD
+100 0 500 P
+#8212
+dark lock hair~
+a {Kdark{x lock of hair~
+A lock of pitch black hair rests here, reeking of evil and undeath.~
+unknown~
+treasure EHJMS AC
+0 0 0 0 0
+95 0 950 P
+A
+24 -10
+A
+12 100
+#8213
+some bent magical energies~
+some bent magical energies~
+A strinkingly potent mass of magical energies of evidently conflicted nature swirls at this place.~
+unknown~
+weapon FG AN
+exotic 13 15 slap C
+100 0 500 P
+A
+18 11
+A
+19 11
+#8214
+magnificent egg shaped jewel~
+a magnificent, egg-shaped {rj{Re{rw{Re{rl{x~
+The rather raw power of the spectacularly twinkling, egg-shaped jewel laying here is great beyond doubt.~
+unknown~
+treasure AX AR
+0 0 0 0 0
+100 0 1000 P
+A
+13 50
+A
+24 -15
+A
+17 -60
+#8300
+black uniform~
+a {Kblack {xuniform~
+A flawlessly black uniform lies here.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+70 0 0 P
+A
+2 4
+#8301
+red cloth cord~
+a {rdark red{x cord of cloth~
+A thin cord of dark red cloth lies here.~
+unknown~
+clothing 0 AM
+0 0 0 0 0
+0 0 0 P
+#8302
+suit studded black leather armor~
+a suit of studded black leather armor~
+A skillfully crafted suit of studded leather tinged coal black rests here.~
+unknown~
+armor 0 AD
+CDE CDE CDE BC 0
+100 0 500 P
+A
+19 5
+A
+17 -30
+#8303
+iron short sword~
+an iron short sword~
+A typical short sword made of iron rests here.~
+unknown~
+weapon 0 AN
+sword 9 15 lunge D
+70 0 350 P
+#8304
+coiled dragon twins depictions magical flail miniature hatchlings~
+coiled dragon twins~
+A pair of miniature, magical depictions of terrible {Rred {xand {Bblue {xdragon hatchlings are forever coiled together to compose this impressive flail.~
+unknown~
+weapon AS AN
+axe 14 14 charge AH
+100 3 500 P
+A
+19 11
+A
+18 11
+#8305
+letter~
+a brief letter~
+A small, indistinguishable envelope rests at this place.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+E
+letter~
+Mairak,
+ 
+Kindly refrain from battle unless necessary. Warn against investigation
+or attempts to reclaim the ring. I do advice you to use common sense, 
+regardless of your known bad tendencies. I need you not to provide me
+with any obstacles or opponents.
+ 
+Thankfully,
+K. Bloodmist
+~
+#8306
+plain mithril quarterstaff~
+a plain {Wm{xi{Kt{xh{Wr{xi{Kl{x quarterstaff~
+A long quarterstaff made of stern {Wm{xi{Kt{xh{Wr{xi{Kl{x glitters faintly at this place.~
+unknown~
+weapon A AN
+dagger 11 13 blast 0
+75 0 375 P
+#8307
+quarterstaff black lightning~
+a quarterstaff of dark {Kl{xi{Kg{xh{Wt{xn{Ki{xn{Kg{x~
+A large, iron tipped quarterstaff of some darkwood rests here, sparkling faintly to suggest its magical qualities.~
+unknown~
+weapon C AN
+dagger 38 4 blast FH
+84 0 420 P
+#8308
+pair blood red strips cloth~
+a pair of {rblood red{x strips of cloth~
+A pair of cloth strips tinged a rich {rblood red{x lie at this place.~
+unknown~
+clothing 0 AM
+0 0 0 0 0
+80 0 10 P
+#8309
+long black robe~
+a long black robe~
+A long robe of flawless black piles up on the ground.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+0 0 15 P
+#8310
+swirling orb energy~
+a sizzling orb of energy~
+An ever swirling orb of pure energy sizzles transparently above the ground.~
+unknown~
+weapon F AN
+exotic 14 14 slap C
+100 0 500 P
+A
+19 11
+A
+18 11
+#8311
+heart shaped red diamond~
+a breathtaking, heart-shaped {Rdiamond{x~
+A diminutive, deep {Rred {xdiamond of a heart's shape and absolutely impeccable craftsmanship draws your eye.~
+unknown~
+treasure A AB
+0 0 0 0 0
+90 0 900 P
+A
+13 50
+A
+12 50
+#8312
+three thin strips red cloth~
+three strips of {rblood red{x cloth~
+A few strips of blood red cloth lie here.~
+unknown~
+clothing 0 AM
+0 0 0 0 0
+0 0 0 P
+#8313
+spiked flail mithril~
+an immense, spiked flail of {Km{xi{Wt{xh{Kr{xi{Wl{x~
+A rough, spiked head of {Km{xi{Wt{xh{Kr{xi{Wl{x tied by a thin chain to a delicate hilt, all of the same material, make up this crude flail.~
+unknown~
+weapon A AN
+exotic 12 16 blast 0
+100 0 500 P
+#8400
+silver ring of order~
+a silver ring~
+A silver ring lies here.~
+unknown~
+protect GS AB
+0 0 0 BEF 0
+1 1 0 P
+E
+!history!~
+You come across the following information:
+ 
+The exact history of the ring is unknown, but it is believed that around the
+time of the great war of the Ancients, the ring was formed by the great 
+powers of Order, both good and evil alike, to help quell all the Chaos in 
+the world. It seemingly was decreed that only the most worthy champion 
+of Order could ever use the ring and that in return for ridding the land of 
+Discordia of Chaos she would rule the realm. Other histories state that is 
+was the very power of the ring and its ability to command others that granted 
+this effective kingship. No matter what the source, all agree that the purpose 
+of the ring is to aid rule.
+ 
+How the ring came to be lost is not detailed well in any lore you have even 
+seen. You manage to find brief mention that overuse was the cause of the 
+rings loss, but exactly how it was lost remained a mystery. There is also 
+mention of "chaos rings" or the "gold ring(s) of chaos" and their supposed ability 
+to resist the Ring of Order. Again, how this is accomplished is unclear.
+ 
+From another source, you discover reference to an old legend that whoever 
+wears the Silver Ring of Order (as it is truly known) will be the ruler of all 
+Discordia.
+ 
+There is much mention of the powers of the ring, it supposedly can do 
+everything from raising the dead, to granting flight and invisibility to allowing 
+the wearer to command others to do the their bidding and being instantly 
+obeyed. There is a lot of overlap and each source yields different stories 
+concerning exactly what the ring can do.
+ 
+~
+E
+order~
+The ring is a plain band of silver.  There are words etched into it's
+surface.  The words read "Their wish is your COMMAND."  
+~
+E
+silver~
+The ring is a plain band of silver.  There are words etched into it's
+surface.  The words read "Their wish is your COMMAND."  
+~
+E
+ring~
+The ring is a plain band of silver.  There are words etched into it's
+surface.  The words read "Their wish is your COMMAND."  
+~
+#8401
+gold ring of chaos~
+a plain gold ring~
+A plain gold ring lies here.~
+unknown~
+protect GMS AB
+0 0 0 BEF 0
+1 1 1000 P
+A
+12 100
+A
+13 50
+E
+!history!~
+Almost nothing is written about the Ring or Rings of Chaos. 
+You come across the following "facts":
+*There are probably several of these rings
+*They have special powers of some kind
+*The rings are plain bands of gold
+*The rings are made of silver, intricately worked in chaotic patters
+*There is some mention of a "Silver Ring of Order" and that they were made to stop the wielder (?) of this ring.
+*Those who find one of these rings supposedly "gain the power of all chaos" whatever that means.
+*The rings for some reason, cannot be kept forever. There is mention of them being lost "when in plain sight".
+*There is mention that those who wear the rings of chaos for too long, turn into beasts who cannot think a lawful thought and are doomed to follow only their bases, most animalistic urges. 
+*There is mention that about six generations ago, a party went in search of these rings. They searched for a dozen years only to return old and bitter, finally convinced beyond all doubt that the rings did not exist at all.
+ 
+~
+E
+gold~
+The ring is a plain band of gold.  A single word is inscribed inside it:
+"CHAOS!"  
+~
+E
+ring~
+The ring is a plain band of gold. A single word is inscribed inside it: "CHAOS!"
+~
+E
+chaos~
+The ring is a plain band of gold. A single word is inscribed inside it: "CHAOS!"
+~
+#8402
+diamond bladed sword~
+a diamond-bladed sword~
+This magnificent sword is crafted of pure diamond.~
+unknown~
+weapon 0 AN
+sword 12 16 slice DJ
+100 5 500 P
+E
+diamond~
+A large piece of pure diamond has been crafted into this magnificent
+sword.  Black leather covers the handle of this sword, leading all the way
+to the black hilt.  Looking closely at the hilt, a phrase has been engraved
+in the strange material.
+~
+E
+phrase~
+The word 'Utopia' has been engraved into the hilt of this weapon.
+~
+#8403
+recall stone xian~
+a Xian recall stone~
+This glowing stone has the word 'Xian' engraved on it.~
+unknown~
+treasure AS AO
+0 0 0 0 0
+35 0 350 P
+#8404
+recall stone tortuguero~
+a Tortuguero recall stone~
+This glowing stone has the word 'Tortuguero' engraved into its surface.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+35 0 350 P
+#8405
+recall stone treble~
+a Treble recall stone~
+This glowing stone has the word 'Treble' engraved into its surface.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+35 0 350 P
+#8406
+recall stone drayton~
+a Drayton recall stone~
+This glowing stone has the word 'Drayton' engraved into its surface.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+35 0 350 P
+#8407
+recall stone taj-al-jahiz~
+a Taj-Al-Jahiz recall stone~
+This glowing stone has the word 'Taj-Al-Jahiz' engraved into its surface.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+35 0 350 P
+#8408
+recall stone witches brew~
+a Witches Brew recall stone~
+This glowing stone has the word 'Witches Brew' engraved into its surface.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+35 0 350 P
+#8409
+shimmering blade~
+a shimmering blade~
+This shimmering blade of pure force floats here.~
+unknown~
+weapon 0 AN
+sword 12 16 slap D
+100 0 500 P
+#8410
+wooden cross stake~
+a wooden cross~
+A wooden cross has been sharpened into a sharp nasty-looking stake.~
+unknown~
+weapon CIST AN
+bow 31 3 crunch 0
+60 1 300 P
+#8411
+wooden ring neutrality~
+a wooden ring~
+Unused~
+unknown~
+protect GPS AB
+0 0 0 BEF 0
+0 1 0 P
+E
+neutrality ring wooden~
+The ring is a simple loop of wood. Carved in faded letters is written:
+"When those on both side collide, the master stands and judges."
+~
+#8412
+notepaper~
+a piece of notepaper~
+This blank piece of notepaper has been left here.~
+unknown~
+room_key 0 AO
+0 0 0 0 0
+1 1 25 P
+#8413
+silver triangle~
+a silver triangle~
+This silver triangle glints in the light.~
+unknown~
+gem 0 AO
+0 0 0 0 0
+1 0 0 P
+#8414
+wooden violin~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 1 P
+#8418
+glowing nexus~
+a glowing nexus~
+This glowing nexus seems to lead somewhere.~
+unknown~
+portal 0 0
+C 0 0 0 0
+0 0 0 P
+#8419
+glowing rock~
+a glowing rock~
+(no description)~
+unknown~
+none 0 A
+0 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0
+0 0 1 P
+#8420
+glowing rune~
+a glowing rune~
+This rune glows with an arcane power.~
+unknown~
+none 0 AX
+0 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0
+1 0 0 P
+#8421
+greater rune~
+a greater rune~
+This greater rune hums with an archaic power.~
+unknown~
+none 0 AX
+0 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0
+1 0 0 P
+#8422
+large green apple~
+a large {Ggreen{x apple~
+This large {Ggreen{x apple looks really juicy.~
+unknown~
+food 0 A
+ADE 0 0 0 0
+1 1 1 P
+#8423
+dry dusty scroll~
+a dusty scroll~
+A dry and dusty scroll~
+unknown~
+room_key T ALO
+0 0 0 0 0
+25 1 50 P
+E
+scroll dry dusty~
+This ill-kept scroll seems to have suffered years of neglect.  Though spaces 
+in the text seem to have crumbled away with age and exposure to heat.  Part 
+of its former message is still visible, if incoherent.  
+~
+#0
+
+
+
+#ROOMS
+#8000
+.~
+~
+0 1048588 0
+E
+floor~
+A closer look at the floor reveals a queer fact--only barely there, a
+series of lines are carved into the wood, marking medium-sized tiles 
+all over the surface of the floor.
+~
+M 0 H 0
+S
+#8001
+.~
+~
+0 12 0
+M 0 H 0
+S
+#8002
+.~
+~
+0 12 0
+M 0 H 0
+S
+#8003
+.~
+~
+0 4194316 0
+M 0 H 0
+S
+#8004
+.~
+~
+0 4 0
+E
+door~
+The round stone door has survived the tolls of time perfectly, offering a
+crude, stern appearance.  Masterfully engraved into the surface of the door
+are the following writings: 
+ 
+Press me, Open, O wise friend, and bear in mind;
+The safe way to knowledge lies within nature, and nature only.
+ 
+- Ariethus, Acolyte of Nature, High Druid
+~
+M 0 H 0
+S
+#8005
+.~
+~
+0 4 0
+M 0 H 0
+S
+#8006
+.~
+~
+0 1056780 0
+M 0 H 0
+S
+#8007
+.~
+~
+0 1056780 0
+M 0 H 0
+S
+#8010
+.~
+~
+0 1056780 0
+M 0 H 0
+S
+#8011
+.~
+~
+0 4 0
+M 0 H 0
+S
+#8100
+.~
+~
+0 262156 0
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

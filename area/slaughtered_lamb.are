@@ -1,0 +1,1412 @@
+#AREADATA
+Name {60 75} Blyte   The Slaughtered Lamb~
+Builders Blyte~
+VNUMs 240 299
+Security 1
+End
+
+
+
+#MOBILES
+#240
+glowing sheep~
+a glowing sheep~
+The sheep glows oddly as it roams about eating grass.
+~
+This animal is very odd not only does an unnatural glow emit from its
+wool but its about the size of a adult cave bear.  Great curved horns loop
+from either side of its massive head.  Its dull eyes gaze around it with a
+worried look, almost as if even this massive creature has something to be
+concerned about.  
+~
+Bear~
+AH 0 0 S
+65 0 11d352+1789 65d10+100 5d8+19 15
+-15 -15 -15 -13
+DEO 0 EI 0
+9 9 3 292
+AGV ABCDEFHJKPUV M unknown
+#241
+fell wolf~
+a fell wolf~
+A huge fell wolf skulks here hunting for new prey.
+~
+This must be a fell wolf, a hate from an older time.  Massive jaws are
+lined with fearsome teeth and powerful shoulders give a impression of power.
+These must have once long ago been called forth by some kind of magic but
+now they run free preying on any living thing that crosses their path.  
+~
+Wolfen~
+AF FJVZc 0 S
+70 0 11d443+2036 70d10+100 5d8+22 10
+-17 -17 -17 -15
+DFH 0 I H
+9 9 3 315
+AGHMV ABCDEFGHIJKLPQUV M unknown
+#242
+pink fog blood mist~
+pink fog~
+A pinkish hint to the fog indicates the presence of blood mist.
+~
+This must be a blood mist so named due to its habit of draining the life
+blood from the living.  The slight pinkish color is due to blood remaining
+in its cloud like body.  A thin web like structure seems to be all that
+makes up the monster.  Around this web an ever present fog helps to conceal
+it.  
+~
+Ghost~
+AH OQTU -1000 S
+68 0 11d405+1935 68d10+100 5d8+21 12
+-17 -17 -17 -14
+AF F AE CGHN
+9 9 0 306
+CIKLM ABCDEFGHIJKLM M unknown
+#243
+maegenheard dragon ghost~
+a dragon's ghost~
+The ghost of the fire dragon Maegenheard battles on here.
+~
+The ghost Maegenheard still battles on even after his death.  He soars
+above the site of his death.  Light passes through his body now where once
+it would have shone off golden scales, still light glints off fearsome claws
+and teeth.  By pure will power Maegenheard remains in the plane of the
+living to kill the wizard that ended his life.  
+~
+Dragon~
+A BDFHOTVc 600 S
+74 0 11d528+2248 74d10+100 5d9+23 18
+-19 -19 -19 -17
+CM L HIK C
+9 9 1 333
+ACGHMVZc ACDEFHJKLOPQUVX H unknown
+#244
+nymph wizard alyson spirit~
+a spirit of a wizard~
+The spirit of the wizard Alyson battles on here.
+~
+The nymph wizard Alyson's spirit battles on here against the dragon. 
+Alyson in life must have been truly wonderful to gaze upon and even after
+her death the beauty remains.  Alyson was a small nymph whose power was
+based upon great magic, stories are still told of how she bound the dragon
+to her will, with but a single dance.  Now she remains here in an attempt to
+still the dragons spirit.  
+~
+Nymph~
+AO BH -300 S
+73 0 11d505+2194 73d10+100 5d9+22 19
+-19 -19 -19 -16
+0 LQ H CN
+9 9 2 328
+ACGHMV ABCDEFGHIJKMQUV M unknown
+#245
+host spectral~
+a spectral host~
+A host of specters, move in unison almost as a single creature.
+~
+Many warriors are here acting as a single creature.  So unified were they
+in life that even after death they work towards a single goal.  Moving as
+one creature these lost souls advance towards a long departed enemy.  
+~
+Ghost~
+A BOTU 0 S
+71 0 11d463+2089 71d10+100 5d9+21 30
+-18 -18 -18 -16
+CD 0 A C
+9 9 0 319
+CIKLM ABCDEFGHIJKLM H unknown
+#246
+ghost grax commander~
+the ghost of Grax~
+Grax the commander of one of the doomed armies is here shouting orders to long dead troops.
+~
+In life Grax was a great leader and warrior alike, now in death his will
+for battle is all that keeps him going.  Short cut hair and heavily scared
+features surround a pair of penetrating eyes.  
+~
+Ghost~
+A BTU -1000 S
+73 0 11d505+2194 73d10+100 5d9+22 30
+-19 -19 -19 -16
+EFIK 0 A CN
+9 9 1 328
+CIKLM ABCDEFGHIJKLM M unknown
+#247
+ghost blent commander~
+the ghost of Blent~
+Blent the commander of a long dead army rages here.
+~
+Blent's anger rages about him forming a wall of fire about his person. 
+His eyes roll insanely at his own death and the loss of the battle.  Now and
+then he can be heard bellowing "How could we lose, we had a dragon!"  What
+was once a great leader with plans of conquest now is little more than an
+insane shadow.  
+~
+Ghost~
+A BTU -1000 S
+73 0 11d505+2194 73d10+100 5d9+22 29
+-19 -19 -19 -16
+FIK 0 A CN
+9 9 1 328
+CIKLM ABCDEFGHIJKLM M unknown
+#248
+big joch mclintoch~
+Joch McLintock~
+Big Joch McLintock is a large bull headed creature selling drinks here.
+~
+Joch has worked here for some time and it is thought that its only by the
+blessings of some god that this place remains in the curse land.  Joch
+appears as a huge bull headed human, his long curved horns reach up towards
+the roof.  Lifting a bottle of spirits to his bovine mouth he drinks heavily
+muttering warnings such as "Do not go onto the moors" and "beware the nights
+of the full moon".  
+~
+Shapeshifter~
+ABRW 0 0 S
+75 0 11d551+2303 75d10+100 5d9+24 0
+-19 -19 -19 -17
+0 ABQ 0 0
+9 9 1 337
+ACGHMV ABCDEFGHIJKMQUV M unknown
+#249
+ullhagen darkhammer dwarf beast~
+ullhagen darkhammer~
+The dwarf Ullhagen Darkhammer is here his body twisted into that of a beast, frothing madly.
+~
+A heavily battle scarred dwarf, who goes by the name of Ullhagen
+Darkhammer stands before you.  His stocky form is warped into that of a
+lupine beast in places.  Madness and a feral hunger fills his eyes , so far
+gone is his mind that he is even chomping on his own arm.  Clumps of dark
+black fur mix in with equally dark hair, covering powerful muscles.  As he
+takes time from biting him self you see that his teeth have grown long and
+sharpe.  
+~
+unique~
+AFQ FJOVa -1000 S
+75 0 11d551+2303 75d10+100 5d9+24 10
+-19 -19 -19 -17
+0 B CLQ CR
+9 9 1 337
+AHMV ABCDEFGHIJK M unknown
+#250
+mage calandor~
+Calandor the mage~
+Calandor the elven mage waits here for someone to rob.
+~
+Calandor is a young elven mage with pretensions of being a gentleman, it
+is to this end that he has taken to the life of a highway man.  Lacking
+money he coverts the wealth of others and have seen the Golden Temple of
+Xian he thought that wealth must be there.  His looks are those of an angel
+but something seems dark about him, maybe its the way his mouth is locked
+into a smirk or something about the eyes your not sure.  
+~
+unique~
+AO J -500 S
+60 0 11d277+1559 60d10+100 5d7+19 17
+-13 -13 -13 -11
+0 0 B 0
+9 9 1 270
+AHMV ABCDEFGHIJK M unknown
+#251
+fat ragnar warrior~
+Ragnar the warrior~
+Ragnar's fat form stands here waiting for orders or something to hit.
+~
+Ragnar is an over weight Lacerti who wishes to be accepted by other
+races.  Sadly he has fallen in with a bad group of friends and now works as
+a thug mugging those who he comes across.  He lusts after Rowan and respects
+Calandor's intelligence and style so there's little chance of him changing. 
+~
+unique~
+AQ 0 -100 S
+60 0 11d277+1559 60d10+100 5d7+19 17
+-13 -13 -13 -11
+0 L 0 0
+9 9 1 270
+ACGHMVXc ABCDEFGHIJKLMPQUVX M unknown
+#252
+rowan~
+Rowan~
+Rowan cleans her fur as she waits for someone to give her their money.
+~
+With the grace of a dancer and the looks of a courtesan Rowan could get a
+real job if it wasn't for her lust for blood.  She gazes around her with
+amusement and a sly cunning, waiting for her next meal ticket.  Where as the
+others have a goal they are attempting to reach, Rowan just likes spilling
+blood and the taste of a fresh kill.  
+~
+Haitorin~
+APQ QVZ -700 S
+60 0 11d277+1559 60d10+100 5d7+19 5
+-13 -13 -13 -11
+H 0 P H
+9 9 2 270
+ACGHMV ABCDEFGHIJKMQUV M unknown
+#253
+dark crow curse bird~
+a cursed crow~
+A large cursed crow flaps its great wings as it squabbles with itself.
+~
+Larger than a man this creature resembles a crow with two heads.  Upon
+closer inspection it can be seen that scales cover its body where feathers
+are missing.  A green light seems to come from its eyes as it looks in your
+direction.  
+~
+Wyvern~
+AH DFT -246 S
+63 0 11d321+1694 63d10+100 5d8+18 23
+-15 -15 -15 -12
+CFH L 0 S
+9 9 3 283
+ABGWZc ACDEFHJKOPQUVX M unknown
+#254
+eadron mystic elf elven~
+eadron the mystic~
+Eadron is here attempting to lay the spirits of the dead to rest.
+~
+A tall and thin elf by the looks of him, Eadron has pledged him self to
+freeing the spirits of the dead that are said to still walk these moors. 
+His long brown hair has been shaven at the front and cut close at the back
+so as not to get in the way.  
+~
+unique~
+AN J 1000 S
+64 0 11d336+1741 64d10+100 5d8+18 17
+-15 -15 -15 -13
+0 0 B 0
+9 9 1 288
+AHMV ABCDEFGHIJK M unknown
+#255
+will o' the wisp ball light~
+a will o' the wisp~
+A dancing Will O' the Wisp is here waiting for something to die.
+~
+A pulsating ball of energy that seems to move with a will of its own
+flies around swooping and diving almost to some unheard tune.  Now and then
+power arcs from its body burning the earth.  
+~
+unique~
+AH HTU 0 S
+61 0 11d291+1603 61d10+100 5d7+19 28
+-14 -14 -14 -12
+F JO 0 CN
+9 9 0 274
+AHMV ABCDEFGHIJK M unknown
+#256
+ghost lenor~
+the ghost of Lenor~
+The ghost of Lenor mourns her fate here.
+~
+Lenor in life killed herself so that she could be with her lover who died
+in the battle.  Sadly the Gods thought other wise and she's been doomed to
+walk the earth as a shade.  Long hair seems to drip with water from the sea
+far below that she plunged herself into long ago.  
+~
+Ghost~
+AH TU 214 S
+64 0 11d336+1741 64d10+100 5d8+18 30
+-15 -15 -15 -13
+0 0 A C
+9 9 2 288
+CIKLM ABCDEFGHIJKLM M unknown
+#0
+
+
+
+#OBJECTS
+#240
+brigandine sleeves black mound~
+brigandine sleeves~
+A crumpled mound of black cloth and metal has been discarded here.~
+unknown~
+9 G AI 0
+BD BD BD AB 0
+60 15 300 P
+A
+18 1
+A
+19 2
+A
+3 -1
+E
+mound~
+This mound of cloth and metal could form some kind of armor, maybe a set
+of sleeves.  
+~
+0 0
+#241
+punch dagger~
+a punch dagger~
+A sharp-looking punch dagger with a basket guard has been left here.~
+unknown~
+5 B AN 0
+B ABCDE AB ABD 0
+60 3 300 P
+0 BC
+#242
+black riding boots~
+riding boots~
+A pair of masterfully crafted black leather riding boots have been tossed here.~
+unknown~
+11 G AG 0
+0 0 0 0 0
+60 6 900 P
+A
+2 1
+0 0
+#243
+massive great sword~
+a massive greatsword~
+A massive great sword at least six feet in length has been left here.~
+unknown~
+5 B ANP 0
+A ABCDE AB ACE DF
+60 50 300 P
+0 CD
+#244
+orb wisdom floating~
+an orb of wisdom~
+A glowing orb floats calmly here.~
+unknown~
+11 A AR 0
+0 0 0 0 0
+60 1 1200 P
+A
+4 2
+E
+glowing orb~
+Inside this glowing orb, words of great thinkers from older times form,
+helping the owner to understand the world around him with greater clarity.  
+~
+0 ABCDE
+#245
+green jerkin~
+a green jerkin~
+A heavy green jerkin with runic inscriptions inside lays in a heap on the floor.~
+unknown~
+9 G AD 0
+BD BD BD AB 0
+60 10 300 P
+E
+runic inscription~
+These runes make this jerkin about as effective as true armor.
+~
+0 0
+#246
+viscous fluid flat bottomed flask~
+a flat bottomed flask~
+A viscous green fluid is stored in a flat bottomed flask.~
+unknown~
+10 A AO 0
+60 33 503 0 0
+60 1 1800 P
+E
+!history!~
+By grinding up the eyes of the curse sheep that can be located on the
+moors it is said a powerful potion can be made that lets you see things
+hidden by magic.  Be warned that this liquid is must unwholesome.  
+~
+E
+flat bottomed flask~
+This fluid seems to have been made from something being mashed up going
+by the thickness of it.  
+~
+0 0
+#247
+black heart fell wolf~
+a black heart~
+The black heart of a fell wolf has been cut out and dumped here.~
+unknown~
+26 H AO 0
+60 504 0 0 0
+60 1 1800 P
+0 0
+#248
+shimmering gown green~
+a shimmering green gown~
+A green gown shimmers with magical energy and power as it lies on the ground.~
+unknown~
+9 GJT AD 0
+CD CD CD AB 0
+73 6 365 P
+A
+5 -1
+A
+12 10
+E
+!history!~
+Legend would have you believe that the shimmering green robe was made
+from the hair of daemons.  
+~
+0 ABCDE
+#249
+blackthorn stave~
+a blackthorn stave~
+A rod of blackthorns has been skillfully crafted and left here for a lucky adventurer.~
+unknown~
+4 BGT AO 0
+BCG C B 7 0
+70 4 350 P
+0 ABCDE
+#250
+spear icy determination~
+an icy spear~
+A spear crafted from the determination of the wielder, pulses with icy power as it lies here.~
+unknown~
+5 FG AN 0
+AB BD BCD ABCD B
+73 20 365 P
+A
+19 2
+0 ABCDE
+#251
+maul fiery wrath~
+a maul of fiery wrath~
+A maul constructed out of the wrath of the wielder hums here with menace.~
+unknown~
+5 G AN 0
+C BD BCD BE A
+73 10 365 P
+A
+18 2
+0 ABCDE
+#252
+visage wolf~
+a visage of the wolf~
+A strange disturbance in the air forms the shape of a wolf's face.~
+unknown~
+9 GJ AT 0
+CD CD CD AB 0
+75 2 375 P
+A
+1 1
+A
+2 1
+A
+3 -1
+A
+4 -1
+0 ABCDE
+#253
+huge blackened axe~
+a huge blackened axe~
+A huge axe lays here, blackened as if exposed to a great fire.~
+unknown~
+5 G AN 0
+AC ABD ACD ACE 0
+75 40 375 P
+A
+19 2
+A
+18 1
+0 CDE
+#254
+floating fiery skull~
+a fiery skull~
+A fiery skull floats here, grinning evilly.~
+unknown~
+1 A AR 0
+0 0 999 0 0
+65 1 1500 P
+A
+4 -1
+A
+12 10
+A
+19 2
+0 ABCDE
+#255
+spirit ale~
+a glass of spirit ale~
+A tall glass of spirit ale has been left here.~
+unknown~
+17 A AO 0
+B B C 0 0
+60 2 180 P
+0 0
+#256
+glass scrumbald~
+a glass of scrumbald~
+A frothing glass of scrumbald sits here.~
+unknown~
+17 0 AO 0
+B B BDE 0 0
+60 2 180 P
+0 0
+#257
+spirit sherry glass~
+a glass of spiritfolk sherry~
+A small glass containing a glowing liquid is here.~
+unknown~
+17 A AO 0
+A A B 0 0
+60 1 180 P
+0 0
+#258
+glass rotgut~
+a glass of rotgut~
+A glass of brown liquid sits here.~
+unknown~
+17 0 AO 0
+A A AE 0 0
+60 1 180 P
+0 0
+#259
+moors brew glass~
+a glass of moors beer~
+A large glass of Moor's Brew sits here waiting to be drunk.~
+unknown~
+17 0 AO 0
+AB AB A 0 0
+60 1 180 P
+0 0
+#260
+dark pool water~
+a dark pool of water~
+The water surface is like a mirror letting you see your reflecting in its coolness.~
+unknown~
+25 0 0 0
+0 0 0 0 0
+0 5000 0 P
+0 0
+#261
+sigil hope~
+a sigil of hope~
+A magical symbol that inspires hope of a better time lays here.~
+unknown~
+11 GHIKLM AS 0
+0 0 0 0 0
+64 0 300 P
+A
+13 40
+A
+18 2
+0 BCD
+#262
+long silver rod~
+a long silver rod~
+A long silver pole that would make a great weapon has been left here.~
+unknown~
+5 B AN 0
+D ABD ABD ABC H
+64 20 320 P
+A
+1 -2
+A
+4 3
+0 CD
+#0
+
+
+
+#ROOMS
+#240
+Sea View~
+Red slate pan tiles protect this open room from the elements.  To the
+south the sea seems to stretch endlessly and the sound of great waves
+crashing upon the distant rocks below reaches up here.  To the north the
+main bar of this inn can be seen.  Wooden benches have been place here so
+that some small degree of comfort may be obtained.  Far out over the waters
+a great storm rages, a greenish tint to the clouds hint at some magical
+course.  Lightning and thunder lead to a spectacular view.  
+~
+0 0 4
+D0
+~
+~
+1 0 241
+S
+#241
+The Bar~
+The wooden walls of this room are stained from smoke and age.  A large
+wooden bar stretches along the eastern wall and numerous small wooden tables
+and chairs have been scattered about with skill for the patrons to sit at. 
+Set in to the western side of this room a large fire place has been built
+the smoke from the burning wood wafts through the air.  Two solid wooden
+doors close the bar off from the outside one set into the north wall and one
+in the south.  Over the northern door a strange sigil has been carved.  
+~
+0 8 0
+E
+sigil~
+This sigil seems to be for protection carved deep into the wood of the
+wall, a faint blue glow can be seen upon close inspection.  
+~
+D0
+~
+~
+1 0 242
+D2
+~
+~
+1 0 240
+S
+#242
+Before the Slaughtered Lamb~
+To the south a single storey stone building with a red pan tiled roof can
+be seen standing before a cliff face.  A painted wooden sign hangs above the
+heavy door.  The sound of the waves reaches up to your ears here making an
+almost pleasant change from the silence of the surrounding moors which
+stretch off in all directions from you.  
+~
+0 8196 4
+E
+sign~
+The sign swings freely in even the slightest breeze, painted upon both
+faces of the sign is a picture of a wolves head impaled upon a fire hardened
+wooden stake.  Beneath this written in the common script is the legend "The
+Slaughtered Lamb".  
+~
+D0
+~
+~
+0 0 247
+D1
+~
+~
+0 0 243
+D2
+~
+~
+1 0 241
+D3
+~
+~
+0 0 244
+S
+#243
+Lands End~
+The moors end abruptly here with a sheer drop down into a storm rocked
+sea, the booming sound of the waves far below reaches loudly to you here. 
+The moors continue to stretch away to the north and west.  Dense mist rises
+from the ground almost hiding a small single storey building to the west. 
+Some way off in the distance the tormented howl of an unknown creature can
+be heard.  
+~
+0 8192 4
+D0
+~
+~
+0 0 248
+D3
+~
+~
+0 0 242
+S
+#244
+Lands End~
+The fog shrouded moors end here at a sheer cliff face, great waves can be
+heard thundering into the rocks below.  Far to the south, over the sea, a
+storm can be seen raging while the moors extend to both the north and the
+east.  A red roofed building can just be seen to the east, partly obscured
+by the mists.  Lightning from the storm clouds flashes brightly every so
+often illuminating the bleak moors for an instant.  
+~
+0 8192 4
+D0
+~
+~
+0 0 246
+D1
+~
+~
+0 0 242
+S
+#245
+Moors~
+An ever present fog enshrouds the land making it almost impossible to
+determine, at a distance, which is a lichen covered bolder and which is a
+gorse bush.  A dark pool of water can just be seen bubbling up out of some
+green tinged rocks underneath one of the larger boulders at the foot of a
+slope.  The eerie quiet hangs heavily upon the air.  
+~
+0 8192 4
+D0
+~
+~
+0 0 250
+D1
+~
+~
+0 0 246
+S
+#246
+Moors~
+A thick fog covers the uneven land cutting vision down and clogging the
+senses.  A distance off to the south-east a small building can just be seen
+though the mist.  Different mosses cling onto rock spurs that in ages past
+have been thrust through the dark soil.  Low growing gorse litter the ground
+between these ancient boulders, their spikes trusting out in all directions.
+Only tough grass seems to truly prosper here.  
+~
+0 8192 4
+D0
+~
+~
+0 0 251
+D1
+~
+~
+0 0 247
+D2
+~
+~
+0 0 244
+D3
+~
+~
+0 0 245
+S
+#247
+Moors~
+Ancient rocks and low growing, spike covered, gorse break up the sky line
+of this land.  The white fog swirls and eddies to the moaning wind,
+obscuring vision and numbing sound.  The broken nature of the land means
+that anything could be hidden only a few feet from you.  Far to the south a
+light appears or is it but a trick of invasive fog?  
+~
+0 8192 4
+D0
+~
+~
+0 0 252
+D1
+~
+~
+0 0 248
+D2
+~
+~
+0 0 242
+D3
+~
+~
+0 0 246
+S
+#248
+Moors~
+Thick pale fog dancers to the winds lament, blocking sight and deadening
+sound.  Moss covered rocks futilely grasp upwards towards the sky, while
+gullies plunge downwards.  Bright heather and thorn covered gorse seem to be
+the only plants except for scrubby grasses.  Here and there large white
+objects can be seen littering the earth.  
+~
+0 8192 4
+E
+large~
+These seem to be bones mainly of large animals but some maybe human or
+from other racers.  
+~
+E
+white~
+These seem to be bones mainly of large animals but some maybe human or
+from other racers.  
+~
+D0
+~
+~
+0 0 253
+D1
+~
+~
+0 0 249
+D2
+~
+~
+0 0 243
+D3
+~
+~
+0 0 247
+S
+#249
+Moors~
+Mist and fog stretches ghostly tendrils from the dank, dark earth.  All
+around the mournful howl of the wind can be heard.  The stench of decay
+rises from the partly concealed earth and here and there a large white
+object can just be made out.  Large rocks litter the ground at the base of
+one a heap of rags seem to have been placed.  The bleak moor land stretches
+away in all directions.  Far off in the distance the wail of some beast
+reaches your ears.  
+~
+0 8192 4
+E
+rags~
+The rags for a circle with a deep depression in the center almost like a
+bed of some kind, who or what could sleep in such a place?  
+~
+E
+white~
+These seem to be bones mainly of large animals but some maybe human or
+from other racers.  
+~
+E
+large~
+These seem to be bones mainly of large animals but some maybe human or
+from other racers.  
+~
+D0
+~
+~
+0 0 254
+D3
+~
+~
+0 0 248
+S
+#250
+Moors~
+The mournful wind whips and twists the fog about you, confusing the
+senses.  All around you the land lifts and drops, large boulders sprout
+forth from the earth like giant fungi.  Here and there bright heather grows
+looking out of place when compared to the bleakness of the rest of the land.
+To the north some kind of large mound can just be made out, maybe its just a
+trick of the mists.  
+~
+0 8192 4
+D0
+~
+~
+0 0 263
+D1
+~
+~
+0 0 251
+D2
+~
+~
+0 0 245
+S
+#251
+Bone-Littered Moors~
+Huge white bones cover the earth and jut out of the fog, what ever died
+here must have been massive.  The bones range in size from about that of a
+whole horse to that of a humans finger.  The rocks here seem pitted and
+stained a red-brown colour.  Very little plant life grows up though the
+earth.  The wind howls with an almost animalistic quality to it through the
+boulders, enough to send shivers down the spine of the weak hearted.  
+~
+0 8192 4
+E
+bones~
+The bones are all over the ground some have even become buried under the
+soil.  Looking closely you can see some large dagger like teeth and claws
+scattered about.  
+~
+E
+bones~
+These bones must have belonged to some impressive creature or someones
+been gathering them here for an unkown perpose.  
+~
+E
+bones~
+Some kind of massive creature must have been killed here, either that or
+someone has been collecting bones for along time and placing them here for
+some reason.......  
+~
+D0
+~
+~
+0 0 264
+D1
+~
+~
+0 0 252
+D2
+~
+~
+0 0 246
+D3
+~
+~
+0 0 250
+S
+#252
+Moors~
+Harsh fog enshrouded moor land stretches out in all directions.  Moss
+encrusted rocks jut out of the earth and ground hugging gorse and heather
+break this uneven landscape.  A strange quietness fills the air, due either
+to th dense fog or some unnatural influence.  
+~
+0 8192 4
+D0
+~
+~
+0 0 257
+D1
+~
+~
+0 0 253
+D2
+~
+~
+0 0 247
+D3
+~
+~
+0 0 251
+S
+#253
+Moors~
+In-between three of the largest Rocks here a nest like structure has been
+built by some kind of intelligence.  Feathers the size of a man's shin lay
+upon the sodden earth, dark in color like a crows feathers.  Heading off in
+all directions the fog enshrouded moor lands seems to stretch
+disconcertingly without end.  
+~
+0 8192 4
+D0
+~
+~
+0 0 256
+D1
+~
+~
+0 0 254
+D2
+~
+~
+0 0 248
+D3
+~
+~
+0 0 252
+S
+#254
+Moors~
+Mists conceal and shrouds the moor land as it seems to stretch away in
+all directions.  Moss encrusted rocks jut out of the earth and ground
+hugging gorse and heather break this uneven landscape.  A strange quietness
+fills the air, due either to the dense fog or some unnatural influence. 
+Just visible to the north a large dark shape can be made out.  
+~
+0 8192 4
+D0
+~
+~
+0 0 255
+D2
+~
+~
+0 0 249
+D3
+~
+~
+0 0 253
+S
+#255
+Moors~
+Harsh fog enshrouded moor land stretches out in all directions.  Moss
+encrusted rocks jut out of the earth and ground hugging gorse and heather
+break this uneven landscape.  A strange quietness fills the air, due either
+to the dense fog or some unnatural influence.  One of the boulders stands
+out from the rest being fully four times the height of a tall man, this rock
+seems to have been shaped so that it resembles a giant finger pointing up to
+the concealed sky.  
+~
+0 8192 4
+D0
+~
+~
+0 0 260
+D2
+~
+~
+0 0 254
+D3
+~
+~
+0 0 256
+S
+#256
+Moors~
+Crumbling rocks lay scattered about the forbidding moors like dead
+warriors left upon some long forgotten battle field.  Pale fog dances to the
+tune of the fickle wind eddying and twisting without pattern or reason.  The
+few plants other than tough scrubby grasses that attempt to survive do so
+only close to the boulders.  You find it just possible to make out to the
+east some kind of large dark shape.  
+~
+0 8192 4
+D0
+~
+~
+0 0 259
+D1
+~
+~
+0 0 255
+D2
+~
+~
+0 0 253
+D3
+~
+~
+0 0 257
+S
+#257
+Moors~
+Rolling mists confuse and clog your senses, making it almost hazardous to
+move with out falling over one of the great boulders that litter the earth. 
+Small hardy plants attempt to live as best they can, only tough grass seem
+to have a hope.  Here and there a cracked bone can be seen left to moulder
+in the damp earth.  Barren moor land seems to stretch off in all directions
+with out the hope of an end.  
+~
+0 8192 4
+D0
+~
+~
+0 0 258
+D1
+~
+~
+0 0 256
+D2
+~
+~
+0 0 252
+D3
+~
+~
+0 0 264
+S
+#258
+Moors~
+One of the largest moss encrusted rocks seems to have some thing
+inscribed upon it.  Other than that this area seems no different to the rest
+of this harsh moor land as it stretches off into the distance.  The ever
+present mist dancers to the mournful dirge of the wind.  A strange almost
+unnatural quietness fills the fog blanketed air due either to the deadening
+effect of the fog or some thing arcane.  
+~
+0 8192 4
+E
+inscribed~
+Scratched deeply into the face of the rock and glowing strangly are the
+words: "L_N_-BL_SS-TH_M-_LL" great claw marks seem to have removed the
+vowals from the inscription so it is as it seems now.  
+~
+D1
+~
+~
+0 0 259
+D2
+~
+~
+0 0 257
+D3
+~
+~
+0 0 261
+S
+#259
+Moors~
+Harsh fog enshrouded moor land stretches out in all directions.  Moss
+encrusted rocks jut out of the earth and ground hugging gorse and heather
+break this uneven landscape.  A strange quietness fills the air, due either
+to the dense fog or some unnatural influence.  This erie silence is
+disturbed by a harsh wail of some unnamable beast far off in the distance.  
+~
+0 8192 4
+D0
+~
+~
+0 0 265
+D1
+~
+~
+0 0 260
+D2
+~
+~
+0 0 256
+D3
+~
+~
+0 0 258
+S
+#260
+Moors~
+Great weathered boulders litter the uneven earth with an erie and
+unnatural feeling fog surrounding them.  Bracken etches out a meager
+existence in the cover of the ancient rocks.  Both scent and sound seem
+almost deadened by the ever present mist that confounds the eyes.  To the
+south, through the eddying mist, a large dark mass can just be made out.  
+~
+0 8192 4
+D2
+~
+~
+0 0 255
+D3
+~
+~
+0 0 259
+S
+#261
+Torn Earth~
+The uneven ground here seems to have been ripped up, pieces of metal and
+bone lie scattered about the damp earth.  Rocks seem to have been twisted as
+if exposed to great heat and there is a distinct lack of grass and other
+plant life.  The wind makes a mournful melody in this cursed place.  To the
+south a great mound of earth can be seen though the dense fog.  To the east
+some kind of building can just be made out or at least what is left of one. 
+~
+0 8192 4
+D1
+~
+~
+0 0 258
+D2
+~
+~
+0 0 264
+D3
+~
+~
+0 0 262
+S
+#262
+Ruined Folly~
+Here a grey stone tower once stood, the walls of which no longer reach
+above eight feet.  The rocks that once formed the walls lay in heaps around
+what is left of the tower.  Thick fog partly obscures the torn and blacked
+earth, swirling to the whim of the mournful wind.  To the south east a great
+mound of earth can just be made out.  Still above the ruined door way a
+faint crest can just be made out.  
+~
+0 8192 4
+E
+crest~
+The crest shows a boar standing on one hind leg clawing the air with the
+other three.  
+~
+D1
+~
+~
+0 0 261
+D2
+~
+~
+0 0 263
+S
+#263
+Torn Earth~
+The mist rolls and twists to the lament of the wind hiding and revealing
+all about you.  The earth here seems to have been sundered long ago by great
+force, being left blackened and burnt.  Here and there upon the ground the
+white shapes of old bones and the rusting glint of metal can be seen.  Just
+visible to the east a large mound of earth has been raised.  North what is
+left of a folly can just be made out through the thick and twisting fog.  
+~
+0 8192 4
+D0
+~
+~
+0 0 262
+D1
+~
+~
+0 0 264
+D2
+~
+~
+0 0 250
+S
+#264
+Unnatural Mound~
+A great mound of earth has been raised here from which rusted metal can
+be seen glinting here and there.  Nothing grows upon this or any where close
+to it.  The fog swirls about this mound almost like waves around the sea.  A
+faint odor of soft corruption hangs about the air mixing with the scent of
+the earth.  Far off in the distance the sound of either an animal in pain or
+hunting can be heard.  
+~
+0 8192 4
+D0
+~
+~
+0 0 261
+D1
+~
+~
+0 0 257
+D2
+~
+~
+0 0 251
+D3
+~
+~
+0 0 263
+S
+#265
+A Path to the Moors~
+Slight rolling hills give way to the south and become fog shrouded moor
+land.  Long wild grasses wave gently in even the slightest wind, rippling
+like the sea.  To the north a path curves though the high grasses.  
+~
+0 4 4
+D0
+~
+~
+0 0 266
+D2
+~
+~
+0 0 259
+S
+#266
+A Path Through the Grass~
+A curving dirt path winds its way through long, waist high grasses.  To
+the west a small copse of hazel trees grows while to the south the land
+becomes more hilly.  The sound of numerous insects living out their lives
+from within the grasses reaches your ears.  
+~
+0 0 2
+D2
+~
+~
+0 0 265
+D3
+~
+~
+0 0 267
+S
+#267
+A Hazel Copse~
+The path winds its way into a dense copse of hazel trees.  Small birds
+sit high in these trees darting down to munch on one of the many insects
+that thrive in the grasses.  The great hazel trees block almost all of the
+light onto the path making it seem some how menacing.  
+~
+0 0 3
+D1
+~
+~
+0 0 266
+D3
+~
+~
+0 0 268
+S
+#268
+A Path Through the Grasses~
+Long grasses flank either side of this narrow track.  The sound of small
+animals living out their lives reaches your ears from the rippling sea of
+grass.  Now and then a rabbit can be seen darting from one side of the path
+to the other far a head of you.  
+~
+0 0 2
+D0
+~
+~
+0 0 269
+D1
+~
+~
+0 0 267
+S
+#269
+A Narrow Trail~
+A narrow trail winds its way through waist high grasses.  Small animals
+can be heard moving about it these grasses running from any movement.  These
+wild grasses ripple almost like the sea to the slightest breeze.  
+~
+0 4 2
+D2
+~
+~
+0 0 268
+D5
+~
+~
+0 0 16241
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 243 spec_breath_fire Load to: a dragon's ghost
+M 244 spec_cast_mage Load to: a spirit of a wizard
+M 249 spec_nasty Load to: ullhagen darkhammer
+M 250 spec_cast_mage Load to: Calandor the mage
+M 252 spec_thief Load to: Rowan
+M 254 spec_cast_cleric Load to: eadron the mystic
+S
+
+
+
+#RESETS
+D 0 240 0 0
+D 0 241 0 0
+D 0 241 2 0
+D 0 242 2 0
+M 0 248 1 241
+E 0 245 0 5
+G 0 255 0
+G 0 256 0
+G 0 257 0
+G 0 258 0
+G 0 259 0
+M 0 255 2 243
+M 0 256 1 244
+O 0 260 0 245
+M 0 254 1 245
+E 0 261 0 22
+E 0 262 0 16
+M 0 242 2 248
+M 0 249 1 249
+E 0 252 0 24
+E 0 253 0 16
+E 0 254 0 21
+M 0 242 2 250
+M 0 243 1 251
+M 0 244 1 251
+E 0 248 0 5
+E 0 249 0 16
+M 0 240 4 252
+M 0 253 1 253
+M 0 240 4 254
+M 0 241 1 255
+G 0 247 0
+M 0 240 4 256
+M 0 241 1 257
+M 0 241 1 258
+G 0 247 0
+M 0 240 4 260
+M 0 245 1 261
+M 0 255 2 262
+M 0 245 1 263
+M 0 246 1 264
+E 0 250 0 16
+M 0 247 1 264
+E 0 251 0 16
+M 0 252 1 267
+E 0 240 0 10
+E 0 241 0 16
+E 0 242 0 8
+M 0 250 1 267
+E 0 245 0 5
+E 0 240 0 10
+E 0 244 0 21
+M 0 251 1 267
+E 0 243 0 16
+G 0 246 0
+S
+
+
+
+#SHOPS
+248 17 0 0 0 0 130 60 10 24
+0
+
+
+
+#$

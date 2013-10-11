@@ -536,16 +536,16 @@ Mini-Maze~
 You are in a small passage that looks just like every other one.
 ~
 0 9 2
-D3
-~
-~
-~
-0 -1 6613
 D2
 ~
 ~
 ~
 0 -1 6616
+D3
+~
+~
+~
+0 -1 6613
 S
 #6615
 Mini-Maze~
@@ -573,16 +573,16 @@ D0
 ~
 ~
 0 -1 6614
-D3
-~
-~
-~
-0 -1 6615
 D2
 ~
 ~
 ~
 0 -1 6624
+D3
+~
+~
+~
+0 -1 6615
 S
 #6624
 End of the Mini-Maze~

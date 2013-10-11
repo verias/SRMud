@@ -1,0 +1,1414 @@
+#AREADATA
+Name {45 65} Sighel  Ubel Monument~
+Builders Sighel~
+VNUMs 10200 10249
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#10200
+Ubel Temple Guard~
+the Ubel Temple Guard~
+Mist-like in appearance, the guard points to something stuck on the door.
+~
+The mistiness of this figure hardly makes it appear a strong defender of
+the temple, though that is the complete opposite of truth.  Knowing that you
+have found your way through the bleak lands surrounding for a single purpose
+of finding this temple, it points at a tattered scroll stuck to a spike from
+the door.  It gazes at you with a somewhat lost expression on its face.  
+~
+unique~
+ABQ DJTUZc 0 0
+65 5 11d352+1789 65d10+100 5d8+19 sting
+-15 -15 -15 -13
+0 I D CN
+(null) (null) male 292
+AHMV ABCDEFGHIJK medium unknown
+#10201
+shadow~
+a shadow~
+A shadow constantly moves about the room.
+~
+The shadow is just that - a shadow.  You can see through it to the wall
+behind it, and you can put your arm through it if you so desired.  It looks
+as though it can never be still, moving back and forth across the room,
+running away from the light as it swings.  
+~
+unique~
+AF TU -1000 0
+50 0 10d167+1149 50d10+100 5d6+13 whip
+-9 -9 -9 -7
+BFGHR HIL D CN
+(null) (null) male 225
+AHMV ABCDEFGHIJK medium unknown
+#10202
+blinding speck of light~
+a blinding speck of light~
+A blinding speck of light sends rays out into your eyes and mind.
+~
+All you see is whiteness.  Pure whiteness.  But then you look closer. 
+And realise what you really see is completely blackness.  
+~
+human~
+A T 0 0
+101 0 13d1446+3994 101d10+100 6d11+30 none
+-45 -45 -45 -40
+0 0 0 0
+(null) (null) male 454
+AHMV ABCDEFGHIJK medium unknown
+#10203
+fire imp~
+a fire imp~
+A small imp skips about here, surrounded by flames.
+~
+Standing about four feet in height this creature would not look at all
+impressive except of the aura of fire around it.  Small black horns peek
+from the forehead of its otherwise red hide, matching the claws and teeth in
+color.  Red eyes glaze from its leering face as it skips about looking for
+something of interest to its self.  
+~
+unique~
+AH CJTVZa -750 0
+45 0 10d128+969 45d10+100 5d5+14 chop
+-7 -7 -7 -5
+FK HLQ M N
+(null) (null) none 202
+ACGHIMVZc ACDEFHJKLOPUVW small unknown
+#10204
+hell hound puppy~
+a hell hound puppy~
+A small hell hound gambles here, it looks like a puppy.
+~
+Prancing about is what looks like a hell hound puppy.  Short shiny black
+fur covers its body while glowing red eyes gaze about with a much more
+malicious interest than a normal pup would.  Every now and then small
+tongues of fire flicker from its panting mouth.  
+~
+dog~
+AF FIJZ -600 0
+47 0 10d142+1039 47d10+100 5d5+15 chop
+-8 -8 -8 -6
+FH 0 HI H
+(null) (null) none 211
+AGHMV ABCDEFGHIJKLPQUV medium unknown
+#10205
+grasnik black cloak~
+a grashnik~
+A figure consisting of little more than a back cloak floats here.
+~
+The figure before you seems to be little more than a black cloak, moving
+on its own.  Legend has it these are called grashniks a type of minor demon.
+Only darkness can be seen from within its hooded head and the sleeves appear
+to move without hands being visible inside.  
+~
+unique~
+A CJTVZa -1000 0
+50 0 10d167+1149 50d10+100 5d6+13 charge
+-9 -9 -9 -7
+C LQ M N
+(null) (null) male 225
+ACGHIMVZc ACDEFHJKLOPUVW medium unknown
+#10206
+succubi~
+a succubi~
+A bat-winged woman stands here, she must be a succubi.
+~
+With an enchanting figure and form, the bat-winged figure before you
+smiles as she see you.  No clothing masks her body and without the wings and
+glowing red eyes she could pass as a beautiful human easy enough, as it
+stands she must be a succubi.  
+~
+unique~
+AO CHJTVZa -600 0
+53 0 11d195+1265 53d10+100 5d6+16 beating
+-10 -10 -10 -8
+0 LQ M N
+(null) (null) either 238
+ACGHIMVZc ACDEFHJKLOPUVW medium unknown
+#10207
+female hell hound~
+an angry hell hound~
+A very angry looking hell hound sniffs about here.
+~
+This large canine creature looks to be a hell hound going by the
+jet-black coat and fires flickering from its maul.  Powerful looking jaws
+and mighty shoulders give this creature a look of danger as it moves around
+sniffing the air.  
+~
+dog~
+AFV FJVZ -1000 0
+55 0 11d216+1345 55d10+100 5d7+16 chop
+-11 -11 -11 -9
+FH H I H
+(null) (null) either 247
+AGHMV ABCDEFGHIJKLPQUV medium unknown
+#10208
+demon Mehngor~
+Mehngor~
+The demon Mehngor stands here, looking slightly bored.
+~
+A large humanoid with rough red skin stands before you.  Stately,
+leathery wings sprout from his back and are capped with black hook-like
+formations that match the small, curved horns emerging from the beast's
+forehead.  Yellow eyes with slits of red take in all of his surroundings.  A
+forked tail can be seen, moving on its own accord.  
+~
+unique~
+AQ CDFJOTVZa -1000 0
+55 0 11d216+1345 55d10+100 5d7+16 digestion
+-11 -11 -11 -9
+CFI LQ M N
+(null) (null) female 247
+ACGHIMVZc ACDEFHJKLOPUVW medium unknown
+#10209
+red demon~
+a red demon~
+A red demon slowly creeps his was along the wall plotting his assault on YOU.
+~
+Dull red skin, full of gashes and cuts covers the body of this large
+horned demon.  Hooved feet and hands appear to create useful, dangerous
+weapons for this creature.  His dark eyes dart about searching for prey.  A
+low growl is heard coming from deep within his throat once he realises you
+have spotted him.  
+~
+unique~
+AP BCJTVZa -1000 0
+48 0 10d150+1075 48d10+100 5d6+13 none
+-8 -8 -8 -6
+CDEGH BLQ M N
+(null) (null) female 216
+ACGHIMVZc ACDEFHJKLOPUVW large unknown
+#10249
+vampire~
+a vampire~
+Glowing red eyes stare at you filled with bloodlust from this gaunt vampire.
+~
+Tall and thin, this vampire stays far back into the cave, making sure no
+light will come close to it at all.  You can tell it has some special bond
+with the many millions of bats that keep the entrance to the cave dark for
+it, as it pets one of them fondly.  Looking closer at its face, you can
+almost see the veins and muscle tissue beneath its almost transparent skin. 
+It catches you stares and lunges forward, mouth open wide to show two large
+sharp teeth as it utters an awful hiss at you.  
+~
+human~
+A JTZ -1000 0
+90 0 12d991+3214 90d10+100 5d11+28 crush
+-46 -46 -46 -18
+EGH ILQ C FNSX
+(null) (null) male 405
+ACGHIMVc ABCDEFGHIJKV medium unknown
+#0
+
+
+
+#OBJECTS
+#10200
+black sapphire chip amulet~
+a small black sapphire chip amulet~
+A small black sapphire chip is attached to a cord to wear.~
+sapphire~
+key AHRW AC
+0 0 0 0 0
+15 2 225 P
+A
+18 2
+#10201
+scroll parchment note~
+a tattered old parchment~
+A tattered old parchment is stuck on a spike.
+Written in faded black are a few words:
+"Hold the amulet and you hold the key to Ubel"~
+hemp~
+furniture R 0
+0 0 0 0 0
+15 0 0 P
+#10202
+pedestal~
+a black marble pedestal~
+A black marble pedestal stands obtrusively in the centre of the room.
+The black marble is highly polished to a shine, with the lights in the
+room giving it a strange, living feeling.  Carved around the top are four
+faces, each face depicting a slightly different feeling - fear, hate, agony
+and pure evilness.  Above these faces is placed an ancient book. 
+
+The old pages of this book are permanently creased in this open position. 
+Gold edges each page in this thick book, looking slightly tarnished in its
+old age.  The writing inside is faded, though still legible, and says: 
+ 
+The Artifacts of the Ancients
+ 
+Six artifacts are used to bring more power to the Ancients.  They are:
+-the black sapphire
+-a statue of the formation of the black sapphire
+-the black sapphire amulets (unknown how many)
+-the black sapphire rings (unknown how many)
+-a mace carved from part of the black sapphire
+-a crown of black sapphires
+ 
+All artifacts must be in the same room for the ceremony of supremacy.  Each
+member should be wearing an amulet and a ring, and the other artifacts
+should be kept in the temple itself, surrounding the black sapphire.~
+marble~
+furniture EJL 0
+0 0 0 0 0
+15 999 1414 P
+#10203
+black sapphire ring~
+a black sapphire ring~
+A black sapphire ring sparkles with a fire of its own.~
+sapphire~
+treasure AGS AB
+0 0 0 0 0
+15 1 150 P
+A
+18 1
+A
+4 1
+#10204
+cracked black sapphire stone~
+a cracked black sapphire floating~
+The black sapphire bears a large crack while is floats in a ring of white fire here.~
+sapphire~
+treasure 0 0
+0 0 0 0 0
+100 0 1000 P
+#10205
+north wall shimmering portal~
+shimmering portal~
+The wall shimmers and moves like water through which can be seen a black carved pedestal.~
+nothing~
+portal RS 0
+0 0 0 ADEGHIJKN 0
+15 0 0 P
+#10206
+strange hand markings~
+strange hand markings~
+The markings form identical patterns of dots and lines on the tops of her hands.~
+nothing~
+armor HMU AH
+E E E AC 0
+100 0 500 P
+A
+2 2
+#10207
+brown hooded robe~
+a brown hooded robe~
+A brown hooded robe made of wool lays here.~
+cotton~
+clothing 0 ADE
+0 0 0 0 0
+1 10 950 P
+#10208
+ritual dagger~
+a beautiful ritual dagger~
+The waving blade of a ritual dagger sparkles in the light.~
+sapphire~
+weapon 0 AN
+bow 11 17 crunch CD
+97 5 485 P
+#10209
+large table~
+a large plain table~
+A large plain wood table fills the room.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 2000 1500 P
+#10210
+ornate carved onyx box~
+an ornately carved onyx box~
+An ornately carved onyx box sits neatly on the table.~
+onyx~
+container 0 0
+20 AC 0 0 0
+95 5 3000 P
+#10211
+mirror portal~
+a mirror portal~
+The only wall decoration is this mirror that shimmers slightly.~
+glass~
+portal RS 0
+0 0 0 ADEGHIJKN 0
+0 0 0 P
+#10212
+soda bread~
+a dry piece of soda bread~
+A dry piece of soda bread is placed on the table.~
+bread~
+food 0 A
+AB 0 0 0 0
+1 1 2 P
+#10213
+ornate wine glass~
+an ornate wine glass~
+An ornate silver wine glass waits on the table.~
+glass~
+drink 0 AO
+3 3 'red wine' 0 0
+1 2 3 P
+#10214
+black sapphire mace~
+a black sapphire mace~
+A large mace carved from a single piece of black sapphire glows magically.~
+sapphire~
+weapon AT AN
+staff 12 16 punch H
+100 1 500 P
+#10215
+sharp claws~
+long sharp claws~
+Long and sharp, these claws look lethal.~
+steel~
+weapon T P
+sword 12 16 lunge I
+100 0 500 P
+#10216
+orb of ancients~
+a glowing orb of the Ancients~
+A solid black orb glows with a strange mist of the Ancients' souls.~
+sapphire~
+weapon ABGT AN
+exotic 12 16 charge C
+100 0 500 P
+#10217
+crystal skeleton key~
+a crystal skeleton key~
+A crystal skeleton key sparkles with a light of its own.~
+crystal~
+key AHSUW AO
+0 0 0 0 0
+95 1 0 P
+#10218
+sword of the ancients~
+a sword of the Ancients~
+A thin, light, but magically strong sword is engraved with an Ancients Ones saying in a strange language.~
+steel~
+weapon BGT AN
+sword 12 16 slice C
+100 5 500 P
+#10219
+unicorn horn blade~
+{xa {WUnicorn {xhornblade~
+{xA slender dagger with a {WUnicorns{x horn as the blade has been dropped here.~
+ivory~
+weapon BGST AN
+bow 12 16 punch 0
+100 1 500 P
+#10220
+statue of the formation of the black sapphire~
+the statue of the formation of the black sapphire~
+A large statue of the formation of the black sapphire radiates energy here.
+One large statue has been formed of many smaller pieces of carved black
+sapphires.  There seems to be a pulsating glow, like a heart beat, from deep
+within the creation itself, which mesmerizes you into looking deeper.  The
+closer you find yourself looking, the more it feels like something deep
+within you is being pulled out towards this light.  And then you see it - a
+large face swings past the edge of its chamber before moving back to move
+and dance with other ghostly white spectres.  You see the souls of the
+Ancient Ones, trapped in their own plane of existence, tortured of their own
+devices. ~
+sapphire~
+treasure AGT 0
+0 0 0 0 0
+1 50 10 P
+#10221
+swirling portal~
+a swirling portal of energy~
+A swirling portal of energy lets you see nothing of the other side.~
+nothing~
+portal CGRS 0
+0 ABCDE 0 ABDGJMN ABCDFGHIJKN
+0 0 0 P
+#10222
+rift in reality~
+a bend in reality~
+The air bends and warps slightly, almost like a rift in reality.~
+nothing~
+portal 0 0
+0 0 0 ABDFIJMN 0
+1 0 0 P
+#10223
+black sapphire key pulsating energy~
+a key of black sapphire that pulsates energy~
+A key of black sapphire that pulsates energy on its own floats mysteriously.~
+sapphire~
+key AW AO
+0 0 0 0 0
+0 1 0 P
+#10224
+belt of the ancients~
+the souls of the Ancients~
+Mist-like in appearance, small orbs of the souls of the Ancients circle protectively.~
+mist~
+armor 0 AL
+E E E AC 0
+100 0 500 P
+#10225
+top faces four~
+the smooth top of the pedestal~
+The smooth top of the pedestal seems to have a tiny indentation in it.~
+stone~
+portal R 0
+0 ABCD A ACEFGHI DEGHIJKN
+0 0 0 P
+#10226
+formation rocks shrine throne ubel~
+the Ubel throne~
+A mysterious formation of rocks have been set here by an unearthly force.
+The rock slabs seem to have grown into this throne shape, as it looks as if 
+no tool has ever touched it.  Set deep into the back of the chair is a 
+large, rough, dark-blue sapphire that seems to have a spark of light in the 
+middle of it.  ~
+stone~
+container ACEGJS 0
+0 0 0 0 0
+0 10000 0 P
+#10249
+trapcaveobject~
+cave trap~
+A blasting of cold air surrounds you like a tornado, seeming to come from
+the solid rock ground of this small cave. ~
+unknown~
+warp_stone R 0
+A A AC AB 0
+35 0 0 P
+#0
+
+
+
+#ROOMS
+#10246
+The Black Cave~
+Total blackness surrounds you as the whooshing of the strange wind
+intermingles with the wings of the bats that flit in and out of the cave. 
+You have the feeling that many eyes are upon you, watching your every move. 
+Your light barely penetrates a few inches in front of you.  A strange sound
+fills your head, almost sounding like the screams of thousands of people,
+but quieter than a strange voice that speaks in a language you could not
+ever understand.  There is something deathly wrong with this cave.  
+~
+0 9 5
+D1
+~
+~
+~
+4 16252 16252
+D3
+~
+~
+~
+0 0 10247
+M 0 H 0
+S
+#10247
+The Blackness~
+The darkness surrounding you seems to be alive as it moves and creates a
+soft breeze across your face.  As you adjust to the lack of lighting, you
+come to realise that the darkness doesn't come from anything magical or
+unnatural, but from millions of bats that are circling you right down to the
+cold hard rock at your feet.  The bats seem to be moving out from some
+opening off to the east from your location.  
+~
+0 9 5
+D1
+A black hole gapes open like a mouth waiting for food.
+~
+~
+~
+0 0 10246
+D2
+The sky brightens to a dismal gray in the distance.
+~
+~
+~
+0 0 10248
+D3
+~
+~
+~
+0 0 3594
+M 0 H 0
+S
+#10248
+The Desolate Path~
+A small dirt path disappears gradually over the rocky surface, leaving
+you standing in a vast amount of space of rocks and sky.  Looking to the
+north, everything seems black and foreboding, and an occasional small bat
+flies furiously from this darkness towards you.  The grayness of the rocks
+around you give the area a bleak feeling, like you are the only living soul
+for hundreds of miles.  
+~
+0 8 5
+D0
+Darkness looms off in the distance.
+~
+~
+~
+0 0 10247
+D2
+A small dirt path forms amidst the rocks.
+~
+~
+~
+0 0 10249
+M 0 H 0
+S
+#10249
+The Desolate Path~
+A small hard-packed dirt path winds its way through large outcropping of
+rocks.  Pale gray lichen clings desperately to the rocks so it doesn't get
+swept away by the constant wind whipping over the area.  Darkness looms in
+the distance to the north.  
+~
+0 0 5
+D0
+Darkness looms off in the distance.
+~
+~
+~
+0 0 10248
+D2
+A dirt path through the rocks can be seen leading to places.
+~
+~
+~
+0 0 10204
+M 0 H 0
+S
+#10200
+The Gate of the Ubel Monument~
+Massive iron doors block your way into the mountainous monument in front
+of you.  No windows adorn these doors for people inside to see out, and
+large spikes pointing out at you are there to frighten away the weak of
+heart.  The only "flaw" is a small round depression, which seems to be the
+key to opening these doors for you.  Looking around for another way into the
+monument, you notice there are no windows, except small slots filled with
+beautiful coloured glass which are too high up to reach.  The land here is
+rocky and mostly barren except for a few low bushes, clinging to the rock
+desperately.  In the western most rock face a small hole can just be made
+out.  
+~
+0 0 5
+E
+door~
+Large metal spikes protrude from the door.  On one spike is an old
+parchment with some writing on it.  
+~
+D0
+~
+doors~
+~
+2 10200 10201
+D2
+~
+~
+~
+0 0 10202
+D3
+~
+hole~
+~
+1 0 10225
+M 0 H 0
+S
+#10201
+Grand Hall of the Temple of Ubel~
+Marble floor spreads out before you, above which is a high vaulted
+ceiling.  The marble is mosaicked around the edges, and in the centre of
+this vast room is a compass of sorts.  Tall columns in the forms of the evil
+Ancient Ones rise up the walls to the begins of the vaults.  Between these
+massive columns are large dark paintings, showing unearthly and hideous
+events of death and corruption.  The ceiling is painted a dark blue and has
+stars and the moon painted, giving you the feel of night outside.  To the
+west of the room is a staircase leading up into darkness, that is currently
+gated off.  Directly to the north is a dark wooden door with strange
+carvings all over it.  One of the slabs at the west most edge of the looks
+looks a little odd.  
+~
+0 34603017 0
+E
+compass~
+The compass in mosaic on the floor doesn't show directions as most
+compasses would.  Instead of pointing to the north, south, east and west,
+this one points to Evil and Good, and inbetween, the battle that rages
+between them and other balances.  
+~
+E
+door~
+Strange carvings cover the door, depicting morbid scenes of souls being
+claimed and evil taking over the land.  Deeply set into the doors is a black
+sapphire, cut in half at the opening of the doors, so each door has half of
+the sapphire.  
+~
+E
+carvings~
+Strange carvings cover the door, depicting morbid scenes of souls being
+claimed and evil taking over the land.  Deeply set into the doors is a black
+sapphire, cut in half at the opening of the doors, so each door had half of
+the sapphire.  
+~
+D0
+~
+~
+~
+1 0 10205
+D2
+~
+doors~
+~
+2 10200 10200
+D3
+~
+~
+~
+0 0 10214
+D5
+~
+slab~
+~
+1 0 10225
+M 0 H 0
+S
+#10202
+The Desolate Path~
+The dirt path you are travelling over can barely be made out from the
+wind blowing over the barren rock, taking the trampled dirt with it.  As far
+as the eye can see, there is just rock and small scruffy bushes and the
+vastness of the sky.  To the north looms a tall dark monument, which seems
+to have permanent mist surrounding it, shrouding it in darkness.  To the
+south, the lonely path leads more towards civilization.  
+~
+0 4 5
+D0
+~
+~
+~
+0 0 10200
+D2
+~
+~
+~
+0 0 10203
+M 0 H 0
+S
+#10203
+The Desolate Path~
+All around you, there is only rock and sky, and these both continue
+endlessly.  Beneath you, no path is visible at all, and just smooth gray
+rock leads in all directions.  Lichen clings desperately to the rock as a
+cold wind whips by.  To the north you can barely make out a monument
+shrouded in mist.  The rock becomes extremely sharp and jagged to the west
+and south, making it unpassable.  There is something trapped in the rocks
+that glints and sparkles out at you, catching any available light.  
+~
+0 0 5
+E
+rocks~
+Looking closer into the rocks you can see a cord entangled in the rocks. 
+Attached to this cord is a small black sapphire.  
+~
+E
+sparkles~
+Looking closer into the rocks you can see a cord entangled in the rocks.  
+Attached to this cord is a small black sapphire.  
+~
+D0
+~
+~
+~
+0 0 10202
+D1
+~
+~
+~
+0 0 10204
+M 0 H 0
+S
+#10204
+The Desolate Path~
+There is a staggering difference in the landscape here, as if something
+killed off anything that lived to the horizon and beyond.  In the distance
+to the north west is a faint monument mostly hidden by a thick fog on a
+small rise.  The rock is smooth to the east and west, and small patches of
+dirt have been trampled hard as many people have passed through here.  The
+rocks to the north and south are unpassable however, as they are extremely
+sharp and jagged.  
+~
+0 0 0
+D0
+A strange blackness looms off in the distance.
+~
+~
+~
+0 0 10249
+D1
+~
+~
+~
+0 0 4312
+D3
+~
+~
+~
+0 0 10203
+M 0 H 0
+S
+#10205
+Opening to a Black Pit~
+Darkness surrounds you completely, your light barely able to penetrate
+one foot around you in any direction.  Before you is a sudden drop, though
+just down to a step which is the beginning of a long and winding staircase
+leading down into the depths of the mountain.  Without realising it, the
+door you entered to get to this darkness has shut silently behind you,
+trapping you in this tomb.  This leaves only one direction to go - down,
+down, down.  Any movement you make echoes all the way down, eventually
+reaching the bottom - you hope...  
+~
+0 1048585 0
+D2
+~
+~
+~
+1 0 10201
+D5
+~
+~
+~
+0 0 10206
+M 0 H 0
+S
+#10206
+The Black Staircase~
+The circle of light that surrounds you doesn't penetrate the darkness far
+enough to see any of the staircase around you.  Reaching out to the sides
+you feel smooth cool rock as the walls, which curve slightly following the
+winding staircase.  There are no hand rails or any indication of when the
+stairs will end, so you must continue forward since climbing back up will
+lead to a solid wall because the door disappeared when you entered this
+tomb.  
+~
+0 1048585 0
+D4
+~
+~
+~
+0 0 10205
+D5
+~
+~
+~
+0 0 10207
+M 0 H 0
+S
+#10207
+The Black Staircase~
+The circle of light that surrounds you doesn't penetrate the darkness far
+enough to see any of the staircase around you.  Reaching out to the sides,
+you feel smooth cool rock as the walls, which curve slightly following the
+winding staircase.  There are no hand rails or any indication of when the
+stairs will end, so you must continue forward since climbing back up will
+lead to a solid wall because the door disappeared when you entered this
+tomb.  
+~
+0 1048585 0
+D4
+~
+~
+~
+0 0 10206
+D5
+~
+~
+~
+0 0 10208
+M 0 H 0
+S
+#10208
+The Black Staircase~
+The circle of light that surrounds you doesn't penetrate the darkness far
+enough to see any of the staircase around you.  Reaching out to the sides,
+you feel smooth cool rock as the walls, which curve slightly following the
+winding staircase.  There are no hand rails or any indication of when the
+stairs will end, so you must continue forward since climbing back up will
+lead to a solid wall because the door disappeared when you entered this
+tomb.  
+~
+0 1048584 0
+D4
+~
+~
+~
+0 0 10207
+D5
+~
+~
+~
+0 0 10209
+M 0 H 0
+S
+#10209
+The Bottom~
+Flat smooth rock lays out before you at your feet, leading down a narrow
+hallway to the north.  Looking through the darkness, you make out a pale
+white light glowing far down the hallway.  In the eerie silence you can hear
+what sounds like a soft breathing and scratching against the rocks.  From
+here you can continue to the north to the light or climb up the stairs in
+the darkness.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 10210
+D4
+~
+~
+~
+0 0 10208
+M 0 H 0
+S
+#10210
+Narrow Hallway of Faces~
+The rock encircling you is cool and perfectly smooth, as though thousands
+of years of wear gave the rock a polish.  High up the walls on either side
+of you are the faces of the Ancients carved in the stone.  Your light
+reflects off them eerily, making them look almost alive.  Any movement you
+make, even the slightest one, sends sounds ricocheting down the hallway in
+front and behind you.  The sound of many creatures breathing cuts through
+the silence when you aren't moving, giving you the impression of not being
+alone down here.  A slight taint of brimstone hangs in the air here.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 10211
+D2
+~
+~
+~
+0 0 10209
+M 0 H 0
+S
+#10211
+Narrow Hallway of Faces~
+One step closer to the white light at the end of the hall, your sight
+improves and you are able to see the walls around you more clearly.  The
+rock has been polished to a soft satiny shine, and more Ancient Ones faces
+are carved at the beginning of the ceiling.  These faces are all looking
+directly at you, like someone had planned the carvings to feel alive to
+those daring enough to make it this far.  Each face has dark red eyes that
+glow in the ambient light.  From your vantage point below these carvings, it
+looks like the eyes are actually rubies glowing in the dim lighting. 
+Regardless, the uneasiness in the air can't be neither can the foul odour of
+sulphur.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 10212
+D2
+~
+~
+~
+0 0 10210
+M 0 H 0
+S
+#10212
+Narrow Hallway of Faces~
+Despite the fact that the white light is directly to the north, it
+doesn't help lighting the hallway in the least, or lets you see what is in
+the room to the north where the light comes from.  More Ancient Ones faces
+stare down at you, eye glowing brightly a hot, angry red.  You can be sure
+that these faces aren't carvings as they move their heads to inspect you and
+your soul before you enter the room to the north.  Heads snake down on
+elongated necks, barely out of reach of biting you, as they growl and hiss
+at you.  The stench of brimstone fills the air here, seemingly stronger to
+the north.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 10213
+D2
+~
+~
+~
+0 0 10211
+M 0 H 0
+S
+#10213
+The Grand Chamber~
+The room is elegantly carved with the faces of the Ancient Ones elders
+staring down from high atop their polished stone columns, watching your
+every move.  As the room is a perfect circle, the faces surround a ring of
+white fire in the centre of a mirror-polished floor.  Floating in the middle
+of the fire is a large black sapphire, the one Vikhel gave Sighel when he
+freed her from her tomb.  Looking through the fire to the far north side of
+the circular room, the wall shimmers and moves as though it were made of
+water between two columns.  The rank odour of fire and brimstone fills there
+air here, biting at your nose.  A strange and most unnatural orange mist has
+settled over the floor, floating and weaving to its own devices.  
+~
+0 1048585 0
+E
+sapphire~
+White flames surround what once must have been a beautiful black
+sapphire, its surface cracked now.  Looking closer you see a flickering
+vision of a realm filled with flames, it seems to try and change but keeps
+snapping back.  
+~
+E
+fire~
+White flames surround what once must have been a beautiful black
+sapphire, its surface cracked now.  Looking closer you see a flickering
+vision of a realm filled with flames, it seems to try and change but keeps
+snapping back.  
+~
+E
+ring~
+White flames surround what once must have been a beautiful black
+sapphire, its surface cracked now.  Looking closer you see a flickering
+vision of a realm filled with flames, it seems to try and change but keeps
+snapping back.  
+~
+D2
+~
+~
+~
+0 0 10212
+M 0 H 0
+S
+#10214
+The Winding Staircase~
+The beautiful highly polished marble floor stops at the base of an
+immense winding staircase leading up into darkness.  Each step grows out of
+a thick pole that shoots straight up from the marble floor.  The pole and
+steps are made of onyx, shining in their blackness, hiding in the shadows. 
+From this vantage point, you are unable to tell how high up the stairs go,
+as there are no windows or lighting above you.  The main room of the temple
+expands out to the east from here, with the black pedestal being the only
+"bump" on the smooth marble floor.  
+~
+0 1048589 0
+D1
+~
+~
+~
+0 0 10201
+D4
+~
+~
+~
+0 0 10215
+M 0 H 0
+S
+#10215
+The Winding Staircase~
+The shining onyx reflects the light you bring into this dark stairwell. 
+Reaching out, you can feel cool, smooth stone walls, but you can't make them
+out in the dark.  Looking up and down show you the same things - onyx steps
+leading into total darkness.  Silence surrounds you, even muting the small
+sounds your movements create.  All around you, the atmosphere seems to be
+pressing in closer.  
+~
+0 1048585 0
+D4
+~
+~
+~
+0 0 10216
+D5
+~
+~
+~
+0 0 10214
+M 0 H 0
+S
+#10216
+The Winding Staircase~
+The shining onyx reflects the light you bring into this dark stairwell. 
+Reaching out, you can feel cool, smooth stone walls, but you can't make them
+out in the dark.  Looking up and down show you the same things - onyx steps
+leading into total darkness.  Silence surrounds you, even muting the small
+sounds your movements create.  All around you, the atmosphere seems to be
+pressing in closer.  
+~
+0 1048585 0
+D4
+~
+~
+~
+0 0 10217
+D5
+~
+~
+~
+0 0 10215
+M 0 H 0
+S
+#10217
+The Winding Staircase~
+The shining onyx reflects the light you bring into this dark stairwell. 
+Reaching out, you can feel cool, smooth stone walls, but you can't make them
+out in the dark.  Looking up and down show you the same things - onyx steps
+leading into total darkness.  Silence surrounds you, even muting the small
+sounds your movements create.  All around you, the atmosphere seems to be
+pressing in closer.  Touching the wall to the east, you can feel slight
+movement of the hard wall.  
+~
+0 1048585 0
+D1
+~
+~
+~
+1 0 10221
+D4
+~
+~
+~
+0 0 10218
+D5
+~
+~
+~
+0 0 10216
+M 0 H 0
+S
+#10218
+The Winding Staircase~
+The shining onyx reflects the light you bring into this dark stairwell. 
+Reaching out, you can feel cool, smooth stone walls, but you can't make them
+out in the dark.  Looking up and down show you the same things - onyx steps
+leading into total darkness.  Silence surrounds you, even muting the small
+sounds your movements create.  All around you, the atmosphere seems to be
+pressing in closer.  
+~
+0 1048585 0
+D4
+~
+~
+~
+0 0 10219
+D5
+~
+~
+~
+0 0 10217
+M 0 H 0
+S
+#10219
+The Winding Staircase~
+The shining onyx reflects the light you bring into this dark stairwell. 
+Reaching out, you can feel cool, smooth stone walls, but you can't make them
+out in the dark.  Looking up and down show you the same things - onyx steps
+leading into total darkness.  Silence surrounds you, even muting the small
+sounds your movements create.  All around you, the atmosphere seems to be
+pressing in closer.  The stairs stop suddenly at the ceiling, where a faint
+outline shows an opening should be.  
+~
+0 1048589 0
+D4
+~
+~
+~
+1 0 10220
+D5
+~
+~
+~
+0 0 10218
+M 0 H 0
+S
+#10220
+On Top the Ubel Monument~
+Wind rips through to your bones and takes your breath away as you circle,
+marvelling at the small world far below.  You stand at the peak of the Ubel
+monument, able to see to the horizon in all directions.  You are surrounded
+by mountains, trees and barren rock, no civilization anywhere near.  This
+small area leaves little more room than enough for you and possibly one
+other person.
+~
+0 512 2
+D5
+~
+~
+~
+1 0 10219
+M 0 H 0
+S
+#10221
+Secret Room~
+You've managed to stumble across a hidden room.  Through the darkness,
+your light manages to reach all but the furthest corners of the room,
+letting you see that it's totally barren.  The secret door you entered
+through has disappeared, leaving you trapped in this tomb unless you can
+find a way out.  
+~
+0 1048585 0
+D1
+~
+~
+~
+1 0 10222
+M 0 H 0
+S
+#10222
+Secret Room~
+You've managed to escape the tomb of the previous room, only to find
+yourself in another.  No windows or doors can be seen, and the smooth walls
+give no indication of doors.  Trying west to go back to the other barren
+room is useless as that secret door is gone.  This room feels smaller than
+the first, especially since you can barely clear the ceiling here.  
+~
+0 1048585 0
+D4
+~
+~
+~
+1 0 10223
+M 0 H 0
+S
+#10223
+Hidden Hallway~
+The wooden planks of the floor of this room, look well worn in a
+north-south direction.  Following this worn pathway to the north, you see a
+door.  High above you is an ornate lantern, swinging gently back and forth
+in the constant breeze you feel running through the hallway.  The movement
+of the light casts constantly shifting shadows all around you, that you can
+almost feel touching you.  A warm glow of light shows from beneath the door.
+~
+0 1048585 0
+D0
+~
+~
+~
+1 0 10224
+M 0 H 0
+S
+#10224
+Vikhel's Sanctuary~
+A warm glow fills the room, though you can't see the actual source of the
+light.  This ambient light leaves no shadows in the room at all, which is in
+stark contrast to the room outside the door.  A thin slit in the wall to the
+south is filled with colourful glass, adding a dappled colour effect to the
+floor when sunlight filters through it.  The room is full of books and
+bottles, covering all the surfaces except a small mat bed in the north east
+corner of the room.  A large table fills most of the room, and the only
+decoration on the walls is a large mirror placed so that looking at it from
+any angle of the room shows the door.  
+~
+0 34611208 0
+D2
+~
+~
+~
+1 0 10223
+M 0 H 0
+S
+#10225
+A Tiny Tunnel~
+A narrow tunnel works its way through solid rock here, having been
+blasted and clawed out of the rock of a mountain.  To the east a dim glow
+can be seen, some form of natural light filtering through a gap possibly. 
+Curving off to the west the tunnel continues on, sloping upwards to another
+faint patch of light.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 10200
+D4
+~
+slab~
+~
+1 0 10201
+M 0 H 0
+S
+#10226
+A Faint Path~
+Having found the small path into the darkness of the forest, a sense of the 
+trees leaning down to smother any creature walking beneath overwhelms you.  
+Ferns and mushrooms grow out into the leaf covered path, making it hard to 
+tell if anyone else has traveled through here.  A sense of foreboding fills 
+the air, almost as if something is trying to tell you that you don't belong 
+here.  The surrounding woods are eerily quiet, not a single forest sound one 
+could expect is heard.  A moaning sound seems to come from all around, 
+replacing the usual noises like the rustle of leaves and thriving animal 
+communities.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 10227
+D2
+~
+~
+~
+0 0 16065
+M 0 H 0
+S
+#10227
+On A Faint Path~
+The small path continues as the trees and darkness push in around any 
+traveler.  Looking up, the sky can't be seen through the foliage above, and 
+this heavy canopy mutes out any sounds.  The air is damp and the ground 
+sponges slightly below one's feet.  The sense of unease felt slightly before 
+becomes stronger with each move north along the path, added to this the fact 
+that not a single creature can be heard or seen.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 10228
+D2
+~
+~
+~
+0 0 10226
+M 0 H 0
+S
+#10228
+The Paths End~
+Directly to the north where the path should continue is a large gnarled 
+tree.  No path can be made out going around the tree at all, and it almost 
+looks as though the only place to go is to the south.  One of the tree's 
+dead branches seems to be more like a pointer, as it stretches out to the 
+east.  Looking in that direction through the heavy bushes and tree stumps, a 
+small cave opening can be seen.  The possibility of this being a bear den 
+isn't likely, as a soft, eerie glow of light comes from within the cave.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 10229
+D2
+~
+~
+~
+0 0 10227
+M 0 H 0
+S
+#10229
+A Forgotten Shrine~
+Torches along the wall that glow with an eternal blue light cast soft 
+lighting around the room.  The natural cave walls glisten in a few spots 
+where water seeps through small cracks in the rock face.  The floor has been 
+leveled with soft sand, and even though one sinks slightly into it, no foot 
+prints appear.  The magic filling this chamber seems to centre on a large 
+rock-slab throne, which bears a symbol relating to the Ancients.  
+~
+0 8 0
+E
+symbol~
+This symbol is that of Ubel, a cult that once worshiped the ancients within 
+these lands.  Examining the mark more carefully a second one becomes 
+visible, this being that of Sighel.  Being this close to an artifact of the 
+Ancients is almost enough to cause a shiver down ones spine.  
+~
+D3
+~
+~
+~
+0 0 10228
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 10206 spec_cast_mage
+M 10209 spec_thief
+S
+
+
+
+#RESETS
+D 0 10246 1 2
+D 0 10200 0 2
+D 0 10200 3 1
+D 0 10201 0 1
+D 0 10201 2 2
+D 0 10201 5 1
+D 0 10205 2 1
+D 0 10217 1 1
+D 0 10219 4 1
+D 0 10220 5 1
+D 0 10221 1 1
+D 0 10222 4 1
+D 0 10223 0 1
+D 0 10224 2 1
+D 0 10225 1 1
+D 0 10225 4 1
+O 0 10249 0 10246
+M 0 10200 1 10200 10
+O 0 10201 0 10200
+O 0 10202 0 10201
+M 0 10203 6 10201 10
+M 0 10203 6 10201 10
+O 0 10225 0 10201
+O 0 10200 0 10203
+M 0 10205 4 10206 10
+M 0 10205 4 10206 10
+M 0 10205 4 10208 10
+M 0 10205 4 10208 10
+M 0 10203 6 10210 10
+M 0 10204 3 10210 10
+M 0 10204 3 10211 10
+M 0 10204 3 10212 10
+M 0 10203 6 10212 10
+O 0 10204 0 10213
+O 0 10205 0 10213
+M 0 10207 1 10213 10
+M 0 10208 1 10214 10
+M 0 10209 3 10215 10
+M 0 10203 6 10217 10
+M 0 10203 6 10221 10
+M 0 10201 2 10223 10
+O 0 10209 0 10224
+O 0 10210 0 10224
+P 0 10203 0 10210 10
+O 0 10211 0 10224
+O 0 10212 0 10224
+O 0 10213 0 10224
+M 0 10206 2 10224 10
+M 0 10206 2 10224 10
+O 0 10226 0 10229
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,866 @@
+#AREADATA
+Name {65 75} Kardign Forgotten Wastelands~
+Builders Kardigan~
+VNUMs 5600 5630
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#5600
+Hidden Cerberus~
+a hidden cerberus~
+Hiding in the ash of the wastelands, this cerberus awaits its next victim.
+~
+Buried nearly totally in the ash, three sets of eyes watch their
+surroundings with great care, awaiting for the next hapless victim to come
+along.  The thick gray fur covering its body allows it to blend in perfectly
+with its surroundings.  A vaguely visible form shows this to be a small
+cerberus, apparently too far between too few meals.  
+~
+dog~
+AF FOQ -100 0
+75 0 11d551+2303 75d10+100 5d9+24 chop
+-19 -19 -19 -17
+H 0 0 0
+(null) (null) none 337
+AGV ACDEFHJKPUV small unknown
+#5601
+Lost Efreet Woman~
+a lost efreet woman~
+This efreet woman wanders about aimlessly, hopelessly lost.
+~
+Thin and gaunt looking, this efreet appears to have been lost in the vast
+wastelands for an extremely long time.  Her skin is dirty and covered in
+soot, and her eyes have a crazed expression in them, as though she has lost
+her mind.  Dressed in rags, this woman looks to be in dire need of help.  
+~
+unique~
+AH CDEFTZ 0 0
+75 0 11d551+2303 75d10+100 5d9+24 beating
+-19 -19 -19 -17
+0 0 L 0
+(null) (null) either 337
+ACGHLMV ABCDEFGHIJK medium unknown
+#5602
+Large Spitting Lizard~
+a large spitting lizard~
+This large lizard spits angrily at your intrusion.
+~
+This scaly gray lizard burrows into the soot.  His eyes remain lazily
+half-closed as he basks in the heat from the overhead sun.  Suddenly looking
+up and appearing startled at your intrusion, he spits angrily in your
+direction.  
+~
+lizard~
+A 0 0 0
+70 0 11d443+2036 70d10+100 5d8+22 crush
+-17 -17 -17 -15
+0 0 L I
+(null) (null) none 315
+AGXc ACDEFHKLPQUVX medium unknown
+#5603
+Ash Drake~
+an ash drake~
+An ash drake stands here, glowering angrily at his surroundings.
+~
+Covered in gray skin that has been coated with soot, this drake appears
+to be like any other.  His dragonic form is merely a smaller version of his
+large fire-breathing cousins.  Though his life in the wastelands has
+weakened him slightly, he remains strong.  
+~
+dragon~
+AF DFJOTVc 0 0
+75 0 11d551+2303 75d10+100 5d9+24 blast
+-19 -19 -19 -17
+0 L BEH FI
+(null) (null) female 337
+ACGHMVZc ACDEFGHIJKLOPQUVX medium unknown
+#5604
+Bone Drake~
+a bone drake~
+This bone drake remains motionless at your arrival.
+~
+The skeleton of what was once a large drake lies before you.  Held
+together by apparently some magical means, it rises from the ashes of this
+gray wasteland at entrance and seems to hiss at you.  His parted jaws show
+rows of sharp teeth, each brilliant white from the overhead sun.  This
+creature is apparently not one to be messed with.  
+~
+dragon~
+AF DFJOTVc 0 0
+75 0 11d551+2303 75d10+100 5d9+24 crush
+-19 -19 -19 -17
+0 L BEH FI
+(null) (null) female 337
+ACGHMVZc ACDEFGHIJKLOPQUVX medium unknown
+#5605
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+65 0 11d352+1789 65d10+100 5d8+19 none
+-15 -15 -15 -13
+0 0 Q S
+(null) (null) none 292
+AHMV ABCDEFGHIJKWY medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#5600
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see.  A
+single black speck is visible far to the south-east, the only thing standing
+out against the oppressing gray and white of the ground.  
+~
+0 8192 2
+D0
+~
+~
+~
+0 0 2069
+D2
+~
+~
+~
+0 0 5601
+M 0 H 0
+S
+#5601
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead east, hopefully
+leading the way.  A single black speck is visible far to the south-east, the
+only thing standing out against the oppressing gray and white of the ground.
+~
+0 8192 2
+D0
+~
+~
+~
+0 0 5600
+D1
+~
+~
+~
+0 0 5602
+D2
+~
+~
+~
+0 0 5606
+D3
+~
+~
+~
+0 0 5604
+M 0 H 0
+S
+#5602
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead north and back to
+the west, hopefully leading the way.  A single black speck is visible far to
+the south-east, the only thing standing out against the oppressing gray and
+white of the ground.  
+~
+0 8192 2
+D0
+~
+~
+~
+0 0 5607
+D1
+~
+~
+~
+0 0 5603
+D2
+~
+~
+~
+0 0 5603
+D3
+~
+~
+~
+0 0 5601
+M 0 H 0
+S
+#5603
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see.  A
+single black speck is visible far to the south-east, the only thing standing
+out against the oppressing gray and white of the ground.  
+~
+0 8192 2
+D0
+~
+~
+~
+0 0 5602
+D1
+~
+~
+~
+0 0 5604
+D3
+~
+~
+~
+0 0 5602
+M 0 H 0
+S
+#5604
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see.  A
+single black speck is visible far to the south-east, the only thing standing
+out against the oppressing gray and white of the ground.  
+~
+0 8192 2
+D1
+~
+~
+~
+0 0 5601
+D2
+~
+~
+~
+0 0 5605
+D3
+~
+~
+~
+0 0 5603
+M 0 H 0
+S
+#5605
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see.  A
+single black speck is visible far to the south-east, the only thing standing
+out against the oppressing gray and white of the ground.  
+~
+0 8192 2
+D0
+~
+~
+~
+0 0 5604
+D1
+~
+~
+~
+0 0 5606
+M 0 H 0
+S
+#5606
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see.  A
+single black speck is visible far to the south-east, the only thing standing
+out against the oppressing gray and white of the ground.  
+~
+0 8192 2
+D0
+~
+~
+~
+0 0 5601
+D3
+~
+~
+~
+0 0 5605
+M 0 H 0
+S
+#5607
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead west and back to
+the south, hopefully leading the way.  A single black speck is visible far
+to the south-east, the only thing standing out against the oppressing gray
+and white of the ground.  
+~
+0 8192 2
+D2
+~
+~
+~
+0 0 5602
+D3
+~
+~
+~
+0 0 5608
+M 0 H 0
+S
+#5608
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead west and back to
+the east, hopefully leading the way.  A single black speck is visible far to
+the south-east, the only thing standing out against the oppressing gray and
+white of the ground.  
+~
+0 8192 2
+D1
+~
+~
+~
+0 0 5607
+D3
+~
+~
+~
+0 0 5609
+M 0 H 0
+S
+#5609
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead south and back to
+the east, hopefully leading the way.  A single black speck is visible far to
+the south-east, the only thing standing out against the oppressing gray and
+white of the ground.  
+~
+0 8192 2
+D1
+~
+~
+~
+0 0 5608
+D2
+~
+~
+~
+0 0 5610
+M 0 H 0
+S
+#5610
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead south and back to
+the north, hopefully leading the way.  A single black speck is visible far
+to the south-east, the only thing standing out against the oppressing gray
+and white of the ground.  
+~
+0 8192 2
+D0
+~
+~
+~
+0 0 5609
+D2
+~
+~
+~
+0 0 5611
+M 0 H 0
+S
+#5611
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead east and back to
+the north, hopefully leading the way.  A single black speck is visible far
+to the south-east, the only thing standing out against the oppressing gray
+and white of the ground.  
+~
+0 8192 2
+D0
+~
+~
+~
+0 0 5610
+D1
+~
+~
+~
+0 0 5612
+D3
+~
+~
+~
+0 0 5613
+M 0 H 0
+S
+#5612
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead east and back to
+the west, hopefully leading the way.  A single black speck is visible far to
+the south-east, the only thing standing out against the oppressing gray and
+white of the ground.  
+~
+0 8192 2
+D0
+~
+~
+~
+0 0 5613
+D1
+~
+~
+~
+0 0 5613
+D3
+~
+~
+~
+0 0 5611
+M 0 H 0
+S
+#5613
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead north and back to
+the west, hopefully leading the way.  A single black speck is visible far to
+the south-east, the only thing standing out against the oppressing gray and
+white of the ground.
+~
+0 8192 2
+D0
+~
+~
+~
+0 0 5614
+D1
+~
+~
+~
+0 0 5611
+D2
+~
+~
+~
+0 0 5612
+D3
+~
+~
+~
+0 0 5612
+M 0 H 0
+S
+#5614
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead east and back to
+the south, hopefully leading the way.  A single black speck is visible far
+to the south-east, the only thing standing out against the oppressing gray
+and white of the ground.  
+~
+0 8192 2
+D1
+~
+~
+~
+0 0 5615
+D2
+~
+~
+~
+0 0 5613
+D3
+~
+~
+~
+0 0 5615
+M 0 H 0
+S
+#5615
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead south and back to
+the west, hopefully leading the way.  A single black speck is visible far to
+the south-east, the only thing standing out against the oppressing gray and
+white of the ground.  
+~
+0 8192 2
+D1
+~
+~
+~
+0 0 5614
+D2
+~
+~
+~
+0 0 5616
+D3
+~
+~
+~
+0 0 5614
+M 0 H 0
+S
+#5616
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead south and back to
+the north, hopefully leading the way.  A single black speck is visible far
+to the south-east, the only thing standing out against the oppressing gray
+and white of the ground.  
+~
+0 8192 2
+D0
+~
+~
+~
+0 0 5615
+D2
+~
+~
+~
+0 0 5617
+M 0 H 0
+S
+#5617
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead east and back to
+the north, hopefully leading the way.  A single black speck is visible far
+to the south-east, the only thing standing out against the oppressing gray
+and white of the ground.  
+~
+0 8192 2
+D0
+~
+~
+~
+0 0 5616
+D1
+~
+~
+~
+0 0 5618
+D3
+~
+~
+~
+0 0 5618
+M 0 H 0
+S
+#5618
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead south and back to
+the west, hopefully leading the way.  A single black speck is visible far to
+the south-east, the only thing standing out against the oppressing gray and
+white of the ground.
+~
+0 8192 2
+D1
+~
+~
+~
+0 0 5617
+D2
+~
+~
+~
+0 0 5619
+D3
+~
+~
+~
+0 0 5617
+M 0 H 0
+S
+#5619
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead south and back to
+the east, hopefully leading the way.  A single black speck is visible far to
+the south-east, the only thing standing out against the oppressing gray and
+white of the ground.  
+~
+0 8192 2
+D0
+~
+~
+~
+0 0 5618
+D2
+~
+~
+~
+0 0 5620
+M 0 H 0
+S
+#5620
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead west and back to
+the north, hopefully leading the way.  A single black speck is visible far
+to the south-east, the only thing standing out against the oppressing gray
+and white of the ground.  
+~
+0 8192 2
+D0
+~
+~
+~
+0 0 5619
+D1
+~
+~
+~
+0 0 5621
+D3
+~
+~
+~
+0 0 5621
+M 0 H 0
+S
+#5621
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead south and back to
+the east, hopefully leading the way.  A single black speck is visible far to
+the south-east, the only thing standing out against the oppressing gray and
+white of the ground.  
+~
+0 8192 2
+D0
+~
+~
+~
+0 0 5623
+D1
+~
+~
+~
+0 0 5620
+D2
+~
+~
+~
+0 0 5622
+D3
+~
+~
+~
+0 0 5620
+M 0 H 0
+S
+#5622
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead south and back to
+the east, hopefully leading the way.  A single black speck is visible far to
+the south-east, the only thing standing out against the oppressing gray and
+white of the ground.  
+~
+0 8192 2
+D0
+~
+~
+~
+0 0 5621
+D2
+~
+~
+~
+0 0 5623
+M 0 H 0
+S
+#5623
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead east and back to
+the north, hopefully leading the way.  A single black speck is visible far
+to the south-east, the only thing standing out against the oppressing gray
+and white of the ground.  
+~
+0 8192 2
+D0
+~
+~
+~
+0 0 5622
+D1
+~
+~
+~
+0 0 5624
+D2
+~
+~
+~
+0 0 5621
+M 0 H 0
+S
+#5624
+A Forgotten Wasteland~
+A broad field has been spread out before you, the ground covered in ash
+from the volcanos to the north.  What was once a lush and green field of
+grass and flowers has been reduced to knee-deep soot.  Each direction looks
+exactly the same as the other, and it is barren as far as you can see. 
+Barely discernable in the ash, a thin trail seems to lead south and back to
+the west, hopefully leading the way.  A single black speck is visible far to
+the south-east, the only thing standing out against the oppressing gray and
+white of the ground.  
+~
+0 8192 2
+D2
+~
+~
+~
+0 0 5625
+D3
+~
+~
+~
+0 0 5623
+M 0 H 0
+S
+#5625
+A Forgotten Wasteland~
+A broadfield has been spread out to the north, east, and west, the ground
+covered in ash from the volcano's far to the north.  The thick soot that has
+covered the lands looks to be thinning finally, and the black spot you
+worked towards has turned out to be nothing more than a plain looking wooden
+sign to the south.  Beyond the sign, an immense and arid desert stretches as
+far as the eye can see, reminding you that you are truly in the middle of
+nothing.  
+~
+0 8192 2
+D0
+~
+~
+~
+0 0 5624
+D2
+~
+~
+~
+0 0 2851
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 5602 spec_poison
+M 5603 spec_breath_frost
+S
+
+
+
+#RESETS
+M 0 5600 2 5600 10
+M 0 5601 2 5602 10
+M 0 5602 4 5604 10
+M 0 5602 2 5607 10
+M 0 5600 4 5608 10
+M 0 5603 1 5610 10
+M 0 5603 2 5611 10
+M 0 5602 6 5613 10
+M 0 5603 3 5614 10
+M 0 5602 8 5617 10
+M 0 5604 2 5620 10
+M 0 5604 3 5624 10
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

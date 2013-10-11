@@ -1,0 +1,878 @@
+#AREADATA
+Name { 5 15} Aidan   The Dark Woods~
+Builders Aidan~
+VNUMs 8501 8549
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#8501
+black nightwolf pile fur~
+a black nightwolf~
+A large pile of shaggy black fur.
+~
+Immediately upon your entrance into this chamber, this massive pile of
+blackness shifts and stands.  As it turns to face you, and your eyes sweep
+over its body, you notice its massive claws, shaggy black fur, and heavily
+muscled frame.  A low growl emanates from its body as its lips lift in a
+snarl, showing a mouth full of long sharp teeth.  
+~
+unique~
+AB JZc -350 0
+17 0 5d34+236 68d10+100 2d5+5 crush
+3 3 3 5
+FH IQ P NSY
+(null) (null) male 76
+AGHIMV ABCDEFGHIJKPUV medium unknown
+#8502
+bundle fur nightwolf wolf pup~
+a nightwolf pup~
+This small bundle of fur, teeth, and claws rips hungrily at the flesh of the carcasses.
+~
+This small bundle of shaggy black fur can be seen ripping and tugging at
+the meat of the carcasses in this room.  Extremely sharp teeth fill its
+mouth as its claws grip and hold its meal to the floor.  
+~
+unique~
+AB JZ 0 0
+15 0 5d31+200 60d10+100 2d4+2 crush
+4 4 4 6
+FH IQ P NSY
+(null) (null) male 67
+AGHIMV ABCDEFGHIJKPUV medium unknown
+#8503
+cave snake~
+a brown cave snake~
+This brown cave snake crawls slowly around, looking for rats.
+~
+Nearly five feet long, this large snake is covered in a dull brown
+scales.  His wide body and diamond shaped head give him a dangerous look,
+and he glides along the rough stone floor with ease.  
+~
+snake~
+AB 0 0 0
+13 0 4d28+168 13d10+100 2d4+0 none
+5 5 5 7
+0 0 L I
+(null) (null) male 58
+AGXYc ADEFKLPQVX medium unknown
+#8504
+large rat~
+a large rat~
+This large rat scurries around looking for food.
+~
+Dirty gray fur covers the body of this large rat.  From his beady black
+eyes, sharp teeth, and long naked tail, he seems to thrive in this gloomy
+environment.  As you approach, he turns towards you, a hungry look on his
+face.  
+~
+rabbit~
+AB 0 -100 0
+10 0 3d23+120 10d10+100 2d3+2 none
+6 6 6 6
+FH 0 0 0
+(null) (null) male 45
+AGV ACDEFHJKP medium unknown
+#8505
+gray wolf~
+a large gray wolf~
+This large gray wolf growls at your intrusion.
+~
+Short gray fur covers the body of this large wolf.  As you look over him,
+his solid black eyes pierce into your own, even while his lips rise in a
+snarl.  
+~
+unique~
+A FJZ 0 0
+15 0 5d31+200 15d10+100 2d4+2 none
+4 4 4 6
+FH 0 I H
+(null) (null) female 67
+AGHMV ABCDEFGHIJKLPQUV medium unknown
+#8506
+vulture~
+a vulture~
+This vulture rests here, waiting on its next meal.
+~
+This large vulture is covered in black and white feathers, though its
+head is completely bare.  Its clawed feet grasp at the ground, anchoring it
+firmly in its place.  It gazes curiously at you upon your arrival.  
+~
+song bird~
+AB T -40 0
+8 0 2d19+93 8d10+100 2d3+1 none
+7 7 7 7
+FH 0 0 S
+(null) (null) male 36
+AGW ACDEFHJKOPUV medium unknown
+#8507
+field mouse~
+a field mouse~
+This field mouse struggles to hide in the edge of the forest.
+~
+This small brown field mouse darts from the forests edge out into the
+field and back, gathering an assortment of food on each run.  His long and
+slender body is covered in soft, pliable fur, and he immediately darts
+towards cover upon your arrival.  
+~
+rabbit~
+AB 0 0 0
+7 0 2d17+79 7d10+100 1d3+2 none
+7 7 7 7
+FH 0 0 0
+(null) (null) female 31
+AGV ACDEFHJKP medium unknown
+#8508
+large owl~
+a large owl~
+This large owl perches on a tree branch, staring at you.
+~
+This large owl is covered in speckled brown and white feathers.  Its
+large round eyes stare around its surroundings, looking for a dinner.  A
+pair of strong talons grasp the branch upon which it rests.  
+~
+song bird~
+AB T 0 0
+10 0 3d23+120 10d10+100 2d3+2 none
+6 6 6 6
+FH 0 0 0
+(null) (null) none 45
+AGW ACDEFHKOP medium unknown
+#8509
+boar~
+a wild boar~
+This wild boar rushes out of the bush at your intrusion, snorting loudly.
+~
+A pair of large tusks extend up along this creatures snout, giving this
+boar a dangerous look.  His brown skin is covered in thick black furs.  His
+wild eyes glare around himself as he turns to you, snorting loudly before
+rushing.  
+~
+pig~
+AB 0 0 0
+12 0 4d26+151 12d10+100 2d4+0 crush
+5 5 5 7
+0 0 0 0
+(null) (null) female 54
+AGV ACDEFHJKP medium unknown
+#8510
+alligator~
+an alligator~
+This large green and brown alligator hides in the muck.
+~
+A scaly green and brown armor covers the body of this large alligator. 
+Rows of sharp teeth peek out the edges of his mouth as he waits patiently
+for his next meal.  
+~
+lizard~
+AB 0 0 0
+15 0 5d31+200 15d10+100 2d4+2 shbite
+4 4 4 6
+0 0 L I
+(null) (null) female 67
+AGXc ACDEFHKLPQUVX medium unknown
+#8511
+sheep~
+a wooly sheep~
+This wooly sheep grazes along the edges of this open clearing.
+~
+Soft white wool covers the body of this large sheep.  He appears to be
+well fed as he meanders around the clearing.  
+~
+dog~
+AB 0 0 0
+10 0 3d23+120 10d10+100 2d3+2 none
+6 6 6 6
+H 0 0 0
+(null) (null) male 45
+AGV ACDEFHJKPUV medium unknown
+#8512
+old hag figure~
+an old hag~
+A slighted figure approaches from the shadows near the bed.
+~
+This old hag has thin white hair which hangs nearly to her shoulders. 
+Her piercing eyes are a blood red in color as she gazes at you.  She is
+clothed in a pale white robe, and carries in her hand, a dangerous looking
+mace.  At your intrusion she starts uttering harsh sounding words, while
+glaring at you.  
+~
+human~
+A 0 0 0
+20 0 6d39+294 20d10+100 3d5+4 none
+2 2 2 4
+0 0 0 0
+(null) (null) male 90
+AHMV ABCDEFGHIJK medium unknown
+#8513
+anaconda~
+an anaconda~
+This anaconda hangs from a low tree branch.
+~
+Green and brown mottled stripes cover the lengths of this very large
+Anaconda.  While nearly ten feet from nose to tail, he is almost two feet
+thick.  Clearly this is not a creature to trifle with.  
+~
+snake~
+AB O 0 0
+17 0 5d34+236 17d10+100 2d5+5 none
+3 3 3 5
+0 0 L I
+(null) (null) male 76
+AGXYc ADEFKLPQVX medium unknown
+#8514
+large black wolf maw~
+a large black wolf~
+A large, black wolf stands here, growling softly.
+~
+Upon seeing you, this massive pile of blackness shifts and stands.  As it
+turns to face you, and your eyes sweep over its body, you notice its massive
+claws, shaggy black fur, and heavily muscled frame.  A low growl emanates
+from its body as its lips lift in a snarl, showing a mouth full of long
+sharp teeth.  
+~
+unique~
+AB FJZ 0 0
+63 35 11d321+1694 63d10+100 5d8+18 crush
+-15 -15 -15 -12
+FH 0 I H
+(null) (null) female 283
+AGHMV ABCDEFGHIJKLPQUV medium unknown
+#0
+
+
+
+#OBJECTS
+#8501
+nightwolf claw~
+a sharp nightwolf claw.~
+This sharp claw came from a rather large nightwolf.~
+unknown~
+weapon Q AN
+bow 5 8 slash 0
+20 0 100 P
+A
+19 2
+A
+18 2
+#8502
+boars tusk~
+a boars tusk~
+This long boars tusk makes a good short sword.~
+unknown~
+weapon Q AN
+sword 4 4 slice 0
+8 0 40 P
+#8503
+sinister mace~
+a sinister mace~
+This small black mace hums with a magical energy, giving it a sinister look.~
+unknown~
+weapon AB AN
+staff 5 6 claw 0
+15 0 75 P
+A
+13 10
+#8504
+cozy pile fur~
+a cozy pile of fur~
+This large pile of fur makes a cozy bed.~
+unknown~
+trash R 0
+0 0 0 0 0
+0 0 1 P
+#0
+
+
+
+#ROOMS
+#8501
+A Forest Entrance~
+The pleasant smell of the forest invades your senses as you approach this
+heavily wooded area.  Tall tree's of various types and shapes loom over your
+head, providing a home to a multitude of assorted creatures.  A small path
+can be seen winding its way through the trees to the east.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 8502
+D3
+~
+~
+~
+0 0 15012
+M 0 H 0
+S
+#8502
+Within The Forest~
+The tall trees of this forest have closed in all around you, with only
+the dim outline of the entrance visible to your west.  Everywhere that you
+look, strange shadows dance across the ground and trees, caused by the dim
+lighting from the overhead sun.  What little grass that can be seen is
+sparse and grows in rough looking clumps, struggling to survive.  The thin
+path you are on continues winding its way to the east before disappearing
+around the trunk of a large tree.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 8503
+D3
+~
+~
+~
+0 0 8501
+M 0 H 0
+S
+#8503
+Within The Forest~
+The wet and earthy smell of the forest invades your senses as you follow
+this path through the trees.  Dim light filters down from overhead through
+the thick tree tops, giving everything an eerie glow.  Directly to the east,
+a large bush blocks all further progress, and the path can be seen winding
+towards the north around a large tree.  Far to the west, the faint outline
+of the forest entrance can be seen, offering you one last chance to turn
+back.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 8504
+D3
+~
+~
+~
+0 0 8502
+M 0 H 0
+S
+#8504
+Deeper Within The Forest~
+A nearly overpowering smell of damp earth invades your senses as the
+forest turns noticeably darker.  The overhead canopy has thickened, blocking
+nearly all of the available light and leaving everything moist and wet.  The
+small path your on can be seen winding around a large rock back to the east,
+and leading back towards a large tree to the south.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 8505
+D2
+~
+~
+~
+0 0 8503
+M 0 H 0
+S
+#8505
+A Damp Bog~
+Ankle deep mud and stagnant pools of water lay along each side of the
+path as you travel through this bog.  Everywhere between the trees, large
+piles of rotting vegetation can be seen, some serving as a home to a various
+animal that thrives in this environment.  The path continues running from
+east to west through this bog.  
+~
+0 0 12
+D1
+~
+~
+~
+0 0 8506
+D3
+~
+~
+~
+0 0 8504
+M 0 H 0
+S
+#8506
+A Damp Bog~
+The path you are travelling on has seemed to disappear into the thick mud
+which covers the floor of this stagnant bog.  Different trails can be seen
+leading in every direction, some made by animals, some by something else.  
+~
+0 0 12
+D0
+~
+~
+~
+0 0 8512
+D1
+~
+~
+~
+0 0 8507
+D2
+~
+~
+~
+0 0 8510
+D3
+~
+~
+~
+0 0 8505
+M 0 H 0
+S
+#8507
+Higher Ground~
+The overhead trees here have parted slightly, causing the ground to dry
+and the path to emerge from the thick muck of the bog.  Looking south, a
+small clearing can be seen with a tiny cottage in the center of it.  A thin
+wisp of smoke can be seen curling from the chimney, giving the belief that
+someone lives there.  
+~
+0 0 3
+D2
+~
+~
+~
+0 0 8508
+D3
+~
+~
+~
+0 0 8506
+M 0 H 0
+S
+#8508
+Before The Cottage~
+The trees in this area have been area out to form a small clearing.  A
+small cottage of has been built on the cleared land out of thick logs, most
+likely made from the trees which were felled.  The cottage itself is totally
+nondescript in the fact that it has no windows or other fanciful decorations
+normally associated with a home.  A thin tendril of smoke can be seen rising
+from the chimney on the west side of the cottage, though the only entrance
+visible is a single doorway to the south.  
+~
+0 0 3
+D0
+~
+~
+~
+0 0 8507
+D2
+~
+~
+~
+1 0 8509
+M 0 H 0
+S
+#8509
+Small Cabin~
+A warm and comforting environment lies within this small cabin.  Heated
+by the small fireplace on the western wall, it provides a cozy home for its
+owner.  A large table takes up the eastern most portion of the room, though
+its tabletop is covered in several different types of vials and jars.  A
+rocking chair and bed have been placed against the southern wall, though it
+is mostly shrouded in darkness from the flickering fire.  A door to the
+north allows the only exit from this house.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 8508
+M 0 H 0
+S
+#8510
+A Deep Swamp~
+Knee deep mud greets reaches up as though to pull you into its sticky
+clutches as you step off of the edge of the path.  The overwhelming smell of
+rotting vegetation is so strong as to be nauseating to most.  A path of
+formed by some creature can be seen leading south, formed when it waded
+through the thick soup of soil.  Towards the north, the mud can be seen
+thinning out as it heads up a small hill.  
+~
+0 0 12
+D0
+~
+~
+~
+0 0 8506
+D2
+~
+~
+~
+0 0 8511
+M 0 H 0
+S
+#8511
+A Dead End~
+The thick mud here has grown increasingly deeper, coming nearly up to
+your chest.  The distinct feeling of something moving within the depths of
+the mud can be felt brushing against your legs and waist as you struggle to
+move.  Any further progress to the south is blocked by a nearly solid row of
+trees, allowing you only retreat back to the north.  
+~
+0 0 12
+D0
+~
+~
+~
+0 0 8510
+M 0 H 0
+S
+#8512
+A Damp Bog~
+Ankle deep mud fights against your movements as you follow this game
+trail to the north.  The smell of rotting vegetation is evident on the wind
+here, though not as strong as it is to the south.  Low hanging branches work
+to scratch you as you pass through them, and you are sure you can hear a
+buzzing from somewhere around you.  
+~
+0 0 12
+D0
+~
+~
+~
+0 0 8513
+D2
+~
+~
+~
+0 0 8506
+M 0 H 0
+S
+#8513
+A Damp Bog~
+The ankle deep mud which inhibited your progress to the south seems to be
+slowly drying up here.  Part of this is due to the overhead canopy has
+thinned noticeably, allowing more sunlight in to evaporate the moisture
+during the day.  Off to the west, you can see an inky blackness of what
+appears to be a large cave of some sort.  All further progress north and
+east has been blocked by a thick tangle of briars, and south of you, the
+path disappears into the swamp.  
+~
+0 0 12
+D2
+~
+~
+~
+0 0 8512
+D3
+~
+~
+~
+0 0 8514
+M 0 H 0
+S
+#8514
+Before A Cave~
+Walking slowly up this slight hill brings you face to face with the mouth
+of a large and black cave.  The depths of the cavern are unknown as it seems
+to head west for a bit before making a turn down.  Towards the east, a thin
+trail can be seen leading into the depths of a murky bog.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 8513
+D3
+~
+~
+~
+0 0 8515
+M 0 H 0
+S
+#8515
+A Black Cave~
+As you step inside of this dark cavern, a cool darkness envelops your
+body, as though welcoming it in.  A smooth bare ceiling of stone hangs
+barely eight feet over your head, and further back in the cavern, the tunnel
+can be seen taking a turn down.  Eastwards, beyond the lip of the stone
+wall, you can see a narrow pathway heading down the hill.  
+~
+0 13 0
+D1
+~
+~
+~
+0 0 8514
+D5
+~
+~
+~
+0 0 8516
+M 0 H 0
+S
+#8516
+A Black Cavern~
+As you enter into the depths of this black abyss, the cold wet clammy air
+which inhabits this cave, surrounds your body like a wet blanket.  A strange
+sound can be heard echoing throughout the rock tunnels, almost like a
+scratching or a growling sound.  Above you, a hole in the ceiling shows
+evidence of a dimly lit room, while south of here, the tunnel continues
+sloping downwards.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 8517
+D4
+~
+~
+~
+0 0 8515
+M 0 H 0
+S
+#8517
+A Black Cavern~
+Cool clammy air surrounds your body as you delve deeper into this stone
+chasm.  Your light struggles to penetrate the overwhelming darkness that
+seems to thrive in this underground cave.  The tunnel makes a sharp turn to
+the east here, blocking off an easy exit from this cavern.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 8516
+D1
+~
+~
+~
+0 0 8518
+M 0 H 0
+S
+#8518
+Tunnel Branch~
+Bits of fur and bones are visible on the floor of the tunnel here, and
+the smell of decaying material invades your senses.  Towards the east, the
+tunnel disappears around a bend, and the source of the smell seems to come
+from that direction as well.  While west of you, a larger tunnel is visible.
+~
+0 134217737 0
+D0
+~
+~
+~
+0 0 8521
+D1
+~
+~
+~
+0 0 8519
+D3
+~
+~
+~
+0 0 8517
+M 0 H 0
+S
+#8519
+Tunnel Branch~
+The faint noise of some type of creature rustling about can be heard
+coming from around the corner to the north.  Broken bones are piled all
+around your feet on the floor, giving belief that some large and dangerous
+creature calls this tunnel home.  Towards the west, a larger tunnel can be
+seen leading away from this place.  
+~
+0 134217737 0
+D0
+~
+~
+~
+0 0 8520
+D3
+~
+~
+~
+0 0 8518
+M 0 H 0
+S
+#8520
+A Wolf Den~
+Several large piles of bones lay piled up in the center of this small
+chamber, each of which appears to be the bed of a large creature.  Dark gray
+fur clings to nearly every surface, and the smell of rotting flesh is nearly
+overpowering.  To the south, the tunnel makes a sharp turn, leading away
+from this place.  
+~
+0 134217737 0
+D2
+~
+~
+~
+0 0 8519
+M 0 H 0
+S
+#8521
+A Dark Cavern~
+A cold and moist air fills the interior of this cavern, as though trying
+to make it appear more like an underground tomb.  Random claw marks are
+visible on the stone floor, heading further down the northern shaft.  To the
+south, the tunnel can be seen taking a gentle slope upwards, as though
+leading out.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 8522
+D2
+~
+~
+~
+0 0 8518
+M 0 H 0
+S
+#8522
+A Dark Cavern~
+A sudden sharp turn to the east leaves the northern wall a solid sheet of
+rock.  Bits of dried blood can be seen splattered on the floor and walls
+here, growing denser as you follow the turn.  To the south, random claw
+marks in the stone give you the feeling that you are not alone.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 8523
+D2
+~
+~
+~
+0 0 8521
+M 0 H 0
+S
+#8523
+A Dark Cavern~
+As you come around the sharp turn in the corridor, you are suddenly
+presented with sight of a haven of death.  Carcasses in various stages of
+decay lie here, some half eaten, while others are mauled horribly.  Thick
+and sticky blood covers the floor in large pools, and beyond the piles to
+the east, you can see the den of the creature that caused all of this
+destruction.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 8524
+D3
+~
+~
+~
+0 0 8522
+M 0 H 0
+S
+#8524
+The Den of the Nightwolf~
+A smooth and empty floor greets your eyes as you step into this large
+chamber.  Bits of black fur can be seen clinging to the rough stone walls
+where something has brushed against them.  The far side of the cave is
+shrouded in a dark shadow that not even your light has the ability to
+penetrate.  East of you, the tunnel can be seen leading through several
+piles of carcasses.  
+~
+0 9 0
+D3
+~
+~
+~
+0 0 8523
+D5
+~
+~
+~
+1 0 8525
+M 0 H 0
+S
+#8525
+A Cozy Den~
+Thick furs have been piled up on the floor of this roomy chamber.  The
+walls and ceiling are made of jagged rock and a single torch has been
+affixed to the wall, casting a flickering glow over the area.  A small hole
+in the ceiling leads the way out, while the rest of the area is empty except
+the soft pile of furs.  A few scattered items litter the floor, leading you
+to believe that something uses this place as a home.  
+~
+0 34604040 0
+D4
+~
+~
+~
+1 0 8524
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 8503 spec_poison
+M 8512 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 8508 2 1
+D 0 8509 0 1
+D 0 8524 5 1
+D 0 8525 4 1
+M 0 8507 4 8501 10
+M 0 8508 2 8502 10
+M 0 8509 1 8503 10
+E 0 8502 0 16
+M 0 8510 2 8505 10
+M 0 8511 6 8508 10
+M 0 8512 1 8509 10
+E 0 8503 0 16
+M 0 8513 1 8511 10
+M 0 8506 2 8513 10
+M 0 8503 6 8518 10
+M 0 8504 6 8518 10
+M 0 8503 8 8519 10
+M 0 8504 8 8519 10
+M 0 8505 3 8520 10
+M 0 8503 2 8521 10
+M 0 8504 4 8521 10
+M 0 8503 4 8522 10
+M 0 8504 2 8522 10
+M 0 8502 4 8523 10
+M 0 8501 2 8524 10
+E 0 8501 0 16
+M 0 8514 1 8525 10
+O 0 8504 0 8525
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

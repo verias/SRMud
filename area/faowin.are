@@ -1,0 +1,3134 @@
+#AREADATA
+Name { ALL } Dormor  Faowin~
+Builders Dormor~
+VNUMs 20501 20599
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#20501
+gate guard~
+a faowin gate guard~
+A Faowin gate guard is here guarding the gates.
+~
+This guard is carrying not just a sword but a bow and he has a quiver
+slung across his back.  He careful surveys the surrounding lands for
+anything that may pose a threat to the city.  
+~
+human~
+ABe V 1000 0
+24 0 8d46+378 24d10+100 3d5+5 lunge
+0 0 0 2
+EKQ 0 BI 0
+(null) (null) female 108
+AHMV ABCDEFGHIJK medium unknown
+#20502
+maid~
+a maid~
+A maid goes through the manor cleaning.
+~
+Holding a feather duster this woman dusts, sweeps and mops, keeping the
+manor clean and tidy.  She has been in the service of the Baron for many
+years and her grey hair and wrinkled skin shows the signs of her elder age. 
+~
+human~
+A 0 1000 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+0 0 0 0
+(null) (null) either 112
+AHMV ABCDEFGHIJK medium unknown
+#20503
+peasant faowin~
+a peasant of Faowin~
+A female peasant travels along the city.
+~
+This woman slowly makes her way along the streets of Faowin, doing her
+daily tasks.  She has dark brown hair with hazel eyes and her face is free
+of signs of old age.  She smiles slightly at each passing person giving a
+friendly greeting.  
+~
+human~
+A V 1000 0
+22 0 7d42+334 22d10+100 3d5+5 beating
+1 1 1 3
+EI 0 0 0
+(null) (null) either 99
+AHMV ABCDEFGHIJK medium unknown
+#20504
+peasant ~
+a peasant~
+A peasant of Faowin whistles a tune while walking the streets.
+~
+This man, although not the best dressed fellow one might have seen in
+life, seems cheerful as he whistles a small tune.  His eyes dart from left
+to right along the street carefully watching each person that passes.  
+~
+human~
+A P 0 0
+26 0 8d50+423 26d10+100 3d5+8 none
+0 0 0 2
+J 0 0 0
+(null) (null) female 117
+AHMV ABCDEFGHIJK medium unknown
+#20507
+field worker~
+a field worker~
+A local field worker tends to the vineyards.
+~
+This peasant goes about the daily tasks of working the vineyards of
+Faowin.  His clothes are covered in dirt and his skin is a dark brown from
+being in the sunlight for long hours at a time.  
+~
+human~
+AB DF 0 0
+23 0 7d44+355 23d10+100 3d5+5 none
+1 1 1 3
+IJ 0 0 0
+(null) (null) female 103
+AHMV ABCDEFGHIJK medium unknown
+#20510
+field worker~
+a field worker looking for moles~
+A field worker inspects the ground, looking for moles.
+~
+This man has his eyes constantly set upon the ground, looking for those
+pesky moles that plague the fields.  He carries a large pitchfork which he
+intends to kill the vile vermin with.  
+~
+human~
+AB DFP 0 0
+23 0 7d44+355 23d10+100 3d5+5 none
+1 1 1 3
+IR 0 0 0
+(null) (null) female 103
+AHMV ABCDEFGHIJK medium unknown
+#20514
+field worker~
+a field worker~
+A field worker mashes grapes with his feet in the contraption.
+~
+This field worker is covered in grape juices from the long tedious task
+of mashing grapes with his bare feet.  A large straw hat is set upon his
+head to help shield his face from exposure to the sun.  
+~
+human~
+A 0 1000 0
+24 0 8d46+378 24d10+100 3d5+5 digestion
+0 0 0 2
+I 0 0 0
+(null) (null) female 108
+AHMV ABCDEFGHIJK medium unknown
+#20516
+mole~
+a small furry mole~
+A small furry mole digs at the ground.
+~
+This furry little critter is causing trouble for the local field hands,
+pawing at the ground with his sharp claws digging holes.  He looks up every
+so often to keep an eye out for those big creatures that are always after
+him.  
+~
+rabbit~
+A JQ 0 0
+22 0 7d42+334 22d10+100 3d5+5 crush
+1 1 1 3
+FH 0 IQ 0
+(null) (null) male 99
+AGHMV ABCDEFGHIJKP medium unknown
+#20527
+local tax collector~
+the local tax collector~
+The Faowin tax collector is on the prowl.
+~
+Dressed in decorative clothing, the tax collector is searching for those
+that have not paid their taxes.  He carefully eyes you over for a moment and
+checks his list and continues on his way.  
+~
+human~
+A V 1000 0
+28 0 9d55+470 28d10+100 3d5+9 beating
+0 0 0 1
+JLQ 0 B 0
+(null) (null) female 126
+AHMV ABCDEFGHIJK medium unknown
+#20529
+magistrate~
+the magistrate~
+The magistrate sits behind his desk overlooking various documents.
+~
+The magistrate proudly wears his uniform and his insignia sparkles
+against the light which is placed on both shoulders.  His head is bald and
+his facial features are long and chubby with thin lips and a pot belly.  
+~
+human~
+AB N 1000 0
+30 0 10d60+520 30d10+100 3d6+8 claw
+-1 -1 -1 0
+CFI 0 I 0
+stand (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#20532
+merchant~
+a visiting merchant~
+A merchant traveling upon a horse is here.
+~
+This old man takes it easy, riding on top of his mount which has
+saddlebags full of goods for trade.  He wears a hooded cloak that covers his
+entire body, only his black boots and gloved hands can be seen external of
+the cloak.  
+~
+human~
+A 0 1000 0
+29 0 9d57+495 29d10+100 3d6+8 none
+-1 -1 -1 0
+IJ 0 0 0
+(null) (null) female 130
+AHMV ABCDEFGHIJK medium unknown
+#20537
+young girl~
+a young girl~
+A young girl skips along the road.
+~
+Wearing a long green dress, this young girl smiles happily as she skips
+along the streets.  Her black hair tumbles from side to side while she skips
+along.  
+~
+human~
+A 0 0 0
+23 0 7d44+355 23d10+100 3d5+5 beating
+1 1 1 3
+F 0 0 0
+(null) (null) either 103
+AHMV ABCDEFGHIJK medium unknown
+#20540
+Ciswin~
+Ciswin the local armorer~
+Ciswin sits behind a counter polishing the armor.
+~
+A short robust dwarven female with thick brown hair and having almost as
+thick facial hair is here.  She squints her eyes looking over the newcomers
+and grunts lowly to each person that enters her shop while motioning to the
+armors.  
+~
+human~
+ABRW 0 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 ABQ 0 0
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#20541
+Meclya~
+Meclya the city's weaponsmith~
+Meclya the city's weaponsmith is here sharpening a weapon.
+~
+Meclya the local weaponsmith of Faowin stand here sharpening various
+weapons.  He stands at a full six feet tall with his thick brown locks of
+hair cropped on his head running slightly down below his ears.  
+~
+human~
+ABRW 0 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 ABQ 0 0
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#20542
+jorish barkeep~
+Jorish the barkeep~
+Jorish stand at his counter, waiting for drink orders.
+~
+A large, burly, human male with long, greying hair and hazel eyes stands
+behind his bar counter.  His eyes shift across the around the bar, on the
+lookout for signs of trouble.  
+~
+human~
+A V 1000 0
+50 0 10d167+1149 50d10+100 5d6+13 none
+-9 -9 -9 -7
+FK ABCDLPQ C 0
+(null) (null) female 225
+AHMV ABCDEFGHIJK medium unknown
+#20545
+city guard faowin~
+a Faowin city guard~
+A Faowin city guard is making his rounds.
+~
+One of the local city guard is here on the lookout for any signs of
+trouble, be it thieves or other shady looking people.  He casually walks
+from place to place slowly nodding to the citizens that greet him.  
+~
+human~
+AVe FGPV 1000 0
+26 0 8d50+423 26d10+100 3d5+8 none
+0 0 0 2
+CEQ 0 BJ 0
+(null) (null) female 117
+AHMV ABCDEFGHIJK medium unknown
+#20546
+sarrog~
+Sarrog Mealto~
+Sarrog Mealto, Captain of the city guard is here.
+~
+This is a burly man, slightly overweight appearing to be in his elder
+years.  Neatly trimmed grey hair is cropped together on top of his head with
+a long mustache that curves upward nestled upon his top lip.  His bright
+blue eyes sparkle from the lighting of the office and at the corners of his
+mouth are wrinkles, a tell-tell sign that the man has lead a happy life from
+smiling a great deal.  
+~
+human~
+Ae DFGPV 1000 0
+30 0 10d60+520 30d10+100 3d6+8 lunge
+-1 -1 -1 0
+0 0 Q 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK large unknown
+#20551
+baron bodyguard~
+the Baron of Faowin's bodyguard~
+The Baron's personal bodyguard is here.
+~
+This lithe looking elven man is the personal bodyguard for the Baron of
+Faowin.  Long silver flowing hair stops abruptly at his waist and his two
+pointy ears give away his elven blood line.  Deep green eyes survey the
+surroundings looking for anyone that would cause harm to his Lord.  
+~
+unique~
+ABe FJV 1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 punch
+-35 -35 -35 -27
+AFIL A B 0
+(null) (null) female 450
+AHMV ABCDEFGHIJK medium unknown
+#20563
+old man ~
+a fisherman~
+This old man is quietly fishing along the shallows of the lake.
+~
+Holding a stick with twine, which passes for a fishing pole this old man
+throws his line out in hope of catching his supper.  His thin grey hair is
+mangled on top of his head and his face is covered with dark wrinkled skin. 
+~
+human~
+AB 0 1000 0
+25 0 8d48+400 25d10+100 3d5+7 digestion
+0 0 0 2
+N 0 0 0
+(null) (null) female 112
+AHMV ABCDEFGHIJK medium unknown
+#20564
+Deandria~
+Deandria the cook~
+Deandria is here waiting for patrons.
+~
+A middle-aged human at the height of about five feet four inches is here
+cooking up some food.  Long black hair is tied back behind her neck and her
+hazel eyes are set within a long wrinkled face.  
+~
+human~
+ABRW 0 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 digestion
+-35 -35 -35 -27
+0 ABQ 0 0
+(null) (null) either 450
+AHMV ABCDEFGHIJK medium unknown
+#20565
+Alakar~
+Alakar the healer~
+Alakar the Faowin healer keeps a keen eye on his patients.
+~
+Long {Wsilvery{x hair flows unrestricted down Alakar's back which stops
+right above the waistline.  His skin texture is very pale with his body
+looking very frail but healthy with small toned muscles.  There is little
+doubt that he is not an elf judging by his two pointed ears.  His eyes are a
+deep {Ggreen{x and they are constantly darting around the room from patient
+to patient.  
+~
+unique~
+ABTW J 0 0
+90 0 12d991+3214 90d10+100 5d11+28 none
+-25 -25 -25 -23
+0 0 BD C
+(null) (null) female 405
+AHMV ABCDEFGHIJK medium unknown
+#20569
+archer~
+a archer~
+A archer stands on top the city walls.
+~
+Keeping watch over the city and surrounding lands is this archer.  He has
+a bow in hand and a quiver full of arrows strung across his back.  He senses
+the presence of strangers and turns and nods in your direction.  
+~
+unique~
+A TUV 1000 0
+25 0 8d48+400 25d10+100 3d5+7 digestion
+0 0 0 2
+Q 0 D C
+(null) (null) female 112
+AHMV ABCDEFGHIJK medium unknown
+#20572
+militia guard~
+a militia guard~
+A militia guard keeps unauthorized people from entering.
+~
+Standing here guarding against people that have no business within the
+militia complex this guard has a sleepy look to him as his eyelids are
+barely opened.  
+~
+human~
+A 0 1000 0
+27 0 9d52+446 27d10+100 3d5+8 claw
+0 0 0 1
+EI 0 B 0
+(null) (null) female 121
+AHMV ABCDEFGHIJK medium unknown
+#20574
+member militia~
+a member of the militia~
+A member of the militia practices his combat skills.
+~
+Clothed in his {Ggreen{x and {Rred{x trimmed uniform this militia member
+practices sword techniques with his fellow companions.  Dirt kicks up as his
+feet move gracefully into different fighting positions of offense and
+defensive stances.  
+~
+human~
+A 0 0 0
+28 0 9d55+470 28d10+100 3d5+9 digestion
+0 0 0 1
+EFIQ 0 0 0
+(null) (null) female 126
+AHMV ABCDEFGHIJK medium unknown
+#20575
+cadet~
+a cadet ~
+A militia cadet is here.
+~
+Wearing the uniform of the militia of bright {Ggreen{x and {Rred{x this
+young cadet moves within and around the training complex.  His hair is cut
+short and his boots are poorly polished.  
+~
+human~
+A P 1000 0
+26 0 8d50+423 26d10+100 3d5+8 digestion
+0 0 0 2
+IKQ 0 0 0
+(null) (null) female 117
+AHMV ABCDEFGHIJK medium unknown
+#20579
+Tien~
+Tien the military instructor~
+Tien is here before the classroom teaching the cadets.
+~
+A thin elder man with greying hair and a thick beard is here teaching the
+cadets about military warfare.  He uses a long pointed stick which he uses
+to smack young sleepy cadets hands with.  
+~
+human~
+A 0 1000 0
+30 0 10d60+520 30d10+100 3d6+8 bite
+-1 -1 -1 0
+EFIKN 0 0 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#20580
+Loax~
+Loax the instructor~
+Loax teaches cadets about proper military etiquette.
+~
+A young officer with a very clean and wrinkle free uniform paces back and
+forth teaching the young cadets.  He speaks in a slow manner allowing his
+words to softly drift across the room.  
+~
+human~
+A V 1000 0
+30 0 10d60+520 30d10+100 3d6+8 suction
+-1 -1 -1 0
+EI 0 BP 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#20588
+militia officer~
+a militia officer~
+A militia officer is here inspecting the complex.
+~
+Standing tall and proud, this officer of the militia walks through the
+complex making sure everything is within proper order.  A sword is sheathed
+at his right side which is held in place by a leather scabbard.  
+~
+human~
+A 0 1000 0
+28 0 9d55+470 28d10+100 3d5+9 digestion
+0 0 0 1
+FI 0 BC 0
+(null) (null) female 126
+AHMV ABCDEFGHIJK medium unknown
+#20591
+Sorian~
+Sorian the commander~
+Sorian the commander sits at his desk looking out his window.
+~
+Sitting in a padded chair Sorian is looking out of his office's window
+down onto the practice yard.  Many metals line his uniform and a large
+{Ggreen{x leaf is placed on both of his shoulders.  
+~
+human~
+AB HNOV 1000 0
+35 0 10d76+654 35d10+100 4d6+9 bite
+-3 -3 -3 -1
+AEFHIKN 0 0 0
+(null) (null) female 157
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#20501
+Faowin Baron Key~
+an intricately crafted key~
+A key of intricate craft warked with a large {WF{x on its handle.~
+unknown~
+key W A
+0 0 0 0 0
+1 2 1000 P
+E
+f~
+This symbol is clearly the insignia of Faowin.
+~
+#20502
+green leaf tattoo~
+a {Ggreen {gleaf{x tattoo~
+A {Ggreen {gleaf{x tattoo.~
+unknown~
+armor 0 AS
+C C C A 0
+24 1 125 P
+A
+12 10
+A
+18 1
+#20503
+water fountain~
+a fountain~
+A fountain with cool refreshing {Bwater{x.~
+unknown~
+fountain R 0
+500 500 'water' 0 0
+1 999 0 P
+#20504
+flowers red~
+a few {Rred{x flowers~
+A few {Rred{x flowers grow at the side of the road.~
+unknown~
+trash 0 A
+0 0 0 0 0
+1 0 1 P
+#20505
+straw hat~
+a straw hat~
+A simple straw hat.~
+unknown~
+armor 0 AE
+C C C A 0
+24 5 120 P
+#20506
+elven sword~
+a elven short sword~
+A elven short sword with a gem encrusted hilt.~
+unknown~
+weapon 0 AN
+sword 12 16 lunge 0
+100 15 500 P
+A
+17 -1
+A
+13 10
+A
+12 20
+A
+19 2
+A
+18 4
+#20507
+spacious bed~
+a spacious bed~
+This bed is spacious and looks on the comfortable side.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#20508
+chair~
+a lone chair~
+This chair stands alone here.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#20509
+desk~
+a desk~
+This desk is made of a shining wood that has been polished by a careful hand.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#20510
+cabinet~
+cabinet~
+This is a cabinet that has been built for function, not design.~
+unknown~
+container R 0
+50 AC 0 0 0
+0 0 0 P
+#20511
+plush chair~
+a plush chair~
+This plush chair has been overstuffed to stay comfortable for a long time.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#20512
+table~
+a table~
+This table is made of wood that has been sanded smooth then lacquered.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#20513
+chair~
+one of the chairs~
+These chairs are made of the same wood, looking identical to each other.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#20514
+cot~
+a cot~
+This cot looks useful for resting upon and might be able to hold two people, if you're lucky.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#20515
+flaming whip~
+a {Rflaming{x whip~
+A {Rflaming{x whip is crackling here.~
+unknown~
+weapon 0 AN
+flail 12 16 jab A
+100 20 500 P
+A
+12 50
+A
+13 50
+#20516
+fireplace~
+a fireplace~
+A crackling fireplace.~
+unknown~
+container R 0
+20 AC 0 0 0
+0 0 0 P
+#20527
+tax list~
+a listing of taxes due to Faowin~
+A list of taxes owed by citizens of Faowin.~
+unknown~
+room_key 0 AO
+0 0 0 0 0
+1 1 5 P
+#20531
+sparkling dagger~
+a {Wsparkling{x dagger~
+A {Wsparkling {xsharp dagger.~
+unknown~
+weapon 0 AN
+bow 5 8 crunch 0
+20 7 100 P
+A
+19 1
+A
+2 1
+#20532
+battleaxe~
+a massive dwarven battleaxe~
+A massive dwarven battleaxe with a wide wooden handle.~
+unknown~
+weapon 0 AN
+mace 8 7 lunge 0
+30 15 150 P
+A
+18 2
+A
+19 1
+#20533
+curved sword~
+a curved blade~
+A long curved sword.~
+unknown~
+weapon 0 AN
+sword 7 11 slice 0
+40 13 200 P
+A
+18 1
+A
+12 20
+A
+4 -1
+#20534
+heavy flail~
+a heavy {Kblack{x flail~
+A heavy {Kblack{x flail.~
+unknown~
+weapon 0 AN
+axe 8 12 bite 0
+50 20 250 P
+A
+24 1
+A
+13 10
+A
+1 1
+A
+12 20
+#20535
+rusty mace~
+{yrusty{x looking mace~
+A {yrusty{x mace with a tasselled hilt.~
+unknown~
+weapon 0 AN
+staff 5 14 claw 0
+35 12 175 P
+A
+12 20
+A
+19 1
+#20536
+{Wsteel{x gauntlets~
+{Wsteel{x gauntlets~
+A pair of {Wsteel{x gauntlets with etched leaf designs.~
+unknown~
+armor 0 AH
+C C C A 0
+26 7 130 P
+A
+13 10
+A
+17 -1
+#20537
+steel plated helm~
+a {Wsteel{x plated helm~
+A {Wsteel{x plated helm with a chin strap.~
+unknown~
+armor 0 AE
+AB AB AB A 0
+20 4 100 P
+A
+12 10
+A
+18 1
+#20538
+leather jerkin~
+a {ybrown{x leather jerkin~
+A {ybrown{x leather jerkin.~
+unknown~
+armor 0 AD
+AC AC AC A 0
+30 6 150 P
+A
+13 10
+A
+12 10
+A
+14 20
+#20539
+green cape~
+a long {Ggreen{x cape~
+A long flowing {Ggreen{x cape.~
+unknown~
+armor 0 Aa
+BC BC BC B 0
+40 10 200 P
+A
+13 20
+A
+19 2
+#20540
+gold plated wrist guard~
+a {Ygold{x plated wrist guard~
+A {Ygold{x plated wrist guard~
+unknown~
+armor 0 AM
+D D D B 0
+50 0 250 P
+A
+12 10
+A
+18 1
+A
+1 1
+A
+24 1
+A
+14 20
+#20541
+key 2 20544~
+a key to a small home~
+A key to a small home in Faowin.~
+unknown~
+key 0 AO
+0 0 0 0 0
+1 1 50 P
+#20542
+jorish inn key~
+a {ydirty{x old key~
+A {ydirty{x old key to a room at Jorish's.~
+unknown~
+key PQ A
+0 0 0 0 0
+1 3 50 P
+#20543
+red wine~
+a glass of Faowin {rred{x wine~
+A glass filled with Faowin {rred{x wine.~
+unknown~
+drink 0 AO
+3 3 'red wine' 0 0
+1 3 3 P
+#20544
+flagon ale~
+a flagon of {Kdark{x {yale{x~
+A flagon filled with {Kdark {yale{x.~
+unknown~
+drink 0 AO
+4 4 'ale' 0 0
+1 5 3 P
+#20545
+pitcher ale~
+a pitcher of {yale{x~
+A large pitcher full of {yale{x.~
+unknown~
+drink 0 AO
+8 8 'ale' 0 0
+1 10 3 P
+#20546
+sword dual-edged~
+a dual-edged {Wsword{x~
+A dual-edged {Wsword{x with a {Rred{x and {Ggreen{x tassel on the hilt.~
+unknown~
+weapon 0 AN
+sword 8 7 lunge D
+30 9 150 P
+#20547
+uniform~
+a Captain's uniform~
+A {Ggreen{x and {Rred{x city guard uniform bearing the rank of {WCaptain{x.~
+unknown~
+armor 0 AD
+AC AC AC A 0
+30 4 150 P
+#20548
+shiny key~
+a {Wshiny{x key~
+A {Wshiny{x key.~
+unknown~
+key 0 A
+0 0 0 0 0
+1 3 10 P
+#20549
+shelves~
+one shelf seems to be slightly open~
+One of the shelves looks as if it can be opened.~
+unknown~
+container 0 0
+0 0 0 0 0
+1 999 0 P
+#20550
+pile of gold~
+a pile of {Ygold{x coins~
+A pile of {Ygold{x coins.~
+unknown~
+money 0 A
+CEFGHI 0 0 0 0
+1 0 0 P
+#20551
+polished black boots~
+a pair of polished {Kblack{x boots~
+A pair of polished {Kblack{x boots.~
+unknown~
+armor 0 AG
+C C C A 0
+26 8 130 P
+A
+18 1
+A
+14 20
+#20562
+worms fish bait~
+wiggling worms~
+A few worms that are used for fish bait is here.~
+unknown~
+food 0 AO
+AC 0 0 A 0
+1 1 2 P
+#20563
+fishing pole~
+a fishing pole~
+A long wooden stick with twine serves as a fishing pole.~
+unknown~
+trash 0 AO
+0 0 0 0 0
+1 4 1 P
+#20564
+batch cookies~
+a batch of cookies~
+A batch of large cookies.~
+unknown~
+food 0 A
+BC 0 0 0 0
+1 1 2 P
+#20565
+sweet bread~
+a loaf of sweet bread~
+A loaf of sweet bread.~
+unknown~
+food 0 A
+BD 0 0 0 0
+1 1 2 P
+#20566
+fish platter~
+a fish platter~
+A platter of fish and side fixings.~
+unknown~
+food 0 A
+ABE 0 0 0 0
+1 4 2 P
+#20567
+cherry pie~
+a {Rcherry{x pie~
+A round {Rcherry{x pie.~
+unknown~
+food 0 A
+CD 0 0 0 0
+1 3 2 P
+#20591
+humming sword~
+a {Whumming{x sword~
+A {Whumming{x long sword.~
+unknown~
+weapon T AN
+sword 5 14 lunge M
+35 20 175 P
+A
+18 1
+A
+19 1
+A
+4 -1
+#20592
+green leaf insignia~
+a {Ggreen {gleaf{x insignia~
+A {Ggreen {gleaf{x insignia is here.~
+unknown~
+armor T AV
+AC AC AC A 0
+35 6 175 P
+A
+13 20
+A
+12 10
+#20593
+green ring~
+a {Ggreen{x ring~
+A {Ggreen{x ring with a gem set in the center.~
+unknown~
+protect T AB
+AC AC AC A 0
+35 3 410 P
+A
+17 -3
+#0
+
+
+
+#ROOMS
+#20501
+The Gates of Faowin~
+Two massive oak gates, each twelve feet high and ten feet wide, acts as a
+protective barrier for the city, guarding the entrance.  The city is
+surrounded on all sides by defensive walls with several archery stations
+placed along them.  Although not impregnable, the city is safe from any
+unorganized attack from an enemy.  Guards are posted on either side with
+another door which leads up to a watchtower to the north.  A person may
+travel east into the city, north to the watchtower or back west to the road.
+~
+0 0 1
+D0
+~
+~
+~
+1 0 20567
+D1
+~
+~
+~
+0 0 20502
+D3
+~
+~
+~
+0 0 4421
+M 0 H 0
+S
+#20502
+Noble Street~
+Small, almost perfectly round, multicolored stones are embedded into the
+ground, which makes up Noble Street.  Several sounds can be heard from here,
+children playing along the streets, the beating of a horse's hooves striking
+the ground, and people talking in general.  To the east, a fountain can be
+seen, to the west is the city gates, and northward is the local vineyard.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 20505
+D1
+~
+~
+~
+0 0 20503
+D3
+~
+~
+~
+0 0 20501
+M 0 H 0
+S
+#20503
+Faowin Town Square~
+The main gathering spot for travelers and locals alike is here at the
+town square.  The branches of a tall Monaik Tree stretches out, giving shade
+to most of the nearby expanse.  A fountain made of dark colored stone is
+cool, fresh, drinking water.  The road branches off in every direction from
+this point.  
+~
+0 0 1
+E
+fountain~
+A large fountain which has been carved out of stone sits in the middle of
+the town square.  Cool, refreshing {Bwaters{x trickle down from the spout
+flowing gently down into the base of the fountain which is surrounded by a
+circle barrier of water proof stone.  
+~
+D0
+~
+~
+~
+0 0 20533
+D1
+~
+~
+~
+0 0 20504
+D2
+~
+~
+~
+0 0 20530
+D3
+~
+~
+~
+0 0 20502
+M 0 H 0
+S
+#20504
+Noble Street~
+East of the town square Noble Street comes to an end, but two other roads
+begin their northern and southern paths respectively.  Within sight to the
+southwest is the only shallow terrain inside of Faowin, that being Lake
+Alaya.  The road continues to the north, south, and west from here.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 20518
+D2
+~
+~
+~
+0 0 20548
+D3
+~
+~
+~
+0 0 20503
+M 0 H 0
+S
+#20505
+Path to The Vineyards~
+This small dirt track of a road leads northward, towards a vineyard which is
+worked by many of Faowin's citizens.  Faintly in the distance the sounds of
+the field workers can be heard as they go about their daily tasks.  A person
+my continue north or return south to Noble Street.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20506
+D2
+~
+~
+~
+0 0 20502
+M 0 H 0
+S
+#20506
+Entrance to The Vineyards~
+Spread out almost as far as the eye can see is a huge field of grapes.  A
+good many peasants can be seen doing all the various tasks involving the
+growing of the grapes, depending on the season.  The vineyard continues
+northward and to the south is Noble Street.  
+~
+0 4 2
+D0
+~
+~
+~
+0 0 20507
+D2
+~
+~
+~
+0 0 20505
+M 0 H 0
+S
+#20507
+Central Acreage of The Vineyards~
+Rows upon rows of grapes are growing in this central acreage of the
+vineyard.  Field workers go about their work weeding out unwanted plant life
+and chasing off unwanted animals.  The fields continue in all directions,
+with the entrance back to the south.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 20512
+D1
+~
+~
+~
+0 0 20515
+D2
+~
+~
+~
+0 0 20506
+D3
+~
+~
+~
+0 0 20508
+M 0 H 0
+S
+#20508
+Western Acreage of The Vineyards~
+Rows upon rows of grapes are growing in this western acreage of the
+vineyard.  Field workers go about their work weeding out unwanted plant life
+and chasing off unwanted animals.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 20509
+D1
+~
+~
+~
+0 0 20507
+M 0 H 0
+S
+#20509
+Western Acreage of The Vineyards~
+Rows upon rows of grapes are growing in this western acreage of the
+vineyard.  Field workers go about their work weeding out unwanted plant life
+and chasing off unwanted animals.  The fields continue to the north, east,
+and south.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 20510
+D1
+~
+~
+~
+0 0 20512
+D2
+~
+~
+~
+0 0 20508
+M 0 H 0
+S
+#20510
+Western Acreage of The Vineyards~
+Rows upon rows of grapes are growing in this western acreage of the
+vineyard.  Field workers go about their work weeding out unwanted plant life
+and chasing off unwanted animals.  The fields continue to the north, east,
+and south.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20511
+D1
+~
+~
+~
+0 0 20513
+D2
+~
+~
+~
+0 0 20509
+M 0 H 0
+S
+#20511
+Western Acreage of The Vineyards~
+Rows up rows of grapes are growing in this western acreage of the
+vineyard.  Field workers go about their work weeding out unwanted plant life
+and chasing off unwanted animals.  The fields continue to the east, and
+south.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 20514
+D2
+~
+~
+~
+0 0 20510
+M 0 H 0
+S
+#20512
+Central Acreage of The Vineyards~
+Rows upon rows of grapes are growing in this central acreage of the
+vineyard.  Field workers go about their work weeding out unwanted plant life
+and chasing off unwanted animals.  The fields continue in all directions.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 20513
+D1
+~
+~
+~
+0 0 20516
+D2
+~
+~
+~
+0 0 20507
+D3
+~
+~
+~
+0 0 20509
+M 0 H 0
+S
+#20513
+Central Acreage of The Vineyards~
+Rows upon rows of grapes are growing in this central acreage of the
+vineyard.  Field workers go about their work weeding out unwanted plant life
+and chasing off unwanted animals.  The fields continue in all directions.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 20514
+D1
+~
+~
+~
+0 0 20517
+D2
+~
+~
+~
+0 0 20512
+D3
+~
+~
+~
+0 0 20510
+M 0 H 0
+S
+#20514
+A Large Wooden Contraption~
+A large, wooden, barrel-like container is filled with grapes, a small
+spout is placed on opposite sides of the contraption for gathering of the
+grape juices.  Field hands can be seen standing inside of the contraption
+smashing the grapes with their feet.  As far as the eye can see in every
+direction is plentiful rows of fresh grapes.  
+~
+0 0 2
+D2
+~
+~
+~
+0 0 20513
+D3
+~
+~
+~
+0 0 20511
+M 0 H 0
+S
+#20515
+Eastern Acreage of The Vineyards~
+Rows upon rows of grapes are growing in this eastern acreage of the
+vineyard.  Field workers go about their work weeding out unwanted plant life
+and chasing off unwanted animals.  The fields continue to the north, and
+west.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 20516
+D3
+~
+~
+~
+0 0 20507
+M 0 H 0
+S
+#20516
+Eastern Acreage of The Vineyards~
+Rows upon rows of grapes are growing in this eastern acreage of the
+vineyard.  Field workers go about their work weeding out unwanted plant life
+and chasing off unwanted animals.  The fields continue to the north, west,
+and south.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 20517
+D2
+~
+~
+~
+0 0 20515
+D3
+~
+~
+~
+0 0 20512
+M 0 H 0
+S
+#20517
+Eastern Acreage of The Vineyards~
+Rows upon rows of grapes are growing in this eastern acreage of the
+vineyard.  Field workers go about their work weeding out unwanted plant life
+and chasing off unwanted animals.  The fields continue to the west, and
+south.  
+~
+0 0 2
+D2
+~
+~
+~
+0 0 20516
+D3
+~
+~
+~
+0 0 20513
+M 0 H 0
+S
+#20518
+Justice Lane~
+Justice lane beings its northern path which branches off of Noble Street
+to the south.  Gazing northward the court house of Faowin stands out against
+the skyline, to the east is another building with several people outside of
+it.  The choices of travel are north, east, and south 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20519
+D1
+~
+~
+~
+0 0 20570
+D2
+~
+~
+~
+0 0 20504
+M 0 H 0
+S
+#20519
+Justice Lane~
+Justice Lane ends its northern extent here as the courthouse is directly
+north.  Many people can be seen entering and leaving the building, some with
+looks of relief, others brooding over something.  No homes are along this
+road but there is evidence of future expansion to the east.  Exits from this
+point lead to the north and south.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 20520
+D2
+~
+~
+~
+0 0 20518
+M 0 H 0
+S
+#20520
+Before The Courthouse of Faowin~
+A modest stone structure many times larger than a home is directly north
+of here.  Looking at the building, it is evident that this is the courthouse
+of Faowin due a the sign posted over the entrance.  A guard stands watch, in
+case any person deemed guilty tries to escape the courthouse.  North leads
+further into the courthouse, back south is a road.  
+~
+0 0 1
+E
+sign~
+{W        Courthouse of Faowin{x
+~
+D0
+~
+~
+~
+1 0 20521
+D2
+~
+~
+~
+0 0 20519
+M 0 H 0
+S
+#20521
+Hallway of Justice~
+Standing here offers a variety of choices of travel, north to the
+courtroom itself, east towards the Magistrate, or west to the tax collector.
+The walls and floors are very clean with several banners of {Ggreen{x and
+{Rred{x set upon the walls.  Voices from the courtroom can be heard when the
+court is in session.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 20522
+D1
+~
+~
+~
+0 0 20528
+D2
+~
+~
+~
+1 0 20520
+D3
+~
+~
+~
+0 0 20526
+M 0 H 0
+S
+#20522
+Outside of The Courtroom~
+Here the plaintiffs and defendants wait for their trail seated in modest
+chairs against a wall.  Voices from inside can be heard as people plead
+their case.  Candles embedded into the walling gives off a faint light for
+this place.  To the north is the courtroom, a hallway is to the south.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 20523
+D2
+~
+~
+~
+0 0 20521
+M 0 H 0
+S
+#20523
+Courtroom of Faowin~
+This is where people from all across the city take their disputes.  The
+cases are judged by the city judge or in more serious matters the baron
+himself.  Two windows are within the courtroom, one being behind the judge's
+desk, and the other on the western wall.  North is the judge's private
+chambers, and east is the jury deliberation room.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 20525
+D1
+~
+~
+~
+0 0 20524
+D2
+~
+~
+~
+0 0 20522
+M 0 H 0
+S
+#20524
+Jury Deliberation Room~
+Here members of the jury gather to debate over a case.  A long table is
+set in the middle of the room with several chairs lined around it.  No
+pictures or windows are within the room to keep distractions to a minimal. 
+To the west is the courtroom of Faowin.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 20523
+M 0 H 0
+S
+#20525
+Judge of Faowin's Chambers~
+This is where the overseer of the court gathers his thoughts and rests
+before each new case begins.  The room has a small window which offers a
+good view of rolling hilly terrain.  A plush, comfortable, looking chair is
+the only furniture here, as the city keeps no formal paperwork of the trials
+that take place.  To the south is the courtroom of Faowin.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 20523
+M 0 H 0
+S
+#20526
+Hallway of Dues~
+This hallway, named the hallway of dues by the citizens is the most
+despised of any other place in the city.  This is where citizens make their
+gloomy journey to pay the taxes owed for the season.  A small picture
+mounted on a wall near the entrance has been defaced, the work of some vile
+outlaw perhaps.  The exits to this room is north and east from here.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 20527
+D1
+~
+~
+~
+0 0 20521
+M 0 H 0
+S
+#20527
+Tax Collector's Office~
+The tax collector's office is very warmly decorated, although it is not a
+pleasant place to pay a visit.  A clerk sits behind a desk collecting the
+money owed by each person.  Several paintings adorn the walls, and there is
+a couple of plants set off to the side.  Two large windows give lighting to
+the office, and a view of some distant homes can be seen through it. 
+Outside, to the south is a hallway.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 20526
+M 0 H 0
+S
+#20528
+Hallway of Justice~
+Here the hallway runs east or west with many paintings of former
+magistrates along both sides of the walls.  To the east is the magistrate's
+office, the overall commander of the city guard.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 20529
+D3
+~
+~
+~
+0 0 20521
+M 0 H 0
+S
+#20529
+Magistrate of The Guard's Office~
+The magistrate's office is well decorated with paintings and rugs thrown
+across the flooring.  This is where people come to report crimes and
+disturbances within the city.  A massive desk with many papers of complaints
+are placed across it.  To the west is a hallway.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 20528
+M 0 H 0
+S
+#20530
+Trader's Street~
+Along this road many people travel, carrying with them assortment of
+goods from the local traders.  The sounds of haggling over prices can be
+heard along the road.  Some people are smiling, others looking downcast
+about their dreams of gaining a good profit ended.  The road continue north
+to the town, and south further down Trader's Street.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 20503
+D1
+~
+~
+~
+0 0 20541
+D2
+~
+~
+~
+0 0 20531
+M 0 H 0
+S
+#20531
+Trader's Street~
+Shops can be seen on either side of the road with many different types of
+noises drifting to the ears.  The city guard patrols this road very often,
+keeping an eye out for thieves.  To the west is the city's armor shop, the
+road continues south and north.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 20530
+D2
+~
+~
+~
+0 0 20532
+D3
+~
+~
+~
+0 0 20540
+M 0 H 0
+S
+#20532
+Trader's Street~
+Just like the rest of Trader's Street many people are standing around
+talking and purchasing or selling items.  The sweet scent of baked goods can
+be smelt with a soft southern breeze blowing across the road.  This, being
+the end of the street, leaves only two options of travel, south to a shop or
+back north.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 20531
+D2
+~
+~
+~
+0 0 20564
+M 0 H 0
+S
+#20533
+Hoish Street~
+Running northward from Noble Street is Hois Street, which many small
+homes can be seen from here.  The scent of strong ale and mead can be
+smelled in the vicinity, coming from the city's bar set off to the east at
+this point of the road.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20534
+D1
+~
+~
+~
+0 0 20542
+D2
+~
+~
+~
+0 0 20503
+M 0 H 0
+S
+#20534
+Hoish Street~
+Hoish Street continues its straight path in both north and south
+directions from here.  More homes line the streets, and citizens can be seen
+walking to and fro all along the road.  A black raven can be seen perched on
+the top of one home peering down for any trace of dropped food.  A person
+may travel north or south from here.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20535
+D2
+~
+~
+~
+0 0 20533
+M 0 H 0
+S
+#20535
+Hoish Street~
+The sites here are much like those of the southern section section of the
+road, but the homes here seem to be slightly better in quality.  Hoish
+Street splits into two different directions from here, east to Denn Land,
+and west to Yinia Lane, Hoish Street continues south.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 20536
+D2
+~
+~
+~
+0 0 20534
+D3
+~
+~
+~
+0 0 20538
+M 0 H 0
+S
+#20536
+Denn Lane~
+People can be seen going to and from their homes from here as more of
+such buildings are cropped close together here.  Flowers have been planted
+along the road from tulips to roses.  One may travel east or west from here.
+~
+0 0 1
+D0
+~
+~
+~
+1 20541 20544
+D1
+~
+~
+~
+0 0 20537
+D3
+~
+~
+~
+0 0 20535
+M 0 H 0
+S
+#20537
+Denn Lane~
+Only a few homes are along this section of the road.  A small field is on
+the southern side where different types of vegetables are grown.  Field
+workers journey down the lane to complete their long daily task in the
+nearby field.  To the north is the public library, and to the west is Denn
+Lane.  
+~
+0 0 1
+D0
+~
+doors~
+~
+1 0 20566
+D3
+~
+~
+~
+0 0 20536
+M 0 H 0
+S
+#20538
+Yinia Lane~
+From this point within eyesight is the city guard headquarters, the
+structure seems to be very sturdy.  The building itself is made of large
+pieces of stonework which have been chiseled to fit tightly against each
+other.  In both directions of east and west more homes can be seen with the
+smoke from the fireplaces creating animal-like images against the skyline.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 20545
+D1
+~
+~
+~
+0 0 20535
+D3
+~
+~
+~
+0 0 20539
+M 0 H 0
+S
+#20539
+Yinia Lane~
+More houses line the road here and within eyesight to the west is the
+rolling hills and valleys of the surround terrain.  There is little shade
+here which gives an unrestricted view of the blueish skyline.  Northward is
+Alakar's home, where he dedicates his time to helping the sick and weary.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 20565
+D1
+~
+~
+~
+0 0 20538
+M 0 H 0
+S
+#20540
+Ciswin's Shop of Armor~
+Upon entering this shop a person might become overwhelmed at the
+assortment of armors that are up for sale here.  Everything from leather, to
+the mighty steel armors are placed around the shop.  A lone painting of two
+warriors locked in combat is hung on the wall behind the counter.  Trader's
+Street is to the east of here.  
+~
+0 8 1
+D1
+~
+~
+~
+0 0 20531
+M 0 H 0
+S
+#20541
+Meclya's Weapon Shop~
+Swords, daggers, clubs, axes are all placed throughout this shop.  Meclya
+keeps everything in order here, from sharpening to polishing each weapon
+that is for sale.  To the west is Trader's Street.  
+~
+0 8 1
+D3
+~
+~
+~
+0 0 20530
+M 0 H 0
+S
+#20542
+Jorish's Bar & Inn~
+Many small tables with chairs are spread out across the bar, most of the
+patrons drink of the locally made wine or other imported ales and mead.  A
+burly man behind a counter readies the drinks while the barmaids quickly
+deliver them to the customer.  Above the bar is a small sign.  
+~
+0 8 0
+E
+sign~
+{W         Jorish's Bar & Inn
+     If ye want a room, see Jorish
+~
+E
+bar~
+A very well-maintained bar almost seems to glow from the dedicated
+cleaning and polishing efforts from Jorish.  Several empty large flagons are
+always ready for the filling.  
+~
+D1
+~
+~
+~
+1 20542 20543
+D3
+~
+~
+~
+0 0 20533
+M 0 H 0
+S
+#20543
+A Small Bedroom~
+Although not the most elaborate of bedrooms, this small with has served
+many a traveler in the past.  A single bed is set against the western wall,
+the furthermost point away from the door and the noisy bar to the west.  A
+candle sits on top of a very old looking table, giving faint light to the
+room with the shadows flickering against the walls.  
+~
+0 8 0
+E
+bed~
+This small bed has hardly enough room for a full grown man and has
+questionable clean sheets thrown upon it.  A large fluffy pillow is at the
+head of the bed, it has seen better days also.  
+~
+D3
+~
+~
+~
+1 0 20542
+M 0 H 0
+S
+#20544
+A Small Home~
+Everything within this home is small and compact, from the small kitchen
+with a modest fireplace, to the small bed on the other side of the home.  A
+window gives some lighting to the dwelling, and a view of Denn Lane
+southward.  
+~
+0 0 0
+D2
+~
+~
+~
+1 20541 20536
+M 0 H 0
+S
+#20545
+Faowin's City Guard Headquarters~
+The walls are bare except for a hand painted picture of some man wearing
+the uniform of the city guard.  A desk has been placed in the center of the
+room along with a chair, which if usually occupied by one of the guards. 
+Placed at the doorway is a large run which has been made in the same colors
+as those that the city guard uses.  A couple more rooms can be seen both
+north and east further within the building from here.  
+~
+0 8 1
+E
+picture~
+A medium sized picture of an older man proudly wearing the cityguard
+uniform and a large smile across his face is on the western wall.  The
+wooden frame around the picture looks to be expensive as it has crafted
+leaf-like designs that run along each border.  On the bottom section of the
+frame between the designs is a name {WSarrog Mealto, Captain of the
+Cityguard{x.  
+~
+E
+desk~
+The large wooden desk is very simple in design, with only two drawers at
+the back of it.  Papers are cluttered all along the polished surface of the
+desk, more than likely complaints or requests from the citizens.  
+~
+D0
+~
+~
+~
+0 0 20546
+D1
+~
+~
+~
+2 20548 20547
+D2
+~
+~
+~
+0 0 20538
+M 0 H 0
+S
+#20546
+Captain of The Guard's Office~
+The decor of this office is much better than the rest of the building. 
+The entire floor is covered by thick, plush rugs that look very expensive. 
+Hanging on the walls are various mounted heads of animals ranging from all
+types of wilderness beasts.  A desk with two chairs set in front of it along
+with a comfortable couch are ready to be used.  
+~
+0 8 1
+D2
+~
+~
+~
+0 0 20545
+M 0 H 0
+S
+#20547
+A Small Room~
+Numerous shelves line the walls in this small room.  The floor is covered
+in thick dust and cobwebs can be seen hanging in the corners.  Old, unused
+uniforms are hung throughout the eastern walling.  
+~
+0 8 1
+E
+shelves~
+One of the shelves seem to be slightly opened.
+~
+D3
+~
+~
+~
+2 0 20545
+M 0 H 0
+S
+#20548
+Baron's Lane~
+Baron Lane a widely traveled road for many officials of the city and
+foreign dignitaries alike stretches out southward.  To the far south a large
+structure sits upon elevated ground, looking east a small dirt path leads to
+some form of water.  From here one may travel to the north, south, and west.
+~
+0 0 1
+D0
+~
+~
+~
+0 0 20504
+D1
+~
+~
+~
+0 0 20562
+D2
+~
+~
+~
+0 0 20549
+M 0 H 0
+S
+#20549
+Baron's Lane~
+Baron's Lane extends north and south from here and standing here one can
+fully grasp the splendor of the Baron of Faowin's manor.  It rivals every
+other building in the city as far as size and peering up towards the
+uppermost level one can see a large balcony.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 20548
+D2
+~
+~
+~
+0 0 20550
+M 0 H 0
+S
+#20550
+Baron of Faowin's Manor~
+Baron's Lane ends its journey here at the front of the Baron's manor.  A
+large wooden door, with a complicated looking lock keeps unwanted visitors
+out.  The door has many finely etched designs within it, the most noticeable
+of these being what seems like a {Wcrest{x.  The manor is almost fireproof,
+as only the door and windows have any exterior wood that would catch fire,
+the rest of the structure is made of stonework.  
+~
+0 0 1
+E
+crest~
+Looking closer at the crest one can fully see the detail of it.  Is is a
+{Ggreen{x leaf pierced by a {Bblue{x sword 
+~
+D0
+~
+~
+~
+0 0 20549
+D2
+~
+~
+~
+4 20501 20551
+M 0 H 0
+S
+#20551
+Antechamber of The Manor~
+Looking around the room several paintings of previous barons line the
+walling.  The flooring is covered in exotic rugs of many different colors
+and shapes.  A large arching ceiling has a chandelier hanging from above
+holding several candles giving light to the room.  A set of stairs can be
+seen to the south while to the east and west are doors which lead into other
+rooms in the manor.  
+~
+0 8 0
+D0
+~
+~
+~
+4 20501 20550
+D1
+~
+~
+~
+0 0 20552
+D2
+~
+~
+~
+0 0 20554
+D3
+~
+~
+~
+1 0 20553
+M 0 H 0
+S
+#20552
+A Large Den~
+This is where the Baron entertains visiting guest and foreign ambassadors
+from other cities.  Finely crafted plush chairs are set near a warm,
+welcoming fireplace.  Set above the fireplace is a mantle with a bottle of
+Faowin's finest wine resting on top of it.  Four crystalline glasses are
+also on the mantle, two on each side of the bottle.  The only exit to this
+room is west.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 20551
+M 0 H 0
+S
+#20553
+Meeting Chambers~
+This is where the most trusted of the Baron's officials come to discuss
+affairs of the city.  A long table almost expands the entire length of these
+chambers with chairs set around it.  A small window on the western wall
+gives a view of the city and the outline of citizens and animals can be seen
+in the distance.  The lone exit is to the east.  
+~
+0 0 0
+D1
+~
+~
+~
+1 0 20551
+M 0 H 0
+S
+#20554
+Spiral Staircase~
+This spiral staircase leads up to where the Baron's bedroom and private
+den is located at.  Each step on the stairs are covered with thick, green,
+cloth keeping the surface from being slippery.  The stairs are kept cleaned
+and polished, as not a spot of dust can be seen anywhere.  One may go north,
+west or up the stairs from here.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 20551
+D3
+~
+~
+~
+0 0 20558
+D4
+~
+~
+~
+0 0 20555
+M 0 H 0
+S
+#20555
+Top of The Staircase~
+Stepping from the stairs to the top floor of the manor one can look see
+the door to the Baron's bedroom and his private den.  This being the Baron's
+personal floor there is evidence of dust on picture frames which hang from
+the walls.  Two half dead plants are to either side of the stairs which have
+not been watered in some time.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 20556
+D3
+~
+~
+~
+0 0 20557
+D5
+~
+~
+~
+0 0 20554
+M 0 H 0
+S
+#20556
+A Large Bedroom~
+A spacious, comfortable looking bed sits in the middle of the room.  An
+oval mirror sets fixed into the wall opposite of the bed.  Storage for the
+Baron's clothing is provided by a cabinet on the west wall.  A small table
+with a book places on top of it is to the east of the bed.  A doorway
+leading to a balcony is north, with a set of stairs to the south.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 20561
+D2
+~
+~
+~
+0 0 20555
+M 0 H 0
+S
+#20557
+Private Den of The Baron~
+A fireplace gives comforting warmth while the relaxing sound of the fire
+crackling against the firewood can be heard.  A lone chair is set by the
+fireplace and close by it an iron poker is placed.  A desk with papers
+scattered across it sits near a window offering lighting during the day for
+reading.  To the east is a small hall with stairs leading downward.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 20555
+M 0 H 0
+S
+#20558
+A Lighted Dining Room~
+A large banquette table with silvery forks, spoon, and knives that are
+placed around decorated plates at each chair.  Exotic paintings are hung
+along the walls with long, colored, banners stretching from the ceiling to
+floor set between them.  Placed at the center of the table is a vase with
+fresh flowers.  The exits to this room is west or east.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 20554
+D3
+~
+~
+~
+0 0 20559
+M 0 H 0
+S
+#20559
+Kitchen of The Manor~
+Servants prepare the Baron's meals here in the kitchen.  The scents of
+delicious food is always lingering even after the cooking is done with.  The
+counters have various sizes of bowls, cups and cooking utensils neatly
+stored in an orderly fashion.  To the south is the servant's quarters, back
+east is the dining room.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 20558
+D2
+~
+~
+~
+1 0 20560
+M 0 H 0
+S
+#20560
+Servant Quarters~
+Tucked away from the main section of the manor is the servant's quarters.
+Small cots are placed within this modestly decorated room with just enough
+space for clothing and sleeping available for the servants.  To the north is
+the kitchen.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 20559
+M 0 H 0
+S
+#20561
+Balcony Overlooking The City~
+A beautiful view which spans the entire city can be seen from this
+balcony.  A small, wooden canopy overhead provides shielding from the rain
+and sun.  Strong, wide, banisters are at the edge of the of each side of the
+balcony.  To the south is a spacious bedroom.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 20556
+M 0 H 0
+S
+#20562
+Small Dirt Track~
+A well traveled path leads east and west here.  To the west sparkling
+light reflecting off of a large body of water can be seen.  The sounds of
+small woodland creatures are present as they make their way down to the
+shallow edge of the waters for a drink.  
+~
+0 0 4
+D1
+~
+~
+~
+0 0 20563
+D3
+~
+~
+~
+0 0 20548
+M 0 H 0
+S
+#20563
+Edge of Lake Alaya~
+This is the edge of Lake Alaya where the local peasants and citizens come
+to catch fish and hunt wild game in the surroundings.  The ground is kept
+free of weeds and makes a good spot in which to relax and listen to the
+waters constant movement against the sand.  To the west is a small dirt
+path.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 20592
+D3
+~
+~
+~
+0 0 20562
+M 0 H 0
+S
+#20564
+Delicious Delights~
+A cracking {Rfire{x can be heard inside of a metallic oven where all the
+foods are cooked at.  Measuring cups and ingredients are gathered neatly on
+shelves with the baked goods on display across a small table.  To the north
+of here is Trader's Street.  
+~
+0 8 1
+D0
+~
+~
+~
+0 0 20532
+M 0 H 0
+S
+#20565
+Alakar's Healing Services~
+A few cots are lined near the eastern wall for the more severely sick
+towards the western side is plenty of space for the less afflicted. 
+Bandages, splints, herbs along with a variety of things most people would
+not know is, are aligned across a simple table.  Paintings of beautiful
+outside scenery decorate the walls.  
+~
+0 33554444 1
+D2
+~
+~
+~
+0 0 20539
+M 0 H 0
+S
+#20566
+Faowin Public Library~
+Along the walls are many shelves of books and tomes as this is the Faowin
+library.  What knowledge that the city has on the outside world is recorded
+in this place.  Looking along the bookshelves there is very little dust
+collected on top of the books.  The floors are kept swept clean, and there
+are simple rugs placed throughout the library.  To the south is Denn Lane.  
+~
+0 12 1
+D2
+door
+~
+doors~
+~
+1 0 20537
+M 0 H 0
+S
+#20567
+A Tall Watchtower~
+This is the bottom of a watchtower which serves as a great tactical point
+point in which the local guards keep a sharp eye upon the surrounding lands.
+The sounds of footsteps can be hear from above, possibly the movement of
+sentries along the city walls.  A small ladder is against the east wall of
+the tower that leads to furthermost point.  
+~
+0 12 0
+D2
+~
+~
+~
+1 0 20501
+D4
+~
+~
+~
+0 0 20568
+M 0 H 0
+S
+#20568
+Overlooking The Surroundings~
+Here, at the highest point of the watchtower, one may survey the entire
+landscape around the city of Faowin.  A guard can travel along the city
+walls to any outward sector of the city from this point.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 20569
+D5
+~
+~
+~
+0 0 20567
+M 0 H 0
+S
+#20569
+Archer's Station~
+Quivers filled with arrows are neatly tucked against the walling here at
+one of the archery stations along the walls.  Round metallic shields have
+been fortified to give a protective spot for an archer to reload his or her
+bow.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20568
+M 0 H 0
+S
+#20570
+Guardian Street~
+Branching from Justice Lane is Guarding Street widely known by all the
+citizens as many of them take this road to sign up for the local militia. 
+The road is relatively new compared to the others in the city and
+wildflowers can be seen growing to either side of the road.  Choices of
+travel are east and west.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 20571
+D3
+~
+~
+~
+0 0 20518
+M 0 H 0
+S
+#20571
+Guardian Street~
+Nearing the militia building the sounds of swords clashing together can
+be heard, and the voices of trainers correcting their troops.  The bark on
+many of the nearby trees have scars upon them where archers have practiced
+their marksmanship with the bow.  Choices of travel are to the east or west.
+~
+0 4 1
+D1
+~
+~
+~
+0 0 20572
+D3
+~
+~
+~
+0 0 20570
+M 0 H 0
+S
+#20572
+A Guard Post~
+A small guard post is here, directly before the main building keeping
+civilians out of harms way, and protecting against unwanted guests.  Looking
+eastward towards the militia building it is ascertainable to determine that
+it is indeed two stories in height.  Guardian Street is to the west, east is
+the militia complex.  
+~
+0 0 1
+D1
+~
+~
+~
+1 0 20573
+D3
+~
+~
+~
+0 0 20571
+M 0 H 0
+S
+#20573
+Faowin's Militia Complex~
+The building branches off in three directions from here north, east and
+back west.  Several troops move along the hallways to their designated point
+of study for the day.  Candles serve as the only lighting at this point of
+the complex.  
+~
+0 8 1
+D0
+~
+~
+~
+0 0 20574
+D1
+~
+~
+~
+0 0 20575
+D3
+~
+~
+~
+1 0 20572
+M 0 H 0
+S
+#20574
+A Large Practice Yard~
+This is where many troops come to, practice their skills in combat,
+ranging from use of the sword, to shooting of the bow.  Mock fights with
+wooden swords are the primary way which the younger members practice.  Some
+of the more advanced use real swords, which draws much attention from the
+cadets.  The south exit leads into the complex.  
+~
+0 0 2
+D2
+~
+~
+~
+0 0 20573
+M 0 H 0
+S
+#20575
+Hall of Achievements~
+Paintings of many young troops wearing their uniforms line the walls on
+either side.  A large writing is set above these pictures and the colors of
+the militia are proudly displayed in a hallway length run.  The exits to
+this room leads in all directions.  
+~
+0 8 0
+E
+writing~
+Let it be known that these proud troops have been deemed graduates of our
+fine training complex.  
+~
+D0
+~
+~
+~
+0 0 20576
+D1
+~
+~
+~
+0 0 20578
+D2
+~
+~
+~
+0 0 20577
+D3
+~
+~
+~
+0 0 20573
+M 0 H 0
+S
+#20576
+The Armory~
+Weapons of all sorts and sizes are orderly stored within this armory. 
+The floor is kept clean and dry to prevent rusting of the weapons.  A large
+supple of quivers, filled with arrows are noticeable on the walls.  To the
+south is a long hallway.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 20575
+M 0 H 0
+S
+#20577
+Militia Uniforms~
+Brightly colored {Ggreen{x and {Rred{x uniforms are hung neatly from the
+shelves along with under shirts and socks.  The room is dimly lit by a
+single lantern, which casts off shadows all throughout.  To the north is a
+long hallway.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 20575
+M 0 H 0
+S
+#20578
+Hall of Achievement~
+More painting line the walls here which resemble the ones to the west
+with the exception that these young troops have metals upon their uniforms. 
+Classrooms for military instruction are both north and south from this
+point.  The hallway continues to the east and west from here.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 20579
+D1
+~
+~
+~
+0 0 20581
+D2
+~
+~
+~
+0 0 20580
+D3
+~
+~
+~
+0 0 20575
+M 0 H 0
+S
+#20579
+Military Tactics~
+A large board is set against the northern wall with many different
+drawings of military formations and brief names for each.  Students are
+seating in three rows of chairs and have quill and paper ready to write down
+the important teachings of military warfare.  The only choice of travel from
+here is to the south.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 20578
+M 0 H 0
+S
+#20580
+Military Etiquette~
+Along the walls within this classroom are different terms and definitions
+for military etiquette.  Anything from rank, to how to salute is described
+within the writings encompassing the room.  The room is well lit to allow
+for easy reading, and students attentively listen to the instructor.  To the
+north is a long hallway.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 20578
+M 0 H 0
+S
+#20581
+Hall of Achievement~
+Silvery plaques are set within the walling here with many inscriptions of
+accomplishments of members of the militia.  The scent of food is in the air,
+and many voices of laughter fills the halls from close by.  The exits of
+this room lead north, south, and west from here.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 20582
+D2
+~
+~
+~
+0 0 20583
+D3
+~
+~
+~
+0 0 20578
+M 0 H 0
+S
+#20582
+The Mess Hall~
+Two square tables are places on opposite sides of the mess hall where
+troops come to eat the good cooking of Miayen.  Four long benches are on
+either sides of each table and there are many candles lit to provide light. 
+~
+0 8 0
+D2
+~
+~
+~
+0 0 20581
+M 0 H 0
+S
+#20583
+Rest & Relaxation~
+This hallway is where many of the militia come to take a much needed
+rest, for the barracks flank either side of the passage.  Many different
+sounds drift to the ears here from laughter to idle talk.  A set of stairs
+can be seen to the south.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 20581
+D1
+~
+~
+~
+0 0 20585
+D2
+~
+~
+~
+0 0 20586
+D3
+~
+~
+~
+0 0 20584
+M 0 H 0
+S
+#20584
+New Militia Barracks~
+Two chairs are the only furniture besides several small cots placed
+within these barracks.  Uniforms and clothing are hung on hooks on the
+walls, with boots lined up at the foot of each cot.  Snoring can be heard
+coming from several sleeping troops.  East leads to a small hallway.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 20583
+M 0 H 0
+S
+#20585
+Sergeant Barracks~
+Four nicely sized beds are at each corner of these barracks, each being
+Spare uniforms are placed next to each bed.  One desk is set in the center
+of the barracks, and the floor is covered by cheap rugs.  To the west is a
+small hallway.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 20583
+M 0 H 0
+S
+#20586
+Stairs to Officer's Level~
+A sturdy ladder with metal railing tracing its upwards climb extents to
+the officer's floor of the complex.  Clanking of boots against the steps can
+be heard from time to time as officers work their way down or up the ladder.
+One may go up the stairs or back north in the hallway.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 20583
+D4
+~
+~
+~
+0 0 20587
+M 0 H 0
+S
+#20587
+Top of The Stairs~
+Finishing the walk up the stairs looking straight north one can see the
+office of the commander.  Two banners line the east and western walls giving
+some life to the otherwise drab surroundings.  Choices of travel are back
+down the stairs or further north into the hallway.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 20588
+D5
+~
+~
+~
+0 0 20586
+M 0 H 0
+S
+#20588
+Officer's Floor~
+This small hall leads to the officer's quarters, the commander's office
+and the war room.  Noise on this floor is much less than that on the base
+level with only seldom sounds of speaking filtering its way to the ears. 
+Exits to this room leads in all directions.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 20591
+D1
+~
+~
+~
+0 0 20590
+D2
+~
+~
+~
+0 0 20587
+D3
+~
+~
+~
+0 0 20589
+M 0 H 0
+S
+#20589
+Officer's Quarters~
+Looking around these quarters there are two noticeable spacious beds and
+desks with chairs opposite of the beds.  Plush rugs of {Ggreen{x and {Rred{x
+cover the entire flooring.  Clean sheets and uniforms are placed within a
+dresser for each officer.  To the east is a hallway within the officer's
+floor.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 20588
+M 0 H 0
+S
+#20590
+The War Room~
+Four seats surround a modest table, where all the planning for training
+of the troops, to other reports are discussed at.  The head seat, usually
+occupied by the militia commander is at the northern end of the table.  Of
+the three remaining seats, two are for officers and one for the elder
+sergeant.  A window and two candles give lighting to the room, allowing for
+easy reading over various documents.  A door to the west leads back out to a
+hallway.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 20588
+M 0 H 0
+S
+#20591
+Commander's Quarters~
+Here the commander of the militia has set up his office,.  He reviews the
+budget and other economic problems along with promotions for his troops.  A
+window which overlooks the practice yard is open, which provides a birds eye
+view of how the troops are coming along in their combat skills.  A chair,
+table, and desk have been placed within the office and a small rug is thrown
+down at the entrance.  To the south is a small hall within the officer's
+floor.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 20588
+M 0 H 0
+S
+#20592
+A Marshy Trail~
+The dirt here has been trampled by the passage of feet, causing the long 
+blades of grass to become entrenched in the soft earth.  The sun often bakes 
+the mud during the day, but from time to time the soil is rewetted with 
+nature's tears, making it difficult to traverse.  The path moves along 
+unevenly, traveling to the north further into the marshland, and to the 
+south toward Lake Alaya.  A few trees grow amongst the tall grasses, looking 
+about as hopeless as the rest of the swampy land.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20593
+D2
+~
+~
+~
+0 0 20563
+M 0 H 0
+S
+#20593
+Higher Ground~
+A muddy path climbs this hillside, drying out during its ascension into a 
+normal dirt track that leads to the north and south.  Further up the hill to 
+the north, the gates of a large estate can be seen, their iron grillwork 
+bleak and uninviting.  The grass is tall and broken by the occasional 
+blackened tree that raises its branches toward the heavens like a bony hand. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 20594
+D2
+~
+~
+~
+0 0 20592
+M 0 H 0
+S
+#20594
+Before A Gate~
+You are standing to the south of some large iron gates.  Looking beyond the 
+gates is a walled courtyard containing a large town house, to the south of 
+the house there is a fountain and a guardhouse.  The house is a large 
+building made of large white stones with a red tiled roof.  You notice a 
+large number of guard quietly patrolling the grounds.  South of this point a 
+muddy trail is visible.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 20593
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 20501 0 1
+D 0 20520 0 1
+D 0 20521 2 1
+D 0 20536 0 2
+D 0 20537 0 1
+D 0 20542 1 2
+D 0 20543 3 2
+D 0 20544 2 2
+D 0 20545 1 2
+D 0 20547 3 2
+D 0 20550 2 2
+D 0 20551 0 2
+D 0 20551 3 1
+D 0 20553 1 1
+D 0 20559 2 1
+D 0 20560 0 1
+D 0 20566 2 1
+D 0 20567 2 1
+D 0 20572 1 1
+D 0 20573 3 1
+M 0 20501 2 20501 10
+E 0 20502 0 22
+M 0 20537 4 20503 10
+O 0 20503 0 20503
+M 0 20503 6 20503 10
+M 0 20507 4 20507 10
+M 0 20510 4 20510 10
+M 0 20514 4 20514 10
+E 0 20505 0 6
+M 0 20516 4 20516 10
+M 0 20503 6 20518 10
+O 0 20504 0 20519
+M 0 20545 10 20520 10
+E 0 20551 0 8
+M 0 20527 1 20527 10
+M 0 20529 1 20529 10
+M 0 20532 2 20532 10
+M 0 20503 6 20533 10
+M 0 20504 3 20535 10
+M 0 20537 4 20537 10
+M 0 20540 1 20540 10
+G 0 20539 0
+G 0 20540 0
+G 0 20538 0
+G 0 20537 0
+G 0 20536 0
+M 0 20545 10 20541 10
+E 0 20551 0 8
+M 0 20541 1 20541 10
+G 0 20531 0
+G 0 20532 0
+G 0 20533 0
+G 0 20534 0
+G 0 20535 0
+M 0 20542 1 20542 10
+G 0 20542 0
+G 0 20544 0
+G 0 20543 0
+G 0 20545 0
+M 0 20545 10 20545 10
+E 0 20551 0 8
+M 0 20546 1 20546 10
+E 0 20546 0 16
+E 0 20547 0 5
+G 0 20548 0
+O 0 20549 0 20547
+P 0 20550 0 20549 10
+M 0 20545 10 20550 10
+E 0 20551 0 8
+M 0 20551 1 20551 10
+E 0 20506 0 16
+O 0 20511 0 20552
+O 0 20507 0 20556
+O 0 20510 0 20556
+O 0 20508 0 20557
+O 0 20509 0 20557
+O 0 20516 0 20557
+P 0 20515 0 20516 10
+M 0 20502 1 20558 10
+O 0 20512 0 20558
+O 0 20513 0 20558
+O 0 20514 0 20560
+M 0 20537 4 20563 10
+M 0 20563 1 20563 10
+E 0 20563 0 17
+G 0 20562 0
+M 0 20564 1 20564 10
+G 0 20564 0
+G 0 20565 0
+G 0 20567 0
+G 0 20566 0
+M 0 20565 1 20565 10
+M 0 20569 2 20569 10
+M 0 20572 2 20572 10
+M 0 20574 2 20574 10
+M 0 20575 6 20575 10
+M 0 20579 1 20579 10
+M 0 20580 1 20580 10
+M 0 20588 3 20588 10
+M 0 20591 1 20591 10
+E 0 20591 0 16
+E 0 20592 0 27
+E 0 20593 0 1
+S
+
+
+
+#SHOPS
+20540 0 9 0 0 0 130 60 6 20
+20541 0 5 0 0 0 130 60 6 20
+20542 0 17 18 0 0 130 0 6 20
+20564 0 19 0 0 0 130 60 6 20
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

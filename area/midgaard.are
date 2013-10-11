@@ -2894,7 +2894,7 @@ A very plain looking token lies here.~
 unknown~
 token 0 0
 0 35 250 10 0
-0 0 10000 P
+0 0 100 P
 #3399
 machine gambling~
 a shiny token machine~
@@ -2940,11 +2940,10 @@ You see the temple square.
 ~
 0 -1 3005
 D4
-You see the entrance to Mud School.
 ~
 ~
 ~
-0 0 3700
+0 0 701
 S
 #3002
 Cleric's Inner Sanctum~

@@ -1,0 +1,3823 @@
+#AREADATA
+Name {95 99} Brysaar High Realm of Dragons~
+Builders Brysaar~
+VNUMs 12950 13199
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#13000
+dragon emerald~
+an Emerald Grass Dragon~
+An Emerald Grass Dragon lies in the grass here, nearly completely hidden to the eye, watching you closely.
+~
+The dragon before you is as green as emeralds and blends in perfectly
+with the grass.  As she sees you, she presses herself to the ground and
+hides herself among the lush vegetation, and every once in a while she licks
+her lips with a tongue that drips with acid.  The smooth lines and fine
+shape of her body are covered with only a few battle scars, but you by no
+means consider this creature a weakling.  Her motionless body and firm stare
+give this creature the look of a sentinel and observer.  
+~
+wyvern~
+AB DFNQTV 0 0
+95 0 12d1182+3558 95d10+100 6d10+29 none
+-30 -30 -30 -25
+CFHO KL 0 S
+(null) (null) either 427
+ABGZc ACDEFHJKOPQUVX medium unknown
+#13001
+crystal dragon~
+a crystal dragon~
+A great crystal dragon blends in with the crystals here.
+~
+Before you is a crystal dragon, a great hulk of bulk that blends in
+almost perfectly with its surroundings.  It sits staring at you with cold
+eyes which you can see your reflection in.  The dragon's entire body is made
+of crystal, and you can imagine that it can be held together only by magic. 
+It looks like a worthy opponent for any who wish to challenge it.  
+~
+human~
+AB DFHQTV 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 crush
+-35 -35 -35 -27
+DHM ILQ 0 0
+(null) (null) male 450
+AHMV ABCDEFGHIJK giant unknown
+#13002
+leviathan deep-water~
+a deep-water Leviathan~
+A deep-water Leviathan swims with long strokes of its tail here.
+~
+The deep-water leviathan is one of the greatest sea-faring predators
+around.  With long strokes of its great tail at the end of its snake-like
+body it propels itself through the bottoms of lakes and seas.  It has teeth
+like daggers and scales that rival the best armors in the world.  This great
+predator thinks of anything swimming as prey.  
+~
+wyvern~
+ABF DFTVb 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 crush
+-35 -35 -35 -27
+CFHMO LR HI S
+(null) (null) male 450
+ABGZc ACDEFHJKOPQUVX giant unknown
+#13003
+dragon basalt~
+the Basalt Guardian~
+A dragon with a basalt body stands here, guarding the Drivite Temple loyally.
+~
+Before you is a guardian of the Drivite Temple and High Realm of Dragons.
+The guardian dragon has a body made of basalt, and his eyes glow a deep red.
+As most dragons, he equips himself with his natural weapons: his teeth, his
+claws, and his tail.  He also wields a powerful fire breath to use against
+intruders.  
+~
+human~
+ABF DEFT 0 0
+98 0 12d1308+3773 98d10+100 6d11+28 slash
+-33 -33 -33 -26
+FMO BJKL 0 E
+(null) (null) female 441
+AHMV ABCDEFGHIJK large unknown
+#13004
+Myrthosa~
+Myrthos~
+Myrthos the dragonkin is here, offering to lend you a mercenary for a small price.
+~
+Myrthos is a loyal member among the ranks of the drivite.  He has been
+appointed the chief in charge of mercenaries for the forces of the dragon. 
+He is tall compared for a human, at seven and a half feet, but approximately
+average for a dragonkin.  Myrthos' 4 arms seem to always be busy recording,
+collecting money, and guiding the smaller draconic mercenaries to their
+allotted parties, but being safe in the Drivite Temple he never carries a
+weapon on him.  He smiles warmly at you as you approach him.  
+~
+human~
+ABRW D 0 0
+60 0 11d277+1559 60d10+100 5d7+19 none
+-13 -13 -13 -11
+0 ABQ 0 0
+(null) (null) female 270
+AHMVZ ABCDEFGHIJKOPX medium unknown
+#13005
+dragon high wounded~
+a wounded high dragon~
+A wounded high dragon is here, his wing torn from ethereal energy.
+~
+Before you is a high dragon, a terrifying creature even with his wounded
+wing.  High dragons, under normal circumstances, are very near immortal. 
+Unfortunately for this one, it is badly wounded and tainted with
+supernatural magic.  Its wing is badly torn, keeping it from flight, and it
+has scars from raw spellfire.  You can tell its wounds are almost beyond
+repair.  
+~
+human~
+AF CDKQY 500 0
+100 0 12d1397+3920 100d10+100 6d11+29 punch
+-35 -35 -35 -27
+ACFMO BI C J
+(null) (null) female 450
+AHMVZ ABCDEFGHIJK medium unknown
+#13006
+scarlet red scaled dragon~
+A Red Dragon~
+A large, scarlet scaled dragon stands here, searching for invaders of the realm.
+~
+Before you stands a large scarlet dragon, a fire dragon of the elements
+and guardian of this realm.  This male red dragon would like nothing more
+than to crush all those who prey on his species, young and old alike.  His
+wingspan is enormous, and his dark scales provide an immense amount of armor
+for him.  His only weapons are his teeth and claws, and he uses both with
+great precision.  
+~
+dragon~
+AFV DFJOTVc 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 crush
+-35 -35 -35 -27
+ACDFHMO L BEH FI
+(null) (null) female 450
+ACGHMVZc ACDEFGHIJKLOPQUVX medium unknown
+#13007
+dragon guard metallic~
+A Metallic Dragon~
+A metallic dragon stands here, unwilling to let any near his charge alive.
+~
+This dragon is an expert guard.  He stands a good bit taller than you,
+being large for even most dragons.  As you watch his he growls angrily at
+you.  You can tell that he does not appreciate your presence.  
+~
+dragon~
+ABF DFJOTVc 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 charge
+-35 -35 -35 -27
+CHIKMOR L BEHI FI
+(null) (null) male 450
+ACGHMVZc ABCDEFGHIJKLOPQUVX medium unknown
+#13008
+high-flying blue dragon~
+A High-Flying Dragon~
+A huge blue dragon flies high overhead.
+~
+Before you is a magnificent looking blue dragon, flying high above the
+fields.  This dragon's scales shine blue as a turquoise.  As you he flies,
+they shimmer in the bountiful sunlight.  He appears to be on some sort of
+patrol, but you go unnoticed.  At least for now.  You sense you could
+attract his attention, should you have the desire to.  
+~
+dragon~
+AF DFJOPTVc 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 slash
+-35 -35 -35 -27
+CDFHLOR JL BEHI FI
+(null) (null) male 450
+ACGHMVZc ABCDEFGHIJKLOPQUVX huge unknown
+#13009
+bright white dragon~
+A Bright White Dragon~
+A dragon with scales as white as new fallen snow stands here.
+~
+The glare from the scales on this particular dragon is almost enough to
+kill you on its own!  The bright white dragon before you has scales as
+pristine as the stars.  It stands out completely from the grassy area around
+it.  As it sees you, it shifts its position, sending yet another barrage of
+sunlight in your direction.  Despite its graceful appearance, you sense that
+this dragon is a powerful fighter.  
+~
+dragon~
+A DFHJOTVc 200 0
+100 0 12d1397+3920 100d10+100 6d11+29 crush
+-35 -35 -35 -27
+COR L BEH FI
+(null) (null) male 450
+ACGHMVZc ACDEFGHIJKLOPQUVX huge unknown
+#13010
+invoker~
+a scrawny invoker~
+A scrawny invoker is here, his robes sagging to the floor.
+~
+This invoker looks to be starved.  His robes are hanging off his bones,
+and he is in poor health.  The poor fellow has more the look of a beggar
+than a proud master of the elements, but you depict his identity as such by
+the symbols of fire and darkness carved into the flesh above his shoulder.  
+~
+human~
+A M 0 0
+45 0 10d128+969 45d10+100 5d5+14 claw
+-7 -7 -7 -5
+0 0 0 0
+(null) (null) male 202
+AHMV ABCDEFGHIJK medium unknown
+#13011
+rainbow elemental~
+a rainbow elemental~
+A rainbow elemental is here, the embodiment of all the elements.
+~
+A huge multicolored persona stands here.  He fluxuates with an enormous
+ammount of speed, the only thing constant is his anger.  
+~
+human~
+AF DFOZ 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 slap
+-35 -35 -35 -27
+H 0 HK 0
+(null) (null) male 450
+AHMV ABCDEFGHIJK medium unknown
+#13012
+tiny sky dragon~
+a sky dragon~
+A tiny gray dragon flaps its wings rapidly to stay aloft.
+~
+This little dragon would look almost cute if it wasn't for the teeth. 
+The sky dragon almost seems to be power incarnate.  Though it is small, it
+has an enormous amount of strength crammed into its undersized body.  It
+flaps its wings rapidly as it snaps its jaws open and closed quickly.  
+~
+dragon~
+A DFJOTVc 0 0
+96 0 12d1223+3628 96d10+100 6d10+29 crush
+-31 -31 -31 -26
+DFGHIMR L BEH FI
+(null) (null) male 432
+ACGHMVZc ACDEFGHIJKLOPQUVX small unknown
+#13013
+hatchling dragon small~
+A dragon hatchling~
+A dragon hatchling peers around itself as it waits for its parents to return.
+~
+This tiny dragon has very sharp teeth and a bad attitude.  Unfortunately,
+it does not know the dangers of life as of yet, and so looks on you without
+fear.  
+~
+dragon~
+AB DFJOTVc 0 0
+80 0 11d677+2588 80d10+100 5d10+24 crush
+-21 -21 -21 -19
+0 L BEH FI
+(null) (null) male 360
+ACGHMVZc ACDEFGHIJKLOPQUVX medium unknown
+#13014
+dragon purple magic~
+a dragon of magic~
+A deep purple dragon roams here.
+~
+The dark purple scales encasing this dragon keep within them hidden the
+true nature of the beast.  The eyes of this dragon swirl with latent energy
+waiting to be released and hint at the power which lies within.  
+~
+dragon~
+AF BDFJOTUVc 85 0
+100 0 12d1397+3920 100d10+100 6d11+29 slap
+-35 -35 -35 -27
+DFGHMR L BCEH FI
+(null) (null) female 450
+ACGHMVZc ACDEFGHIJKLOPQUVX large unknown
+#13043
+group raiders~
+A group of raiders~
+A small group of orcish raiders wanders here.
+~
+Several ugly looking orcs have congregated to form this band of raiders. 
+They are large, and burly, but look a tad on the stupid side.  The orcs only
+drive is cold gold coins.  
+~
+orc~
+A JZ -700 0
+60 0 11d277+1559 60d10+100 5d7+19 crunch
+-13 -13 -13 -11
+FHK 0 Q S
+(null) (null) male 270
+AHMV ABCDEFGHIJKWY large unknown
+#13044
+blue wisp~
+a blue wisp~
+A wisp of blue energy flies here.
+~
+A blue ball of light flies through the air here.  Darting from side to
+side, and up and down, the strange orb does seem to have some intelligence. 
+~
+human~
+A 0 -1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 claw
+-35 -35 -35 -27
+FGKO 0 0 K
+(null) (null) male 450
+AHMV ABCDEFGHIJK tiny unknown
+#13050
+priest man green~
+The Man in Green~
+A tall man dressed in dark green robes stands here.
+~
+Before you is a man dressed completely in a dark green garb.  He is of
+medium size and stature, a bit taller than most.  He smiles at everyone he
+sees.  
+~
+human~
+A DFO 0 0
+90 0 12d991+3214 90d10+100 5d11+28 none
+-25 -25 -25 -23
+K 0 0 0
+(null) (null) male 405
+AHMV ABCDEFGHIJK medium unknown
+#13055
+maticandarous wizard brother planar~
+Maticandarous~
+Maticandarous, a pale man with a wrinkled face and dark eyes is here.
+~
+Out of the three brothers who entered into the art of planar wizardry,
+Maticandarous was the oldest.  He perfected his art early, but soon
+discovered the limits on his specific magical abilities.  Set on expanding
+his talents further yet, Maticandarous led his brothers into this realm to
+suck dry its magical resources.  The wizard's power is paralleled only by
+his ambition.  
+~
+human~
+A DFHOTUVZbc 0 0
+101 0 13d1446+3994 101d10+100 6d11+30 slap
+-45 -45 -45 -40
+AFG 0 CD N
+(null) (null) female 454
+AHMV ABCDEFGHIJK medium unknown
+#13056
+ackazardous wizard brother planar~
+Ackazardous~
+Ackazardous, a pale man with a slightly wrinkled face and dark eyes is here.
+~
+Ackazardous is the middle of the three brothers which make up the Planar
+Wizards.  Though second oldest, Ackazardous was the last to enter into the
+art of planar wizardry.  First beginning his studies only to follow in his
+brothers footsteps, he soon began to love the magic just as much as the
+other two.  Though no longer subject to following the two brothers in the
+pursuit of knowledge, he still suffers the need to conform to them, and
+would probably not have come to the realm without the leadership of the
+other two.  
+~
+human~
+A DFHOTUVZbc 0 0
+101 0 13d1446+3994 101d10+100 6d11+30 slap
+-45 -45 -45 -40
+AFG 0 CD N
+(null) (null) female 454
+AHMV ABCDEFGHIJK medium unknown
+#13057
+beltandrinos wizard brother planar~
+Beltandrinos~
+Beltandrinos, a pale man with a face bearing few wrinkles and dark eyes is here.
+~
+Though youngest of the three Planar Wizards, Beltandrinos and his
+brothers all have very equal abilities in their magic.  Beginning study at a
+young age, the wizard took quickly to the more difficult aspects of the
+magical art, spending most of his time frustrated by his inability to master
+the simpler basics.  It was Beltandrinos who discovered this realm for his
+brothers through one of the many magical rifts.  
+~
+human~
+A DFHOTUVZbc 0 0
+101 0 13d1446+3994 101d10+100 6d11+30 slap
+-45 -45 -45 -40
+AFG 0 CD N
+(null) (null) male 454
+AHMV ABCDEFGHIJK medium unknown
+#13058
+planar defiler blurry black orb~
+a planar defiler~
+A blurry black orb hovers in the air here.
+~
+Capable of navigating most of the planes of magic freely, this planar
+defiler was drawn to the realm by the strange sudden increase in magical
+potential.  The defiler resembles little more than a floating orb to the
+visual senses, and it is similarly physically weak.  Its strongest suit is
+its ability to travel unhindered through solid objects and magical
+enchantments alike.  
+~
+human~
+A BDFOPQTUVZb 0 0
+15 0 5d31+200 15d10+100 2d4+2 slap
+4 4 4 6
+0 0 0 0
+(null) (null) male 67
+AHMV ABCDEFGHIJK medium unknown
+#13059
+arcane haunt spectre magic~
+an arcane haunt~
+A spectre formed of magic floats delicately over the terrain
+~
+Shimmering with mystical power, this ghostly figure is really no ghost at
+all.  An apparition of magic in one of its most potent forms, the arcane
+gaunt knows no master save the strongest of wizards.  The haunt's surface
+shimmers with an inbred light, sparkling with energy.  The creature looks to
+be strait out of a tale of wonder.  
+~
+human~
+A DFOTUVZb 0 0
+50 0 10d167+1149 50d10+100 5d6+13 whip
+-9 -9 -9 -7
+FGK 0 C 0
+(null) (null) male 225
+AHMV ABCDEFGHIJK medium unknown
+#13060
+ether golem silent sentinel~
+an ether golem~
+A silent sentinel stands here, made from the stuff of magic.
+~
+If it weren't for his constantly shifting colors of pinks and yellows,
+the ether golem would be able to pass for a normal statue.  The enormous
+construct is made completely out of some sort of solidified magic.  
+It stands at over eight feet tall, and almost has the breadth of a dragon.
+~
+unique~
+A DFHOTUVZc 0 0
+75 0 11d551+2303 75d10+100 5d9+24 digestion
+-19 -19 -19 -17
+CFGKO JL CL KS
+(null) (null) male 337
+ACGHMVXc ABCDEFGHIJKLOPUVW medium unknown
+#13061
+magic elemental~
+a magic elemental~
+An elemental made completely from the forces of magic exists here.
+~
+Strange and foreign forces crackle all around this creation of mystical
+energies.  The magic elemental is most difficult to describe because it
+holds no set form for any extended period of time, shifting from solid to
+gas, and forming into liquid again.  
+~
+human~
+A DFHOTUZ 0 0
+95 0 12d1182+3558 95d10+100 6d10+29 charge
+-30 -30 -30 -25
+FGHK C 0 0
+(null) (null) male 427
+AHMV ABCDEFGHIJK medium unknown
+#13070
+dragon wrath~
+The Dragon of Wrath~
+The Dragon of Wrath is here, extremely unhappy.
+~
+Whatever you did to piss this guy off, you regret it.
+~
+dragon~
+A BCDEFGHJNOPQTUVabc 1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 charge
+-35 -35 -35 -27
+ABCDEFGHIJKLMNOP BCDEFGHIJKLMNOPQRS BEH FI
+(null) (null) female 450
+ACGHMVZc ACDEFGHIJKLOPQUVX giant unknown
+#13076
+merchant aristean man~
+an aristean merchant~
+A short good natured man stands here.
+~
+Before you stands a short man, a merchant of the Aristean faith.  He
+looks to be a nice man.  
+~
+human~
+A 0 1000 0
+70 0 11d443+2036 70d10+100 5d8+22 none
+-17 -17 -17 -15
+0 0 0 0
+(null) (null) female 315
+AHMV ABCDEFGHIJK medium unknown
+#13080
+commander sands creature~
+The Whirling Sands Commander~
+Before you stands the Whirling Sands Commander.
+~
+This creature is an enormous visage of death and destruction.  He is huge
+and sandy-colored.  All about him twist sands of all the realms of the
+universe, turning and spinning as if to shield him from harm.  The Commander
+of the Whirling Sands knows exactly what he's doing, and why he's doing it,
+but it appears to everyone else as an enigma.  
+~
+human~
+A 0 -1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 charge
+-35 -35 -35 -27
+CFHINO 0 0 0
+(null) (null) female 450
+AHMQV ABCDEFGHIJK huge unknown
+#13081
+sands warrior~
+A Warrior of the Sands~
+A Warrior of the Sands is here, ready to battle to infinity and back.
+~
+Before you is a Warrior of the Sands.  He wields the powers of the sands
+to form his disillustioned and twisted dreams.  He follows the commanders
+orders, and is quite content to die for his cause.  
+~
+human~
+A 0 -900 0
+65 0 11d352+1789 65d10+100 5d8+19 digestion
+-15 -15 -15 -13
+CDIK 0 J R
+(null) (null) male 292
+AHMQV ABCDEFGHIJK medium unknown
+#13082
+sands peon~
+A peon of the sands~
+A peon of the sands stands here, attempting to attribute in any way he can.
+~
+This sands is rather small, though you can tell he has a powerful punch. 
+He runs with his betters, always trying to get a piece of the action.  
+~
+human~
+A 0 -500 0
+40 0 10d98+804 40d10+100 4d7+10 crunch
+-5 -5 -5 -3
+B J 0 R
+(null) (null) male 180
+AHMQV ABCDEFGHIJK small unknown
+#13083
+sands mage~
+A Mage of the Sands.~
+A Mage of the sands stands here, conjuring deadly magic.
+~
+These mages are extreme loyalists to the cause of the sands.  They pack
+all they can to destroy.  They follow the commander, but have the good sense
+not akin to normal sand warriors.  
+ 
+~
+human~
+A 0 -950 0
+80 0 11d677+2588 80d10+100 5d10+24 none
+-21 -21 -21 -19
+0 0 0 R
+(null) (null) male 360
+AHMQV ABCDEFGHIJK medium unknown
+#13084
+tornado whirlwind~
+a Giant Whirlwind~
+This enormous tornado seems to have a life of its own.
+~
+It twists and turns, spins and churns.  All that comes in its path is
+destroyed.  It blows and whirls, moves and twirls.  Definitely something the
+weak should avoid.  
+~
+human~
+A 0 0 0
+65 0 11d352+1789 65d10+100 5d8+19 claw
+-15 -15 -15 -13
+A 0 EFGR 0
+(null) (null) male 292
+AEHMV ABCDEFGHIJK giant unknown
+#13085
+dragon sands addfh~
+A Sands Dragon~
+A sands dragon is here, glaring at you.
+~
+This dragon is enormous.  The sands dragons were formed as a bodyguard to
+the commander.  While they took the same shape as the dragons, they are not
+true dragons, and have very different abilities.  
+They are, however, extremely powerful.
+~
+dragon~
+A DFJOTVc -1000 0
+95 0 12d1182+3558 95d10+100 6d10+29 charge
+-30 -30 -30 -25
+ACMO LR BEH FI
+(null) (null) male 427
+ACGHMVZc ACDEFGHIJKLOPQUVX huge unknown
+#13086
+corpse basalt guardian~
+the walking corpse of the basalt guardian~
+The corpse of the basalt guardian has been somehow reanimated here.
+~
+You don't know how it happened, but somehow, this dragon is back.  And its mad.
+~
+human~
+A DFHOTUVb 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 crush
+-35 -35 -35 -27
+CFGHKO C 0 0
+(null) (null) male 450
+AHMV ABCDEFGHIJK huge unknown
+#13087
+shadowy wraith ghost~
+a ghostly wraith~
+A ghostly figure clings to the edges of your vision.
+~
+A shadowy figure floats in the air here.  The shadowy wraith looks at you
+with rage and hunger in its eyes.  While not solid, exactly, the wraith
+appears to be barely tangible.  
+~
+unique~
+A BDFHOPTUVZc 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 sting
+-35 -35 -35 -27
+FGHK I AF CH
+(null) (null) female 450
+CIKLM ABCDEFGHIJK medium unknown
+#13088
+sands dragon lord adddfg~
+The Sands Dragon Lord~
+The lord of the Sands Dragons is here.
+~
+He's big.  He's mean.  He's sandy.
+~
+dragon~
+A DFHJOPTVc -1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 charge
+-35 -35 -35 -27
+CFGK L BDEH FI
+(null) (null) female 450
+ACGHMVZc ACDEFGHIJKLOPQUVX medium unknown
+#13099
+crook torellus~
+Torellus the Crook~
+A shady figure lurks about the area.
+~
+Before you stands a shady figure in dark robes.  You can sense that this
+is Torellus the Crook, dark figure of the realm.  
+~
+human~
+A BDFOQV -1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 stab
+-35 -35 -35 -27
+BCDEFHIK H 0 0
+(null) (null) male 450
+AHMV ABCDEFGHIJK huge unknown
+#0
+
+
+
+#OBJECTS
+#13000
+unused~
+unused~
+Unused~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+#13001
+lake water~
+the lake~
+The lake waters look very refreshing this time of year.~
+unknown~
+fountain R 0
+0 -1 'water' 0 0
+0 0 0 P
+#13002
+rift storm dragon dragonstorm~
+the great Dragonstorm Rift~
+The great Dragonstorm Rift.long The great Dragonstorm Rift is here.  Currently it is closed.~
+unknown~
+portal 0 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 ACDEFGHK 0
+0 0 0 P
+#13003
+sphere blue power watery~
+the Water Sphere~
+Levi~
+unknown~
+treasure BGT AR
+0 0 0 0 0
+100 1 1000 P
+A
+17 -7
+A
+5 3
+#13004
+dragon toy~
+a dragon doll~
+A small green dragon doll is here.~
+unknown~
+treasure AG AR
+0 0 0 0 0
+10 1 100 P
+A
+4 3
+#13005
+unused~
+unused~
+Unused~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 1 P
+#13006
+statue emerald~
+a statue of a dragon~
+An emerald statue of a sleek dragon can be seen standing on a granite pedestal.~
+unknown~
+treasure 0 0
+0 0 0 0 0
+0 0 1 P
+E
+statue~
+The name plate on this statue reads "Tanos" in clearly chisled letters. 
+The enormous statue pictures a sleek-looking dragon with an acute wisdom in
+his eyes.  
+~
+E
+emerald~
+Before you stands the figure of Tanos, the first Drivite High Draconic
+Ambassador.  You have heard legends of Tanos, of his caring toward all good
+creatures, and of his dextrous abilities as a thief.  The figure of Tanos is
+carved to be around six feet tall, and he stands holding his arms as if
+revealing the rest of the room.  Even his features show that Tanos was a
+grand leader.  You can tell that this statue was made long before Tanos'
+transformation into a dragon.  
+~
+#13007
+unused~
+unused~
+Unused~
+unknown~
+trash IV AO
+0 0 0 0 0
+1 0 1 P
+#13008
+unused~
+unused~
+Unused~
+unknown~
+trash R AO
+0 0 0 0 0
+10 1 10 P
+#13009
+scales dragon~
+some dragon scales~
+Some green dragon scales lie here.~
+unknown~
+pill G A
+95 'reserved' 'reserved' 'reserved' 'reserved'
+95 2 2850 P
+#13010
+unused~
+unused~
+Unused~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+#13011
+unused~
+unused~
+Unused~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+#13012
+unused~
+unused~
+Unused~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+#13013
+unused~
+unused~
+Unused~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+#13014
+unused~
+unused~
+Unused~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+#13015
+unused~
+unused~
+Unused~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+#13016
+unused~
+unused~
+Unused~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+#13017
+unused~
+unused~
+Unused~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+#13018
+unused~
+unused~
+Unused~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+#13019
+aquamarine ring~
+a ring of aquamarine~
+A small ring is here, carved out of a blue stone.  Set into its center is a large dark aquamarine.~
+unknown~
+treasure R AB
+0 0 0 0 0
+28 1 280 P
+A
+18 2
+A
+19 2
+#13020
+unused~
+unused~
+Unused~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+#13021
+tooth dragon serrated~
+a dragon tooth~
+A serrated dragon tooth lies here.~
+unknown~
+weapon 0 AN
+bow 12 16 crunch J
+100 3 500 P
+A
+19 3
+A
+18 3
+#13022
+scarlet scales~
+some scarlet scales~
+These scarlet scales seem to make a perfect belt.~
+unknown~
+armor GT AL
+E E E AC 0
+100 10 500 P
+A
+17 -8
+#13023
+mirror scale~
+a white scale~
+The reflection from this scale makes a perfect mirror.~
+unknown~
+treasure AGQ AO
+0 0 0 0 0
+95 5 950 P
+A
+5 3
+A
+3 3
+A
+4 3
+#13024
+scales crystal~
+long crystal scales~
+Some long crystal scales are shaped for the shoulders of a large beast.~
+unknown~
+armor 0 AV
+E E E AC 0
+100 3 500 P
+A
+19 3
+A
+18 3
+#13025
+blade crystal~
+a Crystal Blade~
+A Crystal blade looks like it would fit nicely around your wrist.~
+unknown~
+armor AT AM
+E E E AC 0
+100 3 500 P
+A
+19 4
+A
+13 10
+#13026
+crystal statue~
+a statue of a large dragon~
+A crystal statue of a large dragon can be seen standing on a marble pedestal.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 1 P
+E
+statue~
+This statue is totally transparent.  A small plate bares the inscription
+"Egami" in fine chisled letters at the feet of the dragon.  The dragon seems
+to hold itself with a noble air.  
+~
+E
+crystal~
+This statue is one carved in the likeness of the great dragon Egami,
+first Grand Dragon of the Elements.  The statue was carved as Egami poised
+soaring through the air.  His wings are long, and the crystal makes them
+appear almost as ice.  The statue glistens even with the fading light.  
+~
+#13027
+onyx statue~
+a statue of Ivy~
+An onyx statue of Ivy can be seen standing on an obsidian pedestal.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 1 P
+E
+onyx~
+This dark statue depicts Ivy, the archetypical Grand Dragon of Death.  In
+this statue, Ivy, a relatively small dragon, is seen curled up with her head
+resting on her hindquarters.  She looks lazily at some imaginary object on
+the floor, as if contemplating whether or not to eat it.  
+~
+E
+ivy~
+This dark statue depicts Ivy, the archetypical Grand Dragon of Death.  In 
+this statue, Ivy, a relatively small dragon, is seen curled up with her head 
+resting on her hindquarters.  She looks lazily at some imaginary object on 
+the floor, as if contemplating whether or not to eat it.  
+~
+#13028
+crown purple scales~
+purple scales~
+A crown of purple scales is here.~
+unknown~
+armor GQ AE
+E E E AC 0
+100 15 500 P
+A
+12 40
+A
+13 10
+A
+3 1
+#13029
+unused~
+unused~
+Unused~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 1 P
+#13030
+unused~
+unused~
+Unused~
+unknown~
+trash G AO
+0 0 0 0 0
+0 0 1 P
+#13031
+unused~
+unused~
+Unused~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+#13032
+unused~
+unused~
+Unused~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+#13033
+unused~
+unused~
+Unused~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+#13034
+unused~
+unused~
+Unused~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 1 P
+#13035
+unused~
+unused~
+Unused~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 1 P
+#13036
+unused~
+unused~
+Unused~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 1 P
+E
+corpse~
+The corpse is battered almost beyond belief.  Apart from being scorched,
+mangles, and crushed, there are also huge tooth holes and one enormous rift
+where a talon has been raked through the body.  A faint tinge of magic
+lingers on the air.  
+~
+#13037
+dragon skull~
+a thorn-ridden dragon skull~
+An enormous skull rests here on the altar.~
+unknown~
+armor C AE
+CDE CDE CDE BC 0
+100 5 500 P
+A
+13 20
+A
+19 4
+A
+2 1
+#13040
+unused~
+unused~
+Unused~
+unknown~
+trash 0 AD
+0 0 0 0 0
+0 0 1 P
+#13041
+unused~
+unused~
+Unused~
+unknown~
+trash FG AN
+0 0 0 0 0
+0 0 1 P
+#13042
+unused~
+unused~
+Unused~
+unknown~
+trash 0 AR
+0 0 0 0 0
+0 0 1 P
+#13043
+unused~
+unused~
+Unused~
+unknown~
+trash 0 AR
+0 0 0 0 0
+0 0 1 P
+#13044
+unused~
+unused~
+Unused~
+unknown~
+trash 0 AR
+0 0 0 0 0
+0 0 1 P
+#13045
+unused~
+unused~
+Unused~
+unknown~
+trash 0 AR
+0 0 0 0 0
+0 0 1 P
+#13046
+unused~
+unused~
+Unused~
+unknown~
+trash 0 AR
+0 0 0 0 0
+0 0 1 P
+#13047
+unused~
+unused~
+Unused~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 1 P
+#13088
+unused~
+unused~
+Unused~
+unknown~
+trash 0 AR
+0 0 0 0 0
+0 0 1 P
+#13098
+unused~
+unused~
+Unused~
+unknown~
+trash 0 AR
+0 0 0 0 0
+0 0 1 P
+#13099
+unused~
+unused~
+Unused~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 1 P
+#0
+
+
+
+#ROOMS
+#13000
+A New Land~
+The land all around you is green and alive.  The sky is an azure blue and
+the grass is an emerald green.  All around you the atmosphere smells fresh,
+and it reminds you of years long since passed.  A soft wind blows through
+your fingers and hair, ant it smells of adventure and mirth.  North of here
+the green fields continue, but to the east, south, and west, sheer cliffs
+reach up and block your path.  
+~
+0 1048576 0
+E
+grass~
+The grass here is as rich and healthy as you've ever seen it, and you
+don't think that it could possibly get any healthier than it already is.  
+~
+E
+cliffs~
+The cliffs that block passage to the east west and south are broad and
+very high.  They're made of a rock with a strong reddish tint that hints of
+an iron mineral content.  High above these cliffs you see several small
+objects, but what they are you can't tell.  
+~
+E
+north~
+North of here are emerald plains, with mountains farther north of a deep
+shade of violet.  
+~
+D0
+~
+~
+~
+0 0 13001
+M 0 H 0
+S
+#13001
+The Emerald Fields~
+You find yourself in more of the lush emerald fields of this region. 
+Again the lush grass is under your feet, and the air smells like crisp
+vegetation on a summer day.  Walking along, you realize that some places in
+the grass here are matted flat.  The cliff walls are looming to the east and
+west of here, but you can proceed north and south.  
+~
+0 1048584 2
+E
+south~
+South of here are more emerald fields.  You also see the back wall of the
+cliffs.  
+~
+E
+north~
+To the north of here you catch a glare as you would off of a body of
+water.  
+~
+E
+grass~
+Parts of the emerald green grass here are pushed flat, as if something
+had been laying on them.  
+~
+D0
+~
+~
+~
+0 0 13002
+D2
+~
+~
+~
+0 0 13000
+M 0 H 0
+S
+#13002
+The Sapphire Lake~
+You find yourself on the shores of a great sapphire lake that stretches
+itself out before you, placid and beautiful.  The waters are a deeper blue
+than the sky and glitter in the golden sunlight above you, which warms the
+fine crystal sand under your feet.  The lake itself stretches more to the
+west than any other direction, and you can see a shore farther on in that
+direction.  North of here is a temple, set into a field of glittering
+objects.  From over the lake, you can just make out a dragon over the temple
+gate.  
+~
+0 1048588 0
+E
+north~
+To the north of here is a field of glittering objects, and beyond that, a temple built of great crystals.
+~
+E
+south~
+South of here are a long stretch of deep green fields.
+~
+D0
+~
+~
+~
+0 0 13003
+D1
+~
+~
+~
+0 0 13043
+D2
+~
+~
+~
+0 0 13001
+D3
+~
+~
+~
+0 0 13037
+D5
+~
+~
+~
+0 0 13039
+M 0 H 0
+S
+#13003
+Walking on Shards~
+You find yourself on a bed of sharp crystal shards.  The shards seem to
+have been snapped off somehow, even though the crystals are nearly
+indestructible.  You see more crystals to the north and east, while to the
+north lies the temple, over only a small portion of them.  Also, south of
+here lies the Sapphire Lake.  
+~
+0 1048588 0
+E
+west~
+To the east and west of here are sharp crystal blossoms.
+~
+E
+north~
+North of here is a small garden of crystals, before coming upon a
+splendid looking temple.  
+~
+E
+east~
+To the east and west of here are sharp crystal blossoms.  
+~
+E
+south~
+South of here is the Sapphire lake, glittering in the sun.
+~
+D0
+~
+~
+~
+0 0 13004
+D1
+~
+~
+~
+0 0 13008
+D2
+~
+~
+~
+0 0 13002
+D3
+~
+~
+~
+0 0 13007
+M 0 H 0
+S
+#13004
+The Crystal Garden~
+You are standing amidst a garden of beautifully shaped crystals.  All
+over the sun sparkles and gleams off of the roses and clusters of diamond
+like formations.  These sharp shards growing into the ground stretch on in
+all directions, but stop as they come to a temple in the north, crystal
+walls on the east and west, and the Sapphire lake to the south.  
+~
+0 1048588 0
+E
+north~
+North of here is the gate to the great Drivite Temple.
+~
+E
+south~
+South of here are many shards of broken crystals.
+~
+E
+east~
+East of here is a patch of crystal flowers.
+~
+E
+west~
+West of here is a patch of crystal flowers.
+~
+D0
+~
+~
+~
+0 0 13009
+D1
+~
+~
+~
+0 0 13005
+D2
+~
+~
+~
+0 0 13003
+D3
+~
+~
+~
+0 0 13006
+M 0 H 0
+S
+#13005
+Diamond Flowers~
+The blossoms here are sharp and beautiful.  All around the little things
+twinkle in the fresh sunlight.  They are as pure as a fresh summer's day and
+the air here smells of fresh greenery, even though there is none in sight. 
+All seems to be well, until far away you hear the roar of a giant beast.  
+~
+0 1048588 0
+E
+south~
+South of here is a field of sharp blossoms
+~
+E
+west~
+~
+D2
+~
+~
+~
+0 0 13008
+D3
+~
+~
+~
+0 0 13004
+M 0 H 0
+S
+#13006
+Diamond Flowers~
+The crystals here, unlike in the rest of the area, have grown into tiny
+flowers that are more beautiful even than the blossoms to the south.  You
+gaze in awe at these little things and their detail is almost the finest
+you've ever seen.  This place is well groomed, but it gets even better to
+the east.  Tiny flowers grow bigger as you proceed in either direction.  
+~
+0 1048588 0
+E
+south~
+South of here are sharp crystal blossoms 
+~
+E
+east~
+East of here is a garden of beautiful crystals 
+~
+D1
+~
+~
+~
+0 0 13004
+D2
+~
+~
+~
+0 0 13007
+M 0 H 0
+S
+#13007
+Sharp Blossoms~
+The crystals in this part of the area have grown into flowering blossoms.
+The little blossoms are both small and large, and are razor sharp,
+restricting you to a very small path through the center of the area. 
+Looking closer at the path, you realize that it was something very large
+that created it, probably the tail of a great beast.  
+~
+0 1048584 0
+E
+north~
+North of here the blossoms turn into fine flowers.
+~
+E
+east~
+East of here are many broken crystal shards.
+~
+D0
+~
+~
+~
+0 0 13006
+D1
+~
+~
+~
+0 0 13003
+M 0 H 0
+S
+#13008
+Sharp Blossoms~
+The crystals in this part of the area have grown into resembling the
+blossoms of flowers.  Everywhere around you are the little things, and
+they're razor sharp.  If there wasn't a small path of broken crystals, the
+anomalies would tear through your boots and into your feet.  To the west of
+here lies the fallen shards, while as you look north the blossoms more and
+more resemble flowers.  
+~
+0 1048588 0
+E
+north~
+North of here the crystals morph and begin to resemble flowers.
+~
+E
+west~
+West of here the crystals are battered and broken.
+~
+D0
+~
+~
+~
+0 0 13005
+D3
+~
+~
+~
+0 0 13003
+M 0 H 0
+S
+#13009
+The Sentinel Gate~
+You find yourself standing before the Drivite temple gate.  The gate
+itself is grand, made of bronze and silver, and its doors are opened wide to
+you as you pass.  Though the gates are opened, the temple is not unguarded. 
+You sense that two great creatures take up residence here.  North of this
+point is a long hallway leading into the temple, while directly south is the
+crystal garden.  
+~
+0 1048588 0
+E
+north~
+North of here is a long gray hall.
+~
+E
+south~
+South of here is a crystal garden.
+~
+D0
+~
+~
+~
+0 0 13010
+D2
+~
+~
+~
+0 0 13004
+M 0 H 0
+S
+#13010
+The Entrance Hall~
+You have come to the entrance hall of the Drivite Temple.  The room you
+are now in is rather large and made completely of a gray stone with the
+texture of marble.  It is a rather plain hall as far as halls go, two walls,
+a ceiling and a floor.  The only thing remotely interesting that you notice
+is the emblem of the Drivite scrawled on the floor, a dragon with its back
+arched spewing flame across the sky.  North of here the hall turns to a
+great room, while to the south you detect the garden made of crystal.  
+~
+0 1048588 0
+E
+south~
+South of here is the Sentinel Gate.
+~
+E
+north~
+North of here is the temple's largest room.
+~
+D0
+~
+~
+~
+0 0 13015
+D2
+~
+~
+~
+0 0 13009
+M 0 H 0
+S
+#13011
+The Hall of Dragons~
+You have come to the Drivite temple Hall of Dragons.  You walk into this
+room on a dragonscale carpet, and as you look around you see statues and
+pictures of dragons everywhere.  On the ceiling is a large ornament made
+completely of dragon teeth and horns.  Farther north of here you see an
+alter, while the the south is the Great Room.  
+~
+0 1048588 0
+E
+south~
+South of here is the Great Room.
+~
+E
+north~
+North of here is the temple alter.
+~
+D0
+~
+~
+~
+0 0 13013
+D2
+~
+~
+~
+0 0 13015
+M 0 H 0
+S
+#13012
+A Scaled Passage~
+The room you have just entered is covered in scales.  All over the walls
+and ceiling are the armored flakes, and the only place in the room that
+lacks them is the ground.  As you walk, the scales seem to change colors
+from blue to green and back again.  To the west is a grand hall, while to
+the east lies a smaller room.  
+~
+0 3145740 0
+E
+east~
+East of here is the Eternal Peace Room.
+~
+E
+west~
+West of here is a vast hall.
+~
+D1
+~
+~
+~
+0 0 13017
+D3
+~
+~
+~
+0 0 13015
+M 0 H 0
+S
+#13013
+The Temple Alter~
+The alter here is one of the grandest you've seen.  It is made of gold,
+silver and crystal, and spaced around it are small magical flames that may
+have burning for hundreds of years.  On the top is a small crystal formation
+that is perfectly symmetrical, and floating above the thing itself is an orb
+that glows with an unearthly light.  The rest of this room is bare.  
+~
+0 34603020 0
+E
+south~
+South of here is the Hall of Dragons.
+~
+E
+north~
+North of here is a small room with a shimmering ceiling.
+~
+D0
+~
+~
+~
+0 0 13014
+D2
+~
+~
+~
+0 0 13011
+M 0 H 0
+S
+#13014
+Under the Shrine of Discordia~
+This room is completely normal, save for the fact that ceiling is made of
+water.  You don't know how it has happened, but by looking through the
+ceiling you realize that you're under the Shrine of Discordia.  You see
+through the water a great many people socializing among themselves.  South
+of here is the temple alter.  
+~
+0 1048584 0
+E
+south~
+South of here is the temple alter.
+~
+E
+up~
+Above you is the Shrine of Discordia.
+~
+D2
+~
+~
+~
+0 0 13013
+D4
+~
+~
+~
+0 0 3001
+M 0 H 0
+S
+#13015
+The Great Room~
+You have come into the largest room in the entire temple.  This vast room
+is finely decorated on the floor with a black rug, bearing the Drivite
+symbol, and on the ceiling a large chandelier, made from the crystal in
+front of the temple.  The rug covers the whole floor, but directly in the
+middle of the symbol is a large whole, and a staircase leads up and down
+from the point.  On the walls are draped sheets baring the coats of arms of
+several great Drivite heroes, and also flags representing the various
+nations that unite to worship dragons.  To the east and west you see
+passages that seem to be made of dragon scales, while to the north is a
+hallway, and to the south is the temple entrance.  
+~
+0 1052680 0
+E
+up~
+The staircase leads up into the Drish Tower.
+~
+E
+down~
+Below you is the Hall of Rememberance
+~
+E
+south~
+South of here is the entrance hall.
+~
+E
+north~
+North of here is the Hall of Dragons.
+~
+E
+west~
+To the west of here is a long scaled passageway
+~
+E
+east~
+To the east of here is a long scaled passageway
+~
+D0
+~
+~
+~
+0 0 13011
+D1
+~
+~
+~
+0 0 13012
+D2
+~
+~
+~
+0 0 13010
+D3
+~
+~
+~
+0 0 13024
+D4
+~
+~
+~
+0 0 13016
+D5
+~
+~
+~
+0 0 13029
+M 0 H 0
+S
+#13016
+The Drish Tower~
+This tower was made to honor those who have taken the form of the half
+dragon.  These individuals have such dedication to the dragons that they
+permanently change their forms, for better of for worse, to be more like
+them The tower itself is narrow and tall.  The steps are small and squeezed
+into the little staircase.  Above you the tower stretches on, while below
+you is the great room.  
+~
+0 1048584 0
+E
+up~
+The tower keeps going up, and eventually you see blue sky.
+~
+E
+down~
+Below you lies the great room.
+~
+D4
+~
+~
+~
+0 0 13028
+D5
+~
+~
+~
+0 0 13015
+M 0 H 0
+S
+#13017
+The Eternal Peace Room~
+The Eternal Peace Room was built as a junction to the rooms beyond, but
+serves little purpose other than to be a junction.  The room is rather
+plain, and the only thing of importance is a large circle on the floor which
+symbolizes peace.  There are four doorways here, one to the scaled hallway
+and others to rooms beyond.  
+~
+0 1048584 0
+E
+south~
+South of here is another room in the temple.
+~
+E
+east~
+East of here is a small room.
+~
+E
+north~
+North of here is a large chamber.
+~
+E
+west~
+West of here is a scaled passage.
+~
+D0
+~
+~
+~
+0 0 13020
+D1
+~
+~
+~
+0 0 13018
+D2
+~
+~
+~
+0 0 13022
+D3
+~
+~
+~
+0 0 13012
+M 0 H 0
+S
+#13018
+The Dragon Alliance~
+You have entered a room which's only highlight is a pedestal in the
+center of the room with a large scroll.  For lack of anything else to look
+at, you read the scroll and discover much about the history of the Drivite
+religion.  Of all that you read the highlighted part is the segment about
+the treaty between the Drivite and Dragons, and you find it quite
+fascinating.  There is a small room east of here, while to the west is the
+Eternal Peace Room.  
+~
+0 1048588 0
+E
+east~
+East of here is the memorial from the dragons to the Drivite.
+~
+E
+west~
+West of here is the Eternal Peace Room.
+~
+D1
+~
+~
+~
+0 0 13019
+D3
+~
+~
+~
+0 0 13017
+M 0 H 0
+S
+#13019
+The Drivite Remembrance~
+Like the pedestal in the other room, in this room is a memorial, but it
+was crafted and given to the Drivite religion by the dragons themselves. 
+The Drivite Remembrance appears to be just a sculpture out of crystal of the
+day the alliance was made between the dragons and the Drivite, with the
+chief dragons of the three types present, but actually it is the condition
+for peace.  Should this statue fall and break the peace between these two
+groups would be over.  West of here is the first monument.  
+~
+0 1048588 0
+E
+west~
+West of here is the memorial to the Dragon Aliance
+~
+D3
+~
+~
+~
+0 0 13018
+M 0 H 0
+S
+#13020
+The Chamber of All Dragons~
+You have come to yet another amazing room in the Drivite temple.  As you
+walk out into the chamber, a bridge made completely of bones forms out in
+front of you, and it reaches from one side of a large chasm to another.  The
+chasm itself is huge, and through the center flows a stream of acid with
+sharp crystals jutting up from the bottom now and then.  Looking at the
+chasm walls, you see several open lava tubes, and observe magma running
+within them.  As you walk over the bridge of bone, several large bolts of
+pure electrical energy flash and strike pinnacles of earth on the chasm
+floor, sometimes missing you by only feet.  North of here is a small
+residence, and by looking at it you realize that you know of only one person
+that would choose such a place to live, the High Draconic Ambassador.  South
+of here is the Eternal Peace Room.  
+~
+0 1048588 0
+E
+north~
+North of here is the residence of the drivite leader.
+~
+E
+south~
+South of here is the Eternal Peace Room.
+~
+D0
+~
+~
+~
+0 0 13021
+D2
+~
+~
+~
+0 0 13017
+M 0 H 0
+S
+#13021
+The High Draconic Ambassador's Abode~
+This little house is very normal, save its surroundings.  It looks like a
+very comfortable little home.  On the south wall is a door, while on the
+east side of the house is the bed, and above that a small dresser.  On the
+east wall is a table with three figurines, two of dragons and one of a
+dracoliche, on it.  The ceiling is fairly plain, but on the ground is a
+carpet with the Drivite symbol.  
+~
+0 47186956 0
+E
+south~
+South of here is the large chamber from which you came.
+~
+D2
+~
+~
+~
+0 0 13020
+M 0 H 0
+S
+#13022
+The Drish Conversion~
+A popular belief in the world is that there is a time and place for
+everything, and though the time is still undetermined, this is the place for
+the Drish Conversion.  The room you have entered is large and plain other
+than the symbol of the drish, a large hexagon with the drivite symbol in the
+center, directly in the middle of the floor.  As you enter the temple it
+glows in recognition to you, and you sense that great magical enchantment
+affects this room.  South of here is the donation room, while to the north
+is a junction in the halls.  
+~
+0 1048588 0
+E
+north~
+North of here is the Eternal Peace Room.
+~
+E
+south~
+South of here is the temple donation room.
+~
+D0
+~
+~
+~
+0 0 13017
+D2
+~
+~
+~
+0 0 13023
+M 0 H 0
+S
+#13023
+The Draconic Donation Room~
+You have come to the Drivite donation room.  This place is where the
+extra stuff that any member of the religion has can be put to help younger
+followers.  The room itself is pretty plane, but is perfect for holding
+junk, and so that's what it's used for.  North of here is the Drish
+Conversion.  
+~
+0 1048588 0
+E
+north~
+North of here is the Drish Conversion.  
+~
+D0
+~
+~
+~
+0 0 13022
+M 0 H 0
+S
+#13024
+A Scaled Passage~
+The hall that you are now in is completely covered with green
+dragonscales.  All over the walls and ceiling, the room looks almost alive
+as you walk through it.  The only place not covered by scales is the floor
+that you walk on.  
+~
+0 1048580 0
+E
+east~
+East of here is the Great Room
+~
+E
+west~
+~
+E
+west~
+West of here lies the Grand Dragon room.
+~
+D1
+~
+~
+~
+0 0 13015
+D3
+~
+~
+~
+0 0 13025
+M 0 H 0
+S
+#13025
+The Grand Dragon Room~
+You have come to the Grand Dragon Room.  This room is rather plain, other
+than the decorations above the north west and south doors.  Over the north
+door is a crystal, colored to match the rich soil of the area.  Over the
+west door is a flame, framed by a large snowflake.  Last of all, over the
+south door is the rib cage of an animal, scorched by flames of intense heat.
+East of here is the scaled passage.  
+~
+0 1048580 0
+E
+east~
+East of here is a scaled passageway
+~
+E
+north~
+North of here is a strange chamber.
+~
+E
+west~
+West of here is a strange chamber
+~
+E
+south~
+South of here is a strange chamber.
+~
+D0
+~
+~
+~
+0 0 13031
+D1
+~
+~
+~
+0 0 13024
+D2
+~
+~
+~
+0 0 13033
+D3
+~
+~
+~
+0 0 13026
+M 0 H 0
+S
+#13026
+The Chamber of the Elements~
+The chamber you have just entered is a large room full of almost any
+element you can think of.  You enter and find yourself on a long path that
+stretches over a large chasm.  Inside the chasm you see great jets of flame
+shoot up and singe the bottom of the path and the ceiling.  From time to
+time a geyser will also erupt, and a stream of water will flow down the
+center of the chasm, to be frozen at the west end of the room by dancing
+beams of ice.  As you watch above you, great bolts of lightning dart from
+simulated storm clouds on the ceiling of the room and strike great pinnacles
+of earth which shoot up from the floor.  The trail goes on to the east,
+while to the west it ends in a room.  
+~
+0 1048580 0
+E
+west~
+West of here is the Elemental Dragon Alter.
+~
+E
+east~
+East of here is the Grand Dragon Room.
+~
+E
+east~
+East of here is the Grand Dragon Room.  
+~
+E
+west~
+West of here is a strange shrine.
+~
+D1
+~
+~
+~
+0 0 13025
+D3
+~
+~
+~
+0 0 13027
+M 0 H 0
+S
+#13027
+The Elemental Dragon Alter~
+As you come to this section of the path you feel a bit relieved, for this
+area of the great chamber seems calmer.  The path which extends almost
+magically, over two hundred feet above the ground, comes to this point and
+stops, with no support underneath it.  In the center of this room is a
+pedestal, over which floats a large circle, about one foot in diameter.  In
+the center of the circle is a figure of a complete rainbow, perfectly
+circular, and out from the circle extend glowing lines which connect the
+symbols for smoke, fire, acid, lightning, ice, water, wind, and light.  You
+can sense that this is a holy place.  
+~
+0 1048580 0
+E
+east~
+East of here is the long path back to the safety of the Grand Dragon Room.
+~
+D1
+~
+~
+~
+0 0 13026
+M 0 H 0
+S
+#13028
+The Pinnacle of Flight~
+You find yourself on the Pinnacle of Flight, the highest point of the
+Drivite Temple.  From here, you get a good view of your surroundings, and
+you see the temple, the lake, the crystal garden, and the lush grasses. 
+Below you lies the staircase and the Drish Tower.  Floating in the sky
+directly above you is a small rift in the sky, a tear in the fabric of the
+universe.  
+~
+0 1048580 0
+E
+down~
+Below you is the Drish Tower.
+~
+D5
+~
+~
+~
+0 0 13016
+M 0 H 0
+S
+#13029
+The Hall of Remembrance~
+This hall was created and dedicated to the past and present leaders of
+the Drivite religion.  There are statues to be found of all the leaders of
+the religion.  
+~
+0 1048576 0
+E
+up~
+Above you is the great room .  
+~
+E
+south~
+South of here is more of the Hall of Rememberance
+~
+D2
+~
+~
+~
+0 0 13030
+D4
+~
+~
+~
+0 0 13015
+M 0 H 0
+S
+#13030
+The Hall of Remembrance~
+This is the end of the long hallway in memory of those that have worked
+hard to make this religion work.  You find more statues of leaders here.  
+~
+0 1048580 0
+E
+north~
+North of here lies the entrance to the hall of rememberance.
+~
+D0
+~
+~
+~
+0 0 13029
+M 0 H 0
+S
+#13031
+The Chamber of Minerals~
+The chamber you have just entered contains an amazing display of
+crystals.  All around you is a spectrum of giant array of rubies, emeralds,
+amethysts, and diamonds, as well as other crystals that you've never even
+seen before.  They jut out from the walls ceiling and ground, like giant ice
+formations, and are far too big for you to carry.  Also, the walls here are
+coated with precious metals, gold silver and platinum, as well as bronze and
+copper.  North of here you see an extremely large crystal formation, while
+to the south is the Grand Dragon Room.  
+~
+0 1048576 0
+E
+north~
+North of here is a large crystal that is unlike any that you've ever seen.
+~
+E
+south~
+South of here is the Grand Dragon Room.
+~
+D0
+~
+~
+~
+0 0 13032
+D2
+~
+~
+~
+0 0 13025
+M 0 H 0
+S
+#13032
+The Earth Dragon Alter~
+In the center of the room here is a crystal formation unlike any you've
+ever seen.  It appears to be made of the same form of crystals that made the
+garden in front of the temple, except it is much bigger.  From the base of
+the crystals branch out smaller crystals, which branch into smaller and
+smaller crystals, until they get so small that you can't see how fine they
+are.  The formation itself is the size of the greatest of elephants, or the
+least of dragons.  
+~
+0 1048580 0
+E
+south~
+South of here is the Camber of the Minerals.
+~
+D2
+~
+~
+~
+0 0 13031
+M 0 H 0
+S
+#13033
+The Chamber of Death~
+As you enter this room, the whole atmosphere changes from one of serenity
+to the feeling of death in the air.  The smell here is stagnant and rancid,
+and you quickly see why.  All around this room are half buried hides of the
+dragons that have shed their skins to become a dracoliche.  There are
+multicolored hides all around the area, and you see one or two skins of gold
+and silver, but you dare not touch them, for this is a sacred place to the
+dracoliche.  To the south of here you see a large mound of corpses, while to
+the north lies the Grand Dragon Room.  
+~
+0 1048580 0
+E
+north~
+North of here lies the Grand Dragon Room.
+~
+E
+south~
+South of here is the Death Dragon Alter.
+~
+D0
+~
+~
+~
+0 0 13025
+D2
+~
+~
+~
+0 0 13034
+M 0 H 0
+S
+#13034
+The Death Dragon Alter~
+In the center of the room here is a large mound of dragon hides that are
+so far rotten that they have almost completely disintegrated.  These are so
+old that even the scales are partially decayed.  The smell here is stronger
+than in the rest of this death shrine, and it greatly disturbs you.  North
+of here lies the rest of the chamber.  Bones lay strewn about the ground.  
+~
+0 1048576 0
+E
+north~
+North of here is the Chamber of Death
+~
+D0
+~
+~
+~
+0 0 13033
+M 0 H 0
+S
+#13035
+The Stomach of a Dragon~
+Eww, this is nasty.  Its all gooey and sick...  And it smells of rotting
+meat.  You scream in horror as a tide of stomach acid tears toward you. 
+Eeeep!  
+~
+0 9446413 0
+M 0 H 0
+S
+#13036
+The Lungs of a Dragon~
+It seems you were unlucky enough to go down the wrong pipe.  The place
+you are in now has a silky color to it, and you're not having fun at all in
+it.  You are constantly being bopped and whapped around as the lungs expand
+and contract.  It is due to this fact that you can't slice or slash or bop
+or bash through the lungs in order to destroy the creature from the inside. 
+~
+0 9741 0
+M 0 H 0
+S
+#13037
+The Sapphire Lake~
+The lake here is just as beautiful as ever, but much shallower, and so a
+lighter shade of blue then it is just east of here.  The lake floor is
+relatively free of debris, picture perfect just like the rest of this
+wondrous place.  The smooth white sand seems to flow as the water underneath
+your feet.  East of here the lake becomes deeper, while to the west is the
+shore.  This looks like a comfortable place to dive.  
+~
+0 1048588 0
+D0
+~
+~
+~
+0 0 13046
+D1
+~
+~
+~
+0 0 13002
+D2
+~
+~
+~
+0 0 13044
+D3
+~
+~
+~
+0 0 13045
+D5
+~
+~
+~
+0 0 13038
+M 0 H 0
+S
+#13038
+Smooth Sands~
+You find yourself under the lake,with a sandy bottom of smooth sand
+underneath you.  The water is fresh and almost flawlessly clear.  There is
+almost nothing to be seen at the bottom, with the exception of a few pebbles
+and stones.  East of here the water gets significantly deeper, while you
+feel you should probably surface before traveling west.  
+~
+0 1048588 0
+D1
+~
+~
+~
+0 0 13039
+D4
+~
+~
+~
+0 0 13037
+M 0 H 0
+S
+#13039
+Under the Sapphire Lake~
+One thing about this lake that strikes you as odd is that there are no
+fish.  At the depth you are now at, you feel from experience that there
+should be at least minnows, if not something larger.  You are not at the
+bottom of the lake, it goes down a very good ways underneath you, and it
+gets shallower to the east and west of here.  
+~
+0 1048588 0
+D1
+~
+~
+~
+0 0 13042
+D3
+~
+~
+~
+0 0 13038
+D4
+~
+~
+~
+0 0 13002
+D5
+~
+~
+~
+0 0 13040
+M 0 H 0
+S
+#13040
+The Bottom of the Lake~
+You have come to the very bottom of the lake.  It is obvious to you that
+something lives here, for the sand here, unlike that in the rest of the
+water, is imperfect, with a trench or scuff every now and then.  The water
+here is very deep, and your ears ache quite a bit from the water pressure. 
+Coming closer to the ground you realize that what you once thought was a
+lump in the sand is actually the skull of some great animal.  Above you lies
+shallow water.  
+~
+0 1048588 0
+E
+skull~
+The skull on the lake bottom is large and heavy.  It looks like it may
+have come from a dragon or leviathan, bur you don't rule out the possibility
+of a wyvern or drake.  Further investigation reveals a hole directly under
+the skull leading downwards.  
+~
+D4
+~
+~
+~
+0 0 13039
+D5
+~
+skull~
+~
+1 0 13041
+M 0 H 0
+S
+#13041
+The Room of the Water Sphere~
+Protruding from a small murky tunnel you find yourself in a perfect
+sphere.  The walls are made of a strange blue stone the color of the sea or
+a deep lake.  At the very center of the room you see a small rectangular
+pedestal that sits in the water.  Above you is the small tunnel and the
+sapphire lake.  
+~
+0 1048588 0
+D4
+~
+~
+~
+1 0 13040
+M 0 H 0
+S
+#13042
+Smooth Sands~
+Currently you are swimming in the shallow water of the Sapphire Lake. 
+Above you the sky seems like a picture of perfection, the sparkling water
+magnifying its cyan color.  The water is cool and you feel relaxed, though
+not very safe, in this place.  
+~
+0 1048580 0
+D3
+~
+~
+~
+0 0 13039
+D4
+~
+~
+~
+0 0 13043
+M 0 H 0
+S
+#13043
+The Sapphire Lake~
+As you gently glide across the lake here, the bright sun warms your back
+and shoulders.  All around you things are tranquil, though you personally
+are a bit nervous about being in such a place as this.  The water is clear
+and you can see through it down into the white sands of the bottom.  East of
+here the lake ends in a brilliantly white sandy shore.  
+~
+0 1048580 0
+D0
+~
+~
+~
+0 0 13058
+D1
+~
+~
+~
+0 0 13059
+D2
+~
+~
+~
+0 0 13066
+D3
+~
+~
+~
+0 0 13002
+D5
+~
+~
+~
+0 0 13042
+M 0 H 0
+S
+#13044
+The Sapphire Shore~
+You are standing now on a pristine shoreline along a clean, deep lake. 
+The sand here is strange, for it never seems to be out of place.  Even as
+you walk, the sand refills itself where your footprints once were.  Directly
+north the water grows deeper rapidly.  The shoreline runs east and west,
+while to the south lies an emerald field.  Also, you can just barely make
+out a glimmer to the north.  
+~
+0 1048580 0
+D0
+~
+~
+~
+0 0 13037
+D2
+~
+~
+~
+0 0 13069
+D3
+~
+~
+~
+0 0 13048
+M 0 H 0
+S
+#13045
+The Sapphire Shore~
+You stand now on the western shore of the sapphire lake.  From here you
+can clearly see into the bottom of the deep blue lake, for the water is pure
+and untainted.  Stretching around you on all sides save the west are a vast
+expanse of emerald fields.  Also, far to the northeast can be seen the glint
+of some sort of metal.  
+~
+0 1048580 0
+D0
+~
+~
+~
+0 0 13047
+D1
+~
+~
+~
+0 0 13037
+D2
+~
+~
+~
+0 0 13048
+D3
+~
+~
+~
+0 0 13049
+M 0 H 0
+S
+#13046
+The Sapphire Shore~
+The shore here is in a pristine condition, nothing seems to be out of
+place.  The water licks quietly at the shore, steadily washing in and
+receding in a soothing pattern that eases the soul.  A great wall of crystal
+rises up in the east and stretches onward to the north, while the sapphire
+waters deepen to the south and lead off into a watery abyss.  To the west of
+here lie a great stretch of emerald fields.  
+~
+0 1048580 0
+D0
+~
+~
+~
+0 0 13053
+D2
+~
+~
+~
+0 0 13037
+D3
+~
+~
+~
+0 0 13047
+M 0 H 0
+S
+#13047
+The Emerald Fields~
+You stand now on a lush green field.  The fields of the dragon realm are
+unlike any you have ever seen.  They are so perfect as to look as if they
+were constructed rather than planted.  There never seems to be a blade out
+of place.  To the south and east of here you can see a shoreline to a large
+blue lake.  
+~
+0 1048580 0
+D0
+~
+~
+~
+0 0 13052
+D1
+~
+~
+~
+0 0 13046
+D2
+~
+~
+~
+0 0 13045
+D3
+~
+~
+~
+0 0 13050
+M 0 H 0
+S
+#13048
+The Emerald Fields~
+You stand now in emerald fields that stretch before your eyes, almost
+seeming to grow larger as your gaze sweeps to where they end in mountains. 
+The fields are pure and pristine, their shade of green shines on the
+mountains above.  To the north east of here lies a beautiful sapphire lake,
+its shores can be found directly north and east of here.  
+~
+0 1048580 0
+D0
+~
+~
+~
+0 0 13045
+D1
+~
+~
+~
+0 0 13044
+D2
+~
+~
+~
+0 0 13070
+D3
+~
+~
+~
+0 0 13051
+M 0 H 0
+S
+#13049
+The Emerald Fields~
+Grasses from the Realm of Dragons emerald fields have always been famous
+for their deep green color, and their perfect form.  The obsession has gone
+so far, in fact, as to have claimed the lives of several heroes who have
+tried an invasion for the grasses.  The Discordian farmers at one time hired
+a particular fellow who actually managed to survive and make it back to the
+outside world.  The planting of the grass, however, finally resulted in
+failure, as the sod would not take root on foreign soil.  
+~
+0 1048580 0
+D0
+~
+~
+~
+0 0 13050
+D1
+~
+~
+~
+0 0 13045
+D2
+~
+~
+~
+0 0 13051
+M 0 H 0
+S
+#13050
+The Emerald Fields~
+You stand now in a large expanse of beautiful emerald fields.  The fields
+are pure and clean...  Always echoing the perfection of the magic that
+created them.  Far to the east you can see a blue lake, while to the
+southeast is a large mountain.  
+~
+0 1048576 0
+D1
+~
+~
+~
+0 0 13047
+D2
+~
+~
+~
+0 0 13049
+M 0 H 0
+S
+#13051
+The Emerald Fields~
+The fields on which you now stand stretch forth in every direction to an
+indefinite end.  All around you, the lush green grasses can be seen.  Far to
+the northeast can be seen a large building, while to the southeast can be
+seen a large pinnacle of a mountain.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13049
+D1
+~
+~
+~
+0 0 13048
+M 0 H 0
+S
+#13052
+The Emerald Fields~
+You have come to the northwest side of the emerald fields.  You are
+stopped from going north or west here by the very real possibility of
+falling off of the edge of the planet.  The dragons, not being completely
+done with their ideal realm, have left gaps and wells of raw magic, very
+similar to the one which you are standing next to right now.  The perfect
+fields do however stretch out in the east and southern directions, and you
+are free to travel those ways.  
+~
+0 1048576 0
+D1
+~
+~
+~
+0 0 13053
+D2
+~
+~
+~
+0 0 13047
+M 0 H 0
+S
+#13053
+The Emerald Fields~
+You are standing now in the midst of a glorious plain which stretches
+forth in three of the four cardinal directions.  The grass is crisp and
+clean, washed by artificial magics to preserve its beauty.  As you walk, no
+blade of grass is bent for long, it all rises again just after you have left
+the place.  To the east is a stunning wall of crystal, while the emerald
+plains stretch out in other directions.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13054
+D2
+~
+~
+~
+0 0 13046
+D3
+~
+~
+~
+0 0 13052
+M 0 H 0
+S
+#13054
+Nearing the Crystals~
+Observing the crystal wall, you notice that it has stretched around in
+front of you and now allows access to a back entrance that was before hidden
+to sight.  The emerald fields of the south are not the same as they are
+here, as the grass takes on a hard but more sculpted appearance.  East of
+here the crystals loom largely again, while the emerald fields lie further
+south.  
+~
+0 1048576 0
+D1
+~
+~
+~
+0 0 13055
+D2
+~
+~
+~
+0 0 13053
+M 0 H 0
+S
+#13055
+The Entrance to the Crystal Bridge~
+You come now to two large pillars of crystal among a sea of glittering
+razors.  The crystals are all around you, though the two columns in the
+center of the room stand out more than anything else here.  A large bridge
+stretches forth to the north, but something deep inside of you makes you
+hesitate before crossing.  East and west of here the crystal narrows and
+evens itself out before turning into emerald fields once again.  
+~
+0 1048576 0
+D1
+~
+~
+~
+0 0 13056
+D3
+~
+~
+~
+0 0 13054
+M 0 H 0
+S
+#13056
+Nearing the Crystals~
+You have entered into a room filled with shards of tiny crystals which
+make up the landscape.  The grass of the fields to the south takes up a hard
+form, with shards of sculpted green protruding from the ground.  West of
+here the crystals turn and form into a harder structure, eventually
+highlighted with two large columns plainly visible and some sort of bridge
+stretching off to the north.  
+~
+0 1048576 0
+D2
+~
+~
+~
+0 0 13057
+D3
+~
+~
+~
+0 0 13055
+M 0 H 0
+S
+#13057
+The Emerald Fields~
+You have come across yet another beautiful segment of fields.  The grass
+is green and crisp, and there seems nothing that could harm it, as the lawn
+is always in perfect condition.  The air is moist here, but the weather
+seems to be just perfect for living conditions.  Even the crystal wall to
+the west looks slightly uplifting, its solid structure appears firm and
+secure.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13056
+D1
+~
+~
+~
+0 0 13061
+D2
+~
+~
+~
+0 0 13058
+M 0 H 0
+S
+#13058
+The Sapphire Shore~
+The white sands of the shore feel soft under your feet.  The waters
+constantly lap at this tiny coastline, which is odd because it is not an
+ocean but a lake, and the fresh water seems perfectly still further out. 
+The weather is picturesque, the visage of perfection.  You didn't know a
+breeze could feel this good.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13057
+D1
+~
+~
+~
+0 0 13060
+D2
+~
+~
+~
+0 0 13043
+M 0 H 0
+S
+#13059
+The Sapphire Shore~
+You stand now on the far eastern shore of the Sapphire Lake.  One
+attribute about this particular shoreline is that gentle waves slowly lap at
+it, which is odd because the water in the middle of the lake is perfectly
+still.  For a moment, you envision that on the far western shore can be seen
+a dragon made completely of sand, but as you glance again, you see nothing,
+and so dismiss it as foolery.  The lake lies to the west, while to the east
+is another set of fields.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13060
+D1
+~
+~
+~
+0 0 13063
+D2
+~
+~
+~
+0 0 13065
+D3
+~
+~
+~
+0 0 13043
+M 0 H 0
+S
+#13060
+The Emerald Fields~
+You are now traversing upon a large expanse of lush emerald fields which
+stretch on in all of the four cardinal directions.  Visible to the southwest
+is a deep blue lake, waters lapping upon smooth sand shores.  Further to the
+southwest can be seen some sort of pinnacle protruding from the ground at an
+almost obscene angle.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13061
+D1
+~
+~
+~
+0 0 13062
+D2
+~
+~
+~
+0 0 13059
+D3
+~
+~
+~
+0 0 13058
+M 0 H 0
+S
+#13061
+The Emerald Fields~
+You have come across an especially beautiful portion of the emerald
+fields.  In this particular area, the grasses are without blemish.  Your
+footsteps here last only a few seconds before being erased as the grass
+rises to its previous position.  Realizing that the rest of the emerald
+fields are almost exactly like this, you decide to go about your business as
+normal without taking any more special notice to the area.  
+~
+0 1048576 0
+D2
+~
+~
+~
+0 0 13060
+D3
+~
+~
+~
+0 0 13057
+M 0 H 0
+S
+#13062
+Warmer Fields~
+These fields seem different than the other on which you have thus far
+travelled, but it takes you a moment to depict the reason why.  You finally
+determine that the air here is much warmer than the rest of the fields. 
+Looking around, you notice the type of distortion in the air to the
+southeast that usually precedes a fire.  From here, you can travel south and
+west.  
+~
+0 1048576 0
+D2
+~
+~
+~
+0 0 13063
+D3
+~
+~
+~
+0 0 13060
+M 0 H 0
+S
+#13063
+Near the Blazing Plains~
+From here you can clearly see that the eastern plains are indeed aflame. 
+They burn bright and hot, using the very grasses as a never-ending supply of
+fuel.  The temperature this close is very hot, but you can tell that to the
+west it is much warmer, as a virtual walls of flame rise and fall.  You are
+not certain that you could make it further east.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13062
+D2
+~
+~
+~
+0 0 13064
+D3
+~
+~
+~
+0 0 13059
+M 0 H 0
+S
+#13064
+Warmer Fields~
+The fields into which you have entered now are much warmer than most of
+the other similar fields around you.  Using your superior intellect, you
+determine that there is most likely a heat source somewhere in the area, and
+looking around you notice that the fields to the northeast have been somehow
+set aflame.  You may continue travel in the northern and western directions
+from this point.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13063
+D3
+~
+~
+~
+0 0 13065
+M 0 H 0
+S
+#13065
+The Emerald Fields~
+You are very close to the sapphire shore now.  As you look at where the
+fields meet the shoreline, you notice that is is so gradual that you almost
+don't notice the transformation at all.  The shore lies north and west of
+here, while the emerald fields can be seen to the south and the east.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13059
+D1
+~
+~
+~
+0 0 13064
+D2
+~
+~
+~
+0 0 13068
+D3
+~
+~
+~
+0 0 13066
+M 0 H 0
+S
+#13066
+The Sapphire Shore~
+This area of the lake shoreline is comforting in its serenity.  The
+beautiful waters wash gently against the soft white sand to make an almost
+hypnotic affect.  All around you are signs of peaceful meditation, even the
+way the shoreline is constructed is extremely detailed.  The center of the
+lake lies north of here, while to the east and south are emerald fields that
+stretch over a wide area of land.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13043
+D1
+~
+~
+~
+0 0 13065
+D2
+~
+~
+~
+0 0 13067
+M 0 H 0
+S
+#13067
+The Emerald Fields~
+Wandering along in this part of the realm brings sights of green all
+around.  The landscape is well laid out and covers all around you. 
+Southwest of here lies a single mountain that stretches into the sky.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13066
+D1
+~
+~
+~
+0 0 13068
+D2
+~
+~
+~
+0 0 13075
+M 0 H 0
+S
+#13068
+The Emerald Fields~
+This beautiful field stretches to the horizon, as far as the eye can see.
+Were they not so beautifully lush and green, these fields would be extremely
+monotonous.  West by northwest of here can be seen a body of water, almost
+as clean as these fields.  To the southwest lies a large mountain.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13065
+D3
+~
+~
+~
+0 0 13067
+M 0 H 0
+S
+#13069
+The Emerald Fields~
+The fields on which you now stand are crisp and perfect, and stretch
+forth in the south and west directions.  It always seems to be a beautiful
+day in this place...  The sky is perfect, and always retains blotchy white
+clouds, while the grass is always crisp and green.  Directly north of here
+is the ocean-like shore of a large sapphire lake.  Far to the south, a
+strange mountain is visible.  The fields stretch on to the west.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13044
+D2
+~
+~
+~
+0 0 13071
+D3
+~
+~
+~
+0 0 13070
+M 0 H 0
+S
+#13070
+The Emerald Fields~
+You travel still on the beautiful emerald plains of the High Realm of
+Dragons.  These lush grasses truly amaze you as you stare at them.  They are
+so perfect as to look fake, and yet as you look closer at them, you notice a
+surprising level of complexity for such a simple thing.  The fields stretch
+on to the north and east.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13048
+D1
+~
+~
+~
+0 0 13069
+M 0 H 0
+S
+#13071
+The Emerald Fields~
+You walk now on the vast flatlands that are the emerald plains.  The
+grass here is crisp and clean.  It is of a perfect variety.  Each single
+blade seems sculpted.  Your footsteps last only a moment in this place, for
+as you walk, the grass is almost immediately unbent by some magical force. 
+To the Southeast of here lies a large pinnacle of some sort that looks very
+much like a mountain.  North of here are more of the plains.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13069
+D1
+~
+~
+~
+0 0 13072
+M 0 H 0
+S
+#13072
+Near the Mountains~
+You stand now before a vast mountain which rises strait out of the ground
+and points upwards at the sky at an unnerving angle.  The mountain does not
+look natural...  It looks almost as if it was placed there rather than made
+by natural means.  To the north lies a vast emerald plain, and you can just
+make out a lake in the distance.  South of here is a very slim path up the
+mountain.  
+~
+0 1048576 0
+D2
+~
+~
+~
+0 0 13073
+D3
+~
+~
+~
+0 0 13071
+M 0 H 0
+S
+#13073
+The Mountain Path~
+You are travelling now upon a long trail leading up the side of Dragon
+Mountain.  The trail leads north and east as it traverses down and up the
+side to just below the summit and back on level ground.  The view from here
+is fantastic.  You can see all the western portion of the well, and many of
+the dragons which dwell within.  Dragons fly high above you as well.  Due to
+strong wind currents, they are the only ones able to fly that high.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13072
+D1
+~
+~
+~
+0 0 13074
+M 0 H 0
+S
+#13074
+On Dragon Mountain~
+You stand now on a tall mountain at the southern point on what has been
+constructed of the High Realm of Dragons.  The view here is strange because
+you stand not on the peak of the mountain, but high up on the south side. 
+Bordering you to the south is a series of twisting and turning magics,
+constantly but slowly developing and constructing more and more of the
+realm.  To the east and west lie trails leading down the mountain.  
+~
+0 1048576 0
+D1
+~
+~
+~
+0 0 13077
+D3
+~
+~
+~
+0 0 13073
+M 0 H 0
+S
+#13075
+The Emerald Fields~
+The fields here gently recede into a terrain of small rocks.  The further
+west you go, the larger the rocks become, until you eventually reach a
+mountain which stretches up into the sky like a lighthouse on a dark and
+angry sea.  To the north lies more lush and plentiful fields of the perfect
+grass.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13067
+D3
+~
+~
+~
+0 0 13076
+M 0 H 0
+S
+#13076
+Near the Mountain~
+You are at the base of a tall pinnacle of some strange rock that
+stretches forth onward and upward into the sky.  This mountain is the
+perfect environment for a dragon roost because of its sheer rock sides
+inaccessible to all but themselves do to strong winds and slippery rock.  A
+small crack in the rock at the base is the only sign of a flaw in the
+design, but you can tell that it is being hindered by something from
+mystical repair.  
+~
+0 1048576 0
+D1
+~
+~
+~
+0 0 13075
+D2
+~
+~
+~
+0 0 13077
+M 0 H 0
+S
+#13077
+The Mountain Path~
+This path is narrow and steep, but perfectly strait and at a single
+angle.  The path does not snake or wind, but travels in a perfect curve
+while it heads up the pinnacle of a mountain.  From here your visibility of
+the realm to the north and south is very good.  A lush wonderland appears to
+the north while to the south lies an unfinished jumble of some sort of
+mystic mesh.  West of here lies the back of Dragon Mountain, while to the
+north is the rest of the realm.  
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13076
+D3
+~
+~
+~
+0 0 13074
+M 0 H 0
+S
+#13078
+Within the Mountain~
+~
+0 1052672 0
+D5
+~
+~
+~
+0 0 13080
+M 0 H 0
+S
+#13079
+An Illuminated Cavern~
+~
+0 1048580 0
+D0
+~
+~
+~
+0 0 13081
+D4
+~
+~
+~
+0 0 13080
+M 0 H 0
+S
+#13080
+Descending into the Mountain~
+~
+0 0 0
+D4
+~
+~
+~
+0 0 13078
+D5
+~
+~
+~
+0 0 13079
+M 0 H 0
+S
+#13081
+A Fiery Cavern~
+~
+0 0 0
+D0
+~
+~
+~
+0 0 13082
+D2
+~
+~
+~
+0 0 13079
+M 0 H 0
+S
+#13082
+The Molten River~
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13087
+D1
+~
+~
+~
+0 0 13083
+D2
+~
+~
+~
+0 0 13081
+D3
+~
+~
+~
+0 0 13085
+M 0 H 0
+S
+#13083
+The Molten River~
+~
+0 1048576 0
+D1
+~
+~
+~
+0 0 13084
+D3
+~
+~
+~
+0 0 13082
+M 0 H 0
+S
+#13084
+The Molten River~
+~
+0 1048576 0
+D3
+~
+~
+~
+0 0 13083
+M 0 H 0
+S
+#13085
+The Molten River~
+~
+0 1048576 0
+D1
+~
+~
+~
+0 0 13082
+D3
+~
+~
+~
+0 0 13086
+M 0 H 0
+S
+#13086
+The Molten River~
+~
+0 1048576 0
+D1
+~
+~
+~
+0 0 13085
+M 0 H 0
+S
+#13087
+The {BDark Cavern~
+~
+0 1048576 0
+D0
+~
+~
+~
+0 0 13089
+D2
+~
+~
+~
+0 0 13082
+M 0 H 0
+S
+#13088
+The Black Cavern~
+~
+0 1 0
+D2
+~
+~
+~
+0 0 13089
+D5
+~
+~
+~
+0 0 13090
+M 0 H 0
+S
+#13089
+The {BDark Cavern~
+~
+0 1048577 0
+D0
+~
+~
+~
+0 0 13088
+D2
+~
+~
+~
+0 0 13087
+M 0 H 0
+S
+#13090
+The Black Tunnel~
+~
+0 1048581 0
+D0
+~
+~
+~
+0 0 13091
+D4
+~
+~
+~
+0 0 13088
+M 0 H 0
+S
+#13091
+The Dragon Boneyard~
+~
+0 1048577 0
+D0
+~
+~
+~
+0 0 13094
+D1
+~
+~
+~
+0 0 13092
+D2
+~
+~
+~
+0 0 13090
+D3
+~
+~
+~
+0 0 13096
+M 0 H 0
+S
+#13092
+The Dragon Boneyard~
+~
+0 1048577 0
+D0
+~
+~
+~
+0 0 13093
+D3
+~
+~
+~
+0 0 13091
+M 0 H 0
+S
+#13093
+The Dragon Boneyard~
+~
+0 1048577 0
+D2
+~
+~
+~
+0 0 13092
+D3
+~
+~
+~
+0 0 13094
+M 0 H 0
+S
+#13094
+The Dragon Boneyard~
+~
+0 1048577 0
+D0
+~
+~
+~
+0 0 13097
+D1
+~
+~
+~
+0 0 13093
+D2
+~
+~
+~
+0 0 13091
+D3
+~
+~
+~
+0 0 13095
+M 0 H 0
+S
+#13095
+The Dragon Boneyard~
+~
+0 1048577 0
+D1
+~
+~
+~
+0 0 13094
+D2
+~
+~
+~
+0 0 13096
+M 0 H 0
+S
+#13096
+The Dragon Boneyard~
+~
+0 1048577 0
+D0
+~
+~
+~
+0 0 13095
+D1
+~
+~
+~
+0 0 13091
+M 0 H 0
+S
+#13097
+A Descending Tunnel~
+~
+0 1048581 0
+D0
+~
+~
+~
+0 0 13098
+D2
+~
+~
+~
+0 0 13094
+M 0 H 0
+S
+#13098
+The Lair of the Dracoliche~
+~
+0 1048577 0
+D2
+~
+~
+~
+0 0 13097
+M 0 H 0
+S
+#13099
+A Bend in Reality~
+You are in a pocket of reality between realms, altered very visibly from
+what is commonly known as normal.  Colors, shapes, and even sizes are
+twisted and changed to come together in a giant mass of confusion and
+disarray in all places, except for the very center, which is carved into a
+sort of conference room or meeting place.  In this area lies a large round
+green and black table with many seats, perfect for just such a meeting as
+this.  
+~
+0 1048588 0
+M 0 H 0
+S
+#13100
+The Narrow Trail~
+You travel now on a narrow trail that stretches down the side of Wynton
+Peak before ascending rapidly to lead behind the fortress.  The footpath is
+narrow and hard to travel on, but the going is not impossible.  Above you is
+the lookout and the road to the stronghold.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 13101
+D4
+~
+~
+~
+1 0 18807
+M 0 H 0
+S
+#13101
+The Narrow Trail~
+The trail here winds above and below large rocks and other obstacles to
+take you along the sheer side of the cliff face.  The going is dangerous,
+and you slip once or twice, but manage to keep your footing.  The peak
+curves around to the north here, where you can barely make out a cavern in
+the mountain wall.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 14900
+D3
+~
+~
+~
+0 0 13100
+M 0 H 0
+S
+#13102
+A Mountain Cavern~
+Darkness prevails in this small part of the mountain cavern.  A short
+tunnel away to the south, the cavern opens up into a significantly larger
+room.  Cold rock walls surround you.  
+~
+0 4 0
+M 0 H 0
+S
+#13199
+~
+~
+0 4 0
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 13000 spec_breath_acid
+M 13001 spec_breath_any
+M 13002 spec_breath_lightning
+M 13003 spec_breath_fire
+M 13005 spec_breath_any
+M 13006 spec_breath_fire
+M 13007 spec_breath_fire
+M 13008 spec_breath_lightning
+M 13009 spec_breath_frost
+M 13011 spec_breath_any
+M 13012 spec_breath_gas
+M 13014 spec_breath_any
+M 13044 spec_cast_mage
+M 13055 spec_cast_mage
+M 13056 spec_cast_mage
+M 13057 spec_cast_mage
+M 13060 spec_cast_mage
+M 13061 spec_cast_mage
+M 13083 spec_cast_mage
+M 13087 spec_breath_frost
+M 13088 spec_cast_mage
+M 13099 spec_breath_fire
+S
+
+
+
+#RESETS
+D 0 13040 5 1
+D 0 13041 4 1
+D 0 13100 4 1
+M 0 13000 1 13001 10
+G 0 13009 0
+O 0 13001 0 13002
+M 0 13001 1 13004 10
+G 0 13025 0
+M 0 13003 2 13009 10
+M 0 13003 2 13009 10
+M 0 13007 1 13015 10
+M 0 13050 1 13015 10
+G 0 13004 0
+G 0 13004 0
+G 0 13004 0
+G 0 13004 0
+G 0 13004 0
+O 0 13099 0 13028
+M 0 13002 1 13040 10
+G 0 13003 0
+M 0 13012 6 13047 10
+M 0 13012 6 13048 10
+M 0 13008 1 13051 10
+E 0 13021 0 16
+M 0 13012 6 13053 10
+M 0 13009 1 13055 10
+G 0 13023 0
+M 0 13012 6 13057 10
+M 0 13012 6 13060 10
+M 0 13006 1 13063 10
+G 0 13022 0
+M 0 13012 6 13065 10
+O 0 13019 0 13074
+M 0 13013 3 13074 10
+M 0 13014 1 13077 10
+E 0 13028 0 6
+S
+
+
+
+#SHOPS
+13004 0 0 0 0 0 100 100 1 23
+13050 0 0 0 0 0 130 60 6 18
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

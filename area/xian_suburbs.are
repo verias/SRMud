@@ -1,0 +1,3557 @@
+#AREADATA
+Name { ALL } RODCo   Xian Suburbs~
+Builders Blyte~
+VNUMs 1551 1750
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#1551
+fell vortex energies~
+a fell vortex of energies~
+A vortex of fell magical energies crackles here, menacingly.
+~
+Looking like a rift in the fabric of this world a fell vortex has formed
+here, sucking and blasting at anything that comes too close to it.  Radiant
+energies lash from it randomly as it floats about.  
+~
+unique~
+A FHOTUZ 0 0
+95 0 12d1182+3558 95d10+100 6d10+29 slap
+-30 -30 -30 -25
+ACH E DF CN
+(null) (null) male 427
+AHMV ABCDEFGHIJK large unknown
+#1552
+doom orb~
+a doom orb~
+An orb of dire power rolls here, spelling doom for anything in its path.
+~
+Flames of arcane power crackling around the edges of this sphere while it
+rolls onwards seeming under the direction of some unknown power.  A low
+growling sound seems to repeat over and over the word "doom" as it continues
+on its way.  
+~
+unique~
+A DFOTUZ 0 0
+75 0 11d551+2303 75d10+100 5d9+24 whip
+-19 -19 -19 -17
+CH H CD CN
+(null) (null) male 337
+AHMV ABCDEFGHIJK medium unknown
+#1553
+spell bane~
+a bane spell~
+The physical form of a bane spell flickers here.
+~
+Constantly changing to suit its needs a baneful spell has been released to
+bring harm and destruction to the world around it.  Altering before your
+very eyes to appear harmless then menacing as its feels like it, this
+"creature" is constantly in flux.  
+~
+unique~
+A DFTUZ 0 0
+50 0 10d167+1149 50d10+100 5d6+13 crush
+-9 -9 -9 -7
+0 C D CN
+(null) (null) male 225
+AHMV ABCDEFGHIJK tiny unknown
+#1554
+shimmering threads~
+a shimmering thread~
+A shimmering thread of mystical power thrashes around here.
+~
+Threads like shimmering lines of magical power waft and float here,
+directed by some unseen will.  Their white radiance hums with mystical
+force.  
+~
+unique~
+A DFITUZ 0 0
+15 0 5d31+200 15d10+100 2d4+2 scratch
+4 4 4 6
+I 0 CD CN
+(null) (null) male 67
+AHMV ABCDEFGHIJK small unknown
+#1555
+litmouse mouse~
+a litmouse~
+A mouse like creature formed totally from light, zooms here.
+~
+Formed from light this creature is known as a litmouse, due to looking
+very much like that type of rodent.  Attracted by magical energies, these
+creatures can normally be found around powerful mages.  
+~
+unique~
+A CDEFGQTVZc 0 0
+15 0 5d31+200 15d10+100 2d4+2 crush
+4 4 4 6
+FH 0 C S
+(null) (null) male 67
+ACGHMVW ABCDEFGHIJKOPUV small unknown
+#1556
+spectral hound~
+a spectral hound~
+A spectral form of a massive hound is here, snarling in rage.
+~
+Summoned and given the form of a mighty hound, this spirit rages and
+delights in its shape as it lopes forward.  Legs ending in clawed paws the
+size of a dinner plate pad lightly as this creature moves, its blood red
+eyes glinting with unnatural cunning.  
+~
+unique~
+A DFJVZ 0 0
+50 0 10d167+1149 50d10+100 5d6+13 crush
+-9 -9 -9 -7
+CFH 0 CI HN
+(null) (null) male 225
+AGHMV ABCDEFGHIJKLPQUV medium unknown
+#1557
+yorgort~
+a mighty yorgort~
+A massive figure of a yorgort stamps its feet here, looking for something to maim.
+~
+Standing at least twice the height of a normal man, this creature is a
+yorgort, a distant relation of the common ogre.  Armed only with its hands
+and feet it still looks formidable in the extreme.  Purple hair tops the
+brutish features of it head, while bilious green skin gleams over heavy
+muscles.  
+~
+unique~
+A DFOTa 0 0
+75 0 11d551+2303 75d10+100 5d9+24 claw
+-19 -19 -19 -17
+CFO HI C 0
+(null) (null) male 337
+AGHMV ACDEFGHJKWY large unknown
+#1558
+daemocorn~
+a daemocorn~
+The light blue creature here could only be a daemocorn, going by the face, horn and hoofs.
+~
+A female face is set on what otherwise would look like a horse.  Light
+blue dappled skin covers powerful looking muscles of this creature, while a
+long spiral horn crowns its brow.  A mist rises from the form, resembling
+fog.  
+~
+dragon~
+A DFHJOTVc 0 0
+95 0 12d1182+3558 95d10+100 6d10+29 charge
+-30 -30 -30 -25
+CDFO IL BEHIN FI
+(null) (null) male 427
+ACGHMVZc ACDEFGHIJKLOPQUVX medium unknown
+#1559
+shade soul spirit murderous~
+a spirit shade~
+A murderous soul, lurks here seeking a victim.
+~
+Twisting and turning this soul lurks with cunning, its black eyes
+glinting in any light as it sulks from cover to cover.  Blade like claws tip
+is long thin fingers and a leering grin its face.  
+~
+unique~
+A PQTU -1000 0
+30 0 10d60+520 30d10+100 3d6+8 slash
+-1 -1 -1 0
+0 0 D CN
+(null) (null) male 135
+AHMV ABCDEFGHIJK medium unknown
+#1560
+respite elf woman~
+Respite the elf~
+An elven maiden stands here, ready to take your order.
+~
+This elven maiden has taken the name "Respite" going by local chatter,
+after most people failed to pronounce her real name.  Long pale hair flows
+over her shoulders in ringlets, tumbling down her back.  A cap of some light
+blue fabric rests upon her brow, the tips of her pointed ears sneaking past
+it.  Covering her form is a gown of the same blue as the cap, hiding her
+figure somewhat, through the apron about her waist shows her to be trim.  
+~
+unique~
+ABRW J 0 0
+60 0 11d277+1559 60d10+100 5d7+19 none
+-13 -13 -13 -11
+0 ABQ B 0
+(null) (null) either 270
+AHMV ABCDEFGHIJK medium unknown
+#1561
+hayzel nymph bartender~
+Hayzel the bartender~
+A small green nymph stands here, tending the bar.
+~
+The nymph before you goes by the name Hayzel.  Her form is well rounded
+even for a nymph and a soft green color which compliments her long green
+hair excellently.  No clothing has been warn to conceal her nymphly charms
+as she works as bartender here, only her swaying hair periodically masks her
+feminine beauty for all who wish to see.  Large brown eyes give her a
+soulful look which is broken when she flashes a pleased smile at your
+approach.  
+~
+unique~
+ABRW 0 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 beating
+-35 -35 -35 -27
+0 ABQ 0 0
+(null) (null) either 450
+ACGHMV ABCDEFGHIJK medium unknown
+#1562
+man games nigel~
+Nigel the gamesman~
+Nigel stands here running various games of chance.
+~
+Short black hair now shot in places with gray adorns the head of this
+small human before you.  His hands move deftly over a deck of cards while
+his eyes seem to take in all around him.  Smart gray-blue clothing covers
+his form so how complimenting his slightly aged figure.  
+~
+human~
+AB V 0 0
+60 0 11d277+1559 60d10+100 5d7+19 digestion
+-13 -13 -13 -11
+C 0 0 0
+(null) (null) female 270
+AHMV ABCDEFGHIJK medium unknown
+#1563
+hooved daemon~
+a hoofed daemon~
+A giant, hoofed daemon floats here on flaming feet.
+~
+Hoofed feet, flame as the walk upon the air under this vile deamon. 
+Foulness drips from it's taloned hands and mouth, etching the floor where it
+strikes.  Green fur covers most of it's giant form, adding some how to the
+sickening air around it.  
+~
+dragon~
+A DFHJOTVc -1000 0
+100 20 12d1397+3920 100d10+100 6d11+29 smash
+-35 -35 -35 -27
+CH BL BEHO FI
+(null) (null) male 450
+ACGHMVZc ACDEFGHIJKLOPQUVX giant unknown
+#1564
+golden fire lizard~
+a golden fire lizard~
+A golden fire lizard sits here, tail coiled around its paws.
+~
+This winged lizard is approximately eighteen inches in length, most of
+which can be contributed to his long, prehensile tail and neck.  He is
+covered completely in golden scales that shine like molten metal in any
+light, their small size making it look almost as if they weren't there at
+all.  Sharp bumps protrude from the spine, and, when coupled with his tiny
+fangs and horns, make him look rather standoffish.  Leathery wings of the
+same sleek color are folded neatly over his back while he's at rest, making
+his resemblance to a miniature dragon even more striking.  He looks around
+perkily, his eyes a solid, milky white in their entirety.  
+~
+dragon~
+AI DFJOTVc 0 0
+27 0 9d52+446 108d10+100 3d5+8 crush
+0 0 0 1
+H JL BEH FI
+(null) (null) female 121
+ACGHMVZc ACDEFGHIJKLOPQUVX small unknown
+#1565
+Esmeralda nymph~
+Esmeralda~
+A charming nymph is here, humming happily to herself.
+~
+A tall nymphly creature is here, tending to the creatures in her care. 
+Her skin shines a soft silvery color, seeming to nearly have a radiance of
+its own.  Wild black hair left undone flows over her shoulders, curling at
+the tips around her breasts and the middle of her back.  Her face is
+somewhat angular in nature and she has slightly pointed ears to match,
+though this does nothing to detract from her beauty.  She wears a white
+peasant blouse that is off the shoulder and barely covers her, along with a
+patterned skirt that billows when the wind blows.  As she turns to face you,
+her eyes widen a little, making their shocking bright green more prominent. 
+~
+unique~
+ABRW OV 0 0
+100 20 12d1397+3920 100d10+100 6d11+29 beating
+-35 -35 -35 -27
+CEHN ABQ CD 0
+(null) (null) either 450
+ACGHMV ABCDEFGHIJK medium unknown
+#1566
+blue feline creature~
+a blue feline creature~
+Glinting metallic blue fur covers the body of this feline that prowls here.
+~
+Covered in metallic blue fur this feline creature roams about as if
+filled with rage at its fate.  A long blue tail flicks behind its body while
+blade like talons rip at the floor under it.  Amber eyes glint at you almost
+with human like intelligence while it snarls.  
+~
+unique~
+A VZ 0 0
+36 0 10d84+713 37d10+100 4d6+10 crush
+-4 -4 -4 -2
+CFHIL 0 P H
+(null) (null) female 162
+ACGHMV ABCDEFGHIJKUV large unknown
+#1567
+sewer zombie~
+a sewer zombie~
+A sewer zombie staggers here moaning.
+~
+A corpse of a slave staggers here, branded upon its brow is the letter
+'Z' which seems to glow with an arcane light.  From its skin and what
+remains of its clothing a stench similar to raw sewage rises.  
+~
+human~
+A 0 0 0
+25 0 8d48+400 25d10+100 3d5+7 digestion
+0 0 0 2
+C 0 0 0
+(null) (null) male 112
+AHMV ABCDEFGHIJK medium unknown
+#1568
+stinking skeleton ~
+a stinking skeleton~
+A skeleton walks here stinking.
+~
+The bones of some humanoid move about here with fell speed.  Its
+sightless eye sockets, still seeming to emit hatred at its fate towards the
+living.  Upon the crown of its skull a glowing red 'Z' has been placed.  
+~
+human~
+A V 0 0
+35 0 10d76+654 35d10+100 4d6+9 digestion
+-3 -3 -3 -1
+H 0 0 0
+(null) (null) male 157
+AHMV ABCDEFGHIJK medium unknown
+#1569
+wraith shadow~
+a living shadow~
+A living shadow is here, it can only be a wraith.
+~
+Nothing more that a shifting mass of darkness, this creature is known as
+a wraith, a cursed soul summoned for destruction and evil.  It glides over
+the floor, muttering a dark litany to Zorad.  
+~
+unique~
+A TU 0 0
+50 0 10d167+1149 50d10+100 5d6+13 sting
+-9 -9 -9 -7
+CFGH 0 DF C
+(null) (null) male 225
+AHMV ABCDEFGHIJK medium unknown
+#1570
+blue purple fire lizard~
+a blue-purple fire lizard~
+A small serpentine creature with blue-purple scales is here.
+~
+This small lizard sits here looking about with rainbow hued eyes.  Its 
+scales are blue-purple and hold a shine much like oil upon water.  The 
+creature can't be more than two feet in length, though the true size is 
+difficult to determine due to its long and slender body coiling around on 
+its self.  A pair of draconic-wings sprout from its back and stay folded 
+close to its body except when it is in flight.  Tiny fangs can be seen 
+within its slender muzzle and wisps of smoke or steam seem to drift from 
+this opening occasionally.  
+~
+dragon~
+AI DFJOTVc 0 0
+27 0 9d52+446 108d10+100 3d5+8 crush
+0 0 0 1
+H IL BEHI FI
+(null) (null) male 121
+ACGHMVZc ACDEFGHIJKLOPQUVX small unknown
+#1571
+red dragon toy fire lizard~
+a red fire lizard~
+This toy dragon is bright red.
+~
+This small beast can be no longer than ten inches, much of that length owned 
+by her tail and long neck.  Her stocky body is covered with dvstlry scales 
+that meld to form a shiny surface that doesn't appear to be broken at all 
+until a close inspection proves otherwise.  Her wings are a leathery red and 
+fold neatly over her back, making her look like a toy dragon when she is at 
+rest.  When she is flying, she appears as little more than a blur due to her 
+incredible speeds.  Whenever she opens her mouth, her tiny fanged maw 
+becomes poignant.  That feature, coupled with her ebony horns and eyes that 
+are on a whole a milky, unbroken white, makes her appear to be a handful.  
+~
+dragon~
+AI DFJOTVc 0 0
+27 0 9d52+446 108d10+100 3d5+8 crush
+0 0 0 1
+H HL BEH FI
+(null) (null) either 121
+ACGHMVZc ACDEFGHIJKLOPQUVX small unknown
+#1572
+black fire lizard serpentine~
+a black fire lizard~
+A black serpentine creature glares at you with flame {Rred{w eyes.
+~
+Black scales that look wet to the touch cover the tiny draconic form before 
+you.  Its slender muzzle holds dangerous looking fangs and the {Rred{w eyes with 
+in it seem to look at you with a mixture of distain and intrigue.  No more 
+than two feet in length this creature seems some how larger due to its 
+attitude towards other races and posture.  A pair of bat-like wings grows 
+from this beast's slender torso, when open the membranes between the spars 
+look midnight purple.  
+~
+dragon~
+AI DFJOTVc 0 0
+27 0 9d52+446 108d10+100 3d5+8 crush
+0 0 0 1
+H KL BEH FI
+(null) (null) male 121
+ACGHMVZc ACDEFGHIJKLOPQUVX small unknown
+#1573
+silver fire lizard draconic~
+a silver fire lizard~
+The slender and small draconic form of a silver fire lizard is here.
+~
+No more than three feet in length is this slender draconic creature, its 
+silver scales shimmer like steel or mercury in any light that happen to 
+strike them.  Tiny horns and fins adorn its head adding to its somewhat 
+regal appearance while its mouth seems to be filled with what can only be 
+called an impressive selection of fangs.  A whip like tail gives it a snake 
+like caste when one considers the delicate looking shape of its body, only 
+when you take in its wings and claws does the idea that this could be a 
+predator return to ones mind.  
+~
+dragon~
+AI DFJOTVc 0 0
+27 0 9d52+446 108d10+100 3d5+8 slash
+0 0 0 1
+H L BCDEH FI
+(null) (null) male 121
+ACGHMVZc ACDEFGHIJKLOPQUVX small unknown
+#1574
+emerald green fire lizard draconic beast~
+an emerald green fire lizard~
+This tiny draconic beast shines with an {gemerald{w brilliance.
+~
+A small emerald draconic being is here, coiled upon itself as it rests.  Its 
+tail is tipped in very small blade-like spikes of an ivory hue.  Horns of 
+the same color jut out over its milk white eyes, spiralling slightly from 
+irregular growth.  Another horn can be seen between its nostrils, sometimes 
+appearing green when the tiny beast snorts a green gas.  The wings of the 
+lizard are leathery and fold neatly over its scaled body whenever it is not 
+in flight, all other times looking like little more than a blur.  It is 
+difficult to determine the true length of this beast as most of it seems to 
+come from the long neck and prehensile tail, but it might be about twenty 
+inches long.  Whenever it gets upset, fins of grass green flare around its 
+face, making it look more ominous when it hisses and shows off its razor 
+sharp teeth.  
+~
+dragon~
+AI DFJOTc 0 0
+27 0 9d52+446 108d10+100 3d5+8 slash
+0 0 0 1
+0 L BEH FI
+(null) (null) male 121
+ACGHMVZc ACDEFGHIJKLOPQUVX medium unknown
+#1575
+barkeep dragon man dan~
+Dragon Man Dan~
+The barkeep polishes glasses as he waits for the next call for brews and food.
+~
+This man identifies himself as Dragon Man Dan.  His body is covered in 
+markings in the likenesses of dragons, all skillfully imprinted on his skin. 
+In fact, when he moves, the images seem to come to life as his muscles 
+ripple, but maybe that's just a trick of the dim lighting in here.  His head 
+is shaven and reveals his nearly perfectly round head to one and all, from 
+which he occasionally wipes sweat.  He is shirtless and wears just a vest 
+over his chest, in the style set by Baron Fay years ago.  He wears leather 
+breeches to match his black vest, from the waistband of which is a white 
+towel.  
+~
+human~
+ABRW 0 0 0
+30 0 10d60+520 120d10+100 3d6+8 none
+-1 -1 -1 0
+0 ABQ 0 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#1576
+flower girl pretty~
+a pretty flower girl~
+This flower girl hums happily as she tends to the goods of The Flower Den.
+~
+Appearing not a day older than fifteen, this girl serves as the shop keeper 
+of The Flower Den.  Her auburn hair is pulled back and almost--but not 
+quite--hides her long tapered ears that marks her heritage plainly.  She 
+wears a black leather bodice with white flowing sleeves and occasionally 
+smooths down her brown peasant skirt.  Her eyes can be noted as green when 
+her gaze falls on you, her next prospective customer.  
+~
+human~
+ABRW 0 0 0
+30 0 10d60+520 120d10+100 3d6+8 none
+-1 -1 -1 0
+0 ABQ 0 0
+(null) (null) either 135
+AHMV ABCDEFGHIJK medium unknown
+#1577
+chun li youthful woman~
+Chun Li~
+This youthful woman greets you in halting common.
+~
+This pale woman has a round face that seems to glow like the moon.  Her lips 
+are heart-shaped and a deep pink color that looks inviting.  Her black hair 
+is pulled up in a twin set of buns, each above either ear.  Her eyes are 
+slanted a little, giving her an exotic look.  She wears clothes that help to 
+reinforce that she is not from this region.  
+~
+human~
+ABRW 0 0 0
+30 0 10d60+520 120d10+100 3d6+8 none
+-1 -1 -1 0
+0 ABQ 0 0
+(null) (null) either 135
+AHMV ABCDEFGHIJK medium unknown
+#1578
+ivan~
+Ivan~
+Ivan is in charge of selling all the wigs in this store.
+~
+Ivan wears a wig at random every day to help display the goods of the store, 
+which often make this six and a half foot figure almost laughable.  He has a 
+little too much muscle to laugh at him, though.  His clothes are well made 
+and often frilly, especially at the collar and sleeves.  He generally wears 
+face make up reserved for officials of the court and dandies.  All in all, 
+he doesn't look too bad in drag.  
+~
+human~
+ABRW 0 0 0
+30 0 10d60+520 120d10+100 3d6+8 none
+-1 -1 -1 0
+0 ABQ 0 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#1579
+Scale~
+Scale~
+The tender of this shop is called Scale, who polishes a sword as he watches you.
+~
+This man is dressed in the trendy style set years ago by the Dragon Lord and 
+Baron Fay, which consists of a black leather vest and tailored leather 
+trousers.  Branded over the left breast into his vest is the word 'Scale.  ' 
+His hair is long and left to flow loosely and is dyed a ghostly shade.  He 
+seems to carefully construct a smile that moves the corners of the 
+blade-like lips that comprise his mouth.  
+~
+human~
+ABRW 0 0 0
+30 0 10d60+520 120d10+100 3d6+8 none
+-1 -1 -1 0
+0 0 0 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#1580
+taylor tailor~
+Taylor~
+Taylor is here, awaiting his next customer's fitting.
+~
+Taylor is dressed in a very well-made suit, presumably of his own make.  His 
+clothes are not flashy but instead are a muted brown and fit in an 
+instinctive way.  His hair is also well kept, the black strands combed into 
+an impeccable order.  These features all combine to give him a very sharp, 
+presentable look.  
+~
+human~
+ABRW 0 0 0
+30 0 10d60+520 120d10+100 3d6+8 none
+-1 -1 -1 0
+0 ABQ 0 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#1581
+clarke cobbler~
+Clarke~
+The cobbler known as Clarke is here, shining his newest creation.
+~
+His shoulder length brown-blond hair falls in his face frequently as he 
+works on both new and old shoes.  He is lightly muscled due to having to 
+manipulate the materials and tools of his craft but also seems to be 
+developing something of a gut.  He wears smart clothes that look 
+suspiciously like they came from across the street.  
+~
+human~
+ABRW 0 0 0
+30 0 10d60+520 120d10+100 3d6+8 none
+-1 -1 -1 0
+0 ABQ 0 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#1582
+xian lady~
+a Xian lady~
+This lady of Xian is dressed in leather and lace.
+~
+This woman wears a combination of black leather and ivory lace, combined in 
+an elegant wardrobe.  No doubt this was a comission of Taylor, Xian's finest 
+tailor.  Her hair is upswept but the general mass of it spills in dark curls 
+around her face and to her shoulders.  Her eyes are a bright green that look 
+like they belong more to a plant than a lady.  She carries a parasol to keep 
+herself in the shade.  
+~
+human~
+A 0 0 0
+22 0 7d42+334 88d10+100 3d5+5 beating
+1 1 1 3
+0 0 0 0
+(null) (null) either 99
+AHMV ABCDEFGHIJK medium unknown
+#1583
+posh girl xian~
+a posh looking girl~
+This girl attempts to look down her nose at you as she wanders here with dainty steps.
+~
+Clearly from one of the better families in Xian, this young lady seems to 
+think herself better than everyone else, judging by the contemptuous look 
+she shoots in your direction before sticking her nose in the air.  Her skin 
+is pale and possesses a scrubbed clean look which might be why her cheeks 
+hold a faint red glow.  
+~
+human~
+AH 0 0 0
+9 0 2d21+106 36d10+100 2d3+2 beating
+6 6 6 6
+0 0 0 0
+(null) (null) either 40
+AHMV ABCDEFGHIJK medium unknown
+#1584
+xian lord~
+a Xian lord~
+A well-to-do lord of Xian can be seen here.
+~
+This man is slightly overweight, but that fact becomes less noticible when 
+one takes in his well tailored suit.  It is almost a guarantee this was a 
+comission by the area's best tailor, due to the very clever style and 
+approach.  He has wings of grey at his temples, streaking his black hair and 
+testament to his aging.  
+~
+human~
+A 0 0 0
+23 0 7d44+355 92d10+100 3d5+5 digestion
+1 1 1 3
+0 0 0 0
+(null) (null) female 103
+AHMV ABCDEFGHIJK medium unknown
+#1585
+rich boy xian~
+a rich boy~
+Having snuck out of the house this boy plays with wild abandon free from his parents.
+~
+This child looks to be from one of the wealthier families of Xian judging 
+from his cloths and the clean and healthy look of him, this doesn't stop him 
+rushing about and taking part in children's games with a wild abandon.  
+~
+human~
+A 0 0 0
+11 0 3d25+135 44d10+100 2d3+3 digestion
+5 5 5 6
+FJ 0 0 0
+(null) (null) female 49
+AHMV ABCDEFGHIJK medium unknown
+#1586
+guard blue~
+a guard dressed in {Cblue{w~
+There is a guard standing to attention here, dressed in {Cblue{w.
+~
+This guard is dressed in {Cblue{w is here, wearing a very strange and 
+personalized suit of armor.  An emblem that is not the Xian seal is 
+emblazoned in the left breast area, the black a strong contrast to the light 
+blue.  A clever helmet hides the identity and sex of the guard.  
+~
+human~
+ABb 0 0 0
+24 0 8d46+378 96d10+100 3d5+5 digestion
+0 0 0 2
+0 0 0 0
+(null) (null) none 108
+AHMV ABCDEFGHIJK medium unknown
+#1587
+young lady~
+a young lady~
+A young lady stands here, blushing coyly.
+~
+Though hardly one of the greatest beauties of Xian this young lady holds a 
+certain charm to her suitor.  Maybe it is her demur glances at him or her 
+narrow waist and doe like eyes, but whatever the reason he certainly seems 
+enamored with her.  
+~
+human~
+AB 0 0 0
+20 0 6d39+294 80d10+100 3d5+4 beating
+2 2 2 4
+FIK 0 0 0
+(null) (null) either 90
+AHMV ABCDEFGHIJK medium unknown
+#1588
+young man~
+a young man~
+A young man stands here, pledging his troth.
+~
+Hardly the most handsome man in the realm this young suitor hopes his wit 
+will win the fair damsel to his cause.  He wears fashionable cloths and has 
+a clean appearance, through it looks like he is masking some spots with 
+makeup.  
+~
+human~
+AB 0 0 0
+20 0 6d39+294 80d10+100 3d5+4 digestion
+2 2 2 4
+CFI 0 0 0
+(null) (null) female 90
+AHMV ABCDEFGHIJK medium unknown
+#1589
+xian citizen~
+a Xian citizen~
+A citizen of the fair city of Xian is here.
+~
+This citizen is clothed modestly in plain linens and cottons that are either 
+white or brown.  There is nothing particularly extraordinary about this 
+person at all, they have an average hair and eye color--even an average 
+height.  
+~
+human~
+A 0 0 0
+16 0 5d33+218 64d10+100 2d4+2 none
+3 3 3 6
+0 0 0 0
+(null) (null) none 72
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#1551
+iron house key~
+an iron house key~
+A key fashioned from iron, with the name "Nelly" inscribed upon it lays here.~
+unknown~
+key W AO
+0 0 0 0 0
+0 0 5 P
+#1552
+bed~
+a large, comfortable and well made bed~
+Fashioned from the best materials money can but this bed is not only large buy skillfully~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#1553
+steel key~
+a steel key~
+A steel key lays here, the name Talun is printed upon it.~
+unknown~
+key W AO
+0 0 0 0 0
+0 1 15 P
+#1554
+dinner table chair~
+a dinner table~
+A dinner table and padded chairs sit here.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 1000 P
+#1555
+canopied bed~
+a canopied bed~
+A canopied bed rests here the yellow drapes from it hanging down.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 2000 P
+#1556
+wedding band ice~
+a wedding band of ice~
+Forged magically from ice is a wedding band of great beauty, an inscription can be seen on the inside.~
+unknown~
+protect G AB
+DE DE DE AC 0
+84 0 2000 P
+A
+13 20
+A
+18 2
+A
+19 2
+E
+inscription~
+Inscribed around the inside are the words "I do pledge to you my heart,
+my soul and my love".  A strange light seems to flow from these words,
+shimmering in the air.  
+~
+#1557
+gnarled oak staff~
+a gnarled oak staff~
+A long staff fashioned from finest oak, gnarled and blacked with age lays here.~
+unknown~
+weapon R AN
+polearm 4 5 peck 0
+10 5 1 P
+#1558
+pool swimming~
+a swimming pool~
+A swimming pool is here, the waters look inviting.~
+unknown~
+fountain MR 0
+100 100 'water' 0 0
+1 0 0 P
+#1559
+simple bed~
+a simple bed~
+A simple but clean and comfortable looking bed is here.~
+unknown~
+container MR 0
+20 AC 0 0 0
+1 0 0 P
+#1560
+massive bed~
+a massive bed~
+A massive and very comfortable bed, has been placed here.~
+unknown~
+furniture MR 0
+0 0 0 0 0
+1 0 0 P
+#1561
+massive key~
+a massive key~
+A massive key, the name "mescal" has been craved into the dark metal.~
+unknown~
+key W AO
+0 0 0 0 0
+1 2 40 P
+#1562
+crock pot~
+a shiny crock~
+A large heavy looking pot sits here, it shines with a light of its own.~
+unknown~
+staff A AO
+50 2 2 'reserved' 0
+20 15 100 P
+#1563
+ring wedding~
+{wa {ygold {wwedding band~
+{wa {ygold {wwedding band has been left here.~
+unknown~
+protect 0 AB
+BC BC BC A 0
+40 1 8000 P
+A
+13 25
+A
+12 25
+E
+wedding~
+This gold ring is an example of excellent craftsmanship. A tiny inscription can be read:
+This ring represents the binding of two souls
+for the whole of both their lives.
+~
+#1564
+ivory lace parasol~
+an ivory lace parasol~
+This parasol is made of very intricate ivory lace.~
+unknown~
+weapon 0 AO
+staff 6 7 bite 0
+22 1 300 P
+#1565
+shiny key~
+a shiny key~
+A shiny key has been left here.~
+unknown~
+key W AO
+0 0 0 0 0
+0 0 50 P
+#1566
+walnut desk~
+a walnut desk~
+A large walnut desk has been placed here, writing equipment upon it.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 100 2000 P
+#1567
+steel key~
+a steel key~
+A steel key has been left here, the word "judge' carved upon it.~
+unknown~
+key W AO
+0 0 0 0 0
+0 1 400 P
+#1568
+sandwiches fresh~
+some fresh sandwiches~
+Some fresh looking sandwiches have been left here.~
+unknown~
+food 0 AO
+BCD 0 0 0 0
+0 0 1 P
+#1569
+cup tea~
+a cup of tea~
+A steaming cup of tea sits here.~
+unknown~
+drink 0 AO
+2 2 'tea' 0 0
+0 0 1 P
+#1570
+mug coffee~
+a mug of coffee~
+A good sized mug of coffee sits here, steaming softly.~
+unknown~
+drink 0 AO
+2 2 'coffee' 0 0
+0 0 1 P
+#1572
+Promise Ring~
+a ring of promise~
+A silver ring has an inscription engraved along it's surface~
+unknown~
+protect G AB
+CDE CDE CDE CDE 0
+100 0 2000 P
+A
+13 20
+A
+12 40
+E
+inscription~
+This ring is a symbol of the love I have for you.
+May we always and forever be together as one.
+ 
+~
+#1573
+Large Fourposter Bed~
+a large four-poster bed~
+A large four-poster bed covered in comfortable looking blankets and pillows.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#1574
+rack~
+a large rack~
+A large rack for restraining people has been placed here.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#1575
+small whip~
+a small whip~
+This small whip looks like it is more for fun than harm.~
+unknown~
+treasure R AN
+0 0 0 0 0
+1 0 10 P
+#1576
+nipple clamp~
+a heavy nipple clamp~
+This heavy nipple clamp looks like it might be both fun and painful.~
+unknown~
+protect R AD
+0 0 0 0 0
+10 0 0 P
+#1577
+large table~
+a large table~
+This large table looks big enough to easily seat ten people.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#1578
+blue key~
+a blue key~
+A large blue key has been left here.~
+unknown~
+key SW AO
+0 0 0 0 0
+0 1 500 P
+#1579
+tub~
+a large tub~
+This large tub looks like it can fit at least three people.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#1660
+m brand~
+an M-shaped brand~
+This brand has the shape of an M with an arrow on its final curve.~
+unknown~
+protect MUb AC
+ABC ABC ABC A 0
+1 1 0 P
+#1661
+crystal glass wine~
+a crystal wine glass~
+A crystal wine glass has been set carefully here.~
+unknown~
+drink 0 AO
+2 2 'red wine' 0 0
+0 0 1 P
+#1662
+tankard ale brown~
+a leather tankard~
+A leather tankard sits here, normally filled with brown ale.~
+unknown~
+drink 0 AO
+3 3 'ale' 0 0
+0 0 1 P
+#1663
+yummy steak~
+a yummy looking steak~
+A yummy looking steak sits here waiting to be eaten.~
+unknown~
+food 0 AO
+DE 0 0 0 0
+0 0 1 P
+#1664
+sparkling rose~
+a {Ws{mp{Ca{Wr{mk{Cl{Wi{mn{Cg{w rose~
+A sparkling rose lays here, its color changing to match the mood of those closest to it.~
+unknown~
+protect Gb AQ
+D D D B 0
+10 0 1000 P
+A
+13 10
+#1665
+large standing stone~
+{wa large standing stone~
+A large standing stone with an inscription has been set here.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 10000 1 P
+E
+inscription~
+In days of yore I stood tall and proud
+Thanks to battle wrought I am all bowed
+Against me came many an army strong
+It is lost who was right and who was wrong
+To winds mournful lament and spectres march
+I stand still north of victories arch
+~
+#1666
+large standing stone~
+a large stone~
+A large stone with a carved inscription has been set here.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 10000 1 P
+E
+inscription~
+To the winds call now is my only dance
+But not so long ago to music I could prance
+Now a collar about my neck you see
+One that was simply the end of me
+Here I am used mark the laws decree 
+Place here as a warning for all to see
+~
+#1667
+large standing stone~
+a large stone~
+A large stone with a carved inscription has been set here.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 10000 1 P
+E
+inscription~
+From primal murk--repulsive mire
+I stand out tall--proud like a spire
+Deep within me you could care to find
+Things that have long been left behind
+A room of stars I hold so well
+But where about few can tell.
+~
+#1668
+shot sip dragon breath~
+a sip of dragon breath~
+A shot glass topped with dragon breath is here.~
+unknown~
+drink 0 AO
+1 1 'firebreather' 0 0
+0 0 40 P
+#1669
+glass dragon's eye clear liquid~
+a glass of dragon's eye~
+This glass has a glob of red floating within its clear liquid.~
+unknown~
+drink 0 AO
+3 3 'local specialty' 0 0
+0 0 70 P
+#1670
+glass amber dragon~
+a glass of amber dragon~
+This glass has the icon of a dragon blown into it and is filled with amber liquid.~
+unknown~
+drink 0 AO
+3 3 'white wine' 0 0
+0 0 100 P
+#1671
+goblet dragon wine~
+a goblet of dragon wine~
+A dragon-adorned goblet full of deep red liquid is here.~
+unknown~
+drink 0 AO
+3 0 'red wine' 0 0
+0 0 50 P
+#1672
+leather dragon carved tankard~
+a leather dragon-carved tankard~
+This tankard has a dragon carved into its thick leather.~
+unknown~
+drink 0 AO
+5 5 'ale' 0 0
+0 0 50 P
+#1673
+cherry wood stool~
+a cherry wood stool~
+These stools are made of cherry wood and carved ornately to depict dragons.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 10000 1 P
+#1674
+cherry wood table~
+a cherry wood table~
+This sturdy table is made of cherry wood and sports many carvings of dragons.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 10000 1 P
+#1675
+fern plant pot dragon~
+a dragon pot and fern~
+A pot shaped like a large dragon at rest is here, with a fern planted where its wings should be.~
+unknown~
+treasure b A
+0 0 0 0 0
+1 7 600 P
+E
+pot~
+Stamped on the bottom of this pot are the words 'Made in Xian.'
+~
+#1676
+ivy dragon pot flight~
+a trail of ivy in a dragon pot~
+This pot depicts a dragon in flight and has ivy overflowing from its back. It looks like it's perfect for hanging.~
+unknown~
+treasure b A
+0 0 0 0 0
+1 5 600 P
+E
+pot~
+Stamped on the bottom of this pot are the words 'Made in Xian.'
+~
+#1677
+dragon bloom~
+a {mdragon bloom{w~
+A dragon bloom lays here, forgotten by its original owner.~
+unknown~
+pill b AQ
+100 'detect hidden' 'detect hidden' 'detect hidden' 'reserved'
+4 0 700 P
+E
+!history!~
+Dragon blooms are rumored to grow only on ground that has seen dragon's 
+blood and seem to most frequently be found growing in soil that was first 
+charred or razed by dragon's breath.  It is said to be most toxic if 
+ingested.  Do not eat this plant unless you wish to join your ancestors.  
+~
+#1678
+shimmering roses bouquet dragon~
+a dragon statue with flowers~
+A bouquet of shimmering roses is held within this stone dragon's maw.~
+unknown~
+treasure b A
+0 0 0 0 0
+1 10 600 P
+#1679
+lilacs purple potion~
+a purple potion~
+This purple potion gives off the scent of lilacs.~
+unknown~
+trash 0 AO
+0 0 0 0 0
+1 1 1000 P
+E
+purple potion~
+Under the hand-drawn picture of a lilac, there is some script that reads: 
+Pour into hot bath for refreshing feel.
+~
+#1680
+labeled potion forest green juniper~
+a forest green potion~
+A carefully labeled potion is here, smelling of juniper.~
+unknown~
+trash 0 AO
+0 0 0 0 0
+1 1 1020 P
+E
+potion forest green juniper~
+Under a hand-drawn picture of some juniper, there are some words:
+Pour into hot bath for refreshing feel.
+~
+#1681
+pearly white potion roses~
+a pearly white potion~
+A pearly potion is here, giving off the scent of roses.~
+unknown~
+trash 0 AO
+0 0 0 0 0
+1 1 1111 P
+E
+potion roses pearly~
+Under the hand-drawn picture of white roses:
+Pour into hot bath for refreshing feel.
+~
+#1682
+imperial wig white~
+a white imperial wig~
+This imperial wig is snow white and curly.~
+unknown~
+treasure 0 AE
+0 0 0 0 0
+1 1 1000 P
+#1683
+spikey blue wig~
+a spikey blue wig~
+This wig is short and spiked wildly.~
+unknown~
+treasure 0 AE
+0 0 0 0 0
+1 1 1000 P
+#1684
+chestnut hair wig~
+long chestnut hair~
+These gorgeous locks of chestnut hair turn out to be a wig.~
+unknown~
+treasure 0 AE
+0 0 0 0 0
+1 1 1200 P
+#1685
+wig cloud red hair~
+a cloud of short red hair~
+This cloud of short red hair seems to really be a wig.~
+unknown~
+treasure 0 AE
+0 0 0 0 0
+1 1 1200 P
+#1686
+wig braids ebony~
+a bun of ebony braids~
+These ebony braids form the bun on a wig.~
+unknown~
+treasure 0 AE
+0 0 0 0 0
+1 1 1200 P
+#1687
+wedding dress~
+a white wedding dress~
+Gracing form~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+1 3 4000 P
+#1688
+fitted vest~
+a fitted vest~
+This vest is fitted to the wearer's every contour.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+1 1 300 P
+#1689
+tailored fitted trousers~
+fitted trousers~
+These trousers are tailored to fit smartly.~
+unknown~
+clothing 0 AF
+0 0 0 0 0
+1 1 300 P
+#1690
+black polished shoes~
+polished black shoes~
+A pair of polished black shoes are here. On the inside there is a burnt mark that looks like CC.~
+unknown~
+clothing S AG
+0 0 0 0 0
+1 1 400 P
+#1691
+black stiletto heels~
+black stiletto heels~
+These black stiletto heels look rather uncomfortable. Burnt into the bottom of the shoe are the letters CC.~
+unknown~
+clothing 0 AG
+0 0 0 0 0
+1 1 800 P
+A
+2 -4
+A
+19 4
+#1692
+black knee boots~
+black knee boots~
+These black boots are made to reach the knee.~
+unknown~
+clothing S AG
+0 0 0 0 0
+1 1 700 P
+#1693
+black leather boots thigh high tall~
+heeled black leather boots~
+These are very tall black leather boots and look like they go past the knee. They have CC branded on the bottom.~
+unknown~
+armor 0 AG
+A A A 0 0
+10 1 1000 P
+A
+2 -4
+E
+tall black leather boots thigh~
+These boots are made from very fine leather and lace up the sides with 
+criss-crossed thongs.  They also have a heel that would appear to make any 
+female (or male) wearing them to totter dangerously.  
+~
+#1694
+kid skin boots~
+kid boots~
+These boots are made of kid skin. They are stamped with CC on the bottom.~
+unknown~
+clothing 0 AG
+0 0 0 0 0
+1 1 300 P
+#1695
+dragon headed flail~
+a dragon headed flail~
+A flail crafted so that the heads resemble those of a dragon has been left here.~
+unknown~
+weapon A AN
+axe 5 8 peck 0
+20 5 300 P
+#1696
+dragon's tail whip~
+a dragon's tail whip~
+Fashioned from finest leather, this whip has been dyed to resemble a dragons tail even as it lays coiled here.~
+unknown~
+weapon A AN
+flail 5 8 slice 0
+20 3 300 P
+#1697
+dragons claws~
+dragon claws~
+The brass blades resemble a dragons claws and look as if they could be strapped to the back of ones hand.~
+unknown~
+weapon AG AN
+exotic 5 8 slice 0
+20 2 300 P
+A
+12 5
+A
+13 5
+#1698
+winged halberd~
+a winged halberd~
+The blades on this halberd look like dragons wings even as it lays here.~
+unknown~
+weapon AG ANP
+whip 5 8 slice F
+20 10 300 P
+A
+19 2
+#1699
+tongue blade sword~
+a tongue blade~
+A sword fashioned to appear like a dragons tongue has been left here, glinting evilly.~
+unknown~
+weapon 0 AN
+sword 0 0 wrath G
+20 6 300 P
+#1700
+white lace veil~
+a lace veil~
+This veil is made of white lace.~
+unknown~
+clothing 0 AE
+0 0 0 0 0
+1 1 300 P
+#1701
+tail coat~
+a tail coat~
+This tail coat is of expert craftsmanship.~
+unknown~
+clothing 0 AK
+0 0 0 0 0
+1 1 300 P
+#1702
+leather lace skirt~
+a leather and lace skirt~
+This tight skirt is leather to mid-thigh, then turns to ruffles of ivory lace.~
+unknown~
+armor 0 AF
+0 0 0 0 0
+22 1 300 P
+#1703
+leather steel helmet~
+a leather and steel helm~
+A helmet fashioned from leather and steel sits here with a {Cblue{w horse hair plume.~
+unknown~
+armor 0 AE
+C C C A 0
+24 4 100 P
+A
+13 5
+#1704
+billhook hooked blade pole weapon ~
+a billhook~
+A hooked blade tops this pole weapon, glinting as it sits here.~
+unknown~
+weapon 0 ANP
+whip 4 12 wrath D
+24 10 200 P
+#1705
+leather princess sleeves lace~
+leather princess sleeves~
+These puffy leather sleeves have ruffles of ivory lace around the edge.~
+unknown~
+armor 0 AI
+AB AB AB A 0
+22 1 300 P
+#1706
+square leather bodice lace~
+a square cut leather bodice~
+This leather bodice has a square-cut neckline that is trimmed with lace.~
+unknown~
+armor 0 AD
+AB AB AB A 0
+22 1 300 P
+#1707
+black top hat~
+a black top hat~
+A black top hat is here, waiting to be claimed.~
+unknown~
+armor 0 AE
+AB AB AB A 0
+23 2 200 P
+#0
+
+
+
+#ROOMS
+#1551
+Schuyler Road at Dressler Road~
+To the north a Dressler Road stretches away with buildings lining both of 
+its sides, some of which bear signs dangling over their doors which would 
+infer to an astute mind that these could well be business premises.  To the 
+west, a street called Schuyler Road can be seen, its neat cobbled surface 
+and large gardens hinting that this might be a high class district.  To the 
+northwest, the skyline is dominated by the hulking form of a temple like 
+building, its domed pinnacle adorned with sculptures of dragons.  Southwards 
+a path leads away into the forest.  
+~
+0 1048576 2
+D0
+~
+~
+~
+0 0 1602
+D2
+~
+~
+~
+0 0 16064
+D3
+~
+~
+~
+0 0 1552
+M 0 H 0
+S
+#1552
+Schuyler Road~
+A cobble stone road runs east to west here, its length being interrupted by 
+a cross road to the west and terminating some distance off to the east at 
+another concourse.  To the south, nestled in a spacious garden is a two 
+story dwelling, its exterior painted white and trellises of climbing roses 
+winding up either side of its doorway.  To the north, an elegant building 
+stands in its grounds, over the roof of which a truly massive structure is 
+visible, a golden dome covered in depictions of dragons in the same colour.  
+~
+0 0 2
+D0
+~
+~
+~
+4 1551 1554
+D1
+~
+~
+~
+0 0 1551
+D2
+~
+~
+~
+4 1553 1556
+D3
+~
+~
+~
+0 0 1601
+M 0 H 0
+S
+#1553
+Schuyler Road~
+At some distance off to the west, a set of ornate double gates stand barring 
+entrance into a park by the looks of it.  To the east, this cobble stone 
+road meets with another.  Northwards, a large log built structure stands, 
+though even this building is dwarfed by the mass of the golden citadel that 
+is visible behind it.  The domed roof of the shimmering structure is 
+decorated with sculptures of dragons in various posses.  Southwards, another 
+wooden building stands, its exterior painted white.  Both of the nearby 
+constructions are set in large gardens which give them the look of someone's 
+home.  
+~
+0 0 2
+D0
+~
+~
+~
+4 1561 1559
+D1
+~
+~
+~
+0 0 1601
+D2
+~
+~
+~
+4 1565 1565
+D3
+~
+~
+~
+0 0 1558
+M 0 H 0
+S
+#1554
+Spacious Living Room~
+Large glazed windows look out into the forest to the north, giving a
+pleasant view of a small woodland stream.  Curtains of finest royal blue
+velvet trimmed in silver hang from heavy bronze poles ready to be drawn. 
+Spaced around the room are paintings and murals, each crafted with great
+skill and finess.  Couches, padded and comfortable looking are scattered
+before of a large stone fire place, the mantle of which is adorned with
+finest bone china figurines.  Set in the center of this room is a dinner
+table, large enough to seat twelve people with ease.  Sweeping artfully from
+the floor upwards is a spiral stair case heading to the next level of this
+building.  Strong double oak doors stand to the south leading out to the
+street.  
+~
+0 1048584 0
+D2
+~
+~
+~
+4 1551 1552
+D4
+~
+~
+~
+0 0 1555
+M 0 H 0
+S
+#1555
+A Fine Bedroom~
+Though large this room is still dominated by the bed, satins and silks
+drape from the cover and its four skillfully carved posts.  Large windows
+face out in all four directions giving a commanding view of the outside
+world that can be snuffed out in seconds by the thick, lavish, deep red
+velvet drapes.  Two wardrobes, large and well constructed stand either side
+of the bed, each adorned with a silvered mirror.  The only exit from this
+room that can be seen is the masterly crafted stair case leading down.  
+~
+0 1048584 0
+D5
+~
+~
+~
+0 0 1554
+M 0 H 0
+S
+#1556
+A Cosy Living Room~
+This homely room is heated by a small wood burning stove in the south 
+western corner, around which pots and pans have been arranged.  A wooden 
+spiral staircase is in the southeastern corner of the room.  A pair of large 
+wooden tables have been set near the center of the room.  There are two 
+large northern windows, gazing out onto the road.  Lightly padded chairs are 
+set neatly in the middle of the room.  Sky blue curtains flank the two 
+windows set either side of the northern door.  
+~
+0 1048588 0
+D0
+~
+~
+~
+4 1553 1552
+D4
+~
+~
+~
+0 0 1557
+M 0 H 0
+S
+#1557
+A Comfortable Bedroom~
+Large glazed windows are set into each of the four walls of this room with 
+with warm yellow curtains set on either side of them.  The staircase is set in
+the corner of the room, a wardrobe is in place, accompanied by a chest and 
+canopied bed, apparently here to block something.  The entire room is in 
+disarray.  
+~
+0 1048588 0
+E
+wardrobe~
+These wardrobes seem well constructed though empty at the momment, a rail
+at the top has been set so that cloaks and over long items my be placed here
+and not creased.  
+~
+E
+chest~
+When opened these chests appear to be empty as of yet.
+~
+D5
+~
+~
+~
+0 0 1556
+M 0 H 0
+S
+#1558
+Schuyler Road~
+The cobbles end here, to the west, at another large impassable set of double 
+iron gates, cast ivy curls its way up them while eastwards Schuyler Road 
+stretches onwards.  At some distance off to the east an intersection with 
+another roadway is reached.  To the north, a stately single story house is 
+visible nestled in some trees, though these plants do nothing to conceal the 
+large golden building to the northeast.  Southwards, a large single story 
+building stands within a large but well maintained garden.  
+~
+0 0 2
+D0
+~
+~
+~
+2 1567 1571
+D1
+~
+~
+~
+0 0 1553
+D2
+~
+~
+~
+4 1578 1580
+D3
+~
+~
+~
+1 0 1573
+M 0 H 0
+S
+#1559
+A Large Reception~
+Mighty trees have been skillfully crafted to construct the walls of this
+chamber.  Carved into the great beams supporting the roof are vine leaves
+and bunches of grapes, presenting a feel of the out doors.  A long table
+runs down the center of the room, sturdy looking chairs placed under it.  To
+the north a large single wooden door stands, bound in iron.  To the east an
+equally impressive door is set and to the west a more normal sized door
+stands.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 1561
+D1
+~
+~
+~
+1 0 1560
+D2
+~
+~
+~
+4 1561 1553
+D3
+~
+~
+~
+1 0 1562
+M 0 H 0
+S
+#1560
+A Cozy Bed Chamber~
+Light purple curtains flank a tasteful window set into the eastern most
+wall, though which trees and wild flowers can be seen.  Against the north
+wall a simple bed sits, the sheets and pillows on it looking clean and
+inviting.  At the foot of the bed a chest stands open, waiting for items to
+be placed in it perhaps.  To the west a door stands.  
+~
+0 8 0
+D3
+~
+~
+~
+1 0 1559
+M 0 H 0
+S
+#1561
+The Master Bedroom~
+Windows set into the north, west and east walls show an appealing view of
+the surrounding woodlands.  A bed of truly massive proportions dominates the
+center of this large room, Its length alone must be in excess of twelve
+feet.  Racking has been placed either side of the southern door, for the
+storage of items.  Carved with great skill and care into the walls and roof
+are scenes of forests.  
+~
+0 8 0
+D2
+~
+~
+~
+1 0 1559
+M 0 H 0
+S
+#1562
+A Large Kitchen~
+Set against the western wall a might wood burning stove has been placed,
+pots and pans surrounding it within easy reach.  A sink is set next to a
+stable door in the north wall.  A window set over the sink gives a pleasing
+view of the garden.  Skill carvings of fruit decorate the wooden beams
+supporting the roof of this log built room.  To the east a large door
+stands.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 1563
+D1
+~
+~
+~
+1 0 1559
+M 0 H 0
+S
+#1563
+A Garden Path~
+A small well maintained path works its way between beds of ornamental
+grasses and small flowering shrubs.  To the south a stable style door has
+been set into a large log cabin, while the path head off, surrounded by
+forest, to the north.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 1564
+D2
+~
+~
+~
+1 0 1562
+M 0 H 0
+S
+#1564
+A Swimming Hole~
+A fair sized swimming pool has been dug into the gardens here surrounded,
+by tall hedges of holly to keep unwanted attention at bay.  Small smoothed
+slabs of sand stone are set around the outside edge of the pool for a bather
+to alight upon.  Soft, fragrant, camille takes the place of grass here
+carpeting the earth from the pool.  To the south a grass path leads towards
+a log cabin.  
+~
+0 0 2
+D2
+~
+~
+~
+0 0 1563
+M 0 H 0
+S
+#1565
+A Large Living Room~
+Large glazed windows flank a set of double wooden doors to the north, the
+pale green curtains set to either side help to compliment the light airy
+feel that has been aimed for here.  Two large, comfortable-looking padded
+benches sit facing each other to the south, not obstructing the door set
+into that wall in the slightest.  Standing in the center of the room is a
+dinner table, appearing to be large enough to seat ten people without
+difficulty.  East and west are lightly stained wooden doors and on either
+side of which have been hung tasteful pictures.  
+~
+0 1048584 0
+E
+paintings~
+Four large paintings have been set either side of the east and westward
+doors, they depicted the four seasons and looking at the signature they have
+been crafted by a local artist.  
+~
+D0
+~
+~
+~
+4 1565 1553
+D1
+~
+~
+~
+1 0 1567
+D2
+~
+~
+~
+1 0 1568
+D3
+~
+~
+~
+1 0 1566
+M 0 H 0
+S
+#1566
+A Comfortable Bed Room~
+A large window on the western wall looks over lush woodland, giving a
+clear view of mighty trees and blooming wild flowers.  Standing between a
+pair of cabinets along the northern wall is a comfortable looking bed. 
+Paintings of wild flowers dot the walls, none crafted by a great talent but
+all showing promise and giving a pleasing feel to the chamber as they
+contrast with the pastel green of the walls.  To the east a single wooden
+door has been set the only visible exit from this room.  
+~
+0 1048584 0
+D1
+~
+~
+~
+1 0 1565
+M 0 H 0
+S
+#1567
+A Pink Bedroom~
+Pastel pink walls and drapes broken by boarders of a rich red give this
+room the feeling of being on the inside of a candy box.  The colour system
+has been followed through to the bed that is set against the northern most
+wall.  A window in the eastern wall gives a view of a small forest clearing
+full of pink and red wild flowers growing with abandon there, complimenting
+the room's decor.  A single door stands with a small plaque fixed to it at
+the west.  
+~
+0 1048584 0
+E
+plaque~
+Written in an artful, flowing script are the words: Look into my eyes and
+it's easy to see, one and one make two, two and one make three.  Once every
+hundred thousand years or so, when the sun doth shine and the grass doth
+grow and the wind doth blow.  
+~
+D3
+~
+~
+~
+1 0 1565
+M 0 H 0
+S
+#1568
+A Living Kitchen~
+Candle stands flank the door in the northern wall, ready to give light if
+needed, while set into the southern wall is a large glazed window looking
+out over an inviting view of a forest.  A long pale wooden table runs its
+course down the center of this room.  Set under it are benches of the same
+pale wood.  A stone sink has been fixed under the window on the southern
+wall, attached to cabinets that run the length there.  Standing to both the
+east and west are single doors of a dark polished wood .  
+~
+0 1048584 0
+D0
+~
+~
+~
+1 0 1565
+D1
+~
+~
+~
+1 0 1570
+D3
+~
+~
+~
+1 0 1569
+M 0 H 0
+S
+#1569
+A Large Bedroom~
+Here has been fashioned a large, airy sleeping chamber.  A pair of double
+windows line the west wall, looking out over dense forest land.  Two
+wardrobes stand against the southern wall, the wood of them stained dark and
+polished to a deep shine.  Standing proudly against the north wall is a
+large bed, its looks both comfortable and cosy for anyone that might wish to
+alight upon it.  Crafted with great care and skill over the bed is a massive
+painting, easily six feet in length and three feet in height.  To the east a
+single door has been set.  
+~
+0 34604040 0
+E
+painting~
+A large oil painting has been placed here.  The skill of the artist is
+clearily visible to any that care to gaze upon it.  A scene of woodland
+bliss has been depicted upon it with a glowing white unicorn standing guard
+over a herd of horses drinking from a pool.  While looking carefully, you
+notice signs of faeries cunningly placed inside the picture for the
+observent.  A tree bearing a face and the tiny figure of a fae dancer
+skiping under the nose of one horse.  Each glance seems to bring something
+previously unseen into view.  
+~
+D1
+~
+~
+~
+1 0 1568
+M 0 H 0
+S
+#1570
+A Large Bedroom~
+Most of the eastern wall of this chamber is taken up by a window
+overlooking a bubbling woodland stream that meanders and tumbles its way
+through a rocky bed, the sound faintly reaching this room.  Placed next to
+the door on the western wall is a large downy bed, positioned to allow one
+to take advantage of the view.  Wardrobes and chests of drawers sit against
+the north and south walls, their dark wood polished and gleaming as if with
+an inner light.  
+~
+0 1048584 0
+D3
+~
+~
+~
+1 0 1568
+M 0 H 0
+S
+#1571
+A Comfortable Living Area~
+Twin Large bay windows flank the double, banded, oak doors to the south. 
+Woodland green drapes hang either side of these, set upon tasteful bronze
+poles, ready to be drawn or opened at will.  Stylish paintings adore all
+four walls, the bright splashes of colour from these giving a cozy feeling
+to the room.  A spiraling stair case works its way upwards from the eastern
+corner to the next level of this dwelling.  Set close to the fire place,
+upon the west most wall sits a large walnut topped desk around this numerous
+over stuffed leather arm chairs have been placed.  The crest of the chief
+judge sits proudly upon the chimney breast glinting in any light.  
+~
+0 8 0
+E
+paintings~
+These paintings might not be master pieces but each has its own charm,
+donated by grateful citizens to the chief judge for his service to the
+realm.  They adorn and brighten the home considerably.  
+~
+D2
+~
+~
+~
+2 1567 1558
+D4
+~
+~
+~
+0 0 1572
+M 0 H 0
+S
+#1572
+A Pleasant Bedroom~
+A large and comfortable bed stands in the center of this room butted up
+to the northern wall.  Three large windows have been placed on the south,
+east and western walls, deep blue curtains at there sides.  Light blue paint
+has been used upon the walls complimenting the curtains and giving a
+pleasing open feel to this room.  Twin wardrobes stand either side of the
+bed, ready to store items.  A spiraling stair case leads down from this room
+into the one below.  
+~
+0 8 0
+D5
+~
+~
+~
+0 0 1571
+M 0 H 0
+S
+#1573
+Park Path~
+Small gravel chips form a winding path between brightly colored flower beds 
+here.  The scents of roses and poppies mix in the air here, wafting about 
+upon any breeze, these flower beds line either side of the path mixed in 
+with them are ferns and small shrubs.  To the east a set of double gates 
+stand through them a road can be seen cutting its way into the surrounding 
+forest.  In the distance to the north a large building can be seen, its 
+golden-domed roof artfully decorated with dragons though a screen of trees 
+has been placed between it and here.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 1574
+D1
+~
+~
+~
+1 0 1558
+D2
+~
+~
+~
+0 0 1575
+D3
+~
+~
+~
+0 0 1578
+M 0 H 0
+S
+#1574
+A Garden Path~
+Raised beds of flowers and shrubs line either side of a winding path here, 
+their aromas mixing upon the air.  The soft sound of bird song drifts from 
+one of the small shrubs here, light and lilting upon the air as it calls for 
+its mate.  To the west, over the tops of the raised beds, a small hedge maze 
+can be seen, to the south the path winds its way to a set of double gates.  
+Northwards, through the scattering of trees, the Golden Citadel can be seen, 
+its surface riddled with golden dragons that look ready to take flight.  
+~
+0 0 2
+D2
+~
+~
+~
+0 0 1573
+D3
+~
+~
+~
+0 0 1576
+M 0 H 0
+S
+#1575
+Up The Garden Path~
+Winding paths of sparkling gravel-chips work there way through artfully 
+placed and composed flower beds here.  The scents of these plants drifting 
+about the air, toys to the least breeze.  Off some distance, to the west a 
+small wooden building stands, while to the north more paths lead away with a 
+set of double gates set into the fence there.  All around this park stands 
+an ancient looking forest, tall and proud.  The scattering of trees visible 
+at the north end of the park only partially screen the top of the domed 
+temple that sits at Xian's heart.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 1573
+D3
+~
+~
+~
+0 0 1577
+M 0 H 0
+S
+#1576
+A Small Rose Hedge Maze~
+Planted upon a slight rise here and over looking the rest of the gardens is 
+a small maze, it has been grown and cut from fragrant rose bushes.  The soft 
+scents of these flowers mix with the smells from ornamental mint bushes 
+planted in small pots about this area.  To the east a winding path between 
+raised beds of flowers can clearly be seen while to the south a sculpture in 
+stone has been set, facing a set of double gates.  A screen of trees to the 
+north partly masks a golden domed structure, though not completely.  
+Numerous depictions of dragons are visible over its surface, each of them 
+shimmering in the light.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 1574
+D2
+~
+~
+~
+0 0 1578
+M 0 H 0
+S
+#1577
+Outside Respite's~
+Hidden from the north, mostly, by a large raised flower bed stands a small 
+wood build cafe to the west.  Bright curtains of blue grace its large 
+windows left open so the natural beauty of the park can easily be seen.  
+Flowering plants have been skillfully placed about this building, all but 
+draping it, the aromas of these plants sit heavily upon the air here.  To 
+the north, passed the raised bed of plants a set of statues can be seen.  
+Eastward the park extends away, its paths twisting and winding about.  A 
+large temple like building is visible over some trees to the north, its 
+domed pinnacle decorated with dragons which must be massive as they are 
+visible even at this distance.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 1578
+D1
+~
+~
+~
+0 0 1575
+D3
+~
+~
+~
+1 0 1579
+M 0 H 0
+S
+#1578
+Park Gate~
+This area of park-land is dominated by a lifelike statue, skillfully crafted 
+and seeming to capture the essence of the subjects in question.  To the 
+west, a set of double gates stand, covered in artful carvings of oaks.  Past 
+these doors, a paved road is visible, stretching far into the north-south 
+and shaded by ancient trees.  To the south, a high raised bed of flowers has 
+been placed, partly blocking out the view of a low wooden building, and to 
+the east, a winding path leads through several more flower beds.  Through 
+the trees to the north of the park, a golden dome covered in large dragons 
+can be seen.  
+~
+0 0 2
+E
+statues~
+This huge piece of art depicts three things, each of which is richly 
+detailed.  First, there is a man crafted out of a soft ghostly grey-white 
+material.  His appearance is slightly elfin in nature, and though it is 
+crafted of mere rock, it possesses an aura of strength that belies his 
+meager stature.  Long pale hair streams behind him, as if captured in the 
+wind.  His right hand clasps the dragon lance, while his left gently 
+caresses the hair of the feline at his feet.  Sitting beside this figure is 
+a feline woman with her arms linked about his legs.  Her silver body is 
+nubile and scintillating and she is wearing shredded clothes that barely 
+cover the essentials.  Her eyes are of the same general color, though her 
+hair is much darker in contrast, more like the color of steel.  Nestled in 
+her hair is a bright firebird flower, crafted to look as if it was just 
+picked this morning and fresh with dew.  Curled around both figures, a 
+masterly crafted dragon can be seen, its body made of pure black obsidian.  
+He seems to be smiling from his perch on the pedestal.  A decorative 
+{cinscription{w has been carved into the base of the pedestal.  
+~
+E
+inscription~
+This plaque is covered in elegant writing that is usually reserved for 
+poetry.  It reads: 
+ 
+{cTo the Lord and Lady that gave us their patience, wisdom,
+and foresight in times of peril and difficulty.
+To the Lord and Lady that improved our lives, our town, 
+and our trade.
+To the Lord and Lady that protected us from enemies and
+mischief.
+ 
+{CTo Lord Fay and Lady Crystak, from the citizens of Xian.{w
+~
+D0
+~
+~
+~
+0 0 1576
+D1
+~
+~
+~
+0 0 1573
+D2
+~
+~
+~
+0 0 1577
+M 0 H 0
+S
+#1579
+Inside Respite's~
+This simple building is used as a cafe.  A wooden counter against stands
+the western wall, behind this tea urns and other items for drinks have been
+placed.  A set of bread bins and boards also litter the counter for
+producing sandwiches.  The east wall is composed mostly of glass, looking
+out over the park, to either side stand blue curtains should owner feel the
+need to draw them.  Tables and chairs dot the floor, ready for patrons, east
+inbetween the windows is set a single door.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 1577
+M 0 H 0
+S
+#1580
+A Comfortable Living Room~
+This room is neatly laid out, apparently all towards comfort and ease. 
+The dark blue carpeting that covers the floor appears to be thick and plush,
+hardly showing any wear at all.  The walls themselves have been painted a
+light blue, giving the room a bright and cheery appearance.  A large table,
+big enough to seat ten people takes up the center of the room, long benches
+have been placed on each side of it for sitting.  Doors are visible in each
+of the cardinal directions, allowing exit from the room.  
+~
+0 1048584 0
+D0
+~
+~
+~
+4 1578 1558
+D1
+~
+~
+~
+1 0 1581
+D2
+~
+~
+~
+1 0 1583
+D3
+~
+~
+~
+1 0 1582
+D4
+~
+~
+~
+0 0 1586
+M 0 H 0
+S
+#1581
+A Guest Bedroom~
+This room has been decorated and designed to be a comfortable place to
+sleep.  The plush carpeting that covers the floor is a dark blue in color,
+contrasting neatly with the light blue walls.  A small picture of the beach
+has been placed on the southern wall, while to the east, a large window
+allows a view of the forest outside.  A large four posted bed has been
+placed underneath the window, and a small wardrobe is visible to the north. 
+A single door to the west is the only exit visible.  
+~
+0 1048584 0
+D3
+~
+~
+~
+1 0 1580
+M 0 H 0
+S
+#1582
+A Guest Bedroom~
+This room has been decorated and designed to be a comfortable place to
+sleep.  The plush carpeting that covers the floor is a dark blue in color,
+contrasting neatly with the light blue walls.  A small picture of the beach
+has been placed on the southern wall, while to the west, a large window
+allows a view of the forest outside.  A large four posted bed has been
+placed underneath the window, and a small wardrobe is visible to the north. 
+A single door to the east is the only exit visible.  
+~
+0 1048584 0
+D1
+~
+~
+~
+1 0 1580
+M 0 H 0
+S
+#1583
+A Large Kitchen~
+Tile of different shades of blue cover the floor of this kitchen.  Each
+piece has been fit together to form two large letters, which can be clearly
+made out.  A large sink made of a strange and smooth blue stone has been
+built into the south wall, directly below a large window.  Just to the side
+of the sink, a single door has been placed, leading to the pantry.  A small
+stove is visible against the eastern wall, looking new or well taken care
+of.  Another door graces the northern wall, and to the west of it, a small
+counter has been setup for preparing dishes.  
+~
+0 1048584 0
+D0
+~
+~
+~
+1 0 1580
+D2
+~
+~
+~
+1 0 1584
+M 0 H 0
+S
+#1584
+Small Pantry~
+The walls of this small room are lined from floor to ceiling with
+shelves.  Each of them stocked with the various foods available around the
+lands.  A large bag of sugar has been leaned on the floor against the bottom
+shelf, partially blocking the outline of a trapdoor on the floor.  The sack
+appears to cover a sturdy lock for this trap door, since it wont seem to
+budge.  The only other exit visible is a single door to the north.  
+~
+0 1048584 0
+D0
+~
+~
+~
+1 0 1583
+D5
+~
+~
+~
+4 1578 1585
+M 0 H 0
+S
+#1585
+A Hidden Chamber~
+This large chamber takes up the entirity of the breadth and width of the
+house.  The walls are made up from what appears to be old stones, stacked
+carefully atop one another.  The house itself is resting on the stone walls,
+using them as its foundation.  This room is illuminated by flaming torches
+which have been attached to the wall in different places.  The floor is made
+of the same stones as the wall, and is totally barren save for several
+strange objects placed in what seems to be haphazard places.  A large rack
+dominates the center of the floor, sided by a small table upon which sits
+many different items.  Small whips hang from the northern wall, right beside
+a pair of irons for the hands and feet.  A small staircase appears to be the
+only way out.  
+~
+0 1048584 0
+D4
+~
+~
+~
+4 1578 1584
+M 0 H 0
+S
+#1586
+Master Bedroom~
+Overhead, a small and delicate chandelier bathes this room with a gentle
+luminesence.  Plush blue carpeting covers the floor, looking invitingly soft
+to tread upon.  The walls are painted a light shade of blue, matching
+perfectly with everything.  A small window is framed on the northern wall by
+some pale blue curtains.  Underneath the window, a large four poster bed has
+been placed, easily large enough to fit four people.  A single door to the
+south and the staircase leading downwards appear to be the only exit.  
+~
+0 1048584 0
+D2
+~
+~
+~
+1 0 1587
+D5
+~
+~
+~
+0 0 1580
+M 0 H 0
+S
+#1587
+A Large Bathroom~
+Dark blue tiles line the floor here, leading from each wall and stopping
+at the large tub which dominates three fourths of the room.  Both wide and
+deep, this tub has three steps leading down into it, and looks easily large
+enough to fit three people.  A small overhead nozzle provides a shower of
+water, and a small ledge lines the inside of the tub to sit upon.  A large
+sink and mirror have been placed just inside the doorway to the east, and
+beyond that, the bedroom is visible.  
+~
+0 1048584 0
+D0
+~
+~
+~
+1 0 1586
+M 0 H 0
+S
+#1588
+A Short Road~
+A cobbled road leads to the west here from a set of ornate double gates
+to the east before ending a short way off in dense forest.  To the south
+stands a tasteful marble building which looks much like a temple behind a
+thin covering of trees that seem to add to its mystique.  To the north some
+of the forest has been cleared as if waiting for another construction to be
+undertaken.  
+~
+0 0 2
+D2
+~
+~
+~
+1 0 1589
+M 0 H 0
+S
+#1589
+A Reception~
+Fluted pillars of blue veined marble stretch up to the high ceiling of
+this chamber having been placed in each corner of this spacious room. 
+Hanging from the center of the painted ceiling is a masterly crafted
+chandelier which refracts light into a shimmering rainbow of colors upon the
+floor.  Twin stain glass windows set into the northern wall either side of a
+set of ivy carved double doors send pools of light over the marble floor and
+towards the fountain that bubbles in the center of the room.  In the
+southern wall a brass-bound pair, of wooden doors have been set within an
+archway.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 1588
+D2
+~
+~
+~
+1 0 1590
+M 0 H 0
+S
+#1590
+A Welcoming Bar~
+Polished walnut panels cover the floor and walls of this room, the rich,
+warm luster seeming to add to the warmth of the atmosphere here.  Crafted
+into the south-western corner of the room is a small stage, crystal covered
+lighting set into so as to subtly illuminate the performers.  In the
+north-eastern corner a low bar stands, the counter crafted from the same
+material as the floor and walls.  Three groups of tables and chairs sit
+around the center of the room large enough to accommodate six people a
+piece.  Slowly spinning orbs of magical fire dangle from the roof within
+prisons of beveled glass, giving there radiance to this chamber.  Double
+doors stand to the south and north while a wrought iron spiraling staircase
+leads upwards to the second floor.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 1589
+D2
+~
+~
+~
+1 0 1591
+D4
+~
+~
+~
+0 0 1595
+M 0 H 0
+S
+#1591
+The Towel Room~
+Four doors lead from this chamber each crafted elegantly and fitted
+snugly between the racking that bedecks the walls.  The floor of this room
+is crafted from polished walnut, buffed to a fine luster, while the ceiling
+has been artfully painted.  Racking upon the walls holds countless, fluffy,
+towels in all colors and a pair of small covered bins stand against the
+northern wall waiting for used towels to be placed within.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 1590
+D1
+~
+~
+~
+1 0 1592
+D2
+~
+~
+~
+1 0 1594
+D3
+~
+~
+~
+1 0 1593
+M 0 H 0
+S
+#1592
+A Steam Room~
+At first sight little can readily be seen of this chamber due to the
+billowing clouds of steam rising steadily from a bed of coals set into the
+southern wall of the room.  A low trough runs down the center of the room
+holding ladles and water while all four walls are bedecked with slatted
+benches for the occupants to rest comfortably upon.  Warmth fills this
+chamber like a drowsy fog making most movement seem like too much effort. 
+To the west a pine door has been set.  
+~
+0 8 0
+D3
+~
+~
+~
+1 0 1591
+M 0 H 0
+S
+#1593
+A Steam Room~
+A low trough runs down the center of the room holding ladles and water
+while all four walls are bedecked with slatted benches for the occupants to
+rest comfortably upon.  At first sight little else can readily be seen of
+this chamber due to the billowing clouds of steam rising steadily from a bed
+of coals set into the southern wall of the room.  Warmth fills this chamber
+like a drowsy fog making most movement seem like too much effort.  To the
+east a pine door has been set.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 1591
+M 0 H 0
+S
+#1594
+A Steaming Pool~
+A curving marble path from the south leads to a gently steaming pool set
+into the center of a spacious garden.  The pools clear waters reflect the
+sky above obscured only by the occasional wafting cloud of steam that drifts
+sedately upwards.  Set upon the soft moss covered floor are a few ornately
+crafted hard wooden benches.  Lush green trees form a natural barrier about
+this clearing protecting it from the elements, beneath which bright
+flowering blossoms grow in abundance.  
+~
+0 0 2
+D0
+~
+~
+~
+1 0 1591
+M 0 H 0
+S
+#1595
+A Long Hall~
+A long hall fashioned from walnut paneling upon the walls and brightly
+polished flooring of the same lustrous wood stretches to east-west here. 
+Set upon the walls are paintings in gilded frames, these have been placed to
+either side of the arched doorways in the north and south walls.  A spirally
+staircase leads down from this end of the hall while the rest of the hall
+can be seen stretching off to the east.  
+~
+0 8 0
+E
+paintings~
+These skillfully crafted paintings depict people in various poses.  One
+for example shows a young woman leaning down to look at a muscular man, her
+hair has been fashioned into an elaborate Mohawk and what would be stunning
+features are strangely marred by a long scar over one eye.  Behind her back
+she holds a thin but wicked looking knife in her delicate hand.  Signed in
+the paint upon the bottom corner of each picture is a small "C".  
+~
+D0
+~
+~
+~
+1 0 1600
+D1
+~
+~
+~
+0 0 1596
+D2
+~
+~
+~
+1 0 1599
+D5
+~
+~
+~
+0 0 1590
+M 0 H 0
+S
+#1596
+A Long Hall~
+The burnished walnut of the floor glints in any available light here
+shinning upwards.  The walls to the north and south bear twin doors facing
+each other, placed artfully upon the walls either side of these doors are
+pictures, their color adding subtly to this wall.  Upon the eastern wall a
+fresco has been fashioned, illuminated softly by concealed lighting.  To the
+west the hallway stretches onwards ending at a set of spiraling stairs.  
+~
+0 8 0
+E
+pictures~
+These pictures each depict the same figure: A small haitorin female with
+silver fur and hair.  She can be seen doing various acts some social and
+some a little more anti-social in different pictures.  In one she sits cross
+legs in the pool of light from a stain glass window, in her hands a pair of
+daggers which she is lapping blood from the blades of.  In another she
+stands before a mighty silver dragon, her expression one of contempt while a
+pale spirit-folk stands at her side.  In another her dagger finding the
+throat of a necroth while a blue figure ducks out of the way of splattering
+blood and in the final one she lounges on the edge of a fountain, her hair
+down her back and a lazy smile gracing her features as the eyes of the
+painting seem to study you from the canvas.  
+~
+E
+fresco~
+Painted with water colors while the plaster was still wet, this truly is
+a work of art.  The scene depicts five faeries, one standing in the center
+before a large tree and one in each corner.  The center figure looks both
+impish and pleased at the same time a small dagger in its scabbard through
+her belt and spiky green hair upon her head.  Ivy has been cunningly
+fashioned to boarder this picture almost looking real.  
+~
+D0
+~
+~
+~
+1 0 1597
+D2
+~
+~
+~
+1 0 1598
+D3
+~
+~
+~
+0 0 1595
+M 0 H 0
+S
+#1597
+A Dark Bedroom~
+This chamber has been fashioned from bog oak and carved by a skillful
+hand and an artful mind.  Ivy leaves appear to leap from the rafters and
+walls, climbing their way around the room, from within these mock plants
+small animals and the occasional sprite can be seen, peeking into the
+boudoir.  Standing in the center of the room is a large four-poster bed,
+the curtains and silken sheeting fashioned from burgundy fabric.  Soft
+lightly pools about this area from a delicate quartz fitting set into the
+high ceiling, the light throwing rainbows onto the walls and floor.  To the
+south a paneled door is set.  
+~
+0 8 0
+D2
+~
+~
+~
+1 0 1596
+M 0 H 0
+S
+#1598
+A Fire Lit Chamber~
+Fire light flows from the great hearth set into the southern wall over
+which an ornately carved mantle has been placed.  Set upon the flush,
+polished, boards of the floor before the fireplace is a thick, silky pelt of
+some black and white striped beast its natural luster shimmering in the
+light from the fire.  The only furnishings within this chamber are a low fur
+covered bed and a couched of deep blue velvet.  Carvings upon the wall when
+coupled with the fire light give this chamber an almost cave like feel to
+it, this is added to when the northern door way is considered which, from
+this side, looks like the mouth of a cave.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 1596
+M 0 H 0
+S
+#1599
+A Forest Like Chamber~
+A two inch deep, grass-green carpet covers the floor of this chamber,
+illuminated by a skillfully fashioned light in the roof that looks like the
+moon, coupled with this are smaller lighted depicting the stars.  The walls
+are carved to form mighty trees of the forest their limbs stretching up to
+the night time sky painted above.  A large bolster sits in the center of
+this room with a sheet of green satin upon it as the only furnishings.  To
+the north a single door, crafted to look like a knot in a tree has been
+placed.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 1595
+M 0 H 0
+S
+#1600
+A Small Casino~
+This room is packed with various games of chance, from card tables
+against the northern wall to a roulette wheel and a wheel of fortune.  Each
+gamed crewed by a smiling member of staff ready to take your money. 
+Lighting is supplied by various candle stands scattered about the chamber,
+illuminating the tables well and the wooden walls poorly.  To the south a
+single door stands, its brass knob glinting dully in the candle light.  
+~
+0 8 0
+D2
+~
+~
+~
+1 0 1595
+M 0 H 0
+S
+#1601
+Schuyler Road at Citadel Way~
+A wide crossroads has been formed here.  Northwards, a road leads to a 
+temple like structure which is decorated in gold and covered with carvings 
+of dragons.  Southwards there is a grand garden, past which is large white 
+building that can easily be seen while to the east and west large homes 
+stand in spacious tree planted gardens.  The cobbles of this street have 
+been kept in remarkably good condition, whether this is due to newness or 
+care of the citizens it is unclear.  Far off to the west, a pair of iron 
+gates stand before what looks to be a park while the eastward direction of 
+this road terminates when it meets another thoroughfare.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 1552
+D3
+~
+~
+~
+0 0 1553
+M 0 H 0
+S
+#1602
+Dressler Road~
+The cobbled road ends to the south where it meets Schuyler, which starts 
+there and works its way to the west.  Towering over the buildings that line 
+the west side of this road is a great Golden Citadel that has many 
+gargoyle-like carvings of dragons at frequent intervals set into it.  More 
+well-kept buildings line the eastern side of the paved way to provide a 
+notable symmetry between each side of the street.  Signs hang from many of 
+the structures, including the ones to the immediate east and west.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 1623
+D1
+~
+~
+~
+0 0 1621
+D2
+~
+~
+~
+0 0 1551
+D3
+~
+~
+~
+0 0 1622
+M 0 H 0
+S
+#1603
+Dressler Road~
+A great citadel of gold can be seen over the row of buildings that are along 
+the western side of this street, boasting large sculptures of dragons around 
+its circumference.  The eastern side of the road also has a great number of 
+stone structures, all of which neatly line up.  A few of them even have 
+signs that declare them to be businesses awaiting your patronage.  The 
+buildings to the immediate east and west lack any form of identification and 
+may even be homes.  The cobbled way continues both north and south.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 1604
+D1
+~
+~
+~
+0 0 1614
+D2
+~
+~
+~
+0 0 1623
+D3
+~
+~
+~
+0 0 1615
+M 0 H 0
+S
+#1604
+Dressler Road~
+Shops flank the sides of this particular part of the street leading north 
+and south here.  Signs hang over their doorways, proclaiming them to be 
+guildspeople that special in wig making and weaponsmithing.  More houses 
+crowd together in lines on either side of the cobbled path, like soldiers 
+standing at attention.  Clearly visible over to the west, above the stone 
+structures, is the Golden Citadel.  Its circumference is marked by 
+magnificent likenesses of dragons at rest, watching over the town like 
+silent and ancient guardians.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 1605
+D1
+~
+~
+~
+0 0 1616
+D2
+~
+~
+~
+0 0 1603
+D3
+~
+~
+~
+0 0 1617
+M 0 H 0
+S
+#1605
+Dressler Road~
+The Golden Citadel is clearly visible over the rooftop of the building that 
+can be found on the western side of this cobbled roadway.  Along the side of 
+the tower that can be seen from here, dragon statues have been carved in 
+various positions of rest, serving as silent guards of the city of Xian.  
+Two neat lines of houses can be seen on either side of the concourse, some 
+of which have signs to indicate that they are shops while others are plain.  
+The pathway continues on to the north and south both.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 1606
+D1
+~
+~
+~
+0 0 1619
+D2
+~
+~
+~
+0 0 1604
+D3
+~
+~
+~
+0 0 1618
+M 0 H 0
+S
+#1606
+Dressler Road~
+A cobble stone road way separates a pair of buildings as it makes its way 
+from the north to the south here.  The buildings lining this concourse's 
+ranks would appear to be homes, judging by the curtains at the windows.  
+Over the roof of the building to the west a large temple-like structure can 
+be seen.  On the sides of the building, statues of dragons in different 
+poses have been carved.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 1607
+D2
+~
+~
+~
+0 0 1605
+D3
+~
+~
+~
+0 0 1620
+M 0 H 0
+S
+#1607
+Dressler Road~
+Signs hang over the buildings directly to the west and east, one showing a 
+lizard of some sort upon it and the other a frothing mug.  Looking north and 
+south, many more buildings can be seen flanking the cobbled roadway, some of 
+which bear signs and others are unmarked.  Over the rooftop to the west, a 
+large stone structure can be seen, its sides littered with carvings and 
+statues of dragons.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 1608
+D1
+~
+~
+~
+0 0 1611
+D2
+~
+~
+~
+0 0 1606
+D3
+~
+~
+~
+1 0 1609
+M 0 H 0
+S
+#1608
+Dressler Road~
+A humble building can be seen on the eastern side of the street with a 
+sapling growing in the front of it.  The building to the west is rather 
+plain and it could be assumed it is a residential building due to the 
+curtains and drapes used to shield the window.  Over the rooftop of this 
+home, the Golden Citadel is plainly visible, complete with its numerous 
+carvings of dragons that watch over the city.  The cobbled street continues 
+both north and south from this point, ending at the north as it reaches the 
+start of Pinker.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 1607
+M 0 H 0
+S
+#1609
+The Emerald Dragon~
+This spacious room has several cages that span the walls, behind which are 
+several small drake-like creatures.  Their multitude of colors make them 
+fascinating to watch as they dart around furtively, unsettled by your 
+appearance.  Behind the wall length counter set into the back of the shop at 
+the west, a large sand pit filled with tiny eggs can be seen.  Beside the 
+whole eggs, some fragments waiting to be cleaned are still visible, along 
+with the newest fledgling lizards.  A door to the east provides means of 
+exiting.  
+~
+0 4104 0
+D1
+~
+~
+~
+1 0 1607
+M 0 H 0
+S
+#1610
+Fire Lizard Brood~
+~
+0 32772 0
+M 0 H 0
+S
+#1611
+The Dragon's Fancy~
+A long bar in the shape of the letter L starts from the north side of the 
+western door and runs parallel to the northern wall until it makes a right 
+angle banking south toward the western wall.  This affords many bar-side 
+seats to the frequenters of this famous establishment.  The rest of the room 
+has tables scattered about for the rest of the patrons, each of them carved 
+of the same cherry wood as the bar.  Everywhere one looks here, one can spot 
+an effigy or tapestry depicting a regal dragon.  One of the tapestries that 
+is spread over the southern wall depicts a dragon rider with a raised lance. 
+~
+0 8 0
+E
+tapestries dragon rider lance~
+A translucent man is seen riding the back of an inky black dragon in this 
+woven artwork.  He has the dragon lance raised triumphantly as he soars 
+through the air.  The very bottom of the wall rug reads 'Inky and Baron Fay. 
+ ' 
+~
+D3
+~
+~
+~
+0 0 1607
+M 0 H 0
+S
+#1612
+The Flower Den~
+Presumably named in the wake of all the reverence of the dragons in this 
+town, this business is known as The Flower Den.  The display cases have 
+trays of ice and slabs of marble are used to keep the flowers on display 
+fresh, resulting in this room being a few degrees cooler than one would 
+expect.  Effigies of dragons holding bouquets in their mouths and much more 
+fill the walls and hang from the ceiling, scattered to give the place a cozy 
+feel.  The sole visible exit leads to Dressler to the west.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 1623
+M 0 H 0
+S
+#1613
+The Potion House~
+The shelves are lined with odd-shaped bottles, each of which holds a liquid 
+of some sort; some are thick, viscuous liquids while others are watery, but 
+they all have one thing in common: a pleasant scent of one type or another.  
+The smell of flowers hangs heavily in the air here, mingling like a ripe 
+bouquet of rose, lilac, and many other flowers.  A counter full of tubes and 
+bottles from a strange apparatus dominates the middle of the room, behind 
+which is a woman.  The only exit is that to the east.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 1623
+M 0 H 0
+S
+#1614
+A Modest Home~
+This home is really one room with a partial wall to shield the sleeping area 
+from the rest of the room.  A few tattered chairs are gathered around the 
+fireplace, which is situated on the wall perpendicular to the separation 
+panel.  Thick curtains are drawn around the windows to both keep out drafts 
+as well as prying eyes.  Though this home is not the most upscale, it does 
+have a few luxuries to it such as a well-worn rug of thick fibre and a 
+feather-stuffed mattress.  A door leading to Dressler is apparent to the 
+west.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 1603
+M 0 H 0
+S
+#1615
+A Small Home~
+A small straw pallet has been arranged near the hearth that dominates the 
+northern wall and is covered in clean but tattered blankets.  The earthen 
+floor is covered in matted straw to help leech the bite of harsh weather 
+away.  A cushion large enough to seat two people comfortably is pushed 
+against the western wall, in front of which is a low table with a small bowl 
+upon it.  Drapes cloak the window overlooking Dressler to the east, helping 
+to keep the elements at bay.  A small matt has been rolled up to keep drafts 
+from entering through the crack between the floor and the door set into the 
+eastern wall.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 1603
+M 0 H 0
+S
+#1616
+Under the Periwig~
+Stepped counters full of disembodied mannequin heads are here, each showing 
+one of the latest fashions in the hair industry.  The counter set up near 
+the door has small piles of hair clippings scattered over its broad surface 
+that glisten softly in the light.  Many colors appear to be available in 
+many different styles, making this the first stop for all masqueraders and 
+the trendiest of the realm.  The exit lies to the west.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 1604
+M 0 H 0
+S
+#1617
+The Dragon's Lance~
+From studs set into the walls, several weapons of notable workmanship hang, 
+their surfaces gleaming as they wait to be claimed.  A glass encased display 
+in the middle of the room shows the famed Dragon Lance, which has a plain 
+'Not For Sale' sign beneath it.  Two fireplaces and the bellows line the 
+southern wall, next to which is a large anvil that has a dragon head carved 
+into one of its sides.  The shopkeeper eyes you upon your entrance.  The 
+only obvious exit is to the west, which leads to Dressler.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 1604
+M 0 H 0
+S
+#1618
+A Small Domicile~
+A low table is placed beside a sleeping pallet here, holding a candle, some 
+parchment, a bottle of ink, and a quill.  Another low table has been set 
+beside the fireplace, which has a small cauldron over it for the preparation 
+of meals.  A chair made from straw and rags has been designed and placed 
+beside the dining table.  A bed of straw has been scattered over the earthen 
+floor to help keep chills and extreme heat at bay.  The only visible exit is 
+to the east, and is flanked by two curtained windows.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 1605
+M 0 H 0
+S
+#1619
+A Humble Home~
+A feather-stuffed mattress has been laid out upon blocks of wood that serve 
+as a bed frame to the residents of this home.  Beside the make shift bed is 
+a night table that holds a half spent candle, the resulting pools of wax 
+still coating the wood.  A fireplace for both cooking and spreading warmth 
+is set into the western wall, with bundles of wood piled neatly to either 
+side of it.  Curtains cover the windows set on either side of the door that 
+leads westward.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 1605
+M 0 H 0
+S
+#1620
+A Small House~
+Both the door and small window to the east are covered with heavy draperies 
+to keep drafts from entering this humble home.  The floor is a combination 
+of tile and straw, with no reason apparent other than the possibility that 
+the owner is not well to do enough to afford to tile the whole thing.  The 
+walls are white washed and rather barren, aside from the fireplace located 
+to the north.  A small basin and counter serve as a sink and dining table to 
+the south while a modest pellet is in front of the hearth.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 1606
+M 0 H 0
+S
+#1621
+Taylor's~
+Bolts of cloth ranging from the exhorbitant to the very plain can be seen 
+cluttering up many tables and racks within this shop.  Some of the cloth is 
+died in patterns while others are solid colors ranging through most of the 
+colors of the rainbow, except for blue and purple.  A mirror with three 
+panels is set up around a short stool to allow patrons a view of their 
+product while it is in the works.  A small chest of drawers is near this and 
+seems to hold all the tools of the trade.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 1602
+M 0 H 0
+S
+#1622
+Clarke's Cobbler's To The Gentry~
+Shelves bearing shoes of innumerable sizes and designs line all four walls 
+of this establishment in many dyed colors.  Low benches have been placed 
+close to the northern and southern walls while a display case of tall boots 
+runs down the centre of the shop, built into the base of which is a mirror 
+only high enough to show a reflection of ones feet to knees.  A counter 
+before the west most wall has small anvils, leather, hammers and wooden shoe 
+moulds upon it plus other tools one would expect to see within a cobblers.  
+The air is filled with the scent of leather and polish.  In the eastern wall 
+is a door with a small brass bell over it which chimes whenever someone 
+enters or leaves this store.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 1602
+M 0 H 0
+S
+#1623
+Dressler Road~
+The cobbled path stretches away to the north and west for some distance, 
+both sides of the street lined with stone structures.  Some of the buildings 
+have signs hanging in front of their doorways to identify them as shops of 
+various sorts, and that includes the ones that are directly east and west of 
+this point.  A grand citadel blazing in gold can be seen over the western 
+buildings, its smooth walls only disrupted by what might be life-sized 
+carvings of dragons.
+~
+0 0 0
+D0
+~
+~
+~
+0 0 1603
+D1
+~
+~
+~
+0 0 1612
+D2
+~
+~
+~
+0 0 1602
+D3
+~
+~
+~
+0 0 1613
+M 0 H 0
+S
+#1748
+A High Hall~
+The ceiling of this room is lost in shadows high above, well over 40
+feet.  To the west a set of double doors stand ajar permitting a view of a
+large stone bridge.  Single ten feet high doors are set into the southern
+and northern walls, strangely they lack any form of handles.  
+~
+0 12 0
+M 0 H 0
+S
+#1749
+Upon A Mighty Bridge~
+A great stone bridge stands here, over which stretchs a banner
+constructed from some unknown metal.  Letters etched into it glint in any
+light.  To the west a small plain can be seen hemmed in by a dense forest. 
+At the end of the bridge, to the east, a massive temple like building stands
+its double doors facing the bridge, a haze of some sorts stand before it. 
+Looking over the edges of the bridge a void of nothingness can be seen.  
+~
+0 0 2
+E
+banner~
+The lettering reads to pass the haze a balance more spiritual than
+physical is required.  
+~
+E
+letters~
+The lettering reads to pass the haze a balance more spiritual than
+physical is required.  
+~
+D3
+~
+~
+~
+0 0 1750
+M 0 H 0
+S
+#1750
+A Strange New Realm~
+Everything seems fresh and new, the bright green of the grass and colour
+of the sky looks more like a childs painting than anything real.  No taint
+of smoke or man effects the air, it would not be hard to believe that no
+other living creature has been this way.  Some distance off to the east a
+mighty stone bridge can clearly be seen, beyond that a large temple like
+building stands.  Passage in all other directions is prevented by a dense
+over grown forest.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 1749
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 1551 spec_cast_mage
+M 1552 spec_breath_fire
+M 1553 spec_nasty
+M 1558 spec_breath_frost
+M 1563 spec_breath_acid
+M 1564 spec_breath_lightning
+M 1570 spec_breath_frost
+M 1571 spec_breath_fire
+M 1572 spec_breath_acid
+M 1573 spec_breath_any
+M 1574 spec_breath_gas
+S
+
+
+
+#RESETS
+D 0 1552 0 2
+D 0 1552 2 2
+D 0 1553 0 2
+D 0 1553 2 2
+D 0 1554 2 2
+D 0 1556 0 2
+D 0 1558 0 2
+D 0 1558 2 2
+D 0 1558 3 1
+D 0 1559 0 1
+D 0 1559 1 1
+D 0 1559 2 2
+D 0 1559 3 1
+D 0 1560 3 1
+D 0 1561 2 1
+D 0 1562 0 1
+D 0 1562 1 1
+D 0 1563 2 1
+D 0 1565 0 2
+D 0 1565 1 1
+D 0 1565 2 1
+D 0 1565 3 1
+D 0 1566 1 1
+D 0 1567 3 1
+D 0 1568 0 1
+D 0 1568 1 1
+D 0 1568 3 1
+D 0 1569 1 1
+D 0 1570 3 1
+D 0 1571 2 2
+D 0 1573 1 1
+D 0 1577 3 1
+D 0 1579 1 1
+D 0 1580 0 2
+D 0 1580 1 1
+D 0 1580 2 1
+D 0 1580 3 1
+D 0 1581 3 1
+D 0 1582 1 1
+D 0 1583 0 1
+D 0 1583 2 1
+D 0 1584 0 1
+D 0 1584 5 2
+D 0 1585 4 2
+D 0 1586 2 1
+D 0 1587 0 1
+D 0 1588 2 1
+D 0 1589 0 1
+D 0 1589 2 1
+D 0 1590 0 1
+D 0 1590 2 1
+D 0 1591 0 1
+D 0 1591 1 1
+D 0 1591 2 1
+D 0 1591 3 1
+D 0 1592 3 1
+D 0 1593 1 1
+D 0 1594 0 1
+D 0 1595 0 1
+D 0 1595 2 1
+D 0 1596 0 1
+D 0 1596 2 1
+D 0 1597 2 1
+D 0 1598 0 1
+D 0 1599 0 1
+D 0 1600 2 1
+D 0 1607 3 1
+D 0 1609 1 1
+M 0 1585 6 1551 10
+M 0 1583 5 1552 10
+M 0 1582 5 1553 10
+E 0 1706 0 0
+O 0 1552 0 1555
+O 0 1554 0 1556
+O 0 1555 0 1557
+M 0 1584 3 1558 10
+E 0 1707 0 0
+O 0 1559 0 1560
+P 0 1561 0 1559 10
+O 0 1560 0 1561
+O 0 1558 0 1564
+O 0 1554 0 1565
+O 0 1559 0 1566
+O 0 1559 0 1567
+O 0 1552 0 1569
+O 0 1552 0 1570
+O 0 1566 0 1571
+O 0 1552 0 1572
+M 0 1585 6 1574 10
+M 0 1588 1 1575 10
+M 0 1587 1 1575 10
+M 0 1585 6 1576 10
+M 0 1585 6 1577 10
+M 0 1560 1 1579 10
+G 0 1568 0
+G 0 1569 0
+G 0 1570 0
+P 0 1573 0 1 10
+P 0 1573 0 1 10
+O 0 1577 0 1580
+O 0 1573 0 1581
+O 0 1573 0 1582
+O 0 1574 0 1585
+O 0 1575 0 1585
+O 0 1576 0 1585
+O 0 1573 0 1586
+O 0 1579 0 1587
+M 0 1561 1 1590 10
+G 0 1661 0
+G 0 1662 0
+G 0 1663 0
+M 0 1562 1 1600 10
+M 0 1584 3 1601 10
+E 0 1707 0 0
+M 0 1586 3 1601 10
+E 0 1704 0 0
+E 0 1703 0 0
+M 0 1584 3 1602 10
+E 0 1707 0 0
+M 0 1582 5 1602 10
+E 0 1700 0 0
+M 0 1585 6 1603 10
+M 0 1582 5 1603 10
+E 0 1564 0 0
+M 0 1583 5 1604 10
+M 0 1586 3 1604 10
+E 0 1704 0 0
+E 0 1703 0 0
+M 0 1589 4 1604 10
+M 0 1582 5 1605 10
+E 0 1702 0 0
+M 0 1585 6 1606 10
+M 0 1583 5 1606 10
+M 0 1589 4 1606 10
+M 0 1582 5 1607 10
+E 0 1705 0 0
+M 0 1583 5 1608 10
+M 0 1589 4 1608 10
+M 0 1565 1 1609 10
+M 0 1574 1 1610 10
+M 0 1571 1 1610 10
+M 0 1564 1 1610 10
+M 0 1570 1 1610 10
+M 0 1572 1 1610 10
+M 0 1573 1 1610 10
+O 0 1674 0 1611
+O 0 1673 0 1611
+M 0 1575 1 1611 10
+G 0 1672 0
+G 0 1671 0
+G 0 1670 0
+G 0 1669 0
+G 0 1668 0
+M 0 1576 1 1612 10
+G 0 1677 0
+G 0 1678 0
+G 0 1676 0
+G 0 1675 0
+G 0 1664 0
+M 0 1577 1 1613 10
+G 0 1681 0
+G 0 1680 0
+G 0 1679 0
+M 0 1578 1 1616 10
+G 0 1686 0
+G 0 1684 0
+G 0 1685 0
+G 0 1683 0
+G 0 1682 0
+M 0 1579 1 1617 10
+G 0 1699 0
+G 0 1698 0
+G 0 1697 0
+G 0 1696 0
+G 0 1695 0
+M 0 1580 1 1621 10
+G 0 1701 0
+G 0 1700 0
+G 0 1689 0
+G 0 1688 0
+G 0 1687 0
+M 0 1581 1 1622 10
+G 0 1694 0
+G 0 1693 0
+G 0 1692 0
+G 0 1691 0
+G 0 1690 0
+M 0 1589 1 1623 10
+M 0 1583 1 1623 10
+M 0 1586 1 1623 10
+E 0 1704 0 0
+E 0 1703 0 0
+S
+
+
+
+#SHOPS
+1560 19 17 0 0 0 130 60 6 22
+1561 17 19 0 0 0 130 60 0 23
+1575 0 0 0 0 0 150 50 0 24
+1576 0 0 0 0 0 150 50 8 18
+1577 0 0 0 0 0 170 50 8 18
+1578 0 0 0 0 0 150 50 8 18
+1579 0 0 0 0 0 140 40 8 18
+1580 0 0 0 0 0 130 20 8 18
+1581 0 0 0 0 0 150 40 8 18
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

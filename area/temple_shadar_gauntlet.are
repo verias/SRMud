@@ -1,0 +1,2054 @@
+#AREADATA
+Name {20 30} Blyte   Shadar Gauntlet~
+Builders Blyte~
+VNUMs 19050 19099
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#19050
+succubus lenka~
+Lenka the Succubus~
+The succubus, Lenka stands here lost.
+~
+Her form is that of a woman, whose looks a nymph would envy, with long
+dark hair that matches her large bat like wings and forked tail perfectly. 
+She wears a gown that reveals more than it conceals of her form, as she see
+you looking at her she smiles and winks at you.  
+~
+unique~
+ABK CJTVZa -1000 0
+30 0 10d60+520 30d10+100 3d6+8 crush
+-1 -1 -1 0
+EFIK LQ M N
+(null) (null) either 135
+ACGHIMVZc ACDEFHJKLOPUVW medium unknown
+#19051
+incubus karn~
+Karn the Incubus~
+The incubus Karn stands here without direction.
+~
+Karn stands as a mighty figure.  Powerful looking with a great chest
+exposed from the loose robe he wears and features that look to good to be
+real, he waits with his bat wings and arms folded.  As he notices you
+looking at him he smiles and winks at you.  
+~
+unique~
+ABJ CJTVZa -1000 0
+30 0 10d60+520 30d10+100 3d6+8 digestion
+-1 -1 -1 0
+EFIK LQ M N
+(null) (null) female 135
+ACGHIMVZc ACDEFHJKLOPUVW medium unknown
+#19052
+tiny imp~
+a tiny winged imp~
+A tiny winged imp flies about cleaning and polishing.
+~
+Lacking definition this imp has been summoned to clean the temple.  Small
+bat like wings jut from its black scaled back that glints like water in the
+light.  Each long arm ends it a clawed hand that moves with shocking speed
+and it polishes.  It grins evilly showing dark sharp teeth as it sees you.  
+~
+unique~
+AC CJTVZa -1000 0
+25 0 8d48+400 25d10+100 3d5+7 crush
+0 0 0 2
+0 LQ M N
+(null) (null) male 112
+ACGHIMVZc ACDEFHJKLOPUVW tiny unknown
+#19053
+screaming soul~
+a screaming soul~
+This soul has pulled free from the mass but it still screams its torment.
+~
+Tormented and filled with despair this souls wails with the others of its
+brethren in the mass.  Either slightly stronger or more lucky than the rest
+it has pulled free but still remains trapped here unable or unwilling to
+move away.  
+~
+unique~
+A TU -1000 0
+20 0 6d39+294 20d10+100 3d5+4 magic
+2 2 2 4
+0 0 A C
+(null) (null) male 90
+CIKLM ABCDEFGHIJK medium unknown
+#19054
+unicorn~
+a sacred unicorn~
+A pure white horse stands here, a horn spiraling from its head marks it as a unicorn.
+~
+A pure white body seems to radiate goodness as this creature moves about.  
+Growing from its crown is a golden spiraling horn, reaching up like an 
+antenna to the heavens.  The lack of a goat like beard marks this beast as a 
+female.  
+~
+unique~
+A FJZ 1000 0
+50 0 10d167+1149 50d10+100 5d6+13 crush
+-9 -9 -9 -7
+FH 0 I H
+(null) (null) either 225
+ACGHMV ABCDEFGHIJKLPQUV medium unknown
+#19055
+unicorn~
+a sacred unicorn~
+A pure white horse with a single spiral horn paws the ground here.
+~
+This can only be a unicorn, the pure white hide the beauty, the grace and
+the spiraling horn all give it away.  A small beard like that of a goats and
+cloven hooves indicate that this must be a male.  Holy light seems to shine
+from its flawless eyes.  
+~
+unique~
+A FJZ 1000 0
+50 0 10d167+1149 50d10+100 5d6+13 crunch
+-9 -9 -9 -7
+FH 0 I H
+(null) (null) female 225
+AGHMV ABCDEFGHIJKLPQUV medium unknown
+#19056
+faery teka~
+Teka~
+This small faery girl has been chained to the wall here.
+~
+A small winged girl, her long red-brown hair has been tied into pig tails 
+adding to the child like look of her.  Shimmering wings grow from her back, 
+allowing her to flutter about with ease.  A mantel made from leaves fits 
+snugly to her form, its green contrasting well with her pale skin.  She's 
+been chained to the wall by a cruel hand indeed.  
+~
+unique~
+AB CDEFGOTVc 0 0
+15 0 5d31+200 15d10+100 2d4+2 beating
+4 4 4 6
+0 B 0 M
+stand (null) either 67
+ACGHMV ABCDEFGHIJKOP medium unknown
+#19057
+patrick leperchaun~
+patrick~
+A small man dressed all in green, his features mark him as a leperchaun.
+~
+Short, you would guess at about 6' in height is what looks like a middle
+aged man.  His clothing is a distinctive green, right down to the large top
+hat on his head.  Though only small he moves with surprising speed, almost
+as if its aided magically.  Bright blue eyes twinkle with amusement within
+his aged face.  
+~
+unique~
+A V 500 0
+20 0 6d39+294 20d10+100 3d5+4 digestion
+2 2 2 4
+0 B L C
+(null) (null) female 90
+AHMV ABCDEFGHIJK medium unknown
+#19058
+bat girl~
+Edevia the bat-girl~
+A tiny bat-winged girl darts about.
+~
+This tiny figure seems to be a bat-winged girl that possesses an amazing
+other-worldly beauty her long black hair trails out behind her as she flies
+about, attempting not to get in any ones way.  She flashes you a nervous
+smile as she spots you looking at her nearly nude body.  Now that her face
+has been clearly seen, you notice that her teeth are pointed and her eyes
+are totally black, lacking both whites and color.  
+~
+doll~
+A 0 -750 0
+20 0 6d39+294 20d10+100 3d5+4 crush
+2 2 2 4
+0 CILMNPQR ES GHJKO
+(null) (null) either 90
+EJMc ABCGHK tiny unknown
+#19059
+solar light figure~
+a solar~
+A figure stands here appearing to be composed of light.
+~
+This shimmering figure is a solar, planar travelling beings of light and
+magic.  Its form is in constant change as iridescence light moves within it.
+Deep in the centre of the figure is what seems to be a pulsing sun like
+sphere, bright enough to hurt ones eyes.  
+~
+unique~
+A HTUV 1000 0
+50 0 10d167+1149 50d10+100 5d6+13 slap
+-9 -9 -9 -7
+C N CD CN
+(null) (null) male 225
+AHMV ABCDEFGHIJK medium unknown
+#19060
+solar light figure massive~
+a massive solar~
+A massive figure stands here appearing to be composed of light.
+~
+This shimmering figure is a solar, planar travelling beings of light and
+magic.  Its form is in constant change as iridescence light moves within it.
+Deep in the centre of the figure is what seems to be a pulsing sun like
+sphere, bright enough to hurt ones eyes.  Energy and power seems to flow
+from its personage like water, bathing all who stand before it.  
+~
+unique~
+A HOTUVZ 1000 0
+99 0 12d1352+3846 99d10+100 6d11+28 slap
+-34 -34 -34 -27
+CEH N CD CN
+(null) (null) male 445
+AHMV ABCDEFGHIJK medium unknown
+#19061
+lost soul~
+a lost soul~
+A lost soul floats here, mournfully.
+~
+Floating aimlessly is the soul of a long dead person, its features
+twisted in despair as it wafted about in search of eternal rest.  Parts of
+its form break off and disperse into the air as its makes its hapless way
+about.  
+~
+unique~
+A TU -300 0
+22 0 7d42+334 22d10+100 3d5+5 sting
+1 1 1 3
+0 0 A C
+(null) (null) male 99
+CIKLM ABCDEFGHIJK medium unknown
+#19062
+nymph pregnant prisoner~
+an impregnated nymph~
+This pregnant nymph hangs limply from a pair of shackles.
+~
+No amount of clothing could hide the ripeness of this nymph's pregnancy.  
+Her belly is swollen and distended, though the rest of her figure looks a 
+bit gaunt.  Her hair is greasy and stringy and hangs over her face as she 
+dangles limply from the restrictive shackles chaining her to the wall.  
+~
+unique~
+AB 0 0 0
+25 0 8d48+400 100d10+100 3d5+7 none
+0 0 0 2
+0 0 0 0
+stand (null) either 112
+ACGHMV ABCDEFGHIJK medium unknown
+#19063
+knight shadar sentinel shadowy~
+a knight of Shadar~
+This shadowy sentinel carries itself like a knight.
+~
+This shade has been bound to the temple in servitude and is prepared to 
+defend it at all costs.  It is incorporeal, as if its body has transcended 
+this plain and its sheer will is the only thing left behind.  Shadowy plates 
+of armor mask its true form while a helmet hides its face, making it 
+indistinguishable.  It is easy to miss this visionary of death because its 
+body flickers like the pillars of flame that shed light in this place.  
+~
+unique~
+AQ BPTU -1000 0
+70 0 11d443+2036 280d10+100 5d8+22 none
+-17 -17 -17 -15
+EFGHK 0 0 C
+(null) (null) none 315
+AHMV ABCDEFGHIJK medium unknown
+#19064
+haitorin ghostly ethereal~
+a ghostly haitorin~
+This ethereal haitorin spins on you as soon as she senses your intrusion.
+~
+A mere shadow of what she must have once been, this haitorin is now 
+translucent at best.  Her eyes are missing and instead are black holes that 
+seem to drink all light that reach them.  Her face is devoid of all 
+expression and gains an eerie quality when her wildly drifting hair is 
+considered.  She is well toned in figure and wears very little in this form, 
+possibly a testament to her preferences in her former life.  
+~
+unique~
+AFP BPTU -1000 0
+101 0 13d1446+3994 404d10+100 6d11+30 none
+-45 -45 -45 -40
+BEGHJK 0 0 C
+(null) (null) either 454
+AHMV ABCDEFGHIJK medium unknown
+#19065
+dark priestess~
+a dark priestess~
+This dark priestess has her hands steepled, her eyes are closed as she chants.
+~
+This nubile young lady doesn't seem to notice you.  She has the palms of her 
+hands pressed together to create a steeple shape, almost as if in prayer.  
+This image is totally destroyed as soon as her demonic chanting is 
+considered.  The sounds issuing from her do not sound as if they could be 
+originating from a creature that must have been a nymph in its former life.  
+Her words never speed or slow and seem to repeat after approximately two 
+sentences lengths.  
+~
+unique~
+AO BPTU 0 0
+70 0 11d443+2036 280d10+100 5d8+22 none
+-17 -17 -17 -15
+0 0 0 C
+(null) (null) either 315
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#19050
+dark shadow~
+a strange dark shadow~
+A shadow of pure darkness flickers here, almost with a life of its own.~
+unknown~
+armor HJR AG
+B B B 0 0
+15 0 1 P
+A
+18 1
+#19051
+sparkling fountain~
+a sparkling fountain~
+A fountain of sparkling water bubbles from the ground here.~
+unknown~
+fountain 0 0
+5 5 'water' 0 0
+0 0 0 P
+E
+fountain~
+A sparking fountain bubbles up from the ground here, the water seems both
+clear and fresh.  
+~
+#19052
+gnarled tree~
+a gnarled tree~
+A large vine covered, gnarled tree grows here.~
+unknown~
+container 0 0
+10 0 0 0 0
+100 0 0 P
+E
+gnarled~
+The branches of this tree stretch up to the roof.  Black tasty looking
+fruit grow from these, each looks much like a pear in shape.  
+~
+E
+tree~
+The branches of this tree stretch up to the roof.  Black tasty fruit grow
+from these, each looks much like a pear only black in color.  
+~
+E
+fruit~
+The fruit looks tasty being shaped like a pear, you could almost mistake
+it for one apart from the blackness of its color.  
+~
+#19053
+black fruit~
+a tasty black fruit~
+A tasty looking black fruit lays here smelling and looking lovely.~
+unknown~
+food 0 AO
+C 0 0 0 0
+1 1 2 P
+#19054
+pillar black fire~
+a pillar of black fire~
+A pillar of black fire burns here without fuel or sound.~
+unknown~
+trash 0 0
+0 0 0 0 0
+1 0 1 P
+E
+black~
+Looking into the pillar of fire seems to send your mind else where, into
+your past and into possible futures, visions of greatness spring forth to
+your mind, what you may become if the right paths are followed.  Strangely
+something seems to be lacking almost as if your mind is failing to see some
+important point to these visions.  
+~
+E
+pillar~
+Looking into the pillar of fire seems to send your mind else where, into
+your past and into possible futures, visions of greatness spring forth to
+your mind, what you may become if the right paths are followed.  Strangely
+something seems to be lacking almost as if your mind is failing to see some
+important point to these visions.  
+~
+E
+fire~
+Looking into the pillar of fire seems to send your mind else where, into
+your past and into possible futures, visions of greatness spring forth to
+your mind, what you may become if the right paths are followed.  Strangely
+something seems to be lacking almost as if your mind is failing to see some
+important point to these visions.  
+~
+#19056
+demonic dolly~
+a white demonic dolly~
+A white demonic dolly sits here, its straight red hair and bat-wings gleaming.~
+unknown~
+armor GI AO
+0 0 0 0 0
+1 0 5 P
+E
+dolly~
+Powerful leathery white wings sprout from the back of this slender
+creature, the wing span indeterminate when they are at rest.  Tipping each
+massive wing is a hooked obsidian-like pinion, contrasting sharply with the
+powder coloured wings.  Delicate eyebrows arch over fiery red eyes with
+black slits, much like those of a feline, that contrast sharply with her
+chalky skin.  Straight auburn hair falls around her, brushed into a cloud
+that just falls short of her impressive chest.  Oddly enough, the rest of
+her body seems to lack hair entirely, from what can be seen of this doll.  
+~
+#19057
+moonstone engagement ring~
+a moonstone ring~
+This ring is silver and set with glittering moonstones, seeming to glow gently.~
+unknown~
+protect G AB
+ADE ADE ADE BC 0
+30 0 1000 P
+A
+12 30
+#19058
+corpse~
+the corpse of Meer~
+The bloodied and battered corpse of Meer lays here.~
+unknown~
+container 0 AO
+200 0 0 0 0
+15 30 0 P
+#19059
+horn blade~
+a black horn blade~
+A black horn forms a sword blade, humming with dread power.~
+unknown~
+weapon BG AN
+sword 8 7 lunge C
+30 10 150 P
+#19060
+small ring child faery~
+a small ring~
+This ring looks like it was made for a child.~
+unknown~
+protect A AB
+ABC ABC ABC A 0
+15 0 1000 P
+E
+ring~
+This ring looks suitable for a child or similarly small hand.  It is made of 
+a glass-like material that refracts light in an iridescent myriad of color.  
+~
+#19061
+sapphire engagement ring~
+a garnet engagement ring~
+A silver ring set with a large red garnet lays here, an inscription on the inside can be seen.~
+unknown~
+protect AG AB
+CDE CDE CDE BC 0
+100 0 10000 P
+A
+18 3
+A
+19 3
+A
+1 1
+E
+inscription~
+The words "be mine, love" are written on the inside in a plain script.
+~
+#19062
+white gold wedding ring~
+a white gold wedding ring~
+A golden wedding band, with an inscription inside lays here.~
+unknown~
+protect ABHM AB
+AE AE AE C 0
+60 0 10000 P
+A
+3 2
+E
+inscription~
+Cut skillfully into the metal the words 'My love, my one and only true
+love, yours now and forever' have been crafted.  
+~
+#19063
+masterly boots leather~
+masterly crafted boots~
+A pair of masterly crafted knee-length boots sit here, shining from the polish.~
+unknown~
+armor G AG
+AD AD AD B 0
+30 2 160 P
+A
+13 15
+A
+1 1
+#19064
+pure darkness~
+a fragment of pure darkness~
+A fragment of pure darkness sits here, seeming almost metallic in formation.~
+unknown~
+trash CEFb AO
+0 0 0 0 0
+0 0 1 P
+#19065
+pure darkness~
+a chunk of pure darkness~
+A large chunk of pure darkness rests here, seeming metallic in formation.~
+unknown~
+trash CEF AO
+0 0 0 0 0
+0 0 1 P
+#19066
+silver hoop earring~
+a silver hoop earring~
+A hoop of silver has been engraved cunningly with a device that appears to be a small sword over a shield.~
+unknown~
+protect 0 AQ
+C C C A 0
+15 0 50 P
+#19067
+catnip~
+a snifter of catnip~
+A mix of green and brown herbs make up a small amount of catnip, which is left here.~
+unknown~
+food 0 AO
+A 0 0 0 0
+0 0 1 P
+#19068
+tree pendant~
+a fine {Wsilver{x tree pendant on a chain~
+A fine {Wsilver{x pendant depicting the beautiful tree held sacred in the aristean faith lays here seeming to almost glow.~
+unknown~
+protect T AC
+D D D B 0
+30 2 10000 P
+E
+!history!~
+This tree was crafted from finest {Wsilver{x to mark the wedding of
+Shanda and Jimmy of the aristean faith.  No expense was spared in there
+making and it is said that for two days and nights the craft man worked none
+stop polishing them to the amazing level they now possess.  
+~
+#19069
+wedding band black~
+a {Kblack{x wedding band~
+A wedding band forged from pure darkness rests here, faintly the inscription inside glows.~
+unknown~
+protect EG AB
+CE CE CE C 0
+70 0 1000 P
+A
+12 50
+E
+inscription~
+Glow red with a faint fell light the words "Parvain and Rhianna, bonded
+in love and lust".  These words seem to carry a magic and power of there
+own, far beyond the mortal realm striking deep into the heart.  
+~
+#19070
+unicorns heart~
+the heart of a unicorn~
+Dripping with blood, the heart of a unicorn lays here.~
+unknown~
+food 0 AO
+CDFI 0 0 0 0
+0 0 1 P
+#19071
+blade wrath sword~
+a blade called "Wrath"~
+A fell looking blade is here, the word "Wrath" written on its flat side.~
+unknown~
+weapon AEGJ AN
+sword 12 16 charge D
+100 10 500 P
+A
+13 100
+#19072
+soul blade~
+the soul blade~
+A long moan is coming from this fell soul blade, as if in torment.~
+unknown~
+weapon ABG AN
+sword 12 16 charge D
+100 1 500 P
+A
+19 5
+A
+18 5
+#19073
+dagger lust~
+a dagger called "Lust"~
+A dagger called "Lust" sits here, glowing faintly.~
+unknown~
+weapon AEGI AN
+bow 12 16 crunch D
+100 0 500 P
+A
+13 100
+#19074
+solars heart ball energy~
+a solars heart~
+A throbbing ball of energy lays here, beating like a heart.~
+unknown~
+treasure G AO
+0 0 0 0 0
+50 0 500 P
+E
+heart~
+Tingling to the skin this throbbing orb of power seems to bath all before
+it with light and magic, gazing deep into it is enough to make your eyes
+sting.  Faintly from the solars heart a faint song like a choir of children
+singing can just be heard.  
+~
+#19075
+scroll singing musical~
+({msinging{x) a musical scroll~
+({msinging{x) A scroll rests here emitting a music all of its own.~
+unknown~
+scroll G AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+E
+scroll singing~
+This scroll is covered in a strange shifting arcane script.  Some of the
+symbols reminiscent of musical notes.  An otherworldly melody comes from it,
+not intrusive but constant in nature.  
+~
+#19076
+prism shadow~
+a shimmering prism of shadow~
+A prism composed of shadows floats here, wails and moans coming from it.~
+unknown~
+portal EG 0
+0 B 0 0 0
+0 10000 0 P
+E
+prism shadow~
+Through the shadowy surface of this prism you may perceive an eerie
+chamber, shadows flow over the spiked metal walls like liquid while an
+unearthly moan vibrates across the room.  Chained naked and helpless, to the
+corners of a large bed, are four ghosts.  Each of these unfortunate souls
+wails its distress and pulls at there bonds.  Upon the silk-like surface of
+the bed the naked figure of a radiant youth can be seen, his sculptured form
+at rest with his fanged mouth sucking upon his own thumb.  The vision seems
+stable, almost like a window into some other world.  
+~
+#19077
+notice paper clue~
+a piece of paper with a clue on it~
+The first piece of paper with a clue written upon it.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 1 P
+E
+paper clue first~
+What were four now are three
+All about for you and me to see
+Of sparrow, finch, nightingale
+But where to look is our tale
+Within this place seek the clue
+Simply this is what you must do
+~
+#19078
+second clue paper~
+a piece of paper~
+A piece of paper with the second clue upon it is here.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 1 P
+E
+paper clue second~
+At my zenith you will find
+A missive of the usual kind
+Once I was a shrine to anarchy
+Now quiet for the rest of eternity
+Only rats do now inhabit me
+Thus is cheerless my destiny
+~
+#19079
+paper clue~
+the third clue~
+A piece of paper with the third clue upon it, is here.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 1 P
+E
+clue third paper~
+In chances care I am found
+Smell honeysuckle all around
+Almost over but not the last
+Don't let your heart be down cast
+For the next clue will give the way
+For the clever to win the prize today
+~
+#19080
+final clue paper~
+the final clue~
+A piece of paper is here, bearing the final clue.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 1 P
+E
+final clue paper~
+Famed far and wide for our nightly tune
+A beautiful golden cage is now our room
+With one hundred voices raised in song
+~
+#19081
+note paper~
+a neat note~
+A neatly folded note has been left here.~
+unknown~
+treasure E AO
+0 0 0 0 0
+0 0 1 P
+E
+note~
+Deyia, if you are indeed correct that this person is worthy of joining
+us, then I will bestow upon him my gift.  If you are wrong in this matter I
+will send you back to the earth in punishment, for you are far from the most
+pleasing of my children.  From other sources it has come to my attention
+that instead of halting the werewolves you have been entertaining yourself
+with mortals.  This is to stop, you have been awoken for this task, complete
+it to the best of your limited abilities or face my wrath.  
+ 
+Asamoth.
+~
+#19082
+corpse body bat girl~
+corpse of a bat girl~
+The corpse of a bat girl is lying here.~
+unknown~
+container EG A
+20 0 0 0 0
+0 20 0 P
+E
+corpse body bat girl~
+The tiny body of a bat winged girl lays here, the throat ripped out and
+the limbs gnawed upon as if by some wild beast.  One of the bat-like wings
+is missing, torn off, with great force.  What ever killed her did so
+effectively.  
+~
+#19086
+dark metal chair~
+a mighty chair of dark metal~
+A mighty chair made of some dark metal floats here.~
+unknown~
+furniture J 0
+0 0 0 0 0
+100 2000 7000 P
+#19095
+altar~
+an altar of black metal~
+A dark metal altar floats here, an unnatural light coming from it.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#19096
+chairs~
+a circle of chairs~
+A circle of chairs can be seen here.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#19097
+flail shadows~
+a flail of {Kshadows{x and {rflames{x~
+Flickering with a will of its own, a flail crafted from darkest {Kshadows{x awaits its owner.~
+unknown~
+weapon EJ AN
+exotic 7 9 chop A
+28 4 140 P
+A
+1 1
+#19098
+plain black ritual robe~
+a flowing black robe~
+Thin black material has black embroidered embellishments at the wrists.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+45 0 975 P
+#19099
+kor high priestess black ritual robe~
+a flowing translucent black robe~
+Thin black translucent material has strange embroidery markings on it.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+20 0 1200 P
+#0
+
+
+
+#ROOMS
+#19050
+A Dirt Track~
+Long grasses flow like the sea to either side of a winding track that
+leads through them.  The sounds of insects living out there lives deep
+within the grassy depths reaches up to your ears, here and there a larger
+rustle marks the passage of some larger creature.  This track leads both
+north and south following its own irregular course, seeming without reason. 
+~
+0 1048580 2
+D0
+~
+~
+~
+0 0 19051
+D2
+~
+~
+~
+0 0 16004
+M 0 H 0
+S
+#19051
+A Widening Track~
+The track seems to widen here and gain some kind of direction and purpose
+turning towards the west where a large tree can be seen standing tall and
+proud from the long grasses.  The sounds of small creatures living out there
+lives within the grass lands reaches up to your ears.  High over the grass a
+small hawk of some kind can be seen searching for its prey.  The track
+continues to make its way both west and south from here.  
+~
+0 1048580 2
+D2
+~
+~
+~
+0 0 19050
+D3
+~
+~
+~
+0 0 19052
+M 0 H 0
+S
+#19052
+A Great Tree~
+An ancient tree grows here old beyond the memory of man, standing here as
+a mighty sentinel of the ages.  Mighty arms spread out from a trunk thats
+girth is greater than the span of a mans arms, here and there the effects of
+lightning can be seen burnt deep into the trunk.  The grass around the base
+of the tree has been trampled flat for some unknown reason.  The dirt trail
+leads north and east of here flanked by long grasses.  Strangely no birds or
+other animals seem to be close to the tree, but a hoard seem to inhabit the
+grass going by the sounds.  
+~
+0 1048580 2
+D0
+~
+~
+~
+0 0 19053
+D1
+~
+~
+~
+0 0 19051
+M 0 H 0
+S
+#19053
+A Winding Trail~
+High grass lines both sides of this erratically curving trail, for as far
+as the eye can see.  To the south a large tree can be seen standing high
+over the grasses.  North wards the trail seems to head into a small corpses
+of trees and then exist them.  The sounds of life filter up from the grass
+land, making a nice back ground melody to your ears.  
+~
+0 1048580 2
+D0
+~
+~
+~
+0 0 19054
+D2
+~
+~
+~
+0 0 19052
+M 0 H 0
+S
+#19054
+A Small Grove~
+A black thorn grove has been planted here long ago, now somewhat over
+grown and left to run wild.  Branches jut from all angles trusting spikes
+out like barbs to ensnare the unwary.  Little light filters to the floor
+here due to the dense branches of the black thorn, leaving the ground barren
+and lifeless.  The trail splits here going north and south, with a smaller
+almost animal like track to the west.  
+~
+0 1048580 3
+D0
+~
+~
+~
+0 0 19056
+D2
+~
+~
+~
+0 0 19053
+D3
+~
+~
+~
+0 0 19055
+M 0 H 0
+S
+#19055
+The Shadar Shrine~
+Three rocks of great size have been placed here by some unknown force. 
+Two stand upright flanking the third that lays upon its side.  Upon this
+third stone a figure of a smiling youth sat crossed legged has been crafted
+from a dark metal.  The youth could be taken as attractive apart from the
+snake like teeth and forked tongue.  Shadows seem to dance about this area
+seemingly without obedience to the light.  Not a single living creature
+seems to be here, an unnatural quiet fills the air almost as if something is
+waiting.  
+~
+0 1048580 3
+E
+metal~
+This dark metal seems to throb with a power of its own almost as if it is
+alive.  
+~
+E
+figure~
+This figure appears simular to what you have heard of as the one known as
+Blyte, God of the Shadar.  
+~
+D1
+~
+~
+~
+0 0 19054
+M 0 H 0
+S
+#19056
+A Curving Trail~
+Long grasses flow in the wind like waves upon the sea as they flank the
+trail.  To the south a grove of trees can be seen some way off while the
+twisting trail continues to the east.  Strangely there is little if any
+sound coming from the grass land that stands all around, maybe this is due
+to some beast hunting in them or maybe some thing less natural.  
+~
+0 1048580 2
+D1
+~
+~
+~
+0 0 19057
+D2
+~
+~
+~
+0 0 19054
+M 0 H 0
+S
+#19057
+Wilted Grasses~
+The trail still makes its curving way through grass land but the grasses
+have an unhealthy yellow tint to them.  It seems almost as if some thing has
+sucked the very life out of this area, but as to what it could be that is as
+yet unknown.  Far off in the distance some kind of dark structure can be
+seen.  Animal life seems to be missing from here as nothing can be heard. 
+The trail goes both west and north, the grass if anything seems to get worse
+as it heads north wards and better to the west.  
+~
+0 1048580 2
+D0
+~
+~
+~
+0 0 19058
+D3
+~
+~
+~
+0 0 19056
+M 0 H 0
+S
+#19058
+Wilted Grasses~
+Wilted and starting to blacken the grasses here seem almost seem dead,
+yet they still stand tall and proud if somewhat diseased looking.  The trail
+seems to head both north and south of here both ways seem to have the
+diseased look to the grass land that is here.  No one single creature can be
+seen or heard from within the grasses, no birds dot the skies, something
+strange must be happening here.  To the north a large dark structure can be
+made out but detail is as yet unclear to your eyes.  
+~
+0 1048580 2
+D0
+~
+~
+~
+0 0 19059
+D2
+~
+~
+~
+0 0 19057
+M 0 H 0
+S
+#19059
+Blasted Earth~
+To the north a huge dark structure can be seen standing out from a
+blasted plain.  The trail here seems to have been burnt into the earth
+leaving little left standing.  From what can be seen of the structure from
+here it looks like a giant gloved hand reaching from the earth, the five
+dark towers looking almost like clawed fingers reaching up to the heavens. 
+A mournful sound reaches your ears coming from the north.  
+~
+0 1048580 2
+D0
+~
+~
+~
+0 0 19060
+D2
+~
+~
+~
+0 0 19058
+M 0 H 0
+S
+#19060
+Before The Shadar Gauntlet~
+Before you a massive structure stands made out of some kind of metal that
+seems to swallow any light that falls upon it.  Set at the base of this
+structure are two large rune inscribed doors, each door must be at least
+twice the size of a man.  Five towers curve out from the broad base of this
+building looking almost like fingers or claws of a massive hand.  A strange
+a erie mournful wail can be heard coming from the west most tower, whether
+mystical in nature or due to the design is unclear from here.  To the north
+the great doors stand while to the east and west barren plains stretch out,
+the earth blackened and torn by some great force.  
+~
+0 1048580 2
+D0
+~
+~
+~
+1 0 19074
+D1
+~
+~
+~
+0 0 19073
+D2
+~
+~
+~
+0 0 19059
+D3
+~
+~
+~
+0 0 19061
+M 0 H 0
+S
+#19061
+A Monolith~
+The earth is torn and blackened here as if some kind of great force has
+been applied to it, not a single plant or animal can be seen.  A strange
+mournful wail can be heard upon the wind its source seeming to be from the
+western most tower.  Set into the plain a mighty monolith has been planted,
+formed from obsidian, with a large rune or letter cut deep into its surface.
+The plain curves around the base of the claw like building that stands to
+the south.  
+~
+0 1048580 2
+E
+monolith~
+A large black monolith formed from volcanic glass, into its surface the
+letter or symbol looking like the letter "E" has been cut by some skilled
+hand.  
+~
+D1
+~
+~
+~
+0 0 19060
+D3
+~
+~
+~
+0 0 19062
+M 0 H 0
+S
+#19062
+Below The Western Tower~
+The earth seems to have been torn here almost as if something or some
+things had forced there way up from deep under ground.  A wailing sound can
+clearly be heard all around you, eating into your brain and setting your
+teeth on edge.  The western tower seems to be the source of this sound as it
+stretches away from the dark metal base, casting its shadow over the plains.
+The plain curves its way around the great glove like structure to both the
+east and the north.  
+~
+0 1048580 2
+D0
+~
+~
+~
+0 0 19063
+D1
+~
+~
+~
+0 0 19061
+M 0 H 0
+S
+#19063
+A Monolith~
+The barren earth stretches away from the imposing dark metal hand like
+structure, this desolate plain has a great monolith placed upon it.  An erie
+and mournful sound reaches your ears seeming to come from the south of here.
+Here and there rocks and small pieces of bone litter the earth.  Depressions
+have filled with dark water from which strange gases rise.  To the north the
+broken plain stretches away following the curve of the building.  
+~
+0 1048580 2
+E
+monolith~
+Cut deep into the dark stone a rune or glyph has been cut.  A circle with
+a tail curving around from its base almost like the letter "g".  
+~
+D0
+~
+~
+~
+0 0 19064
+D2
+~
+~
+~
+0 0 19062
+M 0 H 0
+S
+#19064
+A Barren Plain~
+Torn and blasted the earth here seems to have been dug over or ripped up
+by some great force.  A large and fearsome looking skull of some great and
+long dead creature sticks half buried in the earth like some king of
+sentinel watching all that goes before it.  Not a single creature can be
+seen or heard here, not even a fly.  The blasted plain follows the curve of
+the gauntlet like structure of the tower.  
+~
+0 1048580 2
+E
+skull~
+This creature in life must have been huge, the skull is the size of a
+wagon.  Long teeth curve like scimitars from both of its great jaws, showing
+mud and earth stuck between them.  The eye sockets gaze emptly earth still
+sat deep within them.  This must have been some kind of creature from a
+bygone age.  
+~
+D0
+~
+~
+~
+0 0 19065
+D2
+~
+~
+~
+0 0 19063
+M 0 H 0
+S
+#19065
+Beneath A Tower~
+The north western tower hangs over the torn and twisted earth, looking
+like a great finger scratching at the skies.  Dark metal seems to absorb the
+light as it hits the huge glove like building.  Not a single creature can be
+seen or heard here.  Rocks and earth dot the landscape seeming at random,
+apart from one that looks like a monolith standing tall and proud.  The
+plain seems to stretch around the base of the building following a gently
+curve.  
+~
+0 1048580 2
+E
+monolith~
+Formed from some kind of grey rock this monolith bears a marking that
+looks like a large "W" cut into its surface.  A strange red glow seems to
+come from this marking.  
+~
+D1
+~
+~
+~
+0 0 19066
+D2
+~
+~
+~
+0 0 19064
+M 0 H 0
+S
+#19066
+Barren Earth~
+The very earth here is blacken and torn almost as if some unknown power
+as been applied to it.  Not a single creature can be seen or heard, no
+flies, nothing as if this land is dead or such.  A pit containing some kind
+of bubbling dark liquid is the only thing to make a sound other than a faint
+mournful dirge.  To the south a massive building made from a dark metal
+stands looking almost organic in its construction.  The barren plains follow
+the curve of this dark citadel.  
+~
+0 1048580 2
+D1
+~
+~
+~
+0 0 19067
+D3
+~
+~
+~
+0 0 19065
+M 0 H 0
+S
+#19067
+Under The Northern Tower~
+The northern tower stretches over the plains from the glove like
+structure of the building that stands to the south of this barren plain. 
+From the look of it this tower must be the tallest of the five metal towers
+of this building.  Nothing much is here apart from one large monolith that
+stands like a silent sentinel upon the blackened and torn earth of this
+plain.  Open ground stretches away to both the east and west.  
+~
+0 1048580 2
+E
+monolith~
+A monolith crafted from a gaint blood stone stands here.  Cut deep into
+its surface a sigil like the letter "A" has been carved.  
+~
+D1
+~
+~
+~
+0 0 19068
+D3
+~
+~
+~
+0 0 19066
+M 0 H 0
+S
+#19068
+A Barren Plain~
+No signs of life show here.  The earth has been torn and burnt by
+something then left as it is, seeming without reason.  A great metal
+building shaped almost like a massive hand stands to the south, light seems
+to be eaten when it strikes the surface of this strange structure.  Five
+great towers can be seen stretching up towards the sky from this dark metal
+construction.  The blasted plains curve around this building.  
+~
+0 1048580 2
+D1
+~
+~
+~
+0 0 19069
+D3
+~
+~
+~
+0 0 19067
+M 0 H 0
+S
+#19069
+Under A Tower~
+A massive tower constructed from some kind of dark metal hangs over the
+barren and lifeless earth.  This tower curves gently back to a huge building
+made of the same dark metal, so smooth is this that an almost organic
+quality has been gain, like these five towers form the fingers of some
+grasping hand.  Barren, blasted plains curve around this building.  Set upon
+this plain a monolith of a pink stone has been left, a sigil seems to have
+been cut into its surface.  
+~
+0 1048580 2
+E
+monolith~
+Crafted into the pink crystal of the monolith a letter or rune like an
+"S" has been cut, it glows with a dull red light.  
+~
+D2
+~
+~
+~
+0 0 19070
+D3
+~
+~
+~
+0 0 19068
+M 0 H 0
+S
+#19070
+A Barren Plain~
+The barren and lifeless earth follows the curve of a large metallic
+building that looks almost like a creatures claw to the west of here.  About
+the only thing of true interest is a tree half buried in the earth as it
+lays upon its side, roots can clearly be seen, left exposed to the elements.
+Not a single creature can be seen to live here or have much reason to try.  
+~
+0 1048580 2
+D0
+~
+~
+~
+0 0 19069
+D2
+~
+~
+~
+0 0 19071
+M 0 H 0
+S
+#19071
+A Monolith~
+A large stone monolith stands here upon a barren plain.  Cut into the
+surface of the blue stone of the monolith a rune or glyph has been crafted. 
+No form of life can be seen here it is almost as if some thing has killed
+every living creature or scared them all away.  To the west a huge metal
+building can be seen looking something like a giant clawed hand.  Barren
+plains follow the curve of the structure.  
+~
+0 1048580 2
+E
+monolith~
+A rune in the form of the letter "P" has been carved deep into the stone
+of the monolith and glows with a blue light.  
+~
+D0
+~
+~
+~
+0 0 19070
+D2
+~
+~
+~
+0 0 19072
+M 0 H 0
+S
+#19072
+Below The Eastern Tower~
+A tall tower looking like a giant claw stretching up towards the sky
+curves out from a dark metallic building.  The earth here is torn and
+blasted as if exposed to great force at some time.  No a single creature can
+be seen or heard here, it is as if the land is truly lacking life.  The
+barren plains follow the gentle curve of the dark building.  
+~
+0 1048580 2
+D0
+~
+~
+~
+0 0 19071
+D3
+~
+~
+~
+0 0 19073
+M 0 H 0
+S
+#19073
+A Barren Plain~
+Blasted and lifeless ground stretches around the base of a large dark
+metal building.  A single large monolith stands here of some reason crafted
+from some dark grey stone, etched into its surface a single character has
+been carved.  From a distance you could well imagine this building looking
+like a huge hand reaching out of the lifeless earth.  The plains stretch
+around the base of the dark metallic building.  A strange mournful wail
+comes to you upon the wind, its source unseen.  
+~
+0 1048576 2
+E
+monolith~
+A vertical line with a horizontal line situated at its base extending to
+the right of the vertical line has been carved into the monolith forming a
+glowing rune.  
+~
+E
+monolith~
+A veritical line with a horizontal line situated at its base has been carved into the stone and left glowing with a green light.
+~
+D1
+~
+~
+~
+0 0 19072
+D3
+~
+~
+~
+0 0 19060
+M 0 H 0
+S
+#19074
+A Vaulted Entrance~
+To the south two great doors stand each at least twice the height of a
+man, these and the room you stand in seem to be made of an other worldly
+dark metal.  Large arches seem almost to grow out of the wall reaching up to
+the distant ceiling.  Strange red flames seem to hang in the very air
+requiring neither fuel or mount, these seem to create more shadows than
+anything.  Three small doors made of the same metal have been set into the
+north, west and eastern walls.  
+~
+0 1048588 0
+D0
+~
+~
+~
+1 0 19077
+D1
+~
+~
+~
+1 0 19076
+D2
+~
+~
+~
+1 0 19060
+D3
+~
+~
+~
+1 0 19075
+M 0 H 0
+S
+#19075
+Base of Souls Lament~
+A large spiraling stair case stretches up from here.  Each tread seems to
+grow out of the metal walls, forming a seamless finish.  Red flame like
+lights bob and float around the room casting dancing shadows about the floor
+and walls.  To the east a single metal door is set into the dark metal of
+the wall.  From some where above a mournful sound reaches your ears.  
+~
+0 1048588 0
+D1
+~
+~
+~
+1 0 19074
+D4
+~
+~
+~
+0 0 19088
+M 0 H 0
+S
+#19076
+Base of The Garden of Unearthly Delights~
+A large pit of flames has been created in the center of this room, giving
+off great heat and making ever moving shadows upon the walls.  Set into the
+dark metal walls the treads of a spiraling stair case rise upwards, these
+stairs seem to have almost grown out of the walls.  The pit of fire seems
+not to require fuel as it does not have any, some arcane force must be
+keeping it burning.  To the west a single metal door has been set under an
+arch way in the metal wall.  
+~
+0 1048584 0
+D3
+~
+~
+~
+1 0 19074
+D4
+~
+~
+~
+0 0 19089
+M 0 H 0
+S
+#19077
+A Lengthy Hall~
+A high ceiling is lost in shadows of this long hall way.  Glowing orbs of
+crimson fire sway in time to some unheard music as they cast dark shadows
+upon the metallic wall.  In the center of the hall a large grate from which
+a faint red light can be seen.  Both of the side walls are covered in
+downward pointing spikes and blades, each seems both dangerous and painful
+to move against.  Set into both the north and south wall are single doors
+each made of the same dark metal that the walls are crafted from.  
+~
+0 1048584 0
+D0
+~
+~
+~
+1 0 19078
+D2
+~
+~
+~
+1 0 19074
+M 0 H 0
+S
+#19078
+A Grand Reception~
+Silks and velvets hang down like banners from the high vaulted ceiling. 
+The metallic walls seem to glow with an inner light all of the own allowing
+sight easily.  Three impressive arches stand to the north, west and east. 
+Through these arches great spiraling stairs can be seen reaching upwards. 
+The hanging cloth seems to move and sway as if caught in some unseen draft. 
+Sound seems deadened here giving an impression of peace.  To the south a
+single door is set in to the metal wall.  In the floor a hatch as been set
+leading downwards.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 19081
+D1
+~
+~
+~
+0 0 19080
+D2
+~
+~
+~
+1 0 19077
+D3
+~
+~
+~
+0 0 19079
+D5
+~
+~
+~
+1 0 19096
+M 0 H 0
+S
+#19079
+The Base of The Tower of Temptation~
+Smooth looking metallic stairs almost grow from the metal of the walls as
+they spiral upwards.  The soft sound of some kind of unearthly music filters
+down to your ears from an unseen source high above.  Strange orbs of colored
+fire dance about it the center of the stair well in time to the music.  To
+the east a large arch way leads to a banner filled room, other than that the
+only visible exit is the spiraling stair case that leads upwards.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 19078
+D4
+~
+~
+~
+0 0 19091
+M 0 H 0
+S
+#19080
+The Base of The Tower of Visions~
+A total lack of sound greets your ears here, a stillness such as would be
+expected in a library late at night.  Great dark metal stairs almost seem to
+grow from the metal of the walls so that as they spiral gently upwards
+around the edge of the tower it looks somewhat like the ribs of some great
+beast.  To the west a chamber filled with dangling cloths can be seen. 
+Spheres of red fire float silently around the room casting ever moving
+shadows upon the chamber walls.  
+~
+0 1048584 0
+D3
+~
+~
+~
+0 0 19078
+D4
+~
+~
+~
+0 0 19090
+M 0 H 0
+S
+#19081
+The Base of The Heel Tower~
+Seven Large life like stone statues fill the base of this tower.  The
+first and closest to the arch to the south depicts the image of a wild eyed,
+naked woman her hands stretched out before her as if grasping.  The second
+figure is that of a young girl looking at the first with a look of hate, the
+third a fat man dressed as a guard sleeping.  The fifth statue is that of a
+beautiful lady warrior speaking out, while the fourth shows a large powerful
+looking man holding massive bags the weight of which seems to be making his
+massive form bowed.  A great bear like monster in an aspect of rage makes
+the sixth and a great blob like creature that almost looks like a poorly
+crafted heap of clay with a face the seventh.  From the darkness above a
+great chain hangs down as the only way upwards.  
+~
+0 1048584 0
+D2
+~
+~
+~
+0 0 19078
+D4
+~
+~
+~
+0 0 19092
+M 0 H 0
+S
+#19082
+The Tower of Souls Lament~
+A great wail batters your ears almost like a physical force here. 
+Windows lacking both glass and shutters stand open to the outside world.  A
+strange chill fills the air seeming to come from the zenith of the pointed
+roof of this room.  Looking closer at the top of the room you may see a
+swirling and changing insubstantial mass, glowing with a pale light.  The
+mournful wail seems to hold the sound of great sadness and more then a
+little regret.  The only exit seems to be a spiraling set of stairs leading
+downwards.  
+~
+0 1048584 0
+E
+mass~
+This insubstantial mass seems to be formed from souls screaming out there
+fate.  Due to there constant motion it is impossible to count them all, but
+there seems to be many of them.  Each adds its own voice to that of the
+others creating this great wail of torment.  
+~
+D5
+~
+~
+~
+0 0 19088
+M 0 H 0
+S
+#19083
+The Garden of Unearthly Delights~
+Plants, flowers and ferns of all types and shapes fill this room, the
+scent of which are almost enough to make ones head spin.  A fountain of
+water sprays up from the ground sparkling in the light of small red orbs of
+fire that seem to not only illuminate this room but add to the warmth. 
+Vines of all types hide the metal of the walls making it seem as if this was
+some part of a long forgotten jungle, not the apex of a tower at all.  Small
+animals can be heard moving from plant to plant and the song of strangle
+dark colored birds can be heard above the splash of the water.  The only
+exit seems to be down a flight of dark metal spiraling stairs.  
+~
+0 34603016 0
+D5
+~
+~
+~
+0 0 19089
+M 0 H 0
+S
+#19084
+The Tower of Temptation~
+An unearthly melody greets your ears here, the music seems to come from
+the very walls.  A giant stained glass window is set into the west most wall
+depicting a bat-winged woman embracing a bat-winged man.  Huge pillows made
+from all kinds of fabrics have been cast around for people to rest upon. 
+Glowing orbs of colored fire sway and move in time to the music, casting
+shadows that seem to leap and frolic all on there own.  The only visible
+exit is a large metal spiral set of stairs leading downwards.  
+~
+0 1048584 0
+D5
+~
+~
+~
+0 0 19091
+M 0 H 0
+S
+#19085
+The Tower of Visions~
+This must be the top of the tower.  A large dark flame burns in the
+center of the room neither giving off light or warmth, no fuel seems to feed
+this blaze.  All around the dark metallic walls of the room looking glasses
+have been placed facing the dark flame.  A silence seems to have been placed
+upon this chamber as not even the sounds of your feet upon the metal of the
+floor can be heard.  
+~
+0 1048584 0
+E
+flame~
+Looking into this flame seems to send your mind else where, into your
+past and into possible futures, visions of greatness spring forth to your
+mind, what you may become if the right paths are followed.  Strangely
+something seems to be lacking almost as if you are missing some point of the
+vision.  
+~
+D5
+~
+~
+~
+0 0 19090
+M 0 H 0
+S
+#19086
+A Strange Chamber~
+All four walls seem to be made of a dull red flame that reaches up to the
+roof and licks at the dark metal there.  With all the fire you would think
+light would not be a problem but a multitude of twisting shadows seem to
+form.  Floating before the northern wall a mighty chair crafted from the
+same dark metal as the rest of the building has been left.  In the center of
+the ceiling a massive chain hangs down falling down into the depths below
+due to a large oval opening in the floor, set below the chain.  
+~
+0 1048584 0
+D5
+~
+~
+~
+0 0 19094
+M 0 H 0
+S
+#19087
+The Pit~
+Each of the seven walls of this room seems to have a single word
+inscribed upon them.  An unseen force seems to prevent you from falling into
+a flaming inferno that rages below your feet.  The walls seem too smooth for
+you to be able to gain any form of grip upon them.  The only way out seems
+to be if you can fly upwards.  
+~
+0 12 0
+E
+seventh~
+The word temprence has been written upon this wall in letters of fire.  
+~
+E
+sixth~
+Upon the sixth wall the word prudence has been placed in glowing letters.  
+~
+E
+fifth~
+Two words have been written upon this wall in letters of fire, the word
+love first then the word charity second.  
+~
+E
+fourth~
+The word justice has been placed upon this wall in letters of fire.  
+~
+E
+third~
+The word Hope has been inscribed upon this wall in letters of fire.  
+~
+E
+second~
+The word fortitude has been inscribed in glowing letters.  
+~
+E
+first~
+The word faith has been inscribed here in glowing letters.  
+~
+M 0 H 0
+S
+#19088
+The Stairs of Souls Lament~
+These stairs seem to stretch with out end, slowly curving its way around
+the walls of the tower.  A mournful wail reaches your ears here seeming
+louder the closer to the top of the tower you are.  Spheres of red fire
+float about casting shadows upon the dark metal walls of this tower.  
+~
+0 1048584 0
+D4
+~
+~
+~
+0 0 19082
+D5
+~
+~
+~
+0 0 19075
+M 0 H 0
+S
+#19089
+The Stairs to The Garden~
+The very air is a little to hot for comfort here and looking down through
+the center of the seemingly endless spiraling stairs you can see a possible
+course for the heat, a great pit of flames.  Dark shadows flit around the
+walls seeming the creation of the balls of red fire that float about this
+stair way.  
+~
+0 1048584 0
+D4
+~
+~
+~
+0 0 19083
+D5
+~
+~
+~
+0 0 19076
+M 0 H 0
+S
+#19090
+Silent Stairs~
+The only sound that can be heard are those made by you or another moving
+upon these stairs.  Red orbs of fire float in the open center of the
+seemingly endless spiraling stairs.  Dark metallic steps seem to grow from
+dark metallic walls leading both up and down wards from here.  
+~
+0 1048584 0
+D4
+~
+~
+~
+0 0 19085
+D5
+~
+~
+~
+0 0 19080
+M 0 H 0
+S
+#19091
+The Stairs to Temptation~
+Dark metal stairs stretch both up and down of here seeming with out any
+end.  A strange melody reaches your ears from some where above, not
+unpleasant but strange seeming other worldly in nature and composition.  To
+this music orbs of red fire seem to move in time casting shadows upon the
+walls that seem to dance.  
+~
+0 1048584 0
+D4
+~
+~
+~
+0 0 19084
+D5
+~
+~
+~
+0 0 19079
+M 0 H 0
+S
+#19092
+Upon A Great Chain~
+The chain seems to stretch onwards with out end into the darkness,
+swaying with each movement of any person upon it.  Infrequently orbs of
+scarlet fire float giving just enough light to see a few feet.  All around
+the seeming endless dark presses in on you.  The chain seems easier to climb
+then you would have imagined, due to the great size of it almost like a rope
+ladder.  
+~
+0 1048584 0
+D4
+~
+~
+~
+0 0 19093
+D5
+~
+~
+~
+0 0 19081
+M 0 H 0
+S
+#19093
+Upon A Great Chain~
+Creaking and swaying with each little movement upon it a great chain
+stretches upwards and downwards from you here.  All around darkness presses
+in, broken every now and then by a faintly glowing orb of red fire that
+floats in the gloom.  Every now and then it seems almost like someone or
+something has touched you or brushed against you, movement seems to
+happening all around but always just on the edge of your vision.  
+~
+0 1048584 0
+D4
+~
+~
+~
+0 0 19094
+D5
+~
+~
+~
+0 0 19092
+M 0 H 0
+S
+#19094
+Upon A great Chain~
+A flickering crimson glow can just be made out through the gloom above
+you.  All about you darkness presses in like a shroud.  At the edge of your
+vision movement can be detected but if you turn your head its gone.  The
+very air around the great chain seems to snicker and whisper to its self,
+not loud enough to hear clearly but not quiet enough to be ignored.  Ever
+now and then the chain seems to creak and groan all on its own.  
+~
+0 1048584 0
+D4
+~
+~
+~
+0 0 19086
+D5
+~
+~
+~
+0 0 19093
+M 0 H 0
+S
+#19095
+Shadar Altar~
+All light seems to be sucked into the pitch black walls of this chamber,
+except for an unnatural glow that emits from a slab of pure dark metal that
+floats in the center of the room.  Upon the roof and each of the four walls
+a sigil of power is crafted in the same metal as the altar.  Looking
+carefully at each you see the signs of earth, air, fire, water and spirit
+are shown backed by something else, something less wholesome.  Twin pillars
+of dark fire burn at either side of the door, somehow lighting without
+light.  The only visible exist is to the south.  
+~
+0 1056776 0
+D2
+~
+~
+~
+1 0 19096
+M 0 H 0
+S
+#19096
+A Silent Chamber~
+Metal stairs wind there way down from a trap door set into the roof of this 
+chamber.  Chairs sit in a ring in the center of this room around a fire that 
+seems to burn without fuel.  The blackness of the walls seems to mute and 
+subdue any sound that is produced in this area.  To the north a set of 
+double doors can be seen leading to who knows where?  There is something 
+rather strange about the southern wall.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 19095
+D2
+~
+~
+~
+1 0 19097
+D4
+~
+~
+~
+1 0 19078
+M 0 H 0
+S
+#19097
+A Cell Within the Gauntlet~
+The metal walls are barren of all decoration but do seem to be inset with 
+several sets of manacles, designed for prisoners of different sizes.  
+Pillars of black flame stretch between the ceiling and floor, casting an 
+eerie glow over this expanse.  Due to this strange illumination, it is easy 
+to see several tables full of painful-looking tools as well as a few racks.  
+It is easy to see from this side that the northern wall has been made into a 
+door that is cleverly hidden from the preceding chamber.  
+~
+0 1056776 0
+D0
+~
+~
+~
+1 0 19096
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 19060 0 1
+D 0 19074 0 1
+D 0 19074 1 1
+D 0 19074 2 1
+D 0 19074 3 1
+D 0 19075 1 1
+D 0 19076 3 1
+D 0 19077 0 1
+D 0 19077 2 1
+D 0 19078 2 1
+D 0 19078 5 1
+D 0 19095 2 1
+D 0 19096 0 1
+D 0 19096 2 1
+D 0 19096 4 1
+D 0 19097 0 1
+M 0 19061 10 19060 10
+M 0 19061 10 19062 10
+M 0 19061 10 19065 10
+M 0 19061 10 19068 10
+M 0 19061 10 19070 10
+M 0 19061 10 19071 10
+M 0 19061 10 19072 10
+M 0 19052 3 19076 10
+M 0 19052 3 19081 10
+M 0 19053 1 19082 10
+O 0 19051 0 19083
+O 0 19052 0 19083
+P 0 19053 0 19052 10
+P 0 19053 0 19052 10
+P 0 19053 0 19052 10
+M 0 19050 1 19084 10
+E 0 19057 0 0
+M 0 19051 1 19084 10
+E 0 19059 0 16
+E 0 19063 0 0
+O 0 19054 0 19085
+M 0 19061 10 19085 10
+O 0 19086 0 19086
+O 0 19064 0 19086
+M 0 19061 10 19086 10
+M 0 19052 3 19091 10
+O 0 19056 0 19095
+O 0 19095 0 19095
+O 0 19099 0 19095
+O 0 19096 0 19096
+M 0 19061 10 19096 10
+O 0 19070 0 19097
+O 0 19050 0 19097
+M 0 19062 1 19097 10
+M 0 19056 1 19097 10
+E 0 19060 0 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,480 @@
+#AREADATA
+Name { ALL } BrysKar Tortuguero Mansion~
+Builders Brysaar~
+VNUMs 14550 14580
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#14550
+Mansion Guard Tortuguero~
+a mansion guard~
+This guard stands at attention, ready to protect the Baron of Tortuguero and his home.
+~
+This elven guard stands before you dressed in full battle armor.  He is
+tall and well built, slightly larger than the average elf.  His silver hair
+is pulled back into a pony tail and he watches his surroundings critically
+with his pale green eyes.  He holds a large broadsword in his hands with the
+tip resting on the floor, and looks extremely adept in its use.  He watches
+you warily upon your entrance but makes no other movement.  
+~
+unique~
+ABc DFHJOVc 650 0
+95 0 12d1182+3558 95d10+100 6d10+29 digestion
+-30 -30 -30 -25
+0 A B 0
+(null) (null) female 427
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#14550
+key treasury~
+the key to the Tortuguero Mansion Treasury~
+The key to the Tortuguero Mansion Treasury is here.~
+unknown~
+key W AO
+0 0 0 0 0
+0 5 0 P
+#14551
+key tortuguero door~
+the key to Tortuguero Mansion~
+The key to Tortuguero Mansion lies here.~
+unknown~
+key W A
+0 0 0 0 0
+0 0 1 P
+#14552
+Large Broadsword~
+a large broadsword~
+This large broadsword looks extremely dangerous. The serrated edge appears to be razor sharp.~
+unknown~
+weapon 0 AN
+sword 13 14 slice FJ
+95 30 475 P
+#14553
+Leather Couch~
+a leather couch~
+This large couch of draconic size appears to be very comfortable.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#14554
+Table~
+an oaken table~
+This large oaken table has been polished to a brilliant shine.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#14555
+gold~
+some scattered gold~
+Gold has been scattered across the floor, littering it with a shiny brilliance.~
+unknown~
+money R A
+DHIJM 0 0 0 0
+0 500 0 P
+#14556
+Draconic Bed~
+a bed of draconic size~
+This bed is massive and of draconic sizes. The thick covers are turned back, revealing silk sheets underneath.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#14557
+Canopy Bed~
+a large canopy bed~
+A large and comfortable looking canopy bed.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#14550
+The Mansion Entrance~
+You find yourself located in a vast hallway of draconic size.  The dark
+green walls are decorated with various pieces of armor and weaponry, each
+polished to a brilliant shine and well taken care of.  Mounted to the wall
+between the various items, two large paintings have been placed, one of
+Egami, and one of Logan.  The high ceiling is graced with the presence of a
+single chandelier, the ambient and soft light cast down reflects from the
+highly polished floor to flood the room with a gentle luminescence.  A heavy
+oak door to the east leads out to the streets of Tortuguero, while to the
+north a large staircase is visible.  
+~
+0 8 0
+E
+logan painting~
+The painting of Logan is unique in all aspects, as it was crafted by one
+who is a master at their profession, and seemed to actually capture Logan
+himself into the canvas.  The artwork itself is surrounded in an ornately
+crafted golden frame, and shows a heavily muscled dragon covered in black
+scales.  His body is protected by a set of gleaming armor, and he holds his
+weapons in his hands, looking extremely formidible and proud.  Attached to
+the bottom of the frame, directly under the painting, a small plaque with
+the words 'Logan' written on it can be seen.  
+~
+E
+egami painting~
+The painting of Egami is unique in all aspects, as it was crafted by one
+who is a master at their profession, and seemed to actually capture Egami
+himself into the canvas.  The artwork itself is surrounded in an ornately
+craged golden frame, and shows a large blue dragon.  His body is covered in
+a dark robe, which stands in a sharp contrast with the white hair which
+flows down from his head.  A mystical power can be seen crackling in his
+eyes, though they lack anything which would make him appear dangerous. 
+Attached to the bottom of the frame, directly under the painting, a small
+plaque with the words 'Egami' written on it can be seen.  
+~
+D0
+~
+~
+~
+0 0 14551
+M 0 H 0
+S
+#14551
+A Grand Hallway~
+Stretching from the north to south, this draconic sized hallway links the
+lower rooms together.  Hanging from the high ceiling above, a single
+chandelier provides gentle illumination in your surroundings.  The dark
+green walls are decorated with a variety of weaponry, each hung in pairs and
+crossed.  The glossy wooden floor is kept shining brilliantly, aiding in the
+diffusion of the overhead illuminesence.  A massive staircase is visible to
+the north, and large double doors made of oak can be seen to the east and
+west.  South of here, the hallway continues to a dead end.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 14552
+D1
+~
+~
+~
+1 0 14558
+D2
+~
+~
+~
+0 0 14550
+D3
+~
+~
+~
+1 0 14562
+M 0 H 0
+S
+#14552
+Before a Staircase~
+This grand hallway ends at the base of the giant staircase that dominates
+the northern wall.  Built of darkly stained oak wood, it is a magnificent
+piece of work in and of itself.  A closed doorway to the west leads into a
+bustling kitchen, which seems to always have delicious smells wafting out. 
+To the east, a heavy looking door with a complex lock is visible.  Looking
+upwards, the second floor of the mansion can be seen, while the hallway runs
+to the south.  
+~
+0 8 0
+D1
+~
+~
+~
+3 14550 14561
+D2
+~
+~
+~
+0 0 14551
+D3
+~
+~
+~
+1 0 14559
+D4
+~
+~
+~
+0 0 14553
+M 0 H 0
+S
+#14553
+Second Floor Landing~
+Your are on the second floor landing at the top of the staircase.  A
+single railing runs from the edge of the landing to the top of the
+staircase, to keep accidents from happening.  The view offered of the lower
+floor is magnificent as the hallway spreads out towards the south.  A short
+hall north of here is decorated with dark green walls and white carpeted
+floor, leading to the other rooms of the mansion.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 14554
+D5
+~
+~
+~
+0 0 14552
+M 0 H 0
+S
+#14554
+The Hallway Between the Chambers~
+This hallway is decorated with dark green walls and a white carpeted
+floor.  Single oaken doors grace the east and western walls, leading the way
+into the guest bedrooms.  A large double door crafted of oak to the north
+shows the way into the barons personal chamber.  South of here, a large
+staircase is visible.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 14555
+D1
+~
+~
+~
+1 0 14556
+D2
+~
+~
+~
+0 0 14553
+D3
+~
+~
+~
+1 0 14557
+M 0 H 0
+S
+#14555
+The Baron's Chamber~
+Plush white carpeting covers the floor of this airy chamber.  The dark
+green walls are decorated with several pleasant pictures of the beach, and a
+large window over the draconically sized bed to the north.  The bed itself
+is covered in a thick comforter which as been turned back, and silk sheets
+are plainly visible underneath.  The pillows themselves are large and plush,
+covered in a silk case.  A large fireplace has been built out of the western
+wall, providing warmth and a cheery illumination to the room.  A large
+chandelier overhead offers pleasant lighting in this room, and the only exit
+visible is double oaken doors to the south.  
+~
+0 8 0
+D2
+~
+~
+~
+1 0 14554
+M 0 H 0
+S
+#14556
+A Guest Chamber~
+This chamber has been decorated as a guest bedroom for visitors to use. 
+It is decorated with dark green walls and plush white carpeting.  A large
+canopy bed has been arranged against the eastern wall, made up with
+expensive looking comforters and sheets.  A large wardrobe is the only other
+piece of furniture visible, and it has been placed against the southern
+wall.  A fireplace graces the northern wall, providing heat and
+illumination.  A single oaken door to the west leads the only way out.  
+~
+0 8 0
+D3
+~
+~
+~
+1 0 14554
+M 0 H 0
+S
+#14557
+A Guest Chamber~
+This chamber has been decorated as a guest bedroom for visitors to use. 
+It is decorated with dark green walls and plush white carpeting.  A large
+canopy bed has been arranged against the western wall, made up with
+expensive looking comforters and sheets.  A large wardrobe is the only other
+piece of furniture visible, and it has been placed against the southern
+wall.  A fireplace graces the northern wall, providing heat and
+illumination.  A single oaken door to the east leads the only way out.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 14554
+M 0 H 0
+S
+#14558
+A Grand Sitting Room~
+This high vaulted room is decorated much in the same way as the rest of
+this large mansion.  Large decorative suits of armor and weaponry hang from
+the north and south walls, contrasting almost perfectly with the dark green
+decor.  The highly polished wooden floor stretches from wall to wall,
+reflecting the ambient light from the chandelier overhead and the roaring
+fireplace which takes up the eastern wall in all of its entirety.  The floor
+is broken only by a large rug which is placed directly under the chandelier.
+Two large couches covered in leather have been placed at either end, an
+oaken table has been placed between the two couches to seperate them and
+give a place to set things.  Double doors to the west lead the only way out
+of this room.  
+~
+0 8 0
+D3
+~
+~
+~
+1 0 14551
+M 0 H 0
+S
+#14559
+A Grand Kitchen~
+A single-pane window that spans the entire width of the western wall
+permits a good amount of natural light in this kitchen, despite the
+lace-covered velvet that serves as the curtains.  Underneath the large
+window, there is a sink with silver fixtures built into the counter that
+also runs the length of the wall.  Hooks and shelving provide spaces for
+pans and the crystalline dishes that are stacked neatly, while the drawers
+built into the marble counter house the flatware.  An oven that looks to be
+either well-taken care of or brand new has been situated in the
+south-eastern corner, apparently large enough to prepare meals for large
+dinner parties.  A single door is visible to the north and a large oaken
+door is visible to the east.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 14560
+D1
+~
+~
+~
+1 0 14552
+M 0 H 0
+S
+#14560
+The Pantry~
+In this room with you now are foods fit for royalty, and they aptly serve
+their purpose.  Cheeses, wines, fruits, berries, steaks, bread, and nearly
+all else seems to be in this place.  The room's scent is like a symphony of
+different flavors, all wafting under your nose at once.  A door to the south
+leads back into the kitchen.  
+~
+0 8 0
+D2
+~
+~
+~
+1 0 14559
+M 0 H 0
+S
+#14561
+The Tortuguero Mansion Treasury~
+The Tortuguero Mansion Treasury is where all of the money from the tax
+collectors is kept.  Normally, the only person allowed access to this room
+is the Baron of Tortuguero himself, but the King of the land may deem it necessary
+to come here from time to time.  The room is rather plain, really, apart
+from the gold that often litters the ground.  The only exit is west, but you are
+cautioned to lock up after yourself, so that bandits or treasure hunters
+cannot enter in your stead.  
+~
+0 8 0
+D3
+~
+~
+~
+3 14550 14552
+M 0 H 0
+S
+#14562
+A Grand Dining Room~
+Towering over your head, the ceilings of this grand dining room has been
+crafted of dark wood.  A large chandelier hangs from the center of the
+ceiling, crafted from what seems to be pure silver.  The candlelight from
+the overhead gives the room a flickering and shadowy feel, though soothing
+and pleasing at the same time.  Dominating the center of the highly polished
+floors, is a large dragon sized table, and is placed directly under the
+overhead lighting.  The dark green walls are decorated with various pictures
+of the shores of Tortuguero, and the room has an overall pleasant feel. 
+Large double doors to the east appear to be the only exit.  
+~
+0 8 0
+D1
+~
+~
+~
+1 0 14551
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 14550 spec_guard
+S
+
+
+
+#RESETS
+D 0 14551 1 1
+D 0 14551 3 1
+D 0 14552 1 2
+D 0 14552 3 1
+D 0 14554 0 1
+D 0 14554 1 1
+D 0 14554 3 1
+D 0 14555 2 1
+D 0 14556 3 1
+D 0 14557 1 1
+D 0 14558 3 1
+D 0 14559 0 1
+D 0 14559 1 1
+D 0 14560 2 1
+D 0 14561 3 2
+D 0 14562 1 1
+M 0 14550 2 14550 10
+E 0 14552 0 16
+O 0 14556 0 14555
+O 0 14557 0 14556
+O 0 14557 0 14557
+O 0 14553 0 14558
+O 0 14554 0 14558
+O 0 14555 0 14561
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

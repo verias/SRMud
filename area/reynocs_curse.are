@@ -1,0 +1,2036 @@
+#AREADATA
+Name {25 45} Nikorn  Reynoc's Curse~
+Builders Nikorn~
+VNUMs 3500 3540
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#3500
+skeleton sentinel~
+a skeletal sentinel~
+A skeleton inspects you with black, eyeless sockets.
+~
+Remnants of putrefied flesh hang loosely from sun-bleached bones,
+fidgeting like cheap jewelry in the faintest breeze.  The being grimly
+echoes the ruin he protects, and only dark, sorrowful yet empty sockets
+indicate some foul possession and not mere warning or bluff.  Dead leaves
+clutter eroded joints, a nest of long grasses entwine two hidden feet, and a
+moist green residue crawls up each leg.  A curiously orange butterfly
+examines its reflection on an icy blade.  
+~
+dragon~
+ABM DFJOTc 0 0
+27 6 9d52+446 27d10+100 3d5+8 sting
+0 0 0 1
+EK IL BEHLQ FI
+(null) (null) male 121
+ABCGHIMVZc ABCDEFGHIJKLOPQUVX large unknown
+#3501
+shadow dancer~
+a shadow dancer~
+A shadow giggles oddly as it dances in the dark.
+~
+The creature seems to have too close an affinity with its environment.  A
+face taut and frightened, with rotten teeth that chatter nervously through
+uncontrollable giggles.  A flimsy hood covers most of the oval-shaped head
+and becomes a full length robe that covers its entire body.  Large, pale
+bony hands extend from sleeves, with nails that are cruel and sharp.  
+~
+unique~
+A QV -500 0
+27 7 9d52+446 27d10+100 3d5+8 slash
+0 0 0 1
+FJU BNP B K
+(null) (null) none 121
+ACGHMV ABCDEFGHIJKMQUV small unknown
+#3502
+rhoc statue knight~
+Rhoc~
+A golden knight by the name of Rhoc aggressively guards his dream.
+~
+Piercingly blue eyes, long golden hair, and features refined with
+unearthly light, make Rhoc an angel of the mortal realm.  He is armoured all
+in gold, a flying eagle emblazoned upon golden plate, eyes burning with rubies.
+But Rhoc is expressionless, all emotion drained from his face, soul stripped
+from the core like a sea robbed of water.  Darkness stirs within one now
+rotten inside, yet the base remains grasp close to the ruins of a dream,
+self-deceit blooms into hate.
+~
+unique~
+ABF VZ -500 0
+32 9 10d63+545 31d10+100 4d5+8 lunge
+-2 -2 -2 0
+CHK N JP H
+(null) (null) female 144
+ACGHMV ABCDEFGHIJKMQUV huge unknown
+#3503
+cat~
+a mutated cat~
+A huge cat trembles with ferocious stored energy.
+~
+Mutated in appearance, this cat is far from normal, although cunning it
+would seem has prevailed.  Terrible green eyes imperiously seek their
+pathetic prey, meticulously scanning every avenue of possibility and
+opportunity.  Breathing in the strength of evil around it, the cat has
+elevated itself to new levels of predatory power.
+~
+cat~
+A VZ -200 0
+25 6 8d48+400 25d10+100 3d5+7 slash
+0 0 0 2
+FH NP BI R
+(null) (null) either 112
+AGV ACDEFHJKQUV medium unknown
+#3504
+reynoc man~
+Reynoc~
+Old, emaciated Reynoc sits here, his sombre gaze fixed upon the hidden.
+~
+A lined face, whipped and lashed by countless years of disturbance, yet
+which shows no sign of weariness; a posture relaxed far beyond anxiety,
+confusion or disarray, yet whose strength is swift, sure and serious; though
+near-defeated, Reynoc is a power beyond worldly comprehension.  Calm grey
+eyes shimmer like iridescent jewels, holding no contamination of loss, fear
+or doom.  Silver, wispy hair falls long, joining a beard and cascading to
+the ground.  Reynoc appears emaciated and starved, yet an aura of power
+quells all thoughts of near-death.  A dark blue cloak, decorated with golden
+stars, silver galaxies, and archaic runes, is laid out long behind him.  
+~
+human~
+ABNRW CDEFHV 1000 0
+50 13 10d167+1149 50d10+100 5d6+15 whip
+-21 -21 -21 -5
+0 BCDINPQ HJ 0
+sit sit male 225
+AHMV ABCDEFGHIJK medium unknown
+#3505
+laraessa thief~
+Laraessa~
+Laraessa the Thief wanders the area, planning her next move.
+~
+Laraessa stands out prominently against her dank surroundings, her beauty
+greatly amplified in a place otherwise silent of the commodity, blue eyes
+wide and frightened in contemplation of her impending struggle.  Well
+prepared for her raid, two imposing swords are strapped tightly to her back,
+and a medley of knives in all shapes and sizes upon her front.  Plundering
+treasure is this time forgotten, as she quests not for wealth in gold or
+self-esteem, but for her lost, yet never forgotten, love.  He is said to
+inhabit Reynoc's cursed walls, thus Laraessa's doom with Rhoc's has been
+ensnared.  
+~
+human~
+AN P 700 0
+35 9 10d76+654 35d10+100 4d6+9 slice
+0 0 0 0
+BKNS KL BD H
+(null) (null) either 157
+AHMV ABCDEFGHIJK medium unknown
+#3506
+mouse~
+a white mouse~
+A tiny white mouse darts fearfully around the room.
+~
+The tiny, albino mouse clambers timidly and erratically about, frantic
+pink eyes desperately seeking escape.  Its long bald tail is curled loosely
+round an iron key, which makes a distinct rattling sound as it scrapes
+against the floor.  The mouse seems excessively frightened, as though
+pursued by some terrible foe.  
+~
+rabbit~
+AH V 150 0
+24 1 8d46+378 24d10+100 3d5+5 crush
+-4 -4 -4 2
+FH 0 0 0
+(null) (null) none 108
+AGV ACDEFHJKP medium unknown
+#3507
+white mouse~
+a white mouse~
+A tiny white mouse darts fearfully around the room.
+~
+The tiny, white mouse clambers timidly about, frantic eyes desperately
+seeking escape.  The mouse seems excessively frightened, as though pursued
+by some terrible foe.
+~
+rabbit~
+AH 0 0 0
+24 0 8d46+378 24d10+100 3d5+5 crush
+-4 -4 -4 1
+FH 0 0 0
+(null) (null) none 108
+AGV ACDEFHJKP medium unknown
+#3508
+mheleb dark being~
+Mheleb D'Uhre~
+A dark, featureless being is stationed here, awaiting attack.
+~
+With death-like stillness, Mheleb is confusable for a foreboding statue,
+and a visor-less helm guards Mheleb's face from the sighted.  Chains, the
+metal twisted and broken where torn from fixtures, hang loosely from Mheleb's
+gauntleted wrists.  Though covered in a time-thickened layer of rock dust,
+unmistakable muscles bulge with berserk power.  So faint as to be lost into
+emptiness, the sound of rasping, sneering, maniacal laughter echoes eerily
+inside Mheleb's helm.  
+~
+human~
+AB a -400 0
+47 12 10d142+1039 47d10+100 5d5+15 lunge
+-8 -8 -8 -6
+IJN ABP NQ CS
+(null) (null) female 211
+AHMV ABCDEFGHIJK medium unknown
+#3509
+moloc reptilian beast~
+the Great Moloc~
+An {RENORMOUS{x, worm-like, reptilian beast fills the cavern.
+~
+Perhaps a far distance relation to the dragon, Moloc is larger than the
+eye grants belief.  Fattened by the slimy whelps that crawl over its huge,
+scaly body the Moloc fills almost the entire cavern, making it hard to
+understand how the beast ever managed to squeeze itself down the comparably
+thin tunnel, though time here is as befuddled as the beings existing within.
+Like an enormous intestine, its wormy length coils in a mass behind an
+ancient reptilian head, sometimes squirming sickeningly into a more
+comfortable position in the goo-filled nest.  Gigantic yellow eyes glow with
+blinding animal shine, fire smouldering from a greasy prehistoric snout, and
+acidic green fluid dribbles from sharp white teeth that the Moloc now bares
+with venomous hostility.  
+~
+wyvern~
+ABQ DFT -900 0
+40 10 10d98+804 40d10+100 5d8+19 blast
+-27 -27 -27 -11
+CFH L D S
+(null) (null) male 180
+ABGZc ACDEFHJKOPQUVX giant unknown
+#3510
+puzzled knight~
+a puzzled knight~
+A knight wanders the area, staring with a blank, puzzled look.
+~
+His chainmail like an empty shell, the knight inside is silent and
+disoriented, although uncaring and content to be puzzled without losing the
+tiniest fragment of composure.  His arms hang loosely at each side,
+unprepared for action, bright blue eyes scanning this way and that,
+searching for something lost and entirely forgotten, examining each object
+with laid-back concern.  Having walked relentlessly these same golden acres
+for countless years, the knight's mind seems to have overflowed, for moments
+later inspection of the same ridiculous atrocities returns with equaled
+curiosity.  The Knight regards other beings as he does his surroundings, his
+brain hollow but for base instincts, a callous joke.  
+~
+human~
+A W 0 0
+45 11 10d128+969 45d10+100 5d5+14 slice
+-7 -7 -7 -5
+CFKU 0 0 0
+(null) (null) female 202
+AHMV ABCDEFGHIJK medium unknown
+#3511
+slime puddle~
+a slime puddle~
+A puddle of slime grins warmly with an adorable smile.
+~
+Blending irretrievably with its sloppy surroundings, only two fluidic
+green eyes and a roughly semicircular orifice can be perceived within its
+jellied depths.  Friendly, the slime puddle does not seem to hold evil
+intention, and seems content with its revolting existence.  Grinning happily
+with gurgling glee, it shows little wariness and even less intelligence.  
+~
+unique~
+A Tc 500 0
+34 11 10d73+626 34d10+100 5d7+16 pierce
+-11 -11 -11 0
+U 0 L HS
+(null) (null) male 153
+ABCGHMc ABCDEFGHIJKMN medium unknown
+#3512
+slime hermit~
+a slime hermit~
+An outcast slime pool spews forth an angry fountain of ooze.
+~
+Grumpy and isolated, the slime pool glows green with displeasure. 
+Sluggish yet sure-footed with age and wisdom, the slime hermit bristles
+spitefully at everything nearby.  Its floating jelly mouth is twisted and
+grim, rasping and spitting offensively.  Crawling along the slowly depleting
+slime, it tries to blend its angry, luminous features into the colder,
+rougher rock.  
+~
+unique~
+AF T -300 0
+36 12 10d80+683 36d10+100 4d6+9 pierce
+-4 -4 -4 -2
+BCF LQ FGL HS
+(null) (null) male 162
+ABCGHMc ABCDEFGHIJKMN medium unknown
+#3513
+darkness beast~
+a beast of darkness~
+A beast bites and snarls from the shadows with sharp, flailing limbs.
+~
+Forged of darkest nightmare, each curve of its image is drawn to
+unnatural perfection.  The beast seems designed to represent a dog, its coat
+lacquered with a black that reflects no light, absorbing all with iniquitous
+greed and emanating darkness.  Its body cold, smooth and hard without
+defect, the beast is sleek and strong as a lump of animated lead.  Long
+deadly claws curve like hooks, slitting the ground where each ugly point
+sinks.  Two eyes like red-hot coals beam brightly from the uneasy shadows
+with bottomless hatred and malevolence.  
+~
+dog~
+AF 0 -600 0
+45 15 10d128+969 45d10+100 5d5+14 sting
+-7 -7 -7 -5
+BHM EHKS G N
+(null) (null) male 202
+AGV ACDEFHJKPUV medium unknown
+#0
+
+
+
+#OBJECTS
+#3500
+bone key~
+a bone key~
+A long, thin, white bone key rests here, glowing.~
+unknown~
+key 0 A
+0 0 0 0 0
+1 1 0 P
+#3501
+frostbite~
+{CFrostbite{x~
+A blue longsword, named 'Frostbite', lies here.~
+unknown~
+weapon A AN
+sword 7 7 crush B
+26 8 130 P
+#3502
+ash pile~
+a pile of ash~
+The pile of thin grey ash has no identifiable qualities.~
+unknown~
+container R 0
+20 0 0 0 0
+0 0 0 P
+#3503
+ivory ring~
+an ivory ring~
+A white, ivory ring inscribed with the golden word 'belief' lies here.~
+unknown~
+treasure L AB
+0 0 0 0 0
+25 0 250 P
+A
+1 1
+#3504
+shadow robe~
+a shadow robe~
+A slick black robe seems to vanish into shadow where it rests.~
+unknown~
+armor CM AK
+C C C A 0
+27 20 135 P
+A
+18 1
+A
+19 1
+#3505
+column~
+a column of water~
+A long, thin column of water.~
+unknown~
+fountain R 0
+-1 -1 'water' 0 0
+0 0 0 P
+#3506
+blue statue~
+a {Bblue{x statue~
+The blue statue of a warrior sings balefully here.~
+unknown~
+portal R 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 EFHIKL 0
+0 0 0 P
+#3507
+human corpse~
+a dead human~
+A shredded human lies dead here, embedded with shards of glass.~
+unknown~
+container 0 0
+100 0 0 0 0
+0 160 0 P
+#3508
+golden key~
+a golden key~
+An elaborate golden key, covered in icy residue, rests here.~
+unknown~
+key B A
+0 0 0 0 0
+0 0 0 P
+#3509
+stew~
+a bowl of stew~
+A bowl of continually hot beef stew lies here.~
+unknown~
+food 0 A
+DE 0 0 0 0
+1 0 2 P
+#3510
+platemail eagle~
+some plate mail of the eagle~
+A suit of golden platemail lies here, emblazoned with a ruby-studded eagle. ~
+unknown~
+armor AS AD
+AC AC AC A 0
+32 40 160 P
+A
+18 2
+#3511
+tiny key~
+a tiny key~
+A tiny key lies here, made of dull stained iron.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#3512
+obsidian key~
+an obsidian key~
+A key carved of jet-black obsidian rests here.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 1 10 P
+#3513
+scarlet robe~
+a {Rscarlet{x robe~
+A silken robe rests here, coloured with a brilliant scarlet.~
+unknown~
+armor AK AK
+AC AC AC A 0
+35 3 175 P
+A
+4 1
+A
+3 1
+#3514
+crystal ball prison~
+a {Wcrystal{x {Cprison{x~
+A minute pixie, encased within a crystal ball of containment, lies here.~
+unknown~
+container A AR
+50 0 0 0 0
+38 4 2850 P
+A
+19 1
+A
+18 1
+#3515
+traptriggercovering~
+covering trap~
+Covering trap.~
+unknown~
+warp_stone R 0
+CH G 0 0 0
+0 0 0 P
+E
+!trap!~
+{WSpectral light shivers throughout as a benevolent fragment of Rhoc's soul is awoken.{x
+{RBEGONE FOOL IF YOU WISH TO LIVE!{x
+~
+#3516
+slime ooze~
+a globule of slime~
+A pool of aromatic slime enraptures the senses.~
+unknown~
+pill HR A
+30 'frenzy' 'pass door' 'chill touch' 'reserved'
+30 0 900 P
+#3517
+golden axe~
+a {Ygolden{x axe~
+A formidable axe, shining an exuberant gold lies here.~
+unknown~
+weapon 0 AN
+mace 6 10 wrath 0
+31 20 155 P
+A
+1 1
+#3518
+dagger piercing~
+the {Cdagger{x of {Bpiercing{x~
+An elegant dagger charms the senses with its sharp and deadly blade.~
+unknown~
+weapon 0 AN
+bow 5 14 crunch D
+35 6 175 P
+#3519
+kromezian arm wraps~
+some kromezian arm wraps~
+A bundle of kromezian arm wraps lie here.~
+unknown~
+armor 0 AS
+AC AC AC A 0
+35 2 175 P
+#3520
+samite jerkin~
+a samite jerkin~
+A jerkin of soft, strong samite rests lightly here.~
+unknown~
+armor 0 AD
+AC AC AC A 0
+35 4 175 P
+#3521
+ruby eagle anklet~
+a ruby anklet~
+An anklet adorned with an eagle centered ruby lies here.~
+unknown~
+protect 0 AU
+D D D B 0
+31 1 485 P
+A
+2 1
+#3522
+gauntlets eagle~
+some eagle gauntlets~
+A pair of golden gauntlets lie here, emblazoned with a wing-spread eagle.~
+unknown~
+armor 0 AH
+AC AC AC A 0
+31 3 155 P
+A
+18 1
+A
+17 1
+#3523
+tower shield~
+an {Ye{Ga{Rg{Cl{Me{x tower shield~
+A large, protective tower shield lies here, ablaze with the vibrant eagle.~
+unknown~
+armor 0 AJ
+AC AC AC A 0
+31 8 155 P
+A
+5 1
+#3524
+sinister khopesh~
+a {Wsinister{x khopesh~
+A khopesh lies here, its sickle blade stretched in a sinister curve.~
+unknown~
+weapon A AN
+sword 9 10 slice C
+47 8 235 P
+#3525
+sapphire surcoat~
+a {Csapphire{x surcoat~
+A lavish surcoat gleams with heavenly sapphire, decorated with arcane symbols.~
+unknown~
+armor B AD
+ABC ABC ABC B 0
+47 6 235 P
+A
+5 2
+#3526
+bone armor~
+a suit of sun-bleached bone armor~
+A pile of bone armor lies here, bleached brilliant white by the sun.~
+unknown~
+armor 0 AD
+C C C A 0
+27 10 135 P
+A
+2 1
+#3527
+shiny chain mail~
+a suit of shiny chain mail~
+A suit of seemingly unused chain mail rests in a shiny pile here.~
+unknown~
+armor 0 AD
+ABC ABC ABC B 0
+45 10 225 P
+#3528
+hefty broadsword~
+a hefty broadsword~
+A huge cumbersome broadsword glints coldly along its plain metal length.~
+unknown~
+weapon 0 AN
+sword 19 4 lunge 0
+45 16 225 P
+#3529
+dark sceptre~
+the {Kdark{x sceptre of Aljarice~
+A sceptre of spiralling ebony lies here, a dark, skull-shaped jewel at the summit.~
+unknown~
+wand ABCJT AN
+40 3 3 'continual light' 0
+40 1 200 P
+#3530
+table~
+a gashed table~
+A table with a hollow exposed by a fierce gash along its breadth.~
+unknown~
+container R 0
+100 0 0 0 0
+0 0 0 P
+#3531
+locker~
+a locker~
+A locker, partially revealed by a torn and tattered painting.~
+unknown~
+container R 0
+100 BCD 3533 0 0
+0 0 0 P
+#3532
+pile glass~
+a pile of glass~
+Shards of broken glass disguise a much shinier object at their centre, twinkling aesthetically in the faintest light.~
+unknown~
+container R 0
+100 0 0 0 0
+0 0 0 P
+#3533
+bronze key~
+a bronze key~
+A sparkling bronze key, untouched for countless years, lies here.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#3534
+ivory key~
+an {Wivory{x key~
+An elegant key made of smooth, ancient ivory lies here.~
+unknown~
+key B A
+0 0 0 0 0
+0 0 0 P
+#3535
+lead claw~
+a lead claw~
+A long, sinister claw, made of flawless black lead, lies here.~
+unknown~
+weapon P AN
+bow 19 4 lunge J
+45 9 225 P
+#3536
+chalk circle~
+the chalk circle~
+A perfect circle, scrawled into the rafters with chalk.~
+unknown~
+portal K 0
+0 0 0 DEFHIKL 0
+0 0 0 P
+#3537
+shard glass~
+a red glass shard~
+This shard of glass looks quite sharp.~
+unknown~
+weapon 0 AN
+bow 4 16 lunge D
+32 0 0 P
+#0
+
+
+
+#ROOMS
+#3500
+Gateway of a Ruin~
+Piles of weathered and broken stone make up the skeleton of what could
+once have been a magnificent building.  Ghosts of character linger balefully
+upon the tattered walls, dreaming of better years and steeping the present
+in sorrow.  Creepers chew hungrily at cracks like wounds, scraping away
+memories with their careless claws.  The ruin retains its presence by echoes
+of what once was, a place of wonder, yet the dazzling architecture is alien
+to a forgetting world.  Light does not penetrate the gaping holes that time
+has left, leaving only shadows to guess upon.  A heavy power keeps the
+secrets of the ruin alive, insisting caution.  The stench of rotting flesh
+reverberates in the atmosphere.  
+~
+0 0 2
+E
+creeper~
+The creeper is tough and sturdy, forming a natural ladder up this side of
+the ruin.  
+~
+E
+gateway~
+The gateway is surprisingly intact, and where the wood has cracked and
+warped no hint of beyond is betrayed.  A circular iron plate is fixed
+strongly at the centre, and upon which a symbol of exquisite intricacy is
+engraved.  
+~
+D1
+A faint grey path curves over a pleasant hillside, quiet countryside
+blooming either side.  
+~
+~
+~
+0 0 16072
+D3
+~
+gateway~
+~
+1 3500 3501
+D4
+Crawling hungrily along the bare, cracked stone, the creeper sticks hard
+and strong, the thick vine providing perfect climbing aid.  
+~
+~
+~
+0 0 3502
+M 0 H 0
+S
+#3501
+Inside the Gateway of the Ruin~
+Contrast with the outside world is extreme; the sturdy walls show no
+signs of age or damage.  The dingy room seems lit with shadows, each
+well-defined, fluttering like damned souls a hair's breadth from pardon, in
+the vanishing point of vision.  All is built of bare stone, each cut
+painstakingly to equivalent dimensions.  Two plain, wooden doors link to the
+north and south, a larger more elegant door leads west, and the gateway
+heads back east to the outside.  A thin trail of slime connects the west to the
+south, and a pile of ash dominates the northwestern corner.  The sickly
+odour of burning mingles with stale air.  
+~
+0 9 0
+E
+ash~
+The pile of thin grey ash has no identifiable qualities except for the
+ivory ring that is settled on top.  
+~
+E
+slime~
+The putrid slime seems long evacuated, having rid itself of almost all
+moisture.  The slime crawls sluggishly south of the ash towards the
+corridor.  Oddly, the slime has an almost rosy fragrance.  
+~
+D0
+~
+~
+~
+0 0 3506
+D1
+~
+gateway~
+~
+1 3500 3500
+D2
+~
+~
+~
+0 0 3507
+D3
+~
+~
+~
+1 3534 3519
+M 0 H 0
+S
+#3502
+Upon the Creeper~
+Vile masses of black entropy fill crumbling gaps with questions, licking
+malevolently at the creeper's natural fingers that can only die and wither. 
+Through a narrow, blasphemous hole, the curse has not yet flooded, and
+amidst this jumble of rock and dust the creeper's claws find purchase. 
+Tough, green, impulsive tentacles lead the way west.
+~
+0 4 0
+D3
+An enormous bite has eroded from the western castle walls, and leads into
+a crumbling attic whose roof has near fallen through.  An enormous bite of
+stone has eroded from the eastern castle walls, and leads into a crumbling
+attic whose roof has near fallen through.  
+~
+~
+~
+0 0 3512
+D5
+Crawling hungrily along the bare, cracked stone, the creeper sticks hard
+and strong, the thick vine providing perfect climbing aid.  
+~
+~
+~
+0 0 3500
+M 0 H 0
+S
+#3503
+Music Room~
+Musical conflict showers deafeningly across from each side of the room,
+and seems intent on shaking the curtains of thought.  These symphonies
+originate from immaterial statues, lying to the east, north and west,
+coloured with delirious spectral light, polar blue, emerald green and
+crimson.  Gaudy pink velvet thickly covers the walls and slippery white
+tiles plate the floor.  Oriented carefully amidst these cacophonies of chaos
+a solitary metal chair is placed.  Nearby, a curious whirling disc spouts a
+vertical shaft of glass-like water.  East of the only exit, an exuberant
+candelabra lies smashed and broken, its sharp edges covered in congealed
+blood.  
+~
+0 1036 0
+E
+walls~
+The velvet is soft and spongy, yet fingers leave no lasting impression.  
+~
+E
+tiles~
+The tiles make the disconcerting sound of smashing crystals on impact
+with feet.  
+~
+E
+blue~
+The statue sings a baleful song; a thousand screams of despair fill the
+air with gloom and trepidation.  Phasing clouds of energy form the figure of
+a warrior, imperious eyes glaring red.  Written upon the tiles directly
+beneath, are the words 'Rhoc, The Toy of Hell'.  
+~
+E
+green~
+This statue sings a buoyant song; patterns fold and unfold in a series of
+repeated patterns.  Light cascades to form a being - square headed and
+seated on an unimpressive throne, gazing from his world with a blank,
+soulless expression.  
+~
+E
+emblem~
+A swordsman prepares for the critical strike to a huge slug-like monster.  
+~
+E
+chair~
+Made of various metals, the chair is covered with a thick layer of yellow
+dust, disguising several regal adornments, some broken and twisted sharply
+with use.  Fashioned along the back is what appears to be the family emblem.
+~
+E
+disc~
+In size, the disc is entirely out of proportion with the other
+furnishings, being a hand span wide and hovering peculiarly a foot from
+the ground.  From a hole at the pivot a thin column of water soars high,
+ending halfway from the ceiling in an unnerving refusal to obey law.  
+~
+E
+red~
+This statue sings a demented song, grinding and gnawing in sudden fits
+and bursts.  Light forms a complex sculpture of bristling frosts.  Sharp yet
+fragile tendrils of ice reach out like antennae in random, often impossible,
+directions.  
+~
+E
+candelabra~
+A pool of dried blood links the broken candelabra inextricably with the
+corpse of the dead man.  Strangely, a large fraction of the candelabra is
+missing, cleanly cut, as though deleted from very existence or transferred
+to another.  Shards of glass are strewn all over, the work of some malignant
+force.  
+~
+E
+crimson~
+This statue sings a demented song, grinding and gnawing in sudden fits
+and bursts.  Light forms a complex sculpture of bristling frosts.  Sharp yet
+fragile tendrils of ice reach out like antennae in random, often impossible,
+directions.  
+~
+D0
+~
+~
+~
+0 0 3504
+D2
+~
+~
+~
+0 0 3505
+M 0 H 0
+S
+#3504
+Music Room~
+Almost every attribute of this room is identical to the last, for only
+the blue statue is absent.  Musical conflict showers deafeningly across from
+two sides of the room, and seems intent on shaking the curtains of thought. 
+These symphonies originate from immaterial statues, lying to the east and
+west, coloured with delirious spectral light, emerald green and crimson. 
+Gaudy pink velvet thickly covers the walls and slippery white tiles plate
+the floor.  Oriented carefully amidst these cacophonies of chaos a solitary
+metal chair is placed.  Nearby, a curious whirling disc spouts a vertical
+shaft of glass-like water.  East of the only exit, an exuberant candelabra
+lies smashed and broken, its sharp edges covered in congealed blood.  
+~
+0 12 0
+E
+disc~
+In size, the disc is entirely out of proportion with the room, being a
+hand span wide and hovering peculiarly a foot from the ground.  From a hole
+at the pivot a thin column of water soars high, ending halfway from the
+ceiling in an unnerving refusal to obey law.  
+~
+E
+chair~
+Made of various metals, the chair is covered with a thick layer of yellow
+dust, disguising several regal adornments, some broken and twisted sharply
+with use.  Fashioned along the back is what appears to be the family emblem.
+~
+E
+emblem~
+A swordsman prepares for the critical strike to a huge slug-like monster.  
+~
+E
+green~
+This statue sings a buoyant song; patterns fold and unfold in a series of
+repeated patterns.  Light cascades to form a being - square headed and
+seated on an unimpressive throne, gazing from his world with a blank,
+soulless expression.  
+~
+E
+tiles~
+The tiles make a disconcerting sound of smashing crystals on impact
+with feet.
+~
+E
+walls~
+The velvet is soft and spongy, yet fingers leave no lasting impression.  
+~
+E
+crimson~
+This statue sings a demented song, grinding and gnawing in sudden fits
+and bursts.  Light forms a complex sculpture of bristling frosts.  Sharp yet
+fragile tendrils of ice reach out like antennae in random, often impossible,
+directions.  
+~
+D2
+~
+~
+~
+0 0 3503
+M 0 H 0
+S
+#3505
+Centre of the Northern Corridor~
+Light scintillates explosively through the northern exit, slicing
+viciously through the dull gloom of the corridor.  Grinding echoes of
+nauseating musical uproar pursue thunderously the shafts of light; the
+darkness of the curse-riddled corridor seems far brighter than this looming
+inferno.  The shadows themselves assist the commotion with howls and
+screams, scattering fearfully where light cannot purge.  The corridor
+continues east and west.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3503
+D1
+~
+~
+~
+0 0 3506
+D3
+~
+~
+~
+0 0 3511
+M 0 H 0
+S
+#3506
+East End of Northern Corridor~
+Upon the northern wall hangs a painting, tipped slightly aside in neglect
+and gleaming a lustrous red.  Rubble pervades the air with the musty taste
+of dust, lying in ugly, abandoned piles, deterring examination.  Sparsely
+carpeting the floor, a wealthy rug is stretched in tatters and tears, once
+glorious, now faded and stained in a sad lament.  The corridor continues
+south and west.
+~
+0 9 0
+E
+rug~
+~
+E
+painting~
+The framework of the painting is cracked and flawed, barely surviving the
+hardships of ruin.  The painting inside is however perfectly preserved, but
+seems change its contents as the mood of the ruin swings.  It displays a red
+scorched plain, a horizon of sickly yellow, and a bizarre army of distorted
+apparitions.  
+~
+D2
+~
+~
+~
+0 0 3501
+D3
+~
+~
+~
+0 0 3505
+M 0 H 0
+S
+#3507
+East End of Southern Corridor~
+The corridor grows steadily darker and quieter with distance from the
+gateway, as though plunging downward into a dark abyss rather than merely
+circulating a thinly walled ruin.  Only the incessant dripping of water,
+somewhere beneath, interrupts the depraved silence, filling the atmosphere
+with unease, moisture and anxiety, the darkness bending memories of
+sun-warmed splashes and gurgling fountains into the sinister.  Smooth jet
+walls form a wilderness of hazard, the unconscious doubt and the question of
+self.  Faint vibrations can be felt from the ground, and a warm trail of
+slime links the north to the west.  
+~
+0 9 0
+E
+slime~
+Becoming slowly more sludgy and fresh with distance, the slime continues
+on its way west.  The scent of ooze also increases in enjoyment, smelling
+now of the finest strawberries.  
+~
+D0
+~
+~
+~
+0 0 3501
+D3
+~
+~
+~
+0 0 3508
+M 0 H 0
+S
+#3508
+Middle of Southern Corridor~
+Chaos has preserved a piece of vital history in this room for the ruin's
+hideous tableau; the southern wall is smashed and splintered powerfully into
+a mess of stony fragments.  Warm slime covers each edge, dripping and
+slobbering into an uncomfortable confusion of filth and ooze.  The urge to
+eat the slime is barely resistible, the air filled with its sumptuous aroma,
+and being so viscous and abundant it would seem viable to do so.  The hole
+in the southern wall is roughly circular, forming a jagged passageway south;
+the corridor continues east and west.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 3507
+D2
+~
+~
+~
+0 0 3513
+D3
+~
+~
+~
+0 0 3509
+M 0 H 0
+S
+#3509
+West End of Southern Corridor~
+A warm corner disturbed with many thousands of unique undulations, some
+seeming to echo from far away in all directions, and some seeming to call
+your name requesting help intermittently and successively, as though you are
+somehow close by and able.  Pleas are whispered frantically a finger's width
+from the ear hole, screams of agonizing death lashed full into the face like
+a demonic gale.  Death is a release not permitted in this eerie place. 
+Accompanying the piteous wails glimpses of lost souls and confused beings
+flitter into light and darkness like a candle flame fighting for existence,
+rekindling themselves on the fuel of chaos, focussing visitors' vision upon
+their own worlds, in hope of understanding.  A single door camouflaged into
+the mud-plastered walls leads north and the corridor continues east.  
+~
+0 9 0
+D0
+~
+~
+~
+1 0 3510
+D1
+~
+~
+~
+0 0 3508
+D2
+~
+~
+~
+1 0 3533
+M 0 H 0
+S
+#3510
+A Breach in the Curse~
+Long ago having been the core of servant life, this large room has more
+recently been the centre of the occult.  The western walls, a skin of
+immeasurable thickness, are slightly dispersed.  Partly malformed stone
+still drips with the black essence of unreality, plastered outwards in an
+explosive formation, and glistening with an oily sheen.  A wand, splintered
+roughly in twain, juts halfway from the substance, encased in its vice-like,
+smothering grip.  
+~
+0 9 0
+E
+wand~
+An object of ethereal beauty, the wand glows with a soft silver hue,
+trimmed with finest gold and dazzling jewels.  Inscribed along its length in
+tiny, exquisite letters reads the name 'Laraessa'.  
+~
+D0
+~
+~
+~
+1 0 3511
+D2
+~
+~
+~
+1 0 3509
+M 0 H 0
+S
+#3511
+West End of Northern Corridor~
+Devoid of any ordinary activity, this dismal corner is a swamp of
+forgetfulness; the sentience within the building having misplaced the
+knowledge of its own architecture.  The walls curve outward by an unknown
+pressure, or perhaps discordant with the many, the very stone deranged.  The
+door to the south is oval in shape, coloured with tiny squares of each
+rainbow colour, and enough additional, unrecognisable colour to make the
+sane eye water.  Being the most conspicuous feature of the room, a hand made
+entirely of rough, rugged stone emerges from the upper-west corner, an
+outcry against torment, reaching with demented fervour towards you, seeming
+to shake feverishly with effort even through its stillness, a desperate beg
+for retribution.  
+~
+0 9 0
+E
+door~
+The tiny squares of colour together depict a tall man upon a white mare. 
+All around him, thousands and thousands of humans slowly and stealthily move
+towards the sorrowful man, clothed all in robes of grey.  
+~
+D1
+~
+~
+~
+0 0 3505
+D2
+~
+oval-door~
+~
+1 0 3510
+M 0 H 0
+S
+#3512
+The Lawful Attic~
+A last outpost of order in a place of damnation, this ruined attic seems
+wholly as a ruin should be.  In places, the weatherworn roof has entirely
+caved in, the outer elements given free reign.  Fallen stone has despaired
+of identity, broken, smoothed and soiled, a corpse now allowed to decay in
+sanctity, no longer conjured into half-rotten animation by those of evil
+depravity.  Though sadness fills the room like choking smog, an atmosphere
+of sanity, goodness and deliverance prevails; for deeper than the disorder
+there is a perceptible peace, a beacon beaming from the shallows in a place
+built of pitch.  Shining before you, a perfect circle has been scrawled into
+the rafters with chalk, at the centre an old grey man is seated,
+cross-legged.  Various trinkets are scattered haphazardly around, yet almost
+all is transformed to thin white dust, as though flames have cleansed the
+room of history.  
+~
+0 1032 0
+E
+circle~
+A golden haze fills the chalk circle with a wondrous force, shielding the
+room from entropy and dispelling anger and fear.  
+~
+E
+trinkets~
+The trinkets are of no great value, being merely hunted fragments of
+memories best forgot.  
+~
+D1
+An enormous bite of stone has eroded from the eastern castle walls, and
+leads out to the bare elements, the fingers of an inexorable creeper reach
+tentatively inwards.  
+~
+~
+~
+0 0 3502
+M 0 H 0
+S
+#3513
+A Slimy Tunnel~
+Dipping downwards into deepest gloom the tunnel continues, its dinginess
+absorbing light of every sense.  This breach of the castle's walls seems to
+have occurred proceeding the curse, the very matter of damnation violated
+and pushed aside with enormous power to form this burrow.  The area is very
+small and claustrophobic, yet insisting with unerring pressure to give in
+and be swallowed rather than flee.  The walls are sticky with smothering
+slime that irritates and aggravates the skin, no longer sweet smelling but
+sickly and putrescent.  Where the tunnel becomes a drop, a thick metal
+covering has been installed, glowing with a slight yellow light.  No
+apparent fixtures hold the barrier to the tunnel walls, yet without a key it
+will not budge.  
+~
+0 13 0
+E
+message~
+Dearest Laraessa,
+This barrier is a warning, for if anyone follows me to this terrible
+place that person could only be you.  The monster that lurks beneath this
+grate is powerful beyond belief, and I lost almost all enforcing its
+retreat.  Escaping down this very hole went the fiend, after which I sealed the hole
+with every incantation I knew of to hinder any poor soul from blundering
+straight into Hell.  Each day I search a little further through this maze of
+lost thoughts - but the exits are closed to me and with every step I feel my
+sanity gradually slipping away.  I clutch at my thoughts with all the
+strength that I can muster, but I am engulfed.  Defeated.  My end is written
+here.  I am losing my sanity Laraessa, and I hope with all my being that
+this message finds you before I.  Leave here.  Flee.  Forget.  Live.  
+I cannot separate myself from the darkness much longer, it swallows me.
+Your devoted husband,
+Rhoc
+~
+E
+barrier~
+The covering is made of pure, stainless metal that seems to have melted
+into the tunnel and moulded itself into a barrier.  A message is inscribed
+perfectly and exquisitely upon the front, written also in metal of a light
+shade of blue.  Above the inscription is the keyhole.  
+~
+E
+covering~
+The covering is made of pure, stainless metal that seems to have melted
+into the tunnel and moulded itself into a barrier.  A message is inscribed
+perfectly and exquisitely upon the front, written also in metal of a light
+shade of blue.  Above the inscription is the keyhole.  
+~
+E
+inscription~
+Dearest Laraessa, This barrier is a warning, for if anyone follows me to
+this terrible place that person could only be you.  The monster that lurks
+beneath this grate is powerful beyond belief, and I lost almost all
+enforcing its retreat.  Escaping down this very hole went the fiend, after
+which I sealed the hole with every incantation I knew of to hinder any poor
+soul from blundering straight into Hell.  Each day I search a little further
+through this maze of lost thoughts - but the exits are closed to me and with
+every step I feel my sanity gradually slipping away.  I clutch at my
+thoughts with all the strength that I can muster, but I am engulfed. 
+Defeated.  My end is written here.  I am losing my sanity Laraessa, and I
+hope with all my being that this message finds you before I.  Leave here. 
+Flee.  Forget.  Live.  I cannot separate myself from the darkness much
+longer, it swallows me.  Your devoted husband, Rhoc 
+~
+D0
+~
+~
+~
+0 0 3508
+D5
+~
+covering~
+~
+1 3508 3514
+M 0 H 0
+S
+#3514
+Within the Slimy Tunnel~
+Black matter recedes into the distance above, a thick line encircling the
+tunnel where normal rock and chaos matter meet, neither having power over
+the other, a balance.  Vibrations hum softly through the rock, and the air
+itself is energized into excitement by a source of disturbance far beneath. 
+The walls are very slippery, the only nooks and crannies occupied by equally
+slippery nests of slime.  The tunnel is maddeningly narrow, and the stench
+of the accommodated creatures near unbearable, sludge and faeces sliding
+slowly downwards as from a sewage outlet.  
+~
+0 9 9
+D4
+~
+covering~
+~
+1 3508 3513
+D5
+~
+~
+~
+0 0 3515
+M 0 H 0
+S
+#3515
+Middle of the Slimy Tunnel~
+Bright, green smog unfurls from beneath, curling bleakly upwards towards
+the peak of the gruesome tunnel, but fading even within visible distance. 
+The rock becomes denser, yet the tunnel itself appears more regularly used,
+its sides smooth through layers of ooze.  Abundant nests make the tunnel
+hot and pungent, guttural sounds rumbling noisily from the honeycomb of
+tiny, intricate nesting burrows, some in annoyance and dismay and others in
+pleasure, all blending into an unconcerned commotion.  Darkness is above and
+below.  
+~
+0 9 9
+D0
+~
+~
+~
+0 0 3532
+D4
+~
+~
+~
+0 0 3514
+D5
+~
+~
+~
+0 0 3516
+M 0 H 0
+S
+#3516
+Deep in the Slimy Tunnel~
+As the depth increases the population becomes steadily sparse, only
+grumpy outcasts lurking in the quieter, drearier space.  The air also has
+increased in heat, the claustrophobic walls pressurizing the atmosphere like
+a fiery kiln.  Far, far below flickers of soft light can be observed,
+whereas above an expanse of nothingness serves to invert the normal visual
+perspective.  Every so often, a flat disk of white water-like particles
+sweep upwards through the width of the tunnel and above to the unknown,
+electrifying the senses as they pass.  
+~
+0 9 9
+D4
+~
+~
+~
+0 0 3515
+D5
+~
+~
+~
+0 0 3517
+M 0 H 0
+S
+#3517
+End of the Slimy Tunnel~
+Commotion of light and sound clamours upward from the fast approaching
+conclusion of the drop.  The tunnel is now entirely devoid of life, the only
+sign of above being the slime that slides slowly downwards.  The walls are
+hard smooth rock, persistently and timelessly engineered into a wide
+cylindrical shaft, dropping vertically into the vast cavern below.  Partly
+shrouded by shadow, a beautifully crafted golden shield, covered in bloodied
+ooze, has been embedded into the otherwise featureless tunnel walls, rock
+cracked and broken in a anxious attempt to force past the protruding object.
+~
+0 9 9
+D4
+~
+~
+~
+0 0 3516
+D5
+~
+~
+~
+0 0 3518
+M 0 H 0
+S
+#3518
+The Lair~
+Blinding orbs of psychotic light pulsate seamlessly from brilliance to
+oblivion, thus doubling the speed of waking life, hovering in random
+positions like stars in a hellish mockery of heaven.  A deep, rumbling throb
+shakes the huge cavern's harsh rock walls, and the air is hot and filled
+with water that drenches the body and drains away strength.  An enormous,
+saturated throng of sludge, slime, mud and rotting corpses of many hapless
+victims serves as a nest for the monster.  An unfamiliar fuel ignites in
+gusts of merciless flame indiscriminately around the lair, torching all
+combustible flesh its searing hands alight upon.  Slops of cold, sticky
+slime drop heavily from the narrow tunnel that leads away high above.  The
+air is tarnished with a foul smell of strong, contrasting flavours mixed
+together in a powerful mass that prompts nausea.  
+~
+0 9 0
+D4
+~
+~
+~
+0 0 3517
+M 0 H 0
+S
+#3519
+Entrance to Throne Room~
+Emerging from a pool of black viscous oil to surface in a world of acidic
+stars and searing fire does not compare to entering the hustle and bustle of
+this ecstatic mockery of glory.  The central source of the chaotic power
+that lurks grimly about the castle now cavorts playfully before this
+entrance chamber.  Ghostly apparitions appear briefly to enact the fleeting
+duties the scraps of their being still manage to forge into unhealthy
+remembrance, blissfully unaware of their presence or their unwholesome
+state.  Dark-skinned sentinels flicker like evil spirits near the western
+exit, grey eyes locked dead ahead until the energy tide seeps away, leaving
+them no matter for realisation, thus forgotten momentarily to existence. 
+The floors are paved with purest gold, glittering with countless tiny lights
+like a desert of diamond dust.  
+~
+0 12 0
+E
+floors~
+The gold is somewhat soft, sucking faintly at any object that touches it.
+The longer feet stay still upon the surface, the stronger the suction
+becomes, and after a while they begin to glint with the shine of gold.  
+~
+E
+floor~
+The gold is somewhat soft, sucking faintly at any object that touches it.
+The longer feet stay still upon the surface, the stronger the suction
+becomes, and after a while they begin to glint with the shine of gold.  
+~
+D1
+~
+~
+~
+1 3534 3501
+D3
+~
+~
+~
+0 0 3520
+M 0 H 0
+S
+#3520
+Middle-East Throne Room~
+Sharp exhalation of breath and cold sweat is all the throne room demands
+of the living.  Twisted, distorted memories and corrupted remembrances
+instill the soft hue of light that radiates soothingly from twin orbs with
+the depth and sharpness of deepest shadow.  Waves of sorrow and tremors of
+despair sweep across this convoluted image of what once could only have been
+vaguely similar, overwhelming the senses and clawing greedily at the soul. 
+The golden floor has now become a sea, small waves of curdling gold lapping
+underfoot, disturbing the balance of mind and body, the unerring suction
+becoming increasingly insistent.  
+~
+0 8 0
+E
+orbs~
+Scarlet orbs are placed at regular intervals around the huge throne room,
+encased in protuding holsters similar to those for candles, silver, thin and
+elegant.  The orbs light up only on your approach, and you feel a sudden
+coldness in your chest as they become bright.  
+~
+D0
+~
+~
+~
+0 0 3521
+D1
+~
+~
+~
+0 0 3519
+D2
+~
+~
+~
+0 0 3522
+D3
+~
+~
+~
+0 0 3523
+M 0 H 0
+S
+#3521
+North-East Throne Room~
+At this secluded point, the room becomes devoid of almost all adornment,
+the focus being the northern walls.  Painted richly and synthetically upon
+them are vague histories, depicted by archaic runes and scenes where tiny
+figures pose in complex tableaux, and attempt to communicate some desperate
+meaning.  The throne room spreads outward south and west.  
+~
+0 8 0
+E
+walls~
+The depicted scenes constantly shift and transform, at the whim of their
+invisible artist.  To the unfocussed eye, the entire view seems a pool of
+entwining patterns that revolve intricately about a central point, like a
+complex eye in which are captured a thousand different dimensions.  At this
+centre-point, a figure stands, and around the figure numerous shadows reach
+out with despairing pleas, though they cannot seem to move any closer, and
+often melt away.  The figure seems oblivious to their presence, the figure
+looks very much like you.  
+~
+D2
+~
+~
+~
+0 0 3520
+D3
+~
+~
+~
+0 0 3524
+M 0 H 0
+S
+#3522
+South-East Throne Room~
+Disorder does not even begin to fade towards this lonely area of the
+throne room.  The walls curve smoothly and artistically at the corner,
+making the entire structure feel like a single organism - a box, a cell or
+even a creature.  Sensing the mood, the beast behind the image allows these
+thoughts to echo throughout many sculptures and decorations within.  A
+falcon constructed of opulent ruby stretches its graceful wings into the air
+above, soaring inertly without support.  Ornamental kittens, snakes and
+questionable hulks rearrange their positions whilst unobserved, creeping up
+behind and staring with glassy, empty eyes.  
+~
+0 8 0
+E
+falcon~
+The bird seems to exhaust the space of atmosphere, inducing aggravation
+and mania from those nearby - a symbol of fear, hatred and phobia.  
+~
+D0
+~
+~
+~
+0 0 3520
+D3
+~
+~
+~
+0 0 3525
+M 0 H 0
+S
+#3523
+The Obsidian Throne~
+A place shaped meticulously for intimidation, in anticipation of any
+foreigner that may endeavour to loftily beseech the Lord.  Seated upon a
+high pedestal, the throne itself is a single piece of smoothly carved
+obsidian, black as pitch.  A carpet of royal scarlet flows like a river of
+hot blood from the entranceway, along the golden sea and up the pyramid of
+steps leading to the high throne.  The pedestal shimmers a mystical blue,
+decorated with silver stars and planets that dance upon its surface with a
+magical charge.  The ceiling deceives by seeming open to an eternal moon,
+lined with the elaborate details of age, wisdom and experience.  A wondrous
+tapestry hangs over the western wall, blazing with the castle's insignia,
+surrounded by proud, historical acts of war and peace.  The golden floor
+ripples outward from the subtle force that stirs within the motionless,
+obsidian throne.  
+~
+0 8 0
+E
+throne~
+On closer inspection, the throne is found to be engraved with engaging
+drawings, lovingly crafted in fine gold calligraphy.  A dragon soars into
+flight, a phoenix glides towards the sun, a flock of wyvern dive.  Cold,
+thin blood lies in pools on the throne, the drips of which can be heard to
+echo in a hollow space beneath.  
+~
+E
+carpet~
+A river that mounts a sea, the carpet is unruffled, riding the tide with
+joyful glee.  The material has the softness of velvet but the strength of
+leather, and drinks impact without perforation.  
+~
+E
+tapestry~
+Many indescribable trifles and feats crowd around the flaming insignia,
+ending with a figure likened to that of Reynoc, illustrated screaming and
+beckoning with undignified anger and dismay at a symbol of treachery.  This
+particular scene is preceded by one of an enormous black city beneath rock. 
+~
+D0
+~
+~
+~
+0 0 3524
+D1
+~
+~
+~
+0 0 3520
+D2
+~
+~
+~
+0 0 3525
+D5
+~
+throne~
+~
+1 3512 3526
+M 0 H 0
+S
+#3524
+North-West Throne Room~
+Another spectacle conjured of the unholy awaits the living eye;
+transparent servants totter back and forth, eyes wide, full of fright and
+the sifting fog that eventually engulfs them.  Multiversal scenes clutter
+the northern wall, but seem lacking of occurrences with which the source can
+relate to and thus gain power over.  Cobwebs and dust cover every surface but
+seem somehow fresh, perfect, and as much part of the room as any other
+portentous aspect, yet serving to enhance the room's sense of concealment.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 3521
+D2
+~
+~
+~
+0 0 3523
+M 0 H 0
+S
+#3525
+South-West Throne Room~
+The screeching sound of resonating ice causes the air to tremble,
+emanating from a tree of frost that grows imposingly at the centre.  The
+stringent smell of snow and ice is carried on the arctic breeze that whirls
+angrily about you.  Equally incensed colours scowl from all sides and
+searing white light shafts down from the imperceptible ceiling.  The visibly
+growing frost sculpture leaves little floor-space from its icy tendrils, and
+leaves only guesses to formulate on that which lies behind.  
+~
+0 8 0
+E
+tree~
+Sharp, crystalline branches tangle and disentangle, giving off a frosty
+haze.  The very sight is draining and would almost certainly leech strength
+on touch.  
+~
+D0
+~
+~
+~
+0 0 3523
+D1
+~
+~
+~
+0 0 3522
+M 0 H 0
+S
+#3526
+Secret Chamber~
+A dark secret upon which the Lord can sit, happy in the knowledge that
+beneath him is hidden the only entrance, and the only escape.  The room is
+built only to serve, a sudden respite from the havoc above.  Grey stone,
+cold and hard, lines a room that feels and smells like a tomb.  Sudden
+movements cause clouds of sharp dust to launch into the air, quickly to fall
+back to their grimy positions on a bare stone floor.  Smears of bright red
+blood give the only colour, staining much of the area and glowing with
+danger.  Torches burn with cold, eternal flame, snapped in time, unable to
+eat at oil or wood, but burning greedily all the same.  Doors lead in all
+four directions.  
+~
+0 8201 0
+E
+blood~
+The blood smells fresh, and its stickiness verifies this condition,
+unnatural blood - there for a purpose.  
+~
+D0
+~
+~
+~
+1 0 3528
+D1
+~
+~
+~
+1 0 3527
+D2
+~
+~
+~
+1 0 3530
+D3
+~
+~
+~
+1 0 3529
+D4
+~
+~
+~
+1 3512 3523
+M 0 H 0
+S
+#3527
+The Crypt~
+Howling mists thrive on disturbance, taking on spectral shapes whilst
+swirling chaotically about a stone coffin that looms menacingly at the
+centre.  A thick layer of soft rubble coats the ground, crunching loudly
+underfoot.  The stone boundaries blend in colour with the mists, becoming
+nigh on invisible.  Forks of thin yellow lightning crackle in outbursts of
+thunderous power, chiselling away with long cruel nails.  All is exposed
+without shelter from the sensual whisperings and caresses hurled from beyond
+the grave.  
+~
+0 9 0
+E
+coffin~
+Made of smooth soapstone, the coffin has no design emblazoned upon it,
+plain and simple in design yet somehow impending with otherworldly
+carelessness and purpose, taking little pride in the secrets it holds, thus
+refusing to hint at what cannot be explained.  The upper rim is slightly
+ajar, and from within a piercing light filters outwards in a tight beam
+along the perimeter.  
+~
+D3
+~
+~
+~
+1 0 3526
+M 0 H 0
+S
+#3528
+Room of Mirrors~
+Tall, crystal mirrors lean inwards from three sides like nightmarish
+stalkers in a young child's dream, peering spitefully down with lordly
+displeasure.  Like stalactites of ice, thrust up from below, their edges are
+sharp and jagged.  Each capture a single oblong view of their visitors,
+warping their image to magnificent size, deflecting the power of facade like
+a spear back through the soul they strive to protect.  The floor is covered
+with a substance first presumed to be snow, but that proves to be fine
+crystal dust, perhaps the product of mirrored sorrow, the shedding of soft
+crystal tears, when the silent, shrouded room, is deprived of presence.  One
+unique mirror towers above the rest, reflecting only a choice variety of
+colour, seeming to reflect the worst aspects of its view.  
+~
+0 9 0
+E
+mirror~
+The mirror reeks of great, evil power; yet a huge, gaping crack stretches
+long from top to bottom, and seems to limit what perhaps it could wholly
+contain.  
+~
+D2
+~
+~
+~
+1 0 3526
+M 0 H 0
+S
+#3529
+The Shrine~
+Black drapes hang in a symmetrical pattern that wafts this way and that
+from the motions or breaths of any being huddled inside their cloying
+embrace.  A huge ebony pearl hangs from the ceiling, emitting a repulsive
+radiance that spills outwards in a spherical pulse and bathes all in black. 
+Inside the arrangement of veils, a raised platform with a sable fur mattress
+provides an intense living space for the dark priest.  The room is silent
+and scentless, motions unheard, the eyes upon you are your own, the
+environment becomes your spirit, and your body a mere manifestation of
+celestial thought, watched with intent curiosity.  
+~
+0 9 0
+D1
+~
+~
+~
+1 0 3526
+M 0 H 0
+S
+#3530
+The Vault~
+On entry, the air of the outside chamber is sucked desperately into the
+vacuum of the vault.  Once the insatiable storage space for stashed
+treasure, hidden away from the prying eyes of commoners and nobles, this
+dank room has been ravaged of all its worth.  A few broken tables, some
+shredded, lob-sided paintings, and several piles of shattered glass are all
+that remains.  The room has also been razed, but the fire vanquished of
+breath before the few, worthless effects could be eaten away from the woven
+path.  The only exit leads north to the secret chamber. 
+~
+0 9 0
+E
+tables~
+Broken and somewhat charred, the tables are uninteresting, used to carry
+items of mouth-watering treasure.  However, one table is larger than the
+rest, with a hollow exposed by a fierce gash along its breadth.  
+~
+E
+paintings~
+Suffering the worst of the fire, the paintings contain nothing that
+resembles a being of any kind, black, torn and smeared with soot.  Highly
+camouflaged against the wall, a hidden locker has been revealed, a tiny
+keyhole almost indistinguishable at the corner.  
+~
+E
+glass~
+Shards of broken glass disguise a much shinier object at their centre,
+twinkling aesthetically in the faintest light.  
+~
+D0
+~
+~
+~
+1 0 3526
+M 0 H 0
+S
+#3531
+open~
+~
+0 1081348 0
+M 0 H 0
+S
+#3532
+Slimy Honeycomb~
+An area of the scarce navigable space to be found amidst the network of
+tiny ooze-filled tunnels forming disordered connections between the dingy
+homes that crowd in the nearby rock.  The environment is grossly unpleasant
+- wet, humid and thick with stench.  The ground is swampy, and any
+impression of weight causes deep holes to slowly sink through to be filled
+again swiftly with mud.  A solemn atmosphere rare to these parts seems
+centred in this dishevelled room, making your entrance seem somewhat
+insolent.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 3515
+M 0 H 0
+S
+#3533
+Room of Preserved Knowledge~
+Strewn haphazardly around, tall piles of old, yellow scrolls and wet,
+dusty books serve as living space, sitting space and walking space.  Only a
+fellow, experienced guildsman could ever see even the vaguest order to the
+placement of each article, although they seem to have moved very little
+during the castle's demise.  Often, hazy beings spark briefly into
+existence, intently studying an ink-scrawled manuscript before staring
+thoughtfully upwards and vanishing clean away.  A small opening of broken
+stone reveals an alien world, where warriors of unrecognisable uniform
+stride with purpose to guard and scout the area close to the hole, eyeing
+you blankly without concern.  
+~
+0 4194312 0
+E
+opening~
+The image beyond the opening flickers repeatedly, and the colour beyond
+is strangely enhanced and unreal - false, another undetermined deceit.  
+~
+D0
+~
+~
+~
+1 0 3509
+M 0 H 0
+S
+#3534
+unused~
+~
+0 4 0
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 3500 spec_breath_frost
+M 3501 spec_breath_acid
+M 3503 spec_poison
+M 3504 spec_cast_cleric
+M 3505 spec_cast_cleric
+M 3508 spec_breath_any
+M 3509 spec_breath_fire
+M 3511 spec_breath_gas
+M 3512 spec_breath_gas
+S
+
+
+
+#RESETS
+D 0 3500 3 2
+D 0 3501 1 2
+D 0 3501 3 2
+D 0 3509 0 1
+D 0 3509 2 1
+D 0 3510 0 1
+D 0 3510 2 1
+D 0 3511 2 1
+D 0 3513 5 2
+D 0 3514 4 2
+D 0 3519 1 2
+D 0 3523 5 2
+D 0 3526 0 1
+D 0 3526 1 1
+D 0 3526 2 1
+D 0 3526 3 1
+D 0 3526 4 2
+D 0 3527 3 1
+D 0 3528 2 1
+D 0 3529 1 1
+D 0 3530 0 1
+D 0 3533 0 1
+M 0 3500 1 3500 10
+E 0 3500 0 17
+E 0 3501 0 16
+E 0 3526 0 5
+O 0 3502 0 3501
+P 0 3503 0 3502 10
+M 0 3501 12 3501 10
+E 0 3504 0 5
+M 0 3501 12 3501 10
+E 0 3504 0 5
+M 0 3503 4 3501 10
+M 0 3507 4 3501 10
+O 0 3505 0 3503
+O 0 3506 0 3503
+O 0 3507 0 3503
+P 0 3537 0 3507 10
+O 0 3505 0 3504
+O 0 3507 0 3504
+P 0 3537 0 3507 10
+M 0 3502 1 3504 10
+E 0 3510 0 5
+G 0 3508 0
+E 0 3517 0 16
+E 0 3521 0 23
+E 0 3521 0 25
+E 0 3522 0 9
+E 0 3523 0 11
+M 0 3501 12 3505 10
+E 0 3504 0 5
+M 0 3501 12 3505 10
+E 0 3504 0 5
+M 0 3503 4 3505 10
+M 0 3507 4 3505 10
+M 0 3501 12 3506 10
+E 0 3504 0 5
+M 0 3501 12 3506 10
+E 0 3504 0 5
+M 0 3505 1 3506 10
+E 0 3519 0 22
+E 0 3519 0 23
+E 0 3520 0 5
+E 0 3513 0 12
+E 0 3518 0 16
+M 0 3507 4 3506 10
+M 0 3501 12 3507 10
+E 0 3504 0 5
+M 0 3501 12 3507 10
+E 0 3504 0 5
+M 0 3505 1 3507 10
+E 0 3513 0 12
+E 0 3520 0 5
+E 0 3519 0 22
+E 0 3519 0 23
+E 0 3518 0 16
+M 0 3507 4 3507 10
+O 0 3516 0 3507
+O 0 3516 0 3507
+O 0 3516 0 3507
+M 0 3501 12 3508 10
+E 0 3504 0 5
+M 0 3501 12 3508 10
+E 0 3504 0 5
+M 0 3503 4 3508 10
+M 0 3507 4 3508 10
+O 0 3516 0 3508
+O 0 3516 0 3508
+O 0 3516 0 3508
+O 0 3516 0 3508
+M 0 3501 12 3509 10
+E 0 3504 0 5
+M 0 3501 12 3509 10
+E 0 3504 0 5
+M 0 3505 1 3509 10
+E 0 3513 0 12
+E 0 3520 0 5
+E 0 3519 0 22
+E 0 3519 0 23
+E 0 3518 0 16
+M 0 3507 4 3509 10
+M 0 3501 12 3511 10
+E 0 3504 0 5
+M 0 3501 12 3511 10
+E 0 3504 0 5
+M 0 3505 1 3511 10
+E 0 3513 0 12
+E 0 3520 0 5
+E 0 3518 0 16
+E 0 3519 0 22
+E 0 3519 0 23
+M 0 3506 1 3511 10
+G 0 3511 0
+M 0 3507 4 3511 10
+M 0 3504 1 3512 10
+G 0 3509 0
+G 0 3512 0
+O 0 3536 0 3512
+O 0 3515 0 3513
+M 0 3511 7 3514 10
+M 0 3511 7 3514 10
+M 0 3511 7 3515 10
+M 0 3511 7 3515 10
+M 0 3511 7 3515 10
+M 0 3512 4 3516 10
+M 0 3512 4 3517 10
+M 0 3509 1 3518 10
+E 0 3514 0 21
+G 0 3534 0
+M 0 3510 7 3520 10
+E 0 3527 0 5
+E 0 3528 0 16
+M 0 3510 7 3521 10
+E 0 3527 0 5
+E 0 3528 0 16
+M 0 3510 7 3522 10
+E 0 3527 0 5
+E 0 3528 0 16
+M 0 3510 7 3523 10
+E 0 3527 0 5
+E 0 3528 0 16
+M 0 3510 7 3524 10
+E 0 3527 0 5
+E 0 3528 0 16
+M 0 3510 7 3525 10
+E 0 3527 0 5
+E 0 3528 0 16
+M 0 3508 1 3526 10
+E 0 3524 0 16
+E 0 3525 0 5
+M 0 3513 5 3527 10
+E 0 3535 0 16
+M 0 3513 5 3528 10
+E 0 3535 0 16
+M 0 3513 5 3529 10
+E 0 3535 0 16
+M 0 3513 5 3530 10
+E 0 3535 0 16
+O 0 3530 0 3530
+P 0 3533 0 3530 10
+O 0 3531 0 3530
+P 0 3529 0 3531 10
+M 0 3511 7 3532 10
+M 0 3511 7 3532 10
+M 0 3513 5 3533 10
+E 0 3535 0 16
+S
+
+
+
+#SHOPS
+3504 0 2 3 5 8 125 95 6 24
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

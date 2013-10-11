@@ -1,0 +1,5925 @@
+#AREADATA
+Name {10 40} Ragnor  Lemrox's Atelier~
+Builders None~
+VNUMs 1801 2000
+Security 1
+End
+
+
+
+#MOBILES
+#1801
+houseguard guard~
+a house guard~
+A house guard is here, silently guarding.
+~
+A guard stands before you.  The guards weapons and armor are both made of
+A bright yellowish metal.  The guard has a headband made of the same
+material.  His trousers are black and he wears boots of the yellowish metal.
+The guard goes about his business silently.  The guard looks tidy and well
+turned out, but looking into the guards eyes you see a dull expression as if
+his will is not his own.  
+~
+Human~
+A 0 -200 S
+10 1 3d23+120 10d10+100 2d3+2 3
+6 6 6 6
+EFKTU B P 0
+9 9 1 45
+AHMV ABCDEFGHIJK M unknown
+#1802
+man infected talite~
+a talite~
+A man infected with talite is here, thrashing about with pain.
+~
+You see before you a human dressed in rags.  His eyes are wild and he
+looks in pain, his skin is very pale.  His movements are fast and wild.  You
+notice large clumps of glowing orange crystal around his body that seem to
+be growing out from beneath his skin.  He makes no noise except for growls
+and screams.  
+~
+Human~
+A Y -300 S
+22 0 7d42+334 22d10+100 3d5+5 0
+1 1 1 3
+CDI B C H
+9 9 1 99
+AHMV ABCDEFGHIJK M unknown
+#1803
+mercenary human~
+a mercenary~
+A mercenary guards here, cautious checking for threats.
+~
+You see before you a roguish looking warrior.  He has the manner and
+looks of a mercenary, his equipment is functional and not clean.  His face
+is scarred and his hair is untidy.  He moves like a warrior and casts swift
+glances around the room.  
+~
+Human~
+AB 0 -250 S
+15 0 5d31+200 15d10+100 2d4+2 0
+4 4 4 6
+EJU 0 0 H
+9 9 1 67
+AHMV ABCDEFGHIJK M unknown
+#1804
+golden clockwork knight~
+a golden knight~
+A golden knight is here, eternally guarding.
+~
+You see before you a knight in a suit of golden armour.  The armour is
+made of a bright yellow metal and seems finely crafted.  You notice there
+are no eye or mouth holes in the lid of the armour.  The knight seems to
+move in slow stuttering movements, and you can here a buzzing noise coming
+inside the armour.  
+~
+Human~
+A D -400 S
+25 0 8d48+400 25d10+100 3d5+7 3
+0 0 0 2
+CK BQ LP JO
+9 9 1 112
+AHJMV ABCDEFGHIJK M unknown
+#1805
+a servant~
+a servant~
+A servant slowly goes about his duties.
+~
+You see before you a human dressed in a drab grey robe.  His head is
+bowed as he quietly and slowly go about his business.  His eyes are sad,
+dull and lifeless.  His skin has a greyish tone.  Underneath the hood of his
+robe you notice the glint of a bright yellow headband.  
+~
+Human~
+A 0 -200 S
+18 0 6d36+255 18d10+100 2d5+6 17
+3 3 3 5
+0 0 B 0
+9 9 1 81
+AHMV ABCDEFGHIJK M unknown
+#1806
+Voreneck Butler~
+a butler~
+Voreneck the butler is here, overseeing the servants.
+~
+You see before you a tall thin man in dark sombre robes.  He views you a
+mixture of delight, curiosity and perhaps a little contempt.  At first he
+looks human but you get the feeling he Is not what he appears to be.  His
+eyes have a serpent like quality.  On his head he wears a strange close
+fitting hat that covers his hair and ears if indeed he has any and runs down
+his neck.  His movements are quick and graceful.  
+~
+Human~
+AB DPV -500 S
+25 0 6d39+294 20d10+100 3d5+4 5
+2 2 2 4
+EKN A BLP N
+9 9 1 112
+ABHMV ABCDEFGHIJK M unknown
+#1807
+tur gardener~
+a gardener~
+Tur the gardener is here, silently tending the plants.
+~
+You see before you a man dressed in the simple clothes of a peasant.  His
+fingers are stained with mud from working the soil, his face is weathered
+from a life outdoors.  In his hands he has a small plant that he is
+carefully pruning.  He works slowly and silently.  His eyes are dull and
+lifeless and he wears a golden headband on his head.  
+~
+Human~
+A 0 0 S
+12 0 4d26+151 12d10+100 2d4+0 17
+5 5 5 7
+0 B 0 0
+9 9 1 54
+AHMV ABCDEFGHIJK M unknown
+#1808
+Stevrack~
+Stevrack~
+Stevrack, Captain of the guards is here shouting orders
+~
+You see before you a middle aged man dressed in the armor of the house
+guards.  Unlike the other guards he wears no headband, but wears a helmet
+with a red plume.  He has a face that looks like it has seen a lot of
+killing.  His left eye is very scared and disfigured, it looks like at one
+time it was nearly cut out.  He wields a large battle axe.  His hair is
+short and untidy.  He looks at you with contempt.  
+~
+Human~
+A D -750 S
+15 3 5d31+200 15d10+100 2d4+2 25
+4 4 4 6
+CE B C 0
+9 9 1 67
+AHMV ABCDEFGHIJK M unknown
+#1809
+Renock drow~
+Renock~
+Renock is here, counting his gold.
+~
+You see before you a drow, a dark elf.  His skin has a pale bluish tint. 
+And his flowing hair is blonde.  He has a young noble face that looks like
+it never seen much hard work, but you do notice a duelling scar on his left
+cheek.  He is dressed in fine clothes and looks like he spends a lot of time
+on his appearance.  He stares back at you with a look of total disgust.  He
+moves in a fast, agile and graceful way.  
+~
+Drow~
+AB JVZ -800 S
+21 0 7d41+314 21d10+100 3d5+4 17
+1 1 1 4
+CKN AP B SZ
+9 9 1 94
+AHMV ABCDEFGHIJK M unknown
+#1810
+digger~
+a digger~
+A digger is here, slowly chipping away at the rock.
+~
+You see before you some form of device about four feet high.  It is
+clearly a contraption of some kind and looking at the hammers it has at the
+end of its metal arms, it appears to be made for banging out rocks.  It is
+covered in a fine white dust and it has short stubby legs, which move it
+slowly about.  It has a metal head fashioned to resemble a featureless human
+head.  Pipes and spinning shafts go along the body joining the parts
+together.  The contraption makes a loud buzzing noise.  
+~
+Human~
+A 0 -200 S
+25 0 8d48+400 25d10+100 3d5+7 7
+0 0 0 2
+0 BLP E J
+9 9 0 112
+AHMV ABCDEFGHIJK M unknown
+#1811
+golden lexium sentinel~
+a sentinel~
+A lexium sentinel is here, constantly looking for intruders.
+~
+You see before you a man-sized figure made of bright yellow metal.  The
+figure has no clothing and is featureless.  At first it looks like a statue
+but it moves as if it is very much alive.  Its head turns turns slowly
+looking for intruders.  When it does move it moves in a smooth fluid motion.
+~
+Human~
+AB 0 -500 S
+18 0 6d36+255 18d10+100 2d5+6 3
+3 3 3 5
+0 ALPQ 0 CK
+9 9 0 81
+AHJMV ABCDEFGHIJK M unknown
+#1812
+clockwork bat~
+a clockwork bat~
+A clockwork bat is here, clattering around bumping into things.
+~
+You see before you a loud clattering contraption about two feet tall.  It
+rattles around above you.  On its base are long spikes pointing downwards. 
+It flies in a very clumsy way with its long thin hide covered wings
+constantly flapping vigorously.  Between the wings its body is a mess of
+pipes and cogs and you can see a glowing orange crystal surrounded by pipes
+at its heart.  
+~
+Batling~
+A CDEFGTVZc 0 S
+20 0 6d39+294 20d10+100 3d5+4 11
+2 2 2 4
+FH BLP 0 JS
+9 9 0 90
+ACGHJMVW ABCDEFGHIJKOPUV S unknown
+#1813
+elf slave ~
+an elf slave~
+A slave elf is here, carrying around lumps of rocks.
+~
+You see before you a wretched looking elf.  It is clothed in rags and
+covered in dust and grime.  It once proud face now has an expression of
+desperation.  It looks very malnourished and constantly coughs violently. 
+It has iron chains around its legs and arms.  Its hands are raw from
+shifting around rocks and digging constantly.  
+~
+unique~
+A JPQ 1000 S
+20 0 6d39+294 20d10+100 3d5+4 17
+2 2 2 4
+RS 0 B Z
+9 9 3 90
+AHMV ABCDEFGHIJK M unknown
+#1814
+force of nature gaioa ~
+gaioa~
+Gaioa crashes around here, seeking to escape its prison.
+~
+You sense more than see something in front of you.  It is something of
+vast power and also very angry.  You make out no real form but you can tell
+it is something primal and terrible.  It is huge but when it moves it moves
+like lighting.  This is some sort of force of nature and wrath is awesome.  
+~
+Human~
+AB BDFJPVZc -800 S
+45 10 10d128+969 45d10+100 5d5+14 18
+-7 -7 -7 -5
+D ABQR A CJO
+9 9 0 202
+AHIMV ABCDEFGHIJKLM H unknown
+#1815
+ogerak ~
+an ogerak guard~
+An ogerak guards here, waiting for something to maim.
+~
+You see before you a brutal ogre like being.  It is seven foot of solid
+muscle with a bulging forehead and an ugly face which shows little sign of
+intelligence.  It skin is a greyish colour and it has no hair.  He has the
+symbol on his chest of the clan ogerak, mercenary ogres that will work for
+anyone.  His armour and weapons look too elaborate to be his own and have
+been provided for him.  
+~
+Giant~
+A 0 -505 S
+30 6 10d60+520 30d10+100 3d6+8 7
+-1 -1 -1 0
+CE 0 EGHI CJP
+9 9 1 135
+AHMV ABCDEFGHIJK H unknown
+#1816
+Karlork pit boss~
+karlork~
+Karlork, the pit boss is here, bellowing orders in a dark tongue.
+~
+You see before you a huge muscular being about eight feet tall.  His
+upper torso is bare and his skin is a dark red colour.  He wears leather
+trousers and boots and his face is covered in a leather hood.  However you
+can see the bright yellow glow of eyes.  He looks around for things to hit
+and shouts in a brutal sounding and unrecognisable language.  
+~
+Human~
+ABF 0 -900 S
+33 5 10d69+599 33d10+100 4d5+9 13
+-2 -2 -2 0
+EF H BP ILQ
+9 9 1 148
+AHMV ABCDEFGHIJK L unknown
+#1817
+talack~
+a talack~
+A talack is here, standing motionless.
+~
+You see before you a humanoid composed entirely of bright orange crystal.
+You can make out no features, The being is slightly transparent and you can
+see through it.  It does not speak or breath and moves silently around but
+with purpose.  Occasionally it glows a brighter orange for a second then
+fades back to its normal colour 
+~
+Drow~
+AB JZ 0 S
+40 8 10d98+804 40d10+100 4d7+10 17
+-5 -5 -5 -3
+CF CLP BPQ ESZ
+9 9 0 180
+ABEHMVZc ABCDEFGHIJKQUVX M unknown
+#1818
+berauf~
+Berauf~
+Berauf is here, trying to remember his orders.
+~
+You see before you a very strong looking man, he has the features of a
+simple man who has seen a lot of fighting.  His hair is shaved close to his
+head.  His nose looks like it has been broken many times.  His neck looks as
+thick as a tree trunk.  One of his arms seems to have been replaced by a
+bright yellow mechanical contraption.  His clothes seem to be a mishmash of
+styles from all over the realm.  This looks like a man who lets someone else
+do his thinking.  
+~
+Human~
+A 0 0 S
+15 1 5d31+200 15d10+100 2d4+2 27
+4 4 4 6
+CE 0 D CP
+9 9 1 67
+AHMV ABCDEFGHIJK M unknown
+#1819
+Husk elf~
+a husk~
+The husk of an elf wanders round here pitifully.
+~
+You see before you a skeletal figure that looks elf like, It skin is now
+grey, slightly translucent and deeply lined.  Its hair is white and its eyes
+have sunk back into its sockets.  It has a look of pain and desperation as
+well as looking painfully thin and its clothes are now rags.  It has large
+circular wounds on its torso that still look raw.  It staggers around
+blindly bumping into things and tripping over and groans quietly all the
+time.  
+~
+unique~
+A JPQ -300 S
+30 4 10d60+520 30d10+100 3d6+8 7
+-1 -1 -1 0
+CDI 0 BD CZ
+9 9 3 135
+AHMV ABCDEFGHIJK M unknown
+#1820
+toberlat lizard~
+a toberlat~
+A toberlat is here, racing around with insatiable hunger.
+~
+You see before you a small lizard like creature with golden scales
+covering its body.  It has large bulging black eyes on each of its head. 
+Its mouth if full of rows of tiny sharp looking teeth and it's front legs
+has dagger like claws.  It has a long tail it uses as a counterbalance It
+moves quickly and aggressively, It seems constantly to be on the look out
+for food and it constantly emits a loud shrieking noise.  
+~
+unique~
+A Vc 0 S
+22 0 7d42+334 22d10+100 3d5+5 5
+1 1 1 3
+MR L 0 I
+9 9 3 99
+ACGHMVXc ABCDEFGHIJKLMPQUVX S unknown
+#1821
+a dark servant~
+a dark servant~
+A dark servant is here, conducting gruesome experiments.
+~
+You see before you a creature dressed in a long black robe with a hood
+that covers it face, The robe has arcane red and white symbols.  Its hands
+are black and the skin seems leathery and it has very long thin fingers and
+long black nails.  You can just glimpse the lower part of the face under the
+hood and you see a long pointed chin and fanged teeth.  
+~
+Human~
+A P -655 S
+27 0 9d52+446 27d10+100 3d5+8 0
+0 0 0 1
+Q 0 C EGN
+9 9 3 121
+AHMV ABCDEFGHIJKVX M unknown
+#1822
+toberlat queen~
+the Toberlat Queen~
+The Toberlat Queen is here, protecting her nest.
+~
+You see before you a Large lizard like creature covered in golden scales.
+It has large bulging black eyes on each of its head.  Its mouth if full of
+rows of tiny sharp looking teeth and it's front legs has dagger like claws. 
+It has a long tail.  Its belly seems swollen and it normally sits motionless
+but when it does move it can still move rapidly.  Every few seconds it emits
+a loud shrieking noise.  It is constantly looking round for treats and
+sniffing the air.    
+~
+unique~
+ABF V -500 S
+35 6 10d76+654 35d10+100 4d6+9 0
+-3 -3 -3 -1
+MR L L I
+9 9 2 157
+ACGHMVXc ABCDEFGHIJKLMPQUVX L unknown
+#1823
+Triumph Unicorn~
+Triumph~
+Triumph, the black unicorn is here, desperately trying to escape.
+~
+You see before you a black unicorn.  It is a beautiful creature with
+magnificent long wings but it has a look of terror in its eyes and it foams
+slightly at the mouth.  You can tell it does not belong here and does not
+want to be here.  It flies around in a panic kicking its surrounding with
+great force.  It has a long jet-black horn and you notice every few seconds
+energy seems to pass from its body up along the horn.  
+~
+unique~
+AV CDJTV 1000 S
+45 12 10d128+969 45d10+100 5d5+14 0
+-7 -7 -7 -5
+CFI A C L
+9 9 2 202
+ACGHMV ABCDEFGHIJKMOQUV M unknown
+#1824
+Lemrox~
+Lemrox~
+Lemrox is here, shouting orders that no one will hear.
+~
+You see before you a man in late fifties with long white hair and a
+flowing white beard.  His is wearing an elaborate white robe and has fine
+jewelry on.  He looks like he was once a man of some standing but now he
+just mumbles to himself under his breath, occasionally shouting out grand
+pronouncements, oblivious to anyone else.  His skin is showing sign of
+infection by the parasitic crystal and his eyes look like those of a mad
+man.  This man looks like he dabbled with forces he didn't understand and
+paid the price for it.  
+~
+Human~
+ABO Oac -750 S
+50 0 10d167+1149 50d10+100 5d6+13 19
+-9 -9 -9 -7
+I L C 0
+9 9 1 225
+AHMV ABCDEFGHIJK M unknown
+#1825
+Angel salitarieus~
+an angel~
+Salitarieus the forsaken angel is here driven mad by torture.
+~
+You see before you a large angel about eight foot tall dressed in a
+simple robe.  He has flowing silver hair and pale violet eyes.  His skin has
+a golden tint to it.  He looks about twenty-five but you know he could be
+thousands of years old.  His face looks anguished and his body is scarred
+and shows signs of torture.  There are marks on his skin which look like
+they have been made by restraints.  He lashes out wildly at anything that
+comes near him but the saddest thing about this tragic figure is his wings
+look like they been crudely hacked off and the wounds are still fresh.  
+~
+Human~
+AB CHa 999 S
+50 8 10d167+1149 50d10+100 5d6+13 0
+-9 -9 -9 -7
+CDI ABN 0 H
+9 9 1 225
+AHMV ABCDEFGHIJK M unknown
+#1826
+bulruner demon~
+a bulruner~
+A bulruner stamps around here, guarding against intruders. 
+~
+You see before you a large muscular brutal looking being.  It is naked
+and has reddish skin and a large horned face, which resembles a bulls.  It
+has two short yellow horns on either side of its head.  It paces around with
+fast brutal strides, slightly hunched forward and its hands are large and
+muscular the fingers seem stained with blood.  This being looks like its
+only purpose is to guard and to fight.  
+~
+Kobold~
+AF DJa -500 S
+35 0 10d76+654 35d10+100 4d6+9 10
+-3 -3 -3 -1
+CDH H L CN
+9 9 3 157
+ABGHMV ABCDEFGHIJKQUVWY M unknown
+#1827
+demon ghakzibon~
+a ghakzibon~
+A ghakzibon hovers around here, serving its own dark purpose.
+~
+You see before you a flying mess of a creature.  Its appearance seems to
+be in a constant state of flux, It has large wings and a body where eyes,
+mouths and tentacles constantly seem to be appearing and disappearing.  You
+instinctively know this creature has been spewed up from some version of
+hell and its very evil seem to poison the whole room 
+~
+unique~
+AB T -500 S
+40 0 10d98+804 40d10+100 4d7+10 26
+-5 -5 -5 -3
+ACM BH C LN
+9 9 0 180
+ACGHMV ABCDEFGHIJKMNOPQUVWXY M unknown
+#1828
+basredon demon~
+a basredon~
+A basredon is here, shouting orders to the lower minions.
+~
+You see before you a humanoid being with dark red skin.  Its head has
+three large horns and it has large bat like wings.  Its face is not
+unattractive were it not for the its demonic appendages and its body looks
+strong and muscular, it moves like a warrior.  Possibly this creature
+attained power though serving a dark master.  There is a look of great
+intelligence and cold evil in its eyes.  It seems to survey the place to
+check that other beings here are doing its masters bidding.  
+ 
+~
+Batling~
+A CDEFGTVZc -500 S
+45 0 10d128+969 45d10+100 5d5+14 18
+-7 -7 -7 -5
+CEFHIK H 0 LNS
+9 9 3 202
+ACGHMVW ABCDEFGHIJKOPUVW M unknown
+#1829
+ojax golem~
+a golem~
+Ojax the black golem stands here, just waiting.
+~
+Ojax stands before you, a large black creature looking like some kind of
+mad creation.  Ojax resembles a man in its shape but its head is a square
+block slightly taped at the top and its whole body has a blocky look to it. 
+When it moves you can here it pound the earth and it must weigh at least a
+ton.  It is covered in dust and looks like it has been dormant for a long
+time.  
+ 
+~
+Gargoyle~
+AB TZ 0 S
+40 4 10d98+804 40d10+100 4d7+10 8
+-5 -5 -5 -3
+CO JPQ FGL EJKS
+9 9 0 180
+ACGHMVXc ABCDEFGHIJKLOPUVW L unknown
+#1830
+ecknarix black priest~
+a black priest~
+An ecknarix, a black priest chants to his master here.
+~
+You see before you a creature in a long black hooded robe.  It floats
+slightly above the ground never making contact with it.  You can see nothing
+but blackness inside the hood.  The creature constantly chants in a dark,
+old tongue what sounds like prayers.  It moves silently, his hands are in
+front of it together so that both arms of the robe touch.  You can sense the
+evil in this creature.  
+~
+Human~
+A DZ -600 S
+40 5 10d98+804 40d10+100 4d7+10 19
+-5 -5 -5 -3
+FG H C N
+9 9 1 180
+AHMV ABCDEFGHIJK M unknown
+#1831
+Lexium golem~
+a lexium golem~
+A Golem made of lexium stands here, Guarding relentlessly.
+~
+You see before you a creature about the size of a large ogre.  Its body
+has been forged out of lexium, You can see large cogs on each of its joints.
+It has thick arms and legs and looks very powerful.  You can see an orange
+glow coming from the splits in his chest plate.  Its head has just the vague
+carving of features.  You can here buzzing and clicking noises coming from
+inside its body.  
+ 
+~
+Gargoyle~
+AF QTZ -400 S
+25 0 8d48+400 25d10+100 3d5+7 7
+0 0 0 2
+COT BJLPQ EL JKS
+9 9 0 112
+ACGHJMVXc ABCDEFGHIJKLOPUVW L unknown
+#1832
+lexium skeleton~
+a lexium skeleton~
+A lexium skeleton clatters about here.
+~
+You see before you a metal skeleton made out of the material lexium.  It
+is the size of a human and the bones seem very well carved.  In the eye
+sockets you see too glowing lumps of orange crystal.  It moves quickly but
+somewhat jerkily.  
+~
+Ghost~
+AB BPTU -100 S
+18 0 6d36+255 18d10+100 2d5+6 0
+3 3 3 5
+EIT BLPQ AF CE
+9 9 0 81
+ACHIJKLMV ABCDEFGHIJKLM M unknown
+#1833
+reckarou~
+a reckarou~
+A reckarou charges around here seeking intruders.
+~
+You see before you a foul smelling beast the size and shape of a very
+large dog.  Its skin has dark green scales on.  It has two beady red eyes
+and a huge mouth that is full of rows of teeth.  Its body is very muscular
+and it has a long horned tail is flashes around.  It growls and snaps at the
+air as It seeks intruders.  
+~
+Fido~
+AF V -600 S
+35 5 10d76+654 35d10+100 4d6+9 31
+-3 -3 -3 -1
+FR KL 0 C
+9 9 3 157
+ABGV ACDEFHJKPQV M unknown
+#0
+
+
+
+#OBJECTS
+#1801
+lexium sword~
+lexium sword~
+A sword made of lexium is here, lying on the ground.~
+unknown~
+5 0 AN 0
+A C AC AB 0
+10 10 50 P
+E
+lexium golden sword~
+You look at a golden sword made of the material lexium.  The metal is
+golden with a yellowish tint.  The sword looks expertly crafted and the
+blade looks very sharp.  
+~
+0 0
+#1802
+Lexium breast plate~
+lexium plate~
+A golden breast plate is here, lying on the ground.~
+unknown~
+9 0 AD 0
+A A A 0 0
+10 12 50 P
+A
+13 5
+E
+lexium plate armor~
+You see before a breast plate made of a yellowish gold armor.  The
+material light and strong.  The armor looks finely crafted and a coat of
+arms decorates the front.  Two black leather straps and a clasp hold it to
+the body.  
+~
+0 0
+#1803
+Lexium axe~
+a lexium battle axe~
+A lexium battle axe has been left here.~
+unknown~
+5 0 AN 0
+AC AC BC A 0
+15 20 75 P
+E
+lexium battle axe~
+You see before you a finely crafted axe made of a strong yellowish gold metal.
+The metal is decorated with Intricate swirls, The head looks very sharp.
+This looks like a weapon that combines craftsmanship with function and it looks well used.
+ 
+~
+0 0
+#1804
+Lexium key~
+a lexium key~
+A key made of lexium has been discarded here.~
+unknown~
+18 0 AO 0
+0 0 0 0 0
+0 1 0 P
+E
+lexium~
+You see before you a small yellow key made of the metal know as lexium
+The teeth on the key are highly intricate and the lock it opens must have
+many levers. The key is a yellowish gold colour and is strong yet light.  
+~
+0 0
+#1805
+fountain~
+a large fountain~
+A large stone fountain is here, spraying water into the air.~
+unknown~
+25 0 0 AR
+-1 -1 0 0 0
+0 0 0 P
+E
+fountain~
+You see before you a large white stone fountain spraying water into the
+air.  It seems to be carved out a large single slab of the white stone the
+house and walls are.  It stands about six foot high and is intricately
+carved with what looks like an elvish influence.  You see many figures
+carved into the fountain, humans,knights,giants,machines,elves,a flying
+unicorn and an angel with a single stone tear on its face stand out, there
+are many more including some so ugly you wonder why the craftsman should
+spoil this work of art with them.  
+~
+0 0
+#1806
+large iron key~
+a large iron key~
+A large iron key is here, lying on the ground.~
+unknown~
+18 0 AO 0
+0 0 0 0 0
+0 1 0 P
+E
+large iron key~
+You see before you a very large very sturdy key.  It is made of iron and
+has many teeth on it.  
+~
+0 0
+#1807
+gold ring~
+gold ring~
+An elaborate knotted gold ring is here, sitting on the ground.~
+unknown~
+27 G AB 0
+E E E AC 0
+100 1 1000 P
+E
+gold ring~
+You see before you a ring made of elaborate gold and silver bands
+intertwined.  It is studded with gold and diamonds and the finest jewels in
+the realm, It is inscribed inside with the words 'forever yours kitten' 
+~
+0 0
+#1808
+bed~
+a double bed~
+A double bed is here.~
+unknown~
+12 0 0 AEIPQ
+0 0 0 0 0
+0 0 0 P
+E
+double bed~
+A double bed is here.  It is made of oak and has a firm white cushion on.
+It is covered in a blanket with an embroidered pattern of a large tree on
+it.  The bed looks like it has been made recently.  
+~
+0 0
+#1809
+buzzing portal~
+a buzzing portal~
+A buzzing portal is here flickering in and out~
+unknown~
+29 0 0 0
+1 3 0 1888 0
+0 0 0 P
+E
+buzzing portal~
+You see before you a flickering portal that crackles loudly, it fades in
+and out of existence.  Through it you can see people working in a mine.  
+~
+0 0
+#1810
+bench~
+a small bench~
+A small oak bench is here, facing the flower beds.~
+unknown~
+12 0 0 A
+0 0 0 0 0
+0 0 0 P
+E
+bench~
+You see before you an intricately carved oak bench, The back is carved
+into two large curves meeting in the middle.  This bench has room for two
+people to sit on and looks like it was designed for lover to court on.  
+~
+0 0
+#1811
+small lexium key~
+a small lexium key~
+A key made of lexium has been left here.~
+unknown~
+18 0 AO 0
+0 0 0 0 0
+0 1 0 P
+E
+lexium key~
+You see before you a large key of made of lexium with a metal disc
+embossed on one end.  The key looks new but the end looks like it has been
+frequently used.  There are many teeth and it looks like it works a sturdy
+lock 
+~
+0 0
+#1812
+a lexium pilum~
+a lexium pilum~
+A golden pilum made of lexium has been dropped here.~
+unknown~
+5 0 AN 0
+AB C AC 0 0
+10 10 50 P
+E
+spear~
+You see before you a light finely crafted spear, made of the bright gold
+coloured metal called lexium.  The spear has very sharp tip and a
+well-crafted shaft.  It is engraved with a coat of arms with the name lemrox
+under it.  
+~
+0 0
+#1813
+four poster bed~
+a four poster bed~
+A four poster bed is here, with carved oak pillars.~
+unknown~
+12 0 0 ABEFIJQR
+0 0 0 0 0
+0 0 0 P
+E
+four poster bed~
+You see before you a king sized four poster bed.  Its four oak pillars
+are finely carved.  It has red sheets with embroidered gold patterns on
+them.  The bed is made, but it looks like it has seen no use in a long time.
+~
+0 0
+#1814
+oak wardrobe~
+a large oak wardrobe~
+A large oak wardrobe is here.~
+unknown~
+15 0 0 0
+DF ACD ABEIJK 0 0
+0 0 0 P
+E
+large wardrobe~
+You see before you a very large oak wardrobe.  It is has a forest scene
+carved into the front of it and two large gold handles.  It is well crafted
+with fine decorations.  It is six feet wide and 10 feet deep.  There is a
+mirror on the left door.  
+~
+0 0
+#1815
+talite crystal sword orange~
+a crystal sword~
+A long sword made of glowing orange crystal lies here.~
+unknown~
+5 AH AN 0
+A AC D AB 0
+20 10 100 P
+A
+13 -10
+A
+12 10
+0 0
+#1816
+fencing rapier~
+a rapier~
+A finely crafted fencing rapier lies here.~
+unknown~
+5 ABJ AN 0
+A C CD ABD 0
+24 5 120 P
+E
+fencing rapier~
+You see before you a finely crafted fencing rapier.  It looks very old
+and the design looks likes it is elvish, It is made out of a strong silvery
+metal with an ivory handle.  It is fast and light and looks like it has had
+a lot of use.  
+~
+0 0
+#1817
+huge mace~
+a huge mace~
+A huge mace made of lexium has been left here.~
+unknown~
+5 0 AN 0
+C AC D ABC F
+20 20 100 P
+A
+1 1
+E
+huge mace~
+You see before you a large brutal looking mace made of the metal lexium. 
+It is crafted with strength and function in mind, Its end looks slightly
+dented and it looks like it has crushed many skulls in its time.  
+~
+0 0
+#1818
+large axe~
+a large axe~
+A large deadly looking axe has been left here.~
+unknown~
+5 0 AN 0
+AC AC D A F
+20 40 100 P
+A
+18 1
+A
+19 1
+E
+large axe~
+You see before you a large lethal looking axe.  Its shaft is so large a
+normal man would have trouble gripping it.  The axe is very large and sharp
+looking.  The shaft has little notches carved in, it looks like some ones
+been keeping a count of victims.  
+~
+0 0
+#1819
+bloody whip~
+a bloody whip~
+A bloody whip has been curled up on the ground here.~
+unknown~
+5 ABEJ AN 0
+ABC BC D C C
+25 15 125 P
+A
+1 -1
+E
+bloody whip~
+You see before you a bloody whip with three long tails that have little
+spikes embedded in them.  On the end of the handle there is a small skull,
+possibly a fairies that has been used for decoration.  There are still bits
+of blood and flesh left on this whip.  
+~
+0 0
+#1820
+talite shard~
+a talite shard~
+A small shard of talite crystal is here, glowing on the ground.~
+unknown~
+26 AQ AO 0
+20 67 33 66 0
+20 1 600 P
+E
+talite shard~
+You see before you a tiny shard of glowing orange crystal.  It flickers
+and glows as you watch it seems to grow a tiny bit bigger.  
+~
+0 0
+#1821
+lemrox scroll~
+a neatly rolled scroll~
+A neatly rolled scroll has been left here.~
+unknown~
+2 RX AO 0
+20 19 44 20 0
+25 2 250 P
+E
+neat scroll~
+You see before you a neatly rolled scroll sealed with a blob of wax with
+a coat of arms with the name lemrox under it.  
+~
+0 0
+#1822
+rusty key~
+a rusty key~
+A rusty key has been left on the ground here.~
+unknown~
+18 0 AO 0
+0 0 0 0 0
+0 1 100 P
+E
+rusty key~
+You see before you a rusty old iron key.  It has crudely carved teeth and
+does not look like the lock it opens is very sophisticated.  
+~
+0 0
+#1823
+large egg~
+a large egg~
+A large egg is here, sitting on the ground.~
+unknown~
+26 0 AO 0
+20 501 56 900 0
+20 10 600 P
+E
+large egg~
+You see before you a large egg, It is about the size of melon and is
+yellow with dark brown flecks on it.  
+~
+0 0
+#1824
+black amulet~
+a black amulet~
+A large black amulet has been left on the ground here.~
+unknown~
+27 0 AC 0
+C C C A 0
+25 10 250 P
+A
+13 10
+E
+black amulet~
+You see before you a large black circular amulet on a thick black chain,
+The amulet has spiral design on the front of it.  It looks very solidly made
+and the black metal seems to absorb light.    
+ 
+~
+0 0
+#1825
+short black sword~
+a short black sword~
+A short black sword has been dropped here.~
+unknown~
+5 CEJ AN 0
+A ABCDE AB AB E
+60 20 100 P
+E
+black short sword~
+You see before you a short sword, which is made of black metal.  Its
+handle is engraved with dark runes and It has a thin pointed blade.  It
+gives off a feeling of evil and you get the feeling foul deeds have been
+done with this blade.  
+~
+0 0
+#1826
+red potion~
+a red potion~
+A red potion in a glass tube has been left here.~
+unknown~
+10 RX AO 0
+15 502 67 74 0
+15 5 450 P
+E
+red potion~
+You see before you a blood red potion in a thin glass tube.  The liquid
+inside seems very thick.  The tube is corked and it the potion gives off no
+odor.  
+~
+0 0
+#1827
+demon armor~
+black demonic armor~
+Some jet-black armor with a demons face design has been dropped here.~
+unknown~
+9 EJ AD 0
+AC AC AC A 0
+30 50 150 P
+A
+1 2
+E
+black demonic armor~
+You see before you armour made of jet-black metal that seems to absorb
+light.  On the torso there is the design of large demonic face.  There are
+spikes on the shoulders and back of the armour.  It is strong and well made
+and gives off an evil feeling.  
+~
+0 0
+#1828
+black spiked sword~
+a black spiked sword~
+A black spiked sword has been left here.~
+unknown~
+5 E AN 0
+A ABE C AB 0
+45 20 225 P
+A
+1 3
+E
+black sword~
+You see before you a large sword made of jet-black material.  Long spikes
+come off the hilt either side of the blade.  The blade is finely forged and
+well crafted and gives off a feeling that is a thing of great evil.  
+~
+0 0
+#1829
+black wand~
+a black wand~
+A long thin wand is here on the ground.~
+unknown~
+3 ABRX AO 0
+DF BD BD 206 0
+40 4 5000 P
+E
+black wand~
+You see before you a jet-black wand carved out of a bone, Tiny little
+skulls have been carved in swirls up the side of the wand.  The wand is
+twelve inches long and three inches in diameter.  Its design look like the
+work of something evil.  
+~
+0 0
+#1831
+unicorn horn black~
+a black unicorns horn ~
+A black unicorns horn has been cruelly severed and left here.~
+unknown~
+5 ABGK AN 0
+B ABC ABD ABD D
+40 10 200 P
+E
+horn~
+You see before you a magnificent horn.  It is black and twisted in a
+spiral.  It is twelve inches long and about three inches wide at its base. 
+It gives off a feeling of power and wonder.  
+~
+0 BC
+#1832
+wooden globe~
+a wooden globe~
+A wooden globe sits here, covered in maps.~
+unknown~
+15 R 0 0
+BCDE ACD ABEIJK 0 0
+0 0 0 P
+E
+wooden globe~
+You see before you a globe covered in maps of the realm of discordia. 
+The globe is made of oak and is in a frame, which allows it to be spun on it
+axis.  There is a line and some hinges in the middle of the globe.  
+~
+0 0
+#1833
+crystal lexium key~
+a lexium key with a crystal end~
+A key made of lexium and crystal is here, left on the ground.~
+unknown~
+18 A AO 0
+0 0 0 0 0
+0 3 0 P
+E
+lexium crystal key~
+You see before you a ring made of lexium with a crystal shard set into
+it.  The ring is finely crafted and the shard glows bright orange every few
+seconds.  
+~
+0 0
+#1834
+wooden wand~
+a wooden wand~
+A wooden wand is here, dropped onto the ground.~
+unknown~
+3 BE AO 0
+CE BD BD 29 0
+20 5 100 P
+E
+wooden wand~
+You see before you a long thin wand made of wood.  It has elvish runes
+running along it and a large red gem one end.  
+~
+0 0
+#1835
+staff of lemrox~
+lemrox's staff~
+Lemrox's staff is here, left on the ground.~
+unknown~
+4 AB AO 0
+BEF AB AB 36 0
+45 10 225 P
+E
+staff~
+You see before you a six-foot long staff made of lexium.  On one there is
+a large glowing rock of crystal.  The staff has engravings along its body
+and a coat of arms with the name lemrox at its base.  
+~
+0 0
+#1836
+lexium bracer~
+a lexium bracer~
+A lexium bracer sits on the ground here.~
+unknown~
+9 0 AI 0
+A A A 0 0
+10 10 50 P
+A
+3 -2
+A
+2 1
+E
+lexium bracer~
+You see before you a bracer made of a golden yellow metal called lexium. 
+It is intricately carved and looks strong yet light.  It has a crest of arms
+on it.  
+~
+0 0
+#1837
+writing desk~
+a writing desk~
+A small oak writing desk is here.~
+unknown~
+15 R 0 C
+BD ACD ABEIJK 0 0
+0 0 0 P
+E
+writing desk~
+You see before you a small oak writing desk.  It is nicely crafted and of
+a simple design.  It is clear of any clutter and there is a quill and ink
+neatly stored on the top of it 
+~
+0 0
+#1838
+oak chair~
+an oak chair~
+A oak chair is here.~
+unknown~
+12 R AO A
+0 0 0 0 0
+5 20 0 P
+E
+oak chair~
+You see before you an oak chair with a covered leather seat.  It is
+finely crafted and looks elvish in origin.  
+~
+0 0
+#1839
+sturdy chair~
+a sturdy chair~
+A sturdy chair is here.~
+unknown~
+12 0 AO A
+0 0 0 0 0
+5 50 1 P
+E
+sturdy chair~
+You see before you a sturdy oak chair with padded leather arms and a
+padded leather base.  Brass studs keep the leather in place.  Looking at the
+seat it looks as if this chair was once well used.  
+~
+0 0
+#1840
+Lexium boots~
+some lexium boots~
+A pair of lexium boots are left sitting on the ground here.~
+unknown~
+9 0 AG 0
+A A A 0 0
+10 10 50 P
+A
+14 10
+E
+lexium boots~
+You see before you a pair of sturdy boots, made from the golden metal
+know as lexium.  They look strong yet light and are well crafted.  The toes
+are pointed and they go up the leg to the calf muscle.  
+~
+0 0
+#1841
+complex key~
+a complicated looking key~
+A complex key with many teeth on is left on the ground here.~
+unknown~
+18 0 AO 0
+0 0 0 0 0
+0 5 0 P
+E
+complex key~
+You see before you a key made of lexium.  It is a very large key and the
+teeth on the key are highly elaborate and look like they open a very
+complicated mechanism.  
+~
+0 0
+#1842
+small ghostly key~
+a small ghostly key~
+A key has been left here, seeming almost ghostly in appearance.~
+unknown~
+18 0 AO 0
+0 0 0 0 0
+0 1 0 P
+E
+ghostly key~
+You see before you a pale key that gives off a faint glow it seems to
+flicker in and out of existence.  It is small and its edges are rather
+indistinct, you can make out little detail.  
+~
+0 0
+#1843
+pile gold~
+a pile of gold coins~
+A pile of gold coins is covered by rags and bone here.~
+unknown~
+20 0 A 0
+CEFGHI 0 0 0 0
+0 500 0 P
+0 0
+#1848
+black key~
+a black key~
+A black key has been left here.~
+unknown~
+18 0 AO 0
+0 0 0 0 0
+0 5 0 P
+E
+black key~
+You see before you a jet-black key with many teeth on it.  It is finely
+crafted but the teeth on it look unnecessarily sharp.  
+~
+0 0
+#1849
+crystal key~
+a crystal key~
+A crystal key has been dropped on the ground here.~
+unknown~
+18 A AO 0
+0 0 0 0 0
+0 2 0 P
+E
+crystal key~
+You see before you a key made of glowing orange crystal.  Every few
+seconds is glows bright orange.  
+~
+0 0
+#1850
+glowing key~
+a glowing key~
+A glowing key is here shimmering on the ground.~
+unknown~
+18 A AO 0
+0 0 0 0 0
+0 4 0 P
+E
+glowing key~
+You see before you a small key made of lexium.  On one end there is a
+picture of a crystal embossed on it.  It seems to glow slightly.  
+~
+0 0
+#1851
+black scroll~
+a black scroll~
+A black scroll sits here on the ground.~
+unknown~
+2 AR AO 0
+40 17 256 53 0
+30 3 300 P
+E
+black scroll~
+You see before you a black scroll it seems to be written in blood a dark
+piece of skin.  The writing is in an archaic language.  The ends of the
+scroll are curled and scorched.  
+~
+0 0
+#1852
+black dagger~
+a black dagger~
+A black dagger sits on the ground here.~
+unknown~
+5 M AN 0
+B AC D ABD C
+35 10 100 P
+E
+black dagger~
+You see before you a jet-black dagger.  It has two blades that are
+intertwined to form one.  The handle is carved black ivory.  It is very well
+crafted and looks like it was designed to cause horrific wounds as well as
+killing.  
+~
+0 BC
+#1853
+broach~
+a broach~
+An elaborate broach has been left on the ground here.~
+unknown~
+27 0 AC 0
+B B B 0 0
+15 2 200 P
+A
+2 1
+E
+broach~
+You see before you a beautiful broach made of the yellowish gold metal
+lexium.  It has a very intricate knotted cross pattern.  It looks like it
+was designed to clasp a cloak.  
+ 
+~
+0 0
+#1854
+red cloak~
+a red cloak~
+A red cloak is here, lying on the ground.~
+unknown~
+27 K AZ 0
+B B B 0 0
+15 10 150 P
+A
+4 1
+A
+14 10
+E
+red cloak~
+You see before you a long beautiful red cloak.  It is well stitched and
+has a gold cross in a circle embroidered into the back.  
+~
+0 0
+#1855
+elvish eye balls~
+some elves eyeballs~
+A pair of bloody eyeballs have been dropped here.~
+unknown~
+19 0 AO 0
+BD 0 0 0 0
+0 2 1 P
+E
+elf elvish eye balls~
+You see before you a pair of eye balls, They have the distinctive irises
+normally associated with elves.  They are still warm and bloody.  
+~
+0 0
+#1856
+lexium headband~
+a lexium headband~
+A lexium headband sits on the floor here.~
+unknown~
+9 B AE 0
+A A A 0 0
+10 2 50 P
+E
+headband~
+You see before you a narrow headband made of the yellowish gold metal
+lexium.  It is a simple circular design with a small shard of orange crystal
+embedded in the headband.  
+~
+0 0
+#1857
+lexium bracer~
+a lexium bracer~
+A lexium bracer is lying here.~
+unknown~
+9 0 AM 0
+B B B 0 0
+15 2 75 P
+A
+13 10
+E
+elvish bracer~
+You see before you a bracer made of reddish silver metal.  It is a narrow
+and finely crafted spiral and looks elvish in design.  
+~
+0 0
+#1858
+lexium dagger~
+a lexium dagger~
+A lexium dagger is here, sitting on the ground.~
+unknown~
+5 0 AN 0
+B C AC ABD 0
+10 4 50 P
+A
+2 1
+A
+4 -2
+E
+lexium dagger~
+You see before you a small dagger made of the yellowish gold metal
+lexium.  It is a simple design but it looks light and sharp.  
+~
+0 BC
+#1859
+lexium polearm~
+a lexium polearm~
+A lexium polearm has been dropped here.~
+unknown~
+5 0 AN 0
+D AC BC AB F
+15 20 75 P
+A
+3 -2
+A
+5 2
+E
+lexium polearm~
+You see before you a long polearm made of lexium.  It is has a large
+blade with a spike on end, which is well crafted and looks very sharp.  The
+shaft of the polearm is engraved with a spiral pattern.  
+~
+0 0
+#1860
+iron flail~
+a large iron flail~
+A large iron flail, sits on the ground here.~
+unknown~
+5 0 AN 0
+BC AC D ABC C
+20 20 100 P
+A
+1 1
+E
+iron flail~
+You see a large iron flail one half of it has several large spikes coming
+out of it.  It is a crude but effective weapon.  It looks like it was made
+by some one who is more to suited to killing than crafting weapons.  
+~
+0 0
+#1861
+A white robe~
+a white robe~
+A long white robe lies in a pile on the floor.~
+unknown~
+9 S AD 0
+ABC ABC ABC B 0
+43 0 215 P
+A
+12 40
+0 0
+#1862
+An opal bracelet~
+an opal bracelet~
+A opal and gold bracelet lies here.~
+unknown~
+8 0 AM 0
+0 0 0 0 0
+43 0 430 P
+A
+13 30
+0 0
+#1863
+A crystal staff~
+a crystal staff~
+A staff of crystal lies here.~
+unknown~
+4 E AO 0
+BEF BD BD 35 0
+43 10 215 P
+0 0
+#1864
+golden armor~
+golden armor~
+Shining golden armor is here.~
+unknown~
+9 J AD 0
+AB AB AB A 0
+23 14 115 P
+A
+19 2
+0 0
+#1865
+a clockwork mace~
+a clockwork mace~
+A clockwork mace lies here.~
+unknown~
+5 0 AN 0
+C AC AD ABDE 0
+23 10 115 P
+A
+18 1
+0 0
+#1866
+a grey chemise~
+a grey chemise~
+A pile of cloth lies here.~
+unknown~
+11 0 AV 0
+0 0 0 0 0
+17 0 200 P
+A
+24 -1
+0 0
+#1867
+a close-fitting hat~
+a close-fitting hat~
+A hat lies on the ground.~
+unknown~
+9 0 AE 0
+AB AB AB 0 0
+19 1 10 P
+0 0
+#1868
+somber robes~
+somber robes~
+A pile of dull grey cloth is crumpled on the ground.~
+unknown~
+9 E AK 0
+AB AB AB 0 0
+18 0 10 P
+0 0
+#1869
+a yellow headband~
+a yellow headband~
+A piece of yellow cloth lies here.~
+unknown~
+27 0 AEQ 0
+AB AB AB 0 0
+19 0 180 P
+0 BC
+#1870
+a lexium maul~
+a lexium maul~
+A maul lies on the ground.~
+unknown~
+5 0 ANO 0
+C AC BC ABC 0
+15 0 75 P
+0 0
+#1871
+lexium thigh guards~
+lexium thigh guards~
+A pair of thigh guards lie here.~
+unknown~
+9 0 AF 0
+B B B 0 0
+15 3 75 P
+0 0
+#1872
+sharp sliver rock~
+a sharp sliver of white rock~
+A sliver of white rock is rough and sharp.~
+unknown~
+5 0 AN 0
+B D ABC ABD 0
+30 8 150 P
+A
+1 -1
+0 BC
+#1873
+mace spiked iron~
+a spiked iron mace~
+A cruel looking iron mace with sharp spikes is here.~
+unknown~
+5 0 AN 0
+C D ABC 0 C
+30 9 150 P
+A
+1 -2
+0 0
+#1874
+hammer heavy iron~
+a heavy iron hammer~
+A heavy iron hammer has many dings and dents.~
+unknown~
+5 0 AN 0
+C BC D 0 0
+25 12 125 P
+0 0
+#1875
+rock jagged piece~
+a jagged piece of rock~
+A jagged piece of rock has been hammered from the tunnel walls.~
+unknown~
+5 0 AN 0
+B AC D ABD J
+20 7 100 P
+0 0
+#1876
+breastplate lemrox~
+a lemrox breastplate~
+A breastplate with a silver-inlaid insignia on it is here.~
+unknown~
+9 GS AD 0
+AC AC AC A 0
+30 15 150 P
+0 0
+#1877
+lemrox cowl~
+a Lemrox cowl~
+A tight chainmail cowl has been discarded here.~
+unknown~
+27 BEG AC 0
+AC AC AC A 0
+30 5 450 P
+0 0
+#1878
+shield lemrox~
+a Lemrox shield~
+A shield has a silver-inlaid symbol on the face of it~
+unknown~
+9 BEG AO 0
+AC AC AC A 0
+30 9 150 P
+0 0
+#1879
+sword lemrox~
+a Lemrox sword~
+A sword has a silver-inlaid symbol inscribed in the hilt.~
+unknown~
+5 BEG AN 0
+A D ABC AB 0
+30 9 150 P
+0 0
+#1880
+whip lemrox~
+a Lemrox whip~
+An evil looking whip with a thick, ornate handle is coiled here.~
+unknown~
+5 BEG AN 0
+ABC D ABC BDE 0
+30 7 150 P
+0 0
+#1881
+gauntlets lemrox~
+a pair of Lemrox gauntlets~
+A pair of gauntlets has a silver-inlaid symbol on them.~
+unknown~
+9 BEG AH 0
+AC AC AC A 0
+30 6 150 P
+0 0
+#1882
+talite crystal rod~
+a talite crystal rod~
+A talite crystal rod glows and fades an inconsistent intervals.~
+unknown~
+3 GR AO 0
+DF AC AC 17 0
+40 2 200 P
+0 0
+#1883
+gaioa claw~
+a Gaioa claw~
+A claw of terrible proportions has been ripped from some strange being.~
+unknown~
+5 AEJQ AN 0
+C ABE C 0 D
+45 10 225 P
+A
+1 1
+0 0
+#1884
+a mechanical heart~
+a mechanical heart~
+A ticking metal heart is here.~
+unknown~
+3 BQ AO 0
+ADE B B 0 0
+18 1 90 P
+0 0
+#1885
+hood leather black~
+a black leather hood~
+A black leather hood has eye holes but no mouth hole.~
+unknown~
+9 BCE AE 0
+BC BC BC B 0
+40 4 200 P
+A
+13 15
+0 0
+#1886
+trousers leather black~
+a pair of black leather trousers~
+A pair of black leather trousers were made for a very large being.~
+unknown~
+9 CEG AF 0
+BC BC BC B 0
+40 6 200 P
+A
+17 -2
+0 0
+#1887
+boots leather black~
+black leather boots~
+A pair of black leather boots are scuffed excessively.~
+unknown~
+9 BCGHM AG 0
+BC BC BC B 0
+40 15 200 P
+A
+4 -2
+A
+13 15
+A
+12 -30
+0 0
+#1888
+axe heavy black~
+a heavy black axe~
+A heavy axe with a jet black blade and a dull black handle lies here.~
+unknown~
+5 EJQ ANP 0
+AC ABC ABD ACE EF
+40 25 200 P
+A
+17 3
+A
+13 -25
+0 0
+#1889
+sentinel gauntlets~
+sentinel gauntlets~
+A pair of gauntlets lie on the ground.~
+unknown~
+9 Q AH 0
+AB AB AB 0 0
+18 2 90 P
+0 0
+#1890
+scale toberlat torso~
+a golden toberlat torso~
+A golden torso covered with large scales is here.~
+unknown~
+9 0 AD 0
+AB AB AB A 0
+22 10 110 P
+A
+17 -5
+0 0
+#1891
+talite prism~
+a talite prism~
+A prism made of a deep orange material glows intermittently.~
+unknown~
+8 G AO 0
+0 0 0 0 0
+40 0 400 P
+0 0
+#1892
+bodkin dark~
+a dark bodkin~
+A small dagger has a slim dark blade.~
+unknown~
+5 0 AN 0
+B ABC ABC ABD 0
+27 2 135 P
+0 0
+#1893
+robe arcane black~
+a long black robe~
+A long black robe has arcane red and white symbols on it.~
+unknown~
+9 CEGJ AV 0
+C C C A 0
+27 5 135 P
+0 0
+#1894
+potion malodorous~
+a malodorous potion~
+An unpleasant odor comes from the vial here.~
+unknown~
+10 BGTb A 0
+30 33 39 502 0
+25 0 750 P
+0 0
+#1895
+Ojax hammer~
+ojax's hammer~
+A heavy hammer with a dented head has been discarded here.~
+unknown~
+5 ES AN 0
+C ABC ABD 0 0
+40 35 200 P
+A
+18 -4
+A
+19 4
+0 0
+#1896
+ghakzibon whip~
+a ghakzibon whip~
+A slimy tentacle of some sort has been severed from it's host.~
+unknown~
+5 GJL AN 0
+ABC ABC ABD C 0
+40 4 200 P
+0 0
+#1897
+throne~
+a crystal throne~
+This crystal throne appears to have a drawer built in.~
+unknown~
+15 RX 0 0
+BCDE ACD 0 0 0
+50 0 1 P
+0 0
+#1898
+Triumph jet black horn~
+triumph's horn~
+A long jet-black horn lies here, crackling with energy.~
+unknown~
+3 ABG AO 0
+BCDE BC B 15 0
+45 4 225 P
+L
+grasped firmly in hand~
+0 0
+#1920
+white feather~
+a white feather~
+A white feather is here, glowing on the ground.~
+unknown~
+3 A AO 0
+BCDE B B 56 0
+40 1 200 P
+E
+feather~
+You see before you a pure white feather it gives off a golden glow.  It
+is about twelve inches long and three inches wide.  
+~
+0 0
+#0
+
+
+
+#ROOMS
+#1801
+Inside the gate~
+You are standing to the north of two black iron gates.  In the walled
+courtyard of a large house.  Looking north you see a fountain and a house
+behind it, To the northeast you see a guardhouse.  
+~
+0 0 1
+D0
+~
+~
+0 0 1805
+D1
+~
+~
+0 0 1802
+D2
+~
+gate~
+1 0 20594
+D3
+~
+~
+0 0 1803
+S
+#1802
+Southeast of courtyard~
+You are standing in the southeast corner of a courtyard of a large town
+house.  To the south and east there is a large wall about seven foot tall. 
+To the north you can see a guardhouse.  
+~
+0 0 1
+D3
+~
+~
+0 0 1801
+S
+#1803
+Southwest of courtyard~
+You are standing in the southwest corner of a large walled courtyard.  To
+the south and west you see a large wall about seven foot high.  To the
+northwest you see a fountain and beyond that a large house.  
+~
+0 0 1
+D0
+~
+~
+0 0 1804
+D1
+~
+~
+0 0 1801
+S
+#1804
+West of the courtyard~
+You are standing in the west of a large courtyard.  To the west you see a
+white stone wall about seven foot high, to the east there is a large
+fountain and north you can see a large town house.  
+~
+0 0 1
+D0
+~
+~
+0 0 1807
+D1
+~
+~
+0 0 1805
+D2
+~
+~
+0 0 1803
+S
+#1805
+The Courtyard fountain~
+You are standing in front of a large fountain in the centre of the walled
+courtyard.  To the north you see the entrance of a large town house.  To the
+east you see a guard house.  
+~
+0 0 1
+D0
+~
+~
+0 1804 1808
+D1
+In front of you is a black wooden door to a guard house. It has the lemrox coat of arms hung on the door. The door looks very sturdy.
+~
+~
+1 1806 1806
+D2
+~
+~
+0 0 1801
+D3
+~
+~
+0 0 1804
+S
+#1806
+Berauf's quarters~
+You are standing inside a guard house.  It is a small cluttered building
+with no windows.  Near the door is a small wooden table covered with rubbish
+empty bottles and a letter, next to the table is a bed covered with a few
+unwashed sheets.  At the far side of the room there are four sets of bunks
+stacked three high.  There is a door to the west.  
+~
+0 8 0
+E
+poster~
+You see a tatterd old poster pinned to the back of the door it reads...
+Wanted by the fair people of Goson The rouge Stevrack
+wanted on ten counts of bloody murder
+wanted on nine counts of grand theft
+wanted on one count of blackmail
+have caution when approching this fellow
+cry for the guards if possible
+reward 10000 gold coins for his head
+ ... underneath is a picture of stevrack. 
+  
+ 
+~
+E
+poster~
+You see a tatterd old poster pinned to the back of the door it reads...
+Wanted by the fair people of Goson The rouge Stevrack
+wanted on ten counts of bloody murder
+wanted on nine counts of grand theft
+wanted on one count of blashphormy
+have caution when approching this fellow              
+cry for the guards if possible
+reward 10000 gold coins for his head
+ ... underneath is a picture of stevrack.
+~
+E
+poster~
+The poster looks stained and old on it is has written on it....
+Wanted by the fair people of gosonon
+~
+E
+letter~
+You see a letter written on a piece of parchment in very poor
+handwriting, reading it is says...  My lord Renock as you have asked I am
+keeping a close eye on the masters new invention and am pleased to report it
+a success so far.  With the headbands in place we now have the perfect
+warriors.  Silent totally obedient and always on patrol.  They seem to be
+lasting much longer now before the problems start and they can always be
+taken down below.  On that subject we are still seeking the escaped creature
+and im sure it wont be much longer before we have him.  All hail Lemrox
+Stevrack 
+~
+D3
+~
+~
+1 1806 1805
+S
+#1807
+Outside The Atelier~
+You are standing to the south of a large white townhouse.  The Building
+is made out of large blocks of white stones.  To The east you see the
+entrance to the house.  To the west you see gardens begin and beyond that a
+wall, to the south is a large courtyard. 
+~
+0 0 0
+D1
+~
+~
+0 0 1808
+D2
+~
+~
+0 0 1804
+D3
+~
+~
+0 0 1810
+S
+#1808
+Outside The Atelier~
+You are standing to the south of a large town house.  Standing this close
+to it you can see this house has been built to very high standards.  You
+also notice the stone is of a kind unlike that of any house you have ever
+seen.  There are white stone pillars either side of the door, and a small
+porch.  The house looks like it has two floors, the windows are leaded and
+the top parts made of stained glass.  Set above the door is a crest of arms
+with the name Lemrox under it.  
+~
+0 0 1
+D0
+You see before you two large oak doors.  They have been painted black and
+have been reinforced with iron strips in a decorative way.  Both doors have
+large iron knobs on them.  And on the left door you see a door knocker made
+of black iron which is a demoniac face with a handle in its mouth.  
+~
+~
+6 1804 1825
+D1
+~
+~
+0 0 1809
+D2
+~
+~
+0 0 1805
+D3
+~
+~
+0 0 1807
+S
+#1809
+Outside The Atelier~
+You are standing to the south of the front of a large white town house. 
+The building is made out of large blocks of white stones.  To the east you
+can see the beginning of some gardens and beyond that, a wall.  To the south
+you see a guard house and to the west is the entrance to the house.  
+~
+0 0 1
+D1
+~
+~
+0 0 1823
+D3
+~
+~
+0 0 1808
+S
+#1810
+The Atelier Gardens~
+You are standing in the grounds of the town house around you is a garden
+filled with exotic plants from around the realm.  They all look lovingly
+cared for.  To the west and south you see the courtyard wall and to east you
+see the front of the town house.  The garden continues to the north.  
+ 
+~
+0 0 1
+D0
+~
+~
+0 0 1811
+D1
+~
+~
+0 0 1807
+S
+#1811
+The Atelier Gardens~
+You are standing in the grounds of the town house around you is a garden
+filled with exotic plants from around the realm.  Here you banks of bedding
+plants planted out and a few larger bushes closer to the wall.  The garden
+continues to the north and south, To the west is the courtyard wall and to
+the east you see the townhouse 
+~
+0 0 0
+D0
+~
+~
+0 0 1812
+D2
+~
+~
+0 0 1810
+S
+#1812
+The Atelier Gardens~
+You are standing in the grounds of the town house around you is a garden
+filled with exotic plants from around the realm.  Here you see a large oak
+tree that looks like it has been struck by lightning at some time.  The tree
+looks like it was here long before the house and is all that remains of an
+old forest.  The garden continues to the north and south, To the west is the
+courtyard wall and to the east you see the townhouse 
+~
+0 0 0
+D0
+~
+~
+0 0 1813
+D2
+~
+~
+0 0 1811
+S
+#1813
+The Atelier Gardens~
+You are standing in the grounds of the town house around you is a garden
+filled with exotic plants from around the realm.  Here you see a well-tended
+grave with a large white head stone.  The garden continues to the north and
+south, To the west is the courtyard wall and to the east you see the
+townhouse.  
+~
+0 0 0
+D0
+~
+~
+0 0 1814
+D2
+~
+~
+0 0 1812
+S
+#1814
+The Atelier Gardens~
+You are standing in the grounds of the town house around you is a garden
+filled with exotic plants from around the realm.  Here you see small plants
+collected together in beds near the walls.  To the north and west you see
+the courtyard walls.  To the south and east the garden continues 
+~
+0 0 0
+D1
+~
+~
+0 0 1815
+D2
+~
+~
+0 0 1813
+S
+#1815
+The Atelier Gardens~
+You are standing in the grounds of the town house around you is a garden
+filled with exotic plants from around the realm.  Here you see a Statue of a
+beautiful woman holding a rose.  To the north you see the courtyard walls. 
+To the east and west the garden continues.  South you see the townhouse 
+~
+0 0 0
+D1
+~
+~
+0 0 1816
+D3
+~
+~
+0 0 1814
+S
+#1816
+The Atelier Gardens~
+You are standing in the midst of a garden filled with exotic plants from
+around the realm.  Here you see many small shrubs planted between rocks laid
+out on the ground.  The garden continues to the east and west.  To the north
+you see the courtyard wall and to the south the Townhouse.  
+~
+0 0 0
+D1
+~
+~
+0 0 1817
+D3
+~
+~
+0 0 1815
+S
+#1817
+The Atelier Gardens~
+You are standing in the grounds of the town house.  Around you is a garden
+filled with exotic plants from around the realm.  Here you see vines of
+various types trained to grow up the walls.  The garden continues to the
+east and west.  To the north you see the courtyard wall and to the south the
+Townhouse.  
+~
+0 0 0
+D1
+~
+~
+0 0 1818
+D3
+~
+~
+0 0 1816
+S
+#1818
+The Atelier Gardens~
+You are standing in the grounds of the town house around you is a garden
+filled with exotic plants from around the realm.  Here you see a vegetable
+patch with rows of plants neatly laid out there is a small compost heap
+here.  To the north you see a small shed.  The Garden continues to the west
+and south and there is a courtyard wall to the east.  
+~
+0 0 0
+D0
+~
+~
+1 1822 1819
+D2
+~
+~
+0 0 1820
+D3
+~
+~
+0 0 1817
+S
+#1819
+The Garden Shed~
+You are standing in a cluttered dusty tool shed.  It is a small building
+made of old oak planks that have seen better days.  The tools are all
+covered in cobwebs and unused.  A large number of old clay flowerpots of
+various sizes litter the floor.  On one part of the floor they all seem to
+have been pushed aside and it looks like someone has been sleeping in here. 
+To the south is a door.  
+~
+0 8 0
+D2
+~
+~
+1 1822 1818
+S
+#1820
+The Atelier Gardens~
+You are standing in the grounds of the town house around you is a garden
+filled with exotic plants from around the realm.  Here there are small
+shrubs cut into cones and balls and other shapes.  The Garden continues to
+the north and south.  To the east you see the courtyard wall and to the west
+the townhouse.  
+~
+0 0 0
+D0
+~
+~
+0 0 1818
+D2
+~
+~
+0 0 1821
+S
+#1821
+The Atelier Gardens~
+You are standing in the grounds of the town house around you is a garden
+filled with exotic plants from around the realm.  Here you notice the
+remains of a large bonfire, It looks like clothes and letters and other
+personal possessions have been burnt on a large pile.  The Garden continues
+to the north and south, to the east you see the courtyard wall and to the
+west the townhouse 
+~
+0 0 0
+D0
+~
+~
+0 0 1820
+D2
+~
+~
+0 0 1822
+S
+#1822
+The Atelier Gardens~
+You are standing in the grounds of the town house around you is a garden
+filled with exotic plants from around the realm.  Here you notice some large
+trees, some of them laden with flowers and fruit.  To the west you see the
+town house and to the east is the courtyard wall the garden continues to the
+north and to the south 
+~
+0 0 0
+D0
+~
+~
+0 0 1821
+D2
+~
+~
+0 0 1823
+S
+#1823
+The Atelier Gardens~
+You are standing in the grounds of the town house around you is a garden
+filled with exotic plants from around the realm.  They all look lovingly
+cared for.  To the east and south you see the courtyard wall and to west you
+see the front of the town house.  The garden continues to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 1822
+D3
+~
+~
+0 0 1809
+S
+#1824
+The Sitting Room~
+You are in a room that looks like it was used as the main living area of
+a house.  There is a large stone fireplace here that looks like it has not
+been used for some time.  A large chair sitting in front of the fire appears
+like it was once favoured by the master of the house.  There are a few small
+chairs and a small writing desk in this room also.  Doors lead to the north
+and to the east.  Every thing here is covered with sheets and it looks like
+this room has not been used in some time.  
+~
+0 8 0
+D0
+~
+~
+1 0 1827
+D1
+~
+~
+1 0 1825
+S
+#1825
+The Entrance Hall~
+You are standing in the entrance hall of the town house.  The inside
+walls are decorated with highly carved panelled oak.  The floor is exposed
+flag stones of the same white brick as the house.  To the east and west are
+oak doors.  To the south is the door to the grounds, To the north you can
+see a large oak staircase that leads to the upper floor.  All the wood seem
+to be carved with an elvish influence but to suit human tastes.  The
+interior seems to be constructed to the same high quality as the exterior
+but you can not shake the feeling that something is not quite right.  
+~
+0 8 0
+D0
+~
+~
+0 0 1828
+D1
+~
+~
+1 0 1826
+D2
+~
+~
+6 1804 1808
+D3
+~
+~
+1 0 1824
+S
+#1826
+The Sun Lounge~
+You are standing in a room designed to catch the last of the sun's rays. 
+The windows in this room are far bigger and look out over the garden.  Two
+large chairs are here facing the windows both covered with dust sheets and a
+few plants in pots are spread about the place.  A few paintings hung on the
+walls.  You get the feeling this room was used in happier times.  To the
+west you see the door to the entrance hall.  
+~
+0 0 0
+D3
+~
+~
+1 0 1825
+S
+#1827
+The Picture Gallery~
+You are standing in a room that has a number of impressive oil paintings
+hanging on walls.  They all look like portraits of Lemrox family members. 
+The room is panelled with oak on the walls.  There is a large stone circle
+motif in the centre of the floor.  Oak doors are situated in the north,
+south and east walls.  You get the feeling that the eyes of some of the
+paintings are following you around the room.  
+~
+0 8 0
+D0
+~
+~
+1 0 1830
+D1
+~
+~
+1 0 1828
+D2
+~
+~
+1 0 1824
+D5
+~
+~
+1 1811 1853
+S
+#1828
+The Grand Hall~
+You are standing in an impressive hallway.  A large wooden staircase
+dominates this room.  The size of it seems to be more for an impression than
+need.  There are doors in the east and west walls and to the south you see
+the entrance hall.  Looking up you see a landing on the second floor. 
+~
+0 8 0
+D1
+~
+~
+1 0 1829
+D2
+~
+~
+0 0 1825
+D3
+~
+~
+1 0 1827
+D4
+~
+~
+0 0 1833
+S
+#1829
+The Dining Room~
+You are standing in a large dining room.  A very long carved oak table
+that looks like it could have sat sixteen people dominates the room.  There
+is a fireplace in the east wall and a carved mantelpiece above it.  A large
+picture of the house hangs above the mantelpiece.  There is a door to the
+west and a door and a serving hatch in the north wall.  It looks like there
+have been no meals eat here in a long time.  
+~
+0 8 0
+D0
+~
+~
+1 0 1832
+D3
+~
+~
+1 0 1828
+S
+#1830
+The Servants Quarters~
+You are standing in a dingy room with no windows except for a small one
+high in the north wall.  This room is used by the servants of Lemrox as
+living quarters.  It all seems very basic with no personal possessions and
+only dirty blankets for beds.  There is a door to the south and one to the
+east.  
+~
+0 8 0
+D1
+~
+~
+1 0 1831
+D2
+~
+~
+1 0 1827
+S
+#1831
+The Kitchen~
+You are standing in a large kitchen.  A butcher's table stands in the
+centre of the room where food is prepared and a hearth is built in the
+northern wall with spits hanging over it.  It looks like the fire in the
+hearth has not been lit for a long time and the only food that seems to be
+prepared in here now are bowls of gruel.  There are doors to the east and to
+the west.  
+~
+0 8 0
+D1
+~
+~
+1 0 1832
+D3
+~
+~
+1 0 1830
+S
+#1832
+The Pantry~
+You are standing in a small windowless room, which looks like it was once
+a pantry.  There are hooks in the ceiling for hanging game and barrels with
+salt inside for storing food.  There seems to be no food stored in here at all
+now.  There are doors to the south and to the west.  
+~
+0 8 0
+D2
+~
+~
+1 0 1829
+D3
+~
+~
+1 0 1831
+S
+#1833
+The Upstairs Landing~
+You are standing at the top of a large stairway in a corridor.  The walls
+of the corridor are panelled oak and there are large oak planks on the bare
+floor.  To your east there is an oak door with a brass handle.  The corridor
+continues to the west and looking down you see a large hallway.  
+~
+0 8 0
+D1
+~
+~
+1 0 1838
+D3
+~
+~
+0 0 1837
+D5
+~
+~
+0 0 1828
+S
+#1834
+The Master's Bedroom~
+You are standing in a large bedroom the room has an oak floor and
+panelled oak walls, next to the north wall there is a large four poster bed
+with intricately carved pillars.  There is a picture on the wall, Next to
+the side of the bed.  This air in this room has a slightly musty taste it
+feels like no one has slept here in a long time.  There are windows on the
+north and west walls but the thick curtains are drawn and let no light into
+the room.  The room continues to the east and there is a door to the south 
+~
+0 8 0
+D1
+~
+~
+0 0 1835
+D2
+~
+~
+1 0 1837
+S
+#1835
+The Master's Bedroom~
+You are standing in a large bedroom the room has an oak floor and
+panelled oak walls, There is a large wardrobe here and a dressing table. 
+This looks like it was used by a lady of the house at some time but it does
+not seem to have been used for a long time.  The room is dark and musty. 
+The room continues to the west 
+~
+0 8 0
+D3
+~
+~
+0 0 1834
+S
+#1836
+The Master's Bedroom~
+You are standing in a well-stocked library.  This room has a bare oak
+floor and walls cover in oak panels.  On the north, west and east walls
+there are large oak bookcases filled with books.  There are piles of books
+on the floor.  There is a large oak table with a sheet of parchment and some
+quills here.  There is also a large abacus discarded on the ground.  The
+library continues to the south.  
+~
+0 4194312 0
+D2
+~
+~
+0 0 1838
+S
+#1837
+The Upstairs Landing~
+You are standing at the end of a corridor.  The walls of the corridor are
+covered in panels of oak.  To the west there is a window which looks out
+over the garden.  To the north and south are oak doors with brass handles.  
+~
+0 8 0
+D0
+~
+~
+1 0 1834
+D1
+~
+~
+0 0 1833
+D2
+~
+~
+1 0 1839
+S
+#1838
+The Master's Bedroom~
+You are standing in a well-stocked library.  This room has a bare oak
+floor and walls covered in oak panels.  On the north and south walls of the
+library there are large oak bookcases filled with books.  There are also
+piles of books on the floor.  Discarded maps and plans litter the area.  The
+library continues to the north and south.  To the west is large oak door.  
+~
+0 8 0
+D0
+~
+~
+0 0 1836
+D2
+~
+~
+0 0 1841
+D3
+~
+~
+1 0 1833
+S
+#1839
+The Guest Bedroom~
+You are standing in a room covered in that has panelled oak walls there
+is a bed in this room which looks big enough for just one person.  There is
+a small dressing table and a wardrobe stood against the south walls.  On the
+east wall there is a picture.  There is a window to the south walls with the
+curtains drawn over it.  This room is thick with dust especially to the west
+of the room, it looks like this room has not be used as a bedroom in a long
+time.  There is an oak door with a brass handle to the north.  
+~
+0 8 0
+D0
+~
+~
+1 0 1837
+D1
+~
+~
+1 0 1840
+S
+#1840
+The Hidden Staircase~
+You are standing in a dusty cramped room.  The oak planks on the floor
+are thick with dust.  The walls are bare white stone.  This room is covered
+in cobwebs.  There is a steep staircase, which goes up next to the east wall
+of the room.  There is door to the west with a rusty iron handle 
+ 
+~
+0 8 0
+D3
+~
+~
+1 0 1839
+D4
+~
+~
+0 0 1850
+S
+#1841
+The Masters Library~
+You are standing in a well-stocked library..  This room has a bare oak
+floor and walls covered in oak panels.  Against the east and west walls are
+large oak bookcases filled with books, near the south wall there is an ivory
+writing desk covered in letters.  The library continues to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 1838
+S
+#1843
+The Assembly Area~
+You are standing in large room.  The walls of the room are plain wooden
+boards, looking up you can see the rafters of the house.  This room has
+several machines in it that seem to be for making and putting together the
+contraptions that you have encountered around here.  The room continues to
+the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 1844
+S
+#1844
+The Assembly Area~
+You are standing in large room.  The walls of the room are plain wooden
+boards, looking up you can see the rafters of the house.  This room is
+filled with benches and there are racks of tools against the walls.  There
+are contraptions here in various stages of assembly.  To the south is a door
+and the room continues to the west 
+~
+0 8 0
+D2
+~
+~
+1 0 1847
+D3
+~
+~
+0 0 1843
+S
+#1845
+Renocks Quarters~
+You are standing in large room.  The walls of the room are plain wooden
+boards, looking up you can see the rafters of the house.  This room has a
+bed against the north wall and a small wardrobe against the east wall. 
+There is a rug in the centre of the room and a chest against the west wall
+room.  The room is tidy and the bed looks like it has been slept in
+recently.  There is a door to the south.  
+~
+0 8 0
+D2
+~
+~
+1 0 1848
+S
+#1846
+The Master's Studio~
+You are standing in large room.  The walls of the room are plain wooden
+boards, looking up you can see the rafters of the house.  The walls in this
+room have been painted white.  There is a large window in the roof here,
+which lets in light.  This room is filled with paintings, piled up and in
+stacks and there is a large picture in the middle of the room, covered in a
+dust sheet.  There is a door to the east and the room continues to the
+south.  
+~
+0 8 0
+D1
+~
+~
+1 0 1847
+D2
+~
+~
+0 0 1849
+S
+#1847
+The Master's Workshop~
+You are standing in a large room with doors in all four walls.  The walls
+of the room are plain wooden boards, looking up you can see the rafters of
+the house.  There are parts of contraptions scattered all over the floor and
+also placed in piles.  There is a large black forge here and an anvil. 
+There are also machines that seem to be used for shaping and forming metal. 
+You can feel the heat coming off the forge and it looks like it has been
+used recently.  
+~
+0 8 0
+D0
+~
+~
+1 0 1844
+D1
+~
+~
+1 0 1848
+D2
+~
+~
+1 0 1850
+D3
+~
+~
+1 0 1846
+S
+#1848
+Renock's Quarters~
+You are standing in large room.  The walls of the room are plain wooden
+boards, looking up you can see the rafters of the house.  This room has a
+fireplace in the west wall and a large chair in front of it.  This room has
+a table on it, which looks like it is used to prepare food; a picture is
+hung above the fireplace.  There are boxes here, which look like they have
+personal possessions In.  The room feels warm and looks like it is still in
+daily use.  There is a door to the north and one to the south.  
+~
+0 8 0
+D0
+~
+~
+1 0 1845
+D2
+~
+~
+1 0 1851
+D3
+~
+~
+1 0 1847
+S
+#1849
+The Master's Studio~
+You are standing in large room.  The walls of the room are plain wooden
+boards, looking up you can see the rafters of the house.  The walls in this
+room have been painted white.  There is a large window in the roof here,
+which lets In light.  There are paintings here stacked in piles and covered.
+There is a large cupboard to the south of the room.  It looks as though no
+one has painted in here for quite some time.  The studio continues to the
+north.
+~
+0 8 0
+D0
+~
+~
+0 0 1846
+S
+#1850
+The Dusty Landing~
+You are standing at the top of a dusty staircase.  The wall to the south
+is bare stone, the walls to the north, east and west are plain wooden
+boards.  Looking up you can see the rafters of the roof.  The air here is
+musty but also has the smell of wood, which has been cut.  You can hear the
+banging of metal here.  There is a door to the north with an iron handle.  
+~
+0 8 0
+D0
+~
+~
+1 0 1847
+D5
+~
+~
+0 0 1840
+S
+#1851
+Renock's Quarters~
+You are standing in large room.  The walls of the room are plain wooden
+boards, looking up you can see the rafters of the house.  This room has a
+small bookcase in it and a writing desk against the south wall.  The desk
+has a few neatly sealed letters stacked on it.  Above the desk there is a
+large picture.  There is a door in the north wall.  
+~
+0 8 0
+D0
+~
+~
+1 0 1848
+S
+#1852
+bad vnum?~
+Door flags won't set right
+~
+0 1081348 1
+S
+#1853
+The Smooth Tunnel~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows the floor of the
+tunnel is flat and the sides form circle about six foot in diameter.  The
+tunnel is dry and the air is dusty and a strange taste to it.  There is a
+lexium ladder, which leads up.  The tunnel continues to the north 
+~
+0 9 0
+D0
+~
+~
+0 0 1854
+D4
+~
+~
+1 1811 1827
+S
+#1854
+The Smooth Tunnel~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows the floor of the
+tunnel is flat and the sides form circle about six foot in diameter.  The
+tunnel is dry and the air is dusty and a strange taste to it.  The tunnel
+continues to the north and south.  
+~
+0 9 0
+D0
+~
+~
+0 0 1855
+D2
+~
+~
+0 0 1853
+S
+#1855
+The Smooth Tunnel~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows the floor of the
+tunnel is flat and the sides form circle about six foot in diameter.  The
+tunnel is dry and the air is dusty and has a strange taste to it.  The
+tunnel continues to the north and south.  To the east there is an iron door
+with bars on it.  
+~
+0 9 0
+D0
+~
+~
+0 0 1856
+D1
+~
+~
+1 1811 1858
+D2
+~
+~
+0 0 1854
+S
+#1856
+The Smooth Tunnel~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows the floor of the
+tunnel is flat and the sides form circle about six foot in diameter.  The
+tunnel is dry and the air is dusty and a strange taste to it.  The tunnel
+continues to the north and south and to the west there is an iron door with
+bars on it.  
+~
+0 9 0
+D0
+~
+~
+0 0 1859
+D2
+~
+~
+0 0 1855
+D3
+~
+~
+1 1811 1857
+S
+#1857
+The Iron Cell~
+You are standing in a cold damp underground cell.  The walls and floor of
+this cell are covered in sheets of iron.  The cell is bare and looks like it
+has never been used.  There is an iron door to the east.  
+~
+0 9 0
+D1
+~
+~
+1 0 1856
+S
+#1858
+The Iron Cell~
+You are standing in a cold damp underground cell.  The walls and floor of
+this cell are covered in sheets of irons.  The cell has no furniture inside
+and in one corner there is a pile of waste.  There are a few letters
+scattered on the floor.  There is an iron door to the west.  
+~
+0 9 0
+D3
+~
+~
+1 0 1855
+S
+#1859
+The Mine Gate~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows the floor of the
+tunnel is flat and the sides form circle about six foot in diameter.  To the
+north a metal barrier with a large iron gate inside it blocks the tunnel,
+You hear the noise of metal hammering against stone to the north, sometimes
+in large crashes sometimes in repetitive taps.  The tunnel continues to the
+south.  
+~
+0 9 0
+D0
+~
+~
+1 0 1860
+D2
+~
+~
+0 0 1856
+S
+#1860
+The Mine Workings~
+You are standing in a large cavern that looks like it was formed
+naturally at some time.  Stalactites hang from the roof.  The floor of
+cavern looks like it is being excavated and you can see several large pits,
+which have been dug out here.  The mining noises make a constant drone with
+the occasional loud crash.  The mine continues to the north, east and west. 
+To the south you can see a large iron gate.  
+~
+0 8 0
+D0
+~
+~
+0 0 1867
+D1
+~
+~
+0 0 1861
+D2
+~
+~
+1 0 1859
+D3
+~
+~
+0 0 1863
+S
+#1861
+The Mine Workings~
+You are standing in a large cavern that looks like it was formed
+naturally at some time.  Stalagmites hang from the roof.  The floor of
+cavern looks like it is being excavated.  You can here the constant roar
+made by the miners.  To the north you see a large pile of stone.  The mine
+continues to the west and to the east you see a large chasm with a small
+rope bridge over it.  
+~
+0 8 0
+D0
+~
+~
+0 0 1868
+D1
+~
+~
+0 0 1864
+D3
+~
+~
+0 0 1860
+S
+#1863
+The Mine Workings~
+You are standing in a large cavern that looks like it was formed
+naturally at some time.  Stalagmites hang from the roof.  The floor of
+cavern looks like it is being excavated and you can see several large pits,
+which have been dug out here.  You hear the rumble of mining here.  To the
+south and west, the sides of the cavern rise into darkness.  The mine
+continues to the north and east 
+~
+0 8 0
+D0
+~
+~
+0 0 1866
+D1
+~
+~
+0 0 1860
+S
+#1864
+Bridge Over The Chasm~
+You are in a large cavern that looks like it was formed naturally at some
+time.  Stalagmites hang from the roof.  You are standing on a rope bridge
+that spans a large underground chasm.  Looking down through the planks you
+see the sheer sides of the chasm and as you peer into the darkness below you
+wonder if it has a bottom.  The bridge sways in the cold wind that seems to
+be blowing up from the chasm.  To the west you see a mine and to the east
+You see a spiked gated in the face of a cliff.  
+~
+0 8 0
+D1
+~
+~
+0 0 1865
+D3
+~
+~
+0 0 1861
+S
+#1865
+The Lair Gate~
+You are standing on a small piece of rock to the east of you there is a
+vicious spiked gate made of black iron.  It is set into side of the large
+underground cliff, which forms one side of the chasm wall.  You can here the
+occasional scream from beyond the gate and you glimpse movement through some
+of the holes in the gate.  To the west you see a rope bridge spanning a
+large chasm 
+~
+0 8 0
+D1
+~
+~
+1 0 1900
+D3
+~
+~
+0 0 1864
+S
+#1866
+The Mine Workings~
+You are standing in a large cavern that looks like it was formed
+naturally at some time.  Stalagmites hang from the roof.  The floor of the
+cavern looks like it is being excavated and you can see several large pits,
+which have been dug out here.  The mining noises make a constant drone with
+the occasional loud crash.  To the north there is a side of the cavern.  To
+the west you see a huge lexium gate in side of the cavern.  The mine
+continues to the south and east.  
+~
+0 8 0
+D1
+~
+~
+0 0 1867
+D2
+~
+~
+0 0 1863
+D3
+~
+~
+0 0 1873
+S
+#1867
+The Lexium Pit~
+You are standing in a large cavern that looks like it was formed
+naturally at some time.  Stalagmites hang from the roof.  You are standing
+in a very large pit, which has been mined out.  There are little pieces of
+ore and lexium on the floor here and also a few glowing orange crystal
+growing on the sides of some of the rocks.  To the north you see the smooth
+tunnel cut through the side of the cavern.  The mine continues to the south
+and the west and to the east you see a large heap of white rocks.  
+~
+0 9 0
+D0
+~
+~
+0 0 1885
+D1
+~
+~
+0 0 1868
+D2
+~
+~
+0 0 1860
+D3
+~
+~
+0 0 1866
+S
+#1868
+The Slag Heap~
+You are standing in a large cavern that looks like it was formed
+naturally at some time.  Stalagmites hang from the roof.  You are next to a
+pile of stone about 10 foot high and 20 foot round, which is made up of the
+chipped out white stone from the mining and tunnelling.  To the north there
+is the side of the cavern to the east you see a large chasm.  The mine
+continues to the south and to the west.  
+~
+0 8 0
+D2
+~
+~
+0 0 1861
+D3
+~
+~
+0 0 1867
+S
+#1873
+The Giant Gate~
+You are standing in a large square tunnel, about 20 foot by 20 foot that
+has been crudely chipped out of white stone.  To the east you see a mine. 
+To the west you see a huge gate made of lexium that block the tunnel.  It
+has massive hinges and huge reinforcing bars bolted to it.  Occasionally you
+here a loud crash and you can see the door shake a little.  
+~
+0 8 0
+D1
+~
+~
+0 0 1866
+D3
+~
+~
+0 0 1874
+S
+#1874
+The Lair~
+You are in a dark cavern that smells of death.  What light you have
+struggles to pierce the gloom.  The air in here is thick.  The floor is
+littered with the splinters of bones and the fragments of armour and weapons
+that seem to have been shattered.  You feel that some thing terrible is
+here, The lair continues to south and west and to the east you see the huge
+gate which looks dented.  
+~
+0 8 0
+D1
+~
+~
+0 0 1873
+D2
+~
+~
+0 0 1876
+D3
+~
+~
+0 0 1875
+S
+#1875
+The Lair~
+You are in the dark lair.  It smells of death and fear.  There is gloom
+here, which seems to be despair made tangible, nothing seems to pierce it. 
+You can stumble into shattered bones as you move.  
+~
+0 8 0
+D1
+~
+~
+0 0 1874
+D2
+~
+~
+0 0 1877
+D3
+~
+~
+0 0 1884
+S
+#1876
+The Lair~
+You are in the dark lair.  It smells of death and fear.  There is gloom
+here, which seems to be despair made tangible, nothing seems to pierce it. 
+You can stumble into shattered bones as you move.  
+~
+0 8 0
+D0
+~
+~
+0 0 1874
+D2
+~
+~
+0 0 1878
+D3
+~
+~
+0 0 1877
+S
+#1877
+The Lair~
+You are in the dark lair.  It smells of death and fear.  There is gloom
+here, which seems to be despair made tangible, nothing seems to pierce it. 
+You can stumble into shattered bones as you move.  
+~
+0 8 0
+D0
+~
+~
+0 0 1875
+D1
+~
+~
+0 0 1876
+D2
+~
+~
+0 0 1879
+D3
+~
+~
+0 0 1883
+S
+#1878
+The Lair.~
+You are in the dark lair.  It smells of death and fear.  There is gloom
+here, which seems to be despair made tangible, nothing seems to pierce it. 
+You can stumble into shattered bones as you move.  
+~
+0 8 0
+D0
+~
+~
+0 0 1876
+D3
+~
+~
+0 0 1879
+S
+#1879
+The Lair~
+You are in the dark lair.  It smells of death and fear.  There is gloom
+here, which seems to be despair made tangible, nothing seems to pierce it. 
+You can stumble into shattered bones as you move.  
+~
+0 8 0
+D0
+~
+~
+0 0 1877
+D1
+~
+~
+0 0 1878
+D2
+~
+~
+0 0 1880
+D3
+~
+~
+0 0 1882
+S
+#1880
+The Lair~
+You are in the dark lair.  It smells of death and fear.  There is gloom
+here, which seems to be despair made tangible, nothing seems to pierce it. 
+You can stumble into shattered bones as you move 
+~
+0 9 0
+D0
+~
+~
+0 0 1879
+D3
+~
+~
+0 0 1881
+S
+#1881
+The Lair~
+You are in the dark lair.  It smells of death and fear.  There is gloom
+here, which seems to be despair made tangible, nothing seems to pierce it. 
+You can stumble into shattered bones as you move.  
+~
+0 8 0
+D0
+~
+~
+0 0 1882
+D1
+~
+~
+0 0 1880
+S
+#1882
+The Lair~
+You are in the dark lair.  It smells of death and fear.  There is gloom
+here, which seems to be despair made tangible, nothing seems to pierce it. 
+You can stumble into shattered bones as you move.  
+~
+0 8 0
+D0
+~
+~
+0 0 1883
+D1
+~
+~
+0 0 1879
+D2
+~
+~
+0 0 1881
+S
+#1883
+The Lair~
+You are in the dark lair.  It smells of death and fear.  There is gloom
+here, which seems to be despair made tangible, nothing seems to pierce it. 
+You can stumble into shattered bones as you move.  
+~
+0 8 0
+D0
+~
+~
+0 0 1884
+D1
+~
+~
+0 0 1877
+D2
+~
+~
+0 0 1882
+S
+#1884
+The Lair~
+You are in the dark lair.  It smells of death and fear.  There is gloom
+here, which seems to be despair made tangible, nothing seems to pierce it. 
+You can stumble into shattered bones as you move.  
+~
+0 8 0
+D1
+~
+~
+0 0 1875
+D2
+~
+~
+0 0 1883
+S
+#1885
+The Smooth Tunnel~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows the floor of the
+tunnel is flat and the sides form circle about six foot in diameter.  To the
+south you see the Mine and the tunnel continues to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 1886
+D2
+~
+~
+0 0 1867
+S
+#1886
+The Smooth Tunnel~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows the floor of the
+tunnel is flat and the sides form circle about six foot in diameter.  The
+tunnel is dry and the air is dusty and a strange taste to it.  The tunnel
+continues to the north and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 1887
+D2
+~
+~
+0 0 1885
+S
+#1887
+The Smooth Tunnel~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows.  The floor of
+the tunnel is flat and the sides form circle about six foot in diameter. 
+The tunnel is dry and the air is dusty and a strange taste to it.  The
+tunnel continues to the south and to the north it slopes steeply 
+~
+0 8 0
+D2
+~
+~
+0 0 1886
+D5
+~
+~
+0 0 1888
+S
+#1888
+The Smooth Tunnel~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows the floor of the
+tunnel is flat and the sides form a circle about six foot in diameter.  The
+tunnel is dry and the air is dusty and a strange taste to it.  The tunnel
+continues to the north and to the south the tunnel rises up steeply 
+~
+0 8 0
+D0
+~
+~
+0 0 1889
+D4
+~
+~
+0 0 1887
+S
+#1889
+A Split In The Tunnel~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows the floor of the
+tunnel is flat and the sides form a circle about six foot in diameter.  The
+tunnel is dry and the air is dusty and has a strange taste to it.  The
+tunnel continues to the north and south and to the east there is a smooth
+passageway which is only wide enough for people to walk down in a single
+file.  
+~
+0 8 0
+D0
+~
+~
+0 0 1908
+D1
+~
+~
+0 0 1890
+D2
+~
+~
+0 0 1888
+S
+#1890
+The Smooth Passage~
+You are In an underground passageway, The white rock that surrounds you
+looks it has been chipped out with thousands of hammer blows, forming a
+rectangular passage about three foot wide by six foot high.  You can hear a
+loud humming sound here every few seconds.  To the west you see a junction
+with a larger tunnel and the passageway continues to the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 1891
+D3
+~
+~
+0 0 1889
+S
+#1891
+The Smooth Passage~
+You are In an underground passageway, The white rock that surrounds you
+looks it has been chipped out with thousands of hammer blows, forming a
+rectangular passage about three foot wide by six foot high.  You can hear a
+loud humming sound here every few seconds.  The passageway continues to the
+west and turns sharply to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 1892
+D3
+~
+~
+0 0 1890
+S
+#1892
+The Glowing Door~
+You are In an underground passageway, The white rock that surrounds you
+looks it has been chipped out with thousands of hammer blows, forming a
+rectangular passage about three foot wide by six foot high.  The passageway
+continues to the south and to the north you see a door made of lexium that
+seems to glow with energy and vibrate slightly.  
+~
+0 9 0
+D0
+~
+~
+1 0 1893
+D2
+~
+~
+0 0 1891
+S
+#1893
+The Soul Syphon~
+You are standing in a large underground cavern.  The walls and floor of
+the cavern look like they have been cut out of the white rock.  In front of
+you is a large metal container.  Inside that is the twitching remains of
+something, possibly an elf, but now the skin is deeply wrinkled, the eyes
+are dead and it looks more like a skeleton with a thin layer of skin.  Every
+so often you hear a hum and you can see energy crackle up from the person
+and up through pipes above the tube and into large crystals above.  All the
+pipes and crystals are joined together.  The cavern continues to the north
+and east and there is a passageway to the south.  
+~
+0 9 0
+D0
+~
+~
+0 0 1899
+D1
+~
+~
+0 0 1894
+D2
+~
+~
+1 0 1892
+S
+#1894
+The Soul Syphon~
+You are standing in a large underground cavern.  The walls and floor of
+the cavern look like they have been cut out of the white rock.  In front of
+you a large metal container, inside there is the husk of a life form.  Every
+so often you here a hum and you can see energy crackle up from the person
+and up through pipes above the tube and into large crystals above.  The
+cavern continuous to the north and west.  
+~
+0 9 0
+D0
+~
+~
+0 0 1897
+D3
+~
+~
+0 0 1893
+S
+#1896
+The Soul Syphon~
+You are standing in a large underground cavern.  The walls and floor of
+the cavern look like they have been cut out of the white rock.  In front of
+you a large metal container, inside there is the husk of a life form.  Every
+so often you here a hum and you can see energy crackle up from the person
+and up through pipes above the tube and into large crystals above.  The
+cavern continues to the west 
+~
+0 8 0
+D3
+~
+~
+0 0 1897
+S
+#1897
+The Soul Syphon~
+You are standing in a large underground cavern.  The walls and floor of
+the cavern look like they have been cut out of the white rock.  In front of
+you a large metal container, inside there is the husk of a life form.  Every
+so often you here a hum and you can see energy crackle up from the person
+and up through pipes above the tube and into large crystals above.  The
+cavern continues to the north, east, south and west.  
+~
+0 9 0
+D0
+~
+~
+0 0 1898
+D1
+~
+~
+0 0 1896
+D2
+~
+~
+0 0 1894
+D3
+~
+~
+0 0 1899
+S
+#1898
+The Soul Syphon~
+You are standing in a large underground cavern.  The walls and floor of
+the cavern look like they have been cut out of the white rock.  In front of
+you a large metal container, inside there is the husk of a life form.  Every
+so often you here a hum and you can see energy crackle up from the person
+and up through pipes above the tube and into large crystals above.  The
+cavern continues to the north and south.  
+~
+0 9 0
+D0
+~
+~
+0 0 1907
+D2
+~
+~
+0 0 1897
+S
+#1899
+The Soul Syphon~
+You are standing in a large underground cavern.  The walls and floor of
+the cavern look like they have been cut out of the white rock.  In front of
+you a large metal container, inside there is the husk of a life form.  Every
+so often you here a hum and you can see energy crackle up from the person
+and up through pipes above the tube and into large crystals above.  The
+Cavern continues to the east and south.  
+~
+0 9 0
+D1
+~
+~
+0 0 1897
+D2
+~
+~
+0 0 1893
+S
+#1900
+The Cavern In The Cliffs~
+You are standing in a cavern inside a cliff.  The walls are coated with
+glowing orange crystal formations of varying sizes.  On the floor around you
+the bodies of various creatures some human, some dwarf and elf and others
+which are covered with the crystal.  You here screams from the beings left
+with mouths to scream.  The cavern continues to the north, east and south
+and to the west you see the spiked gate 
+~
+0 8 0
+D0
+~
+~
+0 0 1903
+D1
+~
+~
+0 0 1902
+D2
+~
+~
+0 0 1901
+D3
+~
+~
+1 0 1865
+S
+#1901
+The Cavern In The Cliffs ~
+You are standing in a cavern inside a cliff.  The walls are coated with
+glowing orange crystal formations of varying sizes.  On the floor around you
+the bodies of various creatures which are covered with the crystal.  The
+crystal surrounds you on three sides but you can return north to the main
+cavern.  
+~
+0 8 0
+D0
+~
+~
+0 0 1900
+S
+#1902
+The Cavern In The Cliffs ~
+You are standing in a cavern inside a cliff.  The walls are coated with
+glowing orange crystal formations of varying sizes.  On the floor around you
+the bodies of various creatures which are covered with the crystal.  The
+crystal surrounds you on three sides but you can return west to the main
+cavern.  
+~
+0 8 0
+D3
+~
+~
+0 0 1900
+S
+#1903
+The Cavern In The Cliffs ~
+You are standing in a cavern inside a cliff.  The walls are coated with
+glowing orange crystal formations of varying sizes.  On the floor around you
+the bodies of various creatures which are covered with the crystal.  The
+crystal coats the east and west walls.  The main cavern is to the south and
+the cavern continues to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 1904
+D2
+~
+~
+0 0 1900
+S
+#1904
+The Crystal Grate~
+You are standing in a cavern inside a cliff.  The walls are coated with
+glowing orange crystal formations of varying sizes.  On the floor there is a
+heavy looking lexium grate the crystal has grown over parts of it but it
+looks like you might be able to move it.  The crystal covers the walls
+thickly to the north, east and west.  The cavern continues to the south.  
+~
+0 8 0
+D2
+~
+~
+0 0 1903
+D5
+~
+~
+1 0 1994
+S
+#1907
+The Soul Syphon~
+You are standing in a large underground cavern.  The walls and floor of
+the cavern look like they have been cut out of the white rock.  In front of
+you there are several large orange crystals.  Every time the cavern hums
+they glow brightly.  Pipes go from these crystals to all the crystals above
+the metal tubes and there is a large pipe that comes off these crystals and
+goes downwards into a hole in the cavern floor.  The cavern continues to the
+south.  
+~
+0 9 0
+D2
+~
+~
+0 0 1898
+S
+#1908
+The Smooth Tunnel~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows, the floor of
+the tunnel is flat and the sides form a circle about six foot in diameter. 
+The tunnel is dry and the air is dusty and has a strange taste to it.  The
+tunnel continues to the north and to the south.  
+~
+0 8 0
+D0
+~
+~
+0 0 1909
+D2
+~
+~
+0 0 1889
+S
+#1909
+The Smooth Tunnel~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows, the floor of
+the tunnel is flat and the sides form a circle about six foot in diameter. 
+The tunnel is dry and the air is dusty and has a strange taste to it.  The
+tunnel continues to the north and to the south.  
+~
+0 8 0
+D0
+~
+~
+0 0 1910
+D2
+~
+~
+0 0 1908
+S
+#1910
+The Smooth Tunnel~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows, the floor of
+the tunnel is flat and the sides form a circle about six foot in diameter. 
+The tunnel is dry and the air is dusty and has a strange taste to it.  The
+tunnel continues to the west and to the south.  
+~
+0 8 0
+D2
+~
+~
+0 0 1909
+D3
+~
+~
+0 0 1911
+S
+#1911
+The Tunnel Intersection~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows, the floor of
+the tunnel is flat and the sides form a circle about six foot in diameter. 
+The tunnel is dry and the air is dusty and has a strange taste to it.  The
+tunnel continues to the north and to the east.  To The south you can see a
+very jagged passage that intersects with this tunnel.  
+~
+0 8 0
+D0
+~
+~
+0 0 1918
+D1
+~
+~
+0 0 1910
+D3
+~
+~
+0 0 1912
+S
+#1912
+The Jagged Tunnel~
+You are in an underground tunnel, The white rocks that surrounds you
+looks like it has been clawed or bitten through and a crude jagged tunnel
+about four foot in diameter has been formed.  The floor of the tunnel is
+strewn with waste and pieces of rock.  The tunnel continues to the south and
+east.  
+~
+0 8 0
+D1
+~
+~
+0 0 1911
+D2
+~
+~
+0 0 1913
+S
+#1913
+The Jagged Tunnel~
+You are in an underground tunnel, The white rocks that surrounds you
+looks like it has been clawed or bitten through and a crude jagged tunnel
+about four foot in diameter has been formed.  The floor of the tunnel is
+strewn with waste and pieces of rock.  The tunnel continues to the north and
+south.  
+~
+0 8 0
+D0
+~
+~
+0 0 1912
+D2
+~
+~
+0 0 1914
+S
+#1914
+The Jagged Tunnel~
+You are in an underground tunnel, The white rocks that surrounds you
+looks like it has been clawed or bitten through and a crude jagged tunnel
+about four foot in diameter has been formed.  The floor of the tunnel is
+strewn with waste and pieces of rock.  The tunnel continues to the north and
+south.  
+~
+0 8 0
+D0
+~
+~
+0 0 1913
+D2
+~
+~
+0 0 1915
+S
+#1915
+The Jagged Tunnel~
+You are in an underground tunnel, The white rocks that surrounds you
+looks like it has been clawed or bitten through and a crude jagged tunnel
+about four foot in diameter has been formed.  The floor of the tunnel is
+strewn with waste and pieces of rock.  The tunnel continues to the north and
+west.  
+~
+0 8 0
+D0
+~
+~
+0 0 1914
+D3
+~
+~
+0 0 1916
+S
+#1916
+The Broken Barrier~
+You are in an underground tunnel, The white rocks that surrounds you
+looks like it has been clawed or bitten through and a crude jagged tunnel
+about four foot in diameter has been formed.  The floor of the tunnel is
+strewn with waste and pieces of rock.  The tunnel continues to the east and
+to the west you can see a large barrier made of large sheets and poles of
+metal that has been put in an attempt to block up the tunnel this has been
+bitten and clawed through and you can continue to west.  
+~
+0 8 0
+D1
+~
+~
+0 0 1915
+D3
+~
+~
+0 0 1917
+S
+#1917
+The Crevice~
+You are standing in a small underground cave.  The walls of the cave are
+made of smooth brown rock that has been eroded over time.  Chunks of the
+white rock litter the floor here that have been clawed out from the jagged
+tunnel to the east.  There is a crevice in the ground that looks like it has
+formed recently, there is a foul smell coming from it.  
+~
+0 8 0
+D1
+~
+~
+0 0 1916
+D5
+~
+~
+0 0 1992
+S
+#1918
+The Smooth Tunnel~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows, the floor of
+the tunnel is flat and the sides form a circle about six foot in diameter. 
+The tunnel is dry and the air is dusty and has a strange taste to it.  The
+tunnel continues to the north and to the south. 
+~
+0 8 0
+D0
+~
+~
+0 0 1919
+D2
+~
+~
+0 0 1911
+S
+#1919
+The Smooth Tunnel~
+You are in an underground tunnel, The white rock that surrounds you
+looks like it has been chipped out with thousands of hammer blows, the floor
+of the tunnel is flat and the sides form a circle about six foot in
+diameter.  The tunnel is dry and the air is dusty and has a strange taste to
+it.  The tunnel continues to the north and to the south.  
+~
+0 8 0
+D0
+~
+~
+0 0 1921
+D2
+~
+~
+0 0 1918
+S
+#1920
+Point Hope~
+You are suspended in the air in a stream of energy.  The Energy washes
+over you and through you but it makes you fell warm and loved.  The Energy
+comes from the darkness below and flows up to a great light in the sky.  The
+energy surrounds you as far as your eye can see and it is a brilliant white
+but it does not hurt your eyes.  In the energy you can make out the shape of
+spirits and forms flowing upwards all looking joyous in there release and
+oblivious to your presence.  
+~
+0 12 0
+S
+#1921
+The Smooth Tunnel~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows, the floor of
+the tunnel is flat and the sides form a circle about six foot in diameter. 
+The tunnel is dry and the air is dusty and has a strange taste to it.  The
+tunnel continues to the north and to the south.  
+~
+0 8 0
+D0
+~
+~
+0 0 1923
+D2
+~
+~
+0 0 1919
+S
+#1923
+The Crystal Gate~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows, the floor of
+the tunnel is flat and the sides form a circle about six foot in diameter. 
+The tunnel is dry and the air is dusty and has a strange taste to it.  To
+the north you see a large gate fashioned out of glowing orange crystal which
+blocks the tunnel.  The tunnel continues to the south.  
+~
+0 8 0
+D0
+~
+~
+1 0 1924
+D2
+~
+~
+0 0 1921
+S
+#1924
+The Crystal Door~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows, the floor of
+the tunnel is flat and the sides form a circle about six foot in diameter. 
+The tunnel is dry and the air is dusty and has a strange taste to it.  To
+the west there is a door made out of glowing orange crystal.  The tunnel
+continues to the north and to the south.  
+~
+0 8 0
+D0
+~
+~
+0 0 1925
+D2
+~
+~
+1 0 1923
+D3
+~
+~
+1 0 1942
+S
+#1925
+The Smooth Tunnel~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows, the floor of
+the tunnel is flat and the sides form a circle about six foot in diameter. 
+The tunnel is dry and the air is dusty and has a strange taste to it.  The
+tunnel continues to the south and to the north the tunnel cuts down steeply
+into the rock.  
+~
+0 8 0
+D2
+~
+~
+0 0 1924
+D5
+~
+~
+0 0 1927
+S
+#1927
+The Tunnel Nexus~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows, the floor of
+the tunnel is flat and the sides form a circle about six foot in diameter. 
+The tunnel is dry and the air is dusty and has a strange taste to it.  The
+tunnel continues to the west and to the south slopes up steeply.  To the
+north you see wide passageway and there is a narrow passageway to the east. 
+~
+0 8 0
+D0
+~
+~
+0 0 1932
+D1
+~
+~
+0 0 1928
+D3
+~
+~
+0 0 1929
+D4
+~
+~
+0 0 1925
+S
+#1928
+The Narrow Passage~
+You are In a narrow passageway chipped out of white stone rocks.  The
+passageway is dry and dusty, it is about six foot high and four foot wide. 
+To the west you see a large tunnel and the passageway continues to the east
+you see a chamber.  
+~
+0 8 0
+D1
+~
+~
+0 0 1931
+D3
+~
+~
+0 0 1927
+S
+#1929
+The Smooth Tunnel~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows, the floor of
+the tunnel is flat and the sides form a circle about six foot in diameter. 
+The tunnel is dry and the air is dusty and has a strange taste to it.  The
+tunnel continues to the east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 1927
+D3
+~
+~
+0 0 1930
+S
+#1930
+The Smooth Tunnel~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows, the floor of
+the tunnel is flat and the sides form a circle about six foot in diameter. 
+The tunnel is dry and the air is dusty and has a strange taste to it.  The
+tunnel continues to the east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 1929
+D3
+~
+~
+0 0 1933
+S
+#1931
+The Stone Disc~
+You are In a narrow circular stone chamber.  The white stone rock is
+smooth like polished marble.  The roof forms a small dome and in the floor
+there is a large hole.  A stone disk that looks like it fitted in the hole
+looks like it has been thrown into one corner.  There is a narrow passage to
+the west and down you see another chamber.  
+~
+0 8 0
+D3
+~
+~
+0 0 1928
+D5
+~
+~
+0 0 1973
+S
+#1932
+The Black Gates~
+You are standing in a large passageway that has been cut out of some
+white rock.  To the north there are a pair of huge black gates about ten
+feet wide by six foot high that completely cover the passageway.  The gates
+are made of a jet-black metal material that seems to absorb light.  They are
+decorated with arcane symbols.  
+~
+0 8 0
+D0
+~
+~
+1 0 1944
+D2
+~
+~
+0 0 1927
+S
+#1933
+The Smooth Tunnel~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows, the floor of
+the tunnel is flat and the sides form a circle about six foot in diameter. 
+The tunnel is dry and the air is dusty and has a strange taste to it.  The
+tunnel continues to the north and east.  
+~
+0 8 0
+D0
+~
+~
+0 0 1934
+D1
+~
+~
+0 0 1930
+S
+#1934
+Tunnels End ~
+You are in an underground tunnel, The white rock that surrounds you looks
+like it has been chipped out with thousands of hammer blows, the floor of
+the tunnel is flat and the sides form a circle about six foot in diameter. 
+This is where the tunnel ends.  To the north the tunnel has broken into a
+small cave and the tunnel continues to the south.  
+~
+0 8 0
+D0
+~
+~
+0 0 1935
+D2
+~
+~
+0 0 1933
+S
+#1935
+The Black Portal~
+You are in a small dark cave deep underground.  The cave is cold and
+there is a sulphur like smell in the air.  There are symbols written in
+dried blood all over the walls and floor of the cave.  There is a large
+magical symbol on the floor with five burnt out candles around it.  There is
+a tunnel to the south.  
+~
+0 8 0
+D2
+~
+~
+0 0 1934
+S
+#1936
+Lemrox's Apothecary~
+You are standing in a very large room that has been carved out of white
+rock.  There is a large oak bookcase here against the north wall with a
+large number of books and journals on its shelves.  There Is a large black
+cauldron with a dark green liquid in the centre of the room.  The apothecary
+continues to the north, east and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 1941
+D1
+~
+~
+0 0 1939
+D2
+~
+~
+0 0 1937
+S
+#1937
+The Vault Grate~
+You are standing in a very large room that has been carved out of white
+rock.  There is a large black round grate in the centre of the floor here,
+about four feet in diameter.  The apothecary continues to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 1936
+D5
+~
+~
+1 0 1999
+S
+#1939
+Lemrox's Laboratory~
+You are standing in a very large room that has been carved out of white
+rock.  There is a very fowl stench in this part of the room that comes from
+the head and claw of a large red dragon that look like they have been
+dissected recently.  The apothecary continues to the west and north 
+~
+0 8 0
+D0
+~
+~
+0 0 1940
+D3
+~
+~
+0 0 1936
+S
+#1940
+Lemrox's Apothecary~
+You are standing in a very large room that has been carved out of white
+rock.  There are several mechanical body parts here left on the floor, some
+of them are connected to small glowing orange crystals and twitch
+occasionally.  There is also a small table here with small tools on it that
+look they are used for cutting into flesh.  The apothecary continues to the
+north, south and west.  
+~
+0 9 0
+D0
+~
+~
+0 0 1942
+D2
+~
+~
+0 0 1939
+D3
+~
+~
+0 0 1941
+S
+#1941
+Lemrox's Apothecary~
+You are standing in a very large room that has been carved out of white
+rock.  There is a large wooden rack here against that west wall.  The rack
+has a dozen shelves on it all full of jars that look like they contain
+chemicals and pickled body parts, you also see skulls and bones on some of
+the shelves.  There is also a large table with leather straps here that
+looks like is used to perform some form of surgery.  The apothecary
+continues to the north, east and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 1943
+D1
+~
+~
+0 0 1940
+D2
+~
+~
+0 0 1936
+S
+#1942
+Lemrox's Apothecary~
+You are standing in a very large room that has been carved out of white
+rock.  The room has a smell that reminds you of the shops that sell potions.
+There are three large glass fluid filled tubes here each with a corpse
+inside it.  This place looks like some kind of apothecary and it continues
+to the south and west.  
+~
+0 8 0
+D1
+~
+~
+1 0 1924
+D2
+~
+~
+0 0 1940
+D3
+~
+~
+0 0 1943
+S
+#1943
+Lemrox's Apothecary~
+You are standing in a very large room that has been carved out of white
+rock.  There are three large glass fluid filled tubes here.  One has an elf
+in, One is empty and one has a still twitching dragon like creature.  The
+apothecary continues to the south and east.  
+~
+0 8 0
+D1
+~
+~
+0 0 1942
+D2
+~
+~
+0 0 1941
+S
+#1944
+The Diabolical Contraption~
+You are standing in a huge underground cavern that looks like it once
+held an large underground lake.  You notice the cavern is considerably
+hotter than the surrounding corridors.  To the south there are a large pair
+of black gates.  The cavern continues to the north and you see the side of a
+large black pyramid that slopes up to the centre of the cavern.  
+~
+0 8 0
+D0
+~
+~
+0 0 1945
+D2
+~
+~
+1 0 1932
+S
+#1945
+The Diabolical Contraption~
+You are in a huge underground cavern.  You are standing on side of a
+pyramid made of smooth jet-black metal.  It slopes steeply upwards to the
+north and you can see a figure with a large crystal above it.  The cavern
+continues to the east and west and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 1949
+D1
+~
+~
+0 0 1946
+D2
+~
+~
+0 0 1944
+D3
+~
+~
+0 0 1947
+S
+#1946
+The Diabolical Contraption~
+You are standing in the corner of a large cavern.  There is large symbol
+here painting in blood on the cavern floor.  To the north and west you see a
+large black pyramid.  
+~
+0 8 0
+D0
+~
+~
+0 0 1950
+D3
+~
+~
+0 0 1945
+S
+#1947
+The Diabolical Contraption~
+You are standing in the corner of a large cavern.  There is a corpse here
+pinned to the wall that looks like it has been pinned to the wall with metal
+spikes and tortured with the expertise that is unique to demons.  To the
+north and east you see a large black pyramid.  
+~
+0 8 0
+D0
+~
+~
+0 0 1948
+D1
+~
+~
+0 0 1945
+S
+#1948
+The Diabolical Contraption~
+You are standing in a huge underground cavern.  You are standing on side
+of a pyramid made of smooth jet-black metal.  It slopes steeply upwards to
+the east and you can see a figure with a large crystal above it.  The cavern
+continues to the north and south and to the west you see a small alcove.  
+~
+0 8 0
+D0
+~
+~
+0 0 1953
+D1
+~
+~
+0 0 1949
+D2
+~
+~
+0 0 1947
+D3
+~
+~
+0 0 1956
+S
+#1949
+The Diabolical Contraption~
+You are standing at the top of a black pyramid.  There is a metal bar
+here coming out of the top of the pyramid, which has metal bands on it.  It
+looks like these are made for holding someone, They have been broken with
+what must have been considerable force.  There is a large piece of glowing
+orange crystal suspended above the bar.  The pyramid continues to the north,
+east, south and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 1951
+D1
+~
+~
+0 0 1950
+D2
+~
+~
+0 0 1945
+D3
+~
+~
+0 0 1948
+S
+#1950
+The Diabolical Contraption~
+You are standing in a huge underground cavern.  You are standing on side
+of a pyramid made of smooth jet-black metal.  It slopes steeply upwards to
+the west and you can see a figure at the top with a large crystal above it. 
+The cavern continues to the north, east and to the east you see a small
+alcove.  
+~
+0 9 0
+D0
+~
+~
+0 0 1952
+D1
+~
+~
+0 0 1954
+D2
+~
+~
+0 0 1946
+D3
+~
+~
+0 0 1949
+S
+#1951
+The Diabolical Contraption~
+You are standing in a huge underground cavern.  You are standing on side
+of a pyramid made of smooth jet-black metal.  It slopes steeply upwards to
+the south and you can see a figure at the top with a large crystal above it.
+There is a pipe that goes over your head and to the north.  The cavern
+continues to the east and west and to the north you see a passageway.  
+~
+0 8 0
+D0
+~
+~
+0 0 1957
+D1
+~
+~
+0 0 1952
+D2
+~
+~
+0 0 1949
+D3
+~
+~
+0 0 1953
+S
+#1952
+The Diabolical Contraption~
+You are standing in the corner of a large cavern.  There is the body of
+an elf here tied to a black spike.  Its eyes have been removed.  To the
+south and west you see a large black pyramid.  
+~
+0 9 0
+D2
+~
+~
+0 0 1950
+D3
+~
+~
+0 0 1951
+S
+#1953
+The Diabolical Contraption~
+You are standing in the corner of a large cavern.  The walls here are
+covered in writing scrawled in an arcane style.  To the south and east you
+see a large black pyramid.  
+~
+0 8 0
+D1
+~
+~
+0 0 1951
+D2
+~
+~
+0 0 1948
+S
+#1954
+The Diabolical Contraption~
+You are standing in a small alcove deep underground.  It has been dug
+into the wall of an underground cavern and has been turned into a small
+shrine.  The air here has a pungent smell.  There is a small stone altar
+against the east wall of the alcove.  On it Is a statue of a demon like
+figure with three large horns coming out of his head.  The body is enclosed
+in a cloak.  There are symbols drawn over the altar.  To your west there is
+a large underground cavern.  
+~
+0 9 0
+D3
+~
+~
+0 0 1950
+S
+#1956
+The Diabolical Contraption~
+You are standing in a small alcove deep underground.  It has been dug
+into the wall of an underground cavern and has been turned into a small
+shrine.  The air here has a pungent smell.  There is a small stone altar
+against the west west wall of the alcove.  On it Is a statue of a demon like
+figure.  It has a naked female figure with many arms and legs and a large
+hideous face.  To your east there is a large underground cavern 
+~
+0 8 0
+D1
+~
+~
+0 0 1948
+S
+#1957
+The Statue of the Unicorn~
+You are standing in a small tunnel that connects a large cavern to your
+south with a cave to your north.  The cavern is about six-foot high and
+about twelve-foot high.  There is a life-size statue of a winged unicorn
+here.  A pipe runs over you head from north to south and another one comes
+from the ground and runs north.  To the north you see a strange glowing
+light and to the south you see a large black pyramid.    
+~
+0 9 0
+D0
+~
+~
+0 0 1959
+D2
+~
+~
+0 0 1951
+D5
+~
+~
+1 0 1978
+S
+#1959
+The Glowing Pentagram~
+You are standing in a cave deep underground.  There are three large pipes
+here two from the south and one comes down through the roof.  Each one
+connects to a glowing orange crystal and there are two more crystals here
+all the crystals are connected together with pipes.  Each is at the point of
+a large glowing pentagram on the floor of the cave.  Every few seconds the
+crystals glow brightly then the pentagram glows brightly.  The cave
+continues to the north, south, east and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 1962
+D1
+~
+~
+0 0 1960
+D2
+~
+~
+0 0 1957
+D3
+~
+~
+0 0 1961
+S
+#1960
+The Statue of Bashridack~
+You are standing in a cave deep underground.  There is a life-size statue
+here of a three horned demon in a large cloak.  Under it is the name
+Bashridack.  The statue seems to stare at you intensely, You get the feeling
+you are in the presence of something very ancient and very evil.  The cave
+continues to the west.  
+~
+0 9 0
+D3
+~
+~
+0 0 1959
+S
+#1961
+The Statue Of Lemrox~
+You are standing in a cave deep underground.  There is a life-size statue
+of an old man here with a long beard and flowing hair dressed in fine robes.
+The man holds a brush in one hand and a cog in the other, underneath the
+statue is written the name Lemrox.  There is a trap door in the floor here
+and the cave continues to the east.  
+~
+0 9 0
+D1
+~
+~
+0 0 1959
+D5
+~
+~
+1 0 1963
+S
+#1962
+The Statue of The Angel~
+You are standing in a cave deep underground.  There is a life-size statue
+of an angel here, Its head is bowed and a single stone tear rests on its
+cheek.  The cave continues to the south.  
+~
+0 9 0
+D2
+~
+~
+0 0 1959
+S
+#1963
+The Crystal Cavern   ~
+You are standing in a cavern deep underground.  This cavern looks like
+it has been dug out of white rock.  There are pictures on the walls and
+finely crafted furniture in the room and looking north it looks like this
+cavern once resembled a throne room but now there is a layer of glowing
+orange crystal slowly covering everything.  There is the smell of crystal
+dust in the air here.  The cavern continues to the north.  
+~
+0 9 0
+D0
+~
+~
+0 0 1965
+D4
+~
+~
+1 0 1961
+S
+#1964
+The Crystal Cavern   ~
+You are standing in a cavern deep underground.  This cavern looks like it
+has been dug out of white rock.  There is a layer of orange crystal covering
+everything here.  There are benches here facing the throne that is to the
+northwest.  The cavern continues to the north and west.  
+~
+0 9 0
+D0
+~
+~
+0 0 1968
+D3
+~
+~
+0 0 1965
+S
+#1965
+The Crystal Cavern~
+You are standing in a cavern deep underground.  This cavern looks like it
+has been dug out of white rock.  There is a layer of orange crystal covering
+everything here.  To the north you see a crystal throne and the cavern
+continues to the north, south, east and west.  
+~
+0 9 0
+D0
+~
+~
+0 0 1967
+D1
+~
+~
+0 0 1964
+D2
+~
+~
+0 0 1963
+D3
+~
+~
+0 0 1966
+S
+#1966
+The Crystal Cavern~
+You are standing in a cavern deep underground.  This cavern looks like it
+has been dug out of white rock.  There is a layer of orange crystal covering
+everything here.  There are benches here facing the throne to the northeast.
+The cavern continues to the north and east.  
+~
+0 9 0
+D0
+~
+~
+0 0 1969
+D1
+~
+~
+0 0 1965
+S
+#1967
+The Crystal Throne~
+You are standing in a cavern deep underground.  This cavern looks like it
+has been dug out of white rock.  There is a layer of orange crystal covering
+everything here.  There is a huge throne here made of lexium that looks
+finely crafted.  It looks like Lemrox planned to sit here holding court with
+the power he tried to harness but the now the crystal he could not control
+is consuming and coating everything in the cavern.  The cavern continues to
+the south, east and west 
+~
+0 9 0
+D1
+~
+~
+0 0 1968
+D2
+~
+~
+0 0 1965
+D3
+~
+~
+0 0 1969
+S
+#1968
+The Crystal Cavern   ~
+You are standing in a cavern deep underground.  This cavern looks like it
+has been dug out of white rock.  There is a layer of orange crystal covering
+everything here.  There are maps of discordia on the walls here with arrows
+and writing on.  It looks as if an invasion was being planned here.  A large
+white rug covers the floor.  To the west you see a throne and the cavern
+continues to the north and south.  
+~
+0 9 0
+E
+rug~
+This white rug is new and seems out of place here, but none the worse for
+wear.  
+~
+D0
+~
+~
+0 0 1971
+D2
+~
+~
+0 0 1964
+D3
+~
+~
+0 0 1967
+D5
+~
+rug~
+1 0 10004
+S
+#1969
+The Crystal Cavern~
+You are standing in a cavern deep underground.  This cavern looks like it
+has been dug out of white rock.  There is a layer of orange crystal covering
+everything here.  There is a writing desk here with letters and plans on it.
+There is a throne to east and the cavern continues to the north and south.  
+~
+0 9 0
+D0
+~
+~
+0 0 1970
+D1
+~
+~
+0 0 1967
+D2
+~
+~
+0 0 1966
+S
+#1970
+The Crystal Cavern   ~
+You are standing in a cavern deep underground.  This cavern looks like it
+has been dug out of white rock.  There is a layer of orange crystal covering
+everything here.  There is a huge orange crystal growing upwards in a
+pyramid shape.  Every few seconds a small cloud of shards separates off the
+crystal and goes flying into the air.  There is a bright glow inside the
+crystal.  That seems to get lighter and darker like a heart beat.  The
+cavern continues to the south.  
+~
+0 8 0
+D2
+~
+~
+0 0 1969
+S
+#1971
+The Crystal Cavern~
+You are standing in a cavern deep underground.  This cavern looks like it
+has been dug out of white rock.  There is a layer of orange crystal covering
+everything here.  There is some writing on the wall here and the quill and
+ink pot that wrote it have been dropped on the floor and encased in crystal,
+The cavern continues to the south.  
+~
+0 9 0
+D2
+~
+~
+0 0 1968
+S
+#1972
+Tomb of The Angel~
+You are standing in a underground chamber.  The walls of the chamber are
+smooth and polished.  There are old paintings on the walls that have been
+defaced with crude symbols and writing.  The chamber continues to the north
+and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 1974
+D2
+~
+~
+0 0 1973
+S
+#1973
+Tomb Of The Angel~
+You are standing in a underground chamber.  The air here is cold and dry.
+The walls of the chamber are smooth and polished.  There are old paintings
+on the walls and a mural on the roof of the chamber.  The paintings have
+been recently been crudely defaced.  The chamber continues to the north and
+there are some steps up to a circular hole in the roof of the chamber.  
+~
+0 8 0
+D0
+~
+~
+0 0 1972
+D4
+~
+~
+0 0 1931
+S
+#1974
+The Desecrated Tomb~
+You are standing in a underground chamber.  The walls of the chamber are
+smooth and polished.  There are old paintings on the walls that have been
+defaced.  There is a large tomb here about ten foot by five foot.  The tomb
+is made of white marble with elaborate pictures sculpted into the side of
+it.  The lid of tomb lies shattered on the floor.  The tomb continues to the
+north, east and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 1975
+D1
+~
+~
+0 0 1976
+D2
+~
+~
+0 0 1972
+D3
+~
+~
+0 0 1977
+S
+#1975
+Tomb Of The Angel~
+You are standing in a small altar in an underground chamber.  The walls
+of the chamber are elaborately decorated with old pictures.  The altar has
+been desecrated and foul symbols now decorate it.  The chamber continues to
+the south.  
+~
+0 8 0
+D2
+~
+~
+0 0 1974
+S
+#1976
+Tomb of The Angel~
+You are standing in a underground chamber.  The walls of the chamber are
+smooth and polished.  There are old paintings on the walls that have been
+defaced with crude symbols and writing.  The chamber continues to the west. 
+~
+0 8 0
+D3
+~
+~
+0 0 1974
+S
+#1977
+Tomb Of The Angel~
+You are standing in a underground chamber.  The walls of the chamber are
+smooth and polished.  There are old paintings on the walls that have been
+defaced with crude symbols and writing.  The chamber continues to the east. 
+~
+0 8 0
+D1
+~
+~
+0 0 1974
+S
+#1978
+The Crystal Globe~
+You are standing in a huge sphere made out of glowing orange crystal. 
+You can feel the air is charged with energy in here and you are bathed in an
+orange light.  There is a ladder here that goes upward to a hatch in the
+roof.  The Sphere continues to the north, east, south and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 1985
+D1
+~
+~
+0 0 1979
+D2
+~
+~
+0 0 1981
+D3
+~
+~
+0 0 1982
+D4
+~
+~
+1 0 1957
+S
+#1979
+The Crystal Globe~
+You are standing in a huge circular sphere made out of glowing orange
+crystal.  You are near the wall of the sphere.  The sphere is walls of the
+sphere are smooth and polished.  The sphere continues to the north, south
+and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 1986
+D2
+~
+~
+0 0 1980
+D3
+~
+~
+0 0 1978
+S
+#1980
+The Crystal Globe~
+You are standing in a huge circular sphere made out of glowing orange
+crystal.  You are near the wall of the sphere.  The sphere is walls of the
+sphere are smooth and polished.  The sphere continues to the north and west.
+~
+0 8 0
+D0
+~
+~
+0 0 1979
+D3
+~
+~
+0 0 1981
+S
+#1981
+The Crystal Globe~
+You are standing in a huge circular sphere made out of glowing orange
+crystal.  You are near the wall of the sphere.  The sphere is walls of the
+sphere are smooth and polished.  The sphere continues to the north, east and
+west.  
+~
+0 8 0
+D0
+~
+~
+0 0 1978
+D1
+~
+~
+0 0 1980
+D3
+~
+~
+0 0 1983
+S
+#1982
+The Crystal Globe~
+You are standing in a huge circular sphere made out of glowing orange
+crystal.  You are near the wall of the sphere.  The sphere is walls of the
+sphere are smooth and polished.  The sphere continues to the north, south
+and east.  
+~
+0 8 0
+D0
+~
+~
+0 0 1984
+D1
+~
+~
+0 0 1978
+D2
+~
+~
+0 0 1983
+S
+#1983
+The Crystal Globe~
+You are standing in a huge circular sphere made out of glowing orange
+crystal.  You are near the wall of the sphere.  The sphere is walls of the
+sphere are smooth and polished.  The sphere continues to the north and east.
+~
+0 8 0
+D0
+~
+~
+0 0 1982
+D1
+~
+~
+0 0 1981
+S
+#1984
+The Crystal Globe~
+You are standing in a huge circular sphere made out of glowing orange
+crystal.  You are near the wall of the sphere.  The sphere is walls of the
+sphere are smooth and polished.  The sphere continues to the south and east.
+~
+0 8 0
+D1
+~
+~
+0 0 1985
+D2
+~
+~
+0 0 1982
+S
+#1985
+The Crystal Globe~
+You are standing in a huge circular sphere made out of glowing orange
+crystal.  You are near the wall of the sphere.  The sphere is walls of the
+sphere are smooth and polished.  The sphere continues to the south, east and
+west.  
+~
+0 8 0
+D1
+~
+~
+0 0 1986
+D2
+~
+~
+0 0 1978
+D3
+~
+~
+0 0 1984
+S
+#1986
+The Crystal Globe~
+You are standing in a huge circular sphere made out of glowing orange
+crystal.  You are near the wall of the sphere.  The sphere is walls of the
+sphere are smooth and polished.  The sphere continues to the south and west.
+~
+0 8 0
+D2
+~
+~
+0 0 1979
+D3
+~
+~
+0 0 1985
+S
+#1987
+The Carrion Nest~
+You are standing in an underground cave, water trickles down the damp
+stone walls of the cave.  The air in here stinks.  The floor is littered
+with bones and debris.  On the ground there are many eggs.  The cave
+continues to the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 1988
+S
+#1988
+The Carrion Nest  ~
+You are standing in an underground cave.  Water trickles down the damp
+stone walls of the cave.  The air in here stinks.  The floor is littered
+with bones and debris.  On the ground there are many eggs.  The cave
+continues to the north, east and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 1990
+D1
+~
+~
+0 0 1989
+D3
+~
+~
+0 0 1987
+S
+#1989
+The Carrion Nest~
+You are standing in an underground cave and the damp walls are made of a
+smooth brown stone.  The stench here is very strong.  There is a pile of
+rotting corpses in the middle the cave here and all around there are
+half-eaten bits of bodies.  The cave continues to the west.  
+~
+0 8 0
+D3
+~
+~
+0 0 1988
+S
+#1990
+The Carrion Nest~
+You are standing in an underground cave, water trickles down the damp
+stone walls of the cave.  The air in here stinks.  The floor is littered
+with bones and debris.  On the ground there are many eggs.  The cave
+continues to the north and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 1991
+D2
+~
+~
+0 0 1988
+S
+#1991
+The Carrion Nest~
+You are standing in an underground cave, water trickles down the damp
+stone walls of the cave.  The air in here stinks.  The floor is littered
+with bones and debris.  On the ground there are many eggs.  The cave
+continues to the north and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 1992
+D2
+~
+~
+0 0 1990
+S
+#1992
+The Carrion Nest~
+You are standing in an underground cave.  The cave is about four-foot in
+diameter.  The walls of the cave are made of smooth eroded rock.  The air is
+here is damp and smells of rotting flesh and excrement.  The floor is
+littered with bones and armour and the bits of contraptions that have been
+torn apart by tooth and claw.  There are many eggs here some of them still
+whole and some of them cracked.  The cave continues to the south and there
+is a crevice in the roof, which leads to another cave above.  
+~
+0 8 0
+D2
+~
+~
+0 0 1991
+D4
+~
+~
+0 0 1917
+S
+#1993
+The Crystal Pit~
+You are standing in a pit under the cavern in the cliff.  The crystal 
+formations surround you and are so thick here you can not see the original 
+rock through them.  The crystals give off a strange orange glow.  This part 
+of the pit is filled with crystals that seem to be visibly growing and you 
+can just squeeze to the north.  A small rod-shaped cluster stands out.  
+~
+0 8 0
+D0
+~
+~
+0 0 1994
+S
+#1994
+The Crystal Pit~
+You are standing in a pit under the cavern in the cliff.  The crystal
+formations surround you and are so thick here you can not see the original
+rock through them.  The crystals give off a strange orange glow.  The air
+has a strange dusty smell that you have never smelt before you ventured
+under the atelier.  Looking up you can reach the grate in the roof.  The pit
+continues to the north, east, south and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 1998
+D1
+~
+~
+0 0 1996
+D2
+~
+~
+0 0 1993
+D3
+~
+~
+0 0 1997
+D4
+~
+~
+1 0 1904
+S
+#1996
+The Crystal Pit~
+You are standing in a pit under the cavern in the cliff.  The crystal
+formations surround you and are so thick here you can not see the original
+rock through them.  The crystals give off a strange orange glow.  This part
+of the pit is filled with crystals that seem to be visibly growing and you
+can just squeeze to the west.  
+~
+0 8 0
+D3
+~
+~
+0 0 1994
+S
+#1997
+The Crystal Pit~
+You are standing in a pit under the cavern in the cliff.  The crystal
+formations surround you and are so thick here you can not see the original
+rock through them.  The crystals give off a strange orange glow.  This part
+of the pit is filled with crystals that seem to be visibly growing and you
+can just squeeze to the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 1994
+S
+#1998
+The Crystal Pit~
+You are standing in a pit under the cavern in the cliff.  The crystal
+formations surround you and are so thick here you can not see the original
+rock through them.  The crystals give off a strange orange glow.  This part
+of the pit is filled with crystals that seem to be visibly growing and you
+can just squeeze to the south.  
+~
+0 8 0
+D2
+~
+~
+0 0 1994
+S
+#1999
+The Black Vault~
+You are in an underground vault.  The air here is fowl and it seems no
+one has been down here for a long time.  The walls of the vault of covered
+in sheets of a thick black metal.  Looking up you see a large black circular
+door about four foot in diameter.  The vault continues to the south.  
+~
+0 8 0
+D2
+~
+~
+0 0 2000
+D4
+~
+~
+1 0 1937
+S
+#2000
+The Black Vault~
+You are in an underground vault.  You can see piles of papers, letters
+and plans here.  There are two black chests here left against the south
+wall.  Everything in here is covered in a thick layer of dust.  The vault
+continues to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 1999
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 1805 spec_janitor Load to: a servant
+M 1821 spec_cast_mage Load to: a dark servant
+M 1822 spec_breath_gas Load to: the Toberlat Queen
+M 1824 spec_cast_mage Load to: Lemrox
+M 1833 spec_breath_acid Load to: a reckarou
+S
+
+
+
+#RESETS
+D 0 1801 2 0
+D 0 1805 1 1
+D 0 1806 3 1
+D 0 1808 0 2
+D 0 1818 0 0
+D 0 1819 2 0
+D 0 1824 0 0
+D 0 1824 1 0
+D 0 1825 1 0
+D 0 1825 2 2
+D 0 1825 3 0
+D 0 1826 3 0
+D 0 1827 0 0
+D 0 1827 1 0
+D 0 1827 2 0
+D 0 1827 5 1
+D 0 1828 1 0
+D 0 1828 3 0
+D 0 1829 0 0
+D 0 1829 3 0
+D 0 1830 1 0
+D 0 1830 2 0
+D 0 1831 1 0
+D 0 1831 3 0
+D 0 1832 2 0
+D 0 1832 3 0
+D 0 1833 1 0
+D 0 1834 2 0
+D 0 1837 0 0
+D 0 1837 2 0
+D 0 1838 3 0
+D 0 1839 0 0
+D 0 1839 1 0
+D 0 1840 3 0
+D 0 1844 2 0
+D 0 1845 2 0
+D 0 1846 1 0
+D 0 1847 0 0
+D 0 1847 1 0
+D 0 1847 2 0
+D 0 1847 3 0
+D 0 1848 0 0
+D 0 1848 2 0
+D 0 1848 3 0
+D 0 1850 0 0
+D 0 1851 0 0
+D 0 1853 4 1
+D 0 1855 1 1
+D 0 1856 3 0
+D 0 1857 1 0
+D 0 1858 3 1
+D 0 1859 0 0
+D 0 1860 2 0
+D 0 1865 1 0
+D 0 1892 0 0
+D 0 1893 2 0
+D 0 1900 3 0
+D 0 1904 5 0
+D 0 1923 0 0
+D 0 1924 2 0
+D 0 1924 3 0
+D 0 1932 0 0
+D 0 1937 5 0
+D 0 1942 1 0
+D 0 1944 2 0
+D 0 1957 5 0
+D 0 1961 5 0
+D 0 1963 4 0
+D 0 1968 5 0
+D 0 1978 4 0
+D 0 1994 4 0
+D 0 1999 4 0
+M 0 1801 12 1801
+E 0 1856 0 6
+E 0 1801 0 16
+E 0 1840 0 8
+E 0 1802 0 5
+M 0 1801 12 1801
+E 0 1856 0 6
+E 0 1801 0 16
+E 0 1802 0 5
+M 0 1801 12 1802
+E 0 1856 0 6
+E 0 1801 0 16
+E 0 1802 0 5
+E 0 1840 0 8
+M 0 1801 12 1802
+E 0 1856 0 6
+E 0 1801 0 16
+E 0 1802 0 5
+E 0 1840 0 8
+M 0 1801 12 1803
+E 0 1856 0 6
+E 0 1840 0 8
+E 0 1802 0 5
+E 0 1812 0 16
+M 0 1801 1 1803
+E 0 1856 0 6
+E 0 1840 0 8
+E 0 1802 0 5
+E 0 1812 0 16
+M 0 1801 12 1804
+E 0 1856 0 6
+E 0 1801 0 16
+E 0 1840 0 8
+E 0 1802 0 5
+M 0 1801 12 1804
+E 0 1856 0 6
+E 0 1801 0 16
+E 0 1840 0 8
+E 0 1802 0 5
+O 0 1805 0 1805
+M 0 1801 12 1805
+E 0 1856 0 6
+E 0 1801 0 16
+E 0 1840 0 8
+E 0 1802 0 5
+M 0 1801 12 1805
+E 0 1856 0 6
+E 0 1801 0 16
+E 0 1802 0 5
+E 0 1840 0 8
+M 0 1818 1 1806
+E 0 1802 0 5
+E 0 1871 0 7
+E 0 1870 0 16
+G 0 1804 0
+E 0 1840 0 8
+M 0 1801 12 1807
+E 0 1856 0 6
+E 0 1801 0 16
+E 0 1840 0 8
+E 0 1802 0 5
+M 0 1808 1 1808
+E 0 1857 0 15
+E 0 1857 0 14
+E 0 1802 0 5
+E 0 1803 0 16
+E 0 1840 0 8
+G 0 1806 0
+M 0 1801 12 1809
+E 0 1856 0 6
+E 0 1801 0 16
+E 0 1840 0 8
+E 0 1802 0 5
+M 0 1807 1 1813
+E 0 1856 0 6
+E 0 1858 0 16
+G 0 1822 0
+O 0 1810 0 1815
+M 0 1802 10 1819
+E 0 1815 0 16
+G 0 1820 0
+O 0 1821 0 1824
+M 0 1805 7 1825
+E 0 1866 0 27
+E 0 1869 0 6
+E 0 1858 0 16
+E 0 1868 0 12
+M 0 1805 7 1827
+E 0 1869 0 6
+E 0 1866 0 27
+E 0 1858 0 16
+E 0 1868 0 12
+M 0 1805 7 1828
+E 0 1866 0 27
+E 0 1869 0 6
+E 0 1868 0 12
+M 0 1806 1 1830
+E 0 1854 0 0
+E 0 1819 0 0
+M 0 1805 7 1830
+E 0 1866 0 27
+M 0 1805 7 1830
+E 0 1866 0 27
+E 0 1869 0 6
+M 0 1811 4 1834
+G 0 1884 0
+O 0 1813 0 1834
+M 0 1811 4 1835
+G 0 1884 0
+E 0 1889 0 9
+O 0 1814 0 1835
+P 0 1826 0 1814
+M 0 1812 5 1836
+G 0 1820 0
+M 0 1805 7 1837
+E 0 1866 0 27
+E 0 1869 0 6
+E 0 1858 0 16
+M 0 1811 4 1838
+G 0 1884 0
+E 0 1889 0 9
+M 0 1805 7 1838
+E 0 1866 0 27
+E 0 1869 0 6
+M 0 1811 4 1839
+G 0 1884 0
+E 0 1889 0 9
+O 0 1808 0 1839
+M 0 1804 6 1843
+E 0 1864 0 5
+E 0 1865 0 16
+M 0 1812 5 1843
+G 0 1820 0
+M 0 1804 6 1844
+E 0 1864 0 5
+E 0 1865 0 16
+M 0 1804 6 1844
+E 0 1864 0 5
+E 0 1865 0 16
+O 0 1808 0 1845
+M 0 1804 6 1847
+E 0 1864 0 5
+E 0 1865 0 16
+M 0 1804 6 1847
+E 0 1865 0 16
+E 0 1864 0 5
+O 0 1832 0 1848
+P 0 1920 0 1832
+P 0 1831 0 1832
+M 0 1809 1 1848
+G 0 1811 0
+E 0 1816 0 16
+M 0 1812 5 1849
+G 0 1820 0
+M 0 1812 5 1849
+O 0 1838 0 1851
+O 0 1837 0 1851
+M 0 1803 5 1851
+M 0 1810 6 1854
+E 0 1874 0 16
+M 0 1810 6 1856
+E 0 1874 0 16
+O 0 1860 0 1858
+O 0 1851 0 1858
+M 0 1810 6 1860
+E 0 1874 0 16
+M 0 1813 6 1860
+E 0 1875 0 16
+M 0 1815 6 1860
+E 0 1879 0 16
+E 0 1878 0 17
+E 0 1876 0 5
+M 0 1813 6 1861
+E 0 1875 0 16
+M 0 1813 6 1861
+E 0 1875 0 16
+M 0 1813 6 1863
+E 0 1875 0 16
+M 0 1812 5 1864
+G 0 1820 0
+M 0 1815 6 1864
+E 0 1876 0 5
+E 0 1878 0 17
+E 0 1879 0 16
+E 0 1881 0 9
+M 0 1810 6 1867
+E 0 1874 0 16
+M 0 1815 6 1867
+E 0 1876 0 5
+E 0 1877 0 4
+E 0 1880 0 16
+E 0 1878 0 17
+M 0 1816 1 1867
+E 0 1885 0 6
+E 0 1887 0 8
+E 0 1886 0 7
+E 0 1888 0 16
+M 0 1813 6 1868
+E 0 1875 0 16
+M 0 1813 6 1868
+E 0 1875 0 16
+M 0 1815 6 1868
+E 0 1879 0 16
+E 0 1878 0 17
+E 0 1877 0 4
+M 0 1814 1 1880
+E 0 1883 0 16
+O 0 1809 0 1881
+M 0 1810 6 1887
+E 0 1874 0 16
+M 0 1832 10 1888
+E 0 1859 0 0
+M 0 1832 10 1889
+E 0 1859 0 0
+M 0 1810 6 1889
+E 0 1874 0 16
+M 0 1815 6 1889
+E 0 1873 0 16
+E 0 1877 0 4
+E 0 1878 0 17
+M 0 1832 10 1891
+M 0 1819 6 1896
+G 0 1855 0
+E 0 1872 0 16
+M 0 1819 6 1897
+G 0 1855 0
+E 0 1872 0 16
+M 0 1819 6 1898
+G 0 1855 0
+E 0 1872 0 16
+M 0 1819 6 1899
+G 0 1855 0
+E 0 1872 0 16
+M 0 1819 6 1899
+E 0 1872 0 16
+M 0 1802 10 1900
+E 0 1815 0 16
+G 0 1820 0
+M 0 1802 10 1901
+M 0 1802 10 1902
+E 0 1815 0 16
+M 0 1802 10 1903
+E 0 1815 0 16
+M 0 1802 10 1904
+E 0 1815 0 16
+G 0 1820 0
+M 0 1819 6 1907
+G 0 1855 0
+E 0 1872 0 16
+M 0 1831 10 1908
+E 0 1859 0 0
+M 0 1832 10 1909
+E 0 1859 0 0
+M 0 1831 10 1910
+M 0 1831 10 1912
+M 0 1831 10 1915
+M 0 1831 10 1919
+M 0 1831 10 1921
+M 0 1831 10 1923
+M 0 1826 10 1929
+M 0 1826 10 1932
+M 0 1827 6 1932
+M 0 1828 6 1932
+M 0 1826 10 1933
+M 0 1826 10 1935
+M 0 1826 10 1935
+M 0 1833 5 1936
+M 0 1821 5 1936
+E 0 1892 0 16
+E 0 1893 0 27
+M 0 1833 5 1937
+M 0 1833 5 1939
+M 0 1821 5 1939
+E 0 1892 0 16
+E 0 1893 0 27
+M 0 1833 5 1940
+M 0 1821 5 1940
+E 0 1892 0 16
+E 0 1893 0 27
+M 0 1833 5 1941
+M 0 1821 5 1941
+E 0 1892 0 16
+E 0 1893 0 27
+M 0 1833 5 1942
+M 0 1821 5 1942
+E 0 1892 0 16
+E 0 1893 0 27
+G 0 1894 0
+M 0 1833 5 1943
+M 0 1826 10 1944
+M 0 1826 10 1945
+M 0 1828 6 1945
+M 0 1828 6 1946
+M 0 1826 10 1948
+M 0 1825 1 1949
+M 0 1826 10 1950
+M 0 1826 6 1950
+M 0 1828 6 1954
+M 0 1830 5 1954
+M 0 1830 5 1956
+M 0 1826 10 1957
+M 0 1830 5 1959
+M 0 1830 5 1960
+M 0 1817 6 1963
+M 0 1817 6 1965
+O 0 1897 0 1967
+P 0 1835 0 1897
+P 0 1828 0 1897
+M 0 1824 1 1967
+E 0 1861 0 5
+E 0 1853 0 0
+E 0 1862 0 14
+E 0 1863 0 16
+M 0 1817 6 1969
+O 0 1829 0 1970
+M 0 1817 6 1970
+M 0 1817 6 1970
+O 0 1829 0 1971
+M 0 1827 6 1972
+E 0 1896 0 16
+M 0 1827 6 1974
+E 0 1896 0 16
+M 0 1827 6 1974
+E 0 1896 0 16
+M 0 1830 5 1974
+M 0 1827 6 1975
+E 0 1896 0 16
+M 0 1827 6 1975
+E 0 1896 0 16
+M 0 1823 1 1978
+E 0 1898 0 6
+O 0 1825 0 1983
+O 0 1818 0 1987
+M 0 1820 8 1987
+M 0 1820 8 1987
+E 0 1890 0 5
+M 0 1820 8 1988
+M 0 1820 8 1988
+O 0 1807 0 1989
+M 0 1820 8 1989
+E 0 1890 0 5
+M 0 1820 8 1989
+M 0 1822 1 1989
+M 0 1820 8 1990
+M 0 1820 8 1990
+O 0 1882 0 1993
+M 0 1802 10 1993
+M 0 1802 10 1994
+E 0 1815 0 16
+M 0 1802 10 1994
+G 0 1820 0
+E 0 1815 0 16
+M 0 1802 10 1994
+E 0 1815 0 16
+M 0 1817 10 1994
+E 0 1891 0 17
+M 0 1802 10 1996
+E 0 1815 0 16
+M 0 1802 10 1996
+E 0 1815 0 16
+G 0 1820 0
+M 0 1802 10 1997
+E 0 1815 0 16
+M 0 1802 10 1997
+E 0 1815 0 16
+M 0 1802 10 1998
+E 0 1815 0 16
+M 0 1833 5 1999
+M 0 1829 1 2000
+E 0 1827 0 0
+E 0 1895 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

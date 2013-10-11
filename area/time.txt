@@ -1,8 +1,8 @@
 #TIME
-Hour 5
-Day Solarias~
-Date 8
-Month 11
-Year 390
+Hour 10
+Day Septarias~
+Date 20
+Month 0
+Year 391
 End
 #END

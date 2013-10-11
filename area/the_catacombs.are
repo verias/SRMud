@@ -1,0 +1,2705 @@
+#AREADATA
+Name {40 99} Sighel  The Catacombs~
+Builders Sighel~
+VNUMs 501 599
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#501
+wisp~
+a wisp~
+A slight wisp in the air shows you aren't alone in the hall.
+~
+There isn't much to look at, since it just appears to be a slight wispy
+disturbance in the air.  
+~
+unique~
+A DFTUc 0 0
+30 0 10d60+520 30d10+100 3d6+8 charge
+-1 -1 -1 0
+FGHU F AE C
+(null) (null) male 135
+CIKLM ABCDEFGHIJK medium unknown
+#502
+spirit of ancient~
+a spirit of an Ancient~
+A spirit of an Ancient hovers here, guarding unknown secrets.
+~
+A large form hovers above the ground, swirling and shifting into the
+shape of what might have once been a human, or the like.  It seems to loom
+towards you, its head growing larger as its mouth opens wide, trying to
+swallow your torso.  As it comes even closer, you hear a strange wailing
+coming from it that chills you to your bones.  
+~
+unique~
+AF DFTUc 0 0
+37 0 10d84+713 37d10+100 4d6+10 charge
+-4 -4 -4 -2
+FGHR F AE C
+(null) (null) male 166
+CIKLM ABCDEFGHIJK large unknown
+#506
+wisp~
+a wisp~
+A slight wisp in the air shows you aren't alone in the hall.
+~
+There isn't much to look at, since it just appears to be a slight wispy
+disturbance in the air.  
+~
+unique~
+AQ DFTUc 0 0
+60 0 11d277+1559 60d10+100 5d7+19 charge
+-13 -13 -13 -11
+FGHU F AE C
+(null) (null) male 270
+CIKLM ABCDEFGHIJK medium unknown
+#510
+spirit of ancient~
+a spirit of an Ancient~
+A spirit of an Ancient hovers here, guarding unknown secrets.
+~
+A large form hovers above the ground, swirling and shifting into the
+shape of what might have once been a human, or the like.  It seems to loom
+towards you, its head growing larger as its mouth opens wide, trying to
+swallow your torso.  As it comes even closer, you hear a strange wailing
+coming from it that chills you to your bones.  
+~
+unique~
+ABFO DFTUc 0 0
+42 0 10d109+868 42d10+100 4d7+11 charge
+-6 -6 -6 -4
+FGHR F AE C
+(null) (null) male 189
+CIKLM ABCDEFGHIJK large unknown
+#511
+spirit of ancient~
+a spirit of an Ancient~
+A spirit of an Ancient hovers here, guarding unknown secrets.
+~
+A large form hovers above the ground, swirling and shifting into the
+shape of what might have once been a human, or the like.  It seems to loom
+towards you, its head growing larger as its mouth opens wide, trying to
+swallow your torso.  As it comes even closer, you hear a strange wailing
+coming from it that chills you to your bones.  
+~
+unique~
+AFO DFTUc 0 0
+52 0 11d185+1225 52d10+100 5d6+16 charge
+-10 -10 -10 -8
+FGHR F AE C
+(null) (null) male 234
+CIKLM ABCDEFGHIJK large unknown
+#515
+wisp~
+a wisp~
+A slight wisp in the air shows you aren't alone in the hall.
+~
+There isn't much to look at, since it just appears to be a slight wispy
+disturbance in the air.  
+~
+unique~
+A DFTUc 0 0
+90 0 12d991+3214 90d10+100 5d11+28 charge
+-25 -25 -25 -23
+FGHR F AE C
+(null) (null) male 405
+CIKLM ABCDEFGHIJK medium unknown
+#519
+spirit of ancient~
+a spirit of an Ancient~
+A spirit of an Ancient hovers here, guarding unknown secrets.
+~
+A large form hovers above the ground, swirling and shifting into the
+shape of what might have once been a human, or the like.  It seems to loom
+towards you, its head growing larger as its mouth opens wide, trying to
+swallow your torso.  As it comes even closer, you hear a strange wailing
+coming from it that chills you to your bones.  
+~
+unique~
+AFO DFTUc 0 0
+48 0 10d150+1075 48d10+100 5d6+13 charge
+-8 -8 -8 -6
+FGHR F AE C
+(null) (null) male 216
+CIKLM ABCDEFGHIJK large unknown
+#520
+spirit of ancient~
+a spirit of an Ancient~
+A spirit of an Ancient hovers here, guarding unknown secrets.
+~
+A large form hovers above the ground, swirling and shifting into the
+shape of what might have once been a human, or the like.  It seems to loom
+towards you, its head growing larger as its mouth opens wide, trying to
+swallow your torso.  As it comes even closer, you hear a strange wailing
+coming from it that chills you to your bones.  
+~
+unique~
+AFO DFTUc 0 0
+58 0 11d251+1471 58d10+100 5d7+18 charge
+-13 -13 -13 -10
+FGHR F AE C
+(null) (null) male 261
+CIKLM ABCDEFGHIJK large unknown
+#528
+spirit of ancient~
+a spirit of an Ancient~
+A spirit of an Ancient hovers here, guarding unknown secrets.
+~
+A large form hovers above the ground, swirling and shifting into the
+shape of what might have once been a human, or the like.  It seems to loom
+towards you, its head growing larger as its mouth opens wide, trying to
+swallow your torso.  As it comes even closer, you hear a strange wailing
+coming from it that chills you to your bones.  
+~
+unique~
+AFO DFTUc 0 0
+56 0 11d227+1386 56d10+100 5d7+16 charge
+-12 -12 -12 -10
+FGHR F AE C
+(null) (null) male 252
+CIKLM ABCDEFGHIJK large unknown
+#529
+spirit of ancient~
+a spirit of an Ancient~
+A spirit of an Ancient hovers here, guarding unknown secrets.
+~
+A large form hovers above the ground, swirling and shifting into the
+shape of what might have once been a human, or the like.  It seems to loom
+towards you, its head growing larger as its mouth opens wide, trying to
+swallow your torso.  As it comes even closer, you hear a strange wailing
+coming from it that chills you to your bones.  
+~
+unique~
+AFO DFTUc 0 0
+66 0 11d369+1836 66d10+100 5d8+20 charge
+-16 -16 -16 -14
+FGHR F AE C
+(null) (null) male 297
+CIKLM ABCDEFGHIJK large unknown
+#537
+spirit of ancient~
+a spirit of an Ancient~
+A spirit of an Ancient hovers here, guarding unknown secrets.
+~
+A large form hovers above the ground, swirling and shifting into the
+shape of what might have once been a human, or the like.  It seems to loom
+towards you, its head growing larger as its mouth opens wide, trying to
+swallow your torso.  As it comes even closer, you hear a strange wailing
+coming from it that chills you to your bones.  
+~
+unique~
+AFO DFTUc 0 0
+68 0 11d405+1935 68d10+100 5d8+21 charge
+-17 -17 -17 -14
+FGHR F AE C
+(null) (null) male 306
+CIKLM ABCDEFGHIJK large unknown
+#538
+spirit of ancient~
+a spirit of an Ancient~
+A spirit of an Ancient hovers here, guarding unknown secrets.
+~
+A large form hovers above the ground, swirling and shifting into the
+shape of what might have once been a human, or the like.  It seems to loom
+towards you, its head growing larger as its mouth opens wide, trying to
+swallow your torso.  As it comes even closer, you hear a strange wailing
+coming from it that chills you to your bones.  
+~
+unique~
+AFO DFTUc 0 0
+72 0 11d484+2141 72d10+100 5d9+22 charge
+-18 -18 -18 -16
+FGHR F AE C
+(null) (null) male 324
+CIKLM ABCDEFGHIJK large unknown
+#546
+spirit of ancient~
+a spirit of an Ancient~
+A spirit of an Ancient hovers here, guarding unknown secrets.
+~
+A large form hovers above the ground, swirling and shifting into the
+shape of what might have once been a human, or the like.  It seems to loom
+towards you, its head growing larger as its mouth opens wide, trying to
+swallow your torso.  As it comes even closer, you hear a strange wailing
+coming from it that chills you to your bones.  
+~
+unique~
+AFO DFTUc 0 0
+78 0 11d624+2471 78d10+100 5d10+23 charge
+-21 -21 -21 -18
+FGHR F AE C
+(null) (null) male 351
+CIKLM ABCDEFGHIJK large unknown
+#547
+spirit of ancient~
+a spirit of an Ancient~
+A spirit of an Ancient hovers here, guarding unknown secrets.
+~
+A large form hovers above the ground, swirling and shifting into the
+shape of what might have once been a human, or the like.  It seems to loom
+towards you, its head growing larger as its mouth opens wide, trying to
+swallow your torso.  As it comes even closer, you hear a strange wailing
+coming from it that chills you to your bones.  
+~
+unique~
+AFO DFTUc 0 0
+86 0 12d855+2954 86d10+100 5d10+26 charge
+-24 -24 -24 -22
+FGHR F AE C
+(null) (null) male 387
+CIKLM ABCDEFGHIJK large unknown
+#555
+spirit of ancient~
+a spirit of an Ancient~
+A spirit of an Ancient hovers here, guarding unknown secrets.
+~
+A large form hovers above the ground, swirling and shifting into the
+shape of what might have once been a human, or the like.  It seems to loom
+towards you, its head growing larger as its mouth opens wide, trying to
+swallow your torso.  As it comes even closer, you hear a strange wailing
+coming from it that chills you to your bones.  
+~
+unique~
+AFO DFTUc 0 0
+88 0 12d921+3083 88d10+100 5d10+27 charge
+-25 -25 -25 -22
+FGHR F AE C
+(null) (null) male 396
+CIKLM ABCDEFGHIJK large unknown
+#556
+spirit of ancient~
+a spirit of an Ancient~
+A spirit of an Ancient hovers here, guarding unknown secrets.
+~
+A large form hovers above the ground, swirling and shifting into the
+shape of what might have once been a human, or the like.  It seems to loom
+towards you, its head growing larger as its mouth opens wide, trying to
+swallow your torso.  As it comes even closer, you hear a strange wailing
+coming from it that chills you to your bones.  
+~
+unique~
+AFO DFTUc 0 0
+96 0 12d1223+3628 96d10+100 6d10+29 charge
+-31 -31 -31 -26
+FGHR F AE C
+(null) (null) male 432
+CIKLM ABCDEFGHIJK large unknown
+#560
+beast~
+the beast~
+The beast roams the hall, trapped in its prison.
+~
+Large and hairy, this beast looks like it's ready to tear into the first
+thing it sees.  Long sharp claws grate along the stone floor and walls,
+echoing around you piercingly.  Its eyes glow like a strange red fire as it
+sizes you up for its attack.  
+~
+unique~
+AFV BCDFJPQTVZac -1000 0
+102 40 20d2000+6000 408d10+100 20d20+50 charge
+-75 -75 -75 -70
+CDEF HILQ M N
+(null) (null) male 459
+ACGHIMVZc ABCDEFGHIJKLOPUVW large unknown
+#561
+agitated angry wisp~
+an agitated wisp~
+A slight wisp in the air gives off angry, agitated energy.
+~
+There isn't much to look at, since it just appears to be a slight wispy
+disturbance in the air.  
+~
+unique~
+AF BDFTU 0 0
+98 0 12d1308+3773 98d10+100 6d11+28 sting
+-33 -33 -33 -26
+EFGHU DF A C
+(null) (null) male 441
+CIKLM ABCDEFGHIJK medium unknown
+#564
+spirit of ancient~
+a spirit of an Ancient~
+A spirit of an Ancient hovers here, guarding unknown secrets.
+~
+A large form hovers above the ground, swirling and shifting into the
+shape of what might have once been a human, or the like.  It seems to loom
+towards you, its head growing larger as its mouth opens wide, trying to
+swallow your torso.  As it comes even closer, you hear a strange wailing
+coming from it that chills you to your bones.  
+~
+unique~
+A DFTUc 0 0
+98 0 12d1308+3773 98d10+100 6d11+28 charge
+-33 -33 -33 -26
+FGHR F AE C
+(null) (null) male 441
+CIKLM ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#501
+bone key~
+a small key carved from bone~
+What looks like was once a finger, this bone has been shaped into a key.~
+unknown~
+key FP AO
+0 0 0 0 0
+0 1 0 P
+#502
+ancient grinning skull~
+an ancient skull~
+An ancient skull floats magically in the darkness, grinning at you.~
+unknown~
+container AR 0
+2 ABCD 501 0 0
+0 9999 0 P
+E
+skull~
+This skull appears to be hovering or floating somehow in the darkness
+that surrounds it.  Your light doesn't penetrate into the darkness, so you
+can't see if something is supporting it or not, but the magical feel of the
+room gives a strong indication only magic is holding it there.  A strange
+dull glow seems to emanate from within the skull itself.  
+~
+E
+glow~
+The glow seems to come from a strange crystal you can barely see inside
+the skull.  
+~
+#503
+crystal~
+a dully glowing crystal~
+This chunk of black crystal has a white galaxy swirling inside it.~
+unknown~
+treasure ART AR
+0 0 0 0 0
+0 1 300 P
+A
+17 -8
+#510
+crystal~
+a dully glowing crystal~
+This chunk of black crystal has a yellow galaxy swirling inside it.~
+unknown~
+treasure ART AR
+0 0 0 0 0
+0 1 300 P
+A
+24 -1
+#511
+crystal~
+a dully glowing crystal~
+This chunk of black crystal has a red galaxy swirling inside it.~
+unknown~
+treasure ART AR
+0 0 0 0 0
+0 1 300 P
+A
+19 1
+#519
+crystal~
+a dully glowing crystal~
+This chunk of black crystal has an orange galaxy swirling inside it.~
+unknown~
+treasure ART AR
+0 0 0 0 0
+0 1 300 P
+A
+18 1
+#520
+crystal~
+a dully glowing crystal~
+This chunk of black crystal has a pink galaxy swirling inside it.~
+unknown~
+treasure ART AR
+0 0 0 0 0
+0 1 300 P
+A
+1 1
+#528
+crystal~
+a dully glowing crystal~
+This chunk of black crystal has a blue galaxy swirling inside it.~
+unknown~
+treasure ART AR
+0 0 0 0 0
+0 1 300 P
+A
+2 1
+#529
+crystal~
+a dully glowing crystal~
+This chunk of black crystal has a purple galaxy swirling inside it.~
+unknown~
+treasure ART AR
+0 0 0 0 0
+0 1 300 P
+A
+4 1
+#537
+crystal~
+a dully glowing crystal~
+This chunk of black crystal has a green galaxy swirling inside it.~
+unknown~
+treasure ART AR
+0 0 0 0 0
+0 0 300 P
+A
+3 1
+#538
+crystal~
+a dully glowing crystal~
+This chunk of black crystal has a teal galaxy swirling inside it.~
+unknown~
+treasure ART AR
+0 0 0 0 0
+0 1 300 P
+A
+5 1
+#546
+crystal~
+a dully glowing crystal~
+This chunk of black crystal has a violet galaxy swirling inside it.~
+unknown~
+treasure ART AR
+0 0 0 0 0
+0 1 300 P
+A
+13 10
+#547
+crystal~
+a dully glowing crystal~
+This chunk of black crystal has a chartreuse galaxy swirling inside it.~
+unknown~
+treasure ART AR
+0 0 0 0 0
+0 1 300 P
+A
+14 10
+#555
+crystal~
+a dully glowing crystal~
+This chunk of black crystal has a gambose galaxy swirling inside it.~
+unknown~
+treasure ART AR
+0 0 0 0 0
+0 1 300 P
+A
+12 10
+#556
+crystal~
+a dully glowing crystal~
+This chunk of black crystal has a crimson galaxy swirling inside it.~
+unknown~
+treasure ART AR
+0 0 0 0 0
+0 1 300 P
+A
+2 1
+#560
+black mace~
+a black mace~
+A heavy mace formed of some black material glows magically.~
+unknown~
+weapon AT AN
+staff 12 16 punch 0
+100 5 500 P
+#564
+crystal~
+a dully glowing crystal~
+This chunk of black crystal has a multicoloured galaxy swirling inside it.~
+unknown~
+treasure ART AR
+0 0 0 0 0
+0 1 300 P
+A
+4 1
+#569
+wall flicker~
+a wall flicker~
+The ancient stone wall flickers for just a brief second.~
+unknown~
+portal R 0
+0 0 D EFJ 0
+1 0 0 P
+#0
+
+
+
+#ROOMS
+#501
+The Catacombs~
+Darkness impedes heavily around you, and you have to wait a moment to let
+your eyes adjust.  The smell of stale, dank, musty air fills your nostrils
+sharply.  Cobwebs hang like curtains draping over the ancient stone walls
+and the archway to the north.  Looking up into the darkness of the high
+arched ceiling, you see the carved faces of people being tortured and
+gargoyles intermixed.  You hear something that sounds like stone grinding
+against stone echoing down the long hallway ahead of you to the north and
+suddenly all the cobwebs blow in a breeze that circles around you.  
+~
+0 1048589 0
+D0
+~
+~
+~
+0 0 506
+M 0 H 0
+S
+#502
+The Catacombs~
+Massive stones form tall walls to the north, south and west of you. 
+These walls have been carved into and drawn over with strange, arcane
+symbols, which is probably some long lost ancient language.  Cut roughly and
+deeply into the western wall is a large gaping hole.  Looking closer into
+the hole, you can see an old skull, darkened with age, grinning out of the
+darkness at you.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east, though you can barely make out what lays in this
+direction.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 503
+M 0 H 0
+S
+#503
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  The hall continues to
+the east and west, though you can barely make out what lays in either of
+these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 504
+D3
+~
+~
+~
+0 0 502
+M 0 H 0
+S
+#504
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  A small arched passageway is completely covered with
+cobwebs to the north.  The hall continues to the east and west, though you
+can barely make out what lays in either of these directions.  
+~
+0 1056777 0
+D0
+~
+cobwebs~
+~
+1 0 517
+D1
+~
+~
+~
+0 0 505
+D3
+~
+~
+~
+0 0 503
+M 0 H 0
+S
+#505
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east and west, though you can barely make out what
+lays in either of these directions.  An elegant archway opens up to the
+east.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 506
+D3
+~
+~
+~
+0 0 504
+M 0 H 0
+S
+#506
+The Catacombs~
+Deeper into the darkness of this long hallway, you can only make out the
+ancient stonework making the walls around you.  Tall columns are adorned
+with carved gargoyles and faces of people in horrible pain, their faces
+distorted grotesquely.  High up in the darkness you can see the vaulted
+ceiling, dripping with cobwebs, taking your eyes back down to the carvings
+along the tops of the archways.  The faces that were once being tortured now
+look at you frightfully, as though telling you to get out, and as you
+register this change in the carvings, the eyes of the gargoyles all open at
+once suddenly, their eyes glowing red.  Small archways enshrouded in
+blackness and cobwebs lead off this main hall to the east and west here,
+while the main hall continues north and south.  
+~
+0 1048585 0
+D0
+~
+~
+~
+0 0 515
+D1
+~
+~
+~
+0 0 507
+D2
+~
+~
+~
+0 0 501
+D3
+~
+~
+~
+0 0 505
+M 0 H 0
+S
+#507
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  The hall continues to
+the east and west, though you can barely make out what lays in either of
+these directions.  An elegant archway opens up to the west.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 508
+D3
+~
+~
+~
+0 0 506
+M 0 H 0
+S
+#508
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  The hall continues to
+the east and west, though you can barely make out what lays in either of
+these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 509
+D3
+~
+~
+~
+0 0 507
+M 0 H 0
+S
+#509
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  A
+small arched passageway is completely covered with cobwebs to the north. 
+The hall continues to the east and west, though you can barely make out what
+lays in either of these directions.  
+~
+0 1056777 0
+D0
+~
+cobwebs~
+~
+1 0 512
+D1
+~
+~
+~
+0 0 510
+D3
+~
+~
+~
+0 0 508
+M 0 H 0
+S
+#510
+The Catacombs~
+Massive stones form tall walls to the north, south and east of you. 
+These walls have been carved into and drawn over with strange, arcane
+symbols, which is probably some long lost ancient language.  Cut roughly and
+deeply into the western wall is a large gaping hole.  Looking closer into
+the hole, you can see an old skull, darkened with age, grinning out of the
+darkness at you.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the west, though you can barely make out what lays in this
+direction.  
+~
+0 1056777 0
+D3
+~
+~
+~
+0 0 509
+M 0 H 0
+S
+#511
+The Catacombs~
+Massive stones form tall walls to the north, south and east of you. 
+These walls have been carved into and drawn over with strange, arcane
+symbols, which is probably some long lost ancient language.  Cut roughly and
+deeply into the western wall is a large gaping hole.  Looking closer into
+the hole, you can see an old skull, darkened with age, grinning out of the
+darkness at you.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the west, though you can barely make out what lays in this
+direction.  
+~
+0 1056777 0
+D3
+~
+~
+~
+0 0 512
+M 0 H 0
+S
+#512
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  A small arched
+passageway is completely covered with cobwebs to the south.  The hall
+continues to the east and west, though you can barely make out what lays in
+either of these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 511
+D2
+~
+cobwebs~
+~
+1 0 509
+D3
+~
+~
+~
+0 0 513
+M 0 H 0
+S
+#513
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east and west, though you can barely make out what
+lays in either of these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 512
+D3
+~
+~
+~
+0 0 514
+M 0 H 0
+S
+#514
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east and west, though you can barely make out what
+lays in either of these directions.  An elegant archway opens up to the
+west.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 513
+D3
+~
+~
+~
+0 0 515
+M 0 H 0
+S
+#515
+The Catacombs~
+Deeper into the darkness of this long hallway, you can only make out the
+ancient stonework making the walls around you.  Tall columns are adorned
+with carved gargoyles and faces of people in horrible pain, their faces
+distorted grotesquely.  High up in the darkness you can see the vaulted
+ceiling, dripping with cobwebs, taking your eyes back down to the carvings
+along the tops of the archways.  The faces that were once being tortured now
+look at you frightfully, as though telling you to get out, and as you
+register this change in the carvings, the eyes of the gargoyles all open at
+once suddenly, their eyes glowing red.  Small archways enshrouded in
+blackness and cobwebs lead off this main hall to the east and west here,
+while the main hall continues north and south.  
+~
+0 1056777 0
+D0
+~
+~
+~
+0 0 524
+D1
+~
+~
+~
+0 0 514
+D2
+~
+~
+~
+0 0 506
+D3
+~
+~
+~
+0 0 516
+M 0 H 0
+S
+#516
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  The hall continues to
+the east and west, though you can barely make out what lays in either of
+these directions.  An elegant archway opens up to the east.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 515
+D3
+~
+~
+~
+0 0 517
+M 0 H 0
+S
+#517
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  A
+small arched passageway is completely covered with cobwebs to the south. 
+The hall continues to the east and west, though you can barely make out what
+lays in either of these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 516
+D2
+~
+cobwebs~
+~
+1 0 504
+D3
+~
+~
+~
+0 0 518
+M 0 H 0
+S
+#518
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  The hall continues to
+the east and west, though you can barely make out what lays in either of
+these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 517
+D3
+~
+~
+~
+0 0 519
+M 0 H 0
+S
+#519
+The Catacombs~
+Massive stones form tall walls to the north, south and west of you. 
+These walls have been carved into and drawn over with strange, arcane
+symbols, which is probably some long lost ancient language.  Cut roughly and
+deeply into the western wall is a large gaping hole.  Looking closer into
+the hole, you can see an old skull, darkened with age, grinning out of the
+darkness at you.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east, though you can barely make out what lays in this
+direction.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 518
+M 0 H 0
+S
+#520
+The Catacombs~
+Massive stones form tall walls to the north, south and west of you. 
+These walls have been carved into and drawn over with strange, arcane
+symbols, which is probably some long lost ancient language.  Cut roughly and
+deeply into the western wall is a large gaping hole.  Looking closer into
+the hole, you can see an old skull, darkened with age, grinning out of the
+darkness at you.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  A
+small arched passageway is completely covered with cobwebs to the north. 
+The hall continues to the east, though you can barely make out what lays in
+this direction.  
+~
+0 1056777 0
+D0
+~
+cobwebs~
+~
+1 0 537
+D1
+~
+~
+~
+0 0 521
+M 0 H 0
+S
+#521
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  The hall continues to
+the east and west, though you can barely make out what lays in either of
+these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 522
+D3
+~
+~
+~
+0 0 520
+M 0 H 0
+S
+#522
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  The hall continues to
+the east and west, though you can barely make out what lays in either of
+these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 523
+D3
+~
+~
+~
+0 0 521
+M 0 H 0
+S
+#523
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east and west, though you can barely make out what
+lays in either of these directions.  An elegant archway opens up to the
+east.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 524
+D3
+~
+~
+~
+0 0 522
+M 0 H 0
+S
+#524
+The Catacombs~
+Deeper into the darkness of this long hallway, you can only make out the
+ancient stonework making the walls around you.  Tall columns are adorned
+with carved gargoyles and faces of people in horrible pain, their faces
+distorted grotesquely.  High up in the darkness you can see the vaulted
+ceiling, dripping with cobwebs, taking your eyes back down to the carvings
+along the tops of the archways.  The faces that were once being tortured now
+look at you frightfully, as though telling you to get out, and as you
+register this change in the carvings, the eyes of the gargoyles all open at
+once suddenly, their eyes glowing red.  Small archways enshrouded in
+blackness and cobwebs lead off this main hall to the east and west here,
+while the main hall continues north and south.  
+~
+0 1056777 0
+D0
+~
+~
+~
+0 0 533
+D1
+~
+~
+~
+0 0 525
+D2
+~
+~
+~
+0 0 515
+D3
+~
+~
+~
+0 0 523
+M 0 H 0
+S
+#525
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  The hall continues to
+the east and west, though you can barely make out what lays in either of
+these directions.  An elegant archway opens up to the west.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 526
+D3
+~
+~
+~
+0 0 524
+M 0 H 0
+S
+#526
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  A
+small arched passageway is completely covered with cobwebs to the north. 
+The hall continues to the east and west, though you can barely make out what
+lays in either of these directions.  
+~
+0 1056777 0
+D0
+~
+cobwebs~
+~
+1 0 531
+D1
+~
+~
+~
+0 0 527
+D3
+~
+~
+~
+0 0 525
+M 0 H 0
+S
+#527
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  The hall continues to
+the east and west, though you can barely make out what lays in either of
+these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 528
+D3
+~
+~
+~
+0 0 526
+M 0 H 0
+S
+#528
+The Catacombs~
+Massive stones form tall walls to the north, south and east of you. 
+These walls have been carved into and drawn over with strange, arcane
+symbols, which is probably some long lost ancient language.  Cut roughly and
+deeply into the western wall is a large gaping hole.  Looking closer into
+the hole, you can see an old skull, darkened with age, grinning out of the
+darkness at you.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the west, though you can barely make out what lays in this
+direction.  
+~
+0 1056777 0
+D3
+~
+~
+~
+0 0 527
+M 0 H 0
+S
+#529
+The Catacombs~
+Massive stones form tall walls to the north, south and east of you. 
+These walls have been carved into and drawn over with strange, arcane
+symbols, which is probably some long lost ancient language.  Cut roughly and
+deeply into the western wall is a large gaping hole.  Looking closer into
+the hole, you can see an old skull, darkened with age, grinning out of the
+darkness at you.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the west, though you can barely make out what lays in this
+direction.  
+~
+0 1056777 0
+D3
+~
+~
+~
+0 0 530
+M 0 H 0
+S
+#530
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  The hall continues to
+the east and west, though you can barely make out what lays in either of
+these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 529
+D3
+~
+~
+~
+0 0 531
+M 0 H 0
+S
+#531
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  A
+small arched passageway is completely covered with cobwebs to the south. 
+The hall continues to the east and west, though you can barely make out what
+lays in either of these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 530
+D2
+~
+cobwebs~
+~
+1 0 526
+D3
+~
+~
+~
+0 0 532
+M 0 H 0
+S
+#532
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east and west, though you can barely make out what
+lays in either of these directions.  An elegant archway opens up to the
+west.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 531
+D3
+~
+~
+~
+0 0 533
+M 0 H 0
+S
+#533
+The Catacombs~
+Deeper into the darkness of this long hallway, you can only make out the
+ancient stonework making the walls around you.  Tall columns are adorned
+with carved gargoyles and faces of people in horrible pain, their faces
+distorted grotesquely.  High up in the darkness you can see the vaulted
+ceiling, dripping with cobwebs, taking your eyes back down to the carvings
+along the tops of the archways.  The faces that were once being tortured now
+look at you frightfully, as though telling you to get out, and as you
+register this change in the carvings, the eyes of the gargoyles all open at
+once suddenly, their eyes glowing red.  Small archways enshrouded in
+blackness and cobwebs lead off this main hall to the east and west here,
+while the main hall continues north and south.  
+~
+0 1056777 0
+D0
+~
+~
+~
+0 0 542
+D1
+~
+~
+~
+0 0 532
+D2
+~
+~
+~
+0 0 524
+D3
+~
+~
+~
+0 0 534
+M 0 H 0
+S
+#534
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  The hall continues to
+the east and west, though you can barely make out what lays in either of
+these directions.  An elegant archway opens up to the east.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 533
+D3
+~
+~
+~
+0 0 535
+M 0 H 0
+S
+#535
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east and west, though you can barely make out what
+lays in either of these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 534
+D3
+~
+~
+~
+0 0 536
+M 0 H 0
+S
+#536
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  The hall continues to
+the east and west, though you can barely make out what lays in either of
+these directions.  
+~
+0 1056776 0
+D1
+~
+~
+~
+0 0 535
+D3
+~
+~
+~
+0 0 537
+M 0 H 0
+S
+#537
+The Catacombs~
+Massive stones form tall walls to the north, south and west of you. 
+These walls have been carved into and drawn over with strange, arcane
+symbols, which is probably some long lost ancient language.  Cut roughly and
+deeply into the western wall is a large gaping hole.  Looking closer into
+the hole, you can see an old skull, darkened with age, grinning out of the
+darkness at you.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  A
+small arched passageway is completely covered with cobwebs to the south. 
+The hall continues to the east, though you can barely make out what lays in
+this direction.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 536
+D2
+~
+cobwebs~
+~
+1 0 520
+M 0 H 0
+S
+#538
+The Catacombs~
+Massive stones form tall walls to the north, south and west of you. 
+These walls have been carved into and drawn over with strange, arcane
+symbols, which is probably some long lost ancient language.  Cut roughly and
+deeply into the western wall is a large gaping hole.  Looking closer into
+the hole, you can see an old skull, darkened with age, grinning out of the
+darkness at you.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east, though you can barely make out what lays in this
+direction.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 539
+M 0 H 0
+S
+#539
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east and west, though you can barely make out what
+lays in either of these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 540
+D3
+~
+~
+~
+0 0 538
+M 0 H 0
+S
+#540
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  A small arched
+passageway is completely covered with cobwebs to the north.  The hall
+continues to the east and west, though you can barely make out what lays in
+either of these directions.  
+~
+0 1056777 0
+D0
+~
+cobwebs~
+~
+1 0 553
+D1
+~
+~
+~
+0 0 541
+D3
+~
+~
+~
+0 0 539
+M 0 H 0
+S
+#541
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east and west, though you can barely make out what
+lays in either of these directions.  An elegant archway opens up to the
+east.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 542
+D3
+~
+~
+~
+0 0 540
+M 0 H 0
+S
+#542
+The Catacombs~
+Deeper into the darkness of this long hallway, you can only make out the
+ancient stonework making the walls around you.  Tall columns are adorned
+with carved gargoyles and faces of people in horrible pain, their faces
+distorted grotesquely.  High up in the darkness you can see the vaulted
+ceiling, dripping with cobwebs, taking your eyes back down to the carvings
+along the tops of the archways.  The faces that were once being tortured now
+look at you frightfully, as though telling you to get out, and as you
+register this change in the carvings, the eyes of the gargoyles all open at
+once suddenly, their eyes glowing red.  Small archways enshrouded in
+blackness and cobwebs lead off this main hall to the east and west here,
+while the main hall continues north and south.  
+~
+0 1056777 0
+D0
+~
+~
+~
+0 0 551
+D1
+~
+~
+~
+0 0 543
+D2
+~
+~
+~
+0 0 533
+D3
+~
+~
+~
+0 0 541
+M 0 H 0
+S
+#543
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  The hall continues to
+the east and west, though you can barely make out what lays in either of
+these directions.  An elegant archway opens up to the west.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 544
+D3
+~
+~
+~
+0 0 542
+M 0 H 0
+S
+#544
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east and west, though you can barely make out what
+lays in either of these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 545
+D3
+~
+~
+~
+0 0 543
+M 0 H 0
+S
+#545
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east and west, though you can barely make out what
+lays in either of these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 546
+D3
+~
+~
+~
+0 0 544
+M 0 H 0
+S
+#546
+The Catacombs~
+Massive stones form tall walls to the north, south and east of you. 
+These walls have been carved into and drawn over with strange, arcane
+symbols, which is probably some long lost ancient language.  Cut roughly and
+deeply into the western wall is a large gaping hole.  Looking closer into
+the hole, you can see an old skull, darkened with age, grinning out of the
+darkness at you.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  A
+small arched passageway is completely covered with cobwebs to the north. 
+The hall continues to the west, though you can barely make out what lays in
+this direction.  
+~
+0 1056777 0
+D0
+~
+cobwebs~
+~
+1 0 547
+D3
+~
+~
+~
+0 0 545
+M 0 H 0
+S
+#547
+The Catacombs~
+Massive stones form tall walls to the north, south and east of you. 
+These walls have been carved into and drawn over with strange, arcane
+symbols, which is probably some long lost ancient language.  Cut roughly and
+deeply into the western wall is a large gaping hole.  Looking closer into
+the hole, you can see an old skull, darkened with age, grinning out of the
+darkness at you.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  A
+small arched passageway is completely covered with cobwebs to the south. 
+The hall continues to the west, though you can barely make out what lays in
+this direction.  
+~
+0 1056777 0
+D2
+~
+cobwebs~
+~
+1 0 546
+D3
+~
+~
+~
+0 0 548
+M 0 H 0
+S
+#548
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east and west, though you can barely make out what
+lays in either of these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 547
+D3
+~
+~
+~
+0 0 549
+M 0 H 0
+S
+#549
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  The hall continues to
+the east and west, though you can barely make out what lays in either of
+these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 548
+D3
+~
+~
+~
+0 0 550
+M 0 H 0
+S
+#550
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east and west, though you can barely make out what
+lays in either of these directions.  An elegant archway opens up to the
+west.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 549
+D3
+~
+~
+~
+0 0 551
+M 0 H 0
+S
+#551
+The Catacombs~
+Deeper into the darkness of this long hallway, you can only make out the
+ancient stonework making the walls around you.  Tall columns are adorned
+with carved gargoyles and faces of people in horrible pain, their faces
+distorted grotesquely.  High up in the darkness you can see the vaulted
+ceiling, dripping with cobwebs, taking your eyes back down to the carvings
+along the tops of the archways.  The faces that were once being tortured now
+look at you frightfully, as though telling you to get out, and as you
+register this change in the carvings, the eyes of the gargoyles all open at
+once suddenly, their eyes glowing red.  Small archways enshrouded in
+blackness and cobwebs lead off this main hall to the east and west here,
+while the main hall continues north and south.  
+~
+0 1056777 0
+D0
+~
+~
+~
+0 0 569
+D1
+~
+~
+~
+0 0 550
+D2
+~
+~
+~
+0 0 542
+D3
+~
+~
+~
+0 0 552
+M 0 H 0
+S
+#552
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  The hall continues to
+the east and west, though you can barely make out what lays in either of
+these directions.  An elegant archway opens up to the east.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 551
+D3
+~
+~
+~
+0 0 553
+M 0 H 0
+S
+#553
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  A small arched
+passageway is completely covered with cobwebs to the south.  The hall
+continues to the east and west, though you can barely make out what lays in
+either of these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 552
+D2
+~
+cobwebs~
+~
+1 0 540
+D3
+~
+~
+~
+0 0 554
+M 0 H 0
+S
+#554
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  The hall continues to
+the east and west, though you can barely make out what lays in either of
+these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 553
+D3
+~
+~
+~
+0 0 555
+M 0 H 0
+S
+#555
+The Catacombs~
+Massive stones form tall walls to the north, south and west of you. 
+These walls have been carved into and drawn over with strange, arcane
+symbols, which is probably some long lost ancient language.  Cut roughly and
+deeply into the western wall is a large gaping hole.  Looking closer into
+the hole, you can see an old skull, darkened with age, grinning out of the
+darkness at you.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east, though you can barely make out what lays in this
+direction.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 554
+M 0 H 0
+S
+#556
+The Catacombs~
+Massive stones form tall walls to the north, south and west of you. 
+These walls have been carved into and drawn over with strange, arcane
+symbols, which is probably some long lost ancient language.  Cut roughly and
+deeply into the western wall is a large gaping hole.  Looking closer into
+the hole, you can see an old skull, darkened with age, grinning out of the
+darkness at you.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east, though you can barely make out what lays in this
+direction.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 557
+M 0 H 0
+S
+#557
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east and west, though you can barely make out what
+lays in either of these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 558
+D3
+~
+~
+~
+0 0 556
+M 0 H 0
+S
+#558
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  The hall continues to
+the east and west, though you can barely make out what lays in either of
+these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 559
+D3
+~
+~
+~
+0 0 557
+M 0 H 0
+S
+#559
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east and west, though you can barely make out what
+lays in either of these directions.  An elegant archway opens up to the
+east.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 569
+D3
+~
+~
+~
+0 0 558
+M 0 H 0
+S
+#560
+The Hidden Hall~
+Darkness surrounds you and presses in.  Your light can barely penetrate
+to the walls that obviously must be enclosing you.  Light tingling
+sensations run over any exposed skin you have, hopefully only being spider
+webs brushing over you and not something else.  There's an eerie silence in
+the hall, damping out your own breathing and movements.  The only thing
+echoing through the hall is a strange howling and scraping sound, though you
+can't tell what direction it comes from.  
+~
+0 1048585 0
+D1
+~
+~
+~
+0 0 568
+D3
+~
+~
+~
+0 0 570
+M 0 H 0
+S
+#561
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  The hall continues to
+the east and west, though you can barely make out what lays in either of
+these directions.  An elegant archway opens up to the west.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 562
+D3
+~
+~
+~
+0 0 569
+M 0 H 0
+S
+#562
+The Catacombs~
+Ancient stonework makes up the walls to the north and south of you. 
+Small parts of the walls have been chiselled out to make a little nook for
+some use, though most appear to have held wax candles at one point.  The wax
+is a dark red in colour, almost black, and is frozen in long drips down the
+wall itself, making it look as though the wall is bleeding around you.  An
+ice-cold breeze suddenly blows into your bones, almost like it was something
+walking right through your being, passing through you in the hall.  High
+above you is a beautifully vaulted ceiling, and you can faintly make out
+that it seems to be painted like the stars at night in gold leaf, though
+large chunks of this fresco have fallen to the floor.  The hall continues to
+the east and west, though you can barely make out what lays in either of
+these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 563
+D3
+~
+~
+~
+0 0 561
+M 0 H 0
+S
+#563
+The Catacombs~
+Large blocks of ancient stones make the walls to the north and south of
+you.  These occasionally glisten in the light you bring into the room where
+water seeps down and over the rock slowly.  Looking closer at the walls you
+can see deep gouges roughly five feet wide, though only about twenty inches
+high.  Complete blackness fills these holes, giving you no knowledge of how
+deep it actually goes back, and no matter how close you move your light to
+it, the blackness refuses to be penetrated.  The gaping holes seem to be
+completely void of cobwebs, though the cobwebs hang like tapestries over the
+rest of this hall.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the east and west, though you can barely make out what
+lays in either of these directions.  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 564
+D3
+~
+~
+~
+0 0 562
+M 0 H 0
+S
+#564
+The Catacombs~
+Massive stones form tall walls to the north, south and east of you. 
+These walls have been carved into and drawn over with strange, arcane
+symbols, which is probably some long lost ancient language.  Cut roughly and
+deeply into the western wall is a large gaping hole.  Looking closer into
+the hole, you can see an old skull, darkened with age, grinning out of the
+darkness at you.  High above you is a beautifully vaulted ceiling, and you
+can faintly make out that it seems to be painted like the stars at night in
+gold leaf, though large chunks of this fresco have fallen to the floor.  The
+hall continues to the west, though you can barely make out what lays in this
+direction.  
+~
+0 1056777 0
+D3
+~
+~
+~
+0 0 563
+M 0 H 0
+S
+#565
+The Hidden Hall~
+Darkness surrounds you and presses in.  Your light can barely penetrate
+to the walls that obviously must be enclosing you.  Light tingling
+sensations run over any exposed skin you have, hopefully only being spider
+webs brushing over you and not something else.  There's an eerie silence in
+the hall, damping out your own breathing and movements.  The only thing
+echoing through the hall is a strange howling and scraping sound, though you
+can't tell what direction it comes from.  
+~
+0 1048585 0
+D3
+~
+~
+~
+0 0 566
+M 0 H 0
+S
+#566
+The Hidden Hall~
+Darkness surrounds you and presses in.  Your light can barely penetrate
+to the walls that obviously must be enclosing you.  Light tingling
+sensations run over any exposed skin you have, hopefully only being spider
+webs brushing over you and not something else.  There's an eerie silence in
+the hall, damping out your own breathing and movements.  The only thing
+echoing through the hall is a strange howling and scraping sound, though you
+can't tell what direction it comes from.  
+~
+0 1048585 0
+D1
+~
+~
+~
+0 0 565
+D3
+~
+~
+~
+0 0 567
+M 0 H 0
+S
+#567
+The Hidden Hall~
+Darkness surrounds you and presses in.  Your light can barely penetrate
+to the walls that obviously must be enclosing you.  Light tingling
+sensations run over any exposed skin you have, hopefully only being spider
+webs brushing over you and not something else.  There's an eerie silence in
+the hall, damping out your own breathing and movements.  The only thing
+echoing through the hall is a strange howling and scraping sound, though you
+can't tell what direction it comes from.  
+~
+0 1048585 0
+D1
+~
+~
+~
+0 0 566
+D3
+~
+~
+~
+0 0 568
+M 0 H 0
+S
+#568
+The Hidden Hall~
+Darkness surrounds you and presses in.  Your light can barely penetrate
+to the walls that obviously must be enclosing you.  Light tingling
+sensations run over any exposed skin you have, hopefully only being spider
+webs brushing over you and not something else.  There's an eerie silence in
+the hall, damping out your own breathing and movements.  The only thing
+echoing through the hall is a strange howling and scraping sound, though you
+can't tell what direction it comes from.  
+~
+0 1048585 0
+D1
+~
+~
+~
+0 0 567
+D3
+~
+~
+~
+0 0 560
+M 0 H 0
+S
+#569
+The Catacombs~
+Deeper into the darkness of this long hallway, you can only make out the
+ancient stonework making the walls around you.  Tall columns are adorned
+with carved gargoyles and faces of people in horrible pain, their faces
+distorted grotesquely.  High up in the darkness you can see the vaulted
+ceiling, dripping with cobwebs, taking your eyes back down to the carvings
+along the tops of the archways.  The faces that were once being tortured now
+look at you frightfully, as though telling you to get out, and as you
+register this change in the carvings, the eyes of the gargoyles all open at
+once suddenly, their eyes glowing red.  Small archways enshrouded in
+blackness and cobwebs lead off this main hall to the east and west here,
+while the main hall continues only to the south, coming to an abrupt stop to
+the north.  The ancient stones to the north of you are free of cobwebs,
+giving you an unsettled feeling in the back of your mind, adding to this is
+the fact that you could have sworn the wall just flickered out of the corner
+of your eye.  Or is that your mind playing tricks on you?  
+~
+0 1056777 0
+D1
+~
+~
+~
+0 0 561
+D2
+~
+~
+~
+0 0 551
+D3
+~
+~
+~
+0 0 559
+M 0 H 0
+S
+#570
+The Hidden Hall~
+Darkness surrounds you and presses in.  Your light can barely penetrate
+to the walls that obviously must be enclosing you.  Light tingling
+sensations run over any exposed skin you have, hopefully only being spider
+webs brushing over you and not something else.  There's an eerie silence in
+the hall, damping out your own breathing and movements.  The only thing
+echoing through the hall is a strange howling and scraping sound, though you
+can't tell what direction it comes from.  
+~
+0 1048585 0
+D1
+~
+~
+~
+0 0 560
+D3
+~
+~
+~
+0 0 571
+M 0 H 0
+S
+#571
+The Hidden Hall~
+Darkness surrounds you and presses in.  Your light can barely penetrate
+to the walls that obviously must be enclosing you.  Light tingling
+sensations run over any exposed skin you have, hopefully only being spider
+webs brushing over you and not something else.  There's an eerie silence in
+the hall, damping out your own breathing and movements.  The only thing
+echoing through the hall is a strange howling and scraping sound, though you
+can't tell what direction it comes from.  
+~
+0 1048585 0
+D1
+~
+~
+~
+0 0 570
+D3
+~
+~
+~
+0 0 572
+M 0 H 0
+S
+#572
+The Hidden Hall~
+Darkness surrounds you and presses in.  Your light can barely penetrate
+to the walls that obviously must be enclosing you.  Light tingling
+sensations run over any exposed skin you have, hopefully only being spider
+webs brushing over you and not something else.  There's an eerie silence in
+the hall, damping out your own breathing and movements.  The only thing
+echoing through the hall is a strange howling and scraping sound, though you
+can't tell what direction it comes from.  
+~
+0 1048585 0
+D1
+~
+~
+~
+0 0 571
+D3
+~
+~
+~
+0 0 573
+M 0 H 0
+S
+#573
+The Hidden Hall~
+Darkness surrounds you and presses in.  Your light can barely penetrate
+to the walls that obviously must be enclosing you.  Light tingling
+sensations run over any exposed skin you have, hopefully only being spider
+webs brushing over you and not something else.  There's an eerie silence in
+the hall, damping out your own breathing and movements.  The only thing
+echoing through the hall is a strange howling and scraping sound, though you
+can't tell what direction it comes from.  
+~
+0 1048585 0
+D1
+~
+~
+~
+0 0 572
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 502 spec_cast_mage
+M 510 spec_cast_mage
+M 511 spec_cast_mage
+M 519 spec_cast_mage
+M 520 spec_cast_mage
+M 528 spec_cast_mage
+M 529 spec_cast_mage
+M 537 spec_cast_mage
+M 538 spec_cast_mage
+M 546 spec_cast_mage
+M 547 spec_cast_mage
+M 555 spec_cast_mage
+M 556 spec_cast_mage
+M 564 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 504 0 1
+D 0 509 0 1
+D 0 512 2 1
+D 0 517 2 1
+D 0 520 0 1
+D 0 526 0 1
+D 0 531 2 1
+D 0 537 2 1
+D 0 540 0 1
+D 0 546 0 1
+D 0 547 2 1
+D 0 553 2 1
+M 0 502 1 502 10
+E 0 501 0 17
+O 0 502 0 502
+P 0 503 0 502 10
+M 0 501 4 503 10
+M 0 515 4 505 10
+M 0 506 4 507 10
+M 0 510 1 510 10
+E 0 501 0 17
+O 0 502 0 510
+P 0 510 0 502 10
+M 0 511 1 511 10
+E 0 501 0 17
+O 0 502 0 511
+P 0 511 0 502 10
+M 0 519 1 519 10
+E 0 501 0 17
+O 0 502 0 519
+P 0 519 0 502 10
+M 0 520 1 520 10
+E 0 501 0 17
+O 0 502 0 520
+P 0 520 0 502 10
+M 0 528 1 528 10
+E 0 501 0 17
+O 0 502 0 528
+P 0 528 0 502 10
+M 0 529 1 529 10
+E 0 501 0 17
+O 0 502 0 529
+P 0 529 0 502 10
+M 0 506 4 530 10
+M 0 501 4 532 10
+M 0 515 4 536 10
+M 0 537 1 537 10
+E 0 501 0 17
+O 0 502 0 537
+P 0 537 0 502 10
+M 0 538 1 538 10
+E 0 501 0 17
+O 0 502 0 538
+P 0 538 0 502 10
+M 0 506 4 541 10
+M 0 501 4 544 10
+M 0 546 1 546 10
+E 0 501 0 17
+O 0 502 0 546
+P 0 546 0 502 10
+M 0 547 1 547 10
+E 0 501 0 17
+O 0 502 0 547
+P 0 547 0 502 10
+M 0 515 4 549 10
+M 0 501 4 553 10
+M 0 555 1 555 10
+E 0 501 0 17
+O 0 502 0 555
+P 0 555 0 502 10
+M 0 556 1 556 10
+E 0 501 0 17
+O 0 502 0 556
+P 0 556 0 502 10
+M 0 506 4 557 10
+M 0 561 4 560 10
+M 0 515 4 563 10
+M 0 564 1 564 10
+E 0 501 0 17
+O 0 502 0 564
+P 0 564 0 502 10
+M 0 561 4 565 10
+M 0 561 4 567 10
+O 0 569 0 569
+M 0 561 4 571 10
+M 0 560 1 573 10
+E 0 560 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

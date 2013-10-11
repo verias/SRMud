@@ -1,0 +1,560 @@
+#AREADATA
+Name {15 99} Alethea Temple of Verinth~
+Builders Alethea Auapia~
+VNUMs 14200 14299
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#14205
+Elarin~
+Elarin~
+A lithe, red-haired human female named Elarin.
+~
+Her red hair flares from her head to her shoulders like a flame coloured
+veil that darkens to almost black at the very tips, and is only held back by
+a braided blue and green head band.  She is dressed in a light, sleeveless
+white cotton dress that buttons up the front, and dark brown leather
+sandals.  Her soft blue eyes are almost always cast downward as if in silent
+contemplation, and a soft smile plays at her pale lips as if what she's
+thinking amuses her.  
+~
+human~
+A 0 0 0
+95 0 12d1182+3558 95d10+100 6d10+29 none
+-30 -30 -30 -25
+0 0 0 0
+(null) (null) either 427
+AHMV ABCDEFGHIJK medium unknown
+#14211
+Practice Dummy~
+a practice dummy~
+An old and battered looking practice dummy.
+~
+This practice dummy looks old and battered, as if it has seen a lot of use.
+~
+human~
+A 0 0 0
+100 0 12d1397+3920 100d10+100 6d11+29 none
+-35 -35 -35 -27
+0 0 0 0
+(null) (null) male 450
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#14200
+blue silver robe~
+a blue floor-length robe with silver embroidery~
+This blue floor-length robe has silver embroidery on the edges.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+105 0 0 P
+#14201
+simple wooden table~
+a simple wooden table~
+A simple wooden table.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#14202
+small pond~
+a small gurgling pond~
+A small gurgling pond filled with goldfish and water plants.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#14203
+plush pillow~
+a plush velvet pillow~
+A plush velvet pillow looks perfect for sitting on.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#14204
+bookshelf~
+a large wooden bookshelf~
+(no description)~
+unknown~
+container R 0
+40 0 0 0 0
+0 0 0 P
+#14205
+dissertation on justice~
+a dissertation on justice~
+A dissertation on the nature of justice.~
+unknown~
+staff IY AO
+77 6 3 'reserved' 0
+77 13 385 P
+#14206
+book of laws~
+a book of laws~
+A book examining differences in laws throughout the ages.~
+unknown~
+scroll I AO
+20 'reserved' 'reserved' 'reserved' 'reserved'
+20 1 0 P
+#14207
+still pool~
+a still, shallow pool of water~
+A still, shallow pool of water lays here.~
+unknown~
+fountain R 0
+0 0 'water' 0 0
+1 0 0 P
+#14208
+overstuffed leather chair~
+an overstuffed leather chair~
+An overstuffed leather chair looks like a comfortable place to sit.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#14209
+silver scales~
+a glowing set of silver scales~
+A set of glowing silver scales.~
+unknown~
+light AI AR
+0 0 ABCFGHIJ 0 0
+15 1 0 P
+A
+3 1
+A
+4 1
+#14212
+snowy white candle~
+a snowy white candle~
+A snowy white candle set in a silver candelabra flickers merrily.~
+unknown~
+light R AO
+0 0 ABCFGHIJ 0 0
+1 1 0 P
+#14213
+pendant of justice~
+the Pendant of Justice~
+A small, silvery pendant hanging on a delicately wrought platinum chain is engraved with the picture of a set of perfectly balanced scales.~
+unknown~
+treasure AI AC
+0 0 0 0 0
+15 1 150 P
+#14214
+bed glowing moss~
+a bed of glowing moss~
+A bed of glowing moss reaches across the floor.~
+unknown~
+furniture R 0
+0 0 0 0 0
+1 0 0 P
+#0
+
+
+
+#ROOMS
+#14200
+Shrine of Verinth~
+Moss covers the trunks of the massive oak and elm trees that surround
+this small clearing.  Long trailing curtains of flowering vines hang from
+the numerous limbs, swaying rhythmically to a light and unfelt breeze. 
+Motes of dust and pollen drift lazily through the air on beams of sunlight
+that sneak through the intricately woven canopy of leaves overhead.  The
+forest floor is carpeted in a soft, spongy moss and adorned with the fallen
+leaves from the surrounding trees.  The notes of an intricate harmony tug at
+the senses, the music is felt rather than heard, a different note whispering
+with each twist of the flowering curtains.  
+~
+0 33554436 3
+D0
+~
+~
+~
+0 0 2191
+M 0 H 0
+S
+#14201
+Atrium in the Temple of Verinth~
+Upon entering this room, it is almost impossible not to notice the stark
+contrast between the polished jet floor and the gleaming alabaster walls. 
+Water slowly drips from an open skylight in the roof to a still, shallow
+pool in the centre of the floor, and the sunlight entering through the
+opening is caught by a myriad of small silver gilded mirrors and reflected
+around the room to light it.  A soft bed of moss creeps along the outline of
+certain areas of the floor and walls.  To the east and west, doors made of
+bleached poplar stand slightly ajar.  To the south lies a large double door
+of polished oak, and to the north a brightly lit room can be seen.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 14202
+D1
+~
+~
+~
+1 0 14204
+D2
+~
+~
+~
+1 0 14210
+D3
+~
+~
+~
+1 0 14205
+M 0 H 0
+S
+#14202
+Hall of Verinth~
+Sunlight streams into this large domed hall in bright shafts that are
+filtered through the crystalline dome above.  Mirrors, gilded with silver,
+catch the light and reflect it around the room, bathing the whole hall in
+sunlight.  Polished jet black floors glow in the light; a sharp contrast to
+the gleaming alabaster walls.  To the north, a row of white marble pillars
+can be seen, and the gurgle of water can be heard from beyond them.  To the
+south, the room opens into a gleaming rotunda.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 14203
+D2
+~
+~
+~
+0 0 14201
+M 0 H 0
+S
+#14203
+Meeting Hall~
+Lining the white alabaster pillars to the south and along the iridescent
+mica sheathed walls, silver gilded mirrors catch and refract the light from
+the crystalline dome overhead to illuminate the room.  On all sides, three
+wide jet black steps lead down to a lower level.  Plush and springy patches
+of moss provide a most adequate floor pillow.  Intricately woven tapestries
+of every color are scattered over the polished jet floor.  In the centre of
+this sitting area, a small pond, filled with water plants and goldfish,
+gurgles happily.  A bed of glowing moss grows around the pond, providing a
+comfortable place to sit.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 14208
+D2
+~
+~
+~
+0 0 14202
+D3
+~
+~
+~
+0 0 14209
+M 0 H 0
+S
+#14204
+An Empty Room~
+Stark white alabaster walls contrast sharply with the polished jet floor.
+Long, tapered white candles set in a single silver candelabra flicker
+lazily, casting shadows to the far corners of the room.  A plain oaken table
+is set against the southern wall, and to the north and west simple pine
+doors can be seen.  In the centre of the floor, carved into the jet itself
+is a simple olive etched emblem of a pair of scales.  
+~
+0 0 0
+D0
+~
+~
+~
+1 0 14207
+D3
+~
+~
+~
+1 0 14201
+M 0 H 0
+S
+#14205
+Library ~
+Bookshelves line the walls here stretching from floor to ceiling, and
+filled with all manner of leather bound books.  Stacks of books are
+scattered on the floor around the room, their pages open to the soft glow of
+the candles that shine unwaveringly in their tapers.  Large overstuffed
+leather chairs are liberally placed throughout the room.  To the east is a
+door made out of bleached poplar, and to the north stands a simple door of
+pine, and to the west is an open archway.  
+~
+0 5242888 0
+D0
+~
+~
+~
+1 0 14206
+D1
+~
+~
+~
+1 0 14201
+D3
+~
+~
+~
+0 0 14211
+M 0 H 0
+S
+#14206
+Covered Walkway~
+Fluted white alabaster pillars that hold up the domed alabaster roof line
+one edge of this walkway, while the lush green ivy clinging to the side of
+the temple lines the other.  Between each pillar hangs a simple stained
+glass window depicting an olive green set of scales on a frosted yellow
+background.  Crushed jet lines the walkway, held in place by a translucent,
+milky colored mortar.  To the north and south lay simple pine doors that
+lead into the temple itself.  
+~
+0 1048584 0
+D0
+~
+~
+~
+0 0 14209
+D2
+~
+~
+~
+1 0 14205
+M 0 H 0
+S
+#14207
+Covered Walkway~
+Fluted white alabaster pillars that hold up the domed alabaster roof line
+one edge of this walkway, while the lush green ivy clinging to the side of
+the temple lines the other.  Between each pillar hangs a simple stained
+glass window depicting a sapphire blue set of scales on a frosted white
+background.  Crushed jet lines the walkway, held in place by a translucent,
+milky coloured mortar.  Simple pine doors lead from this room heading both
+north and south.  
+~
+0 1048584 0
+D0
+~
+~
+~
+1 0 14208
+D2
+~
+~
+~
+1 0 14204
+M 0 H 0
+S
+#14208
+A Quiet Room~
+The jet floors are covered here in richly woven snowy white carpet that
+matches the shining alabaster of the walls.  Sunlight streams into the room
+through a single skylight overhead, and is bounced throughout the room off
+small silver mirrors that are embedded in the walls.  A large bookshelf
+rests against the eastern wall, and overstuffed couches and chairs dot the
+room.  To the south a simple pine door can be seen, while to the west stands
+an open archway, and to the north, an oaken door can be seen.
+~
+0 34603016 0
+D0
+~
+~
+~
+1 0 14212
+D2
+~
+~
+~
+1 0 14207
+D3
+~
+~
+~
+0 0 14203
+M 0 H 0
+S
+#14209
+Altar of Verinth~
+An almost tangible hush hangs in the still air of this room.  Candles
+line the unadorned alabaster walls, the wooden vessels swallowing the
+shadows of the flickering light.  The polished jet floor shimmers almost
+rhythmically in time with the flickering of the candle light.  A large,
+smoothly-cut, oak stump is set in the center of the room, and upon this
+stands a single pair of olive scales set in perfect balance.  To the south
+lies a door sheathed in the finest mica, and to the east, a gleaming room
+can be seen.  
+~
+0 1049608 0
+D1
+~
+~
+~
+0 0 14203
+D2
+~
+~
+~
+0 0 14206
+M 0 H 0
+S
+#14210
+A Glittering Path~
+Ancient, towering oak trees line the crushed abalone path that runs from
+north to south here; their leafy, crisscrossed branches overhead filtering
+the sunlight into thin, golden beams that glitter playfully against the
+shimmering path.  To the north, wide steps of alternating jet and alabaster
+can be seem leading to a pair of polished oaken doors set within a simple
+grey stone building, and to the south the path disappears into the
+surrounding forest.  
+~
+0 0 3
+D0
+~
+~
+~
+1 0 14201
+D2
+~
+~
+~
+0 0 3931
+M 0 H 0
+S
+#14211
+Practice Room~
+The functional grey stone walls here are a far cry from the snowy
+alabaster found elsewhere in the temple, and the floor, while still of
+polished jet, is liberally covered in training mats.  Light streams into the
+room from an octagonal opening in the roof overhead, and small brown
+sparrows can occasionally be seen flitting into, and out of the room through
+the opening.  To the east, an open archway leads to the rest of the temple.
+~
+0 1048576 0
+D1
+~
+~
+~
+0 0 14205
+M 0 H 0
+S
+#14212
+A Dimly Lit Corridor~
+A single unadorned wooden table rests against the eastern wall of this
+short, dimly lit corridor.  Atop the table in a plain wooden candelabra, a
+snowy white candle flickers merrily.  Thick carpet covers the floor here,
+muffling the sound of footsteps.  To the south a simple oaken door can be
+seen, while to the north a simple pine door stands slightly ajar.  
+~
+0 1048577 0
+D0
+~
+~
+~
+0 0 14213
+D2
+~
+~
+~
+1 0 14208
+M 0 H 0
+S
+#14213
+Alethea's Chamber~
+Bookshelves compete with potted ferns for dominance over this sunny room.
+Intricately woven throw rugs are scattered about the floor, overlapping in
+odd and interesting patterns.  In the center of the room, several large
+armchairs are arranged around a broad wooden table.  Numerous large books
+lay open, their pages glowing softly in the sunlight.  Windows set into the
+outside walls offer a breathtaking view of the surrounding region.  
+~
+0 38798344 0
+D2
+~
+~
+~
+0 0 14212
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 14201 1 1
+D 0 14201 2 1
+D 0 14201 3 1
+D 0 14204 0 1
+D 0 14204 3 1
+D 0 14205 0 1
+D 0 14205 1 1
+D 0 14206 2 1
+D 0 14207 0 1
+D 0 14207 2 1
+D 0 14208 0 1
+D 0 14208 2 1
+D 0 14210 0 1
+D 0 14212 2 1
+O 0 14214 0 14200
+O 0 14214 0 14201
+O 0 14207 0 14201
+O 0 14202 0 14203
+O 0 14214 0 14203
+O 0 14204 0 14205
+P 0 14206 0 14204 10
+O 0 14208 0 14205
+O 0 14201 0 14205
+M 0 14205 1 14205 10
+O 0 14204 0 14208
+P 0 14205 0 14204 10
+O 0 14208 0 14208
+M 0 14211 1 14211 10
+O 0 14212 0 14212
+O 0 14201 0 14212
+O 0 14204 0 14213
+P 0 14205 0 14204 10
+O 0 14208 0 14213
+O 0 14201 0 14213
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

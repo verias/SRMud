@@ -1,0 +1,1888 @@
+#AREADATA
+Name { IMM } Akira   The Myst Realm~
+Builders Akira~
+VNUMs 30000 30199
+Security 1
+End
+
+
+
+#MOBILES
+#30000
+myst demon~
+{ra myst demon{x~
+A myst demon howls at your intrusion into the mysts.
+~
+A vile creature with fangs freshly coated with blood, it crouches ready on its
+haunches, staring deep at you, filling you with dread: {rYou do not belong here.{x
+~
+unique~
+ABQRT DFTU 0 S
+101 0 13d1446+3994 101d10+100 6d11+30 0
+-45 -45 -45 -40
+0 0 CDN CN
+9 9 1 0
+AHMV ABCDEFGHIJK L unknown
+#30075
+assassin apprentice~
+an apprentice assassin~
+An apprentice assassin moves around somewhat quietly.
+~
+He moves quietly around, not expertly but with a certain amount of skill.
+He is an assassin in training, one day to become a skilled killer, trained
+in the ways of death.  
+~
+Human~
+ABF DFPQ 0 S
+100 0 12d1397+3920 100d10+100 6d11+29 0
+-35 -35 -35 -27
+0 0 0 0
+9 9 1 1000
+AHMV ABCDEFGHIJK M unknown
+#30076
+assassin~
+an assassin~
+An assassin moves about quietly, clothed in black.
+~
+He moves around silently on light feet.  Clothed in all black, he is a
+trained assassin.  Skillful in his ways, it would be best to use caution
+around him.  
+~
+Human~
+ABF BDFHOPQV 0 S
+100 0 12d1397+3920 100d10+100 6d11+29 0
+-35 -35 -35 -27
+FGHK 0 0 0
+9 9 1 1000
+AHMV ABCDEFGHIJK M unknown
+#30077
+master assassin~
+a master assassin~
+A master assassin looks about with deadly eyes.
+~
+A feared master assassin, known to take down multiple heroes in the
+darkness, he holds his dagger skillfully.  Clothed in all black, they are
+the masters of their art: murder.  
+~
+Human~
+ABF BDFHOQ 0 S
+100 0 12d1397+3920 100d10+100 6d11+29 0
+-35 -35 -35 -27
+FGHKN 0 CD 0
+9 9 1 5000
+AHMV ABCDEFGHIJK M unknown
+#30078
+assassin leader~
+the assassin leader~
+The assassin leader stands here, surprised at your entry.
+~
+The leader of the assassins, and a former master assassin himself.  A man
+of strong build, but quick of hand as well.  As it should be unspoken, the
+leader of the assassins is quite a formidable foe.  
+~
+Human~
+ABF BGHNOQ 0 S
+100 0 12d1397+3920 100d10+100 6d11+29 0
+-35 -35 -35 -27
+CGHIJKN 0 BCDFGHIJKLN 0
+9 9 1 50000
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#30000
+portal myst~
+a myst portal~
+A myst portal forms in front of you.~
+unknown~
+29 0 0 0
+0 0 0 15310 0
+0 0 0 P
+#30001
+myst power~
+the power of the mysts~
+...~
+unknown~
+5 0 AN 0
+0 BCDE BCDE CE 0
+110 0 0 P
+L
+controlled~
+#30002
+portal myst~
+a myst portal~
+A myst portal has formed in front of the statue.~
+unknown~
+29 0 0 0
+0 0 0 30016 0
+0 0 0 P
+#30003
+portal myst~
+a myst portal~
+A myst portal has formed in front of the statue.~
+unknown~
+29 0 0 0
+0 0 0 30031 0
+0 0 0 P
+#30004
+gold~
+a floating door~
+A door decorated with a pile of gold floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30005
+book~
+a floating door~
+A door with a stack of books in front of it floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30006
+man kneeling~
+a floating door~
+A door depicting a man kneeling floats here.~
+unknown~
+29 0 0 0
+0 0 0 30032 0
+0 0 0 P
+#30007
+sword~
+a floating door~
+A door with a sword across the top floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30008
+cloud~
+a floating door~
+A door with the icon of a cloud floats here.~
+unknown~
+29 0 0 0
+0 0 0 30033 0
+0 0 0 P
+#30009
+dragon~
+a floating door~
+A door with the icon of a dragon floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30010
+dazzling light~
+a floating door~
+A door with the icon of a dazzling light floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30011
+dark creature~
+a floating door~
+A door with the icon of a dark creature floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30012
+bird~
+a floating door~
+A door with the icon of a bird floats here.~
+unknown~
+29 0 0 0
+0 0 0 0 0
+0 0 0 P
+#30013
+disorder~
+a floating door~
+A door with the icon of disorder floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30014
+wand~
+a floating door~
+A door with a wand lying in front of it floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30015
+shield~
+a floating door~
+A door with a shield leaning against it floats here.~
+unknown~
+29 0 0 0
+0 0 0 30034 0
+0 0 0 P
+#30016
+war~
+a floating door~
+A door depicting a scene of war floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30017
+family~
+a floating door~
+A door depicting a healthy family floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30018
+class room classroom~
+a floating door~
+A door depicting a school classroom floats here.~
+unknown~
+29 0 0 0
+0 0 0 30035 0
+0 0 0 P
+#30019
+sword~
+a floating door~
+A door with a sword across the top floats here.~
+unknown~
+29 0 0 0
+0 0 0 30036 0
+0 0 0 P
+#30020
+dirk~
+a floating door~
+A door with a dirk stuck in it floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30021
+crystal ball~
+a floating door~
+A door with a crystal ball at its feet floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30022
+holy staff~
+a floating door~
+A door with a holy staff leaning against it floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30023
+yes~
+a floating door~
+A door with the engravings "yes" floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30024
+no~
+a floating door~
+A door with the engravings "no" on it float here.~
+unknown~
+29 0 0 0
+0 0 0 30037 0
+0 0 0 P
+#30025
+black~
+a floating door.~
+A black door floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30026
+white~
+a floating door~
+A white door floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30027
+red~
+a floating door~
+A red door floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30028
+orange~
+a floating door~
+An orange door floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30029
+yellow~
+a floating door~
+A yellow door floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30030
+green~
+a floating door~
+A green door floats here.~
+unknown~
+29 0 0 0
+0 0 0 30038 0
+0 0 0 P
+#30031
+blue~
+a floating door~
+A blue door floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30032
+indigo~
+a floating door~
+An indigo door floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30033
+violet~
+a floating door~
+A violet door floats here.~
+unknown~
+29 0 0 0
+0 0 0 30000 0
+0 0 0 P
+#30034
+stone box~
+a weathered stone box~
+A small, weathered stone box rests upon the altar.~
+unknown~
+15 0 0 0
+BD ABCD CFGIKMNO 0 0
+0 1000 0 P
+#30035
+old tarnished ring~
+an old tarnished ring~
+An old tarnished ring sits on the ground, discarded.~
+unknown~
+8 T AB 0
+0 0 0 0 0
+0 1 0 G
+A
+13 -100
+A
+12 200
+A
+19 5
+A
+18 5
+A
+2 -2
+A
+3 1
+A
+1 -2
+#30050
+pool blood~
+{ra pool of blood{x~
+{rA large amount of fresh blood has pooled upon the marble surface.{x~
+unknown~
+25 0 0 0
+BD BD ACD 0 0
+0 0 0 P
+E
+blood~
+Now there's something you weren't expecting to see here.
+~
+#30051
+scraps~
+some scraps~
+Some scraps of something lie strewn about the area.~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 0 P
+E
+scraps~
+Very strange to see something like this in such a desolate place. The stench of
+decomposition comes fresh from the scraps, not something very appealing.
+~
+#30052
+myst key~
+a myst key~
+Something lies on the ground here.~
+unknown~
+18 W A 0
+0 0 0 0 0
+0 0 0 P
+#30053
+gate key troll~
+the troll gate key~
+The key to the troll gate lies here.~
+unknown~
+18 0 A 0
+0 0 0 0 0
+0 0 0 P
+#30063
+green troll key~
+a green troll key~
+A green troll key lies here.~
+unknown~
+18 0 A 0
+0 0 0 0 0
+0 0 0 P
+#30067
+conference key~
+the troll conference key~
+A key to the troll conference room lies here.~
+unknown~
+18 0 A 0
+0 0 0 0 0
+0 0 0 P
+#30075
+assassin dagger~
+an assassin's dagger~
+An assassin's dagger lies on the ground here.~
+unknown~
+5 0 AN 0
+B CD E ABD 0
+100 0 0 P
+#30076
+#30076
+
+master assassin dagger~
+a master assassin's dagger~
+A master assassin's dagger lies on the ground here.~
+unknown~
+5 0 AN 0
+B CD E ABD DG
+100 0 0 P
+#30077
+black wooden key~
+a black wooden key~
+A black wooden key lies on the ground here.~
+unknown~
+18 0 A 0
+0 0 0 0 0
+0 0 0 P
+#30078
+assassin's notes~
+the assassin's notes~
+A scroll of notes lies on the ground here.~
+unknown~
+8 0 A 0
+0 0 0 0 0
+0 0 0 P
+E
+notes~
+Target               Price        Contact Alias      Success
+-----------------------------------------------------------------
+Maglos               5,000,000    Chaos Minion       2nd Attempt
+Hierophant             500,000    Industry Man       1st Attempt
+Discordia Merchants  1,000,000    City Thief         Geoff, Gulliver
+Monarchy             ---------    Assassins          Maglos, Adam
+~
+#30080
+potion sleep~
+a sleep potion~
+A sleep potion.~
+unknown~
+10 0 A 0
+100 38 38 38 0
+100 0 0 P
+#0
+
+
+
+#ROOMS
+#30000
+Lost in the Mysts~
+You are completely lost in the mysts.  You can not see in any direction,
+and it is futile to continue on.  You begin to panic, fearing you might
+never be able to escape from this strange place, while the cold mysts swirl
+around you violently, as if they are angry with your presence.  Mercifully,
+you see a portal forming for you to use.  
+~
+0 1056780 0
+S
+#30001
+A Brick Road through the Mysts~
+Your feet walk upon an uneven brick road, cracked and weathered by time. 
+Heavy mysts obscure your view, keeping all but a spare few spans around you
+hidden.  The stagnant mysts chill your bones, and test your nerve.  You are
+unaccustomed to such a foreign place, and you do not feel welcome.  The old
+brick road continues for a short distance, before disappearing from your
+view into the mysts.  
+~
+0 1056776 0
+D0
+~
+~
+0 0 30002
+S
+#30002
+A Brick Road through the Mysts~
+Your feet walk upon an uneven brick road, cracked and weathered by time.
+Heavy mysts obscure your view, keeping all but a spare few spans around you
+hidden.  The stagnant mysts chill your bones, and test your nerve.  You are
+unaccustomed to such a foreign place, and you do not feel welcome.  The old
+brick road continues for a short distance, before disappearing from your
+view into the mysts.  
+~
+0 1056776 0
+D0
+~
+~
+0 0 30003
+D2
+~
+~
+0 0 30001
+S
+#30003
+A Brick Road through the Mysts~
+Your feet walk upon an uneven brick road, cracked and weathered by time.
+Heavy mysts obscure your view, keeping all but a spare few spans around you
+hidden.  The stagnant mysts chill your bones, and test your nerve.  You are
+unaccustomed to such a foreign place, and you do not feel welcome.  The old
+brick road continues for a short distance, before disappearing from your
+view into the mysts.  
+~
+0 1056776 0
+D0
+~
+~
+0 0 30004
+D2
+~
+~
+0 0 30002
+S
+#30004
+A Split in the Brick Road~
+Your feet walk upon an uneven brick road, cracked and weathered by time. 
+Heavy mysts obscure your view, keeping all but a spare few spans around you
+hidden.  The stagnant mysts chill your bones, and test your nerve.  You are
+unaccustomed to such a foreign place, and you do not feel welcome.  The old
+brick road splits here, leading off into different directions, each of which
+appears equally uninviting.  An old battered tile is barely distinguishable
+in the middle of the road.  
+~
+0 1056776 0
+E
+tile battered~
+The old and battered tile has ancient writings engraved upon it, which you are
+barely able to discren through the mysts:
+ 
+     "To find the path to the treasure you seek, you must follow he who is
+       its rightful owner."
+ 
+~
+D0
+~
+~
+0 0 30005
+D1
+~
+~
+0 0 30012
+D2
+~
+~
+0 0 30003
+D3
+~
+~
+0 0 30008
+S
+#30005
+A Brick Road through the Mysts~
+Your feet walk upon an uneven brick road, cracked and weathered by time.
+Heavy mysts obscure your view, keeping all but a spare few spans around you
+hidden.  The stagnant mysts chill your bones, and test your nerve.  You are
+unaccustomed to such a foreign place, and you do not feel welcome.  The old
+brick road continues for a short distance, before disappearing from your
+view into the mysts.  
+~
+0 1056776 0
+D0
+~
+~
+0 0 30006
+D2
+~
+~
+0 0 30004
+S
+#30006
+A Brick Road through the Mysts~
+Your feet walk upon an uneven brick road, cracked and weathered by time.
+Heavy mysts obscure your view, keeping all but a spare few spans around you
+hidden.  The stagnant mysts chill your bones, and test your nerve.  You are
+unaccustomed to such a foreign place, and you do not feel welcome.  The old
+brick road continues for a short distance, before disappearing from your
+view into the mysts.  
+~
+0 1056776 0
+D0
+~
+~
+0 0 30007
+D2
+~
+~
+0 0 30005
+S
+#30007
+At a Stone Statue~
+The brick road ends suddenly, leaving you close to an endless drop into
+the mysts.  You find yourself standing in front of a large stone statue, its
+resemblance not comprehendible with just a cursory glance.  Your attention
+is quickly drawn to the more visible portal formed below the statue.  Mysts
+slow move into the portal, disappearing to some unknown location.  
+~
+0 1056776 0
+E
+statue~
+A stone statue models a figure which seems to be beckoning you to follow...
+ 
+The statue is not of a humanoid shape, but rather is a stone rendition
+of a cloud of smoke, or some other gasseous form.
+ 
+~
+D2
+~
+~
+0 0 30006
+S
+#30008
+A Brick Road through the Mysts~
+Your feet walk upon an uneven brick road, cracked and weathered by time.
+Heavy mysts obscure your view, keeping all but a spare few spans around you
+hidden.  The stagnant mysts chill your bones, and test your nerve.  You are
+unaccustomed to such a foreign place, and you do not feel welcome.  The old
+brick road continues for a short distance, before disappearing from your
+view into the mysts.  
+~
+0 1056776 0
+D1
+~
+~
+0 0 30004
+D3
+~
+~
+0 0 30009
+S
+#30009
+A Brick Road through the Mysts~
+Your feet walk upon an uneven brick road, cracked and weathered by time.
+Heavy mysts obscure your view, keeping all but a spare few spans around you
+hidden.  The stagnant mysts chill your bones, and test your nerve.  You are
+unaccustomed to such a foreign place, and you do not feel welcome.  The old
+brick road continues for a short distance, before disappearing from your
+view into the mysts.  
+~
+0 1056776 0
+D0
+~
+~
+0 0 30010
+D1
+~
+~
+0 0 30008
+S
+#30010
+A Brick Road through the Mysts~
+Your feet walk upon an uneven brick road, cracked and weathered by time.
+Heavy mysts obscure your view, keeping all but a spare few spans around you
+hidden.  The stagnant mysts chill your bones, and test your nerve.  You are
+unaccustomed to such a foreign place, and you do not feel welcome.  The old
+brick road continues for a short distance, before disappearing from your
+view into the mysts.  
+~
+0 1056776 0
+D0
+~
+~
+0 0 30011
+D2
+~
+~
+0 0 30009
+S
+#30011
+At a Stone Statue~
+The brick road ends suddenly, leaving you close to an endless drop into
+the mysts.  You find yourself standing in front of a large stone statue, its
+resemblance not comprehendible with just a cursory glance.  Your attention
+is quickly drawn to the more visible portal formed below the statue.  Mysts
+slow move into the portal, disappearing to some unknown location.  
+~
+0 1056776 0
+E
+statue~
+A stone statue models a figure which seems to be beckoning you to follow...
+ 
+His outward appearance is that of a tall human male of about 35 years
+of age.  His hair is black and long and thick and is bound into a warriors
+tail that runs down to the small of his back.  His eyes are dark brown-black
+and are set deep into his scarred face.  His skin is darkened and his
+bare arms show evidence of many blade marks, the shallow criss-cross of
+white lines intersected occasionally by deeper dull red gashes.  He is
+well-toned but not especially bulky.  His clothing is exclusively black in
+colour and consists of sturdy boots, loose trousers and a black, sleeveless
+top.  On his arms are a pair of silver bracers and at his belt, several
+small sharp knives hang.
+~
+D2
+~
+~
+0 0 30010
+S
+#30012
+A Brick Road through the Mysts~
+Your feet walk upon an uneven brick road, cracked and weathered by time.
+Heavy mysts obscure your view, keeping all but a spare few spans around you
+hidden.  The stagnant mysts chill your bones, and test your nerve.  You are
+unaccustomed to such a foreign place, and you do not feel welcome.  The old
+brick road continues for a short distance, before disappearing from your
+view into the mysts.  
+~
+0 1056776 0
+D1
+~
+~
+0 0 30013
+D3
+~
+~
+0 0 30004
+S
+#30013
+A Brick Road through the Mysts~
+Your feet walk upon an uneven brick road, cracked and weathered by time.
+Heavy mysts obscure your view, keeping all but a spare few spans around you
+hidden.  The stagnant mysts chill your bones, and test your nerve.  You are
+unaccustomed to such a foreign place, and you do not feel welcome.  The old
+brick road continues for a short distance, before disappearing from your
+view into the mysts.  
+~
+0 1056776 0
+D0
+~
+~
+0 0 30014
+D3
+~
+~
+0 0 30012
+S
+#30014
+A Brick Road through the Mysts~
+Your feet walk upon an uneven brick road, cracked and weathered by time.
+Heavy mysts obscure your view, keeping all but a spare few spans around you
+hidden.  The stagnant mysts chill your bones, and test your nerve.  You are
+unaccustomed to such a foreign place, and you do not feel welcome.  The old
+brick road continues for a short distance, before disappearing from your
+view into the mysts.  
+~
+0 1056776 0
+D0
+~
+~
+0 0 30015
+D2
+~
+~
+0 0 30013
+S
+#30015
+At a Stone Statue~
+The brick road ends suddenly, leaving you close to an endless drop into
+the mysts.  You find yourself standing in front of a large stone statue, its
+resemblance not comprehendible with just a cursory glance.  Your attention
+is quickly drawn to the more visible portal formed below the statue.  Mysts
+slow move into the portal, disappearing to some unknown location.  
+~
+0 1056776 0
+E
+statue~
+A stone statue models a figure which seems to be beckoning you to follow...
+ 
+It is of a vile creature that lurks in the night, a creature that is used
+to scare children at night. His eyes have changed from innocent to that
+of a demon come straight from the depths of the underworld.
+ 
+~
+D2
+~
+~
+0 0 30014
+S
+#30016
+Wandering Through the Marble Ruins~
+A marble walkway, cracked with age spans out in front of you,
+disappearing into the mysts.  You find yourself wandering through some
+marble ruins.  Broken marble pillars a scattered methodically throughout the
+area, symmetric along the pathway.  The now slowly moving mysts blunt fallen
+architecture of aged arches and of faded sculptures from your vision.  
+~
+0 1056776 0
+D0
+~
+~
+0 0 30017
+S
+#30017
+Wandering Through the Marble Ruins~
+A marble walkway, cracked with age spans out in front of you,
+disappearing into the mysts.  You find yourself wandering through some
+marble ruins.  Broken marble pillars a scattered methodically throughout the
+area, symmetric along the pathway.  The now slowly moving mysts blunt fallen
+architecture of aged arches and of faded sculptures from your vision.  
+~
+0 1056776 0
+D0
+~
+~
+0 0 30018
+D2
+~
+~
+0 0 30016
+S
+#30018
+Wandering Through the Marble Ruins~
+A marble walkway, cracked with age spans out in front of you,
+disappearing into the mysts.  You find yourself wandering through some
+marble ruins.  Broken marble pillars a scattered methodically throughout the
+area, symmetric along the pathway.  The now slowly moving mysts blunt fallen
+architecture of aged arches and of faded sculptures from your vision.  
+~
+0 1056776 0
+D1
+~
+~
+0 0 30019
+D2
+~
+~
+0 0 30017
+S
+#30019
+Wandering Through the Marble Ruins~
+A marble walkway, cracked with age spans out in front of you,
+disappearing into the mysts.  You find yourself wandering through some
+marble ruins.  Broken marble pillars a scattered methodically throughout the
+area, symmetric along the pathway.  The now slowly moving mysts blunt fallen
+architecture of aged arches and of faded sculptures from your vision.  
+~
+0 1056776 0
+D0
+~
+~
+0 0 30020
+D3
+~
+~
+0 0 30018
+S
+#30020
+Wandering Through the Marble Ruins~
+A marble walkway, cracked with age spans out in front of you,
+disappearing into the mysts.  You find yourself wandering through some
+marble ruins.  Broken marble pillars a scattered methodically throughout the
+area, symmetric along the pathway.  The now slowly moving mysts blunt fallen
+architecture of aged arches and of faded sculptures from your vision.  An
+engraving is marked into one of the old pillars here.  
+~
+0 1056776 0
+E
+engraving pillar~
+You can barely recognize the engravings. The pillar is so old, and the message is so
+tired and worn that you can only make out parts of the message:
+ 
+   "... who trapped in the dark ... 
+        ... blood freeing ...
+            ... apart from the others ...
+                ... the Great War ...
+                    ... only then will you find what you seek."
+ 
+~
+D1
+~
+~
+0 0 30024
+D2
+~
+~
+0 0 30019
+D3
+~
+~
+0 0 30021
+S
+#30021
+Wandering Through the Marble Ruins~
+A marble walkway, cracked with age spans out in front of you,
+disappearing into the mysts.  You find yourself wandering through some
+marble ruins.  Broken marble pillars a scattered methodically throughout the
+area, symmetric along the pathway.  The now slowly moving mysts blunt fallen
+architecture of aged arches and of faded sculptures from your vision.  
+~
+0 1056776 0
+D0
+~
+~
+0 0 30023
+D1
+~
+~
+0 0 30020
+D3
+~
+~
+0 0 30022
+S
+#30022
+Wandering Through the Marble Ruins~
+A marble walkway, cracked with age spans out in front of you,
+disappearing into the mysts.  You find yourself wandering through some
+marble ruins.  Broken marble pillars a scattered methodically throughout the
+area, symmetric along the pathway.  The now slowly moving mysts blunt fallen
+architecture of aged arches and of faded sculptures from your vision.  
+~
+0 1056776 0
+D1
+~
+~
+0 0 30021
+D2
+~
+~
+0 0 30027
+D3
+~
+~
+0 0 30028
+S
+#30023
+In Front of a Marble Statue~
+Mysts flow through between two rows of broken marble pillars and swirl
+quickly into another portal, at the foot of a well-preserved marble statue. 
+The moving mysts howl in your ears and tear at your clothing, threatening to
+throw you down onto the marble walkway.  The mysts seem to be darkening as
+they enter the portal, which leads to some area with very little light.  
+~
+0 1056776 0
+E
+statue~
+A marble statue models a figure which seems to be beckoning to you ... 
+His outward appearance is that of a tall human male of about 35 years of
+age.  His hair is black and long and thick and is bound into a warriors tail
+that runs down to the small of his back.  His eyes are dark brown-black and
+are set deep into his scarred face.  His skin is darkened and his bare arms
+show evidence of many blade marks, the shallow criss-cross of white lines
+intersected occasionally by deeper dull red gashes.  He is well-toned but
+not especially bulky.  His clothing is exclusively black in colour and
+consists of sturdy boots, loose trousers and a black, sleeveless top.  On
+his arms are a pair of silver bracers and at his belt, several small sharp
+knives hang.  
+~
+D2
+~
+~
+0 0 30021
+S
+#30024
+Wandering Through the Marble Ruins~
+A marble walkway, cracked with age spans out in front of you,
+disappearing into the mysts.  You find yourself wandering through some
+marble ruins.  Broken marble pillars a scattered methodically throughout the
+area, symmetric along the pathway.  The now slowly moving mysts blunt fallen
+architecture of aged arches and of faded sculptures from your vision.  
+~
+0 1056776 0
+D0
+~
+~
+0 0 30025
+D1
+~
+~
+0 0 30026
+D3
+~
+~
+0 0 30020
+S
+#30025
+In Front of a Marble Statue~
+Mysts flow through between two rows of broken marble pillars and swirl
+quickly into another portal, at the foot of a well-preserved marble statue. 
+The moving mysts howl in your ears and tear at your clothing, threatening to
+throw you down onto the marble walkway.  The mysts seem to be darkening as
+they enter the portal, which leads to some area with very little light.  
+~
+0 1056776 0
+E
+statue~
+A marble statue models a figure which seems to be beckoning to you ... 
+Short black hair spikes wildly around a delicate face, topping her petite
+frame.  Blue-gray eyes stare unblinkingly at you, sizing you up, and looking
+right through to your soul, judging it.  The black clothing she wears clings
+desperately to her body, accentuating her curves, almost appearing slightly
+transparent.  She is bare footed, though she is not actually touching the
+ground.  Though she looks delicate enough, her strength and power is hidden
+by her beauty and small appearance.  
+~
+D2
+~
+~
+0 0 30024
+S
+#30026
+Wandering Through the Marble Ruins~
+A marble walkway, cracked with age spans out in front of you,
+disappearing into the mysts.  You find yourself wandering through some
+marble ruins.  Broken marble pillars a scattered methodically throughout the
+area, symmetric along the pathway.  The now slowly moving mysts blunt fallen
+architecture of aged arches and of faded sculptures from your vision.  
+~
+0 1056776 0
+D1
+~
+~
+0 0 30029
+D2
+~
+~
+0 0 30030
+D3
+~
+~
+0 0 30024
+S
+#30027
+In Front of a Marble Statue~
+Mysts flow through between two rows of broken marble pillars and swirl
+quickly into another portal, at the foot of a well-preserved marble statue. 
+The moving mysts howl in your ears and tear at your clothing, threatening to
+throw you down onto the marble walkway.  The mysts seem to be darkening as
+they enter the portal, which leads to some area with very little light.  
+~
+0 1056776 0
+E
+statue~
+A marble statue models a figure which seems to be beckoning to you ... 
+It is of a vile creature that lurks in the night, a creature that is used to
+scare children at night.  His eyes have changed from innocent to that of a
+demon come straight from the depths of the underworld.  
+~
+D0
+~
+~
+0 0 30022
+S
+#30028
+In Front of a Marble Statue~
+Mysts flow through between two rows of broken marble pillars and swirl
+quickly into another portal, at the foot of a well-preserved marble statue. 
+The moving mysts howl in your ears and tear at your clothing, threatening to
+throw you down onto the marble walkway.  The mysts seem to be darkening as
+they enter the portal, which leads to some area with very little light.  
+~
+0 1056776 0
+E
+statue~
+A marble statue models a figure which seems to be beckoning to you ... 
+The statue is not of a humanoid shape, but rather is a stone rendition of a
+cloud of smoke, or some other gasseous form.  
+~
+D1
+~
+~
+0 0 30022
+S
+#30029
+In Front of a Marble Statue~
+Mysts flow through between two rows of broken marble pillars and swirl
+quickly into another portal, at the foot of a well-preserved marble statue. 
+The moving mysts howl in your ears and tear at your clothing, threatening to
+throw you down onto the marble walkway.  The mysts seem to be darkening as
+they enter the portal, which leads to some area with very little light.  
+~
+0 1056776 0
+E
+statue~
+A marble statue models a figure which seems to be beckoning to you ... 
+He stands on two legs, and is still an impressive fifteen feet tall and
+towers over most races.  He has two large wings mounted on the shoulder
+blades, and has a wingspan of thirty five to fourty feet, but you wouldn't
+know it when the wings are folded on the back.  He has a long seven to ten
+foot tail in the back, ending with a razor tip the size of an axe or shark
+fin.  He has thick legs, and arms almost the same size.  At the end of each
+finger is a serrated claw, about six inches in length, that look extremely
+sharp.  The claws aren't blood stained and such, but were they not polished
+you sense they would be, or at least easily could be.  He has long teeth,
+about the size of his claws, but sharper still.  Also, long talons extend
+from his toes.  You sense wisdom from his disposition, but also the love of
+the hunt by the way he keeps his teeth.  There's fire in his eyes, a cold
+heat that sends chills down your spine, and he gives off an aura of
+electricity that makes your hair stand on end.  
+~
+D3
+~
+~
+0 0 30026
+S
+#30030
+In Front of a Marble Statue~
+Mysts flow through between two rows of broken marble pillars and swirl
+quickly into another portal, at the foot of a well-preserved marble statue. 
+The moving mysts howl in your ears and tear at your clothing, threatening to
+throw you down onto the marble walkway.  The mysts seem to be darkening as
+they enter the portal, which leads to some area with very little light.  
+~
+0 1056776 0
+E
+statue~
+A marble statue models a figure which seems to be beckoning to you ... 
+It is hard not to feel a bit intimidated in the presence of this statue, as
+she stands before you truly majestic and statuesque.  Her eyes, which appear
+to be bright burning stars, pierce through you down to the beginning of your
+very soul.  You sense she has an intimate, uncanny knowledge of your spirit
+the moment she looks at you.  You could never guess her age, as she is
+timeless.  You could never guess her secrets, as she is terribly mysterious.
+~
+D0
+~
+~
+0 0 30026
+S
+#30031
+In the Swirling Mysts~
+Mysts violently swirl about, in a frenzied storm around you.  What
+perhaps might be lightning flashes nearby, and you hear the
+undistinguishable buzz of a thousand voices, contemplating your presence. 
+Several doors, floating in midair appear out of the mysts, each labeled with
+a different marking or symbol.  Suddenly, a question is put to you, and
+echoes in your mind: 
+ 
+   "Why do you come here?"
+~
+0 1056780 0
+S
+#30032
+In the Swirling Mysts~
+Mysts violently swirl about, in a frenzied storm around you.  What
+perhaps might be lightning flashes nearby, and you hear the
+undistinguishable buzz of a thousand voices, contemplating your presence. 
+Several doors, floating in midair appear out of the mysts, each labeled with
+a different marking or symbol.  Suddenly, a question is put to you, and
+echoes in your mind: 
+ 
+   "Who lead you here?"
+~
+0 1056780 0
+S
+#30033
+In the Swirling Mysts~
+Mysts violently swirl about, in a frenzied storm around you.  What
+perhaps might be lightning flashes nearby, and you hear the
+undistinguishable buzz of a thousand voices, contemplating your presence. 
+Several doors, floating in midair appear out of the mysts, each labeled with
+a different marking or symbol.  Suddenly, a question is put to you, and
+echoes in your mind: 
+ 
+   "What do you hope to find here?"
+~
+0 1056780 0
+S
+#30034
+In the Swirling Mysts~
+Mysts violently swirl about, in a frenzied storm around you.  What
+perhaps might be lightning flashes nearby, and you hear the
+undistinguishable buzz of a thousand voices, contemplating your presence. 
+Several doors, floating in midair appear out of the mysts, each labeled with
+a different marking or symbol.  Suddenly, a question is put to you, and
+echoes in your mind: 
+ 
+   "Why was what you seek created?"
+~
+0 1056780 0
+S
+#30035
+In the Swirling Mysts~
+Mysts violently swirl about, in a frenzied storm around you.  What
+perhaps might be lightning flashes nearby, and you hear the
+undistinguishable buzz of a thousand voices, contemplating your presence. 
+Several doors, floating in midair appear out of the mysts, each labeled with
+a different marking or symbol.  Suddenly, a question is put to you, and
+echoes in your mind: 
+ 
+   "That which you seek was formed to defy a man of what kind?"
+~
+0 1056780 0
+S
+#30036
+In the Swirling Mysts~
+Mysts violently swirl about, in a frenzied storm around you.  What
+perhaps might be lightning flashes nearby, and you hear the
+undistinguishable buzz of a thousand voices, contemplating your presence. 
+Several doors, floating in midair appear out of the mysts, each labeled with
+a different marking or symbol.  Suddenly, a question is put to you, and
+echoes in your mind: 
+ 
+   "Is the being that you wish to bring this treasure to strong enough, and have
+    enough knowledge to use it to help bring back one of the Greater or Lesser Gods?"
+~
+0 1056780 0
+S
+#30037
+In the Swirling Mysts~
+Mysts violently swirl about, in a frenzied storm around you.  What
+perhaps might be lightning flashes nearby, and you hear the
+undistinguishable buzz of a thousand voices, contemplating your presence. 
+Several doors, floating in midair appear out of the mysts, each labeled with
+a different marking or symbol.  Suddenly, a question is put to you, and
+echoes in your mind: 
+ 
+   "Then who is it that you must first bring it to?"
+~
+0 1056780 0
+S
+#30038
+In the Myst Realm~
+The mysts are calm now, and hang in the air without motion.  The air is
+cool, but your bones are no longer chilled.  The ground is smooth and
+unscarred, like pure marble, except that it is clear, allowing you to see
+through it to the mysts below.  The walkway extends to the north to some
+sort of altar.  
+~
+0 1056776 0
+D0
+~
+~
+0 0 30039
+S
+#30039
+At a Weathered Altar~
+The mysts hang motionlessly around an ancient altar.  The markings upon
+it are too old and weathered to recognize, but most likely you wouldn't be
+able to understand the ancient language anyway.  The altar is made of stone,
+but is badly weathered, and is jagged in several locations where bits of
+stone have fallen off.  Around the base of the altar is a small ring of dirt
+where falling stones have been reduced to next to nothing.  
+~
+0 1056776 0
+D0
+~
+~
+0 0 30040
+D2
+~
+~
+0 0 30038
+S
+#30040
+In the Myst Realm~
+The mysts are calm now, and hang in the air without motion.  The air is
+cool, but your bones are no longer chilled.  The ground is smooth and
+unscarred, like pure marble, except that it is clear, allowing you to see
+through it to the mysts below.  A strange structure is outlined to the west,
+with a door prominently standing in the mysts.  
+~
+0 1056776 0
+D2
+~
+~
+0 0 30039
+D3
+~
+~
+6 0 30039
+S
+#30050
+~
+~
+0 1056768 0
+D0
+~
+~
+0 0 30051
+S
+#30051
+~
+~
+0 1056768 0
+D0
+~
+~
+0 0 30052
+D2
+~
+~
+0 0 30050
+S
+#30052
+At the Front Gate~
+~
+0 1056768 0
+D0
+~
+~
+6 30053 30053
+D2
+~
+~
+0 0 30051
+S
+#30053
+Courtyard~
+armory doors to the east/west.
+~
+0 1056776 0
+D0
+~
+~
+0 0 30054
+D1
+~
+~
+1 0 30056
+D2
+~
+~
+6 0 30052
+D3
+~
+~
+1 0 30057
+S
+#30054
+Courtyard~
+~
+0 1056776 0
+D0
+~
+~
+0 0 30055
+D1
+~
+~
+0 0 30058
+D2
+~
+~
+0 0 30053
+D3
+~
+~
+0 0 30059
+S
+#30055
+Courtyard End~
+~
+0 1056776 0
+D0
+~
+~
+6 30063 30062
+D1
+~
+~
+0 0 30060
+D2
+~
+~
+0 0 30054
+D3
+~
+~
+0 0 30061
+S
+#30056
+Armory~
+~
+0 1056776 0
+D3
+~
+~
+1 0 30053
+S
+#30057
+Armory~
+~
+0 1056776 0
+D1
+~
+~
+1 0 30053
+S
+#30058
+Courtyard~
+~
+0 1056776 0
+D0
+~
+~
+0 0 30060
+D3
+~
+~
+0 0 30054
+S
+#30059
+Courtyard~
+~
+0 1056776 0
+D0
+~
+~
+0 0 30061
+D1
+~
+~
+0 0 30054
+S
+#30060
+Courtyard~
+~
+0 1056776 0
+D2
+~
+~
+0 0 30058
+D3
+~
+~
+0 0 30055
+S
+#30061
+Courtyard~
+~
+0 1056776 0
+D1
+~
+~
+0 0 30055
+D2
+~
+~
+0 0 30059
+S
+#30062
+Hallway~
+~
+0 1056776 0
+D0
+~
+~
+0 0 30063
+D2
+~
+~
+6 0 30055
+S
+#30063
+Hallway~
+~
+0 1056776 0
+D0
+~
+~
+0 0 30064
+D2
+~
+~
+0 0 30062
+S
+#30064
+Staircase~
+~
+0 1056776 0
+D2
+~
+~
+0 0 30063
+D4
+~
+~
+0 0 30065
+S
+#30065
+Staircase~
+~
+0 1056776 0
+D0
+~
+~
+0 0 30066
+D5
+~
+~
+0 0 30064
+S
+#30066
+Waiting Room~
+~
+0 1056776 0
+D0
+~
+~
+6 30067 30067
+D2
+~
+~
+0 0 30065
+S
+#30067
+Conference Room~
+~
+0 1056776 0
+D2
+~
+~
+6 0 30066
+D3
+~
+~
+0 0 30068
+S
+#30068
+Bedroom~
+~
+0 1056776 0
+D1
+~
+~
+0 0 30067
+S
+#30075
+Before a Cave~
+After stepping through the portal, you find yourself before a dark cave. 
+Deep within, you can see the hint of torch glow.  Still, the shadows are
+thick, and you don't feel very comfortable in this darkness.  
+~
+0 1048588 0
+D0
+~
+~
+0 0 30076
+S
+#30076
+Inside the Assassins' Lair~
+You are inside the Assassins' Lair: A dark cave, where shadow penetrates
+everything.  Torches line the wall, though their glow is pale, leaving the
+lighting in the room uncomfortably dim.  As the torches flicker, shadows
+dance in the corner of your eye.  
+~
+0 1048584 0
+D0
+~
+~
+0 0 30077
+D2
+~
+~
+0 0 30075
+S
+#30077
+Junction in the Lair~
+You are inside the Assassins' Lair: A dark cave, where shadow penetrates
+everything.  Torches line the wall, though their glow is pale, leaving the
+lighting in the room uncomfortably dim.  As the torches flicker, shadows
+dance in the corner of your eye.  Paths lead deeper into the cave to the
+east and west.  Another tunnel leads downwards.  
+~
+0 1048584 0
+D1
+~
+~
+0 0 30078
+D2
+~
+~
+0 0 30076
+D3
+~
+~
+0 0 30084
+D5
+~
+~
+0 0 30085
+S
+#30078
+In the Lair~
+You are inside the Assassins' Lair: A dark cave, where shadow penetrates
+everything.  Torches line the wall, though their glow is pale, leaving the
+lighting in the room uncomfortably dim.  As the torches flicker, shadows
+dance in the corner of your eye.  
+~
+0 1048584 0
+D0
+~
+~
+0 0 30079
+D3
+~
+~
+0 0 30077
+S
+#30079
+In the Lair~
+You are inside the Assassins' Lair: A dark cave, where shadow penetrates
+everything.  Torches line the wall, though their glow is pale, leaving the
+lighting in the room uncomfortably dim.  As the torches flicker, shadows
+dance in the corner of your eye.  
+~
+0 1048585 0
+D0
+~
+~
+0 0 30080
+D2
+~
+~
+0 0 30078
+S
+#30080
+In the Lair~
+You are inside the Assassins' Lair: A dark cave, where shadow penetrates
+everything.  Torches line the wall, though their glow is pale, leaving the
+lighting in the room uncomfortably dim.  As the torches flicker, shadows
+dance in the corner of your eye.  
+~
+0 1048584 0
+D2
+~
+~
+0 0 30079
+D3
+~
+~
+0 0 30081
+S
+#30081
+In the Lair~
+You are inside the Assassins' Lair: A dark cave, where shadow penetrates
+everything.  Torches line the wall, though their glow is pale, leaving the
+lighting in the room uncomfortably dim.  As the torches flicker, shadows
+dance in the corner of your eye.  
+~
+0 1048584 0
+D1
+~
+~
+0 0 30080
+D3
+~
+~
+0 0 30082
+S
+#30082
+In the Lair~
+You are inside the Assassins' Lair: A dark cave, where shadow penetrates
+everything.  Torches line the wall, though their glow is pale, leaving the
+lighting in the room uncomfortably dim.  As the torches flicker, shadows
+dance in the corner of your eye.  
+~
+0 1048584 0
+D1
+~
+~
+0 0 30081
+D2
+~
+~
+0 0 30083
+S
+#30083
+In the Lair~
+You are inside the Assassins' Lair: A dark cave, where shadow penetrates
+everything.  Torches line the wall, though their glow is pale, leaving the
+lighting in the room uncomfortably dim.  As the torches flicker, shadows
+dance in the corner of your eye.  
+~
+0 1048584 0
+D0
+~
+~
+0 0 30082
+D2
+~
+~
+0 0 30084
+S
+#30084
+In the Lair~
+You are inside the Assassins' Lair: A dark cave, where shadow penetrates
+everything.  Torches line the wall, though their glow is pale, leaving the
+lighting in the room uncomfortably dim.  As the torches flicker, shadows
+dance in the corner of your eye.  
+~
+0 1048584 0
+D0
+~
+~
+0 0 30083
+D1
+~
+~
+0 0 30077
+S
+#30085
+Deep in the Lair~
+You are inside the Assassins' Lair: A dark cave, where shadow penetrates
+everything.  Torches line the wall, though their glow is pale, leaving the
+lighting in the room uncomfortably dim.  As the torches flicker, shadows
+dance in the corner of your eye.  The tunnel leads back up, and continues to
+the north.  
+~
+0 1048584 0
+D0
+~
+~
+0 0 30086
+D4
+~
+~
+0 0 30077
+S
+#30086
+Below a Trap Door~
+You are inside the Assassins' Lair: A dark cave, where shadow penetrates
+everything.  Torches line the wall, though their glow is pale, leaving the
+lighting in the room uncomfortably dim.  As the torches flicker, shadows
+dance in the corner of your eye.  Above you is a wooden trap door, marked
+with magical runes.  A lock is fairly prominent.  
+~
+0 1048584 0
+D2
+~
+~
+0 0 30085
+D4
+~
+~
+6 30077 30087
+S
+#30087
+An Office in the Cave~
+In the darkness, you find yourself in some sort of makeshift office.  The
+cave is a self enclosed room, with a single trap door leading out in the
+floor.  Torches line the wall giving more light than most rooms.  Several
+inconsequential papers are scattered around the room, and the walls have
+pin-ups of maps of different cities, routes and roads.  There is a desk in
+the middle of the room.  
+~
+0 1048584 0
+D5
+~
+~
+6 0 30086
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 30040 3 2
+D 0 30052 0 2
+D 0 30053 1 1
+D 0 30053 2 2
+D 0 30053 3 1
+D 0 30055 0 2
+D 0 30056 3 1
+D 0 30057 1 1
+D 0 30062 2 2
+D 0 30066 0 2
+D 0 30067 2 2
+D 0 30086 4 2
+D 0 30087 5 2
+O 0 30000 0 30000
+O 0 30051 0 30004
+O 0 30001 0 30007
+O 0 30002 0 30011
+O 0 30001 0 30015
+O 0 30050 0 30016
+O 0 30001 0 30023
+O 0 30003 0 30025
+O 0 30001 0 30027
+O 0 30001 0 30028
+O 0 30001 0 30029
+O 0 30001 0 30030
+O 0 30004 0 30031
+O 0 30005 0 30031
+O 0 30006 0 30031
+O 0 30007 0 30031
+O 0 30008 0 30032
+O 0 30009 0 30032
+O 0 30010 0 30032
+O 0 30011 0 30032
+O 0 30012 0 30032
+O 0 30013 0 30032
+O 0 30014 0 30033
+O 0 30004 0 30033
+O 0 30015 0 30033
+O 0 30005 0 30033
+O 0 30007 0 30033
+O 0 30016 0 30034
+O 0 30017 0 30034
+O 0 30018 0 30034
+O 0 30019 0 30035
+O 0 30021 0 30035
+O 0 30020 0 30035
+O 0 30022 0 30035
+O 0 30014 0 30035
+O 0 30023 0 30036
+O 0 30024 0 30036
+O 0 30032 0 30037
+O 0 30031 0 30037
+O 0 30030 0 30037
+O 0 30029 0 30037
+O 0 30028 0 30037
+O 0 30027 0 30037
+O 0 30026 0 30037
+O 0 30025 0 30037
+O 0 30034 0 30039
+P 0 30035 0 30034
+O 0 30000 0 30040
+O 0 30053 0 30052
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

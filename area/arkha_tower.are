@@ -1,0 +1,8875 @@
+#AREADATA
+Name Arkha Tower~
+Builders Brysaar~
+VNUMs 19651 19999
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#19651
+bird cheerful~
+a cheerful bird~
+A cheerful bird whistles a tune on a low branch here.
+~
+This bird looks to be enjoying life to the fullest.  He whistles at
+everyone who walks by, hoping to get a song in return.  As you pass, he
+ruffles his feathers and starts up a cheery tune.  
+~
+human~
+AB T 1000 0
+3 0 1d7+30 12d10+100 1d2+0 divine
+9 9 9 9
+0 0 0 0
+(null) (null) male 13
+AHMV ABCDEFGHIJK small unknown
+#19652
+monk guard arkha~
+a friendly monk~
+A friendly Arkha monk smiles and motions for you to enter the tower.
+~
+This monk smiles fondly at you as you near him.  He is a tall, round man,
+with enough mirth to fill the entire tower.  
+~
+human~
+A 0 1000 0
+6 0 1d15+65 24d10+100 1d3+2 beating
+7 7 7 8
+0 0 0 0
+(null) (null) female 27
+AHMV ABCDEFGHIJK medium unknown
+#19653
+visitor~
+a visitor~
+A visitor wanders the great hall admiring the decorative skills of the Arkha monks.
+~
+This visitor appears to have no idea as to the value of the things at
+which he is looking.  Yet still he wanders the halls, smiling and enjoying
+the hospitality of the monks.  
+~
+human~
+A 0 500 0
+5 0 1d12+53 20d10+100 1d2+1 digestion
+8 8 8 8
+0 0 0 0
+(null) (null) male 22
+AHMV ABCDEFGHIJK medium unknown
+#19654
+arkha monk~
+an arkha monk~
+A monk stands here, conversing with others of his order.
+~
+This monk seems jubilant and happy with the way all the things in his
+life are going for him.  He simply bubbles over with joy and happiness.  His
+smile stretches from ear to ear.  
+~
+human~
+A 0 1000 0
+6 0 1d15+65 24d10+100 1d3+2 digestion
+7 7 7 8
+0 0 0 0
+(null) (null) female 27
+AHMV ABCDEFGHIJK medium unknown
+#19655
+monk loyal~
+a loyal monk~
+A loyal monk stands here, praying to the emblem of Arkha.
+~
+This monk seems to be especially faithful.  He smiles at everything
+around him.  He finds joy even from your intrusion upon his private worship.
+The loyal monk wears red for his special brand of cheerfulness.  
+~
+human~
+A 0 1000 0
+7 0 2d17+79 28d10+100 1d3+2 claw
+7 7 7 7
+0 0 0 0
+(null) (null) male 31
+AHMV ABCDEFGHIJK medium unknown
+#19656
+monk arkha~
+an arkha monk~
+A monk kindly informs you that the rest of the tower is off limits.
+~
+This monk appears to be positioned here for the sole purpose of keeping
+visitors out of the upper floors.  As you enter the room, he cheerfully
+informs you that visitors should go no further in the tower, and that the
+monks upstairs are most likely resting.  
+~
+human~
+A 0 1000 0
+8 0 2d19+93 32d10+100 2d3+1 claw
+7 7 7 7
+0 0 0 0
+(null) (null) female 36
+AHMV ABCDEFGHIJK medium unknown
+#19657
+monk wandering arkha~
+a wandering monk~
+A monk wanders the hallway here.
+~
+This monk appears very similar to the other Arkha monks which you have
+seen.  He is cheerful and resonates a very positive attitude.  He wanders
+the upper corridor for a change in scenery from his private chamber and the
+great hall.  He seems content even with these drab surroundings.  
+~
+human~
+A 0 1000 0
+11 0 3d25+135 44d10+100 2d3+3 digestion
+5 5 5 6
+0 0 0 0
+(null) (null) female 49
+AHMV ABCDEFGHIJK medium unknown
+#19658
+monk resting~
+a resting monk~
+A monk rests here, tired after long hours of cheerful service.
+~
+This monk appears exhausted from his humble tasks and chores. 
+Nevertheless, he smiles as he rests, cheerful even now with the path he has
+chosen as an Arkha monk.  
+~
+human~
+A 0 1000 0
+10 0 3d23+120 40d10+100 2d3+2 beating
+6 6 6 6
+0 0 0 0
+rest rest female 45
+AHMV ABCDEFGHIJK medium unknown
+#19659
+guard high monk~
+a monk guard~
+A monk standing guard here tries every way but conflict to try and stop you from intruding.
+~
+This particular monk has been placed here to discourage visitors from
+travelling onward in the tower.  He looks very prepared to talk, but
+extremely hesitant to fight.  He wears a blue robe to highlight his
+particular role in the order.  
+~
+human~
+A 0 1000 0
+14 0 5d30+184 56d10+100 2d4+1 beating
+4 4 4 6
+0 0 0 0
+(null) (null) female 63
+AHMV ABCDEFGHIJK medium unknown
+#19660
+servant attendant monk man~
+an attendant to the High Monk~
+A man walks here, cleaning everything out of place.
+~
+Before you stands an attendant to the High Arkha Monk.  The man's place
+in the following of Arkha is only to make the High Monk happier than he
+already is.  As does everyone else in this tower, the attendant seems to
+love his job immensely.  
+~
+human~
+A 0 1000 0
+15 0 5d31+200 60d10+100 2d4+2 claw
+4 4 4 6
+0 0 0 0
+(null) (null) female 67
+AHMV ABCDEFGHIJK medium unknown
+#19661
+high monk arkha~
+The High Monk~
+The High Monk of the Arkha Order is here, smiling brightly as usual.
+~
+Before you now is the High Monk of the Arkha Order.  His order is based
+around being happy in all things, and none among them would ever
+intentionally do anything to anger or provoke their fellow man.  The High
+Monk is decorated in a flashy robe, but he would gladly have one made for
+you if you needed it.  He is a philanthropist to the fullest.  
+~
+human~
+A O 1000 0
+18 0 6d36+255 18d10+100 2d5+6 digestion
+3 3 3 5
+0 0 0 0
+(null) (null) female 81
+AHMV ABCDEFGHIJK medium unknown
+#19662
+guard baronial~
+a baronial guard~
+A Baronial Guard was placed here to guard whatever is behind that door.
+~
+This guard looks to be a bit worried about whatever lies on the other
+side of the southern door.  Other than this minor flaw, though, he seems to
+be a proud example of what the monarchy can supply.  He stands proud to be
+at his post.  
+~
+human~
+AB F 300 0
+22 0 7d42+334 22d10+100 3d5+5 lunge
+1 1 1 3
+CEFIKT 0 0 0
+(null) (null) female 99
+AHMV ABCDEFGHIJK medium unknown
+#19663
+haitorin wild~
+a wild haitorin~
+A wild haitorin thrashes about, enraged at having been locked up.
+~
+This haitorin looks to have been confined a long time.  Even so, his
+muscle strength remains good, and he is not about to let himself be put back
+in his tiny box.  
+~
+unique~
+AF DFVZ -200 0
+30 0 10d60+520 30d10+100 3d6+8 slash
+-1 -1 -1 0
+CDEFHIJKN 0 P H
+(null) (null) female 135
+ACGHMV ABCDEFGHIJKUV medium unknown
+#19664
+scarab beetle~
+a giant scarab beetle~
+An enormous scarab crawls around here looking for food.
+~
+This beetle is really big.  It looks like a regular beetle, except it is
+about the size of a man.  It seems to ignore you as you get near it. 
+Apparently, you're not a good enough food source.  
+~
+centipede~
+AV TZ -100 0
+31 0 10d63+545 31d10+100 4d5+8 crush
+-2 -2 -2 0
+0 0 FI E
+(null) (null) male 139
+ABGO ACFKX medium unknown
+#19665
+saber black~
+a black saber~
+A black saber soars and slashes, darting to and fro.
+~
+This saber appears to be most definitely alive.  Or at least enchanted to
+look as such.  It charges and falls back, slashes, parries, and dodges, all
+on its own.  
+~
+human~
+A DFPTVa -800 0
+33 0 10d69+599 33d10+100 4d5+9 lunge
+-2 -2 -2 0
+FHK 0 D 0
+(null) (null) male 148
+AHMV ABCDEFGHIJK medium unknown
+#19666
+armor animated suit~
+an animated suit of armor~
+An animated suit of armor rests against the wall here.
+~
+This suit of armor looks quite authentic.  It is made up of many black
+metal pieces of equipment.  Much to your relief, it does not carry a weapon.
+~
+human~
+A 0 -300 0
+36 0 10d80+683 36d10+100 4d6+9 none
+-4 -4 -4 -2
+CO JLMNP DK CHO
+(null) (null) male 162
+ACHMV ABCDEFGHIJK medium unknown
+#19667
+figure spectral~
+a spectral figure~
+A spectral figure travels the caves looking for a lost enemy.
+~
+Before you is the image of a long dead scout, still patrolling this area.
+He sidesteps back and forth, ghostly eyes alert, scanning the area for his
+lost prey.  
+~
+human~
+A B -50 0
+40 0 10d98+804 40d10+100 4d7+10 pound
+-5 -5 -5 -3
+0 0 D 0
+(null) (null) male 180
+AHMV ABCDEFGHIJK medium unknown
+#19668
+basalt pillar~
+a basalt pillar~
+A basalt pillar appears to be holding the ceiling up.
+~
+You would never have believed it possible, but it seems that the pillars
+were moving after all.  This particular pillar, having been cornered, looks
+quite willing to lash out.  You predict that his friends will be just as
+willing.  
+~
+human~
+A 0 0 0
+41 0 10d104+835 41d10+100 4d7+10 peck
+-6 -6 -6 -4
+0 LQR D CEO
+(null) (null) male 184
+AHMV ABCDEFGHIJK medium unknown
+#19669
+phantom warrior~
+a phantom warrior~
+A phantom warrior ducks and weaves, preparing to defend against your intrusion.
+~
+This ghostly man looks to be very old.  Were he not a specter, you
+suppose he would not have half of the agility which he now displays.  He
+does not look very happy to see you, in any case.  
+~
+human~
+AFQ BDFQ -500 0
+46 0 10d135+1003 46d10+100 5d5+15 lunge
+-8 -8 -8 -6
+FGK 0 F C
+(null) (null) male 207
+AHMV ABCDEFGHIJK medium unknown
+#19670
+corpse walking~
+a corpse~
+A restless corpse wanders around, looking for a place to sleep.
+~
+This corpse has seemingly up and decided to start walking.  He wanders
+now in pursuit of a place to lay down and sleep again.  It must have taken
+some pretty powerful magic to pull this off.  
+~
+human~
+A K -1000 0
+51 0 11d175+1186 51d10+100 5d6+15 digestion
+-10 -10 -10 -8
+0 0 0 NS
+(null) (null) male 229
+AHIMV ABCDEFGHIJK medium unknown
+#19671
+zombie~
+a zombie~
+This zombie looks on the world through sightless eyes.
+~
+Were he not so utterly repulsive, you would almost take pity on this
+zombie.  This zombie was either slain in a terrible fashion, or some sick
+person has been to work on the poor man's corpse.  As it is now, the wounds
+on the zombie are sewn up with twine.  
+~
+human~
+A A -1000 0
+53 0 11d195+1265 53d10+100 5d6+16 claw
+-10 -10 -10 -8
+CIN 0 E 0
+(null) (null) male 238
+AHMV ABCDEFGHIJK medium unknown
+#19672
+skeleton~
+an old skeleton~
+A skeleton stands here, his flesh long rotten away.
+~
+Old gray bones make up this contraption of bones.  This skeleton stands a
+normal height, but his soul seems to burn with a deep rage.  In any event,
+he is as quick as he ever was in life.  There is no sign of decay on his
+fighting skills.  
+~
+human~
+AFQ 0 -1000 0
+55 0 11d216+1345 55d10+100 5d7+16 digestion
+-11 -11 -11 -9
+CDEFIKN 0 G N
+(null) (null) male 247
+AHMV ABCDEFGHIJK medium unknown
+#19673
+spirit~
+a spirit~
+A spirit looks downcast at having lost its only life.
+~
+This phantasmal figure has manifested itself here in its body's final
+resting place to remember what life was once more.  It does not look angry,
+just saddened by the fact that the place has been left in such disarray.  It
+stares at you as you near it.  
+~
+human~
+A 0 -100 0
+57 0 11d239+1429 57d10+100 5d7+17 charge
+-12 -12 -12 -10
+0 0 D 0
+(null) (null) male 256
+AHMV ABCDEFGHIJK medium unknown
+#19674
+ghoul~
+a ghoul~
+A ghoul feeds on discarded corpses.
+~
+This creature is not dead, but resembles a zombie in almost every other
+way.  It has been drained of its desire to live, and now feeds on this
+carrion to keep its belly full, even if it is a volatile meal.  Were it not
+so interested in its meal, it would certainly attack, but at the moment it
+is otherwise occupied.  
+~
+human~
+AFQ 0 -600 0
+60 0 11d277+1559 60d10+100 5d7+19 slash
+-13 -13 -13 -11
+CDFIN 0 0 0
+(null) (null) male 270
+AHMV ABCDEFGHIJK medium unknown
+#19675
+black knight statue~
+a black knight~
+An enormous obsidian statue of a knight stands here.
+~
+This guy is big.  At first glance he appears to be nothing more than a
+statue, but looking deeper you can see the clear lines essential for motion.
+He stands totally motionless up until the moment of action.  
+~
+human~
+AFQ O -600 0
+62 0 11d306+1649 62d10+100 5d7+20 lunge
+-14 -14 -14 -12
+CDIKO 0 0 0
+(null) (null) male 279
+AHMV ABCDEFGHIJK huge unknown
+#19676
+guardian specter~
+a guardian specter~
+A pale red specter floats here.
+~
+Before you stands the shadow of what once was a man.  The guardian
+specter has been confined to guard the mid levels of this dungeon.  The pale
+red warrior is still dressed in his armor from life, though only a ghostly
+facsimile of it.  He glares at you as you enter the room.  
+~
+unique~
+AFQ BDFTUZ -300 0
+63 0 11d321+1694 63d10+100 5d8+18 charge
+-15 -15 -15 -12
+FGH 0 A C
+(null) (null) male 283
+CIKLM ABCDEFGHIJK medium unknown
+#19677
+fire flame firebrand~
+the firebrand~
+A large flame burns brightly on the wall here.
+~
+The firebrand is a reasonably sized creature made entirely out of flame. 
+Though at first appearing to be nothing more than a large fire, now its body
+has taken shape to become the elaborate form which it is now, a bipedal
+creature which seems to secrete fire from the pores of its body.  
+~
+human~
+AFQ DFQTV -800 0
+65 0 11d352+1789 65d10+100 5d8+19 chop
+-15 -15 -15 -13
+ADFGH H 0 R
+(null) (null) male 292
+AHMV ABCDEFGHIJK medium unknown
+#19678
+doomslayer slayer dark figure~
+a doomslayer~
+A large dark figure appears to be trying to blend in with the walls here.
+~
+The doomslayer is a large creature, over seven feet tall.  Were it to
+stand out on its own, it would stick out very visibly, but as it is, its
+lumpy back enables it to blend in with the cave wall quite well.  As it
+swings its large claws, you can see bony knuckles which would do damage on
+their own without the razor sharp claws attached.  
+~
+bear~
+AQ QZ -900 0
+66 0 11d369+1836 66d10+100 5d8+20 slash
+-16 -16 -16 -14
+CDEO 0 EI 0
+(null) (null) male 297
+AGV ABCDEFHJKPUV medium unknown
+#19679
+hell rat huge~
+a hell rat~
+A huge rat looks at you hungrily.
+~
+This rat glows with an orange light.  It is enormous as far as rats go,
+almost three feet high and twelve to fourteen feet long.  It glares at you
+with an insatiable hunger in its eyes.  
+~
+unique~
+AF CDFIJOTVZa -700 0
+66 0 11d369+1836 66d10+100 5d8+20 crush
+-16 -16 -16 -14
+FM LQ M N
+(null) (null) male 297
+ACGHIMVZc ACDEFHJKLOPUVW medium unknown
+#19680
+black foot blackfoot tall creature~
+the blackfoot~
+A tall black creature growls as it moves through these tunnels.
+~
+This tall creature, the blackfoot, has been known to use its fists as
+large clubs in battle.  He is tall, and almost lanky in comparison to his
+size, but looking twice you realize that it is his lack of body fat which
+makes him appear so.  He looks hungry, skin pulled taut across his features.
+~
+giant~
+A Z -500 0
+68 0 11d405+1935 68d10+100 5d8+21 claw
+-17 -17 -17 -14
+CDKO 0 HI JP
+(null) (null) male 306
+AHMV ABCDEFGHIJK large unknown
+#19681
+death kaide figure~
+a death kaide~
+A thin looking figure with a long sword stands totally motionless in a corner here.
+~
+This creature is not quite like anything you've seen.  It is extremely
+thin, its limbs being no thicker than an iron rod, but you find it
+intimidating nonetheless.  It wields an especially long sword, putting it
+exactly where it wants it with every stroke of its apparently powerful
+wrists.  
+~
+human~
+AQ BFPQZ -950 0
+69 0 11d424+1985 69d10+100 5d8+22 lunge
+-17 -17 -17 -15
+EFGHK 0 0 0
+(null) (null) male 310
+AHMV ABCDEFGHIJK medium unknown
+#19682
+necroth scout~
+a necroth scout~
+A necroth scout sits here, watching you.
+~
+He seems to have no intent to harm you, but stays instead a curious
+observer.  He is a typical necroth, with black skin and a pointed snout
+similar to that of the lacerti.  He is dressed in black leather.  
+~
+unique~
+AFH DFQZc -1000 0
+70 0 11d443+2036 70d10+100 5d8+22 crunch
+-17 -17 -17 -15
+EFHJKN L 0 0
+(null) (null) female 315
+AGHMVXc ABCDEFGHIJKLPUVX medium unknown
+#19683
+necroth scout~
+a necroth scout~
+A necroth scout sits here, watching you.
+~
+This scout moves silently around the edges of the road, looking for
+trouble.  He wears a dark cloak which helps him blend in with his
+surroundings, and a dark mask covers his facial features.  
+~
+human~
+AFH FPQZ -1000 0
+70 0 11d443+2036 70d10+100 5d8+22 crunch
+-17 -17 -17 -15
+BF 0 0 S
+(null) (null) female 315
+AHMV ABCDEFGHIJK medium unknown
+#19684
+necroth priest~
+a necroth priest~
+A necroth priest glares at you for desecrating his holy place.
+~
+This necroth is dressed in a long robe with a black hood.  He tends the
+temple here, refilling the liquids in his altar, and cleaning the black dust
+out of the corners of the room.  As there have been no services for so long,
+he has forgotten which religion he tends to, but does his best at making it
+look like he knows what he's doing.  
+~
+human~
+ABN Z -1000 0
+75 0 11d551+2303 75d10+100 5d9+24 peck
+-19 -19 -19 -17
+K 0 0 NS
+(null) (null) female 337
+AHMV ABCDEFGHIJK medium unknown
+#19685
+necroth warrior~
+a necroth warrior~
+A necroth warrior stands here, ready for a little excitement.
+~
+This necroth is big and brawny.  He stands at around six and a half feet
+tall.  The warrior is a symbol of high accomplishment in the Necroth
+society.  
+~
+human~
+ABQ Z -1000 0
+75 0 11d551+2303 75d10+100 5d9+24 sunder
+-19 -19 -19 -17
+CIK 0 0 S
+(null) (null) female 337
+AHMV ABCDEFGHIJK medium unknown
+#19686
+necroth ruler~
+the Necroth Ruler~
+The Necroth Ruler stands here, daring you to act against him.
+~
+The necroth ruler stands at a good seven feet tall.  He leans up against
+his half-throne and thinks of ways that he can solve his people's problems
+and still come out on top.  
+~
+human~
+ABO DZ -1000 0
+85 0 12d823+2891 85d10+100 5d10+25 wrath
+-23 -23 -23 -21
+FGHK 0 0 S
+(null) (null) female 382
+AHMV ABCDEFGHIJK medium unknown
+#19687
+necroth guard~
+a necroth guard~
+A Necroth stands here, guarding against intruders.
+~
+Before you stands a tall, dark skinned male.  He stands stiffly at
+attention, waiting for his reprieve at the end of his shift.  
+~
+human~
+ABQ Z -1000 0
+75 0 11d551+2303 75d10+100 5d9+24 sunder
+-19 -19 -19 -17
+IK 0 0 S
+(null) (null) female 337
+AHMV ABCDEFGHIJK medium unknown
+#19688
+necroth commoner~
+a necroth commoner~
+A Necroth commoner stands here.
+~
+This Necroth seems to have no apparent purpose in his life.  He wanders
+about aimlessly, looking for something to do, but never finding anything.  
+~
+human~
+AV 0 -1000 0
+70 0 11d443+2036 70d10+100 5d8+22 crunch
+-17 -17 -17 -15
+F 0 0 S
+(null) (null) male 315
+AHMV ABCDEFGHIJK medium unknown
+#19689
+ancient necroth~
+an ancient necroth~
+An ancient looking necroth stands here.
+~
+Not many necroth live to reach the age of this old one.  The ancient
+necroth looks as if his days have been many and long.  His age makes appear
+even more powerful.  
+~
+human~
+ABN Z -1000 0
+80 0 11d677+2588 80d10+100 5d10+24 bite
+-21 -21 -21 -19
+FK 0 0 0
+(null) (null) female 360
+AHMV ABCDEFGHIJK medium unknown
+#19690
+necroth woman female~
+a necroth female~
+A necroth female rests comfortably here.
+~
+This female necroth appears to be kept off her feet as much as possible. 
+She is usually found resting on a slate slab in her lair.  
+~
+human~
+AB Z -1000 0
+70 0 11d443+2036 70d10+100 5d8+22 claw
+-17 -17 -17 -15
+I 0 0 S
+rest rest either 315
+AHMV ABCDEFGHIJK medium unknown
+#19691
+necroth master~
+a necroth master~
+A necroth master stands here, head of his household.
+~
+This necroth is the master of this large house.  Only a powerful necroth
+could achieve enough to be able to afford a home so spacious as this.  
+~
+human~
+ABO Z -1000 0
+85 0 12d823+2891 85d10+100 5d10+25 wrath
+-23 -23 -23 -21
+F 0 0 S
+(null) (null) male 382
+AHMV ABCDEFGHIJK medium unknown
+#19692
+necroth jailor~
+a necroth jailor~
+A Necroth stands here, cell keys dangling at his waist.
+~
+This large and bulky jailor was once an elite warrior, but has now
+retired to this life of watching prisoners.  He spends all his time down
+here with his charges.  
+~
+human~
+ABQ Z -1000 0
+86 0 12d855+2954 86d10+100 5d10+26 digestion
+-24 -24 -24 -22
+CF 0 0 S
+(null) (null) female 387
+AHMV ABCDEFGHIJK medium unknown
+#19693
+necroth prisoner~
+a necroth prisoner~
+A necroth prisoner stands here.
+~
+This ragged Necroth man looks anxious to get out of his cell.  Little
+does he know that his stay is scheduled to be indefinite.  
+~
+human~
+A Z -1000 0
+87 0 12d887+3018 87d10+100 5d10+26 digestion
+-24 -24 -24 -22
+IJN 0 0 S
+(null) (null) female 391
+AHMV ABCDEFGHIJK medium unknown
+#19694
+necroth prisoner~
+a necroth prisoner~
+This prisoner is eager for revenge on his captors.
+~
+This ragged Necroth looks anxious to get out of his cell.  Little does he
+know that his stay is scheduled to be indefinite.  
+~
+human~
+A Z -1000 0
+102 0 20d2000+6000 408d10+100 20d20+50 digestion
+-75 -75 -75 -70
+IJN 0 0 0
+(null) (null) male 459
+AHMV ABCDEFGHIJK medium unknown
+#19695
+necroth prisoner~
+a necroth prisoner~
+This Necroth wanders around, disoriented, trying to discover where he's arrived.
+~
+It appears as if this prisoner is a newcomer to the prison, but he has
+managed already to escape.  By the dirt under his nails you can guess that
+he is the one who dug the small tunnel leading to this larger one.  
+~
+human~
+A 0 -1000 0
+91 0 12d1027+3281 91d10+100 6d10+26 digestion
+-26 -26 -26 -24
+IN 0 0 S
+(null) (null) female 409
+AHMV ABCDEFGHIJK medium unknown
+#19696
+black guivre worm wurm wyrm~
+the Black Guivre~
+A huge black worm snarls at you.
+~
+Before you is an enormous worm.  Similar to a long dragon, except without
+limbs, the guivre makes for a terrible looking adversary.  Black scales
+cover his entire body, and his eyes and tongue are likewise extremely dark. 
+Fangs extend from his upper jaw to protrude below his lower when his mouth
+closes, but since it unhinges, the long teeth are not much trouble for him. 
+~
+dragon~
+ABF DFJOTVZc -1000 0
+93 0 12d1102+3418 93d10+100 6d10+27 crush
+-29 -29 -29 -24
+CHO L BEHM FINS
+(null) (null) male 418
+ACGHMVZc ACDEFGHIJKLOPQUVX huge unknown
+#19697
+steel elemental~
+a steel elemental~
+A figure made of molten steel shifts and changes before your eyes.
+~
+This form is made totally of twisting metals.  They appear at first to be
+molten, but looking closer you see that the steal is quite solid. 
+Unfortunately, fists made entirely of heavy metal still pack quite a punch. 
+~
+human~
+AFQ DFZ -1000 0
+93 0 12d1102+3418 93d10+100 6d10+27 peck
+-29 -29 -29 -24
+CK 0 E 0
+(null) (null) male 418
+AHMV ABCDEFGHIJK huge unknown
+#19698
+dark drake~
+the Dark Drake~
+A black drake glares icily at you.
+~
+With powerful strokes of its wide wings, this thin little dragon keeps
+itself aloft while puffing bursts of fire at its steel confines.  The
+smaller version of a dragon is strangely undersized, though it has the full
+wingspan of its larger cousins.  
+~
+dragon~
+ABF DFJOTVZc -1000 0
+95 0 12d1182+3558 95d10+100 6d10+29 charge
+-30 -30 -30 -25
+FHKM L BEH FIN
+(null) (null) male 427
+ACGHMVZc ACDEFGHIJKLOPQUVX large unknown
+#19699
+skitterdemon demon~
+a skitterdemon~
+A small blue demon flashes in and out of existance.
+~
+As you look around you, you see several creatures which seem to be
+tunneling in and out of reality.  The skitterdemons have a tendency to
+randomly appear in a jumbled position, jump back into the air, and then
+flash back out of the mortal realm, emerging themselves in the planar
+fabric.  The blue horrors have death in their eyes.  
+~
+human~
+AFP DF -1000 0
+96 0 12d1223+3628 96d10+100 6d10+29 crunch
+-31 -31 -31 -26
+BFGK 0 0 0
+(null) (null) male 432
+AHMV ABCDEFGHIJK medium unknown
+#19700
+bloom hades plant blossom~
+the Bloom of Hades~
+An enormous blossom writhes and burns here.
+~
+Before you is an enormous blossom.  It whirls deadly looking vines around
+itself, and spits fire from its bright orange petals.  
+~
+dragon~
+ABQ DFJOTZc -1000 0
+101 30 20d2000+6000 408d10+100 20d20+50 jab
+-45 -45 -45 -40
+H L BEHK FI
+(null) (null) male 454
+ACGHMVZc ABCDEFGHIJKLOPQUVX medium unknown
+#19701
+traitet black guardian dragon~
+The Guardian Dragon~
+Traitet, Black Guardian of the Tower Sanctum stands here.
+~
+Before you stands a great black dragon of such magnitude that he almost
+has trouble moving around in this huge room.  Traitet, as he is called, is
+the Black Guardian of the tower sanctum, the source of all the power in
+these dungeons.  He glares at you with sharp talons on his hands and feet
+and glowing eyes red with fury.  
+~
+dragon~
+ABQ DFJMOTVZac -1000 0
+100 0 12d1397+3920 100d10+100 6d11+29 charge
+-35 -35 -35 -27
+CFHKMO L BEHM FI
+(null) (null) female 450
+ACGHMVZc ACDEFGHIJKLOPQUVX giant unknown
+#19702
+arkha saladorius monk cleric~
+Arkha Saladorius~
+A tall man in white robes scowls angrily at you.
+~
+Arkha Saladorius was the founder of the Arkha Order.  Originally a
+travelling cleric, it is said he settled down before starting his order of
+happy monks.  Arkha is a tall man, dressed in white robes, but with a very
+dark look about him.  He seems to almost resonate with a dark aura.  
+~
+human~
+ABN GHNOZc -1000 0
+102 30 20d2000+6000 408d10+100 20d20+50 punch
+-75 -75 -75 -70
+FGK L MN 0
+(null) (null) female 459
+ACGHMVc ABCDEFGHIJK medium unknown
+#19703
+craftsman ringmaker man visitor~
+a craftsman ringmaker~
+An unusual looking visitor walks the halls here.
+~
+This man appears bewildered at his present situation.  Apparently having
+wandered in here with hopes of finding the Bard Towers area, he now appears
+to be very confused.  He is involved in an active attempt to find someone
+capable of giving him directions.  
+~
+human~
+ABRW 0 0 0
+50 0 10d167+1149 50d10+100 5d6+13 none
+-9 -9 -9 -7
+0 0 0 0
+(null) (null) female 225
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#19651
+robe plain~
+a plain robe~
+A plain robe rests here.~
+cotton~
+armor 0 AD
+A A A 0 0
+4 2 20 P
+#19652
+robe red~
+a red robe~
+A red robe lies here.~
+cotton~
+armor V AD
+A A A 0 0
+5 2 25 P
+#19653
+robe blue~
+a blue robe~
+A blue robe lies here.~
+cotton~
+armor 0 AD
+B B B 0 0
+12 2 60 P
+A
+3 1
+#19654
+stave orange~
+an orange stave~
+An orange stave lies here.~
+wood~
+weapon 0 AN
+whip 4 7 peck 0
+14 4 70 P
+A
+18 1
+#19655
+robe decorated~
+a decorated robe~
+A decorated robe lies here, shimmering with shapes and patterns.~
+cotton~
+armor V AD
+AB AB AB 0 0
+18 3 90 P
+A
+4 1
+#19656
+key~
+a tiny key~
+A tiny key lies here.~
+iron~
+key 0 A
+0 0 0 0 0
+1 1 0 P
+#19657
+baronial sword~
+a baronial sword~
+A baronial sword lies here, ready for use.~
+steel~
+weapon 0 AN
+sword 6 7 lunge 0
+22 5 110 P
+A
+18 1
+#19658
+wing beetle~
+a beetle wing~
+A beetle wing lies here.  It looks like it would make a good shield.~
+hide~
+armor 0 AJ
+AC AC AC A 0
+31 2 155 P
+#19659
+boots black~
+black boots~
+A pair of heavy black boots are here.~
+leather~
+armor C AG
+AC AC AC A 0
+34 4 170 P
+A
+18 2
+#19660
+dark gauntlets gloves~
+dark gauntlets~
+A pair of dark gauntlets are here.~
+leather~
+armor C AH
+AC AC AC A 0
+34 4 170 P
+A
+19 2
+#19661
+misty scarf~
+a misty scarf~
+A misty scarf lies here, an image of the past.~
+mist~
+protect 0 AC
+BC BC BC B 0
+40 0 0 P
+#19662
+phantom sword~
+a phantom sword~
+This sword barely appears real.~
+mist~
+weapon 0 AN
+sword 8 11 slap D
+46 0 230 P
+A
+18 2
+#19663
+black armor~
+heavy black armor~
+An enormous suit of armor lies here.~
+spidersteel~
+armor C AD
+BD BD BD AB 0
+62 80 310 P
+A
+17 -5
+#19664
+molten flame orb~
+a molten orb~
+A flaming orb appears to be made completely out of fire.~
+ruby~
+light A A
+0 0 ABCFGHIJ 0 0
+65 1 0 P
+A
+18 1
+A
+19 4
+#19665
+black leather cape~
+a black leather cape~
+This cape is completely black, and shines with the reflection of the light.~
+leather~
+armor 0 Aa
+ABD ABD ABD AB 0
+66 5 330 P
+#19666
+deadly longsword~
+a deadly longsword~
+A deadly looking longsword lies here.~
+spidersteel~
+weapon 0 AN
+sword 11 12 lunge D
+69 5 345 P
+#19667
+necroth dagger~
+a necroth dagger~
+A necroth dagger lies here.~
+adamantite~
+weapon E AN
+bow 9 15 crunch D
+70 2 350 P
+#19668
+necroth cloak~
+a necroth cloak~
+A necroth cloak lies here in a heap.~
+hide~
+armor E AZ
+ABD ABD ABD AB 0
+70 5 350 P
+A
+17 -5
+#19669
+necroth boots~
+a pair of necroth boots~
+A pair of necroth boots rest here.~
+hide~
+armor E AG
+ABD ABD ABD AB 0
+70 5 350 P
+A
+14 100
+#19670
+necroth mask~
+a necroth mask~
+A necroth mask lies here.~
+hide~
+armor 0 AT
+ABD ABD ABD AB 0
+70 2 350 P
+A
+18 4
+#19671
+necroth rod staff~
+a necroth rod~
+A necroth rod rests here.~
+steel~
+weapon 0 AN
+whip 9 15 peck 0
+70 2 350 P
+A
+13 10
+#19672
+necroth robe~
+a necroth robe~
+A necroth robe lies here.~
+hide~
+armor 0 AD
+ABD ABD ABD AB 0
+70 2 350 P
+A
+13 10
+#19673
+necroth hood~
+a necroth hood~
+A necroth hood is here.~
+hide~
+armor 0 AE
+ABD ABD ABD AB 0
+70 2 350 P
+A
+3 1
+A
+12 10
+#19674
+necroth ring~
+a necroth ring~
+A necroth ring sits here.~
+steel~
+protect 0 AB
+CD CD CD AB 0
+75 1 225 P
+A
+5 1
+#19675
+necroth axe~
+a necroth axe~
+A necroth axe lies here.~
+steel~
+weapon 0 AN
+mace 11 13 sunder D
+75 2 375 P
+#19676
+necroth leggings~
+necroth leggings~
+A pair of necroth leggings rest here.~
+hide~
+armor 0 AF
+CD CD CD AB 0
+75 5 375 P
+A
+17 -4
+#19677
+necroth armor~
+necroth armor~
+Some necroth armor sits here.~
+hide~
+armor 0 AD
+CD CD CD AB 0
+75 10 375 P
+A
+17 -7
+#19678
+necroth sleeves~
+necroth sleeves~
+A pair of necroth sleeves is here.~
+hide~
+armor 0 AI
+CD CD CD AB 0
+75 3 375 P
+#19679
+sword necroth~
+a necroth sword~
+A necroth sword sits here.~
+steel~
+weapon 0 AN
+sword 29 5 wrath D
+85 4 425 P
+#19680
+necroth crown~
+a necroth crown~
+A necroth crown rests here.~
+hide~
+armor 0 AE
+BCD BCD BCD C 0
+85 2 425 P
+A
+2 3
+#19681
+necroth belt~
+a necroth belt~
+A necroth belt lies here.~
+hide~
+armor 0 AL
+BCD BCD BCD C 0
+85 2 425 P
+#19682
+necroth cape~
+a necroth cape~
+A necroth cape lies here.~
+hide~
+armor 0 Aa
+CD CD CD AB 0
+75 2 375 P
+#19683
+necroth helmet~
+a necroth helmet~
+A necroth helmet sits here.~
+hide~
+armor 0 AE
+CD CD CD AB 0
+75 2 375 P
+A
+13 10
+#19684
+necroth gloves~
+necroth gloves~
+A pair of necroth gloves.~
+hide~
+armor 0 AH
+ABD ABD ABD AB 0
+70 3 350 P
+#19685
+necroth pants~
+necroth pants~
+Some necroth pants lie here.~
+hide~
+clothing 0 AF
+0 0 0 0 0
+70 2 4 P
+A
+17 -8
+#19687
+necroth tattoo~
+a necroth tattoo~
+A necroth tattoo is here.~
+nothing~
+clothing MT AS
+0 0 0 0 0
+80 0 0 P
+A
+19 4
+#19688
+necroth shirt~
+a necroth shirt~
+A necroth shirt lies here.~
+hide~
+clothing 0 AD
+0 0 0 0 0
+70 2 100 P
+A
+14 50
+A
+17 -5
+A
+18 1
+#19689
+necroth bracer~
+a necroth bracer~
+A necroth bracer rests here.~
+hide~
+armor 0 AM
+BCD BCD BCD C 0
+85 5 425 P
+A
+1 2
+A
+1 1
+#19690
+cell keys~
+a ring of cell keys~
+This key ring contains the keys to all the necroth cells.~
+iron~
+key 0 A
+0 0 0 0 0
+50 10 100 P
+#19691
+skull dark drake~
+the skull of a black drake~
+The skull of a black drake looks like it might make a decent helmet.~
+bone~
+armor M AE
+ABCD ABCD ABCD C 0
+95 8 475 P
+A
+19 2
+A
+18 3
+#19692
+phasing anklet~
+a phasing anklet~
+A phasing anklet shimmers slightly before disappearing and returning once again.~
+nothing~
+protect BST AU
+0 0 0 0 0
+96 0 1440 P
+A
+18 4
+A
+19 6
+#19693
+black vine~
+a black vine~
+A black vine rests here.~
+vine~
+armor T AM
+E E E C 0
+97 1 485 P
+A
+13 35
+A
+18 3
+A
+19 3
+#19694
+black guardian gauntlets~
+the black guardian's gauntlets~
+Black taloned gloves, so large as to barely fit, rest here lethaly.~
+leather~
+armor BCE AH
+E E E AC 0
+100 10 500 P
+A
+19 5
+A
+13 25
+#19695
+belt arkha order~
+the Belt of the Arkha Order~
+The Belt of the Arkha Order seems to glow with a power of its own.~
+gold~
+armor GI AL
+E E E AC 0
+100 4 500 P
+A
+17 -5
+A
+3 1
+A
+12 40
+A
+13 60
+E
+!history!~
+It is said that this belt was given to Arkha Saladorius long before he
+started his order of monks.  The belt itself is magically enchanted to
+enhance its wearer's emotions.  
+~
+#19696
+key onyx~
+an onyx key~
+A black key sits here.~
+onyx~
+key 0 A
+0 0 0 0 0
+1 1 20 P
+#19697
+tiny relic~
+a tiny relic~
+A tiny relic sits here, a stone with what appears to be hard green scales.~
+scales~
+treasure 0 A
+0 0 0 0 0
+100 20 1000 P
+#19698
+diamond engagement ring~
+a diamond engagement ring~
+A diamond engagement ring is here.~
+diamond~
+treasure S AB
+0 0 0 0 0
+1 1 10 P
+#19699
+golden wedding band~
+a golden wedding band~
+A golden wedding band is here, the symbol of true love.~
+gold~
+treasure S AB
+0 0 0 0 0
+1 1 10 P
+#19700
+white book~
+a white book~
+A white book with an elaborate golden cover is here.~
+hemp~
+portal GT AO
+A ABCDE 0 ADEFHIJL 0
+100 55 0 P
+E
+book~
+The strange book is covered in an elaborate golden cover.  Set into the
+cover is a strange lock.  The lock is abnormally wide, looking to require
+quite a large key.  
+~
+#19701
+Azazil's Engagement Ring~
+a {yg{Wo{yl{Wd{x and {Rruby{x engagement ring~
+This {yg{Wo{yl{Wd{x and {Rruby{x engagement ring bears a small engraving.~
+ruby~
+protect S AB
+0 0 0 0 0
+25 0 0 P
+A
+18 2
+A
+19 2
+E
+engraving~
+To Azazil,
+The only woman that I will ever love.
+ 
+With all of my heart,
+Zyndier
+~
+#0
+
+
+
+#ROOMS
+#19651
+The Path~
+You have come across a small path leading north.  This trail leads north and 
+south, to some unseen destination.  Actually, now that you think about it, 
+you can just see a small tower looming from between the dense forest in the 
+distance.  A short distance off to the east a compressed earthen roadway can 
+be seen, winding its way through the forest like a giant brown snake.  
+~
+0 0 0
+D0
+North of here you can just barely make out a large tower.
+~
+~
+~
+0 0 19652
+D1
+~
+~
+~
+0 0 4329
+M 0 H 0
+S
+#19652
+Before Arkha Tower~
+You see before you a great tower witch stretches as tall as the redwood
+trees surrounding it.  On the south wall lies a gate, and above the gate
+there is a drapery with a crest indicating that the tower belongs to the
+Arkha Order.  The gate stands wide open, as visitors are always welcome to
+visit the places or the Arkha monks.  To the south, a trail stretches toward
+the town.  
+~
+0 12 0
+D0
+North of here lies the tower of the Arkha.
+~
+~
+~
+0 0 19653
+D2
+To the south can still be seen the city of Treble and the surrounding towers.
+~
+~
+~
+0 0 19651
+M 0 H 0
+S
+#19653
+The Great Hall~
+You stand now in the great hall of the tower of the Arkha monks.  The
+hallway unfolds to the north in a splendid carpet which stretches to the far
+end of the tower.  The ceiling is decorated with lamps and chandeliers
+customary of a castle.  To the south is the tower exit.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19654
+D1
+~
+~
+~
+0 0 19665
+D2
+~
+~
+~
+0 0 19652
+D3
+~
+~
+~
+0 0 19664
+M 0 H 0
+S
+#19654
+The Great Hall~
+You stand now in the center of the great hall within the tower of the
+Arkha monks.  This place is extravagantly decorated, so much so in fact that
+you wonder exactly what it is that these monks follow.  To the north you can
+see a set of double doors, while to the south lies the exit of the tower.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19655
+D1
+~
+~
+~
+0 0 19666
+D2
+~
+~
+~
+0 0 19653
+D3
+~
+~
+~
+0 0 19663
+M 0 H 0
+S
+#19655
+The Great Hall~
+On the north wall of this room lies a large set of double doors.  These
+doors are engraved with decorative curves and twists which make them look
+ancient and expensive, though you can tell that it was built only recently
+by the condition of the wood.  You are now at the far north portion of the
+hallway.  Gazing at the south wall, you can see the tower exit.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 19656
+D1
+~
+~
+~
+0 0 19657
+D2
+~
+~
+~
+0 0 19654
+D3
+~
+~
+~
+0 0 19660
+M 0 H 0
+S
+#19656
+The Altar of Arkha~
+The very room here seems to radiate good, positive thoughts.  There lies
+on the north wall a small coffin shaped object, which seems to be the holy
+symbol of the Arkha monks.  You can tell that this place is frequented by
+the monks of the order.  A large carpet is on the ground.  
+~
+0 12 0
+E
+carpet~
+The carpet looks a bit out of place.  Looking underneath it, you notice a
+hidden trapdoor.  
+~
+D2
+~
+~
+~
+1 0 19655
+D5
+~
+~
+~
+1 0 19691
+M 0 H 0
+S
+#19657
+The Great Hall~
+You can tell that this portion of the great hall is usually especially
+crowded.  On the east wall lies an arched doorway which leads to a hallway,
+and most likely the monks living quarters beyond that.  To the south of here
+is visible a dining area, while the great hall continues to the east.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19658
+D2
+~
+~
+~
+0 0 19666
+D3
+~
+~
+~
+0 0 19655
+M 0 H 0
+S
+#19658
+A Hallway in the Arkha Tower~
+This small hallway takes residents from the great hall to the rest of the
+tower.  It is designed not for splendor, but for only a mode of
+transportation.  The hallway runs west and south.
+~
+0 12 0
+D2
+~
+~
+~
+0 0 19659
+D3
+~
+~
+~
+0 0 19657
+M 0 H 0
+S
+#19659
+The End of the Hallway~
+You have come to the end of this short hallway.  On the south wall is a
+spiral staircase that leads to the floor above.  On the staircase is a small
+sign which tells visitors that this is the end of the portion which they are
+allowed to visit.  To the north can be seen the hallway leading back to the
+great hall.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19658
+D4
+~
+~
+~
+0 0 19668
+M 0 H 0
+S
+#19660
+The Great Hall~
+You can tell that this portion of the great hall is usually especially
+crowded.  On the west wall lies an arched doorway which leads to a hallway,
+and most likely the monks living quarters beyond that.  To the south of here
+is visible a dining area, while the great hall continues to the east.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19655
+D2
+~
+~
+~
+0 0 19663
+D3
+~
+~
+~
+0 0 19661
+M 0 H 0
+S
+#19661
+A Hallway in the Arkha Tower~
+This small hallway takes residents from the great hall to the rest of
+the tower.  It is designed not for splendor, but for only a mode of
+transportation.  The hallway runs east and south.  
+~
+0 12 0
+D1
+~
+~
+~
+0 0 19660
+D2
+~
+~
+~
+0 0 19662
+M 0 H 0
+S
+#19662
+The End of the Hallway~
+You have come to the end of this short hallway.  On the south wall is a
+spiral staircase that leads to the floor above.  On the staircase is a small
+sign which tells visitors that this is the end of the portion which they are
+allowed to visit.  To the north can be seen the hallway leading back to the
+great hall.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19661
+D4
+~
+~
+~
+0 0 19667
+M 0 H 0
+S
+#19663
+The Great Hall~
+You have come to the part of the great hall used as for banquets and
+other general matters where it is customary for guests to take a seat.  The
+walls of the hall here are lined with enormous tables and benches.  The
+arrangement, though somewhat of an eyesore, looks to be very effective.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19660
+D1
+~
+~
+~
+0 0 19654
+D2
+~
+~
+~
+0 0 19664
+M 0 H 0
+S
+#19664
+The Great Hall~
+The walls of the great hall reflect the jubilant spirit of the rest of
+the place perfectly.  They are covered with large drapes baring the crest of
+the Arkha monks, along with the occasional sword and shield pair that is
+frequently seen in places such as this.  You stand now in the south west
+corner of the tower.  The exit lies to the east, while more of the great
+hall is to the north.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19663
+D1
+~
+~
+~
+0 0 19653
+M 0 H 0
+S
+#19665
+The Great Hall~
+You stand now in the southeast corner of the tower of the Arkha monks. 
+This corner seems rather forgotten as opposed to the others, as the
+arrangement hints that there are seldom very many people back here.  The
+north wall stretches on to the north of here, while to the east lies the
+tower exit.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19666
+D3
+~
+~
+~
+0 0 19653
+M 0 H 0
+S
+#19666
+The Great Hall~
+You have come to the part of the great hall used for banquets and other
+general matters where it is customary for guests to be seated.  The walls of
+the hall here are lined with enormous tables and benches.  The arrangement,
+though somewhat of an eyesore, looks to be very efficient.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19657
+D2
+~
+~
+~
+0 0 19665
+D3
+~
+~
+~
+0 0 19654
+M 0 H 0
+S
+#19667
+{BThe Second Floor~
+You have come to the top of the staircase in the tower of the Arkha. 
+This part of the tower appears to be much less decorated than does the lower
+level.  A stairway leads to the ground floor, while a plain hallway travels
+east.  
+~
+0 12 0
+D1
+~
+~
+~
+0 0 19669
+D5
+~
+~
+~
+0 0 19662
+M 0 H 0
+S
+#19668
+{BThe Second Floor~
+You have come to the top of the staircase in the tower of the Arkha. 
+This part of the tower appears to be much less decorated than does the lower
+level.  A stairway leads to the ground floor, while a plain hallway travels
+west.  
+~
+0 12 0
+D3
+~
+~
+~
+0 0 19673
+D5
+~
+~
+~
+0 0 19659
+M 0 H 0
+S
+#19669
+The Upper Hallway~
+This hallway is especially plain in comparison with the great hall which
+lies directly below you.  The walls are painted a clean white shade, but the
+paint appears inexpensive and poorly applied.  You may travel north and
+south in the hallway from here.  The stairs lie to the west.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19670
+D2
+~
+~
+~
+0 0 19677
+D3
+~
+~
+~
+0 0 19667
+M 0 H 0
+S
+#19670
+The Upper Hallway~
+You have come to a corner in this drab hallway.  From here you can see
+exactly half of the second floor of the tower, not counting the rooms. 
+Occasionally a cheerful monk can be seen, but they usually vanish into a
+room or turn the corner as they see you.  You may continue to the south and
+east from here.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19671
+D2
+~
+~
+~
+0 0 19669
+M 0 H 0
+S
+#19671
+The Upper Hallway~
+On the walls of the hallway here lie two doors, one on the north wall and
+one on the south.  The north wall is plain.  It is made of a cheap wood, and
+is quite thin.  The south door, however, is made out of a heavy mahogany,
+and looks to have been very expensive.  The hallway itself continues east
+and west from here.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 19678
+D1
+~
+~
+~
+0 0 19672
+D2
+~
+~
+~
+1 0 19679
+D3
+~
+~
+~
+0 0 19670
+M 0 H 0
+S
+#19672
+The Upper Hallway~
+You have come to a corner in this drab hallway.  From here you can see
+exactly half of the second floor of the tower, not counting the rooms. 
+Occasionally a cheerful monk can be seen, but they usually vanish into a
+room or turn the corner as they see you.  You may continue to the south and
+west from here.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 19673
+D3
+~
+~
+~
+0 0 19671
+M 0 H 0
+S
+#19673
+The Upper Hallway~
+This hallway is especially plain in comparison with the great hall which
+lies directly below you.  The walls are painted a clean white shade, but the
+paint appears inexpensive and poorly applied.  You may travel north and south
+in the hallway from here.  The stairs lie to the east.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19672
+D1
+~
+~
+~
+0 0 19668
+D2
+~
+~
+~
+0 0 19674
+M 0 H 0
+S
+#19674
+The Upper Hallway~
+You have come to a corner in this drab hallway.  From here you can see
+exactly half of the second floor of the tower, not counting the rooms. 
+Occasionally a cheerful monk can be seen, but they usually vanish into a
+room or turn the corner as they see you.  You may continue to the north and
+west from here.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19673
+D3
+~
+~
+~
+0 0 19675
+M 0 H 0
+S
+#19675
+The Upper Hallway~
+On the southern wall of this portion of the hallway lies a single door. 
+The doors is as poorly decorated as the rest of the room, and you can tell
+at a glance that it has no lock.  Unfortunately, the door is too thick to
+hear through.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19674
+D2
+~
+~
+~
+1 0 19676
+D3
+~
+~
+~
+0 0 19677
+M 0 H 0
+S
+#19676
+The {BPrivate Chamber~
+This small chamber is the resting place for the Arkha monks.  The walls
+on three sides contain three rows of, cots and have small step ladders which
+lead up to the higher rows.  The room contains little, but the Arkha lead a
+path of unlimited joy, so they do not require much.  The door lies on the
+north wall.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 19675
+M 0 H 0
+S
+#19677
+The Upper Hallway~
+You have come to a corner in this drab hallway.  From here you can see
+exactly half of the second floor of the tower, not counting the rooms. 
+Occasionally a cheerful monk can be seen, but they usually vanish into a
+room or turn the corner as they see you.  You may continue to the north and
+east from here.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19669
+D1
+~
+~
+~
+0 0 19675
+M 0 H 0
+S
+#19678
+The {BPrivate Chamber~
+This small chamber is the resting place for the Arkha monks.  The walls
+on three sides contain three rows of, cots and have small step ladders which
+lead up to the higher rows.  The room contains little, but the Arkha lead a
+path of unlimited joy, so they do not require much.  The door lies on the
+south wall.  
+~
+0 8 0
+D2
+~
+~
+~
+1 0 19671
+M 0 H 0
+S
+#19679
+The Giant Staircase~
+The staircase here reflects the eloquence that was in the great hall. 
+The stairs are covered in a deep red carpet which stretches the full length
+of the tower.  On the walls are portraits and drapes galore.  To the north
+lies a door, while the stairs lead upward.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 19671
+D4
+~
+~
+~
+0 0 19680
+M 0 H 0
+S
+#19680
+On the Stairway~
+Your travels on this stairway keep you ascending quite rapidly to the
+high third floor of the tower.  The carpet makes the steps softer and so the
+journey easier, but you still tire quickly after going up this many steps. 
+Above you you can make out a doorway in the top of the tower.  
+~
+0 12 0
+D4
+~
+~
+~
+0 0 19681
+D5
+~
+~
+~
+0 0 19679
+M 0 H 0
+S
+#19681
+On the Stairway~
+You are near the top floor now.  From here you can see the ceiling of the
+tower through the trapdoor quite easily.  Falling from this height would be
+deadly, but luckily you have a firm wooden handrail to steady yourself on.  
+~
+0 8 0
+D4
+~
+~
+~
+0 0 19682
+D5
+~
+~
+~
+0 0 19680
+M 0 H 0
+S
+#19682
+The Top Floor~
+You come out of the stairway into an elaborate little indoor gazebo. 
+There are doors in the north, east, west, and south directions which gaze
+out onto an enormous third level chamber.  In the center of the floor of the
+gazebo can be found a small opening leading to a very long stairwell and the
+rest of the tower.  You may travel in any cardinal direction from here.  
+~
+0 12 0
+D0
+~
+~
+~
+0 0 19685
+D1
+~
+~
+~
+0 0 19687
+D2
+~
+~
+~
+0 0 19689
+D3
+~
+~
+~
+0 0 19683
+D5
+~
+~
+~
+0 0 19681
+M 0 H 0
+S
+#19683
+The Chamber of the High Monk~
+This room serves as a sitting room for the High Monk.  There is a table
+in the center of the area, and surrounding the table are three ornately
+carved chairs.  A delicately woven rug lies under this set.  On the western
+wall lies a beautiful painting of a waterfall cascading down a great cliff. 
+You can travel in the north, east, and south directions from here.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19684
+D1
+~
+~
+~
+0 0 19682
+D2
+~
+~
+~
+0 0 19690
+M 0 H 0
+S
+#19684
+The Chamber of the High Monk~
+This portion of the chamber appears to be the gallery.  The walls here
+are decorated with many expensive looking pieces of art.  Scenes of sunsets,
+oceans, waterfalls, and endless fields all appear here, but you can see no
+sign of anything containing people.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19685
+D2
+~
+~
+~
+0 0 19683
+M 0 H 0
+S
+#19685
+The Chamber of the High Monk~
+This is the part of the room where the High Monk can speak with the
+frequent visitors which belong to his order.  On the north wall of the room
+lies a large chair, upon which is a plush red cushion.  A carpet leads from
+the little gazebo to the south directly to this throne of sorts, which is
+where you would guess the High Monk spends most of his time.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19686
+D2
+~
+~
+~
+0 0 19682
+D3
+~
+~
+~
+0 0 19684
+M 0 H 0
+S
+#19686
+The Chamber of the High Monk~
+This place would appear to be a washroom of some sort.  From a sort of
+pipe on the ceiling of the room comes a steady stream of clean, cool water
+which runs down the privy and out of the back of the tower.  The device is
+strange to you, and you find yourself wondering how the water comes to the
+top of the tower.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 19687
+D3
+~
+~
+~
+0 0 19685
+M 0 H 0
+S
+#19687
+The Chamber of the High Monk~
+Before you stretches a large table meant solely for dining.  The table is
+around twelve feet long and is covered by a deep red tablecloth.  The dishes
+have been cleared to somewhere out of sight, but eight chairs still sit
+around the table, ready for use whenever they are needed.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19686
+D2
+~
+~
+~
+0 0 19688
+D3
+~
+~
+~
+0 0 19682
+M 0 H 0
+S
+#19688
+The Chamber of the High Monk~
+You have come to a quarry of sorts, but it appears to be for relics as
+opposed to rocks.  All around the room can be seen ancient crests and
+shields, along with other artifacts that the monks have collected.  Just
+because the monks are nonviolent and cheerful doesn't mean they lack
+security, though, as all of these things of value are anchored somehow to
+the wall.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19687
+D3
+~
+~
+~
+0 0 19689
+M 0 H 0
+S
+#19689
+The Chamber of the High Monk~
+This portion of the chamber appears to serve as a kitchen.  The stoves
+are currently not lit, but you can tell that an entire feast can be prepared
+at one time using these facilities.  There are five stoves in all, though
+two are designed for a slow boil.  The air still smells of the last meal.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19682
+D1
+~
+~
+~
+0 0 19688
+D3
+~
+~
+~
+0 0 19690
+M 0 H 0
+S
+#19690
+The Chamber of the High Monk~
+This portion of the chamber is dedicated to the High Monk's restful
+needs.  In the southwest corner here lies a large bed reserved for the use
+of the high monk.  By the bed is a small nightstand, on which sits a small
+lamp which is powered by a tiny candle.  This room looks like it would make
+a very comfortable place to rest.  
+~
+0 33554440 0
+D0
+~
+~
+~
+0 0 19683
+D1
+~
+~
+~
+0 0 19689
+M 0 H 0
+S
+#19691
+A Short Tunnel~
+This short tunnel stretches south from under the altar of the Arkha
+Monks.  The room is lit by torches made from a strange material and
+transfixed to the wall.  To the south you can just barely make out the end
+of the tunnel.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 19692
+D4
+~
+~
+~
+1 0 19656
+M 0 H 0
+S
+#19692
+A Short Stairway~
+The lighting here is poor, but it is not bad enough to complain about. 
+Before you lies a short stairway which stretches down to an even lower level
+than the one you are on now.  The lighting below you looks equally good as
+what is here.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19691
+D5
+~
+~
+~
+0 0 19693
+M 0 H 0
+S
+#19693
+The Bottom of a Short Stairway~
+You are now at the base of a short stairway which leads back up to the
+level above this one.  Through the torchlight here you can see the glint of
+metal coming to the south, and you can hear sounds of metal on metal.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 19694
+D4
+~
+~
+~
+0 0 19692
+M 0 H 0
+S
+#19694
+Outside a Guarded Room~
+You stand now outside a very well-constructed door.  The door is made
+completely out of basalt, and locked tightly from the outside.  The lock
+looks complex, and the door looks magically enhanced.  Every once in a while
+you here shuffling coming from the other side.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19693
+D2
+~
+~
+~
+4 19656 19695
+M 0 H 0
+S
+#19695
+A Tiny Prison~
+This is the prison of a madman.  There is scarcely enough space to move
+around in.  Apparently the makes of this prison thought that if it was
+impossible to move, it was impossible to escape.  You decide that you would
+not much like to be kept in a place like this.  You see a small hole in the
+ground that the haitorin appears to have been working on.  
+~
+0 12 0
+D0
+~
+~
+~
+4 0 19694
+D5
+~
+~
+~
+1 0 19696
+M 0 H 0
+S
+#19696
+A Strange Chamber~
+You are now directly under the tiny prison of the haitorin criminal. 
+This room is quite odd.  It glows with a light like a firefly, and yet there
+are no torches to be seen.  It appears that something in the air is giving
+off this strange light source.  You may travel east and west from here.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19698
+D2
+~
+~
+~
+0 0 19697
+D3
+~
+~
+~
+0 0 19704
+D4
+~
+~
+~
+1 0 19695
+M 0 H 0
+S
+#19697
+A Hole in the Ground~
+In the middle of the ground here lies a hole which stretches down into an
+abysmal depth.  You cannot determine where it leads because it is completely
+dark.  Occasionally you can hear strange noises coming from the pit, but you
+can't make out where they come from.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19696
+D5
+~
+~
+~
+0 0 19705
+M 0 H 0
+S
+#19698
+A Strange Chamber~
+This part of the chamber is a bit darker than the entrance, but still
+light enough to see by.  The chamber here turns and goes south into a
+smaller corridor.  The hallway is void of light however, and you cannot see
+to where it leads.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 19699
+D3
+~
+~
+~
+0 0 19696
+M 0 H 0
+S
+#19699
+A {BDark Hallway~
+You have entered a small corridor which leads north and south.  It is
+almost completely dark here, but a small amount of light comes from the
+north direction.  To the south it appears to grow darker still, and you
+notice that the hallway has a slight curve in it.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19698
+D2
+~
+~
+~
+0 0 19700
+M 0 H 0
+S
+#19700
+A Black Room~
+This room is dark and featureless.  The only light comes from your light
+source, all other light is cut off by the angle of the corridor to the north
+and a strange mist like atmosphere which seems to absorb any light in your
+environment.  You may travel west and north of here.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19699
+D3
+~
+~
+~
+0 0 19701
+M 0 H 0
+S
+#19701
+A Black Room~
+This room is especially dark.  The strange mist seems to converge here to
+drain the light from even touching the walls.  You can see nothing apart
+from yourself.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19700
+D3
+~
+~
+~
+0 0 19702
+M 0 H 0
+S
+#19702
+A Black Room~
+This room is dark and featureless.  The only light comes from your light
+source, all other light is cut off by the angle of the corridor to the north
+and a strange mist like atmosphere which seems to absorb any light in your
+environment.  You may travel east and north of here.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19703
+D1
+~
+~
+~
+0 0 19701
+M 0 H 0
+S
+#19703
+A {BDark Room~
+You have entered a small corridor which leads north and south.  It is
+almost completely dark here, but a small amount of light comes from the
+north direction.  To the south it appears to grow darker still, and you
+notice that the hallway has a slight curve in it.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19704
+D2
+~
+~
+~
+0 0 19702
+M 0 H 0
+S
+#19704
+A Strange Chamber~
+This part of the chamber is a bit darker than the entrance, but still
+light enough to see by.  The chamber here turns and goes south into a
+smaller corridor.  The hallway is void of light however, and you cannot see
+to where it leads.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19696
+D2
+~
+~
+~
+0 0 19703
+M 0 H 0
+S
+#19705
+The Bottom of the Pit~
+You stand now at the bottom of a large pit.  All around you rise four
+hard rock walls.  On the south wall, however, can also be seen a heavy
+wooden door.  
+~
+0 8 0
+D2
+~
+~
+~
+1 0 19706
+D4
+~
+~
+~
+0 0 19697
+M 0 H 0
+S
+#19706
+A Lighted Room~
+It looks as if this room was swallowed up by the earth a long time ago. 
+The walls are made of hard rock but they have eroded to create jagged edges,
+and the wooden supports have rotted clean through, leaving the friction on
+the outside of the building the only thing holding it up.  The torches are
+still fresh, however.  They look as if someone has been tending them.  
+~
+0 8 0
+D0
+~
+~
+~
+1 0 19705
+D1
+~
+~
+~
+0 0 19714
+D3
+~
+~
+~
+0 0 19707
+M 0 H 0
+S
+#19707
+A Lighted Room~
+You are now in the corner of the lighted room.  This room appears to have
+at one time belonged to someone of great importance, as the size of the
+building is more than reasonable and the purple rags which lie about the
+room were undoubtedly at one time drapes and other decorations.  Also, along
+the walls can be seen the remains of decorative full body armor, probably
+jostled to the ground by the impact when the house ended its descent into
+the earth.  Few still stand.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19706
+D2
+~
+~
+~
+0 0 19708
+M 0 H 0
+S
+#19708
+A Lighted Room~
+You find yourself now in another corner of this strange room, though this
+one was most likely not in the original construction design.  It looks like
+the falling home came to rest on a large stalagmite.  The stalagmite is
+there now, blocking your passage southward.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19707
+D1
+~
+~
+~
+0 0 19709
+M 0 H 0
+S
+#19709
+A Lighted Room~
+Again stalagmites block you from travelling any further in the direction
+you were heading.  This time, however, they are in the center of the room. 
+The stalagmites stretch so far upward that were the ceiling not so high,
+they would go strait through the building.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 19710
+D3
+~
+~
+~
+0 0 19708
+M 0 H 0
+S
+#19710
+The Back of the Lighted Room~
+It appears that when this house sunk, the back half was somehow torn from
+the front, leaving the ending to this room abrupt.  On the southwest side of
+this room rests what was once a staircase.  Now there are only a few steps
+left.  A hole under the steps looks large enough to fit through.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19709
+D1
+~
+~
+~
+0 0 19711
+D3
+~
+gap~
+~
+1 0 19715
+M 0 H 0
+S
+#19711
+The Back of the Lighted Room~
+This room has been torn along the south wall and now sits incomplete up
+against one side of the cavern.  It appears to have been the entrance to the
+house at one time because the door sits open against the side of the cave,
+pinned there by its own hinges.  The incomplete door now resembles a simple
+gap.  There is just enough room to fit through.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19712
+D1
+~
+gap~
+~
+1 0 19727
+D3
+~
+~
+~
+0 0 19710
+M 0 H 0
+S
+#19712
+A Lighted Room~
+Again stalagmites block you from travelling any further in the direction
+you were heading.  This time, however, they are in the center of the room. 
+The stalagmites stretch so far upward that were the ceiling not so high,
+they would go strait through the building.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19713
+D2
+~
+~
+~
+0 0 19711
+M 0 H 0
+S
+#19713
+A Lighted Room~
+You find yourself now in another corner of this strange room, though this
+one was most likely not in the original construction design.  It looks like
+the falling home came to rest on a large stalagmite.  The stalagmite is
+there now, blocking your passage southward.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19714
+D3
+~
+~
+~
+0 0 19712
+M 0 H 0
+S
+#19714
+A Lighted Room~
+You are now in the corner of the lighted room.  This room appears to have
+at one time belonged to someone of great importance, as the size of the
+building is more than reasonable and the purple rags which lie about the
+room were undoubtedly at one time drapes and other decorations.  Also, along
+the walls can be seen the remains of decorative full body armor, probably
+jostled to the ground by the impact when the house ended its descent into
+the earth.  Few still stand.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 19713
+D3
+~
+~
+~
+0 0 19706
+M 0 H 0
+S
+#19715
+Outside the Lighted House~
+You stand directly outside of the lighted house.  Before you now is a
+large cavern which once extended to form a large dome.  Currently, the dome
+has been cut short, and now lies as a wedge, only a sliver of what it once
+was.  
+~
+0 12 0
+D0
+~
+~
+~
+0 0 19716
+D1
+~
+~
+~
+1 0 19710
+M 0 H 0
+S
+#19716
+Outside the Lighted House~
+As you travel north from here, the tiny cavern in which you are forced to
+travel gradually gets larger and larger.  The walls of this cavern appear to
+be made not of limestone, but of some kind of volcanic substance.  Covering
+these walls is a softly glowing moss, which provides light enough to see by.
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19717
+D2
+~
+~
+~
+0 0 19715
+M 0 H 0
+S
+#19717
+Outside the Lighted House~
+You now have enough space to move around freely.  Looking back at the
+lighted house, you can now see the outside quite freely.  Pinned between the
+roof of the house and the cavern ceiling is a purple banner baring the crest
+of Arkha.  Apparently this Arkha was a lord at some point.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19718
+D2
+~
+~
+~
+0 0 19716
+M 0 H 0
+S
+#19718
+A Large Cave~
+The area around you has finally opened up enough as to be called a
+cavern.  Looking up, you can see that the mysterious lighted building
+actually does have a second floor, but it is impossible to enter because the
+building has no windows.  Apart from this fact you cannot seem to find much
+of interest.  You may travel east and south from here.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19719
+D2
+~
+~
+~
+0 0 19717
+M 0 H 0
+S
+#19719
+A Large Cave~
+The moss on the walls glows especially brightly in this section of the
+cave.  The cave here is vast, but soon shrinks to become just a wall on the
+north side of the cavern.  On that wall can be seen a large hole leading
+further into the cave.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19720
+D3
+~
+~
+~
+0 0 19718
+M 0 H 0
+S
+#19720
+A Narrow Tunnel~
+This tunnel looks like it was originally a lava tube, most likely.  It is
+round and smooth, and would be completely circular save for the fact that
+frequent use has battered the bottom of the tunnel flat.  The tunnel travels
+east into darkness.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19721
+D2
+~
+~
+~
+0 0 19719
+M 0 H 0
+S
+#19721
+A Narrow Tunnel~
+You are now in the middle of this natural tunnel.  The tunnel stretches
+east and west, but also here branches off to the south before sinking into
+unseen depths below.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19722
+D3
+~
+~
+~
+0 0 19720
+D5
+~
+~
+~
+0 0 19728
+M 0 H 0
+S
+#19722
+A Narrow Tunnel~
+This tunnel looks like it was originally most likely a lava tube.  It is
+round and smooth, and would be completely circular save for the fact that
+frequent use has battered the bottom of the tunnel flat.  The tunnel travels
+west into darkness.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 19723
+D3
+~
+~
+~
+0 0 19721
+M 0 H 0
+S
+#19723
+A Large Cave~
+The moss on the walls glows especially brightly in this section of the
+cave.  The cave here is vast, but soon shrinks to become just a wall on the
+north side of the cavern.  On that wall can be seen a large hole leading
+further into the cave.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19722
+D1
+~
+~
+~
+0 0 19724
+M 0 H 0
+S
+#19724
+A Large Cave~
+The area around you has finally opened up enough as to be called a
+cavern.  Looking up, you can see that the mysterious lighted building
+actually does have a second floor, but it is impossible to enter because the
+building has no windows.  Apart from this fact you cannot seem to find much
+of interest.  You may travel west and south from here.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 19725
+D3
+~
+~
+~
+0 0 19723
+M 0 H 0
+S
+#19725
+Outside the Lighted House~
+You now have enough space to move around freely.  Pinned between the roof
+of the house and the cavern ceiling is a purple banner baring the crest of
+Arkha.  Apparently this Arkha was a lord at some point.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19724
+D2
+~
+~
+~
+0 0 19726
+M 0 H 0
+S
+#19726
+Outside the Lighted House~
+As you travel north from here, the tiny cavern in which you are forced to
+travel gradually gets larger and larger.  The walls of this cavern appear to
+be made not of limestone, but of some kind of volcanic substance.  Covering
+these walls is a softly glowing moss, which provides light enough to see by.
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19725
+D2
+~
+~
+~
+0 0 19727
+M 0 H 0
+S
+#19727
+Outside the Lighted House~
+You stand directly outside of the lighted house.  Before you now is a
+large cavern which once extended to form a large dome.  Currently, the dome
+has been cut short, and now lies as a wedge, only a sliver of what it once
+was.  
+~
+0 12 0
+D0
+~
+~
+~
+0 0 19726
+D3
+~
+~
+~
+1 0 19711
+M 0 H 0
+S
+#19728
+The Bottom of the Tunnel~
+The tunnel here comes to an abrupt end.  A dark wall looms before you,
+blocking your progress quite completely.  A small hole in the floor proves
+your only exit from this place.  
+~
+0 12 0
+D4
+~
+~
+~
+0 0 19721
+D5
+~
+~
+~
+0 0 19729
+M 0 H 0
+S
+#19729
+The Vast Room~
+You stand now in the middle of a vast room which stretches forth in every
+direction.  The ceiling here is very high, making it impossible to climb
+back through the ceiling without the use of flight or the large pillar which
+seems to hold up the room here.  You can travel in any direction from this
+place.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19730
+D1
+~
+~
+~
+0 0 19732
+D2
+~
+~
+~
+0 0 19734
+D3
+~
+~
+~
+0 0 19736
+D4
+~
+~
+~
+0 0 19728
+M 0 H 0
+S
+#19730
+The Vast Room~
+This room is dark and ghostly.  It stretches out as far as the eye can
+see, showing no sign, through a thick mist that covers the area, of ending. 
+In the distance you can make out large pillars, but they always seem further
+away then where you are.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19738
+D1
+~
+~
+~
+0 0 19731
+D2
+~
+~
+~
+0 0 19729
+D3
+~
+~
+~
+0 0 19737
+M 0 H 0
+S
+#19731
+The Vast Room~
+You are in a vast room here which stretches forth in every direction. 
+Covering the floor of the room is a heavy mist, but it is still possible to
+see beyond it as long as you are standing.  All around you can be seen large
+pillars, but the fog makes it seem as if they are moving away from you as
+you approach them.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 19732
+D3
+~
+~
+~
+0 0 19730
+M 0 H 0
+S
+#19732
+The Vast Room~
+This room is dark and ghostly.  It stretches out as far as the eye can
+see, showing no sign, through a thick mist that covers the area, of ending. 
+In the distance you can make out large pillars, but they always seem further
+away then where you are.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19731
+D1
+~
+~
+~
+0 0 19741
+D2
+~
+~
+~
+0 0 19733
+D3
+~
+~
+~
+0 0 19729
+M 0 H 0
+S
+#19733
+The Vast Room~
+You are in a vast room here which stretches forth in every direction. 
+Covering the floor of the room is a heavy mist, but it is still possible to
+see beyond it as long as you are standing.  All around you can be seen large
+pillars, but the fog makes it seem as if they are moving away from you as
+you approach them.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19732
+D3
+~
+~
+~
+0 0 19734
+M 0 H 0
+S
+#19734
+The Vast Room~
+This room is dark and ghostly.  It stretches out as far as the eye can
+see, showing no sign, through a thick mist that covers the area, of ending. 
+In the distance you can make out large pillars, but they always seem further
+away then where you are.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19729
+D1
+~
+~
+~
+0 0 19733
+D2
+~
+~
+~
+0 0 19744
+D3
+~
+~
+~
+0 0 19735
+M 0 H 0
+S
+#19735
+The Vast Room~
+You are in a vast room here which stretches forth in every direction. 
+Covering the floor of the room is a heavy mist, but it is still possible to
+see beyond it as long as you are standing.  All around you can be seen large
+pillars, but the fog makes it seem as if they are moving away from you as
+you approach them.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19736
+D1
+~
+~
+~
+0 0 19734
+M 0 H 0
+S
+#19736
+The Vast Room~
+This room is dark and ghostly.  It stretches out as far as the eye can
+see, showing no sign, through a thick mist that covers the area, of ending. 
+In the distance you can make out large pillars, but they always seem further
+away then where you are.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19737
+D1
+~
+~
+~
+0 0 19729
+D2
+~
+~
+~
+0 0 19735
+D3
+~
+~
+~
+0 0 19747
+M 0 H 0
+S
+#19737
+The Vast Room~
+You are in a vast room here which stretches forth in every direction. 
+Covering the floor of the room is a heavy mist, but it is still possible to
+see beyond it as long as you are standing.  All around you can be seen large
+pillars, but the fog makes it seem as if they are moving away from you as
+you approach them.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19730
+D2
+~
+~
+~
+0 0 19736
+M 0 H 0
+S
+#19738
+The Vast Room~
+You still travel inside of this large room.  You keep walking onward, but
+the combination of the mist and the strange pillars makes this place very
+disorienting.  You turn back to where you just came from, and to your
+surprise find yourself staring at the very wall you thought you were
+trekking toward.  At least the floor is smooth and level.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19739
+D3
+~
+~
+~
+0 0 19740
+M 0 H 0
+S
+#19739
+A Vast Room~
+You find yourself still travelling in this enormous room.  All around you
+the room is coated with a blanket of fog, and the pillars are now closer
+than ever.  In fact, were you not a sane individual you would swear that
+they were fleeing from you.  Travelling is fortunately still easy, but as
+you walk you frequently glimpse motions in the shadows and strange noises
+can be heard coming from the ends of the room.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19751
+D2
+~
+~
+~
+0 0 19757
+D3
+~
+~
+~
+0 0 19738
+M 0 H 0
+S
+#19740
+A Vast Room~
+The large room you are now in is dark and confusing.  There is a heavy
+mist which coats the ground, but you are still able to see.  Your mind seems
+to play tricks on you, as you constantly see the shadows move from out of
+the corner of your eye and you hear strange footsteps echoing through the
+room with no hint of an origin.  Also, the large pillars which hold up the
+room seem to be moving further and further away.  This place is strange
+indeed.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19738
+D2
+~
+~
+~
+0 0 19754
+D3
+~
+~
+~
+0 0 19750
+M 0 H 0
+S
+#19741
+The Vast Room~
+You still travel inside of this large room.  You keep walking onward, but
+the combination of the mist and the strange pillars makes this place very
+disorienting.  You turn back to where you just came from, and to your
+surprise find yourself staring at the very wall you thought you were
+trekking toward.  At least the floor is smooth and level.  
+~
+0 12 0
+M 0 H 0
+S
+#19742
+A Vast Room~
+The large room you are now in is dark and confusing.  There is a heavy
+mist which coats the ground, but you are still able to see.  Your mind seems
+to play tricks on you, as you constantly see the shadows move from out of
+the corner of your eye and you hear strange footsteps echoing through the
+room with no hint of an origin.  Also, the large pillars which hold up the
+room seem to be moving further and further away.  This place is strange
+indeed.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19751
+D2
+~
+~
+~
+0 0 19743
+D3
+~
+~
+~
+0 0 19757
+M 0 H 0
+S
+#19743
+A Vast Room~
+You find yourself still travelling in this enormous room.  All around you
+the room is coated with a blanket of fog, and the pillars are now closer
+than ever.  In fact, were you not a sane individual you would swear that
+they were fleeing from you.  Travelling is fortunately still easy, but as
+you walk you frequently glimpse motions in the shadows and strange noises
+can be heard coming from the ends of the room.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19742
+D2
+~
+~
+~
+0 0 19752
+D3
+~
+~
+~
+0 0 19756
+M 0 H 0
+S
+#19744
+The Vast Room~
+You still travel inside of this large room.  You keep walking onward, but
+the combination of the mist and the strange pillars makes this place very
+disorienting.  You turn back to where you just came from, and to your
+surprise find yourself staring at the very wall you thought you were
+trekking toward.  At least the floor is smooth and level.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 19745
+D3
+~
+~
+~
+0 0 19746
+M 0 H 0
+S
+#19745
+A Vast Room~
+You find yourself still travelling in this enormous room.  All around you
+the room is coated with a blanket of fog, and the pillars are now closer
+than ever.  In fact, were you not a sane individual you would swear that
+they were fleeing from you.  Travelling is fortunately still easy, but as
+you walk you frequently glimpse motions in the shadows and strange noises
+can be heard coming from the ends of the room.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19756
+D1
+~
+~
+~
+0 0 19752
+D3
+~
+~
+~
+0 0 19744
+M 0 H 0
+S
+#19746
+A Vast Room~
+The large room you are now in is dark and confusing.  There is a heavy
+mist which coats the ground, but you are still able to see.  Your mind seems
+to play tricks on you, as you constantly see the shadows move from out of
+the corner of your eye and you hear strange footsteps echoing through the
+room with no hint of an origin.  Also, the large pillars which hold up the
+room seem to be moving further and further away.  This place is strange
+indeed.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19755
+D1
+~
+~
+~
+0 0 19744
+D3
+~
+~
+~
+0 0 19753
+M 0 H 0
+S
+#19747
+The Vast Room~
+You still travel inside of this large room.  You keep walking onward, but
+the combination of the mist and the strange pillars makes this place very
+disorienting.  You turn back to where you just came from, and to your
+surprise find yourself staring at the very wall you thought you were
+trekking toward.  At least the floor is smooth and level.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19748
+D2
+~
+~
+~
+0 0 19749
+M 0 H 0
+S
+#19748
+A Vast Room~
+The large room you are now in is dark and confusing.  There is a heavy
+mist which coats the ground, but you are still able to see.  Your mind seems
+to play tricks on you, as you constantly see the shadows move from out of
+the corner of your eye and you hear strange footsteps echoing through the
+room with no hint of an origin.  Also, the large pillars which hold up the
+room seem to be moving further and further away.  This place is strange
+indeed.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19750
+D1
+~
+~
+~
+0 0 19754
+D2
+~
+~
+~
+0 0 19747
+M 0 H 0
+S
+#19749
+A Vast Room~
+You find yourself still travelling in this enormous room.  All around you
+the room is coated with a blanket of fog, and the pillars are now closer
+than ever.  In fact, were you not a sane individual you would swear that
+they were fleeing from you.  Travelling is fortunately still easy, but as
+you walk you frequently glimpse motions in the shadows and strange noises
+can be heard coming from the ends of the room.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19747
+D1
+~
+~
+~
+0 0 19755
+D2
+~
+~
+~
+0 0 19753
+M 0 H 0
+S
+#19750
+The Corner of the Vast Room~
+You have finally come to the corner of this large room.  You are happy to
+have a frame of reference, but know that you soon must again move on. 
+Before you go, a diagram on the wall catches your attention.  It pictures a
+figure lifting up a panel in the floor somewhere in the chamber.  There is
+more written near the bottom, but the strange mist covers this part of the
+writing.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19740
+D2
+~
+~
+~
+0 0 19748
+M 0 H 0
+S
+#19751
+The Corner of the Vast Room~
+You have finally come to the corner of this large room.  You are happy to
+have a frame of reference, but know that you soon must again move on. 
+Before you go, a diagram on the wall catches your attention.  It pictures a
+figure lifting up a panel in the floor somewhere in the chamber.  There is
+more written near the bottom, but the strange mist covers this part of the
+writing.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 19742
+D3
+~
+~
+~
+0 0 19739
+M 0 H 0
+S
+#19752
+The Corner of the Vast Room~
+You have finally come to the corner of this large room.  You are happy to
+have a frame of reference, but know that you soon must again move on. 
+Before you go, a diagram on the wall catches your attention.  It pictures a
+figure lifting up a panel in the floor somewhere in the chamber.  There is
+more written near the bottom, but the strange mist covers this part of the
+writing.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19743
+D3
+~
+~
+~
+0 0 19745
+M 0 H 0
+S
+#19753
+The Corner of the Vast Room~
+You have finally come to the corner of this large room.  You are happy to
+have a frame of reference, but know that you soon must again move on. 
+Before you go, a diagram on the wall catches your attention.  It pictures a
+figure lifting up a panel in the floor somewhere in the chamber.  There is
+more written near the bottom, but the strange mist covers this part of the
+writing.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19749
+D1
+~
+~
+~
+0 0 19746
+M 0 H 0
+S
+#19754
+A Vast Room~
+The large room you are now in is dark and confusing.  There is a heavy
+mist which coats the ground, but you are still able to see.  Your mind seems
+to play tricks on you, as you constantly see the shadows move from out of
+the corner of your eye and you hear strange footsteps echoing through the
+room with no hint of an origin.  Also, the large pillars which hold up the
+room seem to be moving further and further away.  This place is strange
+indeed.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19740
+D1
+~
+~
+~
+0 0 19757
+D2
+~
+~
+~
+0 0 19755
+D3
+~
+~
+~
+0 0 19748
+M 0 H 0
+S
+#19755
+A Vast Room~
+You find yourself still travelling in this enormous room.  All around you
+the room is coated with a blanket of fog, and the pillars are now closer
+than ever.  In fact, were you not a sane individual you would swear that
+they were fleeing from you.  Travelling is fortunately still easy, but as
+you walk you frequently glimpse motions in the shadows and strange noises
+can be heard coming from the ends of the room.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19754
+D1
+~
+~
+~
+0 0 19756
+D2
+~
+~
+~
+0 0 19746
+D3
+~
+~
+~
+0 0 19749
+M 0 H 0
+S
+#19756
+A Vast Room~
+The large room you are now in is dark and confusing.  There is a heavy
+mist which coats the ground, but you are still able to see.  Your mind seems
+to play tricks on you, as you constantly see the shadows move from out of
+the corner of your eye and you hear strange footsteps echoing through the
+room with no hint of an origin.  Also, the large pillars which hold up the
+room seem to be moving further and further away.  This place is strange
+indeed.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19757
+D1
+~
+~
+~
+0 0 19743
+D2
+~
+~
+~
+0 0 19745
+D3
+~
+~
+~
+0 0 19755
+M 0 H 0
+S
+#19757
+A Vast Room~
+You find yourself still travelling in this enormous room.  All around you
+the room is coated with a blanket of fog, and the pillars are now closer
+than ever.  In fact, were you not a sane individual you would swear that
+they were fleeing from you.  Travelling is fortunately still easy, but as
+you walk you frequently glimpse motions in the shadows and strange noises
+can be heard coming from the ends of the room.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19739
+D1
+~
+~
+~
+0 0 19742
+D2
+~
+~
+~
+0 0 19756
+D3
+~
+~
+~
+0 0 19754
+D5
+~
+~
+~
+1 0 19758
+M 0 H 0
+S
+#19758
+The {BDark Room~
+You are now in a small dark room.  The walls on every side of you are
+black as night, and there is very little space for you here.  To the south,
+the room opens up into a small tunnel.  
+~
+0 13 0
+D2
+~
+~
+~
+0 0 19759
+D4
+~
+~
+~
+1 0 19757
+M 0 H 0
+S
+#19759
+The {BDark Passageway~
+You now travel in a short dark tunnel which leads north and south.  The
+walls on all sides are black.  As you walk, the passageway opens up more and
+more.  This tunnel looks to have been built, but it seems strangely natural
+as well.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19758
+D2
+~
+~
+~
+0 0 19760
+M 0 H 0
+S
+#19760
+The Constructed Cavern~
+You stand now in the center of a large cavern.  This place is strange, it
+looks natural, but its perfect geometric shape hints that it is not.  The
+cavern has a heavy smell of decay, similar to that of a tomb or a set of
+catacombs.  The scent burns in your nostrils.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19759
+D1
+~
+~
+~
+0 0 19776
+D2
+~
+~
+~
+0 0 19770
+D3
+~
+~
+~
+0 0 19761
+M 0 H 0
+S
+#19761
+The Constructed Cavern~
+You still travel within this enormous constructed cavern.  The room is so
+big, and the walls are so black, that were it not for the repulsing smell,
+you would likely forget that you were inside at all.  The smell remains,
+however, a reminder to keep vigilant.  There's no telling what secrets this
+cavern keeps.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19762
+D1
+~
+~
+~
+0 0 19760
+D2
+~
+~
+~
+0 0 19769
+D3
+~
+~
+~
+0 0 19766
+M 0 H 0
+S
+#19762
+The Corner of the Cavern~
+You are now in the corner of this cavern.  The walls and ceiling may be
+black, but the ground is made of earth, and is clearly visible to you from
+here.  On the ground in the very corner can be seen the most likely reason
+for this strong scent in the air, as a single bone sits, deprived of the
+flesh which once covered it.  Your travel is limited, but you may still
+continue.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 19761
+D3
+~
+~
+~
+0 0 19763
+M 0 H 0
+S
+#19763
+The Back of the Cavern~
+You stand before a large wall on the back of the cavern.  These walls are
+so black that you can scarcely believe that they are even there.  Even when
+you touch them, no mark remains.  The smell in the air is less potent than
+before, but it still lingers, a constant reminder that you stand on a burial
+ground.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19762
+D2
+~
+~
+~
+0 0 19766
+D3
+~
+~
+~
+0 0 19764
+M 0 H 0
+S
+#19764
+The Corner of the Cavern~
+You are now in the corner of this cavern.  The walls and ceiling may be
+black, but the ground is made of earth, and is clearly visible to you from
+here.  On the ground in the very corner can be seen the most likely reason
+for this strong scent in the air, as a single bone sits, deprived of the
+flesh which once covered it.  Your travel is limited, but you may still
+continue.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19763
+D2
+~
+~
+~
+0 0 19765
+M 0 H 0
+S
+#19765
+The Wall of the Cavern~
+This is a side wall to the constructed cavern.  Approaching the wall is
+like trying to find a door while blindfolded.  The wall is so black that you
+have no choice other than to grope at thin air for it.  The stench in the
+air is still strong, but you can tell that it gets stronger as you travel to
+the center of the cave.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19764
+D1
+~
+~
+~
+0 0 19766
+D2
+~
+~
+~
+0 0 19768
+M 0 H 0
+S
+#19766
+The Constructed Cavern~
+You can tell now that this cavern is definitely man made.  The light in
+the room refracts off of the ceiling in such a way that you can see the
+octagons of black rock used to make the roof quite clearly.  Also, a pile of
+the black rock lies on the ground by your feet.  It is round and soft,
+proving the blunt shape of the ceiling artificial.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19763
+D1
+~
+~
+~
+0 0 19761
+D2
+~
+~
+~
+0 0 19767
+D3
+~
+~
+~
+0 0 19765
+M 0 H 0
+S
+#19767
+The Constructed Cavern~
+You still travel within this enormous constructed cavern.  The room is so
+big, and the walls are so black, that were it not for the repulsing smell,
+you would likely forget that you were inside at all.  The smell remains,
+however, a reminder to keep vigilant.  There's no telling what secrets this
+cavern keeps.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19766
+D1
+~
+~
+~
+0 0 19769
+D2
+~
+~
+~
+0 0 19783
+D3
+~
+~
+~
+0 0 19768
+M 0 H 0
+S
+#19768
+The Corner of the Cavern~
+You are now in the corner of this cavern.  The walls and ceiling may be
+black, but the ground is made of earth, and is clearly visible to you from
+here.  On the ground in the very corner can be seen the most likely reason
+for this strong scent in the air, as a single bone sits, deprived of the
+flesh which once covered it.  Your travel is limited, but you may still
+continue.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19765
+D1
+~
+~
+~
+0 0 19767
+M 0 H 0
+S
+#19769
+The Constructed Cavern~
+You can tell now that this cavern is definitely man made.  The light in
+the room refracts off of the ceiling in such a way that you can see the
+octagons of black rock used to make the roof quite clearly.  Also, a pile of
+the black rock lies on the ground by your feet.  It is round and soft,
+proving the blunt shape of the ceiling artificial.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19761
+D1
+~
+~
+~
+0 0 19770
+D2
+~
+~
+~
+0 0 19780
+D3
+~
+~
+~
+0 0 19767
+M 0 H 0
+S
+#19770
+The Constructed Cavern~
+You stand now in the center of a large cavern.  This place is strange, it
+looks natural, but its perfect geometric shape hints that it is not.  The
+cavern has a heavy smell of decay, similar to that of a tomb or a set of
+catacombs.  The scent burns in your nostrils.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19760
+D1
+~
+~
+~
+0 0 19771
+D2
+~
+~
+~
+0 0 19781
+D3
+~
+~
+~
+0 0 19769
+M 0 H 0
+S
+#19771
+The Constructed Cavern~
+You can tell now that this cavern is definitely man made.  The light in
+the room refracts off of the ceiling in such a way that you can see the
+octagons of black rock used to make the roof quite clearly.  Also, a pile of
+the black rock lies on the ground by your feet.  It is round and soft,
+proving the blunt shape of the ceiling artificial.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19776
+D1
+~
+~
+~
+0 0 19772
+D2
+~
+~
+~
+0 0 19782
+D3
+~
+~
+~
+0 0 19770
+M 0 H 0
+S
+#19772
+The Constructed Cavern~
+You still travel within this enormous constructed cavern.  The room is so
+big, and the walls are so black, that were it not for the repulsing smell,
+you would likely forget that you were inside at all.  The smell remains,
+however, a reminder to keep vigilant.  There's no telling what secrets this
+cavern keeps.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19775
+D1
+~
+~
+~
+0 0 19773
+D2
+~
+~
+~
+0 0 19789
+D3
+~
+~
+~
+0 0 19771
+M 0 H 0
+S
+#19773
+The Corner of the Cavern~
+You are now in the corner of this cavern.  The walls and ceiling may be
+black, but the ground is made of earth, and is clearly visible to you from
+here.  On the ground in the very corner can be seen the most likely reason
+for this strong scent in the air, as a single bone sits, deprived of the
+flesh which once covered it.  Your travel is limited, but you may still
+continue.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19774
+D3
+~
+~
+~
+0 0 19772
+M 0 H 0
+S
+#19774
+The Wall of the Cavern~
+This is a side wall to the constructed cavern.  Approaching the wall is
+like trying to find a door while blindfolded.  The wall is so black that you
+have no choice other than to grope at thin air for it.  The stench in the
+air is still strong, but you can tell that it gets stronger as you travel to
+the center of the cave.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19779
+D2
+~
+~
+~
+0 0 19773
+D3
+~
+~
+~
+0 0 19775
+M 0 H 0
+S
+#19775
+The Constructed Cavern~
+You can tell now that this cavern is definitely man made.  The light in
+the room refracts off of the ceiling in such a way that you can see the
+octagons of black rock used to make the roof quite clearly.  Also, a pile of
+the black rock lies on the ground by your feet.  It is round and soft,
+proving the blunt shape of the ceiling artificial.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19778
+D1
+~
+~
+~
+0 0 19774
+D2
+~
+~
+~
+0 0 19772
+D3
+~
+~
+~
+0 0 19776
+M 0 H 0
+S
+#19776
+The Constructed Cavern~
+You still travel within this enormous constructed cavern.  The room is so
+big, and the walls are so black, that were it not for the repulsing smell,
+you would likely forget that you were inside at all.  The smell remains,
+however, a reminder to keep vigilant.  There's no telling what secrets this
+cavern keeps.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19777
+D1
+~
+~
+~
+0 0 19775
+D2
+~
+~
+~
+0 0 19771
+D3
+~
+~
+~
+0 0 19760
+M 0 H 0
+S
+#19777
+The Corner of the Cavern~
+You are now in the corner of this cavern.  The walls and ceiling may be
+black, but the ground is made of earth, and is clearly visible to you from
+here.  On the ground in the very corner can be seen the most likely reason
+for this strong scent in the air, as a single bone sits, deprived of the
+flesh which once covered it.  Your travel is limited, but you may still
+continue.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19778
+D2
+~
+~
+~
+0 0 19776
+M 0 H 0
+S
+#19778
+The Back of the Cavern~
+You stand before a large wall on the back of the cavern.  These walls are
+so black that you can scarcely believe that they are even there.  Even when
+you touch them, no mark remains.  The smell in the air is less potent than
+before, but it still lingers, a constant reminder that you stand on a burial
+ground.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19779
+D2
+~
+~
+~
+0 0 19775
+D3
+~
+~
+~
+0 0 19777
+M 0 H 0
+S
+#19779
+The Corner of the Cavern~
+You are now in the corner of this cavern.  The walls and ceiling may be
+black, but the ground is made of earth, and is clearly visible to you from
+here.  On the ground in the very corner can be seen the most likely reason
+for this strong scent in the air, as a single bone sits, deprived of the
+flesh which once covered it.  Your travel is limited, but you may still
+continue.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 19774
+D3
+~
+~
+~
+0 0 19778
+M 0 H 0
+S
+#19780
+The Corner of the Cavern~
+You are now in the corner of this cavern.  The walls and ceiling may be
+black, but the ground is made of earth, and is clearly visible to you from
+here.  On the ground in the very corner can be seen the most likely reason
+for this strong scent in the air, as a single bone sits, deprived of the
+flesh which once covered it.  Your travel is limited, but you may still
+continue.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19769
+D1
+~
+~
+~
+0 0 19781
+M 0 H 0
+S
+#19781
+The Wall of the Cavern~
+This is a side wall to the constructed cavern.  Approaching the wall is
+like trying to find a door while blindfolded.  The wall is so black that you
+have no choice other than to grope at thin air for it.  The stench in the
+air is still strong, but you can tell that it gets stronger as you travel to
+the center of the cave.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19770
+D1
+~
+~
+~
+0 0 19782
+D3
+~
+~
+~
+0 0 19780
+M 0 H 0
+S
+#19782
+The Corner of the Cavern~
+You are now in the corner of this cavern.  The walls and ceiling may be
+black, but the ground is made of earth, and is clearly visible to you from
+here.  On the ground in the very corner can be seen the most likely reason
+for this strong scent in the air, as a single bone sits, deprived of the
+flesh which once covered it.  Your travel is limited, but you may still
+continue.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19771
+D3
+~
+~
+~
+0 0 19781
+M 0 H 0
+S
+#19783
+The Wall of the Cavern~
+This is a side wall to the constructed cavern.  Approaching the wall is
+like trying to find a door while blindfolded.  The wall is so black that you
+have no choice other than to grope at thin air for it.  The stench in the
+air is still strong, but you can tell that it gets stronger as you travel to
+the center of the cave.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19767
+D2
+~
+~
+~
+0 0 19784
+M 0 H 0
+S
+#19784
+The Corner of the Cavern~
+You are now in the corner of this cavern.  The walls and ceiling may be
+black, but the ground is made of earth, and is clearly visible to you from
+here.  On the ground in the very corner can be seen the most likely reason
+for this strong scent in the air, as a single bone sits, deprived of the
+flesh which once covered it.  Your travel is limited, but you may still
+continue.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19783
+D1
+~
+~
+~
+0 0 19785
+M 0 H 0
+S
+#19785
+The Dim Cavern~
+Piles of the rocks used to construct the cavern lie along the walls here.
+It appears that when enough of them cultivate, the rocks actually seem to
+absorb the light around them.  The rocks appear to be covering something,
+but the stacks are so large that you cannot uncover whatever it is.  The
+smell is especially strong here, however, and you find yourself wondering
+whether or not the two are related.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19786
+D3
+~
+~
+~
+0 0 19784
+M 0 H 0
+S
+#19786
+A Repulsing Mound~
+Piled in the center of this place is a mound of carcasses.  Your worst
+suspicions are confirmed as your eyes catch this grisly scene.  This cavern
+has definitely been built as a burial ground of some sort.  It sickens you
+to think of just how many bodies must be in this stack alone.  You find
+yourself wanting to flee to the east or the west.  
+~
+0 8 0
+E
+mound~
+You don't really WANT to search the mound, but you decide to anyway. 
+Under it you find a hidden door.  
+~
+D1
+~
+~
+~
+0 0 19787
+D3
+~
+~
+~
+0 0 19785
+D5
+~
+~
+~
+1 0 19790
+M 0 H 0
+S
+#19787
+The Dim Cavern~
+Piles of the rocks used to construct the cavern lie along the walls here.
+It appears that when enough of them cultivate, the rocks actually seem to
+absorb the light around them.  The rocks appear to be covering something,
+but the stacks are so large that you cannot uncover whatever it is.  The
+smell is especially strong here, however, and you find yourself wondering
+whether or not the two are related.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19788
+D3
+~
+~
+~
+0 0 19786
+M 0 H 0
+S
+#19788
+The Corner of the Cavern~
+You are now in the corner of this cavern.  The walls and ceiling may be
+black, but the ground is made of earth, and is clearly visible to you from
+here.  On the ground in the very corner can be seen the most likely reason
+for this strong scent in the air, as a single bone sits, deprived of the
+flesh which once covered it.  Your travel is limited, but you may still
+continue.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19789
+D3
+~
+~
+~
+0 0 19787
+M 0 H 0
+S
+#19789
+The Wall of the Cavern~
+This is a side wall to the constructed cavern.  Approaching the wall is
+like trying to find a door while blindfolded.  The wall is so black that you
+have no choice other than to grope at thin air for it.  The stench in the
+air is still strong, but you can tell that it gets stronger as you travel to
+the center of the cave.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19772
+D2
+~
+~
+~
+0 0 19788
+M 0 H 0
+S
+#19790
+The Ascending Staircase~
+On the north wall here is a large staircase which leads up to a large
+steel trapdoor in the ceiling.  This room also functions as a passageway to
+whatever lies south of here.  On the walls are two small notches once used
+to bare torches, but which now lie empty.  You can continue south.  
+~
+0 12 0
+D2
+~
+~
+~
+0 0 19791
+D4
+~
+~
+~
+1 0 19786
+M 0 H 0
+S
+#19791
+The Long Hall~
+You have emerged into an enormous hallway.  This place is fantastic,
+everything is huge.  In this central part of the hallway, you walk on a
+large red carpet.  Ten gigantic columns line this part of the hall,
+sufficiently separating it from the walls.  A shiver runs down your spine as
+you see a monstrous dagger resting on the ground.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19790
+D1
+~
+~
+~
+0 0 19802
+D2
+~
+~
+~
+0 0 19792
+D3
+~
+~
+~
+0 0 19797
+M 0 H 0
+S
+#19792
+The Long Hall~
+You are now well into this long hallway.  You walk on a splendid red
+carpet, threaded with some sort of enormous fabric from another land.  There
+is light enough to see by from large fires which seem to burn on the walls,
+which are quite far away.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19791
+D1
+~
+~
+~
+0 0 19803
+D2
+~
+~
+~
+0 0 19793
+D3
+~
+~
+~
+0 0 19798
+M 0 H 0
+S
+#19793
+The Long Hall~
+You are now well into this long hallway.  You walk on a splendid red
+carpet, threaded with some sort of enormous fabric from another land.  There
+is light enough to see by from large fires which seem to burn on the walls,
+which are quite far away.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19792
+D1
+~
+~
+~
+0 0 19804
+D2
+~
+~
+~
+0 0 19794
+D3
+~
+~
+~
+0 0 19799
+M 0 H 0
+S
+#19794
+The Long Hall~
+You are now well into this long hallway.  You walk on a splendid red
+carpet, threaded with some sort of enormous fabric from another land.  There
+is light enough to see by from large fires which seem to burn on the walls,
+which are quite far away.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19793
+D1
+~
+~
+~
+0 0 19805
+D2
+~
+~
+~
+0 0 19795
+D3
+~
+~
+~
+0 0 19800
+M 0 H 0
+S
+#19795
+The Long Hall~
+You have emerged into an enormous hallway.  This place is fantastic,
+everything is huge.  In this central part of the hallway, you walk on a
+large red carpet.  Ten gigantic columns line this part of the hall,
+sufficiently separating it from the walls.  A shiver runs down your spine as
+you see a monstrous dagger resting on the ground.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19794
+D1
+~
+~
+~
+0 0 19806
+D2
+~
+~
+~
+0 0 19796
+D3
+~
+~
+~
+0 0 19801
+M 0 H 0
+S
+#19796
+The Descending Staircase~
+Now at the end of the long hall, you see a staircase that leads down into
+a dark hole.  Looking around, you notice that all the fancy decor of the
+hallway has vanished, only to be replaced by an unkept mess of a stone
+passageway.  As you stand, a gust of cold air rushes at you from the pit
+below.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19795
+D5
+~
+~
+~
+0 0 19950
+M 0 H 0
+S
+#19797
+The Long Hall~
+You stand now in the corner of this long hallway.  On the walls can be
+seen hanging gigantic weapons and enormous suits of armor, but all of it
+seems rusted by misuse and the moisture in the air.  Occasionally you think
+you hear the sound of metal on metal, but nothing ever seems to move.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19791
+D2
+~
+~
+~
+0 0 19798
+M 0 H 0
+S
+#19798
+The Long Hall~
+The wall of this hallway is by no means less decorated than the rest of
+the room.  Red and black drapes hang from the ceiling and several metal
+weapons rest on giant pegs.  These weapons are far to heavy to carry.  More
+lie on the walls to the north and south.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19797
+D1
+~
+~
+~
+0 0 19792
+D2
+~
+~
+~
+0 0 19799
+M 0 H 0
+S
+#19799
+The Huge Door~
+On the west wall here lies a huge door.  The door is made of a solid
+metal which is harder than iron by far.  You would not be able to even budge
+it were the door latched, but luckily it stands partially ajar.  Beside the
+door rests one gigantic boot, and propped up upon it is a sword of equal
+proportions.  Gazing into the distance you can see that the setup is the
+same across the hall.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19798
+D1
+~
+~
+~
+0 0 19793
+D2
+~
+~
+~
+0 0 19800
+D3
+~
+~
+~
+0 0 19807
+M 0 H 0
+S
+#19800
+The Long Hall~
+The wall of this hallway is by no means less decorated than the rest of
+the room.  Red and black drapes hang from the ceiling and several metal
+weapons rest on giant pegs.  These weapons are far to heavy to carry.  More
+lie on the walls to the north and south.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19799
+D1
+~
+~
+~
+0 0 19794
+D2
+~
+~
+~
+0 0 19801
+M 0 H 0
+S
+#19801
+The Long Hall~
+You stand now in the corner of this long hallway.  On the walls can be
+seen hanging gigantic weapons and enormous suits of armor, but all of it
+seems rusted by misuse and the moisture in the air.  Occasionally you think
+you hear the sound of metal on metal, but nothing ever seems to move.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19800
+D1
+~
+~
+~
+0 0 19795
+M 0 H 0
+S
+#19802
+The Long Hall~
+You stand now in the corner of this long hallway.  On the walls can be
+seen hanging gigantic weapons and enormous suits of armor, but all of it
+seems rusted by misuse and the moisture in the air.  Occasionally you think
+you hear the sound of metal on metal, but nothing ever seems to move.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 19803
+D3
+~
+~
+~
+0 0 19791
+M 0 H 0
+S
+#19803
+The Long Hall~
+The wall of this hallway is by no means less decorated than the rest of
+the room.  Red and black drapes hang from the ceiling and several metal
+weapons rest on giant pegs.  These weapons are far to heavy to carry.  More
+lie on the walls to the north and south.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19802
+D2
+~
+~
+~
+0 0 19804
+D3
+~
+~
+~
+0 0 19792
+M 0 H 0
+S
+#19804
+The Huge Door~
+On the east wall here lies a huge door.  You would not be able to even
+budge it were the door latched, but luckily it stands partially ajar. 
+Beside the door rests one gigantic boot, and propped up upon it is a sword
+of equal proportions.  Gazing into the distance you can see that the setup
+is the same across the hall.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19803
+D1
+~
+~
+~
+0 0 19948
+D2
+~
+~
+~
+0 0 19805
+D3
+~
+~
+~
+0 0 19793
+M 0 H 0
+S
+#19805
+The Long Hall~
+The wall of this hallway is by no means less decorated than the rest of
+the room.  Red and black drapes hang from the ceiling and several metal
+weapons rest on giant pegs.  These weapons are far to heavy to carry.  More
+lie on the walls to the north and south.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19804
+D2
+~
+~
+~
+0 0 19806
+D3
+~
+~
+~
+0 0 19794
+M 0 H 0
+S
+#19806
+The Long Hall~
+You stand now in the corner of this long hallway.  On the walls can be
+seen hanging gigantic weapons and enormous suits of armor, but all of it
+seems rusted by misuse and the moisture in the air.  Occasionally you think
+you hear the sound of metal on metal, but nothing ever seems to move.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19805
+D3
+~
+~
+~
+0 0 19795
+M 0 H 0
+S
+#19807
+The Grand Chamber~
+You are now in an extremely well decorated room.  On the ceiling are
+crystal chandeliers, on the wall are huge draperies and life-size portraits,
+on the floor is a red and black striped carpet.  On the west well high above
+your reach is a bowl which holds a large flame.  It burns brightly but
+safely inside its metal constraints.  
+~
+0 12 0
+D1
+~
+~
+~
+0 0 19799
+M 0 H 0
+S
+#19808
+~
+~
+0 4 0
+M 0 H 0
+S
+#19809
+The Tunnel Entrance~
+You have entered a dark tunnel system running under the long hall.  The
+air here is very moist, making the floor slippery and the walls always wet. 
+The tunnels appear to be natural, made of a hard, sharp, volcanic rick.  In
+the distance you can here the skittering of claws on stone, but other then
+that, the tunnel is quiet.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19810
+D1
+~
+~
+~
+0 0 19818
+D2
+~
+~
+~
+0 0 19820
+D4
+~
+~
+~
+0 0 19952
+M 0 H 0
+S
+#19810
+A Turn in the Tunnel~
+The tunnel turns sharply here, changing direction quite quickly. 
+Thankfully, the water on the walls in combination with the brightness of
+your light causes a bright reflection off of the tunnel walls, making
+visibility actually quite good.  The silence is accompanied only by
+momentary breaks for the sound of subtle movements far off within the cave. 
+~
+0 9 0
+D2
+~
+~
+~
+0 0 19809
+D3
+~
+~
+~
+0 0 19811
+M 0 H 0
+S
+#19811
+The Tunnel Junction~
+You have come to a junction of cavern tunnels.  From this point you may
+choose to travel in either of the directions in which the tunnel branches
+off.  You see no movement in the distance, but the tunnel is wide and has
+plenty of places where one could hide themselves.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19813
+D1
+~
+~
+~
+0 0 19810
+D2
+~
+~
+~
+0 0 19812
+M 0 H 0
+S
+#19812
+The Dead End~
+Before you now is an abrupt ending to this underground tunnel.  It would
+appear that the tunnel originally continued onward, but something has now
+blocked the way with large boulders and other chunks of debris.  The only
+apparent exit is back the way you came.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19811
+M 0 H 0
+S
+#19813
+A Turn in the Tunnel~
+The tunnel turns sharply here, changing direction quite quickly. 
+Thankfully, the water on the walls in combination with the brightness of
+your light causes a bright reflection off of the tunnel walls, making
+visibility actually quite good.  The silence is accompanied only by
+momentary breaks for the sound of subtle movements far off within the cave. 
+~
+0 9 0
+D1
+~
+~
+~
+0 0 19814
+D2
+~
+~
+~
+0 0 19811
+M 0 H 0
+S
+#19814
+The {BDark Tunnel~
+This large middle section of the cavern tunnel runs in a strait line. 
+Though the course is strait, it is by no means easy to follow, as the rock
+floor is slippery and the walls are random and sharp.  From here you may
+press forward or turn back.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 19815
+D3
+~
+~
+~
+0 0 19813
+M 0 H 0
+S
+#19815
+The {BDark Tunnel~
+This large middle section of the cavern tunnel runs in a strait line. 
+Though the course is strait, it is by no means easy to follow, as the rock
+floor is slippery and the walls are random and sharp.  From here you may
+press forward or turn back.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 19816
+D3
+~
+~
+~
+0 0 19814
+M 0 H 0
+S
+#19816
+A Turn in the Tunnel~
+The tunnel turns sharply here, changing direction quite quickly. 
+Thankfully, the water on the walls in combination with the brightness of
+your light causes a bright reflection off of the tunnel walls, making
+visibility actually quite good.  The silence is accompanied only by
+momentary breaks for the sound of subtle movements far off within the cave. 
+~
+0 9 0
+D2
+~
+~
+~
+0 0 19817
+D3
+~
+~
+~
+0 0 19815
+M 0 H 0
+S
+#19817
+The Dead End~
+Before you now is an abrupt ending to this underground tunnel.  It would
+appear that the tunnel originally continued onward, but something has now
+blocked the way with large boulders and other chunks of debris.  The only
+apparent exit is back the way you came.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19816
+M 0 H 0
+S
+#19818
+A Turn in the Tunnel~
+The tunnel turns sharply here, changing direction quite quickly. 
+Thankfully, the water on the walls in combination with the brightness of
+your light causes a bright reflection off of the tunnel walls, making
+visibility actually quite good.  The silence is accompanied only by
+momentary breaks for the sound of subtle movements far off within the cave. 
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19819
+D3
+~
+~
+~
+0 0 19809
+M 0 H 0
+S
+#19819
+The Dead End~
+Before you now is an abrupt ending to this underground tunnel.  It would
+appear that the tunnel originally continued onward, but something has now
+blocked the way with large boulders and other chunks of debris.  The only
+apparent exit is back the way you came.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 19818
+M 0 H 0
+S
+#19820
+The Tunnel Junction~
+You have come to a junction of cavern tunnels.  From this point you may
+choose to travel in either of the directions in which the tunnel branches
+off.  You see no movement in the distance, but the tunnel is wide and has
+plenty of places where one could hide themselves.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19809
+D2
+~
+~
+~
+0 0 19821
+D3
+~
+~
+~
+0 0 19824
+M 0 H 0
+S
+#19821
+A Turn in the Tunnel~
+The tunnel turns sharply here, changing direction quite quickly. 
+Thankfully, the water on the walls in combination with the brightness of
+your light causes a bright reflection off of the tunnel walls, making
+visibility actually quite good.  The silence is accompanied only by
+momentary breaks for the sound of subtle movements far off within the cave. 
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19820
+D1
+~
+~
+~
+0 0 19822
+M 0 H 0
+S
+#19822
+A Turn in the Tunnel~
+The tunnel turns sharply here, changing direction quite quickly. 
+Thankfully, the water on the walls in combination with the brightness of
+your light causes a bright reflection off of the tunnel walls, making
+visibility actually quite good.  The silence is accompanied only by
+momentary breaks for the sound of subtle movements far off within the cave. 
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19823
+D3
+~
+~
+~
+0 0 19821
+M 0 H 0
+S
+#19823
+The Dead End~
+Before you now is an abrupt ending to this underground tunnel.  It would
+appear that the tunnel originally continued onward, but something has now
+blocked the way with large boulders and other chunks of debris.  The only
+apparent exit is back the way you came.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 19822
+M 0 H 0
+S
+#19824
+A Turn in the Tunnel~
+The tunnel turns sharply here, changing direction quite quickly. 
+Thankfully, the water on the walls in combination with the brightness of
+your light causes a bright reflection off of the tunnel walls, making
+visibility actually quite good.  The silence is accompanied only by
+momentary breaks for the sound of subtle movements far off within the cave. 
+~
+0 9 0
+D1
+~
+~
+~
+0 0 19820
+D2
+~
+~
+~
+0 0 19825
+M 0 H 0
+S
+#19825
+The {BDark Tunnel~
+This large middle section of the cavern tunnel runs in a strait line. 
+Though the course is strait, it is by no means easy to follow, as the rock
+floor is slippery and the walls are random and sharp.  From here you may
+press forward or turn back.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19824
+D2
+~
+~
+~
+0 0 19826
+M 0 H 0
+S
+#19826
+The Tunnel Junction~
+You have come to a junction of cavern tunnels.  From this point you may
+choose to travel in either of the directions in which the tunnel branches
+off.  You see no movement in the distance, but the tunnel is wide and has
+plenty of places where one could hide themselves.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19825
+D1
+~
+~
+~
+0 0 19829
+D3
+~
+~
+~
+0 0 19827
+M 0 H 0
+S
+#19827
+A Turn in the Tunnel~
+The tunnel turns sharply here, changing direction quite quickly. 
+Thankfully, the water on the walls in combination with the brightness of
+your light causes a bright reflection off of the tunnel walls, making
+visibility actually quite good.  The silence is accompanied only by
+momentary breaks for the sound of subtle movements far off within the cave. 
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19828
+D1
+~
+~
+~
+0 0 19826
+M 0 H 0
+S
+#19828
+The Dead End~
+Before you now is an abrupt ending to this underground tunnel.  It would
+appear that the tunnel originally continued onward, but something has now
+blocked the way with large boulders and other chunks of debris.  The only
+apparent exit is back the way you came.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 19827
+M 0 H 0
+S
+#19829
+The Tunnel Junction~
+You have come to a junction of cavern tunnels.  From this point you may
+choose to travel in either of the directions in which the tunnel branches
+off.  You see no movement in the distance, but the tunnel is wide and has
+plenty of places where one could hide themselves.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 19830
+D2
+~
+~
+~
+0 0 19831
+D3
+~
+~
+~
+0 0 19826
+M 0 H 0
+S
+#19830
+The Dead End~
+Before you now is an abrupt ending to this underground tunnel.  It would
+appear that the tunnel originally continued onward, but something has now
+blocked the way with large boulders and other chunks of debris.  The only
+apparent exit is back the way you came.  
+~
+0 9 0
+D3
+~
+~
+~
+0 0 19829
+M 0 H 0
+S
+#19831
+The Tunnel Junction~
+You have come to a junction of cavern tunnels.  From this point you may
+choose to travel in either of the directions in which the tunnel branches
+off.  You see no movement in the distance, but the tunnel is wide and has
+plenty of places where one could hide themselves.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19829
+D1
+~
+~
+~
+0 0 19832
+D3
+~
+~
+~
+0 0 19836
+M 0 H 0
+S
+#19832
+A Turn in the Tunnel~
+The tunnel turns sharply here, changing direction quite quickly. 
+Thankfully, the water on the walls in combination with the brightness of
+your light causes a bright reflection off of the tunnel walls, making
+visibility actually quite good.  The silence is accompanied only by
+momentary breaks for the sound of subtle movements far off within the cave. 
+~
+0 9 0
+D2
+~
+~
+~
+0 0 19833
+D3
+~
+~
+~
+0 0 19831
+M 0 H 0
+S
+#19833
+A Turn in the Tunnel~
+The tunnel turns sharply here, changing direction quite quickly. 
+Thankfully, the water on the walls in combination with the brightness of
+your light causes a bright reflection off of the tunnel walls, making
+visibility actually quite good.  The silence is accompanied only by
+momentary breaks for the sound of subtle movements far off within the cave. 
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19832
+D3
+~
+~
+~
+0 0 19834
+M 0 H 0
+S
+#19834
+The {BDark Tunnel~
+This large middle section of the cavern tunnel runs in a strait line. 
+Though the course is strait, it is by no means easy to follow, as the rock
+floor is slippery and the walls are random and sharp.  From here you may
+press forward or turn back.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 19833
+D3
+~
+~
+~
+0 0 19835
+M 0 H 0
+S
+#19835
+The Dead End~
+Before you now is an abrupt ending to this underground tunnel.  It would
+appear that the tunnel originally continued onward, but something has now
+blocked the way with large boulders and other chunks of debris.  The only
+apparent exit is back the way you came.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 19834
+M 0 H 0
+S
+#19836
+The {BDark Tunnel~
+This large middle section of the cavern tunnel runs in a strait line. 
+Though the course is strait, it is by no means easy to follow, as the rock
+floor is slippery and the walls are random and sharp.  From here you may
+press forward or turn back.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 19831
+D3
+~
+~
+~
+0 0 19837
+M 0 H 0
+S
+#19837
+A Turn in the Tunnel~
+The tunnel turns sharply here, changing direction quite quickly. 
+Thankfully, the water on the walls in combination with the brightness of
+your light causes a bright reflection off of the tunnel walls, making
+visibility actually quite good.  The silence is accompanied only by
+momentary breaks for the sound of subtle movements far off within the cave. 
+~
+0 9 0
+D1
+~
+~
+~
+0 0 19836
+D2
+~
+~
+~
+0 0 19838
+M 0 H 0
+S
+#19838
+The Dead End~
+Before you now is an abrupt ending to this underground tunnel.  It would
+appear that the tunnel originally continued onward, but something has now
+blocked the way with large boulders and other chunks of debris.  The only
+apparent exit is back the way you came.  You also spy a large rock unusually
+situated in the center of the room.  
+~
+0 9 0
+E
+rock~
+Looking closer, you can see that the rock hides a secret entrance leading
+downwards.  
+~
+D0
+~
+~
+~
+0 0 19837
+D5
+~
+~
+~
+1 0 19839
+M 0 H 0
+S
+#19839
+The Necroth Temple~
+You now stand in a large temple.  As opposed to most temples, this
+particular religious facility is draped in deep red and black.  There are no
+torches or bright colors to be seen in the entire building.  A primitive
+altar sits before the north wall, but other then that the room seems empty. 
+A large black door can be seen standing open on the south side of the room. 
+~
+0 9 0
+D2
+~
+~
+~
+0 0 19840
+D4
+~
+~
+~
+1 0 19838
+M 0 H 0
+S
+#19840
+The Dirt Road~
+This strange dirt road is unique in that it travels through a community
+built completely underground.  The Necroth City was built entirely within a
+dome of a cavern over a mile under the surface.  The road itself is not made
+actually of dirt, but of a black dust which sits on everything around here
+that stays stationary for any amount of time.  The road travels in a circuit
+around the small city.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19839
+D1
+~
+~
+~
+0 0 19855
+D2
+~
+~
+~
+0 0 19877
+D3
+~
+~
+~
+0 0 19841
+M 0 H 0
+S
+#19841
+The Dirt Road~
+The road you are now on travels the inner perimeter of the entire Necroth
+city.  Staying constantly just within the outer ring of buildings, whose
+backs face the wall of the enormous cavern, the road is the chief method of
+transit for every being in the city.  The soft black dust makes for easy
+travelling.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 19840
+D3
+~
+~
+~
+0 0 19842
+M 0 H 0
+S
+#19842
+The Dirt Road~
+This strange dirt road is unique in that it travels through a community
+built completely underground.  The Necroth City was built entirely within a
+dome of a cavern over a mile under the surface.  The road itself is not made
+actually of dirt, but of a black dust which sits on everything around here
+that stays stationary for any amount of time.  The road travels in a circuit
+around the small city.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19856
+D1
+~
+~
+~
+0 0 19841
+D2
+~
+~
+~
+0 0 19843
+M 0 H 0
+S
+#19843
+The Dirt Road~
+The road you are now on travels the inner perimeter of the entire Necroth
+city.  Staying constantly just within the outer ring of buildings, whose
+backs face the wall of the enormous cavern, the road is the chief method of
+transit for every being in the city.  The soft black dust makes for easy
+travelling.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19842
+D2
+~
+~
+~
+0 0 19844
+M 0 H 0
+S
+#19844
+The Dirt Road~
+This strange dirt road is unique in that it travels through a community
+built completely underground.  The Necroth City was built entirely within a
+dome of a cavern over a mile under the surface.  The road itself is not made
+actually of dirt, but of a black dust which sits on everything around here
+that stays stationary for any amount of time.  The road travels in a circuit
+around the small city.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19843
+D2
+~
+~
+~
+0 0 19845
+D3
+~
+~
+~
+0 0 19859
+M 0 H 0
+S
+#19845
+The Dirt Road~
+The road you are now on travels the inner perimeter of the entire Necroth
+city.  Staying constantly just within the outer ring of buildings, whose
+backs face the wall of the enormous cavern, the road is the chief method of
+transit for every being in the city.  The soft black dust makes for easy
+travelling.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19844
+D2
+~
+~
+~
+0 0 19846
+M 0 H 0
+S
+#19846
+The Dirt Road~
+This strange dirt road is unique in that it travels through a community
+built completely underground.  The Necroth City was built entirely within a
+dome of a cavern over a mile under the surface.  The road itself is not made
+actually of dirt, but of a black dust which sits on everything around here
+that stays stationary for any amount of time.  The road travels in a circuit
+around the small city.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19845
+D1
+~
+~
+~
+0 0 19847
+D3
+~
+~
+~
+0 0 19860
+M 0 H 0
+S
+#19847
+The Dirt Road~
+The road you are now on travels the inner perimeter of the entire Necroth
+city.  Staying constantly just within the outer ring of buildings, whose
+backs face the wall of the enormous cavern, the road is the chief method of
+transit for every being in the city.  The soft black dust makes for easy
+travelling.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 19848
+D2
+~
+~
+~
+0 0 19863
+D3
+~
+~
+~
+0 0 19846
+M 0 H 0
+S
+#19848
+The Dirt Road~
+This strange dirt road is unique in that it travels through a community
+built completely underground.  The Necroth City was built entirely within a
+dome of a cavern over a mile under the surface.  The road itself is not made
+actually of dirt, but of a black dust which sits on everything around here
+that stays stationary for any amount of time.  The road travels in a circuit
+around the small city.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 19849
+D2
+~
+~
+~
+0 0 19869
+D3
+~
+~
+~
+0 0 19847
+M 0 H 0
+S
+#19849
+The Dirt Road~
+The road you are now on travels the inner perimeter of the entire Necroth
+city.  Staying constantly just within the outer ring of buildings, whose
+backs face the wall of the enormous cavern, the road is the chief method of
+transit for every being in the city.  The soft black dust makes for easy
+travelling.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 19850
+D2
+~
+~
+~
+0 0 19868
+D3
+~
+~
+~
+0 0 19848
+M 0 H 0
+S
+#19850
+The Dirt Road~
+This strange dirt road is unique in that it travels through a community
+built completely underground.  The Necroth City was built entirely within a
+dome of a cavern over a mile under the surface.  The road itself is not made
+actually of dirt, but of a black dust which sits on everything around here
+that stays stationary for any amount of time.  The road travels in a circuit
+around the small city.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19851
+D1
+~
+~
+~
+0 0 19870
+D3
+~
+~
+~
+0 0 19849
+M 0 H 0
+S
+#19851
+The Dirt Road~
+The road you are now on travels the inner perimeter of the entire Necroth
+city.  Staying constantly just within the outer ring of buildings, whose
+backs face the wall of the enormous cavern, the road is the chief method of
+transit for every being in the city.  The soft black dust makes for easy
+travelling.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19852
+D2
+~
+~
+~
+0 0 19850
+M 0 H 0
+S
+#19852
+The Dirt Road~
+This strange dirt road is unique in that it travels through a community
+built completely underground.  The Necroth City was built entirely within a
+dome of a cavern over a mile under the surface.  The road itself is not made
+actually of dirt, but of a black dust which sits on everything around here
+that stays stationary for any amount of time.  The road travels in a circuit
+around the small city.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19853
+D1
+~
+~
+~
+0 0 19874
+D2
+~
+~
+~
+0 0 19851
+M 0 H 0
+S
+#19853
+The Dirt Road~
+The road you are now on travels the inner perimeter of the entire Necroth
+city.  Staying constantly just within the outer ring of buildings, whose
+backs face the wall of the enormous cavern, the road is the chief method of
+transit for every being in the city.  The soft black dust makes for easy
+travelling.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19854
+D2
+~
+~
+~
+0 0 19852
+M 0 H 0
+S
+#19854
+A Strange Shop~
+This strange dirt road is unique in that it travels through a community
+built completely underground.  The Necroth City was built entirely within a
+dome of a cavern over a mile under the surface.  The road itself is not made
+actually of dirt, but of a black dust which sits on everything around here
+that stays stationary for any amount of time.  The road travels in a circuit
+around the small city.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19875
+D2
+~
+~
+~
+0 0 19853
+D3
+~
+~
+~
+0 0 19855
+M 0 H 0
+S
+#19855
+The Dirt Road~
+The road you are now on travels the inner perimeter of the entire Necroth
+city.  Staying constantly just within the outer ring of buildings, whose
+backs face the wall of the enormous cavern, the road is the chief method of
+transit for every being in the city.  The soft black dust makes for easy
+travelling.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 19854
+D3
+~
+~
+~
+0 0 19840
+M 0 H 0
+S
+#19856
+The {BDark House~
+You are now in an amply sized home in the Necroth civilization.  As the
+Necroth breed in litters of twenty to thirty, the space is needed, but since
+they only reproduce once every century or so, the extra space is seldom
+used.  The house stretches on into a back room.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19857
+D2
+~
+~
+~
+0 0 19842
+M 0 H 0
+S
+#19857
+The {BDark House~
+The back room of this house is very similar to the front, spacious but
+ill decorated, boasting many dark colors, and with more empty space then
+filled.  Near the ceiling of the room is a ledge which contains around two
+dozen oversized bunks designed for rapidly growing children who do not yet
+exist.  The only exit is back the way you came.  
+~
+0 9 0
+D3
+~
+~
+~
+0 0 19856
+M 0 H 0
+S
+#19858
+The Back of a Strange Shop~
+The Necroth supplies must be falling on hard times, as this room is
+completely empty of equipment.  The barren interior reflects the lack of
+materials available to the Necroth craftsmen, and why they are always
+willing to settle for scrap.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 19859
+M 0 H 0
+S
+#19859
+A Strange Shop~
+As you enter this room, you find yourself surprised to realize that it is
+actually the Necroth's version of a shop.  On the counter lie displayed
+various weapons and articles of clothing, but they are all built into the
+hard rock surface, merely models of things the Necroth citizens can actually
+purchase.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19858
+D1
+~
+~
+~
+0 0 19844
+M 0 H 0
+S
+#19860
+A Necroth Barracks~
+These barracks house the few warriors which the Necroth have attained. 
+Only a handful of Necroth ever survive the training required to be worthy of
+the title of warrior.  All of the warriors of the city stay confined to
+these barracks at all times, lest a conflict arise and they are not on call.
+~
+0 9 0
+D1
+~
+~
+~
+0 0 19846
+D2
+~
+~
+~
+0 0 19861
+M 0 H 0
+S
+#19861
+A Necroth Barracks~
+You are now in the middle room of the Necroth barracks.  Each room,
+designed to house two warriors, doubles as an area for exercise and skill
+training.  The barracks continues north and south from this point.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19860
+D2
+~
+~
+~
+0 0 19862
+M 0 H 0
+S
+#19862
+A Necroth Barracks~
+The back of the barracks is capable of sustaining four warriors, but it
+is clear that it is currently occupied by only two.  The building here opens
+up to form an even larger room then the rest.  In the center of the room is
+some kind of fighting ring which takes up a good deal of space.  The only
+way out of here is back to the north.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19861
+M 0 H 0
+S
+#19863
+The Large {BDark House~
+You have come to a large house within the black Necroth cavern.  The
+foyer of the house, where you are now standing, has plenty of space enough
+for entertaining.  The layout is mostly empty, and particularly high
+ceilings give for the illusion of more space yet.  To the south of here can
+be seen a large dining room, while to the north lies the dusty street.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19847
+D2
+~
+~
+~
+0 0 19864
+M 0 H 0
+S
+#19864
+The Large {BDark House~
+You are now in some sort of large dining room.  In the center of the room
+here can be seen a table which stands at about chest height.  There are no
+chairs around this table, as the Necroth eat standing up, but two slate
+seats can be seen parked up against the wall in a corner.  It is still not
+apparent that which the Necroth make into their meals.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19863
+D1
+~
+~
+~
+0 0 19865
+M 0 H 0
+S
+#19865
+The Large {BDark House~
+This room is very similar to the back rooms of some of the smaller
+Necroth houses.  A thick rock slab protrudes from the wall here in two
+places, making two rings of bunks for prospective little ones.  Situated on
+the ground are several more permanent looking slabs of rock, designated to
+give the elders a place of comfort.  
+~
+0 9 0
+D3
+~
+~
+~
+0 0 19864
+M 0 H 0
+S
+#19866
+The Large {BDark House~
+This room is very similar to the back rooms of some of the smaller
+Necroth houses.  A thick rock slab protrudes from the wall here in two
+places, making two rings of bunks for prospective little ones.  Situated on
+the ground are several more permanent looking slabs of rock, designated to
+give the elders a place of comfort.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 19867
+M 0 H 0
+S
+#19867
+The Large {BDark House~
+You are now in some sort of large dining room.  In the center of the room
+here can be seen a table which stands at about chest height.  There are no
+chairs around this table, as the Necroth eat standing up, but two slate
+seats can be seen parked up against the wall in a corner.  It is still not
+apparent that which the Necroth make into their meals.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19868
+D3
+~
+~
+~
+0 0 19866
+M 0 H 0
+S
+#19868
+The Large {BDark House~
+You have come to a large house within the black Necroth cavern.  The
+foyer of the house, where you are now standing, has plenty of space enough
+for entertaining.  The layout is mostly empty, and particularly high
+ceilings give for the illusion of more space yet.  To the south of here can
+be seen a large dining room, while to the north lies the dusty street.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19849
+D2
+~
+~
+~
+0 0 19867
+M 0 H 0
+S
+#19869
+A Courtyard~
+This courtyard is situated in the pocket made from where the two large
+houses to your east and west meet.  In the center of this place is a small
+overhang which protrudes upwards from out of the ground.  From here you can
+just barely make out a staircase leading down under the cavern.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19848
+D5
+~
+~
+~
+0 0 19886
+M 0 H 0
+S
+#19870
+A Necroth Barracks~
+These barracks house the few warriors which the Necroth have attained. 
+Only a handful of Necroth ever survive the training required to be worthy of
+the title of warrior.  All of the warriors of the city stay confined to
+these barracks at all times, lest a conflict arise and they are not on call.
+~
+0 9 0
+D2
+~
+~
+~
+0 0 19871
+D3
+~
+~
+~
+0 0 19850
+M 0 H 0
+S
+#19871
+A Necroth Barracks~
+You are now in the middle room of the Necroth barracks.  Each room,
+designed to house two warriors, doubles as an area for exercise and skill
+training.  The barracks continues north and south from this point.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19870
+D2
+~
+~
+~
+0 0 19872
+M 0 H 0
+S
+#19872
+A Necroth Barracks~
+The back of the barracks is capable of sustaining four warriors, but it
+is clear that it is currently occupied by only two.  The building here opens
+up to form an even larger room then the rest.  In the center of the room is
+some kind of fighting ring which takes up a good deal of space.  The only
+way out of here is back to the north.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19871
+M 0 H 0
+S
+#19873
+The Back of a Strange Shop~
+The Necroth supplies must be falling on hard times, as this room is
+completely empty of equipment.  The barren interior reflects the lack of
+materials available to the Necroth craftsmen, and why they are always
+willing to settle for scrap.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 19874
+M 0 H 0
+S
+#19874
+A Strange Shop~
+As you enter this room, you find yourself surprised to realize that it is
+actually the Necroth's version of a shop.  On the counter lie displayed
+various weapons and articles of clothing, but they are all built into the
+hard rock surface, merely models of things the Necroth citizens can actually
+purchase.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19873
+D3
+~
+~
+~
+0 0 19852
+M 0 H 0
+S
+#19875
+The {BDark House~
+You are now in an amply sized home in the Necroth civilization.  As the
+Necroth breed in litters of twenty to thirty, the space is needed, but since
+they only reproduce once every century or so, the extra space is seldom
+used.  The house stretches on into a back room.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 19854
+D3
+~
+~
+~
+0 0 19876
+M 0 H 0
+S
+#19876
+The {BDark House~
+The back room of this house is very similar to the front, spacious but
+ill decorated, boasting many dark colors, and with more empty space then
+filled.  Near the ceiling of the room is a ledge which contains around two
+dozen oversized bunks designed for rapidly growing children who do not yet
+exist.  The only exit is back the way you came.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 19875
+M 0 H 0
+S
+#19877
+A Huge Building~
+The room in which you now stand looks huge even for Necroth standards. 
+The building itself is as tall as a cathedral, and the spacious foyer has
+the look of one as well.  The ceiling of this room seems to stretch up to
+the top of the cavern.  You may move east and west within the building from
+here, while to the north lies the road.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19840
+D1
+~
+~
+~
+0 0 19884
+D3
+~
+~
+~
+0 0 19878
+M 0 H 0
+S
+#19878
+Inside the Huge Building~
+You stand now within a hallway of this huge building.  The hallway
+reaches southward into blackness, as the wide confines and high ceiling
+combine to make you feed as if you were in a void.  This place is very
+quiet.  
+~
+0 9 0
+D1
+~
+~
+~
+0 0 19877
+D2
+~
+~
+~
+0 0 19879
+M 0 H 0
+S
+#19879
+Inside the Huge Building~
+Travelling in this empty hall is easy going but lonesome work.  The hall
+stretches forth north and south as far as your eyes can see.  The ceiling is
+phenomenally high up, and the walls look like juggernauts when compared to
+your feeble form.  Your choices are limited to progression or regression.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19878
+D2
+~
+~
+~
+0 0 19880
+M 0 H 0
+S
+#19880
+Back of the Huge Building~
+While the front of this building was blocky and filled with edges, the
+back part smooths out to form a beautifully rounded wall.  This corner of
+the building allows you to travel north or in toward the centre of this
+enormous construction.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19879
+D1
+~
+~
+~
+0 0 19881
+M 0 H 0
+S
+#19881
+The Royal Court~
+You have come to the royal court of the Necroth people.  It would appear
+that this room used to bustle with life, but now the remains of teaming
+commerce lay strewn on the floor in the form of a long string of half
+decaying entrails.  To the north of here is the throne room, where the
+Necroth leaders reside.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19885
+D1
+~
+~
+~
+0 0 19882
+D3
+~
+~
+~
+0 0 19880
+M 0 H 0
+S
+#19882
+Back of the Huge Building~
+While the front of this building was blocky and filled with edges, the
+back part smooths out to form a beautifully rounded wall.  This corner of
+the building allows you to travel north or in toward the centre of this
+enormous construction.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19883
+D3
+~
+~
+~
+0 0 19881
+M 0 H 0
+S
+#19883
+Inside the Huge Building~
+Travelling in this empty hall is easy going but lonesome work.  The hall
+stretches forth north and south as far as your eyes can see.  The ceiling is
+phenomenally high up, and the walls look like juggernauts when compared to
+your feeble form.  Your choices are limited to progression or regression.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19884
+D2
+~
+~
+~
+0 0 19882
+M 0 H 0
+S
+#19884
+Inside the Huge Building~
+You stand now within a hallway of this huge building.  The hallway
+reaches southward into blackness, as the wide confines and high ceiling
+combine to make you feed as if you were in a void.  This place is very
+quiet.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 19883
+D3
+~
+~
+~
+0 0 19877
+M 0 H 0
+S
+#19885
+The Throne Room~
+Throne throne room itself is not nearly so spacious as the rest of this
+building.  Though the walls unite to shoot upwards like a shaft before
+finally meeting the pinnacle of the roof of the building, the space in
+comparison looks closed in.  The throne is made of a large piece of slate
+that curves only so slightly to form the seat, keeping its user in a mostly
+upright position.  Whoever stands before this rock holds supreme power over
+the Necroth civilization.  
+~
+0 9 0
+D2
+~
+~
+~
+0 0 19881
+M 0 H 0
+S
+#19886
+The Necroth Dungeon~
+Once again in confined spaces, you find yourself within a hallway in the
+Necroth Dungeon.  Small cells encircle you on all sides, most immediately to
+the east and west.  The hallway continues to the north and south from here. 
+~
+0 13 0
+D0
+~
+~
+~
+0 0 19887
+D1
+~
+~
+~
+2 19690 19895
+D2
+~
+~
+~
+0 0 19889
+D3
+~
+~
+~
+2 19690 19892
+D4
+~
+~
+~
+0 0 19869
+M 0 H 0
+S
+#19887
+The Necroth Dungeon~
+Here, the tiny hallway in the Necroth dungeon ends.  You are encircled
+now by cells on every side but one.  Toward the dungeon entrance is the only
+way to proceed unless you feel the need to enter one of the cells.  
+~
+0 9 0
+D0
+~
+~
+~
+2 19690 19888
+D1
+~
+~
+~
+2 19690 19894
+D2
+~
+~
+~
+0 0 19886
+D3
+~
+~
+~
+2 19690 19891
+M 0 H 0
+S
+#19888
+A Cell~
+You are in a rancid little cell.  Designated mostly for traitors and old
+political enemies and rivals to the present day ruler, those housed in these
+accommodations seldom get any consideration.  
+~
+0 0 0
+D2
+~
+~
+~
+2 0 19887
+M 0 H 0
+S
+#19889
+The Necroth Dungeon~
+Here, the tiny hallway in the Necroth dungeon ends.  You are encircled
+now by cells on every side but one.  Toward the dungeon entrance is the only
+way to proceed unless you feel the need to enter one of the cells.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 19886
+D1
+~
+~
+~
+2 19690 19896
+D2
+~
+~
+~
+2 19690 19890
+D3
+~
+~
+~
+2 19690 19893
+M 0 H 0
+S
+#19890
+A Cell~
+You are in a rancid little cell.  Designated mostly for traitors and old
+political enemies and rivals to the present day ruler, those housed in these
+accommodations seldom get any consideration.  
+~
+0 0 0
+D0
+~
+~
+~
+2 0 19889
+M 0 H 0
+S
+#19891
+A Cell~
+You are in a rancid little cell.  Designated mostly for traitors and old
+political enemies and rivals to the present day ruler, those housed in these
+accommodations seldom get any consideration.  
+~
+0 0 0
+D1
+~
+~
+~
+2 0 19887
+M 0 H 0
+S
+#19892
+A Cell~
+You are in a rancid little cell.  Designated mostly for traitors and old
+political enemies and rivals to the present day ruler, those housed in these
+accommodations seldom get any consideration.  
+~
+0 0 0
+D1
+~
+~
+~
+2 0 19886
+M 0 H 0
+S
+#19893
+A Cell~
+You are in a rancid little cell.  Designated mostly for traitors and old
+political enemies and rivals to the present day ruler, those housed in these
+accommodations seldom get any consideration.  
+~
+0 0 0
+D1
+~
+~
+~
+2 0 19889
+M 0 H 0
+S
+#19894
+A Cell~
+This cell looks to be particularly unkept.  Whoever was lucky enough to
+find himself with only a mat, sagging on the floor, to sleep on.  The only
+apparent exit is back west.  
+~
+0 0 0
+E
+mat~
+Checking underneath the unusual mat, you see a small tunnel has been dug.
+It seems to open up below here.  
+~
+D3
+~
+~
+~
+2 0 19887
+D5
+~
+mat~
+~
+1 0 19897
+M 0 H 0
+S
+#19895
+A Cell~
+You are in a rancid little cell.  Designated mostly for traitors and old
+political enemies and rivals to the present day ruler, those housed in these
+accommodations seldom get any consideration.  
+~
+0 0 0
+D3
+~
+~
+~
+2 0 19886
+M 0 H 0
+S
+#19896
+A Cell~
+You are in a rancid little cell.  Designated mostly for traitors and old
+political enemies and rivals to the present day ruler, those housed in these
+accommodations seldom get any consideration.  
+~
+0 0 0
+D3
+~
+~
+~
+2 0 19889
+M 0 H 0
+S
+#19897
+The Long Tunnel~
+This wide tunnel is far too large to be hand dug, and was probably made
+by a very big creature.  You have room enough in here to stand erect, with
+more comfort then the cell from where you originated.  The tunnel runs north
+and south, and looks rather long.  
+~
+0 13 0
+D2
+~
+~
+~
+0 0 19898
+D4
+~
+~
+~
+1 0 19894
+M 0 H 0
+S
+#19898
+The Long Tunnel~
+The tunnel you are now travelling in is large and long.  Running north
+and south, the darkness keeps you from seeing what lies at its end.  Much
+too large to have been made by the effort of most races, the only way that
+this loose dirt wall tunnel could have been constructed is by something very
+large.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19897
+D2
+~
+~
+~
+0 0 19899
+M 0 H 0
+S
+#19899
+The Long Tunnel~
+This wide tunnel is far too large to be hand dug, and was probably made
+by a very big creature.  You have room enough in here to stand erect, with
+more comfort then the cell from where you originated.  The tunnel runs north
+and south, and looks rather long.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19898
+D2
+~
+~
+~
+0 0 19900
+M 0 H 0
+S
+#19900
+The Long Tunnel~
+The tunnel you are now travelling in is large and long.  Running north
+and south, the darkness keeps you from seeing what lies at its end.  Much
+too large to have been made by the effort of most races, the only way that
+this loose dirt wall tunnel could have been constructed is by something very
+large.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19899
+D2
+~
+~
+~
+0 0 19901
+M 0 H 0
+S
+#19901
+The Long Tunnel~
+This wide tunnel is far too large to be hand dug, and was probably made
+by a very big creature.  You have room enough in here to stand erect, with
+more comfort then the cell from where you originated.  The tunnel runs north
+and south, and looks rather long.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19900
+D2
+~
+~
+~
+0 0 19902
+M 0 H 0
+S
+#19902
+The Long Tunnel~
+The tunnel you are now travelling in is large and long.  Running north
+and south, the darkness keeps you from seeing what lies at its end.  Much
+too large to have been made by the effort of most races, the only way that
+this loose dirt wall tunnel could have been constructed is by something very
+large.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19901
+D2
+~
+~
+~
+0 0 19903
+M 0 H 0
+S
+#19903
+The Long Tunnel~
+This wide tunnel is far too large to be hand dug, and was probably made
+by a very big creature.  You have room enough in here to stand erect, with
+more comfort then the cell from where you originated.  The tunnel runs north
+and south, and looks rather long.  
+~
+0 9 0
+D0
+~
+~
+~
+0 0 19902
+D5
+~
+~
+~
+0 0 19904
+M 0 H 0
+S
+#19904
+A Bubble in the Rock~
+You have come to yet another large cavern formed deep within the earth. 
+The large vacant area is completely spherical, sloping steeply downward from
+this point before smoothing itself out again into a smooth incline before
+flattening out completely and heading up the other side.  In the very center
+of the sphere can be seen a shiny object.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19919
+D2
+~
+~
+~
+0 0 19920
+D3
+~
+~
+~
+0 0 19905
+D4
+~
+~
+~
+0 0 19903
+M 0 H 0
+S
+#19905
+A Bubble in the Rock~
+As you walk along the perimeter of this spherical cave, you notice that
+the rocks have a tint of blue to them.  Your original hypothesis was that
+this cavern was made as a result of a bubble in liquid magma rock, but as
+you have never seen blue igneous rock before, you begin to let your
+imagination wander to more radical solutions.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19904
+D2
+~
+~
+~
+0 0 19906
+M 0 H 0
+S
+#19906
+A Bubble in the Rock~
+The slope now still leads up and down, but it is no longer very steep. 
+As the incline smooths out, so does the terrain, and you find it becoming
+more and more difficult to keep yourself from sliding down the slope anyway.
+Your only choices in direction are down to level ground, or back up to the
+rim once again.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19905
+D1
+~
+~
+~
+0 0 19920
+D2
+~
+~
+~
+0 0 19922
+D3
+~
+~
+~
+0 0 19907
+M 0 H 0
+S
+#19907
+A Bubble in the Rock~
+As you walk along the perimeter of this spherical cave, you notice that
+the rocks have a tint of blue to them.  Your original hypothesis was that
+this cavern was made as a result of a bubble in liquid magma rock, but as
+you have never seen blue igneous rock before, you begin to let your
+imagination wander to more radical solutions.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 19906
+D2
+~
+~
+~
+0 0 19908
+M 0 H 0
+S
+#19908
+A Bubble in the Rock~
+You have come to yet another large cavern formed deep within the earth. 
+The large vacant area is completely spherical, sloping steeply downward from
+this point before smoothing itself out again into a smooth incline before
+flattening out completely and heading up the other side.  In the very center
+of the sphere can be seen a shiny object.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19907
+D1
+~
+~
+~
+0 0 19922
+D2
+~
+~
+~
+0 0 19909
+M 0 H 0
+S
+#19909
+A Bubble in the Rock~
+As you walk along the perimeter of this spherical cave, you notice that
+the rocks have a tint of blue to them.  Your original hypothesis was that
+this cavern was made as a result of a bubble in liquid magma rock, but as
+you have never seen blue igneous rock before, you begin to let your
+imagination wander to more radical solutions.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19908
+D1
+~
+~
+~
+0 0 19910
+M 0 H 0
+S
+#19910
+A Bubble in the Rock~
+The slope now still leads up and down, but it is no longer very steep. 
+As the incline smooths out, so does the terrain, and you find it becoming
+more and more difficult to keep yourself from sliding down the slope anyway.
+Your only choices in direction are down to level ground, or back up to the
+rim once again.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19922
+D1
+~
+~
+~
+0 0 19923
+D2
+~
+~
+~
+0 0 19911
+D3
+~
+~
+~
+0 0 19909
+M 0 H 0
+S
+#19911
+A Bubble in the Rock~
+As you walk along the perimeter of this spherical cave, you notice that
+the rocks have a tint of blue to them.  Your original hypothesis was that
+this cavern was made as a result of a bubble in liquid magma rock, but as
+you have never seen blue igneous rock before, you begin to let your
+imagination wander to more radical solutions.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19910
+D1
+~
+~
+~
+0 0 19912
+M 0 H 0
+S
+#19912
+A Bubble in the Rock~
+You have come to yet another large cavern formed deep within the earth. 
+The large vacant area is completely spherical, sloping steeply downward from
+this point before smoothing itself out again into a smooth incline before
+flattening out completely and heading up the other side.  In the very center
+of the sphere can be seen a shiny object.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19923
+D1
+~
+~
+~
+0 0 19913
+D3
+~
+~
+~
+0 0 19911
+M 0 H 0
+S
+#19913
+A Bubble in the Rock~
+As you walk along the perimeter of this spherical cave, you notice that
+the rocks have a tint of blue to them.  Your original hypothesis was that
+this cavern was made as a result of a bubble in liquid magma rock, but as
+you have never seen blue igneous rock before, you begin to let your
+imagination wander to more radical solutions.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19914
+D3
+~
+~
+~
+0 0 19912
+M 0 H 0
+S
+#19914
+A Bubble in the Rock~
+The slope now still leads up and down, but it is no longer very steep. 
+As the incline smooths out, so does the terrain, and you find it becoming
+more and more difficult to keep yourself from sliding down the slope anyway.
+Your only choices in direction are down to level ground, or back up to the
+rim once again.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19924
+D1
+~
+~
+~
+0 0 19915
+D2
+~
+~
+~
+0 0 19913
+D3
+~
+~
+~
+0 0 19923
+M 0 H 0
+S
+#19915
+A Bubble in the Rock~
+As you walk along the perimeter of this spherical cave, you notice that
+the rocks have a tint of blue to them.  Your original hypothesis was that
+this cavern was made as a result of a bubble in liquid magma rock, but as
+you have never seen blue igneous rock before, you begin to let your
+imagination wander to more radical solutions.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19916
+D3
+~
+~
+~
+0 0 19914
+M 0 H 0
+S
+#19916
+A Bubble in the Rock~
+You have come to yet another large cavern formed deep within the earth. 
+The large vacant area is completely spherical, sloping steeply downward from
+this point before smoothing itself out again into a smooth incline before
+flattening out completely and heading up the other side.  In the very center
+of the sphere can be seen a shiny object.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19917
+D2
+~
+~
+~
+0 0 19915
+D3
+~
+~
+~
+0 0 19924
+M 0 H 0
+S
+#19917
+A Bubble in the Rock~
+As you walk along the perimeter of this spherical cave, you notice that
+the rocks have a tint of blue to them.  Your original hypothesis was that
+this cavern was made as a result of a bubble in liquid magma rock, but as
+you have never seen blue igneous rock before, you begin to let your
+imagination wander to more radical solutions.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 19916
+D3
+~
+~
+~
+0 0 19918
+M 0 H 0
+S
+#19918
+A Bubble in the Rock~
+The slope now still leads up and down, but it is no longer very steep. 
+As the incline smooths out, so does the terrain, and you find it becoming
+more and more difficult to keep yourself from sliding down the slope anyway.
+Your only choices in direction are down to level ground, or back up to the
+rim once again.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 19919
+D1
+~
+~
+~
+0 0 19917
+D2
+~
+~
+~
+0 0 19924
+D3
+~
+~
+~
+0 0 19920
+M 0 H 0
+S
+#19919
+A Bubble in the Rock~
+As you walk along the perimeter of this spherical cave, you notice that
+the rocks have a tint of blue to them.  Your original hypothesis was that
+this cavern was made as a result of a bubble in liquid magma rock, but as
+you have never seen blue igneous rock before, you begin to let your
+imagination wander to more radical solutions.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 19918
+D3
+~
+~
+~
+0 0 19904
+M 0 H 0
+S
+#19920
+A Bubble in the Rock~
+You now stand on level ground.  The floor of this cave can best be
+described as disappointing.  The terrain is featureless, the only thing
+partially of interest being a metal cube, but it has no openings and is far
+too large to be lifted.  The steel object sits motionless, but is somehow
+warm.  
+~
+0 8 0
+E
+cube~
+Looking closer, you see a faint outline on the steel cube.  Pushing on it
+does nothing, but you think you could slide it downward to reveal a window. 
+~
+E
+metal~
+Looking closer, you see a faint outline on the steel cube.  Pushing on it
+does nothing, but you think you could slide it downward to reveal a window. 
+~
+D0
+~
+~
+~
+0 0 19904
+D1
+~
+~
+~
+0 0 19918
+D2
+~
+~
+~
+1 0 19921
+D3
+~
+~
+~
+0 0 19906
+M 0 H 0
+S
+#19921
+The Metal Block~
+Having breached the outward wall of the metal block, you find yourself
+now within a deceptively spacious room.  The walls around you shine like
+polished silver, gleaming in a light that emerges from a hole in the floor
+beneath you.  
+~
+0 12 0
+D0
+~
+~
+~
+1 0 19920
+D1
+~
+~
+~
+1 0 19924
+D2
+~
+~
+~
+1 0 19923
+D3
+~
+~
+~
+1 0 19922
+D5
+~
+~
+~
+0 0 19925
+M 0 H 0
+S
+#19922
+A Bubble in the Rock~
+You now stand on level ground.  The floor of this cave can best be
+described as disappointing.  The terrain is featureless, the only thing
+partially of interest being a metal cube, but it has no openings and is far
+too large to be lifted.  The steel object sits motionless, but is somehow
+warm.  
+~
+0 8 0
+E
+cube~
+Looking closer, you see a faint outline on the steel cube.  Pushing on it
+does nothing, but you think you could slide it downward to reveal a window. 
+~
+E
+metal~
+Looking closer, you see a faint outline on the steel cube.  Pushing on it
+does nothing, but you think you could slide it downward to reveal a window. 
+~
+D0
+~
+~
+~
+0 0 19906
+D1
+~
+~
+~
+1 0 19921
+D2
+~
+~
+~
+0 0 19910
+D3
+~
+~
+~
+0 0 19908
+M 0 H 0
+S
+#19923
+A Bubble in the Rock~
+You now stand on level ground.  The floor of this cave can best be
+described as disappointing.  The terrain is featureless, the only thing
+partially of interest being a metal cube, but it has no openings and is far
+too large to be lifted.  The steel object sits motionless, but is somehow
+warm.  
+~
+0 8 0
+E
+cube~
+Looking closer, you see a faint outline on the steel cube.  Pushing on it
+does nothing, but you think you could slide it downward to reveal a window. 
+~
+E
+metal~
+Looking closer, you see a faint outline on the steel cube.  Pushing on it
+does nothing, but you think you could slide it downward to reveal a window. 
+~
+D0
+~
+~
+~
+1 0 19921
+D1
+~
+~
+~
+0 0 19914
+D2
+~
+~
+~
+0 0 19912
+D3
+~
+~
+~
+0 0 19910
+M 0 H 0
+S
+#19924
+A Bubble in the Rock~
+You now stand on level ground.  The floor of this cave can best be
+described as disappointing.  The terrain is featureless, the only thing
+partially of interest being a metal cube, but it has no openings and is far
+too large to be lifted.  The steel object sits motionless, but is somehow
+warm.  
+~
+0 8 0
+E
+cube~
+Looking closer, you see a faint outline on the steel cube.  Pushing on it
+does nothing, but you think you could slide it downward to reveal a window. 
+~
+E
+metal~
+Looking closer, you see a faint outline on the steel cube.  Pushing on it
+does nothing, but you think you could slide it downward to reveal a window. 
+~
+D0
+~
+~
+~
+0 0 19918
+D1
+~
+~
+~
+0 0 19916
+D2
+~
+~
+~
+0 0 19914
+D3
+~
+~
+~
+1 0 19921
+M 0 H 0
+S
+#19925
+The Metal Cube~
+You stand now within an enormous metal construction of a building.  The
+cube is totally made out of a hard metal, most likely steel, and contains
+enough space to hold a shrine or temple.  Being now in the center of the
+cube, you may travel in any cardinal direction.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 19926
+D1
+~
+~
+~
+0 0 19932
+D2
+~
+~
+~
+0 0 19930
+D3
+~
+~
+~
+0 0 19928
+D4
+~
+~
+~
+0 0 19921
+M 0 H 0
+S
+#19926
+The Wall of the Metal Cube~
+It would appear that the strange light which you have been draped within
+actually originates from the walls of this building.  The glowing walls are
+smooth and cold, and completely strait.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 19933
+D2
+~
+~
+~
+0 0 19925
+D3
+~
+~
+~
+0 0 19927
+M 0 H 0
+S
+#19927
+The Corner of the Metal Cube~
+You stand now where two walls of the metal cube meet.  This corner is the
+same as the rest of the cube, except that a hole leads to the other floor of
+the construction.  The glowing walls also seem a tad brighter here then they
+otherwise were.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 19926
+D2
+~
+~
+~
+0 0 19928
+D5
+~
+~
+~
+0 0 19934
+M 0 H 0
+S
+#19928
+The Wall of the Metal Cube~
+It would appear that the strange light which you have been draped within
+actually originates from the walls of this building.  The glowing walls are
+smooth and cold, and completely strait. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 19927
+D1
+~
+~
+~
+0 0 19925
+D2
+~
+~
+~
+0 0 19929
+M 0 H 0
+S
+#19929
+The Corner of the Metal Cube~
+You stand now where two walls of the metal cube meet.  This corner is the
+same as the rest of the cube, except that a hole leads to the other floor of
+the construction.  The glowing walls also seem a tad brighter here then they
+otherwise were.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 19928
+D1
+~
+~
+~
+0 0 19930
+D5
+~
+~
+~
+0 0 19940
+M 0 H 0
+S
+#19930
+The Wall of the Metal Cube~
+It would appear that the strange light which you have been draped within
+actually originates from the walls of this building.  The glowing walls are
+smooth and cold, and completely strait.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 19925
+D1
+~
+~
+~
+0 0 19931
+D3
+~
+~
+~
+0 0 19929
+M 0 H 0
+S
+#19931
+The Corner of the Metal Cube~
+You stand now where two walls of the metal cube meet.  This corner is the
+same as the rest of the cube, except that a hole leads to the other floor of
+the construction.  The glowing walls also seem a tad brighter here then they
+otherwise were.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 19932
+D3
+~
+~
+~
+0 0 19930
+D5
+~
+~
+~
+0 0 19938
+M 0 H 0
+S
+#19932
+The Wall of the Metal Cube~
+It would appear that the strange light which you have been draped within
+actually originates from the walls of this building.  The glowing walls are
+smooth and cold, and completely strait.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 19933
+D2
+~
+~
+~
+0 0 19931
+D3
+~
+~
+~
+0 0 19925
+M 0 H 0
+S
+#19933
+The Corner of the Metal Cube~
+You stand now where two walls of the metal cube meet.  This corner is the
+same as the rest of the cube, except that a hole leads to the other floor of
+the construction.  The glowing walls also seem a tad brighter here then they
+otherwise were.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 19932
+D3
+~
+~
+~
+0 0 19926
+D5
+~
+~
+~
+0 0 19936
+M 0 H 0
+S
+#19934
+The Corner of the Metal Cube~
+This corner is the same as the rest of the cube, except that a hole leads
+to the other floor of the construction.  The glowing walls also seem a tad
+brighter here then they otherwise were.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 19935
+D2
+~
+~
+~
+0 0 19941
+D4
+~
+~
+~
+0 0 19927
+M 0 H 0
+S
+#19935
+The Wall of the Metal Cube~
+It would appear that the strange light which you have been draped within
+actually originates from the walls of this building.  The glowing walls are
+smooth and cold, and completely strait.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 19936
+D2
+~
+~
+~
+0 0 19942
+D3
+~
+~
+~
+0 0 19934
+M 0 H 0
+S
+#19936
+The Corner of the Metal Cube~
+This corner is the same as the rest of the cube, except that a hole leads
+to the other floor of the construction.  The glowing walls also seem a tad
+brighter here then they otherwise were.  
+~
+0 0 0
+D2
+~
+~
+~
+0 0 19937
+D3
+~
+~
+~
+0 0 19935
+D4
+~
+~
+~
+0 0 19933
+M 0 H 0
+S
+#19937
+The Wall of the Metal Cube~
+It would appear that the strange light which you have been draped within
+actually originates from the walls of this building.  The glowing walls are
+smooth and cold, and completely strait.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 19936
+D2
+~
+~
+~
+0 0 19938
+D3
+~
+~
+~
+0 0 19942
+M 0 H 0
+S
+#19938
+The Corner of the Metal Cube~
+This corner is the same as the rest of the cube, except that a hole leads
+to the other floor of the construction.  The glowing walls also seem a tad
+brighter here then they otherwise were.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 19937
+D3
+~
+~
+~
+0 0 19939
+D4
+~
+~
+~
+0 0 19931
+M 0 H 0
+S
+#19939
+The Wall of the Metal Cube~
+It would appear that the strange light which you have been draped within
+actually originates from the walls of this building.  The glowing walls are
+smooth and cold, and completely strait.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 19942
+D1
+~
+~
+~
+0 0 19938
+D3
+~
+~
+~
+0 0 19940
+M 0 H 0
+S
+#19940
+The Corner of the Metal Cube~
+This corner is the same as the rest of the cube, except that a hole leads
+to the other floor of the construction.  The glowing walls also seem a tad
+brighter here then they otherwise were.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 19941
+D1
+~
+~
+~
+0 0 19939
+D4
+~
+~
+~
+0 0 19929
+M 0 H 0
+S
+#19941
+The Wall of the Metal Cube~
+It would appear that the strange light which you have been draped within
+actually originates from the walls of this building.  The glowing walls are
+smooth and cold, and completely strait.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 19934
+D1
+~
+~
+~
+0 0 19942
+D2
+~
+~
+~
+0 0 19940
+M 0 H 0
+S
+#19942
+The Bottom of the Metal Cube~
+You stand now at the very bottom of the metal cube.  Out of the floor
+here seems to be growing a large plant.  The plant leafs out and covers the
+floor, but the roots have done their damage to the floor of the cube, and a
+chunk of the metal has been peeled away, leaving a hole covered by a giant
+leaf.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 19935
+D1
+~
+~
+~
+0 0 19937
+D2
+~
+~
+~
+0 0 19939
+D3
+~
+~
+~
+0 0 19941
+D5
+~
+~
+~
+1 0 19943
+M 0 H 0
+S
+#19943
+The Silver Pipe~
+You have entered a long gleaming vertically running tube.  From somewhere
+down below you comes a brilliantly bright light which refracts off the
+reflective walls of the place which form into one long concave mirror.  You
+may travel up or down from this place.  
+~
+0 8 0
+D4
+~
+~
+~
+1 0 19942
+D5
+~
+~
+~
+0 0 19944
+M 0 H 0
+S
+#19944
+The Lair of the Black Guardian~
+The room you are now standing in has become once more enormous.  It is
+illuminated with a bright white light which bursts up from a single trapdoor
+and shoots up into the room and the pipe beyond.  No crevice is left
+untouched by this purifying light.  
+, sure
+~
+0 8 0
+D4
+~
+~
+~
+0 0 19943
+D5
+~
+~
+~
+4 19696 19945
+M 0 H 0
+S
+#19945
+The Tower Sanctum~
+You have reached the bottom of the dungeons under the Arkha Tower, the
+Tower Sanctum, dwelling place of great Arkha himself.  On the wall there is
+a large parchment which seems to entail the events leading up to Arkha's
+imprisonment here.  There are no exits from this little prison, as it is
+guarded by strong magic as well as hard steel.  
+~
+0 12 0
+E
+parchment~
+This large blanket of a scroll entails the events which resulted in the
+monk's containment in this place.  The parchment explains that Arkha was
+once a good man, dedicated to making people happy.  In order to lift the
+spirits of society, he created a new order, dedicated to sincere joy in
+everything around oneself.  This order believed that all events leading up
+to death were blessings, and one who sincerely followed its teachings was
+never saddened.  Unfortunately, Arkha himself did not believe his own
+teachings.  His thoughts were that so long as others lives were improved by
+his work, that it was worth the sacrifice of his own personally happiness. 
+He wore the masquerade of a happy monk for too long, however, and the false
+emotions began to eat at the marrow of his soul, causing him to become
+internally angry and hateful.  Seeing this development in his personality
+before he was too corrupted to realize what was going on, Arkha Saladorius
+faked his death and arranged to be buried under his once beloved tower. 
+Once there, he called his mount, a pitch black dragon named Traitet, and
+together they made their way down into the depths of a large system of until
+then undiscovered caves and ruins before eventually coming to this place. 
+Arkha eventually continued his evolution before becoming this entity of evil
+which has tainted all of that around him with the path of darkness.  
+~
+M 0 H 0
+S
+#19948
+The Grand Chamber~
+You are now in an extremely well decorated room.  On the ceiling are
+crystal chandeliers, on the wall are huge draperies and life-size portraits,
+on the floor is a red and black striped carpet.  On the east well high above
+your reach is a bowl which holds a large flame.  It burns brightly but
+safely inside its metal constraints.  
+~
+0 4 0
+D3
+~
+~
+~
+0 0 19804
+M 0 H 0
+S
+#19950
+The Descending Tunnel~
+This tunnel descends downwards into darkness.  The unusually steep angle
+here makes the going difficult, but you are able to manage.  You may travel
+up and down from here.  
+~
+0 13 0
+D4
+~
+~
+~
+0 0 19796
+D5
+~
+~
+~
+0 0 19951
+M 0 H 0
+S
+#19951
+A Descending Tunnel~
+This tunnel descends downwards into darkness.  The unusually steep angle
+here makes the going difficult, but you are able to manage.  You may travel
+up and down from here.  
+~
+0 9 0
+D4
+~
+~
+~
+0 0 19950
+D5
+~
+~
+~
+0 0 19952
+M 0 H 0
+S
+#19952
+A Descending Tunnel~
+This tunnel descends into darkness.  The angle here makes going
+difficult, as it is very steep.  You may travel up and down from here.  At
+the last second you loose your footing...  
+~
+0 13 0
+D4
+~
+~
+~
+0 0 19951
+D5
+~
+~
+~
+0 0 19809
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 19677 spec_breath_fire
+M 19683 spec_nasty
+M 19684 spec_cast_cleric
+M 19686 spec_cast_mage
+M 19689 spec_cast_cleric
+M 19691 spec_cast_mage
+M 19696 spec_breath_gas
+M 19698 spec_breath_fire
+M 19699 spec_nasty
+M 19700 spec_breath_fire
+M 19701 spec_breath_any
+M 19702 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 19655 0 1
+D 0 19656 2 1
+D 0 19656 5 1
+D 0 19671 0 1
+D 0 19671 2 1
+D 0 19675 2 1
+D 0 19676 0 1
+D 0 19678 2 1
+D 0 19679 0 1
+D 0 19691 4 1
+D 0 19694 2 2
+D 0 19695 0 2
+D 0 19695 5 1
+D 0 19696 4 1
+D 0 19705 2 1
+D 0 19706 0 1
+D 0 19710 3 1
+D 0 19711 1 1
+D 0 19715 1 1
+D 0 19727 3 1
+D 0 19757 5 1
+D 0 19758 4 1
+D 0 19786 5 1
+D 0 19790 4 1
+D 0 19838 5 1
+D 0 19839 4 1
+D 0 19886 1 2
+D 0 19886 3 2
+D 0 19887 0 2
+D 0 19887 1 2
+D 0 19887 3 2
+D 0 19888 2 2
+D 0 19889 1 2
+D 0 19889 2 2
+D 0 19889 3 2
+D 0 19890 0 2
+D 0 19891 1 2
+D 0 19892 1 2
+D 0 19893 1 2
+D 0 19894 3 2
+D 0 19894 5 1
+D 0 19895 3 2
+D 0 19896 3 2
+D 0 19897 4 1
+D 0 19920 2 1
+D 0 19921 0 1
+D 0 19921 1 1
+D 0 19921 2 1
+D 0 19921 3 1
+D 0 19922 1 1
+D 0 19923 0 1
+D 0 19924 3 1
+D 0 19942 5 1
+D 0 19943 4 1
+D 0 19944 5 2
+M 0 19651 1 19651 10
+M 0 19652 2 19652 10
+E 0 19651 0 5
+M 0 19652 2 19652 10
+E 0 19651 0 5
+M 0 19653 3 19654 10
+M 0 19655 1 19656 10
+E 0 19652 0 5
+M 0 19653 4 19657 10
+M 0 19703 1 19658 10
+G 0 19698 0
+G 0 19699 0
+M 0 19656 2 19659 10
+E 0 19651 0 5
+M 0 19653 4 19660 10
+M 0 19656 2 19662 10
+E 0 19651 0 5
+M 0 19654 8 19663 10
+M 0 19654 8 19666 10
+M 0 19657 3 19671 10
+E 0 19652 0 5
+M 0 19657 3 19674 10
+E 0 19652 0 5
+M 0 19658 6 19676 10
+E 0 19651 0 5
+M 0 19657 3 19677 10
+E 0 19652 0 5
+M 0 19658 6 19678 10
+E 0 19651 0 5
+M 0 19659 1 19679 10
+E 0 19653 0 5
+M 0 19660 4 19684 10
+E 0 19654 0 16
+M 0 19661 1 19685 10
+E 0 19655 0 5
+M 0 19660 4 19685 10
+E 0 19654 0 16
+M 0 19660 4 19687 10
+E 0 19654 0 16
+M 0 19660 4 19690 10
+E 0 19654 0 16
+M 0 19662 2 19694 10
+E 0 19657 0 16
+G 0 19656 0
+M 0 19662 2 19694 10
+E 0 19657 0 16
+M 0 19663 1 19695 10
+M 0 19665 1 19697 10
+M 0 19664 5 19698 10
+G 0 19658 0
+M 0 19664 5 19700 10
+G 0 19658 0
+M 0 19664 5 19701 10
+G 0 19658 0
+M 0 19664 5 19702 10
+G 0 19658 0
+M 0 19664 5 19704 10
+G 0 19658 0
+M 0 19666 4 19707 10
+E 0 19660 0 9
+E 0 19659 0 8
+M 0 19666 4 19708 10
+E 0 19660 0 9
+E 0 19659 0 8
+M 0 19666 4 19713 10
+E 0 19660 0 9
+E 0 19659 0 8
+M 0 19666 4 19714 10
+E 0 19660 0 9
+E 0 19659 0 8
+M 0 19667 6 19716 10
+E 0 19661 0 3
+M 0 19667 6 19717 10
+E 0 19661 0 3
+M 0 19667 6 19721 10
+E 0 19661 0 3
+M 0 19667 6 19722 10
+E 0 19661 0 3
+M 0 19667 6 19724 10
+E 0 19661 0 3
+M 0 19667 6 19726 10
+E 0 19661 0 3
+M 0 19668 16 19739 10
+M 0 19668 16 19740 10
+M 0 19668 16 19742 10
+M 0 19668 16 19743 10
+M 0 19668 16 19745 10
+M 0 19668 16 19746 10
+M 0 19668 16 19748 10
+M 0 19668 16 19749 10
+M 0 19669 4 19750 10
+E 0 19662 0 16
+M 0 19668 16 19750 10
+M 0 19669 4 19751 10
+E 0 19662 0 16
+M 0 19668 16 19751 10
+M 0 19669 4 19752 10
+E 0 19662 0 16
+M 0 19668 16 19752 10
+M 0 19669 4 19753 10
+E 0 19662 0 16
+M 0 19668 16 19753 10
+M 0 19668 16 19754 10
+M 0 19668 16 19755 10
+M 0 19668 16 19756 10
+M 0 19668 16 19757 10
+M 0 19670 8 19760 10
+M 0 19673 4 19761 10
+M 0 19672 6 19763 10
+M 0 19670 8 19764 10
+M 0 19672 6 19765 10
+M 0 19670 8 19766 10
+M 0 19671 6 19768 10
+M 0 19670 8 19769 10
+M 0 19673 4 19770 10
+M 0 19670 8 19771 10
+M 0 19671 6 19773 10
+M 0 19672 6 19774 10
+M 0 19670 8 19775 10
+M 0 19673 4 19776 10
+M 0 19672 6 19778 10
+M 0 19670 8 19779 10
+M 0 19671 6 19780 10
+M 0 19670 8 19781 10
+M 0 19671 6 19782 10
+M 0 19671 6 19783 10
+M 0 19674 3 19784 10
+M 0 19672 6 19785 10
+M 0 19674 3 19786 10
+M 0 19673 4 19786 10
+M 0 19672 6 19787 10
+M 0 19674 3 19788 10
+M 0 19671 6 19789 10
+M 0 19676 7 19790 10
+M 0 19676 7 19791 10
+M 0 19676 7 19792 10
+M 0 19676 7 19793 10
+M 0 19676 7 19794 10
+M 0 19676 7 19795 10
+M 0 19676 7 19796 10
+M 0 19675 10 19797 10
+E 0 19663 0 5
+M 0 19675 10 19798 10
+E 0 19663 0 5
+M 0 19675 10 19799 10
+E 0 19663 0 5
+M 0 19675 10 19800 10
+E 0 19663 0 5
+M 0 19675 10 19801 10
+E 0 19663 0 5
+M 0 19675 10 19802 10
+E 0 19663 0 5
+M 0 19675 10 19803 10
+E 0 19663 0 5
+M 0 19675 10 19804 10
+E 0 19663 0 5
+M 0 19675 10 19805 10
+E 0 19663 0 5
+M 0 19675 10 19806 10
+E 0 19663 0 5
+M 0 19677 2 19807 10
+E 0 19664 0 21
+M 0 19678 6 19813 10
+E 0 19665 0 5
+M 0 19679 6 19815 10
+M 0 19681 4 19816 10
+E 0 19666 0 16
+M 0 19680 3 19817 10
+M 0 19679 6 19818 10
+M 0 19679 6 19821 10
+M 0 19681 4 19822 10
+E 0 19666 0 16
+M 0 19678 6 19824 10
+E 0 19665 0 5
+M 0 19681 4 19825 10
+E 0 19666 0 16
+M 0 19679 6 19826 10
+M 0 19680 3 19827 10
+M 0 19678 6 19828 10
+E 0 19665 0 5
+M 0 19678 6 19830 10
+E 0 19665 0 5
+M 0 19679 6 19832 10
+M 0 19679 6 19833 10
+M 0 19678 6 19834 10
+E 0 19665 0 5
+M 0 19680 3 19835 10
+M 0 19678 6 19836 10
+E 0 19665 0 5
+M 0 19681 4 19837 10
+E 0 19666 0 16
+M 0 19682 1 19838 10
+E 0 19670 0 24
+E 0 19669 0 8
+E 0 19668 0 12
+E 0 19667 0 16
+M 0 19684 1 19839 10
+E 0 19674 0 2
+E 0 19673 0 6
+E 0 19672 0 5
+E 0 19671 0 16
+M 0 19688 8 19843 10
+E 0 19685 0 7
+E 0 19684 0 9
+E 0 19669 0 8
+E 0 19667 0 16
+M 0 19683 2 19846 10
+E 0 19668 0 5
+E 0 19670 0 24
+E 0 19669 0 8
+E 0 19667 0 16
+M 0 19688 8 19850 10
+E 0 19685 0 7
+E 0 19684 0 9
+E 0 19669 0 8
+E 0 19667 0 16
+M 0 19683 2 19853 10
+E 0 19670 0 24
+E 0 19667 0 16
+E 0 19669 0 8
+E 0 19668 0 5
+M 0 19688 8 19855 10
+E 0 19685 0 7
+E 0 19684 0 9
+E 0 19669 0 8
+E 0 19667 0 16
+M 0 19688 8 19856 10
+E 0 19685 0 7
+E 0 19684 0 9
+E 0 19669 0 8
+E 0 19667 0 16
+M 0 19690 4 19857 10
+E 0 19688 0 5
+E 0 19673 0 6
+E 0 19669 0 8
+M 0 19688 8 19858 10
+E 0 19685 0 7
+E 0 19684 0 9
+E 0 19669 0 8
+E 0 19667 0 16
+M 0 19685 12 19860 10
+E 0 19678 0 10
+E 0 19676 0 7
+E 0 19677 0 5
+E 0 19675 0 16
+M 0 19685 12 19860 10
+E 0 19678 0 10
+E 0 19676 0 7
+E 0 19677 0 5
+E 0 19675 0 16
+M 0 19685 12 19861 10
+E 0 19678 0 10
+E 0 19676 0 7
+E 0 19677 0 5
+E 0 19675 0 16
+M 0 19685 12 19861 10
+E 0 19678 0 10
+E 0 19676 0 7
+E 0 19677 0 5
+E 0 19675 0 16
+M 0 19685 12 19862 10
+E 0 19678 0 10
+E 0 19676 0 7
+E 0 19677 0 5
+E 0 19675 0 16
+M 0 19685 12 19862 10
+E 0 19678 0 10
+E 0 19676 0 7
+E 0 19677 0 5
+E 0 19675 0 16
+M 0 19687 9 19863 10
+E 0 19669 0 8
+E 0 19683 0 6
+E 0 19682 0 3
+E 0 19675 0 16
+M 0 19691 2 19865 10
+E 0 19672 0 5
+E 0 19674 0 2
+E 0 19679 0 16
+E 0 19689 0 14
+M 0 19690 4 19865 10
+E 0 19688 0 5
+E 0 19673 0 6
+E 0 19669 0 8
+M 0 19689 1 19865 10
+E 0 19687 0 6
+E 0 19672 0 5
+E 0 19671 0 16
+M 0 19691 2 19866 10
+E 0 19672 0 5
+E 0 19674 0 2
+E 0 19679 0 16
+E 0 19689 0 14
+M 0 19690 4 19866 10
+E 0 19688 0 5
+E 0 19673 0 6
+E 0 19669 0 8
+M 0 19687 9 19868 10
+E 0 19669 0 8
+E 0 19683 0 6
+E 0 19682 0 3
+E 0 19675 0 16
+M 0 19687 9 19869 10
+E 0 19669 0 8
+E 0 19683 0 6
+E 0 19682 0 3
+E 0 19675 0 16
+M 0 19685 12 19870 10
+E 0 19678 0 10
+E 0 19676 0 7
+E 0 19677 0 5
+E 0 19675 0 16
+M 0 19685 12 19870 10
+E 0 19678 0 10
+E 0 19676 0 7
+E 0 19677 0 5
+E 0 19675 0 16
+M 0 19685 12 19871 10
+E 0 19678 0 10
+E 0 19676 0 7
+E 0 19677 0 5
+E 0 19675 0 16
+M 0 19685 12 19871 10
+E 0 19678 0 10
+E 0 19676 0 7
+E 0 19677 0 5
+E 0 19675 0 16
+M 0 19685 12 19872 10
+E 0 19678 0 10
+E 0 19676 0 7
+E 0 19677 0 5
+E 0 19675 0 16
+M 0 19685 12 19872 10
+E 0 19678 0 10
+E 0 19676 0 7
+E 0 19677 0 5
+E 0 19675 0 16
+E 0 19680 0 6
+E 0 19681 0 13
+E 0 19682 0 3
+M 0 19688 8 19873 10
+E 0 19685 0 7
+E 0 19684 0 9
+E 0 19669 0 8
+E 0 19667 0 16
+M 0 19690 4 19876 10
+E 0 19688 0 5
+E 0 19673 0 6
+E 0 19669 0 8
+M 0 19688 8 19876 10
+E 0 19685 0 7
+E 0 19684 0 9
+E 0 19669 0 8
+E 0 19667 0 16
+M 0 19687 9 19877 10
+E 0 19669 0 8
+E 0 19683 0 6
+E 0 19682 0 3
+E 0 19675 0 16
+M 0 19687 9 19877 10
+E 0 19669 0 8
+E 0 19683 0 6
+E 0 19682 0 3
+E 0 19675 0 16
+M 0 19687 9 19878 10
+E 0 19669 0 8
+E 0 19683 0 6
+E 0 19682 0 3
+E 0 19675 0 16
+M 0 19687 9 19881 10
+E 0 19669 0 8
+E 0 19683 0 6
+E 0 19682 0 3
+E 0 19675 0 16
+M 0 19687 9 19881 10
+E 0 19669 0 8
+E 0 19683 0 6
+E 0 19682 0 3
+E 0 19675 0 16
+M 0 19687 9 19884 10
+E 0 19669 0 8
+E 0 19683 0 6
+E 0 19682 0 3
+E 0 19675 0 16
+M 0 19686 1 19885 10
+E 0 19679 0 16
+E 0 19682 0 3
+E 0 19681 0 13
+E 0 19680 0 6
+M 0 19692 1 19886 10
+E 0 19690 0 13
+E 0 19672 0 5
+E 0 19678 0 10
+E 0 19685 0 7
+E 0 19684 0 9
+M 0 19694 2 19888 10
+E 0 19688 0 5
+M 0 19694 2 19890 10
+E 0 19688 0 5
+M 0 19693 5 19891 10
+E 0 19688 0 5
+M 0 19693 5 19892 10
+E 0 19688 0 5
+M 0 19693 5 19893 10
+E 0 19688 0 5
+M 0 19693 5 19895 10
+E 0 19688 0 5
+M 0 19693 5 19896 10
+E 0 19688 0 5
+M 0 19695 1 19898 10
+E 0 19668 0 12
+M 0 19696 1 19902 10
+M 0 19697 10 19908 10
+M 0 19697 10 19909 10
+M 0 19697 10 19911 10
+M 0 19697 10 19912 10
+M 0 19697 10 19913 10
+M 0 19697 10 19915 10
+M 0 19697 10 19916 10
+G 0 19697 0
+M 0 19697 10 19920 10
+M 0 19698 1 19921 10
+E 0 19691 0 6
+M 0 19697 10 19922 10
+M 0 19697 10 19924 10
+M 0 19699 8 19926 10
+M 0 19699 8 19928 10
+M 0 19699 8 19930 10
+M 0 19699 8 19932 10
+M 0 19699 8 19934 10
+E 0 19692 0 23
+M 0 19699 8 19936 10
+E 0 19692 0 23
+M 0 19699 8 19938 10
+E 0 19692 0 23
+M 0 19699 8 19940 10
+E 0 19692 0 23
+M 0 19700 1 19942 10
+E 0 19693 0 16
+M 0 19701 1 19944 10
+E 0 19694 0 9
+G 0 19696 0
+M 0 19702 1 19945 10
+E 0 19695 0 13
+M 0 19677 2 19948 10
+E 0 19664 0 21
+S
+
+
+
+#SHOPS
+19703 8 0 0 0 0 100 100 1 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

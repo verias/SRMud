@@ -1,0 +1,1482 @@
+#AREADATA
+Name { ALL } Blyte   Xian Mansion~
+Builders Blyte~
+VNUMs 14150 14199
+Security 1
+End
+
+
+
+#MOBILES
+#14150
+andrayia stormchild~
+Andrayia Stormchild~
+The mercenary Andrayis Stormchild Stands here, gazing about herself coldly.
+~
+Andrayia now works for the crown for both money and fame.  Her short
+cropped brown hair has been spiked to make her look a little taller and more
+fearsome to her foes.  Through her height and build are not great there's
+some thing almost menacing in the way she moves.  Cold eyes look out from a
+striking face, not beautiful but striking.  Not one emotion seems to show
+almost as if she's some kind of automation.  Every now and then she seems to
+slip out of sight only to appear again unchanged.  
+~
+Spiritfolk~
+A TUV 0 S
+100 0 12d1397+3920 100d10+100 6d11+29 17
+-35 -35 -35 -27
+FHIK 0 BD CN
+9 9 2 450
+AHMV ABCDEFGHIJK M unknown
+#14151
+kuno-val-s haitorin~
+Kuno-val-s~
+The Haitorin, Kuno-Val-S, waits here for his latest prey to pass.
+~
+This haitorin is a hunter, his prey the wrong doers of this land.  Hired
+by the crown Kuno-val-s must be one of the strongest bounty-hunters within
+this realm.  Powerful muscles can be seen rippling under his tiger striped,
+furry chest giving the impression that he could rip a hole through steel. 
+One ear is notched to the point where is looks feathered, some say that he
+notches his ear each time he kills one of his prey.  
+~
+Haitorin~
+A VZ -50 S
+100 0 12d1397+3920 100d10+100 6d11+29 5
+-35 -35 -35 -27
+CEFHK 0 P H
+9 9 1 450
+ACGHMV ABCDEFGHIJKMQUV M unknown
+#14152
+ingrid woman tervadi~
+Ingrid the tervadi~
+The bounty-hunter Ingrid is here stretching her wings.
+~
+This Tervadi woman is called Ingrid by her friends.  She is said to be
+employed by the crown as a peace keeper of sorts a job she enjoys doing. 
+Bright plumage adorns her body making her stand out in any crowd some thing
+she seems to delight in.  Some thing about the watchful eyes gives the
+impression that maybe she knows more than she's saying.  
+~
+Tervadi~
+A OT 200 S
+97 0 12d1265+3700 97d10+100 6d11+27 17
+-32 -32 -32 -26
+FHK 0 0 L
+9 9 2 436
+ACGHMV ABCDEFGHIJKMOQUV M unknown
+#14153
+giant magog~
+Magog the Giant~
+The rogue giant Magog stands here waiting to follow orders from the monarchy.
+~
+At least twice the size of a normal man Magog is truly a giant.  Great
+shoulders lift up a head covered in blunt brutish features.  His hands look
+large and strong enough to crush an mans head with ease.  Some thing about
+the eyes and the down cast mouth show a great sadness about Magog, maybe
+theres some truth about the tales of him being castrated in his youth.  
+~
+Giant~
+A 0 -34 S
+97 0 12d1265+3700 97d10+100 6d11+27 8
+-32 -32 -32 -26
+CK 0 HI JP
+9 9 0 436
+AHMV ABCDEFGHIJK L unknown
+#14154
+nadezhda nymph~
+Nadezhda~
+The water nymph Nadezhda waits here for her next catch.
+~
+Beautiful to behold and with a voice like music Nadezhda has a strange
+quality about her, this is backed up by stories that she is from another
+realm.  Stories backed up by her pale looks and the blue tint to her
+flawless skin.  Eyes like ice look out of a face adorned by a half smile
+that could melt snow.  She seems to move with both power and purpose she
+wishes it.  Though beautiful she also seems very dangerous like the sea. 
+Now she has cast her lot in with the monarchy and hunts down there enemies
+what happens to the ones she catches and does not kill no one knows.  
+~
+Nymph~
+A O 69 S
+95 0 12d1182+3558 95d10+100 6d10+29 16
+-30 -30 -30 -25
+FIKN 0 0 0
+9 9 2 427
+ACGHMV ABCDEFGHIJKMQUV M unknown
+#14155
+danan dugald~
+Dugald the Danan~
+The bounty-hunter Dugald, once commander of the Danan war host is here, awaiting orders.
+~
+Dugald once the commander of Lord Tuans host, now works as a
+bounty-hunter for the monarchy after he was disgraced.  He moves about with
+both purpose and force, more like a caged animal than any thing else.  His
+face is masked by a constantly changing glamour making it all but impossible
+to see his features.  Strong arms swing with force as he paces back and
+forth awaiting orders so he can act.  
+~
+Faerie~
+A JO 69 S
+95 0 12d1182+3558 95d10+100 6d10+29 17
+-30 -30 -30 -25
+FHK 0 B 0
+9 9 1 427
+AHMV ABCDEFGHIJK M unknown
+#14156
+gaius sellsword~
+Gaius Sellsword~
+Gaius known as Sellsword by some stands here on the off chance of gaining the reward of any passing criminal.
+~
+Before you stands the strong figure of the human Gaius, long black hair
+narrow waste that flares out above into a massive chest.  His face is clean
+shaven and would be unremarkable apart from a beak-like nose.  Stories are
+told in some of the dock-side taverns that Gaius works as a bounty-hunter to
+help pay for some of his more unusual appetites.  
+~
+Human~
+A 0 -43 S
+93 0 12d1102+3418 93d10+100 6d10+27 17
+-29 -29 -29 -24
+EIK 0 0 0
+9 9 1 418
+AHMV ABCDEFGHIJK M unknown
+#14157
+hereweald cursed dwarf~
+Hereweald the Cursed~
+The dwarf Hereweald is here making his money by hunting law breakers.
+~
+As you look upon Hereweald you notice his eyes glow with a strange an
+unholy light.  Outcast from his clan due to being possessed by a demon he
+now tries to make his living by hunting down criminals.  His hair has been
+spiked using pig fat and dyed a bright red color and his beard shaven. 
+Through possessed his dwarven spirit still shines strongly at time.  
+~
+Dwarf~
+A J -789 S
+93 0 12d1102+3418 93d10+100 6d10+27 17
+-29 -29 -29 -24
+CK 0 CLQ R
+9 9 1 418
+AHMV ABCDEFGHIJK M unknown
+#14158
+jobez seeker spirit~
+Jobez the Seeker~
+Jobez the Seeker is a spiritfolk warrior attempting to bring law and order to this realm at any cost.
+~
+Before you stands a hooded and cloaked figure, nothing of the person can
+be seen, not even the feet as the figure seems to drift silently above the
+ground.  From what you have heard this could only be Jobez the Seeker, so
+named as he wishes to kill ever demon within this realm.  This wish started
+after his family where killed by chaos demon magic and now it is about all
+that draws him out of his shell.  Working for the monarchy seems to be a
+good place to seek chaos and its followers.  
+~
+Spiritfolk~
+A TU 687 S
+92 0 12d1064+3349 92d10+100 6d10+27 17
+-26 -26 -26 -24
+EFK 0 D CN
+9 9 1 414
+AHMV ABCDEFGHIJK M unknown
+#14159
+leubald~
+Leudbald~
+The bounty-hunter Leudbald is here looking tough and mean.
+~
+Weather harden skin can just be seen over a bushy beard.  Leudblad is
+said to spend most of his time out doors viewing those that dwell inside as
+weak, he is said to only enter a house when his job calls for it.  Numerous
+scars criss cross his skin left white against a deep brown back ground,
+showing he is no stranger to conflict.  Leudbald is a lone wolf by nature
+working only because he dislikes people doing what he considers wrong.  
+~
+Human~
+A 0 4 S
+92 0 12d1064+3349 92d10+100 6d10+27 17
+-26 -26 -26 -24
+CFK 0 0 0
+9 9 1 414
+AHMV ABCDEFGHIJK M unknown
+#14160
+haitorin laetitia~
+Laetitia~
+The charming furry form of Laetitia await here.
+~
+Once an adventurer, this attractive Haitorin decided to settle down with
+her mate.  Then the problem of money arose with the numerous kittens that
+they begot so Laetitia hit upon the idea of working as a bounty-hunter.  She
+seem happy with this arrangement as it gives her a little excitement but
+still time for her family.  
+~
+Haitorin~
+A VZ -6 S
+92 0 12d1064+3349 92d10+100 6d10+27 17
+-26 -26 -26 -24
+EFHIK 0 P H
+9 9 2 414
+ACGHMV ABCDEFGHIJKMQUV M unknown
+#14161
+powle ~
+Powle the Spear~
+Here stands Powle the Spear so called because of his devotion to the monarchy.
+~
+With the crowning of King Tanos, Powle dedicated his life to the
+monarchy.  He himself came up with the title of spear as he views that he
+will fly at any target that is chosen for him.  Long black hair covers his
+one eyed, bearded head giving him the look of some kind of wild man.  
+~
+Human~
+A 0 35 S
+90 0 12d991+3214 90d10+100 5d11+28 17
+-25 -25 -25 -23
+FIK 0 0 0
+9 9 1 405
+AHMV ABCDEFGHIJK M unknown
+#14162
+rhona~
+Rhona the Red~
+Rhona the Red paces here attempting to keep her self under control.
+~
+Before you stands Rhona the Red famed dwarven berserker, she has confined
+her wrath to the enemies of the monarchy for the time being.  Dyed red her
+forms a bright main around her cheery face, woven in to this are pieces of
+salt peter soaked hemp rope, which she lights in battle.  For a dwarf Rhona
+seems quite young and its easy to believe that what she most enjoys is
+fighting and drinking.  
+~
+Dwarf~
+A J 12 S
+90 0 12d991+3214 90d10+100 5d11+28 17
+-25 -25 -25 -23
+CDK 0 CLQ R
+9 9 2 405
+AHMV ABCDEFGHIJK M unknown
+#14163
+algar~
+Algar Alfredson~
+Algar the elven mage stands here awaiting orders from the monarchy.
+~
+Tall and thin almost to an unhealthy point Algar is a much troubled elf. 
+His father the councillor Alfred has banished him from there forest home
+lands for a matter that he will not discuss.  His wife slain by brigands,
+algar set out to make amends, to his mind the best solution seemed to be
+employment to the monarchy.  Algars strength at magic is said to be great
+and he could well be a formidable enemy.  
+~
+Elf~
+A J 59 S
+90 0 12d991+3214 90d10+100 5d11+28 17
+-25 -25 -25 -23
+EFK 0 B 0
+9 9 1 405
+AHMV ABCDEFGHIJK M unknown
+#14164
+hamite ghost~
+Hamite the Dead~
+Here is the ghost of Hamite the Dead, cursed to fulfill his pledge to the monarchy of long ago.
+~
+In life Hamite was the commander of the Kings Guards a job he failed to
+fulfill at an important time.  For this the king prayed to the gods and
+Hamite was cursed so that after his death he could be called upon to aid
+those of the crown.  Now a shade he has little will of his own, only being
+able to do the simplest things without command.  
+~
+Ghost~
+A TU -47 S
+90 0 12d991+3214 90d10+100 5d11+28 30
+-25 -25 -25 -23
+EFK 0 AD CN
+9 9 1 405
+CIKLM ABCDEFGHIJKLM M unknown
+#14165
+Inigo Stonehide~
+a gargoyle~
+The Gargoyle Inigo Stonehide perches here waiting to catch a criminal.
+~
+Hard grey skin covers Inigo's body giving the impression of rock, a face
+that not even his own mother could love tops a powerful body.  Inigo works
+as a bounty-hunter as few can bare to gaze upon him without feeling ill. 
+This is a job he's ideally suited to due to his great patience.  
+~
+Gargoyle~
+A OTZ 100 S
+63 0 11d321+1694 63d10+100 5d8+18 9
+-15 -15 -15 -12
+CFIK J L KS
+9 9 1 283
+ACGHMVXc ABCDEFGHIJKLOPUVW M unknown
+#14166
+baronial guard~
+a baronial guard~
+A person wearing the colors of the Xian barony stands here on guard.
+~
+Once a city guard of Xian but now better trained and employed by the
+baron this person proudly wears the colors of Xian.  Quite well built and
+with a keen eye and intellect, it is not surprising that a job with greater
+pay was won.  
+~
+Human~
+A 0 48 S
+25 0 8d48+400 25d10+100 3d5+7 17
+0 0 0 2
+I 0 B 0
+9 9 3 112
+AHMV ABCDEFGHIJK M unknown
+#14167
+haitorin baronial guard~
+a haitorin guard~
+Here is a Haitorin paid as a baronial guard, happily wearing the colors of Xian.
+~
+Strength a power seem to flow from this mighty feline as it stands here
+its nose twitching.  The gold and black striped fur body contrasts well with
+the colors of the Xian barony that it has been hired as a guard for.  This
+guard seems to move with an almost un-natural speed at times when it sees
+some thing that catches its eye.  
+~
+Haitorin~
+A VZ -31 S
+50 0 10d167+1149 50d10+100 5d6+13 5
+-9 -9 -9 -7
+FHIK 0 BP HL
+9 9 3 225
+ACGHMV ABCDEFGHIJKMQUV M unknown
+#14168
+baronial guard arestas lacerti~
+Arestas the cleric~
+A wise-looking lacerti paid to work as a baronial guard stands here, contemplating.
+~
+A large frilled head tops a powerful looking body of this lizard
+creature.  This is Arestas hired as a guard by the baron of Xian.  Motes of
+light shine from his claws as he moves his hand back and forth.  A long robe
+covers most of his body apart from the hands, head and tail.  Clean scales
+have been polished to a glimmering shine that is a far cry from his swamp
+dwelling relatives.  
+~
+Lacerti~
+AN H -58 S
+75 0 11d551+2303 75d10+100 5d9+24 10
+-19 -19 -19 -17
+CFK L 0 I
+9 9 1 337
+ACGHMVXc ABCDEFGHIJKLMPQUVX M unknown
+#14169
+clodagh sorceress~
+a sorceress~
+The nymph sorceress Clodagh stands here, looking bored.
+~
+Hired by the baron of Xian for aid in the magical arts Clodagh fines her
+self quite bored, but the pay and respect are good.  Her long blond her
+falls down to her ankles like water cascading.  Her pale skin seems to have
+a hint of blue about it which is reflected in her enchanting blue eyes.  Her
+figure like most of her kinds is beautiful to say the least.  
+~
+Nymph~
+AO OV -7 S
+75 0 11d551+2303 75d10+100 5d9+24 16
+-19 -19 -19 -17
+FKN C 0 0
+9 9 2 337
+ACGHMV ABCDEFGHIJKMQUV M unknown
+#14170
+jailor torturer masked hooded~
+a masked jailor~
+Both masked and hooded, the jailor come torturer, waits here for her next job.
+~
+Long dark robes cover all of the body and legs of the torturer of Xian. 
+Black leather gloves cover the hands and a face mask of the same material
+hides the face.  When she moves it is with great care and purpose now and
+then slipping in and out of the world.  
+~
+Spiritfolk~
+A TU -500 S
+40 0 10d98+804 40d10+100 4d7+10 17
+-5 -5 -5 -3
+FK Q D CN
+9 9 2 180
+AHMV ABCDEFGHIJK M unknown
+#14171
+maid servant~
+a servant~
+A maid goes about her business with little enthusiasm.
+~
+The maid seems bored by the routine of cleaning the house.  Her hands
+have become a red color from all the scrubbing of the white wood work to
+keep it clean.  She mutters to herself about getting a better job as she
+goes about her work.  Some thing in her eyes tells you she will never leave
+this job.  
+~
+Spiritfolk~
+ACV TU 60 S
+10 0 3d23+120 10d10+100 2d3+2 0
+6 6 6 6
+0 0 D CN
+9 9 2 45
+AHMV ABCDEFGHIJK M unknown
+#14172
+Ambrinia~
+Ambrinia the kind~
+The kind and gracious Ambrinia is here, ready to aid those in need.
+~
+A young woman with bright amber-colored eyes sits here, waiting for those
+in need of healing to seek her services.  Wisps of red-black hair frame her
+face, escaping the pony tail at the top of her head that leaves her
+tumultuous curls to fall to the middle of her back.  She is lean and soft
+looking, covered in smooth skin that is flushed pink in places, such as over
+her cheek bones.  
+~
+Human~
+ABTW 0 0 S
+50 0 10d167+1149 50d10+100 5d6+13 16
+-9 -9 -9 -7
+0 BLQ 0 0
+9 9 2 225
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#14150
+fine saber~
+a fine saber~
+A saber that seems to have been very well crafted lays here. The hilt of this sword has been set with moonstones that glint in the
+light. ~
+silver~
+5 BG AN 0
+A CD E AB D
+100 10 500 P
+0 C
+#14151
+dagger bloodletter~
+a dagger called "Bloodletter"~
+Light glints off the serrated blade of this dagger called "Bloodletter."~
+steel~
+5 BG AN 0
+B CD E ABD J
+100 5 500 P
+0 B
+#14152
+throb pole ice~
+a pole of ice~
+A long pole crafted from ice throbs with freezing energy as it lays here.~
+mithril~
+5 B AO 0
+D BC ABD ABC B
+34 4 170 P
+A
+12 30
+0 C
+#14153
+great spiked club~
+a great spiked club~
+A huge spiked club that looks like the best bit of a small tree lies here.~
+wood~
+5 0 AN 0
+C ACD BCD D 0
+95 30 475 P
+A
+19 5
+0 D
+#14154
+acidic net~
+an acidic net~
+Arcane forces crackle about the net that has been discarded here.~
+cloth~
+5 GI AN 0
+0 BCD CD ABCDE I
+90 35 450 P
+0 C
+#14155
+spear fire-storm~
+"Fire-storm," the spear~
+A heavy-looking spear blazes here with an eternal flame.
+This flame seems to need neither fuel or aid to burn, it seems to almost
+be speaking......  Say the word "fire storm".~
+steel~
+5 G AN 0
+AB BCD CD ABD A
+90 50 450 P
+A
+19 1
+A
+18 2
+0 C
+#14156
+great axe~
+a great axe~
+A large and cruel looking axe of the type used to take heads has been left here.~
+steel~
+5 0 ANP 0
+AC BCD CD ACE F
+90 20 450 P
+A
+1 1
+A
+13 40
+0 D
+#14157
+cross bow dark~
+a dark cross bow~
+A cross bow made of some dark throbbing metal has been left here.~
+steel~
+5 BJ ANP 0
+0 BCD CD ABD F
+90 30 450 P
+A
+19 2
+A
+18 2
+0 B
+#14158
+glowing whip~
+a glowing whip~
+A glowing whip of force seems to curl and twitch almost as if seeking blood on its own as it lays here.~
+leather~
+5 IK AN 0
+ABC BCD CD AB J
+90 15 450 P
+A
+13 10
+A
+12 20
+0 0
+#14159
+leubalds machete~
+a heavy machete~
+A machete with the name Leubald inscribed upon the blade has been dropped here.~
+iron~
+5 G AN 0
+A BCD CD AB D
+90 10 450 P
+0 0
+#14160
+fighting claw~
+a fighting claw~
+Five wicked blades extend from the wrist mount of a set of fighting claws that have been left here.~
+steel~
+5 0 AN 0
+0 BCD CD BCE J
+90 5 450 P
+A
+19 1
+A
+18 1
+0 BCD
+#14161
+spear powle shines shining~
+a shining spear~
+A spear shines brightly here, an inscription upon the haft bears the name Powle.~
+steel~
+5 A AN 0
+AB BCD CD ABD 0
+90 20 450 P
+A
+13 20
+A
+18 1
+A
+19 1
+0 0
+#14162
+bloody axe~
+a blood covered axe~
+An axe lays here with blood seeping from it constantly, you cant help but wonder who has left this bloody weapon.~
+steel~
+5 G ANP 0
+AC BCD CD ACE F
+90 50 450 P
+A
+19 4
+0 CD
+#14163
+flail light~
+a glowing flail~
+A flail with three heads of glowing light has been discarded here.~
+steel~
+5 AG AN 0
+BC BCD CD ABE 0
+90 34 450 P
+A
+18 2
+A
+19 2
+0 0
+#14165
+huge morning star~
+a HUGE morning-star~
+A morning-star of truly massive size and weight has been discarded here.~
+steel~
+5 0 ANP 0
+BC BD CD D 0
+63 60 315 P
+A
+13 100
+0 DE
+#14166
+white spear~
+a white shafted spear~
+A spear with the shaft painted white and what looks like a gold dragon grasping the blade has been left here.~
+steel~
+5 0 AN 0
+AB BC D ABD 0
+25 45 125 P
+A
+13 5
+A
+19 1
+0 0
+#14167
+dragon hammer~
+a dragon headed hammer~
+As you carefully view the head of the hammer, which is in the shape of a dragon's head, you see that the mouth opens and closes on
+its own.  It seems to have a thirst for blood.  ~
+steel~
+5 G AN 0
+C D CD BD 0
+50 40 250 P
+A
+18 1
+A
+19 2
+E
+mouth~
+
+~
+0 0
+#14168
+cruel pole-axe~
+a cruel pole-axe~
+Twin headed and cruel curves to the blades make this pole-axe look formidable even laying on the floor.~
+steel~
+5 AB ANP 0
+D ABD ACD ACE F
+75 30 375 P
+A
+18 2
+A
+19 3
+0 CD
+#14169
+bladed chain tri~
+a tri-bladed chain~
+Three razor sharp blades have been connected to a four foot length of chain, which someone has left here.~
+steel~
+5 G AN 0
+BC ABD ACD AB J
+75 4 375 P
+A
+13 35
+0 0
+#14171
+scourge shocking~
+a shocking scourge~
+A scourge hums with blue energy arcing from it at random is here.~
+leather~
+5 B AN 0
+ABC ABC ABD CDE H
+40 10 200 P
+A
+12 30
+0 0
+#14172
+mansion key~
+xian mansion key~
+A key with the word Xian printed on it lays here.~
+steel~
+18 W AO 0
+0 0 0 0 0
+1 0 50 P
+0 0
+#14173
+large master bed~
+a large master bed~
+A large four poster bed looks extremely comfortable and warm.~
+wood~
+12 R 0 AEIJMQ
+0 0 0 0 0
+0 0 0 P
+0 0
+#14174
+mithril ring~
+a mithril ring~
+This plain ring is made of mithril.~
+mithril~
+8 BHMU AB 0
+0 0 0 0 0
+1 1 1000 P
+0 0
+#14175
+ornate Xian ring~
+an ornate Xian ring~
+An ornate ring with the insignia of Xian, sits here.~
+steel~
+27 0 AB 0
+AC AC AC A 0
+20 0 500 P
+A
+12 20
+A
+13 20
+0 0
+#14176
+dragon carved fountain~
+a dragon carved fountain~
+A pair of fountains carved with dragons stand either side of the doorway.~
+stone~
+25 R 0 DHP
+0 0 0 0 0
+0 0 0 P
+0 0
+#14177
+heavy chest~
+a heavy chest~
+A heavy chest is here.~
+wood~
+15 0 0 0
+EIJKN ACD CDEGIJKMN 0 0
+0 0 0 P
+0 0
+#14178
+pillow cushions feathers~
+a feather-stuffed cushion~
+Cotton covered cushions stuffed with feathers have been scattered around here.~
+cotton~
+12 RX 0 AEIQ
+0 0 0 0 0
+0 0 0 P
+H E
+#0
+
+
+
+#ROOMS
+#14150
+A Tasteful Hall~
+A long hall constructed of some kind of veined white stone has been
+fashioned with a high vaulted sealing.  Great arches flow up from mock
+columns made from the same white stone seeming to give an almost church like
+feel to this hall.  To the north a set of great oaken doors stand which must
+be fully eight feet in height.  The hall continues to the south and discreet
+doors of some almost white wood are set into both the east and west walls.  
+~
+0 1048588 0
+D0
+~
+~
+1 14172 14172
+D1
+~
+~
+1 0 14153
+D2
+~
+~
+0 0 14151
+D3
+~
+~
+1 0 14156
+S
+#14151
+A Tasteful Hall~
+Smooth white veined walls decorated with flowing mock pillars form a
+tunnel like corridor.  Carvings of gilded golden dragons decorate the walls
+between the columns and subdued white doors, which are set into both the
+eastern and western walls.  To the north the hall continues and to the south
+a great sweeping staircase can be seen.  
+~
+0 1048584 0
+D0
+~
+~
+0 0 14150
+D1
+~
+~
+1 0 14154
+D2
+~
+~
+0 0 14152
+D3
+~
+~
+1 0 14157
+S
+#14152
+Sweeping Stairs~
+An impressive curved staircase has been constructed here to allow ascent
+and descent from the floor above.  Each of the steps must be at least eight
+feet across and are constructed so that each step is no more than four
+inches high.  Gilded dragons support the wide white banisters.  The hall
+leads north and the stairs head up.  
+~
+0 1048584 0
+D0
+~
+~
+0 0 14151
+D4
+~
+~
+0 0 14159
+S
+#14153
+A Reception Area~
+This room has been made for people to wait.  Seating of all types have
+been scattered around, some in small groups and other on there own. 
+Pictures have been placed upon the walls so that a guest can have something
+of interest to look at while waiting.  Pale wooden doors have been set into
+the western and southern walls.  The seats seem to have been made for all
+creatures to be able to wait in comfort.  
+~
+0 1048584 0
+E
+pictures~
+The pictures seem to be of dragons, gold being most common.
+~
+D2
+~
+~
+1 0 14154
+D3
+~
+~
+1 0 14150
+S
+#14154
+Study~
+The walls of this room are covered in books on all sort of subjects. 
+Four large padded chairs have been placed in here so that a great degree of
+comfort can be obtained when reading one of the tomes.  A small dark wooden
+table sits close to the southern most of the chairs.  Red velvet covered
+doors are located on the northern, southern and western walls.  
+~
+0 5242888 0
+D0
+~
+~
+1 0 14153
+D2
+~
+~
+1 14172 14155
+D3
+~
+~
+1 0 14151
+S
+#14155
+Meeting Chamber~
+This room appears to be set out for meetings, two large chairs are placed
+upon a slight dais on the southern most wall and six chairs are place facing
+them.  The walls of the room are decorated with pictures in gilded frames of
+various sizes.  The only door from this room is to the north.  
+~
+0 1048584 0
+E
+dais~
+The dais seems to move.
+~
+E
+pictures~
+The pictures are of dragons in numerous poses.
+~
+D0
+~
+~
+1 14172 14154
+D5
+~
+dais~
+7 0 14168
+S
+#14156
+A Ballroom~
+The most striking thing about this room is the massive crystal chandelier
+set high above the clear dance floor.  High backed chairs are located around
+the out side edges of this room.  The floor is crafted from a red wood that
+has been highly polished.  Doors are set into the eastern and southern
+walls.  The western wall has a large glass window set into it this is
+covered by an attractive iron vine work covering.  
+~
+0 1048584 0
+D1
+~
+~
+1 0 14150
+D2
+~
+~
+1 0 14157
+S
+#14157
+Dining Room~
+This room is dominated by a huge table set with numerous chairs.  Small
+chandeliers dot the high sealing of this room and to the west a large window
+looks out over the grounds, this window is covered by an iron vine work
+covering.  Pale wooden doors are set into the eastern, northern and southern
+walls.  Pictures of great dragons are placed at equal intervals about the
+walls with door set into them.  
+~
+0 1048584 0
+D0
+~
+~
+1 0 14156
+D1
+~
+~
+1 0 14151
+D2
+~
+~
+1 0 14158
+S
+#14158
+Kitchen~
+Great ovens and tables fill this room.  The smell of cooking foods mixes
+with the steam from boiling pots to create a mouth watering fog.  Cupboards
+cover the walls to contain the equipment needed to make the delights that
+are concocted here.  A pale wooden door is set into the northern wall and a
+small spiral staircase heads upwards.  
+~
+0 1048584 0
+D0
+~
+~
+1 0 14157
+D4
+~
+~
+0 0 14160
+S
+#14159
+Landing~
+This is the top of a great sweeping staircase, looking down a pale hall
+can be seen and looking northwards a similar hallway can also be seen. 
+Carvings of gilded dragons decorate the white veined walls.  To the west a
+small pale wooded door stands.  While to the east a larger set of double
+pale wooden doors stand.  
+~
+0 1048584 0
+D0
+~
+~
+0 0 14162
+D1
+~
+~
+1 0 14161
+D3
+~
+~
+1 0 14160
+D5
+~
+~
+0 0 14152
+S
+#14160
+Servants Quarters~
+Countless two level beds and small chests fill this room, every thing is
+clean if some what impersonal.  A set of stairs head downwards and a small
+pale door is set into the eastern wall.  Smooth wooden paneling covers the
+walls so as to aid in cleaning.  
+~
+0 1048584 0
+D1
+~
+~
+1 0 14159
+D5
+~
+~
+0 0 14158
+S
+#14161
+Guest Bedroom~
+Large and spacious this bed room seems big enough for a small family but
+is set up for only a couple at most judging from the single massive four
+poster bed.  Two night stands are positioned to either side of the four
+poster.  A large wardrobe is placed upon the northern wall.  A set of pale
+double doors are positioned upon the western wall.  
+~
+0 34603016 0
+D3
+~
+~
+1 0 14159
+S
+#14162
+Hall~
+Pale white veined walls form a peaceful hallway.  Gilded dragons decorate
+the walls possibly in an attempt to share there majesty with the building. 
+Two large sets of double doors are set into the western and eastern walls. 
+The pale hallway continues to the north, to the south some distance off a
+grand set of stairs can be seen.  
+~
+0 1048584 0
+D0
+~
+~
+0 0 14163
+D1
+~
+~
+1 0 14164
+D2
+~
+~
+0 0 14159
+D3
+~
+~
+1 0 14165
+S
+#14163
+The end of the Hall~
+The white pale hallway ends here in a great stained glass window
+depicting a great golden dragon holding it own tail in its jaws.  To the
+east an archway stands with a single pale door set into it, above the door
+two dragons fighting have been carved.  While to the west a set of pale
+wooden double door stand.  
+~
+0 1048584 0
+D1
+~
+~
+1 0 14166
+D2
+~
+~
+0 0 14162
+D3
+~
+~
+1 0 14167
+S
+#14164
+Guest Quarters~
+This large room is dominated by a large four poster bed.  Placed to
+either side of the bed are night stands upon which pitchers of water have
+been placed.  Wardrobes and chests have been left so that a guest can place
+personal things in safety and with ease.  There are a set of double doors
+positioned upon the western wall.  
+~
+0 34603016 0
+D3
+~
+~
+1 0 14162
+S
+#14165
+Guards Quarters~
+This room is filled with single beds neatly made.  At the foot of each
+bed a single chest has been placed and above each one a rack is set for
+holding weapons and armor.  The room seems to have been kept in good order
+with the pale veined stone walls being scrubbed to a gleam.  A set of stout
+double doors in the east wall are the only visible entrance or exit to this
+room.  
+~
+0 1048584 0
+D1
+~
+~
+1 0 14162
+S
+#14166
+Multiple Quarters~
+This large room has been arranged so that many people can stay in
+comfort.  Four large well stuffed beds have been placed in each corner of
+this room.  Tracking set into the sealing allows for curtains to be drawn so
+that each person or persons using a bed can gain some degree of privacy.  At
+the foot of each bed a large carved chest has been placed.  A set of double
+doors in the western wall seems to be the only way in or out of this room.  
+~
+0 34603016 0
+D3
+~
+~
+1 0 14163
+S
+#14167
+Master Bedroom~
+This room contains a large four poster bed, placed up against the
+northern wall.  Upon the western wall a massive oaken desk has been placed
+with a well stuffed chair in front of it.  Two wardrobes have been placed
+upon the southern wall and in between them racking for the storage of
+weapons and armor.  An alcove in the north wall a small distance from the
+bed holds a statue.  An arch way set into the eastern wall holds the door to
+this room above which a carving of two dragons fighting stands.  
+~
+0 34603016 0
+E
+statue~
+This exquisite statue seems to be of a lovely woman with short cut hair. 
+The base of which has been crafted into the alcove.  
+~
+D1
+~
+~
+1 0 14163
+S
+#14168
+A Dingy Room~
+Smoke blacken rock walls seem to give a false impression of age to this
+room.  The method by which the walls have been assembled seems to be modern.
+A single wooden table stands at the center of the hard black stone floor
+with two chairs behind it there backs to a solid iron door that has been set
+into the north wall.  To the south and west iron doors with small grills at
+the bottom have been set.  An iron ladder has been set in to the north
+western wall leading up.  
+~
+0 1048584 0
+D0
+~
+~
+1 0 14170
+D2
+~
+~
+1 0 14171
+D3
+~
+~
+2 14172 14169
+D4
+~
+~
+7 0 14155
+S
+#14169
+Cell~
+Cold and devoid of furniture this rooms only adornments are steel rings
+set into the roof, floor and walls.  A small amount of light could filter
+though the grill in the bottom of the formidable iron door set into the
+eastern wall.  
+~
+0 1056777 0
+D1
+~
+~
+2 0 14168
+S
+#14170
+Vault~
+Hooks and pegs cover the walls of this room, with sac's and bags attached
+to them.  Strong looking iron bound chests are placed tidily under long
+wooden tables.  Racking is also in evidence so that armor and weapons can be
+stored with out risk to there substance.  A heavy iron door stands guard to
+the south.  
+~
+0 135266312 0
+D2
+~
+~
+1 0 14168
+S
+#14171
+Chamber of Horrors~
+A fully equipped torture chamber is here.  A large table with steel rings
+at both the top and bottom stands next to the rack.  An iron maiden snuggles
+comfortably next to a selection of whips, pincers and branding irons.  Thumb
+screws hang next to iron boots.  A brazier gives an almost pleasant warmth
+until the knowledge of what it will used for springs to mind.  The only
+escape route from this room seems to be an iron door to the north.  
+~
+0 1048584 0
+D0
+~
+~
+1 0 14168
+S
+#14172
+Outside A White Stone Mansion~
+To the south a two story white stone building can be seen, two large
+oaken doors bar entrance to the building.  Above the double doors a stained
+glass window depicting a golden dragon grasping its own tail in its mouth
+can be seen.  To the north a gravel drive cuts cleanly though the garden,
+this gravel path flows around the house to both the east and west.  To the
+west a large slate roofed out building can be seen though the garden.  Bees
+and other small insects seem happy spending there lives in the various
+flower beds, these small creatures produce a relaxing melody here.  
+~
+0 4 2
+D0
+~
+~
+0 0 14178
+D1
+~
+~
+0 0 14177
+D2
+~
+~
+1 14172 14150
+D3
+~
+~
+0 0 14173
+S
+#14173
+A Garden Path~
+A gravel path snakes its way between flower beds and small shrubs, the
+heady scent of the flowers permeates every where.  Off to the west a large
+out building can clearly be seen.  The path leads up to the double doors of
+this structure and also to the south around the house.  
+~
+0 0 2
+D1
+~
+~
+0 0 14172
+D2
+~
+~
+0 0 14175
+D3
+~
+~
+1 0 14174
+S
+#14174
+Stables~
+The large out building seems to have been built for the housing of
+various riding creatures.  Large stalls have been constructed so that both
+horses and larger beasts can be kept here in comfort.  Pegs and hooks set
+into the walls hold all manner of tack and other equipment.  The only exit
+seems to be a set of large double doors to the east.  
+~
+0 8 0
+D1
+~
+~
+1 0 14173
+S
+#14175
+A Garden Path~
+The garden path passes close to the west side of house here.  Large glass
+windows covered by iron vine work screens can be seen showing both the
+dining room and the ballroom.  Flowers and trees have been planted so that
+the view from inside must be fantastic.  To the north and west a large out
+building of some type can be seen while the path continues to the north and
+east.  
+~
+0 0 2
+D0
+~
+~
+0 0 14173
+D1
+~
+~
+0 0 14176
+S
+#14176
+A Garden Path~
+This area of the garden seems to be over run at first sight but upon
+closer inspection it seems that wild flowers have been planted with great
+skill to give that impression.  Trees have been carefully trained, over many
+years, so that they give shade over moss covered rocks.  The gravel path
+continues to both the north and west in a gentle curving manner.  
+~
+0 0 2
+D0
+~
+~
+0 0 14177
+D3
+~
+~
+0 0 14175
+S
+#14177
+A Garden Path~
+Gravel crunches under foot.  Bees and other small insects flit happily
+from flower to flower.  This area seems to be at peace with its self.  It is
+tricky to tell if some natural energy gives this feeling or if its due to
+careful construction.  The gravel path heads both west and south.  To the
+west what maybe the entrance to the house maybe seen and further to the west
+some kind of out building can also be seen.  To the east a grass and cobble
+path leads into a stand of trees.  
+~
+0 0 2
+D2
+~
+~
+0 0 14176
+D3
+~
+~
+0 0 14172
+S
+#14178
+Citadel Way~
+A wide sweeping gravel path leads though raised flower beds.  To the
+south a large white stone building can be seen a little way off.  Birds sing
+happily in the trees feeding on the insects that are drawn to the flowers. 
+The over all mix of scents from the flowers is quite nice if that sort of
+thing appeals.  
+~
+0 0 2
+D0
+~
+~
+0 0 1601
+D2
+~
+~
+0 0 14172
+S
+#14179
+Circle of Xian~
+Thirteen clean-cut stone blocks have been set here forming a circle of 
+power.  Carved deep into the rock of the standing stones runes of recall 
+have been crafted.  Surrounding the standing stones a screen of fast growing 
+pine trees have been placed through these to the west a white stone building 
+can just be seen.  A wooden sign has been placed to one side of the grass 
+path to the west.  A stone building can be seen to the south, its entrance 
+marked with an ornate wooden door.  Above the door, the words 'Ambrinia's 
+Sanctuary' are engraved and highlighted in golden paint.  
+~
+0 0 2
+E
+sign~
+This recall point has been paid for by the fair people Xian.  Please
+respect the laws of our town.  
+~
+E
+runes~
+The powerful runes of recall still glow with a faint blue light.  These
+runes are part of the mage spell that permits transport here.  
+~
+D2
+~
+~
+1 0 14180
+D3
+~
+~
+0 0 667
+S
+#14180
+Ambrinia's Sanctuary~
+The plain stone floor has been covered in a large rug with a design of
+knot work in white thread through its thick green weave.  Cushions made of
+feathers and cotton covers have been scattered around the middle of the
+chamber, located beneath a large iron chandelier that holds some candles. 
+The stone walls have had sconces set into them to hold the torches that
+provide even more illumination.  Set against the walls of the chamber are a
+few comfortable-looking couches and chairs, made of a soft furry material
+and stuffed to overfull.  Fountains have been built into the wall on either
+side of the doors, with cool, clean water spilling out of an ornately carved
+dragon's head into a basin below.  
+~
+0 34603020 0
+D0
+~
+~
+1 0 14179
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 14152 spec_cast_mage Load to: Ingrid the tervadi
+M 14155 spec_cast_mage Load to: Dugald the Danan
+M 14157 spec_cast_cleric Load to: Hereweald the Cursed
+M 14158 spec_guard Load to: Jobez the Seeker
+M 14159 spec_guard Load to: Leudbald
+M 14160 spec_guard Load to: Laetitia
+M 14161 spec_guard Load to: Powle the Spear
+M 14162 spec_guard Load to: Rhona the Red
+M 14163 spec_guard Load to: Algar Alfredson
+M 14164 spec_guard Load to: Hamite the Dead
+M 14168 spec_cast_cleric Load to: Arestas the cleric
+M 14169 spec_cast_mage Load to: a sorceress
+M 14171 spec_janitor Load to: a servant
+S
+
+
+
+#RESETS
+D 0 14150 0 1
+D 0 14150 1 0
+D 0 14150 3 0
+D 0 14151 1 0
+D 0 14151 3 0
+D 0 14153 2 0
+D 0 14153 3 0
+D 0 14154 0 0
+D 0 14154 2 1
+D 0 14154 3 0
+D 0 14155 0 1
+D 0 14155 5 0
+D 0 14156 1 0
+D 0 14156 2 0
+D 0 14157 0 0
+D 0 14157 1 0
+D 0 14157 2 0
+D 0 14158 0 0
+D 0 14159 1 0
+D 0 14159 3 0
+D 0 14160 1 0
+D 0 14161 3 0
+D 0 14162 1 0
+D 0 14162 3 0
+D 0 14163 1 0
+D 0 14163 3 0
+D 0 14164 3 0
+D 0 14165 1 0
+D 0 14166 3 0
+D 0 14167 1 0
+D 0 14168 0 0
+D 0 14168 2 0
+D 0 14168 3 2
+D 0 14168 4 0
+D 0 14169 1 2
+D 0 14170 2 0
+D 0 14171 0 0
+D 0 14172 2 1
+D 0 14173 3 0
+D 0 14174 1 0
+D 0 14179 2 0
+D 0 14180 0 0
+M 0 14168 1 14154
+E 0 14168 0 16
+M 0 14171 2 14157
+M 0 14171 2 14160
+M 0 14169 1 14165
+E 0 14169 0 16
+O 0 14173 0 14167
+M 0 14170 1 14168
+E 0 14171 0 16
+M 0 14166 2 14173
+E 0 14166 0 16
+M 0 14167 2 14175
+E 0 14167 0 16
+M 0 14167 2 14176
+E 0 14167 0 16
+M 0 14166 2 14177
+E 0 14166 0 16
+O 0 14178 0 14180
+M 0 14172 1 14180
+O 0 14176 0 14180
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

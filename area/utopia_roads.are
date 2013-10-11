@@ -1,0 +1,728 @@
+#AREADATA
+Name { ALL } RODCo   Utopian Roads~
+Builders Kijan Acrith~
+VNUMs 4401 4500
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#4401
+old man~
+an old man~
+Sitting in a wooden chair is an old man.
+~
+A small decrepit old man with a medium length ginger beard which looks 
+scruffy, he has dark brown eyes and what looks like a strong build though 
+this has become ravaged by the years.  He leans forward to warm his hands at 
+a small fire in the hut.
+~
+human~
+AB 0 0 0
+35 0 10d76+654 140d10+100 4d6+9 digestion
+-3 -3 -3 -1
+0 0 0 0
+(null) (null) female 157
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#4401
+Wooden Chair~
+a small wooden chair~
+A small wooden chair sits against the cabin wall, in front of the fire.~
+wood~
+furniture R 0
+0 0 0 0 0
+0 800 0 P
+#4402
+Broken Wagon~
+a broken wagon~
+A large broken wagon is overturned here, there is grain inside.~
+wood~
+container R 0
+500 0 0 0 0
+0 500 0 P
+#4403
+Grain~
+some grain~
+A bunch of grain has been left here, piled haphazardly.~
+wheat~
+food 0 A
+D 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#4401
+A Grey Stone Road~
+The road here is made from grey stones that seem to lead from east to west.  
+At the south edge of this paved path, there is a grassy knoll the summit of 
+which reaches about three feet in height.  Behind the knoll is what seems to 
+be a thick forest, comprised of oaks and pines interspersed.  Meeting the 
+road at the north is an array of colours, many beautiful flowers protruding 
+from a grassy area that leads on to what is a forest.  
+~
+0 0 1
+E
+flowers~
+An array of flowers look very attractive and smell almost as beautiful.  
+~
+D1
+~
+~
+~
+0 0 4402
+D3
+~
+~
+~
+0 0 4017
+M 0 H 0
+S
+#4402
+A Grey Stone Road By A Stream~
+Dark green moss covers this grey stone path in small patches, the fungi
+emanating from the south of the lane due to a small stream running east
+through the woodland there.  The road runs parallel to this stream and to
+the north, a strip of grass separates the forest full of oaks and pine from
+this pathway.  Towards the east, the forest seems to becoming slightly less
+dense.  A small bridge stretches across the stream. 
+~
+0 0 1
+E
+stream~
+A stream comes from the south and turns to become parallel to the road
+flowing eastward, the water is very clear and occasionally a fish can 
+be seen darting around.
+~
+D1
+~
+~
+~
+0 0 4403
+D2
+~
+~
+~
+0 0 4422
+D3
+~
+~
+~
+0 0 4401
+M 0 H 0
+S
+#4403
+A Turn In A Grey Roadway~
+The grey roadway here is made from large stones covered heavily in a dark 
+green moss.  This section of paved track leads from east to west, a stream 
+running parallel to this walkway trickles slightly to the south of the lane. 
+To the north, it looks as if there is a clearing in the woodland and the 
+road continues to the east.  It would seem as though it leads to a small 
+glade with a hut.  
+~
+0 0 1
+D0
+~
+~
+~
+0 0 4404
+D1
+~
+~
+~
+0 0 4405
+D3
+~
+~
+~
+0 0 4402
+M 0 H 0
+S
+#4404
+A Corner Section Of A Grey Road~
+Thick trees and woodland cover the north and west of this dark grey stone 
+roadway.  A multitude of different animals and creatures can be seem at 
+different times at its edges, the majority of which scurry away as they see 
+you pass.  The grey stone road leads to the east and also to the south, 
+scattered over the concourse's surface are wood cuttings and bark chipping.  
+If you look into the forest to the north and west, you can see stumps of 
+what were once enormous trees.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 4407
+D2
+~
+~
+~
+0 0 4403
+M 0 H 0
+S
+#4405
+A Small Glade~
+Here is a near perfect circular glade of bright {ggreen{x grass which looks as 
+though it has been tended very carefully and thoroughly, the entrance to 
+this area is to the west.  To the north is group of trees, not too many in 
+number, through which you can see a grey road, though the undergrowth here 
+prevents movement to that direction.  To the south and east, a small 
+trickling stream runs round the glade behind which there is thick forest.  A 
+small hut made of logs is at the east of the glade, the entrance is open.  
+~
+0 0 3
+D1
+~
+~
+~
+0 0 4406
+D3
+~
+~
+~
+0 0 4403
+M 0 H 0
+S
+#4406
+Inside A Small Hut Of Logs~
+Faint illumination comes from a candle set upon a log round in the 
+north-western corner of this cabin combines with the flickering light of a 
+small fire built into a stone hearth to show the sparse furniture.  A simple 
+bed of straw is set close to the fireplace in the southern wall.  A few pegs 
+holding dirty looking clothes and a single chair make up the compliment of 
+this log hut's belongings.  The odour of wood smoke drifts about the room, 
+not unpleasant in nature, escaping to a forest clearing to the west that is 
+plainly visible though the broken doorway in that direction.  
+~
+0 8 0
+D3
+~
+~
+~
+0 0 4405
+M 0 H 0
+S
+#4407
+A Grey Roadway~
+A grey stone pathway leads east and west, the large grey rocks that makes up 
+the road seem to have been moved in certain places and roots of trees can be 
+seen at these points.  It would not be hard to conclude that the roots stem 
+from a large oak tree to the north of the road.  The wooden denizen also 
+seems to have something carved into it.  A thick mass of trees can be seen, 
+some of which have been knocked over by the power of the elements alone it 
+would seem.  
+~
+0 0 1
+E
+tree~
+~
+E
+tree~
+Etched into this huge oak tree is what would look like a heart above it is 
+the name Parvain below the heart is the name Rhianna.  Due to the growth of 
+the tree it isn't as neat as it might have been.  
+~
+D1
+~
+~
+~
+0 0 4408
+D3
+~
+~
+~
+0 0 4404
+M 0 H 0
+S
+#4408
+A Grey Road With A Stream Parallel~
+A small trickling stream runs to the south of a grey stone roadway, moss 
+erupting from that direction of the roadway where its edge meets the water.  
+Behind the brook, there is thick woodland of dark green, mostly comprised of 
+oak and hemlock.  To the north, there is a multitude of more large trees, 
+interspersed with small shrubs.  Stumps can been seen in this area also, 
+showing that those who use this road have been stealing wood from nature's 
+domain.  The road has exits to the east and west.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 4409
+D3
+~
+~
+~
+0 0 4407
+M 0 H 0
+S
+#4409
+The West Section Of A Bridge~
+A large grey paved track leads from east to west.  At both edges of the 
+path, there are large grey stones making a barrier to stop the people 
+travelling from falling from the road.  To the east, the roadway starts a 
+climb upwards as it forms a bridge to allow travel deeper into the heart of 
+this continent.  The small trickling stream which runs at the south of the 
+roadway seems to be turning to cross the concourse.  To the north, there is 
+a large thick forest which has small shrubs growing between the towering 
+trees.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 4410
+D3
+~
+~
+~
+0 0 4408
+M 0 H 0
+S
+#4410
+The Centre Of A Bridge~
+Large grey rocks make up this arching bridge, with immense stones making a 
+barrier to the north and south edges of it.  It is possible to see over the 
+wall, where picturesque images of a mixture of dark and light green thick 
+trees come into view, with a small stream trickling under the bridge.  To 
+the south, the water seems to be running west and to the north the it runs 
+eastwards.  This bridge leads from east to west.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 4411
+D3
+~
+~
+~
+0 0 4409
+M 0 H 0
+S
+#4411
+The East Section Of A Bridge~
+A large grey paved road leads from west to east, at both edges of its path 
+there are immense grey stones that make up a barrier that restricts easy 
+movement, but can be seen over.  To the west, the pathway start to climb 
+upwards and to the east it slants downwards.  The small trickling stream 
+which runs to the south of the roadway seems to be turning into the path 
+gradually.  To the north there is a large thick forest.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 4412
+D3
+~
+~
+~
+0 0 4410
+M 0 H 0
+S
+#4412
+A Grey Road With Small Stream~
+To the north, a small stream which seem to be opening out to a river runs 
+from east to west, flowing in parallel to this dark grey stone road.  On the 
+north part of the concourse, dark green moss is growing.  To the south, 
+there are many oak and hemlock trees mingling together, their foliage 
+becoming intertwined becomes very thick and impregnable.  The grey stone 
+track runs from east to west.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 4413
+D3
+~
+~
+~
+0 0 4411
+M 0 H 0
+S
+#4413
+A Grey Roadway~
+Large grey rocks make up this concourse, in the centre of which is a notably 
+large oak tree that seems to be flourishing unchecked.  To the south, there 
+is thick woodland area about five feet from the roadway with a patch of 
+grass separating the forest and the pathway.  To the north, a small river 
+flows from east to west, as does the grey paved track.  Moss grows on the 
+northern part of the track.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 4414
+D3
+~
+~
+~
+0 0 4412
+M 0 H 0
+S
+#4414
+A Grey Concourse With Field To The South~
+To the south of this road, which is made from grey stone slabs, there is a 
+wooden picket fence.  If you look through, you can see horses galloping 
+around a well cut field.  There are large gates for the horse to jump over, 
+as well as other obstacles, including mountains of bales of hay.  To the 
+north is a river which runs from east to west, the water of this stream 
+looks dirty and cloudy.  The road which runs from east to west has puddles 
+that seem to come from the northern stream.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 4415
+D3
+~
+~
+~
+0 0 4413
+M 0 H 0
+S
+#4415
+A Roadway With An Overturned Wagon~
+This road is made from large grey rocks and runs from east to west.  
+Off-centered from the main thoroughfare, there is a broken wagon which has 
+been overturned, and recently, by the looks of it.  There is no sign of the 
+horses that would have been here previously, though.  To the north, there is 
+a stream which is somewhat close to the road but it seems to be gradually 
+moving from the pathway as it trickles east.  To the south is thick dark 
+green forest, the woodland is dark and eerie noises are occasionally heard, 
+they come is the form of scratching and rustling sounds.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 4416
+D3
+~
+~
+~
+0 0 4414
+M 0 H 0
+S
+#4416
+Near a Poppy Field~
+The sweet smell of poppies radiates from the fields to the north and a large 
+sea of bright red can be seen as the blossoms look as though they are 
+merged.  Large grey stones make up the surface of this track, which leads 
+from the east and west.  To the south is a thick forest of large trees and 
+small plants, the foliage which makes up this woodland is in the process of 
+dying and seems to be a multitude of browns, reds and amber.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 4417
+D3
+~
+~
+~
+0 0 4415
+M 0 H 0
+S
+#4417
+An Uneven Grey Roadway~
+Large grey blocks make up this roadway and seem to be slightly uneven, the 
+stones not quite fitting together.  To the north, there is a large area of 
+woodland full of thick, huge trees and the foliage of brush woven together 
+to end up inhibiting access.  To the south, there is a small area of grass 
+with an array of flowers leading up to a rock face that is approximately ten 
+feet in height.  The concourse leads from east to west.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 4418
+D3
+~
+~
+~
+0 0 4416
+M 0 H 0
+S
+#4418
+A Broken Grey Road~
+There is an area in the middle of the road that is covered in mud that 
+contains less blocks of the grey stone used to create this pathway.  The 
+rest of the stones are irregularly fit together as well, as if the earth was 
+shifted after their careful construction.  To the north, a large field of 
+dark green grass appears, seeming to be populated by a heterogeneous mix of 
+sheep and lambs.  To the south, there is a thick forest that is separated 
+from the meadows by this east-west road.  
+~
+0 0 12
+D1
+~
+~
+~
+0 0 4419
+D3
+~
+~
+~
+0 0 4417
+M 0 H 0
+S
+#4419
+An Uneven Large Grey Road~
+This road is made from huge grey stone which are fitted together raggedly.  
+The concourse leads from east to west and is slightly precarious, making the 
+travel of this section more difficult.  To the north there is a field of 
+crops forming a sea of bright yellow created by the flowers of the plants 
+growing within it.  To the south, there is a large plowed field with birds 
+pecking up insects from the ground.  
+~
+0 0 12
+D1
+~
+~
+~
+0 0 4420
+D3
+~
+~
+~
+0 0 4418
+M 0 H 0
+S
+#4420
+Fenced-in Roadway~
+This roadway is made totally from large grey stones placed evenly together 
+runs from east to west.  A five foot fence meets the road to the north, 
+behind which is thin woodland with small shrubs growing in between large 
+trees.  The fence is continuous along the north of the road with no 
+entrance.  To the south is a large field which looks as though it has been 
+plowed recently, many birds cover the field pecking up any insects.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 4421
+D3
+~
+~
+~
+0 0 4419
+M 0 H 0
+S
+#4421
+Nearing a Pond~
+Large grey stones make up this concourse that leads from east to west.  A 
+huge pond can be seen to the south of the road, thick green murky water 
+filling it to the brim.  Reeds and lilies float within the expanse of 
+liquid, around which fish can be seen occasionally surfacing then sinking 
+quickly once more.  To the north is a forest of all different greens and 
+browns.  
+~
+0 0 1
+D1
+~
+~
+~
+0 0 20501
+D3
+~
+~
+~
+0 0 4420
+M 0 H 0
+S
+#4422
+A Bridge~
+Evenly spaced grey stones make up the bed of this bridge, pillars of the
+same stone rise up to support the bed at the top of which are ornately
+carved gargoyles.  Moss has started to flourish in the shelter of the stone
+work, the soft greenness looking slick to the touch.  A gentle gurgling
+sound drifts up from the flowing river that this viaduct crosses.  The
+scents of the forest drift from all around, a mixture of decomposition and
+perfumed blossoms. 
+~
+0 0 0
+E
+gargoyles~
+These stone carvings depict leering demons, their visages truly
+disgusting as they stick fingers in their ears and poke tongues from between
+rock lips in an attempt to be frightening.  
+~
+D0
+~
+~
+~
+0 0 4402
+D2
+~
+~
+~
+0 0 4423
+M 0 H 0
+S
+#4423
+On the Road~
+Grey stone cleaves through the tightly knit ash and poplar that stand to
+either side of the road.  The blocks of grey are fitted neatly, cut to
+interlock perfectly, their surface only marred by a scattering of dry
+leaves.  Creepers weave between the trees, their thorn-studded vines thick
+and dangerous-looking.  Moving through them looks like more work than it's
+worth.  The path continues northward to a bridge, and eastward, deeper into
+the forest. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 4422
+D1
+~
+~
+~
+0 0 4424
+M 0 H 0
+S
+#4424
+A Grey Path~
+Juniper mix in with the pines and ash that mix and mingle at the sides of
+the road, giving off a pleasant, if strong, scent that hangs in the air
+until it is stirred by the wind.  This man-made concourse is created from
+neatly cut stones that interlock, designed by some skillful architect if one
+is to judge by the way this path turns from north to east, or vice versa. 
+~
+0 0 0
+D1
+~
+~
+~
+0 0 4425
+D3
+~
+~
+~
+0 0 4423
+M 0 H 0
+S
+#4425
+A Stone Road~
+A simple paved roadway works between ash and sycamore trees here, the
+seed pods of the latter littering its surface.  The call of a partridge
+echoes through the air briefly drowning out the other sounds of the forest. 
+Thickly grown small shrubs, many of which bear wicked looking little spikes
+stand under the trees making exiting this concourse seem like a painful
+business.  The roadway continues to the east and west from here. 
+~
+0 0 0
+D1
+~
+~
+~
+0 0 4426
+D3
+~
+~
+~
+0 0 4424
+M 0 H 0
+S
+#4426
+A Winding Road~
+A worn stone highway leads though an old looking forest which bears other
+marks of man, such as the occasional tree stump, close to this roadway. 
+Wildflowers flourish in these man-made clearings as well as long grasses and
+ferns.  The sounds and smells of the forest drift over the concourse
+seemingly unperturbed by your presence here.  The road curves gently
+northwest. 
+~
+0 0 0
+D0
+~
+~
+~
+0 0 4427
+D3
+~
+~
+~
+0 0 4425
+M 0 H 0
+S
+#4427
+Grey Stones~
+The decidous trees that populate this forest grow closely to the grey
+stone road, casting their leaves away as they die.  Some of the leaves have
+dried up while others fell in mud puddles and have begun to rot, giving off
+a sweet smell of decay.  On top of this, the juniper at the trail side is
+leaving a strong, heady aroma behind.  The concourse seems to come to an end
+to the north at a small town of sorts, while to the south it continues on. 
+~
+0 0 0
+D2
+~
+~
+~
+0 0 4426
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 4400 0 4406
+M 0 4401 1 4406 10
+O 0 4401 0 4406
+O 0 4402 0 4415
+P 0 4403 0 4402 10
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

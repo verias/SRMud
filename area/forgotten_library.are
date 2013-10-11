@@ -1,0 +1,1476 @@
+#AREADATA
+Name { ALL } BelXeAs Library~
+Builders Belic~
+VNUMs 13671 13692
+Credits (null)~
+Security 5
+End
+
+
+
+#MOBILES
+#13671
+guard library~
+a library guard~
+The guard watches everyone that passes by here.
+~
+He is a tall, lanky human.  His face is clean shaved, his eyes alert.  If
+not for the armor he wore, you would expect him to be just another visitor
+to the library.  His armor is black in color, with three orange strips
+running over the right shoulder.  
+~
+human~
+AB 0 0 0
+20 0 6d39+294 80d10+100 3d5+4 none
+2 2 2 4
+0 0 0 0
+(null) (null) female 90
+AHMV ABCDEFGHIJK medium unknown
+#13672
+blonde female student~
+a blonde female student~
+This student has long blonde hair that falls in her face as she pores over a book.
+~
+This student has slightly curly hair that is shoulder length and varies from 
+apricot to yellow.  She is dressed in elegant clothing made of velvet and 
+further decorated with starched linens at the throat and sleeves.  She seems 
+to be holding a pink book in her almost claw-like hands that sport long 
+fingernails, her eyes glued to the contents as she pores over the tome.  
+~
+human~
+AB 0 0 0
+19 0 6d37+274 76d10+100 2d5+6 none
+2 2 2 4
+0 0 0 0
+(null) (null) either 85
+AHMV ABCDEFGHIJK medium unknown
+#13673
+male student~
+a male student~
+A male student is here looking for just the right passages.
+~
+This student is dressed in a uniform of a starched white shirt and dark 
+breeches.  It is difficult to decide what color his hair is due to it 
+looking brown in some light and black at other times.  He doesn't seem to 
+notice you as he looks for something within the numerous books nearby.  
+~
+human~
+A 0 0 0
+18 0 6d36+255 72d10+100 2d5+6 none
+3 3 3 5
+0 0 0 0
+(null) (null) male 81
+AHMV ABCDEFGHIJK medium unknown
+#13674
+young man~
+a young man~
+A man takes care to see that all is clean.
+~
+He is dressed in a simple, black robe.  Three orange slashes appear over his 
+right shoulder.  His hood is pulled up to cover his head.  He hurries about 
+quickly, seeming to always seem some speck of dirt.  
+~
+human~
+A 0 0 0
+15 0 5d31+200 60d10+100 2d4+2 none
+4 4 4 6
+0 0 0 0
+(null) (null) female 67
+AHMV ABCDEFGHIJK medium unknown
+#13675
+elderly scholar~
+an elderly scholar~
+This scholar is elderly but still continues his search for knowledge.
+~
+This man peruses the shelves to try to find books on subjects he knows 
+little about.  His heavily wrinkled skin and grey hair show that he is an 
+aged student that has never stopped seeking the knowledge that must be 
+contained within this vast library.  
+~
+human~
+A 0 0 0
+21 0 6d39+294 80d10+100 3d5+4 none
+2 2 2 4
+0 0 0 0
+(null) (null) female 94
+AHMV ABCDEFGHIJK medium unknown
+#13676
+a scribe~
+a scribe~
+A scribe writes note upon sheets in front of him.
+~
+He is an elderly man.  His skin is wrinkly and grayish.  His eyes are
+clouded and he requires glasses to see better.  His fingers are stained for
+his constant use of ink.  
+~
+human~
+A 0 0 0
+15 0 5d31+200 60d10+100 2d4+2 none
+4 4 4 6
+0 0 0 0
+(null) (null) female 67
+AHMV ABCDEFGHIJK medium unknown
+#13677
+cleric~
+a cleric~
+A cleric edits the newest chapter of the histories.
+~
+The man sitting behind the desk looks to be about sixty.  He is bald and 
+chubby.  His fat hands barely make it out from under his black robe.  His 
+three orange stripes look faded and possibly stained with ink.  He looks at 
+you, with troubled eyes.  
+~
+human~
+AB 0 0 0
+17 0 5d34+236 68d10+100 2d5+5 none
+3 3 3 5
+0 0 0 0
+(null) (null) female 76
+AHMV ABCDEFGHIJK medium unknown
+#13678
+janitor~
+a janitor~
+A janitor runs to pick up a piece of paper.
+~
+The young man wears a black jumpsuit.  Three orange stripes appears over
+his shoulder, indicating he is a part of the library system.  His youthful
+looks suggest that he has just started in his duties here.  He smiles at you
+as he grabs for the paper on the floor.  
+~
+human~
+AC 0 0 0
+19 0 6d37+274 76d10+100 2d5+6 none
+2 2 2 4
+0 0 0 0
+(null) (null) female 85
+AHMV ABCDEFGHIJK medium unknown
+#13679
+ghostly admiral~
+a ghostly admiral~
+This admiral is a mere shadow of what he used to be.
+~
+This incorporeal being was obviously an admiral in his former life, going by 
+the dress suit and decorations covering it.  He wears a cap that would hide 
+his eyes if they didn't shine like stars in the night sky.  
+~
+unique~
+AB BTU 0 0
+24 0 8d46+378 96d10+100 3d5+5 none
+0 0 0 2
+0 0 0 C
+(null) (null) female 108
+AHMV ABCDEFGHIJK medium unknown
+#13680
+sleeping library guard~
+a sleeping library guard~
+This guard is fast asleep, preparing for his next shift.
+~
+This man looks quite peaceful and harmless in his sleep.  His body is 
+well-toned from all the training he has received in the past that led him to 
+a position here at this esteemed library.  
+~
+human~
+AB 0 0 0
+25 0 8d48+400 100d10+100 3d5+7 none
+0 0 0 2
+0 0 0 0
+sleep sleep female 112
+AHMV ABCDEFGHIJK medium unknown
+#13684
+guard~
+a guard~
+A guard stands watch over the display case.
+~
+He is fully dressed in black armor.  His visor is pulled down so that his
+face is concealed from you.  His armor carries the three black strips over
+the shoulder.  His sword is drawn and held in a position so that it can
+easily be swung.  He doesn't move.  He just stands and watches.  
+~
+human~
+AB 0 0 0
+25 0 8d48+400 100d10+100 3d5+7 none
+0 0 0 2
+0 0 0 0
+(null) (null) female 112
+AHMV ABCDEFGHIJK medium unknown
+#13685
+Cleric man~
+a cleric~
+A cleric stands behind the case, chanting quietly.
+~
+He is a young man.  Draped in his black robe, he holds his chest out
+proudly.  His hand touches his three orange strips on his shoulder and he
+beams with pride.  His young eyes stared at the books, keeping his
+concentration on the work he is doing.  He does not even notice you.  
+~
+human~
+AB 0 0 0
+21 0 7d41+314 84d10+100 3d5+4 none
+1 1 1 4
+0 0 0 0
+(null) (null) female 94
+AHMV ABCDEFGHIJK medium unknown
+#13686
+guard~
+a guard~
+A guard stands watch here.
+~
+He is fully dress in his black armor.  Three orange stripe appear over
+his shoulder.  His sword is drawn and he stands ready.  He does not move. 
+Just stands and watches.  
+~
+human~
+AB 0 0 0
+25 0 8d48+400 100d10+100 3d5+7 none
+0 0 0 2
+0 0 0 0
+(null) (null) female 112
+AHMV ABCDEFGHIJK medium unknown
+#13687
+guard~
+a guard~
+A guard watches the room.
+~
+He is fully dressed in his black armor.  Three orange stripes appear over
+his shoulder.  His sword is in his hand, pointed toward the floor.  He
+watches the room silently.  
+~
+human~
+AB 0 0 0
+25 0 8d48+400 100d10+100 3d5+7 none
+0 0 0 2
+0 0 0 0
+(null) (null) female 112
+AHMV ABCDEFGHIJK medium unknown
+#13688
+guard~
+a guard~
+A guard stands watch.
+~
+Dressed in black armor, he stands stiffly, not moving.  His visor is
+lowered, making him completely mysterious.  Three orange stripes appear over
+his shoulder.  He watches the room, not making a sound.  
+~
+human~
+AB 0 0 0
+23 0 7d44+355 92d10+100 3d5+5 none
+1 1 1 3
+0 0 0 0
+(null) (null) female 103
+AHMV ABCDEFGHIJK medium unknown
+#13690
+cleric~
+a cleric~
+A cleric rushes back and forth between scrolls.
+~
+Dressed in a black robe, you still find her attractive.  Her auburn hair
+is pulled up into a bun.  Her smile seems to warm the room and shows that
+she loves what she is doing.  The three orange stripes on the shoulder of
+her robe seem to glow.  
+~
+human~
+A 0 0 0
+22 0 7d42+334 88d10+100 3d5+5 none
+1 1 1 3
+0 0 0 0
+(null) (null) either 99
+AHMV ABCDEFGHIJK medium unknown
+#13691
+A Cleric~
+a cleric~
+A cleric sits behind his desk copying from a book.
+~
+A middle aged man that has seen better years.  His skin is pale, his body
+flabby.  His hands are stained from constant use of a quill and pen.  He
+rubs his nose, pushing up his thick eyeglasses.  
+~
+human~
+AB 0 0 0
+22 0 7d42+334 88d10+100 3d5+5 none
+1 1 1 3
+0 0 0 0
+(null) (null) female 99
+AHMV ABCDEFGHIJK medium unknown
+#13692
+Mistress of the Library woman~
+a woman~
+The Mistress of the library chants in a low voice.
+~
+A beautiful woman.  She sits in the throne, her eyes closed and her palms
+turned upwards.  Her blond hair flows down over the shoulders of her black
+robe.  Her skin is pale, but not white.  She seems ageless.  
+~
+human~
+AB 0 0 0
+50 0 10d167+1149 50d10+100 5d6+13 none
+-9 -9 -9 -7
+0 0 0 0
+(null) (null) male 225
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#13671
+sword~
+a black sword~
+A black sword with three orange strips on the hilt lays here.~
+unknown~
+weapon 0 AN
+sword 8 7 lunge 0
+30 1 125 P
+#13672
+book journal~
+a thin journal book~
+The pages of this journal book are torn and faded.~
+unknown~
+treasure R A
+0 0 0 0 0
+0 0 1 P
+E
+book1~
+Five hundred and fifty years after the great War of the Ancients, and one
+would have thought that the world had learned a lesson.  The work that went
+into rebuilding the entire world from the cataclysm surely had more purpose
+than to just send it careening once again to a cataclysmic event similar to
+the first.
+ 
+Oh, but you know this already, do you not?  Possibly not.  The state that
+our records are currently in is deplorable.  That is why I am here, to tell
+the story of what happened, to keep it from occuring again.  I must prevent
+ignorance from entering the hearts of the people.
+---------------------------------------------------------------------------
+ 
+There were more people around then.  Two entire Kingdoms' worth of mostly
+good-natured people.  A lot of magic-users, yes--they were in the open,
+practicing magic.  Hard to believe?  Magic was a commonplace thing.  Realms
+were protected by it and attacked by it.  Life was simple.
+I said there were two kingdoms, and I do not lie, they still exist with
+some of the same qualities.  The Kingdom of Utopia and the Kingdom of
+Discordia.  Discordia, the Monarchy ruled by a Ring.  Utopia...  The
+Monarchy ruled by power of another sort, and a ring of another sort as well.
+These two realms disagreed more often than not, but kept their trade
+agreements in place at most times.  Minor conflicts were everyday occurences
+between them. 
+ 
+Conflicts like these always lead up to a massive buildup on both sides. 
+Troops, magical resources, information...  Each side sought to outbid the
+other for power in any area.  Not that either would have actually declared
+war, no...  But they were close at times.  Perhaps the leaders were shrewd
+enough to keep the threat of war at bay themselves.  Maybe they never sought
+war but just sought their own personal gains outside of war. 
+ 
+The invokers...  Magic-users.  You may have heard of them.  They weave
+magic not with the words of their mouths, but the movements of their hands. 
+The difference?  None, except you may not hear an invoker using the magic
+that kills you.
+Magic, in any form...deceptive.  Dangerous.
+ 
+These invokers mostly sided with the Kingdom of Discordia.  Their
+exploits were commendable at the time, perhaps, but despised by the leader
+of Utopia.  What was his name?  Maglos?  Yes...  The man of mysterious
+background.  Oh, the stories I could reveal of his past, if only we could
+discover where he wrote his journals...  But that is something only we bards
+could dream of coming across.  I digress in my storytelling, I think.  The
+invokers sought a new power that would give them complete control over the
+elements.  As far as the magic world went then, I am pretty sure that was a
+bad thing.  Most were against so much power in such a small area of
+concentration.
+
+Too much power in a small area?  The dissidents were correct.  There were
+no words to describe what happened next, not accurately at least.  Huge
+waves crashed onto the beaches of Utopia and Tortuguero, swamping the towns.
+Earthquakes rent the streets.  Firestorms, lightning...  The images that
+were left to us were terrible.
+
+More terrible, perhaps, was the development soon after--the fact that the
+plane of magic had been torn asunder, had done more than it was supposed to
+by giving invokers power.  It had sent Gods from their prisons, letting them
+free to affect the world directly.  More importantly, but less obvious... 
+The tear in the plane of magic had set free the Ancients.
+The Ancients were not yet aware of their freedom.  Fortunately for the
+world, there were a few years of peace while the people adjusted to this
+new, awkward reality.  These years of peace came to a sudden end when the
+Ancients flexed their newfound power.  The people were unprepared
+completely.  Distracted by the affairs of politics, the affairs of their own
+religions, none had foreseen what would happen save a select few whose
+voices were overlooked.
+
+I would wish to say that a valiant effort to defeat the Ancients took
+place.  There were a few instances here and there of scattered fighting
+between Ancient and mortal or a mixture of Gods and mortals attempting to
+quell the Ancient uprising.  I could not tell you more than that
+here--perhaps a hidden book holds the truth.  What I do know is that the
+Gods and mortals did not hold out very long.  Within weeks, the Gods and the
+more powerful mortals had been destroyed.  While the last Gods were being
+hunted down by their Ancient pursuers, they managed to use their own power
+to send the still-sleeping Gods to the Dreamscapes, hidden temporarily from
+the Ancients.
+ 
+After the Ancients were finished with their duties, their arrogance was
+the defeat of them once again.  Thinking themselves invincible and unable to
+be defeated, they left through a portal in the direction of the Dreamscapes.
+The gods, now awake, simply waited for the Ancients to enter, and then
+departed back to the realm of mortality.  Sealing the rift behind them, they
+also restored the balance of magic.
+ 
+Magic is disuseful.  Disgusting.  Abhorrent.  May the mistakes of the
+past never again be repeated.
+~
+E
+journal book~
+This thin journal book is bound in leather.
+OOC: To read this tome, please examine book1.
+~
+#13673
+new tome~
+a new tome~
+A new looking tome. (OOC: to read the tome examine page1 etc)~
+unknown~
+treasure R AO
+0 0 0 0 0
+0 0 100 P
+E
+page1~
+One warm day a Dog lay down under a tree in a field, and was soon fast 
+asleep.  In a little while a Wolf came out of the woods and was about to 
+seize him and eat him up.  "Cousin Wolf," cried the Dog, "don't you see how 
+thin I am?  I am not fit for you to eat now.  If you will only wait a few 
+days, you will find that I shall make you a better meal.  Master is going to 
+have a big dinner next week, and then there will be so much to eat that I 
+shall grow plump and fat."  "Well, if that is the case," said the Wolf, "I 
+think I will wait a little while.  You may go now, and live till after the 
+dinner."  In two weeks the Wolf came back, but the Dog was not in the field. 
+ He was asleep on the house top.  "Come down, and let me see how fat you 
+are," said the Wolf.  The Dog woke up and said: "Cousin Wolf, if you ever 
+find me asleep in the field again, you may eat me.  But if you are wise, you 
+will not wait till after the master has had that big dinner."  
+~
+#13674
+book pride~
+a book called pride~
+A book called pride is here. (OOC: to read examine page1, page2, page3)~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 200 P
+E
+page1~
+One warm day a Deer went down to a brook to get a drink.  The stream was 
+smooth and clear, and he could see himself in the water.  He looked at his 
+horns and was very proud of them, for they were large and long and had many 
+branches.  But when he saw his feet he was ashamed to own them, they were so 
+slim and small.  
+~
+E
+page2~
+While he stood knee-deep in the water, and was thinking only of his fine 
+horns, a Lion saw him and came leaping out from the tall grass to get him.  
+The Deer would have been caught at once if he had not jumped quickly out of 
+the brook.  He ran as fast as he could, and his feet were so light and swift 
+that he soon left the Lion far behind.  But by and by he had to pass through 
+some woods, and, as he was running, his horns were caught in some vines that 
+grew among the trees.  Before he could get loose the Lion was upon him.  
+~
+E
+page3~
+"Ah me!"  Cried the Deer.  "The things which pleased me most will now cause 
+my death; while the things which I thought so mean and poor would have 
+carried me safe out of danger."  
+~
+#13675
+scroll wise goat~
+a scroll called "The Wise Goat"~
+A scroll called "The Wise Goat".~
+unknown~
+scroll GR AO
+5 'reserved' 'reserved' 'reserved' 'reserved'
+1 0 300 P
+E
+scroll~
+One day a Goat was on the top of a high, steep rock, picking the few blades 
+of grass that he could find there.  A Wolf who was watching him from the 
+foot of the rock, wanted to catch him, but could not climb so steep a place. 
+ "Friend Goat!"  Said he, "come down into the field.  You can get all the 
+sweet grass here that you can eat, and it will not cost you anything."  
+"Thank you," said the Goat.  "You are inviting me not to feed myself, but to 
+feed you."  
+~
+#13676
+Tatty tome~
+a tatty looking tome~
+A tatty looking tome sits here, it looks to have been read often.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 2 200 P
+E
+tome tatty~
+Scrolls one to five of the elder races
+        Written by Sage J'Karl
+ 
+OOC: To read, examine page1, page2, page3 etc
+~
+E
+page1~
+Now most of what are known as the elder races claim to have been fashioned 
+first by the gods, while some scholars hypotheses that the Ancients must 
+have been the first race, due to having the power to rival the gods 
+themselves.  In these writings I will discuss which of the elder races, not 
+counting the Ancients, came first.  Using the research I have gathered over 
+the years of study I have had upon this subject.  By no means should my 
+humble writings be considered exhausted on the subject as I am sure much 
+more is yet to be found.  Due to the wars so much has been lost.  
+~
+E
+page2~
+First I will discuss the elves, certainly one of the fairest and wisest of 
+the elder races.  Illandria, my guide within their city, showed me many 
+ancient scrolls in their tongue which talk of cities long since destroyed.  
+She claimed that in Istaria, greatest of those places that have been lost, a 
+library the likes of which hasn't been seen since the Ancients existed and 
+in there documents handed to the elves by the gods of law and goodness could 
+be found that told that the elves where made first and fairest of all mortal 
+races.  As it stands the argument is that they still follow the tenants of 
+those gods and goddesses.  
+~
+E
+page3~
+Mountain Dwarves claim that they were made first, out of love for the earth, 
+as surprising as that sounds.  And that the other races were made later, 
+without knowing the existence of the dwarves, for this reason others claim 
+that they are older than the dwarves.  The true evidence behind these claims 
+has become lost due to incursions of drow and other subterranean horrors.  
+Though very ancient runes in a form of dwarvish that none can now speak have 
+been shown to me, which they claim have come from these lost kingdoms.  
+~
+E
+page4~
+Surprisingly faeries also claim to have been created first, they argue that 
+they are the ones best able to live in tune with nature and that they are 
+the least naturally destructive of all the races.  No real proof has been 
+gathered to support these words and some scholars refute them on the grounds 
+that the scale is all wrong.  Yet to the faeries it seems obvious that they 
+are the first race and that they remain most blessed of all the gods 
+creations.  I am still unsure if what they told me was a joke or not, but 
+then it is always problematic to tell that, with a faerie.  
+~
+E
+page5~
+Nymphs, or the more scholarly of these races claim that they could be the 
+first, though they lack writings or carvings to prove it, upon the grounds 
+that once they where tied to tree, river and mountain.  And that as spirits 
+of these natural landmarks sentience must have first been theirs.  
+Personally I am unsure about this claim, how could an all female race have 
+been first and survived?  Though I must admit I enjoyed researching with the 
+nymphs most.  
+~
+#13677
+scroll lament~
+a scroll called "lament"~
+A worn scroll sits here with the word "Lament" visible.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 250 P
+E
+scroll lament~
+For love, for fear has no place
+Among the corpses of my kin. 
+When willow and leaves weep over our dead 
+Tis but a trifle to go out searchingly. 
+Is this your shell before mine eyes 
+Or has constant trouble blinded my sight? 
+Fia, fia into the night your soul, my spirit goes with you. 
+As I shall unfold myself to shelter you. 
+ 
+In the morning,  
+my vision shall be cleaner
+And I shall depart, to question  
+with my blade, or by prayer 
+Who deserves to lie beside you.
+ 
+- Echo
+~
+#13678
+new scroll moon~
+a new looking scroll~
+A new looking scroll has been left here, the word "moon" visible on it.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 50 P
+E
+new scroll moon~
+May thy light be fair to me!
+May thy course be smooth to me!
+If good to me is thy beginning,
+Seven times better be thine end,
+Thou fair moon of the seasons,
+Thou great lamp of grace!
+ 
+He Who created thee
+Created me likewise
+He Who gave thee weight and light
+Gave to me life and death,
+And the joy of the seven satisfactions,
+Thou great lamp of grace,
+Thou fair moon of the seasons.
+~
+#13679
+scroll unknown~
+a scroll called "unknown"~
+A scroll bearing the word "unknown" rests here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 200 P
+E
+scroll~
+I am the wind that breathes upon the sea
+I am the wave of the ocean
+I am the murmur of the billows
+I am the ox of the seven combats
+I am the vulture upon the rocks
+I am a beam of the sun
+I am the fairest of plants
+I am a wild boar in valour
+I am a salmon in the water
+I am a lake in the plain
+I am a word of science
+I am the point of the lance of battle
+I am the God who created in the head the fire
+Who is it who throws light into the meeting on the mountain?
+Who announces the ages of the moon?
+Who teaches the place where couches the sun? (If not I?)
+ 
+~
+#13680
+pink bound book~
+a pink bound book~
+A book bound in pink fabric has been left here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 0 500 P
+E
+pink bound book~
+Across the spine of this book is the legend: Soft words.
+OOC: To read this book examine page1, page2, page3 etc.
+~
+E
+page1~
+Sweet thoughts flashing though ones consciousness
+Overly sensitive feelings, always under stress
+Propriety this is a transcendental and integral part
+Perhaps a fortification to defend ones beating heart
+Yesterday is a world away, minds eye see only now
+What is there to do? But live and be true, that is how
+Our love will flourish, nurture, mature and mend
+Love in each other for which we should depend
+For my core in your care now does dwell securely
+Concern for us is natural, there is no need to be surly
+Against each other we will not rage, gentle our dance
+Tender and loving for this our significant chance
+~
+E
+page2~
+I am yours, as you are mine
+Within my heart this is sublime 
+Wrongs occur form time to time
+That doesnt mean that I do pine
+For you to be mine and I thine
+Hope to you this is a good sign
+And now at last I end my rhyme
+~
+E
+page3~
+I long for you my love, once more to hold you close
+ 
+To see your smile and hear your laughter
+These are things I desire with my heart the most
+Truly, my love, these are things I am after
+These and many more are things I wish from you
+In my arms is where I wish you to be
+Please my love ask of me the things I need to do
+So that at my side you shall be with me
+And when we are not side-by-side
+Even with half a world a part
+I ask that your heart you do not hide
+For with you my love my, I say me heart resides
+Be life flowing up or down on its natural tides.
+~
+E
+page4~
+Incidents and incidental, words and deeds, burn and bleed
+Longings so insidious that there is naught to do but heed
+Over and over small words do turn, they can not be repressed
+Vexing is it that no skill I possess can come close to express
+Every thing I feel and what I really long to do, what I wish to say
+You brighten my day you keep darkness and shadows at bay
+Obvious I wish my heart to be, clear and open my mind to thee
+Unique you are and lovely as can be, simply you're the best for me
+Calling out to you in a wordless voice, praying you hear
+Really needing to feel that I am the one you hold dear
+You make my life worth living, a reason to rise each day
+So strongly I wish to be with you, to hold you in my arms and say
+That you're the one I want so much, you're one that I need for sure
+And when I am with you my love these things I hope are yours
+Loving that I am there as much as I, my love, my heart, my best. 
+~
+#13681
+leather note book pooka~
+a leather note book~
+A leather bound note book bearing the legend: Pooka. On its spine.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 1 200 P
+E
+leather note book pooka~
+This books seems to be the notes taken on a race called Pooka.
+OOC: To read this book examine page1, page2, page3 etc.
+~
+E
+page1~
+Pooka: these are a strange race, if true race they happen to be.  Some 
+believe them to be a sub-race at best while other scholars discount there 
+very existence.  From my own findings I have come to the conclusion that 
+they where once normal faeries, or fae and that due to some kind of pledge 
+or pact with a lord of chaos they have been cursed and altered to the form 
+they now possess.  So indeed those that claim them to be a sub-race would be 
+correct.  
+~
+E
+page2~
+Pooka can be easily discerned from normal faeries by the animalistic parts 
+of their physiology, such as cat like ears and eyes, tails and the like.  
+Also to any one that is familiar with faeries it should be apparent that 
+Pooka are taller, almost half a foot taller on average and less prone to 
+taking flight.  Most Pooka these days possess animal parts that resemble 
+those belonging to predators, while other animalistic qualities are rare.  
+During the course of my studies it has come to my attention that the less 
+dangerous animal features are a fairly recent addition to these creatures.  
+All Pooka though bear the features of animals.  
+~
+E
+page3~
+The Pooka curse can be best described as the inability to tell the truth.  
+This isn't a conscious thing or in fact even something the faerie has 
+control over but a full curse laid upon this people by one of the Lords of 
+Chaos long ago.  From what a psion said, though of course this being the 
+words of a psion it can not really be trusted, Pooka think normally, just as 
+soon as they speak the words become lies, which makes things even more 
+confusing for someone wishing to study these bizarre creatures.  
+~
+E
+page4~
+Pooka often manage to exist along side normal faeries, though they are 
+rarely trusted and normally annex to some degree.  Cross breeding between 
+the two races seems to be possible, through this seems to lead to much 
+confusion.  It would appear that certain faeries find something strangely 
+erotic and compelling about their cursed cousins, though when asked to 
+explain further no real answer has been supplied.  It is my personal belief 
+that the attraction between a faerie and a pooka is somewhat akin to the 
+attraction that some humans feel towards certain beastkin, something that I 
+have yet to fathom myself.  
+~
+#13682
+long scroll storm~
+a long scroll~
+A long scroll lays here with the title: Storm~
+unknown~
+scroll 0 AO
+30 'cause serious' 'reserved' 'reserved' 'reserved'
+10 1 300 P
+E
+scroll~
+STORM
+ 
+A timeless and forgotten place,
+The moon and sun endless chase
+Each in quiet surrender
+As the other reigns the sky...
+ 
+The midnight hour begins to laugh
+A summer evening's epitaph
+The winds are getting crazy
+As the storm begins to rise...
+As the storm begins to rise...
+ 
+Wild were the winds that came
+In the thunder and the rain
+Nothing ever could contain
+The rising of the storm...
+ 
+In the wings of ebony
+Darkened waves fill the trees
+Wild winds of warning
+Echo through the air...
+ 
+Follow the storm I've got to get out of here...
+Follow the storm as you take to the sky...
+Follow the storm now it's all so crystal clear,
+Follow the storm as the storm begins to rise...
+ 
+She seems to come from everywhere
+Welcome to the dragon's lair
+Fingers running through your hair
+She asks you out to play...
+For all of nature's sorcery
+The most bewitching entity
+Hell can have no fury
+Like the rising of the storm... 
+ 
+Follow the storm I've got to get out of here...
+Follow the storm as you take to the sky...
+Follow the storm now it's all so crystal clear,
+Follow the storm as the storm begins to rise...
+~
+#13683
+book case~
+a bookcase~
+The bookcase towers all the way to the ceiling.~
+unknown~
+container R 0
+1000 0 0 0 0
+0 0 0 P
+#13684
+heavy book magic~
+a heavy book on magic~
+A heavy looking book that proclaims its self to be a study of magic lays here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 5 600 P
+E
+heavy book magic~
+This book seems to be someones writtings on the subject of magic.
+OOC: To read this book please examine page1, page2 etc.
+~
+E
+page1~
+I look back upon my childhood on the isle of Candon and remember my first 
+halting steps into the ways of wizardry.  Then it seemed that the power came 
+from within or from a specific source - but I was young then and foolish.  
+The void exists in and around us all both in life and death - and beyond.  
+Magic therefore is not contained within a vessel but is accessed from within 
+a vessel.  I can see you struggling to comprehend - I can understand that, I 
+was archmage before I fully understood.  
+~
+E
+page2~
+Magic is everywhere because the void is everywhere - understand this one 
+concept and your foot is on the road to becoming a mage.  What is the void?  
+- It is nothing and yet it is everything - it is life and it is death, 
+creation and oblivion.  I don't truly know myself and I have studied the 
+concept for close on two centuries.  
+~
+E
+page3~
+Using the void - well most simply think of spells but that is a focused 
+approach - a way of following in the footsteps of others but there are other 
+even more powerful ways but let these not concern you yet.  Your study will 
+involve basic conjuring - translation, component and gesticulation - the 
+beginnings of a spell casters art.  Understanding languages is as important 
+as inherent power, the merest mis-inflection may prove fatal or worse.  
+~
+E
+page4~
+The void will be your all - both servant and master.  Learn do not be hasty 
+and research well all that you intend to practise.  In this way you may live 
+long enough to be granted the status of mage.  
+ 
+ 
+Vasagal - Archmage 
+~
+#0
+
+
+
+#ROOMS
+#13671
+Before the Library~
+The building to the north is made of marble and is of a classic design.  
+Pillars carved with caryatids support a balcony that can be seen jutting out 
+from its second story.  Stairs made of heavy stone lead up to the large 
+front doors of this building, from one of which hangs a sign.  Grass and 
+shrubbery grows neatly around the perimeter of the structure, serving to 
+adorn the otherwise stark creation.  
+~
+0 4194308 2
+M 0 H 0
+S
+#13672
+Inside the Library~
+The temperature of the room is cool, more than likely due to the fact that 
+it is composed nearly entirely of marble.  Tables ring the main entrance of 
+the library to the south, some of which have a few books that are opened up 
+to various pages of interest.  The smell of ink and old parchment hangs in 
+the air, testament to the fact that scribes and scholars frequent this lofty 
+structure.  A stillness permeates the premesis and the sounds of your own 
+passage are the only sounds to be noted in the pregnant silence.  
+~
+0 4194312 0
+D0
+~
+~
+~
+0 0 13675
+D1
+~
+~
+~
+0 0 13673
+D2
+~
+~
+~
+1 0 20282
+D3
+~
+~
+~
+0 0 13674
+M 0 H 0
+S
+#13673
+Among the Bookcases~
+Few books are housed on the expansive book cases that can be seen to the 
+north, south, and east.  The wooden shelved seem to stretch away to the 
+vaulted ceiling that can barely be detected from within the general gloom of 
+the library.  A ladder that can be moved via wheels at the base is attached 
+to the wall, positioned at about the center of the southern shelves.  A 
+stilness hangs in the air.  
+~
+0 4194312 0
+D1
+~
+~
+~
+1 0 13676
+D3
+~
+~
+~
+0 0 13672
+M 0 H 0
+S
+#13674
+Along the Bookcases~
+Book cases that easily touch the ceiling of this gigantic chamber enclose 
+this area from the north, south, and west.  The wooden surfaces are highly 
+polished but do not seem to be the home of any of the books one might expect 
+to find here.  An uneasiness becomes apparent whenever one attempts to get 
+closer to the shelves to inspect them.  
+~
+0 4194312 0
+D1
+~
+~
+~
+0 0 13672
+D3
+~
+~
+~
+1 0 13677
+M 0 H 0
+S
+#13675
+The Center of the Library~
+All the books that are kept on the shelves that stretch between the ceiling 
+and floor are ordered neatly, but there are not very many of them.  The 
+ceiling must be at least twenty feet high here at the middle of the 
+library's first floor and is decorated with a painting of some skill.  
+Patrons and servants of the library hustle back and forth contentedly but 
+barely make noise capable of shattering the silence.  
+~
+0 4194312 0
+D0
+~
+~
+~
+0 0 13680
+D1
+~
+~
+~
+0 0 13678
+D2
+~
+~
+~
+0 0 13672
+D3
+~
+~
+~
+0 0 13679
+M 0 H 0
+S
+#13676
+The War Library~
+A large map fills the northern wall, appearing to have been made as a fresco 
+to make it last even longer.  Large X's appear on the map occasionally, the 
+ink sometimes in red but mostly in black.  There is a desk underneath the 
+wall painting, cluttered with innumerable pieces of paper and a smoking 
+pipe.  The chamber is illuminated by light fliltering through a stained 
+glass window whenever it is able, and at other times it comes from candles 
+strategically placed within the room.  
+~
+0 4194312 0
+E
+stained glass~
+This huge window is made of varied colors of glass, their small fragments 
+depicting a saint wielding a sword.  
+~
+D3
+~
+~
+~
+1 0 13673
+M 0 H 0
+S
+#13677
+Library of History~
+This closet-sized room is dominated by the presence of a large desk and the 
+cleric that is usually found behind it.  Papers are stacked high in neat 
+piles upon the furniture piece, and an ink and quill are apparent upon it 
+toward the middle.  One of the bottles of ink seems to have been knocked 
+over and now stains the most current workings beyond legibility.  
+~
+0 4194312 0
+D1
+~
+~
+~
+1 0 13674
+M 0 H 0
+S
+#13678
+The Study Area~
+Desks have been arranged against the eastern wall, their wooden frames 
+separated only by a thin partition in most cases.  Some of the seats are 
+occupied with studious youths that are reading or writing industriously.  To 
+the south and north, passage is blocked by large cases full of shelving, but 
+lacking books.  A single piece of paper can be seen on the floor.  
+~
+0 4194312 0
+D3
+~
+~
+~
+0 0 13675
+M 0 H 0
+S
+#13679
+Before an Empty Bookcase~
+These emptied book cases are highly polished and are just waiting to be 
+filled with volumes upon volumes of texts and tomes.  Tracks have been bored 
+into the floor to allow for a ladder on wheels to roll within, but the 
+ladder seems to be missing.  The central aisle of the library can be seen 
+off to the east, bustling with the activity of patrons and clerks alike.  
+~
+0 4194312 0
+D1
+~
+~
+~
+0 0 13675
+M 0 H 0
+S
+#13680
+The Hallway~
+Ropes mark off areas of the hall that should prevent you from venturing 
+near.  If that is not enough, a large sign that says clearly "No Admittance" 
+is posted nearby.  Several doorways bearing the same sign can be glimpsed at 
+further down the narrowing hall.  The marble glistens gently, the shine a 
+possible indicator that this area has been recently mopped or similarly 
+taken care of.  
+~
+0 4194312 0
+D0
+~
+~
+~
+0 0 13681
+D1
+~
+~
+~
+1 0 13682
+D2
+~
+~
+~
+0 0 13675
+D3
+~
+~
+~
+1 0 13683
+M 0 H 0
+S
+#13681
+Before the Staircase~
+There is a small bookcase here that houses some ancient-looking artifacts, 
+nestled neatly at the end of the hall.  There is a red velvet rope hanging 
+in front of the stairs in an attempt to bar entrance to all who seek to 
+venture to the second floor of this library.  An empty chair sits next to 
+this, presumably for any that are employed to keep order and, most of all, 
+bar intruders further from entering the recesses of this building.  
+~
+0 4194316 0
+D2
+~
+~
+~
+0 0 13680
+D4
+~
+rope~
+~
+1 0 13684
+M 0 H 0
+S
+#13682
+Guard Area~
+This is the guards sleeping area.  It is spartan in design.  The beds are
+lined perfectly, stacked three high to allow the most occupants for the
+space.  A foot locker is at the end of each set of beds.  The walls are
+white as is the marble floor.  
+~
+0 4194312 0
+D3
+~
+~
+~
+1 0 13680
+M 0 H 0
+S
+#13683
+Weapons Locker~
+You are in basically an oversized closest.  There is several boxes set
+upon the floor.  Two of them are slightly opened, revealing swords inside. 
+The room is dark, save for a single candle that glows in the area you would
+have expected an window.  
+~
+0 4194312 0
+D1
+~
+~
+~
+1 0 13680
+M 0 H 0
+S
+#13684
+On the Stairs~
+The stairs are covered in a soft red velvet that provides cushioning beneath 
+every step, muffling any noises made by walking completely.  The handrails 
+of this staircase are gilded inlaid with small and intricate designs, their 
+beveled shapes blackened to provide more contrast so that they are easily 
+seen even by the unwary.  A display is in view near the top of the stairs, 
+but the contents are quite difficult to determine at this range.  
+~
+0 4194312 0
+D0
+~
+~
+~
+0 0 13685
+D5
+~
+~
+~
+1 0 13681
+M 0 H 0
+S
+#13685
+The Second Floor of the Library~
+Everything in this room is perfectly aligned and in good order, including a 
+lack of dust, dirt, or grime.  A glass case housing a book is located within 
+a short distance from the stairs that lead down and to the south.  Another 
+tome can be seen on either side of this opened book within, each of them 
+casting off a soft blue glow as if imbued with power.  Between each book is 
+a small relic that is unfamiliar, their meaning and importance lost over 
+time.  A door leads the way further into the library to the north.  
+~
+0 37748744 0
+D0
+~
+~
+~
+1 0 13686
+D2
+~
+~
+~
+0 0 13684
+M 0 H 0
+S
+#13686
+The Upper Library~
+The bookcases here are filled with books of different colors, sizes, and 
+thicknesses; large ones, small ones, thick ones, and thin ones are all 
+crammed in a mis-matched pattern on each wooden platform.  They do seem to 
+possess a great deal of orderliness despite their differences as they sit 
+upon the shelves, awaiting to be perused.  Under each shelf is a plaque that 
+identifies what each row of books covers.  There are doors tucked neatly 
+away amidst the sea of books.  
+~
+0 4194312 0
+D0
+~
+~
+~
+0 0 13689
+D1
+~
+~
+~
+1 0 13687
+D2
+~
+~
+~
+1 0 13685
+D3
+~
+~
+~
+1 0 13688
+M 0 H 0
+S
+#13687
+Chamber of the Sacred Scrolls~
+Plush black carpet lines the expansive floor, bearing three neat stripes 
+upon its surface.  Glass cases can be seen stretching away between each of 
+the walls, some of which house ancient scrolls and others are empty.  A blue 
+hue surrounds each of the cases, presumably a protective force to keep the 
+ravages of time away from the residents of the cases.  There is a door to 
+the north and it appears to be ajar.  
+~
+0 138412040 0
+D0
+~
+~
+~
+0 0 13690
+D3
+~
+~
+~
+1 0 13686
+M 0 H 0
+S
+#13688
+West Wing Library~
+Books line the shelves in this wing of the library, their sizes and shapes 
+varying greatly.  All of them are bound with a thin but durable leather 
+strap to keep them sealed, perhaps to help protect them from aging.  A 
+display case is set into the western wall, filled with five extremely thick 
+tomes.  A green glow surrounds everything behind the glass, making it 
+difficult to read the names on their spines.  There are doors that lead both 
+north and east from this point.  
+~
+0 4194312 0
+D0
+~
+~
+~
+0 0 13691
+D1
+~
+~
+~
+1 0 13686
+M 0 H 0
+S
+#13689
+Library of Tomes~
+This room seems to echo every sound made within its walls, despite the dark 
+carpeting on the floor.  The black rug bears three stripes, the center one 
+looking to be the longest by a few hairs.  A table sits in the center of the 
+room, emphasizing its vastness when it is dwarfed in comparison.  On the 
+table is a rectangular display, well-placed to display the treasure it 
+holds.  Double doors of wood lead away to the north and south both.  
+~
+0 4194312 0
+E
+case~
+The oldest known writing is housed here.  
+~
+D0
+~
+~
+~
+0 0 13692
+D2
+~
+~
+~
+0 0 13686
+M 0 H 0
+S
+#13690
+Research Room~
+This appears to be the research room of the scroll library.  The expanse is 
+cool and could be considered refreshing.  The smells of ink and parchment 
+hang in the air, evidence of these objects being used oft filling desks and 
+some of the resulting notes have been pinned to the wall.  Light floods into 
+the room from a stained glass window whenever the weather and celestial 
+bodies permit, being lit by globes and spheres of magic in between nature's 
+intervals.  There orange stripes have been dyed into the carpet that covers 
+the floor, looking very odd, especially when considering the stripe that is 
+east-most is slightly larger than the other two.  A door leads away to the 
+south.  
+~
+0 4194312 0
+D2
+~
+~
+~
+0 0 13687
+M 0 H 0
+S
+#13691
+Research Room~
+This room is slightly cramped, what with all the books, desks, and other 
+furniture filling it and leaving little strolling room behind.  The floor is 
+carpeted with a thick black rug that helps to muffle noises and might be 
+considered comfortable to stand upon.  The shaggy floor has three orange 
+stripes, while the west-most stripe is slightly larger than the other two.  
+On second glance, it can be seen that each of the desks and tables are piled 
+high with books, some of which are open while others are closed.  Light from 
+a stained glass window filters into the room whenever the celestial bodies 
+shine brightly enough to do so, leaving the chamber to be illuminated by 
+spheres of magical substance when the heavens are unwilling.  A door leads 
+away to the south.  
+~
+0 4194312 0
+D2
+~
+~
+~
+0 0 13688
+M 0 H 0
+S
+#13692
+The Sacred Room~
+This room is only slightly larger than a closet and it seems to hold one 
+thing only: a solid black throne.  No light pierces the darkness here aside 
+from the faint glow coming from the room to the south, which makes the 
+throne gleam dully.  Some runes have been etched into the chair's arm rests, 
+glowing faintly of their own accord.  The only exit that is apparent is 
+through the door to the south.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 13689
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 13677 spec_cast_cleric
+M 13685 spec_cast_cleric
+M 13692 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 13672 2 1
+D 0 13673 1 1
+D 0 13674 3 1
+D 0 13676 3 1
+D 0 13677 1 1
+D 0 13680 1 1
+D 0 13680 3 1
+D 0 13681 4 1
+D 0 13682 3 1
+D 0 13683 1 1
+D 0 13684 5 1
+D 0 13685 0 1
+D 0 13686 1 1
+D 0 13686 2 1
+D 0 13686 3 1
+D 0 13687 3 1
+D 0 13688 1 1
+M 0 13675 10 13672 10
+M 0 13673 10 13672 10
+M 0 13671 4 13672 10
+E 0 13671 0 0
+M 0 13675 10 13673 10
+M 0 13673 10 13673 10
+O 0 13683 0 13673
+M 0 13675 10 13674 10
+M 0 13673 10 13674 10
+O 0 13683 0 13674
+M 0 13674 2 13674 10
+M 0 13675 10 13675 10
+M 0 13673 10 13675 10
+O 0 13683 0 13675
+M 0 13679 1 13676 10
+O 0 13683 0 13676
+O 0 13683 0 13677
+M 0 13677 1 13677 10
+M 0 13675 10 13678 10
+M 0 13673 10 13678 10
+M 0 13672 1 13678 10
+E 0 13680 0 0
+O 0 13683 0 13678
+M 0 13678 1 13678 10
+M 0 13675 10 13679 10
+M 0 13673 10 13679 10
+O 0 13683 0 13679
+M 0 13673 10 13680 10
+O 0 13683 0 13681
+M 0 13680 2 13682 10
+O 0 13683 0 13685
+M 0 13685 1 13685 10
+M 0 13684 2 13685 10
+E 0 13671 0 16
+O 0 13672 0 13685
+O 0 13683 0 13686
+M 0 13686 1 13686 10
+E 0 13671 0 16
+O 0 13683 0 13687
+M 0 13687 2 13687 10
+E 0 13671 0 16
+O 0 13683 0 13688
+M 0 13688 2 13688 10
+E 0 13671 0 16
+O 0 13683 0 13689
+O 0 13683 0 13690
+M 0 13690 1 13690 10
+O 0 13683 0 13691
+M 0 13691 3 13691 10
+M 0 13692 1 13692 10
+G 0 13684 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

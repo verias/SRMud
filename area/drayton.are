@@ -1,0 +1,3448 @@
+#AREADATA
+Name { ALL } Kardign Drayton~
+Builders Kardigan Angord~
+VNUMs 3400 3499
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#3400
+An Old Man Shopkeeper~
+an old shopkeeper~
+An old shopkeeper dozes against the counter.
+~
+A small man, standing about five feet tall is here.  His green eyes
+appear heavy with sleep, and his hair is snow white from age.  He is garbed
+in a flowing white robe, tied with a black rope around his waist.  
+~
+human~
+ABRW 0 0 0
+1 0 1d2+8 1d10+100 1d1+0 none
+9 9 9 10
+0 ABPQ 0 0
+sleep (null) female 4
+AHMV ABCDEFGHIJK medium unknown
+#3401
+Maud Pretzel Shopkeeper Old Lady~
+Maud~
+An old lady waits patiently for your order.
+~
+Resting behind the counter on a comfortable seat is an elderly lady named
+Maud.  Her hair is streaked gray, with a touch of black here and there.  Her
+soft and gentle eyes are {Ggreen{x, and she wears a pair of spectacles over
+them to help her see.  She looks up at you and smiles gently as she sees you
+enter, standing to take your order.  
+~
+human~
+ABRW 0 0 0
+1 0 1d2+8 1d10+100 1d1+0 none
+9 9 9 10
+0 ABPQ 0 0
+(null) (null) either 4
+AHMV ABCDEFGHIJK medium unknown
+#3402
+Handsome Young Man~
+a handsome young man~
+A tall and handsome young man waits patiently for your order.
+~
+Standing before you is a handsome young man.  He has dark brown eyes and
+closely cut black hair.  He is dressed in a pair of black dress pants, white
+shirt, and a black overcoat.  He moves about behind the bar, preparing the
+drinks for the customers as they order.  Occasionally he looks up at the
+customers, smiling.  
+~
+human~
+AB 0 0 0
+1 0 1d2+8 1d10+100 1d1+0 none
+9 9 9 10
+0 ABPQ 0 0
+(null) (null) female 4
+AHMV ABCDEFGHIJK medium unknown
+#3403
+Levon Black Man~
+Levon~
+A tall black man works diligently to prepare the meats.
+~
+A tall black man moves quickly between the fire and the different meats. 
+Making sure they are marinated and smoked to perfection for your enjoyment. 
+His black hair and brown eyes do little to hide the fact that he is muscular
+and intelligent.  A large tattoo running down his left arm spells out
+'Levon' leaving little doubt as to his name.  
+~
+human~
+ABRW 0 0 0
+1 0 1d2+8 1d10+100 1d1+0 none
+9 9 9 10
+0 0 0 0
+(null) (null) female 4
+AHMV ABCDEFGHIJK medium unknown
+#3404
+A Pretty Young Lady Barkeep~
+a pretty young lady~
+A pretty young lady patiently waits to take your order.
+~
+A young lady, standing about five and a half feet tall is here.  She has
+crystal {Cblue{x eyes, long blonde hair that is pulled back into a ponytail,
+and beautifully tanned skin.  She is dressed in a simple yet elegant black
+dress that covers her from the neck to her ankles.  She waits patiently
+behind the bar to take your order, smiling at each customer as they arrive. 
+~
+human~
+ABRW 0 0 0
+1 0 1d2+8 1d10+100 1d1+0 none
+9 9 9 10
+0 0 0 0
+(null) (null) either 4
+AHMV ABCDEFGHIJK medium unknown
+#3405
+Guinness Dog Pipe Band~
+a small pipe band~
+A small four member pipe band plays here for your enjoyment.
+~
+Set up on a small stage in the north-eastern corner of the room is a
+small pipe band.  It is comprised of a drummer, a bag-pipe player, a flute
+player, and a cello.  The music that they play is soft and soothing,
+seemingly perfect for this relaxed environment.  The band has been known to
+do requests for a small tip.  
+~
+human~
+AB 0 500 0
+30 0 10d60+520 30d10+100 3d6+8 none
+-1 -1 -1 0
+ACEK 0 0 0
+(null) (null) male 135
+AHMV ABCDEFGHIJK medium unknown
+#3406
+Ice Cream Machine Device~
+an ice cream dispensing device~
+An ice cream dispensing device is here waiting for your order.
+~
+A small metallic device sits on the counter.  It has a slot on the top
+for gold coins to be inserted, and a large opening at the bottom where the
+ice cream arrives.  How this device works, no-one but the owner of the place
+knows, but it is obviously very suited for its task.  
+~
+unique~
+ABRW 0 0 0
+1 0 1d2+8 1d10+100 1d1+0 none
+9 9 9 10
+0 ABPQ 0 0
+(null) (null) male 4
+ACGHMV ABCDEFGHIJKMQUV medium unknown
+#3407
+Pot-Bellied Man~
+a short pot-bellied man~
+A short pot-bellied man rests lazily in his chair.
+~
+A short and balding man rests lazily in a sweat stained chair.  His dark
+hair, starting about halfway back on his head, is greasy and plastered to
+the top of his head.  His underused muscles seem to have turned to fat,
+though that would be hard to determine due to the massive amount of fat
+already visible on his body.  He makes no move to stand and greet you,
+merely grunting an acknowledgement.  
+~
+human~
+ABRW 0 0 0
+1 0 1d2+8 1d10+100 1d1+0 none
+9 9 9 10
+0 ABQ 0 0
+(null) (null) female 4
+AHMV ABCDEFGHIJK medium unknown
+#3408
+A Large Snake~
+a large snake~
+A large brown snake lies coiled upon the ground.
+~
+This large brown snake stares coldly at the world around it.  It keeps
+it's body coiled tightly about, ready at a moments notice.  His tongue
+flicks rapidly in and out of it's mouth, sampling the air and earth around
+it.  As it swivels its head to look at you, it seems to stare directly into
+your eyes, watching you impassively.  
+~
+snake~
+A V 0 0
+20 0 6d39+294 20d10+100 3d5+4 crush
+2 2 2 4
+0 0 L I
+(null) (null) male 90
+AGXYc ADEFKLPQVX large unknown
+#3409
+Small Lizard~
+a small green lizard~
+A small {Ggreen{x lizard patters about.
+~
+This small {Ggreen{x lizard patters about all over the place.  He
+constantly scours the area with his large black eyes, searching for food.  He
+passes his gaze over you, and continues searching, dismissing you
+immediatly.  
+~
+lizard~
+A V 0 0
+15 0 5d31+200 15d10+100 2d4+2 crush
+4 4 4 6
+HM 0 L I
+(null) (null) male 67
+AGXc ACDEFHKLPQUVX small unknown
+#3410
+Ferret Pet~
+a small gray ferret~
+A small gray ferret sneaks about searching for shiny objects.
+~
+This small rodent has gray fur with black tips.  Her small beady eyes
+dart everywhere in her quest for shiny objects.  She looks to be full grown,
+though is no bigger than a pound or two.  Her cute and fuzzy appearance is
+offset by the sharp teeth in her mouth.  
+~
+fox~
+A VZ 0 0
+25 0 8d48+400 25d10+100 3d5+7 crush
+0 0 0 2
+FH 0 0 0
+(null) (null) either 112
+AGV ACDEFHJKPQUV tiny unknown
+#3411
+Red Scorpion~
+a red scorpion~
+A red scorpion crawls slowly about, looking for a dark corner to hide in.
+~
+A blood {Rred{x scorpion crawls slowly about.  It's six hairy legs move
+slowly and surely over the ground.  The tail on this creature is tipped with
+a razor sharp barb, ready to inflict poisonous wounds on any who dare cross
+it's owner.  
+~
+centipede~
+A Z -500 0
+20 0 6d39+294 20d10+100 3d5+4 scratch
+2 2 2 4
+0 0 FI E
+(null) (null) male 90
+ABGO ACFKX small unknown
+#3412
+Soot Covered Elf~
+a soot covered elf~
+A soot covered elf works feverishly over the fire.
+~
+This small elf works feverishly over the hot fire, beating different
+metals into the fine equipment surrounding you.  As the elf glances up at
+you, you notice through the soot that the elf is female.  Her womanistic
+features are obscured almost totally by the thick black soot.  Her hair
+appears to be shortly cut and brown, and her eyes are hazel in color.  She
+immediatly looks back to her work, intent upon her craft.  
+~
+unique~
+ABRW J 0 0
+1 0 1d2+8 1d10+100 1d1+0 none
+9 9 9 10
+0 ABPQ B 0
+(null) (null) either 4
+AHMV ABCDEFGHIJK medium unknown
+#3413
+Drayton Gate Guard~
+a well dressed guard~
+This well dressed guard stands smartly at attention as he protects the gate.
+~
+This tall man is dressed in an immaculately tailored guards uniform. 
+Starting with a white beret on his head to the gold shoulder-boards over his
+hunter green shirt and pants, and shiny black shoes, he speaks of nothing
+but honor and duty.  His demeanor is one of the utmost importance as he is
+charged with guarding this gate to the mansion.  Keen blue eyes watch the
+area surrounding him with suspicion and care.  He nods slightly at your
+arrival and turns to face you.  
+~
+human~
+ABe 0 400 0
+30 0 10d60+520 30d10+100 3d6+8 none
+-1 -1 -1 0
+CEFIKU 0 0 0
+(null) (null) female 135
+AHMV ABCDEFGHIJK medium unknown
+#3414
+Scowling Secretary~
+a scowling secretary~
+An unhappy secretary works busily at her paperwork, looking up at your intrusion a scowl on her face.
+~
+Dressed in a simple red blouse and black skirt, this secretary shows
+signs of stress from her job.  Her once beautiful body is lined with the
+marks of worry and a hard life.  She stands behind her desk day in and out,
+floating slightly off of the floor.  Her once long and golden hair is now
+tinted with gray, blending in with her pale skin a little better.  She looks
+up at your disturbance with a scowl for the interruption.  
+~
+unique~
+AB TUV 450 0
+15 0 5d31+200 15d10+100 2d4+2 beating
+4 4 4 6
+U 0 D CN
+(null) (null) either 67
+AHMV ABCDEFGHIJK medium unknown
+#3415
+old judge~
+an old judge~
+An old judge pores over a stack of cases.
+~
+A small and withered man sits tirelessly at his desk working over the
+endless mounds of paper.  His thin white hair and long mustache do nothing
+to hide the intelligence that shines in his eyes when he bothers to look up.
+The small {Bblue{x pen clenched in his trembling hand is used for signing
+the documents to sentence criminals to their punishments.  He mumbles loudly
+to himself at your interruption before looking up at you.  
+~
+human~
+AB 0 0 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+0 0 0 0
+(null) (null) female 112
+AHMV ABCDEFGHIJK medium unknown
+#3416
+Lacerti Criminal~
+a blood covered lacerti~
+A leathery looking lacerti stands chained to the wall.
+~
+This small lacerti is chained to the wall with a single steel band.  From
+his black emotionless eyes to his sharp and sinister claws, he gives the
+feeling of death lurking about.  He stares at you as you enter, the dried
+blood around his mouth and claws evidence of the menace he brought to this
+community.  He is clothed in a simple vest made out of what seems to be
+human skin.  
+~
+unique~
+AB 0 -1000 0
+65 10 11d352+1789 65d10+100 5d8+19 slash
+-15 -15 -15 -13
+CE L 0 0
+(null) (null) female 292
+AGHMVXc ABCDEFGHIJKLPUVX medium unknown
+#3417
+Captain Drayton Guard Man~
+the Captain of the Drayton Guards~
+This large man sits idly behind his desk chatting with the warden.
+~
+This large man is dressed in an immaculate set of shiny armor.  His rough
+shaven face does nothing but enhance the fact that he is very muscular. 
+From his dark brown hair and blue eyes to his gigantic feet, his body is
+nothing but an image of strength.  Printed neatly in the center of his armor
+is the seal of Drayton, and a royal green cape is draped over his shoulder. 
+This man is surely suited for his role as the Captain of the Drayton Guards.
+He glances up at you upon your arrival, a questioning look on his face.  
+~
+human~
+ABe 0 300 0
+40 10 10d98+804 40d10+100 4d7+10 digestion
+-5 -5 -5 -3
+CEI 0 0 0
+(null) (null) female 180
+AHMV ABCDEFGHIJK medium unknown
+#3418
+Warden Elf~
+the Warden~
+This tall slender elf leans against the desk chatting with the captain.
+~
+This slender elf is quite tall in comparison to most humans.  His long
+white hair and green eyes do little to hide his serious demeanor.  His form
+fitting clothes are hunter green in color and seem to be a single piece. 
+Wrapped around his legs are a set of silver leggings of some type, elven
+designs clearly engraved on their surface.  He looks up at you and nods at
+your arrival.  
+~
+unique~
+ABe J 300 0
+40 0 10d98+804 40d10+100 4d7+10 none
+-5 -5 -5 -3
+CE 0 B 0
+(null) (null) female 180
+AHMV ABCDEFGHIJK medium unknown
+#3419
+Dwarf Slave Girl~
+a small dwarven girl~
+A small dwarven girl walks slowly down the road, picking up goods for her master.
+~
+Dressed in rags this small dwarven girl is obviously someones slave.  Her
+flame red hair is perhaps the brightest thing about her.  She walks slowly
+along the pathway, her green eyes never lifting from the ground.  Carried on
+her back, a heavy sack full of goods can be seen, and scars from a whip of
+some type are visible on the back of her neck.  
+~
+unique~
+A J 500 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+0 0 CLQ R
+(null) (null) either 112
+AHMV ABCDEFGHIJK medium unknown
+#3420
+Dwarven Criminal Thief Dwarf~
+a stocky looking dwarf~
+A stocky dwarf is covered in dirt and grime, a scowl on his face as he slinks in the shadows.
+~
+This stocky dwarf is covered in dirt and grime from his head to toes. 
+His large hands and feet make for silent and sure movements when he wants
+and his sharp eyes never miss anything.  His scowling face leaves little
+doubt as to his nature and intentions.  He notices your arrival and slips
+quietly towards you with a dagger in his hands.  
+~
+unique~
+A J -750 0
+35 0 10d76+654 35d10+100 4d6+9 none
+-3 -3 -3 -1
+BFKN 0 CLQ R
+(null) (null) female 157
+AHMV ABCDEFGHIJK medium unknown
+#3421
+Scantily Clad Woman Lady~
+a scantily clad woman~
+A scantily clad woman leans against the side of the tavern trying to pick up guys.
+~
+This woman leans carefully against the side of the tavern.  Judging from
+her posture, it is obvious she is trying to find someone to take home with
+her.  Her black hair, brown eyes and full red lips do nothing to ease the
+attraction.  Enhancing it further is what she is clothed in.  Covering her
+body from the neck to her mid-thighs, she is dressed in a chain link dress. 
+The links look to be made of mithril, and are hooked together with large
+steel rings.  The effects of this dress are obvious.  It allows anyone to
+see right through it and observe her body, and it is obvious that she is
+wearing nothing underneath.  As she notices your gaze she moves slowly and
+teasingly towards you.  
+~
+human~
+AB 0 -50 0
+20 0 6d39+294 20d10+100 3d5+4 beating
+2 2 2 4
+0 0 0 0
+(null) (null) either 90
+AHMV ABCDEFGHIJK medium unknown
+#3422
+Small Elven Boy~
+a small elven boy~
+A small elven boy sleeps comfortably in the hammock.
+~
+This small elven boy looks to be about ten years old.  He stands about
+four and a half feet tall and has silver hair that cascades down around his
+shoulders.  His closed eyes give him a peaceful look as he snoozes on the
+hammock.  He is clothed in a pair of green shorts and a yellow shirt, which
+suggests he is not from around here.  The quality of the garments indicate
+he is from a well off family.  He mumbles quietly in his sleep as you
+approach.  
+~
+unique~
+ABH J 1000 0
+15 0 5d31+200 15d10+100 2d4+2 beating
+4 4 4 6
+0 0 B 0
+sleep (null) female 67
+AHMV ABCDEFGHIJK medium unknown
+#3423
+Tall Elven Male Man~
+a tall elven man~
+A tall elven man swims around in the pool.
+~
+This tall elven man is clothed in a set of green swimming shorts.  His
+silver hair and blue eyes give him an understated but handsome look, and he
+can often be seen giving the young lady near him smiles.  His slightly
+pointed ears casually listen to his surroundings as he swims.  He looks up
+at you with interest as you approach.  
+~
+unique~
+AB J 500 0
+20 0 6d39+294 20d10+100 3d5+4 digestion
+2 2 2 4
+CU 0 B 0
+(null) (null) female 90
+AHMV ABCDEFGHIJK medium unknown
+#3424
+Drayton Guard~
+a drayton guard~
+This Drayton guard wanders around the barracks, getting ready for work.
+~
+Little of this guard can be seen beyond his armor, the most visible thing
+about him is that he is well built.  A few loose strands of blonde hair can
+be seen peeking out from under his helmet, and his clear blue eyes take in
+everything around him.  His gaze passes over you, taking in your arrival and
+judging whether or not your a threat.  His hand tightens on the flail coiled
+up at his side in preperation for the unexpected.  
+~
+human~
+Ae HO 500 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+C 0 0 0
+(null) (null) female 112
+AHMV ABCDEFGHIJK medium unknown
+#3425
+Drayton Woman~
+a young woman~
+A young woman walks around, admiring the views.
+~
+This tall young lady stands before you.  A beautiful dress covers her
+form, contrasting perfectly with her auburn hair and green eyes.  She
+carries in her arms, a small bundle of flowers that looks to be freshly
+picked.  She smiles and curtseys at your arrival.  
+~
+human~
+A 0 400 0
+10 0 3d23+120 10d10+100 2d3+2 beating
+6 6 6 6
+0 0 0 0
+(null) (null) either 45
+AHMV ABCDEFGHIJK medium unknown
+#3426
+Drayton Tourist Male~
+a burly tourist~
+A burly tourist sits in the grass, painting a picture.
+~
+The burly man sitting before you is dressed in a bright red beret, a
+green jacket, and a pair of purple pants.  He stares fixedly at the
+parchment standing in front of him, upon which he is painting a picture of
+the parks center.  His dress and demeanor suggests he is a tourist of some
+sort.  
+~
+human~
+A OV 0 0
+25 0 8d48+400 25d10+100 3d5+7 none
+0 0 0 2
+C 0 0 0
+stand stand female 112
+AHMV ABCDEFGHIJK large unknown
+#3427
+Beautiful Peacock~
+a beautiful peacock~
+A beautiful peacock walks around slowly, its beautiful tail-feathers spread open on display.
+~
+Walking around slowly in front of you is a large peacock.  It's beautiful
+feathers are portrayed behind it as though to dare any to oppose their
+beauty.  This is truly a magnificent bird to behold.  
+~
+unique~
+A CDEFOTVZ 0 0
+10 0 3d23+120 10d10+100 2d3+2 divine
+6 6 6 6
+0 0 L 0
+(null) (null) female 45
+ACGHLMV ABCDEFGHIJK medium unknown
+#3428
+Peahen~
+a peahen~
+A rather small and dull looking peahen scratches about for seeds, screeching loudly at your arrival.
+~
+This small bird is covered in a variety of dull looking feathers, her
+sharp beak snaps closed loudly as she scratches about for seeds.  
+~
+unique~
+A CDEFTZ 0 0
+5 0 1d12+53 5d10+100 1d2+1 divine
+8 8 8 8
+0 0 L 0
+(null) (null) either 22
+ACGHLMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#3400
+Clear Fluid~
+a clear fluid~
+A clear, tasteless fluid swirls around in an oddly shaped vial.~
+unknown~
+potion N A
+55 'reserved' 'reserved' 'reserved' 'reserved'
+40 0 1200 P
+#3401
+Cash Drawer~
+a cash drawer~
+A small cash drawer sits on the counter.~
+unknown~
+container R 0
+50 AC 0 0 0
+0 0 0 P
+#3402
+Neatly Sorted Gold Coins~
+neatly sorted gold coins~
+Several small piles of neatly sorted gold coins line the cash drawer.~
+unknown~
+money 0 A
+CEFGHI 0 0 0 0
+1 0 0 P
+#3403
+A Plain Pretzel~
+a plain pretzel~
+A hot and delicious plain pretzel.~
+unknown~
+food N A
+C 0 0 0 0
+1 1 2 P
+#3404
+a salted pretzel~
+a salted pretzel~
+A delicious looking salted pretzel.~
+unknown~
+food N A
+C 0 0 0 0
+1 1 2 P
+#3405
+a cinnamon and sugar pretzel~
+a cinnamon and sugar pretzel~
+A hot and delicious looking cinnamon and sugar pretzel.~
+unknown~
+food 0 A
+C 0 0 0 0
+1 1 2 P
+#3406
+A Sesame Seed Pretzel~
+a sesame seed pretzel~
+A fresh sesame seed pretzel~
+unknown~
+food N A
+C 0 0 0 0
+1 0 2 P
+#3407
+Small Spectacles~
+a pair of small spectacles~
+A pair of small spectacles.~
+unknown~
+clothing N AT
+0 0 0 0 0
+1 1 0 P
+#3408
+Guinness Pint~
+a pint of Guinness~
+A dark-ale poured into a large pint glass is known as Guinness.~
+unknown~
+drink N AO
+3 3 'dark ale' 0 0
+1 1 3 P
+#3409
+salty peanuts~
+some salty beer peanuts~
+Some salty looking beer peanuts.~
+unknown~
+food N A
+B 0 0 0 0
+1 0 2 P
+#3410
+Bagpipes~
+a well used pair of bagpipes~
+A well used pair of bagpipes is here.~
+unknown~
+wand N AO
+40 4 2 'reserved' 0
+30 2 150 P
+#3411
+Animal Crackers~
+some assorted animal crackers~
+An assortment of animal crackers.~
+unknown~
+food N A
+AB 0 0 0 0
+1 0 2 P
+#3412
+swirling blue potion~
+{xa {Bs{Ww{Bi{Wr{Bl{Wi{Bn{Wg {Bblue{x potion~
+{xA {Bs{Ww{Bi{Wr{Bl{Wi{Bn{Wg {Bblue{x potion sits here.~
+unknown~
+potion N A
+65 'reserved' 'reserved' 'reserved' 'reserved'
+30 0 2000 P
+#3413
+Bloodred Blood Red Potion~
+a blood-red potion~
+A thick looking blood-red potion.~
+unknown~
+potion N A
+35 'reserved' 'reserved' 'reserved' 'reserved'
+20 0 3000 P
+#3414
+gray vial~
+a {Kgray{x vial~
+This unhappy secretary works busily at her desk, a scowl crossing her face at your intrusion.~
+unknown~
+potion N A
+55 'reserved' 'reserved' 'reserved' 'reserved'
+55 0 1650 P
+#3415
+Vanilla Ice Cream~
+a large bowl of vanilla ice cream~
+A large bowl of delicious vanilla ice cream.~
+unknown~
+food N A
+AB 0 0 0 0
+1 0 2 P
+#3416
+Cookie Dough Ice Cream Bowl~
+a bowl of {Kc{xo{Ko{xk{Ki{xe dough ice cream~
+A large bowl of delicious cookie dough ice cream.~
+unknown~
+food N A
+AB 0 0 0 0
+1 0 2 P
+#3417
+Large Hammock~
+a large hammock~
+A large comfortable looking hammock is tied between two trees.~
+unknown~
+furniture R 0
+0 0 0 0 0
+1 5000 0 P
+#3418
+Small Bench~
+a small bench~
+A small bench is placed near the fountain.~
+unknown~
+furniture R 0
+0 0 0 0 0
+1 0 0 P
+#3419
+Large Stone Fountain~
+a large stone fountain~
+This large stone fountain is full of sparkling water.~
+unknown~
+fountain R 0
+0 0 'water' 0 0
+1 0 0 P
+#3420
+Large Pool~
+a large pool of water~
+A large pool of water.~
+unknown~
+fountain 0 0
+0 0 'water' 0 0
+1 0 0 P
+#3421
+Gazebo Bench~
+a small bench~
+A small comfortable bench.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#3422
+Smoked Beef~
+some delicious smoked beef~
+A delicious looking hunk of smoked beef.~
+unknown~
+food N A
+BD 0 0 0 0
+1 0 2 P
+#3423
+Smoked Chicken~
+some delicious smoked chicken~
+A delicious piece of smoked chicken.~
+unknown~
+food N A
+BD 0 0 0 0
+1 0 2 P
+#3424
+Smoked Turkey Breast~
+some smoked turkey breast~
+Some delicious smoked turkey breast.~
+unknown~
+food N A
+BD 0 0 0 0
+1 0 2 P
+#3425
+Smoked Lamb~
+some delicious smoked lamb~
+Some delicious smoked lamb.~
+unknown~
+food N A
+BD 0 0 0 0
+1 0 2 P
+#3426
+Brass Key~
+a small brass key~
+A small brass key lies here.~
+unknown~
+key N AO
+0 0 0 0 0
+1 0 0 P
+#3427
+Brown Burlap Sack~
+a brown burlap sack~
+A heavy looking brown burlap sack.~
+unknown~
+container N AO
+40 A 0 0 0
+1 1 100 P
+#3428
+Slender Steel Mace~
+a slender steel mace~
+A slender steel mace lies here.~
+unknown~
+weapon NT AN
+staff 14 12 claw 0
+89 2 445 P
+#3429
+teddy bear~
+a soft brown teddy bear~
+A soft brown teddy bear looks absolutely huggable.~
+unknown~
+treasure N AO
+0 0 0 0 0
+1 1 10 P
+#3430
+plain sword~
+a plain sword~
+A plain steel sword with a glistening edge lies here.~
+unknown~
+weapon N AN
+sword 6 8 lunge D
+25 5 125 P
+#3431
+plain armor~
+a set of plain armor~
+Some simple armor lies neatly on the ground.~
+unknown~
+armor N AD
+C C C A 0
+25 20 125 P
+#3432
+Red and White Booth~
+a small booth~
+A small, comfortable looking booth is located near the window to provide for a spectacular view.~
+unknown~
+portal R 0
+0 0 0 ABCDFGIKL 0
+0 0 0 P
+#3433
+Beautiful Rose Flower~
+{xa beautiful {Rred{x rose~
+A beautiful {Rred{x rose peeks out from underneath the bushes.~
+unknown~
+protect NR AQ
+0 0 0 0 0
+30 1 1000 P
+A
+24 -1
+#3434
+brick water fountain~
+a small brick fountain~
+A small brick fountain constantly fills with fresh cold water.~
+unknown~
+fountain R 0
+0 0 'water' 0 0
+1 0 0 P
+#3435
+A Black Overcoat~
+a black overcoat~
+An immaculately tailored overcoat hangs neatly from the clothes rack.~
+unknown~
+armor N AK
+C C C A 0
+25 3 125 P
+#3436
+Masamune Sword~
+a Masamune sword~
+This curved six foot sword glitters brightly in the light, its razor sharp edge dangerous and wicked looking.~
+unknown~
+weapon GNRT AN
+sword 12 16 slice D
+100 5 500 P
+A
+18 1
+A
+19 3
+#3437
+pool water portal~
+a small pool of water~
+The water is perfectly clear, though the red and white pebbles visible in the bottom of it don't seem to belong.~
+unknown~
+portal R 0
+0 0 0 DEFGIKL 0
+0 0 0 P
+#3438
+Bubbling Fountain~
+a small bubbling fountain~
+This small bubbling fountain sparkles with many different colors.~
+unknown~
+portal R 0
+0 0 0 ABCEFGIKL 0
+0 0 0 P
+#3439
+Ice Cream Parlor Portal~
+the ice cream parlor~
+The ice cream parlor remains outside of the booth.~
+unknown~
+portal R 0
+0 0 0 EGIKL 0
+0 0 0 P
+#3440
+Drayton Mansion Key~
+a small silver key~
+A small silver key with the symbol for Drayton engraved upon it lies here.~
+unknown~
+key W AO
+0 0 0 0 0
+1 1 0 P
+#3441
+Huge Bed~
+a huge and comfortable bed~
+A huge and comfortable looking bed is covered in thick green blankets.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 900 0 P
+#3442
+Wooden Wardrobe~
+a large wooden wardrobe~
+A wooden wardrobe is here.~
+unknown~
+container R 0
+0 ACD 3440 0 0
+1 50 0 P
+E
+wardrobe~
+This wooden wardrobe is matched with the rest of the room in size and 
+beauty.  Its marvelous wooden surface is engraved with several types of 
+flowers.  The simple lock on its surface seems to be all that holds it 
+closed.  
+~
+#3443
+Leather Couch~
+a comfortable leather couch~
+This suede leather couch is covered in thick and comfortable looking cushions.~
+unknown~
+furniture R 0
+0 0 0 0 0
+1 600 0 P
+#3444
+elegant black dress silk pile~
+an elegant black dress~
+A nearly transparent pile of silk is here.~
+unknown~
+clothing N AD
+0 0 0 0 0
+30 2 10000 P
+A
+4 1
+A
+5 1
+E
+dress~
+This elegant black dress has been designed to show off the curves and 
+figures of its wearer.  The sheer material is nearly transparent.  
+~
+#3445
+Leather Chair~
+a suede leather chair~
+A comfortable looking suede leather chair.~
+unknown~
+furniture R 0
+0 0 0 0 0
+1 600 0 P
+#3446
+Gate Key~
+a small iron key~
+This small iron key has been carefully made.~
+unknown~
+key W AO
+0 0 0 0 0
+1 1 0 P
+#3447
+Burning Sphere~
+a burning sphere~
+This sphere of intense flame floats magically in the air.~
+unknown~
+weapon 0 AN
+exotic 6 8 slap A
+25 0 125 P
+#3448
+Hunter Green Armor~
+hunter green armor~
+This light armor is covered in hunter green cloth and topped by gold shoulder boards.~
+unknown~
+armor 0 AD
+C C C A 0
+25 10 125 P
+A
+17 -1
+#3449
+Faded Sign~
+a faded sign~
+This faded sign is tacked to the wall with a small nail.~
+unknown~
+treasure R 0
+0 0 0 0 0
+0 0 1 P
+E
+sign~
+Offices:
+South - Lobby
+South - Ready Room
+East  - Judges Quarters
+East  - Wardens office
+East  - Holding Cell
+East  - Captain of the Guards Office
+~
+#3450
+blue pen~
+a {Bblue{x pen~
+A {Bblue{x pen has been left here.~
+unknown~
+wand 0 AO
+25 3 3 'reserved' 0
+25 1 125 P
+#3451
+Human Skin Vest~
+a vest made of human skin~
+Several pieces of human skin have been sewn together to form this vest.~
+unknown~
+clothing 0 AD
+0 0 0 0 0
+65 1 150 P
+#3452
+Sinister Claws~
+sinister claws~
+Sinister claws are covered in dried blood.~
+unknown~
+weapon MPU AN
+exotic 9 14 slash D
+65 1 325 P
+A
+18 1
+A
+19 1
+#3453
+Steel Band~
+a steel band~
+A strong steel band with a hook for attaching chains is here.~
+unknown~
+protect BEGMU AU
+BE BE BE C 0
+65 4 800 P
+A
+14 -1000
+A
+2 -2
+A
+13 15
+#3454
+Silver Boots~
+a pair of silver boots~
+These silver boots glisten in the light.~
+unknown~
+armor 0 AG
+BC BC BC B 0
+40 0 200 P
+A
+12 15
+#3455
+Silver Leggings~
+a pair of silver elven leggings~
+These silver leggings are engraved with elven words.~
+unknown~
+armor 0 AF
+BC BC BC B 0
+40 2 200 P
+A
+12 25
+#3456
+Small Dagger~
+a small dagger~
+A small brass dagger has a dull look but a sharp tip.~
+unknown~
+weapon 0 AN
+bow 6 8 crunch 0
+25 2 125 P
+#3457
+Mithril Hoop Dress~
+a see-through chain dress~
+This long dress is made entirely of mithril chain. It has been hooked together with large steel rings, allowing you to see right through it.~
+unknown~
+armor 0 AD
+AB AB AB A 0
+20 0 100 P
+A
+1 1
+#3458
+Drayton Guard Corpse~
+the corpse of a Drayton guard~
+The corpse of a Drayton guard lies on the floor, his body shredded and mutilated beyond recognition.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 1 P
+#3459
+Steel Flail~
+a steel flail~
+A steel flail with the Drayton symbol engraved upon it lies here.~
+unknown~
+weapon K AN
+axe 6 8 jab D
+25 3 125 P
+#3460
+small drayton box~
+a small wooden box~
+This small box has the Drayton symbol engraved upon it's lid.~
+unknown~
+container R AO
+60 AC 0 0 0
+1 1 10 P
+#3461
+Drayton Handcuffs~
+a pair of heavy handcuffs~
+These handcuffs look to be quite heavy and secure.~
+unknown~
+armor ABHMU AH
+A A A 0 0
+10 2 50 P
+A
+18 -30
+A
+19 -30
+A
+2 -3
+#3462
+Mint Icecream Ice Cream~
+a large bowl of {cmint{x flavored ice cream~
+A large bowl of delicious {cmint{x flavored ice cream.~
+unknown~
+food 0 A
+BD 0 0 0 0
+1 0 2 P
+#3463
+Long Stem Rose~
+a beautiful long stemmed rose~
+A beautiful long stemmed rose lies here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+15 0 150 P
+#3464
+Purple Pants~
+some purple pants~
+A pair of purple pants have paint smeared on them.~
+unknown~
+clothing 0 AF
+0 0 0 0 0
+20 0 0 P
+A
+18 1
+A
+19 1
+#3465
+Peacock Feather~
+a beautiful peacock feather~
+A beautiful peacock feather has been dropped.~
+unknown~
+wand Q AO
+30 1 1 'reserved' 0
+10 0 50 P
+#3466
+Drayton Portal~
+a portal to Drayton~
+A portal to the cirt of Drayton is here.~
+unknown~
+portal 0 A
+A 0 0 DGIKL 0
+5 1 500 P
+#3467
+Mithril Chain~
+a long piece of mithril chain~
+This long piece of linked mithril has been fit together to form a very strong and sturdy chain.~
+unknown~
+armor 0 AH
+0 0 0 0 0
+0 0 1 P
+A
+14 -1500
+A
+19 -100
+A
+18 -100
+#3468
+Leather Couch~
+a {rdark-red{x leather couch~
+This {rdark-red{x leather couch is large and comfortable.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#3469
+Rack~
+a heavy wooden rack~
+This heavy wooden rack is made of old but solid wood, complete with metal straps to hold the victim down.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+E
+rack~
+The rack itself is made of decidedly ancient wood, solid, heavy, and
+secure.  Iron clasps have been attached to the rack in just the right
+positions for the arms and legs, and a wide one for the waist.  Each for the
+intent of holding the victim still.  The table set off to the side is a
+horror to behold.  Its surface has been littered with many different sharp
+objects, each appearing old and rusty.  The sole purpose of these things is
+to aid the owner in torture.  The sharp knives and large pins appear to be
+stained with old blood, as does the multi-tailed whip with metal barbs
+imbedded into the leather.  
+~
+#3470
+Black Key~
+a black key~
+A heavy black key has been left here.~
+unknown~
+key SW A
+0 0 0 0 0
+0 0 0 P
+#3471
+Canopy Bed~
+a large canopy bed~
+This large canopy bed is covered in black and red material.~
+unknown~
+container R 0
+10000 AC 0 0 0
+0 0 0 P
+#3472
+Black Trench Coat~
+a black leather trench coat~
+A black leather trench coat has been left here.~
+unknown~
+clothing S AK
+0 0 0 0 0
+1 0 0 P
+#3473
+Silk Canopy Bed Black~
+a canopied bed~
+This large canopy bed is draped with black silk cloth and appears to be very alluring.~
+unknown~
+furniture R 0
+0 0 0 0 0
+0 0 0 P
+#3474
+official poster~
+an official poster~
+An official poster~
+unknown~
+trash R 0
+0 0 0 0 0
+0 400 1 P
+E
+official~
+{RA message from Royal Maglos:
+ 
+The haitorin known as Keiran is charged with murder, intent to murder,
+threats against the Utopian populace to that end, and threats of theft
+towards the Utopian people.  I will not let this stand.  The haughty
+thief believes he can challenge a whole Realm and expect us all to
+give in.  I say no--I say that if you all unite firmly behind me, we
+can rid ourselves of this plague of theft and murder forever.
+ 
+{WI shall not desert my people to a petty haitorin.
+
+If he is declaring war by himself against Utopia, then I declare war on
+him, with all of the forces of Utopia.  I ask that you, the people,
+join me against this rabble-rouser and we shall be forever rid of
+future problems in our nation.  Have I not provided security for you?
+Are we not prospering as a nation?
+ 
+We can end this for good.
+ 
+Maglos Nefriti
+Lord of {RU{mtopia{x
+~
+E
+poster~
+{RA message from Royal Maglos:
+ 
+The haitorin known as Keiran is charged with murder, intent to murder,
+threats against the Utopian populace to that end, and threats of theft
+towards the Utopian people.  I will not let this stand.  The haughty
+thief believes he can challenge a whole Realm and expect us all to
+give in.  I say no--I say that if you all unite firmly behind me, we
+can rid ourselves of this plague of theft and murder forever.
+ 
+{WI shall not desert my people to a petty haitorin.
+ 
+If he is declaring war by himself against Utopia, then I declare war on
+him, with all of the forces of Utopia.  I ask that you, the people,
+join me against this rabble-rouser and we shall be forever rid of
+future problems in our nation.  Have I not provided security for you?
+Are we not prospering as a nation?
+ 
+We can end this for good.
+ 
+Maglos Nefriti
+Lord of {RU{mtopia{x
+~
+#3499
+dress~
+a long silken dress~
+A long silken dress looks absolutely beautiful.~
+unknown~
+clothing N AD
+0 0 0 0 0
+1 0 0 P
+#0
+
+
+
+#ROOMS
+#3400
+The Center Square~
+{xYou stand on a beautiful walkway that leads off in each direction. 
+Planted neatly along the edge are several small trees, each an equal
+distance apart.  Imbedded in the middle of this walk is a small steel
+circle.  The ground around the walkway is covered in soft {Ggreen{x grass
+that seems to always be freshly cut.  In each direction, you see more
+buildings, indicating this is a highly populated area.  
+~
+0 0 2
+E
+circle~
+A small steel circle is laid into the walkway with the word 'Drayton'
+imprinted in the center of it.  
+~
+D0
+~
+~
+~
+0 0 3401
+D1
+~
+~
+~
+0 0 3425
+D2
+~
+~
+~
+0 0 3456
+D3
+~
+~
+~
+0 0 3459
+M 0 H 0
+S
+#3401
+Northern Walkway~
+You are on the northern walkway, headed towards what seems to be the
+merchant sector of the city.  Lining the sides of the walkway are small
+trees, evenly spaced apart.  The grass to each side is soft and {Ggreen{x,
+seeming to be freshly cut.  To the south of your location, the walkway seems
+to branch out in other directions.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 3402
+D2
+~
+~
+~
+0 0 3400
+M 0 H 0
+S
+#3402
+Drayton Market Square~
+You are standing on a beautiful walkway, that branches to the east and
+west, leading to the many shops and stores in Drayton.  Directly to your
+north is a large dusty looking building with a small sign depicting potions
+hanging from the face.  To your south, the walkway leads to a quieter area. 
+~
+0 0 2
+D0
+~
+~
+~
+0 0 3403
+D1
+~
+~
+~
+0 0 3417
+D2
+~
+~
+~
+0 0 3401
+D3
+~
+~
+~
+0 0 3404
+M 0 H 0
+S
+#3403
+The Potion Palace of Drayton~
+All around you, except to the south, tall wooden shelves line the walls. 
+The shelves on the wall are covered in a variety of containers full of
+different liquids.  Perhaps the largest and most dominant thing in this
+building is the huge counter running from the eastern wall to the western
+wall.  A small cash drawer is visible in the center, while the old man
+tending it seems to be sleeping.  The only exit visible is to the south.  
+~
+0 8 0
+E
+huge counter~
+An old and heavy wooden counter runs from wall to wall, keeping you away
+from the wares on the many shelves in the store.  
+~
+D2
+~
+~
+~
+0 0 3402
+M 0 H 0
+S
+#3404
+West Drayton Market~
+Lining each side of this walkway are rows of buildings.  Some large, some
+small, yet all jam packed with the many wares their owners are trying to
+sell.  To the east you can see the beginnings of the trees and grass, where
+the walkways turns towards the south.  To the north lies a small building,
+its windows covered by shades from the interior, the doorway dark and
+ominous.  To the south is a brightly lit brick building with a pretzel
+symbol on the front.  It has green shutters around the two windows on each
+side of the doorway, and the smell of baked goods wafts out onto the street.
+~
+0 0 2
+D0
+~
+~
+~
+0 0 3406
+D1
+~
+~
+~
+0 0 3402
+D2
+~
+~
+~
+0 0 3407
+D3
+~
+~
+~
+0 0 3405
+M 0 H 0
+S
+#3405
+End of Western Drayton Marketplace~
+A large white stone wall rises out of the ground directly to the west,
+stopping any further travel that way.  To the east the walkway leads back to
+more shops.  Directly to the north lies a small {Wwhite{x building.  It is
+built of sturdy looking timber, and the windows are framed in bright
+{Rred{x.  To the south, you can see the beginnings of a large and
+extravagant park.  Full of trees and bright {Ggreen{x grass.  Several places
+are setup to picnic in, and there is a small sign located at the edge of the
+walkway.  
+~
+0 0 2
+E
+sign~
+A beautifully crafted sign is located here, seeming to float magically in
+mid-air.  At the top of the sign in large letters, 'Greenwood Park' is
+imprinted.  Underneath that in smaller letters, 'This park is dedicated to
+the heroes and children of this world.  For without them, we would have
+nothing.'
+~
+D0
+~
+~
+~
+0 0 3408
+D1
+~
+~
+~
+0 0 3404
+D2
+~
+~
+~
+0 0 3409
+M 0 H 0
+S
+#3406
+The Guinness Dog~
+The interior of this room is dark yet friendly.  A medium sized bar lines
+the back center of the room, for customers to purchase drinks and sit
+around.  Lining the walls are small tables with three chairs, while in the
+center are two large tables, with four chairs situated around them.  Behind
+the bar, a pretty young lady and a handsome young man patiently waits to
+take your order, and in the north-eastern corner, a small pipe band plays
+music for the customers.  To the south lies the exit to the walkway.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 3404
+M 0 H 0
+S
+#3407
+Maud's Pretzel House~
+Upon entering this brightly lit building, your senses are assaulted with
+the wonderful smells of baked goods.  Comfortable looking booths line the
+northern walls, pushed up to the windows to allow a view outside.  Towards
+the rear of the store, a small counter sits, several varieties of pretzels
+are arranged neatly for you to choose from.  An old lady stands behind the
+counter patiently waiting your order.  To the north, the exit leads back out
+to the western market.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3404
+M 0 H 0
+S
+#3408
+Drayton Ice Cream Parlor~
+You are located in a small white painted building.  The red framed
+windows facing the road offer a view of the small park across the street. 
+Lining the northern wall, you can see various pieces of equipment and
+several ice boxes for storing the ice cream.  Situated against the eastern
+and western walls, small {Rred{x and{W white{x checkered booths have been
+placed.  Situated on top of the counter is a small device for purchasing the
+ice cream.  To the south lies the walkway for the marketplace and across it,
+the park.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 3405
+M 0 H 0
+S
+#3409
+Entrance to Greenwood Park~
+{xYou are at the entrance of a beautiful park.  The trees planted about
+are arranged neatly, while the {Ggrass{x is a thick and lush green.  To the
+north, you can see the marketplace walkway, and across it, a small white
+building.  Further to the south you can see a large stone fountain and more
+areas of the park.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 3405
+D2
+~
+~
+~
+0 0 3410
+M 0 H 0
+S
+#3410
+North Greenwood Park~
+All around you the sound of small birds and other creatures are plainly
+audible.  The large trees lining the path cast a comfortable shade during
+the day, and provide shelter for the animals at night.  A small footpath
+leads to the north and south.  To the north a stone walkway is visible,
+while to the south a large clearing with a stone fountain can be seen.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 3409
+D2
+~
+~
+~
+0 0 3411
+M 0 H 0
+S
+#3411
+Center of Greenwood Park~
+You are in a large clearing of this park, the trees are arranged in a
+large square, forming a wide area in which to rest.  Directly in the center
+of the clearing, a large stone fountain can be seen, spewing crystal clear
+water up into the air.  Arranged neatly around the fountain, are two small
+benches, and a large comfortable looking hammock.  All around you, small
+footpaths can be seen heading off in each direction.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 3410
+D1
+~
+~
+~
+0 0 3413
+D2
+~
+~
+~
+0 0 3412
+D3
+~
+~
+~
+0 0 3414
+M 0 H 0
+S
+#3412
+Southern Footpath~
+Situated to your east and west, tall beautiful trees stand, shading the
+small footpath.  Directly to your south, the path ends against a small
+wooden structure, while to the north, you can see a large clearing with a
+fountain in it.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 3411
+D2
+~
+~
+~
+0 0 3415
+M 0 H 0
+S
+#3413
+Eastern Footpath~
+Situated to your north and south, tall beautiful trees stand, shading the
+small footpath.  Directly to your east, a large pool of water is visible,
+while to your west, a large clearing with a fountain in it is visible.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 3416
+D3
+~
+~
+~
+0 0 3411
+M 0 H 0
+S
+#3414
+Western Footpath~
+Situated to your north and south, tall beautiful trees stand, shading the
+small footpath.  Further to your west, a large white wall is visible,
+blocking all further passage.  To your east lies a large clearing with a
+fountain.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 3411
+M 0 H 0
+S
+#3415
+A Small Gazebo~
+The small wooden structure situated around you is in the form of a small
+gazebo.  The beautiful and dark wood that makes it up seems to be taken from
+the same type of trees located to the north.  Directly over your head, the
+roof of the gazebo protects you from the elements, and small benches line
+the edges.  Directly to your north, a small footpath leads back towards a
+large clearing.
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3412
+M 0 H 0
+S
+#3416
+Large Pool of Water~
+Located in the center of this clearing lies a large pool of water.  It is
+lined all the way around it by small but thick green bushes, ensuring
+privacy.  The pool itself looks to have been dug by hand, and the bottom and
+sides lined with many multi-colored bricks.  The clear water sparkles and
+shines under the sun.  To your west lies a small footpath.  
+~
+0 0 2
+D3
+~
+~
+~
+0 0 3413
+M 0 H 0
+S
+#3417
+East Drayton Market~
+All around you the grass and trees have been replaced by buildings.  Some
+large, some small, yet all jam packed with the many wares their owners are
+trying to sell.  To the west you can see the beginnings of the trees and
+grass, where the walkways turns towards the south.  To the north lies a
+small plain wooden building with a large chimney protruding from the top.  A
+burned emblem on the front of the building resembles a small steer.  To the
+south lies a brick building that seems to be empty.  The door upon it
+locked.  To the east the walkway continues to more stores.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 3419
+D1
+~
+~
+~
+0 0 3418
+D2
+~
+~
+~
+3 3426 3420
+D3
+~
+~
+~
+0 0 3402
+M 0 H 0
+S
+#3418
+End of Eastern Drayton Market~
+You have reached the end of the eastern walkway.  A large stone wall
+painted white blocks any further passage to the east, while to the west the
+walkway leads back towards more shops.  To the north is a grassy lot with a
+small cart in the center of it.  A faded picture has been painted up its
+canvas roof in the shape of an animal.  A large stone building built to the
+south has the sign of a mace and armor chipped into its surface.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 3422
+D2
+~
+~
+~
+0 0 3424
+D3
+~
+~
+~
+0 0 3417
+M 0 H 0
+S
+#3419
+Drayton Meat Market~
+You arrive amid a savory smell of smoking meats.  A large fireplace
+against the north wall gives evidence of where the meat is cooked, while to
+the south lies the exit back to the walkway.  Hanging from the ceiling from
+hooks are many different varieties of meats, all smoked to perfection.  A
+tall black human moves between the fire and the hooks, getting the meats
+ready to sell.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 3417
+M 0 H 0
+S
+#3420
+An Abandoned Building~
+This room seems to be full of nothing but old furniture.  The remains of
+what was once a large store is plainly visible, though everything is covered
+in a heavy layer of dust.  The southern, eastern, and western walls are
+covered with barren shelves, and the only thing of interest in this room is
+a small trap door in the center of the floor.  The only visible exit is to
+the north.  
+~
+0 8 0
+D0
+~
+~
+~
+3 3426 3417
+D5
+~
+~
+~
+1 0 3421
+M 0 H 0
+S
+#3421
+A Hidden Compartment~
+The tightly confined space you have arrived in is made up of rough
+boards.  The only thing of significence here is the large brown burlap sack
+on the floor.  The only exit visible is the one above your head.  
+~
+0 8 0
+D4
+~
+~
+~
+1 0 3420
+M 0 H 0
+S
+#3422
+A Grassy Lot~
+Situated in the center of this grassy lot is a small cart.  Between the
+cart and the large stone wall to the east are several stacks of large and
+small wire cages.  Inside of these cages are an assortment of creatures to
+be purchased.  A short pot-bellied man rests in a dirty and stained chair
+located in front of the cart.  The cart itself is nothing special, it is
+faded gray wood with a canvas roof.  Painted crudely on the canvas is a
+picture of some indistinguishable animal.  To your west is the wall of the
+building in the next lot, while to your south is a stone walkway.  
+~
+0 4096 2
+E
+cart~
+A small and ugly cart is parked in the center of this lot.  It's
+weatherbeaten body shows that it has been around far longer than should be. 
+A ragged looking canvas top provides minimal shelter from the elements, and
+upon it's surface, the picture of an indistinguishable animal is noticeable. 
+~
+D2
+~
+~
+~
+0 0 3418
+M 0 H 0
+S
+#3423
+Pet_Store_Inventory~
+~
+0 1081348 0
+M 0 H 0
+S
+#3424
+Drayton Weapon and Armor Shop~
+The interior of this stone building is sparsely furnished.  The only
+thing of note is the massive amounts of weapons and armor hanging from the
+walls.  A soot covered elf works feverishly over the flame, preparing more
+weapons and armor for sale, and he glances up briefly at your arrival.  The
+only exit visible is to your north.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3418
+M 0 H 0
+S
+#3425
+Eastern Walkway~
+The beautiful walkway located here runs from the east to west.  Neatly
+spaced trees line its edges and lush {Ggreen{x grass covers the ground.  To
+your west, an area where the walkway seems to branch off into different
+directions is visible.  Further to your east a large building is visible
+over the trees.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 3426
+D3
+~
+~
+~
+0 0 3400
+M 0 H 0
+S
+#3426
+Protective Moat~
+A large stone wall rises out of the ground to your east, and on the outer
+edge of it a deep moat is visible.  The walkway leading to the west ends
+abruptly against a narrow bridge.  The bridge leads to your east approaching
+the only break in the wall, a large wrought iron gate.  
+~
+0 0 2
+E
+gate~
+A beautifully wrought gate is set perfectly in the wall.  The iron has
+been molded into many different beautiful shapes.  The most noticeable thing
+about this gate however is the sturdy lock set in its center.  
+~
+D1
+~
+~
+~
+1 3446 3427
+D3
+~
+~
+~
+0 0 3425
+M 0 H 0
+S
+#3427
+Entrance to the Drayton Mansion~
+Located all around you, the beauty visible to the eyes is not lost. 
+Everywhere you look are many different variations of trees, flowers, and
+plants.  An elegant brick footpath leads through the gardens to your east up
+to a large brick mansion.  To the west, a gate is visible allowing access to
+a stone walkway.  To the north and south, small brick footpaths are visible
+heading towards different parts of the garden.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 3428
+D1
+~
+~
+~
+0 0 3440
+D2
+~
+~
+~
+0 0 3438
+D3
+~
+~
+~
+1 3446 3426
+M 0 H 0
+S
+#3428
+East Mansion Gardens~
+Situated neatly between a large row of bushes on the east and a large
+stone wall on the west, a small brick footpath can been seen meandering
+north and south through a garden.  To the east the long row of bushes
+stretches, breaks appearing in it every now and then.  Looking through a
+break in the bushes you can see large fields of flowers and further east a
+large mansion can be seen.  Peeking out from under one bush, an
+extraordinarily beautiful flower can be seen.  The pathway leads north and
+south.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 3429
+D2
+~
+~
+~
+0 0 3427
+M 0 H 0
+S
+#3429
+North-West Mansion Gardens~
+To the north and west a large stone wall rises out of the ground.  To the
+south and east, a line of bushes can be seen stretching off into the
+distance.  Small breaks appear in the row of shrubs here and there,
+permitting a view through them.  To the south-east a large mansion is
+plainly visible.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 3430
+D2
+~
+~
+~
+0 0 3428
+M 0 H 0
+S
+#3430
+North Mansion Gardens~
+A small brick pathway leads east and west.  Directly to the south, a long
+row of bushes stretches off along the edge of the path.  Small breaks in the
+bushes allows a view of large fields of flowers and a mansion to the
+south-east.  North of you, a large stone wall rises out of the ground.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 3431
+D3
+~
+~
+~
+0 0 3429
+M 0 H 0
+S
+#3431
+North-East Mansion Gardens~
+To the west and south, a small brick pathway runs through the garden. 
+Directly to the north a large stone wall rises blocks any further passage,
+while to your south a row of hedges runs.  The pathway seems to lead towards
+the center of the large mansion to the west.  
+~
+0 0 2
+D2
+~
+~
+~
+0 0 3432
+D3
+~
+~
+~
+0 0 3430
+M 0 H 0
+S
+#3432
+West Mansion Gardens~
+To the north and south a small brick pathway runs through the gardens. 
+Directly to your east a large brick building is visible, while running along
+each side of the pathway a long row of hedges stretches.  The pathway runs
+to the north and south.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 3431
+D2
+~
+~
+~
+0 0 3433
+M 0 H 0
+S
+#3433
+Mansion Garden Crossroads~
+Located all around you in this garden, beautiful plants can be found in
+many different colors, shapes, and sizes.  Purple violets, red roses, and
+yellow sunflowers, they are all plainly visible and in great abundance. 
+Directly to the north, south, and west long rows of bushes can be seen
+stretching off towards a large wall.  Directly to the east, you can see a
+large stairway leading up to the mansion.  
+~
+0 0 2
+E
+sunflower~
+A beautiful {Yyellow{x sunflower grows here.
+~
+E
+rose~
+A beautiful {Rred{x rose grows here.
+~
+E
+violet~
+A beautiful {Mpurple{x violet grows here.
+~
+D0
+~
+~
+~
+0 0 3432
+D1
+~
+~
+~
+0 0 3441
+D2
+~
+~
+~
+0 0 3434
+D3
+~
+~
+~
+0 0 3440
+M 0 H 0
+S
+#3434
+West Mansion Gardens~
+To the north and south a small brick pathway runs through the gardens. 
+Directly to your east a large brick building is visible, while running along
+each side of the pathway a long row of hedges stretches.  The pathway runs
+to the north and south.
+~
+0 0 2
+D0
+~
+~
+~
+0 0 3433
+D2
+~
+~
+~
+0 0 3435
+M 0 H 0
+S
+#3435
+South-East Mansion Gardens~
+To the west and north, a small brick pathway runs through the garden. 
+Directly to the south a large stone wall rises blocks any further passage,
+while to the north a row of hedges runs.  The pathway seems to lead towards
+the center of the large mansion to the north-east.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 3434
+D3
+~
+~
+~
+0 0 3436
+M 0 H 0
+S
+#3436
+South Mansion Gardens~
+A small brick pathway leads east and west.  Directly to the north, a long
+row of bushes stretches off along the edge of the path.  Small breaks in the
+bushes allows a view of large fields of flowers and a mansion to the
+north-east.  South of you, a large stone wall rises out of the ground.  
+~
+0 0 2
+D1
+~
+~
+~
+0 0 3435
+D3
+~
+~
+~
+0 0 3437
+M 0 H 0
+S
+#3437
+South-West Mansion Gardens~
+To the south and east a large stone wall rises out of the ground.  To
+the north and east, a line of bushes can be seen stretching off into the
+distance.  Small breaks appear in the row of shrubs here and there,
+permitting a view through them.  To the north-east a large mansion is
+plainly visible.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 3438
+D1
+~
+~
+~
+0 0 3436
+M 0 H 0
+S
+#3438
+East Mansion Gardens~
+Situated neatly between a large row of bushes on the east and a large
+stone wall on the west, a small brick footpath can been seen meandering
+north and south through a garden.  To the east the long row of bushes
+stretches, breaks appearing in it every now and then.  Looking through a
+break in the bushes you can see large fields of flowers and further east a
+large mansion can be seen.  The pathway leads north and south.  
+~
+0 0 2
+D0
+~
+~
+~
+0 0 3427
+D2
+~
+~
+~
+0 0 3437
+M 0 H 0
+S
+#3439
+A Red and White Checkered Booth~
+You have taken a seat in this small, comfortable booth.  The table-top is
+covered in checkered {Rred{x and {Wwhite{x tiles, set ingeniously into the
+wood.  The plushly lined seats are covered in the same design as the
+table-top, though undecidedly more comfortable.  Across the room from you,
+the counter of the ice cream parlor is visible.  To the south is the large
+clear window and through it you have a magnificent view of the park beyond
+the walkway.  The ice cream parlor remains outside of the booth.  
+~
+0 33555980 0
+M 0 H 0
+S
+#3440
+Central Mansion Gardens~
+Visible all around you is a beautiful garden that stops neatly and
+uniformly at the edge of the small grassy clearing you are located in.  The
+strong smell of many different varieties of flowers keeps the gentle breeze
+that blows through smelling sweet and fresh.  An elegant brick pathway leads
+from the east, leading up to a small fountain and circling around it.  The
+pathway can be seen continuing to the west, while heading north and south
+from the fountain is a smaller pathway.  To the east a large stone mansion
+is visible while to the west is a large gate set into the stone wall.  
+~
+0 0 2
+E
+fountain~
+A small and elegenatly built fountain is located in the center of the
+circle created by the pathway.  It's crystal clear water appears to be cold
+and refreshing.  
+~
+D1
+~
+~
+~
+0 0 3433
+D3
+~
+~
+~
+0 0 3427
+M 0 H 0
+S
+#3441
+Base of Stairs~
+Rising from the ground to your east is a massive set of stairs. 
+Different shades of red, the brick staircase begins from the pathway leading
+up to it and rises up at least twenty steps.  At the top of the stairs, a
+large veranda is visible, many different flowers are arranged neatly about. 
+To the east an elegant brick footpath leads off towards a white wall in the
+distance.  
+~
+0 0 2
+E
+brick staircase stairway~
+A beautifully made brick staircase rises from the walkway leading up to
+them.  It stretches upwards at least twenty steps, leading to the front door
+of the mansion.  
+~
+D3
+~
+~
+~
+0 0 3433
+D4
+~
+~
+~
+0 0 3442
+M 0 H 0
+S
+#3442
+A Large Veranda~
+A large and beautifully made veranda stretches out before you in each
+direction.  The floor is covered in dozens of large hand painted tiles, each
+depicting a different species of flower.  Lining the edge of this veranda,
+smooth bricks have been laid to match the tiles perfectly.  Directly to the
+east, a beautiful wooden door can be seen.  Two large windows line each side
+of it, the clear glass has tiny flowers etched into it.  Located along the
+edge of the veranda, several different plants have been arranged in
+multicolored pots.  
+~
+0 0 0
+D1
+~
+~
+~
+4 3440 3443
+D5
+~
+~
+~
+0 0 3441
+M 0 H 0
+S
+#3443
+Large Foyer~
+This large foyer is decorated with beautifully crafted wooden affects. 
+The highly polished wooden floor reflects everything in the room like a
+mirror while the tall wooden walls are darkly stained.  The ceiling is a
+bright white, helping to illuminate the room and its occupants.  To the west
+a beautiful door can be seen set into the wall.  Two large windows line each
+side of it, the clear glass is decorated with tiny flowers which have been
+etched into it.  Located in the south-east corner a small wooden coat rack
+has been placed.  There are doors leading to the east, south, and west.  
+~
+0 1048584 0
+E
+coatrack coat rack coat-rack~
+This small wooden coat rack is set into a small swivel so that one may
+turn it to retrieve their belongings easier.  The darkly stained wood
+matches the walls and floor perfectly.  
+~
+D1
+~
+~
+~
+1 0 3445
+D2
+~
+~
+~
+1 0 3444
+D3
+~
+~
+~
+4 3440 3442
+M 0 H 0
+S
+#3444
+A Small Closet~
+This small closet is hardly large enough to step into.  The darkly
+stained walls seem to suck up the available light, while the highly polished
+floor reflects it back in.  The only exit is to the north.  
+~
+0 1048584 0
+D0
+~
+~
+~
+1 0 3443
+M 0 H 0
+S
+#3445
+The Central Room~
+This is by far the largest room in the mansion, covering the entire
+expanse of the first floor with the exception of the foyer to the west.  The
+most prominent thing here is the large staircase that spirals upwards
+towards the upper levels of the mansion.  The highly polished wooden floor
+reflects the light coming from the skylight above around the room,
+illuminating it beautifully.  A large fireplace is set into the northern
+wall with three comfortable leather chairs situated around it in a
+semicircle.  The eastern wall is made totally of clear glass, providing a
+view of the garden outside.  The southern wall is dominated by a large
+painting.  
+~
+0 1048584 0
+E
+painting~
+This magnificent painting has a large roaring waterfall painted on it. 
+The artist has managed to capture the very spirit of the moment in
+perfection, starting with the grassy knoll beside the falls and finishing
+with the rainbow colored spray at the base.  The roaring white water
+cascades downwards, bouncing from rock to rock until it lands fully at the
+base of the cliff.  The spray dancing up into the sunlight and bends it into
+a dazzling display of colors.  
+~
+D3
+~
+~
+~
+1 0 3443
+D4
+~
+~
+~
+0 0 3446
+M 0 H 0
+S
+#3446
+Second Floor of the Mansion~
+A small iron landing allows access from the staircase to the second floor
+of the mansion.  To the east a large library is visible through an open
+doorway.  To the south a set of closed double doors are visible, while to
+the west is a large walk in aquarium.  The staircase leads up to the third
+floor or back down to the first.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 3450
+D2
+~
+~
+~
+1 0 3449
+D3
+~
+~
+~
+0 0 3447
+D4
+~
+~
+~
+0 0 3451
+D5
+~
+~
+~
+0 0 3445
+M 0 H 0
+S
+#3447
+The Aquarium~
+This small room is unique from the rest of this mansion.  The three inner
+walls are made of hollowed glass and full of water.  Many different species
+of fish swim in the wall, giving a colorful view to this otherwise plain
+room.  The floor of this room is of solid wood with no seams visible.  Set
+craftfully into the center of the floor is a small pool of water.  The only
+visible exits are to the east.  
+~
+0 1048584 0
+D1
+~
+~
+~
+0 0 3446
+M 0 H 0
+S
+#3448
+Rock Garden~
+This garden is different from the one outside as it has no vegetation
+growing in it, instead it is made of nothing but rocks.  Many unique
+variations of rock can be seen, and a thin path of red ones wind throughout
+the garden.  To the far side of the garden a large wooden stand is visible,
+a large sword has been placed on the stand.  In the direct center of the
+garden a small bubbling fountain is visible.  
+~
+0 34603012 2
+E
+stand~
+This large wooden stand has been built for the sole purpose of providing
+a place to rest a massive sword.  The deep rich texture of the wood has been
+masterfully crafted together.  
+~
+M 0 H 0
+S
+#3449
+Kitchen~
+This large kitchen is full of everything needed to create the perfect
+meal.  Along the eastern wall, a large stove and oven has been placed next
+to the counter.  Along the south wall under a large window, a long counter
+has been built with a steel sink in the center complete with running water. 
+The upper western wall is covered by a hanging assortment of pots and pans
+and underneath them, a small ice box has been placed.  There is a set of
+doors to the north.  
+~
+0 1048584 0
+D0
+~
+~
+~
+1 0 3446
+M 0 H 0
+S
+#3450
+The Study~
+This large and plushly adorned room is decorated in shades of brown and
+tan.  Along each wall, huge wooden bookshelves rise from the floor to the
+ceilings, their shelves covered in books of all ages and sizes.  Set in a
+circle in the center of the room underneath a large chandelier are four
+comfortable looking leather chairs for reading.  The only exit is to the
+west.  
+~
+0 1048584 0
+D3
+~
+~
+~
+0 0 3446
+M 0 H 0
+S
+#3451
+Third Floor of the Mansion~
+A small iron landing depicts the end of the staircase leading down.  A
+circular hallway leads around the landing, creating a circling bannister
+topped by a dark wooden railing.  The bright white walls contrast nicely
+with the plush green carpeting.  Directly to the east, a large and ornately
+designed wooden doorway is set into the wall.  To the north and south, two
+simple wooden doors can be seen.  On the western wall, a small round window
+shows a view of the gardens outside.  
+~
+0 1048584 0
+E
+door~
+This large wooden doorway is made from what seems to be a solid piece of
+heavy mahogany wood.  The frame and doorway are fit so closely together,
+they seem to be a single piece, and the simple brass doorknob does nothing
+to take away from the beauty of the many flowers carved into its surface.  
+~
+D0
+~
+~
+~
+1 0 3453
+D1
+~
+~
+~
+1 0 3452
+D2
+~
+~
+~
+1 0 3454
+D3
+~
+~
+~
+1 3440 3455
+D5
+~
+~
+~
+0 0 3446
+M 0 H 0
+S
+#3452
+Master Bedroom~
+Lavishly furnished, this bedroom is large and obviously the master
+bedroom of the house.  From the plush green carpeting to the high ceilings,
+this room speaks of nothing but wealth and comfort.  Set into the center of
+the eastern wall between two large windows is a huge bed.  Easily twice as
+large as the average, it is covered in thick warm green blankets.  The walls
+of this room are a brilliant white, with green trim near the ceiling and
+around the windows.  On the northern wall, a cheery and warm fireplace has
+been built for warmth.  On the southern wall a large leather couch has been
+placed facing the fireplace.  Set to the left side of the doorway, a large
+wooden wardrobe has been placed.  The only exit visible is to the west.  
+~
+0 1048584 0
+D3
+~
+~
+~
+1 0 3451
+M 0 H 0
+S
+#3453
+Northern Guest Bedroom~
+This entire room is decorated with navy blue carpet and white walls. 
+Though not as elegant as other parts of the house, it is nontheless still
+extravagantly fancier than most can afford.  From the large window on the
+eastern wall, to the comfortable and well made bed to the north, this room
+speaks of nothing but comfort.  A small leather chair is pushed up against
+the western wall next to a small bureau for hanging your clothes.  The only
+exit is to the south.  
+~
+0 1048584 0
+D2
+~
+~
+~
+1 0 3451
+M 0 H 0
+S
+#3454
+Southern Guest Bedroom~
+This entire room is decorated with navy blue carpet and white walls. 
+Though not as elegant as other parts of the house, it is nontheless still
+extravagantly fancier than most can afford.  From the large window on the
+eastern wall, to the comfortable and well made bed to the south, this room
+speaks of nothing but comfort.  A small leather chair is pushed up against
+the western wall next to a small bureau for hanging your clothes.  The only
+exit is to the north.  
+~
+0 1048584 0
+D0
+~
+~
+~
+1 0 3451
+M 0 H 0
+S
+#3455
+Office~
+This room is different from the rest of the mansion as it has not been
+set up for comfort or pleasure.  This room has been converted into the
+office for the Baron of Drayton.  That is obvious upon entering due to the
+large seal of Drayton in the center of the floor, and the wooden desk placed
+in the rear of the room.  A large leather chair behind the desk looks to be
+well used, while the surface of the desk has several neat piles of paper
+arranged.  Two leather chairs are placed in front of the desk to allow for
+meetings.  A large window is on the south wall and the door is to the north.
+~
+0 1048584 0
+E
+seal drayton~
+This large seal has been embroidered into the plush green carpet.  It
+depicts a large mahogany tree planted in a small clearing.  
+~
+D1
+~
+~
+~
+1 3440 3451
+M 0 H 0
+S
+#3456
+Southern Walkway~
+You are on the southern walkway, headed towards what seems to be the
+residential sector of the city.  Lining the sides of the walkway are small
+trees, evenly spaced apart.  The grass to each side is soft and {Ggreen{x,
+seeming to be freshly cut.  To the north of your location, the walkway seems
+to branch out in other directions.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3400
+D2
+~
+~
+~
+0 0 3457
+M 0 H 0
+S
+#3457
+Residential Center Square~
+You are standing on a beautiful walkway, that branches to the east and
+west, leading to an assorted variety of houses in Drayton.  Directly to the
+north, a clearing with a large mahogany tree can be seen growing.  To the
+south, the walkway leads to a quieter area.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3456
+D1
+~
+~
+~
+0 0 3473
+D2
+~
+~
+~
+0 0 3458
+D3
+~
+~
+~
+0 0 3475
+M 0 H 0
+S
+#3458
+Small Clearing~
+This small clearing has been set aside for no reason other than to allow
+the unrestricted growth of the large mahogany tree here.  Its majestic
+height and beauty do nothing to hide the fact that it is extremely old and
+it shows its care.  The green grass is always neatly trimmed and a large bed
+of bark surrounds the tree to hold the grass back.  The walkway leads off
+to the north.  
+~
+0 0 0
+D0
+~
+~
+~
+0 0 3457
+D2
+~
+~
+~
+0 0 3948
+M 0 H 0
+S
+#3459
+Western Walkway~
+The beautiful walkway located here runs from the east to west.  Neatly
+spaced trees line its edges and lush green grass covers the ground.  To your
+east, an area where the walkway seems to branch off into different
+directions is visible.  Further to your west a small stout looking building
+is visible.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3400
+D3
+~
+~
+~
+0 0 3460
+M 0 H 0
+S
+#3460
+Entrance to the Guard Barracks~
+The walkway leads directly into a small squat building directly to the
+west.  It is totally unremarkable in every way, from its white walls and
+green roof to the plain wooden doorway.  No windows can be seen in its
+surface and the words Drayton Guard Barracks has been printed in block
+lettering over the doorway.  To the east, the walkway leads towards the
+center square.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3459
+D3
+~
+~
+~
+1 0 3461
+M 0 H 0
+S
+#3461
+Lobby~
+This dimly lit room is situated in the extreme front of this building,
+barely taking up any room at all.  The cracked tile floor and fading white
+walls leave little to suggest this is anything but an unpleasant place.  A
+small counter-desk has been built on the western wall for administrative
+purposes.  A large steel door on the northern wall leads further into the
+building while the door to your east leads outside.  
+~
+0 8 0
+D0
+~
+~
+~
+4 3446 3462
+D1
+~
+~
+~
+1 0 3460
+M 0 H 0
+S
+#3462
+Dim Corridor~
+This drab corridor extends south to north with a turn to the west at the
+far end.  It is illuminated by two dirty skylights in the ceiling of this
+part, and on the western wall, a single doorway are visible.  On the
+southern wall, a heavy steel door is visible.  The floor here is still the
+same white tile used in the lobby though it is not in as bad of shape.  The
+peeling walls are painted dark green and look to be in a state of disrepair.
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3465
+D2
+~
+~
+~
+4 3446 3461
+D3
+~
+~
+~
+1 0 3463
+M 0 H 0
+S
+#3463
+Ready Room~
+This brightly lit room is perhaps the most used in the building.  It has
+been set up as a sort of ready room for the guards to train and practice in.
+The white tile floor has very few cracks in it, and the white walls are
+freshly painted giving a cheery look to this room.  Lining the western wall,
+a long counter can be seen with several different drinks set on it.  Some
+comfortable chairs are spread about the room.  Lining the southern wall,
+several contraptions for exercising can be seen.  Doors can be seen to the
+north and east.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3464
+D1
+~
+~
+~
+1 0 3462
+M 0 H 0
+S
+#3464
+Sleeping Quarters~
+This room has thin green carpet on the floor and pale white walls. 
+Lining the walls, bunkbeds have been stacked three high providing a total of
+twelve beds.  The thin mattresses and light blanket leave little doubt that
+not much time is spent here.  The only exit is to the south.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 3463
+M 0 H 0
+S
+#3465
+Dim Corridor~
+You have reached the northern end of this dim corridor.  The small
+skylights above allow little light to filter down, enhancing the fading
+paint and cracked tile.  The hallway makes a turn to the east and there is a
+faded sign on the wall.  
+~
+0 8 0
+D1
+~
+~
+~
+0 0 3466
+D2
+~
+~
+~
+0 0 3462
+M 0 H 0
+S
+#3466
+Dim Corridor~
+This drab corridor extends east to west.  A single dirty skylight
+illuminates this hallway, casting dark shadows over the pale white walls and
+cracked tile floor.  To the north a single doorway is visible, though the
+door seems to be missing.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3467
+D1
+~
+~
+~
+0 0 3468
+D3
+~
+~
+~
+0 0 3465
+M 0 H 0
+S
+#3467
+Judges Office~
+This drab room is decorated with pale white walls and worn green
+carpeting.  A simple wooden desk sits in the center of the room with a
+straight backed chair behind it.  On the eastern wall a small bookshelf has
+been placed, several dusty volumes line its shelves.  The only exit visible
+is to the south.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 3466
+M 0 H 0
+S
+#3468
+Dim Corridor~
+This drab corridor extends east to west.  A single dirty skylight
+illuminates this hallway, casting dark shadows over the pale white walls and
+cracked tile floor.  To the north a single doorway is visible, though the
+door seems to be missing.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3469
+D1
+~
+~
+~
+0 0 3470
+D3
+~
+~
+~
+0 0 3466
+M 0 H 0
+S
+#3469
+Captain of the Guards Office~
+Immaculately annoited, this room is totally different from the rest of
+the building.  It shows not a single bit of wear, the freshly painted walls
+and plush green carpet show that its inhabitant cares greatly for his
+surroundings.  A great mahogany desk sits in the center of the room, papers
+piled in a small neat stack in the center.  Behind the desk a large
+comfortable leather chair can be seen.  The only exit visible is to the
+south.  
+~
+0 8 0
+D2
+~
+~
+~
+0 0 3468
+M 0 H 0
+S
+#3470
+Dim Corridor~
+This drab corridor extends to west.  A single dirty skylight illuminates
+this hallway, casting dark shadows over the pale white walls and cracked
+tile floor.  To the north single doorways are visible, though the doors seem
+to be missing.  
+~
+0 8 0
+D0
+~
+~
+~
+0 0 3471
+D2
+~
+~
+~
+0 0 3472
+D3
+~
+~
+~
+0 0 3468
+M 0 H 0
+S
+#3471
+Wardens Office~
+This small room is decorated with pale green walls and dirty white
+carpeting.  A large wooden desk sits in the center of the room with a
+comfortable looking chair behind it.  On the western wall a large picture
+can be seen hanging.  The only exit visible is to the south.  
+~
+0 8 0
+E
+picture~
+This faded painting shows a view of the Drayton guard barracks after it
+was newly constructed.  The brilliant white walls and bright green roof show
+that a lot of time and effort was spent on it.  
+~
+E
+desk~
+This large wooden desk seems to be well used.  Cluttered across the top
+of the desk are endless piles of paper relating to this facility and it's
+guards.  A small wooden box with the Drayton crest can be seen sitting in
+the center of the desk.  
+~
+D2
+~
+~
+~
+0 0 3470
+M 0 H 0
+S
+#3472
+Holding Cell~
+This small room is devoid of any furnishings except the steel chain
+hooked into the center of the floor.  The blood splattered walls and floor
+give reference to the criminal that is currently housed here.  A single
+light fixture is mounted into the ceiling and covered with a wire mesh to
+protect it.  The only visible exit is to the north.  
+~
+0 8 0
+E
+drayton guard corpse~
+The shredded body of a Drayton guard lies on the floor.  He was one of
+the first victims of the lacerti murderer.  His body has been left here as a
+reminder to the prisoner that his crimes will not go unanswered.  
+~
+D0
+~
+~
+~
+0 0 3470
+M 0 H 0
+S
+#3473
+East Drayton Residential Area~
+Extending from the east to the west is an elegant walkway.  Unlike the
+other areas, directly to your north, a neat row of trees lines the edge of
+the walkway, shielding the view from the houses on the other side of it from
+the white stone wall to the south.  Through the trees, a large brick house
+is visible, its brown roof clearly showing over the tops of the trees.  
+~
+0 0 0
+D0
+~
+~
+~
+4 3470 3477
+D1
+~
+~
+~
+0 0 3474
+D3
+~
+~
+~
+0 0 3457
+M 0 H 0
+S
+#3474
+East Drayton Residential Area~
+Extending to the west is an elegant walkway.  The neat row of trees
+lining the northern edge have been placed soley to protect the occupants of
+the large house showing beyond them, from the plain white wall to the south.
+Visible through the trees, a large wooden house is visible.  
+~
+0 0 0
+D3
+~
+~
+~
+0 0 3473
+M 0 H 0
+S
+#3475
+West Drayton Residential Area~
+Extending from the east to the west is an elegant walkway.  Unlike the
+other areas, directly to your north, a neat row of trees line the edge of
+the walkway, shielding the view from the houses on the other side of it from
+the whtie stone wall to the south.  Through the trees, a large stone house
+is barely visible.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3457
+D3
+~
+~
+~
+0 0 3476
+M 0 H 0
+S
+#3476
+West Drayton Residential Area~
+Extending to the east is an elegant walkway.  The neat row of trees
+lining the northern edge have been placed soley to protect the occupants of
+the small wooden house showing beyond them, from the plain white wall to the
+south.  
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3475
+M 0 H 0
+S
+#3477
+A Small Living Room~
+Starkly contrasting colors make up the walls and floor of this room.  The
+plush carpeting is a deep and solid black color, appearing soft and pliable
+to walk upon.  The walls have been painted a dark silver color and large
+windows have been built into the south wall, on either side of the door. 
+Black curtains line the windows, pulled back on each side and held with a
+satin red tie.  Interrupting the eastern wall, a small stone ledge has been
+built, almost in the form of a fireplace, though in its place, a large ball
+of everlasting flame can be seen floating, radiating a comfortable heat. 
+Arranged in front of the fire, a large couch covered in dark red leather has
+been placed.  The cushions and surface of which appear extremely plush and
+comfortable.  There are doors visible to the north south, and west, and a
+small wooden staircase leading upwards.  
+~
+0 1048584 0
+E
+everlasting flame fire~
+This swirling mass of flame seems to turn and rotate in and out of
+itself.  Radiating a comfortable heat, it is seems to be everlasting.  
+~
+D0
+~
+~
+~
+1 0 3478
+D2
+~
+~
+~
+4 3470 3473
+D3
+~
+~
+~
+1 0 3483
+D4
+~
+~
+~
+0 0 3482
+M 0 H 0
+S
+#3478
+An Elegant Dining Room~
+Hanging from the ceiling of this room is several small but elegant light
+fixtures.  Each appearing to be old, yet shined to a brilliant silver
+finish.  Small glowing orbs float inside the glass of the lamps, each
+everlasting and magical in nature.  A large table has been placed in the
+center of the room on the black carpeting.  The table itself is made of wood
+that appears to be ancient, many small burnmarks from its craft are visible
+on its smooth surface.  The dark silver walls are bare, graced only by
+single doors to the east, west, and south.  A curtained window to the north
+allows a view of a small garden behind the house, the decor of the fabric a
+dark black with satin red ties.  Placed in the north-western corner is a
+small wooden table.  A small shadow floats above its surface, twisting and
+writhing as though alive.  
+~
+0 1048584 0
+D1
+~
+~
+~
+4 3470 3480
+D2
+~
+~
+~
+1 0 3477
+D3
+~
+~
+~
+1 0 3479
+M 0 H 0
+S
+#3479
+A Small Kitchen~
+Dark black tile covers the floor of this new kitchen, complimenting the
+silver appliances perfectly.  A large stove and oven that appears either new
+or well cared for is visible against the western wall.  A black marbe sink
+has been built under the northern window, complete with a faucet to provide
+fresh water.  A metal counter runs the length of the southern wall, arranged
+perfectly for the preparation of food.  A single door to the east is the
+only exit.  
+~
+0 1048584 0
+D1
+~
+~
+~
+1 0 3478
+M 0 H 0
+S
+#3480
+Basement Stairwell~
+This room is quite barren and plain.  The only significent things visible
+is the staircase leading downwards.  Small magical orbs of flame float in
+plain iron fixtures which have been attached to the wall going downwards,
+bathing the area with shades of flickering shadow and light.  The stairs
+themselves are made of old stone, appearing to have been here even before
+the house under which it rests.  A single wooden door to the west is the
+only other way out.  
+~
+0 1056777 0
+D3
+~
+~
+~
+4 3470 3478
+D5
+~
+~
+~
+0 0 3481
+M 0 H 0
+S
+#3481
+A Torture Chamber~
+This large chamber takes up the entirity of the breadth and width of the
+house.  The walls are made up from what appears to be old stones, stacked
+carefully atop one another.  The house itself is resting on the stone walls,
+using them as its foundation.  This room is illuminated by several iron
+fixtures which have been attached to the wall in different places.  The
+magical balls of fire floating within them giving a flickering and shadowy
+appearance to the room.  The floor is made of the same stones as the wall,
+and is totally barren save for several strange objects placed in what seems
+to be haphazard places.  A large rack dominates the center of the floor,
+sided by a small table upon which sits many different items.  Small whips
+hang from the northern wall, right beside a pair of irons for the hands and
+feet.  A small stone staircase appears to be the only way out.  
+~
+0 1056777 0
+E
+table rack items~
+The rack itself is made of decidedly ancient wood, solid, heavy, and
+secure.  Iron clasps have been attached to the rack in just the right
+positions for the arms and legs, and a wide one for the waist.  Each for the
+intent of holding the victim still.  The table set off to the side is a
+horror to behold.  Its surface has been littered with many different sharp
+objects, each appearing old and rusty.  The sole purpose of these things is
+to aid the owner in torture.  The sharp knives and large pins appear to be
+stained with old blood, as does the multi-tailed whip with metal barbs
+imbedded into the leather.  
+~
+D4
+~
+~
+~
+0 0 3480
+M 0 H 0
+S
+#3482
+An Elegant Bedroom~
+Shades of black, red, and silver make up this bedroom.  Large, airy, and
+elegant, everything in it has been designed and placed with perfection.  A
+large canopied bed has been placed up against the dark silver walls.  The
+iron frame of it is dark and appears old, matching perfectly with the plush
+black carpet.  The bed itself is covered in a satin red comforter which has
+been turned down near the headboard, displaying black silk sheets
+underneath.  The pillows are covered in the same material as the sheets, and
+are large and plush.  The ceiling has been painted black, with strange and
+erratic splashes of silver painted into it.  A single large window takes up
+all of the south wall, and the simple black curtains are held in place by a
+red tie.  A small staircase can be seen, leading down to the lower floor.  
+~
+0 1048584 0
+E
+ceiling~
+The strange markings painted into this black ceiling has been done for a
+reason which is apparent when the lights are dimmed.  The paint seems to
+actually glow in the darkness, giving the feeling of being able to gaze up
+into the stars above.  
+~
+D5
+~
+~
+~
+0 0 3477
+M 0 H 0
+S
+#3483
+A Guest Bedroom~
+Dark red carpeting covers the floor of this large room, contrasting
+sharply with the black walls.  A single window on the south wall is framed
+by satin red curtains, each held in place by a black ribbon.  A single
+picture of a red rose on black background hangs from the eastern wall beside
+the door.  A large canopied bed has been put against the wall to the north,
+its framework draped in a rich black silk cloth.  
+~
+0 1048584 0
+D1
+~
+~
+~
+1 0 3477
+M 0 H 0
+S
+#3484
+~
+~
+0 0 0
+D1
+~
+~
+~
+0 0 3485
+M 0 H 0
+S
+#3485
+~
+~
+0 0 0
+D3
+~
+~
+~
+0 0 3484
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 3405 spec_janitor
+M 3414 spec_cast_mage
+M 3415 spec_cast_cleric
+M 3420 spec_thief
+S
+
+
+
+#RESETS
+D 0 3417 2 2
+D 0 3420 0 2
+D 0 3420 5 1
+D 0 3421 4 1
+D 0 3426 1 2
+D 0 3427 3 2
+D 0 3442 1 2
+D 0 3443 1 1
+D 0 3443 2 1
+D 0 3443 3 2
+D 0 3444 0 1
+D 0 3445 3 1
+D 0 3446 2 1
+D 0 3449 0 1
+D 0 3451 0 1
+D 0 3451 1 1
+D 0 3451 2 1
+D 0 3451 3 2
+D 0 3452 3 1
+D 0 3453 2 1
+D 0 3454 0 1
+D 0 3455 1 2
+D 0 3460 3 1
+D 0 3461 0 2
+D 0 3461 1 1
+D 0 3462 2 2
+D 0 3462 3 1
+D 0 3463 1 1
+D 0 3473 0 2
+D 0 3477 0 1
+D 0 3477 2 2
+D 0 3477 3 1
+D 0 3478 1 2
+D 0 3478 2 1
+D 0 3478 3 1
+D 0 3479 1 1
+D 0 3480 3 2
+D 0 3483 1 1
+M 0 3425 1 3400 10
+E 0 3463 0 17
+M 0 3419 2 3402 10
+M 0 3400 1 3403 10
+G 0 3412 0
+G 0 3413 0
+G 0 3400 0
+G 0 3414 0
+O 0 3401 0 3403
+P 0 3402 0 3401 10
+M 0 3421 1 3404 10
+E 0 3457 0 5
+M 0 3404 1 3406 10
+G 0 3408 0
+G 0 3409 0
+M 0 3402 1 3406 10
+M 0 3405 1 3406 10
+G 0 3410 0
+M 0 3401 1 3407 10
+E 0 3407 0 24
+G 0 3406 0
+G 0 3405 0
+G 0 3404 0
+G 0 3403 0
+G 0 3411 0
+M 0 3406 1 3408 10
+G 0 3462 0
+G 0 3416 0
+G 0 3415 0
+O 0 3432 0 3408
+M 0 3426 1 3410 10
+E 0 3464 0 7
+O 0 3418 0 3411
+O 0 3419 0 3411
+O 0 3417 0 3411
+M 0 3422 1 3411 10
+M 0 3428 1 3414 10
+M 0 3427 1 3415 10
+E 0 3465 0 5
+M 0 3423 1 3416 10
+O 0 3420 0 3416
+M 0 3403 1 3419 10
+G 0 3425 0
+G 0 3424 0
+G 0 3423 0
+G 0 3422 0
+O 0 3427 0 3421
+P 0 3428 0 3427 10
+M 0 3407 1 3422 10
+M 0 3408 1 3423 10
+M 0 3409 1 3423 10
+M 0 3410 1 3423 10
+M 0 3411 1 3423 10
+M 0 3412 1 3424 10
+G 0 3430 0
+G 0 3431 0
+G 0 3429 0
+M 0 3413 1 3426 10
+E 0 3447 0 16
+E 0 3448 0 5
+O 0 3433 0 3428
+O 0 3439 0 3439
+O 0 3434 0 3440
+O 0 3435 0 3444
+O 0 3438 0 3445
+O 0 3437 0 3447
+O 0 3436 0 3448
+O 0 3438 0 3448
+O 0 3445 0 3450
+O 0 3441 0 3452
+O 0 3442 0 3452
+O 0 3443 0 3452
+P 0 3444 0 3442 10
+O 0 3445 0 3453
+O 0 3445 0 3454
+O 0 3445 0 3455
+M 0 3420 1 3457 10
+E 0 3456 0 16
+M 0 3414 1 3461 10
+G 0 3446 0
+M 0 3424 1 3462 10
+E 0 3448 0 5
+E 0 3459 0 16
+M 0 3424 1 3462 10
+E 0 3448 0 5
+O 0 3449 0 3465
+M 0 3415 1 3467 10
+E 0 3450 0 17
+M 0 3417 1 3469 10
+E 0 3454 0 8
+M 0 3418 1 3469 10
+E 0 3455 0 7
+O 0 3460 0 3471
+P 0 3461 0 3460 10
+M 0 3416 1 3472 10
+E 0 3452 0 16
+E 0 3451 0 5
+E 0 3453 0 25
+O 0 3458 0 3472
+O 0 3468 0 3477
+O 0 3469 0 3481
+O 0 3471 0 3482
+P 0 3472 0 3471 10
+P 0 3470 0 3471 10
+O 0 3473 0 3483
+S
+
+
+
+#SHOPS
+3400 10 0 0 0 0 150 40 0 23
+3401 19 0 0 0 0 110 80 0 23
+3403 19 0 0 0 0 120 60 0 23
+3404 17 10 0 0 0 150 60 0 23
+3406 19 0 0 0 0 150 50 0 23
+3407 0 0 0 0 0 200 50 0 23
+3412 5 9 8 0 0 150 50 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

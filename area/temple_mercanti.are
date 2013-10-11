@@ -1,0 +1,468 @@
+#AREADATA
+Name {15 99} Benedct Temple of Mercanti~
+Builders Benedict~
+VNUMs 14600 14699
+Security 1
+End
+
+
+
+#MOBILES
+#14600
+merchanti acolyte~
+a mercanti acolyte~
+A acolyte of mercanti waits your purchase.
+~
+~
+Human~
+ABSW 0 0 S
+100 0 12d1397+3920 100d10+100 6d11+29 0
+-35 -35 -35 -27
+0 BLPQ 0 0
+9 9 1 450
+AHMV ABCDEFGHIJK M unknown
+#14601
+shar healer~
+Shar the healer.~
+A robed healer waits upon you.
+~
+~
+Human~
+ABT 0 0 S
+100 0 12d1397+3920 100d10+100 6d11+29 0
+-35 -35 -35 -27
+0 BKLPQ 0 0
+9 9 0 450
+AHMV ABCDEFGHIJK M unknown
+#14602
+tom blacksmith~
+Tom the blacksmith~
+A burly built blacksmith is here beating a piece of armor
+~
+~
+Human~
+AB 0 0 S
+100 0 12d1397+3920 100d10+100 6d11+29 0
+-35 -35 -35 -27
+0 BKLPQ 0 0
+9 9 0 450
+AHMV ABCDEFGHIJK M unknown
+#14603
+sebastian lender~
+Sebastian Lender~
+A dignified looking man is stood here.
+~
+~
+Human~
+AB 0 1000 S
+100 0 12d1397+3920 100d10+100 6d11+29 0
+-35 -35 -35 -27
+0 BP 0 0
+9 9 1 450
+AHMV ABCDEFGHIJK M unknown
+#14604
+jason waiter~
+Jason the waiter~
+A waiter is here, ready to take you to a table.
+~
+~
+Human~
+A 0 0 S
+25 0 8d48+400 25d10+100 3d5+7 0
+0 0 0 2
+0 0 0 0
+9 9 1 112
+AHMV ABCDEFGHIJK M unknown
+#14605
+undead dragon~
+an undead dragon~
+A huge undead black dragon
+~
+Two large horns portrude from the head of this large black dragon.  It
+appears to be approximatly twenty-five feet tall at the shoulders.  The
+obsidian scales of this beast seem to be rotting and decaying before your
+very eyes.  A putrid aura surrounds the creatue giving off a feeling of
+death.  The creature has a lifeless, emotionless look upon its face, as if
+its soul has long sence been removed.  Beneith its feet you notice razor
+sharp claws that are as black as night.  There are patches of the dragon's
+side that have bare bone exposed, where the flesh has completly rotted off. 
+~
+Dragon~
+AE DFOTVc -1000 S
+101 0 13d1446+3994 101d10+100 6d11+30 5
+-45 -45 -45 -40
+0 LQ 0 N
+9 9 1 454
+ACGHMVZc ACDEFHJKLOPUVX G unknown
+#14606
+dean simpson tailor~
+Dean the tailor~
+A tailor is stood here ready to take your measurements.
+~
+~
+Human~
+AB 0 0 S
+100 0 12d1397+3920 100d10+100 6d11+29 0
+-35 -35 -35 -27
+0 BLPQ 0 0
+9 9 0 450
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#14600
+mithril furnace~
+a mithril gated furnace~
+A mithril gated furnace flickers in the corner.~
+unknown~
+33 AGS 0 0
+0 0 0 0 0
+1 0 0 P
+0
+#14601
+silver ore~
+a piece of silverite~
+A piece of silvery ore has been left here.~
+unknown~
+34 S ANO 0
+0 0 0 0 0
+10 150 1500 P
+0
+#14602
+merchanti hammer~
+a mercanti hammer~
+A hammer bearing the mercanti glyph lays here.~
+unknown~
+36 BGS ANO 0
+0 0 0 0 0
+10 10 2200 P
+0
+#14603
+water barrel~
+a water barrel~
+A barrel bearing the mercanti glyph.~
+unknown~
+37 0 0 AM
+0 0 0 0 0
+1 0 0 P
+0
+#14604
+Anvil of Malkava~
+anvil of malkava~
+A large ornate golden anvil rests in the middle of the room~
+unknown~
+35 AGS 0 0
+0 0 0 0 0
+1 0 0 P
+0
+#14605
+tralix grinder~
+tralix grinder~
+A rare 'Tralix' ore grinder stands to one side.~
+unknown~
+38 B 0 DP
+0 0 0 0 0
+1 0 0 P
+0
+#14606
+pile silver black cloak~
+a silver lined black cloak~
+A pile of black material with silver edging lays here.~
+unknown~
+11 GS AV 0
+0 0 0 0 0
+15 5 1300 P
+0
+#14607
+black gloves~
+a pair of black gloves~
+A pair of gloves have been dropped here.~
+unknown~
+11 GS AH 0
+0 0 0 0 0
+15 1 100 P
+A
+2 2
+0
+#14608
+walking stick cane~
+a walking stick~
+A walking stick has been left here.~
+unknown~
+5 0 AN 0
+ACDEHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz AC BC ACD 0
+15 3 75 P
+0
+#14609
+mithril breastplate~
+a mithril breastplate~
+A metal breastplate has been left here.~
+unknown~
+9 BS AD 0
+ABC ABC ABC ABC 0
+45 10 225 P
+0
+#14610
+mithril helmet~
+a mithril helmet~
+A helmet made out of some strange metal is laying here.~
+unknown~
+9 BS AE 0
+ABC ABC ABC ABC 0
+45 3 225 P
+0
+#14611
+mithril greaves~
+a pair of mithril greaves~
+A pair of metal boots have been dropped here.~
+unknown~
+9 BS AF 0
+ABC ABC ABC ABC 0
+45 5 225 P
+0
+#14612
+dartmoor dagger~
+a golden handled dagger~
+A golden handled dagger lays here.~
+unknown~
+5 0 AN 0
+B CD E ABD D
+100 3 500 P
+0
+#14650
+no name~
+(no short description)~
+(no description)~
+unknown~
+13 0 0 0
+0 0 0 0 0
+0 0 1 P
+0
+#0
+
+
+
+#ROOMS
+#14600
+The Forge~
+~
+0 8 0
+D1
+~
+~
+0 0 14601
+S
+#14601
+Marble Hallway~
+~
+0 8 0
+D0
+~
+~
+0 0 14603
+D1
+~
+~
+0 0 14602
+D2
+~
+~
+0 0 14604
+D3
+~
+~
+0 0 14600
+S
+#14602
+Mercanti Emporium~
+~
+0 8 0
+D3
+~
+~
+0 0 14601
+S
+#14603
+Apothecary~
+~
+0 33555464 0
+D2
+~
+~
+0 0 14601
+S
+#14604
+Marble Hallway ~
+~
+0 8 0
+D0
+~
+~
+0 0 14601
+D1
+~
+~
+0 0 14605
+D2
+~
+~
+0 0 14607
+D3
+~
+~
+0 0 14606
+S
+#14605
+Contemplation Glade~
+~
+0 67109892 2
+D3
+~
+~
+0 0 14604
+S
+#14606
+Simpson's Tailors~
+~
+0 1032 0
+D1
+~
+~
+0 0 14604
+S
+#14607
+Marble Entrance~
+~
+0 134217740 0
+D0
+~
+~
+0 0 14604
+D1
+~
+~
+0 0 14608
+D3
+~
+~
+0 0 14609
+S
+#14608
+Toms Armoury~
+~
+0 8 0
+D3
+~
+~
+0 0 14607
+S
+#14609
+Barrets Coffee House~
+~
+0 134218760 0
+D1
+~
+~
+0 0 14607
+D3
+~
+~
+0 0 14610
+D4
+~
+~
+0 0 14612
+S
+#14610
+Kitchen~
+~
+0 134217736 0
+D1
+~
+~
+0 0 14609
+D3
+~
+~
+0 0 14611
+S
+#14611
+Loading Yard~
+~
+0 0 1
+D1
+~
+~
+0 0 14610
+S
+#14612
+First Floor~
+~
+0 134217736 0
+D4
+~
+~
+0 0 14613
+D5
+~
+~
+0 0 14609
+S
+#14613
+Second Floor~
+~
+0 134283272 0
+D5
+~
+~
+0 0 14612
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 14600 0 14600
+O 0 14603 0 14600
+O 0 14604 0 14600
+O 0 14605 0 14600
+M 0 14600 1 14602
+G 0 14601 0
+G 0 14602 0
+G 0 14603 0
+M 0 14601 1 14603
+M 0 14606 1 14606
+G 0 14606 0
+G 0 14607 0
+G 0 14608 0
+M 0 14602 1 14608
+G 0 14610 0
+G 0 14609 0
+G 0 14611 0
+M 0 14604 1 14609
+M 0 14603 1 14613
+G 0 14612 0
+S
+
+
+
+#SHOPS
+14600 0 34 36 5 9 110 95 1 22
+14602 9 0 0 0 0 100 100 8 22
+14606 11 5 0 0 0 100 100 8 21
+0
+
+
+
+#$

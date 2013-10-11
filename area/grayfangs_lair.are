@@ -1,0 +1,1088 @@
+#AREADATA
+Name {75 99} Brysaar Grayfang's Lair~
+Builders Brysaar~
+VNUMs 1050 1199
+Security 1
+End
+
+
+
+#MOBILES
+#1050
+husk wizard Grynolb~
+Grynolb~
+A wandering wizard, a husk of what he once was, staggers about here, trying to find the exit.
+~
+Looking closely at this fellow, you find that it is Grynolb, the famous
+wizard who went questing for a great treasure in these parts years ago.  The
+wizard looks as if he has seen better days, All about his body are scars and
+open wounds.  The determined fire that was once in his eyes has vanished,
+leaving only the traces of extreme insanity behind it.  
+~
+Human~
+AH AKLMQ 0 S
+48 0 10d150+1075 192d10+100 5d6+13 19
+-8 -8 -8 -6
+0 0 0 0
+9 9 1 216
+AHMV ABCDEFGHIJK M unknown
+#1052
+spider flame flamespider~
+A Flamespider~
+A flamespider glows faintly in a corner.
+~
+The creature before you glows as if its body runs on fire.  It is
+enormous as far as spiders go, coming up to your waste in size.  It has a
+set of pointed fangs that give off flame as they click together, and its
+eight legs look extremely sharp as well.  
+~
+Human~
+ABF J 0 S
+65 0 11d352+1789 65d10+100 5d8+19 29
+-15 -15 -15 -13
+H H 0 EIR
+9 9 0 292
+AHMV ABCDEFGHIJK M unknown
+#1053
+golem limestone~
+A Limestone Golem~
+A limestone golem stands here, defending the entrance to the cavern.
+~
+The limestone golem is a large and mindless guard.  Though powerful, you
+sense that his movements are all programmed.  He stands at about the size of
+two tall dwarves, and he is made of the hard limestone that has created the
+cavern.  
+~
+Human~
+ABF O 0 S
+75 0 11d551+2303 75d10+100 5d9+24 27
+-19 -19 -19 -17
+CIKLNO 0 D 0
+9 9 0 337
+AHMV ABCDEFGHIJK L unknown
+#1054
+crawler cave~
+a Cave Crawler~
+A Cave Crawler is here, clinging to the ceiling.
+~
+The cave crawler is an insect that clings to the ceilings and spits a
+fiery venom.  These are extremely dangerous, and though the venom does not
+have a strong poison content, it is extremely acidic and painful.  Cramped
+spaces maximize its effectiveness.  
+~
+Human~
+AFV 0 0 S
+80 0 11d677+2588 80d10+100 5d10+24 0
+-21 -21 -21 -19
+0 0 0 0
+9 9 0 360
+AHMPV ABCDEFGHIJK M unknown
+#1055
+grayfang beast~
+Grayfang~
+A great beast stands here, a hulk of a thing, with an intelligence that surpasses that of normal creatures.
+~
+Before you stands a great beast, one of legends, called grayfang by those
+who fear him.  The thing is a monster in every aspect.  It walks on all
+fours, but has an air to him that makes it almost ethereal as well. 
+Certainly you have heard stories told of such beasts, if only out of fear. 
+Grayfang looks at you with an intelligence in its eyes unlike that which you
+have seen elsewhere...  Not wise, but knowing.  
+~
+Bear~
+ABF QVac 0 S
+102 25 20d2000+6000 408d10+100 20d20+50 10
+-75 -75 -75 -70
+ACDEFGHIO K CEI O
+9 9 1 459
+AGV ABCDEFHJKPUV L unknown
+#0
+
+
+
+#OBJECTS
+#1050
+robes tattered wizard~
+a set of tattered wizard's robes~
+A tattered set of wizard's robes lays here in a heap.~
+unknown~
+9 0 AD 0
+ABC ABC ABC B 0
+45 2 225 P
+A
+12 30
+0 ABCDE
+#1051
+wand spent~
+a spent wand of incinerate~
+Before you is a wand of incinerate that has been used and recharged so many times that its effects have greatly diminished.~
+unknown~
+3 0 AO 0
+DF CE B 274 0
+40 0 200 P
+0 ABCDE
+#1053
+limestone sheet~
+a sheet of limestone~
+A large sheet of limestone lies here.~
+unknown~
+9 0 AJ 0
+CD CD CD AB 0
+75 20 375 P
+0 CD
+#1054
+rock~
+a rock~
+A rock sits here.  It looks almost comfortable~
+unknown~
+29 R 0 AEL
+-1 0 0 1093 0
+0 0 0 P
+E
+rock~
+Looking closer at the rock, you see that it has a small opening in the
+bottom that you could just slide down.  
+~
+0 0
+#1055
+pelt grayfang~
+the Pelt of Grayfang~
+The pelt of Grayfang has been won from the beast.~
+unknown~
+9 GIQST AK AEI
+E E E AC 0
+100 3 500 P
+A
+13 30
+A
+19 10
+E
+!history!~
+Grayfang has long been a creature of dark heritage.  People have used him
+to scare young children into silence or obedience a number of times.  The
+very possession of this pelt not only insures his existence, but also boasts
+of his defeat.
+~
+L
+worn in reverence~
+0 ABCDE
+#1160
+humanoid fanged skull~
+a fanged skull~
+This humanoid skull has fangs.~
+unknown~
+27 RXb AR 0
+D D D B 0
+50 0 1 P
+A
+17 -5
+0 ABCDE
+#0
+
+
+
+#ROOMS
+#1050
+A Long Dirt Road~
+You are currently on a long road that travels north toward high
+mountains.  A mountain looms very near at present, being directly in front
+of you, and large foot hills loom up before the path ahead.  It looks as if
+the road ends shortly.  
+~
+0 0 0
+D0
+~
+~
+0 0 1051
+D2
+~
+~
+0 0 16027
+S
+#1051
+A Dead End~
+You have come upon an abrupt end in the road you were travelling on.  It
+looks as if those attempting to build the road were suddenly unable to go
+any farther for some reason or another.  Currently you are in the foothills,
+and the mountains lie directly north of here, so you are unable to go any
+further.  There seems to be some type of small hole in the ground here.  
+~
+0 0 0
+D2
+~
+~
+0 0 1050
+D5
+~
+hole~
+1 0 1052
+S
+#1052
+The Entrance to Greyfang's Lair~
+The cavern you are in is rather small, but it smells like it contains a
+building full of decay.  There is gore all around you, and decaying matter
+lies everywhere, in one form or another.  On the east wall of the cavern is
+a message scrawled in blood, it reads, "Beware the Greyfang."  The remains
+of its writer appear to be lying underneath the message.  
+~
+0 13 0
+D0
+~
+~
+0 0 1053
+D4
+~
+~
+1 0 1051
+S
+#1053
+A Long Tunnel~
+This long tunnel stretches north and south in this small cavern.  The
+tunnel is relatively clean when compared to the entrance, but it is still a
+mess.  The tunnel gets darker as you travel further north.
+~
+0 8 0
+D0
+~
+~
+0 0 1054
+D2
+~
+~
+0 0 1052
+S
+#1054
+A Long Tunnel~
+This dark tunnel leads slightly downward.  It smells of death and decay. 
+North of here the tunnel gets even darker.  South is the entrance to these
+caves.  
+~
+0 0 0
+D0
+~
+~
+0 0 1055
+D2
+~
+~
+0 0 1053
+S
+#1055
+The End of a Long Tunnel~
+You could not see at all in this part of the tunnel had you not brought a
+light.  The tunnel ends here.  The only exits are south and a small hole in
+the ground beneath you.  
+~
+0 12 0
+D2
+~
+~
+0 0 1054
+D5
+~
+~
+0 0 1056
+S
+#1056
+An Enormous Cavern~
+You are currently in an extremely large cavern.  The roof is far enough
+up that you are unable to distinguish any details about it.  The cavern
+itself resembles a bubble, and there are walls in every direction you turn. 
+Directly above a large stalagmite is a hole in the ceiling.  
+~
+0 9 0
+D0
+~
+~
+0 0 1058
+D1
+~
+~
+0 0 1059
+D2
+~
+~
+0 0 1060
+D3
+~
+~
+0 0 1057
+D4
+~
+~
+0 0 1055
+S
+#1057
+The Cavern Wall~
+You have come upon the wall to the enormous cavern.  The wall stretches
+north and south of here, and the ceiling is much lower than it was before. 
+East of here is the center of the cavern, while to the west lies a small
+tunnel in the wall.  
+~
+0 9 0
+D0
+~
+~
+0 0 1061
+D1
+~
+~
+0 0 1056
+D2
+~
+~
+0 0 1064
+D3
+~
+~
+0 0 1065
+S
+#1058
+The Cavern Wall~
+Before you is the wall to the enormous cavern.  The wall is made of what
+looks like limestone, and it stretches up to meet the ceiling not too far
+above your head.  South of here is the center of the cavern, while to the
+north there is a tunnel leading into the rock and the wall stretches east
+and west of here.  
+~
+0 9 0
+D0
+~
+~
+0 0 1069
+D1
+~
+~
+0 0 1062
+D2
+~
+~
+0 0 1056
+D3
+~
+~
+0 0 1061
+S
+#1059
+The Cavern Wall~
+This wall marks the edge of the enormous cavern.  It travels north and
+south, slowly curving itself into a large circle.  East of here a small
+tunnel leads into the rock, while west is the center of the enormous cavern.
+~
+0 9 0
+D0
+~
+~
+0 0 1062
+D1
+~
+~
+0 0 1085
+D2
+~
+~
+0 0 1063
+D3
+~
+~
+0 0 1056
+S
+#1060
+The Cavern Wall~
+This is the southern wall of the enormous cavern which you now stand in. 
+North of here the cavern gets larger, while east and west the ceiling comes
+very close to the ground as the wall curves north.  Directly south of here
+is a tunnel that leads off into the rock.  
+~
+0 9 0
+D0
+~
+~
+0 0 1056
+D1
+~
+~
+0 0 1063
+D2
+~
+~
+0 0 1083
+D3
+~
+~
+0 0 1064
+S
+#1061
+The Cavern Wall~
+The Cavern wall here is void of exits.  The wall itself curves into a
+round corner and continues east and south.  The ceiling is very low here,
+but you are able to maneuver easily enough.  
+~
+0 9 0
+D1
+~
+~
+0 0 1058
+D2
+~
+~
+0 0 1057
+S
+#1062
+The Cavern Wall~
+You have come to a corner of the cavern wall.  The ceiling is very low
+here, but the cavern stretches on south and west, growing slowly larger.  
+~
+0 9 0
+D2
+~
+~
+0 0 1059
+D3
+~
+~
+0 0 1058
+S
+#1063
+The Cavern Wall~
+As you enter this room you find yourself dodging the ceiling as the great
+dome comes to a stop not far from where you stand.  The wall continues north
+and west, and circles the entire cavern.  
+~
+0 9 0
+D0
+~
+~
+0 0 1059
+D3
+~
+~
+0 0 1060
+S
+#1064
+The Cavern Wall~
+The ceiling is very low on this corner of the cave.  The wall stretches
+north and east of here, forming a neat and almost perfect curve.  Northeast
+is the center of the enormous cavern.  
+~
+0 9 0
+D0
+~
+~
+0 0 1057
+D1
+~
+~
+0 0 1060
+S
+#1065
+A Narrow Tunnel~
+You have come upon a small tunnel.  The tunnel here drab beyond words. 
+The only thing of interest is that it ends east of here, coming out into a
+large cavern.  The Tunnel continues to the south.  
+~
+0 13 0
+D1
+~
+~
+0 0 1057
+D2
+~
+~
+0 0 1066
+S
+#1066
+A Narrow Tunnel~
+The tunnel here is dark and moist.  The rock around you is cold and damp.
+There are certain places that you can only barely fit through.  The tunnel
+continues to the north and west.  
+~
+0 9 0
+D0
+~
+~
+0 0 1065
+D3
+~
+~
+0 0 1067
+S
+#1067
+A Narrow Tunnel~
+You have come across another boring section of tunnel.  Once again there
+is nothing of interest.  The tunnel continues north and east of here.  
+~
+0 9 0
+D0
+~
+~
+0 0 1068
+D1
+~
+~
+0 0 1066
+S
+#1068
+A Narrow Tunnel~
+This area of the tunnel is different from the rest of the small, cramped
+tunnel in that it is even smaller and more cramped than the rest of itself. 
+The tunnel moves north and south from here.  
+~
+0 9 0
+D0
+~
+~
+0 0 1073
+D2
+~
+~
+0 0 1067
+S
+#1069
+A Narrow Tunnel~
+South of here is a splendid large cavern with rock beautiful rock
+formation and a symphony of drips hitting tiny puddles as water rolls off of
+the ceiling.  North of here is a tiny rock tunnel with barely enough room,
+not to mention air, to breath and no sound whatsoever except for the
+occasional moaning coming from somewhere deep within.  You decide which way
+you wish to travel.  
+~
+0 13 0
+D0
+~
+~
+0 0 1070
+D2
+~
+~
+0 0 1058
+S
+#1070
+A Narrow Tunnel~
+You have come to a junction in the long dark tunnel.  This place is large
+and dark.  It has tunnels leading off not only into the east and south
+directions, but also in the west direction.  
+~
+0 9 0
+D1
+~
+~
+0 0 1071
+D2
+~
+~
+0 0 1069
+D3
+~
+~
+0 0 1074
+S
+#1071
+A Narrow Tunnel~
+This particular area of the tunnel is long and hard because its made of
+rock.  The only way this area would not be boring would be if you were
+claustrophobic, in which case it would be terrifying.  There are exits to
+the south and to the west.  
+~
+0 9 0
+D2
+~
+~
+0 0 1072
+D3
+~
+~
+0 0 1070
+S
+#1072
+A Narrow Tunnel~
+You have come to a portion of the small narrow tunnel you've been
+travelling through.  You are suddenly surrounded on all sides with rock! 
+The only ways out of this narrow and dangerous confine are north and west!  
+~
+0 9 0
+D0
+~
+~
+0 0 1071
+D3
+~
+~
+0 0 1073
+S
+#1073
+A Narrow Tunnel~
+The tunnel continues here east and south.  It is dark and damp.  It is
+also drab.  You think you came from east, but it could have been west...  
+~
+0 9 0
+D1
+~
+~
+0 0 1072
+D2
+~
+~
+0 0 1068
+S
+#1074
+A Narrow Tunnel~
+This tunnel is very dark.  It is made of a hard substance called rock. 
+All around you is a material that you can move right through which people
+have come to calling thin air.  The tunnel continues east and south.  
+~
+0 9 0
+D1
+~
+~
+0 0 1070
+D2
+~
+~
+0 0 1075
+S
+#1075
+A Narrow Tunnel~
+The tunnel here is long and dark.  It leads off north and south, meaning
+it does not turn, but goes strait.  Strait into more boredom.  
+~
+0 9 0
+D0
+~
+~
+0 0 1074
+D2
+~
+~
+0 0 1076
+S
+#1076
+A Narrow Tunnel~
+This tunnel is very similar to the rest of the tunnels in this cave in
+that it is exactly the same as all of the rest of them.  It is very, very
+boring.  
+~
+0 9 0
+D0
+~
+~
+0 0 1075
+D3
+~
+~
+0 0 1077
+S
+#1077
+A Narrow Tunnel~
+You have come to another tunnel junction.  Exits lead off into the east
+south and west directions.  There is a hole in the ceiling but it is too
+small to fit through.  Looking closer at it, you find that it is empty.  
+~
+0 9 0
+D1
+~
+~
+0 0 1076
+D2
+~
+~
+0 0 1078
+D3
+~
+~
+0 0 1092
+S
+#1078
+A Narrow Tunnel~
+You have come to yet another segment of tunnel.  This one is as boring as
+the rest.  Its just a tunnel, after all.  
+~
+0 9 0
+D0
+~
+~
+0 0 1077
+D1
+~
+~
+0 0 1079
+S
+#1079
+A Narrow Tunnel~
+This is a tunnel all right.  There is something strangely different in
+this part of the tunnel.  Unfortunately you cannot depict what it is.  There
+are exits south and west of here.  
+~
+0 9 0
+D2
+~
+~
+0 0 1080
+D3
+~
+~
+0 0 1078
+S
+#1080
+A Narrow Tunnel~
+Before you is a rock wall.  You cannot go forward.  Turning a bit, you
+notice that there are exits north and west of here.  
+~
+0 9 0
+D0
+~
+~
+0 0 1079
+D3
+~
+~
+0 0 1081
+S
+#1081
+A Narrow Tunnel~
+This tunnel is exactly the same as the last tunnel you came through,
+except the exits are north and east.  It is dark here.  
+~
+0 9 0
+D0
+~
+~
+0 0 1082
+D1
+~
+~
+0 0 1080
+S
+#1082
+A Narrow Tunnel~
+You get the feeling you're travelling in circles.  Then you realize that
+you've been following this tunnel for to long to be able to be travelling in
+circles.  Exits are east and south of here.  
+~
+0 9 0
+D1
+~
+~
+0 0 1083
+D2
+~
+~
+0 0 1081
+S
+#1083
+A Narrow Tunnel~
+You have come to everyone's favorite part of this tunnel: the exit.  You
+have also come to everyone's least favorite part of this tunnel: the
+entrance.  All in all, this tunnel would be just like all the other tunnels
+except its a junction as well, so while you get to make a primitive choice,
+you also have a possibility to confuse yourself.  Exits are north and east
+and west of here.  
+~
+0 13 0
+D0
+~
+~
+0 0 1060
+D1
+~
+~
+0 0 1084
+D3
+~
+~
+0 0 1082
+S
+#1084
+A Narrow Tunnel~
+This tunnel travels in an east to west direction.  Drawn on a map, this
+tunnel would make a horizontal line.  Exits are east and west of here.  
+~
+0 9 0
+D1
+~
+~
+0 0 1091
+D3
+~
+~
+0 0 1083
+S
+#1085
+A Narrow Tunnel~
+As you enter this room, you feel a bit happier than you have in the other
+sections of the tunnels.  You don't know why this is at first, but then
+realize that it is because you remembered you can recall to leave the area. 
+~
+0 13 0
+D0
+~
+~
+0 0 1086
+D1
+~
+~
+0 0 1089
+D3
+~
+~
+0 0 1059
+S
+#1086
+A Narrow Tunnel~
+This part of the tunnel runs east and south.  Actually, probably a better
+way of saying that would be has exits in the east and south directions.  
+~
+0 1 0
+D1
+~
+~
+0 0 1087
+D2
+~
+~
+0 0 1085
+S
+#1087
+A Narrow Tunnel~
+You get the feeling that you have seen this segment of the tunnel before,
+but then, realizing that all the segments of the tunnel look the same, you
+decide that it really doesn't matter if you've seen it before or not and
+keep on walking.  You may go south or west from here.  
+~
+0 9 0
+D2
+~
+~
+0 0 1088
+D3
+~
+~
+0 0 1086
+S
+#1088
+A Narrow Tunnel~
+You may go north and west from here.  You may not go south or east.  You
+could go up or down, but only in such a fashion that would damage your head.
+~
+0 9 0
+D0
+~
+~
+0 0 1087
+D3
+~
+~
+0 0 1090
+S
+#1089
+A Narrow Tunnel~
+The narrow tunnel ends abruptly here.  You are force to go out the way
+you once came in.  The only apparent exit is west.
+~
+0 9 0
+D3
+~
+~
+0 0 1085
+S
+#1090
+A Narrow Tunnel~
+This part of the tunnel could be considered boring.  It is altogether
+possible that someone, at one time, classified this tunnel as a bit drab. 
+They may have, once upon a time, said that the east and south exits were
+regular.  
+~
+0 9 0
+D1
+~
+~
+0 0 1088
+D2
+~
+~
+0 0 1091
+S
+#1091
+A Narrow Tunnel~
+You have come to a bend in the tunnel.  The tunnel stops continuing east
+or south and instead goes north or west.  Unfortunately for you, it is still
+cramped and still drab.  
+~
+0 9 0
+D0
+~
+~
+0 0 1090
+D3
+~
+~
+0 0 1084
+S
+#1092
+A Narrow Tunnel~
+You have come across a dead end in the tunnel.  The only feature here is
+a rock in the middle of the floor.  It looks like a good seat for one to
+rest their weary feet.  
+~
+0 9 0
+D1
+~
+~
+0 0 1077
+S
+#1093
+A Damp Tunnel~
+You are in a dank, dark tunnel.  The air here is moist and surprisingly
+warm when compared to most of the tunnels in the area.  This large tunnel
+stretches north to a tiny point of light.  
+~
+0 13 0
+D0
+~
+~
+0 0 1094
+S
+#1094
+A Damp Tunnel~
+The tunnel here slants very slightly downward toward the north, making
+walking difficult in either direction.  The ground is coated in some form of
+slimy moss that makes the going slippery.  The tunnel continues north and
+south.  
+~
+0 9 0
+D0
+~
+~
+0 0 1095
+D2
+~
+~
+0 0 1093
+S
+#1095
+A Damp Tunnel~
+You have come to a part of the tunnel with a large hole in its upper
+parts.  Sunlight streams in but sharp edges prohibit you from escaping by
+these means.  The tunnel continues north and south of here.  
+~
+0 9 0
+D0
+~
+~
+0 0 1096
+D2
+~
+~
+0 0 1094
+S
+#1096
+The Rising Slope~
+The tunnel here abruptly stops its descent and begins travelling upward. 
+A tiny glow is up ahead, and as you walk the atmosphere becomes warmer.  You
+sense a feeling of danger or dread as you continue.  The tunnel continues
+north and south of here.  
+~
+0 9 0
+D0
+~
+~
+0 0 1097
+D2
+~
+~
+0 0 1095
+S
+#1097
+The Rising Slope~
+The tunnel here slopes steadily upward, and you sense that you have
+crossed from subterranean into a mountain.  There is a smell of death coming
+from the north, but the moss has vanished altogether.  The further you
+travel, the warmer the air gets.  
+~
+0 9 0
+D0
+~
+~
+0 0 1098
+D2
+~
+~
+0 0 1096
+S
+#1098
+The Rising Slope~
+Great rumblings and growling can be heard just up ahead.  You sense that
+whatever is coming shall be here soon.  The smell of death weighs heavily
+upon the air, and it is almost hot as you traverse.  The tunnel continues
+south, but a great glow lies to the north.  
+~
+0 9 0
+D0
+~
+~
+0 0 1099
+D2
+~
+~
+0 0 1097
+S
+#1099
+The Lair of the Great Beast~
+There is an unearthly glow all around the room here.  The air is hot and
+several carcasses litter the ground.  In the center of the room is an
+enormous, though naturally made, pillar carved out of a gray rock.  In the
+base of the rock, a large gap is missing, seemingly chewed away by a great
+set of jaws.  The ceiling is high here, but you can see no exit other than
+to the south.  
+~
+0 9 0
+D2
+~
+~
+0 0 1098
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 1052 spec_breath_fire Load to: A Flamespider
+S
+
+
+
+#RESETS
+D 0 1051 5 0
+D 0 1052 4 0
+O 0 1160 0 1052
+M 0 1050 1 1053
+E 0 1050 0 5
+E 0 1051 0 17
+M 0 1052 1 1054
+M 0 1053 1 1056
+E 0 1053 0 5
+M 0 1054 12 1065
+M 0 1054 12 1066
+M 0 1054 12 1070
+M 0 1054 12 1079
+M 0 1054 12 1082
+M 0 1054 1 1088
+M 0 1054 1 1089
+O 0 1054 0 1092
+M 0 1054 12 1092
+M 0 1055 1 1099
+G 0 1055 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

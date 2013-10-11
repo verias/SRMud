@@ -239,11 +239,6 @@ trash 0 0
 {rBase of Operations{c.  {x 
 ~
 0 12 1
-D0
-~
-~
-~
-0 0 2
 S
 #2
 Limbo~
@@ -253,11 +248,6 @@ darkness around you without any trace of edges or shadow.
    There is a "No Tipping" notice pinned to the darkness.
 ~
 0 12 1
-D4
-~
-~
-~
-0 0 20001
 S
 #4
 The Casino Room~
@@ -265,6 +255,11 @@ Welcome to the casino!  Test your luck with the token machine and get a
 surprise.  
 ~
 0 4195340 0
+D1
+~
+~
+~
+0 0 3300
 S
 #5
 The Mount Shop~
@@ -289,9 +284,6 @@ S
 
 
 #RESETS
-O 0 100 0 1
-M 0 5 1 5 1
-M 0 4 1 6 1
 S
 
 

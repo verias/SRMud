@@ -1,0 +1,414 @@
+#AREADATA
+Name { IMM } Eris    Guards area~
+Builders Auapia Ethran~
+VNUMs 11600 11650
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#11600
+Discordian Monarchy Guard~
+a Monarchy Guard~
+A Discordian Monarchy Guard patrols the streets.
+~
+Monarchy guards are paid for by taxes taken from the citizens.  Their
+function is to patrol the streets and prevent crime.  Their primary loyalty
+is to the King or Queen of the Realm, followed by loyalty to the Barons and
+Baronesses of each of the towns.  Each guard is dressed in the traditional
+grey and red colours of the Realm.  The guards, both male and female, have
+short hair, strong backs and a strong loyalty to those in charge.  
+~
+human~
+A OV 0 0
+45 0 10d128+969 45d10+100 5d5+14 none
+-7 -7 -7 -5
+0 0 0 0
+(null) (null) none 202
+AHMV ABCDEFGHIJK medium unknown
+#11601
+discordian monarchy guard captain~
+a Monarchy Guard captain~
+A captain of the Discordian Monarchy Guards patrols the streets, searching for trouble.
+~
+Monarchy guards are paid for by taxes taken from the citizens.  Their
+function is to patrol the streets and prevent crime.  Their primary loyalty
+is to the King or Queen of the Realm, followed by loyalty to the Barons and
+Baronesses of each of the towns.  Each guard is dressed in the traditional
+grey and red colours of the Realm.  Guard captains tend to be much more
+physically strong and well trained than ordinary guards.  Because of this
+they cost a lot more to hire and are thus more scarce.  
+~
+human~
+A OVc 0 0
+95 0 12d1182+3558 95d10+100 6d10+29 none
+-30 -30 -30 -25
+0 0 0 0
+(null) (null) none 427
+AHMV ABCDEFGHIJK medium unknown
+#11602
+black demon Fluffy~
+a spiked demon~
+A large spiked demon snaps at all who pass.
+~
+This hideous black form towers over you, drippping flame and spittle
+through it's teeth.  It's back and tail are covered with number of sharp
+spikes which look to be used to impale it's victims, for latter snacking.  
+~
+unique~
+A CJTVZ -16960 0
+90 0 11d443+2036 70d10+100 5d8+22 none
+-17 -17 -17 -15
+0 LQ M N
+(null) (null) male 405
+ACGHIMVZc ACDEFHJKLOPUVW large unknown
+#11603
+yuck ball~
+a floating ball of yuck~
+This floating ball of yucky goo looks really disgusting and pulsates with malicious intent.
+~
+You don't quite know what to make of this thing.  It's made of some 
+unidentifiable gooey substance, a disgusting brownish green color.  It 
+pulsates and writhes as it extends a tendril toward you...  
+~
+unique~
+A 0 0 0
+75 0 11d551+2303 75d10+100 5d9+24 none
+-19 -19 -19 -17
+DEO BELPQR BK CHIN
+(null) (null) male 337
+ACGHMSV ABCDEFGHIJKMQUV medium unknown
+#11610
+testmob~
+testmob~
+Hi, I'm testmob. Here for all your testing needs.
+~
+~
+human~
+A 0 0 0
+100 0 12d1397+3920 400d10+100 6d11+29 none
+-35 -35 -35 -27
+0 0 0 0
+(null) (null) male 450
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#11600
+monarchy guard sword~
+a monarchy guard sword~
+A gleaming Monarchy guard sword lies here.~
+unknown~
+weapon 0 AN
+sword 6 8 slice 0
+25 5 125 P
+E
+sword~
+The sword is about four foot in length and is made of sharp steel.  The
+construction is solid but the sword looks as if it was simply one of a large
+batch.  The sword has the letters "DMG" engraved on the blade.  
+~
+#11601
+monarchy guard axe~
+monarchy guard captain's axe~
+A heavy-looking axe lies here.~
+unknown~
+weapon 0 AN
+mace 19 4 sunder 0
+45 8 225 P
+E
+axe~
+The axe looks solid and sturdy with a large steel head and a stout oak
+handle.  The initials "DMG" are inscribed on the head of the axe, referring
+to the Discordia Monarchy Guards who are paid by the King or Queen and the
+various Barons and Baronesses to patrol their streets preventing trouble.  
+~
+#11602
+silver rose~
+a {Wsilver{x rose~
+This {Wsilver{x rose pin is the symbol of Discordia.~
+unknown~
+protect IS AC
+0 0 0 0 0
+0 1 1200 P
+A
+19 5
+A
+18 5
+A
+13 50
+#11603
+silly magical beanie~
+a silly magical beanie~
+This awesome beanie glows magically.~
+unknown~
+armor 0 AE
+AE AE AE AC 0
+105 0 525 P
+#11604
+rune tattoo~
+esoteric runes~
+Esoteric runes are etched into the skin with ink that shimmers green and violet.~
+unknown~
+armor GIMS AS
+CFG CFG CFG CFG 0
+105 0 525 P
+#11605
+cloud smoke~
+a sweet-smelling cloud of smoke~
+A small purple-gray cloud of smoke hovers near, giving a mildly sweet and comforting scent.~
+unknown~
+container GINS AR
+10000 0 0 0 0
+105 0 0 P
+A
+17 -500
+#11606
+mithril dagger~
+a mithril dagger~
+This long and elegant dagger is made of pure mithril and gleams with an intense shine.  The edge has been diamond-honed and looks exceptionally sharp.~
+unknown~
+weapon ABISb AN
+bow 12 17 crunch CD
+100 2 500 P
+A
+13 100
+A
+19 10
+A
+18 10
+#11610
+light~
+light~
+(no description)~
+unknown~
+light 0 A
+0 0 ABCFGHIJ 0 0
+0 0 0 P
+#11611
+head~
+head~
+(no description)~
+unknown~
+trash 0 AE
+0 0 0 0 0
+0 0 1 P
+#11612
+face~
+face~
+(no description)~
+unknown~
+trash 0 AT
+0 0 0 0 0
+0 0 1 P
+#11613
+neck~
+neck~
+(no description)~
+unknown~
+trash 0 AC
+0 0 0 0 0
+0 0 1 P
+#11614
+shoulder~
+shoulder~
+(no description)~
+unknown~
+trash 0 AV
+0 0 0 0 0
+0 0 1 P
+#11615
+ear~
+ear~
+(no description)~
+unknown~
+trash 0 AQ
+0 0 0 0 0
+0 0 1 P
+#11616
+body~
+body~
+(no description)~
+unknown~
+trash 0 AD
+0 0 0 0 0
+0 0 1 P
+#11617
+about~
+about~
+(no description)~
+unknown~
+trash 0 AK
+0 0 0 0 0
+0 0 1 P
+#11618
+arms~
+arms~
+(no description)~
+unknown~
+trash 0 AI
+0 0 0 0 0
+0 0 1 P
+#11619
+bicep~
+bicep~
+(no description)~
+unknown~
+trash 0 AS
+0 0 0 0 0
+0 0 1 P
+#11620
+wrist~
+wrist~
+(no description)~
+unknown~
+trash 0 AM
+0 0 0 0 0
+0 0 1 P
+#11621
+hands~
+hands~
+(no description)~
+unknown~
+trash 0 AH
+0 0 0 0 0
+0 0 1 P
+#11622
+wield~
+wield~
+(no description)~
+unknown~
+trash 0 AN
+0 0 0 0 0
+0 0 1 P
+#11623
+hold~
+hold~
+(no description)~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 1 P
+#11624
+waist~
+waist~
+(no description)~
+unknown~
+trash 0 AL
+0 0 0 0 0
+0 0 1 P
+#11625
+legs~
+legs~
+(no description)~
+unknown~
+trash 0 AF
+0 0 0 0 0
+0 0 1 P
+#11626
+ankle~
+ankle~
+(no description)~
+unknown~
+trash 0 AU
+0 0 0 0 0
+0 0 1 P
+#11627
+feet~
+feet~
+(no description)~
+unknown~
+trash 0 AG
+0 0 0 0 0
+0 0 1 P
+#11628
+floating~
+floating~
+(no description)~
+unknown~
+trash 0 AR
+0 0 0 0 0
+0 0 1 P
+#0
+
+
+
+#ROOMS
+#11600
+test~
+~
+0 1048588 0
+M 0 H 0
+S
+#11605
+~
+~
+0 4 0
+M 0 H 0
+S
+#11610
+~
+~
+0 4 0
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 11600 spec_guard
+M 11601 spec_guard
+S
+
+
+
+#RESETS
+M 0 11610 1 11610 10
+E 0 11610 0 0
+E 0 11611 0 6
+E 0 11612 0 24
+E 0 11613 0 3
+E 0 11614 0 27
+E 0 11615 0 19
+E 0 11615 0 20
+E 0 11616 0 5
+E 0 11617 0 12
+E 0 11618 0 10
+E 0 11619 0 22
+E 0 11619 0 23
+E 0 11620 0 14
+E 0 11620 0 15
+E 0 11621 0 9
+E 0 11622 0 16
+E 0 11623 0 17
+E 0 11624 0 13
+E 0 11625 0 7
+E 0 11626 0 25
+E 0 11626 0 26
+E 0 11613 0 4
+E 0 11627 0 8
+E 0 11628 0 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

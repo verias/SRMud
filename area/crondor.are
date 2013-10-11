@@ -1,0 +1,1837 @@
+#AREADATA
+Name {60 90} CanLute Crondor~
+Builders None~
+VNUMs 351 400
+Security 9
+End
+
+
+
+#MOBILES
+#351
+palatine guardian~
+Palatine~
+Palatine paces about the room, watching.
+~
+Palatine is a white Crondor, the rarest of her race.  Her thick plumage
+has a fine metallic sheen that seems almost to reflect the light.  Her eyes
+are of the lightest pink with flecks of green.  Her fierce beauty alone
+would shake the strongest of men.  
+~
+unique~
+ABQ HT 1000 S
+65 12 11d352+1789 65d10+100 5d8+19 3
+-15 -15 -15 -13
+J AB G CL
+6 9 2 292
+ACGHMV ABCDEFGHIJKMOQUV L unknown
+#352
+Caelian guardian~
+Caelian~
+Caelian stands before you, rubbing his hands together.
+~
+Black as a raven, Caelian is hardly visible in the flickering light.  His
+dark feathers seem to absorb and diffuse all of the light of the room, and
+only his redly glowing eyes give away his presence.  He is dressed in a robe
+of obsidian black, and his hands pulse and glow with arcane power.  
+~
+unique~
+ABO T 1000 S
+67 13 11d387+1885 67d10+100 5d8+20 19
+-16 -16 -16 -14
+F AB CHIJKLMNOPQRS DL
+9 9 1 301
+ACGHMV ABCDEFGHIJKMOQUV L unknown
+#353
+Auroris~
+Auroris~
+Auroris stands here, clenching his fists.
+~
+Auroris is a blue Crondor, and emits a colourful haze of ice crystals as
+he moves about the room.  His size alone makes him powerful enough to crush
+the largest beings.  His wings are very small, and must not be used for
+flying because of his size.  He has icicles hanging from his beard.  He
+looks to be frozen, but seems very alive.  
+~
+Dragon~
+ABQ DFHOTc 1000 S
+70 14 11d443+2036 70d10+100 5d8+22 30
+-17 -17 -17 -15
+CDIO ABIL DE HK
+9 9 1 315
+ACGHMVZc ABCDEFGHIJKLOPUVX G unknown
+#354
+Lord Crondor king~
+Lord Crondor~
+Lord Crondor is here sitting in his throne.
+~
+Lord Crondor stands seven feet tall, and has a wiry, muscular build.  He
+is clothed in royal blue and wears a crown of solid gold upon his feathered
+head.  His speckled gold beak appears to be razor sharp, and he glances this
+way and that, in a guarded, nervously tense manner.  
+~
+unique~
+ABQ DT 1000 S
+75 15 11d551+2303 75d10+100 5d9+24 0
+-19 -19 -19 -17
+E AB D L
+6 9 1 337
+ACGHMV ABCDEFGHIJKMOQUV L unknown
+#355
+Princess Ariana~
+Princess Ariana~
+The princess, Ariana, is standing here.
+~
+Princess Ariana looks thoughtful, as she waits impatiently for her lover
+Raffti.  Her white feathers flow like a mane from the crown of her head,
+down her arched back.  Her nightgown is silk and lace, and reveals a lily
+white breast finely covered in light feathers.  
+~
+unique~
+AB HT 1000 S
+40 6 10d98+804 40d10+100 4d7+10 16
+-5 -5 -5 -3
+HIK 0 0 L
+9 9 2 180
+ACGHMV ABCDEFGHIJKMOQUV M unknown
+#356
+Bahlrof wizard~
+Bahlrof~
+Bahlrof, the wizard, stands here waiting to make a sale.
+~
+Bahlrof is dressed in an all blue robe.  His grey beard is about two feet
+long.  He looks to be very elderly, but moves around the room with great
+speed.  
+~
+unique~
+ABRW T 800 S
+40 0 10d98+804 40d10+100 4d7+10 19
+-5 -5 -5 -3
+0 0 0 L
+9 9 1 180
+ACGHMV ABCDEFGHIJKMOQUV L unknown
+#357
+crondorian guard~
+a Crondorian guard~
+The Crondorian guard moves in front of you, and blocks your way.
+~
+An elite royal guard of Crondor stares at you with eagle-like intensity. 
+He wears a glistening suit of armor, gold in colour.  His tawny wings
+protrude above his shoulders.  
+~
+unique~
+ABQ DHT 1000 S
+70 11 11d443+2036 70d10+100 5d8+22 5
+-17 -17 -17 -15
+U AB G L
+9 9 1 315
+ACGHMV ABCDEFGHIJKMOQUV M unknown
+#358
+astronomer~
+an astronomer~
+An astronomer is here looking through a lens.
+~
+A slim, but fit man wearing a pair of blue slacks, and a long white lab
+coat.  On his face are a thick pair of glasses.  
+~
+Human~
+AB H 200 S
+72 12 11d484+2141 72d10+100 5d9+22 17
+-18 -18 -18 -16
+KN AB 0 0
+9 9 1 324
+AHMV ABCDEFGHIJK M unknown
+#359
+crystalis blue dragon~
+Crystalis, the dragon~
+Crystalis looms mightily over your head, his hot breath scalding your equipment.
+~
+A dragon, metallic blue in colour, glares angrily at you.  His claws are
+like sharp shards of glass and his blue tinged scales quiver along his body,
+emitting a stench of sulphur and poisonous gases.  
+~
+Dragon~
+ABQ DFHOTVac 280 S
+99 20 12d1182+3558 95d10+100 6d10+29 5
+-30 -30 -30 -25
+CDFH L DEFG CS
+9 9 1 445
+ABCGHMVZc ACDEFHJKLOPQUVX G unknown
+#360
+hobbit slave~
+a hobbit slave~
+Chained to the wall is a hobbit slave.
+~
+The hobbit looks to be very ill, and disease infested.  The hobbit wears
+nothing except for thin piece of torn cloth.  
+~
+Hobbit~
+AH JX 800 S
+40 6 10d98+804 40d10+100 4d7+10 17
+-5 -5 -5 -3
+H Q CLQ R
+9 9 3 180
+AHMV ABCDEFGHIJK S unknown
+#361
+drow guard~
+a drow guard~
+A drow guard is resting here.
+~
+A tall elf with a modest build.  Wearing a suit of dark armor.  
+~
+unique~
+AQ HVZ -800 S
+60 11 11d277+1559 60d10+100 5d7+19 11
+-13 -13 -13 -11
+HIR Q BC ESZ
+5 9 1 270
+AHMV ABCDEFGHIJK M unknown
+#362
+drow leader Grombit~
+Grombit the drow leader~
+Grombit, is here ordering troops around.
+~
+A tall elf with an excellent build.  Eyes as dark as the earth itself,
+and hair as black as coal.  He is dressed in an all black chainmail.  In one
+hand he holds a bright red shield, and in the other he holds a large sword. 
+~
+unique~
+AQ BHZ -900 S
+65 12 11d352+1789 65d10+100 5d8+19 3
+-15 -15 -15 -13
+DEKR Q BC ESZ
+9 9 1 292
+AHMV ABCDEFGHIJK L unknown
+#363
+drow guard~
+a drow guard prison guard~
+A drow guard is here watching the slaves.
+~
+A tall elf with a modest build.  He is wearing a suit of dark armor.  
+~
+unique~
+AQ HVZ -900 S
+66 12 11d369+1836 66d10+100 5d8+20 11
+-16 -16 -16 -14
+HIR Q B ESZ
+9 9 1 297
+AHMV ABCDEFGHIJK M unknown
+#364
+lizard hermit~
+a lizard hermit~
+The hermit stands before you displaying his inventory.
+~
+The lizard looks to be very frail, and old.  He is wearing a dark robe
+around his body, and it looks like everything he owns is strapped inside. 
+On his feet are a pair of leather sandals.  One thing that is noticeable is
+his long tail, it looks very deadly.  
+~
+unique~
+ABRW B 0 S
+70 13 11d443+2036 70d10+100 5d8+22 4
+-17 -17 -17 -15
+0 L L I
+9 9 1 315
+ACGHMVXc ABCDEFGHIJKMQUV M unknown
+#365
+Raffti~
+Raffti~
+Raffti haggles patiently with Bahlrof
+~
+Raffti is an attendant to Lord Crondor himself.  His plumage is rather
+over fluffed, and his robes are equally overdone.  He is a crafty
+individual, with great haggling skills.  
+~
+unique~
+ABQ T 750 S
+66 0 11d369+1836 66d10+100 5d8+20 17
+-16 -16 -16 -14
+KQ 0 0 L
+9 9 1 297
+ACGHMV ABCDEFGHIJKMOQUV M unknown
+#369
+beast Snurlgoff~
+Snurlgoff the giant~
+The Snurlgoff is chained to the floor.
+~
+An ominously large giant wearing a tattered leather vest, and boots.  His
+skin is dark green, and his eyes are bright red with evil.  He is drooling,
+and picking at one of his teeth with a bone from the floor.  
+~
+Giant~
+ABF H -1000 S
+95 25 12d1182+3558 95d10+100 6d10+29 7
+-30 -30 -30 -25
+CO E HI JP
+9 9 1 427
+AHMV ABCDEFGHIJK H unknown
+#370
+A Crondorian page~
+a Crondorian page~
+A Crondorian page looks impertinently your way.
+~
+Fluffy patches of down poke out from under a young Crondorian's doublet. 
+His immature plumage is spotted white and tan and his talons are barely
+grown.  His eyes are brown with specks of gold, and he darts amongst the
+castle staff, teasingly.
+~
+unique~
+A T 600 S
+40 0 10d98+804 40d10+100 4d7+10 0
+-5 -5 -5 -3
+FHI 0 0 L
+9 9 1 180
+ACGHMV ABCDEFGHIJKMOQUV M unknown
+#371
+WaerTalon griffon~
+WaerTalon~
+Ariana's griffon, WaerTalon, snarls suspiciously at you.
+~
+WaerTalon's wings are folded neatly upon his back, and he sits on all
+fours malcontentedly watching you with a suspicious eye.  He follows your
+movements about the room unhappily, but he won't attack unless threatened,
+or in the event a Crondorian is threatened.
+~
+Wyvern~
+AB DFQT 1000 S
+60 5 11d277+1559 60d10+100 5d7+19 23
+-13 -13 -13 -11
+CFHQ L 0 S
+6 9 1 270
+ABGZc ACDEFHJKOPQUVX M unknown
+#372
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 S
+0 0 0d0+0 0d10+100 0d0+0 0
+10 10 10 10
+0 0 0 0
+9 9 0 0
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#351
+claw claws~
+palatine's claws~
+A pair of sharp claws lies here.~
+unknown~
+9 ABFGI AH 0
+CD CD CD AB 0
+72 10 360 P
+A
+5 1
+A
+2 1
+A
+18 3
+0 ABCDE
+#352
+chest~
+a chest~
+A chest with elaborately designed latches is here by the throne.~
+unknown~
+15 R 0 0
+ABDG ABC 0 0 0
+0 160 1 P
+E
+latch latches lid~
+The latches on the lid of the chest are glowing very slightly.
+~
+0 0
+#353
+crown~
+a bejewelled crown~
+This crown is encrusted with different gems in a very attractive design.~
+unknown~
+8 A AE 0
+0 0 0 0 0
+1 5 1000 P
+0 0
+#354
+Tiara Crondor~
+tiara Crondor~
+A delicately bejeweled tiara lies here.~
+unknown~
+8 0 AE 0
+0 0 0 0 0
+40 2 400 P
+A
+13 40
+E
+!history!~
+It is said that the proud Princess Ariana of Crondor wears the Tiara
+Crondor always, never letting it off her head.  
+~
+L
+proudly~
+0 0
+#355
+wings crondor~
+wings of Crondor~
+A set of wings lies here.~
+unknown~
+9 AFI AK 0
+CD CD CD AB 0
+75 3 375 P
+A
+2 1
+A
+14 50
+0 0
+#356
+brew special~
+lord Crondor's special brew~
+A bottle of brew is here.~
+unknown~
+10 AG AO 0
+55 268 260 68 0
+58 1 1740 P
+0 0
+#357
+talons talon~
+talons of a Crondor~
+A pair of razor sharp talons rest here.~
+unknown~
+9 AFI AG 0
+CD CD CD AB 0
+75 8 375 P
+A
+18 2
+A
+19 2
+E
+talon talons~
+A very sharp pair of talons.  
+~
+0 ABCDE
+#358
+sustenance potion~
+potion of sustenance~
+A potion sits here.~
+unknown~
+10 AC AO 0
+50 80 12 12 0
+50 1 1500 P
+0 0
+#359
+vision potion~
+potion of vision~
+A potion sits here.~
+unknown~
+10 AC AO 0
+55 20 18 261 0
+55 1 1650 P
+0 0
+#360
+pill insane~
+pill for the insane~
+A pill lies here.~
+unknown~
+26 AC A 0
+45 502 504 72 0
+45 1 1350 P
+0 0
+#361
+pill preservation~
+pill of preservation~
+A pill lies here.~
+unknown~
+26 AC A 0
+90 900 0 0 0
+55 1 1650 P
+0 0
+#362
+cloak keeping~
+cloak of keeping~
+A very large cloak lies here.~
+unknown~
+15 ACS AZ 0
+BDEG 0 0 0 0
+68 10 700 P
+A
+17 -12
+0 ABCDE
+#363
+crondor key~
+a key shaped like a wing~
+A small wooden wing lies here.~
+unknown~
+18 A AO 0
+0 0 0 0 0
+60 0 10 P
+A
+2 2
+E
+key wing~
+A key shaped like a wing from a Crondor.  It is made of wood.  
+~
+0 ABCDE
+#364
+key storage~
+a key to the storage room~
+A small steel key.~
+unknown~
+18 A A 0
+0 0 0 0 0
+70 1 20 P
+0 0
+#365
+glass rod~
+a glass rod~
+A thin glass rod lies here.~
+unknown~
+1 ABCGM A 0
+0 0 999 0 0
+60 5 900 P
+A
+12 30
+A
+5 2
+0 ABCDE
+#366
+steel black chainmail~
+a suit of black steel armor~
+A suit of armor that blends into the shadows.~
+unknown~
+9 AJM AD 0
+BD BD BD AB 0
+60 22 300 P
+A
+2 1
+A
+17 -5
+0 0
+#367
+drow shield~
+a drow's shield~
+A bright red shield sits here.~
+unknown~
+9 ABFGJ AJ 0
+AD AD AD B 0
+58 6 290 P
+A
+3 -1
+A
+19 1
+A
+18 1
+A
+17 -1
+0 0
+#368
+sword revenge ~
+sword of Revenge~
+A large sword glistens in the bright light.~
+unknown~
+5 ACFGJ AN 0
+A ABCDE AB A D
+60 7 300 P
+A
+18 1
+A
+19 1
+0 0
+#369
+staff hermits~
+a hermits staff~
+A large wooden staff is lying here.~
+unknown~
+4 AC AO 0
+ACEG CE CE 29 0
+85 10 425 P
+0 0
+#370
+scroll~
+a tightly bound scroll~
+A piece of paper tied with a string.~
+unknown~
+2 AG AO 0
+90 242 0 0 0
+50 2 920 P
+E
+scroll scrolls~
+A scroll with a bunch of symbols all over it.  
+~
+0 0
+#371
+bookcase~
+a bookcase~
+A large bookcase, filled with books.~
+unknown~
+29 AG 0 R
+-1 3 1 360 0
+50 50 0 P
+0 0
+#372
+bureau~
+a bureau~
+A white painted bureau is cluttered with the Princess's things.~
+unknown~
+15 R 0 0
+CEFGHI ABCD ACHI 0 0
+50 20 500 P
+0 0
+#373
+frozen fountain~
+a fountain~
+A very beautiful, but frozen fountain.~
+unknown~
+13 B 0 0
+0 0 0 0 0
+50 0 50 P
+0 0
+#374
+portal~
+a portal~
+A large swirling portal leading to who knows where.~
+unknown~
+29 AB 0 0
+-1 1 1 361 0
+50 50 500 P
+0 0
+#375
+Crondorian armor~
+crondorian armor~
+Glistening armor lies here.~
+unknown~
+9 0 AD 0
+BD BD BD AB 0
+65 0 325 P
+A
+18 3
+A
+19 3
+0 0
+#376
+a brandestoc~
+a brandestoc~
+A bloodied brandestoc leans against the wall.~
+unknown~
+5 0 ANOP 0
+D AC ADE AB G
+66 0 330 P
+0 CD
+#377
+Royal Blue Robe~
+a Royal Blue robe~
+A voluminous blue robe lies here.~
+unknown~
+9 0 AD 0
+CD CD CD AB 0
+73 10 365 P
+A
+3 -1
+A
+2 3
+E
+!history!~
+Lord Crondor, the ruler of a mountain kingdom near the Sea of Discordia,
+is known to favour robes of Royal Blue.  
+~
+0 ABCDE
+#378
+Beak of Crondor~
+beak of Crondor~
+Crondor's beak has fallen to the ground.~
+unknown~
+5 0 AN 0
+0 AC ACDE BD 0
+75 2 375 P
+0 ABCDE
+#379
+A Feathered Cloak~
+a feathered cloak~
+A cloak of feathers lies here.~
+unknown~
+9 0 AZ 0
+BE ABE BE C 0
+63 0 315 P
+A
+24 -6
+0 ABCDE
+#380
+Crondorian tadji~
+a Crondorian tadji~
+A wickedly sharp tadji lies here.~
+unknown~
+5 0 AN 0
+B BC ACE ABD 0
+65 5 325 P
+A
+18 6
+E
+!history!~
+The tadji of Crondor is a well-crafted blade, favoured by the most elite
+of Crondorian castle guards.  
+~
+L
+threateningly~
+0 BC
+#381
+An obsidian robe~
+an obsidian robe~
+An obsidian black robe lies here.~
+unknown~
+9 IK AD 0
+BD BD BD AB 0
+65 5 325 P
+0 ABCDE
+#382
+a channelling staff~
+a channelling staff~
+A rowan channelling staff, glowing with power, lies here.~
+unknown~
+4 A AO 0
+EG ABCD ABCD 39 0
+63 8 315 P
+A
+19 4
+0 0
+#383
+doublet soft~
+a soft downy doublet~
+A soft downy doublet lies here.~
+unknown~
+9 0 AD 0
+BC BC BC B 0
+40 2 200 P
+0 0
+#384
+A blue robe~
+a blue robe~
+A blue robe lies here~
+unknown~
+11 b AD 0
+0 0 0 0 0
+40 3 400 P
+0 BCD
+#385
+a heart key~
+a heart-shaped key~
+A key shaped like a heart lies here.~
+unknown~
+18 0 A 0
+0 0 0 0 0
+40 0 0 P
+0 0
+#386
+shiny corslet~
+a shiny corslet~
+A shiny corslet lays on the floor.~
+unknown~
+9 0 AD 0
+BD BD BD AB 0
+64 10 320 P
+A
+3 2
+A
+17 -2
+0 BCD
+#387
+a silver lohar~
+a silver lohar~
+A silver lohar lies here.~
+unknown~
+5 I AN 0
+AC ABD ABD ADE D
+64 5 320 P
+0 BCD
+#388
+a royal nightie~
+a royal nightie~
+A lacey nightgown lies on the ground.~
+unknown~
+11 b AD 0
+0 0 0 0 0
+40 0 400 P
+A
+12 40
+L
+revealingly~
+0 BCD
+#389
+Ring of Sight~
+ring of Sight~
+A ring glows vibrantly here.~
+unknown~
+18 Ab AB 0
+0 0 0 0 0
+60 0 0 P
+0 BCD
+#390
+silken leggings~
+silken leggings~
+A pair of silken leggings are folded neatly.~
+unknown~
+9 IS AF 0
+BD BD BD AB 0
+60 0 300 P
+A
+24 -6
+L
+slyly~
+0 BCD
+#391
+trapdoordown~
+trapdoordown~
+{x~
+unknown~
+30 0 0 0
+CH I BCDEGI A 0
+70 0 0 P
+0 0
+#392
+key ring~
+a key on a ring~
+A key on a ring is here.~
+unknown~
+18 0 0 0
+0 0 0 0 0
+60 0 0 P
+0 0
+#393
+chesttrap~
+a chest~
+(no description)~
+unknown~
+30 R 0 0
+HI G 0 0 0
+75 0 0 P
+0 0
+#394
+crown of Crondor~
+the crown of Crondor~
+Crondor's Crown is here.~
+unknown~
+9 0 AE 0
+CD CD CD AB 0
+75 0 375 P
+A
+4 3
+L
+authoritatively~
+0 CD
+#395
+shoulderblade blade giant~
+a giant shoulderblade~
+A giant shoulderblade is here.~
+unknown~
+9 EGQ AV 0
+ABCD ABCD ABCD C 0
+95 9 475 P
+A
+13 25
+A
+12 20
+A
+17 -3
+L
+worn on shoulder~
+0 CDE
+#0
+
+
+
+#ROOMS
+#351
+Crondor~
+To the west and up, the castle towers reach impossibly close to the
+heavens above, almost seeming to pierce the sky.  The battlement walls,
+which are cut from pure white quartz, glow with their own mysterious aura.
+Trellises of thick green ivy adorn the gated entrance, their waxen leaves
+shimmering when struck with light. To the south, one can see the city of
+Discordia, and, beyond that, the sea of Neru. 
+~
+0 1 5
+E
+door~
+A large door made of the finest wood, it looks indestructable.
+~
+E
+up~
+You see a thick vine growing on a trellis, climbing up the castle wall.  
+~
+E
+ivy~
+Ivy grows up and around the castle entry way, mounted on a sturdy trellis.  
+~
+E
+trellis~
+The trellis looks strong enough to support an individual with a mind to
+climb it.
+~
+D1
+~
+entranceway~
+2 363 352
+D3
+~
+~
+0 0 16013
+D4
+~
+ivy~
+7 0 390
+S
+#352
+Foyer~
+The grand foyer of Castle Crondor is lined on each side with statues, set
+upon marble pedestals.  At the far end of the foyer, an ornately decorated
+set of stairs leads up to the second level of the castle.  The statues are
+imposing, arms outstretched towards the ceiling, as if holding it in place. 
+~
+0 9 0
+E
+statues~
+The statues, Crondorian Tervadis, are sculpted in solid marble and stand upon ornate pedestals.
+~
+D0
+~
+~
+0 0 353
+D3
+~
+~
+2 0 351
+D4
+~
+~
+0 0 381
+S
+#353
+The Beginning~
+The hallway floor is ornately laid in parquet with gilt borders, and the
+walls are richly flecked with gold shavings.  Gemstones, all beautiful and
+rare, are set in the walls frustratingly just out of reach.  To the north,
+you see a solid looking door.  
+~
+0 9 0
+E
+gemstones~
+The gemstones are set high in the wall, and are impossible to reach.  
+~
+D0
+~
+doorway~
+2 392 354
+D2
+~
+~
+0 0 352
+S
+#354
+The Guarded Hallway~
+The hallway narrows here, taking the shape of a guarded entranceway.  The
+halls are lit by a series of flickering candelabras, held in place by
+clawlike brass fittings, nailed at regular intervals, on the walls.  The
+ceiling however, is dark, as are the shadows between each flickering light. 
+~
+0 1056777 0
+D0
+~
+~
+0 0 355
+D2
+~
+~
+2 0 353
+S
+#355
+The Guarded Hallway~
+Glowing candelabras, mounted on each side of the hallway, flicker with a
+cool, eerie light.  Shadows weave to and fro, in a choreographed dance, in
+synchronization with the candle light, and a distant thrumming noise
+emanating from all around you.  The hallway continues to the north and
+south.  
+~
+0 1056777 0
+E
+hand hands~
+A pair of large hands.  Heat can be felt coming from them, and their glow
+is almost blinding.  
+~
+E
+sign~
+I dare you to continue!!!  If you do not think you are prepared, then do
+not continue.  The next guardian will not wait for your first move.  
+~
+D0
+~
+~
+0 0 356
+D2
+~
+~
+0 0 354
+S
+#356
+The Guarded Hallway~
+Your breath swirls in a smoky haze as an icy blast of air hits you upon
+entering the room.  Icicles hang like crystal daggers and a fine dusting of
+frost coats the furnishings of the room.  The windows, which are set high in
+the walls, are frosted from the inside, by the unnatural winter of the room.
+~
+0 1056777 0
+E
+fountain~
+It is a large round water basin with the statue of a swan in the middle. 
+The only thing is that it does not work because it is frozen.  
+~
+E
+ice walls wall things thing~
+Frozen inside the walls are bodies of fallen warriors that did not defeat
+Blizzara.  
+~
+D0
+~
+~
+0 0 357
+D2
+~
+~
+0 0 355
+S
+#357
+The Winged Throne~
+A plush, narrow carpet runs the length of the room, from the entrance to
+the foot of the throne.  On each wall, intricate tapestries hang from floor
+to ceiling, woven with dexterity by Crondorians of ancient times.  The
+throne of Crondor is laminated with gold, the malleable metal coaxed into
+the shape of wings held aloft as if ready for flight.  
+~
+0 1048585 0
+E
+throne~
+The throne is laminated with gold.
+~
+E
+paper letter~
+You have completed your journey, and will be greatly rewarded.  In the
+chest on the floor is what you desire.  Open it, and everything inside is
+yours.  Lord Crondor 
+~
+E
+sign~
+To the east is another path to challenge anyone that dares.  Beware, and
+it is not wise to travel alone.  
+~
+D1
+~
+~
+0 0 358
+D2
+~
+~
+0 0 356
+S
+#358
+A Large Cage~
+Torches lining the walls light the room, which is much like a giant cage.
+The barred windows are small, and deeply set, allowing only a sliver of
+natural light to glance upon the walls.  Piles of dung, some fresh and
+steaming, others dried and putrid, block your path through the cage.  The
+way out is east, and west.  
+~
+0 1056777 0
+E
+sign~
+To the east lies your reward.  Oh a keeper guards what you seek, so be
+careful.  
+~
+E
+dung poop~
+Now why would you wanna look at that.  It really does stink.  
+~
+D1
+~
+~
+0 0 359
+D3
+~
+~
+0 0 357
+S
+#359
+The Keeper's Quarters~
+The keeper's room is cage-like, with bars separating it from Crystalis's
+lair.  Whips and chains hang menacingly on wall hooks.  Interspersed with
+these cruel tools, a motley collection of wild creatures heads, stuffed and
+mounted, hang from the walls.  Bones and bread crusts litter the floor.  The
+way out is west.  
+~
+0 1056777 0
+E
+head heads creature creatures~
+The only head that seems familiar to you is the largest one, the head of
+an ursa.  Why would someone hang something, so ugly on their wall.  
+~
+E
+book bookcase books~
+Looking closer you can tell that the books are not real.  It looks like
+the bookcase can be opened like a door.  
+~
+D3
+~
+~
+0 0 358
+S
+#360
+An Entrance to the Underground Caverns~
+It is a large empty room.  The only exit besides the way in is the large
+portal leading down into the caverns below.  Green moss, and ferns have
+begun to grow through cracks in the stone, which makes up this room.  
+~
+0 1056777 4
+D2
+~
+~
+0 0 359
+S
+#361
+A Central Room in the Caverns~
+Exits lead in all directions.  The room has been carved out of the solid
+rock that makes the walls.  Water is dripping from the ceiling, and is
+starting to form some pretty large stalactites on the ceiling, and
+stalagmites on the floor.  It would be wise to watch your step around here. 
+~
+0 1056777 4
+D0
+~
+~
+0 0 366
+D2
+~
+~
+0 0 362
+D4
+~
+~
+0 0 360
+S
+#362
+A Hallway in the Caverns~
+A hallway with walls made of jagged rocks.  The only thing interesting in
+this room is a large rock imbedded in the wall.  
+~
+0 1318921 3
+E
+rock wall~
+Looking closer you can see a space behind the rock.  It looks like it can
+be opened if pulled hard enough.  You wonder what, if anything lies behind
+the door.  
+~
+D0
+~
+~
+0 0 361
+D1
+~
+rock~
+1 0 375
+D2
+~
+~
+0 0 363
+S
+#363
+A Hallway in the Caverns~
+A continuation of a long hallway.  Chains and shackles hang from the
+walls, but they are not alone skeletons hang here too.  Spiders have begun
+to build large webs all over what remains of the victims.  It looks as
+though the victims were left here as food for something.  It does not seem
+like a good idea to stay here, and find out what it is.  
+~
+0 1056777 3
+E
+spider spiders web~
+Woah don't get to close you don't know if these things are poisonous.  
+~
+E
+victims victim skeletons skeleton~
+Looking closer you can tell that the bones are of hobbit origin.  
+~
+D0
+~
+~
+0 0 362
+D2
+~
+~
+0 0 364
+S
+#364
+A Hallway in the Caverns~
+A thin hallway carved out of the rock.  Jagged rocks protrude from the
+sides making it a tight fit down the hallway.  Running along the floor are a
+bunch of tunnel rats.  The filth left behind by the rats alone is enough to
+make a person gag.  
+~
+0 1318921 3
+D0
+~
+~
+0 0 363
+D2
+~
+~
+0 0 365
+S
+#365
+A Room in the Caverns~
+Looks to be a barracks of some sort for eating, and sleeping.  A set of
+bunk beds lie against the eastern wall.  A large table, and some chairs are
+in the middle of the room.  A large lantern sits in the middle of the table.
+~
+0 1056777 3
+E
+table chair chairs~
+A large wooden table, with legs made of bone.  A couple of chairs with
+seats made of circular pieces of log, and legs made of bones.  The bones
+look to be of the human variety.  
+~
+E
+lantern lamp~
+A large oil lamp, filled with oil.  
+~
+D0
+~
+~
+0 0 364
+S
+#366
+A Hallway in the Caverns~
+A thin hallway with a very low ceiling, and close walls.  The air is
+starting to become very stuffy, and hard to breath.  There are torches
+hanging on either side of the walls.  Looking down the hallway it seems to
+get thinner, and thinner the farther it goes.  
+~
+0 1318921 0
+E
+torch torches~
+The torches are only a slight flicker because of the lack in oxygen.  
+~
+D0
+~
+~
+0 0 367
+D2
+~
+~
+0 0 361
+S
+#367
+A Thin Hallway in the Caverns~
+The walkway is getting thinner, and thinner.  The ceiling is getting
+lower, and lower.  Not anything much larger than a elf could fit through
+here.  There are large claw marks all in the sides of the wall.  The air is
+becoming more, and more polluted with the odor of fecal matter.  
+~
+0 1318921 0
+E
+claw claws marks mark~
+Looking closer it looks like a large beast of some sort made these marks.
+Well whatever it was it had a tough time getting through here.  
+~
+D0
+~
+~
+0 0 368
+D2
+~
+~
+0 0 366
+S
+#368
+A Very Tight Intersection~
+The hallway and ceiling are thinner, and even lower here.  It is all
+illuminated by a lone torch hanging on the wall.  The air here is ripe with
+the smell of rotting flesh, and waste.  The same distinct claw marks are all
+over the walls again.  There is door with bars across it to the west.  
+~
+0 1056777 0
+E
+claw claws marks mark~
+The same strange claw marks that were in the tunnel before.  It looks as
+though the creature clawed it's way through the tunnel.  
+~
+D1
+~
+~
+0 0 380
+D2
+~
+~
+0 0 367
+D3
+~
+~
+1 0 369
+S
+#369
+A Long Hallway~
+The walls here are very smooth.  There is nothing else here just an empty
+room, but the hallway continues west.  
+~
+0 1318921 0
+D1
+~
+~
+1 0 368
+D3
+~
+~
+0 0 370
+S
+#370
+A Bend in the Hallway~
+Again the walls are very smooth.  The floor is starting to get a little
+wet.  There are old rags, dirty bowls, and trash piled all over the floor. 
+Voices can be heard coming from the south.  
+~
+0 1318921 0
+D1
+~
+~
+0 0 369
+D2
+~
+~
+0 0 371
+S
+#371
+A Continuation of the Hallway~
+A large hallway filled with more trash, and junk.  The voices are getting
+even louder here.  
+~
+0 1318921 0
+D0
+~
+~
+0 0 370
+D2
+~
+~
+0 0 372
+S
+#372
+A Long Hallway~
+Nothing much interesting in this room at all.  Just a couple of torches
+hanging on the walls.  The voices have become more clear, and now sound like
+moans, and screams.  
+~
+0 1318921 0
+D0
+~
+~
+0 0 371
+D2
+~
+~
+0 0 373
+S
+#373
+An Entrance to a Storage Area~
+A large steal door with bars is on the eastern wall.  Rats, and mice are
+abundant in this area.  Hobbits can be seen inside the cell.  
+~
+0 1318921 0
+D0
+~
+~
+0 0 372
+D1
+~
+~
+1 0 374
+S
+#374
+A Very Dirty Cell~
+There are hobbits all around the room chained, and shackled to the walls.
+There is no light in the room at all.  Bodily waste, and spilled food covers
+the floor.  Rats are running all around picking at the food, and trash that
+is on the floor.  
+~
+0 262153 0
+D3
+~
+~
+1 0 373
+S
+#375
+Treasure Room~
+A small chamber like room.  There nothing at all in the room it is
+completely empty.  
+~
+0 13 3
+D3
+~
+rock~
+1 0 362
+S
+#376
+The End of the Tunnel~
+There is desk, chair, and some papers scattered all over the desk.  An
+oil lamp hanging from the ceiling illuminates the desk perfectly.  On the
+back wall there is large fireplace, with all types of pots, and kettles
+boiling on it.  A bookcase filled with books, and scrolls is the largest
+piece of furniture in the room.  
+~
+0 262153 0
+E
+pot pots kettle kettles fireplace~
+A large grate covers the fire.  All the pots, and kettles contain some
+kind of potion.  
+~
+E
+books bookcase scroll scrolls book~
+All types of books are on the bookshelves: Black Magic the Only Way, Why
+Evil Should Rule Part I and Part II, and A Day in the Life of a Thief.  All
+books are authored by one of greatest black dragons to ever live, Cougar.  
+~
+D0
+~
+~
+7 0 377
+S
+#377
+The Snurlgoffs Lair~
+It is a large cave.  There are chains fastened to the floor.  There is
+one large chain coming out of the back wall, there is a large beast tied to
+it.  The chains are set up right in front of the beast almost like for a
+sacrifice.  Shackled to one of the chains is a small hobbit.  
+~
+0 1048585 0
+E
+hobbit small~
+The small female hobbit is barely clothed at all except for the thin
+piece of cloth wrapped around her body.  She is shaking with fear, maybe you
+should save her.  
+~
+D0
+~
+~
+0 0 378
+D2
+~
+~
+7 0 376
+S
+#378
+An Opening into a Larger Room~
+It is a large room, with the only exit to the south.  Whatever made those
+claw marks has decided take up residence here by hollowing out the walls. 
+There are piles upon piles of bones spread all over the room.  Large piles
+of feces are all over the floor.  It is clear that this is where the stench
+is coming from.  
+~
+0 1310729 0
+D0
+~
+~
+0 0 379
+D2
+~
+~
+0 0 377
+S
+#379
+A Very Sharp Bend in the Passageway~
+The dim passageway carries along the smell of rotting flesh.  It looks
+almost as though this space was created by something clawing at the walls
+for all the claw marks in the stone.  Filling the far side of the sharp bend
+in the passage is a littering of discarded weapons and bones that have been
+picked clean by something.  
+~
+0 1318921 0
+E
+claw marks mark~
+Large very deep depressions made into the wall by something with very
+sharp claws.  
+~
+D2
+~
+~
+0 0 378
+D3
+~
+~
+0 0 380
+S
+#380
+A Small Passageway~
+A small passageway with the same claw marks all over the walls.  Bones,
+armor, and weapons are scattered all over the floor.  The odor of rotting
+flesh is still very prominent in the air.  
+~
+0 1056777 0
+E
+claw claws mark marks~
+The same large claw marks.  Whatever it is, it is having a very tough
+time fitting through here.  
+~
+E
+bone bones armor weapon weapons~
+Looks to be leftover equipment of slain warriors.  Some of the bones are
+fresh, and still have meat on them.  
+~
+D1
+~
+~
+0 0 379
+D3
+~
+~
+0 0 368
+S
+#381
+Balcony~
+The balcony is built of solid white marble, with graceful columns rising
+from each side of a waist-high railing.  Sparrows and swallows perch
+daintily upon silver branches artistically placed in porcelain urns.  The
+western perch of the balcony overlooks the castle entrance and to the far
+west, the Sea of Discordia.  On the north wall, there is a door leading into
+the castle.  
+~
+0 1056769 3
+E
+urn~
+Light blue brush strokes decorate the white glazed urns, which are at
+least waist high and filled with silver-painted branches.  
+~
+E
+pot pots plant plants~
+They are definetly some type of herb.  The aroma coming from each plant
+alone makes you a little light headed.  
+~
+D0
+~
+doorway~
+6 385 382
+D3
+~
+~
+0 0 390
+D4
+~
+~
+0 0 383
+D5
+~
+~
+0 0 352
+S
+#382
+Ariana's Room~
+Princess Ariana lives in luxury, surrounded by objects, rare and
+beautiful.  Her canopy bed is wide, round and slightly concave, like a nest.
+It is covered with a comforter that is light and airy, filled with molted
+down.  Light, entering via a small window, shines gently upon a white,
+carved bureau standing across from the bed.  
+~
+0 1056776 0
+E
+bed~
+The canopy bed is nest-like in shape, and looks incredibly comfortable.  
+~
+D2
+~
+~
+6 385 381
+S
+#383
+Third Floor Balcony~
+The balcony overlooks ocean side cliffs and the Sea of Discordia to the
+far west.  The balcony is constructed of solid white marble, and is
+surrounded on three sides by a pillared railing.  Potted plants with
+fragrant flowers are tastefully arranged in each corner of the balcony, and
+in one, a hummingbird takes its fill of honey-sweet nectar.  
+~
+0 1056769 0
+E
+potted plants plant~
+They look to be some sort of herb or something.  The smell they give off
+makes you very hungry.  Rolling some up, and smoking it would be a great
+idea.  
+~
+D0
+~
+~
+0 0 384
+D4
+~
+~
+0 0 387
+D5
+~
+~
+0 0 381
+S
+#384
+Bahlrof's Pills and Potions~
+Counters and cabinets line the walls.  All of them are filled with glass
+vials, and bottles of pills.  There are large flasks filled with bubbling
+liquids all over the room.  The odor alone is enough to make a person sick. 
+~
+0 1056776 0
+E
+flask flasks~
+Looking closer at the flasks they seem to be filled with a bubbling
+yellow liquid.  
+~
+D2
+~
+~
+0 0 383
+D3
+~
+doorway~
+7 0 385
+S
+#385
+Bahlrof's Closet~
+A small walk-in closet.  Robes, cloaks, and wands hang from the walls. 
+The floor is cluttered with all kinds of papers, and jars.  By the sight of
+the closet it is very obvious that Bahlrof is not a neat person.  The floor
+boards seem to be very loose.  
+~
+0 8717 0
+E
+robes robe cloak cloaks wand wands~
+Handcrafted by Bahlrof.  Not for resale.  
+~
+D1
+~
+~
+7 0 384
+D5
+~
+~
+1 0 386
+S
+#386
+A Secret Room~
+The room feels very damp, and smells musty.  A bunch of cloaks, and other
+things are hanging on the wall.  
+~
+0 1318925 0
+D4
+~
+~
+1 0 385
+S
+#387
+An Observatory~
+The top floor of the tower ends here, in a domed observatory.  Maps and
+star charts hang from the walls, their ends tattered from being pulled down,
+examined, edited and altered.  There is a large viewing apparatus in the
+center of the room.  
+~
+0 1056777 0
+E
+apparatus~
+It looks to be a large cylindrical tube with a large glass lense at one
+end, and a small hole for viewing at the other.  
+~
+D0
+~
+~
+0 0 388
+D5
+~
+~
+0 0 383
+S
+#388
+A Small Ledge Around the Observatory~
+A small railing runs around the ledge to keep people from falling over
+the side.  There is a pair of small viewing glasses resting on the ledge. 
+At the west end of the ledge is another door.  
+~
+0 1056769 1
+E
+viewing glasses small~
+Looking through the glasses you see...  Whoops!!!  
+~
+D2
+~
+~
+0 0 387
+D3
+~
+~
+1 364 389
+S
+#389
+A Storage Room~
+The room is cluttered with all types of astronomical equipment.  Large
+pieces of curved glass lean against the walls.  Light comes in through one
+window in the north wall.  
+~
+0 1310721 0
+E
+glass curved~
+They look like giant eyeglass lenses, they must be for the telescope.  
+~
+D1
+~
+~
+1 364 388
+S
+#390
+Up the Castle Wall~
+The trellis is sturdy, and you are protected from inquiring eyes by the
+thick large leaves of the vine twisting through the trellis matrix.  Looking
+below you, you can see the castle entrance and people wandering along the
+path, blissfully unaware of your intrusion.  There is a balcony to the east.
+~
+0 0 4
+D1
+~
+~
+0 0 381
+D5
+~
+~
+7 0 351
+S
+#391
+unused~
+~
+0 4 4
+S
+#392
+unused~
+~
+0 4 0
+S
+#0
+
+
+
+#RAFFECTS
+#0
+
+
+#SPECIALS
+M 351 spec_breath_lightning Load to: Palatine
+M 352 spec_cast_mage Load to: Caelian
+M 353 spec_breath_frost Load to: Auroris
+M 354 spec_cast_undead Load to: Lord Crondor
+M 359 spec_breath_fire Load to: Crystalis, the dragon
+S
+
+
+
+#RESETS
+D 0 351 1 2
+D 0 351 4 0
+D 0 352 3 2
+D 0 353 0 2
+D 0 354 2 2
+D 0 362 1 0
+D 0 368 3 0
+D 0 369 1 0
+D 0 373 1 0
+D 0 374 3 0
+D 0 375 3 0
+D 0 376 0 0
+D 0 377 2 0
+D 0 381 0 2
+D 0 382 2 2
+D 0 384 3 0
+D 0 385 1 0
+D 0 385 5 0
+D 0 386 4 0
+D 0 388 3 1
+D 0 389 1 1
+D 0 390 5 0
+M 0 357 2 351
+E 0 375 0 5
+E 0 376 0 16
+M 0 370 2 351
+E 0 383 0 5
+G 0 363 0
+M 0 371 1 352
+M 0 370 2 352
+G 0 392 0
+E 0 383 0 5
+M 0 351 1 354
+E 0 380 0 16
+E 0 379 0 27
+E 0 351 0 9
+M 0 352 1 355
+E 0 381 0 5
+E 0 382 0 16
+M 0 353 1 356
+O 0 373 0 356
+M 0 354 1 357
+E 0 394 0 6
+E 0 378 0 16
+E 0 377 0 5
+E 0 355 0 12
+O 0 393 0 357
+E 0 357 0 8
+O 0 352 0 357
+P 0 356 0 352
+M 0 359 1 358
+O 0 371 0 359
+O 0 374 0 360
+M 0 360 6 363
+M 0 360 1 363
+M 0 360 1 364
+M 0 361 4 365
+M 0 362 1 365
+E 0 366 0 5
+E 0 367 0 11
+E 0 368 0 16
+M 0 361 4 368
+M 0 363 2 373
+M 0 360 6 374
+M 0 360 4 374
+M 0 364 1 376
+G 0 370 0
+G 0 369 0
+M 0 369 1 377
+E 0 395 0 27
+M 0 360 6 380
+M 0 360 1 380
+M 0 371 1 382
+M 0 355 1 382
+E 0 388 0 5
+G 0 389 0
+E 0 354 0 6
+O 0 372 0 382
+P 0 390 0 372
+M 0 365 1 384
+E 0 387 0 16
+E 0 386 0 5
+G 0 385 0
+M 0 356 1 384
+G 0 358 0
+G 0 359 0
+G 0 360 0
+G 0 361 0
+O 0 391 0 385
+O 0 362 0 386
+M 0 358 1 387
+E 0 364 0 17
+O 0 365 0 389
+S
+
+
+
+#SHOPS
+356 8 26 10 0 9 100 75 0 20
+364 8 9 4 0 0 100 50 0 13
+0
+
+
+
+#$
