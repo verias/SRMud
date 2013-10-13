@@ -267,8 +267,7 @@ void do_embrace( CHAR_DATA *ch, char *argument )
 		return;
 	}
 
-    if ( ( victim = get_char_world( ch, buf ) ) == NULL
-		&& victim->in_room != ch->in_room)
+	if ( ( victim = get_char_room(ch, NULL, buf)) == NULL)
     {
 		send_to_char( "They aren't here.\n\r", ch );
 		return;
@@ -607,8 +606,7 @@ void do_soulsight( CHAR_DATA *ch, char *argument)
 		return;
 	}
 
-    if ( ( victim = get_char_world( ch, buf ) ) == NULL 
-		&& victim->in_room != ch->in_room)
+	if ( ( victim = get_char_room(ch, NULL, buf)) == NULL)
     {
 		send_to_char( "They aren't here.\n\r", ch );
 		return;
