@@ -2876,21 +2876,21 @@ void do_owhere(CHAR_DATA *ch, char *argument )
  
         found = TRUE;
         number++;
- 
-        for ( in_obj = obj; in_obj->in_obj != NULL; in_obj = in_obj->in_obj )
+		
+		for ( in_obj = obj; in_obj->in_obj != NULL; in_obj = in_obj->in_obj )
             ;
  
         if ( in_obj->carried_by != NULL && can_see(ch,in_obj->carried_by)
 	&&   in_obj->carried_by->in_room != NULL)
-            sprintf( buf, "%3d) %s is carried by %s [Room %d]\n\r",
-                number, obj->short_descr,PERS(in_obj->carried_by, ch),
+            sprintf( buf, "%3d) Lv: %3d %s is carried by %s [Room %d]\n\r",
+                number, obj->level, obj->short_descr,PERS(in_obj->carried_by, ch),
 		in_obj->carried_by->in_room->vnum );
         else if (in_obj->in_room != NULL && can_see_room(ch,in_obj->in_room))
-            sprintf( buf, "%3d) %s is in %s [Room %d]\n\r",
-                number, obj->short_descr,in_obj->in_room->name, 
+            sprintf( buf, "%3d) Lv: %3d %s is in %s [Room %d]\n\r",
+			number, obj->level, obj->short_descr,in_obj->in_room->name, 
 	   	in_obj->in_room->vnum);
 	else
-            sprintf( buf, "%3d) %s is somewhere\n\r",number, obj->short_descr);
+		sprintf( buf, "%3d) Lv: %3d %s is somewhere\n\r",number, obj->level, obj->short_descr);
  
         buf[0] = UPPER(buf[0]);
         add_buf(buffer,buf);
