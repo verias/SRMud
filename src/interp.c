@@ -277,7 +277,7 @@ const	struct	cmd_type	cmd_table	[] =
 	{ "spousetalk", do_spousetalk, POS_SLEEPING,	1,	LOG_NEVER,  1},
 	{ "]",			do_spousetalk,	POS_SLEEPING,	1, LOG_NEVER,	1},
 	{ "consent",	  do_consent,	 POS_RESTING,	1,	LOG_NORMAL, 1},
-	{ "fullexit",	do_fullexit,	POS_RESTING,	1,  LOG_NORMAL, 1},
+	{ "fullexit",	do_fullexit,	POS_RESTING,	0,  LOG_NORMAL, 1},
 
 	/*
      * Combat commands.
