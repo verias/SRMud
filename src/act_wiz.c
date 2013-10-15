@@ -2154,6 +2154,54 @@ void do_rstat( CHAR_DATA *ch, char *argument )
 }
 
 
+void do_otype( CHAR_DATA *ch, char *argument )
+{
+    extern int top_obj_index;
+    char buf[MAX_STRING_LENGTH];
+    char arg[MAX_INPUT_LENGTH];
+    OBJ_INDEX_DATA *pObjIndex;
+    int vnum;
+    int nMatch;
+    bool fAll;
+    bool found;
+
+    one_argument( argument, arg );
+    if ( arg[0] == '\0' )
+    {
+	send_to_char( "Find what?\n\r", ch );
+	return;
+    }
+
+    fAll	= FALSE; /* !str_cmp( arg, "all" ); */
+    found	= FALSE;
+    nMatch	= 0;
+
+    /*
+     * Yeah, so iterating over all vnum's takes 10,000 loops.
+     * Get_obj_index is fast, and I don't feel like threading another link.
+     * Do you?
+     * -- Furey
+     */
+    for ( vnum = 0; nMatch < top_obj_index; vnum++ )
+    {
+	if ( ( pObjIndex = get_obj_index( vnum ) ) != NULL )
+	{
+	    nMatch++;
+	    if ( fAll || !str_cmp(argument, item_name(pObjIndex->item_type)) )
+	    {
+		found = TRUE;
+		sprintf( buf, "[%5d] %s\n\r",
+		    pObjIndex->vnum, pObjIndex->short_descr );
+		send_to_char( buf, ch );
+	    }
+	}
+    }
+
+    if ( !found )
+	send_to_char( "No objects by that type.\n\r", ch );
+
+    return;
+}
 
 void do_ostat( CHAR_DATA *ch, char *argument )
 {

@@ -418,6 +418,7 @@ const	struct	cmd_type	cmd_table	[] =
 	{ "rescind",	do_rescind,	POS_STANDING, 0, LOG_NORMAL, 1 },
 	{ "exalt",		do_exalt,	POS_STANDING, 0, LOG_NORMAL, 1 },
 	{ "orgedit",	do_orgedit,	POS_DEAD, IM, LOG_NORMAL, 1 },
+	{ "otype",		do_otype,	POS_DEAD, IM, LOG_NORMAL, 1 },
 
     { "clone",		do_clone,	POS_DEAD,	L5,  LOG_ALWAYS, 1 },
 
